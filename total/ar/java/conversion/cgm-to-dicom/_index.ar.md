@@ -57,8 +57,8 @@ otherformats: EMZ PSD WMF WMZ TGA DICOM DXF SVGZ IMAGE JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **عارضات الصور الشعاعية المتكاملة في جافا**  
   عرض الرسومات الطبية المعتمدة على CGM مباشرة داخل عارضات DICOM المدعومة بجافا لتحسين تفسير التشخيص.
@@ -72,7 +72,8 @@ otherformats: EMZ PSD WMF WMZ TGA DICOM DXF SVGZ IMAGE JPEG2000 DICOM
 - **تحسين التصور التشخيصي**  
   تحسين سير العمل السريري من خلال تضمين بيانات CGM المحولة في دراسات الصور المتعددة الطرق.
 
-## ⚙️ سيناريوهات التلقائية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="## ⚙️ سيناريوهات التلقائية" %}}
 
 - **واجهات برمجة التطبيقات في جافا لمعالجة DICOM**  
   أتمتة أنابيب تحويل CGM إلى DICOM باستخدام مكتبات جافا لمعالجة الصور وإدارة البيانات الوصفية لـ DICOM.
@@ -85,7 +86,8 @@ otherformats: EMZ PSD WMF WMZ TGA DICOM DXF SVGZ IMAGE JPEG2000 DICOM
 
 - **سير العمل التشخيصي المدعوم بالذكاء الاصطناعي**  
   استخدام نماذج الذكاء الاصطناعي المدمجة في جافا لتحليل الصور DICOM المحولة للاعتراف بالأنماط واكتشاف الشوائب والتشخيص التنبؤي.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

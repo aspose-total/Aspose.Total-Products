@@ -47,21 +47,23 @@ otherformats: XLT SXC DIF ODS TXT XLSB TSV XLAM XLTX FODS MD EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى XLAM (إضافة Excel Macro-Enabled) يمكن تكامل الرسوم البيانية الناقلة إلى أدوات التحليل، مما يعزز التقارير التقنية ولوحات القيادة التفاعلية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **تضمين الرسوم البيانية الناقلة في تمديدات Excel** – تعزيز الماكروهات بالرسوم التوضيحية التقنية.
 - **الإبلاغ الديناميكي** – تحديث الرسوم البيانية تلقائيًا في جداول البيانات التي تدعم الماكروهات.
 - **لوحات القيادة التقنية** – توفير تصورات بيانات حية للمهندسين.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **مكتبات جافا-إكسل للجسور** – ربط تقديم CGM بماكروهات Excel.
 - **نصوص تقديم CGM في جداول بيانات** – أتمتة تحديث الرسوم البيانية في التقارير.
 - **منصات أتمتة Excel** – نشر حلول Excel التفاعلية والممكّنة بالرؤية.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

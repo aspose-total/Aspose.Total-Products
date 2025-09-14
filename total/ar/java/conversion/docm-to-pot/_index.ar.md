@@ -54,12 +54,12 @@ otherformats: POTX PPTX PPS POT PPSX PPSM POTM POWERPOINT PPT PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل ملفات DOCM (مستندات Word التي تحتوي على ماكرو) إلى ملفات POT (قوالب PowerPoint، الإصدار القديم)  
 
 تعتبر هذه الخطوة أساسية لتحويل محتوى Word الثقيل على النصوص إلى **قوالب عروض تقديمية موحدة** تظل متوافقة مع الإصدارات القديمة من Microsoft PowerPoint (97-2003). بينما تحتوي ملفات DOCM غالبًا على تقارير منظمة وجداول ومحتوى مهيأ، يضمن ملف POT إمكانية إعادة استخدام هذه البيانات كـ **قوالب قابلة لإعادة الاستخدام وموسومة بالعلامة التجارية** عبر بيئات العمل القديمة. يدعم هذا التحويل المؤسسات التي لا تزال تعتمد على حزم Office قديمة، كما يوفر وسيلة موثوقة لـ **ترحيل وأرشفة وتوحيد سير العمل في العروض التقديمية**.  
 
-## ✅ حالات الاستخدام الرئيسية  
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}  
 
 - **إنشاء قوالب عروض تقديمية موسومة بالعلامة التجارية**  
   تحويل محتوى قائم على Word إلى قوالب شركية تحافظ على التميز في العلامة التجارية.  
@@ -76,7 +76,7 @@ otherformats: POTX PPTX PPS POT PPSX PPSM POTM POWERPOINT PPT PPTM CSV DIF FODS 
 - **دعم المستخدمين الذين يستخدمون حزم Office قديمة**  
   تمكين فرق التدريب أو المكاتب الحكومية أو المؤسسات التي تستخدم برامج قديمة من البقاء متوافقة.  
 
-## ⚙️ سيناريوهات التشغيل التلقائي  
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}  
 
 - **محولات دفعية من DOCM إلى POT**  
   أتمتة تحويل مستندات Word بكميات كبيرة إلى قوالب PowerPoint قابلة لإعادة الاستخدام.  
@@ -92,7 +92,8 @@ otherformats: POTX PPTX PPS POT PPSX PPSM POTM POWERPOINT PPT PPTM CSV DIF FODS 
 
 - **أتمتة سير العمل تضمن تكامل قوالب POT في مكتبات الشركات**  
   توزيع القوالب المحولة تلقائيًا في مستودعات الشرائح المركزية.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

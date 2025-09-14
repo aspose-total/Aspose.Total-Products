@@ -61,10 +61,10 @@ otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX FODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل **DOCX** إلى **FODS (جدول بيانات ODF بتنسيق XML مسطح)** يدعم سير العمل المفتوح المصدر والقائم على المعايير. وهذا يضمن التوافق مع OpenOffice وينتج مجموعات بيانات قائمة على XML ودية للفروقات للامتثال ومراقبة الإصدارات.
 
-### ✅ حالات الاستخدام الرئيسية
+#{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - التشغيل المتعاقب مع **LibreOffice و OpenOffice**
 - **أرشفة بيانات DOCX** بتنسيق مفتوح
 - إنشاء **هياكل جداول بيانات قائمة على XML**
@@ -75,7 +75,8 @@ otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX FODS SXC
 - **أنابيب البيانات المبنية على XML**
 - **أنظمة تقارير FODS**
 - **سير العمل عبر منصات الحزم المكتبية**
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

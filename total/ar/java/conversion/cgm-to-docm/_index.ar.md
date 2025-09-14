@@ -42,10 +42,10 @@ otherformats: RTF WORDML ODT FLATOPC PS PCL MHTML DOTM OTT DOTX XAMLFLOW MARKDOW
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل الملفات **Computer Graphics Metafile (CGM)** إلى **DOCM (مستند Word ممكّن بالماكرو)** ذو قيمة عالية للمؤسسات التي تتطلب سير عمل تفاعلي وديناميكي وآلي. في **أنظمة التشغيل المستندة إلى Java**، يُمكن هذا التحويل من تضمين الرسوم التخطيطية التقنية والمخططات الهندسية والرسوم البيانية من CGM في تقارير ممكّنة بالماكرو. يدعم تنسيق DOCM الماكروهات VBA، مما يتيح الحسابات الآلية وتحديث البيانات والتقارير التفاعلية - مثالي لاحتياجات الوثائق الهندسية والصناعية والمؤسسية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **تقارير تقنية ديناميكية**  
   تضمين الرسوم التوضيحية القائمة على CGM في قوالب DOCM التي تحدّث تلقائيًا الرسوم البيانية والجداول ومحتوى التحليل.
@@ -69,7 +69,8 @@ otherformats: RTF WORDML ODT FLATOPC PS PCL MHTML DOTM OTT DOTX XAMLFLOW MARKDOW
 
 - **سيناريوات معالجة الدفعات**  
   تحويل وتجميع عدة ملفات CGM إلى تقارير DOCM ممكّنة بالماكرو من خلال أدوات الأتمتة الدفعية المعتمدة على Java.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,8 +30,8 @@ otherformats: WORDML MD DOCX DOTM SVG ODT PNG JPEG EPUB PDF PS TEXT GIF XPS OTT 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ حالات الاستخدام الرئيسية  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}  
 
 - **الأرشفة الرقمية** → تخزين الرسائل البريدية الهامة كملفات صور عالية الجودة.  
 - **القانون والامتثال** → استخدام BMP لسجلات الأدلة غير المعدلة والمثالية بالبكسل.  
@@ -40,14 +40,15 @@ otherformats: WORDML MD DOCX DOTM SVG ODT PNG JPEG EPUB PDF PS TEXT GIF XPS OTT 
 - **التخزين على المدى الطويل** → الحفاظ على الجودة الأصلية لأرشيفات الاتصال الحساسة.  
 
 
-## ⚙️ سيناريوهات التشغيل التلقائي  
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}  
 
 - **أنابيب تحويل الدُفعات من EMLX إلى BMP** → تحويل مجموعات كبيرة من ملفات Apple Mail إلى BMP للأرشفة.  
 - **معالجة البريد الإلكتروني الجنائي** → تحويل الرسائل البريدية تلقائيًا إلى BMP للأدلة المحكمية/القانونية.  
 - **أنظمة سجلات المؤسسات** → دمج EMLX إلى BMP في سير العمل المتوافقة.  
 - **التصميم والنشر التلقائي** → استخدام تحويل BMP لدمج المحتوى في الرسومات التقنية.  
 - **الأرشيف الآمن** → ضمان الحفاظ على رسائل البريد الإلكتروني في أعلى جودة لديها.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

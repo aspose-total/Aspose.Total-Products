@@ -54,23 +54,25 @@ otherformats: POTM PPSM POTX PPT PPTM PPSX POT POWERPOINT PPS PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOCX** إلى **PPT (عرض تقديمي تقليدي لـ PowerPoint)** يضمن التوافق مع الإصدارات القديمة من PowerPoint، مما يجعله أساسيًا لسير العمل التقليدية والمؤسساتية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - سير العمل التقليدي للشركات
 - عروض الحكومة والمؤسسات
 - محتوى التدريب للبرامج القديمة
 - مشاركة العروض مع التركيز على التوافق
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أنابيب عمل آلية لتحويل DOCX إلى PPT
 - دعم العروض لأنظمة التشغيل القديمة
 - تحويل المستند إلى عرض تقديمي للتوافق العكسي
 - أتمتة سير العمل عبر الإصدارات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

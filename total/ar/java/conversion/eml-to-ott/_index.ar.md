@@ -30,17 +30,18 @@ otherformats: DOTM EPUB TIFF DOT SVG EMF FLATOPC PS DOCM MD RTF PDF DOTX GIF WOR
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-<h2>حالات الاستخدام الرئيسية ✅</h2>
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - إنشاء قوالب وثائق من رسائل البريد الإلكتروني المنسقة.
 - أتمتة الفواتير، وقوالب الموارد البشرية، أو القوالب القانونية.
 - توحيد صيغ التواصل القائمة على البريد الإلكتروني.
 
-<h2>سيناريوهات الأتمتة ⚙️</h2>
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - إنشاء OTT تلقائيًا من رسائل البريد الإلكتروني التجارية.
 - تحويل EML بالجملة إلى قوالب قابلة لإعادة الاستخدام.
 - تكامل سير العمل مع حزم البرامج المكتبية مفتوحة المصدر.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -57,23 +57,25 @@ otherformats: EMZ TGA JPEG2000 IMAGE PSD WMZ SVGZ  WMF DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات CGM (Computer Graphics Metafile) إلى APNG (Animated Portable Network Graphics) يسمح بالحفاظ على الرسوم التخطيطية التفصيلية القائمة على الناقلات بينما يتم إضافة إمكانيات الرسوم المتحركة. تحظى APNGs بدعم واسع في المتصفحات الحديثة، مما يجعلها مثالية لأدوات تعليم المرضى وتطبيقات الهواتف المحمولة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تصورات تفاعلية لبيانات الإنسولين على لوحات تحكم تواجه المرضى.
 - رسوم بيانية متحركة لرسم توزيع الدواء في تطبيقات إدارة السكري.
 - تطبيقات الهواتف المحمولة التي تعرض التغير في نسبة الجلوكوز مع مرور الوقت.
 - وحدات تعليمية في الطب عن بُعد باستخدام رسوم APNG الديناميكية.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل دفعة في أنظمة مراقبة الوقت الحقيقي عن بُعد.
 - دمجها في أنابيب ETL لمنصات بيانات السكري.
 - استخدامها في ملخصات تفريغ المستشفى المتحركة التي تتم إنشاؤها تلقائيًا.
 - عملية التقديم المُحفزة لتطبيقات مدعومة بالذكاء الاصطناعي تفسر بيانات CGM.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

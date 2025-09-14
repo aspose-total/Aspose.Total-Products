@@ -59,21 +59,23 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى POTM (قالب بوربوينت ممكّن للماكرو) يمكّن الفرق التقنية من تضمين ميزات تفاعلية وحسابات آلية ورسوم بيانية ديناميكية في قوالب العروض التقديمية القابلة لإعادة الاستخدام. في أنظمة تعمل بلغة Java، يتيح ذلك الأتمتة القوية لتدريب الهندسة وجولات المحاكاة والتقارير الشركاتية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **محتوى تدريب تفاعلي** – عروض تقديمية مدعومة بالماكرو لتدريب الموظفين الجدد وتطوير المهارات.
 - **عروض تقديمية صديقة للأتمتة** – أتمتة إنشاء محتوى الشرائح المتكرر.
 - **قوالب الماكرو الهندسية** – إنشاء رسوم تقنية تحتوي على منطق ماكرو مضمن للتحديثات في الوقت الحقيقي.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **إنشاء شرائح POTM ممكّنة للماكرو باستخدام Java APIs**.
 - **بناة تقارير ديناميكية** – إنشاء قوالب جاهزة للماكرو تلقائيًا لأنواع مشاريع مختلفة.
 - **معالجون دفعة قوالب بوربوينت** – أتمتة توزيع قوالب الماكرو بمقياس كبير في الشركات.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

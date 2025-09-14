@@ -42,9 +42,9 @@ otherformats: POWERPOINT PPTX PPT WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">جرب تطبيقنا المجاني لتحويل CSV إلى PPTX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ الحالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 - إنشاء عروض مبيعات ديناميكية
 - تلقائي عروض المؤتمرات
 - إنشاء مقترحات جاهزة للعملاء
@@ -56,7 +56,8 @@ otherformats: POWERPOINT PPTX PPT WORD
 - التكامل مع خطوط الأنابيب للمحتوى التلقائي
 - معالجة سريعة لمجموعات بيانات كبيرة
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

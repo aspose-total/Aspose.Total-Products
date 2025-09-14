@@ -61,10 +61,10 @@ otherformats: XLSX TSV SXC XLSB XLTM XLT FODS EXCEL ODS XLTX DIF XLAM XLSM XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل DOTX (قالب Word) إلى XLTM (قالب Excel ممكّن للماكروهات) يمكّن المؤسسات من نشر أطر عمل ممكّنة للماكروهات قابلة لإعادة الاستخدام للتّلقين. وهذا يضمن سير عمل مكرّر وقابل للتوسّع في Excel عبر الإدارات.
 
-#### ✅ حالات الاستخدام الرئيسية
+##{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - قوالب تلقين الإدارات
 - أطر عمل للتّخطيط المالي مع ماكروهات
 - قوالب معالجة وتحويل البيانات
@@ -76,7 +76,8 @@ otherformats: XLSX TSV SXC XLSB XLTM XLT FODS EXCEL ODS XLTX DIF XLAM XLSM XLS
 - نشر القوالب الممكّنة للماكروهات
 - إنشاء Excel تلقائيًا من DOTX
 - قوالب سير عمل قابلة لإعادة الاستخدام للشركات
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,24 +54,26 @@ otherformats: PPTX PPS PPT PPSM POTX POWERPOINT PPTM POTM POT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTX** إلى **POTX (قالب بوربوينت للفتح والتبادل بين البرامج)** يضمن وجود قوالب قابلة للإعادة الاستخدام ومتوافقة مع السحابة، حديثة، ومتماشية مع أنظمة تصميم الشركات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - عروض الأعمال
 - محاضرات أكاديمية
 - تقديمات الشركات للموظفين الجدد
 - عروض التسويق
 - عروض العلامة التجارية الموحدة
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - خطوط الأنابيب لتحويل DOTX إلى POTX
 - أتمتة العروض المبنية على السحابة
 - مكتبات القوالب
 - توحيد شرائح العروض للشركات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

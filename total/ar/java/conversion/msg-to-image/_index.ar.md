@@ -30,11 +30,11 @@ otherformats: DOCM PDF TIFF PCL GIF DOT SVG MD IMAGE DOTM PS JPEG DOTX TEXT EPUB
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 <h2>تحويل MSG إلى صورة</h2>
 يوفر مرونة لحفظ رسائل البريد الإلكتروني في تنسيقات صور قياسية مختلفة مثل PNG، JPEG، BMP، أو TIFF لحالات استخدام مختلفة.
 
-### ✅ حالات الاستخدام الرئيسية
+#{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * إمكانية الوصول العالمية للصور الفورية للبريد الإلكتروني بدون عميل بريد إلكتروني.
 * دعم صور متعددة الصيغ لسير العمل الوثائقية.
@@ -46,7 +46,8 @@ otherformats: DOCM PDF TIFF PCL GIF DOT SVG MD IMAGE DOTM PS JPEG DOTX TEXT EPUB
 * خطوط إنتاج متعددة تحول MSG إلى أنواع صور متعددة.
 * أرشفة على مستوى المؤسسة حيث يتطلب تنسيقات صور مختلفة.
 * أنظمة النسخ الاحتياطي التلقائي التي تنشئ لقطات صورية لرسائل البريد الإلكتروني.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

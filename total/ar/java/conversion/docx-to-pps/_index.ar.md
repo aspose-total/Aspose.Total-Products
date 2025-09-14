@@ -54,24 +54,26 @@ otherformats: POTM PPTX POT PPS PPSM POWERPOINT POTX PPSX PPTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOCX** إلى **PPS (عرض بوربوينت)** يسمح بإنشاء عروض تقديمية جاهزة للتشغيل، مثالية للجماهير التي تتطلب محتوى مصقولًا ويعمل بشكل ذاتي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - عروض المؤتمرات
 - عروض العملاء
 - عروض مبيعات آلية
 - محاضرات تعليمية
 - اجتماعات المستثمرين
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - خطوط أنابيب العروض التقديمية التلقائية من DOCX إلى PPS
 - إنشاء عروض جاهزة للشركات
 - أتمتة عروض العملاء
 - سير العمل لعروض تعمل بشكل ذاتي
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

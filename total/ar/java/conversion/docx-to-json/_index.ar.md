@@ -49,7 +49,7 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 <h2>استخدامات رئيسية ✅</h2>
 - استخراج محتوى منظم لـ **واجهات برمجة التطبيقات (APIs)**  
@@ -58,13 +58,14 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 - دعم **أنابيب تعلم الآلة**  
 - تبادل البيانات في **تطبيقات المؤسسات**  
 
-<h2>سيناريوهات الأتمتة ⚙️</h2>
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **أنابيب API الضخمة لتحويل DOCX إلى JSON**  
 - **تقارير مستندة على JSON تلقائية**  
 - **أنظمة تحليل المستندات**  
 - **أنظمة التكامل مع الويب**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,20 +54,22 @@ otherformats: PPSX PPTM POWERPOINT PPT POTM POT PPS PPSM POTX PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ حالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - عروض تقارير متكررة
 - قوالب العروض المالية
 - إنشاء شرائح مدعومة بالماكرو
 - تقديمات التدريب والامتثال
 - الأتمتة على مستوى المؤسسة
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل DOTM إلى POTM مع تمكين الماكرو
 - أتمتة عروض PowerPoint
 - نشر الماكرو بناءً على سير العمل
 - خطوط إنتاج العروض التقديمية على مستوى المؤسسة
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

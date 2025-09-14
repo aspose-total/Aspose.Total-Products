@@ -61,21 +61,23 @@ otherformats: XLAM XLTX XLSX TSV XLT EXCEL ODS FODS SXC DIF XLTM XLS XLSM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ حالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تقارير مفتوحة المصدر
 - تحليل البيانات عبر المنصات
 - البحوث الأكاديمية
 - سير العمل للمستندات متعددة الأنظمة
 - الامتثال لمعايير ODF الخاصة بالاتحاد الأوروبي/الحكومة
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أنابيب DOTX-to-ODS
 - توليد ODS الآلي
 - سير العمل مع LibreOffice/Apache OpenOffice
 - أتمتة بيانات المؤسسات المفتوحة
 - أتمتة جداول البيانات عبر المنصات
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

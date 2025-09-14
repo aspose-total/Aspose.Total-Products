@@ -54,24 +54,26 @@ otherformats: PPTX POWERPOINT PPT PPSM POTM POTX PPTM PPSX POT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOT** إلى **POTM (قالب PowerPoint الذي يدعم التشغيل التلقائي للماكرو)** يسمح بإنشاء قوالب عروض تقديمية ديناميكية مع ماكروهات مضمنة، مثالية لأنظمة الشرائح التفاعلية والآلية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - عروض تقديمية للتدريب التلقائي
 - سير العمل الخاص بالشركات مع ماكروهات
 - عروض تقارير موحدة
 - مواد صفية تفاعلية
 - أنظمة شرائح الشركات الديناميكية
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل DOT إلى POTM مع ماكروهات
 - قوالب جاهزة للأتمتة في PowerPoint
 - أتمتة سير العمل الخاص بالشركات
 - إنشاء شرائح ممكّنة للماكرو من مستندات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -59,17 +59,19 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 - **عروض بيانات مدفوعة بالبيانات** – تحديث الرسوم البيانية تلقائيًا بناءً على مجموعات البيانات الحية.
 - **محاكاة تقنية مع الوظائف البرمجية** – التحكم في تشغيل المحاكاة داخل الشرائح.
 - **محتوى هندسي تفاعلي** – السماح بتعديل الرسوم التخطيطية في الوقت الحقيقي أثناء العروض.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **أدوات أتمتة الشرائح بلغة جافا** – إنشاء شرائح تحتوي على وظائف برمجية مباشرة من ملفات CGM.
 - **عروض شرائح بوظائف برمجية تم إنشاؤها بواسطة الذكاء الاصطناعي** – دمج الأتمتة مع محتوى تم إنشاؤه بواسطة الذكاء الاصطناعي للحصول على رؤى.
 - **أنابيب محتوى ديناميكية مستندة إلى القوالب** – إنشاء وتحديث قوالب العروض التقنية بشكل متنوع وبكفاءة.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

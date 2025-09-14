@@ -61,24 +61,26 @@ otherformats: TSV XLAM SXC XLT EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **XLT** يمكن أن يمكن إنشاء قوالب Excel قابلة لإعادة الاستخدام من قوالب Word التي تدعم التشغيل الماكرو لسير العمل القياسية وإعداد التقارير.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - قوالب الأعمال القياسية
 - قوالب تقارير المؤسسات
 - نماذج بيانات الحكومة
 - قوالب تقييم التعليم
 - قوالب التخطيط المالي
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - إنشاء قوالب متكررة من DOTM إلى XLT
 - أنابيب سير العمل القوالب للمؤسسات
 - مشاركة القوالب في السحابة
 - أتمتة القوالب من الماكرو إلى Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

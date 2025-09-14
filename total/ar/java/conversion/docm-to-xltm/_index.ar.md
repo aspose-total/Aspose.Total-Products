@@ -61,13 +61,13 @@ otherformats: XLTX XLSM XLSX TSV XLT ODS XLSB SXC XLTM FODS DIF XLAM XLS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 
 # تحويل DOCM إلى XLTM: قوالب معتمدة على الماكرو
 
 تحويل **DOCM** إلى **XLTM (قالب Excel معتمد على الماكرو)** يسمح للمؤسسات بإنشاء قوالب جداول بيانات معتمدة على الماكرو يمكن إعادة استخدامها من محتوى Word. تدعم هذه القوالب التلقائية، ونمذجة البيانات المالية، والتقارير، وتحسين سير العمل في المؤسسة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تلقين **سير العمل المتكررة**  
 - إنشاء **قوالب ماكرو جاهزة للشركات**  
 - نقل **منطق قائم على الماكرو** من DOCM إلى Excel  
@@ -79,7 +79,8 @@ otherformats: XLTX XLSM XLSX TSV XLT ODS XLSB SXC XLTM FODS DIF XLAM XLS EXCEL
 - **أنابيب توليد القوالب**  
 - **إدارة الماكرو في الشركات**  
 - **سير العمل التلقائي لقوالب Excel**  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

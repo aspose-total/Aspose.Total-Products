@@ -49,24 +49,25 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOT** إلى **JSON (JavaScript Object Notation)** يسمح لقوالب Word بأن تصبح مجموعات بيانات منظمة، جاهزة للواجهة البرمجية للتطبيقات الويب، والتشغيل السحابي، والتكامل في الشركات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تطبيقات الويب
 - التشغيل التلقائي القائم على البيانات
 - واجهات برمجة التطبيقات السحابية
 - تكامل البرامج في الشركات
 - إنشاء مجموعات بيانات منظمة
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - تشغيل التحويل من DOT إلى JSON تلقائيًا
 - سير العمل من القالب إلى واجهة برمجة التطبيقات
 - أنظمة تقارير جاهزة لـ JSON
 - تكامل بيانات الشركات السحابية الأصلية
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

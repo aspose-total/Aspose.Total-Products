@@ -61,25 +61,27 @@ otherformats: XLSM TSV XLSX SXC EXCEL XLAM XLSB XLT DIF FODS XLS XLTX XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **TSV (Tab-Separated Values)** يمكن أن يتيح تصدير البيانات المهيكلة من الوثيقة التي تحتوي على ماكرو، مما يجعله مثاليًا لاستيراد البيانات إلى قواعد البيانات، ودمج أنظمة متقادمة، وتقارير جدولية قابلة للتوسيع.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - استخراج البيانات بالجملة من القوالب التي تحتوي على ماكرو  
 - أنابيب استيراد/تصدير البيانات إلى/من قواعد البيانات  
 - تقارير هيكلية جاهزة للشركات  
 - دمج أنظمة متقادمة  
 - تبسيط التحويلات الجدولية  
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أتمتة تصدير البيانات من DOTM إلى TSV  
 - أنابيب تقارير تعتمد على الماكرو  
 - سير العمل المهيكل للتحويل الجدولي  
 - مشاركة البيانات للشركات  
 - تصدير سير العمل القابل للتوسيع
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

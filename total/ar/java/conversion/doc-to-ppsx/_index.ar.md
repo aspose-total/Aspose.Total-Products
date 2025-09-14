@@ -54,20 +54,22 @@ otherformats: POWERPOINT PPS PPTM PPT PPSM POTM PPTX POT POTX PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>حالات الاستخدام الرئيسية ✅</h2>
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - عروض تقديمية تعمل ذاتيًا للفعاليات والأجهزة الذاتية  
 - إعلانات وإيجازات شركات آلية  
 - شرائح المحاضرات التي تم إنشاؤها من محتوى أكاديمي مكتوب  
 - عروض تسويقية من كتيبات ترويجية  
 
-<h2>سيناريوهات الأتمتة ⚙️</h2>
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - معالجة دفعية من DOC إلى PPSX لتحويلات كبيرة  
 - تخصيص عروض الشرائح بناءً على XML للتمييز  
 - أتمتة الاتصالات الشركاتية للتحديثات الدورية  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

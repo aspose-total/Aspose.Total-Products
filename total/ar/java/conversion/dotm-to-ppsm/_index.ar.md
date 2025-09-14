@@ -54,11 +54,11 @@ otherformats: POTM PPSM POT PPTM PPT PPS PPTX PPSX POWERPOINT POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **PPSM (عرض بوربوينت مع ماكرو ممكّن)** يمكّن العروض التفاعلية مع الماكرو المضمنة، مثالي للعروض المبيعية التلقائية، لوحات المعلومات المالية، وتقارير الشركات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - عروض المبيعات التلقائية
 - لوحات المعلومات المالية
 - عروض تدريبية ومحاكاة
@@ -71,7 +71,8 @@ otherformats: POTM PPSM POT PPTM PPT PPS PPTX PPSX POWERPOINT POTX CSV DIF FODS 
 - تأتير تلقائي للعروض التفاعلية
 - سير العمل مع الماكرو للشركات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

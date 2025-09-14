@@ -61,25 +61,27 @@ otherformats: SXC ODS TSV XLSB XLTX XLS FODS XLSM XLTM XLT XLSX EXCEL DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات **DOCM** إلى **SXC (جدول بيانات StarOffice Calc)** أمر أساسي للمؤسسات التي تحتاج إلى الحفاظ على التوافق مع منصات OpenOffice و StarOffice القديمة. من خلال تحويل جداول Word التي تحتوي على تفعيل للماكرو إلى جداول بيانات SXC، يمكن للشركات والجهات الحكومية ضمان إمكانية الوصول على المدى الطويل، والتوافق مع الإصدارات السابقة، والامتثال لمتطلبات الأرشفة أو التنظيمية. يحافظ هذا العملية أيضًا على بيانات الجداول المنظمة للبيئات المحدودة أو القديمة التي لا تزال تعتمد على تنسيقات SXC.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - دعم الأرشيفات الحكومية أو الشركات التي تتطلب **SXC** للامتثال  
 - ترحيل جداول Word إلى **منصات مصدر مفتوح قديمة** مثل StarOffice  
 - ضمان **التوافق مع الإصدارات السابقة** في بيئات المكاتب القديمة  
 - إعداد **بيانات منظمة** للأنظمة المحدودة أو غير المتصلة بالإنترنت  
 - **الحفاظ على المدى الطويل** في معايير مفتوحة للسجلات المؤسسية  
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **محولات دفعية من DOCM إلى SXC** لتحويل المستندات بكميات كبيرة  
 - **تصديرات آلية** لمستودعات التنظيم أو الأرشيف  
 - **أنظمة هجرة المؤسسات** تحويل بيانات Word إلى تنسيقات SXC القديمة  
 - **أنابيب العمل المدفوعة بالامتثال** لضمان إخراجات متوافقة مع StarOffice  
 - **تحويل مستند إلى جدول بيانات آلي** للتطبيقات القديمة  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

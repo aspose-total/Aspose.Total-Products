@@ -42,22 +42,24 @@ otherformats: WORDX WORD PPTX POWERPOINT
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">جرب تطبيقنا المجاني لتحويل CSV إلى WORD</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **CSV** إلى **WORD (مستند Microsoft Word)** ضروري لتحويل البيانات الخام غير المنسقة إلى مستندات مصقولة واحترافية جاهزة للعرض أو النشر أو تسليم العملاء. يجعل هذا التحويل من السهل تضمين المعلومات المنظمة ضمن تخطيطات مُنسّقة، ورؤوس، وجداول لقراءة أقصى قدر.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - إنشاء تقارير تجارية مباشرة من مجموعات بيانات CSV
 - إنشاء مقترحات وعقود منظمة من البيانات المهيكلة
 - إنتاج مستندات جاهزة للعميل بتنسيق العلامة التجارية
 - إعداد محتوى جاهز للنشر للاستخدام الرقمي أو الطباعي
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - استخدام أدوات تحويل دفعة CSV إلى WORD لإنشاء مستندات بكميات كبيرة
 - تطبيق تنسيق المستندات بواسطة Java لتعبئة القوالب الديناميكية
 - دمجها مع خطوط الأنابيب للإبلاغ التلقائي لجداول الكلمات المجدولة
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

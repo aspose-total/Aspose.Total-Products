@@ -61,22 +61,24 @@ otherformats: XLT SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOC** إلى **XLT (Excel Template)** يمكن أن يمكن إنشاء قوالب جداول بيانات قابلة لإعادة الاستخدام من محتوى Word. يدعم توحيد عمليات الأعمال القياسية ونماذج النماذج وتخطيطات التقارير.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - توحيد قوالب التقارير الشركية
 - إنشاء قوالب مملأة مسبقًا لسير العمل المتكررة
 - تحويل النماذج إلى قوالب جداول بيانات منظمة
 - الاتساق في تقارير الإدارة على مستوى الإدارة
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أدوات إنشاء قوالب DOC-to-XLT
 - تعيين الوثائق إلى القوالب تلقائيًا
 - سير العمل المركزي لإنشاء القوالب
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

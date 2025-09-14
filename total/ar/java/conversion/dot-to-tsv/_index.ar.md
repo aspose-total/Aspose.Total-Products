@@ -61,11 +61,11 @@ otherformats: XLTX XLS XLAM EXCEL TSV XLT XLSB ODS XLTM SXC XLSX XLSM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOT** إلى **TSV (قيم مفصولة بواسطة علامة التبويب)** يمكن أن يمكن استخراج البيانات الجدولية من قوالب Word بشكل منظم إلى تنسيقات خفيفة الوزن ومناسبة لتحليل البيانات وسير العمل في قواعد البيانات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - هجرة البيانات إلى جداول بيانات
 - الاستيراد/التصدير في تطبيقات المؤسسات
 - تقارير جدولية موحدة
@@ -76,7 +76,8 @@ otherformats: XLTX XLS XLAM EXCEL TSV XLT XLSB ODS XLTM SXC XLSX XLSM FODS DIF
 - إنشاء TSV جاهزة لسير العمل
 - توحيد البيانات في المؤسسات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

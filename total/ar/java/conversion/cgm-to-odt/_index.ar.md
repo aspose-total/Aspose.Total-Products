@@ -42,25 +42,27 @@ otherformats: WORDML PCL MHTML MARKDOWN DOTM XAMLFLOW DOTX FLATOPC PS DOT RTF OT
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات CGM (Computer Graphics Metafile) إلى ODT (OpenDocument Text) يوفر وسيلة عملية لتضمين رسومات ناقلة دقيقة في مستندات بتنسيق مفتوح. يضمن ذلك جودة عالية للرسوم البصرية في الدلائل التقنية وتقارير الهندسة والمستندات الأرشيفية، كل ذلك مع الحفاظ على التوافق مع أدوات التحرير مفتوحة المصدر.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - نشر المستندات التقنية مع رسومات ناقلة مضمنة.
 - إنشاء دلائل صيانة مع رسوم توضيحية قابلة للتوسيع.
 - أرشفة الرسوم البيانية القياسية في صيغة مفتوحة.
 - إعداد وثائق الحكومة والمؤسسات.
 - تنسيق ورقة علمية برسوم بناءً على الناقلات.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - محركات إنشاء المستندات بناءً على Java للكتابة التقنية.
 - سير العمل لمحررات النصوص مفتوحة المصدر مع تكامل الناقلات.
 - أنظمة النشر الآلي للدلائل التقنية.
 - أنظمة تقارير المؤسسات مع تضمين الرسوم البيانية.
 - مستودعات الوثائق ذات التحكم في الإصدارات.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

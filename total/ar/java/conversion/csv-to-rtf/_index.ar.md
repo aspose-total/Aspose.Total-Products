@@ -42,11 +42,11 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">جرب تطبيقنا المجاني لتحويل CSV إلى RTF</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **CSV** إلى **RTF (تنسيق النص الغني)** يسمح بتحويل مجموعات البيانات المنظمة إلى مستندات مصممة بشكل بصري، تعمل عبر الأنظمة المختلفة. هذه العملية حاسمة لإنشاء تقارير قابلة للوصول عالميًا، وفواتير، وأرشيفات تحتفظ بكل من سلامة البيانات واتساق التنسيق عبر أنظمة التشغيل والتطبيقات المختلفة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - إنشاء تقارير تجارية قابلة للقراءة عالميًا من مجموعات بيانات CSV الخام
 - إنشاء فواتير قابلة للنقل بتنسيق نص غني
 - إعداد ملفات نصية مصممة لتبادل المستندات بشكل آمن
@@ -58,7 +58,8 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 - تطبيق محركات تنسيق القوالب القائمة على Java للمستندات العلامية
 - دمج إنتاج RTF التلقائي في سير العمل الشركات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

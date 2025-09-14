@@ -57,8 +57,8 @@ otherformats: SVGZ WMF PSD EMZ WMZ TGA JPEG2000 IMAGE DXF  DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **تضمين الوثائق**  
   قم بإدراج رسومات EMZ المشتقة من CGM المضغوطة في ملفات Word وPowerPoint وغيرها من ملفات Office.
@@ -69,7 +69,7 @@ otherformats: SVGZ WMF PSD EMZ WMZ TGA JPEG2000 IMAGE DXF  DICOM
 - **تغليف الصور المتوافقة مع Office**  
   قم بتحويل CGM إلى EMZ لضمان التكامل السلس في سير العمل في Office دون الحاجة لضبط الصور يدويًا.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 
 - **واجهات برمجة التطبيقات في Java لضغط الصور**  
   قم بتلقين تحويل CGM إلى EMZ باستخدام مكتبات Java التي تدعم ضغط WMF/EMF وتحسين الرسومات الناقلة.
@@ -79,7 +79,8 @@ otherformats: SVGZ WMF PSD EMZ WMZ TGA JPEG2000 IMAGE DXF  DICOM
 
 - **معالجة ملفات التعريف الرسومية لنظام التشغيل Windows**  
   استخدم أدوات Java لمعالجة ضغط EMF-to-EMZ للتوافق في تطبيقات متعددة المنصات.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,12 +30,12 @@ otherformats: EMF PDF DOC PCL DOTX DOCM FLATOPC DOTM OTT PNG JPEG DOT PS RTF DOC
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى **رسوميات ناقلة قابلة للتوسيع (SVG)** يضمن أن التمثيل البصري لا يعتمد على الدقة ومناسب لتضمينه في التطبيقات الحديثة. باستخدام واجهة برمجة تطبيقات البريد الإلكتروني في جافا، يمكن الحفاظ على الرسوم البيانية للبريد الإلكتروني بتنسيقات جاهزة للويب.
 
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **نشر الويب**: تضمين رسوميات البريد الإلكتروني مباشرة في مواقع الويب أو المدونات.
 - **إثبات التصميم**: مشاركة لقطات مستندة إلى الناقل لتخطيطات البريد الإلكتروني.
@@ -44,7 +44,8 @@ otherformats: EMF PDF DOC PCL DOTX DOCM FLATOPC DOTM OTT PNG JPEG DOT PS RTF DOC
 - **التحقيقات الرقمية**: الحفاظ على وفاء بصري لأدلة البريد الإلكتروني المشبوه.
 
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 - **التكامل مع الويب**: تصدير النشرات الإخبارية تلقائيًا إلى SVG لإعادة الاستخدام على الويب.
 - **أنابيب التصميم**: توفير لمصممين لقطات SVG لتخطيطات البريد الإلكتروني.
@@ -52,7 +53,8 @@ otherformats: EMF PDF DOC PCL DOTX DOCM FLATOPC DOTM OTT PNG JPEG DOT PS RTF DOC
 - **قاعدة المعرفة**: نشر رسائل البريد الإلكتروني ذات الصلة بالتدريب بتنسيق SVG على الإنترنت.
 - **تصدير دفعي**: تحويل اتصالات متعددة إلى SVG للأرشيف.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

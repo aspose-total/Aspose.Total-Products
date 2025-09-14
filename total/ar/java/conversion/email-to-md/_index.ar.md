@@ -30,12 +30,12 @@ otherformats: PDF OTT DOTX TIFF DOTM XPS TEXT SVG MD EMF ODT DOCX GIF PCL DOT DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى **Markdown (MD)** يوفر تنسيقًا خفيفًا قائمًا على النص يستخدم على نطاق واسع في سير العمل للمطورين وأنظمة الوثائق والمواقع الثابتة. باستخدام واجهة برمجة تطبيقات Java للبريد الإلكتروني، يمكن تحويل الرسائل الإلكترونية بسهولة إلى Markdown لمراقبة الإصدارات والنشر.
 
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **وثائق المطورين**: قم بتخزين الرسائل التقنية أو الدعم كـ MD لويكي GitHub/GitLab.
 - **نشر المواقع الثابتة**: قم بنشر النشرات الإخبارية أو الإعلانات مباشرة على مواقع Jekyll/Hugo.
@@ -52,7 +52,8 @@ otherformats: PDF OTT DOTX TIFF DOTM XPS TEXT SVG MD EMF ODT DOCX GIF PCL DOT DO
 - **تحديثات المواقع الثابتة**: قم بنشر النشرات الإخبارية تلقائيًا على المواقع الثابتة.
 - **تحويل دفعي**: قم بتحويل الاتصالات بشكل جماعي إلى MD لمستودعات مركزية.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

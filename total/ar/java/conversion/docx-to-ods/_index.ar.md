@@ -61,11 +61,11 @@ otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC ODS DIF XLSX XLS TSV XLTM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOCX** إلى **ODS (جدول بيانات OpenDocument)** يمكن أن يضمن معالجة جداول البيانات بمعايير مفتوحة، مما يضمن التوافق على المدى الطويل، وقابلية التشغيل المتبادل، والامتثال لحالات الاستخدام في المجال التجاري، الحكومي، والأكاديمي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - استخراج جداول DOCX إلى **ODS**  
 - التوافق مع **Apache OpenOffice**  
 - تنسيقات **تقارير متوافقة مع المعايير الحكومية**  
@@ -77,7 +77,8 @@ otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC ODS DIF XLSX XLS TSV XLTM XLTX
 - **إنشاء مجموعات بيانات ODS تلقائيًا**  
 - **هجرة البيانات بالجملة إلى جداول بيانات معايير مفتوحة**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

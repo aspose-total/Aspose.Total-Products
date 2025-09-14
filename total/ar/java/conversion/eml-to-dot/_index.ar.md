@@ -30,8 +30,8 @@ otherformats: PDF DOTX SVG RTF ODT DOC FLATOPC DOT WORDML DOCM XPS PS DOTM PNG T
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 * إنشاء قوالب قياسية من تواصل العملاء
 * تحويل رسائل البريد الإلكتروني المتكررة إلى تخطيطات وثائق مُعدة مسبقًا
@@ -44,7 +44,8 @@ otherformats: PDF DOTX SVG RTF ODT DOC FLATOPC DOT WORDML DOCM XPS PS DOTM PNG T
 * أنظمة تقارير معتمدة على القوالب
 * تنسيقات تواصل المشروع الموحدة
 * أنابيب البريد الإلكتروني إلى القوالب لسير العمل في المؤسسات
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

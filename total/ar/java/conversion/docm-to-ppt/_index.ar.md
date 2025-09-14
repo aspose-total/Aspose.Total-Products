@@ -54,8 +54,8 @@ otherformats: PPSX PPTX POT POTM POTX PPTM PPSM PPS PPT POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الرئيسية للاستخدام  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الرئيسية للاستخدام" %}}  
 
 - **دعم بيئات العمل القديمة**  
   تقديم عروض شرائح للمستخدمين الذين يستخدمون برامج قديمة.  
@@ -74,7 +74,8 @@ otherformats: PPSX PPTX POT POTM POTX PPTM PPSM PPS PPT POWERPOINT CSV DIF FODS 
 
 
 
-## ⚙️ سيناريوهات الأتمتة  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}  
 
 - **سير العمل لتحويل DOCM إلى PPT للتوافق مع الإصدارات القديمة**  
   أتمتة إنتاج شرائح PPT للأنظمة القديمة.  
@@ -90,7 +91,8 @@ otherformats: PPSX PPTX POT POTM POTX PPTM PPSM PPS PPT POWERPOINT CSV DIF FODS 
 
 - **أنابيب الهجرة الشركاتية التي توحد DOCM في مخرجات PPT**  
   ضمان انتقال سلس من Word إلى صيغ PowerPoint القديمة.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

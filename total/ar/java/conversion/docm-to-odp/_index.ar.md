@@ -54,10 +54,10 @@ otherformats: PPT POTM POTX PPS POT PPSM PPTX POWERPOINT PPSX PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل المستندات **DOCM (مستندات Word التي تدعم الماكرو)** إلى **ODP (عرض OpenDocument)** ضروري لتحويل المستندات الثابتة والثقيلة في النصوص إلى **عروض شرائح مفتوحة المعايير** يمكن تحريرها وعرضها في LibreOffice Impress وأدوات أخرى متوافقة مع ODF. يمكن لهذا التحويل أن يمكّن المستخدمين من إعادة استخدام التقارير والنماذج والمحتوى المهيكل في Word في **عروض تقديمية جذابة بصريًا**، مع الحفاظ على إمكانية الوصول عبر المنصات المختلفة وتجنب القفل الخاص. يضمن ODP القابلية للاستخدام على المدى الطويل، مما يجعله مثاليًا للبيئات **الأكاديمية والحكومية والشركات** التي تعطي الأولوية للمعايير المفتوحة.  
 
-## ✅ حالات الاستخدام الرئيسية  
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}  
 
 - **تحويل التقارير إلى شرائح تقديمية**  
   قم بتحويل مستندات DOCM إلى عروض شرائح ODP للتدريب، واجتماعات العمل، أو المحاضرات الأكاديمية.  
@@ -74,7 +74,8 @@ otherformats: PPT POTM POTX PPS POT PPSM PPTX POWERPOINT PPSX PPTM CSV DIF FODS 
 - **تمكين الاستخدام الأكاديمي أو الحكومي للمعايير المفتوحة**  
   تلبية متطلبات الامتثال من خلال توزيع محتوى DOCM في تنسيق العروض المعتمد من ODF.  
 
-## ⚙️ سيناريوهات الأتمتة  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}  
 
 - **مُولدات تلقائية لتحويل DOCM إلى ODP**  
   قم بتحويل ملفات Word التي تدعم الماكرو تلقائيًا إلى عروض شرائح ODP قابلة للتحرير.  
@@ -90,7 +91,8 @@ otherformats: PPT POTM POTX PPS POT PPSM PPTX POWERPOINT PPSX PPTM CSV DIF FODS 
 
 - **أنابيب العمل الآلية لإعداد ODPs لبوابات النشر**  
   تبسيط تسليم المحتوى من خلال دمج تحويل DOCM إلى ODP في سير العمل للنشر.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

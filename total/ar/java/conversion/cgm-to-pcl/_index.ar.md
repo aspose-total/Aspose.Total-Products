@@ -42,21 +42,23 @@ otherformats: DOTX RTF WORDML OTT MARKDOWN MHTML PS DOTM ODT XAMLFLOW PCL FLATOP
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات CGM (Computer Graphics Metafile) إلى PCL (Printer Command Language) في سياقات العمل القائمة على Java أمر أساسي للصناعات التي تتطلب عمليات طباعة دقيقة وقابلة للتوسيع وفعالة. يتمتع PCL بدعم واسع من قبل الطابعات الصناعية، مما يجعله تنسيقًا مستهدفًا مثاليًا للرسوم الهندسية والوثائق التقنية وطباعة التقارير بمقياس كبير. باستخدام Java، يمكن للمطورين دمج تحويل CGM إلى PCL في الأنابيب الآلية، مما يتيح الحصول على جودة إخراج متسقة وتوافقًا مع بيئات الطباعة الشركات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **الطباعة الصناعية** – إرسال رسومات CAD أو تقنية معتمدة على CGM مباشرة إلى الطابعات السريعة المتوافقة مع PCL.
 - **وثائق الهندسة** – تحويل رسومات CGM التقنية إلى PCL لتوزيع تقارير الهندسة بشكل موحد.
 - **سيناريوهات العمل المباشرة إلى الطابعة** – القضاء على التعامل مع الملفات الوسيطة من خلال إنشاء ملفات PCL جاهزة للاستهلاك المباشر من الطابعة.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **أنابيب الطباعة في Java** – دمج تحويل CGM إلى PCL مع واجهة برمجة التطبيقات في Java للطباعة الدفعية الآلية.
 - **إنشاء تقارير الشركات** – دمج أدوات تقارير Java (مثل JasperReports) مع إخراج PCL لتوزيع الوثائق بحجم كبير.
 - **معالجون الطابعة الافتراضية** – استخدام خدمات Java لتحويل CGM إلى PCL ووضعها في أنظمة تخزين الطابعات الافتراضية أو المشتركة.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

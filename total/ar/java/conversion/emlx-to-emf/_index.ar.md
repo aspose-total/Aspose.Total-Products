@@ -30,22 +30,24 @@ otherformats: DOCX JPEG TIFF PDF DOCM TEXT RTF PNG DOT PCL SVG EPUB WORDML DOTM 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات EMLX (ملفات البريد الإلكتروني لتطبيق Apple Mail) إلى **EMF (تنسيق الملف المعزز للرسومات)** يسمح بتمثيل دقيق لتخطيطات البريد الإلكتروني بما في ذلك الخطوط، الصور، والتنسيقات، للاستخدام في تطبيقات تعمل بنظام Windows.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - أرشفة رسائل البريد الإلكتروني من Apple Mail كصور ناقلة قابلة للتوسيع.
 - الحفاظ على وفاء بصري للنشرات ورسائل الترويج.
 - دمج الرسائل الإلكترونية في تقارير ووثائق Windows.
 - ضمان إخراج جاهز للطباعة غير معتمد على الدقة.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل الأرشيفات الضخمة من EMLX إلى EMF للسجلات الرقمية.
 - أنابيب أتمتة لتخزين البريد الإلكتروني للأدلة القانونية/التزامات.
 - دمج سير العمل مع أنظمة الإبلاغ باستخدام الرسومات EMF.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

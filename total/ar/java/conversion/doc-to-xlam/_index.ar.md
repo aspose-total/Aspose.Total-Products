@@ -61,18 +61,20 @@ otherformats: XLSX XLTX EXCEL SXC XLT XLAM DIF TSV XLS ODS XLTM XLSM XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 - تضمين البرامج النصية المعتمدة على المستندات في إضافات Excel
 - أتمتة العمليات المكررة في جداول البيانات
 - إنشاء وظائف مخصصة في Excel
 - توزيع أدوات الأتمتة الخاصة بـ Excel على مستوى المؤسسة
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - سكربتات استخراج الماكرو من DOC إلى XLAM
 - تعبئة رموز VBA تلقائيًا في الإضافات
 - سيناريوهات نشر أتمتة Excel على نطاق واسع
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

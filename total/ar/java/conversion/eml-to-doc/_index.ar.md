@@ -30,10 +30,10 @@ otherformats: MD PCL PS JPEG TIFF RTF DOTX PNG DOC DOCM DOCX EPUB DOT WORDML EMF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل **EML إلى DOC** يحول رسائل البريد الإلكتروني إلى مستندات Microsoft Word قابلة للتحرير، مما يجعل من الأسهل إعادة استخدام وتحرير وتنسيق محتوى البريد الإلكتروني للإبلاغ أو التوثيق أو التعاون.
 
-### ✅ حالات الاستخدام الرئيسية
+#{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * أرشفة رسائل البريد الإلكتروني الهامة بتنسيق قابل للتحرير
 * إعداد تقارير احترافية من تواصل البريد الإلكتروني
@@ -46,7 +46,8 @@ otherformats: MD PCL PS JPEG TIFF RTF DOTX PNG DOC DOCM DOCX EPUB DOT WORDML EMF
 * أنابيب العمل الآلي لإنشاء تقارير تجارية من ملفات EML
 * التكامل مع أنظمة إدارة المستندات (DMS)
 * أتمتة سير العمل لتوثيق القانوني والامتثال
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

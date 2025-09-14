@@ -61,11 +61,11 @@ otherformats: XLTX SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOCX** إلى **XLTX (قالب Excel Open XML)** يضمن إنشاء قوالب Excel حديثة وقابلة لإعادة الاستخدام والتي تتوافق مع سير العمل السحابي وأنابيب الوثائق إلى القوالب المعيارية للشركات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - قوالب تقارير موحدة
 - سير العمل في Excel متوافق مع السحابة
 - تحويل الوثائق إلى قوالب جاهزة للشركات
@@ -78,7 +78,8 @@ otherformats: XLTX SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 - تحسين سير العمل للشركات
 - أنابيب الوثائق إلى القوالب
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

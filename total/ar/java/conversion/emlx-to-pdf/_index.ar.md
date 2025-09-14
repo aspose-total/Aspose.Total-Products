@@ -30,22 +30,24 @@ otherformats: SVG WORDML RTF XPS PCL DOTM ODT GIF DOCM FLATOPC EPUB TEXT DOC DOC
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات EMLX إلى **PDF (تنسيق المستندات المحمولة)** يضمن توحيد وحفظ محتوى البريد الإلكتروني لضمان إمكانية الوصول العالمية والأرشفة على المدى الطويل.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - الأرشفة القانونية والامتثال لرسائل البريد الإلكتروني من Apple Mail.
 - مشاركة آمنة للاتصالات الحساسة.
 - ضمان إمكانية الوصول عبر منصات متعددة لمحتوى البريد الإلكتروني.
 - إنشاء سجلات غير قابلة للتلاعب للاستخدام التجاري.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل صندوق البريد الوارد في Apple Mail تلقائيًا إلى أرشيف PDF.
 - إنشاء ملفات PDF بالدفعات من النشرات الإخبارية عبر البريد الإلكتروني.
 - التعامل مع الأدلة من البريد الإلكتروني إلى PDF في سياقات العمل القانوني.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

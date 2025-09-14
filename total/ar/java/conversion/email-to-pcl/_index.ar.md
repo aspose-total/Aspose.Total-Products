@@ -30,11 +30,11 @@ otherformats: TEXT DOCM XPS DOT ODT DOC PDF MD WORDML DOCX PCL JPEG EMF PNG OTT 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل رسائل البريد الإلكتروني إلى **لغة أوامر الطابعة (PCL)** يمكن أن يمكّن سير العمل المباشر للطباعة عبر أنظمة المؤسسات. باستخدام واجهة برمجة تطبيقات البريد الإلكتروني في جافا، يمكن للمؤسسات تحضير رسائل البريد الإلكتروني للطباعة بسرعة عالية وبشكل جماعي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **الطباعة في المؤسسات**: تحويل رسائل البريد الإلكتروني التجارية إلى PCL لاستهلاكها مباشرة بواسطة الطابعة.
 - **كشوفات البنوك**: توصيل الاتصالات المالية عبر البريد الإلكتروني في PCL للطباعة الجماعية.
@@ -42,7 +42,8 @@ otherformats: TEXT DOCM XPS DOT ODT DOC PDF MD WORDML DOCX PCL JPEG EMF PNG OTT 
 - **أتمتة غرف البريد**: إرسال رسائل البريد الواردة مباشرة إلى الطابعات على شكل PCL.
 - **نماذج الحكومة**: تحضير مراسلات المواطنين للتسليم الطباعي.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 - **خوادم الطباعة**: تحويل رسائل البريد الإلكتروني تلقائيًا إلى PCL لأنظمة الطباعة الموزعة.
 - **سير العمل عالي الحجم**: توسيع تحويل البريد الإلكتروني إلى الطباعة لأقسام الفوترة.
@@ -50,7 +51,8 @@ otherformats: TEXT DOCM XPS DOT ODT DOC PDF MD WORDML DOCX PCL JPEG EMF PNG OTT 
 - **أتمتة البنوك**: تصدير رسائل العمليات أو الكشوف إلى PCL للطباعة الجماعية.
 - **وظائف الطباعة الجماعية**: تحويل رسائل البريد الإلكتروني اليومية إلى ملفات PCL لمعالجة البيانات بشكل جماعي.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,24 +61,26 @@ otherformats: TSV XLAM SXC XLSX EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **XLSX** يضمن التوافق مع إكسل الحديث، ومشاركة البيانات في السحابة، وتمثيل البيانات المنظمة المستمدة من قوالب Word التي تدعم الماكرو.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - التخطيط المالي
 - تصور البيانات
 - تقارير متعددة المنصات
 - مجموعات بيانات البحوث الأكاديمية
 - سير العمل المتوافقة مع السحابة في إكسل
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - خطوط أنابيب DOTM-to-XLSX
 - تحويل السحابة بالدُفعات
 - أتمتة التقارير في الوقت الحقيقي
 - تحويل الماكرو إلى إكسل الحديث
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

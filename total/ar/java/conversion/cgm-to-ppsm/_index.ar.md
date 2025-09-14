@@ -59,21 +59,23 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى PPSM (عرض باوربوينت ممكّن من الماكرو) يدعم العروض التفاعلية الديناميكية التي تبدأ مباشرة في وضع العرض التقديمي. هذا مثالي للوحات القيادية التقنية، والمحاكاة الحية، والتقارير التفاعلية في سير العمل الذي يعتمد على جافا.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **لوحات القيادة البصرية الديناميكية** – تحديث الرسوم البيانية في الوقت الحقيقي أثناء العروض.
 - **العروض التقنية مع الماكروهات المدمجة** – تمكين استكشاف البيانات التفاعلي.
 - **عروض العرض التقديمي التلقائي** – عرض نتائج المحاكاة الحية دون الحاجة إلى إعداد يدوي.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **محركات عرض باوربوينت المعتمدة على جافا** – إنشاء وتقديم عروض تقديمية ممكّنة من الماكرو.
 - **التقارير التقنية التفاعلية** – تضمين الرسوم البيانية والحسابات التي تم إنشاؤها بواسطة جافا.
 - **تدفقات العروض التقديمية الذكية** – ربط ملفات PPSM المتعددة في نظام عرض توجيهي.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

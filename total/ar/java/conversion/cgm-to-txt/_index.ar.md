@@ -47,8 +47,8 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **تسجيل النصوص للمخططات**  
   تخزين معلومات مخططات CGM كنص عادي لأغراض التدقيق والتصحيح والأرشفة.
@@ -59,7 +59,7 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
 - **توثيق بيانات الهندسة الوصفية**  
   توثيق بيانات الهندسة ذات الصلة بـ CGM في ملفات TXT للرجوع السريع والتخزين الخفيف.
 
-## ⚙️ سيناريوهات التلقائية
+{{% blocks/products/pf/agp/feature-section-col title="## ⚙️ سيناريوهات التلقائية" %}}
 
 - **مكتبات Java I/O للتحويل**  
   استخدام واجهات برمجة التطبيقات القياسية في Java بالإضافة إلى محللات CGM لاستخراج وكتابة المحتوى في ملفات TXT.
@@ -72,7 +72,8 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
 
 - **مصدرات النص العادي في أنابيب ETL**  
   دمج تحليل CGM وتصدير TXT في سياق سير العمل القائم على Java لمعالجة البيانات المهيكلة.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

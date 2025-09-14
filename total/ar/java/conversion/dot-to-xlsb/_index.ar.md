@@ -61,24 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSB EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOT** إلى **XLSB (Excel Binary Workbook)** مثالي للتعامل مع مجموعات بيانات كبيرة بتخزين محسن ومعالجة أسرع، مما يجعله مناسبًا لتقارير مقياس الشركات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - مجموعات بيانات بمقياس الشركات
 - جداول بيانات متوافقة مع البيانات الكبيرة
 - سير العمل لتخزين محسن
 - نمذجة مالية
 - أتمتة سجلات بمقياس كبير
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل قالب DOT إلى XLSB
 - خطوط أنابيب Excel عالية الأداء
 - تقارير المؤسسات البيانية الكبيرة
 - سير العمل القابل للتوسيع من المستند إلى مجموعة بيانات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

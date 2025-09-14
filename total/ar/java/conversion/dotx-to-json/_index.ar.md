@@ -49,11 +49,11 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTX** إلى **JSON** يمكن تبادل البيانات المنظمة، ودمج واجهة برمجة التطبيقات، وسير العمل الحديثة على الويب، مما يجعل بيانات المستند قابلة للاستخدام في خدمات السحابة، وتطبيقات الويب، وأنابيب الذكاء الاصطناعي/تعلم الآلة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تصدير البيانات جاهزة لواجهة برمجة التطبيقات
 - دمج تطبيقات الويب
 - خدمات السحابة
@@ -67,7 +67,8 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 - تكامل أنظمة المؤسسات
 - التأتير الآلي لبحيرة البيانات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

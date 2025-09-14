@@ -47,11 +47,11 @@ otherformats: DIF XLTX MD FODS XLTM EXCEL XLSM XLAM XLT XLSB ODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات CGM (Computer Graphics Metafile) إلى CSV (Comma-Separated Values) في بيئات تعتمد على Java يسمح لفرق الهندسة والتصنيع وتحليل البيانات بتحويل البيانات الرسومية الناقلة إلى تنسيقات جدولية منظمة. يتيح ذلك استخراج السمات بسهولة وتحليل البيانات الوصفية والتكامل مع أنابيب تحليلات Java-driven. باستخدام مكتبات CSV في Java مثل **OpenCSV**, يمكن لسير العمل من CGM إلى CSV أتمتة معالجة كبيرة الحجم مع ضمان التوافق مع أدوات BI ومنصات التقارير.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - استخراج السمات من الرسوم التخطيطية CGM لوثائق مراقبة الجودة.
 - تحويل بيانات الوصف الخاصة بـ CGM إلى جداول CSV للتحليل الإحصائي.
 - تحليل البيانات الهندسية المنظمة لإعداد التقارير ولوحات المعلومات.
@@ -63,7 +63,8 @@ otherformats: DIF XLTX MD FODS XLTM EXCEL XLSM XLAM XLT XLSB ODS SXC
 - التكامل مع لوحات المعلومات BI التي تعتمد على Java للتحديثات في الوقت الحقيقي.
 - إنشاء CSV تلقائيًا للامتثال التأريشي والتنظيمي.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

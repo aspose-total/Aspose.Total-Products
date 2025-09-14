@@ -54,22 +54,24 @@ otherformats: POT PPS PPT PPTX PPSX PPTM POWERPOINT POTX PPSM POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOC** إلى **PPT (عرض تقديمي بوربوينت)** ضروري لتحويل المستندات النصية إلى شرائح قابلة للتحرير. يتيح ذلك سردًا بصريًا أفضل وتحريرًا تعاونيًا لمحتوى العرض.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تحويل ملاحظات الاجتماع إلى عروض شرائح
 - تقارير الشركات مع تحسينات بصرية
 - إعداد مواد تدريبية من المستندات القائمة على النص
 - إنشاء عروض تقديمية للمؤتمرات من التقارير
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أدوات تعيين الشرائح من DOC إلى PPT لتخطيطات منظمة
 - إنشاء تخطيطات بصرية تلقائية من النص
 - بناء عروض تقديمية دفعيًا لعدة مستندات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

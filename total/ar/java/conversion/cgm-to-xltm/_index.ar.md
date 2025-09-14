@@ -47,8 +47,8 @@ otherformats: XLTM TSV TXT XLT ODS EXCEL XLTX MD SXC XLSB DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ حالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - قوالب ممكّنة للماكرو لأتمتة عمليات الهندسة.
 - تقارير آلية مع حسابات متكاملة مع CGM.
 - سير العمل الذكي لفرق التصنيع والبحث والتطوير.
@@ -59,7 +59,8 @@ otherformats: XLTM TSV TXT XLT ODS EXCEL XLTX MD SXC XLSB DIF XLAM
 - إنشاء قوالب CGM-to-XLTM بالدُفعة لمشاريع مختلفة.
 - أنابيب تقارير ممكّنة بالماكرو بناءً على ETL.
 - ماكروهات تُشغّل بواسطة جافا لتقارير التشغيل الفعلية.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

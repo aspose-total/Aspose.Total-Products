@@ -30,11 +30,11 @@ otherformats: ODT EMF DOCM DOCX DOC PS FLATOPC GIF PDF DOT MD TIFF EPUB PCL TEXT
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى **PNG** يضمن صورًا عالية الجودة وخالية من الفقدان مناسبة للأرشيف الرقمي والتدريب وسير العمل الجنائي. باستخدام واجهة برمجة تطبيقات البريد الإلكتروني في جافا، يمكن للمؤسسات إنشاء لقطات دقيقة للبريد الإلكتروني بتنسيق PNG.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **الأرشفة عالية الدقة**: الحفاظ على التنسيق والتفاصيل مع الصور الخالية من الفقدان.
 - **الجنائيات**: تخزين رسائل البريد الإلكتروني المشبوهة أو الاحتيالية بتنسيق غير قابل للتلاعب.
@@ -50,7 +50,8 @@ otherformats: ODT EMF DOCM DOCX DOC PS FLATOPC GIF PDF DOT MD TIFF EPUB PCL TEXT
 - **تكامل الوثائق**: نشر رسائل البريد الإلكتروني بتنسيق PNG في دلائل المستخدمين أو الدليل.
 - **توزيع المحتوى**: إعادة استخدام النشرات الإخبارية في لقطات PNG لوسائل التواصل الاجتماعي.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

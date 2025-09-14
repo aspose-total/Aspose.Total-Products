@@ -42,8 +42,8 @@ otherformats: WORDML XAMLFLOW DOT OTT ODT RTF DOTM MHTML PCL PS FLATOPC DOTX
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **تقارير مستندة على رسوم هندسية**  
   دمج الرسوم الهندسية CGM في قوالب DOTX لتنسيقات تقريرية منظمة وقابلة للتكرار.
@@ -54,7 +54,8 @@ otherformats: WORDML XAMLFLOW DOT OTT ODT RTF DOTM MHTML PCL PS FLATOPC DOTX
 - **مكتبات المستندات المشتركة**  
   تخزين قوالب DOTX المحسنة بتقنية CGM في مستودعات مركزية لإعادة الاستخدام السهل عبر الفرق.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 - **واجهات برمجة التطبيقات في جافا لتحليل القوالب**  
   استخدام مكتبات مثل **docx4j**, **Aspose.Words for Java**, أو **Apache POI** لقراءة، تعديل، وملء قوالب DOTX برمجيًا.
@@ -67,7 +68,8 @@ otherformats: WORDML XAMLFLOW DOT OTT ODT RTF DOTM MHTML PCL PS FLATOPC DOTX
 
 - **أتمتة محتوى المؤسسة**  
   دمج تحويل CGM إلى DOTX في أنظمة إدارة المحتوى المدعومة بجافا للحصول على وثائق موحدة وقابلة للتوسع بمعايير.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,25 +30,26 @@ otherformats: MD PDF GIF EPUB SVG PNG ODT XPS OTT DOC TEXT DOCX DOTX RTF PS TIFF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **EML إلى DOCX** يجعل بيانات البريد الإلكتروني متاحة في تنسيق Microsoft Word الحديث والمستخدم على نطاق واسع للتحرير والتعاون والتخزين الرقمي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * تحويل الرسائل الإلكترونية إلى مستندات عمل قابلة لإعادة الاستخدام
 * مشاركة الاتصالات ذات الصلة بالمشروع بتنسيق Word
 * إنشاء تقارير مُنسَّقة من سلاسل البريد الإلكتروني
 * إعداد المستندات للعروض التقديمية أو الاجتماعات
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 
 * خطوط أنابيب البريد الإلكتروني إلى Word المُؤتمتة لتقارير المؤسسات
 * تحويل صناديق البريد بأكملها إلى DOCX للأرشفة
 * التكامل مع أنظمة CRM/ERP لإنشاء المستندات
 * أتمتة سير العمل لتوثيق المشروع
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -59,11 +59,11 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى PPT ضروري لإنتاج عروض تقديمية في بوربوينت قابلة للتحرير بالكامل مع رسوم بيانية عالية الجودة. يتيح هذا لمديري المشاريع والمهندسين والمسوقين إنشاء اتصالات بصرية مقنعة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **تحديثات هندسية في قاعة الاجتماعات** – تضمن رسومات فنية دقيقة للمراجعات الاستراتيجية.
 - **ملخصات فنية موضحة** – قم بدمج البيانات النصية مع الرسوم الهندسية.
 - **عروض مشاريع مع رسوم بيانية** – تواصل المعلومات المعقدة بفعالية.
@@ -73,7 +73,8 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 - **لوحات تحكم في تقارير المشاريع** – دمج إنشاء العروض التقديمية في سير العمل لتحديث الحالة.
 - **مصدرين لتصدير CGM إلى الشرائح** – تحويل دفعات من الرسوم البيانية إلى ملفات PPT جاهزة للشرائح.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

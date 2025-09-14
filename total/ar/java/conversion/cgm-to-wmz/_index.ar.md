@@ -57,21 +57,23 @@ otherformats: WMF WMZ SVGZ JPEG2000 EMZ DXF TGA IMAGE PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى WMZ (ملف Windows Metafile مضغوط) يحسن تخزين ونقل الرسومات البيانية الناقلة. هذا مفيد لتقليل أحجام الملفات في سير العمل الوثائقي للشركات مع الحفاظ على التوافق.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **نقل فعال للمحتوى الناقل** – تقليل استخدام عرض النطاق الترددي في أنظمة الوثائق.
 - **تغليف الوثائق المحسن** – تضمين WMZ داخل ملفات Office للنقل.
 - **أرشفة المحتوى** – تخزين الرسومات البيانية المضغوطة للوصول على المدى الطويل.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **واجهات برمجة تطبيقات ضغط ZIP بلغة Java** – أتمتة تحويل CGM إلى WMZ بشكل جماعي.
 - **أدوات تضمين الصور** – دمج الرسومات WMZ في حزم الوثائق المتعددة.
 - **خوادم إعداد الوثائق** – تبسيط سير العمل الخاص بالتحضير قبل النشر.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

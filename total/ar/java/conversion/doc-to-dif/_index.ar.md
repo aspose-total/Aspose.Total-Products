@@ -61,22 +61,24 @@ otherformats: EXCEL XLAM XLT XLTX XLTM FODS XLSX SXC XLSB DIF XLSM XLS ODS TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOC** إلى **DIF (تنسيق تبادل البيانات)** ضروري لتبادل بيانات الجداول المنظمة من مستندات Word مع تطبيقات جداول البيانات أو الإحصائية. يوفر طريقة عالمية وداعمة للتوافق مع الإرث لنقل المعلومات الجدولية مع الحفاظ على سلامة البيانات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تصدير نتائج الاستطلاع للتحليل الإحصائي
 - نقل البيانات إلى الأنظمة القديمة
 - إعداد محتوى الجداول لمعالجة الدفعات في جداول البيانات
 - أرشفة البيانات المنظمة في صيغ قابلة للتشغيل المشترك
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - محولات DOC-to-DIF لترحيل سلس
 - سير عمل تعيين البيانات التلقائي للكفاءة
 - أدوات استخراج الجداول القائمة على الماكرو للمهام المتكررة
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

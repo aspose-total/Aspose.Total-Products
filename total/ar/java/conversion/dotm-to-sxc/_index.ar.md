@@ -61,21 +61,22 @@ otherformats: FODS XLS EXCEL XLAM SXC XLT XLSM ODS XLTX XLSX XLSB DIF TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ حالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - التوافق مع البيانات التقليدية لسير العمل في جداول البيانات  
 - التكامل مع مكاتب البرمجيات مفتوحة المصدر  
 - أتمتة سير العمل من المستند إلى جدول بيانات  
 - الأرشفة في شكل SXC للشركات  
 - استخدام جداول البيانات على مستوى متعدد الأنظمة  
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - خطوط أنابيب تحويل الدفعات من DOTM إلى SXC  
 - أتمتة جداول البيانات مفتوحة المصدر  
 - هجرة النماذج الماكرو من المستند  
 - تبادل البيانات بين سير العمل  
 - تحويلات الأرشفة
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

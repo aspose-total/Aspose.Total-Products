@@ -30,23 +30,24 @@ otherformats: PS PDF MD EPUB TEXT DOTM IMAGE PCL TIFF FLATOPC SVG GIF PNG EMF RT
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **EML** إلى **تنسيقات صور عامة** (BMP، PNG، JPEG، TIFF، إلخ) يلتقط التمثيل البصري الكامل لبريد إلكتروني كصورة ثابتة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **عرض عالمي**: عرض محتوى البريد الإلكتروني دون الحاجة إلى عميل بريد إلكتروني.
 - **الأدلة الرقمية**: الحفاظ على نسخة دقيقة من البريد الإلكتروني لأغراض قانونية والامتثال.
 - **سهولة المشاركة**: إرسال رسائل البريد الإلكتروني كصور عبر رسائل فورية أو منصات اجتماعية.
 - **التدريب والوثائق**: إدراج صور بريد إلكتروني كاملة في الدلائل الخاصة بالمستخدم.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - **تصدير متعدد التنسيقات**: تحويل EML واحدة إلى عدة تنسيقات صور تلقائيًا.
 - **أنظمة التقاط البريد الإلكتروني**: تخزين جميع رسائل البريد الواردة كلقطات صور.
 - **سير العمل الجنائي**: توحيد تنسيقات الصور للتحقيقات.
 - **أنابيب الأرشفة**: أتمتة الحفظ على المدى الطويل في مكتبات الصور.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

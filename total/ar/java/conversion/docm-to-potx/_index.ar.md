@@ -54,11 +54,11 @@ otherformats: PPT PPSX PPTM POTM PPSM POT PPS POTX POWERPOINT PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOCM (مستندات Word التي تحتوي على ماكرو)** إلى **POTX (قوالب PowerPoint Open XML)** مهم لإنتاج **قوالب حديثة خالية من الماكرو** التي تتوافق مع Office 365 ومنصات التعاون القائمة على السحابة. تمكن POTX المؤسسات من **توحيد التخطيطات الماركة** وتبسيط سير العمل مع ضمان الامتثال لسياسات خالية من الماكرو.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **بناء قوالب شرائح شركية موحدة**  
   إنشاء قوالب عروض تقديمية قابلة لإعادة الاستخدام للحفاظ على الهوية المؤسسية المتسقة.
@@ -75,7 +75,8 @@ otherformats: PPT PPSX PPTM POTM PPSM POT PPS POTX POWERPOINT PPTX CSV DIF FODS 
 - **مشاركة القوالب عبر Office 365 وGoogle Slides**  
   ضمان التعاون السلس عبر منصات متعددة.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 - **محولات DOCM-to-POTX لفرق الشركات**  
   توحيد إنشاء القوالب باستخدام عمليات دفعية آلية.
@@ -92,7 +93,8 @@ otherformats: PPT PPSX PPTM POTM PPSM POT PPS POTX POWERPOINT PPTX CSV DIF FODS 
 - **أنظمة الحوكمة تفرض الامتثال لسياسات خالية من الماكرو**  
   التأكد من توزيع ملفات POTX نظيفة وخالية من الماكرو فقط.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -30,24 +30,25 @@ otherformats: JPEG GIF EMF XPS DOCX MD OTT EPUB PNG SVG PS DOT PDF TEXT WORDML R
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **MSG إلى GIF** يسمح بحفظ الرسائل الإلكترونية كملفات صور خفيفة الوزن، مما يجعلها سهلة للمشاركة أو تضمينها أو استخدامها في سير العمل القائمة على الويب.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * تحويل الرسائل الإلكترونية إلى GIF لتضمينها في العروض التقديمية أو الوثائق.
 * مشاركة لقطات البريد الإلكتروني بتنسيق صورة صديقة للويب.
 * تخزين مرئيات البريد الإلكتروني بشكل مضغوط لمعاينات سريعة.
 * الحفاظ على تصميمات البريد الإلكتروني في تنسيق قابل للعرض بشكل عالمي.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 
 * تحويل MSG إلى GIF تلقائيًا لمعاينات البريد الإلكتروني المبسطة.
 * معالجة دفعية لإنشاء صور مصغرة للبريد الإلكتروني.
 * تكامل سير العمل للوثائق الرقمية وملفات القضايا.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

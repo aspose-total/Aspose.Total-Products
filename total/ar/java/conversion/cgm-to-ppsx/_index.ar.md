@@ -59,11 +59,11 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى PPSX (عرض شرائح Open XML) يسهل إنشاء ملفات عرض شرائح غير قابلة للتحرير ومحسنة للاستخدام عبر منصات متعددة. إنه مثالي لتضمين الرسوم التخطيطية CGM في العروض التقديمية المخصصة للعرض الفوري.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **عروض شرائح متكررة التوليف** – إنشاء عروض شرائح معدة مسبقًا من الرسوم البيانية الهندسية.
 - **توجيهات بصرية عبر منصات متعددة** – ضمان التوافق عبر الإصدارات الحديثة من PowerPoint.
 - **رسومات ناقلة مضمنة في التقارير** – تقديم العروض التقديمية بصور فنية تقنية عالية الجودة.
@@ -73,7 +73,8 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 - **إنتاج عروض شرائح دفعي** – أتمتة الإنتاج الضخم للعروض التقديمية للقراءة فقط.
 - **أنظمة تقارير ذكية** – دمج الرسوم التخطيطية CGM في حزم العروض التقديمية التلقائية.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

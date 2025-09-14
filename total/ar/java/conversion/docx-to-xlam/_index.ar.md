@@ -61,21 +61,23 @@ otherformats: XLAM EXCEL XLT XLSM DIF SXC XLTM FODS XLTX XLS ODS TSV XLSX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل **DOCX** إلى **XLAM (إضافة Excel)** مهم لتحويل الماكروهات المعتمدة على Word إلى إضافات Excel قابلة لإعادة الاستخدام. يتيح ذلك للشركات نشر منطق الأتمتة والنماذج المالية وسير العمل التحليلية داخل Excel بكفاءة.
 
-#### ✅ حالات الاستخدام الرئيسية
+##{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - ترحيل ماكرو VBA من Word إلى Excel
 - بناء إضافات أتمتة جاهزة للشركات
 - دعم النماذج المالية والتحليلية
 - تمكين الإنتاجية المدفوعة بالماكرو في Excel
 
-#### ⚙️ سيناريوهات الأتمتة
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل الماكرو من DOCX إلى XLAM
 - نشر الإضافة للشركات
 - خطوط الأتمتة في Excel
 - إنشاء إضافة تلقائية من ماكروهات Word
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

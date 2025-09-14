@@ -61,11 +61,11 @@ otherformats: XLAM ODS TSV XLT FODS XLT DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تصدير **DOTX (قالب Word)** إلى **XLT (قالب Excel)** يسمح للشركات بإنشاء أطر جدولية قابلة لإعادة الاستخدام. تعمل هذه القياسة على تحسين كفاءة التقارير والتخطيط المالي وسير العمل الإدارية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - إنشاء قوالب مؤسسية لإكسل
 - قوالب تقارير الأعمال
 - أطر عمل إكسل محددة للإدارات
@@ -78,7 +78,8 @@ otherformats: XLAM ODS TSV XLT FODS XLT DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 - إنشاء قوالب إكسل موحدة
 - أطر عمل تقارير المؤسسات للاتساق
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

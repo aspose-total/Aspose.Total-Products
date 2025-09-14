@@ -42,23 +42,25 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">جرب تطبيقنا المجاني لتحويل CSV إلى DOTM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CSV إلى DOTM (قالب Word ممكّن للماكروهات) يمكّن المؤسسات من أتمتة إنشاء قوالب تفاعلية مدعومة بالماكروهات من مجموعات بيانات منظمة. يمكن لقوالب DOTM تنفيذ ماكروهات VBA، مما يجعلها مثالية لإنشاء مستندات توليفية مدفوعة بالمنطق.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **إنشاء قوالب وثائق ديناميكية مدعومة بالماكروهات المضمنة** – تمكين تحديثات المحتوى القائمة على المنطق.
 - **أتمتة تقارير الأعمال المتكررة** – جدولة تعبئة القوالب الممكّنة للماكروهات.
 - **إنشاء نماذج مدعومة بالماكروهات معبأة مسبقًا ببيانات CSV** – تقليل الإدخال اليدوي وتحسين الدقة.
 - **إعداد وثائق دفعية على مستوى المؤسسة** – أتمتة إنتاج الوثائق المستندة إلى القوالب المتعددة.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **أدوات إنشاء قوالب DOTM قائمة على Java** – بناء قوالب ممكّنة للماكروهات بشكل برمجي.
 - **ربط بيانات CSV مع القوالب الممكّنة للماكروهات** – ملء العناصر النائبة تلقائيًا ببيانات CSV.
 - **التكامل مع برامج أتمتة سير العمل** – تشغيل إنشاء الوثائق من خطوات سير العمل.
 - **جدولة تحديثات القوالب عبر تطبيقات Java** – الاحتفاظ بالقوالب الحالية مع تحديثات البيانات المجدولة.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

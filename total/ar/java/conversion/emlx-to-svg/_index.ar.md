@@ -30,11 +30,11 @@ otherformats: PNG PCL EMF RTF WORDML PDF EPUB TEXT JPEG DOTM SVG MD XPS GIF FLAT
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل EMLX إلى **SVG (رسومات نقطية قابلة للتوسيع)** يسمح بالحفاظ على محتوى البريد الإلكتروني كرسومات قابلة للتوسيع بدقة للنشر الرقمي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - عرض رسائل Apple Mail كرسومات متجاوبة.
 - أرشفة محتوى البريد الإلكتروني البصري للاستخدام على الويب.
 - طباعة عالية الجودة باستخدام رسومات نقطية قابلة للتوسيع.
@@ -45,7 +45,8 @@ otherformats: PNG PCL EMF RTF WORDML PDF EPUB TEXT JPEG DOTM SVG MD XPS GIF FLAT
 - خطوط إنتاج التحويل التلقائي للنشرات الإخبارية.
 - تكامل سير العمل مع منصات النشر الرقمي.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

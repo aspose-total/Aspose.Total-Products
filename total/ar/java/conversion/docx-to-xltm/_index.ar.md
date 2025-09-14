@@ -61,20 +61,22 @@ otherformats: XLTX XLSX DIF EXCEL XLT XLSM TSV ODS XLSB SXC XLAM XLS FODS XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 - أتمتة سير العمل المتكررة
 - إنشاء قوالب ماكرو جاهزة للشركات
 - نقل البنية الأساسية القائمة على الماكرو من DOCX إلى Excel
 - دعم النماذج المالية والتحليلية
 - تبسيط عملية التقارير
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أتمتة تحويل DOCX إلى XLTM مع ماكرو
 - خطوط إنتاج لإنشاء القوالب
 - إدارة الماكرو للشركات
 - سير العمل التلقائي لقوالب Excel
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,8 +54,8 @@ otherformats: PPSM POT POWERPOINT PPTX POTX PPTM POTM PPS PPSX PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 - إنشاء عروض تقديمية من تقارير مستندة إلى Word
 - نقل النصوص والصور إلى LibreOffice Impress
 - تحويل النصوص إلى شرائح بشكل آلي لتحقيق السرعة
@@ -65,7 +65,8 @@ otherformats: PPSM POT POWERPOINT PPTX POTX PPTM POTM PPS PPSX PPT CSV DIF FODS 
 - مُنشئات شرائح DOC-to-ODP للتحويل الفوري
 - أدوات قوالب العروض التقديمية بناءً على Java
 - سيناريوهات تأتير المحتوى تلقائيًا
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

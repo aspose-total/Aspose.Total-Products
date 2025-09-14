@@ -30,19 +30,20 @@ otherformats: MD DOC DOCX WORDML DOTX RTF DOT PDF OTT XPS TIFF JPEG DOTM EMF SVG
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **مواصفات الورقة الإلكترونية (XPS)** هي تنسيق ذو تخطيط ثابت من Microsoft. تحويل **EML إلى XPS** يضمن تقديم المستند بشكل متسق.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - أرشفة الرسائل الإلكترونية بتخطيط ثابت.
 - إنشاء نسخ آمنة للقراءة فقط من المراسلات.
 - بديل لتنسيق PDF في بيئات Windows.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - خطوط أنابيب أرشفة البريد الإلكتروني للشركات.
 - تصدير XPS تلقائي للامتثال والسجلات.
 - تحويل دفعي من البريد الإلكتروني إلى XPS للتوثيق.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

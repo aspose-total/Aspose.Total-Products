@@ -42,8 +42,8 @@ otherformats: OTT MHTML MARKDOWN PCL WORDML DOTM XAMLFLOW ODT DOTX DOT RTF FLATO
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **تقارير الهندسة المدمجة بنماذج ماكرو الممكنة**  
   دمج الرسومات المستندة إلى CGM في قوالب DOTM التي تُشغّل عمليات الحسابات التلقائية والتحليل وإنشاء التقارير.
@@ -67,7 +67,8 @@ otherformats: OTT MHTML MARKDOWN PCL WORDML DOTM XAMLFLOW ODT DOTX DOT RTF FLATO
 
 - **أنابيب ETL والإبلاغ**  
   دمج تحويل CGM إلى DOTM في عمليات ETL مبنية على جافا، مما يمكن من تقديم تقارير مدعومة بالماكرو وتصور بشكل موسع.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

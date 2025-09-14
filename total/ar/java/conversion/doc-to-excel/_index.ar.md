@@ -61,8 +61,8 @@ otherformats: EXCEL SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الرئيسية للاستخدام
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الرئيسية للاستخدام" %}}
 - تحويل جداول Word إلى أوراق عمل Excel تفاعلية  
 - نقل البيانات المالية إلى Excel للتحليل  
 - دمج محتوى المستند في لوحات تحكم التقارير الآلية  
@@ -72,7 +72,8 @@ otherformats: EXCEL SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 - محولات DOC-to-EXCEL للتحويل المباشر  
 - سكربتات هجرة الجداول التي تعتمد على VBA  
 - خطوط أنابيب التقارير الآلية التي تدمج بيانات Word في Excel  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

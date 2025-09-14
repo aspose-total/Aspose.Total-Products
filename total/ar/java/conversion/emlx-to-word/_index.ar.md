@@ -30,19 +30,20 @@ otherformats: PDF WORDML WORD ODT EMF DOTM FLATOPC DOC PS SVG GIF PNG TEXT OTT R
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-<h2>حالات الاستخدام الرئيسية ✅</h2>  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}  
 - تحرير الرسائل الإلكترونية في Microsoft Word  
 - إعداد تقارير احترافية من الرسائل الإلكترونية  
 - إنشاء وثائق قابلة للمشاركة من Apple Mail  
 - الحفاظ على بيانات البريد الإلكتروني المنسقة للامتثال  
 
-<h2>سيناريوهات الأتمتة ⚙️</h2>  
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}  
 - أنابيب عملية تحويل EMLX إلى Word بالجملة  
 - سير العمل الجاهز للأرشفة والامتثال  
 - تلخيص قائم على الذكاء الاصطناعي بعد التحويل  
 - تقارير على مستوى المؤسسات مع إخراج Word
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

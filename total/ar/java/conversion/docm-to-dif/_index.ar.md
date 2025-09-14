@@ -61,10 +61,10 @@ otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM DIF ODS EXCEL XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل **مستندات DOCM (مستندات Word التي تحتوي على ماكرو)** إلى **تنسيق DIF (تنسيق تبادل البيانات)** يلعب دورًا مهمًا في نقل البيانات الجدولية من ملفات Word الحديثة إلى **أنظمة جداول البيانات والإحصائيات التقليدية المتوافقة مع الإرث**. بينما تخزن ملفات DOCM معلومات منظمة مع ماكروهات وتنسيقات، يوفر DIF هيكلًا مدعومًا على نطاق واسع من النصوص العادية تظل قابلة للقراءة عبر العقود. يضمن هذا التحويل **قابلية نقل البيانات والامتثال والوصول على المدى الطويل** - خاصة في الصناعات التي تخضع للرقابة، والبحوث الأكاديمية، والبيئات التي تظل فيها الأنظمة القديمة أو الموجودة في الموقع قيد الاستخدام.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **تبادل البيانات المنظمة مع تطبيقات جداول البيانات القديمة**  
   قم بتحويل جداول DOCM إلى DIF لتوافقها مع برامج جداول البيانات التقليدية التي تسبق تنسيقات CSV/XLSX.
@@ -97,7 +97,8 @@ otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM DIF ODS EXCEL XLTM
 
 - **روبوتات معالجة الوثائق التي تكتشف الجداول وتخرج DIF**  
   نشر روبوتات RPA أو معتمدة على الذكاء الاصطناعي لفحص ملفات DOCM، واستخراج الجداول، وإخراج DIF للاستيعاب التقليدي.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

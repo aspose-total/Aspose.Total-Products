@@ -61,11 +61,11 @@ otherformats: XLAM ODS TSV XLT FODS XLTX DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 ## تحويل **DOTX (نموذج Word)** إلى **XLTX (نموذج Excel Open XML)** يضمن قوالب Excel موحدة وجاهزة للسحابة للشركات. يدعم هذا التنسيق التوسع وإعادة الاستخدام والتعاون الحديث.
 
-#### ✅ حالات الاستخدام الرئيسية
+##{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - أطر تقارير الأعمال في Excel
 - قوالب مالية للمؤسسات
 - إعدادات قوالب Excel متوافقة مع السحابة
@@ -78,7 +78,8 @@ otherformats: XLAM ODS TSV XLT FODS XLTX DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 - توحيد المستندات إلى Excel
 - أتمتة القوالب على مستوى المؤسسة للتوسع
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

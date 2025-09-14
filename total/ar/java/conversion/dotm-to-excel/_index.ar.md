@@ -61,9 +61,9 @@ otherformats: TSV XLAM SXC EXCEL EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ الحالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 - النمذجة المالية والتنبؤ
 - إنشاء تقارير المؤسسات ولوحات القيادة
 - سير العمل لتحليل البيانات لمجموعات بيانات كبيرة
@@ -76,7 +76,8 @@ otherformats: TSV XLAM SXC EXCEL EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 - أتمتة تقارير المؤسسات
 - تكامل سير العمل من الماكرو إلى Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

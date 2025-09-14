@@ -61,11 +61,11 @@ otherformats: FODS XLSX DIF XLSM XLTX TSV SXC XLTM ODS XLSB XLAM EXCEL XLT XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOCM (مستندات Word التي تحتوي على ماكرو)** إلى **ODS (جدول بيانات OpenDocument)** ضروري لتمكين الجداول المعتمدة على المستندات والبيانات المنظمة من استخدام **LibreOffice Calc وتطبيقات جداول البيانات الأخرى المتوافقة مع ODF**. بينما تحتوي ملفات DOCM غالبًا على جداول قيمة وبيانات نموذجية، يوفر ODS **تنسيق جدول بيانات قابل للتحرير بالكامل ومفتوح المصدر** يضمن إمكانية الوصول على المدى الطويل، والامتثال، والتعاون. يربط هذا التحويل بين البيانات المعتمدة على Word والبيئات مفتوحة المصدر، ويدعم متطلبات الشركات والحكومات لـ **تنسيقات الملفات شفافة وخالية من التوجهات البائعة**.  
 
-## ✅ حالات الاستخدام الرئيسية  
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}  
 
 - **تحويل جداول Word إلى جداول بيانات قابلة للتحرير**  
   قم بتحويل الجداول المضمنة في DOCM إلى ODS للحسابات المتقدمة والصيغ والتحليل.  
@@ -82,7 +82,7 @@ otherformats: FODS XLSX DIF XLSM XLTX TSV SXC XLTM ODS XLSB XLAM EXCEL XLT XLS
 - **الأرشفة على المدى الطويل في تنسيقات مفتوحة**  
   الحفاظ على البيانات المنظمة في تنسيق قائم على المعايير يمكن الوصول إليه لعقود.  
 
-## ⚙️ سيناريوهات التلقائية  
+{{% blocks/products/pf/agp/feature-section-col title="## ⚙️ سيناريوهات التلقائية" %}}  
 
 - **تصديرات مجدولة من DOCM إلى ODS**  
   أتمتة تحويل المستند إلى جدول بيانات بانتظام لأغراض التقارير وتجميع البيانات.  
@@ -99,7 +99,8 @@ otherformats: FODS XLSX DIF XLSM XLTX TSV SXC XLTM ODS XLSB XLAM EXCEL XLT XLS
 - **محولات السحابة التي تعتمد على إخراج ODS كمعيار**  
   تقديم بيانات DOCM كـ ODS في أطقم تعاون السحابة التي تعطي الأولوية للمعايير المفتوحة.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

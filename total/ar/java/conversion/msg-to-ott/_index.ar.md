@@ -30,25 +30,27 @@ otherformats: DOCX PS DOC SVG JPEG DOTX ODT EPUB EMF PDF DOCM PCL DOT OTT WORDML
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **MSG إلى OTT (قالب OpenDocument)** يسمح بتخزين رسائل البريد الإلكتروني كقوالب مستند قابلة لإعادة الاستخدام.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * تحويل محتوى البريد الإلكتروني إلى قوالب أعمال مُصممة مسبقًا
 * توحيد القوالب الشركية باستخدام سير العمل المدفوعة بالبريد الإلكتروني
 * إنشاء نماذج وقوالب قابلة لإعادة الاستخدام من تواصل البريد الإلكتروني
 * دعم أنظمة إدارة القوالب القائمة على ODF
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 * خطوط إنتاج توليد قوالب MSG-to-OTT
 * تصدير دُفعي للقوالب الموحدة من رسائل البريد الشركية
 * إدارة القوالب التلقائية عبر أنظمة المؤسسة
 * دمج OTT للوثائق القانونية والموارد البشرية
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

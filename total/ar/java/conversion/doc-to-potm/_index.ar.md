@@ -54,22 +54,24 @@ otherformats: POWERPOINT PPSX PPT PPTM PPTX PPS POTM PPSM POTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOC** إلى **POTM (قالب PowerPoint Macro-Enabled)** قيم لتمكين سلوكيات الشرائح الآلية ووظائف الماكرو في العروض المستمدة من مستندات Word. يدعم هذا التنسيق التفاعل المتقدم وأتمتة المهام المتكررة في عروض الشرائح.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - إنشاء شرائح شركية تفاعلية مع ماكرو مضمنة
 - أتمتة تنسيق العروض التقديمية المتكررة
 - تضمين ماكرو VBA لتلاعب الشرائح الديناميكية
 - إنشاء عروض تقديمية مدعومة بالبيانات بواسطة سكربتات آلية
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - سير العمل لحقن الماكرو من DOC إلى POTM لقوالب الشركات
 - إنشاء شرائح بناءً على سكربتات مع تنسيق آلي
 - محركات أتمتة الشرائح الشركية لإنتاج محتوى بمقياس كبير
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

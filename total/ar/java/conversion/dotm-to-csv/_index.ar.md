@@ -61,11 +61,11 @@ otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 قوالب Word الممكّنة للماكرو غالبًا ما تحتوي على بيانات منظمة يمكن أن تكون صعبة الاستخراج مباشرة. تحويل ملفات **DOTM** إلى **CSV (قيم مفصولة بفواصل)** يبسط هذه العملية، مما يمكن من استخراج البيانات المنظمة بشكل خفيف ومناسب لجداول البيانات والتقارير والتحليل.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - هجرة البيانات من القوالب الممكّنة للماكرو إلى قواعد البيانات
 - سير العمل للاستيراد/التصدير عبر أنظمة متعددة
 - معالجة وتحليل بيانات المؤسسة
@@ -78,7 +78,8 @@ otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 - تقارير CSV التلقائية من قوالب Word
 - أنابيب ETL للمؤسسات للبيانات المنظمة
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

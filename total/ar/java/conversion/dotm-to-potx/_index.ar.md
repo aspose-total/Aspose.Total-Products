@@ -54,11 +54,11 @@ otherformats: PPTX POTX PPSM POWERPOINT PPS PPT POTM POT PPTM PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **POTX (PowerPoint Template Open XML)** أمر حيوي لإنشاء قوالب XML حديثة قابلة لإعادة الاستخدام من ملفات Word التي تحتوي على ماكرو، مثالية لعروض تقديمية جاهزة للسحابة وقابلة للتوسيع.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - قوالب تصميم الشركات
 - عروض تقديمية قابلة للتوسيع
 - شرائح تقارير المؤسسات
@@ -71,7 +71,8 @@ otherformats: PPTX POTX PPSM POWERPOINT PPS PPT POTM POT PPTM PPSX CSV DIF FODS 
 - التأتير الآلي لعروض PowerPoint في السحابة
 - تكامل سير العمل مع Office 365
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

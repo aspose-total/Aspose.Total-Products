@@ -30,12 +30,12 @@ otherformats: PNG DOC OTT ODT WORDML DOTX SVG DOCX EPUB TEXT XPS PS FLATOPC DOCM
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى تنسيق **Bitmap (BMP)** يضمن التوافق مع الأنظمة القديمة وسير العمل الخاص بمعالجة الصور الخام. باستخدام واجهة برمجة تطبيقات البريد الإلكتروني في جافا، يمكن تصدير رسائل البريد الإلكتروني إلى BMP للأغراض الأرشيفية والجنائية والتكاملات القديمة.
 
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **الأنظمة القديمة**: تخزين صور البريد الإلكتروني في BMP للتوافق مع البرمجيات القديمة.
 - **الأدلة الجنائية**: الحفاظ على تخطيطات البريد الإلكتروني كصور بيتماب غير مضغوطة للتحقيقات.
@@ -44,7 +44,7 @@ otherformats: PNG DOC OTT ODT WORDML DOTX SVG DOCX EPUB TEXT XPS PS FLATOPC DOCM
 - **عرض دون اتصال بالإنترنت**: حفظ الرسائل الإلكترونية كـ BMP للأنظمة بدون أدوات تقديم متقدمة.
 
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 
 - **أنابيب الأرشفة**: تحويل الرسائل الإلكترونية إلى BMP للسجلات الثابتة.
 - **تصدير دفعي**: تحويل اتصالات البريد الإلكتروني بكميات كبيرة إلى BMP لتخزين الأدلة.
@@ -52,7 +52,8 @@ otherformats: PNG DOC OTT ODT WORDML DOTX SVG DOCX EPUB TEXT XPS PS FLATOPC DOCM
 - **سير العمل التوافقي**: تخزين المراسلات الرسمية كصور BMP.
 - **التشغيل التلقائي للتدريب**: إنشاء صور BMP من رسائل الصيد الاحتيالي لبرامج التوعية.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

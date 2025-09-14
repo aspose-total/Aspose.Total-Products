@@ -30,17 +30,18 @@ otherformats: MD ODT EMF JPEG PS XPS EPUB WORDML PCL FLATOPC OTT TEXT DOTM RTF D
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-<h2>حالات الاستخدام الرئيسية ✅</h2>
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - نشر محتوى البريد الإلكتروني مباشرة إلى مُنشئي مواقع ثابتة (هوجو، جيكيل).
 - تحويل رسائل الدعم إلى مقالات في قاعدة المعرفة.
 - نقل المراسلات إلى وثائق تعاونية.
 
-<h2>سيناريوهات الأتمتة ⚙️</h2>
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تصدير رسائل خدمة العملاء تلقائيًا إلى تنسيق MD للوثائق.
 - أنابيب إدارة المحتوى التي تعيد استخدام محتوى البريد الإلكتروني.
 - تحويل النشرات الإخبارية إلى Markdown للمدونات.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

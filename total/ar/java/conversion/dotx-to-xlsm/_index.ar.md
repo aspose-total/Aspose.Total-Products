@@ -61,22 +61,24 @@ otherformats: XLAM ODS TSV XLT FODS XLSM DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل **DOTX (نموذج Word)** إلى **XLSM (سجل Excel ممكّن للماكرو)** يفتح الأتمتة عن طريق تضمين ماكروهات قوية في جداول Excel. هذا مثالي لسير العمل التجارية المتقدمة، ونماذج التمويل التلقائي، وأتمتة مهام المؤسسة.
 
-#### ✅ حالات الاستخدام الرئيسية
+##{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - نمذجة تمويل تلقائية من القوالب
 - أتمتة سير العمل عبر الأقسام
 - معالجة البيانات المتقدمة داخل Excel
 - تكامل الماكرو التجاري للمهام المتكررة
 - أتمتة المهام المستندية باستخدام الماكرو
 
-#### ⚙️ سيناريوهات الأتمتة
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - خطوط أنابيب الماكرو من DOTX إلى XLSM
 - إنشاء جداول بيانات تلقائيًا باستخدام الماكرو
 - سير العمل لأتمتة مهام المؤسسة
 - كتابة Excel مدفوعة بالقوالب لزيادة الإنتاجية
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,11 +54,11 @@ otherformats: PPS PPT PPTM PPSM PPTX POTM PPSX POWERPOINT POTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **POT (قالب PowerPoint)** يمكن إعادة استخدام قوالب Word التي تحتوي على ماكرو في PowerPoint، مما يوفر قوالب عروض تقديمية موحدة وقابلة للتوسيع للشركات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - قوالب العروض التقديمية الشركاتية
 - شرائح التدريب والتعليم
 - عروض تقارير تعتمد على الماكرو جاهزة للشركات
@@ -71,7 +71,8 @@ otherformats: PPS PPT PPTM PPSM PPTX POTM PPSX POWERPOINT POTX POT CSV DIF FODS 
 - التأتير الآلي لعروض تدريب الشركات
 - إنشاء PowerPoint مدفوع بسير العمل
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

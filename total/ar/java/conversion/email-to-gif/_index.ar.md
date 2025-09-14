@@ -30,11 +30,11 @@ otherformats: DOT TIFF EMF XPS DOCX EPUB PCL DOTM WORDML PDF MD FLATOPC PNG JPEG
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى تنسيق **GIF** يوفر وسيلة مدمجة للحفاظ على الصور البصرية للبريد الإلكتروني ومشاركتها. باستخدام واجهة برمجة تطبيقات البريد الإلكتروني في جافا، يمكن للمؤسسات إنشاء لقطات GIF للرسائل الإلكترونية للتوزيع الخفيف وتضمينها.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **مشاركة خفيفة الوزن**: توزيع لقطات صغيرة الحجم من الرسائل الإلكترونية.
 - **التدريب والتوعية**: استخدام صور GIF لرسائل الصيد الاحتيالي في وحدات التعلم الإلكتروني.
@@ -42,7 +42,8 @@ otherformats: DOT TIFF EMF XPS DOCX EPUB PCL DOTM WORDML PDF MD FLATOPC PNG JPEG
 - **أرشفة**: تخزين الاتصالات البريدية بتنسيق خفيف.
 - **استخدام على مستوى متعدد الأنظمة**: مشاركة صور البريد الإلكتروني حيث لا يتم دعم تنسيقات الصور المتقدمة.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 - **أتمتة قاعدة المعرفة**: نشر الرسائل الإلكترونية المحولة إلى GIF في بوابات الوثائق.
 - **تدريب الأمان**: إنشاء تلقائي لأمثلة GIF لرسائل الاحتيال للتوعية.
@@ -50,7 +51,8 @@ otherformats: DOT TIFF EMF XPS DOCX EPUB PCL DOTM WORDML PDF MD FLATOPC PNG JPEG
 - **تصدير دفعي**: تحويل الرسائل الإلكترونية بالجملة إلى GIF للأرشفة.
 - **أرشفة خفيفة الوزن**: تخزين إصدارات GIF الأصغر حجمًا من الاتصالات غير الحرجة.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

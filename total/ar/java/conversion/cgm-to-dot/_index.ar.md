@@ -42,12 +42,12 @@ otherformats: PS FLATOPC DOT PCL DOTM XAMLFLOW OTT ODT DOTX MARKDOWN MHTML WORDM
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات **Computer Graphics Metafile (CGM)** إلى تنسيق **DOT (Microsoft Word Template)** أمر أساسي للمؤسسات التي تهدف إلى توحيد الوثائق التقنية والهندسية. في **أنظمة معالجة الوثائق القائمة على Java**، يمكن لهذا التحويل إنشاء قوالب قابلة لإعادة الاستخدام تتضمن الرسوم البيانية المعتمدة على CGM، مما يضمن تنسيقًا متسقًا عبر التقارير والدلائل والوثائق الهندسية. من خلال تضمين الرسوم البيانية CGM في قوالب DOT، يمكن للشركات تبسيط إنشاء المحتوى، والحفاظ على معايير العلامة التجارية، وتحسين كفاءة سير العمل في إنشاء الوثائق.
 
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **قوالب رسومات تقنية قابلة لإعادة الاستخدام**  
   قم بتخزين الرسومات CGM داخل ملفات DOT لإعادة الاستخدام السريع في العديد من التقارير التقنية أو الدلائل.
@@ -73,7 +73,8 @@ otherformats: PS FLATOPC DOT PCL DOTM XAMLFLOW OTT ODT DOTX MARKDOWN MHTML WORDM
 - **تحويل دفعات ونشر القوالب**  
   قم بمعالجة ملفات CGM متعددة إلى قوالب DOT بالجملة لنشر القوالب بسرعة عبر الفرق.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

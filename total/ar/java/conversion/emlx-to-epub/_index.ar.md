@@ -30,22 +30,24 @@ otherformats: PNG XPS FLATOPC MD TIFF DOTX EMF PDF DOTM EPUB RTF DOCM GIF TEXT S
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل رسائل البريد الإلكتروني EMLX إلى **EPUB (النشر الإلكتروني)** يجعل محتوى البريد الإلكتروني قابلًا للنقل ومنظمًا ومُحسّنًا للقارئ الإلكتروني والأجهزة المحمولة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تحويل رسائل Apple Mail إلى كتب إلكترونية قابلة للنقل.
 - تخزين النشرات الإخبارية أو البرامج التعليمية أو رسائل التدريب كمنشورات رقمية.
 - مشاركة تنسيقات قراءة لمواد الدراسة أو الوثائق.
 - تحسينات في الوصول لمستخدمي الهواتف المحمولة والقارئ الإلكتروني.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أرشفة تلقائية لرسائل Apple Mail في مكتبات EPUB.
 - تحويل دُفعي لتحديثات الشركة إلى EPUB لتوزيعها على الموظفين.
 - تحويل البريد الإلكتروني إلى قاعدة معرفية للرجوع إليها على المدى الطويل.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

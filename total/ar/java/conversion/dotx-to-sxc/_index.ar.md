@@ -61,10 +61,10 @@ otherformats: DIF XLTX XLSM EXCEL TSV XLSX ODS SXC XLS XLTM XLSB FODS XLT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل **DOTX (قالب Word)** إلى **SXC (StarOffice Calc)** قيم لإنشاء جداول بيانات منظمة من قوالب موحدة. يدعم هذا التحويل الأنظمة التقليدية، وسير العمل مفتوح المصدر، والتوافق عبر المنصات.
 
-#### ✅ حالات الاستخدام الرئيسية
+##{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - معالجة المستندات عبر المنصات
 - التوافق مع حزم البرامج المكتبية التقليدية
 - الأرشفة الشركية وتقارير الامتثال
@@ -76,7 +76,8 @@ otherformats: DIF XLTX XLSM EXCEL TSV XLSX ODS SXC XLS XLTM XLSB FODS XLT XLAM
 - تحويل المستندات إلى جداول بيانات بشكل دفعي
 - تكامل الأنظمة التقليدية مع StarOffice Calc
 - تقارير آلية مدعومة بـ Calc مفتوح المصدر
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

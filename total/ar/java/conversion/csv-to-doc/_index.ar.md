@@ -42,23 +42,24 @@ otherformats: DOCX PPTX POWERPOINT WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-doc/">جرب تطبيقنا المجاني لتحويل CSV إلى DOC</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CSV (القيم المفصولة بالفواصل) إلى DOC (مستند Microsoft Word 97-2003) ضروري لتحويل مجموعات البيانات الخام المنظمة إلى مستندات نصية مهيأة بشكل احترافي. يتيح هذا التحويل للشركات تقديم البيانات الجدولية في شكل جاذب بصريًا وجاهز للطباعة، مما يجعله مثاليًا للتقارير والوثائق والاتصالات مع العملاء.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **إنشاء تقارير تجارية من مجموعات بيانات CSV** – حول تصديرات الجداول الإلكترونية إلى تقارير منظمة وقابلة للقراءة.
 - **إنشاء فواتير مهيأة من البيانات المصدرة** – إنتاج فواتير مصقولة من نواتج نظام المحاسبة أو ERP.
 - **تحويل نتائج الاستطلاع إلى ملخصات قائمة على Word** – قدم بيانات الاستطلاع بتنسيق غني وتعليقات.
 - **إعداد محتوى يعتمد على البيانات للمراجعة والطباعة دون اتصال بالإنترنت** – شارك التقارير مع أصحاب المصلحة دون الحاجة إلى برامج جداول البيانات.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - **واجهات برمجة تطبيقات لإنشاء المستندات بناءً على Java** – استخدم مكتبات Java لتعيين بيانات CSV في قوالب DOC.
 - **محولات دفعية من CSV إلى DOC** – أتمتة إنشاء مستندات بكميات كبيرة من ملفات CSV متعددة.
 - **التكامل مع أنظمة تقارير المؤسسات** – ربط نواتج الذكاء التجاري مباشرة بإنشاء تقارير Word.
 - **قواعد التنسيق التلقائي لإخراج Word** – تطبيق تنسيق متسق ورؤوس وتذييلات أثناء التحويل.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

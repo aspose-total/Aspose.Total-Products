@@ -42,8 +42,8 @@ otherformats: PCL OTT DOT XAMLFLOW PS MHTML ODT DOTM FLATOPC DOTX MARKDOWN RTF
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **تضمين الرسوم التخطيطية CGM في الدلائل التقنية**  
   الإشارة إلى أو تضمين رسوم CGM داخل الوثائق المستندة إلى Markdown لشرح تقني أوضح.
@@ -67,7 +67,8 @@ otherformats: PCL OTT DOT XAMLFLOW PS MHTML ODT DOTM FLATOPC DOTX MARKDOWN RTF
 
 - **تحديثات التوثيق المستمرة**  
   تأتير إعادة إنشاء Markdown من رسوم CGM المحدثة في أنابيب CI/CD قائمة على Java للحصول على توثيق محدث دائمًا.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

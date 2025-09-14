@@ -30,18 +30,19 @@ otherformats: SVG TEXT OTT DOCX XPS DOT GIF PCL PNG DOC DOTX PS DOTM EMF MD PDF 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-<h2>حالات الاستخدام الرئيسية ✅</h2>
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تخزين رسائل البريد الإلكتروني من Apple Mail في ملفات Markdown خفيفة.  
 - نشر النشرات الإخبارية أو الإعلانات على المدونات.  
 - إعادة استخدام الوثائق التقنية من التواصل عبر البريد الإلكتروني.  
 - تخزين مناقشات البريد الإلكتروني في تحكم الإصدارات (معتمد على Git).  
 
-<h2>سيناريوهات الأتمتة ⚙️</h2>
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل رسائل البريد الإلكتروني ذات الصلة بالمشروع تلقائيًا إلى وثائق Markdown.  
 - أنابيب البريد الإلكتروني إلى مشكلات/README على GitHub.  
 - مستودعات المعرفة المركزية المعتمدة على Markdown.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

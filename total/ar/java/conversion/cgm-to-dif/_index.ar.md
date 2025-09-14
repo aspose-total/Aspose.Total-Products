@@ -47,8 +47,8 @@ otherformats: XLT XLSB XLAM DIF XLTX XLTM SXC TXT EXCEL ODS MD XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **هجرة أنظمة جداول البيانات القديمة**  
   تحويل بيانات CGM إلى DIF للاستيراد السلس في برامج جداول البيانات القديمة التي لا تزال قيد الاستخدام في بيئات المؤسسات.
@@ -69,7 +69,8 @@ otherformats: XLT XLSB XLAM DIF XLTX XLTM SXC TXT EXCEL ODS MD XLSM
 
 - **التكامل مع أنابيب الحسابات الإحصائية**  
   تغذية الملفات المحولة تلقائيًا من نوع DIF إلى وحدات تحليل البيانات الإحصائية R أو MATLAB أو Python من خلال تنظيم سير العمل القائم على Java.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

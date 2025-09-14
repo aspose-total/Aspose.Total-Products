@@ -61,11 +61,11 @@ otherformats: XLS SXC TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOC** إلى **SXC (جدول بيانات StarOffice Calc)** ضروري لإنشاء إصدارات متوافقة مع جداول البيانات من المستندات القائمة على النص في بيئات المكاتب مفتوحة المصدر. يتيح هذا التحويل التكامل السلس مع OpenOffice و LibreOffice Calc، مما يمكن من إجراء حسابات متقدمة وتلاعب بالبيانات المنظمة والتحرير التعاوني.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - ترحيل البيانات من النص إلى جدول البيانات للتحليل
 - التكامل مع بيئات OpenOffice/LibreOffice Calc
 - إعداد المستندات لحسابات جدول البيانات المعقدة
@@ -76,7 +76,8 @@ otherformats: XLS SXC TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 - تعيين النمط إلى الخلية تلقائيًا لتنسيق دقيق
 - أدوات تحويل المستندات إلى جداول بيانات لمجموعات بيانات كبيرة
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

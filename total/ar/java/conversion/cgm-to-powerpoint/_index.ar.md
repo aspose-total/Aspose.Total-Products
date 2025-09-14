@@ -59,21 +59,22 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى PowerPoint يمكن أن يتيح تضمين مخططات الهندسة القائمة على الفيكتور مباشرة في العروض التقديمية القائمة بالكامل. هذا أمر أساسي لتحديثات الأعمال وتقارير المشاريع والعروض التقنية، مما يضمن وضوحًا ودقة في التواصل البصري.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **تقارير بصرية لأصحاب المصلحة** – تضمين صور فنية دقيقة لاتخاذ القرارات.
 - **عروض تقديمية تحتوي على مخططات هندسية** – دمج ملفات CGM بسلاسة في الشرائح.
 - **محتوى تسويقي يحتوي على صور فنية تقنية** – دمج العلامة التجارية مع الرسومات الهندسية.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - **واجهات برمجة تطبيقات جافا لبرنامج PowerPoint** – أتمتة إنشاء الشرائح من مخططات CGM باستخدام Apache POI.
 - **إنشاء شرائح المؤسسات** – إنشاء عروض تقديمية بالدُفعات لتقارير متكررة.
 - **تدفقات تحويل CGM إلى شريحة تلقائية** – دمجها في أنظمة إدارة محتوى المؤسسات.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

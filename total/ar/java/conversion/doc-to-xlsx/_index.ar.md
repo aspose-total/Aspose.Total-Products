@@ -61,11 +61,11 @@ otherformats: XLSX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOC** إلى **XLSX (جدول بيانات XML المفتوح لإكسل)** ينشئ جداول بيانات حديثة ومتوافقة تمامًا لمشاركة البيانات والتحليل والدمج. XLSX هو التنسيق القياسي في صناعة الذكاء التجاري والتعاون السحابي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تصدير بيانات المستند المهيكلة إلى جداول بيانات حديثة
 - تكامل خط أنابيب الذكاء التجاري مع نواتج منظمة ونظيفة
 - تحويل التقارير إلى جداول بيانات جاهزة للتحليل والتحرير
@@ -76,7 +76,8 @@ otherformats: XLSX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 - سير العمل الآلي لإنشاء جداول البيانات
 - تحليل المستندات بناتج XML منظم
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

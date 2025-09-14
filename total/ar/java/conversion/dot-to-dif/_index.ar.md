@@ -61,24 +61,26 @@ otherformats: XLSM XLS XLSX SXC TSV XLTX EXCEL ODS DIF XLTM XLT FODS XLAM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOT** إلى **DIF (تنسيق تبادل البيانات)** يمكن أن يمكن تبادل البيانات المنظمة بين قوالب Word وأنظمة جداول بيانات أو قواعد بيانات متقادمة، مما يضمن التوافق والهجرة السلسة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - هجرة البيانات
 - التوافق مع النظام المتقادم
 - استيراد الجداول
 - أنابيب تحليلات المؤسسة
 - أرشفة البيانات المنظمة
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل DOT إلى DIF في سياقات العمليات الاستخراج والتحميل والتحويل
 - تبادل البيانات التلقائي
 - أنظمة تقارير متوافقة مع DIF
 - أنابيب البيانات إلى المستند عبر المنصات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

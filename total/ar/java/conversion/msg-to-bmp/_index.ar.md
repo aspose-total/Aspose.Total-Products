@@ -30,24 +30,26 @@ otherformats: PCL ODT GIF TIFF PNG EPUB DOC OTT DOCM WORDML DOTM PS DOT DOTX SVG
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **MSG إلى BMP** يمكن أن يتيح حفظ رسائل البريد الإلكتروني كصور بيتماب غير مضغوطة، مثالي لأرشفة الرسائل الإلكترونية في تنسيق قابل للعرض بشكل عالمي وغير قابل للتحرير.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * الحفاظ على رسائل البريد الإلكتروني كصور بيتماب عالية الجودة للأرشفة على المدى الطويل.
 * تضمين محتوى البريد الإلكتروني في التقارير أو سير العمل للوثائق الممسوحة ضوئيًا.
 * التحقيقات الجنائية التي تتطلب سجلات البريد الإلكتروني غير قابلة للتلاعب.
 * الوصول غير المتصل إلى لقطات البريد الإلكتروني دون الحاجة إلى عميل بريد إلكتروني.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 * أنابيب عمل MSG-to-BMP التلقائية للاحتفاظ بالبريد الإلكتروني بما يتوافق مع متطلبات الامتثال.
 * تصدير دفعي لرسائل البريد الإلكتروني إلى تنسيق بيتماب لأرشيفات جاهزة للطباعة.
 * دمج مع سير العمل الشركات لتصوير الوثائق وتخزينها.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

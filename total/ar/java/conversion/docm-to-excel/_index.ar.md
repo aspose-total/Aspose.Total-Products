@@ -61,8 +61,8 @@ otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}  
 
 - **تحويل جداول Word إلى نماذج Excel قابلة للتنفيذ**  
   حول جداول DOCM الثابتة إلى أوراق Excel للحسابات المتقدمة والنماذج التجارية.  
@@ -79,7 +79,8 @@ otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 - **تركيز متتبعي العمليات في Excel**  
   دمج البيانات من قوائم DOCM متعددة في ملف Excel واحد لمراقبة الفريق على نطاق واسع.  
 
-## ⚙️ سيناريوهات الأتمتة  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}  
 
 - **محولات دفعية من DOCM إلى Excel**  
   حول ملفات DOCM متعددة إلى أوراق Excel بالجملة لسير العمل على مستوى المؤسسة.  
@@ -95,7 +96,8 @@ otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 - **أنابيب العمل الخاصة بالمؤسسات التي تثري البيانات وتلحقها بملفات العمل الرئيسية**  
   قم بدمج تحويل DOCM إلى Excel في أنابيب العمل الخاصة بذكاء الأعمال التي تحدث أنظمة التقارير المركزية.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

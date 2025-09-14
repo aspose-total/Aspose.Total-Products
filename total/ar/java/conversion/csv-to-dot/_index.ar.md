@@ -42,11 +42,11 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">جرب تطبيقنا المجاني لتحويل CSV إلى DOT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملف CSV إلى ملف DOT (قالب Microsoft Word 97-2003) أمر أساسي لإنشاء قوالب وثائق قابلة لإعادة الاستخدام مع بيانات منظمة مسبقًا. تتيح ملفات DOT تخطيطات موحدة يمكن استخدامها بانتظام دون الكتابة فوق التنسيق الأصلي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **إعداد تقارير مستندة إلى قوالب من بيانات CSV** – تعبئة تخطيطات متسقة للتقارير المتكررة.
 - **توليد فواتير موحدة تلقائيًا** – دمج البيانات التحويلية في قوالب الفواتير.
 - **إنشاء قوالب وثائق Word معتمدة على النماذج من مجموعات البيانات** – تمكين إنشاء نماذج بسرعة لجمع البيانات.
@@ -58,7 +58,8 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 - **ربط البيانات بالنماذج تلقائيًا** – ربط حقول CSV بحاملات النماذج المحددة مسبقًا.
 - **تكامل إدارة محتوى الشركات القائم على الجافا** – مزامنة القوالب مع منصات إدارة المحتوى الشركية للوصول على نطاق المؤسسة.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

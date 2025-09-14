@@ -42,9 +42,9 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">جرب تطبيقنا المجاني لتحويل CSV إلى POTX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ الحالات الرئيسية للاستخدام
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الرئيسية للاستخدام" %}}
 - أتمتة قوالب العروض التقديمية الشركية
 - إنشاء عروض تقديمية للتسويق تعتمد على البيانات
 - إعداد أطر تصميم متسقة للفرق
@@ -56,7 +56,8 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 - سيناريوهات تأتير تصميم الشرائح بناءً على Java
 - دمج مع أنظمة إدارة العروض التقديمية الشركية
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

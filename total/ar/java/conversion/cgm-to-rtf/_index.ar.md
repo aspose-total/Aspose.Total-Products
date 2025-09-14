@@ -42,8 +42,8 @@ otherformats: ODT PCL DOTM OTT MARKDOWN WORDML XAMLFLOW FLATOPC DOTX MHTML RTF D
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **تضمين الرسومات في تنسيقات النص الغنية**  
   قم بدمج الرسومات CGM مباشرة في مستندات RTF للوثائق التقنية المشتملة على النص والصور.
@@ -54,7 +54,7 @@ otherformats: ODT PCL DOTM OTT MARKDOWN WORDML XAMLFLOW FLATOPC DOTX MHTML RTF D
 - **مشاركة مواصفات الهندسة**  
   قم بتوزيع المواصفات المفصلة مع رسومات CGM مضمنة لأصحاب المصلحة باستخدام ملفات RTF المدعومة عالميًا.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 
 - **مكتبات Java المتوافقة مع RTF**  
   قم بتلقين تحويل CGM إلى RTF باستخدام **Apache POI-HWPF**، أو واجهات برمجة تطبيقات Java مخصصة لإنشاء ملفات RTF.
@@ -67,7 +67,8 @@ otherformats: ODT PCL DOTM OTT MARKDOWN WORDML XAMLFLOW FLATOPC DOTX MHTML RTF D
 
 - **توصيل الوثائق عبر منصات متعددة**  
   استخدم التشغيل التلقائي بواسطة Java لضمان إنشاء ملفات RTF معتمدة على CGM بتنسيقات يمكن الوصول إليها عبر أنظمة تشغيل وتطبيقات مختلفة.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

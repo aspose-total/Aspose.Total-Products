@@ -30,19 +30,20 @@ otherformats: PNG DOCM MD ODT OTT DOCX XPS DOTX SVG JPEG EMF PS PDF EPUB WORDML 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 <h2>ايبوب</h2> هو تنسيق كتاب إلكتروني شهير. تحويل **EML إلى EPUB** يسمح بتخزين الرسائل الإلكترونية وقراءتها بشكل ملائم على القارئ الإلكتروني، الأجهزة اللوحية، والأجهزة المحمولة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تحويل سلاسل البريد الإلكتروني الهامة إلى كتب إلكترونية قابلة للنقل.
 - قراءة المراسلات المؤرشفة على أجهزة Kindle، Kobo، أو تطبيقات الهواتف المحمولة.
 - نشر المواد التدريبية أو مواد الاستقبال المخزنة في رسائل البريد الإلكتروني.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - خطوط أنابيب تلقائية تحول النشرات الإخبارية إلى EPUB.
 - ترحيل أرشيفات البريد الإلكتروني إلى مكتبات الكتب الإلكترونية.
 - تحويل الرسائل الإلكترونية بشكل دفعي إلى EPUB للقراءة دون اتصال.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

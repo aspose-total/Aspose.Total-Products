@@ -30,12 +30,12 @@ otherformats: DOT JPEG PCL DOTM DOTX EPUB MD DOC TIFF PNG OTT XPS ODT RTF DOCM W
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى **OpenDocument Text (ODT)** يضمن التوافق مع حزم البرامج المكتبية مفتوحة المصدر مثل OpenOffice. باستخدام واجهة برمجة تطبيقات البريد الإلكتروني في جافا، يمكن للشركات أتمتة سير العمل للوثائق المفتوحة المعيار.  
 
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **سير العمل مفتوح المصدر**: تخزين الرسائل الإلكترونية بتنسيقات متوافقة مع LibreOffice.  
 - **التعاون**: مشاركة الرسائل الإلكترونية القابلة للتحرير بدون الاعتماد على Microsoft Word.  
@@ -52,7 +52,8 @@ otherformats: DOT JPEG PCL DOTM DOTX EPUB MD DOC TIFF PNG OTT XPS ODT RTF DOCM W
 - **القطاع العام**: حفظ التواصلات الرسمية تلقائيًا كـ ODT لامتثال السياسات.  
 - **تصدير الدفعات**: تحويل صناديق البريد الوارد إلى ODT للوصول الشامل.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

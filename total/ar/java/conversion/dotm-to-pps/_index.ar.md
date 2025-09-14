@@ -54,24 +54,26 @@ otherformats: POTM PPSX PPTX POTX PPTM POWERPOINT POT PPSM PPT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **PPS (عرض شرائح بوربوينت)** يسمح بإنشاء عرض شرائح مباشر من قوالب Word التي تحتوي على ماكرو، وهو مناسب للفعاليات والتدريب وعروض الشركات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - عروض الفعاليات
 - عروض الشرائح التدريبية
 - عروض التقارير الآلية
 - عروض عرض الشركات
 - عروض العرض القائمة على أجهزة الكيوسك
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أتمتة عرض الشرائح من DOTM إلى PPS
 - خطوط إنتاج العروض الشرائح للشركات
 - توصيل العروض التقديمية بناءً على سير العمل
 - عروض الشرائح الآلية جاهزة للفعاليات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -30,25 +30,26 @@ otherformats: OTT RTF PNG TIFF EPUB XPS WORDML JPEG ODT MD TEXT GIF PS SVG DOCM 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **MSG إلى DOC** يحول رسائل البريد الإلكتروني إلى مستندات Word قابلة للتحرير، مما يجعل من السهل مراجعتها وتعليقها ودمجها في تقارير مهنية أو سجلات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * الحفاظ على رسائل البريد الإلكتروني التجارية في تنسيق Word قابل للتحرير
 * إنشاء تقارير رسمية من التواصل عبر البريد الإلكتروني
 * أرشفة مراسلات العملاء للامتثال
 * تحضير ملفات القضايا للإدارة القانونية وإدارة الموارد البشرية
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 
 * تحويل دفعة من MSG إلى DOC لسجلات المؤسسة
 * أنابيب الوثائق القانونية التلقائية
 * سير العمل في إدارة الموارد البشرية لأرشفة تواصل الموظفين
 * توليد مستندات من البريد الإلكتروني للاستخبارات التجارية
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

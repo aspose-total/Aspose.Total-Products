@@ -61,11 +61,11 @@ otherformats: XLSM XLT ODS TSV XLS XLSB FODS DIF XLTX XLAM XLSX XLTM SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOC** إلى **CSV (قيم مفصولة بفاصلة)** أمر حاسم لاستخراج البيانات الجدولية أو النصية من مستندات Word وتنظيمها في ملفات نصية بفاصلات فاصلة بينها. يتيح هذا التحويل ترحيل البيانات بسلاسة إلى جداول البيانات وقواعد البيانات وأدوات التحليل، مما يضمن التوافق وسهولة المشاركة عبر المنصات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - استخراج البيانات بالجملة من تقارير Word لاستيرادها إلى قاعدة بيانات
 - ترحيل المحتوى الجدولي إلى جداول بيانات للتحليل
 - تمكين التوافق مع أدوات تحليل البيانات والذكاء الاصطناعي
@@ -76,7 +76,8 @@ otherformats: XLSM XLT ODS TSV XLS XLSB FODS DIF XLTX XLAM XLSX XLTM SXC EXCEL
 - تحليل النصوص بناءً على النصوص البرمجية لاستخراج البيانات المخصصة
 - سيناريوهات سحابية لتحويل المستندات إلى بيانات للتحديثات في الوقت الحقيقي
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

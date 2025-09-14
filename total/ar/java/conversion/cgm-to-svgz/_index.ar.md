@@ -57,21 +57,23 @@ otherformats: TGA JPEG2000 IMAGE SVGZ WMF  WMZ PSD EMZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى SVGZ (رسومات نقطية قابلة للتوسيع مضغوطة) يوفر رسومات قابلة للتوسيع ودية للويب محسنة لتقليل عرض النطاق الترددي. مثالية لتقديم رسومات هندسية مفصلة عبر الإنترنت، تضمن SVGZ تقديم دقيق بحجم ملف صغير.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **توصيل الرسومات النقطية القابلة للتوسيع في تطبيقات الويب** – قدم مخططات نقطية عالية الجودة ومتجاوبة.
 - **أرشيف رسومات الهندسة** – قم بتخزين الرسومات المعقدة في تنسيق نقطي مضغوط.
 - **تحويل CAD إلى الويب** – نشر الرسومات التقنية من CAD إلى شكل جاهز للمتصفح.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **محركات تقديم SVG بناءً على Java** – قم بتحويل CGM إلى أصول SVGZ تفاعلية وقابلة للتوسيع.
 - **ضاغطات SVG** – أتمتة تقليل الحجم مع الاحتفاظ بالدقة البصرية.
 - **خطوط أنابيب الأصول الأمامية** – قم بإعداد المخططات للتحميل الفوري في تطبيقات الويب.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

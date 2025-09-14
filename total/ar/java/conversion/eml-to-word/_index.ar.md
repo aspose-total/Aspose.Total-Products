@@ -30,25 +30,27 @@ otherformats: MD PCL DOCX OTT PDF PS XPS GIF TIFF DOC ODT DOT DOCM EMF FLATOPC D
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **EML إلى WORD** يشير إلى حفظ محتوى البريد الإلكتروني في أي تنسيق يدعمه Microsoft Word، مما يضمن التحرير والمشاركة والأرشفة بسهولة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * جعل محتوى البريد الإلكتروني قابل للتحرير في Microsoft Word
 * إعداد وثائق رسمية من التواصل مع العملاء
 * مشاركة نسخ قابلة للقراءة من الرسائل الإلكترونية مع الفرق
 * تحويل الرسائل الإلكترونية إلى وثائق منظمة للاجتماعات
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 * تحويل آلي من EML إلى تنسيقات Word للأرشفة
 * تكاملات CRM/ERP لإنشاء مستندات Word قابلة للتحرير من الرسائل الإلكترونية
 * أنابيب اكتشاف الإلكترونيات لتحويل الرسائل الإلكترونية إلى مستندات قابلة للقراءة
 * أتمتة سير العمل لفرق الوثائق
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

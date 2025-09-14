@@ -30,11 +30,11 @@ otherformats: DOTM FLATOPC TIFF PNG DOC DOT ODT PCL DOTX DOCM SVG EPUB JPEG OTT 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى **PostScript (PS)** يوفر تنسيق وصف الصفحة الذي يستخدم على نطاق واسع في صناعات النشر والطباعة. باستخدام واجهة برمجة تطبيقات البريد الإلكتروني في جافا، يمكن تصدير الرسائل الإلكترونية إلى PS للطباعة عالية الجودة وسير العمل في النشر.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **النشر**: إعداد النشرات الإخبارية الإلكترونية لسير العمل المهني للطباعة.
 - **الأرشفة**: تخزين سجلات البريد الإلكتروني في PS للتوافق مع أرشيفات الطباعة.
@@ -50,7 +50,8 @@ otherformats: DOTM FLATOPC TIFF PNG DOC DOT ODT PCL DOTX DOCM SVG EPUB JPEG OTT 
 - **سير العمل النشري**: إعادة استخدام حملات البريد الإلكتروني في تنسيق PostScript جاهز للطباعة.
 - **أرشفة المؤسسات**: تخزين الاتصالات في تنسيق PS لقطاعات محددة تنظيمياً.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,22 +54,24 @@ otherformats: PPTX PPTM POWERPOINT PPSX PPS POTX POT PPSM PPT POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOC** إلى **POT (قالب بوربوينت)** مهم لإنشاء قوالب شرائح قابلة لإعادة الاستخدام من محتوى Word. يمكن أن يؤدي ذلك إلى توحيد العلامات التجارية، وتبسيط إنشاء العروض التقديمية، وتسريع نشر التخطيطات الموحدة عبر المؤسسات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - بناء قوالب عروض تقديمية متسقة من مستندات Word
 - توحيد العلامة التجارية الشركاتية عبر العروض التقديمية
 - أتمتة إنشاء سمات الشرائح من المحتوى المكتوب
 - إعداد القوالب لإنتاج العروض التقديمية بكميات كبيرة
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أدوات تعيين الأنماط DOC-to-POT لتوحيد التصميم
 - سكربتات توليد سمات مدفوعة بالجافا لبناء القوالب تلقائيًا
 - سير العمل الآلي لنشر القوالب للاستخدام في المؤسسات
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

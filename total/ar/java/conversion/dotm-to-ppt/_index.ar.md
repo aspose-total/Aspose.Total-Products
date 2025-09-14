@@ -54,24 +54,26 @@ otherformats: PPSX PPTX POT POWERPOINT PPTM POTX PPS POTM PPT PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **PPT (تنسيق باوربوينت القديم)** يضمن التوافق مع الأنظمة القديمة، مما يمكن من عرض العروض التقديمية المؤرشفة وشرائح التدريب للبنية التحتية القديمة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - أنظمة الشركات القديمة
 - العروض التقديمية المؤرشفة
 - شرائح التدريب للبنية التحتية القديمة
 - التوافق في بيئات عدم الاتصال بالإنترنت
 - تقارير الحكومة/المؤسسات
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أتمتة تحويل DOTM إلى PPT القديم
 - سير العمل للتوافق مع الإصدارات القديمة
 - خطوط إنتاج العروض الجاهزة للأرشفة
 - أتمتة تحويل العروض القديمة
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

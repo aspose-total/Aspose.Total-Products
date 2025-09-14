@@ -42,21 +42,23 @@ otherformats: FLATOPC ODT DOTM DOT MARKDOWN OTT PCL WORDML PS MHTML XAMLFLOW RTF
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى WORDML (WordprocessingML) يسمح بتضمين الرسومات البيانية المتجهة مباشرة في مستندات Word القائمة على XML، مما يتيح النشر الديناميكي وإنشاء المستندات القائمة على البيانات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **التكامل في تقارير قائمة على Word** – تضمين الرسوم البيانية في التقارير التلقائية.
 - **أنابيب النشر الأولية XML** – تمكين سير العمل للمحتوى المهيكل.
 - **تبادل المستندات الحكومية** – ضمان الامتثال للتنسيق في تقارير القطاع العام.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **محولات XML قائمة على Java** – تحويل CGM إلى WORDML للنشر التلقائي.
 - **محركات قوالب WordML** – تضمين الرسوم البيانية التقنية في القوالب المحددة مسبقًا.
 - **أنظمة إنشاء المستندات الديناميكية** – إنتاج حجوم كبيرة من التقارير المميزة.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

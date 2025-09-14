@@ -61,8 +61,8 @@ otherformats: SXC XLT EXCEL XLTM XLSB TSV XLTX XLSM XLS XLSX DIF FODS XLAM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ حالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تحويل جداول Word إلى جداول بيانات متوافقة مع ODF
 - مشاركة البيانات المهيكلة عبر أنظمة OpenOffice/LibreOffice
 - أرشفة البيانات في تنسيقات مفتوحة مبنية على XML
@@ -72,7 +72,8 @@ otherformats: SXC XLT EXCEL XLTM XLSB TSV XLTX XLSM XLS XLSX DIF FODS XLAM ODS
 - محولات DOC-to-FODS للحصول على نتائج موحدة
 - سكربتات تحويل XML لتنسيق دقيق
 - سير العمل للبيانات المستندة على OpenDocument للتعاون
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

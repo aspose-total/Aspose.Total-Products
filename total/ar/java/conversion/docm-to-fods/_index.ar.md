@@ -61,11 +61,11 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل مستندات **DOCM (مستندات Word التي تحتوي على ماكرو)** إلى **FODS (XML لجداول البيانات ODF المسطحة)** أمر حيوي لإنتاج **جداول بيانات منفردة بمعايير مفتوحة** والتي يمكن قراءتها بسهولة من قبل البشر، ويمكن مقارنة الاختلافات فيها بسهولة، والتحكم في الإصدارات. على عكس التنسيقات الثنائية، يخزن FODS بيانات الجدول كـ XML نصي، مما يجعله مثاليًا للبيئات التي تتطلب **قابلية التدقيق، الشفافية، والامتثال على المدى الطويل**. يمكن لهذا التحويل أن يمكن الفرق من نقل البيانات المنظمة خارج ملفات Word التي تحتوي على ماكرو ووضعها في تنسيق مُحسن لـ **التحكم في المصدر، والحوكمة، والتوافق عبر المنصات**.  
 
 
-## ✅ حالات الاستخدام الرئيسية  
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}  
 
 - **تخزين الجداول في Git لقراءة الاختلافات بوضوح**  
   احتفظ بالبيانات الجدولية في شكل XML حيث يمكن تتبع التغييرات سطراً بسطر في أنظمة التحكم في الإصدارات.  
@@ -83,7 +83,8 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
   تأكد من أن البيانات المستمدة من DOCM تظل خالية من الماكرو عند تخزينها في تنسيق FODS.  
 
 
-## ⚙️ سيناريوهات الأتمتة  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}  
 
 - **أنابيب CLI لتحويل DOCM إلى FODS**  
   أتمتة التحويلات من خلال أدوات سطر الأوامر لسير العمل القابل للتكرار والقابل للبرمجة.  
@@ -99,7 +100,8 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
 
 - **محقنات البيانات الوصفية التي تعلم FODS للحوكمة**  
   أثري النواتج بالبيانات الوصفية (الملكية، الإصدار، العلامات السياسية) للبيئات المنظمة.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

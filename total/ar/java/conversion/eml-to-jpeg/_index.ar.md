@@ -30,23 +30,24 @@ otherformats: MD DOCM DOC EPUB PNG EMF FLATOPC DOTX DOTM RTF OTT DOT XPS TIFF PS
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **EML** إلى **JPEG (مجموعة خبراء التصوير الفوتوغرافي المشتركة)** ينشئ تمثيل صورة مضغوطة لبريد إلكتروني.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **أرشفة مدمجة**: قم بتخزين لقطات البريد الإلكتروني بأحجام ملف أصغر.
 - **مشاركة عبر الأجهزة المختلفة**: تأكد من التوافق عبر جميع المنصات والتطبيقات.
 - **التوثيق البصري**: ضمن لقطات البريد الإلكتروني في التقارير والدلائل.
 - **مشاركة على وسائل التواصل الاجتماعي**: شارك البريد الإلكتروني بشكل بصري دون إعادة توجيهه.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - **تصدير JPEG بالدُفعة**: قم بتحويل أرشيفات البريد الإلكتروني الكبيرة إلى صور JPEG مضغوطة.
 - **الوصول عبر الهواتف المحمولة**: قم بإنشاء لقطات بريد إلكتروني خفيفة الوزن للهواتف الذكية.
 - **التشغيل التلقائي للامتثال**: قم بتخزين الرسائل الإلكترونية كسجلات JPEG لسهولة الوصول.
 - **فهرسة الصور**: قم ببناء أرشيفات قابلة للبحث عبر الصور لمحتوى البريد الإلكتروني.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

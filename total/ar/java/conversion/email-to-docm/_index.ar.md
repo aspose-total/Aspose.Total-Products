@@ -30,23 +30,25 @@ otherformats: WORDML DOTX SVG DOT OTT DOCX EMF PDF TIFF PS JPEG XPS PCL RTF EPUB
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *تحويل الرسائل الإلكترونية إلى DOCM يسمح بتضمين البرامج النصية، مما يجعلها مناسبة لسير العمل المتقدمة ومعالجة المستندات التلقائية.*
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * تخزين الرسائل الإلكترونية ذات المنطق التجاري المدمج أو القوالب في DOCM
 * توطين إنشاء التقارير من محتوى البريد الإلكتروني باستخدام البرامج النصية
 * توحيد قوالب الاتصال بوثائق تمكين البرامج النصية القابلة لإعادة الاستخدام
 * إنشاء سير العمل التلقائية للمهام المتكررة (على سبيل المثال، تحديثات مالية، تقارير الحالة)
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 * إنشاء تقارير DOCM ممكنة بالبرامج النصية تلقائيًا من بيانات البريد الإلكتروني
 * تحويل رسائل العملاء بالجملة إلى DOCM لتقارير ديناميكية
 * أتمتة خطوط الإنتاج من الإشعارات إلى المستندات مع النصوص المدمجة
 * تكامل البريد الإلكتروني مع DOCM لأتمتة سير العمل في المؤسسات
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

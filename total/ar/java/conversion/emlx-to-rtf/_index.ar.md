@@ -30,11 +30,11 @@ otherformats: GIF PDF EMF TEXT ODT OTT DOTM FLATOPC PNG WORDML PS DOT DOCX XPS T
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات **EMLX** إلى **RTF (تنسيق النص الغني)** يحافظ على تنسيق البريد الإلكتروني في تنسيق خفيف الوزن ومتوافق على نطاق واسع.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - مشاركة نص بريد إلكتروني مُنسق عبر منصات مختلفة
 - الحفاظ على تنسيق النص الغني من الرسائل الإلكترونية
 - إنشاء أرشيفات بريد إلكتروني عبر منصات مختلفة
@@ -46,7 +46,8 @@ otherformats: GIF PDF EMF TEXT ODT OTT DOTM FLATOPC PNG WORDML PS DOT DOCX XPS T
 - التكامل مع سير العمل لتقارير المؤسسات
 - توليد وثائق مُنسقة بشكل خفيف الوزن
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

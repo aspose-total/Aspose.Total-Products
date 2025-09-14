@@ -54,8 +54,8 @@ otherformats: POWERPOINT PPTM POT PPTX POTX PPS PPSM PPSX POTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}  
 
 - **تصميم قوالب تدريب تفاعلية**  
   بناء عروض تدريبية قابلة لإعادة الاستخدام مع عناصر تفاعلية مدعومة بالماكرو.  
@@ -90,7 +90,8 @@ otherformats: POWERPOINT PPTM POT PPTX POTX PPS PPSM PPSX POTM PPT CSV DIF FODS 
 
 - **تحويلات مدفوعة بالسكربت للعروض الديناميكية**  
   استخدام أدوات سطر الأوامر أو السكربت لتأتيمين إنشاء قوالب الشرائح.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

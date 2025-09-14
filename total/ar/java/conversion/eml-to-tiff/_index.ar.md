@@ -30,23 +30,24 @@ otherformats: WORDML DOT OTT DOTM EMF TIFF ODT SVG GIF MD PS DOC XPS PDF EPUB FL
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **EML** إلى **TIFF (تنسيق ملف صورة معروف)** ينتج صورًا عالية الجودة لرسائل البريد الإلكتروني، مثالي للاستمرارية والحفظ السجلي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **أرشفة المؤسسات**: تخزين رسائل البريد الإلكتروني في تنسيق TIFF للحفظ على المدى الطويل.
 - **دليل قانوني**: استخدام تنسيق TIFF غير القابل للتحرير للسجلات الجنائية.
 - **امتثال الحكومة**: تنسيق قياسي لأرشفة البريد الإلكتروني التنظيمي.
 - **دعم الصفحات المتعددة**: حفظ رسائل البريد الإلكتروني متعددة الصفحات في ملف TIFF واحد.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - **تصدير TIFF بالدُفعة**: تحويل صناديق البريد الإلكتروني بأكملها إلى أرشيفات TIFF.
 - **التشغيل التلقائي الجنائي**: تسجيل رسائل البريد الإلكتروني تلقائيًا في تنسيق TIFF للتحقيقات.
 - **أنظمة ECM للمؤسسات**: دمج لقطات البريد الإلكتروني بتنسيق TIFF في أنظمة السجلات.
 - **أنابيب التنظيمية**: تلبية معايير الأرشفة باستخدام سجلات قائمة على تنسيق TIFF.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

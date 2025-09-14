@@ -61,10 +61,10 @@ otherformats: XLAM XLSM DIF XLT SXC XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل DOCX إلى SXC (جدول بيانات StarOffice Calc) ضروري لتمكين معالجة البيانات القائمة على جداول البيانات من مستندات Word، خاصة في بيئات المكاتب القديمة ومصادر البرامج المفتوحة. يضمن ذلك الاحتفاظ بالبيانات الجدولية المنظمة وترحيلها وتحليلها بكفاءة في أنظمة StarOffice/LibreOffice.
 
-#### ✅ حالات الاستخدام الرئيسية
+##{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - ترحيل البيانات إلى OpenOffice/LibreOffice
 - الحفاظ على محتوى الجداول المنظمة من المستندات
 - تمكين التوافق مع أنظمة StarOffice
@@ -75,7 +75,8 @@ otherformats: XLAM XLSM DIF XLT SXC XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 - تكامل النظام القديم
 - سير العمل لتقارير مصادر البرامج المفتوحة
 - خطوط الأنابيب لتحويل المستندات إلى جداول بيانات في الشركات
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

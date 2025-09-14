@@ -30,23 +30,25 @@ otherformats: SVG TEXT OTT TIFF EPUB PS MD DOT GIF JPEG DOCM ODT RTF EMF DOTM DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *تحويل الرسائل الإلكترونية إلى DOTM يوفر قوالب تحتوي على ماكرو، مما يجمع بين الهياكل القابلة لإعادة الاستخدام وإمكانيات الأتمتة.*
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * إنشاء قوالب وثائق قابلة لإعادة الاستخدام وتحتوي على ماكرو من الرسائل الإلكترونية
 * أتمتة سير العمل المتكرر مثل إنشاء الفواتير أو التقارير
 * تضمين قواعد الأعمال في القوالب التي تم إنشاؤها من محتوى البريد الإلكتروني
 * دعم احتياجات أتمتة الوثائق للشركات
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 * تحويل تلقائي للرسائل الإلكترونية المتكررة إلى قوالب DOTM
 * إنشاء دفعة من القوالب التي تحتوي على ماكرو من الاتصالات القياسية
 * أنابيب البريد الإلكتروني إلى DOTM لأتمتة المهام الخاصة بالموارد البشرية أو التمويل أو الامتثال
 * تحديثات مجدولة لمكتبات القوالب من الرسائل الإلكترونية المتكررة
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

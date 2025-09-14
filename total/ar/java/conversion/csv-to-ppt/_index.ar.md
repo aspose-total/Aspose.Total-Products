@@ -42,21 +42,22 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">جرب تطبيقنا المجاني لتحويل CSV إلى PPT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ الحالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 - إنشاء تقارير لإصدارات بوربوينت القديمة
 - توزيع العروض التقديمية على العملاء الذين يستخدمون أنظمة قديمة
 - إنتاج عروض تقديمية متوافقة مع الإصدارات السابقة
 - إنشاء شرائح تدريبية قائمة على البيانات المهيكلة
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - إنشاء ملفات PPT من بيانات CSV
 - أنظمة معالجة دفعية لتحويل CSV إلى PPT
 - أدوات تعبئة محتوى الشرائح بناءً على Java
 - تحويلات تلقائية لتوافق الصيغ القديمة
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

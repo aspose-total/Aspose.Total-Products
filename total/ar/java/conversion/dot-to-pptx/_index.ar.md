@@ -54,11 +54,11 @@ otherformats: PPS PPTX PPTM POTX PPT PPSX POWERPOINT POTM POT PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOT** إلى **PPTX (عرض تقديمي بتنسيق XML المفتوح لـ PowerPoint)** يسمح بإنشاء ملفات PowerPoint الحديثة والقابلة للتحرير والمعتمدة على XML لسير العمل السحابية وقوالب الشركات القابلة للتطوير والاستخدام الأكاديمي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تقارير الأعمال
 - سير العمل لعروض الشرائح الجاهزة للسحابة
 - محاضرات أكاديمية
@@ -71,7 +71,8 @@ otherformats: PPS PPTX PPTM POTX PPT PPSX POWERPOINT POTM POT PPSM CSV DIF FODS 
 - تكامل سير العمل للشركات
 - أنابيب تحويل المستندات إلى شرائح
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

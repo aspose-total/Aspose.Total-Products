@@ -30,7 +30,7 @@ otherformats: PCL SVG XPS EMF DOCM DOTM GIF JPEG RTF ODT WORDML DOTX EPUB TEXT D
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 <h2>استخدامات رئيسية ✅</h2>
 
 * الحفاظ على تخطيط ثابت لمحتوى البريد الإلكتروني في Outlook
@@ -38,13 +38,14 @@ otherformats: PCL SVG XPS EMF DOCM DOTM GIF JPEG RTF ODT WORDML DOTX EPUB TEXT D
 * مشاركة البريد الإلكتروني بتنسيق XPS دون مخاطر التعديل
 * تقارير المؤسسات بتنسيقات معيارية من Microsoft
 
-<h2>سيناريوهات الأتمتة ⚙️</h2>
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 * خطوط أنابيب MSG-to-XPS لأرشفة الامتثال
 * ترحيل تلقائي لصناديق البريد الإلكتروني إلى مستودعات XPS
 * تصدير دفعي للبريد الإلكتروني إلى XPS لأقسام القانون
 * دمج المؤسسات في سير العمل في Microsoft Office
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,25 +61,27 @@ otherformats: XLSM DIF XLS XLSX XLTM EXCEL ODS TSV XLAM FODS XLSB SXC XLT XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTX** إلى **DIF (تنسيق تبادل البيانات)** يضمن التوافق مع أنظمة جداول البيانات القديمة والبرمجيات الإحصائية، مما يمكن من تبادل البيانات المنظمة لأغراض البحث والتطبيقات التجارية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تبادل البيانات عبر المنصات
 - النمذجة الإحصائية
 - البحث الأكاديمي
 - سير العمل للبرمجيات القديمة
 - هجرة البيانات المنظمة
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - خطوط أنابيب من DOTX إلى DIF
 - إنشاء DIF تلقائيًا
 - أتمتة بيانات البحث
 - تكامل الأنظمة القديمة
 - سير العمل من DOTX إلى البرمجيات الإحصائية
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

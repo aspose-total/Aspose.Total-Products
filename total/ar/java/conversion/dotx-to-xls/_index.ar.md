@@ -61,12 +61,12 @@ otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل DOTX (نموذج Word) إلى XLS (جدول بيانات Excel)
 
 تمكن الشركات من تحويل **DOTX (نموذج Word)** إلى **XLS (جدول بيانات Excel)** من تحويل هياكل الوثائق الموحدة إلى جداول بيانات يمكن التعامل معها. وهذا مهم بشكل خاص لأنظمة الإرث، وتقارير المؤسسات، والعمليات التجارية المنظمة التي لا تزال تعتمد على تنسيق Excel الكلاسيكي.
 
-#### ✅ حالات الاستخدام الرئيسية
+##{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - التوافق مع أنظمة الإرث مع إصدارات Excel القديمة  
 - سير العمل لتقارير المؤسسات  
 - جمع البيانات ومعالجتها من القوالب الموحدة  
@@ -78,7 +78,8 @@ otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 - تقارير مؤتمتة بتنسيقات Excel القديمة  
 - تحويل النموذج إلى جدول بيانات  
 - سير العمل من الوثيقة إلى البيانات للتقارير المنظمة  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

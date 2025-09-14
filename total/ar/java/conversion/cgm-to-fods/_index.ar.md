@@ -47,8 +47,8 @@ otherformats: ODS TSV XLTX EXCEL XLSB TXT SXC XLSM XLTM MD XLT DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **تحويل البيانات التقنية الرسومية إلى جداول بيانات**  
   استخراج بيانات الرسومات الناقلة من ملفات CGM إلى صفوف وأعمدة منظمة للتحليل.
@@ -60,7 +60,7 @@ otherformats: ODS TSV XLTX EXCEL XLSB TXT SXC XLSM XLTM MD XLT DIF
   توزيع بيانات الجدول المستمدة من CGM من خلال تطبيقات متوافقة مع ODF.
 
 
-## ⚙️ سيناريوهات التلقائية
+{{% blocks/products/pf/agp/feature-section-col title="## ⚙️ سيناريوهات التلقائية" %}}
 
 - **مكتبات Java مثل JOpenDocument**  
   أتمتة تحويل CGM إلى FODS في سياقات Java باستخدام مكتبات معالجة الجداول مفتوحة المصدر.
@@ -73,7 +73,8 @@ otherformats: ODS TSV XLTX EXCEL XLSB TXT SXC XLSM XLTM MD XLT DIF
 
 - **أنظمة معالجة البيانات مفتوحة المصدر**  
   استخدام FODS كجزء من منصات علمية أو هندسية مدعومة بواسطة Java لإدارة البيانات بشكل شفاف ومعتمد على المعايير.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -57,9 +57,9 @@ otherformats: WMF PSD DXF  JPEG2000 SVGZ EMZ WMZ IMAGE TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 
-## ✅ الحالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 
 - **توافق تصميم الهندسة**  
   مشاركة وتحرير التصاميم المعتمدة على CGM في أدوات CAD التي تدعم DXF للتعاون عبر منصات متعددة.
@@ -80,7 +80,8 @@ otherformats: WMF PSD DXF  JPEG2000 SVGZ EMZ WMZ IMAGE TGA DICOM
 
 - **أنظمة الأرشفة الآلية للCAD**  
   تخزين تصاميم CGM كملفات DXF في أرشيفات الهندسة على المدى الطويل لإعادة الاستخدام المستقبلية والامتثال.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,10 +61,10 @@ otherformats: XLTX EXCEL XLSX XLS XLSM XLTM ODS FODS XLAM XLT SXC TSV XLSB DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل **DOCM (مستندات Word التي تدعم الماكرو)** إلى **CSV (قيم مفصولة بفواصل)** أمر حيوي لاستخراج البيانات النصية المنظمة أو المهيكلة إلى تنسيق خفيف ومستقل عن النظام. بينما تعتبر ملفات DOCM مستندات نصية غنية مصممة للماكروهات والتنسيق، توفر ملفات CSV هيكلًا نظيفًا وعالميًا لتخزين البيانات ومشاركتها. يبسط هذا التحويل سير العمل عن طريق تحويل البيانات المعقدة المعتمدة على Word إلى جداول بيانات يمكن قراءتها بسهولة والتكامل مع قواعد البيانات وأدوات التحليل وأنابيب تعلم الآلة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **ترحيل البيانات إلى قواعد البيانات**  
   حول جداول DOCM إلى تنسيق CSV للاستيراد السريع إلى قواعد بيانات SQL و NoSQL.
@@ -78,7 +78,8 @@ otherformats: XLTX EXCEL XLSX XLS XLSM XLTM ODS FODS XLAM XLT SXC TSV XLSB DIF
 - **مشاركة المعلومات المنظمة عبر المنصات**  
   استخدم ملفات CSV كوسيلة خفيفة لتبادل البيانات الجدولية عبر أنظمة التشغيل وتطبيقات السحابة والمشاركين.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 - **محولات دفعية من DOCM إلى CSV**  
   قم بمعالجة ملفات DOCM متعددة تلقائيًا إلى تنسيق CSV لمعالجة البيانات بمقياس كبير.
@@ -88,7 +89,8 @@ otherformats: XLTX EXCEL XLSX XLS XLSM XLTM ODS FODS XLAM XLT SXC TSV XLSB DIF
 
 - **تكامل إنابيب البيانات مع أدوات BI باستخدام مخرجات CSV بشكل آلي**  
   قم بدمج تحويل DOCM إلى CSV في أنابيب ETL، مما يتيح التحديثات في الوقت الحقيقي ومجموعات بيانات جاهزة للتحليل.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

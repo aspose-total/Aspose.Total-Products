@@ -42,23 +42,25 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">جرب تطبيقنا المجاني لتحويل CSV إلى MOBI</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **CSV** إلى **MOBI (كتاب إلكتروني Mobipocket)** يمكن أن يسمح بتحويل مجموعات البيانات المنظمة إلى تنسيقات صديقة للقارئ الإلكتروني المحمول مثالية لـ Kindle وأجهزة الكتب الإلكترونية الأخرى. هذه العملية قيمة لتحويل الفهارس ومجموعات البيانات والدلائل الخاصة بـ CSV إلى موارد مدمجة وقابلة للبحث ويمكن الوصول إليها دون اتصال تحسن من خلالها جذب القراء وكفاءة توزيع البيانات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - نشر فهارس المنتجات أو الخدمات القائمة على CSV ككتب إلكترونية
 - تحويل مجموعات البيانات إلى دلائل مرجعية سريعة
 - إنشاء دلائل تدريبية خارجية لأجهزة Kindle
 - توزيع المحتوى المنظم في تنسيقات القارئ الإلكتروني لتحسين الوصول إليه
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - مكتبات توليد MOBI قائمة على Java لتحويل مباشر من CSV
 - أدوات معالجة دفعية من CSV إلى MOBI للنشر بمقياس كبير
 - التكامل مع منصات نشر الكتب الإلكترونية لتبسيط التوزيع
 - سير عمل نشر الفهارس القائمة على Java لنشر المحتوى تلقائيًا
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

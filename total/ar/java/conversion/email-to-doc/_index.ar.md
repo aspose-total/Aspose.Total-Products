@@ -30,23 +30,25 @@ otherformats: TIFF TEXT GIF DOC XPS JPEG ODT FLATOPC RTF PNG SVG MD DOTM DOTX DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *تحويل رسائل البريد الإلكتروني إلى ملف DOC يمكن للشركات الحفاظ على سجلات الاتصال، وتحريرها، وإعادة استخدامها في تنسيق مستند Word منظم.*
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 * أرشفة الاتصالات البريدية الهامة في ملفات DOC قابلة للتحرير
 * إعداد وثائق قانونية أو توافقية من سجلات البريد الإلكتروني
 * تحويل تحديثات المشروع أو الاتصالات مع العملاء إلى تقارير منظمة
 * تحرير رسائل البريد الإلكتروني باستخدام ميزات التنسيق المتقدمة في Microsoft Word
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 * تحويل الرسائل الواردة تلقائيًا إلى ملف DOC للوثائق المركزية
 * تصدير الرسائل البريدية بشكل دفعي إلى ملفات DOC لأغراض الأرشفة التوافقية
 * أنابيب عملية تحويل البريد الإلكتروني إلى DOC تلقائيًا لإدارة الحالات أو سجلات الموارد البشرية
 * تحويلات مجدولة لإنشاء نسخ احتياطية قابلة للتحرير من اتصالات الفريق
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

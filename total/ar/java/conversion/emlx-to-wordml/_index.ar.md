@@ -30,11 +30,11 @@ otherformats: DOCM JPEG TEXT SVG PNG DOTX EPUB GIF WORDML TIFF FLATOPC PS ODT DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **رسائل البريد الإلكتروني EMLX** إلى **WordML (WordprocessingML XML)** يضمن تمثيل بريد إلكتروني منظم بناءً على XML لسير العمل المتقدمة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تخزين رسائل البريد الإلكتروني بتنسيق XML منظم
 - تمكين البحث الدلالي في محتوى البريد الإلكتروني
 - استخدام WordML في تبادل البيانات التجارية
@@ -46,7 +46,8 @@ otherformats: DOCM JPEG TEXT SVG PNG DOTX EPUB GIF WORDML TIFF FLATOPC PS ODT DO
 - أنظمة الأرشفة مع سجلات بريد إلكتروني منظمة
 - التكامل مع المعايير القانونية والمالية بناءً على XML
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

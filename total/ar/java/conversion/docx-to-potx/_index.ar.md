@@ -54,11 +54,11 @@ otherformats: POTX PPSX PPS POTM POT POWERPOINT PPTX PPSM PPTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOCX** إلى **POTX (قالب PowerPoint Open XML)** أمر حيوي لإنشاء قوالب حديثة قابلة لإعادة الاستخدام تحافظ على المحتوى المنظم وتضمن التوافق عبر إصدارات Office المختلفة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - توحيد قوالب PowerPoint الحديثة
 - ضمان التوافق عبر إصدارات Office المختلفة
 - نقل النصوص المنظمة إلى قوالب جاهزة للتصميم
@@ -71,7 +71,8 @@ otherformats: POTX PPSX PPS POTM POT POWERPOINT PPTX PPSM PPTM PPT CSV DIF FODS 
 - سير العمل الموحد لقوالب POTX
 - تحقيق تناسق التصميم التلقائي في عروض الشرائح
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

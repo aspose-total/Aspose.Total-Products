@@ -54,8 +54,8 @@ otherformats: PPSM PPT PPTX PPSX POTX POTM POWERPOINT POT PPS PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}  
 
 - **تصميم عروض تدريبية مُتَّمَتَة**  
   تعزيز التدريب بشرائح تفاعلية مع ماكرو.  
@@ -74,7 +74,8 @@ otherformats: PPSM PPT PPTX PPSX POTX POTM POWERPOINT POT PPS PPTM CSV DIF FODS 
 
 
 
-## ⚙️ سيناريوهات الأتمتة  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}  
 
 - **محولات DOCM إلى PPTM تحتفظ بالماكرو**  
   ضمان انتقال النصوص التلقائية بسلاسة.  
@@ -90,7 +91,8 @@ otherformats: PPSM PPT PPTX PPSX POTX POTM POWERPOINT POT PPS PPTM CSV DIF FODS 
 
 - **أنابيب تقارير متقدمة تصدر ملفات PPTM**  
   تقديم عروض تقارير تلقائية.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

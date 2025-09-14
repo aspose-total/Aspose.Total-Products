@@ -47,12 +47,12 @@ otherformats: EXCEL TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسوم البيانية **CGM** إلى تنسيق **Excel (.xlsx)** هو عملي لتقارير المؤسسات، وتحليلات الهندسة، وتصور البيانات المهيكلة. في سيناريوهات العمل بتقنية **Java**، يمكن لهذا التحويل استخراج المقاييس، والمواصفات الفنية، وبيانات الرسوم البيانية من رسومات CGM إلى جداول البيانات للتحليل، والتقارير، واتخاذ القرارات. تتيح تكامل Excel الجمع بين الرسوم البيانية ومجموعات البيانات الجدولية لتقارير فنية شاملة.
 
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **قياسات الهندسة المضمنة**  
   التقاط قيم القياس من رسومات CGM إلى Excel للحساب وتحليل الاتجاهات.
@@ -75,7 +75,8 @@ otherformats: EXCEL TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
 - **أنظمة تقارير المؤسسات**  
   تضمين سيناريوهات تحويل CGM إلى Excel في أنابيب BI أو ETL القائمة على Java لمعالجة بيانات الهندسة على نطاق واسع.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

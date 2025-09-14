@@ -57,17 +57,18 @@ otherformats: TGA DXF IMAGE WMZ JPEG2000 WMF SVGZ  PSD EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الاستخدام الرئيسية
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 - نشر الرسوم التخطيطية CGM في المقالات والتقارير والمنصات على الإنترنت.
 - تضمين الرسوم البيانية في تطبيقات سطح المكتب أو الويب القائمة على Java.
 - تقديم الصور النقطية العامة للاستخدام عبر المنصات في العروض التقديمية أو البرمجيات.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - تكامل مجموعة تطوير البرمجيات للصور في Java لتحويل الدفعات من ملفات CGM إلى صور نقطية.
 - محولات دفعات في الوقت الحقيقي في خطوط معالجة قائمة على السحابة.
 - أنظمة عرض متجهية-نقطية هجينة لتلبية احتياجات العرض الديناميكي.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,20 +30,21 @@ otherformats: DOCX PNG DOCM DOTM JPEG SVG MD TEXT RTF TIFF DOTX EPUB WORDML PCL 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>حالات الاستخدام الرئيسية ✅</h2>
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - الحفاظ على رسائل Apple Mail في تنسيق جاهز للطباعة.
 - أرشفة التواصلات لسير العمل في شركة Microsoft.
 - قراءة عبر المنصات مع دقة التخطيط.
 - مشاركة رسائل Apple Mail الرقمية بتنسيق منظم.
 
-<h2>سيناريوهات الأتمتة ⚙️</h2>
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - سير عمل تحويل البريد الإلكتروني إلى XPS بشكل آلي للأرشفة.
 - تحويل دفعة من EMLX إلى نظام Microsoft.
 - الاحتفاظ بالسجلات القانونية والامتثال باستخدام XPS.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

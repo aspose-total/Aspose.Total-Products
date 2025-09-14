@@ -61,11 +61,11 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLS EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOT** إلى **XLS (تنسيق Excel الثنائي)** ضروري لإنشاء جداول بيانات منظمة وقابلة للتحليل مباشرة من قوالب Word، مما يضمن التوافق مع الإصدارات السابقة وتحسين سير العمل دون الاتصال بالإنترنت.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تقارير مالية تقليدية
 - الحفاظ على سجلات المؤسسة
 - جداول بيانات قابلة للاستخدام دون اتصال
@@ -78,7 +78,8 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLS EXCEL XLSX SXC TSV XLSB
 - تحويل البيانات بناءً على متطلبات الامتثال
 - خطوط أنابيب تقارير المؤسسة
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

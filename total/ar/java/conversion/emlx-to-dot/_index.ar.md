@@ -30,23 +30,25 @@ otherformats: EPUB PS PDF DOTM FLATOPC SVG RTF TEXT WORDML DOT DOC DOCX JPEG EMF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات **EMLX** إلى **DOT (قالب Word)** يحول محتوى البريد الإلكتروني إلى قوالب وثائق موحدة وقابلة لإعادة الاستخدام.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - إنشاء قوالب من تنسيقات البريد الإلكتروني المتكررة
 - إعداد ملفات DOT للاتصالات القانونية أو موارد البشر
 - توحيد الوثائق القائمة على البريد الإلكتروني
 - تصميم قوالب Word عالية المستوى للشركات من البريد الإلكتروني
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - أنابيب EMLX-to-DOT لإنشاء تنسيقات قابلة لإعادة الاستخدام
 - توليد تلقائي للقوالب من أرشيفات البريد الإلكتروني
 - دمج قوالب DOT في سير العمل الشركات
 - أتمتة تصميم العلامات التجارية للوثائق من رسائل البريد الإلكتروني
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

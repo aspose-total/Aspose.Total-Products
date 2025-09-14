@@ -59,11 +59,11 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CGM إلى POTX (قالب عرض Open XML) يوفر تنسيق قالب مرن وحديث لسير العمل في العروض التقديمية للأعمال والهندسة. يدعم POTX الرسومات الناقلة، مما يجعله مثاليًا للرسوم البيانية التقنية المعتمدة على CGM التي تحتاج إلى إعادة استخدامها عبر عروض شرائح متعددة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **تقارير بصرية معيارية للصناعة** – إعداد تخطيطات احترافية لعروض العملاء وأصحاب المصلحة.
 - **قوالب تصميم الهندسة** – تضمين الرسوم البيانية الناقلة القابلة للتوسيع في تخطيطات قابلة لإعادة الاستخدام.
 - **شرائح معلوماتية قابلة لإعادة الاستخدام** – ضمان هوية الشركة المتسقة عبر الأقسام المختلفة.
@@ -73,7 +73,8 @@ presentation.save("output.potx", SaveFormat.Potx);
 - **أتمتة محتوى المؤسسات** – تبسيط إنشاء مكتبات القوالب المميزة.
 - **أنابيب العروض المقننة** – دمجها في أنابيب CI/CD لإعداد العروض التلقائي.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -42,11 +42,11 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">جرب تطبيقنا المجاني لتحويل CSV إلى PPS</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **CSV** إلى **PPS (عرض شرائح PowerPoint 97-2003)** يوفر عروض شرائح جاهزة للعرض، مولدة تلقائيًا من مجموعات بيانات منظمة. هذا مثالي لإنشاء عروض منتجات فورية، وحلقات تدريبية، أو عروض مبنية على الأحداث.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - شرائح عرض منتجات مؤتمتة
 - إنشاء فوري لعروض العملاء
 - إنتاج وحدات تدريبية مبنية على العروض التقديمية
@@ -58,7 +58,8 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 - تحفيز الانتقالات والتحريكات في الشرائح بواسطة Java
 - التكامل مع منصات توصيل المحتوى التلقائي
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

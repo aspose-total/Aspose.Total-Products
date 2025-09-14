@@ -54,24 +54,26 @@ otherformats: PPTM PPSM PPS PPT POWERPOINT POT POTX POTM PPSX PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOT** إلى **POTX (قالب PowerPoint Open XML)** يمكن أن يتيح إنشاء قوالب عروض حديثة قائمة على XML مناسبة لسحابة الوسائط المتعددة وسير العمل القابل للتوسيع.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - سير العمل الجاهز للسحابة للعروض
 - قوالب الشركات الموحدة
 - شرائح التعليم والتدريب
 - توافق القوالب متعددة الأجهزة
 - أنظمة تصميم العروض القابلة للتوسيع
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - تحويل DOT إلى POTX في السحابة
 - أتمتة قوالب PowerPoint
 - سير العمل للشرائح XML في المؤسسات
 - أنابيب تحويل المستندات إلى القوالب
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

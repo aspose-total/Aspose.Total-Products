@@ -30,12 +30,12 @@ otherformats: DOC XPS TEXT OTT ODT SVG DOTM WORDML DOTX JPEG EMF GIF PDF MD EPUB
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى **تنسيق نص غني (RTF)** يضمن التوافق الواسع عبر محررات النصوص وتطبيقات المكتب. باستخدام واجهة برمجة تطبيقات جافا للبريد الإلكتروني، يمكن للشركات تحويل محتوى البريد الإلكتروني إلى ملفات RTF قابلة للتحرير للتعاون والتوثيق.
 
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **تحرير عبر المنصات المتعددة**: افتح محتوى البريد الإلكتروني في أي محرر يدعم تنسيق RTF.
 - **القانون والامتثال**: قم بتخزين الرسائل الإلكترونية بتنسيق قابل للتحرير ولكن موحد.
@@ -44,7 +44,7 @@ otherformats: DOC XPS TEXT OTT ODT SVG DOTM WORDML DOTX JPEG EMF GIF PDF MD EPUB
 - **الأرشفة**: حافظ على التواصل بتنسيق خفيف الوزن ومدعوم على نطاق واسع.
 
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 
 - **تصدير دفعي**: حول صناديق البريد إلى RTF لمستودعات مشتركة.
 - **أدوات التعاون**: مزامنة رسائل البريد الإلكتروني بتنسيق RTF مع أنظمة الفريق للتحرير.
@@ -52,7 +52,8 @@ otherformats: DOC XPS TEXT OTT ODT SVG DOTM WORDML DOTX JPEG EMF GIF PDF MD EPUB
 - **الوصول المفتوح**: احفظ رسائل البريد الإلكتروني التعليمية أو البحثية كـ RTF للمشاركة العامة.
 - **هجرة البيانات**: نقل الاتصالات عبر المنصات باستخدام RTF.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

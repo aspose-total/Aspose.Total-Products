@@ -30,12 +30,12 @@ otherformats: DOT DOTX OTT PDF MD DOTM TEXT SVG DOCX XPS JPEG DOC WORDML ODT PCL
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تصدير الرسائل الإلكترونية إلى مستندات Word (DOC/DOCX) يسمح بالتحرير والتعليق والدمج مع تقارير الأعمال. باستخدام واجهة برمجة تطبيقات البريد الإلكتروني في جافا، يمكن للمؤسسات تحويل الرسائل الإلكترونية إلى مستندات قابلة للتحرير بالكامل.
 
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **سجلات قابلة للتحرير**: تحويل التواصل الهام إلى Word لصياغة العقود.
 - **وثائق الحالات**: إرفاق سلاسل البريد الإلكتروني بشكل قابل للتحرير مع ملفات القضايا القانونية.
@@ -44,7 +44,8 @@ otherformats: DOT DOTX OTT PDF MD DOTM TEXT SVG DOCX XPS JPEG DOC WORDML ODT PCL
 - **إدارة المعرفة**: تخزين محتوى البريد الإلكتروني في مستودعات Word مركزية.
 
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 
 - **معالجة دفعية**: تحويل الرسائل الإلكترونية المحددة إلى Word لتوثيق المشروع.
 - **أتمتة العقود**: حفظ رسائل التفاوض كملفات DOCX لتضمينها في الاتفاقيات.
@@ -52,7 +53,8 @@ otherformats: DOT DOTX OTT PDF MD DOTM TEXT SVG DOCX XPS JPEG DOC WORDML ODT PCL
 - **أدوات التعاون**: مزامنة الرسائل الإلكترونية المحولة إلى Word مع MS Teams أو SharePoint.
 - **دمج القوالب**: إدراج محتوى البريد الإلكتروني في قوالب Word الشركية.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

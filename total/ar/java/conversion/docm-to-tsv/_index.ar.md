@@ -61,11 +61,11 @@ otherformats: TSV SXC FODS XLSB XLAM XLTX XLSX ODS XLS XLSM DIF XLTM EXCEL XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات **DOCM** إلى **TSV (قيم مفصولة بواسطة علامة تبويب)** مهم لتصدير البيانات المهيكلة من مستندات Word إلى تنسيقات نصية خفيفة سهلة التكامل عبر الأنظمة. يضمن TSV توافقًا نظيفًا مع أنظمة تخطيط موارد المؤسسات (ERP)، ونظم إدارة علاقات العملاء (CRM)، ومنصات التحليلات، والمنصات التقليدية، مما يمكن أيضًا سير العمل لتعلم الآلة وتبادل البيانات عبر بيئات البرمجة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - إعداد **بيانات نصية مهيكلة** لاستيرادات **ERP أو CRM**  
 - نقل الجداول إلى **منصات التحليلات والذكاء الاصطناعي**  
 - مشاركة مجموعات البيانات الجدولية عبر **بيئات البرمجة والنصوص**  
@@ -79,7 +79,8 @@ otherformats: TSV SXC FODS XLSB XLAM XLTX XLSX ODS XLS XLSM DIF XLTM EXCEL XLT
 - **تحويلات مدفوعة بواسطة واجهة برمجة التطبيقات (API)** تصدر TSV للتكاملات الناتجة  
 - **محاور بيانات المؤسسة** التي تستفيد من TSV للتوافق الخفيف الوزن
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,24 +54,26 @@ otherformats: PPTM PPSX POWERPOINT POTX PPT POT PPSM PPS PPTX POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOT** إلى **PowerPoint** يسمح بإنشاء شرائح العرض جاهزة للاستخدام بسرعة من قوالب Word، مما يسهل إنشاء تقارير ومحتوى تدريبي.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - سير العمل السريع من المستند إلى العروض التقديمية
 - تقارير الأعمال
 - شرائح تعليمية
 - إنشاء مقترحات
 - إنشاء محتوى تدريبي
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - إنشاء شرائح DOT إلى PowerPoint
 - بناء العروض التقديمية بشكل آلي
 - تحسين سير العمل للشركات
 - أنابيب المستندات إلى الشرائح
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

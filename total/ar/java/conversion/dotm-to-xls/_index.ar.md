@@ -61,24 +61,26 @@ otherformats: TSV XLAM SXC XLS EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **XLS** يضمن التوافق مع الإصدارات القديمة من Microsoft Excel مع الحفاظ على بيانات قوالب Word الممكنة للماكرو في جداول بيانات منظمة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - أنظمة مالية قديمة
 - تقارير الامتثال الحكومي
 - تخزين البيانات الأكاديمية
 - سير العمل المحاسبي للشركات
 - احتياجات التوافق الخلفي
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - خطوط أنابيب DOTM-to-XLS
 - تحويل دفعي للأرشيف
 - تقارير آلية إلى Excel القديم
 - سير العمل من الماكرو إلى جداول البيانات القديمة
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

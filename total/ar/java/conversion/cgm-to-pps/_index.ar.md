@@ -59,21 +59,23 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات CGM إلى PPS (عرض PowerPoint) يسمح بعروض جاهزة للتشغيل تفتح في وضع عرض الشرائح، مثالية للعروض التي لا تحتاج إلى تدخل أو لعروض بنمط كشك. يمكن لفرق الهندسة والشركات استخدام هذا للجولات المرئية وعروض الرسوم الثابتة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **عروض قائمة على الكشك** – حلقات عرض آلية في المعارض والمؤتمرات.
 - **جولات تصميم الهندسة** – شروحات بصرية لجلسات استعراض التصميم.
 - **شرائح العرض للقراءة فقط** – منع التعديلات غير المقصودة أثناء المشاركة.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **تطبيقات الكشك بناءً على Java** – إنشاء ملفات PPS من الرسوم التخطيطية CGM للعروض العامة.
 - **منشئات عروض الشرائح الديناميكية** – إنشاء عروض تكرارية تلقائيًا من البيانات الهندسية.
 - **عروض تقارير غير مراقبة** – جدولة التشغيل التلقائي لدورات التقارير.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -42,23 +42,25 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">جرب تطبيقنا المجاني لتحويل CSV إلى DOCM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل CSV إلى DOCM (مستند Word ممكّن للماكرو) أمر حيوي لإنشاء تقارير تفاعلية ومُتمَّمة من مجموعات البيانات المُنظَّمة. تدعم ملفات DOCM ماكرو VBA، مما يمكّن الأتمتة المتقدمة مثل الحسابات الديناميكية، التنسيق الشرطي، وتحديثات المستند المدفوعة بالبيانات.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - **إنشاء تقارير مُتمَّمة تلقائيًا بما في ذلك ماكرو VBA مضمن** – إنشاء تقارير تفاعلية مع منطق مدمج.
 - **لوحات تحكم الأعمال المدفوعة بالبيانات في Word** – إنشاء لوحات تحكم ممكّنة للماكرو لتتبع الأداء.
 - **نماذج تفاعلية تم تعبئتها من بيانات CSV** – ملء نماذج Word بمعلومات منظمة.
 - **أتمتة المستندات المخصصة للشركات** – تمكين سير العمل بالماكرو لمهام التقارير المتكررة.
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **مكتبات إنشاء DOCM بناءً على Java** – إنشاء ملفات Word ممكّنة للماكرو بشكل برمجي.
 - **محولات CSV إلى DOCM مع حقن الماكرو** – تضمين سكربتات الأتمتة أثناء إنشاء المستند.
 - **التكامل مع أنظمة الذكاء التجاري** – إنتاج تقارير ممكّنة للماكرو تلقائيًا من منصات التحليل.
 - **سير العمل بالماكرو المُشغّلة بواسطة Java لمرحلة ما بعد المعالجة** – تشغيل التنسيق المتقدم أو التحقق من البيانات بعد الإنشاء.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

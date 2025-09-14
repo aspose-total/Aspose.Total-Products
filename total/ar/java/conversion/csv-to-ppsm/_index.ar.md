@@ -42,11 +42,11 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">جرب تطبيقنا المجاني لتحويل CSV إلى PPSM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **CSV** إلى **PPSM (عرض تقديمي لشرائح PowerPoint ممكّن من الماكرو)** يمكن أن يمكّن تقديم عروض تقديمية تفاعلية ومُتَّمّة تم إنشاؤها من مجموعات بيانات منظمة. هذا التنسيق مناسب تمامًا لعروض توضيحية للمنتجات، ولوحات التحكم، ومواد التعلم التفاعلية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - عروض توضيحية للمنتجات تعتمد على الماكرو
 - عروض تقديمية لوحات التحكم المتَّمّة
 - عروض تقديمية تفاعلية للتدريب
@@ -58,7 +58,8 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 - إنتاج PPSM دفعي للأحداث المتكررة
 - أنظمة جافا لجداول العروض التقديمية
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -61,22 +61,24 @@ otherformats: XLS FODS EXCEL XLSB DIF SXC XLSM XLT TSV XLAM XLSX ODS XLTX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تصدير **DOTX (نموذج Word)** إلى **XLAM (إضافة Excel)** يمكن أن يمكّن الأتمتة التي تعمل بالماكرو، مما يعزز تقارير المؤسسات، ونمذجة البيانات المالية، والإنتاجية من خلال أدوات Excel قابلة لإعادة الاستخدام.
 
-#### ✅ حالات الاستخدام الرئيسية
+##{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - أدوات Excel للأتمتة المخصصة
 - أتمتة تقارير المؤسسات
 - إضافات نمذجة البيانات المالية
 - إدخال البيانات المبسط من خلال الماكرو في Excel
 - أتمتة قوالب قابلة لإعادة الاستخدام
 
-#### ⚙️ سيناريوهات الأتمتة
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - سير العمل من DOTX إلى XLAM لأدوات Excel التي تعمل بالماكرو
 - إنشاء إضافة تلقائيًا من القوالب
 - حلول الإنتاجية للمؤسسات تعمل بقوة Excel
 - أدوات قوالب إلى Excel مع أتمتة متقدمة
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

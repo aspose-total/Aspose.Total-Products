@@ -30,12 +30,12 @@ otherformats: JPEG DOTM DOCX IMAGE OTT EPUB DOCM EMF FLATOPC DOT TEXT ODT SVG DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى تنسيقات صور مثل **JPG، PNG، أو TIFF** يضمن الحفاظ على التصميم البصري وسلامة الرسالة. باستخدام واجهة برمجة التطبيقات للبريد الإلكتروني في جافا، يمكن للمطورين أتمتة هذه العملية لإنشاء لقطات آمنة ومحمية وقابلة للمشاركة للرسائل الإلكترونية.
 
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **دليل قانوني**: تخزين الرسائل الإلكترونية كملفات صور غير قابلة للتحرير للامتثال وقضايا المحكمة.
 - **التدريب والتوعية**: تضمين أمثلة على رسائل الصيد الاحتيالي أو الشركات كصور في الدلائل التدريبية.
@@ -52,7 +52,8 @@ otherformats: JPEG DOTM DOCX IMAGE OTT EPUB DOCM EMF FLATOPC DOT TEXT ODT SVG DO
 - **وثائق المشروع**: إرفاق لقطات البريد الإلكتروني بتقارير المشروع حيث يكون الدليل البصري مطلوبًا.
 - **أنظمة العمل الجنائي**: تحويل رسائل البريد الإلكتروني المشبوهة أو الصيد الاحتيالي إلى تنسيق صور للمحققين دون خطر تنفيذ الروابط الخبيثة بطريق الخطأ.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

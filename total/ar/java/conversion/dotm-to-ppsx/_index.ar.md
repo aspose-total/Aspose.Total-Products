@@ -54,24 +54,25 @@ otherformats: PPSM PPS PPSX POTM POWERPOINT PPT PPTM POTX PPTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **PPSX (عرض شرائح بتنسيق XML المفتوح لـ PowerPoint)** أمر حيوي لعروض الشرائح الحديثة، مما يمكن من التشغيل التلقائي في السحابة وسير العروض الشرائح للفعاليات بمقياس كبير.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - التشغيل التلقائي للتدريب  
 - عروض شرائح لعرض المبيعات  
 - مشاركة التقارير على نطاق المؤسسة  
 - عروض شرائح لفعاليات بمقياس كبير  
 - اللافتات الرقمية  
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - تكامل سير العمل من DOTM إلى PPSX  
 - التشغيل التلقائي لعروض الشرائح جاهزة للـ XML  
 - خطوط أنابيب تسليم العروض للمؤسسات  
 - عروض PowerPoint المولَّدة تلقائيًا
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

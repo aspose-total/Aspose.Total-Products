@@ -54,24 +54,26 @@ otherformats: PPTM POWERPOINT PPS POTX PPT PPSX POT POTM PPSM PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTX** إلى **POTM (قالب باوربوينت مع ماكرو ممكّن)** ضروري للمؤسسات التي تعتمد على الأتمتة داخل العروض التقديمية، مما يمكن من وظائف متقدمة وتفاعلية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - التدريب التفاعلي
 - تحديثات الشرائح التلقائية
 - عروض تقارير ممكّنة بالماكرو
 - عروض تقديمية على مستوى المؤسسة
 - شرائح الامتثال الشركوي
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - خطوط أنابيب الماكرو من DOTX إلى POTM
 - قوالب التحديث التلقائي
 - الأتمتة القائمة على البيانات في العروض التقديمية
 - سير العمل الماكرو المخصص
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

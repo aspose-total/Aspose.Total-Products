@@ -30,12 +30,12 @@ otherformats: DOT PS SVG PDF XPS FLATOPC WORDML JPEG DOCM PCL DOCX RTF GIF TIFF 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل الرسائل الإلكترونية إلى **نص عادي (.txt)** يضمن استخراج المحتوى الأساسي للرسائل بأبسط شكل ممكن والأكثر نقلًا. يقوم هذا التنسيق بإزالة التنسيقات غير الضرورية، مما يجعل البيانات خفيفة الوزن وقابلة للبحث ومتوافقة للغاية عبر المنصات.  
 
 
-## ✅ حالات الاستخدام الرئيسية  
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}  
 - **الأرشفة والامتثال**: قم بتخزين الرسائل الإلكترونية في شكل نصي للأرشفة الخفيفة وطويلة الأمد.  
 - **الكشف الإلكتروني والقانوني**: استخرج النص الخام فقط للتحقيقات أو دعم التحقيقات القانونية.  
 - **تنقيب البيانات والتحليلات**: قم بتحضير نص البريد الإلكتروني غير المهيكل لمعالجة اللغة الطبيعية أو الذكاء الاصطناعي أو فهرسة البحث.  
@@ -43,14 +43,16 @@ otherformats: DOT PS SVG PDF XPS FLATOPC WORDML JPEG DOCM PCL DOCX RTF GIF TIFF 
 - **الوصول دون اتصال**: اقرأ الرسائل الإلكترونية على الأجهزة أو التطبيقات التي لا تدعم التنسيق الغني.  
 
 
-## ⚙️ سيناريوهات الأتمتة  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}  
 - **تصدير دفعة**: قم بتحويل آلاف الرسائل الإلكترونية إلى `.txt` للتخزين أو أنابيب التحليل.  
 - **استخراج المحتوى**: أتمتة سير العمل لإزالة البيانات الوصفية وHTML والتواقيع، مما يحافظ على النص النظيف فقط.  
 - **فهرسة محرك البحث**: إنشاء مخرجات `.txt` الآلية لبناء أرشيفات قابلة للبحث.  
 - **أنابيب تحليل البريد الإلكتروني**: استخدم الإخراج `.txt` كتنسيق وسيط لاستخراج البيانات المهيكلة.  
 - **أتمتة الامتثال**: أنشئ سجلات نصية عادية تلقائيًا من الرسائل الإلكترونية الواردة والصادرة.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -47,11 +47,11 @@ otherformats: TSV FODS XLTM MD XLT EXCEL XLSM ODS XLSB TXT DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات CGM إلى تنسيق **XLT (Excel Template)** في تطبيقات Java يضمن توحيد تخطيطات جداول البيانات للتقارير الفنية والهندسية بشكل مستمر وقابل لإعادة الاستخدام. تقوم قوالب XLT بتوحيد التنسيق، وتحديد مواقع البيانات، والرسم البياني، مما يمكن من توليد تقارير منظمة بشكل أسرع من الرسوم التوضيحية أو استخراج البيانات المعتمدة على CGM.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - قوالب هندسية قابلة لإعادة الاستخدام للتقارير الفنية المتكررة.
 - تخطيطات محددة مسبقًا لدمج الرسوم التوضيحية المعتمدة على CGM.
 - توليد سريع لأوراق مراقبة الجودة والفحص.
@@ -63,7 +63,8 @@ otherformats: TSV FODS XLTM MD XLT EXCEL XLSM ODS XLSB TXT DIF XLAM
 - دمجها مع أدوات تقارير الشركات لإخراج قائم على XLT.
 - تحويل دفعي لتوحيد التقارير على مستوى الشركة.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

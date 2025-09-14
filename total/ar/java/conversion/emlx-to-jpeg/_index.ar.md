@@ -30,11 +30,11 @@ otherformats: OTT DOTM DOCX SVG RTF EMF GIF XPS WORDML ODT TIFF EPUB DOC DOCM PN
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **ملفات EMLX (ملفات البريد الإلكتروني لتطبيق Apple Mail)** إلى **JPEG (مجموعة خبراء التصوير الفوتوغرافي المشتركة)** يجعل محتوى البريد الإلكتروني أسهل في المشاركة والتخزين والعرض مع تحقيق التوازن بين الجودة وحجم الملف.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **أرشفة البريد الإلكتروني** → تخزين الرسائل كملفات JPEG للوصول السريع إليها.
 - **التخزين المدمج** → تحويل رسائل البريد الإلكتروني الضخمة إلى صور مضغوطة وأصغر حجمًا.
@@ -42,7 +42,7 @@ otherformats: OTT DOTM DOCX SVG RTF EMF GIF XPS WORDML ODT TIFF EPUB DOC DOCM PN
 - **التقارير والوثائق** → إدراج الرسائل البريدية في التقارير الرسمية والمستندات.
 - **استخدام الويب** → نشر الصور البصرية للبريد الإلكتروني على مواقع الويب أو الشبكات الداخلية.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 
 - **أنابيب تحويل دُفعي من EMLX إلى JPEG** → معالجة عدة رسائل بريد إلكتروني إلى تنسيقات صور مضغوطة.
 - **أرشيفات الامتثال** → تحويل الاتصالات الحساسة إلى JPEG للتخزين الآمن.
@@ -50,7 +50,8 @@ otherformats: OTT DOTM DOCX SVG RTF EMF GIF XPS WORDML ODT TIFF EPUB DOC DOCM PN
 - **توزيع عبر أجهزة متعددة** → تقديم الرسائل البريدية كملفات JPEG للتوافق عبر الأجهزة.
 - **تصور البريد الإلكتروني** → استخدام ملفات JPEG للسجلات الخفيفة ولوحات المعلومات.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

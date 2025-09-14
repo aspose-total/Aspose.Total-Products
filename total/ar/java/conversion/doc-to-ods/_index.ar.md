@@ -61,20 +61,21 @@ otherformats: ODS XLTX XLTM XLT TSV XLAM EXCEL DIF XLSX XLSM XLSB FODS SXC XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ الحالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الاستخدام الرئيسية" %}}
 - استخراج الجداول من Word إلى تنسيق ODS
 - مشاركة البيانات المستمدة من Word مع تطبيقات جداول البيانات
 - تحويل بيانات المستند للتحليل المفصل
 - ضمان التوافق مع LibreOffice و OpenOffice وغيرها من الأدوات المتوافقة مع ODF
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - أنابيب استخراج DOC-to-ODS لمعالجة السائبة
 - أدوات تنسيق وتحويل جداول البيانات بتقنية Java
 - تحليل الجداول تلقائيًا من Word إلى ODS لتبسيط سير العمل
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

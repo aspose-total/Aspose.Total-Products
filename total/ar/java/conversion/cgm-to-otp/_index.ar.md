@@ -59,11 +59,11 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات CGM (Computer Graphics Metafile) إلى OTP (OpenDocument Presentation Template) يسهل عملية إنشاء قوالب عروض تقديمية قابلة لإعادة الاستخدام وغنية بالرسوم البيانية. هذا التنسيق مثالي للمؤسسات التي تحتاج إلى تصاميم شرائح تقنية متناسقة وموحدة عبر الفِرق والأقسام.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تصميم قوالب عروض تقنية قابلة لإعادة الاستخدام.
 - تنسيقات شرائح مبنية على الرسوم البيانية لمجالات الهندسة والعلوم.
 - تخطيطات تقارير خاصة بصناعات معينة لعروض تقديمية متكررة.
@@ -77,7 +77,8 @@ presentation.save("output.otp", SaveFormat.Otp);
 - معالجة دفعية لإنشاء عروض تقديمية صناعية موحدة.
 - أنظمة توزيع القوالب المتوافقة مع LibreOffice.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

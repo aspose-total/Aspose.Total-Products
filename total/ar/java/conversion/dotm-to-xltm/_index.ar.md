@@ -61,23 +61,25 @@ otherformats: SXC FODS XLAM XLSB XLSM XLTX TSV ODS XLS XLSX XLTM DIF EXCEL XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل **DOTM** إلى **XLTM** ينشئ قوالب Excel قابلة لإعادة الاستخدام مع تمكين الماكرو من ماكروات Word، ويدعم أتمتة الشركات وسير العمل التي تعتمد على VBA.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - إنشاء قوالب مالية متقدمة  
 - إنشاء قوالب تقارير ماكرو ممكنة للشركات  
 - سير العمل التي تعتمد على VBA  
 - إنشاء قوالب ذكاء الأعمال تلقائيًا  
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - خطوط أنابيب من DOTM إلى XLTM  
 - إنشاء قوالب ماكرو ممكنة تلقائيًا  
 - أتمتة سير العمل للشركات  
 - تكامل Excel مع القوالب الماكرو
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

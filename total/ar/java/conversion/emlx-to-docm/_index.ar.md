@@ -30,19 +30,20 @@ otherformats: PDF PNG DOTX PCL OTT ODT PS DOT EPUB TEXT JPEG DOCM SVG FLATOPC WO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ حالات الاستخدام الرئيسية  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}  
 - تضمين نص البريد الإلكتروني في قوالب Word التي تدعم التشغيل بالتشغيل التلقائي  
 - أتمتة سير العمل باستخدام ماكروهات Word على بيانات البريد الإلكتروني  
 - إعداد تقارير ديناميكية من رسائل EMLX  
 - تحويل الرسائل الإلكترونية إلى ملفات Word تفاعلية قابلة لإعادة الاستخدام  
 
-## ⚙️ سيناريوهات التشغيل التلقائي  
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}  
 - تقارير DOCM التي تم إنشاؤها تلقائيًا من رسائل البريد الإلكتروني بالجملة  
 - سير العمل الذي يعتمد على الامتثال مع ماكروهات مدمجة  
 - التكامل مع أنظمة أتمتة الوثائق الشركات  
 - أنابيب EMLX-to-DOCM للوثائق القانونية أو المالية
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

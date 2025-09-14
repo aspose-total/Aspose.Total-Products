@@ -61,25 +61,27 @@ otherformats: XLTM XLSM XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات **DOCM** إلى **XLSM (Excel Macro-Enabled Workbook)** يسمح للمؤسسات باستخدام ماكرو Word داخل Excel. وهذا يتيح التحكم الآلي المتقدم ونمذجة مالية ديناميكية وتقارير تفاعلية، مع الحفاظ على سكريبتات VBA وتعزيز وظائف جداول البيانات عبر الفرق.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - نقل **سكريبتات VBA** من Word إلى Excel
 - بناء **نماذج مالية ديناميكية** بماكرو
 - تحديد **عمليات إدخال بيانات متكررة** تلقائيًا
 - إنشاء **أدوات Excel تفاعلية**
 - تطوير **لوحات تحكم تجارية مدفوعة بالبيانات** مع تضمين الأتمتة
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **محولات DOCM-to-XLSM** تحافظ على منطق الماكرو
 - **سيناريوهات الأتمتة** التي تولد ملفات XLSM من DOCM
 - **أنابيب العمل الشركوية** التي تمكن من تقديم تقارير مدفوعة بالماكرو
 - **أنظمة الحوكمة** التي توزع قوالب XLSM
 - **حلول Power Automate** تربط ماكرو Word بماكرو Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

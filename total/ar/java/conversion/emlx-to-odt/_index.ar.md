@@ -30,10 +30,10 @@ otherformats: DOT JPEG PS XPS DOTM DOCM PDF EMF WORDML DOC SVG PNG MD RTF TIFF F
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل ملفات EMLX إلى **ODT (OpenDocument Text)** يوفر تنسيق مستند مرن ومفتوح المصدر مناسب لتحرير رسائل البريد الإلكتروني في OpenOffice.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - تحرير رسائل Apple Mail كمستندات ODT.
 - تخزين الاتصالات التجارية في تنسيقات نصية مفتوحة المعايير.
 - إمكانية الوصول عبر منصات متعددة باستخدام محررات مفتوحة المصدر.
@@ -43,7 +43,8 @@ otherformats: DOT JPEG PS XPS DOTM DOCM PDF EMF WORDML DOC SVG PNG MD RTF TIFF F
 - تصدير رسائل البريد الإلكتروني من Apple Mail بكميات كبيرة إلى أرشيفات ODT.
 - سيناريوهات عملية تلقائية من البريد الإلكتروني إلى سير العمل ODT للامتثال الحكومي أو المؤسسي.
 - التكامل مع أنظمة إدارة المستندات مفتوحة المصدر.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

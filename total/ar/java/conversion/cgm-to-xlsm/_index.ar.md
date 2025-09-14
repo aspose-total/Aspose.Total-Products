@@ -47,11 +47,11 @@ otherformats: FODS XLAM DIF SXC XLTM MD XLSM TSV EXCEL XLTX XLT ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات CGM إلى تنسيق **XLSM (دفتر عمل إكسل ممكّن بالماكرو)** في أنظمة الجافا يسمح للمؤسسات بتلقين الحسابات الهندسية، وتقارير، وسير العرض. باستخدام XLSM، يمكن للماكروات معالجة البيانات المستمدة من CGM بشكل ديناميكي، وإجراء الحسابات المعقدة، وتحديث الرسوم البيانية أو الرسوم التخطيطية دون تدخل يدوي. وهذا يمكن توليد تقارير أكثر ذكاءً وتحديثًا ذاتيًا للاستخدامات التقنية والتشغيلية.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - توليد تقارير هندسية مؤتمتة مع ماكروات مضمنة.
 - سير العمل الحسابي الديناميكي لبيانات التصنيع أو التصميم.
 - دمج الرسوم التخطيطية CGM في نماذج Excel مع منطق الماكرو.
@@ -63,7 +63,8 @@ otherformats: FODS XLAM DIF SXC XLTM MD XLSM TSV EXCEL XLTX XLT ODS
 - إنشاء XLSM المجدول من مجموعات بيانات CGM في أنظمة المؤسسات.
 - تشغيل ماكروات تلقائيًا للوحات القيادة الهندسية في الوقت الحقيقي.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

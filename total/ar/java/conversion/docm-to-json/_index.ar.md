@@ -49,10 +49,10 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## تحويل DOCM (مستندات Word التي تحتوي على ماكرو) إلى JSON (تمثيل كائنات JavaScript) أمر حيوي لتحويل محتوى المستند الثابت والجداول وحقول النموذج إلى بيانات منظمة قابلة للقراءة من قبل الآلة. JSON خفيف الوزن وقابل للقراءة من قبل الإنسان ومستخدم على نطاق واسع في واجهات برمجة التطبيقات، والتحليلات، وتطبيقات الويب، وسير العمل التلقائي. من خلال استخراج البيانات من DOCM إلى JSON، يمكن للمؤسسات فتح إمكانية التوافق عبر المنصات الحديثة، وتمكين التكاملات الأسرع، وضمان جاهزية البيانات للمعالجة في الوقت الحقيقي، والتحقق، والتوزيع القابل للتوسيع.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 
 - **نشر بيانات المستند إلى واجهات برمجة التطبيقات REST/GraphQL**
   قدم محتوى DOCM المستخرج كـ JSON للاستهلاك المباشر في تطبيقات الويب والجوال.
@@ -85,7 +85,8 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 - **قواعد الحوكمة التي تقوم بإزالة الماكرو والمعلومات الشخصية قبل تصدير JSON**
   قم بتطبيق فحوصات الامتثال لضمان إخراجات JSON آمنة ومعقمة من الملفات التي تحتوي على ماكرو.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

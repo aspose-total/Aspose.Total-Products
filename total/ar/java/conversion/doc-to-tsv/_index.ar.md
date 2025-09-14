@@ -61,18 +61,19 @@ otherformats: XLSB XLTX XLTM EXCEL DIF XLS XLAM FODS TSV XLSM ODS XLSX SXC XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 <h2>استخدامات رئيسية ✅</h2>
 - تصدير جداول المستند إلى TSV لاستيرادها إلى قواعد البيانات  
 - تحضير البيانات لمنصات التحليل  
 - التكامل مع تطبيقات جداول البيانات مثل Excel وGoogle Sheets  
 - مشاركة مجموعات بيانات منظمة بشكل خفيف  
 
-<h2>سيناريوهات الأتمتة ⚙️</h2>
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - برامج استخراج الجداول من DOC إلى TSV  
 - نصوص تحويل تلقائي لمعالجة الدفعات  
 - تحليل المستندات مع إنتاج مخرجات محددة بواسطة الألسنة
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

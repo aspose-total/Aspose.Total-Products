@@ -68,18 +68,20 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ الحالات الرئيسية للاستخدام
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="الحالات الرئيسية للاستخدام" %}}
 - **طباعة الرسوم البيانية الناعمة عالية الجودة** – إنتاج رسوم بيانية فنية دقيقة وقابلة للتوسيع للتصنيع والهندسة والوثائق المعمارية.
 - **أرشفة الرسوم التوضيحية التقنية في أنظمة PostScript** – تخزين الأصول الناعمة بتنسيق محسن للوصول على المدى الطويل وتوافق الطباعة.
 - **إعداد الرسوم التوضيحية CGM للطباعة** – ضمان التكامل السلس في تخطيط الصفحات المهني وسير العمل في الطباعة.
 - **إنتاج الوثائق الفعلية** – إنشاء ملفات جاهزة للطباعة للدلائل والكتالوجات والرسوم البيانية التقنية بتنسيق كبير.
 
-## ⚙️ سيناريوهات التشغيل التلقائي
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
 - **مولدات تدفق الطباعة القائمة على Java** – تحويل ملفات CGM برمجيًا إلى إخراج PS عالي الدقة لسير العمل في الشركات.
 - **محولات دفعية من الناعمة إلى PostScript** – أتمتة عمليات التحويل بمقياس كبير للتعامل بكفاءة مع أرشيفات الرسوم البيانية الشاملة.
 - **تكامل خط الإنتاج النشري** – تضمين تحويل CGM إلى PS في عمليات عرض المستندات التلقائية وأنظمة النشر المهنية لنتائج عالية الجودة ومتسقة.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,25 +61,27 @@ otherformats: XLTM XLS XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 تحويل ملفات **DOCM** إلى **XLS (Excel 97–2003 Workbook)** ضروري للمؤسسات التي تعتمد على بيئات Microsoft Excel القديمة. يحافظ هذا العملية على الجداول والنماذج والبيانات المهيكلة من مستندات Word مع ضمان التوافق الكامل مع الإصدارات القديمة من Excel، مما يسمح بالتعاون السلس والامتثال للأنظمة القديمة.
 
-## ✅ حالات الاستخدام الرئيسية
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
 - نقل جداول Word إلى **بيئات Excel القديمة**  
 - دعم المؤسسات ذات **الأنظمة القديمة**  
 - إعداد جداول البيانات للاستخدام **غير المتصل بالإنترنت**  
 - مشاركة البيانات مع الشركاء الذين لا يزالون يستخدمون **إصدارات Office القديمة**  
 - الامتثال مع **تنسيقات الأنظمة القديمة**  
 
-## ⚙️ سيناريوهات الأتمتة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
 - **محولات دفعة DOCM-to-XLS** للهجرة بمقياس كبير  
 - **تكامل أنظمة ERP القديمة** المتطلبة XLS  
 - **أنابيب تصدير آلي** تولد XLS للبيانات التاريخية  
 - **أنظمة العمل القائمة على الامتثال** تفرض مخرجات XLS  
 - أدوات معالجة المستندات تحويل DOCM إلى XLS لـ **التوافق الخلفي**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
