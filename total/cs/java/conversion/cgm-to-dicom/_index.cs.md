@@ -57,8 +57,8 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 
 - **Java-integrované radiologické prohlížeče**  
   Zobrazování lékařských ilustrací založených na CGM přímo v rámci Java-poháněných DICOM prohlížečů pro zlepšenou diagnostickou interpretaci.
@@ -85,7 +85,8 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 - **Diagnostické pracovní postupy řízené umělou inteligencí**  
   Použijte Java-integrované modely AI k analýze převedených obrazů DICOM pro rozpoznání vzorů, detekci anomálií a prediktivní diagnostiku.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

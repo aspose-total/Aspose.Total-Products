@@ -61,20 +61,21 @@ Po převodu DOC do SXC vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Klíčové použití</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Migrace dat z textu do tabulky pro analýzu
 - Integrace s prostředími OpenOffice/LibreOffice Calc
 - Příprava dokumentů pro složité výpočty v tabulkách
 - Umístit spolupráci v open-source formátech
 
-<h2>⚙️ Scénáře automatizace</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Systémy hromadné konverze DOC na SXC
 - Automatické mapování stylů na buňky pro přesné formátování
 - Nástroje pro transformaci dokumentů na tabulky pro velké datové sady
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

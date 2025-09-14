@@ -61,25 +61,27 @@ Po převodu DOCM do XLT vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCM** na **XLT (Excel šablona, zastaralá)** umožňuje organizacím vytvářet opakovaně použitelné šablonové tabulky kompatibilní s staršími verzemi Excelu. Tím se zachovávají rozložení dokumentů a podporují se zastaralé zprávy, formuláře a archivační pracovní postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Návrh **standardizovaných finančních šablon**
 - Příprava opakovaně použitelných **formulářů pro starší verze Excelu**
 - Migrace **Wordových formulářů** do šablon tabulek
 - Podpora organizací stále používajících **Excel 97–2003**
 - Vytváření **archivačních šablon** ve formátu XLT
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Automatické převodníky DOCM na XLT**
 - Podnikové pracovní postupy udržující **knihovny zastaralých šablon**
 - **Hromadné procesy** generující finanční XLT z Wordu
 - **Archivační systémy** vyžadující kompatibilitu s XLT
 - Pracovní postupy distribuce šablon pro **uživatele zastaralého Excelu**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

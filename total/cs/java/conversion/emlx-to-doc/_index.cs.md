@@ -30,21 +30,23 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ Klíčové použití případy  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy  
 - Archivace EMLX e-mailů do editovatelných souborů Word  
 - Příprava právních nebo dodržovacích zpráv z e-mailů  
 - Úprava obsahu e-mailů pro opětovné zveřejnění nebo uchování záznamů  
 - Převod e-mailů na obchodní dokumenty  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 - Hromadné konverze EMLX do DOC pro firemní pracovní postupy  
 - Pipeliny e-mailů do Wordu pro dokumentaci dodržování předpisů  
 - Automatizované generování zpráv z archivů e-mailů  
 - Integrace systémů pro vytváření dokumentů na základě e-mailů  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

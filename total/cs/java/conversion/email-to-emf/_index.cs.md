@@ -30,12 +30,12 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění e-mailů do formátu **Enhanced Metafile (EMF)** zachovává obsah jako vektorovou grafiku, což zajišťuje vysokou kvalitu renderování pro tisk, prezentace a archivaci. S Java Email API mohou vývojáři automatizovat pracovní postupy e-mail-na-EMF pro vizuální a tiskově zaměřené odvětví.
 
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Tisk ve vysokém rozlišení**: Exportujte e-maily jako EMF pro ostré výtisky.
 - **Vložení do prezentace**: Vložte snímky e-mailů do PowerPointu bez ztráty kvality.
@@ -44,7 +44,8 @@ Převádění e-mailů do formátu **Enhanced Metafile (EMF)** zachovává obsah
 - **Návrhové návrhy**: Sdílejte vizuální rozložení e-mailů s designéry a zainteresovanými stranami.
 
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Tiskové potrubí**: Převeďte e-maily do formátu EMF pro podnikové tiskové systémy.
 - **Automatizace prezentací**: Automaticky vkládejte převedené EMF do prezentací.
@@ -52,7 +53,8 @@ Převádění e-mailů do formátu **Enhanced Metafile (EMF)** zachovává obsah
 - **Integrace pracovního postupu**: Vstupujte výstupy EMF do publikačního nebo DTP softwaru.
 - **Hromadné zpracování**: Hromadně převádějte příchozí e-maily do formátu EMF pro sestavy.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

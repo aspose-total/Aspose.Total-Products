@@ -30,25 +30,27 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **EML na DOT** umožňuje transformaci e-mailů do opakovaně použitelných šablon ve Wordu, což je užitečné pro vytváření strukturovaných formátů dokumentů na základě obsahu e-mailů.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Vytváření standardních šablon z komunikace s klienty
 * Převádění opakujících se e-mailů do předem navržených rozvržení dokumentů
 * Použití obsahu e-mailu jako základu pro značkové zprávy
 * Příprava právních nebo firemních šablon z textu e-mailu
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Automatické generování šablon dokumentů z příchozích požadavků klientů
 * Systémy pro hlášení založené na šablonách
 * Standardizované formáty komunikace v projektech
 * Pipeliny e-mailů do šablon pro firemní pracovní postupy
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

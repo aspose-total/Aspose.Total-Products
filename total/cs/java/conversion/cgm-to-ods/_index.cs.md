@@ -47,25 +47,27 @@ Při převodu souboru CGM na ODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů CGM (Computer Graphics Metafile) na formát ODS (OpenDocument Spreadsheet) umožňuje kombinovat vektorové diagramy se strukturovanými daty ve formátech tabulek s otevřeným zdrojovým kódem. Tato konverze je nezbytná pro technické zpravodajství, dokumentaci inženýrství a analytické úkoly, které vyžadují jak tabulková data, tak vizuální prvky vysoké kvality.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vytváření tabulkových inženýrských zpráv s vloženými diagramy.
 - Dokumentace projektů s otevřeným zdrojovým kódem s vizuálními odkazy.
 - Vědecká analýza dat spolu s vektorovými grafy.
 - Sledování výrobního procesu s integrovanými schématy.
 - Zprávy o životním prostředí a průzkumné zprávy obsahující diagramatická data.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Java založené ETL systémy exportující kombinovaná data a diagramy.
 - Nástroje pro export vědeckých dat pro strukturovaný a vizuální obsah.
 - API pro interoperabilitu kancelářských aplikací pro technickou dokumentaci v různých formátech.
 - Automatizované potrubí pro vizualizaci dat.
 - Integrace s LibreOffice Calc pro přístup napříč platformami.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

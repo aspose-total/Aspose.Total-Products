@@ -61,24 +61,26 @@ Po převodu DOTX do XLT vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Exportování **DOTX (šablona Wordu)** do **XLT (šablona Excelu)** umožňuje firmám vytvářet opakovaně použitelné rámce tabulek. Tato standardizace zlepšuje efektivitu v reportingu, finančním plánování a pracovních postupech oddělení.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vytváření firemních šablon pro Excel
 - Šablony pro firemní reporty
 - Oddělení-specifické rámce Excelu
 - Opakovaně použitelné finanční modely
 - Standardy pro dokumenty v Excelu
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Konverze z DOTX do XLT
 - Automatické distribuce šablon napříč firmami
 - Standardizované generování šablon pro Excel
 - Firemní reportovací rámce pro konzistenci
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

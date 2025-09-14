@@ -61,8 +61,8 @@ Po převodu DOCM do FODS vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy  
 
 - **Ukládání tabulek v Gitu pro čitelné rozdíly**  
   Uchovávejte tabulková data ve formě XML, kde lze sledovat změny řádek po řádku v systémech pro správu verzí.  
@@ -80,7 +80,8 @@ Po převodu DOCM do FODS vám [Aspose.Cells for Java](https://products.aspose.co
   Ujistěte se, že data odvozená z DOCM zůstávají bez maker při ukládání ve formátu FODS.  
 
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Převody DOCM na FODS pomocí příkazového řádku**  
   Automatizujte konverze pomocí nástrojů příkazového řádku pro opakovatelné a skriptovatelné pracovní postupy.  
@@ -96,7 +97,8 @@ Po převodu DOCM do FODS vám [Aspose.Cells for Java](https://products.aspose.co
 
 - **Metadata Injektory, které označují FODS pro správu**  
   Obohaťte výstupy metadaty (vlastnictví, verze, značky politiky) pro regulovaná prostředí.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

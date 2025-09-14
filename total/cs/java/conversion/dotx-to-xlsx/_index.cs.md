@@ -61,24 +61,26 @@ Po převodu DOTX do XLSX vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTX (šablona Wordu)** na **XLSX (Excel Open XML tabulka)** umožňuje moderní, cloudově kompatibilní pracovní postupy v Excelu. Tento formát podporuje spolupracující reporting, finanční analýzy a škálovatelné podnikové operace.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Cloudová spolupráce na dokumentech v Excelu
 - Pracovní postupy analýzy dat v moderním Excelu
 - Finanční reporting na úrovni podniku
 - Škálovatelné modelování a předpovídání podnikání
 - Migrace dokumentů na data pro analytiku
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizované potrubí pro převod DOTX na XLSX
 - Automatizace reportingu v cloudu
 - Standardizace pracovních postupů v Excelu na úrovni podniku
 - Škálovatelná generace šablon do tabulek
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

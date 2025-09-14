@@ -61,22 +61,24 @@ Po převodu DOC do TSV vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOC** na **TSV (hodnoty oddělené tabulátorem)** je klíčový pro extrakci strukturovaných dat ve formátu čistého textu z dokumentů s formátováním do lehké tabulkové podoby. TSV je široce podporován databázemi, tabulkami a analytickými nástroji, což ho činí ideálním pro výměnu a zpracování dat.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Export tabulek dokumentů do TSV pro import do databáze
 - Příprava dat pro analytické platformy
 - Integrace se štítkovacími aplikacemi jako Excel a Google Sheets
 - Sdílení lehkých strukturovaných datových sad
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Software pro extrakci tabulek DOC do TSV
 - Automatizované skripty pro hromadné zpracování
 - Analýza dokumentů s generováním výstupu v podobě tabulátoru
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

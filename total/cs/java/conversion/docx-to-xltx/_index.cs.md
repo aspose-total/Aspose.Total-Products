@@ -61,24 +61,26 @@ Po převodu DOCX do XLTX vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCX** na **XLTX (Excel šablona Open XML)** zajišťuje vytváření moderních, znovupoužitelných šablon Excelu, které jsou kompatibilní s cloudovými pracovními postupy a podnikovými standardními konverzemi dokumentů na šablony.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Standardizované šablony pro reportování
 - Cloudově kompatibilní pracovní postupy v Excelu
 - Připravené pro podnikové konverze dokumentů na šablony
 - Standardizace zadávání dat
 - Škálovatelné reportování
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Generování šablony DOCX na XLTX
 - Automatizace šablony Excelu
 - Optimalizace podnikových pracovních postupů
 - Konverze dokumentů na šablony
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

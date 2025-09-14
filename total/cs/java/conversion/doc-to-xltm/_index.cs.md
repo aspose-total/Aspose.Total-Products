@@ -61,22 +61,24 @@ Po převodu DOC do XLTM vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOC** na **XLTM (Šablona s makry pro Excel)** vytváří opakovaně použitelné šablony tabulek připravené k automatizaci. Kombinuje standardizaci šablon s efektivitou řízenou makry.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vytváření obchodních šablon s makry
 - Automatizace opakujících se procesů reportování
 - Vkládání logiky VBA do opakovaně použitelných šablon
 - Transformace dokumentu na šablonu
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Konvertory šablon s makry DOC na XLTM
 - Automatizované vytváření šablon s makry pomocí VBA
 - Systémy nasazení šablon s makry
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

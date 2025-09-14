@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **EML** na **obecné obrazové formáty** (BMP, PNG, JPEG, TIFF atd.) zachycuje plné vizuální zobrazení e-mailu jako statický obrázek.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 - **Univerzální zobrazení**: Zobrazování obsahu e-mailu bez potřeby e-mailového klienta.  
 - **Digitální důkazy**: Uchování přesné kopie e-mailu pro právní a dodržovací účely.  
 - **Snadné sdílení**: Odesílání e-mailů jako obrázků přes zprávové aplikace nebo sociální platformy.  
 - **Školení a dokumentace**: Vložení plného vizuálního e-mailu do uživatelských příruček.  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 - **Víceformátový export**: Automatický převod jednoho EML do několika obrazových formátů.  
 - **Systémy zachycení e-mailů**: Ukládání všech příchozích e-mailů jako snímků obrazovky.  
 - **Forenzní pracovní postupy**: Standardizace obrazových formátů pro vyšetřování.  
 - **Archivační potrubí**: Automatizace dlouhodobého uchovávání v obrazových knihovnách.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

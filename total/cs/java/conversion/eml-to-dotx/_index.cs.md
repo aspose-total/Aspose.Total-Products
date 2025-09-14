@@ -30,25 +30,27 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **EML na DOTX** umožňuje ukládání obsahu e-mailů do standardizovaných šablon programu Word bez maker, což je ideální pro obchodní dokumentaci a opakovatelné formáty.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Generování firemních šablon s logem z e-mailů
 * Standardizace formátů reportů
 * Převod strukturované komunikace e-mailem do opětovně použitelných šablon
 * Příprava dokumentačních kostr pro opakující se úkoly
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Automatizované generování šablon projektových reportů
 * Integrace s CRM pro generování šablon z e-mailů zákazníků
 * Vytváření opětovně použitelných komunikačních šablon z podpůrných e-mailů
 * Automatizace pracovních postupů pro dokumentační týmy
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

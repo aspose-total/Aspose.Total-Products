@@ -30,22 +30,24 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **EML (soubory e-mailů)** na **EMF (formát rozšířeného meta souboru)** transformuje e-maily do vektorových obrázků vysoké kvality vhodných pro tisk a grafické pracovní postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Archivace e-mailů jako vektorových obrázků pro dokumentaci.
 - Vkládání snímků e-mailů do zpráv nebo prezentací.
 - Uchování vizuálů nezávislých na rozlišení pro publikování.
 - Tiskové postupy vyžadující kompatibilitu s EMF.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Hromadný převod EML na EMF pro podnikové hlášení.
 - Integrování do potrubí pro publikování dokumentů.
 - Automatizace archivace e-mailů jako obrázků EMF pro dodržování předpisů.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

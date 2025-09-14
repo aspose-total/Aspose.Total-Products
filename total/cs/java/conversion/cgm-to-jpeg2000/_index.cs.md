@@ -57,21 +57,23 @@ Pomocí API můžete také otočit výstupní obrázek JPEG2000 podle svých pot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod souborů CGM na JPEG2000 poskytuje ukládání obrazů ve vysokém rozlišení s pokročilou kompresí, což je ideální pro archivaci technických a geoprostorových grafik. JPEG 2000 podporuje uchování vyšší kvality, což z něj činí optimální volbu pro odvětví, která vyžadují přesné detaily s redukovanou velikostí souborů.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Archivace inženýrských nebo architektonických výkresů ve vysokém rozlišení.
 - GIS a mapovací pracovní postupy vyžadující efektivní, ale podrobné ukládání.
 - Optimalizace šířky pásma pro streamování technických grafik pro vzdálené týmy.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Nástroje pro geoprostorové obrazy založené na Javě pro automatizovanou generaci formátu JPEG2000.
 - Podnikové repozitáře dokumentů s vysokými nároky na archivaci.
 - Škálovatelné cloudové obrazové služby pro efektivní distribuci.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,23 +61,25 @@ Po převodu DOCX do TSV vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCX** na **TSV (hodnoty oddělené tabulátorem)** je klíčový pro extrakci strukturovaných tabulkových dat z dokumentů Word do lehkého, přenosného formátu vhodného pro analytiku, integraci s databází a interoperabilitu systémů.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Import/export dat mezi systémy
 - Zjednodušení nahrávání do databáze
 - Zpracování strukturovaných zpráv
 - Umění textové analýzy
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Datové potrubí DOCX-to-TSV
 - Hromadná extrakce obsahu
 - Transformace podnikových dat
 - Automatizované integrační reporty
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

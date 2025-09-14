@@ -30,12 +30,12 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění e-mailů do **Markdownu (MD)** poskytuje lehký textový formát široce používaný v pracovních postupech vývojářů, systémech dokumentace a statických webových stránkách. S Email Java API lze e-maily bezproblémově převést do formátu Markdown pro verzování a publikování.
 
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Vývojářská dokumentace**: Ukládejte technické nebo podpůrné e-maily jako MD pro wiki na GitHubu/GitLabu.
 - **Publikování statických webových stránek**: Publikujte bulletinové zprávy nebo oznámení přímo na stránkách postavených na Jekyllu/Hugu.
@@ -44,7 +44,8 @@ Převádění e-mailů do **Markdownu (MD)** poskytuje lehký textový formát �
 - **Lehké archivování**: Ukládejte e-maily ve formátu jednoduchého textu pro snadný přístup.
 
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Automatizace dokumentace**: Převeďte podpůrné nebo změnové e-maily do MD pro dokumentaci produktu.
 - **Správa znalostí**: Automaticky synchronizujte e-mailové konverzace do znalostních bází postavených na Markdownu.
@@ -52,7 +53,8 @@ Převádění e-mailů do **Markdownu (MD)** poskytuje lehký textový formát �
 - **Aktualizace statických stránek**: Automaticky publikujte bulletinové zprávy na statické webové stránky.
 - **Hromadná konverze**: Hromadně převeďte komunikaci do MD pro centralizované repozitáře.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

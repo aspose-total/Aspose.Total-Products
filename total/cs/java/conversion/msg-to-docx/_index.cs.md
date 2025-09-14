@@ -30,25 +30,27 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **MSG na DOCX** zajistí, že e-mailové zprávy jsou uloženy ve moderním, široce kompatibilním formátu Word pro úpravu a sdílení.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Upravitelné ukládání komunikace s klienty
 * Příprava právních případů s strukturovanou dokumentací
 * Interní týmové zprávy z e-mailových výměn
 * Integrace s Office 365 a cloudovými pracovními postupy
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Hromadné převody MSG na DOCX pro podnikové záznamy
 * Automatické archivování do SharePointu nebo OneDrive
 * E-mailové potrubí do Wordu pro dokumentaci projektů
 * Generování dokumentů pro HR a dodržování předpisů
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

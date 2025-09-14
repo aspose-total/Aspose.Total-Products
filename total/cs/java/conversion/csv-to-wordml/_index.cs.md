@@ -42,22 +42,24 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na WORDML</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **CSV** na **WORDML (Microsoft Word XML Document)** umožňuje vytváření vysoce strukturovaných dokumentů ve formátu XML pro Word, které jsou čitelné pro člověka i strojově zpracovatelné. To je zejména cenné pro podniky, které potřebují vytvářet dokumenty řízené daty s bezproblémovou integrací do systémů založených na WordprocessingML.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vytváření daty řízených XML dokumentů ve formátu Word z CSV datových sad  
 - Integrace s systémy založenými na WordprocessingML pro automatizovanou generaci obsahu  
 - Vytváření strojově čitelných dokumentů pro výměnu mezi systémy  
 - Příprava obsahu pro automatizované publikovací procesy s přesným formátováním  
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Použití nástrojů mapování CSV na WORDML k přeměně strukturovaných datových sad do formátu XML pro Word  
 - Použití Java-powered XML stylovacích nástrojů pro přizpůsobitelný výstup  
 - Automatizace naplňování dokumentů v systémech správy obsahu podniku  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

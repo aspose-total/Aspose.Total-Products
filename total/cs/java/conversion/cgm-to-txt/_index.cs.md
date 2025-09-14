@@ -47,13 +47,13 @@ Při převodu souboru CGM na TXT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů **Computer Graphics Metafile (CGM)** do formátu **TXT (čistý text)** je cenné pro extrahování, dokumentování a zpracování informací o vektorové grafice ve formě lehkého, lidsky čitelného textu. V **datových zpracovatelských potrubích poháněných Javou** tato konverze umožňuje transformaci diagramů CGM do textových reprezentací pro záznam, ukládání metadat nebo následnou analýzu. Zachycením popisných prvků souborů CGM v TXT mohou organizace zjednodušit integraci s jinými systémy, umožnit rychlé vyhledávání a indexování a udržet dlouhodobou kompatibilitu.
 
 
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Zaznamenávání diagramů ve formě textu pro záznam**  
   Ukládejte informace o diagramech CGM jako čistý text pro auditování, ladění nebo archivační účely.
@@ -65,7 +65,8 @@ Převádění souborů **Computer Graphics Metafile (CGM)** do formátu **TXT (�
   Dokumentujte inženýrská data související s CGM v souborech TXT pro rychlý přístup a lehké ukládání.
 
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Java I/O knihovny pro konverzi**  
   Použijte standardní Java API pro manipulaci se soubory spolu s parserem CGM k extrakci a zápisu obsahu do souborů TXT.
@@ -79,7 +80,8 @@ Převádění souborů **Computer Graphics Metafile (CGM)** do formátu **TXT (�
 - **Exportéři čistého textu v ETL potrubích**  
   Integrujte parsování CGM a export TXT do Java založených pracovních postupů Extract-Transform-Load pro zpracování strukturovaných dat.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

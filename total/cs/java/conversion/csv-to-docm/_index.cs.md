@@ -42,23 +42,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na DOCM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod CSV na DOCM (dokument aplikace Word s makry) je důležitý pro vytváření interaktivních, automatizovaných zpráv ze strukturovaných datových sad. Soubory DOCM podporují makra VBA, umožňující pokročilou automatizaci, jako jsou dynamické výpočty, podmíněné formátování a aktualizace dokumentů řízené daty.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Automatizované generování zpráv s vestavěnými makry VBA** – Generování interaktivních zpráv s vestavěnou logikou.
 - **Datové obchodní nástěnky v aplikaci Word** – Vytváření makroaktivovaných nástěnek pro sledování výkonu.
 - **Interaktivní formuláře naplněné daty z CSV** – Předvyplnění formulářů v aplikaci Word strukturovanými informacemi.
 - **Vlastní automatizace dokumentů pro podniky** – Povolit makrové pracovní postupy pro opakující se úkoly v reportingu.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Knihovny pro vytváření DOCM v Javě** – Programové generování makroaktivovaných souborů aplikace Word.
 - **Konvertory CSV na DOCM s vložením maker** – Vložení skriptů automatizace během vytváření dokumentu.
 - **Integrace s obchodními inteligentními systémy** – Automatické vytváření makroaktivovaných zpráv z analytických platforem.
 - **Javou spouštěné makrové pracovní postupy pro zpracování po generování** – Spouštění pokročilého formátování nebo ověřování dat po generování.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

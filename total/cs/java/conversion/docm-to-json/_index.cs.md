@@ -49,11 +49,11 @@ Zatímco převádíte DOCM na JSON, můžete také nastavit rozsah výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **JSON (JavaScript Object Notation)** je zásadní pro transformaci statického obsahu dokumentu, tabulek a polí formulářů do **strukturovaných, strojově čitelných dat**. JSON je lehký, čitelný pro člověka a široce používaný v **API, analýzách, webových aplikacích a automatizačních pracovních postupech**. Extrahováním dat z DOCM do JSON mohou organizace odemknout interoperabilitu napříč moderními platformami, umožnit rychlejší integrace a zajistit, že data jsou připravena pro **zpracování v reálném čase, validaci a škálovatelné distribuce**.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 
 - **Publikování dat dokumentu do REST/GraphQL API**  
   Poskytněte extrahovaný obsah DOCM jako JSON pro přímou spotřebu API ve webových a mobilních aplikacích.  
@@ -70,7 +70,8 @@ Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **JSON (JavaScript 
 - **Povolení Headless CMS nebo architektur mikroslužeb**  
   Integrujte obsah DOCM do distribuovaných systémů s API-first, kde je JSON lingua franca.  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Extrakce DOCM do JSON s mapováním polí**  
   Definujte mapování pro transformaci tabulek, záhlaví a polí do strukturovaných JSON objektů.  
@@ -87,7 +88,8 @@ Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **JSON (JavaScript 
 - **Pravidla správy, která odstraňují makra a PII před exportem do JSON**  
   Použijte kontrolu shody, abyste zajistili bezpečné, vyčištěné výstupy ve formátu JSON z makro-povolených souborů.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

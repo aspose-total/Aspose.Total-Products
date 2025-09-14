@@ -30,25 +30,27 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **EML na WORDML** umožňuje ukládání e-mailů ve formátu Word založeném na XML, což umožňuje strukturované zpracování dokumentů čitelných pro stroje.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Strukturované archivování e-mailové komunikace
 * Integrace do systémů dokumentů založených na XML
 * Příprava strojově čitelných záznamů pro dodržování předpisů
 * Datově řízená transformace obsahu e-mailů
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Automatizované potrubí e-mailů do XML Word
 * Strukturované hlášení pro podnikové aplikace
 * Archivace e-mailových zpráv ve standardizovaném formátu XML
 * Automatizace pracovního postupu pro odvětví řízené dodržováním předpisů
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

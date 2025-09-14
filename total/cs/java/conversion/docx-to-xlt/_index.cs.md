@@ -61,24 +61,26 @@ Po převodu DOCX do XLT vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCX** na **XLT (Excel šablona)** umožňuje vytváření opakovaně použitelných šablon tabulek z obsahu dokumentu, standardizaci podnikového hlášení a automatizaci opakujících se pracovních postupů.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Standardizace podnikového hlášení
 - Vytváření opakovaně použitelných šablon
 - Rámcové podnikové zadávání dat
 - Automatizace pracovních postupů v Excelu
 - Konzistentní formátování napříč týmy
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatické vytváření šablon DOCX-to-XLT
 - Standardizace pracovních postupů
 - Správa podnikových tabulek
 - Automatizace Excelu založená na šablonách
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

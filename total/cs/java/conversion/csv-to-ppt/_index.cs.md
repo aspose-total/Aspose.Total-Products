@@ -42,23 +42,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na PPT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **CSV** na **PPT (Prezentace PowerPoint 97-2003)** umožňuje vytvářet prezentace skládané z datových sad, které jsou kompatibilní s předchozími verzemi a široce přístupné. Tím se zajistí bezproblémový běh prezentací na starších systémech bez problémů s kompatibilitou formátu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vytváření zpráv pro starší verze PowerPointu
 - Distribuce prezentací klientům s používáním zastaralých systémů
 - Vytváření zpětně kompatibilních prodejních prezentací
 - Generování strukturovaných výukových snímků
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Vytváření souborů PPT z dat CSV
 - Systémy pro zpracování dat CSV do PPT ve várkách
 - Nástroje pro automatické naplňování obsahu snímků založené na Javě
 - Automatizované konverze do zastaralých formátů pro kompatibilitu
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

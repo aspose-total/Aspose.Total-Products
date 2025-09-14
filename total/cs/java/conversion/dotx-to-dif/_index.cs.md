@@ -61,25 +61,27 @@ Po převodu DOTX do DIF vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTX** na **DIF (Data Interchange Format)** zajišťuje kompatibilitu s dědictvím tabulkových systémů a statistickým softwarem, umožňuje strukturovanou výměnu dat pro výzkum a podnikové aplikace.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Výměna dat mezi platformami
 - Statistické modelování
 - Akademický výzkum
 - Pracovní postupy s dědictvím software
 - Migrace strukturovaných dat
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Trubice DOTX-to-DIF
 - Automatizovaná generace DIF
 - Automatizace výzkumných dat
 - Integrace se systémy dědictví
 - Pracovní postupy DOTX-to-statistický software
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

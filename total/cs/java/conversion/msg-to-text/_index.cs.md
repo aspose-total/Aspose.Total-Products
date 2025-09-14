@@ -30,25 +30,27 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **MSG na TEXT** extrahuje čistý text z e-mailů, čímž je zpřehledňuje a usnadňuje jejich vyhledávání.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Archivace e-mailových zpráv ve formátu čistého textu
 * Lehké ukládání velkého množství komunikace
 * Importování e-mailových dat do databází
 * Rychlé vyhledávání a indexování korespondence
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Hromadné převody MSG na TEXT pro archivy souladu
 * Automatizované parsování e-mailů pro dolování dat
 * Potrubí pro čistý text jako vstup pro strojové učení
 * Pracovní postupy pro převod e-mailů do databází
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

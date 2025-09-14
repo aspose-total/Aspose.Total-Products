@@ -61,24 +61,26 @@ Po převodu DOT do CSV vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **CSV (hodnoty oddělené čárkami)** je zásadní pro transformaci šablon Wordu do lehkých, strukturovaných datových sad, které jsou snadno zpracovatelné, sdílené a importovatelné napříč různými platformami.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Hromadné exporty dat
 - Importy do databází
 - Struktury připravené pro tabulkové procesory
 - Sdílení lehkých dat
 - Integrace do cloudových služeb
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Datové toky DOT-to-CSV
 - Generování datových sad řízené šablonami
 - Automatizace CSV ve workflových procesech
 - Systémy podnikového reportingu
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

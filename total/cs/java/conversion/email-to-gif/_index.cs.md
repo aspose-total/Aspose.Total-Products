@@ -30,11 +30,11 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění e-mailů do formátu **GIF** poskytuje kompaktní způsob uchování a sdílení vizuálních prvků e-mailů. S Java Email API mohou organizace generovat snímky e-mailů ve formátu GIF pro lehké distribuce a vložení.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Lehké sdílení**: Distribuce malých snímků e-mailů.
 - **Školení a osvěta**: Použití GIFů phishingových e-mailů v eLearningových modulech.
@@ -42,7 +42,8 @@ Převádění e-mailů do formátu **GIF** poskytuje kompaktní způsob uchován
 - **Archivace**: Ukládání komunikace e-mailů ve formátu GIF.
 - **Použití na různých platformách**: Sdílení obrázků e-mailů tam, kde nejsou podporovány pokročilé formáty obrázků.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Automatizace znalostní báze**: Publikování e-mailů konvertovaných do GIF do portálů s dokumentací.
 - **Bezpečnostní školení**: Automatické generování GIF příkladů podvodných e-mailů pro osvětu.
@@ -50,7 +51,8 @@ Převádění e-mailů do formátu **GIF** poskytuje kompaktní způsob uchován
 - **Hromadný export**: Převod velkého množství e-mailů do formátu GIF pro archivaci.
 - **Lehká archivace**: Ukládání menších verzí GIF méně důležité komunikace.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

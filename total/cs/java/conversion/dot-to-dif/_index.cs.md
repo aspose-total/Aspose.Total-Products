@@ -61,24 +61,26 @@ Po převodu DOT do DIF vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **DIF (Data Interchange Format)** umožňuje strukturovanou výměnu dat mezi šablonami Wordu a zastaralými tabulkovými nebo databázovými systémy, zajistí kompatibilitu a bezproblémovou migraci.
 
-## ✅ Klíčové použití případy
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Migrace dat
 - Kompatibilita se zastaralými systémy
 - Import tabulek
 - Analytické toky v podnicích
 - Archivace strukturovaných dat
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Převod DOT na DIF v ETL pracovních postupech
 - Automatizovaná výměna dat
 - Systémy pro generování reportů kompatibilní s DIF
 - Mezplatformní toky dokumentů na data
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

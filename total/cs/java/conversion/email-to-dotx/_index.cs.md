@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Převádění e-mailů do formátu DOTX zajišťuje standardizované šablony bez maker, ideální pro dodržování předpisů a čisté vytváření dokumentů.*
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Přeměna strukturovaných e-mailů na bezpečné, opakovaně použitelné šablony
 * Standardizace firemní dokumentace bez vložených maker
 * Příprava šablon s konzistentním firemním designem pro komunikaci s klienty
 * Přeměna opakujících se podpůrných nebo oznámení obsahujících e-maily na knihovny šablon
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Automatické vytváření šablon DOTX z opakujících se e-mailových toků
 * Hromadná konverze e-mailů zákaznické podpory nebo personálního oddělení na opakovaně použitelné šablony
 * Integrace s dokumentačními systémy pro generování šablon DOTX
 * Plánovaná konverze archivů komunikace do formátu DOTX pro konzistenci
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

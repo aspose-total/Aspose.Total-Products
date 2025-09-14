@@ -59,21 +59,23 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů CGM (Computer Graphics Metafile) na šablonu POT (PowerPoint Template) v prostředích založených na Javě umožňuje organizacím vytvářet opakovaně použitelné, standardizované prezentace obohacené o technické diagramy. Tento proces je cenný pro odvětví inženýrství, obchodu a vzdělávání, která vyžadují konzistentní rozložení snímků, firemní branding a přesné vizuální reprezentace.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Standardizované obchodní prezentace** – Udržujte konzistenci značky ve všech prezentacích společnosti.
 - **Opakovaně použitelné inženýrské prezentace** – Předem vytvořené rozložení s vestavěnými diagramy CGM pro rychlejší zprávy o projektech.
 - **Šablonové zprávy s firemním designem** – Vytvořte připravené šablony PowerPoint pro opakující se cykly zpravodajství.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Prezentační motory založené na Javě** – Použijte Apache POI nebo podobné API k integraci převodu CGM na POT.
 - **Nástroje pro generování souborů kanceláře** – Automatizujte vytváření souborů POT s vestavěnými diagramy pro různé oddělení.
 - **Automatizace pracovních postupů s obsahem** – Nasadit naplánované skripty k vytváření a aktualizaci šablon PowerPoint hromadně.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

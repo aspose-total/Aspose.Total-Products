@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **EMLX emailů** na **DOCM (Dokument s povolenými makry pro Word)** zajistí, že e-maily budou zachovány ve formátech, které lze upravovat s vestavěnou automatizací.  
 
-## ✅ Klíčové použití případy  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy  
 - Vkládání textu e-mailu do šablon s povolenými makry pro Word  
 - Automatizace pracovních postupů pomocí maker pro Word na e-mailová data  
 - Příprava dynamických zpráv z EMLX zpráv  
 - Převod e-mailů do opakovaně použitelných, interaktivních souborů Word  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 - Automaticky generované zprávy DOCM z hromadných e-mailů  
 - Pracovní postupy řízené dodržováním předpisů s vestavěnými makry  
 - Integrace s podnikovými systémy pro automatizaci dokumentů  
 - Potrubí EMLX-to-DOCM pro právní nebo finanční dokumentaci  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

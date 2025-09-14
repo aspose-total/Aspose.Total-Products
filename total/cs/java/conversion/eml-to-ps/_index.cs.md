@@ -30,19 +30,21 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **PS (PostScript)** je jazyk popisu stránky používaný ve vydavatelství. Převod **EML na PS** je klíčový pro profesionální tiskové postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Příprava obsahu e-mailů pro tiskové postupy.
 - Generování dokumentů připravených k tisku.
 - Integrace s dědictvím tiskových systémů.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizované potrubí pro převod e-mailů do PostScriptu.
 - Archivace e-mailů ve formátu PS připraveném k tisku.
 - Dávkové úlohy pro publikování e-mailových komunikací.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

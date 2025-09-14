@@ -61,24 +61,26 @@ Po převodu DOTX do XLS vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTX (šablona Wordu)** na **XLS (tabulkový procesor Excel)** umožňuje firmám přeměnit standardizované struktury dokumentů na akční tabulky. To je zvláště důležité pro zastaralé systémy, podnikové reportovací procesy a strukturované obchodní postupy, které stále spoléhají na klasický formát Excelu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Kompatibilita se zastaralými verzemi Excelu
 - Podnikové reportovací pracovní postupy
 - Sběr a zpracování dat ze standardizovaných šablon
 - Uchovávání obchodních záznamů a reportování o souladu
 - Procesy řízené tabulkami napříč odvětvími
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizované toky práce DOTX-to-XLS
 - Automatizované reportování ve zastaralých formátech Excelu
 - Transformace šablony na tabulku
 - Pracovní postupy dokumentu k datům pro strukturované reportování
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

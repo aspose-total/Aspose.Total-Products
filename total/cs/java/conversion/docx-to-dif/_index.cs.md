@@ -61,23 +61,25 @@ Po převodu DOCX do DIF vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCX** na **DIF (Data Interchange Format)** je klíčový pro kompatibilitu s dědictvím tabulkových procesorů, umožňuje sdílení strukturovaných dat a archivaci v starších systémech při zachování podpory analytiky napříč platformami.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Migrace tabulek z DOCX do **starších tabulkových systémů**
 - Zajištění kompatibility se **statistickým softwarem**
 - Archivace dokumentů v **DIF**
 - Podpora **analytiky napříč platformami**
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Migrace dědictví DOCX do DIF**
 - **Automatické extrakce dat z tabulek**
 - **DIF potrubí pro systémy dodržování předpisů**
 - **Publikace dat v různých formátech**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

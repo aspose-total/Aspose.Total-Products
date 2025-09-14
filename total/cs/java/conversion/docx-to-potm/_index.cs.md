@@ -54,22 +54,24 @@ API také umožňuje převádět dokumenty DOCX chráněné heslem na POTM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Převod **DOCX** na **POTM (šablona PowerPoint s povolenými makry)** je zásadní pro vytváření šablon prezentací, které využívají automatizaci maker přímo ze strukturovaného obsahu dokumentu. To umožňuje podnikům vytvářet opakovaně použitelné, automatizované sady snímků, které snižují opakující se formátování a zjednodušují prezentace řízené pracovním postupem.
 
-#### ✅ Klíčové použití
+##{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Automatizace opakujícího se formátování snímků  
 - Vytváření podnikových šablon s makry  
 - Migrace pracovních postupů s makry z DOCX do PowerPointu  
 - Podpora interaktivních výukových modulů  
 - Zjednodušení opakujících se obchodních prezentací  
 
-#### ⚙️ Scénáře automatizace
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizace převodu DOCX na POTM s makry  
 - Generování šablon snímků  
 - Podnikové knihovny makro šablon  
 - Automatizované pracovní postupy s PowerPointovými šablonami  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

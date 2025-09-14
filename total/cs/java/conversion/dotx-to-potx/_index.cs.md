@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOTX chráněné heslem na POTX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTX** na **POTX (PowerPoint šablona Open XML)** zajistí šablony kompatibilní s cloudem, které jsou opakovaně použitelné, přenosné, moderní a sladěné s podnikovými designovými systémy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Obchodní prezentace
 - Akademické přednášky
 - Firemní zaškolování
 - Marketingové prezentace
 - Standardizované prezentace značky
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Trubice DOTX-to-POTX
 - Automatizace prezentací v cloudu
 - Knihovny šablon
 - Standardizace podnikových snímků
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

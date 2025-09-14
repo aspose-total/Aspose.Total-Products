@@ -61,22 +61,23 @@ Po převodu DOTM do CSV vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Klíčové použití</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Migrace dat z makro-povolených šablon do databází
 - Import/exportní pracovní postupy napříč různými systémy
 - Zpracování a analýza podnikových dat
 - Lehké importy do databází a správa tabulek
 - Vylepšené postupy pro reporting v oblasti business intelligence
 
-<h2>⚙️ Scénáře automatizace</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Extrakce z DOTM do CSV
 - Pracovní postupy pro transformaci makrodat
 - Automatizované reportování CSV z Word šablon
 - Podnikové ETL postupy pro strukturovaná data
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -42,12 +42,12 @@ Při ukládání vstupního dokumentu do formátu souboru DOCM můžete také do
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů **Computer Graphics Metafile (CGM)** na **DOCM (Dokument Word s makry)** je pro organizace, které potřebují interaktivní, automatizované a dynamické pracovní postupy s dokumenty, velmi cenné. V **Java-based systémech pro automatizaci dokumentů** tato konverze umožňuje vložení technických diagramů, inženýrských schémat a procesních vizuálů z CGM do makro-podporovaných zpráv. Formát DOCM podporuje makra VBA, umožňující automatizované výpočty, aktualizace dat a interaktivní reporting - ideální pro potřeby dokumentace v oblasti inženýrství, průmyslu a podniků.
 
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Dynamické technické reportování**  
   Vložte ilustrace založené na CGM do šablon DOCM, které automaticky aktualizují grafy, tabulky a analytický obsah.
@@ -59,7 +59,8 @@ Převádění souborů **Computer Graphics Metafile (CGM)** na **DOCM (Dokument 
   Generujte interaktivní manuály nebo operační příručky s vloženými vizuály CGM a navigací řízenou makry.
 
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Java knihovny pro vytváření DOCM**  
   Použijte API jako **Apache POI**, **docx4j** nebo **Aspose.Words pro Java** k automatizaci konverze CGM na DOCM s podporou maker.
@@ -73,7 +74,8 @@ Převádění souborů **Computer Graphics Metafile (CGM)** na **DOCM (Dokument 
 - **Hromadné zpracování pracovních postupů**  
   Převeďte a zkompilujte více souborů CGM do makro-podporovaných zpráv DOCM pomocí nástrojů pro hromadné zpracování založených na Javě.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -42,11 +42,11 @@ Při ukládání vstupního dokumentu do formátu souboru DOTX můžete také do
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod souborů **Computer Graphics Metafile (CGM)** do formátu **DOTX (šablona Wordu založená na XML)** je pro organizace hledající standardizaci technické dokumentace a současně udržení flexibility při generování obsahu zásadní. V **systémech založených na Javě** umožňují šablony DOTX vložení technických kreseb CGM do opakovaně použitelné struktury XML, což umožňuje konzistentní rozložení, designy v souladu s firemní značkou a efektivní aktualizace obsahu. Tento převod podporuje spolupracovní pracovní postupy, knihovny dokumentů a automatizační procesy v podnicích a inženýrských prostředích.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Zprávy na základě technických kreseb v šablonách**  
   Integrujte inženýrské diagramy CGM do šablon DOTX pro strukturované, opakovatelné formáty zpráv.
@@ -57,7 +57,8 @@ Převod souborů **Computer Graphics Metafile (CGM)** do formátu **DOTX (šablo
 - **Sdílené knihovny dokumentů**  
   Ukládejte šablony DOTX s vylepšenými CGM do centralizovaných repozitářů pro snadné opětovné použití týmy.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Java API pro analýzu šablon**  
   Použijte knihovny jako **docx4j**, **Aspose.Words pro Javu** nebo **Apache POI** k čtení, úpravě a automatickému vyplňování šablon DOTX programově.
@@ -71,7 +72,8 @@ Převod souborů **Computer Graphics Metafile (CGM)** do formátu **DOTX (šablo
 - **Automatizace obsahu pro podniky**  
   Integrujte převod CGM na DOTX do systémů pro správu obsahu založených na Javě pro škálovatelnou, standardům odpovídající dokumentaci.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

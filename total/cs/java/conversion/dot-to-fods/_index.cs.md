@@ -61,24 +61,26 @@ Po převodu DOT do FODS vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **FODS (Flat XML ODF Spreadsheet)** je důležitý pro generování open-source, XML-based tabulek z Word šablon, podporující cross-platform a cloudové pracovní postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - OpenDocument pracovní postupy
 - Cloudové zpracování tabulek
 - Kompatibilita cross-platform
 - Sdílení dat
 - Dlouhodobé archivování
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizované pipeline pro převod DOT na FODS
 - Integrace open-source pracovních postupů
 - Zpracování dat FODS
 - Interoperabilní řešení pro reportování
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

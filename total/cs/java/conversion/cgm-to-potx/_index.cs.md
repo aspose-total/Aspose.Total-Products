@@ -59,21 +59,23 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod CGM na POTX (Open XML Presentation Template) poskytuje flexibilní, moderní formát šablony pro škálovatelné obchodní a inženýrské prezentace. POTX podporuje vektorovou grafiku, což ho činí ideálním pro technické vizuály založené na CGM, které je třeba znovu použít v různých sadách snímků.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Standardní průmyslové vizuální zprávy** – Připravte profesionální rozložení pro prezentace klientům a zúčastněným stranám.
 - **Šablony pro inženýrský design** – Vložte škálovatelné vektorové diagramy do opakovaně použitelných rozložení.
 - **Opakovaně použitelné značkové snímky** – Ujistěte se o konzistentní firemní identitě napříč různými odděleními.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Systémy dokumentů Open XML založené na Javě** – Automatizujte převod CGM na POTX pomocí API Apache POI XSLF.
 - **Automatizace obsahu pro firmy** – Zjednodušte tvorbu knihoven značkových šablon.
 - **Šablonové prezentace v rourách** – Integrujte do rour pro CI/CD pro automatizovanou přípravu sad snímků.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

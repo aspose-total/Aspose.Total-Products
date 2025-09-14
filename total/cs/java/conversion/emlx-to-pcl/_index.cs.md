@@ -30,22 +30,24 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Transformace e-mailů EMLX do **PCL (jazyk příkazů tiskárny)** umožňuje rychlé a spolehlivé tiskové postupy, zejména v podnikových systémech.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Rychlý tisk e-mailů z Apple Mail.
 - Integrace e-mailů do velkoplošných podnikových tiskových systémů.
 - Archivace firemních e-mailů ve formátech připravených k tisku.
 - Zajištění konzistence rozložení při hromadném tisku komunikací.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Hromadná konverze e-mailů EMLX do PCL pro tiskové servery.
 - Automatizace pracovních postupů pro archivy tisku pro vládní/finanční účely.
 - Správa tisku na úrovni podniku z e-mailových repozitářů.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

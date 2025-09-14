@@ -54,8 +54,8 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na PPSX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy  
 
 - **Vytváření prezentací připravených na události**  
   Vytvářejte propracované prezentace připravené k přehrání.  
@@ -74,7 +74,8 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na PPSX. Poku
 
 
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Konvertory DOCM na PPSX zajišťující dodržování bezpečnosti bez maker**  
   Odstraňte rizika spojená s makry při generování snímků.  
@@ -90,7 +91,8 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na PPSX. Poku
 
 - **Firemní nástroje pro spolupráci distribuující obsah PPSX**  
   Ujistěte se, že jsou prezentace bezpečně sdíleny napříč týmy.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

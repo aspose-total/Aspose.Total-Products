@@ -30,25 +30,27 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **MSG na DOCM** umožňuje vložení maker do souborů Word z e-mailů, což umožňuje automatizaci úkolů v rámci dokumentu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Vytváření šablon s makry z e-mailů
 * Automatizace opakujících se formátovacích nebo reportovacích úkolů
 * Umístit pokročilé pracovní postupy do právních a finančních prostředí
 * Sloučení více e-mailů do makrem řízených reportů
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Pipeliny s makry pro automatizované reportování
 * Hromadný převod e-mailů MSG do šablon DOCM
 * Pokročilá dokumentace souladu s vloženými makry
 * Automatizované pracovní postupy pro finanční auditace
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

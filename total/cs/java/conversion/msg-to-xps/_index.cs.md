@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **MSG na XPS (XML Paper Specification)** umožňuje uložení e-mailů ve formátu s pevným rozložením podobném PDF, ideální pro archivaci a bezpečné sdílení dokumentů.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Uchování obsahu e-mailů z Outlooku s pevným rozložením
 * Archivace e-mailů pro dodržování předpisů v ekosystémech Microsoftu
 * Sdílení e-mailů ve formátu XPS bez rizika modifikace
 * Firemní reporting ve standardních formátech Microsoftu
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Potrubí MSG na XPS pro archivaci dodržování předpisů
 * Automatizovaná migrace e-mailových schránek do repozitářů XPS
 * Hromadný export e-mailů do XPS pro právní oddělení
 * Firemní integrace do pracovních postupů Microsoft Office
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

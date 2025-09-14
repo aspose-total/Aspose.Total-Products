@@ -30,12 +30,12 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **EMLX (soubory e-mailů Apple Mail)** na **GIF (grafický formát pro výměnu)** je ideální pro sdílení a distribuci obsahu e-mailů v kompaktním, široce podporovaném formátu. GIF zajišťuje menší velikost souborů a snadnou kompatibilitu napříč platformami.  
 
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 
 - **Sdílení napříč platformami** → Sdílejte e-maily jako obrázky GIF napříč aplikacemi, webovými stránkami a messengery.  
 - **Kompaktní archivace** → Ukládejte zprávy ve formátu GIF s nízkou váhou pro úsporu místa.  
@@ -44,7 +44,8 @@ Převádění **EMLX (soubory e-mailů Apple Mail)** na **GIF (grafický formát
 - **Vizualizace e-mailů** → Přetvořte e-maily do formátu vhodného pro dashboardy nebo reporty.  
 
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Hromadné převádění EMLX na GIF** → Automatizujte převod velkého množství e-mailových zpráv na obrázky GIF.  
 - **Převod e-mailů na web** → Automaticky převeďte příchozí e-maily na GIFy pro zobrazení na webu.  
@@ -52,7 +53,8 @@ Převádění **EMLX (soubory e-mailů Apple Mail)** na **GIF (grafický formát
 - **Integrace nástrojů pro komunikaci** → Převeďte EMLX na GIF pro vložení do chatovacích/messengingových aplikací.  
 - **Správa lehkých záznamů** → Použijte konverze do formátu GIF tam, kde záleží na účinnosti ukládání.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

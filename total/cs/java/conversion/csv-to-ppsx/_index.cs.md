@@ -42,23 +42,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na PPSX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **CSV** na **PPSX (PowerPoint Open XML Slide Show)** umožňuje okamžité vytváření moderních prezentací přímo ze strukturovaných datových sad. To zajistí rychlý obrat pro firemní, marketingové a materiály určené zákazníkům.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Okamžité vytváření marketingových snímků
 - Daty řízené portfolia produktů
 - Prezentace návrhů zákazníkům
 - Automatizované prezentace pro investory
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Vytváření výstupu PPSX z dat CSV
 - Konvertory dávkového převodu CSV na PPSX pro doručení ve velkém měřítku
 - Java založené automatizované stylování a tematizace snímků
 - Integrace se systémy plánovaného reportování
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

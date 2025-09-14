@@ -30,20 +30,21 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Klíčové použití</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Archivace e-mailů z Apple Mail jako škálovatelných vektorových obrázků.
 - Zachování vizuální věrnosti bulletinů a propagačních e-mailů.
 - Začlenění e-mailů do zpráv a dokumentace pro Windows.
 - Zajištění výstupu připraveného k tisku nezávislého na rozlišení.
 
-<h2>⚙️ Scénáře automatizace</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Hromadná konverze archivů EMLX do formátu EMF pro digitální záznamy.
 - Automatizované potrubí pro ukládání důkazů e-mailů pro právní/dodržování předpisů.
 - Integrace pracovního postupu s systémy pro generování zpráv pomocí grafiky EMF.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

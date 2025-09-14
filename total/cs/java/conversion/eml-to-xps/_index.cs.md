@@ -30,19 +30,21 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **XPS (XML Paper Specification)** je formát s pevným rozložením od společnosti Microsoft. Převod **EML na XPS** zajišťuje konzistentní zobrazení dokumentů.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Archivace e-mailů s pevnými rozloženími.
 - Vytváření zabezpečených pouze pro čtení verzí korespondence.
 - Alternativa k formátu PDF v ekosystémech Windows.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Podnikové potrubí pro archivaci e-mailů.
 - Automatizovaný export do formátu XPS pro dodržování předpisů a záznamů.
 - Hromadný převod e-mailů do formátu XPS pro dokumentaci.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

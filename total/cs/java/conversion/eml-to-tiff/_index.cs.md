@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **EML** na **TIFF (Tagged Image File Format)** generuje archivační obrázky e-mailů, ideální pro dodržování předpisů a uchovávání záznamů.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 - **Podnikové archivování**: Ukládejte e-maily ve formátu TIFF pro dlouhodobé uchování.  
 - **Právní důkazy**: Použijte neupravitelný formát TIFF pro forenzní záznamy.  
 - **Vládní dodržování předpisů**: Standardní formát pro archivaci e-mailů podle předpisů.  
 - **Podpora více stránek**: Uložte vícestránkové e-maily do jednoho souboru TIFF.  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 - **Hromadný export TIFF**: Převeďte celé poštovní schránky do archivů TIFF.  
 - **Forenzní automatizace**: Automaticky zaznamenávejte e-maily ve formátu TIFF pro vyšetřování.  
 - **Podnikové systémy ECM**: Integrujte snímky e-mailů ve formátu TIFF do systémů záznamů.  
 - **Regulační potrubí**: Splňte archivační standardy s záznamy založenými na formátu TIFF.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

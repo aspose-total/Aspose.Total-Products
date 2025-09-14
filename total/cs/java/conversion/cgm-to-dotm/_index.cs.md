@@ -42,8 +42,8 @@ Při ukládání vstupního dokumentu do formátu souboru DOTM můžete také do
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 
 - **Šablonové makro-povolené inženýrské zprávy**  
   Začlenění diagramů založených na CGM do šablon DOTM, které spouští automatizované výpočty, analýzy a generování zpráv.
@@ -54,7 +54,8 @@ Při ukládání vstupního dokumentu do formátu souboru DOTM můžete také do
 - **Povolení technických pracovních postupů**  
   Vytvoření šablon specifických pro pracovní postupy, které kombinují ilustrace CGM s interaktivní funkcionalitou makra pro terénní nebo laboratorní operace.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Java Frameworky a API**  
   Použití **Aspose.Words pro Java** nebo šablonových strojů kanceláře v prostředích založených na Spring k automatizaci konverze CGM na DOTM a sestavení šablony.
@@ -67,7 +68,8 @@ Při ukládání vstupního dokumentu do formátu souboru DOTM můžete také do
 
 - **ETL a reportingové potrubí**  
   Začlenění konverze CGM na DOTM do procesů ETL založených na Javě, umožňující reportování řízené makry a vizualizaci na velkou škálu.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

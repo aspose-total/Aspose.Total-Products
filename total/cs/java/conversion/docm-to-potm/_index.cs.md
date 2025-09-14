@@ -54,8 +54,8 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na POTM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy  
 
 - **Návrh interaktivních šablon pro školení**  
   Vytvářejte opakovaně použitelné školicí prezentace s interaktivními prvky řízenými makry.  
@@ -74,7 +74,8 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na POTM. Poku
 
 
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Konvertory zachovávající makra DOCM-to-POTM**  
   Udržujte makra VBA při převodu dokumentů Word do šablon.  
@@ -90,7 +91,8 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na POTM. Poku
 
 - **Skriptové konverze pro dynamické prezentace**  
   Použijte nástroje řízené příkazovým řádkem nebo skriptem k automatizaci generování šablon snímků.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

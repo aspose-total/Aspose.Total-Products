@@ -49,25 +49,27 @@ Zatímco převádíte DOTX na JSON, můžete také nastavit rozsah výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTX** na **JSON** umožňuje strukturovanou výměnu dat, integraci API a moderní pracovní postupy na webu, čímž se data dokumentů stávají použitelnými pro cloudové služby, webové aplikace a potrubí AI/ML.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Export dat připravených pro API
 - Integrace webových aplikací
 - Cloudové služby
 - Datová potrubí
 - Příprava datových sad pro AI/ML
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Potrubí DOTX-to-JSON
 - Automatizovaná generace JSON
 - Cloudové pracovní postupy API
 - Integrace do podnikových systémů
 - Automatizace datového jezera
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

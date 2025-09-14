@@ -47,12 +47,12 @@ Při převodu souboru CGM na DIF můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů **Computer Graphics Metafile (CGM)** na **DIF (Data Interchange Format)** je cenné pro organizace, které potřebují integrovat vizuální nebo strukturovaný obsah do zastaralých tabulkových systémů a vědeckých výpočtových postupů. V **Java založeném podnikovém a výzkumném prostředí** umožňuje tato konverze plynulý přechod z starších formátů, podporuje kompatibilitu se statistickými nástroji a usnadňuje modelování strukturovaných dat pro inženýrské aplikace. Transformací diagramů CGM do tabulek DIF mohou týmy sjednotit vizuální data s číselnými datovými sadami, zlepšují tak dostupnost a analýzu napříč platformami.
 
 
-## ✅ Klíčové Použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové Použití" %}}
 
 - **Migrace do Zastaralých Tabulkových Systémů**  
   Převeďte data z CGM do DIF pro bezproblémový import do starších tabulkových programů stále používaných v podnikových prostředích.
@@ -63,8 +63,8 @@ Převádění souborů **Computer Graphics Metafile (CGM)** na **DIF (Data Inter
 - **Modelování Strukturovaných Dat v Inženýrských Aplikacích**  
   Použijte DIF k reprezentaci schémat založených na CGM ve strukturované tabulkové formě pro inženýrské simulace a integraci dat CAD.
 
-
-## ⚙️ Scénáře Automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře Automatizace" %}}
 
 - **Java Knihovny pro Konverzi Tabulek**  
   Implementujte automatizované transformace CGM na DIF pomocí Java API, které zpracovávají formáty kompatibilní s tabulkami.
@@ -75,7 +75,8 @@ Převádění souborů **Computer Graphics Metafile (CGM)** na **DIF (Data Inter
 - **Integrace s Výpočetními Pipelines pro Statistiku**  
   Automaticky vkládejte konvertované soubory DIF do statistických analytických modulů R, MATLAB nebo Python pomocí Java založené orchestrace pracovních postupů.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

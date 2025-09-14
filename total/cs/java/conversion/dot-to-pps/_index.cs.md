@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOT chráněné heslem na PPS. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **PPS (PowerPoint Show)** vytváří automaticky spouštěné prezentace přímo z šablon Wordu pro bezproblémové doručení na schůzkách a událostech.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Obchodní prezentace  
 - Edukační prezentace  
 - Prezentace událostí  
 - Tréninkové ukázky  
 - Automatické spouštění ukázek produktů  
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Konverze DOT na PPS  
 - Automatické generování prezentací  
 - Připravené obchodní automaticky spouštěné prezentace  
 - Dokumentové proudy pro prezentace  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

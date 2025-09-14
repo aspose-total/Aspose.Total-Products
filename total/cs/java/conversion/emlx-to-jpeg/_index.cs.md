@@ -30,11 +30,11 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **EMLX (soubory e-mailů Apple Mail)** na **JPEG (Joint Photographic Experts Group)** usnadňuje sdílení, ukládání a zobrazování obsahu e-mailů s vyvážením mezi kvalitou a velikostí souboru.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 
 - **Archivace e-mailů** → Ukládejte zprávy jako JPEG pro rychlý přístup.  
 - **Kompaktní úložiště** → Převeďte objemné e-maily na menší, komprimované obrázky.  
@@ -42,7 +42,8 @@ Převádění **EMLX (soubory e-mailů Apple Mail)** na **JPEG (Joint Photograph
 - **Zprávy a dokumentace** → Vložte e-maily do oficiálních zpráv a dokumentů.  
 - **Použití na webu** → Zveřejněte vizuální podobu e-mailů na webových stránkách nebo firemní síti.  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Hromadné převody EMLX na JPEG** → Zpracujte více e-mailů do komprimovaných obrázkových formátů.  
 - **Archivy pro dodržování předpisů** → Převeďte citlivé komunikace do formátu JPEG pro bezpečné uložení.  
@@ -50,7 +51,8 @@ Převádění **EMLX (soubory e-mailů Apple Mail)** na **JPEG (Joint Photograph
 - **Distribuce na více zařízení** → Doručujte e-maily jako JPEG pro kompatibilitu napříč zařízeními.  
 - **Vizualizace e-mailů** → Používejte formát JPEG pro lehké záznamy a přehledy.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,18 +61,20 @@ Po převodu DOC do XLSX vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Exportování strukturovaných dat dokumentu do moderních tabulek
 - Integrace BI pipeline s čistými, strukturovanými výstupy
 - Převádění zpráv do editovatelných tabulek připravených k analýze
 - Zajištění kompatibility se všemi hlavními softwary pro tabulkové procesory
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Motory mapování XML DOC-to-XLSX
 - Automatizované pracovní postupy pro generování tabulek
 - Parsování dokumentů s strukturovaným výstupem XML
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

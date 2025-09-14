@@ -61,20 +61,22 @@ Po převodu DOTM do DIF vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Kompatibilita se systémy staršího data pro import/export tabulek  
 - Interoperabilita tabulek napříč platformami  
 - Archivační pracovní postupy pro podniky  
 - Strukturovaná migrace dat mezi aplikacemi  
 - Automatizované generování zpráv z dokumentů s makry  
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Konverze DOTM na DIF  
 - Procesy výměny dat řízené makry  
 - Automatizované cross-platform zpravodajství  
 - Pracovní postupy ETL pro podniky s použitím souborů DIF
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

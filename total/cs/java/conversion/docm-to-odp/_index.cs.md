@@ -54,8 +54,8 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na ODP. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy  
 
 - **Přeměna Zpráv na Prezentační Slajdy**  
   Převeďte dokumenty DOCM na prezentace ODP pro školení, obchodní schůzky nebo akademické přednášky.  
@@ -72,7 +72,7 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na ODP. Pokud
 - **Podpora Akademického nebo Vládního Použití Otevřených Standardů**  
   Splňte požadavky na soulad distribucí obsahu DOCM ve formátu prezentace certifikovaném ODF.  
 
-## ⚙️ Scénáře Automatizace  
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře Automatizace" %}}  
 
 - **Automatické Generátory DOCM-to-ODP**  
   Automaticky převeďte makro-povolené soubory Word do upravitelných prezentací ODP.  
@@ -88,7 +88,8 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na ODP. Pokud
 
 - **Automatizované Pipeliny Připravující ODP pro Publikační Portály**  
   Zjednodušte doručování obsahu integrací převodu DOCM na ODP do pracovních postupů publikace.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

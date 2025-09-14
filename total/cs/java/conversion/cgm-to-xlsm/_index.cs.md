@@ -47,23 +47,25 @@ Při převodu souboru CGM na XLSM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů CGM do formátu **XLSM (Excelová pracovní kniha s makry)** v systémech založených na Javě umožňuje organizacím automatizovat inženýrské výpočty, reportování a vizualizační pracovní postupy. S formátem XLSM mohou makra dynamicky zpracovávat data odvozená z CGM, provádět složité výpočty a aktualizovat grafy nebo diagramy bez manuálního zásahu. To umožňuje chytřejší, samoaktualizující se reporty pro technické a provozní účely.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Automatizované generování inženýrských reportů s vestavěnými makry.
 - Dynamické výpočetní postupy pro výrobní nebo konstrukční údaje.
 - Integrace diagramů CGM do Excelových modelů s makrovou logikou.
 - Zjednodušené procesy kontroly kvality pomocí analýzy s makry.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Java Excelové automatizační nástroje s podporou spouštění maker.
 - Generování tabulek s makry pomocí Java API.
 - Naplánované vytváření XLSM z datových sad CGM v podnikových systémech.
 - Automatizované spouštění maker pro reálné inženýrské přístroje.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

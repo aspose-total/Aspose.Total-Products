@@ -61,24 +61,26 @@ Po převodu DOTX do TSV vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTX (šablona Wordu)** na **TSV (hodnoty oddělené tabulátorem)** zajišťuje strukturovaný výstup tabulkových dat, čímž se stávají lehčí, přenositelné a připravené k integraci s moderními cloudovými a backendovými systémy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Migrace dat ze šablon Wordu
 - Import/export tabulek s TSV
 - Integrace s backendovými databázemi
 - Zpracování tabulkových dat kompatibilních s cloudu
 - Lehké generování reportů a analýz
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pipeliny DOTX-to-TSV pro strukturované exporty
 - Hromadný převod šablon na data
 - API-based integrace s podnikovými nástroji
 - Pracovní postupy pro normalizaci dat pro konzistenci
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

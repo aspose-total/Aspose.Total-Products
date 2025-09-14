@@ -61,7 +61,7 @@ Po převodu DOCX do XLSB vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Klíčové použití
 
 - Ukládání dat s vysokým výkonem
@@ -70,13 +70,14 @@ Po převodu DOCX do XLSB vám [Aspose.Cells for Java](https://products.aspose.co
 - Podnikové hlášení
 - Rychlejší operace načítání/ukládání
 
-## Automatizační scénáře
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
 
 - Hromadná konverze DOCX na XLSB
 - Optimalizované pracovní postupy se sešity
 - Automatizované reportovací toky
 - Manipulace s daty v Excelu na úrovni podniku
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

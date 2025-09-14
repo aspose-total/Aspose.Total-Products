@@ -54,22 +54,24 @@ API také umožňuje převádět dokumenty DOC chráněné heslem na POTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOC** na **POTM (Šablona s makry pro PowerPoint)** je cenný pro povolení automatizovaného chování snímků a funkcí maker v prezentacích odvozených z dokumentů Word. Tento formát podporuje pokročilou interaktivitu a automatizaci opakujících se úkolů ve slidech.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Interaktivní tvorba firemních snímků s vestavěnými makry
 - Automatizace opakujícího se formátování prezentací
 - Vložení VBA maker pro dynamickou manipulaci se snímky
 - Generování daty řízených prezentací s automatizovanými skripty
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pracovní postupy vstřikování maker DOC-to-POTM pro firemní šablony
 - Vytváření snímků na základě skriptů s automatizovaným formátováním
 - Automatizační motory snímků pro podnikovou generaci obsahu
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

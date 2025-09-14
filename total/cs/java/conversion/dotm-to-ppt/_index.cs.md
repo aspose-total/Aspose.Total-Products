@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na PPT. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTM** na **PPT (Legacy PowerPoint Format)** zajistí zpětnou kompatibilitu s staršími systémy, umožňuje archivování prezentací a výukových snímků pro zastaralou infrastrukturu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Staré podnikové systémy
 - Archivované prezentace
 - Výukové snímky pro starou infrastrukturu
 - Kompatibilita v offline prostředí
 - Vládní/Institucionální hlášení
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizace převodu DOTM na PPT legacy
 - Workflows kompatibility s starými verzemi
 - Pipeliny přípravy prezentací pro archivaci
 - Automatizace konverze starých prezentací
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

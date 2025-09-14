@@ -61,24 +61,26 @@ Po převodu DOT do XLT vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **XLT (Excel šablona)** umožňuje vytváření opakovaně použitelných šablon tabulek z dokumentů Word, standardizuje pracovní postupy napříč odděleními a týmy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Šablony oddělení pro reportování
 - Standardizované fakturace
 - Šablony připravené pro podniky
 - Dokumentace procesů
 - Škálovatelné formáty reportů
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizace převodu DOT na XLT
 - Standardizace pracovních postupů v Excelu
 - Pipeliny dokumentů do šablon
 - Automatizace reportování pro podniky
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

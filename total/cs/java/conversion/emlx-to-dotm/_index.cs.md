@@ -30,21 +30,23 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **E-maily EMLX** lze převést do **šablon Wordu s makry DOTM (Macro-Enabled Word Templates)** pro opakované a automatizované pracovní postupy.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 - Vytváření opakovaně použitelných šablon ze strukturovaných e-mailů  
 - Vkládání maker do šablon pro automatizaci  
 - Standardizace pracovních postupů podle formátů e-mailů  
 - Generování právních a dodržovacích šablon  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 - Automatické generování šablon z dat EMLX  
 - Pracovní postupy DOTM pro automatizaci dokumentů ve firmě  
 - Integrace s dodržovacími a reportingovými systémy  
 - Převody EMLX na DOTM pro právní/firma záznamy  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

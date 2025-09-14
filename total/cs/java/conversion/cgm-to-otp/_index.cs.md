@@ -59,25 +59,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů CGM (Computer Graphics Metafile) na OTP (OpenDocument Presentation Template) usnadňuje vytváření opakovaně použitelných šablon prezentací bohatých na vektory. Tento formát je ideální pro organizace, které potřebují konzistentní, značkové a technické návrhy snímků přes týmy a oddělení.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Návrh opakovaně použitelných technických šablon prezentací.
 - Formáty snímků založené na vektorech pro inženýrské a vědecké obory.
 - Rozložení reportů specifické pro odvětví pro opakující se prezentace.
 - Vzdělávací šablony snímků s podrobnými diagramy.
 - Korporátní knihovny šablon s vestavěnými schématy.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Java založené reportovací nástroje generující vlastní šablony snímků.
 - Automatizované nástroje pro generování šablon pro technické týmy.
 - Pracovní postupy řízené API pro vložení grafiky CGM do šablon OTP.
 - Hromadné zpracování pro vytváření standardizovaných průmyslových prezentací.
 - Systémy distribuce šablon kompatibilní s LibreOffice.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

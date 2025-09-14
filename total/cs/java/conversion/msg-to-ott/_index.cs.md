@@ -30,25 +30,27 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **MSG na OTT (OpenDocument šablona)** umožňuje ukládání e-mailových zpráv jako opakovaně použitelných dokumentových šablon.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Přeměna obsahu e-mailu na předem navržené obchodní šablony
 * Standardizace firemních šablon pomocí pracovních postupů řízených e-mailem
 * Generování opakovaně použitelných formulářů a šablon z e-mailové komunikace
 * Podpora systémů správy šablon založených na formátu ODF
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Pipeliny generace šablon MSG-to-OTT
 * Hromadný export standardizovaných šablon z firemních e-mailů
 * Automatizovaná správa šablon napříč podnikovými systémy
 * Integrace OTT pro právní a personální dokumentaci
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

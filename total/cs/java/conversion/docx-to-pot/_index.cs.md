@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOCX chráněné heslem na POT. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 ## Převod **DOCX** na **POT (šablona PowerPointu)** je zásadní pro transformaci dokumentů Wordu do opakovaně použitelných šablon prezentací. Tento proces zajišťuje konzistentní design snímků, standardizované firemní značení a efektivní migraci strukturovaného obsahu do profesionálních, opakovatelných formátů PowerPointu.
 
-### ✅ Klíčové použití
+#{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Generování **konzistentních šablon prezentací** pro firemní nebo vzdělávací účely
 - Standardizace **firemního značení a firemních prezentací**
 - Migrace strukturovaného **obsahu DOCX do snímků připravených pro šablonu**
 - Podpora **vzdělávacích a školicích materiálů** s opakovatelnými designy
 - Umění **opakovatelných rozložení snímků** napříč různými prezentacemi
 
-### ⚙️ Scénáře automatizace
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Automatizace převodu DOCX na POT šablonu** pro hromadné zpracování
 - **Potrubí šablon prezentací** integrující obsah z Wordu
 - **Generování firemní knihovny snímků** z pramenů DOCX
 - **Automatizované pracovní postupy s PowerPoint šablonami** pro konzistentní tvorbu šablon
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

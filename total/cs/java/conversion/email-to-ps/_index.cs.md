@@ -30,11 +30,11 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění e-mailů do **PostScriptu (PS)** poskytuje formát popisu stránky, který je široce používán v oblasti vydavatelství a tisku. S Email Java API lze e-maily exportovat do PS pro tisk a publikování ve vysoké kvalitě.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Vydavatelství**: Připravte e-mailové bulletinové zprávy pro profesionální tiskové postupy.
 - **Archivace**: Ukládejte e-mailové záznamy v PS pro kompatibilitu s tiskovými archivy.
@@ -42,7 +42,8 @@ Převádění e-mailů do **PostScriptu (PS)** poskytuje formát popisu stránky
 - **Vládní záznamy**: Ujistěte se, že e-mailová komunikace může být odeslána ve formátech připravených k tisku.
 - **Vzdělávací instituce**: Tiskněte akademická oznámení uložená jako PS.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Tiskové potrubí**: Automatizujte převod e-mailů na PS pro interní tiskové systémy.
 - **Hromadné tisk**: Převeďte hromadné e-mailové archivy do PS pro distribuovaný tisk.
@@ -50,7 +51,8 @@ Převádění e-mailů do **PostScriptu (PS)** poskytuje formát popisu stránky
 - **Vydavatelské postupy**: Přepracujte e-mailové kampaně do tiskově připraveného PostScriptu.
 - **Firemní archivace**: Ukládejte komunikaci ve formátu PS pro regulované sektory.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,21 +30,23 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **Soubory EMLX** lze přeměnit na **DOTX (Šablona Word XML)** pro vytváření opakovaně použitelných šablon splňujících standardy.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 - Vytváření firemních šablon z e-mailů z Apple Mail  
 - Automatizace konzistentního formátování dokumentace  
 - Příprava značkových šablon e-mailů na dokumenty  
 - Opakované využití strukturovaných rozložení e-mailů ve Wordu  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 - Automatizované vytváření DOTX z hromadných dat EMLX  
 - Integrace do systémů správy firemních šablon  
 - Pracovní postupy e-mailu na šablonu pro HR, právní nebo dodržování předpisů  
 - Automatické generování DOTX šablon pro reporting  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

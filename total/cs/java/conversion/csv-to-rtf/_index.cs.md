@@ -42,23 +42,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na RTF</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **CSV** na **RTF (Rich Text Format)** umožňuje transformaci strukturovaných datových sad do vizuálně stylových dokumentů, které fungují na různých platformách. Tento proces je klíčový pro vytváření univerzálně přístupných zpráv, faktur a archivů, které zachovávají jak integritu dat, tak formátovou konzistenci napříč různými operačními systémy a aplikacemi.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Generování univerzálně čitelných obchodních zpráv z hrubých CSV datových sad  
 - Vytváření přenosných faktur s formátováním bohatého textu  
 - Příprava stylových textových souborů pro bezpečnou výměnu dokumentů  
 - Vytváření offline archivů obsahu pro dodržování předpisů a zálohování  
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatické generování souborů RTF z exportů databáze  
 - Použití hromadných konvertorů CSV na RTF pro hromadné vytváření dokumentů  
 - Použití šablonovacích strojů založených na Javě pro značkování dokumentů  
 - Integrace automatizované generace RTF do firemních pracovních postupů  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

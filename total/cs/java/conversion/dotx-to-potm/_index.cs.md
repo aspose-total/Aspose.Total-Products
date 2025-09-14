@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOTX chráněné heslem na POTM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTX** na **POTM (Šablona PowerPoint s makry)** je pro organizace, které spoléhají na automatizaci v prezentacích, zásadní, umožňuje pokročilou funkcionalitu a interaktivitu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Interaktivní školení
 - Automatické aktualizace snímků
 - Makro-povolené prezentace
 - Prezentace pro celou firmu
 - Snímky pro firemní dodržování předpisů
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pipeliny maker pro převod DOTX na POTM
 - Automatické aktualizace šablon
 - Automatizace prezentací řízená daty
 - Vlastní pracovní postupy maker
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

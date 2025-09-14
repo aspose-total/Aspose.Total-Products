@@ -30,12 +30,12 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění e-mailů do **škálovatelných vektorových grafik (SVG)** zajistí, že vizuální reprezentace je nezávislá na rozlišení a vhodná pro vložení do moderních aplikací. Použitím Java API pro e-maily lze vizuální prvky e-mailů uchovat ve formátech připravených pro web.
 
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Publikování na webu**: Vložte grafiku e-mailů přímo do webových stránek nebo blogů.
 - **Návrhové ověřování**: Sdílejte vektorové snímky rozložení e-mailů.
@@ -52,7 +52,8 @@ Převádění e-mailů do **škálovatelných vektorových grafik (SVG)** zajist
 - **Báze znalostí**: Publikujte e-maily související se školením ve formátu SVG online.
 - **Hromadný export**: Převeďte více komunikací do formátu SVG pro archivy.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

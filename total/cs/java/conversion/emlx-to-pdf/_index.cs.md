@@ -30,22 +30,24 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění EMLX do **PDF (Portable Document Format)** zajišťuje, standardizuje a uchovává obsah e-mailů pro univerzální přístupnost a dlouhodobé archivování.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Právní a dodržování archivace e-mailů z Apple Mailu.
 - Bezpečné sdílení citlivých komunikací.
 - Zajištění přístupnosti obsahu e-mailů napříč platformami.
 - Vytváření nedotknutelných záznamů pro podnikové účely.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatické převádění e-mailů z Apple Mailu do PDF archivů.
 - Hromadná generace PDF z e-mailových bulletinů.
 - Zpracování důkazů z e-mailů do PDF v právních pracovních postupech.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Převádění e-mailů do formátu DOCX poskytuje moderní, široce podporovaný formát s pokročilými funkcemi úprav a formátování.*
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Uchování e-mailových konverzací jako upravitelných souborů DOCX
 * Příprava komunikace s klienty pro profesionální dokumentaci
 * Sdílení formátovaných záznamů e-mailů s týmy nebo partnery
 * Využití funkcí DOCX jako jsou komentáře, sledování změn a formátování
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Konverze e-mailů na DOCX v reálném čase pro sledování projektů
 * Hromadné archivování e-mailů v DOCX pro firemní záznamy
 * Automatický export e-mailů od klientů nebo podpory do DOCX pro reporting
 * Plánovaná konverze pro zajištění záloh korespondence
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

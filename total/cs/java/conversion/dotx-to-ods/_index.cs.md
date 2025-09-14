@@ -61,25 +61,27 @@ Po převodu DOTX do ODS vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTX** na **ODS (OpenDocument Spreadsheet)** podporuje organizace používající open-source kancelářské nástroje a zároveň umožňuje dodržování předpisů, analýzu dat napříč platformami a akademický výzkum.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Reporting v open-source  
 - Analýza dat napříč platformami  
 - Akademický výzkum  
 - Dokumentové pracovní postupy v různých systémech  
 - Dodržování ODF předpisů EU/Vlády  
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pipeliny DOTX-to-ODS  
 - Automatizovaná generace ODS  
 - Pracovní postupy s LibreOffice/Apache OpenOffice  
 - Automatizace otevřených dat v podnicích  
 - Automatizace tabulkových kalkulací napříč platformami
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

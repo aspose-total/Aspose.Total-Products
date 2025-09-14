@@ -30,21 +30,23 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **EML na plochý OPC (Office Open XML ve formě plochého souboru)** zachovává obsah e-mailu ve strukturovaném reprezentaci jediného souboru založeného na XML.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Ukládání obsahu e-mailu ve čitelném formátu XML.
 - Zlepšení výměny e-mailů s systémy Office Open XML.
 - Ladění a analýza struktury dokumentu.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizace pracovního postupu při zpracování dokumentů v kanceláři.
 - Archivace e-mailových dat v systémech kompatibilních s XML.
 - Převod EML na plochý OPC pro další automatizaci ve Wordu.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

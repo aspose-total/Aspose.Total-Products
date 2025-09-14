@@ -54,22 +54,24 @@ API také umožňuje převádět dokumenty DOC chráněné heslem na PPSM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOC** na **PPSM (PowerPoint Macro-Enabled Slide Show)** je důležitý pro vytváření interaktivních, automatizovaných prezentací z dokumentů Word. Soubory PPSM mohou spouštět makra pro poskytování pokročilé interaktivity, automatizace a přizpůsobené prezentace.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Simulace školení s automatizovanými ovládacími prvky snímků  
 - Automatizované sekvence prezentací pro firemní události  
 - Interaktivní ukázky produktů s funkcí maker  
 - Nástroje pro firemní komunikaci řízené makry  
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Vložení makra DOC-to-PPSM pro interaktivní prvky  
 - Událostmi řízené přechody snímků pro dynamické prezentace  
 - Automatizované pracovní postupy personalizace prezentace pro cílené publikum  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

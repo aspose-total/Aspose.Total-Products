@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na POTX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Transformace **DOTM** na **POTX (PowerPoint šablona Open XML)** je klíčová pro vytváření opakovaně použitelných, moderních šablon z makro-povolených souborů Word, ideální pro prezentace připravené pro cloud a škálovatelné.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Firemní šablony firem
 - Škálovatelné prezentační materiály
 - Prezentace podnikového hlášení
 - Opakovaně použitelné formáty prezentací
 - Pracovní postupy připravené pro cloud
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Potrubí šablon DOTM-to-POTX
 - Generování prezentací řízené XML
 - Cloudová automatizace pro prezentace v PowerPointu
 - Integrace pracovního postupu s Office 365
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

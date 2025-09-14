@@ -49,24 +49,26 @@ Zatímco převádíte DOCX na JSON, můžete také nastavit rozsah výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCX** na **JSON (JavaScript Object Notation)** umožňuje integraci obsahu dokumentu do API, webových aplikací a moderních automatizačních pracovních postupů. JSON umožňuje extrakci strukturovaných, strojově čitelných dat z dokumentů Word.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Extrahování strukturovaného obsahu pro **API**
 - Umožnění **aplikací řízených dokumenty**
 - Migrace dat DOCX do **headless CMS**
 - Podpora **pipelines pro strojové učení**
 - Výměna dat v **podnikových aplikacích**
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Hromadné pipeliny DOCX-to-JSON API**
 - **Automatizované zprávy založené na JSON**
 - **Pracovní postupy pro analýzu dokumentů**
 - **Systémy webové integrace**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

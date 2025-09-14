@@ -54,8 +54,8 @@ API také umožňuje převádět dokumenty DOTX chráněné heslem na PPTX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Obchodní prezentace
 - Školení prezentace
 - Akademické přednášky
@@ -67,7 +67,8 @@ API také umožňuje převádět dokumenty DOTX chráněné heslem na PPTX. Poku
 - Automatizace založená na cloudu
 - Generování firemní prezentace
 - Integrace dat do snímku
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

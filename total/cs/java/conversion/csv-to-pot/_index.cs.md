@@ -42,23 +42,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na POT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **CSV** na **POT (šablona PowerPoint 97-2003)** zjednodušuje vytváření opakovaně použitelných šablon prezentací naplněných strukturovanými daty. To zajistí, že organizace mohou generovat konzistentní, profesionální rozložení snímků pro obchodní, školicí nebo marketingové účely bez opakované ruční formátování.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Automatizace vytváření snímků přímo z datových sad
 - Vytváření obchodních prezentací na základě šablon
 - Generování školicích materiálů z dat CSV
 - Standardizace firemních návrhů snímků napříč týmy
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Java založené API šablon PowerPoint pro naplnění snímků řízených daty CSV
 - Konvertory dávkového převodu CSV na POT pro hromadné generování šablon
 - Integrace s nástroji pro firemní prezentace pro jednotnou značku
 - Automatické naplnění rozložení snímků ze strukturovaných dat
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

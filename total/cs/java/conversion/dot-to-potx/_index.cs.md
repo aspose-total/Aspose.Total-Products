@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOT chráněné heslem na POTX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **POTX (šablona PowerPoint Open XML)** umožňuje generování moderních šablon prezentací založených na XML vhodných pro cloud, vícezařízení a škálovatelné pracovní postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Pracovní postupy prezentací připravené pro cloud
 - Standardizované firemní šablony
 - Vzdělávací a školicí snímky
 - Kompatibilita šablon více zařízení
 - Škálovatelné systémy návrhu prezentací
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Převod z DOT na POTX v cloudu
 - Automatizace šablony PowerPoint
 - Firemní pracovní postupy pro XML snímky
 - Dokumentové šablony
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

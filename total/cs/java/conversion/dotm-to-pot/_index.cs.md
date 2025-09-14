@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na POT. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTM** na **POT (šablona PowerPointu)** umožňuje znovupoužití šablon Word s makry v PowerPointu a poskytuje standardizované, škálovatelné prezentace pro podniky.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Firemní prezentace
 - Výukové a vzdělávací snímky
 - Makrovybavené sady reportů připravené pro podniky
 - Konzistence značky v PowerPointu
 - Široké nasazení prezentací
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Konverzní potrubí šablon DOTM na POT
 - Automatizace generování prezentací
 - Automatizace firemních výukových sad
 - Vytváření prezentací řízené pracovním postupem
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOCX chráněné heslem na PPTM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCX** na **PPTM (Prezentace PowerPoint s makry)** umožňuje vložení automatizace a makro logiky přímo do snímků pro pokročilé pracovní prezentace.
 
-## ✅ Klíčové použití případy
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Interaktivní obchodní ovládací panely
 - Prezentace řízené pracovním postupem
 - Makro-povolené výukové moduly
 - Automatizované prezentace reportů
 - Systémy podnikového školení
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pracovní postupy DOCX na PPTM s makry
 - Potrubí podnikových ovládacích panelů
 - Interaktivní automatizované prezentace snímků
 - Vytváření dokumentů s makry pro prezentace
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

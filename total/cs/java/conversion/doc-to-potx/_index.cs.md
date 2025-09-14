@@ -54,9 +54,9 @@ API také umožňuje převádět dokumenty DOC chráněné heslem na POTX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vytváření značkových prezentací z reportů
 - Převádění strukturovaných dokumentů Word do šablon prezentací
 - Udržování konzistence designu ve výukových materiálech
@@ -67,7 +67,8 @@ API také umožňuje převádět dokumenty DOC chráněné heslem na POTX. Pokud
 - Přizpůsobení šablony založené na XML pro pokročilou kontrolu designu
 - Hromadné vytváření firemních šablon z obsahu Word
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

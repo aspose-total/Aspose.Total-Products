@@ -68,22 +68,24 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod CGM (Computer Graphics Metafile) na PS (PostScript) je klíčovým krokem k dosažení přesného, vysoce kvalitního tisku a profesionálních publikačních výsledků. Zařízení nezávislý formát PostScriptu zajišťuje, že složité vektorové grafiky, inženýrské diagramy a technické ilustrace si zachovají svou přesnost a věrnost při přenosu na tiskové stroje nebo publikační systémy. To činí převod CGM na PS nezbytným pro odvětví vyžadující konzistentní, škálovatelné a tiskem připravené výstupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Průmyslový tisk vektorů** – Vytváření ostrých, škálovatelných technických diagramů pro výrobu, inženýrství a architektonickou dokumentaci.
 - **Archivace technických ilustrací v systémech založených na PostScriptu** – Ukládání vektorových prostředků ve formátu optimalizovaném pro dlouhodobou přístupnost a tiskovou kompatibilitu.
 - **Příprava CGM diagramů pro sazbu** – Zajištění bezproblémové integrace do profesionálního uspořádání stránky a pracovních postupů sazby.
 - **Fyzická produkce dokumentů** – Generování souborů připravených k tisku pro manuály, katalogy a technické grafy velkého formátu.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Generátory tiskových proudů založené na Javě** – Programově převádějte soubory CGM na vysokorychlostní výstup PS pro podnikové tiskové pracovní postupy.
 - **Hromadné konvertory vektorů na PostScript** – Automatizujte rozsáhlé procesy konverze pro efektivní zpracování rozsáhlých archivů grafiky.
 - **Integrace do publikačního potrubí** – Vložte převod CGM na PS do automatizovaného vykreslování dokumentů a profesionálních publikačních systémů pro konzistentní, vysoce kvalitní výsledky.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

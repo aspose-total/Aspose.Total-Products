@@ -42,23 +42,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na DOTM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod CSV na DOTM (šablonu programu Word s makry) umožňuje podnikům automatizovat vytváření interaktivních šablon řízených makry ze strukturovaných datových sad. Šablony DOTM mohou spouštět makra VBA, což je činí ideálními pro opakující se generování dokumentů řízených logikou.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Generování dynamických šablon dokumentů s vestavěnými makry** – Umožněte aktualizace obsahu na základě logiky.
 - **Automatizace opakujících se obchodních zpráv** – Plánování naplnění šablony s makry.
 - **Vytváření makro-řízených formulářů předvyplněných daty CSV** – Snížení ručního zadávání a zlepšení přesnosti.
 - **Příprava dokumentů na úrovni podniku ve várkách** – Automatizace výroby více dokumentů založených na šablonách.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Nástroje pro generování šablon DOTM založené na Javě** – Programové sestavení šablon s makry.
 - **Vazba dat CSV s makro-řízenými šablonami** – Automatické vyplnění zástupců daty CSV.
 - **Integrace s softwarem pro automatizaci pracovních postupů** – Spouštění tvorby dokumentů z kroků pracovního postupu.
 - **Plánované aktualizace šablon pomocí aplikací v Javě** – Udržujte šablony aktuální s plánovanými obnoveními dat.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

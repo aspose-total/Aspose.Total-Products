@@ -30,19 +30,21 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **PDF** je nejuniverzálnější formát dokumentu. Převod **EML na PDF** zachovává rozložení, přílohy a formátování pro snadné sdílení.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Archivace e-mailů jako univerzálně přístupných PDF.
 - Ukládání e-mailů připravených pro dodržování předpisů.
 - Bezpečné sdílení obchodní korespondence.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizovaná archivace PDF pro firemní e-maily.
 - Převod podpůrných tiketů z e-mailu do PDF.
 - Hromadná migrace záloh e-mailů do repozitářů PDF.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

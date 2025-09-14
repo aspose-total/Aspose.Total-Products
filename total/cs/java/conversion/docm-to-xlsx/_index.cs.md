@@ -61,25 +61,27 @@ Po převodu DOCM do XLSX vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCM** na **XLSX (Excel Open XML Workbook)** produkuje zabezpečené, bez-makrové a moderní tabulky kompatibilní s Microsoft Excel, Google Sheets a Office 365. To zajišťuje bezpečné sdílení, spolupráci a dodržování firemních politik souladu při přeměně tabulek založených na Wordu na strukturovaná data v Excelu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vytváření **zabezpečených, bez-makrových sešitů**
 - Sdílení tabulek napříč **cloudovými platformami**
 - Příprava dat pro spolupráci v **Google Sheets**
 - Vytváření **finančních modelů** v Excelu
 - Zajištění **dodržování firemních pravidel** pro bez-makrové soubory
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Konvertory DOCM na XLSX pro firmy**
 - **Cloudové dávkové potrubí** pro generování XLSX
 - **Toky Power Automate** generující XLSX z obsahu Wordu
 - **ETL úlohy** exportující XLSX datasety
 - **CI/CD systémy** produkující bez-makrové XLSX soubory pro týmy
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

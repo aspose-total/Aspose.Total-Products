@@ -61,24 +61,26 @@ Po převodu DOT do XLSM vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **XLSM (Excel s makry povolený sešit)** umožňuje vytvářet opakovaně použitelné, automatizované sešity Excelu z šablon Wordu, což umožňuje složité výpočty a automatizaci pracovního postupu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Automatizované finanční dashboardy
 - Pracovní postupy s makry
 - Šablony pro podporu produktivity podniku
 - Automatizace složitých analýz dat
 - Modely tabulek řízené procesem
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Převod DOT na XLSM s makry
 - Automatizované potrubí pracovního postupu
 - Generování šablon s makry
 - Automatizace dokumentů do Excelu
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

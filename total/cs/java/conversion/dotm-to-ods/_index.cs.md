@@ -61,24 +61,26 @@ Po převodu DOTM do ODS vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Přeměna souborů **DOTM** na **ODS (OpenDocument Spreadsheet)** umožňuje organizacím používat šablony Wordu jako open-source tabulky, podporující reporting a cloud-native pracovní postupy se sešity.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Integrace open-source pracovního postupu pro podniky
 - Reporting a analytika založená na tabulkách
 - Zpracování dat na různých platformách
 - Kompatibilita se sešity v cloudu
 - Dodržování otevřených standardů
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Konverzní trubice DOTM na ODS
 - Automatizace makra na tabulku
 - Integrace pracovního postupu pro podniky
 - Automatizace pracovního postupu ODS řízená šablonou
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

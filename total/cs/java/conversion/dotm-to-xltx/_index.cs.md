@@ -61,24 +61,26 @@ Po převodu DOTM do XLTX vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTM** na **XLTX** umožňuje vytváření opakovaně použitelných ne-makro šablon Excelu z šablon Wordu pro standardizované podnikové a cloudové hlášení.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Standardizované podnikové šablony
 - Cloudově kompatibilní hlášení
 - Akademické šablony
 - Šablony pro zadávání dat vládními institucemi
 - Finanční předpovědní modely
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizace šablony DOTM na XLTX
 - Hromadná generace šablon Excelu
 - Podnikové šablony pro hlášení na úrovni podniku
 - Cloudově připravené pracovní postupy DOTM na Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů **EMLX** na **DOT (šablona Wordu)** transformuje obsah e-mailů do standardizovaných, opakovaně použitelných šablon dokumentů.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 - Vytváření šablon z opakujících se formátů e-mailů  
 - Příprava souborů DOT pro právní nebo personální komunikaci  
 - Standardizace dokumentace založené na e-mailech  
 - Navrhování šablon Wordu pro podnikové použití z e-mailů  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 - Potrubí EMLX-to-DOT pro vytváření opakovaně použitelných formátů  
 - Automatické generování šablon z archivů e-mailů  
 - Integrace šablon DOT do podnikových pracovních postupů  
 - Automatizace brandingu dokumentů z e-mailových zpráv  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

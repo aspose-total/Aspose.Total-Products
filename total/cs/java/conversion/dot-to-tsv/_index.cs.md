@@ -61,23 +61,25 @@ Po převodu DOT do TSV vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **TSV (hodnoty oddělené tabulátorem)** umožňuje strukturovaný výstup tabulkových dat z šablon Wordu do lehkých, přenosných formátů vhodných pro analytické a databázové pracovní postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Migrace dat do tabulek
 - Import/export v podnikových aplikacích
 - Standardizované tabulkové reporty
 - Strukturovaný text připravený pro databáze
  
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizované potrubí DOT-to-TSV
 - Hromadný výstup dat ze šablon Wordu
 - Generování TSV připravené pro pracovní postupy
 - Standardizace podnikových dat
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

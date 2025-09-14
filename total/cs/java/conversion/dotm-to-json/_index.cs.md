@@ -49,24 +49,26 @@ Zatímco převádíte DOTM na JSON, můžete také nastavit rozsah výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Exportování **DOTM** do **JSON (JavaScript Object Notation)** umožňuje strukturované, strojově čitelné formáty dat, ideální pro API, cloudové pracovní postupy a ukládání do NoSQL databází, zlepšující integraci webových a mobilních aplikací.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Integrace API pro webové a cloudové aplikace
 - Výměna dat webových aplikací a interoperabilita
 - Ukládání do NoSQL databází
 - Cloud-native a serverless pracovní postupy
 - Automatizované reportování a analýzy
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pipeliny extrakce DOTM do JSON
 - Pracovní postupy dat makra k API
 - Automatizace dokumentů do JSON
 - Automatizace procesů řízených daty
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

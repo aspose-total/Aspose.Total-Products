@@ -61,24 +61,26 @@ Po převodu DOT do XLSB vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **XLSB (Excel Binary Workbook)** je ideální pro zpracování velkých datových sad s optimalizovaným úložištěm a rychlejším zpracováním, vhodný pro reportování na úrovni podniku.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Datové sady na úrovni podniku
 - Tabulky kompatibilní s velkými daty
 - Optimalizované pracovní postupy pro úložiště
 - Finanční modelování
 - Automatizace záznamů na velkou škálu
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Převod šablony DOT na XLSB
 - Výkonné toky dat v Excelu
 - Datově intenzivní reportování na úrovni podniku
 - Škálovatelné pracovní postupy pro dokumenty na datové sady
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

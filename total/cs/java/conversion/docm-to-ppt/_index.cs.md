@@ -54,12 +54,12 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na PPT. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **PPT (Prezentace PowerPoint 97–2003)** je klíčový pro **kompatibilitu s dědictvím**. Formát PPT zajistí, že organizace provozující starší kancelářské prostředí stále mohou **používat, zobrazovat a sdílet prezentace** vytvořené z strukturovaného obsahu Wordu.  
 
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 
 - **Podpora starých obchodních prostředí**  
   Dodávání snímků uživatelům se zastaralým softwarem.  
@@ -77,7 +77,8 @@ Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **PPT (Prezentace P
   Udržujte kompatibilitu mezi týmy v dědictví infrastruktur.  
 
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **DOCM-to-PPT Konverzní pracovní postupy pro dědictví**  
   Automatizujte výrobu snímků PPT pro staré systémy.  
@@ -94,7 +95,8 @@ Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **PPT (Prezentace P
 - **Standardizace v podnicích migračních potrubí DOCM do výstupů PPT**  
   Ujistěte se o plynulé migraci z Wordu do starých formátů PowerPointu.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

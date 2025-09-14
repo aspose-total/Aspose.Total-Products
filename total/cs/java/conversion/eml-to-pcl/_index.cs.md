@@ -30,19 +30,21 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **PCL (Jazyk příkazů tiskárny)** je široce používán pro tiskárny. Převod **EML na PCL** umožňuje přímé pracovní postupy e-mail-tiskárna.
 
-## ✅ Klíčové použití případy
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Zefektivnění pracovních postupů tisku ve firmách.
 - Archivace tiskových verzí e-mailů.
 - Automatizace hromadného tisku.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizovaný tisk ze serveru z e-mailových souborů.
 - Převod e-mailových oznámení přímo do PCL.
 - Hromadné tiskové úlohy EML na PCL na velkou škálu.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -47,12 +47,12 @@ Při převodu souboru CGM na FODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů **Computer Graphics Metafile (CGM)** do formátu **FODS (Flat OpenDocument Spreadsheet)** je efektivní způsob, jak transformovat grafická technická data do strukturovaných, otevřených tabulek. V **Java založených open-source aplikacích** tato konverze umožňuje inženýrům, výzkumníkům a datovým analytikům extrahovat měřicí hodnoty, specifikace a vektorové detaily z diagramů CGM do editovatelných tabulek FODS. Jako formát ODF kompatibilní s XML, FODS zajišťuje kompatibilitu s nástroji jako OpenOffice, což usnadňuje sdílení a spolupráci bez vlastnických omezení.
 
 
-## ✅ Klíčové Použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové Použití" %}}
 
 - **Převádění Grafických Technických Dat do Tabulek**  
   Extrahování vektorových grafických dat ze souborů CGM do strukturovaných řádků a sloupců pro analýzu.
@@ -64,7 +64,7 @@ Převádění souborů **Computer Graphics Metafile (CGM)** do formátu **FODS (
   Distribuce dat tabulek odvozených z CGM pomocí aplikací kompatibilních s ODF.
 
 
-## ⚙️ Scénáře Automatizace
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře Automatizace" %}}
 
 - **Java Knihovny jako JOpenDocument**  
   Automatizace konverze CGM na FODS v Java workflových pomocí open-source knihoven pro manipulaci s tabulkami.
@@ -78,7 +78,8 @@ Převádění souborů **Computer Graphics Metafile (CGM)** do formátu **FODS (
 - **Systémy Zpracování Dat s Otevřeným Zdrojovým Kódem**  
   Použití FODS jako součásti Java poháněných vědeckých nebo inženýrských platforem pro transparentní, standardy podporovanou správu dat.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

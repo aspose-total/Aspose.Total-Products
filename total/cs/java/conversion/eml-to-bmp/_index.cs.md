@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů **EML (formát e-mailové zprávy)** na **BMP (bitmapový obrázek)** zachovává přesnou vizuální podobu e-mailu ve statickém, vysoce kvalitním rastrovém formátu.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 - **Archivace e-mailů**: Ukládejte neupravitelné snímky e-mailů pro záznamy.  
 - **Právní důkazy**: Zachyťte původní vzhled e-mailu pro účely dodržování předpisů a soudní použití.  
 - **Dokumenty připravené k tisku**: Převeďte e-maily do formátu BMP pro plakáty nebo fyzické záznamy.  
 - **Grafický design**: Použijte obsah e-mailu v pracovních postupech designu, které vyžadují bitmapové obrázky.  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 - **Hromadné snímky e-mailů**: Převeďte více souborů EML na obrázky BMP.  
 - **Předpisy pro dodržování**: Automaticky ukládejte všechny firemní e-maily ve formě bitmapy.  
 - **Forenzní archivace**: Zachovejte e-maily jako neupravený důkaz v podobě obrázku.  
 - **Sdílení mezi systémy**: Zajistěte konzistentní zobrazení bez nutnosti e-mailového klienta.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

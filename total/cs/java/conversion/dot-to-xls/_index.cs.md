@@ -61,24 +61,26 @@ Po převodu DOT do XLS vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **XLS (Excel Binary Format)** je zásadní pro vytváření strukturovaných, analyzovatelných tabulek přímo z šablon Wordu, což zajišťuje kompatibilitu s dědictvím a efektivní offline pracovní postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Dědictví finančního hlášení
 - Podnikové uchovávání záznamů
 - Tabulky kompatibilní s offline režimem
 - Hlášení pro vládu/soulad
 - Extrahování strukturovaných tabulkových dat
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Migrace dat z DOT do XLS
 - Automatizace šablon na tabulky ve várce
 - Transformace dat řízená souladem
 - Podnikové hlášeníové toky
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

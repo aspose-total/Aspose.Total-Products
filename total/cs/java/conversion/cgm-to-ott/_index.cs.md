@@ -42,12 +42,12 @@ Při ukládání vstupního dokumentu do formátu souboru OTT můžete také dok
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod souborů **Computer Graphics Metafile (CGM)** do formátu **OTT (OpenDocument Text Template)** je pro organizace používající prostředí open-source a kompatibilní s ODF klíčový. Na **platformách založených na Javě** tento převod umožňuje vložení CGM diagramů a technických vizuálů do opakovaně použitelných šablon kompatibilních s LibreOffice a dalšími editory OpenDocument. OTT šablony zajistí konzistenci designu, usnadní spolupracující úpravy a zjednoduší generování standardizovaných zpráv napříč distribuovanými týmy, přičemž zachovávají otevřené standardy pro interoperabilitu.
 
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Generování zpráv kompatibilních s ODF**  
   Vytvářejte zprávy založené na standardech, kde se vizuály CGM integrují bezproblémově se strukturovaným obsahem OpenDocument.
@@ -56,7 +56,8 @@ Převod souborů **Computer Graphics Metafile (CGM)** do formátu **OTT (OpenDoc
   Ukládejte CGM obohacené OTT šablony do sdílených repozitářů pro úpravy v reálném čase více uživateli v platformách open-source.
 
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Automatizace v Javě pomocí konvertoru**  
   Použijte API od Aspose v Javových pracovních postupech k převodu souborů CGM do OTT šablon pro automatizované nasazení.
@@ -70,7 +71,8 @@ Převod souborů **Computer Graphics Metafile (CGM)** do formátu **OTT (OpenDoc
 - **Open-Source podnikové platformy**  
   Nasadit OTT šablony s vloženými CGM diagramy v Javových systémech pro správu obsahu a automatizaci dokumentů.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

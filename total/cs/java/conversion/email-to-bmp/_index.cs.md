@@ -30,12 +30,12 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění e-mailů do formátu **Bitmap (BMP)** zajišťuje kompatibilitu s staršími systémy a zpracováním obrazu v původní podobě. S Java Email API lze e-mailové zprávy exportovat do formátu BMP pro archivaci, forenzní účely a integrované systémy z minulosti.
 
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Staré Systémy**: Ukládejte obrázky e-mailů ve formátu BMP pro kompatibilitu se starším softwarem.
 - **Forenzní Důkazy**: Zachovejte rozložení e-mailů jako nepřevedené bity pro vyšetřování.
@@ -52,7 +52,8 @@ Převádění e-mailů do formátu **Bitmap (BMP)** zajišťuje kompatibilitu s 
 - **Pracovní Postupy Pro Dodržování Pravidel**: Ukládejte oficiální korespondenci jako obrázky BMP.
 - **Automatizace Školení**: Generujte obrázky BMP z podvodných e-mailů pro programy osvěty.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

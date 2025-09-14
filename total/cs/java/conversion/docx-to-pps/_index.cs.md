@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOCX chráněné heslem na PPS. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCX** na **PPS (PowerPoint Show)** umožňuje vytváření připravených prezentací diapozitivů, ideálních pro publikum, které vyžaduje propracovaný obsah spouštěný automaticky.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Prezentace na konferencích
 - Ukázky pro klienty
 - Automatizované prodejní prezentace
 - Vzdělávací přednášky
 - Schůzky s investory
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatické vytváření prezentací DOCX-to-PPS
 - Generování připravených prezentací pro podniky
 - Automatizace ukázek pro klienty
 - Pracovní postupy pro spouštění prezentací automaticky
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

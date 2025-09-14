@@ -47,23 +47,25 @@ Při převodu souboru CGM na XLT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů CGM do formátu **XLT (Excel Template)** v aplikacích řízených Javou zajišťuje konzistentní, znovupoužitelné rozložení tabulek pro technické a inženýrské zprávy. XLT šablony standardizují formátování, umístění dat a tvorbu grafů, což umožňuje rychlejší generování strukturovaných zpráv z diagramů založených na CGM nebo extrakcí dat.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Znovupoužitelné inženýrské šablony pro opakující se technické zprávy.
 - Předformátovaná rozložení pro integraci diagramů založených na CGM.
 - Rychlá tvorba kontrolních a inspekčních listů.
 - Konzistentní branding a formátování pro firemní dokumenty.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Java založené systémy šablonování tabulek pro hromadnou generaci XLT.
 - Naplnění šablony daty z CGM pomocí automatizovaných potrubí.
 - Integrace s nástroji pro firemní reporting pro výstup založený na XLT.
 - Hromadná konverze pro standardizaci firemních zpráv.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

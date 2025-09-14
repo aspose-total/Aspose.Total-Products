@@ -54,18 +54,20 @@ API také umožňuje převádět dokumenty DOC chráněné heslem na PPS. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Automatizované prezentace schůzek z obsahu Wordu
 - Distribuce prezentace ve formátu slideshow jedním kliknutím pro pohodlí
 - Generování školení z instruktážních manuálů
 - Vytváření obchodních nabídek z obchodních návrhů
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Nástroje pro rychlé převádění prezentací z DOC do PPS pro rychlé nasazení
 - Automatické vkládání vyprávění pro samospouštějící prezentace
 - Okamžité generování prezentací pro firemní použití
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

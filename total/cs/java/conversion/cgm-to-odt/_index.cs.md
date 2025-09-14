@@ -42,25 +42,27 @@ Při ukládání vstupního dokumentu do formátu souboru ODT můžete také dok
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů CGM (Computer Graphics Metafile) na ODT (OpenDocument Text) nabízí praktický způsob, jak vložit přesné vektorové ilustrace do dokumentů ve formátu otevřeného dokumentu. To zajistí vysokou kvalitu vizuálů v technických manuálech, inženýrských zprávách a archivačních dokumentech, a to vše s udržením kompatibility s nástroji pro úpravu open-source.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Publikování technických dokumentů s vloženými vektorovými diagramy.
 - Vytváření údržbových manuálů s měnitelnými ilustracemi.
 - Archivace standardních průmyslových diagramů ve formátu otevřeného dokumentu.
 - Příprava dokumentů pro vládu a instituce.
 - Formátování vědeckých prací s grafikou založenou na vektorech.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Java založené generátory dokumentů pro technické psaní.
 - Pracovní postupy open-source textových editorů s integrací vektorů.
 - Automatizované systémy publikování pro technické manuály.
 - Systémy pro podnikové reportování s vložením diagramů.
 - Repozitáře dokumentace s verzováním.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

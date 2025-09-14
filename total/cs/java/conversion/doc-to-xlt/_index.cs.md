@@ -61,18 +61,20 @@ Po převodu DOC do XLT vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Standardizace šablon pro podnikové reporty
 - Vytváření předvyplněných šablon pro opakující se pracovní postupy
 - Převádění formulářů do strukturovaných šablon tabulek
 - Konzistence ve zpravodajství na úrovni oddělení
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Nástroje pro vytváření šablon DOC-to-XLT
 - Automatizované mapování dokumentů na šablony
 - Centralizované pracovní postupy pro generování šablon
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

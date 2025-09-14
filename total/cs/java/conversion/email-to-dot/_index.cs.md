@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Převádění e-mailů na formát DOT vytváří opakovaně použitelné šablony, které umožňují organizacím transformovat strukturu e-mailů do standardizovaných dokumentů.*
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Přeměna opakujících se e-mailů na editovatelné šablony ve Wordu
 * Standardizace firemní komunikace (např. HR, právní, zákaznické zahájení)
 * Příprava šablon pro školení nebo instruktážní texty z e-mailů
 * Zefektivnění tvorby opakujících se zpráv nebo dopisů
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Automatická konverze strukturovaných e-mailů do šablon ve formátu DOT
 * Hromadné vytváření knihoven šablon z opakujících se komunikací
 * Pipeliny z e-mailů do formátu DOT pro týmy HR nebo prodeje
 * Integrace s nástroji pro pracovní postupy k vytváření opakovaně použitelných šablon
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

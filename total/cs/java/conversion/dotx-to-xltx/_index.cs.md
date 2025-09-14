@@ -61,24 +61,26 @@ Po převodu DOTX do XLTX vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 ## Transformace **DOTX (Šablona Wordu)** na **XLTX (Šablona Excelu Open XML)** zajišťuje standardizované, cloudově připravené šablony Excelu pro podniky. Tento formát podporuje škálovatelnost, opakovatelnost a moderní spolupráci.
 
-#### ✅ Klíčové použití
+##{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Rámcové podnikové zprávy v Excelu
 - Finanční šablony pro organizace
 - Cloudově kompatibilní nastavení šablon Excelu
 - Pracovní postupy pro oddělení
 - Konzistence na úrovni podniku napříč týmy
 
-#### ⚙️ Scénáře automatizace
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Konverzní potrubí DOTX na XLTX
 - Automatizované distribuce šablon Excelu
 - Standardizace dokumentů na Excelu
 - Automatizace šablon na úrovni podniku pro škálovatelnost
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

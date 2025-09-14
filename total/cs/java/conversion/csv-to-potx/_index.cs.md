@@ -42,21 +42,23 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na POTX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Automatizace firemních šablon prezentací
 - Vytváření daty řízených marketingových prezentací
 - Příprava konzistentních designových rámců pro týmy
 - Generování vícejazyčných šablon snímků z dat ve formátu CSV
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Generování šablon z dat ve formátu CSV s moderními formáty PowerPointu
 - Skripty pro hromadnou konverzi CSV na POTX pro velkovýrobu
 - Java založené automatizační pracovní postupy pro úpravu stylů snímků
 - Integrace s podnikovými systémy pro správu prezentací
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

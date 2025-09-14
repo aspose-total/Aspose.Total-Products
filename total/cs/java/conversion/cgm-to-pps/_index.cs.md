@@ -59,21 +59,23 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů CGM na PPS (PowerPoint Show) umožňuje připravit prezentace, které se otevřou v režimu prezentace snímků, ideální pro nehlídané nebo kioskové zobrazení. Inženýrské týmy a firmy mohou tuto funkci využít pro vizuální průchody a statické prezentace diagramů.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Prezentace pro kiosky** – Automatické smyčky zobrazení na výstavách a konferencích.
 - **Procházky inženýrským návrhem** – Vizuální vysvětlení pro sezení při kontrole návrhu.
 - **Prezentace firemních snímků pouze ke čtení** – Zabraňte neúmyslným úpravám při sdílení.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Aplikace pro kiosky založené na Javě** – Generujte soubory PPS z diagramů CGM pro veřejné zobrazení.
 - **Tvorci dynamických prezentací** – Automaticky generujte smyčky z inženýrských dat.
 - **Neohlídané prezentace zpráv** – Naplánujte automatizované přehrávání pro cykly reportů.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

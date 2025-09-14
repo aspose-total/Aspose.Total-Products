@@ -30,23 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Převádění e-mailů do formátu DOC umožňuje firmám uchovávat, upravovat a znovu využívat komunikační záznamy ve strukturovaném formátu dokumentu Word.*
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Archivace důležitých e-mailových komunikací v upravitelných souborech DOC
 * Příprava právních nebo dodržovacích dokumentů z e-mailových záznamů
 * Převádění aktualizací projektů nebo komunikací s klienty do strukturovaných zpráv
 * Úprava e-mailů s pokročilými formátovacími funkcemi v programu Microsoft Word
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Automatické převádění příchozích e-mailů do formátu DOC pro centralizovanou dokumentaci
 * Hromadné exportování e-mailů do formátu DOC pro archivaci dodržování předpisů
 * Automatizované e-mailové-to-DOC potrubí pro správu případů nebo personální záznamy
 * Plánované konverze pro vytváření upravitelných záloh komunikace týmu
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

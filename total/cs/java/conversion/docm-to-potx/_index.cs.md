@@ -54,11 +54,11 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na POTX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **DOCM (Dokumenty s makry ve Wordu)** na **POTX (Šablony PowerPoint Open XML)** je důležité pro vytváření **moderních šablon bez maker**, které jsou kompatibilní s Office 365 a cloudovými platformami pro spolupráci. POTX umožňuje organizacím **standardizovat firemní rozložení** a zjednodušit pracovní postupy zároveň zajišťujíc dodržování politik bez maker.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Vytváření standardizovaných firemních šablon snímků**  
   Vytvořte opakovaně použitelné šablony prezentací pro konzistentní branding.
@@ -75,7 +75,8 @@ Převádění **DOCM (Dokumenty s makry ve Wordu)** na **POTX (Šablony PowerPoi
 - **Sdílení šablon napříč Office 365 a Google Slides**  
   Zajistěte bezproblémovou spolupráci napříč platformami.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Konvertory DOCM na POTX pro firemní týmy**  
   Standardizujte tvorbu šablon pomocí automatizovaných hromadných procesů.
@@ -92,7 +93,8 @@ Převádění **DOCM (Dokumenty s makry ve Wordu)** na **POTX (Šablony PowerPoi
 - **Systémy správy prosazující dodržování politik bez maker**  
   Zajistěte distribuci pouze čistých souborů POTX bez maker.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

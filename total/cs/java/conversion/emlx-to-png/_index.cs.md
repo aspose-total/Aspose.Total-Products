@@ -30,11 +30,11 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **EMLX (soubory e-mailů Apple Mail)** na **PNG (Portable Network Graphics)** zaručuje obrázky ve vysoké kvalitě s bezztrátovou kompresí, což je ideální pro archivaci a publikování obsahu e-mailů.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 
 - **Archivace ve vysoké kvalitě** → Ukládejte e-maily jako ostré, bezztrátové PNG.  
 - **Právní a dodržování předpisů** → Použijte PNG pro ukládání komunikace odolné proti zásahům.  
@@ -43,7 +43,8 @@ Převod **EMLX (soubory e-mailů Apple Mail)** na **PNG (Portable Network Graphi
 - **Úprava obrázků** → Použijte PNG tam, kde je vyžadována průhlednost nebo úprava.  
 
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Hromadné převody EMLX na PNG** → Automaticky převeďte velké objemy e-mailů na PNG.  
 - **Právní postupy** → Integrujte převod do PNG pro právní uchovávání záznamů.  
@@ -51,7 +52,8 @@ Převod **EMLX (soubory e-mailů Apple Mail)** na **PNG (Portable Network Graphi
 - **Vizualizace e-mailů** → Převeďte e-maily na PNG pro dashboardy a analýzy.  
 - **Bezpečné digitální archivy** → Použijte PNG pro trvalé, nezměněné záznamy.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

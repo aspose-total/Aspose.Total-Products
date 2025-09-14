@@ -54,22 +54,24 @@ API také umožňuje převádět dokumenty DOCX chráněné heslem na POTX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Převod **DOCX** na **POTX (šablona PowerPoint Open XML)** je klíčový pro generování moderních, opakovaně použitelných šablon, které zachovávají strukturovaný obsah a zajišťují kompatibilitu napříč různými verzemi Office.
 
-#### ✅ Klíčové použití
+##{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Standardizace moderních šablon PowerPointu
 - Zajištění kompatibility napříč verzemi Office
 - Migrace strukturovaného textu do šablon připravených k designu
 - Podpora prodejních a marketingových materiálů
 - Zefektivnění prezentací pro školení a workshopy
 
-#### ⚙️ Scénáře automatizace
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizace šablon DOCX-to-POTX
 - Moderní šablony prezentací
 - Standardizované pracovní postupy pro POTX ve firmě
 - Automatická konzistence designu ve slidech
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

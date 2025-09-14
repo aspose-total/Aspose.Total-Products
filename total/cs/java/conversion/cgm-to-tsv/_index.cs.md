@@ -47,23 +47,25 @@ Při převodu souboru CGM na TSV můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Transformace souborů CGM (Computer Graphics Metafile) do formátu TSV (hodnoty oddělené tabulátorem) pomocí nástrojů v Javě zajišťuje přesné zarovnání sloupců a zpracování dat přátelské k Unixu. To je zejména cenné v inženýrských pracovních postupech, kde výstupy simulací a sady měření musí být zpracovány v prostředích s různými platformami. Java I/O API a knihovny TSV umožňují robustní a škálovatelné převody CGM na TSV, které se bezproblémově hodí do procesů ETL.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vytváření tabulek s zarovnanými sloupci z dat založených na CGM.
 - Export výsledků simulace do formátu TSV pro výzkum a analýzu.
 - Zajištění kompatibility s nástroji pro zpracování příkazového řádku Unix/Linux.
 - Podpora výměny dat v aplikacích pro inženýrské účely s otevřeným zdrojovým kódem.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Java I/O a knihovny TSV pro automatizované transformace CGM na TSV.
 - Bezhlavá hromadná konverze technických souborů CGM pro pracovní postupy s reporty.
 - ETL potrubí s různými platformami pomocí zpracování dat v Javě.
 - Integrace s prostředími pro vědecké výpočty a HPC klastry.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

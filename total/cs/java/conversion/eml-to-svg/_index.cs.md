@@ -30,19 +30,21 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **SVG (škálovatelná vektorová grafika)** je webový vektorový formát. Převod **EML na SVG** umožňuje ukládání a zobrazování e-mailů jako škálovatelných grafik.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vkládání e-mailů jako vektorových grafik na webové stránky.
 - Vytváření interaktivních archivů korespondence.
 - Vizualizace obsahu e-mailů v designových systémech.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Hromadný převod pro webové publikování.
 - Automatizace archivace firemních šablon e-mailů.
 - Transformace e-mailu na SVG pro pracovní postupy UI/UX.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

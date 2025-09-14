@@ -61,24 +61,26 @@ Po převodu DOTM do XLSM vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTM** na **XLSM** zachovává plnou funkčnost maker, přeměňuje šablony Wordu na interaktivní, makry povolené tabulky Excelu pro pokročilé obchodní pracovní postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Finanční dashboardy
 - Automatizované výpočty
 - Pokročilé pracovní postupy pro reportování
 - Obchodní modely řízené makry
 - Integrace kanceláře s VBA
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizované potrubí DOTM-to-XLSM
 - Podniková finanční automatizace
 - Automatizace procesů řízených tabulkami
 - Integrace maker DOTM do Excel VBA
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

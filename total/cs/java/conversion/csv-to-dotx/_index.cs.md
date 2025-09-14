@@ -42,23 +42,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na DOTX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod CSV na DOTX (šablona Word Open XML) je zásadní pro vytváření moderních, znovupoužitelných šablon naplněných strukturovanými daty. Soubory DOTX jsou bez maker a ideální pro vytváření dokumentů standardizovaných pro podniky.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Vytváření aktuálních knihoven šablon** – Udržujte moderní šablony pro opakované použití.
 - **Příprava klientem specifických šablon z datových sad** – Generujte personalizované šablony pro různé klienty.
 - **Automatizace opakovaného vytváření dokumentů** – Naplňte šablony čerstvými daty z CSV pro pravidelné zprávy.
 - **Formátování dat CSV pro použití šablon ve firmě** – Zajistěte konzistentní styl napříč dokumenty.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Java DOCX/DOTX API** – Použijte Java knihovny k programatickému generování DOTX šablon.
 - **Mapovací nástroje CSV na šablonu** – Propojte pole CSV s místy pro šablony.
 - **Nástroje pro hromadný převod CSV na DOTX** – Automatizujte generování šablon ve velkém měřítku.
 - **Java založené systémy pro personalizaci obsahu** – Vytvářejte přizpůsobené šablony pro konkrétní publikum.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -61,25 +61,27 @@ Po převodu DOTM do XLAM vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTM** na **XLAM (Excel Add-in)** transformuje makro-povolené šablony Wordu na výkonné nástroje pro automatizaci Excelu, umožňuje vytváření opakovaně použitelných knihoven a připravených podnikových doplňků pro standardizované pracovní postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Nástroje pro automatizaci podniku z šablon Wordu
 - Generování standardizovaných doplňků Excelu
 - Pracovní postupy pro migraci maker
 - Opakovaně použitelné automatizační knihovny
 - Nasazení cloudově připravených doplňků Excelu
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pipeliny pro generování doplňků DOTM-to-XLAM
 - Automatizovaná migrace maker
 - Pracovní postupy pro automatizaci dokumentů do Excelu
 - Automatizace podnikového reportování
 - Škálovatelné distribuce doplňků
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

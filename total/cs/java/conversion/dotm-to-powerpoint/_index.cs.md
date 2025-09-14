@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na POWERPOINT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTM** na **PowerPoint (PPT/PPTX)** transformuje makro-povolené šablony Wordu na plně funkční snímky, usnadňuje podnikovou komunikaci a školicí postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Prezentace v zasedací místnosti
 - Prodejní prezentace
 - Školicí moduly
 - Snímky podnikové komunikace
 - Pracovní postupy prezentace politiky/souladu
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Trubky DOTM do PowerPointu
 - Automatické vytváření prezentací
 - Pracovní postupy podnikových snímků
 - Automatizace dokumentů na prezentace
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

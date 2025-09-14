@@ -61,22 +61,24 @@ Po převodu DOTX do XLSB vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Převod **DOTX (šablona Wordu)** na **XLSB (Excel binární sešit)** zajistí vysoký výkon, snížené velikosti souborů a optimalizované úložiště při zpracování dat ve velkém měřítku. Je zejména užitečný pro podnikové reportování a business intelligence.
 
-#### ✅ Klíčové použití
+##{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Zpracování velkých datových sad s efektivním výkonem Excelu
 - Reportování a dashboardy ve velkém měřítku podniku
 - Rychlejší zpracování tabulek v Excelu
 - Optimalizace archivačního úložiště pomocí komprimovaných binárních souborů
 - Integrace business intelligence pro data ve velkém objemu
 
-#### ⚙️ Scénáře automatizace
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Datové potrubí z DOTX do XLSB
 - Pracovní postupy pro ukládání komprimovaných tabulek
 - Automatizace dat v Excelu ve vysoké rychlosti
 - Konverze šablony na binární tabulky pro podnikové využití
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

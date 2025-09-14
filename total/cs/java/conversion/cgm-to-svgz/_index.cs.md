@@ -57,21 +57,23 @@ Pomocí API můžete také otočit výstupní obrázek SVGZ podle svých potřeb
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM na SVGZ (komprimovaná škálovatelná vektorová grafika) konverze nabízí webově přívětivou, škálovatelnou grafiku optimalizovanou pro sníženou šířku pásma. Ideální pro poskytování podrobných inženýrských výkresů online, SVGZ zajišťuje přesné zobrazení s minimální velikostí souboru.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Dodávka škálovatelného vektoru ve webových aplikacích** – Poskytujte responzivní, vysoce kvalitní vektorové diagramy.
 - **Archiv inženýrských výkresů** – Ukládejte složité ilustrace ve formátu komprimovaného vektoru.
 - **Transformace CAD do webové podoby** – Publikujte technickou grafiku z CAD do formy připravené pro prohlížeč.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Java-Based SVG Rendering Engines** – Převeďte CGM na interaktivní, škálovatelná aktiva SVGZ.
 - **Komprese SVG** – Automatizujte zmenšení velikosti souboru s uchováním vizuální přesnosti.
 - **Přední assetové potrubí** – Připravte diagramy pro okamžité načítání ve webových aplikacích.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

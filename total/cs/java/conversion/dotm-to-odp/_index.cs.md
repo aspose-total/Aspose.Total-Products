@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na ODP. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTM** na **ODP (OpenDocument Presentation)** umožňuje znovuvyužití šablon Word s makry pro prezentace kompatibilní s open-source pro podnikové a multiplatformní použití.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Podnikové pracovní postupy pro prezentace
 - Přijetí open-source pro snímky
 - Kompatibilita mezi platformami
 - Vytváření snímků řízených makry
 - Integrace s cloudovými nástroji pro prezentace
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizovaná generace DOTM-to-ODP
 - Pracovní postupy pro konverzi maker na prezentace
 - Potrubí pro open-source prezentace
 - Automatizace pracovního postupu ODP připraveného pro podniky
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

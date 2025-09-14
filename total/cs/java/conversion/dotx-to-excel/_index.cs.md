@@ -61,24 +61,26 @@ Po převodu DOTX do EXCEL vám [Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTX** na **Excel (XLS/XLSX)** je cenný pro transformaci šablon Wordu do strukturovaných tabulek, které podporují analytiku, reporting a správu pracovních postupů v podnicích.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Obchodní reporting
 - Finanční plánování
 - Datově řízené pracovní postupy
 - Správa dokumentů v podnicích
 - Cloud-kompatibilní analytika
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pipeliny DOTX-to-Excel
 - Automatizovaná generace tabulek
 - Automatizace podnikového reportingu
 - Datové analytické pracovní postupy
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

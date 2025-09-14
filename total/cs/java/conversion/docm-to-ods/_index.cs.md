@@ -61,11 +61,11 @@ Po převodu DOCM do ODS vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **ODS (OpenDocument tabulkový dokument)** je důležitý pro umožnění použití tabulek a strukturovaných dat založených na dokumentech v **LibreOffice Calc a dalších tabulkových aplikacích kompatibilních s ODF**. Zatímco soubory DOCM často obsahují cenné tabulky a formulářová data, ODS poskytuje **otevřený standard, plně upravitelný formát tabulkového dokumentu**, který zajišťuje dlouhodobou dostupnost, soulad a spolupráci. Tento převod spojuje data založená na Wordu s ekosystémy open-source, podporující jak podnikové, tak vládní požadavky na **transparentní, nezávislé na dodavatelích formáty souborů**.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 
 - **Převádění tabulek z Wordu do upravitelných tabulek**  
   Přeměňte vložené tabulky DOCM na ODS pro pokročilé výpočty, vzorce a analýzy.  
@@ -82,7 +82,8 @@ Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **ODS (OpenDocument
 - **Dlouhodobé archivování v otevřených formátech**  
   Zachovejte strukturovaná data v odolném, standardy založeném formátu přístupném po desetiletí.  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Plánované exporty z DOCM do ODS**  
   Automatizujte opakující se převody dokumentů na tabulkové dokumenty pro reporting a konsolidaci dat.  
@@ -99,7 +100,8 @@ Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **ODS (OpenDocument
 - **Cloudové konvertory standardizující výstup ve formátu ODS**  
   Dodávejte data z DOCM jako ODS v cloudových sadách pro spolupráci s prioritou na otevřené standardy.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

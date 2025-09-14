@@ -61,24 +61,26 @@ Po převodu DOT do ODS vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOT** na **ODS (OpenDocument Spreadsheet)** je zásadní pro vytváření strukturovaných tabulek z šablon Wordu, které podporují analytiku, reporting a spolupráci.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Open-source obchodní procesy
 - Příprava tabulek pro reporting
 - Spolupráce na datech
 - Firemní analytika
 - Kompatibilita mezi různými platformami
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Automatizace šablon DOT na ODS
 - Open-source reportingové procesy
 - Datové toky založené na ODS
 - Konverze dokumentů na tabulky v cloudu
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

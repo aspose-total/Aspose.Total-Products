@@ -30,24 +30,26 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 <převod **MSG na OBRÁZEK** poskytuje flexibilitu uložení e-mailů do různých standardních formátů obrázků jako PNG, JPEG, BMP nebo TIFF pro různé použití.
 
-### ✅ Klíčové použití
+#{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Univerzální dostupnost snímků e-mailů bez e-mailového klienta.
 * Podpora více formátů obrázků pro pracovní postupy s dokumenty.
 * Rychlé vložení obsahu e-mailu do multimediálních prezentací.
 * Právní a dodržování předpisů s archivací založenou na obrazech.
 
-### ⚙️ Scénáře automatizace
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Vícevýstupové potrubí převádějící MSG do více typů obrázků.
 * Archivace na úrovni podniku, kde jsou vyžadovány různé formáty obrázků.
 * Automatizované zálohovací systémy generující snímky e-mailů.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

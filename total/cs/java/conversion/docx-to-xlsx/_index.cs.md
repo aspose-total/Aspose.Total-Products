@@ -61,8 +61,8 @@ Po převodu DOCX do XLSX vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Vytváření daty řízených tabulek
 - Transformace reportů do formátu Excel
 - Finanční plánování
@@ -74,7 +74,8 @@ Po převodu DOCX do XLSX vám [Aspose.Cells for Java](https://products.aspose.co
 - Cloudové pracovní postupy
 - Generování firemních Excel tabulek
 - Automatické generování reportů a analytických toků
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

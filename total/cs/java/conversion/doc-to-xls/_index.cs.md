@@ -61,22 +61,24 @@ Po převodu DOC do XLS vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOC** na **XLS (Excel Spreadsheet)** transformuje datové dokumenty do editovatelného tabulkového formátu pro výpočty, analýzy a reportování. Zajišťuje kompatibilitu s historickými formáty Excelu a zpracování dat offline.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Extrahování tabulek z Wordu do Excelových tabulek
 - Příprava finančních nebo statistických dat pro analýzu
 - Integrace obsahu dokumentu do pracovních postupů reportování
 - Převod odpovědí formuláře do strukturovaných Excelových tabulek
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Nástroje pro hromadný převod DOC na XLS
 - Automatizované mapování tabulek na buňky
 - Automatizace pracovního postupu pro reportování v reálném čase
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

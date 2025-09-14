@@ -54,20 +54,22 @@ API také umožňuje převádět dokumenty DOT chráněné heslem na POT. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Klíčové použití případy
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}} případy
 - Standardizované formáty prezentací
 - Konzistentní branding ve snímcích
 - Šablony prezentací připravené pro podniky
 - Akademické a výukové šablony snímků
 - Škálovatelné rámce prezentací
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Generování prezentace z formátu DOT do formátu POT
 - Automatizace šablony PowerPoint
 - Pracovní postupy pro firemní branding
 - Převod dokumentu na snímky
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

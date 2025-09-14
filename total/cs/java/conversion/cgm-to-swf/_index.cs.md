@@ -70,21 +70,23 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod CGM na SWF (Shockwave Flash) je zásadní pro zastaralá prostředí, která spoléhají na obsah založený na Flashi. Tento formát podporuje animaci a interaktivitu, což ho činí užitečným pro starší výcvikové simulátory, technické manuály a vizualizační nástroje.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Zastaralé výcvikové simulátory** – Zobrazování interaktivních diagramů pro školení operátorů.
 - **Animované technické manuály** – Přidání pohybu do průvodců údržbou a provozem.
 - **Vizuální nástroje pro prohlížeče** – Dodávání vektorové grafiky ve Flashem podporovaných prostředích.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Knihovny pro převod vektorů do Flashe založené na Javě** – Přeměna grafiky CGM na SWF pro zastaralé aplikace.
 - **Služby pro zobrazování v zastaralých prostředích** – Podpora existujících platforem bez přepracování.
 - **Nástroje pro migraci obsahu eLearningu** – Udržení kompatibility s výcvikovými kurzy založenými na Flashi.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

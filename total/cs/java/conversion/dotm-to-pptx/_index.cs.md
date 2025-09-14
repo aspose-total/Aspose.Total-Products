@@ -54,24 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na PPTX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTM** na **PPTX (PowerPoint Presentation Open XML)** vytváří moderní, opakovaně použitelné, připravené pro cloud prezentace z makro-povolených šablon, ideální pro podnikové, školicí a prodejní pracovní postupy.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Škálovatelné podnikové prezentace
 - Školicí moduly
 - Připravené pro cloud reportovací balíky
 - Prezentační materiály pro prodej a marketing
 - Slajdy pro komunikaci politiky
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pipeliny pro převod DOTM na PPTX
 - Generování balíků na základě XML
 - Cloudové automatizační pracovní postupy
 - Automatizace PowerPointu připravená pro podniky
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

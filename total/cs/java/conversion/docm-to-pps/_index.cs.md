@@ -54,13 +54,13 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na PPS. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **DOCM (Dokumenty s makry ve Wordu)** na **PPS (Prezentace ve formátu PowerPoint Slide Show, zastaralé)** je cenné pro vytváření **automaticky přehrávaných prezentací** kompatibilních s staršími verzemi programu Microsoft PowerPoint. PPS zajišťuje, že obsah lze zobrazit v **offline, zastaralých nebo omezených prostředích** bez potřeby úprav.  
 
 
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 
 - **Příprava zastaralých prezentací ve formátu slideshow**  
   Převeďte dokumenty ve Wordu na připravené prezentace k přehrání.  
@@ -79,7 +79,8 @@ Převádění **DOCM (Dokumenty s makry ve Wordu)** na **PPS (Prezentace ve form
 
 
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Konvertory DOCM na PPS pro zastaralé systémy**  
   Automatizujte hromadné exporty do automaticky přehrávaných prezentací.  
@@ -96,7 +97,8 @@ Převádění **DOCM (Dokumenty s makry ve Wordu)** na **PPS (Prezentace ve form
 - **Podnikové systémy pro publikování prezentací pro zpětnou kompatibilitu se staršími systémy**  
   Distribuujte automaticky běžící snímky do starších platforem.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

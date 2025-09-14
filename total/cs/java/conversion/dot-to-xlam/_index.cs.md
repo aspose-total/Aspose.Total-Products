@@ -61,24 +61,26 @@ Po převodu DOT do XLAM vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění **DOT** na **XLAM (Excel Add-in)** umožňuje transformaci maker šablony Wordu na opakovaně použitelné nástroje pro automatizaci Excelu, zvyšující produktivitu a schopnosti pracovního postupu podniku.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Automatizace Excelu v podniku
 - Nasazení vlastních maker
 - Pokročilá řešení pro reportování
 - Integrace pracovního postupu s Excelem
 - Zvýšení produktivity
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Vytváření makro doplňků DOT-to-XLAM
 - Automatické generování rozšíření Excelu
 - Potrubí od šablony k doplňku
 - Pracovní postupy pro automatizaci připravené pro podnik
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

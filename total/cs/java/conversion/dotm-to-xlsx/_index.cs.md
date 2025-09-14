@@ -61,24 +61,26 @@ Po převodu DOTM do XLSX vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOTM** na **XLSX** zajišťuje moderní kompatibilitu s Excel, sdílení v cloudu a strukturované zobrazení dat odvozené z makro-povolených šablon Wordu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Finanční plánování
 - Vizualizace dat
 - Reporting mezi platformami
 - Datové sady pro akademický výzkum
 - Cloudu kompatibilní pracovní postupy v Excelu
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Trubky DOTM-to-XLSX
 - Dávková konverze v cloudu
 - Automatizace reportingu v reálném čase
 - Transformace maker do moderního Excelu
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

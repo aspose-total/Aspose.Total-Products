@@ -59,25 +59,27 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů CGM (Computer Graphics Metafile) na ODP (OpenDocument Presentation) umožňuje bezproblémovou integraci vektorových diagramů s vysokou kvalitou do prezentací ve formátu open-source. Tato transformace je ideální pro zajištění kompatibility napříč platformami, umožňuje profesionální vizuální vyprávění vzdělávacích, firemních a technických prezentací bez kompromisů ohledně kvality obrazu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vkládání vektorových diagramů do prezentací v LibreOffice Impress.
 - Generování technických a firemních zpráv napříč platformami.
 - Vytváření vzdělávacího vizuálního obsahu s měnitelnými ilustracemi.
 - Integrování inženýrských schémat do prezentací.
 - Zlepšování vědeckých konferenčních materiálů s precizní grafikou.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Integrace dokumentů založených na Javě pro automatizovanou generaci snímků.
 - Systémy produkce prezentací kompatibilní s LibreOffice.
 - Nástroje pro generování obsahu pro technické oddělení ve firmách.
 - Workflows založené na API pro převod diagramů na prezentace.
 - Hromadné zpracování diagramů CGM pro prezentace velkého rozsahu.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

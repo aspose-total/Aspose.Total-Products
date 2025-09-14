@@ -42,12 +42,12 @@ Při ukládání vstupního dokumentu do formátu souboru DOT můžete také dok
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ``
 Převod souborů **Computer Graphics Metafile (CGM)** do formátu **DOT (šablona Microsoft Word)** je pro organizace, které si klade za cíl standardizovat technickou a inženýrskou dokumentaci, zásadní. V **systémech zpracování dokumentů založených na Javě** tento převod umožňuje vytváření opakovaně použitelných šablon, které zahrnují diagramy založené na CGM, zajistí konzistentní formátování v rámci zpráv, manuálů a inženýrských dokumentů. Vložením vizuálů CGM do šablon DOT mohou podniky zjednodušit tvorbu obsahu, dodržovat standardy firemní identity a zlepšit efektivitu pracovních postupů generování dokumentů.
 
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 - **Opakovaně použitelné šablony technických kreseb**  
   Uložte diagramy CGM do souborů DOT pro rychlé opětovné použití v různých technických zprávách nebo manuálech.
@@ -59,7 +59,8 @@ Převod souborů **Computer Graphics Metafile (CGM)** do formátu **DOT (šablon
   Použijte jednotné styly, rozložení a záhlaví při integrování ilustrací CGM do profesionálních zpráv.
 
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 - **Sestavovací motory dokumentů založené na Javě**  
   Automatizujte generování šablon CGM-to-DOT pomocí knihoven Javy pro tvorbu dokumentů na úrovni podniku.
@@ -73,7 +74,8 @@ Převod souborů **Computer Graphics Metafile (CGM)** do formátu **DOT (šablon
 - **Hromadný převod a nasazení šablon**  
   Zpracujte více souborů CGM do šablon DOT hromadně pro rychlé nasazení šablon napříč týmy.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

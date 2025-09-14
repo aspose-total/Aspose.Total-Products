@@ -54,11 +54,11 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na PPTM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **PPTM (Prezentace s povolenými makry v PowerPointu)** je pro organizace, které potřebují **interaktivní prezentace řízené makry**, klíčový. Soubory PPTM zachovávají automatizaci, umožňují **dynamickou navigaci, automatizované reporty a interaktivní ukázky produktů**.  
 
-## ✅ Klíčové použití  
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
 
 - **Návrh automatizovaných výukových prezentací**  
   Zlepšete výuku interaktivními slidy s makry.  
@@ -75,7 +75,8 @@ Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **PPTM (Prezentace 
 - **Zefektivnění opakujících se úkolů v prezentacích**  
   Používejte makra k úspoře času napříč týmy.  
 
-## ⚙️ Scénáře automatizace  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}  
 
 - **Konvertory zachovávající makra DOCM-to-PPTM**  
   Ujistěte se, že se skripty automatizace přenesou bez problémů.  
@@ -92,7 +93,8 @@ Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **PPTM (Prezentace 
 - **Pokročilé reportovací potrubí exportující soubory PPTM**  
   Dodávejte automatizované reportovací prezentace.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

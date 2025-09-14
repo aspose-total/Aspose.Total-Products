@@ -30,24 +30,26 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **MSG na BMP** umožňuje ukládání e-mailových zpráv jako nekomprimovaných bitmapových obrázků, ideální pro archivaci e-mailů ve formátu, který lze univerzálně zobrazit a nelze upravovat.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 
 * Uchovávání e-mailů jako bitmapových obrázků ve vysoké kvalitě pro dlouhodobou archivaci.
 * Vložení obsahu e-mailu do zpráv nebo pracovních postupů skenované dokumentace.
 * Forenzní vyšetřování vyžadující nedotknutelné e-mailové záznamy.
 * Offline přístup k snímkům e-mailů bez potřeby e-mailového klienta.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 
 * Automatizované potrubí MSG-to-BMP pro dodržování předpisů o uchovávání e-mailů.
 * Hromadný export e-mailů do formátu bitmap pro archivy připravené k tisku.
 * Integrace s pracovními postupy podniku pro zobrazování a ukládání dokumentů.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

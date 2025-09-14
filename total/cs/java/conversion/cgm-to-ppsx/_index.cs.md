@@ -59,21 +59,23 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM na PPSX (Open XML prezentace) konverze zjednodušuje vytváření neupravitelných, přenosných prezentací optimalizovaných pro použití napříč platformami. Je ideální pro vkládání CGM diagramů do prezentací určených k okamžitému zobrazení.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - **Automatizované prezentace snímků** – Generujte předem vytvořené prezentace ze vizuálních prvků inženýrství.
 - **Vizuální briefinky napříč platformami** – Ujistěte se o kompatibilitě napříč moderními verzemi PowerPointu.
 - **Vložené vektorové grafiky do zpráv** – Dodávejte prezentace s vysokokvalitní technickou grafikou.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Generátory souborů prezentací založené na Javě** – Vytvářejte soubory PPSX přímo ze zdrojů CGM.
 - **Hromadná výroba prezentací** – Automatizujte hromadnou výrobu prezentací pouze ke čtení.
 - **Chytré systémy pro reportování** – Integrujte CGM diagramy do automatizovaných balíčků prezentací.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

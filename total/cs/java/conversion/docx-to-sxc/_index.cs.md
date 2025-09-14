@@ -61,21 +61,23 @@ Po převodu DOCX do SXC vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Převod formátu **DOCX** na **SXC (tabulkový sešit StarOffice Calc)** je zásadní pro umožnění zpracování tabulkových dat z dokumentů Word, zejména v prostředích kancelářských balíků s otevřeným kódem a starších verzí. Tím je zajištěno, že strukturovaná tabulková data mohou být zachována, přenesena a efektivně analyzována v systémech StarOffice/LibreOffice.
 
-#### ✅ Klíčové použití
+##{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Migrace dat do OpenOffice/LibreOffice  
 - Zachování strukturovaného tabulkového obsahu z dokumentů  
 - Zajištění kompatibility se systémy založenými na StarOffice  
 - Podpora pracovních postupů s otevřenými dokumenty  
 
-#### ⚙️ Scénáře automatizace
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Hromadný převod z DOCX do SXC  
 - Integrace se staršími systémy  
 - Pracovní postupy s open-source reporty  
 - Podnikové toky dokumentů do tabulkových sešitů  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

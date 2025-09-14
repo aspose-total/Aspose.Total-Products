@@ -54,22 +54,24 @@ API také umožňuje převádět dokumenty DOC chráněné heslem na PPTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **DOC** na **PPTM (Prezentace s makry pro PowerPoint)** umožňuje vytváření interaktivních prezentací s automatizovanými funkcemi. Toto je ideální pro dynamické prezentace dat, školicí moduly a pokročilé firemní reportování.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Automatizované firemní reportování s makry
 - Interaktivní školicí prezentace pro zaškolování zaměstnanců
 - Prezentace analýzy podnikání řízené makry
 - Vizualizace dat přímo z Wordových zpráv
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pracovní postupy vstřikování maker DOC do PPTM pro funkcionalitu
 - Skriptování vylepšení snímků pro interaktivitu
 - Automatizované KPI dashboardy integrované do prezentací
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

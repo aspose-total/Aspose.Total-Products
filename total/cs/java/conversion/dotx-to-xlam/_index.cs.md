@@ -61,24 +61,26 @@ Po převodu DOTX do XLAM vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 ## Exportování **DOTX (Šablona Wordu)** do **XLAM (Přídavný modul Excelu)** umožňuje automatizaci řízenou makry, zlepšuje podnikové reportování, finanční modelování a produktivitu pomocí opakovaně použitelných sestav Excelu.
 
-#### ✅ Klíčové použití
+##{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Vlastní automatizační sestavy Excelu
 - Automatizace podnikového reportování
 - Přídavné moduly pro finanční modelování
 - Zjednodušený vstup dat pomocí maker Excelu
 - Opakovaně použitelná automatizace řízená šablonami
 
-#### ⚙️ Scénáře automatizace
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pracovní postupy DOTX-to-XLAM pro nástroje Excelu s makry
 - Automatické generování přídavných modulů ze šablon
 - Podnikové produktivní řešení poháněné Excelem
 - Sestavy šablony do Excelu s pokročilou automatizací
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

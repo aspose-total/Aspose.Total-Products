@@ -61,25 +61,27 @@ Po převodu DOCM do TSV vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převádění souborů **DOCM** na **TSV (hodnoty oddělené tabulátorem)** je důležité pro export strukturovaných dat z dokumentů Word do lehkých textových formátů, které lze snadno integrovat napříč systémy. TSV zajišťuje čistou interoperabilitu s ERP, CRM, analytickými a zastaralými platformami a zároveň umožňuje pracovní postupy strojového učení a výměnu dat napříč programovacími prostředími.  
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Příprava strukturovaných **textových dat** pro **import do ERP nebo CRM**  
 - Migrace tabulek do **analytických a BI platforem**  
 - Sdílení tabulkových dat napříč **programovacími a skriptovacími prostředími**  
 - Vytváření **datových sad pro strojové učení** a pracovní postupy umělé inteligence  
 - Umožnění **výměny dat s zastaralými systémy**, které vyžadují lehké formáty  
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - **Automatizované extrakční potrubí DOCM-to-TSV** pro škálovatelnou konverzi  
 - **ETL pracovní postupy** generující připravené k TSV datové sady  
 - **Služby sledování složky** produkující nepřetržité TSV výstupy  
 - **Konverze řízené API** vydávající TSV pro následné integrace  
 - **Podniková datová centra** využívající TSV pro lehkou interoperabilitu  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

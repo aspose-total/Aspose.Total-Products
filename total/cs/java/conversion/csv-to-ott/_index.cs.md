@@ -42,23 +42,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Vyzkoušejte naši bezplatnou aplikaci pro převod CSV na OTT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod **CSV** na **OTT (OpenDocument Text Template)** organizacím umožňuje vytvářet opakovaně použitelné standardizované šablony předem naplněné strukturovanými daty. Šablony OTT zajistí konzistentní formátování a styl napříč generovanými dokumenty, což je ideální pro oficiální zprávy, šablony splňující požadavky vlády a automatizaci dokumentů na velkou škálu.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Příprava zpráv na základě šablon v LibreOffice nebo OpenOffice
 - Automatizace vytváření standardizovaných dokumentů z datových sad
 - Vytváření šablon otevřených dokumentů splňujících požadavky vlády
 - Distribuce opakovaně použitelných formátů šablon pro týmové nebo organizační použití
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Nástroje pro generování OTT založené na Javě pro vytváření strukturovaných šablon
 - Systémy mapování CSV na šablony pro přímé naplnění daty
 - Hromadné nástroje pro konverzi OTT pro masovou přípravu dokumentů
 - Automatizované naplnění dokumentů daty z CSV pro úsporu času
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

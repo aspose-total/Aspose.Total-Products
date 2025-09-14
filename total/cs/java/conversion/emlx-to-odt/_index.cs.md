@@ -30,22 +30,24 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Převod EMLX do **ODT (OpenDocument Text)** nabízí flexibilní, open-source formát dokumentu vhodný pro úpravu e-mailů v OpenOffice.
 
-## ✅ Klíčové použití
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Úprava e-mailů z Apple Mail jako dokumentů ODT.
 - Ukládání obchodních komunikací ve formátech otevřených standardů textu.
 - Přístupnost mezi platformami s editory open-source.
 - Dlouhodobé archivace s nevlastnickými formáty.
 
-## ⚙️ Scénáře automatizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Hromadné exporty e-mailů z Apple Mail do archivů ODT.
 - Automatizované pracovní postupy e-mailu na ODT pro dodržování vládních nebo firemních předpisů.
 - Integrace s open-source systémy pro správu dokumentů.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

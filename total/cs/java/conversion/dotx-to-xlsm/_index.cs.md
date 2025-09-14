@@ -61,24 +61,26 @@ Po převodu DOTX do XLSM vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 ## Transformace **DOTX (Šablona Wordu)** na **XLSM (S makry povolený sešit Excelu)** odemyká automatizaci vložením silných maker do tabulek Excelu. Toto je ideální pro pokročilé obchodní pracovní postupy, automatizované finanční modelování a automatizaci úkolů v podniku.
 
-#### ✅ Klíčové použití
+##{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
 - Automatizované finanční modelování z šablon
 - Automatizace pracovních postupů napříč odděleními
 - Pokročilé zpracování dat uvnitř Excelu
 - Integrace obchodních maker pro opakující se úkoly
 - Automatizace úkolů řízených dokumenty s makry
 
-#### ⚙️ Scénáře automatizace
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
 - Pipeliny maker DOTX-to-XLSM
 - Automatizované generování tabulek s makry
 - Pracovní postupy automatizace úkolů v podniku
 - Šablonové skriptování Excelu pro produktivitu
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
