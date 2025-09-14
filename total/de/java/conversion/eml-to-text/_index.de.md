@@ -30,26 +30,28 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 <h2>Umwandlung von EML in TEXT</h2>
 Die Umwandlung von **EML in TEXT** extrahiert den Roh-E-Mail-Inhalt in ein einfaches Textformat, das leicht, tragbar und einfach programmgesteuert zu verarbeiten ist.
 
-### ✅ Hauptanwendungsfälle
+#{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Archivierung von E-Mails in einem leichten Format
 * Effizientes Indizieren und Suchen von E-Mail-Inhalten
 * Datamining und Natural Language Processing (NLP) von E-Mail-Daten
 * Integration von E-Mail-Daten in textbasierte Anwendungen
 
-### ⚙️ Automatisierungsszenarien
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * Automatisierte Pipelines für die archivierung von textbasierten E-Mails
 * NLP-gesteuerte Sentimentanalyse aus konvertiertem E-Mail-Text
 * Stapelkonvertierung von E-Mails für Such- und Indizierungsmaschinen
 * Automatisch generierte Berichte im Klartext aus E-Mail-Strömen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

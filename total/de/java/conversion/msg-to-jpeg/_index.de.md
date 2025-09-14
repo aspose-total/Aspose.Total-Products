@@ -30,24 +30,26 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **MSG in JPEG** bietet ein komprimiertes, weit verbreitetes Bildformat zum Speichern von E-Mail-Nachrichten in einer leicht teilbaren Form.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Austausch von E-Mails im allgemein akzeptierten JPEG-Format.
 * Komprimierung von E-Mail-Aufzeichnungen zur Reduzierung des Speicherplatzverbrauchs.
 * Hinzufügen von E-Mail-Screenshots zu Präsentationen und Berichten.
 * Erfassen der visuellen Formatierung von HTML-E-Mails.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * Stapelkonvertierung von MSG in JPEG zu Archivierungszwecken.
 * Automatisierte Workflows zur Erzeugung leichter E-Mail-Schnappschüsse.
 * Integration der E-Mail-zu-JPEG-Konvertierung in Kundenservice- oder Ticketingsysteme.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,11 +30,11 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von E-Mails in **EPUB** macht sie tragbar und lesbar auf eReadern und mobilen Geräten. Mit der Email Java API können Entwickler Newsletter, Forschungsergebnisse und Kommunikation automatisiert in strukturierte eBooks umwandeln.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 - **Newsletter-Archivierung**: Speichern von Marketing- oder Abonnement-E-Mails in EPUB zum einfachen Lesen.
 - **Forschungsmaterial**: Studenten und Forscher erstellen akademische Korrespondenzsammlungen in EPUB.
@@ -42,7 +42,8 @@ Konvertierung von E-Mails in **EPUB** macht sie tragbar und lesbar auf eReadern 
 - **Offline-Lesen**: Zugriff auf Kommunikation im EPUB-Format auf Kindle oder in mobilen Apps.
 - **Inhaltsverteilung**: Umarbeitung von E-Mail-Kampagnen in herunterladbare eBooks.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Automatisierter Newsletter-Export**: Konvertierung von täglichen/wöchentlichen Newslettern in EPUB.
 - **Forschungsworkflows**: Speichern von E-Mail-Konversationen mit Professoren oder Mitarbeitern in EPUB-Format.
@@ -50,7 +51,8 @@ Konvertierung von E-Mails in **EPUB** macht sie tragbar und lesbar auf eReadern 
 - **Veröffentlichungsautomatisierung**: Umarbeitung von Marketing-Drip-Kampagnen in gebrandete EPUBs.
 - **Wissensdatenbanken**: Pflege strukturierter EPUB-Archive interner Kommunikation.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

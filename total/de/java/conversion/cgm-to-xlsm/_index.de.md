@@ -47,23 +47,25 @@ Während Sie eine CGM-Datei in XLSM konvertieren, können Sie Ihrem Ausgabe-XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von CGM-Dateien in das **XLSM (makrofähiges Excel-Arbeitsmappe)**-Format in Java-basierten Systemen ermöglicht es Organisationen, technische Berechnungen, Berichterstellung und Visualisierungs-Workflows zu automatisieren. Mit XLSM können Makros CGM-abgeleitete Daten dynamisch verarbeiten, komplexe Berechnungen durchführen und Diagramme aktualisieren, ohne manuelle Eingriffe. Dies ermöglicht intelligentere, selbstaktualisierende Berichte für technische und operative Anwendungsfälle.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Automatisierte Erstellung von technischen Berichten mit eingebetteten Makros.
 - Dynamische Berechnungs-Workflows für Fertigungs- oder Design-Daten.
 - Integration von CGM-Diagrammen in Excel-Modelle mit Makrologik.
 - Effiziente Qualitätskontrollprozesse durch makrofähige Analyse.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Java Excel-Automatisierungsmaschinen mit Makroausführungsunterstützung.
 - Makrofähige Tabellengenerierung über Java APIs.
 - Geplante XLSM-Erstellung aus CGM-Datensätzen in Unternehmenssystemen.
 - Automatisierte Makroauslöser für Echtzeit-Engineering-Dashboards.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

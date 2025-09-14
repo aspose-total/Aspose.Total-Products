@@ -57,10 +57,10 @@ Mit der API können Sie das ausgegebene DXF-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **Computer Graphics Metafile (CGM)**-Dateien in das **DXF (Drawing Exchange Format)** ist in **CAD (Computer-Aided Design)**-Workflows unerlässlich, um eine nahtlose Interoperabilität über Ingenieurwesen, Architektur und Fertigungssysteme sicherzustellen. In **Java-basierten Anwendungen** ermöglicht diese Konvertierung, vektorbasierte technische Diagramme von CGM in ein weit verbreitetes CAD-Format umzuwandeln, um sie bearbeitbar, teilbar und kompatibel mit branchenüblichen Design-Tools zu machen. Dies ist entscheidend für die kollaborative Gestaltung, präzise Fertigung und Archivierung technischer Zeichnungen.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 
 - **Interoperabilität im Engineering-Design**  
   Teilen und bearbeiten Sie CGM-basierte Designs in CAD-Tools, die DXF für plattformübergreifende Zusammenarbeit unterstützen.
@@ -71,7 +71,8 @@ Mit der API können Sie das ausgegebene DXF-Bild auch nach Ihren Bedürfnissen d
 - **Bearbeitung von Vektorgrafiken**  
   Wandeln Sie CGM-Diagramme in DXF um, um sie direkt in CAD-Software modifizieren zu können, ohne den Vektorfidelity zu verlieren.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Java-basierte CAD-Tools**  
   Integrieren Sie die CGM-zu-DXF-Konvertierung direkt in Java-gestützte CAD-Bearbeitungs- und Visualisierungsanwendungen.
@@ -81,7 +82,8 @@ Mit der API können Sie das ausgegebene DXF-Bild auch nach Ihren Bedürfnissen d
 
 - **Automatisierte CAD-Archivierungssysteme**  
   Speichern Sie CGM-Designs als DXF-Dateien in langfristigen Ingenieurarchiven für zukünftige Wiederverwendung und Compliance.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

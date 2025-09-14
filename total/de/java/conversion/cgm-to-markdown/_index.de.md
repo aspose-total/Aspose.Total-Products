@@ -42,12 +42,12 @@ Während Sie Ihr Eingabedokument im MARKDOWN-Dateiformat speichern, können Sie 
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **Computer Graphics Metafile (CGM)** Grafiken in **Markdown (.md)** Inhalte ist eine leistungsstarke Möglichkeit, visuelle technische Daten mit leichtgewichtigen, entwicklerfreundlichen Dokumentationsformaten zu verbinden. In **Java-basierten Dokumentationstools** ermöglicht diese Konvertierung, dass CGM-Diagramme direkt in Markdown-Dateien referenziert, eingebettet oder beschrieben werden können, was sie ideal für API-Dokumentation, Ingenieurhandbücher und Open-Source-Projektanleitungen macht. Die Portabilität von Markdown und die Kompatibilität mit statischen Site-Generatoren stellen sicher, dass CGM-Visuals mit minimalem Aufwand in moderne Entwickler-Workflows integriert werden können.
 
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 
 - **Einbetten von CGM-Diagrammen in technische Handbücher**  
   Referenzieren oder Einbetten von CGM-Diagrammen in Markdown-basierte Dokumentationen für klarere technische Erklärungen.
@@ -59,7 +59,8 @@ Konvertieren von **Computer Graphics Metafile (CGM)** Grafiken in **Markdown (.m
   Verwenden von Markdown als einfaches, portables Medium für CGM-optimierte Ingenieur- oder Systemberichte.
 
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Java-basierte Konverter**  
   Nutzen von Java-Bibliotheken oder benutzerdefinierten Parsern, um CGM-Diagramme in Markdown-kompatible Bildreferenzen oder Vektordarstellungen zu transformieren.
@@ -73,7 +74,8 @@ Konvertieren von **Computer Graphics Metafile (CGM)** Grafiken in **Markdown (.m
 - **Kontinuierliche Dokumentationsaktualisierungen**  
   Automatisieren der Markdown-Neugenerierung aus aktualisierten CGM-Diagrammen in Java-gestützten CI/CD-Pipelines für stets aktuelle Dokumentationen.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

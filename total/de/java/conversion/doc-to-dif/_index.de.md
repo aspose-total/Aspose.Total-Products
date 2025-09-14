@@ -61,22 +61,24 @@ Nach der Konvertierung von DOC in DIF können Sie mit [Aspose.Cells for Java](ht
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **DIF (Data Interchange Format)** ist wesentlich für den Austausch von strukturierten Tabellendaten aus Word-Dokumenten mit Tabellenkalkulations- oder statistischen Anwendungen. Es bietet einen universellen, legacy-freundlichen Weg, um tabellarische Informationen zu übertragen und gleichzeitig die Datenintegrität zu bewahren.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Export von Umfrageergebnissen für statistische Analysen
 - Datenübertragung an Legacy-Systeme
 - Vorbereitung tabellarischer Inhalte für Stapelverarbeitung in Tabellenkalkulationen
 - Archivierung strukturierter Daten in interoperablen Formaten
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-DIF-Konverter für nahtlose Migration
 - Automatisierte Datenzuordnungs-Workflows für Effizienz
 - Makrobasierte Tabellenauszugswerkzeuge für wiederkehrende Aufgaben
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Das Konvertieren von E-Mails in DOTM bietet makrofähige Vorlagen, die wiederverwendbare Strukturen mit Automatisierungsfunktionen kombinieren.*
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Erstellung von wiederverwendbaren, makrofähigen Dokumentenvorlagen aus E-Mails
 * Automatisierung wiederkehrender Workflows wie Rechnungs- oder Berichterstellung
 * Einbetten von Geschäftsregeln in aus E-Mail-Inhalten generierte Vorlagen
 * Unterstützung von unternehmensweiten Dokumentenautomatisierungsanforderungen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * Automatische Umwandlung wiederkehrender E-Mails in DOTM-Vorlagen
 * Stapelgenerierung von makrofähigen Vorlagen aus Standardkommunikationen
 * E-Mail-zu-DOTM-Pipelines zur Automatisierung von HR-, Finanz- oder Compliance-Aufgaben
 * Geplante Aktualisierungen von Vorlagenbibliotheken aus wiederkehrenden E-Mails
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von **EMLX-E-Mails** in **WordML (WordprocessingML XML)** gewährleistet eine strukturierte, auf XML basierende E-Mail-Darstellung für fortgeschrittene Workflows.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Speichern von E-Mails im strukturierten XML-Format
 - Ermöglichen einer semantischen Suche im E-Mail-Inhalt
 - Verwendung von WordML im unternehmensweiten Datenaustausch
 - Umwandlung des E-Mail-Inhalts für Compliance-Systeme
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Massen-EMLX-zu-WordML-Pipelines
 - KI/ML-Workflows unter Verwendung von XML-basierten E-Mail-Daten
 - Archivsysteme mit strukturierten E-Mail-Aufzeichnungen
 - Integration mit rechtlichen und finanziellen XML-Standards
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

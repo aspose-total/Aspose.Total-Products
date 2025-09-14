@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTM-Dokumente in POWERPOINT ko
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOTM** in **PowerPoint (PPT/PPTX)** verwandelt makrofähige Word-Vorlagen in voll funktionsfähige Folien, was die Unternehmenskommunikation und Schulungsworkflows optimiert.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Vorstandspräsentationen
 - Verkaufsunterlagen
 - Schulungsmodule
 - Folien für die Unternehmenskommunikation
 - Abläufe für Richtlinien-/Compliance-Präsentationen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTM-zu-PowerPoint-Pipelines
 - Automatisierte Erstellung von Präsentationsfolien
 - Workflows für Unternehmensfolien
 - Dokument-zu-Präsentation Automatisierung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

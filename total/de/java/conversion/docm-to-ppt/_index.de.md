@@ -54,13 +54,13 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in PPT konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCM (Word-Makro aktivierten Dokumenten)** in **PPT (PowerPoint 97–2003 Präsentationen)** ist entscheidend für die **Kompatibilität mit älteren Systemen**. Das PPT-Format stellt sicher, dass Organisationen, die ältere Office-Umgebungen nutzen, Präsentationen, die aus strukturierten Word-Inhalten erstellt wurden, weiterhin **verwenden, anzeigen und teilen** können.  
 
 
 
-## ✅ Hauptanwendungsfälle  
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}  
 
 - **Unterstützung von Legacy-Geschäftsumgebungen**  
   Liefern von Folien an Benutzer mit veralteter Software.  
@@ -79,7 +79,8 @@ Konvertieren von **DOCM (Word-Makro aktivierten Dokumenten)** in **PPT (PowerPoi
 
 
 
-## ⚙️ Automatisierungsszenarien  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}  
 
 - **DOCM-zu-PPT Legacy-Konvertierungs-Workflows**  
   Automatisieren der Erstellung von PPT-Folien für Legacy-Systeme.  
@@ -96,7 +97,8 @@ Konvertieren von **DOCM (Word-Makro aktivierten Dokumenten)** in **PPT (PowerPoi
 - **Unternehmensmigrationspipelines zur Standardisierung von DOCM in PPT-Ausgaben**  
   Sicherstellen einer reibungslosen Migration von Word zu Legacy-PowerPoint-Formaten.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -59,25 +59,27 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von CGM (Computer Graphics Metafile)-Dateien in ODP (OpenDocument Presentation) ermöglicht eine nahtlose Integration hochwertiger Vektorgrafiken in Open-Source-Präsentationsformate. Diese Transformation ist ideal, um die plattformübergreifende Kompatibilität sicherzustellen, professionelle visuelle Geschichten in Bildungs-, Unternehmens- und technischen Präsentationen zu ermöglichen, ohne die Bildqualität zu beeinträchtigen.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Einbetten von Vektorgrafiken in LibreOffice Impress-Präsentationen.
 - Plattformübergreifende technische und unternehmensbezogene Berichterstellung.
 - Erstellung von Bildungsinhalten mit skalierbaren Illustrationen.
 - Integration von technischen Schemata in Präsentationsfolien.
 - Verbesserung von wissenschaftlichen Konferenzmaterialien mit präzisen Grafiken.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Java-basierte Dokumenten-Pipeline-Integration für die automatisierte Folien-Erstellung.
 - LibreOffice-kompatible Produktionssysteme für Präsentationen.
 - Enterprise-Content-Erstellungstools für technische Abteilungen.
 - API-basierte Diagramm-zu-Präsentations-Workflows.
 - Stapelverarbeitung von CGM-Diagrammen für Präsentationen im großen Maßstab.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

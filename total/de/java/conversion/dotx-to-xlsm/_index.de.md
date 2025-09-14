@@ -61,24 +61,26 @@ Nach der Konvertierung von DOTX in XLSM können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 ## Transformieren von **DOTX (Word-Vorlage)** in **XLSM (Makrofähige Excel-Arbeitsmappe)** ermöglicht die Automatisierung durch Einbetten leistungsstarker Makros in Excel-Tabellen. Dies ist ideal für fortgeschrittene Geschäftsabläufe, automatisierte Finanzmodellierung und unternehmensweite Aufgabenautomatisierung.
 
-#### ✅ Hauptanwendungsfälle
+##{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Automatisierte Finanzmodellierung aus Vorlagen
 - Workflow-Automatisierung über Abteilungen hinweg
 - Fortgeschrittene Datenverarbeitung in Excel
 - Integration von Geschäftsmakros für wiederkehrende Aufgaben
 - Dokumentgesteuerte Aufgabenautomatisierung mit Makros
 
-#### ⚙️ Automatisierungsszenarien
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTX-zu-XLSM-Makro-Pipelines
 - Automatisierte Tabellengenerierung mit Makros
 - Unternehmensweite Aufgabenautomatisierung
 - Vorlagenbasiertes Excel-Skripting für Produktivität
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

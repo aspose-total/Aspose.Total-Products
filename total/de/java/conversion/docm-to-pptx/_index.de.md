@@ -54,12 +54,12 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in PPTX konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **PPTX (PowerPoint Open XML-Präsentationen)** ist der häufigste Weg, um **moderne, makrofreie und weit verbreitete Präsentationsfolien** zu erstellen. PPTX gewährleistet Kompatibilität mit **Office 365, Google Slides und Kollaborationsplattformen**, was es zur sichersten und vielseitigsten Wahl macht.  
 
 
-## ✅ Hauptanwendungsfälle  
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}  
 
 - **Umwandlung von Berichten in Geschäftspräsentationen**  
   Komplexe Berichte in klare visuelle Darstellungen zusammenfassen.  
@@ -77,7 +77,8 @@ Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **PPTX (PowerPoint Op
   Breite Nutzbarkeit im PPTX-Format garantieren.  
 
 
-## ⚙️ Automatisierungsszenarien  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}  
 
 - **DOCM-zu-PPTX-Konverter für den Unternehmenseinsatz**  
   Automatisierung von Massendokument-zu-Präsentations-Workflows.  
@@ -94,7 +95,8 @@ Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **PPTX (PowerPoint Op
 - **CI/CD-Pipelines zur Erstellung von Präsentationsausgaben für Teams**  
   Integration des Präsentationsaufbaus in unternehmensweite Entwicklungsabläufe.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

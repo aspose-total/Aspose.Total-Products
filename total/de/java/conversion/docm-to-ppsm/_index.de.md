@@ -54,12 +54,12 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in PPSM konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **PPSM (PowerPoint-Makrofähige Diashows)** ist wesentlich für die Erstellung von **interaktiven, automatisierten und dynamischen Diashows**, die die Makrofunktionalität beibehalten. PPSM eignet sich ideal für die Bereitstellung von **selbstablaufenden, simulationsgesteuerten oder datenaktualisierenden Präsentationen**.  
 
 
-## ✅ Hauptanwendungsfälle  
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}  
 
 - **Interaktive Produktpräsentationen entwerfen**  
   Erstellen Sie ansprechende Demos mit Makros.  
@@ -77,7 +77,8 @@ Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **PPSM (PowerPoint-Ma
   Liefern Sie verbesserte E-Learning-Diashows.  
 
 
-## ⚙️ Automatisierungsszenarien  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}  
 
 - **DOCM-zu-PPSM-Makrofähige Konverter**  
   Behalten Sie Automatisierungsskripte bei der Konvertierung von Word bei.  
@@ -94,7 +95,8 @@ Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **PPSM (PowerPoint-Ma
 - **Unternehmenslösungen zur Verteilung von Makrogesteuerten Diashows**  
   Standardisieren Sie makrofähige Präsentationen für den Unternehmenseinsatz.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

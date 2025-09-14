@@ -61,25 +61,27 @@ Nach der Konvertierung von DOCM in XLSX können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Konvertierung von **DOCM** in **XLSX (Excel Open XML Workbook)** erstellt sichere, makrofreie und moderne Tabellenkalkulationen, die mit Microsoft Excel, Google Sheets und Office 365 kompatibel sind. Dies gewährleistet sicheres Teilen, Zusammenarbeit und Einhaltung von Unternehmensrichtlinien, während Word-basierte Tabellen in strukturierte Excel-Daten umgewandelt werden.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Erstellen von **sicheren, makrofreien Arbeitsmappen**
 - Teilen von Tabellenkalkulationen über **Cloud-Plattformen**
 - Vorbereiten von Daten für die Zusammenarbeit in **Google Sheets**
 - Erstellen von **Finanzmodellen** in Excel
 - Sicherstellen der **Unternehmenskonformität** mit makrofreien Regeln
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **DOCM-zu-XLSX-Unternehmenskonverter**
 - **Cloud-basierte Stapelpipelines** zur XLSX-Generierung
 - **Power Automate-Flows**, die XLSX aus Word-Inhalten generieren
 - **ETL-Jobs**, die XLSX-Datensätze exportieren
 - **CI/CD-Systeme**, die makrofreie XLSX-Dateien für Teams erstellen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOT-Dokumente in PPSM konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOT** in **PPSM (PowerPoint Macro-Enabled Show)** ermöglicht automatisierte, makrogesteuerte Präsentationen, die ideal für interaktive Demos, Schulungssimulationen und Unternehmensworkflows sind.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Interaktive Geschäftsdemos
 - Schulungssimulationen
 - Makrogesteuerte Berichtsfolien
 - Bildungsmaterialien mit automatischer Wiedergabe
 - Unternehmensworkflow-gesteuerte Shows
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOT-zu-PPSM-Konvertierung mit Makros
 - Automatisierung von Makro-aktivierten Diashows
 - Unternehmensfertige Präsentationsworkflows
 - Dokument-zu-Show-Pipelines
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

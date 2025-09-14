@@ -30,11 +30,11 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **EMLX (Apple Mail E-Mail-Dateien)** in **PNG (Portable Network Graphics)** gewährleistet hochwertige Bilder mit verlustfreier Kompression, was ideal für die Archivierung und Veröffentlichung von E-Mail-Inhalten ist.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 - **Hochwertige Archivierung** → Speichern Sie E-Mails als scharfe, verlustfreie PNGs.
 - **Rechtliche und Compliance-Aufzeichnungen** → Verwenden Sie PNG für manipulationssichere Kommunikationsspeicherung.
@@ -42,7 +42,8 @@ Konvertieren von **EMLX (Apple Mail E-Mail-Dateien)** in **PNG (Portable Network
 - **Plattformübergreifender Austausch** → Teilen Sie E-Mail-Nachrichten als universell unterstützte PNG-Dateien.
 - **Bildbearbeitung** → Verwenden Sie PNG, wenn Transparenz oder Bearbeitung erforderlich ist.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Batch EMLX-zu-PNG-Pipelines** → Konvertieren Sie automatisch große Mengen von E-Mails in PNGs.
 - **Compliance-Workflows** → Integrieren Sie die PNG-Konvertierung für die rechtliche Aufbewahrung.
@@ -50,7 +51,8 @@ Konvertieren von **EMLX (Apple Mail E-Mail-Dateien)** in **PNG (Portable Network
 - **E-Mail-Visualisierung** → Rendern Sie E-Mails in PNG für Dashboards und Analysen.
 - **Sichere digitale Archive** → Verwenden Sie PNG für dauerhafte, unveränderte Aufzeichnungen.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

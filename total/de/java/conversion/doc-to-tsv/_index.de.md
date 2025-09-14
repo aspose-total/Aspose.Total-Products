@@ -61,20 +61,21 @@ Nach der Konvertierung von DOC in TSV können Sie mit [Aspose.Cells for Java](ht
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Schlüsselanwendungsfälle</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Exportieren von Dokumenttabellen nach TSV für Datenbankimporte
 - Datenvorbereitung für Analyseplattformen
 - Integration mit Tabellenkalkulationsanwendungen wie Excel und Google Sheets
 - Austausch von leichtgewichtigen strukturierten Datensätzen
 
-<h2>⚙️ Automatisierungsszenarien</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-TSV-Tabellenextraktionssoftware
 - Automatisierte Konvertierungsskripte für Stapelverarbeitung
 - Dokumentenanalyse mit tabstoppgeteilter Ausgabenerzeugung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

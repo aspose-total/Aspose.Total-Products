@@ -61,24 +61,26 @@ Nach der Konvertierung von DOCX in XLTX können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCX** in **XLTX (Excel Template Open XML)** gewährleistet die Erstellung moderner, wiederverwendbarer Excel-Vorlagen, die mit Cloud-Workflows und unternehmensweiten Dokument-zu-Vorlagen-Pipelines kompatibel sind.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Standardisierte Berichtsvorlagen
 - Cloud-kompatible Excel-Workflows
 - Unternehmensbereite Dokument-zu-Vorlagen-Konvertierungen
 - Standardisierung der Dateneingabe
 - Skalierbare Berichterstellung
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Generierung von DOCX-zu-XLTX-Vorlagen
 - Excel-Vorlagenautomatisierung
 - Optimierung von Unternehmensworkflows
 - Dokument-zu-Vorlagen-Pipelines
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,23 +61,25 @@ Nach der Konvertierung von DOCX in TSV können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCX** in **TSV (Tab-separated Values)** ist entscheidend, um strukturierte tabellarische Daten aus Word-Dokumenten in ein leichtes, portables Format zu extrahieren, das für Analysen, Datenbankintegration und Systeminteroperabilität geeignet ist.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Datenimport/-export zwischen Systemen
 - Vereinfachung von Datenbankuploads
 - Verarbeitung strukturierter Berichte
 - Ermöglichen von textbasierten Analysen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOCX-zu-TSV-Datenpipelines
 - Massenhafte Inhaltsextraktion
 - Unternehmensdatentransformation
 - Automatisierte Reporting-Integrationen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

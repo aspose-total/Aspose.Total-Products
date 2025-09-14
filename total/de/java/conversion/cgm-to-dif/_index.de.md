@@ -47,12 +47,12 @@ Während Sie eine CGM-Datei in DIF konvertieren, können Sie Ihrem Ausgabe-DIF-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **Computer Graphics Metafile (CGM)**-Dateien in **DIF (Data Interchange Format)**
 
 Die Konvertierung von **Computer Graphics Metafile (CGM)**-Dateien in **DIF (Data Interchange Format)** ist für Organisationen wertvoll, die visuelle oder strukturierte Inhalte in Legacy-Tabellensysteme und wissenschaftliche Rechenabläufe integrieren müssen. In **Java-basierten Unternehmens- und Forschungsumgebungen** ermöglicht diese Konvertierung eine reibungslose Migration von älteren Formaten, unterstützt die Kompatibilität mit statistischen Tools und erleichtert die strukturierte Datenmodellierung für Anwendungen im Ingenieurwesen. Durch die Umwandlung von CGM-Diagrammen in DIF-Tabellen können Teams visuelle Daten mit numerischen Datensätzen vereinheitlichen und so die Zugänglichkeit und Analyse über Plattformen hinweg verbessern.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 
 - **Migration von Legacy-Tabellensystemen**  
   Konvertieren Sie CGM-Daten in DIF, um sie nahtlos in ältere Tabellenprogramme zu importieren, die in Unternehmensumgebungen noch verwendet werden.
@@ -63,7 +63,8 @@ Die Konvertierung von **Computer Graphics Metafile (CGM)**-Dateien in **DIF (Dat
 - **Strukturierte Datenmodellierung in Ingenieuranwendungen**  
   Verwenden Sie DIF, um CGM-basierte Schemata in strukturierter Tabellenform für Ingenieursimulationen und die Integration von CAD-Daten darzustellen.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Java-Bibliotheken für Tabellenkonvertierung**  
   Implementieren Sie automatisierte CGM-zu-DIF-Transformationen mithilfe von Java-APIs, die mit tabellenkompatiblen Formaten umgehen.
@@ -73,7 +74,8 @@ Die Konvertierung von **Computer Graphics Metafile (CGM)**-Dateien in **DIF (Dat
 
 - **Integration mit statistischen Berechnungspipelines**  
   Speisen Sie automatisch konvertierte DIF-Dateien in R, MATLAB oder Python-Module für statistische Analysen durch Java-basierte Workflow-Orchestrierung ein.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

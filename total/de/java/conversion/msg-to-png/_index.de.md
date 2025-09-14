@@ -30,24 +30,26 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **MSG in PNG** erzeugt verlustfreie E-Mail-Schnappschüsse, die eine hohe visuelle Qualität beibehalten und ideal für Dokumentation und Compliance sind.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Archivierung von E-Mails mit verlustfreier Bildqualität.
 * Rechtliche und Compliance-Fälle, die eine genaue E-Mail-Aufbewahrung erfordern.
 * Einbetten von E-Mail-Visuals in hochauflösende digitale Dokumente.
 * Unterstützung forensischer Untersuchungen, bei denen die Treue wichtig ist.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * Automatisierte MSG-zu-PNG-Pipelines für compliance-gesteuerte E-Mail-Aufbewahrung.
 * Unternehmensarchivierungs-Workflows, die E-Mails als hochwertige PNGs speichern.
 * Multi-Format-Backup-Lösungen, die PNG-Ausgaben unterstützen.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

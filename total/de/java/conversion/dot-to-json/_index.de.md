@@ -49,24 +49,26 @@ Während Sie DOT in JSON konvertieren, können Sie den Bereich auch auf Ihr Ausg
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOT** in **JSON (JavaScript Object Notation)** ermöglicht es, Word-Vorlagen in strukturierte, API-bereite Datensätze für Webanwendungen, Cloud-Automatisierung und Unternehmensintegrationen zu verwandeln.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Webanwendungen
 - Datengetriebene Automatisierung
 - Cloud-APIs
 - Unternehmenssoftwareintegrationen
 - Generierung strukturierter Datensätze
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOT-zu-JSON-Pipeline-Automatisierung
 - Vorlagen-zu-API-Workflows
 - JSON-bereite Berichtssysteme
 - Cloud-native Unternehmensdatenintegration
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

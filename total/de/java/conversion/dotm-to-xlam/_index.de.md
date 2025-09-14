@@ -61,23 +61,25 @@ Nach der Konvertierung von DOTM in XLAM können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Unternehmensautomatisierungstools aus Word-Vorlagen
 - Generierung standardisierter Excel-Add-Ins
 - Makro-Migrations-Workflows
 - Wiederverwendbare Automatisierungsbibliotheken
 - Cloud-bereite Excel-Add-In-Bereitstellung
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTM-zu-XLAM-Add-In-Generierungspipelines
 - Automatisierte Makro-Migration
 - Dokument-zu-Excel-Automatisierungs-Workflows
 - Unternehmensberichterstattungsautomatisierung
 - Skalierbare Add-In-Verteilung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

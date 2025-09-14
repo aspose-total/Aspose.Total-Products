@@ -42,7 +42,7 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Testen Sie unsere kostenlose App für die Konvertierung von CSV in ODT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 <h2>✅ Hauptanwendungsfälle</h2>
 - Erstellung detaillierter Berichte aus CSV-Datensätzen
@@ -50,13 +50,14 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 - Teilen formatierter Berichte über verschiedene Büro-Suiten hinweg
 - Einhaltung von Kompatibilität mit offenen Standard-Compliance-Anforderungen
 
-<h2>⚙️ Automatisierungsszenarien</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Java-basierte ODT-Erstellungs-APIs (z. B. ODF Toolkit) für strukturierte Dokumentenausgabe
 - CSV-zu-ODT Stapelkonvertierungsskripte für wiederholte Verarbeitung
 - Integration mit Open-Source-Büro-Suiten für nahtlosen Workflow
 - Automatisierte Stilformatierung für ODT-Dateien zur Sicherstellung einer konsistenten Markenführung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

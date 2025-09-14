@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTM-Dokumente in ODP konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von **DOTM** in **ODP (OpenDocument Presentation)** ermöglicht die Wiederverwendung von makrofähigen Word-Vorlagen in für Unternehmen und plattformübergreifend kompatible Präsentationen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Unternehmenspräsentations-Workflows
 - Open-Source-Adoption für Folien
 - Plattformübergreifende Kompatibilität
 - Makrogesteuerte Folien-Erstellung
 - Integration mit Cloud-Präsentationstools
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatische Generierung von DOTM zu ODP
 - Makro-zu-Präsentationskonvertierungs-Workflows
 - Open-Source-Präsentations-Pipelines
 - Unternehmensfertige ODP-Workflow-Automatisierung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

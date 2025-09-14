@@ -30,24 +30,26 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **MSG in BILD** bietet die Flexibilität, E-Mails in verschiedene Standardbildformate wie PNG, JPEG, BMP oder TIFF für verschiedene Anwendungsfälle zu speichern.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Universelle Zugänglichkeit von E-Mail-Schnappschüssen ohne E-Mail-Client.
 * Unterstützung mehrerer Bildformate für Dokumenten-Workflows.
 * Schnelles Einbetten von E-Mail-Inhalten in multimediale Präsentationen.
 * Rechts- und Compliance-Aufzeichnungen mit bildbasiertem Archivieren.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * Mehrfachausgabe-Pipelines, die MSG in mehrere Bildtypen konvertieren.
 * Archivierung auf Unternehmensebene, bei der verschiedene Bildformate erforderlich sind.
 * Automatisierte Backup-Systeme, die Bildschnappschüsse von E-Mails generieren.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

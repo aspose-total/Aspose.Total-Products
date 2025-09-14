@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOCX-Dokumente in PPS konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCX** in **PPS (PowerPoint Show)** ermöglicht die Erstellung von sofort abspielbaren Diashow-Präsentationen, ideal für Zielgruppen, die polierten, selbstablaufenden Inhalt benötigen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Konferenzpräsentationen
 - Kundenpräsentationen
 - Automatisierte Verkaufspräsentationen
 - Bildungsvorträge
 - Investorenmeetings
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatische DOCX-zu-PPS-Diashow-Pipelines
 - Unternehmensfertige Show-Erstellung
 - Automatisierung von Kundenpräsentationen
 - Selbstablaufende Präsentations-Workflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

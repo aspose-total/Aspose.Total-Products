@@ -54,22 +54,24 @@ Mit der API können Sie auch passwortgeschützte DOC-Dokumente in ODP konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **ODP (OpenDocument Presentation)** ist wertvoll, um Word-Inhalte in Präsentationsfolien wiederzuverwenden und gleichzeitig die Kompatibilität mit offenen Standards zu gewährleisten. Dies stellt die Portabilität über LibreOffice Impress, OpenOffice und andere Präsentationstools sicher.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Erstellen von Präsentationen aus Word-basierten Berichten
 - Migration von Texten und Bildern zu LibreOffice Impress
 - Automatisierung der Text-zu-Folien-Transformation für Geschwindigkeit
 - Teilen von Präsentationen in einem herstellerneutralen Format
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-ODP-Folien-Generatoren für sofortige Konvertierung
 - Java-basierte Präsentationsvorlagenwerkzeuge
 - Automatisierte Inhaltsneuverwendung-Workflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOCX-Dokumente in POWERPOINT ko
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Transformieren von **DOCX** zu **PowerPoint** ist entscheidend, um schriftliche Dokumente, Berichte oder Vorschläge in visuell ansprechende Präsentationen umzuwandeln, die Ideen effektiv vermitteln.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Geschäftspräsentationen
 - Klassenzimmerunterricht
 - Schulungsmodule
 - Pitchdecks
 - Visuelles Storytelling
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Stapelweise DOCX-zu-PowerPoint-Folien-Erstellung
 - Unternehmensberichtspipelines
 - Dokument-zu-Präsentations-Workflows
 - Automatisierte Schulungsinhalteerstellung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

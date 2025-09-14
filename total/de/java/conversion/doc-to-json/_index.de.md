@@ -49,7 +49,7 @@ Während Sie DOC in JSON konvertieren, können Sie den Bereich auch auf Ihr Ausg
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 <h2>✅ Hauptanwendungsfälle</h2>
 - Strukturierte Daten aus Word für die Anwendung extrahieren
@@ -57,12 +57,13 @@ Während Sie DOC in JSON konvertieren, können Sie den Bereich auch auf Ihr Ausg
 - Suche und Filterung von dokumentabgeleiteten Daten ermöglichen
 - Strukturierte Word-Daten in NoSQL-Datenbanken speichern
 
-<h2>⚙️ Automatisierungsszenarien</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-JSON-Extraktoren für direkte Datenkonvertierung
 - Java-basierte JSON-Generierungsskripte für Entwickler
 - Automatisierte Word-zu-API-Integrationsworkflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,20 +61,21 @@ Nach der Konvertierung von DOC in ODS können Sie mit [Aspose.Cells for Java](ht
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Schlüsselanwendungsfälle</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Extrahieren von Tabellen aus Word in ODS-Format
 - Teilen von aus Word abgeleiteten Daten mit Tabellenkalkulationsanwendungen
 - Umwandeln von Dokumentendaten für detaillierte Analysen
 - Sicherstellen der Interoperabilität mit LibreOffice, OpenOffice und anderen ODF-kompatiblen Tools
 
-<h2>⚙️ Automatisierungsszenarien</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-ODS-Extraktionspipelines für die Massenverarbeitung
 - Java-basierte Tabellenkalkulationsformatierungs- und Konvertierungstools
 - Automatisiertes Parsen von Tabellen aus Word in ODS für optimierte Workflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

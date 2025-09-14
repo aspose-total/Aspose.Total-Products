@@ -47,25 +47,27 @@ Während Sie eine CGM-Datei in ODS konvertieren, können Sie Ihrem Ausgabe-ODS-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von CGM (Computer Graphics Metafile)-Dateien in ODS (OpenDocument Spreadsheet) ermöglicht die Kombination von vektorbasierten Diagrammen mit strukturierten Daten in Open-Source-Tabellenkalkulationsformaten. Diese Konvertierung ist für technische Berichte, Ingenieurdokumentationen und Analyseaufgaben unerlässlich, die sowohl tabellarische Daten als auch hochwertige Visuals erfordern.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Erstellung tabellarischer Ingenieurberichte mit eingebetteten Diagrammen.
 - Dokumentation von Open-Source-Projekten mit visuellen Verweisen.
 - Wissenschaftliche Datenanalyse neben vektorbasierten Diagrammen.
 - Verfolgung von Fertigungsprozessen mit integrierten Schemata.
 - Umwelt- und Umfrageberichte mit diagrammatischen Daten.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Java-basierte ETL-Systeme, die kombinierte Daten und Diagramme exportieren.
 - Wissenschaftliche Datenexport-Tools für strukturierte und visuelle Inhalte.
 - Office-Interoperabilitäts-APIs für mehrere Format technische Dokumentation.
 - Automatisierte Datenvisualisierungspipelines.
 - Integration mit LibreOffice Calc für plattformübergreifenden Zugriff.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

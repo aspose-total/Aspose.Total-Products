@@ -30,25 +30,27 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **MSG in DOCM** ermöglicht das Einbetten von Makros in per E-Mail gesendete Word-Dateien, um die Automatisierung von Aufgaben innerhalb des Dokuments zu ermöglichen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Erstellen von makrofähigen Vorlagen aus E-Mails
 * Automatisierung wiederkehrender Formatierungs- oder Berichtsaufgaben
 * Ermöglichen von fortgeschrittenen Workflows in rechtlichen und finanziellen Umgebungen
 * Konsolidierung mehrerer E-Mails in makrogesteuerten Berichten
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * Makrofähige Pipelines für automatisierte Berichterstellung
 * Stapelkonvertierung von MSG-E-Mails in DOCM-Vorlagen
 * Erstellung von fortgeschrittenen Compliance-Dokumentationen mit eingebetteten Makros
 * Automatisierte Dokumenten-Workflows für Finanzprüfungen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

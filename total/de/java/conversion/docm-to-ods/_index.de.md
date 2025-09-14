@@ -61,11 +61,11 @@ Nach der Konvertierung von DOCM in ODS können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCM (Word-Makro aktivierten Dokumenten)** in **ODS (OpenDocument-Spreadsheet)** ist entscheidend, um tabellenbasierte Dokumente und strukturierte Daten für die Verwendung in **LibreOffice Calc und anderen ODF-konformen Tabellenkalkulationsanwendungen** zu ermöglichen. Während DOCM-Dateien oft wertvolle Tabellen und Formulardaten enthalten, bietet ODS ein **offenes, vollständig bearbeitbares Tabellenkalkulationsformat**, das langfristige Zugänglichkeit, Konformität und Zusammenarbeit gewährleistet. Diese Konvertierung verbindet Word-basierte Daten mit Open-Source-Ökosystemen und unterstützt sowohl Unternehmens- als auch behördliche Anforderungen an **transparente, herstellerneutrale Dateiformate**.  
 
-## ✅ Hauptanwendungsfälle  
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}  
 
 - **Konvertierung von Word-Tabellen in bearbeitbare Tabellenkalkulationen**  
   Verwandeln Sie in DOCM eingebettete Tabellen in ODS für fortgeschrittene Berechnungen, Formeln und Analysen.  
@@ -82,7 +82,8 @@ Konvertieren von **DOCM (Word-Makro aktivierten Dokumenten)** in **ODS (OpenDocu
 - **Langzeitarchivierung in offenen Formaten**  
   Bewahren Sie strukturierte Daten in einem langlebigen, auf Standards basierenden Format auf, das jahrzehntelang zugänglich ist.  
 
-## ⚙️ Automatisierungsszenarien  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}  
 
 - **Geplante Exporte von DOCM nach ODS**  
   Automatisieren Sie wiederkehrende Dokument-zu-Tabellenkalkulation-Konvertierungen für Berichterstattung und Datenkonsolidierung.  
@@ -99,7 +100,8 @@ Konvertieren von **DOCM (Word-Makro aktivierten Dokumenten)** in **ODS (OpenDocu
 - **Cloud-Konverter, die auf ODS-Ausgabe standardisieren**  
   Liefern Sie DOCM-Daten als ODS in Cloud-Kollaborationssuiten, die offene Standards priorisieren.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

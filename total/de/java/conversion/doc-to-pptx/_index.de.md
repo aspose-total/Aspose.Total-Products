@@ -54,20 +54,22 @@ Mit der API können Sie auch passwortgeschützte DOC-Dokumente in PPTX konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Umwandlung von Berichten in professionelle Folienpräsentationen
 - Erstellung von editierbaren Schulungsmodulen aus Dokumentationen
 - Entwicklung von unternehmensweiten Präsentationen auf Basis von Vorlagen
 - Aktualisierung von Unternehmensstrategie-Präsentationen mit frischen Inhalten
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-PPTX-XML-Mapping-Tools für präzise Layouts
 - Stilbasierte Folienautomatisierung für konsistentes Branding
 - Stapelverarbeitung von standardisierten Unternehmenspräsentationen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -30,23 +30,25 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Das Konvertieren von E-Mails in DOCM ermöglicht die Einbettung von Makros, wodurch es für fortgeschrittene Workflows und automatisierte Dokumentenverarbeitung geeignet ist.*
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Speichern von E-Mails mit eingebetteter Geschäftslogik oder Vorlagen in DOCM
 * Automatisierung der Berichterstellung aus E-Mail-Inhalten mithilfe von Makros
 * Standardisierung von Kommunikationsvorlagen mit wiederverwendbaren makrofähigen Dokumenten
 * Erstellung automatisierter Workflows für wiederkehrende Aufgaben (z. B. Finanzupdates, Statusberichte)
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * Automatische Generierung von makrofähigen DOCM-Berichten aus E-Mail-Daten
 * Massenkonvertierung von Client-E-Mails in DOCM für dynamische Berichterstellung
 * Automatisierung von Benachrichtigungs-zu-Dokument-Pipelines mit eingebetteten Skripten
 * E-Mail-zu-DOCM-Integration für die Automatisierung von Unternehmens-Workflows
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -57,21 +57,23 @@ Mit der API können Sie das ausgegebene PSD-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von CGM (Computer Graphics Metafile) in PSD (Photoshop-Dokument) ermöglicht eine hochwertige Bearbeitung von technischen Grafiken in Adobe Photoshop. Diese Transformation ist entscheidend für die Wiederverwendung von Vektorgrafiken in kreativen Projekten, ermöglicht Verbesserungen auf Pixel-Ebene und die Integration von Diagrammen in Marketing- oder Multimedia-Inhalte.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Wiederverwendung von Grafikressourcen** – Anpassung von technischen Visuals für Marketingkampagnen oder Produktanleitungen.
 - **Bearbeitung technischer Diagramme** – Anwendung von Photoshop-Effekten, Farbkorrekturen und Branding-Elementen.
 - **Medien-Nachbearbeitung** – Integration technischer Bilder in Videos, Animationen oder Drucklayouts.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Digital Asset Management (DAM) Systeme** – Automatische Konvertierung von CGM in PSD für kreative Workflows.
 - **Java-basierte Bildverarbeitungs-APIs** – Stapelverarbeitung von CGM-Diagrammen in geschichtete PSD-Dateien.
 - **Kreative Workflows** – Integration in Marketing-Asset-Erstellungs-Workflows für konsistente Ergebnisse.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

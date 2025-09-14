@@ -70,21 +70,23 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Konvertierung von CGM in SWF (Shockwave Flash) ist für Legacy-Umgebungen, die auf Flash-basierte Inhalte angewiesen sind, unerlässlich. Dieses Format unterstützt Animationen und Interaktivität, was es nützlich für ältere Trainingssimulatoren, technische Handbücher und Visualisierungstools macht.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Legacy-Trainingssimulatoren** – Interaktive Diagramme für die Bedienerschulung anzeigen.
 - **Animierte Technische Handbücher** – Bewegung in Wartungs- und Betriebsanleitungen integrieren.
 - **Browserbasierte Visualisierungstools** – Vektorgrafiken in Flash-unterstützten Umgebungen bereitstellen.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Java-basierte Vektor-zu-Flash-Bibliotheken** – CGM-Grafiken in SWF für Legacy-Anwendungen umwandeln.
 - **Legacy-Rendering-Services** – Unterstützung bestehender Plattformen ohne Neuentwicklung.
 - **eLearning-Inhaltsmigrationstools** – Kompatibilität mit auf Flash basierenden Schulungskursen aufrechterhalten.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,22 +61,24 @@ Nach der Konvertierung von DOT in EXCEL können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **DOT** in **Excel (XLS/XLSX)** verwandelt Word-Vorlagen in interaktive Tabellenkalkulationen, die für Analyse, Berichterstellung und Workflow-Automatisierung in Unternehmensumgebungen geeignet sind.
 
-#### ✅ Hauptanwendungsfälle
+##{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Geschäftsberichterstattung
 - Budgetplanung
 - Datenanalyse-Vorlagen
 - Workflow-Optimierung
 - Unternehmens-Tabellenkalkulationen
 
-#### ⚙️ Automatisierungsszenarien
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOT-zu-Excel-Automatisierung
 - Tabellenkalkulation-bereite Workflows
 - Unternehmensdatenverwaltung
 - Dokument-zu-Tabellenkalkulation-Pipelines
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

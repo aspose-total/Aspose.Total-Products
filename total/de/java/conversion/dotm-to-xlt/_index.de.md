@@ -61,24 +61,26 @@ Nach der Konvertierung von DOTM in XLT können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOTM** in **XLT** ermöglicht die Erstellung von wiederverwendbaren Excel-Vorlagen aus makrofähigen Word-Vorlagen für standardisierte Geschäfts- und Berichtsworkflows.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Standardisierte Geschäftsvorlagen
 - Unternehmensberichtsvorlagen
 - Regierungsdatenformulare
 - Bildungsbewertungsvorlagen
 - Finanzplanungsvorlagen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatische Erstellung von DOTM-zu-XLT-Vorlagen
 - Unternehmens-Workflow-Vorlagenpipelines
 - Cloud-Vorlagenfreigabe
 - Makro-zu-Excel-Vorlagenautomatisierung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

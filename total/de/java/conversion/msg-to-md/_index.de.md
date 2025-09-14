@@ -30,25 +30,27 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von **MSG in MD (Markdown)** stellt sicher, dass E-Mail-Inhalte in ein leichtes Textformat umgewandelt werden, das weit verbreitet in Dokumentationen, Wikis und Entwicklerplattformen verwendet wird.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Veröffentlichung von E-Mail-Inhalten auf GitHub, GitLab oder in Dokumentationssystemen
 * Umwandlung von Newslettern in Markdown-basierte Blog-Beiträge
 * E-Mail-zu-Markdown-Notizen für die Teamzusammenarbeit
 * Vereinfachte Archivierung in leichtem Textformat
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * MSG-zu-MD-Pipelines für Entwickler-Wissensdatenbanken
 * Automatisierte Umwandlung von E-Mails in Wikis
 * Stapelverarbeitung von E-Mail-Newslettern in Markdown-Beiträge
 * Integration in Dokumentations-CI/CD-Workflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

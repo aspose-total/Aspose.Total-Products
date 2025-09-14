@@ -49,22 +49,23 @@ Während Sie DOTM in JSON konvertieren, können Sie den Bereich auch auf Ihr Aus
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Schlüsselanwendungsfälle</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - API-Integrationen für Web- und Cloud-Anwendungen
 - Datenaustausch und Interoperabilität von Webanwendungen
 - NoSQL-Datenbankspeicherung
 - Cloud-native und serverlose Workflows
 - Automatisierte Berichterstellung und Analyse
 
-<h2>⚙️ Automatisierungsszenarien</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTM-zu-JSON-Extraktionspipelines
 - Makro-zu-API-Datenworkflows
 - Dokument-zu-JSON-Automatisierung
 - Datengetriebene Automatisierungsprozesse
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

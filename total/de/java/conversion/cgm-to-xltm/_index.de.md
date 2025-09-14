@@ -47,23 +47,25 @@ Während Sie eine CGM-Datei in XLTM konvertieren, können Sie Ihrem Ausgabe-XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von CGM-Dateien in das **XLTM (Makrofähige Excel-Vorlage)**-Format unterstützt automatisierte Workflows in Java-Plattformen, ermöglicht vorab konfigurierte Vorlagen mit eingebetteten Makros für technische Prozesse. Dies ermöglicht Ingenieuren das schnelle Generieren von makrofähigen Berichten, das Ausführen automatisierter Berechnungen und das Aktualisieren von Visualisierungen aus CGM-Eingaben, ohne die Tabellenkalkulationslogik neu erstellen zu müssen.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Makrofähige Vorlagen für die Automatisierung von Ingenieurprozessen.
 - Automatisierte Berichterstellung mit CGM-integrierten Berechnungen.
 - Intelligente Dokumenten-Workflows für Fertigungs- und F&E-Teams.
 - Qualitätskontrollvorlagen mit integrierten Validierungsmakros.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Makro-Vorlagen-Rendering in Java-Unternehmensanwendungen.
 - Stapelverarbeitung von CGM-zu-XLTM-Vorlagengenerierung für verschiedene Projekte.
 - ETL-basierte makrofähige Berichtspipelines.
 - Java-ausgelöste Makros für Live-Betriebsberichterstattung.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

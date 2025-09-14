@@ -61,7 +61,7 @@ Nach der Konvertierung von DOCX in FODS können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 <h2>✅ Hauptanwendungsfälle</h2>
 - Interoperabilität mit **LibreOffice & OpenOffice**
@@ -69,13 +69,14 @@ Nach der Konvertierung von DOCX in FODS können Sie mit [Aspose.Cells for Java](
 - Erstellung von XML-basierten Tabellenkalkulationsstrukturen
 - Unterstützung bei langfristiger Compliance-Berichterstattung
 
-<h2>⚙️ Automatisierungsszenarien</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Open-Source-Automatisierung von DOCX zu FODS**
 - XML-basierte Tabellenkalkulations-Pipelines
 - FODS-Berichtssysteme
 - Workflow für plattformübergreifende Office-Suiten
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

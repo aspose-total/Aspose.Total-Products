@@ -42,23 +42,25 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Testen Sie unsere kostenlose App für die Konvertierung von CSV in PPSM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von **CSV** in **PPSM (Makrofähige PowerPoint-Präsentation)** ermöglicht die Bereitstellung interaktiver, automatisierter Folienpräsentationen, die aus strukturierten Datensätzen generiert wurden. Dieses Format eignet sich gut für Produktvorführungen, Dashboards und interaktive Lernmaterialien.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Makrogesteuerte Produktpräsentationen
 - Automatisierte Finanz-Dashboard-Präsentationen
 - Interaktive Trainingsschauen
 - Ereignisbasierte Präsentationswiedergabe
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Erstellung von PPSM-Ausgaben mit eingebetteten Makros
 - CSV-gesteuerte Makroeinspritzungs-Workflows
 - Stapelverarbeitung von PPSM für wiederkehrende Ereignisse
 - Java-basierte Diashow-Zeitplansysteme
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

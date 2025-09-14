@@ -57,21 +57,23 @@ Mit der API können Sie das ausgegebene TGA-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM in TGA (Targa-Format) Konvertierung wandelt Vektorgrafiken in hochwertige Rasterbilder um, ideal für Textur-Mapping, visuelle Effekte und die Entwicklung von Spielpipelines.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Rasterisierung von Vektorgrafiken** – Bereiten Sie CGM-Diagramme für rasterbasierte Workflows vor.
 - **Spiel-Engine-Texturerzeugung** – Erstellen Sie texturbereite Assets für 3D-Umgebungen.
 - **Design von Rundfunkqualitätsinhalten** – Verwenden Sie TGA für professionelle Video- und Medienproduktion.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Java-Grafik-Frameworks** – Rendern Sie CGM präzise in TGA.
 - **Batch-Rasterbildgeneratoren** – Automatisieren Sie die Konvertierung für große Asset-Bibliotheken.
 - **Vektor-zu-Textur-Pipelines** – Integrieren Sie sie in Design-Workflows für Echtzeit-Rendering.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

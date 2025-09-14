@@ -61,24 +61,26 @@ Nach der Konvertierung von DOCX in XLT können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCX** in **XLT (Excel-Vorlage)** ermöglicht die Erstellung von wiederverwendbaren Tabellenvorlagen aus Dokumentinhalten, standardisiert die Unternehmensberichterstattung und automatisiert wiederkehrende Workflows.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Standardisierung der Geschäftsberichterstattung
 - Erstellung wiederverwendbarer Vorlagen
 - Rahmen für die Dateneingabe im Unternehmen
 - Automatisierung von Excel-Workflows
 - Einheitliches Formatieren innerhalb von Teams
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatische Erstellung von Vorlagen von DOCX zu XLT
 - Standardisierung von Workflows
 - Management von Unternehmens-Tabellenkalkulationen
 - Automatisierung von Excel auf Vorlagenbasis
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

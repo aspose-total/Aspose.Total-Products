@@ -30,12 +30,12 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von E-Mails in **Markdown (MD)** bietet ein leichtgewichtiges, textbasiertes Format, das weit verbreitet in Entwickler-Workflows, Dokumentationssystemen und statischen Websites verwendet wird. Mit der Email Java API können E-Mails nahtlos in Markdown für Versionskontrolle und Veröffentlichung umgewandelt werden.
 
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 - **Entwicklerdokumentation**: Speichern Sie technische oder Support-E-Mails als MD für GitHub/GitLab-Wikis.
 - **Veröffentlichung auf statischen Websites**: Veröffentlichen Sie Newsletter oder Ankündigungen direkt auf Jekyll/Hugo-basierten Websites.
@@ -44,7 +44,8 @@ Konvertierung von E-Mails in **Markdown (MD)** bietet ein leichtgewichtiges, tex
 - **Leichtgewichtiges Archivieren**: Speichern Sie E-Mails in einem einfachen textbasierten Format für einfachen Zugriff.
 
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Dokumentationsautomatisierung**: Konvertieren Sie Support- oder Changelog-E-Mails in MD für die Produktdokumentation.
 - **Wissensmanagement**: Synchronisieren Sie E-Mail-Konversationen automatisch in Markdown-basierte Wissensdatenbanken.
@@ -52,7 +53,8 @@ Konvertierung von E-Mails in **Markdown (MD)** bietet ein leichtgewichtiges, tex
 - **Aktualisierungen von statischen Websites**: Veröffentlichen Sie Newsletter automatisch auf statischen Websites.
 - **Massenkonvertierung**: Konvertieren Sie Kommunikation in MD für zentralisierte Repositories in großen Mengen.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,22 +54,24 @@ Mit der API können Sie auch passwortgeschützte DOC-Dokumente in PPTM konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **PPTM (PowerPoint Macro-Enabled Presentation)** ermöglicht die Erstellung interaktiver Präsentationen mit automatisierten Funktionen. Dies ist ideal für dynamische Datendarstellungen, Schulungsmodule und fortgeschrittene Unternehmensberichte.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Automatisierte Unternehmensberichte mit Makros
 - Interaktive Schulungsunterlagen für die Einarbeitung neuer Mitarbeiter
 - Makrogesteuerte Geschäftsanalysepräsentationen
 - Datenvisualisierung direkt aus Word-Berichten
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-PPTM-Makroinjektions-Workflows für Funktionalität
 - Skriptbasierte Folienverbesserungen für Interaktivität
 - Automatisierte KPI-Dashboards in Präsentationen integriert
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

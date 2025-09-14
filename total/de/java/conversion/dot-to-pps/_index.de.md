@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOT-Dokumente in PPS konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOT** in **PPS (PowerPoint Show)** erstellt selbststartende Präsentationen direkt aus Word-Vorlagen für nahtlose Präsentationen in Meetings und Veranstaltungen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Geschäftspräsentationen
 - Lehrvortragsfolien
 - Eventpräsentationen
 - Schulungsshows
 - Automatische Produktvorführungen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOT-zu-PPS-Konvertierung
 - Automatische Diashow-Erstellung
 - Geschäftsfertige selbststartende Präsentationen
 - Dokument-zu-Show-Pipelines
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -61,24 +61,26 @@ Nach der Konvertierung von DOTM in XLS können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOTM** in **XLS** gewährleistet die Kompatibilität mit älteren Versionen von Microsoft Excel und bewahrt makrofähige Word-Vorlagedaten in strukturierten Tabellenkalkulationen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Legacy-Finanzsysteme
 - Regierungskonformitätsberichte
 - Speicherung von akademischen Daten
 - Unternehmensbuchhaltungsworkflows
 - Rückwärtskompatibilitätsanforderungen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTM-zu-XLS-Pipelines
 - Stapelkonvertierung für Archive
 - Automatisierte Berichterstellung für ältere Excel-Versionen
 - Makro-zu-Legacy-Tabellenkalkulationsworkflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,24 +61,26 @@ Nach der Konvertierung von DOTX in XLT können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Export von **DOTX (Word-Vorlage)** zu **XLT (Excel-Vorlage)** ermöglicht es Unternehmen, wiederverwendbare Tabellenkalkulations-Frameworks zu erstellen. Diese Standardisierung verbessert die Effizienz bei Berichterstattung, Finanzplanung und Abteilungsworkflows.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Erstellung von Unternehmensvorlagen für Excel
 - Geschäftsberichtsvorlagen
 - Abteilungsspezifische Excel-Frameworks
 - Wiederverwendbare Finanzmodelle
 - Dokumentbasierte Excel-Standards
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTX-zu-XLT-Konvertierungspipelines
 - Automatische Vorlagenverteilung in Unternehmen
 - Standardisierte Excel-Vorlagenerstellung
 - Unternehmensberichts-Frameworks für Konsistenz
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,22 +61,24 @@ Nach der Konvertierung von DOC in EXCEL können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **EXCEL (Microsoft Excel-Arbeitsmappe)** ist entscheidend, um textbasierte Berichte in voll funktionsfähige, bearbeitbare Tabellenkalkulationen umzuwandeln. Dies stellt sicher, dass tabellarische Daten aus Word-Dokumenten interaktiv, analysierbar und einfach zu teilen sind.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Umwandlung von Word-Tabellen in interaktive Excel-Tabellen
 - Migration von Finanzdaten nach Excel zur Analyse
 - Integration von Dokumentinhalten in automatisierte Berichtsdashboards
 - Unterstützung der kollaborativen Datenbearbeitung in Teams
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-EXCEL-Konverter für direkte Umwandlung
 - VBA-gesteuerte Tabellenmigrations-Skripte
 - Automatisierte Berichtspipelines, die Word-Daten in Excel integrieren
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

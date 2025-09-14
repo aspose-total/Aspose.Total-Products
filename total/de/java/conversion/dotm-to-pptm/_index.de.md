@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTM-Dokumente in PPTM konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOTM** in **PPTM (Makrofähige PowerPoint-Präsentation)** unterstützt dynamische, interaktive Präsentationen mit Makros für Finanz-Dashboards, Compliance-Berichte und automatisierte Unternehmenspräsentationen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Interaktive Finanz-Dashboards
 - Automatisierte Unternehmenspräsentationen
 - Workflow-gesteuerte Compliance-Berichte
 - Makrogesteuerte Schulungsunterlagen
 - Unternehmensberichterstellung
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTM-zu-PPTM-Makro-Pipelines
 - Automatisierung von Unternehmenspräsentationen
 - Workflow-gesteuerte PowerPoint-Erstellung
 - Makrogesteuerte Diashow-Auslieferung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

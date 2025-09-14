@@ -61,25 +61,27 @@ Nach der Konvertierung von DOTM in TSV können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOTM** in **TSV (Tab-separated Values)** ermöglicht einen strukturierten Export von makrofähigen Dokumentendaten, was es ideal für Datenbankimporte, Integration in Legacy-Systeme und skalierbare tabellarische Berichterstattung macht.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Massenhafte Datenextraktion aus makrofähigen Vorlagen
 - Datenbank-Import-/Export-Pipelines
 - Unternehmensfertige strukturierte Berichterstattung
 - Integration in Legacy-Systeme
 - Vereinfachte tabellarische Konvertierungen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatisierung des Datenexports von DOTM nach TSV
 - Makrogesteuerte Berichtspipelines
 - Strukturierte tabellarische Konvertierungsworkflows
 - Datenaustausch in Unternehmen
 - Skalierbare Workflow-Exporte
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -57,21 +57,23 @@ Mit der API können Sie das ausgegebene WMZ-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM zu WMZ (komprimierte Windows-Metadatei) Konvertierung optimiert die Speicherung und Übertragung von Vektorgrafiken. Dies ist nützlich, um Dateigrößen in unternehmensinternen Dokumentenworkflows zu reduzieren, während die Kompatibilität erhalten bleibt.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Effiziente Übertragung von Vektorinhalten** – Minimieren Sie den Bandbreitenverbrauch in Dokumentsystemen.
 - **Optimierte Dokumentverpackung** – Betten Sie WMZ in Office-Dateien ein, um die Portabilität zu gewährleisten.
 - **Inhaltsarchivierung** – Speichern Sie komprimierte Vektorillustrationen für den langfristigen Zugriff.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Java ZIP-basierte Kompressions-APIs** – Automatisieren Sie CGM-zu-WMZ-Konvertierungen in großen Mengen.
 - **Bild-Einbettungsprogramme** – Integrieren Sie WMZ-Grafiken in mehrere Dateidokumentpakete.
 - **Dokumentvorbereitungsserver** – Optimieren Sie die Workflows vor der Veröffentlichung.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

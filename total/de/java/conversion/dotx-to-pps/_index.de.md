@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTX-Dokumente in PPS konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOTX** in **PPS (PowerPoint Show)** ist wertvoll für automatisch ablaufende Präsentationen, die sofort gestartet werden und somit ideal für Veranstaltungen, Kioske und Schulungsumgebungen sind.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Messestände  
 - Schulungskioske  
 - Automatisierte Tutorials  
 - Veranstaltungsdiashows  
 - Interaktive Demos  
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTX-zu-PPS-Pipelines  
 - Automatische Präsentationsworkflows  
 - Kioskfertige Deck-Automatisierung  
 - Automatisierung von Unternehmensveranstaltungen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

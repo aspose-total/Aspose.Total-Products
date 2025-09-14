@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTM-Dokumente in PPT konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOTM** in **PPT (Legacy PowerPoint Format)** gewährleistet die Abwärtskompatibilität mit älteren Systemen und ermöglicht archivierte Präsentationen und Schulungsfolien für Legacy-Infrastrukturen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Legacy-Unternehmenssysteme
 - Archivierte Präsentationen
 - Schulungsfolien für alte Infrastrukturen
 - Kompatibilität in Offline-Umgebungen
 - Regierungs-/Institutionenberichterstattung
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTM-zu-PPT-Legacy-Automatisierung
 - Workflows zur Kompatibilität mit älteren Versionen
 - Archivfertige Präsentationspipelines
 - Automatisierung der Legacy-Deckkonvertierung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

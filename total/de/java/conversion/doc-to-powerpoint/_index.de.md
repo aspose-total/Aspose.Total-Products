@@ -54,22 +54,24 @@ Mit der API können Sie auch passwortgeschützte DOC-Dokumente in POWERPOINT kon
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **POWERPOINT (PPT)** verwandelt textbasierte Dokumente in ansprechende, visuelle Präsentationen für Besprechungen, Schulungen und Unternehmenskommunikation. Dies hilft, Informationen effektiver zu vermitteln und das Publikumsengagement zu steigern.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Umwandlung detaillierter Berichte in Präsentationsfolien
 - Visualisierung von Besprechungszusammenfassungen für Präsentationen
 - Verbesserung von Unternehmenspräsentationen durch visuelle Struktur
 - Erstellung von Schulungsinhalten aus Anleitungsmanualen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-PPT-Generierung für schnelle Konvertierungen
 - Automatisierte Folienformatierung und Layoutgestaltung
 - Stapelverarbeitung von Dokument-zu-Präsentation-Konvertierungen für Effizienz
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

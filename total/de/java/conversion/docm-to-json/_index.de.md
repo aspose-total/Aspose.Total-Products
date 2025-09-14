@@ -49,12 +49,12 @@ Während Sie DOCM in JSON konvertieren, können Sie den Bereich auch auf Ihr Aus
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **DOCM (Word-Makrofähige Dokumente)** in **JSON (JavaScript Object Notation)**
 
 Die Konvertierung von **DOCM (Word-Makrofähige Dokumente)** in **JSON (JavaScript Object Notation)** ist entscheidend, um statische Dokumenteninhalte, Tabellen und Formularfelder in **strukturierte, maschinenlesbare Daten** zu transformieren. JSON ist leichtgewichtig, menschenlesbar und wird weitreichend in **APIs, Analysen, Webanwendungen und Automatisierungsworkflows** verwendet. Durch die Extraktion von Daten aus DOCM in JSON können Organisationen die Interoperabilität über moderne Plattformen hinweg freischalten, schnellere Integrationen ermöglichen und sicherstellen, dass Daten für **Echtzeitverarbeitung, Validierung und skalierbare Verteilung** bereitstehen.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 
 - **Veröffentlichung von Dokumentendaten in REST/GraphQL APIs**
   Stellen Sie extrahierte DOCM-Inhalte als JSON bereit, um sie direkt in Web- und mobilen Apps über APIs zu nutzen.
@@ -71,7 +71,8 @@ Die Konvertierung von **DOCM (Word-Makrofähige Dokumente)** in **JSON (JavaScri
 - **Aktivierung von Headless-CMS oder Microservice-Architekturen**
   Integrieren Sie DOCM-Inhalte in verteilte, API-zentrierte Systeme, in denen JSON die Lingua Franca ist.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **DOCM-zu-JSON-Extraktion mit Feldzuordnung**
   Definieren Sie Zuordnungen, um Tabellen, Überschriften und Felder in strukturierte JSON-Objekte zu transformieren.
@@ -87,7 +88,8 @@ Die Konvertierung von **DOCM (Word-Makrofähige Dokumente)** in **JSON (JavaScri
 
 - **Governance-Regeln, die Makros und PII vor JSON-Export entfernen**
   Wenden Sie Compliance-Checks an, um sichere, bereinigte JSON-Ausgaben aus makrofähigen Dateien zu gewährleisten.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -57,21 +57,23 @@ Mit der API können Sie das ausgegebene WMF-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von CGM in WMF (Windows Metafile) gewährleistet die Kompatibilität mit Microsoft Office und älteren Windows-Anwendungen. Dadurch wird es einfacher, Vektorgrafiken in Dokumente, Präsentationen und automatisierte Veröffentlichungssysteme einzubetten.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Grafiken in Office-Anwendungen einbetten** – Verwenden Sie Diagramme in Word, PowerPoint und Excel.
 - **Legacy-Unternehmensanwendungen** – Unterstützung für ältere Geschäftssysteme aufrechterhalten.
 - **Dokumentenautomatisierung** – Vorlagen mit dynamischen Vektorillustrationen befüllen.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Java-ActiveX-Brückensysteme** – Automatisieren Sie die WMF-Erstellung aus CGM-Quellen.
 - **Vektorformat-Normalisierungspipelines** – Standardisieren Sie Grafikformate für den Unternehmenseinsatz.
 - **Dokumentenveröffentlichungssysteme** – Integrieren Sie Diagramme in Workflows für die Veröffentlichung in großem Umfang.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

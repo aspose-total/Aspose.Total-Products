@@ -61,25 +61,27 @@ Nach der Konvertierung von DOCM in XLTX können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von **DOCM** in **XLTX (Excel-Vorlage)** stellt wiederverwendbare, standardisierte Vorlagen für moderne Excel-Umgebungen sicher. Diese Vorlagen optimieren Berichterstattung, unterstützen BI-Workflows und steigern die Produktivität, indem strukturierte Daten aus Word in unternehmensfertige Excel-Vorlagen umgewandelt werden.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Standardisierung von **Finanzmodellen**
 - Erstellung von **unternehmensfertigen Berichtsvorlagen**
 - Migration von **strukturierten Inhalten von DOCM nach Excel**
 - Unterstützung von **Business-Intelligence-Workflows**
 - Steigerung der Produktivität mit **wiederverwendbaren Excel-Vorlagen**
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Automatisierung der DOCM-zu-XLTX-Vorlage**
 - Generierung von XLTX-Dateien in unternehmensweiten Berichtspipelines
 - **Standardisierte Excel-Vorlagenerstellung**
 - Automatisierte **datengesteuerte Vorlagen-Workflows**
 - **Unternehmensweite Vorlagenverteilung**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

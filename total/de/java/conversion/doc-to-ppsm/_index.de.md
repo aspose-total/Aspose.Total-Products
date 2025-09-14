@@ -54,22 +54,24 @@ Mit der API können Sie auch passwortgeschützte DOC-Dokumente in PPSM konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **PPSM (PowerPoint Macro-Enabled Slide Show)** ist wichtig, um interaktive, automatisierte Diashows aus Word-Dokumenten zu erstellen. PPSM-Dateien können Makros ausführen, um fortschrittliche Interaktivität, Automatisierung und individuelle Präsentationen bereitzustellen.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Schulungssimulationen mit automatisierten Foliensteuerungen
 - Automatisierte Präsentationssequenzen für Unternehmensveranstaltungen
 - Interaktive Produktpräsentationen mit Makrofunktionalität
 - Makrogesteuerte Unternehmenskommunikationstools
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Einbetten von DOC-zu-PPSM-Makros für interaktive Elemente
 - Ereignisgesteuerte Folienübergänge für dynamische Präsentationen
 - Automatisierte Diashow-Personalisierungs-Workflows für gezielte Zielgruppen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

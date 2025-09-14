@@ -54,7 +54,7 @@ Mit der API können Sie auch passwortgeschützte DOC-Dokumente in PPSX konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 <h2>✅ Hauptanwendungsfälle</h2>
 - Selbstablaufende Präsentationen für Veranstaltungen und Kioske
@@ -62,12 +62,13 @@ Mit der API können Sie auch passwortgeschützte DOC-Dokumente in PPSX konvertie
 - Vorlesungsfolien, die aus schriftlichen akademischen Inhalten erstellt wurden
 - Marketingpräsentationen aus Werbebroschüren
 
-<h2>⚙️ Automatisierungsszenarien</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Stapelverarbeitung von DOC zu PPSX für Massenkonvertierungen
 - XML-basierte Diashow-Anpassung für Branding
 - Automatisierung von Unternehmenskommunikation für regelmäßige Aktualisierungen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

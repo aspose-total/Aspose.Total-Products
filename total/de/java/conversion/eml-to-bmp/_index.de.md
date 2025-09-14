@@ -30,23 +30,25 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **EML (E-Mail-Nachrichtenformat)**-Dateien in **BMP (Bitmap-Bild)** bewahrt das genaue visuelle Layout einer E-Mail in einem statischen, hochwertigen Rasterformat.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **E-Mail-Archivierung**: Speichern Sie nicht bearbeitbare Schnappschüsse von E-Mails für Aufzeichnungen.
 - **Rechtliche Beweismittel**: Erfassen Sie das ursprüngliche Aussehen einer E-Mail für die Einhaltung und gerichtliche Verwendung.
 - **Druckfertige Dokumente**: Konvertieren Sie E-Mails in BMP für Poster oder physische Aufzeichnungen.
 - **Grafikdesign**: Verwenden Sie E-Mail-Inhalte in Design-Workflows, die Bitmap-Bilder erfordern.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Batch-E-Mail-Schnappschüsse**: Konvertieren Sie mehrere EML-Dateien in BMP-Bilder.
 - **Compliance-Pipelines**: Speichern Sie automatisch alle Unternehmens-E-Mails in Bitmap-Form.
 - **Forensische Archivierung**: Bewahren Sie E-Mails als unveränderte Bildbeweise.
 - **Cross-System-Sharing**: Stellen Sie eine konsistente Anzeige sicher, ohne einen E-Mail-Client zu benötigen.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -59,21 +59,23 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM in PPSX (Open XML Slide Show) Konvertierung vereinfacht die Erstellung von nicht editierbaren, portablen Diashow-Dateien, die für die plattformübergreifende Nutzung optimiert sind. Perfekt geeignet, um CGM-Diagramme in Präsentationen einzubetten, die sofort angesehen werden sollen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Automatisierte Diashows** – Erzeugen Sie vorgefertigte Diashows aus technischen Visualisierungen.
 - **Plattformübergreifende visuelle Präsentationen** – Stellen Sie Kompatibilität mit modernen PowerPoint-Versionen sicher.
 - **Eingebettete Vektorgrafiken in Berichten** – Liefern Sie Präsentationen mit hochwertigen technischen Bildern.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Java-basierte Show-Datei-Generatoren** – Erstellen Sie PPSX-Dateien direkt aus CGM-Quellen.
 - **Massenproduktion von Diashows** – Automatisieren Sie die Massenproduktion von schreibgeschützten Präsentationen.
 - **Intelligente Berichtssysteme** – Integrieren Sie CGM-Diagramme in automatisierte Präsentationspakete.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

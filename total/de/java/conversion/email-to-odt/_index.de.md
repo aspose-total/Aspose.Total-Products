@@ -30,11 +30,11 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von E-Mails in **OpenDocument Text (ODT)** gewährleistet die Kompatibilität mit Open-Source-Office-Suiten wie OpenOffice. Mit der E-Mail Java API können Unternehmen Workflows für die Erstellung von Dokumenten gemäß offenen Standards automatisieren.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 - **Open-Source-Workflows**: Speichern von E-Mails in Formaten, die mit LibreOffice kompatibel sind.
 - **Zusammenarbeit**: Austausch von bearbeitbaren E-Mails ohne Abhängigkeit von Microsoft Word.
@@ -42,7 +42,8 @@ Konvertierung von E-Mails in **OpenDocument Text (ODT)** gewährleistet die Komp
 - **Bildung**: Universitäten speichern akademische E-Mails in ODT für bessere Zugänglichkeit.
 - **Anbieterneutralität**: Aufrechterhaltung von Archiven unabhängig von proprietärer Software.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Archivierungspipelines**: Konvertierung von Geschäftsmails in ODT zur Einhaltung von Vorschriften.
 - **Plattformübergreifende Zusammenarbeit**: Automatischer Austausch von konvertierten ODT-E-Mails zwischen Open-Source-Office-Systemen.
@@ -50,7 +51,8 @@ Konvertierung von E-Mails in **OpenDocument Text (ODT)** gewährleistet die Komp
 - **Öffentlicher Sektor**: Automatisches Speichern offizieller Kommunikation als ODT zur Einhaltung von Richtlinien.
 - **Massenexporte**: Konvertierung von Massenpostfächern in ODT für universellen Zugriff.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

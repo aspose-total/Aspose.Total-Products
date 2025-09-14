@@ -61,24 +61,26 @@ Nach der Konvertierung von DOCX in XLTM können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCX** in **XLTM (Excel-Makrofähige Vorlage)** ist wichtig für den Aufbau wiederverwendbarer makrofähiger Tabellenvorlagen, die Automatisierungslogik aus Dokumenten enthalten.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Automatisierung wiederkehrender Workflows
 - Erstellung von unternehmensfertigen Makrovorlagen
 - Migration von makrobasierter Logik von DOCX nach Excel
 - Unterstützung von Finanz- und Analysemodellen
 - Optimierung von Berichterstattung
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatisierung von DOCX-zu-XLTM-makrofähigen Prozessen
 - Vorlagengenerierungspipelines
 - Unternehmensweites Makro-Management
 - Automatisierte Excel-Vorlagen-Workflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

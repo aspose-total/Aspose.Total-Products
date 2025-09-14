@@ -57,11 +57,11 @@ Mit der API können Sie das ausgegebene EMZ-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Konvertierung von **CGM**-Dateien in das **EMZ (Enhanced Metafile Compressed)**-Format ist äußerst vorteilhaft für die Verwaltung von komprimierten Vektorgrafiken in **Java-basierten Systemen**. EMZ reduziert die Dateigröße, während die Qualität erhalten bleibt, was es ideal macht, technische Illustrationen in Dokumente einzubetten, Vektorbilder effizient zu teilen und die Kompatibilität mit Microsoft Office und Windows-basierten Anwendungen sicherzustellen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 - **Dokumenteneinbettung**  
   Fügen Sie komprimierte CGM-abgeleitete EMZ-Grafiken in Word, PowerPoint und andere Office-Dateien ein.
@@ -72,7 +72,8 @@ Die Konvertierung von **CGM**-Dateien in das **EMZ (Enhanced Metafile Compressed
 - **Bildverpackung für Office-Kompatibilität**  
   Konvertieren Sie CGM in EMZ, um eine reibungslose Integration in Office-Workflows ohne manuelle Bildanpassungen zu gewährleisten.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Java-APIs für die Bildkompression**  
   Automatisieren Sie die CGM-zu-EMZ-Konvertierung mithilfe von Java-Bibliotheken, die WMF/EMF-Kompression und Vektoroptimierung unterstützen.
@@ -83,7 +84,8 @@ Die Konvertierung von **CGM**-Dateien in das **EMZ (Enhanced Metafile Compressed
 - **Windows-Metafile-Verarbeitung**  
   Verwenden Sie Java-Tools zur Behandlung von EMF-zu-EMZ-Kompression für die Kompatibilität in plattformübergreifenden Anwendungen.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

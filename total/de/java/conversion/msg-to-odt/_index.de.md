@@ -30,23 +30,25 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **MSG in ODT**-Konvertierung ermöglicht es, E-Mail-Inhalte im **OpenDocument Text**-Format zu speichern, das mit Apache OpenOffice und anderen Open-Source-Office-Suiten kompatibel ist.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Bearbeiten und Formatieren von E-Mails in Open-Source-Office-Software
 * Archivieren von E-Mails in ODF-konformen Systemen
 * Migration von Outlook-Daten zu Open-Document-Plattformen
 * Vorbereitung von rechtlichen oder geschäftlichen Aufzeichnungen in offenen Formaten
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * MSG-zu-ODT-Pipelines für unternehmensweite Dokumentation
 * Automatisierte Migration von Outlook zu LibreOffice/OpenOffice
 * Stapelweise Export von E-Mails in bearbeitbare ODT-Dateien
 * ODF-konforme Archivierungs-Workflows
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,24 +61,26 @@ Nach der Konvertierung von DOT in XLTM können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOT** in **XLTM (Excel-Makrofähige Vorlage)** ermöglicht die Erstellung von fortschrittlichen, automatisierungsbereiten Vorlagen, die makrogesteuerte Logik aus Word-Dokumenten für Unternehmensworkflows einbetten.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Automatisierte Vorlagenerstellung
 - Makros für unternehmensweite Berichterstellung
 - Automatisierung von Geschäftsprozessen
 - Dynamische Rechnungsvorlagen
 - Finanzmodellierung
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Makrogesteuerte Automatisierung von DOT zu XLTM
 - Vorlagenpipelines
 - Makrofähige Dokument-zu-Vorlagen-Transformation
 - Automatisierung der Unternehmensproduktivität
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

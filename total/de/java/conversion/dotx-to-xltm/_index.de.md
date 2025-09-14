@@ -61,24 +61,26 @@ Nach der Konvertierung von DOTX in XLTM können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOTX (Word-Vorlage)** in **XLTM (makrofähige Excel-Vorlage)** ermöglicht es Organisationen, wiederverwendbare, makrofähige Frameworks für die Automatisierung bereitzustellen. Dies gewährleistet skalierbare, wiederholbare Excel-Workflows über Abteilungen hinweg.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Automatisierungsvorlagen für Abteilungen
 - Finanzplanungs-Frameworks mit Makros
 - Datenverarbeitungs- und Transformationsvorlagen
 - Fortgeschrittene Berichts-Workflows
 - Makrofähige Geschäftsprozessautomatisierung
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTX-zu-XLTM-Automatisierungspipelines
 - Bereitstellung von makrofähigen Vorlagen
 - Automatisierte Excel-Erstellung aus DOTX
 - Wiederverwendbare Workflow-Vorlagen für Unternehmen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

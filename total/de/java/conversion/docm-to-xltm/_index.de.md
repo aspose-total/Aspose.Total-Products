@@ -61,24 +61,26 @@ Nach der Konvertierung von DOCM in XLTM können Sie mit [Aspose.Cells for Java](
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## DOCM zu XLTM Konvertierung: Makrofähige Vorlagen
 
 Die Umwandlung von **DOCM** in **XLTM (Excel-Makrofähige Vorlage)** ermöglicht es Organisationen, wiederverwendbare makrofähige Tabellenvorlagen aus Word-Inhalten zu erstellen. Diese Vorlagen unterstützen Automatisierung, Finanzmodellierung, Berichterstellung und die Optimierung von Unternehmensabläufen.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Automatisierung von **wiederkehrenden Workflows**
 - Erstellung von **unternehmensfertigen Makrovorlagen**
 - Migration von **makrobasierten Logiken** von DOCM nach Excel
 - Unterstützung von **finanziellen und analytischen Modellen**
 - Optimierung von **Berichterstellungsprozessen**
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **DOCM-zu-XLTM-makrofähige Automatisierung**
 - **Vorlagengenerierungspipelines**
 - **Unternehmensweites Makro-Management**
 - **Automatisierte Excel-Vorlagen-Workflows**
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

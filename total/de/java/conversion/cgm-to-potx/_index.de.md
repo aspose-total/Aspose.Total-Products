@@ -59,21 +59,23 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von CGM in POTX (Open XML-Präsentationsvorlage) bietet ein flexibles, modernes Vorlagenformat für skalierbare Geschäfts- und Ingenieurspräsentations-Workflows. POTX unterstützt Vektorgrafiken und eignet sich daher ideal für CGM-basierte technische Visualisierungen, die in mehreren Folienstapeln wiederverwendet werden müssen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Branchenübliche visuelle Berichte** – Erstellen Sie professionelle Layouts für Kunden- und Stakeholder-Präsentationen.
 - **Ingenieurdesign-Vorlagen** – Betten Sie skalierbare Vektordiagramme in wiederverwendbare Layouts ein.
 - **Wiederverwendbare Markenfolien** – Stellen Sie eine konsistente Unternehmensidentität in verschiedenen Abteilungen sicher.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Java-basierte Open XML-Dokumentsysteme** – Automatisieren Sie die CGM-zu-POTX-Konvertierung mit Apache POI XSLF APIs.
 - **Unternehmensinhaltsautomatisierung** – Vereinfachen Sie die Erstellung von Markenvorlagenbibliotheken.
 - **Vorlagenbasierte Präsentations-Pipelines** – Integrieren Sie sie in CI/CD-Pipelines für die automatisierte Deck-Vorbereitung.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

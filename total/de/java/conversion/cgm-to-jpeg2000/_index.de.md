@@ -57,21 +57,23 @@ Mit der API können Sie das ausgegebene JPEG2000-Bild auch nach Ihren Bedürfnis
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von CGM-Dateien in JPEG2000 ermöglicht die Speicherung von hochauflösenden Bildern mit fortschrittlicher Kompression, was es ideal für die Archivierung technischer und geografischer Grafiken macht. JPEG 2000 unterstützt eine überlegene Qualitätserhaltung und ist somit eine optimale Wahl für Branchen, die präzise Details bei reduzierten Dateigrößen benötigen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Hochauflösende Archivierung von technischen oder architektonischen Zeichnungen.
 - GIS- und Kartierungs-Workflows, die eine effiziente, aber detaillierte Speicherung erfordern.
 - Bandbreitenoptimiertes Streaming technischer Grafiken für entfernte Teams.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Java-basierte geografische Bildverarbeitungswerkzeuge für die automatisierte Erzeugung von JPEG2000.
 - Unternehmensdokumenten-Repositories mit Bedarf an hochwertiger Archivierung.
 - Skalierbare Cloud-Bildverarbeitungsdienste für eine effiziente Verteilung.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

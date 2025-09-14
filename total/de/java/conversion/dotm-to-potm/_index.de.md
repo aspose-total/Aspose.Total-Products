@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTM-Dokumente in POTM konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOTM** in **POTM (makrofähige PowerPoint-Vorlage)** ist für Unternehmen, die dynamische, makrogesteuerte Präsentationsvorlagen für automatisierte Berichterstellung und Workflow-Effizienz benötigen, unerlässlich.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Automatisierte Berichtsdecks
 - Finanzpräsentationsvorlagen
 - Makrogesteuerte Folienentwicklung
 - Schulungs- und Compliance-Präsentationen
 - Automatisierung auf Unternehmensebene
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Makrofähige Umwandlung von DOTM in POTM
 - Automatisierung von PowerPoint-Präsentationen
 - Workflow-gesteuerte Makro-Bereitstellung
 - Unternehmenspräsentations-Pipelines
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

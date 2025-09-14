@@ -54,10 +54,10 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in ODP konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **DOCM (Word-Makro aktiviert Dokumente)** in **ODP (OpenDocument Präsentation)** ist wesentlich, um statische, textlastige Dokumente in **Open-Standard-Folien** umzuwandeln, die in LibreOffice Impress und anderen ODF-kompatiblen Tools bearbeitet und präsentiert werden können. Diese Konvertierung ermöglicht es Benutzern, Berichte, Formulare und strukturierte Word-Inhalte in **visuell ansprechende Präsentationen** umzuwandeln, während die plattformübergreifende Zugänglichkeit gewährleistet und proprietäre Bindungen vermieden werden. ODP gewährleistet langfristige Nutzbarkeit und eignet sich daher ideal für **akademische, Regierungs- und Unternehmensumgebungen**, die offene Standards priorisieren.  
 
-## ✅ Schlüsselanwendungsfälle  
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}  
 
 - **Umwandlung von Berichten in Präsentationsfolien**  
   Konvertieren Sie DOCM-Dokumente in ODP-Folien für Schulungen, Geschäftstreffen oder akademische Vorträge.  
@@ -74,7 +74,8 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in ODP konvertie
 - **Akademische oder Regierungsnutzung von offenen Standards ermöglichen**  
   Erfüllen Sie Compliance-Anforderungen, indem Sie DOCM-Inhalte im ODF-zertifizierten Präsentationsformat verteilen.  
 
-## ⚙️ Automatisierungsszenarien  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}  
 
 - **DOCM-zu-ODP-Auto-Generatoren**  
   Konvertieren Sie automatisch makroaktivierte Word-Dateien in bearbeitbare ODP-Folien.  
@@ -90,7 +91,8 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in ODP konvertie
 
 - **Automatisierte Pipelines zur Vorbereitung von ODPs für Veröffentlichungsportale**  
   Optimieren Sie die Inhaltsbereitstellung, indem Sie die DOCM-zu-ODP-Konvertierung in Veröffentlichungsworkflows integrieren.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

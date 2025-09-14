@@ -30,25 +30,27 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **MSG in DOTX** wandelt E-Mail-Inhalte in standardisierte, wiederverwendbare Word-Vorlagen um.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Konsistente Markenführung über Kommunikationsvorlagen hinweg
 * Standardisierte Berichte für den Unternehmenseinsatz
 * Erstellung einheitlicher HR- und rechtlicher Dokumentenvorlagen
 * Umwandlung von Kundenkommunikation in strukturierte Vorlagen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * Automatisierte MSG-zu-DOTX-Pipelines
 * Stapelkonvertierung für das Enterprise-Vorlagenmanagement
 * E-Mail-gesteuerte Vorlagenerstellung für eine konsistente Markenführung
 * HR-Dokumentations-Workflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

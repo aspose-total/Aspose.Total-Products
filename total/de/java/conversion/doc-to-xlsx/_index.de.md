@@ -61,22 +61,24 @@ Nach der Konvertierung von DOC in XLSX können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **XLSX (Excel Open XML Spreadsheet)** erstellt moderne, voll kompatible Tabellenkalkulationen für Datenaustausch, Analyse und Integration. XLSX ist das branchenübliche Format für Business Intelligence und Cloud-Zusammenarbeit.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Strukturierte Dokumentdaten in moderne Tabellenkalkulationen exportieren
 - BI-Pipeline-Integration mit sauberen, strukturierten Ausgaben
 - Berichte in bearbeitbare, analysebereite Tabellenkalkulationen umwandeln
 - Kompatibilität mit allen gängigen Tabellenkalkulationssoftwarelösungen sicherstellen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-XLSX-XML-Mapping-Engines
 - Automatisierte Tabellenkalkulationserstellungs-Workflows
 - Dokumentenanalyse mit strukturiertem XML-Output
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

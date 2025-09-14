@@ -54,9 +54,9 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in POWERPOINT ko
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Schlüsselanwendungsfälle</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 
 - **Umwandlung langer Berichte in prägnante Präsentationen**
   Konvertieren Sie mehrseitige Dokumente in präsentationsfertige Zusammenfassungen.
@@ -75,7 +75,7 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in POWERPOINT ko
 
 
 
-<h2>⚙️ Automatisierungsszenarien</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **DOCM-zu-PowerPoint-Auto-Generatoren**
   Erstellen Sie automatisch Folien aus Word-Tabellen, Diagrammen und Abschnitten.
@@ -92,7 +92,8 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in POWERPOINT ko
 - **Massenkonvertierung von Dokumenten in Folien-Decks für Schulungsbibliotheken**
   Automatisieren Sie die Umwandlung von Handbüchern in wiederverwendbare Schulungsdecks.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

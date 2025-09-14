@@ -54,22 +54,24 @@ Mit der API können Sie auch passwortgeschützte DOC-Dokumente in POT konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **POT (PowerPoint-Vorlage)** ist wichtig, um wiederverwendbare Folienvorlagen aus Word-Inhalten zu erstellen. Dies ermöglicht eine konsistente Markenführung, vereinfachte Erstellung von Präsentationen und schnellere Bereitstellung standardisierter Layouts in Organisationen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Erstellung konsistenter Präsentationsvorlagen aus Word-Dokumenten
 - Standardisierung der Unternehmensmarke in Präsentationen
 - Automatisierung der Folienthemenerstellung aus schriftlichen Inhalten
 - Vorbereitung von Vorlagen für die Massenpräsentationsproduktion
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-POT-Stilzuordnungstools für Designkonsistenz
 - Java-gesteuerte Skripte zur automatisierten Vorlagenerstellung
 - Automatisierte Vorlagenbereitstellungs-Workflows für den Unternehmenseinsatz
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

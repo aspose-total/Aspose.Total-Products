@@ -54,22 +54,24 @@ Mit der API können Sie auch passwortgeschützte DOT-Dokumente in POT konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **DOT** in **POT (PowerPoint-Vorlage)** ist entscheidend, um Word-Vorlagen in wiederverwendbare Präsentationsrahmenwerke umzuwandeln, die Konsistenz und Skalierbarkeit im Folien-Design gewährleisten.
 
-#### ✅ Schlüsselanwendungsfälle
+##{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Standardisierte Präsentationsformate
 - Konsistente Markenführung in Folien
 - Unternehmensfertige Vorlagennutzung
 - Akademische und Schulungsfolienvorlagen
 - Skalierbare Präsentationsrahmenwerke
 
-#### ⚙️ Automatisierungsszenarien
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Generierung von DOT-zu-POT-Präsentationsvorlagen
 - Automatisierung von PowerPoint-Vorlagen
 - Unternehmens-Markenarbeitsabläufe
 - Dokument-zu-Folien-Pipelines
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

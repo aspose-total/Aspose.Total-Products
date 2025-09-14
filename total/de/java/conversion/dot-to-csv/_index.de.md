@@ -61,24 +61,26 @@ Nach der Konvertierung von DOT in CSV können Sie mit [Aspose.Cells for Java](ht
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOT** in **CSV (durch Kommas getrennte Werte)** ist entscheidend, um Word-Vorlagen in leichtgewichtige, strukturierte Datensätze zu transformieren, die einfach zu verarbeiten, zu teilen und auf verschiedenen Plattformen zu importieren sind.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Massendatenexporte
 - Datenbankimporte
 - Tabellenkalkulationsfertige Strukturen
 - Leichtgewichtiges Datenaustauschen
 - Cloud-basierte Integrationen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOT-zu-CSV-Datenpipelines
 - Vorlagengetriebene Datensatzerzeugung
 - CSV-Automatisierung in Workflows
 - Unternehmensberichtssysteme
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

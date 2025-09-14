@@ -42,21 +42,23 @@ Während Sie Ihr Eingabedokument im WORDML-Dateiformat speichern, können Sie Ih
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM in WORDML (WordprocessingML) umwandeln ermöglicht es, Vektorgrafiken direkt in XML-basierte Word-Dokumente einzubetten, was dynamische Veröffentlichungen und datengesteuerte Dokumentenerstellung ermöglicht.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Integration in Word-basierte Berichte** – Diagramme in automatisierte Berichte einfügen.
 - **XML-First Publishing Pipelines** – Strukturierte Inhalts-Workflows unterstützen.
 - **Austausch von Regierungsdokumenten** – Formatkonformität bei Berichterstattung im öffentlichen Sektor sicherstellen.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Java-basierte XML-Serialisierer** – CGM in WORDML für automatisierte Veröffentlichungen umwandeln.
 - **WordML-Template-Engines** – Technische Diagramme in vordefinierte Vorlagen einbetten.
 - **Dynamische Dokumentenerstellungssysteme** – Große Mengen an Markenberichten erstellen.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von **EML** in **allgemeine Bildformate** (BMP, PNG, JPEG, TIFF usw.) erfasst die vollständige visuelle Darstellung einer E-Mail als statisches Bild.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Universelle Ansicht**: Anzeigen von E-Mail-Inhalten ohne E-Mail-Client.
 - **Digitale Beweismittel**: Bewahren Sie eine genaue Kopie der E-Mail für rechtliche und Compliance-Zwecke auf.
 - **Einfaches Teilen**: Senden von E-Mails als Bilder über Messenger oder soziale Plattformen.
 - **Schulung & Dokumentation**: Einfügen vollständiger E-Mail-Visuals in Benutzerhandbücher.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Mehrfachformat-Export**: Konvertieren Sie automatisch eine EML in mehrere Bildformate.
 - **E-Mail-Erfassungssysteme**: Speichern Sie alle eingehenden E-Mails als Bild-Snapshots.
 - **Forensische Workflows**: Standardisieren Sie Bildformate für Untersuchungen.
 - **Archivierungspipelines**: Automatisieren Sie die langfristige Aufbewahrung in Bildbibliotheken.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

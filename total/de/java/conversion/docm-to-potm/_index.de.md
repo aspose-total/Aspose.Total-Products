@@ -54,12 +54,12 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in POTM konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **DOCM (Word-Makrofähige Dokumente)** in **POTM (PowerPoint-Makrofähige Vorlagen)**
 
 Die Konvertierung von **DOCM (Word-Makrofähige Dokumente)** in **POTM (PowerPoint-Makrofähige Vorlagen)** ist entscheidend für die Erstellung von **wiederverwendbaren, automatisierungsfähigen Präsentationsvorlagen**. Im Gegensatz zu statischen Konvertierungen bewahren POTM-Dateien eingebettete Makros, was es Organisationen ermöglicht, **interaktive, dynamische und skriptgesteuerte Folien** zu gestalten. Dies gewährleistet, dass wiederkehrende Aufgaben, datengesteuerte Visuals und Unternehmensstandards nahtlos in PowerPoint beibehalten werden können.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 
 - **Entwurf interaktiver Schulungsvorlagen**
   Erstellen Sie wiederverwendbare Schulungspräsentationen mit interaktiven Elementen, die von Makros unterstützt werden.
@@ -76,7 +76,8 @@ Die Konvertierung von **DOCM (Word-Makrofähige Dokumente)** in **POTM (PowerPoi
 - **Standardisierung von Unternehmensvorlagen mit integrierter Automatisierung**
   Verteilen Sie einheitliche, makrofähige Vorlagen für Konsistenz in Teams.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **DOCM-zu-POTM-Makro-erhaltende Konverter**
   Behalten Sie VBA-Makros bei der Konvertierung von Word-Dokumenten in Vorlagen bei.
@@ -92,7 +93,8 @@ Die Konvertierung von **DOCM (Word-Makrofähige Dokumente)** in **POTM (PowerPoi
 
 - **Skriptbasierte Konvertierungen für dynamische Präsentationen**
   Verwenden Sie CLI oder skriptgesteuerte Tools zur Automatisierung der Generierung von Folien-Vorlagen.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

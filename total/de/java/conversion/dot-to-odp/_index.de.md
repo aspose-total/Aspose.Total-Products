@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOT-Dokumente in ODP konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOT** in **ODP (OpenDocument Presentation)** ist entscheidend, um Open-Source-Präsentationsfolien direkt aus Word-Vorlagen zu generieren, was die Zusammenarbeit und plattformübergreifende Zugänglichkeit ermöglicht.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Präsentationen plattformübergreifend
 - Kompatibilität mit Open Source
 - Unternehmensfertige Vorlagen
 - Cloud-basierte Zusammenarbeit
 - Generierung von Bildungsinhalten
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatisierte Workflows von DOT zu ODP
 - Präsentationsbereite Abläufe
 - Automatisierung von OpenDocument-Workflows
 - Dokument-zu-Präsentationssysteme
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -47,10 +47,10 @@ Während Sie eine CGM-Datei in FODS konvertieren, können Sie Ihrem Ausgabe-FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **Computer Graphics Metafile (CGM)**-Dateien in das **FODS (Flat OpenDocument Spreadsheet)**-Format ist eine effektive Möglichkeit, grafische technische Daten in strukturierte, offene Standardtabellen umzuwandeln. In **Java-basierten Open-Source-Anwendungen** ermöglicht diese Konvertierung Ingenieuren, Forschern und Datenanalysten, Messwerte, Spezifikationen und vektorbasierte Details aus CGM-Diagrammen in bearbeitbare FODS-Tabellen zu extrahieren. Als ODF-konformes XML-Format gewährleistet FODS Kompatibilität mit Tools wie OpenOffice, was das Teilen und Zusammenarbeiten ohne proprietäre Einschränkungen erleichtert.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 - **Konvertierung von grafischen technischen Daten in Tabellen**  
   Extrahieren von Vektorgrafikdaten aus CGM-Dateien in strukturierte Zeilen und Spalten zur Analyse.
@@ -61,7 +61,8 @@ Während Sie eine CGM-Datei in FODS konvertieren, können Sie Ihrem Ausgabe-FODS
 - **Teilen über ODF-Tools**  
   Verteilen von aus CGM abgeleiteten Tabellendaten über ODF-konforme Anwendungen.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Java-Bibliotheken wie JOpenDocument**  
   Automatisieren Sie die CGM-zu-FODS-Konvertierung in Java-Workflows mithilfe von Open-Source-Tabellenverarbeitungsbibliotheken.
@@ -74,7 +75,8 @@ Während Sie eine CGM-Datei in FODS konvertieren, können Sie Ihrem Ausgabe-FODS
 
 - **Open-Source-Datenverarbeitungssysteme**  
   Verwenden Sie FODS als Teil von Java-basierten wissenschaftlichen oder technischen Plattformen für transparentes, auf Standards basierendes Datenmanagement.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

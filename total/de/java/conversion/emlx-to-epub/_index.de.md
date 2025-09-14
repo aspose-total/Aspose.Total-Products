@@ -30,22 +30,24 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von EMLX-E-Mails in **EPUB (Electronic Publication)** macht E-Mail-Inhalte tragbar, strukturiert und optimiert für E-Reader und mobile Geräte.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Umwandlung von Apple Mail-Nachrichten in tragbare eBooks.
 - Speicherung von Newslettern, Anleitungen oder Schulungs-E-Mails als digitale Publikationen.
 - Bereitstellung lesbarer Formate für Lernmaterialien oder Dokumentationen.
 - Verbesserungen der Zugänglichkeit für mobile Nutzer und E-Reader.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatisches Archivieren von Apple Mail-E-Mails in EPUB-Bibliotheken.
 - Stapelkonvertierung von Unternehmensaktualisierungen in EPUB zur Mitarbeiterverteilung.
 - E-Mail-zu-Wissensdatenbank-Transformation für langfristige Referenzen.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

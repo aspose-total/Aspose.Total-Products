@@ -54,11 +54,11 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in PPTM konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **PPTM (PowerPoint-Makrofähige Präsentationen)** ist für Organisationen wichtig, die **interaktive, makrogesteuerte Präsentationen** benötigen. PPTM-Dateien behalten die Automatisierung bei, die **dynamische Navigation, automatisierte Berichterstellung und interaktive Produktpräsentationen** ermöglicht.  
 
-## ✅ Hauptanwendungsfälle  
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}  
 
 - **Automatisierte Schulungsunterlagen entwerfen**  
   Verbessern Sie Schulungen mit interaktiven, makrofähigen Folien.  
@@ -75,7 +75,8 @@ Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **PPTM (PowerPoint-Ma
 - **Wiederholte Aufgaben in Präsentationen optimieren**  
   Verwenden Sie Makros, um Zeit in Teams zu sparen.  
 
-## ⚙️ Automatisierungsszenarien  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}  
 
 - **DOCM-zu-PPTM-Makro-erhaltende Konverter**  
   Stellen Sie sicher, dass Automatisierungsskripte nahtlos übertragen werden.  
@@ -92,7 +93,8 @@ Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **PPTM (PowerPoint-Ma
 - **Erweiterte Berichtspipelines zum Exportieren von PPTM-Dateien**  
   Liefern Sie automatisierte Berichtspräsentationen.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

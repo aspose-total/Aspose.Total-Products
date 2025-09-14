@@ -59,21 +59,23 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM zu PPT-Konvertierung ist entscheidend für die Erstellung vollständig bearbeitbarer PowerPoint-Präsentationen mit hochwertigen Vektordiagrammen. Dies ermöglicht es Projektmanagern, Ingenieuren und Vermarktern, überzeugende visuelle Kommunikationen zu erstellen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Boardroom-Engineering-Updates** – Präzise technische Diagramme für strategische Überprüfungen einbeziehen.
 - **Illustrierte technische Kurzdarstellungen** – Textdaten mit technischen Grafiken kombinieren.
 - **Projektpräsentationen mit Diagrammen** – Komplexe Informationen effektiv kommunizieren.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Java PPT-Bibliotheken** – Automatisieren Sie die Erstellung bearbeitbarer PowerPoint-Dateien aus CGM-Diagrammen.
 - **Projektberichts-Dashboards** – Integration der Präsentationserstellung in Statusaktualisierungs-Workflows.
 - **CGM zu Slide-Exporteuren** – Chargen von Diagrammen in PPT-Dateien für Folien umwandeln.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

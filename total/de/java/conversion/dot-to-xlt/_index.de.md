@@ -61,24 +61,26 @@ Nach der Konvertierung von DOT in XLT können Sie mit [Aspose.Cells for Java](ht
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOT** in **XLT (Excel-Vorlage)** ermöglicht die Erstellung von wiederverwendbaren Tabellenvorlagen aus Word-Dokumenten, um Workflows in Abteilungen und Teams zu standardisieren.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Abteilungsberichtsvorlagen
 - Standardisierte Rechnungsstellung
 - Unternehmensfertige Vorlagen
 - Prozessdokumentation
 - Skalierbare Berichtsformate
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatisierung von DOT-zu-XLT-Vorlagen
 - Standardisierung von Excel-Workflows
 - Dokument-zu-Vorlagen-Pipelines
 - Automatisierung von Unternehmensberichten
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOCX-Dokumente in PPTM konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCX** in **PPTM (Makrofähige PowerPoint-Präsentation)** ermöglicht die Einbettung von Automatisierung und Makrologik direkt in Folien für fortschrittliche Workflow-Präsentationen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Interaktive Geschäftsdashboards
 - Workflow-gesteuerte Folien
 - Makrofähige Lernmodule
 - Automatisierte Berichtspräsentationen
 - Unternehmensschulungssysteme
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOCX-zu-PPTM-makrofähige Workflows
 - Unternehmensdashboard-Pipelines
 - Interaktive automatisierungsgetriebene Folienpräsentationen
 - Dokument-zu-Makro-Präsentationserstellung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

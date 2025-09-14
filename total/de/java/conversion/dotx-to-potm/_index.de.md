@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTX-Dokumente in POTM konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOTX** in **POTM (makrofähige PowerPoint-Vorlage)** ist für Organisationen, die auf Automatisierung in Präsentationen angewiesen sind, unerlässlich, um erweiterte Funktionalität und Interaktivität zu ermöglichen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Interaktives Training
 - Automatisierte Folienaktualisierungen
 - Makrofähige Berichtsvorlagen
 - Unternehmensweite Präsentationen
 - Folien zur Unternehmenskonformität
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTX-zu-POTM-Makro-Pipelines
 - Automatische Aktualisierung von Vorlagen
 - Datengesteuerte Präsentationsautomatisierung
 - Benutzerdefinierte Makro-Workflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

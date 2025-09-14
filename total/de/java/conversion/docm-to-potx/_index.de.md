@@ -54,11 +54,11 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in POTX konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **POTX (PowerPoint Open XML-Vorlagen)** ist wichtig für die Erstellung von **modernen, makrofreien Vorlagen**, die mit Office 365 und cloudbasierten Kollaborationsplattformen kompatibel sind. POTX ermöglicht es Organisationen, **einheitliche Markenlayouts zu standardisieren** und Workflows zu optimieren, während die Einhaltung makrofreier Richtlinien gewährleistet wird.  
 
-## ✅ Wichtige Anwendungsfälle  
+{{% blocks/products/pf/agp/feature-section-col title="Wichtige Anwendungsfälle" %}}  
 
 - **Erstellung standardisierter Unternehmenspräsentationsvorlagen**  
   Erstellen Sie wiederverwendbare Präsentationsvorlagen für einheitliches Branding.  
@@ -75,7 +75,8 @@ Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **POTX (PowerPoint Op
 - **Teilen von Vorlagen über Office 365 und Google Slides**  
   Stellen Sie eine nahtlose plattformübergreifende Zusammenarbeit sicher.  
 
-## ⚙️ Automatisierungsszenarien  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}  
 
 - **DOCM-zu-POTX-Konverter für Unternehmens-Teams**  
   Standardisieren Sie die Vorlagenerstellung mit automatisierten Stapelprozessen.  
@@ -92,7 +93,8 @@ Konvertieren von **DOCM (Word-Makrofähige Dokumente)** in **POTX (PowerPoint Op
 - **Governance-Systeme zur Durchsetzung der makrofreien Konformität**  
   Stellen Sie sicher, dass nur saubere, makrofreie POTX-Dateien verteilt werden.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

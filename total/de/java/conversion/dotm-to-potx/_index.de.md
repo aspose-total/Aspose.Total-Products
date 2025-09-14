@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTM-Dokumente in POTX konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Transformieren von **DOTM** in **POTX (PowerPoint Template Open XML)** ist entscheidend für die Erstellung von wiederverwendbaren, modernen XML-basierten Vorlagen aus makrofähigen Word-Dateien, ideal für cloudfähige und skalierbare Präsentationen.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Unternehmensvorlagen für das Branding  
 - Skalierbare Schulungspräsentationen  
 - Unternehmensberichtsfolien  
 - Wiederverwendbare Präsentationsformate  
 - Cloudfähige Workflows  
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTM-zu-POTX-Vorlagenpipelines  
 - XML-gesteuerte Präsentationserstellung  
 - Cloudbasierte Automatisierung für PowerPoint-Präsentationen  
 - Workflow-Integration mit Office 365
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

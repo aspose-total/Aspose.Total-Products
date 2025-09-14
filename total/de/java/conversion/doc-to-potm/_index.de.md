@@ -54,22 +54,24 @@ Mit der API können Sie auch passwortgeschützte DOC-Dokumente in POTM konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **POTM (PowerPoint-Makrofähige Vorlage)** ist wertvoll, um automatisierte Folienverhaltensweisen und Makrofunktionen in Präsentationen zu ermöglichen, die aus Word-Dokumenten abgeleitet sind. Dieses Format unterstützt fortgeschrittene Interaktivität und die Automatisierung wiederkehrender Aufgaben in Folienstapeln.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Interaktive Unternehmensfolienerstellung mit eingebetteten Makros
 - Automatisierung wiederholter Präsentationsformatierungen
 - Einbetten von VBA-Makros für dynamische Folienmanipulation
 - Generierung datengesteuerter Präsentationen mit automatisierten Skripten
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOC-zu-POTM-Makroeinspritzungs-Workflows für Unternehmensvorlagen
 - Skriptbasierte Folienentwicklung mit automatisierter Formatierung
 - Unternehmensweite Folienautomatisierungssysteme für die großangelegte Inhalteerstellung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

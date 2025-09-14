@@ -30,12 +30,12 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von E-Mails in das **Bitmap (BMP)**-Format gewährleistet die Kompatibilität mit älteren Systemen und Rohbildverarbeitungs-Workflows. Mit der Java Email API können E-Mail-Nachrichten für Archivierung, forensische Untersuchungen und Legacy-Integrationen in BMP exportiert werden.
 
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 - **Legacy-Systeme**: Speichern von E-Mail-Bildern in BMP zur Kompatibilität mit älterer Software.
 - **Forensische Beweise**: Bewahren Sie E-Mail-Layouts als unkomprimierte Bitmaps für Untersuchungen.
@@ -44,7 +44,8 @@ Konvertieren von E-Mails in das **Bitmap (BMP)**-Format gewährleistet die Kompa
 - **Offline-Anzeige**: Speichern von E-Mails als BMP für Systeme ohne erweiterte Rendering-Tools.
 
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Archivierungspipelines**: Konvertieren von E-Mails in BMP für unveränderliche Aufzeichnungen.
 - **Massenexport**: Massenkonvertierung von E-Mail-Kommunikation in BMP für die Beweisspeicherung.
@@ -52,7 +53,8 @@ Konvertieren von E-Mails in das **Bitmap (BMP)**-Format gewährleistet die Kompa
 - **Compliance-Workflows**: Speichern von offizieller Korrespondenz als BMP-Bilder.
 - **Schulungsautomatisierung**: Generieren von BMP-Bildern aus Phishing-E-Mails für Aufklärungsprogramme.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

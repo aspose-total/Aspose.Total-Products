@@ -47,25 +47,27 @@ Während Sie eine CGM-Datei in CSV konvertieren, können Sie Ihrem Ausgabe-CSV-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 ## Konvertierung von CGM (Computer Graphics Metafile)-Dateien in CSV (Durch Kommas getrennte Werte) in Java-basierten Umgebungen
 
 Das Konvertieren von CGM (Computer Graphics Metafile)-Dateien in CSV (Durch Kommas getrennte Werte) in Java-basierten Umgebungen ermöglicht es Ingenieur-, Fertigungs- und Datenanalyseteams, grafische Vektordaten in strukturierte tabellarische Formate umzuwandeln. Dies ermöglicht eine einfache Attributextraktion, Metadatenanalyse und Integration mit Java-gesteuerten Analysepipelines. Durch die Verwendung von Java CSV-Bibliotheken wie **OpenCSV** können CGM-zu-CSV-Workflows die großangelegte Verarbeitung automatisieren und gleichzeitig die Kompatibilität mit BI-Tools und Berichtsplattformen sicherstellen.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Extrahieren von Attributen aus CGM-Diagrammen für die Qualitätskontrolldokumentation.
 - Konvertieren von CGM-Metadaten in CSV-Tabellen für statistische Analysen.
 - Parsen strukturierter Ingenieurdaten für Berichterstellung und Dashboards.
 - Ermöglichen der Kompatibilität mit Excel, Google Sheets und BI-Plattformen.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Stapelkonvertierung von CGM-Dateien in CSV.
 - Geplante CGM-zu-CSV-Pipelines in Java-basierten Fertigungssystemen.
 - Integration mit Java-gesteuerten BI-Dashboards für Echtzeitaktualisierungen.
 - Automatische CSV-Erstellung für Archivierung und regulatorische Compliance.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

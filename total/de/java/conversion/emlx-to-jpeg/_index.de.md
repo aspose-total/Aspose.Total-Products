@@ -30,11 +30,11 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von **EMLX (Apple Mail E-Mail-Dateien)** in **JPEG (Joint Photographic Experts Group)** erleichtert das Teilen, Speichern und Anzeigen von E-Mail-Inhalten mit einem ausgewogenen Verhältnis zwischen Qualität und Dateigröße.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 - **E-Mail-Archivierung** → Speichern von Nachrichten als JPEGs für schnellen Zugriff.
 - **Kompakte Speicherung** → Konvertieren sperriger E-Mails in kleinere, komprimierte Bilder.
@@ -42,7 +42,8 @@ Konvertierung von **EMLX (Apple Mail E-Mail-Dateien)** in **JPEG (Joint Photogra
 - **Berichte & Dokumentation** → E-Mails in offizielle Berichte und Dokumente einfügen.
 - **Webnutzung** → Veröffentlichen von E-Mail-Visuals auf Websites oder Intranets.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Batch-EMLX-zu-JPEG-Pipelines** → Verarbeiten mehrerer E-Mails in komprimierte Bildformate.
 - **Compliance-Archive** → Konvertieren sensibler Kommunikation in JPEG für sichere Speicherung.
@@ -50,7 +51,8 @@ Konvertierung von **EMLX (Apple Mail E-Mail-Dateien)** in **JPEG (Joint Photogra
 - **Multi-Geräte-Verteilung** → Bereitstellen von E-Mails als JPEG für Kompatibilität auf verschiedenen Geräten.
 - **E-Mail-Visualisierung** → Verwenden von JPEGs für leichte Aufzeichnungen und Dashboards.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

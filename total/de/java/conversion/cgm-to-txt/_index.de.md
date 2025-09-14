@@ -47,13 +47,13 @@ Während Sie eine CGM-Datei in TXT konvertieren, können Sie Ihrem Ausgabe-TXT-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **Computer Graphics Metafile (CGM)**-Dateien in das **TXT (Plain Text)**-Format ist wertvoll, um Vektorgrafikinformationen in einer leichten, menschenlesbaren Form zu extrahieren, zu dokumentieren und zu verarbeiten. In **Java-gesteuerten Datenverarbeitungspipelines** ermöglicht diese Konvertierung die Umwandlung von CGM-Diagrammen in textbasierte Darstellungen für Logging, Metadatenspeicherung oder nachgelagerte Analysen. Durch das Erfassen der beschreibenden Elemente von CGM-Dateien in TXT können Organisationen die Integration mit anderen Systemen vereinfachen, schnelle Suche und Indizierung ermöglichen und langfristige Kompatibilität sicherstellen.
 
 
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 - **Textbasiertes Protokollieren von Diagrammen**  
   Speichern von CGM-Diagramminformationen als Klartext für Auditierung, Debugging oder Archivierungszwecke.
@@ -65,7 +65,8 @@ Konvertieren von **Computer Graphics Metafile (CGM)**-Dateien in das **TXT (Plai
   Dokumentieren von CGM-bezogenen Ingenieurdaten in TXT-Dateien für schnelle Referenz und leichte Speicherung.
 
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Java I/O-Bibliotheken für Konvertierung**  
   Verwenden von Standard-Java-Dateiverarbeitungs-APIs zusammen mit CGM-Parsern, um Inhalte in TXT-Dateien zu extrahieren und zu schreiben.
@@ -79,7 +80,8 @@ Konvertieren von **Computer Graphics Metafile (CGM)**-Dateien in das **TXT (Plai
 - **Plain Text-Exporteure in ETL-Pipelines**  
   Integrieren von CGM-Parsing und TXT-Export in Java-basierte Extract-Transform-Load-Workflows für strukturierte Datenverarbeitung.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

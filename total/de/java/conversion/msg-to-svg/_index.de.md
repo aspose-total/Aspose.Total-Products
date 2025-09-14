@@ -30,23 +30,25 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **MSG zu SVG (Skalierbare Vektorgrafiken)** stellt sicher, dass E-Mails als auflösungsunabhängige Grafiken für Web- und digitale Plattformen dargestellt werden.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Umwandlung von E-Mail-Signaturen in weboptimierte Grafiken
 * Archivierung von E-Mail-Layouts als SVG zur Wiederverwendung
 * Veröffentlichung von E-Mail-Visuals auf Websites und in digitalen Berichten
 * Erstellung skalierbarer Infografiken aus E-Mail-Daten
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * MSG-zu-SVG-Pipelines für die digitale Veröffentlichung
 * Automatisierter Export von Marketing-E-Mails in Webgrafiken
 * Stapelverarbeitung von E-Mails zu SVG für die Archivierung
 * Integration mit Design- und CMS-Plattformen
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

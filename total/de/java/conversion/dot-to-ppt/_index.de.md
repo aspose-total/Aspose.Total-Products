@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOT-Dokumente in PPT konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOT** in **PPT (PowerPoint-Präsentation)** generiert bearbeitbare Präsentationsdateien aus Word-Vorlagen, die Legacy-Systeme und Standardpräsentations-Workflows unterstützen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Geschäftsberichte
 - Akademische Projekte
 - Verkaufspräsentationen
 - Unternehmensinterne Schulungsfolien
 - Vorschlagsgenerierung
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOT-zu-PPT-Konvertierung
 - Automatisierung von bearbeitbaren Präsentationen
 - Unternehmensfertige Dokument-zu-Folie-Workflows
 - Dokument-zu-Präsentation-Pipelines
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

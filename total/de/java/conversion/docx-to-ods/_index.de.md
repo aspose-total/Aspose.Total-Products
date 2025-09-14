@@ -61,23 +61,25 @@ Nach der Konvertierung von DOCX in ODS können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertierung von **DOCX** in **ODS (OpenDocument Spreadsheet)** ermöglicht die Verarbeitung von Tabellenkalkulationen gemäß offenen Standards und gewährleistet langfristige Kompatibilität, Interoperabilität und Konformität für geschäftliche, Regierungs- und akademische Anwendungsfälle.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Extrahieren von DOCX-Tabellen in **ODS**
 - Interoperabilität mit **Apache OpenOffice**
 - Regierungskonforme **Berichtsformate**
 - Akademischer **Datenaustausch und Zusammenarbeit**
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **DOCX-zu-ODS-Berichtspipelines**
 - **Open-Source-ETL-Workflows**
 - **Automatisierte ODS-Datensatzerstellung**
 - **Massenmigration zu Tabellenkalkulationen im offenen Standard**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

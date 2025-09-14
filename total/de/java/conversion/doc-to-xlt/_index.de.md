@@ -61,22 +61,24 @@ Nach der Konvertierung von DOC in XLT können Sie mit [Aspose.Cells for Java](ht
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOC** in **XLT (Excel-Vorlage)** ermöglicht die Erstellung von wiederverwendbaren Tabellenvorlagen aus Word-Inhalten. Es unterstützt die Standardisierung von Geschäftsprozessen, Formularen und Berichtslayouts.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Standardisierung von Unternehmensberichtsvorlagen
 - Erstellung von vorab ausgefüllten Vorlagen für wiederkehrende Workflows
 - Umwandlung von Formularen in strukturierte Tabellenvorlagen
 - Konsistenz in der berichterstattung im gesamten Bereich der Abteilung
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Tools zur Erstellung von DOC-zu-XLT-Vorlagen
 - Automatisierte Zuordnung von Dokumenten zu Vorlagen
 - Zentralisierte Workflows zur Vorlagenerstellung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

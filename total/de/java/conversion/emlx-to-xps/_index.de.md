@@ -30,20 +30,21 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Schlüsselanwendungsfälle</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 - Aufbewahrung von Apple Mail-E-Mails in einem druckbereiten Format.
 - Archivierung von Kommunikation für unternehmensweite Microsoft-Workflows.
 - plattformübergreifende Lesbarkeit mit Layouttreue.
 - Digitales Teilen von Apple Mail-Nachrichten in strukturierter Form.
 
-<h2>⚙️ Automatisierungsszenarien</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatisierte E-Mail-zu-XPS-Workflows zur Archivierung.
 - Stapelkonvertierung von EMLX in das Microsoft-Ökosystem.
 - Rechts- und Compliance-Aufzeichnungen mit XPS.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

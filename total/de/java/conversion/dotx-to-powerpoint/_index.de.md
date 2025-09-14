@@ -54,24 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTX-Dokumente in POWERPOINT ko
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOTX** in **PowerPoint-Formate** verwandelt strukturierte Word-Vorlagen in interaktive, visuelle Kommunikationswerkzeuge für Schulungen, Marketing und Unternehmenskommunikation.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Investorenpräsentationen
 - Verkaufspräsentationen
 - Schulungssitzungen
 - Verteidigungsslides für Forschung
 - Marketingkampagnen
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOTX-zu-PowerPoint-Automatisierung
 - Daten-zu-Folien-Workflows
 - Generierung von Unternehmenspräsentationen auf Unternehmensebene
 - Automatische Formatierungspipelines
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

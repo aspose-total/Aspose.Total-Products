@@ -57,10 +57,10 @@ Mit der API können Sie das ausgegebene DICOM-Bild auch nach Ihren Bedürfnissen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **Computer Graphics Metafile (CGM)**-Dateien in das **DICOM (Digital Imaging and Communications in Medicine)**-Format ist entscheidend, um die Kompatibilität mit modernen medizinischen Bildgebungssystemen sicherzustellen. In **Java-basierten medizinischen Bildgebungssystemen** ermöglicht diese Konvertierung eine nahtlose Integration in die Dateninfrastruktur von Krankenhäusern, unterstützt den standardisierten Bildaustausch und verbessert die diagnostischen Visualisierungsmöglichkeiten. Durch die Umwandlung von CGM-Zeichnungen oder Diagrammen in DICOM können Gesundheitsorganisationen verschiedene Bildformate vereinheitlichen und sie über **PACS**, **Radiologie-Viewer** und KI-gesteuerte diagnostische Tools zugänglich machen.
 
-## ✅ Schlüsselanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Schlüsselanwendungsfälle" %}}
 
 - **Java-integrierte Radiologie-Viewer**  
   Zeigen Sie CGM-basierte medizinische Illustrationen direkt in Java-basierten DICOM-Viewern an, um die diagnostische Interpretation zu verbessern.
@@ -74,7 +74,8 @@ Mit der API können Sie das ausgegebene DICOM-Bild auch nach Ihren Bedürfnissen
 - **Diagnostische Visualisierung**  
   Verbessern Sie klinische Workflows, indem Sie konvertierte CGM-Daten in multimodale Bildstudien einbetten.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 - **Java-APIs für die DICOM-Verarbeitung**  
   Automatisieren Sie CGM-zu-DICOM-Konvertierungspipelines mithilfe von Java-Bibliotheken für die Bildverarbeitung und das Management von DICOM-Metadaten.
@@ -87,7 +88,8 @@ Mit der API können Sie das ausgegebene DICOM-Bild auch nach Ihren Bedürfnissen
 
 - **KI-gestützte diagnostische Workflows**  
   Verwenden Sie Java-integrierte KI-Modelle zur Analyse von konvertierten DICOM-Bildern für die Mustererkennung, Anomaliedetektion und prädiktive Diagnostik.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

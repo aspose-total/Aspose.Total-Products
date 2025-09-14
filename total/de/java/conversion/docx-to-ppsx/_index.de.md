@@ -54,22 +54,24 @@ Mit der API können Sie auch passwortgeschützte DOCX-Dokumente in PPSX konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Konvertierung von **DOCX** in **PPSX** ist entscheidend für das Teilen von professionell formatierten, nicht editierbaren Diashow-Präsentationen aus Originaldokumenten.
 
-#### ✅ Wichtige Anwendungsfälle
+##{{% blocks/products/pf/agp/feature-section-col title="Wichtige Anwendungsfälle" %}}
 - Investorenpräsentationen
 - Schulungsverteilung
 - Bildungsdiashows
 - Marketingkampagnen
 - Selbstablaufende Eventpräsentationen
 
-#### ⚙️ Automatisierungsszenarien
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatisierte Erstellung von DOCX-zu-PPSX-Shows
 - Veröffentlichungspipelines von Dokument zu Diashow
 - Unternehmensfertige Schulungspakete
 - Konferenzfertige Präsentationsautomatisierung
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

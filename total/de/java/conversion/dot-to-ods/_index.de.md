@@ -61,24 +61,26 @@ Nach der Konvertierung von DOT in ODS können Sie mit [Aspose.Cells for Java](ht
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOT** in **ODS (OpenDocument Spreadsheet)** ist entscheidend für die Erstellung strukturierter, Open-Source-Tabellenkalkulationen aus Word-Vorlagen, die Analysen, Berichterstattung und Zusammenarbeit unterstützen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Open-Source-Geschäftsabläufe
 - Berichterstattung in Tabellenform
 - Datenzusammenarbeit
 - Unternehmensanalytik
 - plattformübergreifende Kompatibilität
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - Automatisierung von DOT-zu-ODS-Vorlagen
 - Open-Source-Berichterstattungs-Workflows
 - ODS-basierte Datenpipelines
 - Cloud-native Dokument-zu-Tabellenkalkulation-Konvertierungen
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

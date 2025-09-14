@@ -61,24 +61,26 @@ Nach der Konvertierung von DOCX in CSV können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOCX** in **CSV (durch Kommas getrennte Werte)** ist entscheidend, um unstrukturierte Tabellen aus Dokumenten in strukturierte, für Analysen bereite Datensätze zu transformieren. CSV ermöglicht eine nahtlose Integration mit Datenbanken, BI-Tools und Berichtspipelines und macht Dokumentendaten in modernen Workflows handlungsfähig.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Extrahieren von Tabellen aus DOCX in **CSV**  
 - Vorbereiten von Datensätzen für **Business Intelligence (BI)-Tools**  
 - Importieren von strukturiertem Text in **SQL-Datenbanken**  
 - Ermöglichen von **Massenuploads im E-Commerce**  
 - Durchführen von Aufgaben zur **Datenmigration**  
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Massenhafte Extraktion von DOCX in CSV-Tabellen**  
 - **Automatisierte Datensatzvorbereitung**  
 - **CSV-Pipelines für Berichte**  
 - Integration in **ETL-Workflows**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

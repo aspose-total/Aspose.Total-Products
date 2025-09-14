@@ -61,24 +61,26 @@ Nach der Konvertierung von DOCX in EXCEL können Sie mit [Aspose.Cells for Java]
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOCX** in **Excel (XLS/XLSX)** ist wichtig für strukturierte Berichterstattung, ermöglicht Pivot-Tabellen, fortgeschrittene Berechnungen und nahtlose Integration in Geschäftsabläufe. Diese Transformation verwandelt Word-Tabellen in handlungsfähige Tabellendaten.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Export von DOCX-Tabellen in **Excel**
 - Aktivierung von **Pivot-Tabellen & Diagrammen**
 - Erstellung von **strukturierten Berichten**
 - Datenkonsolidierung für **Unternehmensanwendungen**
 - Importfertige Formate für **Buchhaltungs- und Finanztools**
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Automatisierung der Stapelverarbeitung von DOCX zu Excel-Berichten**
 - **Unternehmensberichtspipelines**
 - **Automatische Dashboard-Erstellung**
 - **Abteilungsübergreifende Datenintegration**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

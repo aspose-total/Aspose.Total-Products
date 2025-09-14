@@ -54,9 +54,9 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in PPSX konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ Wichtige Anwendungsfälle  
+{{% blocks/products/pf/agp/feature-section-col title="Wichtige Anwendungsfälle" %}}  
 
 - **Erstellung von Event-fertigen Diashows**  
   Erstellen Sie polierte, sofort abspielbare Präsentationen.  
@@ -74,7 +74,8 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in PPSX konverti
   Standardisieren Sie Diashows für Schulungen und Unternehmensaktualisierungen.  
 
 
-## ⚙️ Automatisierungsszenarien  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}  
 
 - **DOCM-zu-PPSX-Konverter zur Gewährleistung der makrofreien Konformität**  
   Beseitigen Sie Makro-Risiken beim Generieren von Folien.  
@@ -91,7 +92,8 @@ Mit der API können Sie auch passwortgeschützte DOCM-Dokumente in PPSX konverti
 - **Unternehmenszusammenarbeitstools zur Verteilung von PPSX-Inhalten**  
   Stellen Sie sicher, dass Diashows sicher über Teams geteilt werden.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

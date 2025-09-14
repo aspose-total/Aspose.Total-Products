@@ -61,25 +61,27 @@ Nach der Konvertierung von DOCM in XLT können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Konvertieren von **DOCM** in **XLT (Excel-Vorlage, veraltet)** ermöglicht es Organisationen, wiederverwendbare Tabellenvorlagen zu erstellen, die mit älteren Excel-Versionen kompatibel sind. Dies erhält dokumentgesteuerte Layouts und unterstützt Legacy-Berichterstellung, Formulare und Archiv-Workflows.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - Entwurf von **standardisierten Finanzvorlagen**
 - Vorbereitung von wiederverwendbaren **Formularen für ältere Excel-Versionen**
 - Migration von **Word-Formularen** in Tabellenvorlagen
 - Unterstützung von Organisationen, die immer noch **Excel 97–2003** verwenden
 - Erstellung von **Archivvorlagen** im XLT-Format
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Automatisierte Konverter von DOCM zu XLT**
 - Unternehmens-Workflows zur Pflege von **veralteten Vorlagensammlungen**
 - **Batch-Pipelines** zur Generierung von Finanz-XLTs aus Word
 - **Archivsysteme**, die XLT-Kompatibilität erfordern
 - Vorlagenverteilungs-Workflows für **Legacy-Excel-Benutzer**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,25 +30,27 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **EML in DOT** ermöglicht es, E-Mails in wiederverwendbare Word-Vorlagen umzuwandeln, die nützlich sind, um strukturierte Dokumentenformate auf der Grundlage von E-Mail-Inhalten zu erstellen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 
 * Erstellung von Standardvorlagen aus der Kommunikation mit Kunden
 * Umwandlung wiederkehrender E-Mails in vordefinierte Dokumentenlayouts
 * Verwendung von E-Mail-Inhalten als Grundlage für Markenberichte
 * Erstellung von rechtlichen oder unternehmensspezifischen Vorlagen aus E-Mail-Texten
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 
 * Automatische Generierung von Dokumentenvorlagen aus eingehenden Kundenanfragen
 * Vorlagenbasierte Berichtssysteme
 * Standardisierte Projekt-Kommunikationsformate
 * E-Mail-zu-Vorlagen-Pipelines für Unternehmens-Workflows
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

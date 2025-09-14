@@ -59,21 +59,23 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM in PowerPoint umwandeln ermöglicht die direkte Einbettung von vektorbasierten technischen Diagrammen in voll funktionsfähige Präsentationen. Dies ist entscheidend für Geschäftsaktualisierungen, Projektberichte und technische Demonstrationen, um Klarheit und Genauigkeit in der visuellen Kommunikation sicherzustellen.
 
-## ✅ Hauptanwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
 - **Visuelle Berichte für Stakeholder** – Präzise technische Visuals zur Entscheidungsfindung einbeziehen.
 - **Präsentationen mit technischen Diagrammen** – CGM-Dateien nahtlos in Folien integrieren.
 - **Marketinginhalte mit technischen Visuals** – Markenbildung mit technischen Grafiken kombinieren.
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - **Java PowerPoint APIs** – Automatisieren Sie die Folien-Erstellung aus CGM-Diagrammen mit Apache POI.
 - **Erstellung von Unternehmensfolien** – Präsentationen für wiederkehrende Berichte stapelweise generieren.
 - **Automatisierte CGM-zu-Folien-Konvertierungs-Workflows** – In Unternehmens-Content-Management-Systeme integrieren.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

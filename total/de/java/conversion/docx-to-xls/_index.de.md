@@ -61,24 +61,26 @@ Nach der Konvertierung von DOCX in XLS können Sie mit [Aspose.Cells for Java](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Die Umwandlung von **DOCX** in **XLS (Excel Binary File Format)** ist entscheidend, um tabellarische Daten aus Dokumenten in bearbeitbare Tabellenkalkulationen zu transformieren, was eine effiziente Datenverwaltung und -analyse innerhalb von Legacy-Excel-Systemen ermöglicht.
 
-## ✅ Wichtige Anwendungsfälle
+{{% blocks/products/pf/agp/feature-section-col title="Wichtige Anwendungsfälle" %}}
 - Verwaltung strukturierter Daten
 - Berichte in Excel importieren
 - Finanzanalyse
 - Erstellung bearbeitbarer Tabellenkalkulationen aus Dokumenten
 - Datengetriebene Workflows
 
-## ⚙️ Automatisierungsszenarien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
 - DOCX-zu-XLS-Konvertierungspipelines
 - Digitalisierung von Berichten
 - Unternehmensdatenverwaltung
 - Automatisierte Excel-Tabellenerstellung
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
