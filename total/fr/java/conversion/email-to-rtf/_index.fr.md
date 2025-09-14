@@ -30,12 +30,12 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting emails into **Rich Text Format (RTF)** ensures wide compatibility across text editors and office applications. With Email Java API, businesses can transform email content into editable RTF files for collaboration and documentation.
 
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Édition multiplateforme** : Ouvrez le contenu de l'e-mail dans n'importe quel éditeur compatible RTF.
 - **Légal et Conformité** : Stockez les e-mails dans un format standardisé mais modifiable.
@@ -44,7 +44,8 @@ Converting emails into **Rich Text Format (RTF)** ensures wide compatibility acr
 - **Archivage** : Conservez la communication dans un format léger et largement pris en charge.
 
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Exportations en lot** : Convertissez des boîtes aux lettres en RTF pour des référentiels partagés.
 - **Outils de collaboration** : Synchronisez les e-mails RTF avec les systèmes d'équipe pour l'édition.
@@ -52,7 +53,8 @@ Converting emails into **Rich Text Format (RTF)** ensures wide compatibility acr
 - **Accès ouvert** : Enregistrez les e-mails éducatifs ou de recherche en RTF pour un partage public.
 - **Migration de données** : Déplacez les communications entre plates-formes en utilisant le RTF.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

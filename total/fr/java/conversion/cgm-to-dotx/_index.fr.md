@@ -42,12 +42,12 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier DOTX, 
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les fichiers **Computer Graphics Metafile (CGM)** au format **DOTX (modèle Word basé sur XML)** est essentiel pour les organisations cherchant à normaliser la documentation technique tout en maintenant la flexibilité dans la génération de contenu. Dans les systèmes basés sur Java, les modèles DOTX permettent d'intégrer des dessins techniques CGM dans une structure XML réutilisable, permettant des mises en page cohérentes, des designs conformes à la marque et des mises à jour de contenu efficaces. Cette conversion prend en charge les flux de travail collaboratifs, les bibliothèques de documents et les processus d'automatisation dans les environnements d'entreprise et d'ingénierie.
 
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Rapports basés sur des dessins techniques modélisés**  
   Intégrez des diagrammes d'ingénierie CGM dans des modèles DOTX pour des formats de rapport structurés et répétables.
@@ -59,7 +59,8 @@ Convertissez les fichiers **Computer Graphics Metafile (CGM)** au format **DOTX 
   Stockez des modèles DOTX améliorés par CGM dans des référentiels centralisés pour une réutilisation facile entre les équipes.
 
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **API Java pour l'analyse des modèles**  
   Utilisez des bibliothèques telles que **docx4j**, **Aspose.Words pour Java** ou **Apache POI** pour lire, modifier et peupler les modèles DOTX de manière programmatique.
@@ -73,7 +74,8 @@ Convertissez les fichiers **Computer Graphics Metafile (CGM)** au format **DOTX 
 - **Automatisation du contenu d'entreprise**  
   Intégrez la conversion CGM en DOTX dans les systèmes de gestion de contenu alimentés par Java pour une documentation évolutive et conforme aux normes.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

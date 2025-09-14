@@ -61,24 +61,26 @@ Après avoir converti DOTM en XLSB, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTM** en **XLSB** permet de gérer des ensembles de données à grande échelle, d'améliorer les performances d'Excel et de stocker des données activées par macro au format binaire pour un traitement plus rapide.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Reporting de Big Data
 - Ensembles de données à l'échelle de l'entreprise
 - Modélisation financière haute performance
 - Flux de travail Excel basés sur le cloud
 - Stockage Excel macro en binaire
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines ETL de DOTM à XLSB
 - Conversion automatisée en masse d'ensembles de données
 - Reporting d'entreprise à grande échelle
 - Flux de travail de feuille de calcul macro en binaire
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

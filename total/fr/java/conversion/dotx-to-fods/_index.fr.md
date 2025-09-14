@@ -61,25 +61,27 @@ Après avoir converti DOTX en FODS, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **DOTX** en **FODS (Feuille de calcul ODF XML plat)** pour une compatibilité open source avec LibreOffice/Apache OpenOffice tout en fournissant des feuilles de calcul structurées basées sur XML pour une utilisation gouvernementale et d'entreprise.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - Flux de travail LibreOffice/Apache OpenOffice
 - Automatisation basée sur XML
 - Projets de données ouvertes
 - Conformité gouvernementale
 - Compatibilité multiplateforme
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX-to-FODS
 - Exportation en masse de FODS
 - Automatisation de feuilles de calcul open source
 - Flux de travail XML dans le cloud
 - Automatisation de la transformation des données
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

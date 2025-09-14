@@ -30,12 +30,12 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les e-mails en **texte brut (.txt)** garantit que le contenu essentiel des messages est extrait sous sa forme la plus simple et la plus portable. Ce format élimine les mises en forme inutiles, rendant les données légères, consultables et hautement compatibles sur toutes les plateformes.  
 
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 - **Archivage & Conformité** : Stockez les e-mails sous forme de texte pour un archivage léger et à long terme.  
 - **E-Discovery & Juridique** : Extrayez uniquement le texte brut pour des enquêtes ou un support juridique.  
 - **Exploration de données & Analyse** : Préparez le texte d'e-mail non structuré pour le TALN, l'IA ou l'indexation de recherche.  
@@ -43,14 +43,16 @@ Convertir les e-mails en **texte brut (.txt)** garantit que le contenu essentiel
 - **Accès hors ligne** : Lire des e-mails sur des appareils ou des applications qui ne prennent pas en charge les mises en forme riches.  
 
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 - **Exportation par lots** : Convertissez des milliers d'e-mails en `.txt` pour le stockage ou les pipelines d'analyse.  
 - **Extraction de contenu** : Automatisez les flux de travail pour supprimer les métadonnées, le HTML et les signatures, ne conservant que le texte propre.  
 - **Indexation des moteurs de recherche** : Créez des sorties `.txt` automatisées pour construire des archives consultables.  
 - **Pipelines d'analyse d'e-mails** : Utilisez la sortie `.txt` comme format intermédiaire pour l'extraction de données structurées.  
 - **Automatisation de la conformité** : Générez automatiquement des journaux en texte brut à partir des e-mails entrants et sortants.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -47,23 +47,25 @@ Lors de la conversion du fichier CGM en XLSM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir des fichiers CGM au format **XLSM (Classeur Excel activé par macro)** dans les systèmes basés sur Java permet aux organisations d'automatiser les calculs d'ingénierie, les rapports et les flux de travail de visualisation. Avec XLSM, les macros peuvent traiter dynamiquement les données dérivées de CGM, effectuer des calculs complexes et mettre à jour des graphiques ou des diagrammes sans intervention manuelle. Cela permet de générer des rapports plus intelligents et auto-actualisés pour des cas d'utilisation techniques et opérationnels.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Génération automatisée de rapports d'ingénierie avec des macros intégrées.
 - Flux de travail de calcul dynamique pour des données de fabrication ou de conception.
 - Intégration de diagrammes CGM dans des modèles Excel avec une logique de macro.
 - Processus de contrôle qualité rationalisé via une analyse activée par macro.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Moteurs d'automatisation Excel Java avec prise en charge de l'exécution de macros.
 - Génération de feuilles de calcul activées par macro via des API Java.
 - Création planifiée de fichiers XLSM à partir de jeux de données CGM dans des systèmes d'entreprise.
 - Déclencheurs de macro automatisés pour des tableaux de bord d'ingénierie en temps réel.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

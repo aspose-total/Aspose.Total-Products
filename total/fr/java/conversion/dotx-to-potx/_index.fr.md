@@ -54,24 +54,26 @@ L'API vous permet également de convertir des Documents DOTX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTX** en **POTX (modèle PowerPoint Open XML)** garantit des modèles compatibles avec le cloud, réutilisables, portables, modernes et alignés sur les systèmes de conception d'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Présentations commerciales
 - Cours académiques
 - Intégration d'entreprise
 - Présentations marketing
 - Présentations de marque standardisées
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX vers POTX
 - Automatisation de présentations basée sur le cloud
 - Bibliothèques de modèles
 - Normalisation des diapositives d'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

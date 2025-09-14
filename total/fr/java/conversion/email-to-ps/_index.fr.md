@@ -30,11 +30,11 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les e-mails en **PostScript (PS)** pour obtenir un format de description de page largement utilisé dans les industries de l'édition et de l'impression. Avec l'API Java Email, les e-mails peuvent être exportés en PS pour des flux de travail d'impression et de publication de haute qualité.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Publication** : Préparez des bulletins d'information par e-mail pour des flux de travail d'impression professionnels.
 - **Archivage** : Stockez des enregistrements d'e-mails en PS pour une compatibilité avec les archives d'impression.
@@ -42,7 +42,8 @@ Convertissez les e-mails en **PostScript (PS)** pour obtenir un format de descri
 - **Documents gouvernementaux** : Assurez-vous que les communications par e-mail peuvent être soumises dans des formats prêts pour l'impression.
 - **Établissements éducatifs** : Imprimez des annonces académiques stockées en PS.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Pipelines d'impression** : Automatisez la conversion d'e-mails en PS pour les systèmes d'édition internes.
 - **Impression par lots** : Convertissez des archives d'e-mails en vrac en PS pour une impression distribuée.
@@ -50,7 +51,8 @@ Convertissez les e-mails en **PostScript (PS)** pour obtenir un format de descri
 - **Flux de travail de publication** : Réutilisez des campagnes par e-mail pour obtenir du PostScript prêt pour l'impression.
 - **Archivage d'entreprise** : Stockez les communications au format PS pour les secteurs réglementés.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

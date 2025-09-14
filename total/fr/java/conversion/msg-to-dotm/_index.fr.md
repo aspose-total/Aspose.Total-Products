@@ -30,25 +30,27 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **MSG en DOTM** permet de créer des modèles Word avec macros à partir d'e-mails pour des flux de travail automatisés.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 * Générer des modèles dynamiques à partir de schémas d'e-mails récurrents
 * Automatiser les rapports RH et financiers
 * Activer des modèles intelligents avec des macros intégrées
 * Construire des communications d'entreprise basées sur des flux de travail
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 * Pipelines MSG-to-DOTM automatisés
 * Création de modèles RH/Finance avec macros
 * Modèles juridiques dynamiques à partir de correspondances par e-mail
 * Génération de documents avec des flux de travail intégrés
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

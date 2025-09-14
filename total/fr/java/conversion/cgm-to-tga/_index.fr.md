@@ -57,21 +57,23 @@ L'API vous permet également d'exporter le fichier CGM vers TGA dans un seul fic
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM en TGA (format Targa) conversion transforme les graphiques vectoriels en images matricielles de haute qualité, idéales pour la cartographie de texture, les effets visuels et les pipelines de développement de jeux.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - **Rasterisation des graphiques vectoriels** – Préparez des diagrammes CGM pour des flux de travail basés sur des images matricielles.
 - **Génération de textures pour moteurs de jeu** – Créez des ressources prêtes pour les environnements 3D.
 - **Conception de contenu de qualité de diffusion** – Utilisez TGA pour la production vidéo et médiatique professionnelle.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Cadres graphiques Java** – Rendre les CGM en TGA avec précision.
 - **Générateurs d'images matricielles par lots** – Automatisez la conversion pour de grandes bibliothèques de ressources.
 - **Pipelines de conversion de vecteur en texture** – Intégrez-les dans les flux de travail de conception pour un rendu en temps réel.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

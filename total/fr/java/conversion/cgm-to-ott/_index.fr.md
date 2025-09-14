@@ -42,12 +42,12 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier OTT, v
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les fichiers **Computer Graphics Metafile (CGM)** au format **OTT (modèle de texte OpenDocument)** est essentiel pour les organisations utilisant des environnements open source et compatibles avec ODF. Sur les plateformes basées sur **Java**, cette conversion permet d'intégrer des diagrammes CGM et des visuels techniques dans des modèles réutilisables compatibles avec LibreOffice et d'autres éditeurs OpenDocument. Les modèles OTT garantissent une cohérence de conception, facilitent l'édition collaborative et rationalisent la génération de rapports normalisés au sein d'équipes distribuées tout en maintenant des normes ouvertes pour l'interopérabilité.
 
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Génération de rapports conforme à l'ODF**  
   Créez des rapports basés sur des normes où les visuels CGM s'intègrent parfaitement avec le contenu structuré OpenDocument.
@@ -56,7 +56,8 @@ Convertissez les fichiers **Computer Graphics Metafile (CGM)** au format **OTT (
   Stockez des modèles OTT améliorés par des CGM dans des référentiels partagés pour une édition multi-utilisateurs en temps réel sur des plateformes open source.
 
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Automatisation Java via un convertisseur**  
   Utilisez les API Aspose dans les workflows Java pour convertir des fichiers CGM en modèles OTT en vue d'un déploiement automatisé.
@@ -70,7 +71,8 @@ Convertissez les fichiers **Computer Graphics Metafile (CGM)** au format **OTT (
 - **Plateformes d'entreprise open source**  
   Déployez des modèles OTT avec des diagrammes CGM intégrés dans des systèmes de gestion de contenu et d'automatisation de documents alimentés par Java.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

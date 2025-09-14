@@ -30,9 +30,9 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Cas d'utilisation clés</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Archivage des e-mails Apple Mail sous forme d'images vectorielles évolutives.
 - Préservation de la fidélité visuelle des newsletters et e-mails promotionnels.
 - Intégration des e-mails dans les rapports et la documentation Windows.
@@ -43,7 +43,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 - Pipelines automatisés pour le stockage des preuves d'e-mails juridiques/conformité.
 - Intégration des flux de travail avec des systèmes de reporting utilisant des graphiques EMF.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

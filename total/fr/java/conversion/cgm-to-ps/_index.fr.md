@@ -68,22 +68,24 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les fichiers CGM (Computer Graphics Metafile) en PS (PostScript) est une étape critique pour obtenir des résultats d'impression précis et de qualité professionnelle. Le format indépendant du périphérique de PostScript garantit que les graphiques vectoriels complexes, les diagrammes d'ingénierie et les illustrations techniques conservent leur précision et leur fidélité lorsqu'ils sont transférés vers des presses d'impression ou des systèmes de publication. Cela rend la conversion de CGM en PS indispensable pour les industries nécessitant des sorties cohérentes, évolutives et prêtes à l'impression.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Impression vectorielle de qualité industrielle** – Produire des diagrammes techniques nets et évolutifs pour la fabrication, l'ingénierie et la documentation architecturale.
 - **Archivage des illustrations techniques dans des systèmes basés sur PostScript** – Stocker des ressources vectorielles dans un format optimisé pour l'accessibilité à long terme et la compatibilité avec l'impression.
 - **Préparation des diagrammes CGM pour la composition** – Assurer une intégration transparente dans les flux de travail professionnels de mise en page et de composition.
 - **Production de documents physiques** – Générer des fichiers prêts à l'impression pour les manuels, les catalogues et les graphiques techniques grand format.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Générateurs de flux d'impression basés sur Java** – Convertir de manière programmée les fichiers CGM en sortie PS haute résolution pour les flux de travail d'impression d'entreprise.
 - **Convertisseurs par lots de vecteurs en PostScript** – Automatiser les processus de conversion à grande échelle pour gérer efficacement de vastes archives graphiques.
 - **Intégration de pipeline de publication** – Intégrer la conversion de CGM en PS dans le rendu de documents automatisé et les systèmes de publication professionnels pour des résultats cohérents et de haute qualité.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,24 +61,26 @@ Après avoir converti DOT en XLS, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOT** en **XLS (Format binaire Excel)** est essentiel pour créer des feuilles de calcul structurées et analysables directement à partir de modèles Word, garantissant une compatibilité héritée et des flux de travail hors ligne efficaces.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Reporting financier hérité
 - Tenue de dossiers d'entreprise
 - Feuilles de calcul compatibles hors ligne
 - Reporting gouvernemental/conformité
 - Extraction de données tabulaires structurées
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Migration de données de DOT à XLS
 - Automatisation en lot de modèles vers feuilles de calcul
 - Transformation de données axée sur la conformité
 - Pipelines de reporting d'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,11 +54,11 @@ L'API vous permet également de convertir des document DOCM protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **DOCM (Documents Word avec macros)** en **PPS (Diaporama PowerPoint, ancien)** est précieux pour créer des **diaporamas en lecture automatique** compatibles avec les anciennes versions de Microsoft PowerPoint. PPS garantit que le contenu peut être affiché dans des **environnements hors ligne, anciens ou restreints** sans nécessiter de capacités d'édition.  
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Préparation de présentations de diaporamas héritées**  
   Convertir des documents Word en diaporamas prêts à être lus.  
@@ -75,7 +75,8 @@ Convertissez **DOCM (Documents Word avec macros)** en **PPS (Diaporama PowerPoin
 - **Garantir la compatibilité ascendante avec les anciens systèmes PowerPoint**  
   Prendre en charge les environnements exécutant Microsoft Office 97–2003.  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Convertisseurs hérités DOCM en PPS**  
   Automatiser les exportations par lots en diaporamas en lecture automatique.  
@@ -92,7 +93,8 @@ Convertissez **DOCM (Documents Word avec macros)** en **PPS (Diaporama PowerPoin
 - **Systèmes de publication de diapositives d'entreprise pour une compatibilité héritée**  
   Distribuer des diapositives en lecture automatique sur des plates-formes plus anciennes.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

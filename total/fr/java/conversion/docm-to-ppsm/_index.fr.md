@@ -54,12 +54,12 @@ L'API vous permet également de convertir des document DOCM protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les **DOCM (Documents activés par macro Word)** en **PPSM (Diaporamas activés par macro PowerPoint)** est essentiel pour créer des diaporamas **interactifs, automatisés et dynamiques** qui conservent la fonctionnalité des macros. Le PPSM est idéal pour diffuser des présentations **autonomes, basées sur la simulation ou la mise à jour des données**.  
 
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Conception de démonstrations de produits interactives**  
   Créez des démos attrayantes alimentées par des macros.  
@@ -77,7 +77,8 @@ Convertir les **DOCM (Documents activés par macro Word)** en **PPSM (Diaporamas
   Proposez des diaporamas améliorés pour l'apprentissage en ligne.  
 
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Convertisseurs activés par macro DOCM en PPSM**  
   Conservez les scripts d'automatisation lors de la conversion à partir de Word.  
@@ -94,7 +95,8 @@ Convertir les **DOCM (Documents activés par macro Word)** en **PPSM (Diaporamas
 - **Solutions d'entreprise distribuant des diaporamas activés par macro**  
   Normalisez les présentations activées par macro pour un usage corporatif.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

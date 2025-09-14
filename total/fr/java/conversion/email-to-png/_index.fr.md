@@ -30,11 +30,11 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les e-mails en **PNG** pour obtenir des images de haute qualité et sans perte adaptées aux archives numériques, à la formation et aux flux de travail forensiques. Avec l'API Java Email, les organisations peuvent générer des instantanés d'e-mails précis au format PNG.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Archivage Haute Fidélité** : Préservez la mise en forme et les détails avec des images sans perte.
 - **Forensics** : Stockez les e-mails suspects ou de phishing dans un format inviolable.
@@ -50,7 +50,8 @@ Convertissez les e-mails en **PNG** pour obtenir des images de haute qualité et
 - **Intégration de la Documentation** : Publiez des e-mails PNG dans des guides utilisateur ou des manuels.
 - **Distribution de Contenu** : Réutilisez des newsletters en instantanés PNG pour les médias sociaux.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

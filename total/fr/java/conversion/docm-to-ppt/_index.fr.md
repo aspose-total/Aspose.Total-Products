@@ -54,13 +54,13 @@ L'API vous permet également de convertir des document DOCM protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les **DOCM (Documents Word avec macros)** en **PPT (Présentation PowerPoint 97–2003)** est crucial pour la **compatibilité avec les anciennes versions**. Le format PPT garantit que les organisations utilisant des environnements Office plus anciens peuvent toujours **utiliser, afficher et partager des présentations** créées à partir de contenus structurés dans Word.
 
 
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Prise en charge des environnements professionnels hérités**
   Livrer des diaporamas aux utilisateurs avec des logiciels obsolètes.
@@ -79,7 +79,8 @@ Convertir les **DOCM (Documents Word avec macros)** en **PPT (Présentation Powe
 
 
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Flux de travail de conversion héritée DOCM vers PPT**
   Automatiser la production de diapositives PPT pour les systèmes hérités.
@@ -96,7 +97,8 @@ Convertir les **DOCM (Documents Word avec macros)** en **PPT (Présentation Powe
 - **Pipelines de migration d'entreprise standardisant les sorties DOCM en PPT**
   Garantir une migration fluide de Word vers les formats PowerPoint hérités.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

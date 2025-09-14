@@ -61,25 +61,27 @@ Après avoir converti DOTX en CSV, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTX** en **CSV** est essentiel pour transformer des modèles Word structurés en données textuelles tabulaires propres, pouvant être facilement importées dans des bases de données, des feuilles de calcul et des pipelines de données.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Importations de base de données
 - Interopérabilité des feuilles de calcul
 - Manipulation de données en masse
 - Stockage de fichiers léger
 - Flux de travail de migration de données
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX-vers-CSV
 - Exportation CSV en lot
 - Flux ETL
 - Intégration de données d'entreprise
 - Automatisation CSV basée sur le cloud
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

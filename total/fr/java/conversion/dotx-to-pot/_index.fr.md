@@ -54,24 +54,26 @@ L'API vous permet également de convertir des Documents DOTX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTX** en **POT (modèle PowerPoint)** est utile pour transformer des modèles Word standardisés en modèles de présentation prêts à l'emploi qui permettent de gagner du temps et garantissent un design cohérent.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Présentations éducatives
 - Image de marque d'entreprise
 - Modèles de diapositives réutilisables
 - Modules de formation
 - Decks de propositions commerciales
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX vers POT
 - Génération de diapositives d'entreprise
 - Flux de travail de standardisation de modèles
 - Assemblage automatisé de présentations
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

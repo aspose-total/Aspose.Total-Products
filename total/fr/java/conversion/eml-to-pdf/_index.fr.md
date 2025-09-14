@@ -30,19 +30,21 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **PDF** est le format de document le plus universel. La conversion d'**EML en PDF** préserve les mises en page, les pièces jointes et la mise en forme pour un partage facile.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Archiver des e-mails sous forme de PDF universellement accessibles.
 - Stockage d'e-mails conforme aux normes.
 - Partager des correspondances commerciales de manière sécurisée.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Archivage automatique en PDF pour les e-mails d'entreprise.
 - Conversion des tickets de support de messagerie en PDF.
 - Migration en lot des sauvegardes d'e-mails dans des référentiels PDF.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

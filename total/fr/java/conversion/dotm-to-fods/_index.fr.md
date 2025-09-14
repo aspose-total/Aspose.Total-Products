@@ -61,23 +61,25 @@ Après avoir converti DOTM en FODS, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **DOTM** en **FODS (Flat OpenDocument Spreadsheet)** facilite les feuilles de calcul compatibles avec les logiciels open source, permettant un stockage léger et des transformations de données basées sur des macros adaptées aux flux de travail open source d'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Adoption des normes de l'écosystème OpenDocument
 - Stockage et échange légers de feuilles de calcul
 - Transformation de données basée sur des macros
 - Intégration des flux de travail open source d'entreprise
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines de conversion DOTM en FODS
 - Automatisation des données ouvertes à partir de modèles
 - Automatisation des flux de travail des macros vers FODS
 - Interopérabilité d'entreprise avec des systèmes open source
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

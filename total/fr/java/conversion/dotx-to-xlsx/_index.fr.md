@@ -61,24 +61,26 @@ Après avoir converti DOTX en XLSX, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOTX (Modèle Word)** en **XLSX (Classeur Excel Open XML)** permet des flux de travail Excel modernes et compatibles avec le cloud. Ce format prend en charge la génération de rapports collaborative, l'analyse financière et les opérations d'entreprise évolutives.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Collaboration cloud sur des documents Excel
 - Flux de travail d'analyse de données dans Excel moderne
 - Reporting financier de qualité entreprise
 - Modélisation commerciale évolutive et prévisions
 - Migration de documents vers des données pour l'analyse
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines d'automatisation de DOTX vers XLSX
 - Automatisation des rapports basés sur le cloud
 - Normalisation des flux de travail Excel d'entreprise
 - Génération évolutive de modèles vers des feuilles de calcul
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

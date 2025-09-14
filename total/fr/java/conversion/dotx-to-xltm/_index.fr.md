@@ -61,24 +61,26 @@ Après avoir converti DOTX en XLTM, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOTX (Modèle Word)** en **XLTM (Modèle Excel activé par macro)** permet aux organisations de déployer des cadres réutilisables et activés par macro pour l'automatisation. Cela garantit des flux de travail Excel évolutifs et reproductibles à travers les départements.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Modèles d'automatisation des départements
 - Cadres de planification financière avec des macros
 - Modèles de traitement et de transformation des données
 - Flux de travail de reporting avancé
 - Automatisation des processus métier activée par macro
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines d'automatisation DOTX-to-XLTM
 - Déploiement de modèles activés par macro
 - Génération automatique d'Excel à partir de DOTX
 - Modèles de flux de travail réutilisables pour les entreprises
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

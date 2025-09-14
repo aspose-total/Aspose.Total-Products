@@ -30,11 +30,11 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les e-mails en format **Bitmap (BMP)** pour assurer la compatibilité avec les anciens systèmes et les flux de travail de traitement d'images brutes. Avec l'API Java Email, les messages électroniques peuvent être exportés en BMP pour l'archivage, les enquêtes et les intégrations héritées.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Systèmes hérités** : Stockez les images d'e-mails en BMP pour la compatibilité avec les anciens logiciels.
 - **Preuves médico-légales** : Préservez les mises en page des e-mails sous forme de bitmaps non compressés pour les enquêtes.
@@ -42,7 +42,8 @@ Convertissez les e-mails en format **Bitmap (BMP)** pour assurer la compatibilit
 - **Ressources de formation** : Intégrez des images d'e-mails dans les manuels de formation.
 - **Consultation hors ligne** : Enregistrez les e-mails en tant que BMP pour les systèmes sans outils de rendu avancés.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Pipelines d'archivage** : Convertissez les e-mails en BMP pour des enregistrements immuables.
 - **Exportation par lots** : Convertissez en masse les communications par e-mail en BMP pour le stockage des preuves.
@@ -50,7 +51,8 @@ Convertissez les e-mails en format **Bitmap (BMP)** pour assurer la compatibilit
 - **Flux de travail de conformité** : Stockez la correspondance officielle sous forme d'images BMP.
 - **Automatisation de la formation** : Générez des images BMP à partir d'e-mails d'hameçonnage pour des programmes de sensibilisation.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

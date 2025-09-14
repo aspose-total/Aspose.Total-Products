@@ -42,13 +42,13 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier MHTML,
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers **Computer Graphics Metafile (CGM)** au format **MHTML (MIME HTML)** est essentiel pour préserver des documents d'ingénierie et techniques complexes avec des graphiques intégrés dans un seul fichier autonome. Dans les systèmes d'archivage web basés sur Java, cette conversion permet aux organisations de stocker des documents complets, y compris des visuels CGM, des styles et des ressources, dans une archive portable adaptée à la visualisation hors ligne et au déploiement en intranet. MHTML garantit que les spécifications de conception, les rapports et les dessins restent intacts pour une accessibilité et une distribution à long terme.
 
 ---
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Regroupement de documents d'ingénierie avec des graphiques intégrés**  
   Regroupez des diagrammes CGM et des contenus connexes dans MHTML pour des enregistrements techniques cohérents et autonomes.
@@ -61,7 +61,8 @@ Convertir les fichiers **Computer Graphics Metafile (CGM)** au format **MHTML (M
 
 ---
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Bibliothèques Java avec prise en charge de MHTML**  
   Utilisez des API comme **Aspose.Words for Java** ou des exportateurs Java personnalisés pour générer des fichiers MHTML à partir de documents basés sur CGM.
@@ -75,7 +76,8 @@ Convertir les fichiers **Computer Graphics Metafile (CGM)** au format **MHTML (M
 - **Pipelines d'archivage automatisés**  
   Incluez des étapes de conversion de CGM en MHTML dans des systèmes de gestion de documents ou d'ETL pilotés par Java pour des archivages planifiés.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

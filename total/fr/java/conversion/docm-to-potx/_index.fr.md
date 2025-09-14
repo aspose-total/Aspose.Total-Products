@@ -54,11 +54,11 @@ L'API vous permet également de convertir des document DOCM protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les **DOCM (Documents activés par macro Word)** en **POTX (Modèles XML ouverts PowerPoint)** est important pour produire des **modèles modernes et sans macro** compatibles avec Office 365 et les plateformes de collaboration basées sur le cloud. POTX permet aux organisations de **standardiser les mises en page de marque** et de rationaliser les flux de travail tout en garantissant la conformité aux politiques sans macro.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Création de modèles de diapositives d'entreprise standardisés**
   Créez des modèles de présentation réutilisables pour une image de marque cohérente.
@@ -75,7 +75,8 @@ Convertir les **DOCM (Documents activés par macro Word)** en **POTX (Modèles X
 - **Partage de modèles sur Office 365 et Google Slides**
   Assurez une collaboration transparente entre les plates-formes.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Convertisseurs DOCM en POTX pour les équipes d'entreprise**
   Standardisez la création de modèles avec des processus automatisés en lot.
@@ -92,7 +93,8 @@ Convertir les **DOCM (Documents activés par macro Word)** en **POTX (Modèles X
 - **Systèmes de gouvernance faisant respecter la conformité sans macro**
   Assurez que seuls des fichiers POTX propres et sans macro sont distribués.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

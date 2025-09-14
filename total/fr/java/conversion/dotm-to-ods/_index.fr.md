@@ -61,24 +61,26 @@ Après avoir converti DOTM en ODS, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Transforming **DOTM** files into **ODS (OpenDocument Spreadsheet)** empowers organizations to use Word templates as open-source spreadsheets, supporting cross-platform reporting and cloud-native spreadsheet workflows.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Intégration de flux de travail open source d'entreprise
 - Reporting et analyse basés sur des feuilles de calcul
 - Traitement de données multiplateforme
 - Compatibilité avec les feuilles de calcul natives du cloud
 - Conformité aux normes ouvertes
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines de conversion DOTM en ODS
 - Automatisation des macros vers les feuilles de calcul
 - Intégration de flux de travail de reporting d'entreprise
 - Automatisation des flux de travail ODS pilotés par modèle
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

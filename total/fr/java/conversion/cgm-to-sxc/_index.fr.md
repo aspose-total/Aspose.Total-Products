@@ -47,11 +47,11 @@ Lors de la conversion du fichier CGM en SXC, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM vers SXC (format OpenOffice Calc) conversion permet l'intégration de graphiques techniques ou de données tabulaires dans des systèmes de tableurs open source. Il prend en charge la compatibilité avec LibreOffice et d'autres plates-formes basées sur des documents ouverts.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Intégration de Tableau d'Ingénierie** – Combinez des diagrammes avec des tableaux de données pour des rapports techniques.
 - **Archivage de Feuilles de Calcul Open Source** – Stockez des illustrations techniques basées sur des vecteurs aux côtés des données.
 - **Compatibilité avec les Outils basés sur LibreOffice** – Assurez une utilisation fluide des fichiers dans des environnements multiplateformes.
@@ -61,7 +61,8 @@ CGM vers SXC (format OpenOffice Calc) conversion permet l'intégration de graphi
 - **Routines ETL de Documents Ouverts** – Automatiser l'importation de diagrammes vectoriels dans des feuilles de calcul.
 - **Systèmes de Reporting Multiplateformes** – Intégrez des visuels dans la génération automatisée de rapports.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

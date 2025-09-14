@@ -54,11 +54,11 @@ L'API vous permet également de convertir des document DOCM protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les **DOCM (documents Word avec macros)** en **POT (modèles PowerPoint, hérités)** est essentiel pour transformer le contenu textuel lourd de Word en **modèles de présentation standardisés** qui restent compatibles avec les anciennes versions de Microsoft PowerPoint (97-2003). Alors que les fichiers DOCM contiennent souvent des rapports structurés, des tableaux et du contenu formaté, le format POT garantit que ces données peuvent être réutilisées sous forme de **modèles réutilisables et personnalisés** dans des environnements hérités. Cette conversion soutient les organisations qui dépendent encore d'anciennes suites Office, tout en offrant un moyen fiable de **migrer, archiver et standardiser les flux de travail de présentation**.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Création de modèles de présentation personnalisés**
   Transformez le contenu basé sur Word en modèles d'entreprise qui conservent une identité visuelle cohérente.
@@ -75,7 +75,8 @@ Convertir les **DOCM (documents Word avec macros)** en **POT (modèles PowerPoin
 - **Soutien aux utilisateurs des anciennes suites Office**
   Permettez aux équipes de formation, aux bureaux gouvernementaux ou aux organisations utilisant des logiciels obsolètes de rester compatibles.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Convertisseurs en masse de DOCM en POT**
   Automatisez la conversion à grande échelle de documents Word en modèles PowerPoint réutilisables.
@@ -92,7 +93,8 @@ Convertir les **DOCM (documents Word avec macros)** en **POT (modèles PowerPoin
 - **Automatisation des flux de travail intégrant des modèles POT dans les bibliothèques d'entreprise**
   Distribuez automatiquement les modèles convertis dans des référentiels de diapositives centralisés.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

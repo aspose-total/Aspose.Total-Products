@@ -30,25 +30,27 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **MSG en DOT** permet de transformer les e-mails en modèles Word réutilisables pour une mise en forme cohérente.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 * Création de modèles standardisés à partir des e-mails des clients
 * Réutilisation de formats de communication structurés
 * Mise en place de styles de documentation d'entreprise uniformes
 * Conversion de réponses e-mail répétitives en modèles
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 * Pipelines MSG-to-DOT pour la génération automatique de modèles
 * Automatisation de la création de modèles pour la communication d'entreprise
 * Formulaires standardisés juridiques et RH à partir des données e-mail
 * Modèles de rapports basés sur les e-mails
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

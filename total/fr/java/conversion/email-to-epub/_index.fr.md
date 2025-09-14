@@ -30,11 +30,11 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les e-mails en **EPUB** pour les rendre portables et lisibles sur les liseuses électroniques et les appareils mobiles. Avec l'API Java Email, les développeurs peuvent automatiser la conversion de newsletters, de recherches et de communications en livres électroniques structurés.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Archivage de newsletters** : Enregistrez les e-mails marketing ou d'abonnement en EPUB pour une lecture facile.
 - **Matériel de recherche** : Les étudiants et les chercheurs compilent la correspondance académique en collections EPUB.
@@ -42,7 +42,8 @@ Convertissez les e-mails en **EPUB** pour les rendre portables et lisibles sur l
 - **Lecture hors ligne** : Accédez aux communications au format EPUB sur Kindle ou des applications mobiles.
 - **Distribution de contenu** : Réutilisez les campagnes d'e-mails en livres électroniques téléchargeables.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Exportation automatisée de newsletters** : Convertissez les newsletters quotidiennes/hebdomadaires en EPUB.
 - **Flux de travail de recherche** : Stockez les conversations par e-mail avec les professeurs ou les collaborateurs au format EPUB.
@@ -50,7 +51,8 @@ Convertissez les e-mails en **EPUB** pour les rendre portables et lisibles sur l
 - **Automatisation de la publication** : Réutilisez les campagnes de marketing par e-mail en EPUBs personnalisés.
 - **Répertoires de connaissances** : Maintenez des archives EPUB structurées des communications internes.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

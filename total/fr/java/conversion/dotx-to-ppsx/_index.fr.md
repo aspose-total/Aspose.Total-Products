@@ -54,24 +54,26 @@ L'API vous permet également de convertir des Documents DOTX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTX** en **PPSX (PowerPoint Open XML Show)** crée des présentations portables, autonomes, prêtes pour le cloud et faciles à partager sur différentes plateformes.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Démos de vente
 - Enseignement en classe
 - Présentations d'événements
 - Diapositives de profil d'entreprise
 - Affichages marketing
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX vers PPSX
 - Création automatique de diaporamas
 - Présentations prêtes pour le cloud
 - Automatisation de la livraison de présentations
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

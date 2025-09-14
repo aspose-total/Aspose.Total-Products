@@ -42,23 +42,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Essayez notre application gratuite pour la conversion CSV en PPSM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **CSV** en **PPSM (diaporama PowerPoint activé par macro)** permet la diffusion de présentations de diapositives interactives et automatisées générées à partir d'ensembles de données structurées. Ce format est bien adapté pour les démonstrations de produits, les tableaux de bord et les supports d'apprentissage interactifs.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Démonstrations de produits pilotées par macro
 - Présentations de tableaux de bord financiers automatisées
 - Diaporamas de formation interactifs
 - Lecture de présentations basée sur des événements
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Création de sorties PPSM avec des macros intégrées
 - Workflows d'injection de macros basés sur CSV
 - Génération en lot de PPSM pour des événements récurrents
 - Systèmes de planification de diaporamas basés sur Java
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

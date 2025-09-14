@@ -30,21 +30,23 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **Les fichiers EMLX** peuvent être transformés en **DOTX (Modèle Word XML)** pour créer des modèles réutilisables et conformes aux normes.  
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 - Création de modèles d'entreprise à partir d'e-mails Apple Mail  
 - Automatisation de la mise en forme cohérente de la documentation  
 - Préparation de modèles d'e-mails à documents personnalisés  
 - Réutilisation de mises en page d'e-mails structurés dans Word  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 - Création automatisée de DOTX à partir de données EMLX en vrac  
 - Intégration dans les systèmes de gestion de modèles d'entreprise  
 - Flux de travail d'e-mail vers modèle pour les ressources humaines, le juridique ou la conformité  
 - Génération automatique de modèles DOTX pour les rapports  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

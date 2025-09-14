@@ -61,24 +61,26 @@ Après avoir converti DOT en XLSB, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOT** en **XLSB (classeur binaire Excel)** est idéal pour gérer de grands ensembles de données avec un stockage optimisé et un traitement plus rapide, adapté aux rapports à l'échelle de l'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Ensembles de données à l'échelle de l'entreprise
 - Feuilles de calcul conformes au big data
 - Flux de travail de stockage optimisé
 - Modélisation financière
 - Automatisation des enregistrements à grande échelle
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Conversion de modèle DOT en XLSB
 - Pipelines Excel haute performance
 - Reporting d'entreprise intensif en données
 - Flux de travail évolutif de document à ensemble de données
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

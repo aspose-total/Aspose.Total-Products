@@ -30,22 +30,24 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les e-mails EMLX en **OTT (modèle de texte OpenDocument)** pour créer des modèles réutilisables basés sur le contenu des e-mails pour une communication professionnelle.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - Transformer les mises en page des e-mails Apple Mail en modèles réutilisables.
 - Normaliser les bulletins d'information, les avis et la communication formelle.
 - Créer des flux de travail basés sur des modèles pour la correspondance commerciale.
 - Maintenir la cohérence de la marque dans les documents sortants.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Extraction automatisée des formats d'e-mails dans des modèles OTT.
 - Production en masse de modèles prêts pour l'entreprise à partir d'e-mails passés.
 - Bibliothèques de modèles centralisées pour la communication d'entreprise.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

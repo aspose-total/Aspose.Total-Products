@@ -49,9 +49,9 @@ Pendant que vous convertissez DOTM en JSON, vous pouvez également définir la p
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Cas d'utilisation clés</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Intégrations API pour les applications web et cloud
 - Échange de données et interopérabilité des applications web
 - Stockage de base de données NoSQL
@@ -64,7 +64,8 @@ Pendant que vous convertissez DOTM en JSON, vous pouvez également définir la p
 - Automatisation de document vers JSON
 - Processus d'automatisation basés sur les données
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,25 +61,27 @@ Après avoir converti DOCM en XLSB, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOCM** en **XLSB (classeur binaire Excel)** optimise les performances pour les grands ensembles de données, réduit les tailles de fichiers et accélère l'ouverture et le traitement des classeurs. Les feuilles de calcul optimisées en binaire sont idéales pour les entreprises qui nécessitent des opérations de données rapides et en grand volume tout en maintenant l'intégrité des tableaux basés sur Word et du contenu structuré.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Gestion de **grands ensembles de données** à partir de documents Word
 - Amélioration des performances pour un **accès fréquent aux données**
 - Réduction de la taille du fichier pour une **distribution plus rapide**
 - Stockage de données sensibles au **format binaire**
 - Soutien aux entreprises avec des **opérations Excel en grand volume**
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Convertisseurs DOCM en XLSB** pour des flux de travail performants
 - **Pipelines de conversion automatisée** traitant de grands documents
 - **Pipelines de reporting d'entreprise** produisant des sorties Excel binaires
 - **Outils par lot** réduisant le stockage avec XLSB
 - **Flux de travail BI** optimisés avec des feuilles de calcul binaires
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

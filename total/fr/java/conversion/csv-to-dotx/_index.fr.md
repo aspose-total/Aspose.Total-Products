@@ -42,23 +42,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Essayez notre application gratuite pour la conversion CSV en DOTX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les fichiers CSV en DOTX (modèle Word Open XML) est essentiel pour produire des modèles modernes et réutilisables peuplés de données structurées. Les fichiers DOTX sont exempts de macro et idéaux pour la création de documents normalisés au niveau de l'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Création de bibliothèques de modèles à jour** - Maintenez des modèles modernes pour une utilisation répétée.
 - **Préparation de modèles spécifiques aux clients à partir de jeux de données** - Générez des modèles personnalisés pour différents clients.
 - **Automatisation de la création de documents récurrents** - Remplissez les modèles avec des données CSV fraîches pour des rapports réguliers.
 - **Formatage des données CSV pour une utilisation de modèles à l'échelle de l'entreprise** - Assurez un style cohérent à travers les documents.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **API Java DOCX/DOTX** - Utilisez des bibliothèques Java pour générer de manière programmée des modèles DOTX.
 - **Moteurs de mappage CSV-vers-Modèle** - Reliez les champs CSV aux espaces réservés du modèle.
 - **Outils de conversion en masse CSV-vers-DOTX** - Automatisez la génération de modèles à grande échelle.
 - **Systèmes de personnalisation de contenu basés sur Java** - Créez des modèles sur mesure pour des publics spécifiques.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

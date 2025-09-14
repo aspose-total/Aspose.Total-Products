@@ -30,11 +30,11 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir des e-mails en **JPEG** fournit un format d'image compressé adapté au stockage, au partage et à la publication en ligne. Avec l'API Java Email, les entreprises peuvent automatiser la génération de captures JPEG à partir d'e-mails.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Archivage avec Compression** : Stockez des e-mails en JPEG pour économiser de l'espace de stockage.
 - **Partage Rapide** : Envoyez des visuels par e-mail via le chat ou les réseaux sociaux.
@@ -50,7 +50,8 @@ Convertir des e-mails en **JPEG** fournit un format d'image compressé adapté a
 - **Livraisons Client** : Joignez des JPEG d'e-mails d'approbation ou d'étapes importantes dans les rapports.
 - **Synchronisation Cloud** : Stockez les exportations JPEG dans Google Drive/OneDrive pour un partage facile.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

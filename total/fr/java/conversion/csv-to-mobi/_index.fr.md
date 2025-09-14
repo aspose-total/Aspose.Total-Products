@@ -42,19 +42,21 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Essayez notre application gratuite pour la conversion CSV en MOBI</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Cas d'utilisation clés
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Publier des catalogues de produits ou de services basés sur CSV sous forme d'eBooks
 - Convertir des ensembles de données en manuels de référence rapides
 - Créer des manuels de formation hors ligne pour les appareils Kindle
 - Distribuer du contenu structuré dans des formats de lecteur électronique pour une accessibilité accrue
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Bibliothèques de génération MOBI basées sur Java pour la transformation directe de CSV
 - Outils de traitement par lots CSV-to-MOBI pour la publication à grande échelle
 - Intégration avec des plateformes de publication d'eBooks pour rationaliser la distribution
 - Flux de travail de publication de catalogue piloté par Java pour le déploiement automatisé du contenu
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

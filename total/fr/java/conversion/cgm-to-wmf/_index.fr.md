@@ -57,21 +57,23 @@ L'API vous permet également d'exporter le fichier CGM vers WMF dans un seul fic
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers CGM en WMF (Windows Metafile) garantit la compatibilité avec Microsoft Office et les anciennes applications Windows. Cela facilite l'intégration de diagrammes vectoriels dans les documents, les présentations et les systèmes de publication automatisés.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - **Intégration de graphiques dans les applications Office** - Utilisez des diagrammes dans Word, PowerPoint et Excel.
 - **Applications d'entreprise héritées** - Maintenir la prise en charge des anciens systèmes d'entreprise.
 - **Automatisation des documents** - Remplissez les modèles avec des illustrations vectorielles dynamiques.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Systèmes de pont Java-ActiveX** - Automatisez la génération de WMF à partir de sources CGM.
 - **Pipelines de normalisation des formats vectoriels** - Normalisez les formats graphiques pour une utilisation en entreprise.
 - **Moteurs de publication de documents** - Intégrez des diagrammes dans les flux de travail de publication à haut volume.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

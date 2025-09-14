@@ -42,23 +42,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Essayez notre application gratuite pour la conversion CSV en POWERPOINT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **CSV** en **POWERPOINT (Présentation Microsoft PowerPoint)** transforme des ensembles de données structurées en présentations visuellement attrayantes et prêtes pour le public. Cela permet de créer rapidement et efficacement des rapports, des présentations et des tableaux de bord à partir de données brutes.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Création de rapports de vente à partir de données CSV
 - Automatisation des présentations aux investisseurs
 - Génération de présentations trimestrielles d'examen d'entreprise
 - Production de tableaux de bord visuels pour les réunions
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Création de fichiers PowerPoint directement à partir de données CSV
 - Systèmes de génération en masse de CSV vers PPT pour les rapports
 - Moteurs de conception de diapositives automatisés alimentés par Java
 - Pipelines de reporting planifiés pour des présentations récurrentes
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

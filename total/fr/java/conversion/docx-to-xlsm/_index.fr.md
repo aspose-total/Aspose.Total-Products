@@ -61,24 +61,26 @@ Après avoir converti DOCX en XLSM, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOCX** en **XLSM (classeur Excel activé par macro)** permet d'intégrer directement une logique d'automatisation au sein des feuilles de calcul dérivées de documents, ce qui simplifie les flux de travail commerciaux et analytiques.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Automatisation des calculs répétitifs
 - Intégration de macros document-feuille de calcul
 - Automatisation des flux de travail d'entreprise
 - Migration de la logique financière et commerciale
 - Reporting personnalisé
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Intégration de macros DOCX vers XLSM
 - Flux de travail automatisés dans Excel
 - Pipelines document-macro
 - Cadres d'automatisation d'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

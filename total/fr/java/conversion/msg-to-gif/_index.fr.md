@@ -30,24 +30,26 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **MSG en GIF** permet d'enregistrer des e-mails sous forme de fichiers image légers, facilitant ainsi leur partage, leur intégration ou leur utilisation dans des flux de travail basés sur le web.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 
 * Conversion d'e-mails en GIF pour les inclure dans des présentations ou de la documentation.
 * Partage de captures d'écran d'e-mails au format image adapté au web.
 * Stockage compact de visuels d'e-mails pour des prévisualisations rapides.
 * Préservation des mises en page de conception d'e-mails dans un format universellement visualisable.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 * Conversions automatisées de MSG en GIF pour des prévisualisations d'e-mails simplifiées.
 * Traitement par lots pour la création de miniatures d'e-mails.
 * Intégration dans les flux de travail pour la documentation numérique et les dossiers d'affaires.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

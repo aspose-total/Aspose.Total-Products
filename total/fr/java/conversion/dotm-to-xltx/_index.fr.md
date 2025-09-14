@@ -61,24 +61,26 @@ Après avoir converti DOTM en XLTX, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTM** en **XLTX** permet de créer des modèles Excel réutilisables sans macro à partir de modèles Word pour des rapports normalisés d'entreprise et prêts pour le cloud.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Modèles d'entreprise normalisés
 - Rapports compatibles avec le cloud
 - Modèles académiques
 - Modèles de saisie de données gouvernementales
 - Modèles de prévisions financières
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Automatisation de modèles DOTM en XLTX
 - Génération en lot de modèles Excel
 - Modèles de rapports à l'échelle de l'entreprise
 - Workflows DOTM vers Excel prêts pour le cloud
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

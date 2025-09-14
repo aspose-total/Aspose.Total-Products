@@ -61,24 +61,26 @@ Après avoir converti DOCX en XLSX, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOCX** en **XLSX (Excel Open XML Spreadsheet)** est essentiel pour des flux de travail de feuilles de calcul modernes, structurés et largement compatibles, prenant en charge la collaboration en cloud et l'analyse de données évolutive.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Création de feuilles de calcul basées sur les données
 - Transformation de rapports au format Excel
 - Planification financière
 - Analyse d'entreprise
 - Partage de données structurées
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Conversion automatisée de DOCX en XLSX
 - Flux de travail basés sur le cloud
 - Génération de feuilles Excel d'entreprise
 - Pipelines de reporting et d'analyse automatisés
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,9 +61,9 @@ Après avoir converti DOTX en XLS, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Cas d'utilisation clés</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Compatibilité avec les anciennes versions d'Excel des systèmes hérités  
 - Flux de travail de reporting d'entreprise  
 - Collecte et traitement de données à partir de modèles standardisés  
@@ -76,7 +76,8 @@ Après avoir converti DOTX en XLS, [Aspose.Cells for Java](https://products.aspo
 - Transformations de modèles en feuilles de calcul  
 - Flux de travail de document vers données pour le reporting structuré  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

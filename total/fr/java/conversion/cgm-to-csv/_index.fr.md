@@ -47,23 +47,25 @@ Lors de la conversion du fichier CGM en CSV, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir des fichiers CGM (Computer Graphics Metafile) en CSV (valeurs séparées par des virgules) dans des environnements basés sur Java permet aux équipes d'ingénierie, de fabrication et d'analyse de données de transformer des données vectorielles graphiques en formats tabulaires structurés. Cela permet l'extraction facile des attributs, l'analyse des métadonnées et l'intégration avec les pipelines d'analyse pilotés par Java. En utilisant des bibliothèques CSV Java telles que **OpenCSV**, les flux de travail de CGM vers CSV peuvent automatiser le traitement à grande échelle tout en garantissant la compatibilité avec les outils BI et les plateformes de reporting.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Extraction des attributs des diagrammes CGM pour la documentation de contrôle qualité.
 - Conversion des métadonnées CGM en tables CSV pour l'analyse statistique.
 - Analyse des données d'ingénierie structurées pour les rapports et les tableaux de bord.
 - Compatibilité avec Excel, Google Sheets et les plateformes BI.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Conversion par lots des fichiers CGM en CSV.
 - Pipelines CGM-to-CSV planifiés dans les systèmes de fabrication basés sur Java.
 - Intégration avec les tableaux de bord BI alimentés par Java pour des mises à jour en temps réel.
 - Génération automatique de CSV pour l'archivage et la conformité réglementaire.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

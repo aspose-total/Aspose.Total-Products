@@ -54,12 +54,12 @@ L'API vous permet également de convertir des document DOCM protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les **documents DOCM (documents activés par macro Word)** en **PPSX (diaporamas PowerPoint Open XML)** est essentiel pour produire des **diaporamas modernes, sans macro et facilement partageables**. Le format PPSX garantit **la compatibilité avec Office 365, les plateformes LMS et les outils de collaboration** sans exposer les organisations aux risques liés aux macros.  
 
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Créer des diaporamas prêts pour un événement**  
   Construire des présentations polies et prêtes à être diffusées.  
@@ -77,7 +77,8 @@ Convertir les **documents DOCM (documents activés par macro Word)** en **PPSX (
   Standardiser les diaporamas pour la formation et les mises à jour de l'entreprise.  
 
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Convertisseurs DOCM en PPSX garantissant la conformité sans macro**  
   Éliminer les risques liés aux macros tout en générant des diapositives.  
@@ -94,7 +95,8 @@ Convertir les **documents DOCM (documents activés par macro Word)** en **PPSX (
 - **Outils de collaboration d'entreprise distribuant du contenu PPSX**  
   S'assurer que les diaporamas sont partagés de manière sécurisée entre les équipes.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

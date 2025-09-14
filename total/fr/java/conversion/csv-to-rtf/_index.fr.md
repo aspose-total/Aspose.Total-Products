@@ -42,23 +42,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Essayez notre application gratuite pour la conversion CSV en RTF</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **CSV** en **RTF (Rich Text Format)** permet de transformer des ensembles de données structurées en documents visuellement stylés et compatibles avec différentes plateformes. Ce processus est essentiel pour créer des rapports, des factures et des archives universellement accessibles tout en maintenant à la fois l'intégrité des données et la cohérence de la mise en forme sur différents systèmes d'exploitation et applications.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Générer des rapports commerciaux universellement lisibles à partir de jeux de données CSV bruts
 - Créer des factures portables avec une mise en forme de texte enrichi
 - Préparer des fichiers texte stylés pour un échange de documents sécurisé
 - Produire des archives de contenu hors ligne pour la conformité et la sauvegarde
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Générer automatiquement des fichiers RTF à partir d'exportations de bases de données
 - Utiliser des convertisseurs par lots de CSV en RTF pour la création de documents en masse
 - Appliquer des moteurs de style de modèle basés sur Java pour des documents de marque
 - Intégrer la génération automatique de RTF dans les flux de travail d'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

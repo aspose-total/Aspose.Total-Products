@@ -54,22 +54,24 @@ L'API vous permet également de convertir des documents DOC protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **DOC** en **PPSX (PowerPoint Open XML Slide Show)** est idéal pour distribuer des présentations modernes prêtes à l'emploi. Ce format garantit la compatibilité avec les dernières versions de PowerPoint tout en préservant la conception visuelle du document.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Présentations autonomes pour événements et kiosques
 - Annonces et briefings d'entreprise automatisés
 - Diapositives de cours créées à partir de contenus académiques écrits
 - Présentations marketing à partir de brochures promotionnelles
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Traitement par lot de DOC en PPSX pour des conversions en masse
 - Personnalisation de diaporamas basée sur XML pour le branding
 - Automatisation des communications d'entreprise pour des mises à jour régulières
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

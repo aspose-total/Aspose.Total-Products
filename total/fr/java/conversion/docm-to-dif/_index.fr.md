@@ -61,8 +61,8 @@ Après avoir converti DOCM en DIF, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Cas d'utilisation clés  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Échange de données structurées avec d'anciennes applications de tableurs**  
   Convertir les tables DOCM en DIF pour la compatibilité avec les programmes de tableurs anciens antérieurs au CSV/XLSX.  
@@ -79,7 +79,8 @@ Après avoir converti DOCM en DIF, [Aspose.Cells for Java](https://products.aspo
 - **Prise en charge de packages académiques ou statistiques**  
   Permettre des importations transparentes dans des outils de recherche et statistiques anciens qui acceptent toujours le DIF.  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Exportations planifiées de DOCM vers DIF**  
   Automatiser les exportations récurrentes des tables Word en DIF pour les rapports de conformité et la conservation des enregistrements.  
@@ -95,7 +96,8 @@ Après avoir converti DOCM en DIF, [Aspose.Cells for Java](https://products.aspo
 
 - **Robots de traitement de documents qui détectent les tables et émettent du DIF**  
   Déployer des robots RPA ou basés sur l'IA pour analyser les fichiers DOCM, extraire les tables et produire du DIF pour l'ingestion héritée.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

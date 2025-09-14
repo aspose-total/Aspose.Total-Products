@@ -57,8 +57,8 @@ L'API vous permet également d'exporter le fichier CGM vers DICOM dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Cas d'utilisation clés
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Visualiseurs de radiologie intégrés à Java**  
   Affichez des illustrations médicales basées sur CGM directement dans les visualiseurs DICOM alimentés par Java pour une interprétation diagnostique améliorée.
@@ -72,7 +72,8 @@ L'API vous permet également d'exporter le fichier CGM vers DICOM dans un seul f
 - **Visualisation diagnostique**  
   Améliorez les flux de travail cliniques en intégrant les données CGM converties dans des études d'imagerie multimodalités.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **API Java pour la manipulation DICOM**  
   Automatisez les pipelines de conversion CGM en DICOM en utilisant des bibliothèques Java pour le traitement d'images et la gestion des métadonnées DICOM.
@@ -85,7 +86,8 @@ L'API vous permet également d'exporter le fichier CGM vers DICOM dans un seul f
 
 - **Flux de travail diagnostique alimenté par l'IA**  
   Utilisez des modèles d'IA intégrés à Java pour analyser les images DICOM converties en vue de la reconnaissance de motifs, de la détection d'anomalies et des diagnostics prédictifs.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

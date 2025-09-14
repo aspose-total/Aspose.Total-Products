@@ -42,8 +42,8 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier DOTM, 
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Cas d'utilisation clés
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Rapports d'ingénierie avec macros prédéfinies**  
   Incorporer des diagrammes basés sur CGM dans des modèles DOTM qui déclenchent des calculs automatisés, des analyses et la génération de rapports.
@@ -54,7 +54,8 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier DOTM, 
 - **Activation des flux de travail techniques**  
   Développer des modèles spécifiques aux flux de travail qui combinent des illustrations CGM avec une fonctionnalité macro interactive pour les opérations sur le terrain ou en laboratoire.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Cadres et API Java**  
   Utiliser **Aspose.Words for Java** ou des moteurs de modèles Office dans des environnements basés sur Spring pour automatiser la conversion CGM en DOTM et l'assemblage de modèles.
@@ -67,7 +68,8 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier DOTM, 
 
 - **ETL et pipelines de reporting**  
   Incorporer la conversion CGM en DOTM dans des processus ETL basés sur Java, permettant des rapports pilotés par macro et une visualisation à grande échelle.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

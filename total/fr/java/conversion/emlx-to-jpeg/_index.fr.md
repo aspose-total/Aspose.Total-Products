@@ -30,11 +30,11 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers **EMLX (Apple Mail Email Files)** en **JPEG (Joint Photographic Experts Group)** rend le contenu des e-mails plus facile à partager, stocker et afficher avec un équilibre entre qualité et taille de fichier.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Archivage des e-mails** → Stocker les messages sous forme de JPEG pour un accès rapide.
 - **Stockage compact** → Convertir les e-mails volumineux en images compressées plus petites.
@@ -42,7 +42,8 @@ Convertir les fichiers **EMLX (Apple Mail Email Files)** en **JPEG (Joint Photog
 - **Rapports et documentation** → Insérer des e-mails dans des rapports officiels et des documents.
 - **Utilisation Web** → Publier des visuels d'e-mails sur des sites Web ou des intranets.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Pipelines en masse de conversion EMLX en JPEG** → Traiter plusieurs e-mails en formats d'image compressés.
 - **Archives de conformité** → Convertir les communications sensibles en JPEG pour un stockage sécurisé.
@@ -50,7 +51,8 @@ Convertir les fichiers **EMLX (Apple Mail Email Files)** en **JPEG (Joint Photog
 - **Distribution multi-appareils** → Envoyer des e-mails sous forme de JPEG pour une compatibilité sur tous les appareils.
 - **Visualisation des e-mails** → Utiliser des JPEG pour des enregistrements légers et des tableaux de bord.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

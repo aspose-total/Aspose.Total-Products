@@ -61,24 +61,26 @@ Après avoir converti DOT en XLAM, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOT** en **XLAM (Complément Excel)** permet de transformer les macros de modèle Word en outils d'automatisation Excel réutilisables, améliorant la productivité et les capacités de flux de travail de l'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Automatisation Excel d'entreprise
 - Déploiement de macros personnalisées
 - Solutions de reporting avancées
 - Intégration de flux de travail avec Excel
 - Amélioration de la productivité
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Création de complément de macro DOT-to-XLAM
 - Génération automatisée d'extension Excel
 - Pipelines de modèle vers complément
 - Flux de travail d'automatisation prêts pour l'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

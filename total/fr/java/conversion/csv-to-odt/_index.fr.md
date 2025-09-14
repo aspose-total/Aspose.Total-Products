@@ -42,23 +42,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Essayez notre application gratuite pour la conversion CSV en ODT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **CSV** to **ODT (OpenDocument Text)** ensures structured data is transformed into open-standard, editable word processing documents compatible with popular office suites like LibreOffice and OpenOffice. This is essential for creating shareable, professional documents while maintaining compliance with government and NGO open-format requirements.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Création de rapports détaillés à partir d'ensembles de données CSV
 - Préparation de factures, propositions et relevés au format ouvert
 - Partage de rapports formatés entre différentes suites bureautiques
 - Maintien de la compatibilité avec les exigences de conformité aux normes ouvertes
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - APIs de création d'ODT basées sur Java (par ex., ODF Toolkit) pour une sortie de document structurée
 - Scripts de conversion en lot de CSV vers ODT pour un traitement répétitif
 - Intégration avec des suites bureautiques open-source pour un flux de travail transparent
 - Formatage automatique des styles pour les fichiers ODT afin de garantir une identité visuelle cohérente
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

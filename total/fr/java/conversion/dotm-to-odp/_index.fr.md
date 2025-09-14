@@ -54,24 +54,26 @@ L'API vous permet également de convertir des dotmuments DOTM protégés par mot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTM** en **ODP (OpenDocument Presentation)** permet de réutiliser des modèles Word avec macro dans des présentations compatibles avec des logiciels open source pour une utilisation en entreprise et multiplateforme.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Flux de travail de présentation en entreprise
 - Adoption de l'open source pour les diapositives
 - Compatibilité multiplateforme
 - Création de diapositives basée sur des macros
 - Intégration avec des outils de présentation cloud
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Génération automatisée de DOTM à ODP
 - Flux de conversion de macro en présentation
 - Pipelines de présentation open source
 - Automatisation des flux de travail ODP prêts pour l'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

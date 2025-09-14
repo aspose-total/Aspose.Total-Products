@@ -54,24 +54,26 @@ L'API vous permet également de convertir des dotmuments DOTM protégés par mot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **DOTM** en **PPS (PowerPoint Slide Show)** permet de créer directement des diaporamas à partir de modèles Word avec macro, adaptés pour les événements, la formation et les présentations d'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Présentations d'événements
 - Diaporamas de formation
 - Spectacles de reporting automatisés
 - Présentations d'entreprise
 - Présentations basées sur des kiosques
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Automatisation du diaporama DOTM vers PPS
 - Déploiement de decks d'entreprise
 - Livraison de présentations basée sur des workflows
 - Diapositives automatiques prêtes pour l'événement
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

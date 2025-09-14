@@ -30,25 +30,27 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertisseur **EML en TEXTE** extrait le contenu brut des e-mails dans un format texte brut, le rendant léger, portable et facile à traiter de manière programmable.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 
 * Archivage des e-mails dans un format léger
 * Indexation et recherche efficace du contenu des e-mails
 * Exploration de données et traitement du langage naturel (NLP) sur les données des e-mails
 * Intégration des données des e-mails dans des applications basées sur du texte
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 * Pipelines automatisés pour l'archivage des e-mails basés sur du texte
 * Analyse de sentiment pilotée par le NLP à partir du texte des e-mails convertis
 * Conversion en lot d'e-mails pour les moteurs de recherche et d'indexation
 * Rapports automatisés en texte brut générés à partir des flux d'e-mails
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

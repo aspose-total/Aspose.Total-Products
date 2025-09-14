@@ -54,24 +54,26 @@ L'API vous permet également de convertir des documents DOCX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOCX** en **POT (modèle PowerPoint)** est essentiel pour transformer les documents Word en modèles de présentation réutilisables. Ce processus garantit une conception de diapositive cohérente, une image de marque standardisée et une migration efficace du contenu structuré vers des formats PowerPoint professionnels, reproductibles.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Génération de **modèles de présentation cohérents** pour un usage professionnel ou éducatif
 - Normalisation des **diaporamas d'entreprise et de l'image de marque**
 - Migration du contenu structuré **DOCX en diapositives prêtes à l'emploi**
 - Soutien aux **matériaux éducatifs et de formation** avec des conceptions réutilisables
 - Permettre des **dispositions de diapositives reproductibles** dans plusieurs présentations
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Automatisation des modèles DOCX vers POT** pour le traitement en masse
 - **Pipelines de modèles de présentation** intégrant du contenu Word
 - **Génération de bibliothèque de diapositives d'entreprise** à partir de sources DOCX
 - **Flux de travail automatisé de modèles PowerPoint** pour une création de modèle cohérente
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -57,11 +57,11 @@ L'API vous permet également d'exporter le fichier CGM vers EMZ dans un seul fic
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers **CGM** au format **EMZ (Enhanced Metafile Compressed)** est très bénéfique pour gérer des graphiques vectoriels compressés dans les systèmes **Java-powered**. EMZ réduit la taille du fichier tout en maintenant la qualité, ce qui le rend idéal pour intégrer des illustrations techniques dans des documents, partager efficacement des images vectorielles et assurer la compatibilité avec Microsoft Office et les applications basées sur Windows.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Intégration de documents**  
   Insérez des graphiques EMZ dérivés de CGM compressés dans Word, PowerPoint et d'autres fichiers Office.
@@ -72,7 +72,8 @@ Convertir les fichiers **CGM** au format **EMZ (Enhanced Metafile Compressed)** 
 - **Emballage d'images compatible avec Office**  
   Convertissez CGM en EMZ pour garantir une intégration fluide dans les flux de travail Office sans ajustements manuels d'images.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **API Java pour la compression d'images**  
   Automatisez la conversion de CGM en EMZ en utilisant des bibliothèques Java prenant en charge la compression WMF/EMF et l'optimisation vectorielle.
@@ -83,7 +84,8 @@ Convertir les fichiers **CGM** au format **EMZ (Enhanced Metafile Compressed)** 
 - **Traitement de métafichiers Windows**  
   Utilisez des outils Java pour gérer la compression EMF vers EMZ pour une compatibilité dans les applications multiplateformes.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

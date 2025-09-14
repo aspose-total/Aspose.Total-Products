@@ -61,23 +61,25 @@ Après avoir converti DOT en TSV, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOT** en **TSV (valeurs séparées par des tabulations)** permet l'extraction structurée de données tabulaires à partir de modèles Word vers des formats légers et portables adaptés aux workflows d'analyse et de base de données.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - Migration de données vers des feuilles de calcul
 - Import/export dans des applications d'entreprise
 - Reporting tabulaire standardisé
 - Texte structuré prêt pour la base de données
  
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines automatisés de DOT à TSV
 - Extraction en masse de données à partir de modèles Word
 - Génération de TSV prête pour le workflow
 - Standardisation des données d'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

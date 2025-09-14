@@ -61,24 +61,26 @@ Après avoir converti DOTM en XLT, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTM** en **XLT** permet de créer des modèles Excel réutilisables à partir de modèles Word avec macros pour des flux de travail commerciaux et de reporting standardisés.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Modèles commerciaux standardisés
 - Modèles de reporting d'entreprise
 - Formulaires de données gouvernementaux
 - Modèles de notation éducative
 - Modèles de planification financière
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Création automatisée de modèles DOTM en XLT
 - Pipelines de modèles de flux de travail d'entreprise
 - Partage de modèles dans le cloud
 - Automatisation de modèles de macro vers Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

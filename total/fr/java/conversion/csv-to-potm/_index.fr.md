@@ -42,23 +42,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Essayez notre application gratuite pour la conversion CSV en POTM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **CSV** en **POTM (modèle PowerPoint activé par macro)** permet d'automatiser la création de modèles de présentation interactifs et pilotés par macro à partir d'ensembles de données structurées. Cela est idéal pour les organisations ayant besoin de présentations réutilisables et basées sur les données avec une automatisation ou une interactivité intégrée.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Création de diaporamas d'entreprise réutilisables activés par macro
 - Automatisation de la génération de présentations de produits à partir de données CSV
 - Construction de modules de formation interactifs avec des macros intégrées
 - Normalisation des modèles pilotés par macro pour plusieurs services
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Génération de fichiers POTM à partir de CSV avec intégration de macros
 - Systèmes de mappage CSV-to-POTM pour la population de contenu structuré
 - Processus de génération de modèles en lot pour les flux de travail d'entreprise
 - Macros Java pour un comportement de diapositive interactif et une automatisation
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

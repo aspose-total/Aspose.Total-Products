@@ -61,23 +61,25 @@ Après avoir converti DOTM en XLTM, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTM** en **XLTM** crée des modèles Excel réutilisables avec des macros à partir de macros Word, prenant en charge l'automatisation d'entreprise et les flux de travail pilotés par VBA.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Création de modèles financiers avancés  
 - Modèles de reporting d'entreprise avec macros activées  
 - Flux de travail pilotés par VBA  
 - Modèles d'intelligence d'affaires automatisés  
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTM-to-XLTM  
 - Génération automatisée de modèles avec macros activées  
 - Automatisation des flux de travail d'entreprise  
 - Intégration d'Excel de macro à modèle
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -42,8 +42,8 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier MARKDO
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Cas d'utilisation clés
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Intégration de diagrammes CGM dans les manuels techniques**  
   Référencez ou intégrez des diagrammes CGM dans la documentation basée sur Markdown pour des explications techniques plus claires.
@@ -54,7 +54,8 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier MARKDO
 - **Formats de rapport légers**  
   Utilisez Markdown comme un support simple et portable pour des rapports d'ingénierie ou de système améliorés par des CGM.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Convertisseurs basés sur Java**  
   Utilisez des bibliothèques Java ou des analyseurs personnalisés pour transformer les diagrammes CGM en références d'images compatibles avec Markdown ou en descriptions vectorielles.
@@ -67,7 +68,8 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier MARKDO
 
 - **Mises à jour continues de la documentation**  
   Automatisez la régénération du Markdown à partir des diagrammes CGM mis à jour dans les pipelines CI/CD alimentés par Java pour une documentation toujours à jour.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

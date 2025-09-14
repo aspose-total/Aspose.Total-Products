@@ -61,22 +61,24 @@ Après avoir converti DOTX en XLTX, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## Cas d'utilisation clés ✅
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Cadres de rapports commerciaux dans Excel
 - Modèles financiers pour les organisations
 - Configurations de modèles Excel compatibles avec le cloud
 - Flux de travail de reporting départemental
 - Cohérence de qualité professionnelle à travers les équipes
 
-## Scénarios d'automatisation ⚙️
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines de conversion DOTX en XLTX
 - Distribution automatisée de modèles Excel
 - Normalisation de documents vers Excel
 - Automatisation de modèles au niveau de l'entreprise pour la scalabilité
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

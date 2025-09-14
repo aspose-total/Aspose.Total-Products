@@ -61,25 +61,27 @@ Après avoir converti DOCM en XLS, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les fichiers **DOCM** en **XLS (Classeur Excel 97-2003)** est essentiel pour les organisations qui dépendent des environnements Microsoft Excel hérités. Ce processus préserve les tableaux, les formulaires et les données structurées des documents Word tout en garantissant une compatibilité totale avec les anciennes versions d'Excel, permettant une collaboration transparente et une conformité archivistique sur des systèmes obsolètes.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Migration des tableaux Word vers les **anciens environnements Excel**  
 - Soutien aux organisations avec des **systèmes hérités**  
 - Préparation de feuilles de calcul pour une **utilisation hors ligne restreinte**  
 - Partage de données avec des partenaires utilisant toujours des **anciennes versions d'Office**  
 - Maintien de la conformité avec les **formats hérités**  
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Convertisseurs par lots de **DOCM en XLS** pour une migration à grande échelle  
 - Intégrations de systèmes ERP **hérités** nécessitant des XLS  
 - Pipelines d'exportation automatisés générant des XLS pour des données historiques  
 - Flux de travail axés sur la conformité qui imposent des sorties en XLS  
 - Outils de traitement de documents convertissant les DOCM en XLS pour assurer la **compatibilité ascendante**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

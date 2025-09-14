@@ -30,22 +30,24 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les fichiers EMLX en **ODT (OpenDocument Text)** pour obtenir un format de document flexible et open source adapté à la modification des e-mails dans OpenOffice.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - Modifier les e-mails d'Apple Mail en tant que documents ODT.
 - Stocker les communications commerciales dans des formats texte standard ouverts.
 - Accessibilité multiplateforme avec des éditeurs open source.
 - Archivage à long terme avec des formats non propriétaires.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Exportations en masse des e-mails d'Apple Mail vers des archives ODT.
 - Workflows automatisés d'e-mails vers ODT pour la conformité gouvernementale ou d'entreprise.
 - Intégration avec des systèmes de gestion de documents open source.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

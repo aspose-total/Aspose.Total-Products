@@ -30,11 +30,11 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les e-mails en **Langage de Commande d'Imprimante (PCL)** pour permettre des flux d'impression directs à travers les systèmes d'entreprise. En utilisant l'API Java Email, les organisations peuvent préparer des e-mails pour une impression en masse et à haute vitesse.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Impression d'entreprise** : Convertir les e-mails professionnels en PCL pour une consommation directe par l'imprimante.
 - **Relevés bancaires** : Livrer des communications financières par e-mail en PCL pour une impression en lot.
@@ -42,7 +42,8 @@ Convertissez les e-mails en **Langage de Commande d'Imprimante (PCL)** pour perm
 - **Automatisation du courrier** : Envoyer les e-mails entrants directement aux imprimantes en tant que PCL.
 - **Formulaires gouvernementaux** : Préparer la correspondance citoyenne pour une livraison d'impression physique.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Serveurs d'impression** : Convertir automatiquement les e-mails en PCL pour les systèmes d'impression distribués.
 - **Flux de travail à haut volume** : Mettre à l'échelle les conversions d'e-mail en impression pour les services de facturation.
@@ -50,7 +51,8 @@ Convertissez les e-mails en **Langage de Commande d'Imprimante (PCL)** pour perm
 - **Automatisation bancaire** : Exporter les e-mails de transactions ou de relevés en PCL pour une impression en masse.
 - **Travaux d'impression en lot** : Convertir les e-mails quotidiens en fichiers PCL pour un traitement en masse.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

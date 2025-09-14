@@ -54,23 +54,25 @@ L'API vous permet également de convertir des Documents DOTX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTX** en **PPTM (Présentation PowerPoint activée par macro)** est essentiel pour créer des diaporamas dynamiques et automatisés alimentés par des macros intégrées.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Diaporamas de reporting automatisés
 - Outils d'enseignement interactifs
 - Présentations basées sur les données
 - Sessions de formation activées par macro
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX vers PPTM
 - Flux de travail de présentation activée par macro
 - Génération de diapositives mise à jour automatiquement
 - Diaporamas d'automatisation commerciale
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

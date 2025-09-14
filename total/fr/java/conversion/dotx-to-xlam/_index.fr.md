@@ -61,9 +61,9 @@ Après avoir converti DOTX en XLAM, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Cas d'utilisation clés</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Boîtes à outils personnalisées pour l'automatisation sur Excel  
 - Automatisation des rapports d'entreprise  
 - Compléments pour la modélisation financière  
@@ -76,7 +76,8 @@ Après avoir converti DOTX en XLAM, [Aspose.Cells for Java](https://products.asp
 - Solutions de productivité d'entreprise alimentées par Excel  
 - Boîtes à outils de modèles vers Excel avec automatisation avancée  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

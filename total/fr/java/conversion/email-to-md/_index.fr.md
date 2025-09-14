@@ -30,12 +30,12 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les e-mails en **Markdown (MD)** pour obtenir un format léger basé sur du texte largement utilisé dans les flux de travail des développeurs, les systèmes de documentation et les sites Web statiques. Avec l'API Java pour les e-mails, les e-mails peuvent être transformés en Markdown de manière transparente pour le contrôle de version et la publication.
 
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Documentation pour les développeurs** : Stockez les e-mails techniques ou de support en MD pour les wikis GitHub/GitLab.
 - **Publication sur un site Web statique** : Publiez des newsletters ou des annonces directement sur des sites basés sur Jekyll/Hugo.
@@ -44,7 +44,8 @@ Convertissez les e-mails en **Markdown (MD)** pour obtenir un format léger bas�
 - **Archivage léger** : Enregistrez les e-mails dans un format simple basé sur du texte pour un accès facile.
 
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Automatisation de la documentation** : Convertissez les e-mails de support ou de journal des modifications en MD pour la documentation du produit.
 - **Gestion des connaissances** : Synchronisez automatiquement les conversations par e-mail dans des bases de connaissances basées sur Markdown.
@@ -52,7 +53,8 @@ Convertissez les e-mails en **Markdown (MD)** pour obtenir un format léger bas�
 - **Mises à jour de sites statiques** : Publiez automatiquement des newsletters sur des sites Web statiques.
 - **Conversion en lot** : Convertissez en masse les communications en MD pour des référentiels centralisés.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

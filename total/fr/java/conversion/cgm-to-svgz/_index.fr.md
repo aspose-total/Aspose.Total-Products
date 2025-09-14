@@ -57,21 +57,23 @@ L'API vous permet également d'exporter le fichier CGM vers SVGZ dans un seul fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM en SVGZ (Graphiques vectoriels évolutifs compressés) offre une conversion conviviale pour le web, des graphiques évolutifs optimisés pour une bande passante réduite. Idéal pour diffuser des dessins d'ingénierie détaillés en ligne, SVGZ garantit un rendu précis avec une taille de fichier minimale.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Livraison de vecteurs évolutifs dans les applications Web** - Servez des diagrammes vectoriels de haute qualité et réactifs.
 - **Archivage de dessins d'ingénierie** - Stockez des illustrations complexes dans un format vectoriel compressé.
 - **Transformations de CAO vers le Web** - Publiez des graphiques techniques de CAO sous une forme prête pour le navigateur.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Moteurs de rendu SVG basés sur Java** - Convertissez CGM en actifs SVGZ interactifs et évolutifs.
 - **Compresseurs SVG** - Automatisez la réduction de taille tout en conservant la précision visuelle.
 - **Pipelines d'actifs frontend** - Préparez des diagrammes pour un chargement instantané dans les applications Web.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

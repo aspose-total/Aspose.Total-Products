@@ -42,21 +42,23 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier WORDML
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM en conversion WORDML (WordprocessingML) permet d'intégrer des graphiques vectoriels directement dans des documents Word basés sur XML, permettant une publication dynamique et la création de documents basés sur les données.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Intégration dans les rapports basés sur Word** – Inclure des diagrammes dans des rapports automatisés.
 - **Flux de publication axés sur XML** – Alimenter les workflows de contenu structuré.
 - **Échange de documents gouvernementaux** – Garantir la conformité du format dans les rapports du secteur public.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Serialiseurs XML basés sur Java** – Transformer CGM en WORDML pour une publication automatisée.
 - **Moteurs de modèles WordML** – Intégrer des diagrammes techniques dans des modèles prédéfinis.
 - **Systèmes de génération de documents dynamiques** – Produire de grands volumes de rapports de marque.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

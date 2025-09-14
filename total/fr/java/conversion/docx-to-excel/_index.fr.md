@@ -61,24 +61,26 @@ Après avoir converti DOCX en EXCEL, [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOCX** en **Excel (XLS/XLSX)** est important pour les rapports structurés, permettant les tableaux croisés dynamiques, les calculs avancés et l'intégration transparente avec les flux de travail de l'entreprise. Cette transformation convertit les tableaux Word en données de feuille de calcul exploitables.
 
-### ✅ Cas d'utilisation clés
+#{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Exportation des tableaux DOCX vers **Excel**
 - Activation des **tableaux croisés dynamiques et des graphiques**
 - Création de **rapports structurés**
 - Consolidation des données pour une **utilisation en entreprise**
 - Formats prêts à l'importation pour les **outils de comptabilité et de finance**
 
-### ⚙️ Scénarios d'automatisation
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Automatisation en masse des rapports DOCX vers Excel**
 - **Pipelines de rapports d'entreprise**
 - **Génération automatisée de tableaux de bord**
 - **Intégration de données interdépartementales**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

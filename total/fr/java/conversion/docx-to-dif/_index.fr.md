@@ -61,23 +61,25 @@ Après avoir converti DOCX en DIF, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOCX** to **DIF (Format d'Échange de Données)** est essentiel pour la compatibilité avec les anciens tableurs, permettant le partage de données structurées et l'archivage dans les anciens systèmes tout en maintenant le support analytique multiplateforme.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Migration des tableaux de DOCX vers les **anciens systèmes de tableurs**  
 - Garantir la compatibilité avec les **logiciels statistiques**  
 - Archiver les données de document en **DIF**  
 - Soutenir les **analyses multiplateformes**  
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Migration héritée de DOCX vers DIF**  
 - **Extraction automatisée de données de tableur**  
 - **Pipelines DIF pour les systèmes de conformité**  
 - **Publication de données multi-format**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

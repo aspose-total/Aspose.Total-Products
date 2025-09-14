@@ -54,23 +54,25 @@ L'API vous permet également de convertir des Documents DOTX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTX** en **PPSM (Diaporama PowerPoint activé par macro)** permet de créer des présentations automatisées, interactives et auto-exécutables intégrant des macros pour une fonctionnalité avancée.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Modules de formation auto-exécutables
 - Diaporamas automatisés basés sur les données
 - Présentations d'événements interactives
 - Démos de produits activées par macro
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX vers PPSM
 - Diaporamas automatiques pour kiosques
 - Flux de travail de macro vers diaporama
 - Systèmes de présentation à mise à jour automatique
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -30,25 +30,27 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertisseur **MSG en WORD** convertit les fichiers e-mail en documents Microsoft Word modifiables, combinant accessibilité et familiarité.
 
-### ✅ Cas d'utilisation clés
+#{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 * Conversion des échanges d'e-mails en rapports modifiables
 * Préparation des journaux de communication pour les audits
 * Documentation à des fins RH et de conformité
 * Préparation de dossiers juridiques à partir d'e-mails
 
-### ⚙️ Scénarios d'automatisation
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 * Pipelines de conversion automatisée de MSG en Word
 * Archivage des e-mails dans des référentiels Word d'entreprise
 * Traitement par lots pour la découverte juridique
 * Flux de travail de reporting RH
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

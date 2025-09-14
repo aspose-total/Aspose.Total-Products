@@ -57,21 +57,23 @@ L'API vous permet également d'exporter le fichier CGM vers IMAGE dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir des fichiers CGM en formats d'image courants tels que PNG, JPEG ou BMP offre une compatibilité universelle pour la publication, l'intégration et le partage de graphiques techniques. Cette conversion garantit l'accessibilité sans nécessiter de visionneuses CGM spécialisées tout en préservant la qualité visuelle essentielle.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Publication de diagrammes CGM dans des articles, des rapports et des plateformes en ligne.
 - Intégration de visuels dans des applications Java basées sur le bureau ou le web.
 - Rastérisation générale pour une utilisation multiplateforme dans des présentations ou des logiciels.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Intégration de SDK d'imagerie Java pour la rastérisation en masse de CGM.
 - Convertisseurs en lot en temps réel dans des pipelines de traitement basés sur le cloud.
 - Systèmes de rendu hybrides vectoriel-raster pour des besoins d'affichage dynamique.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

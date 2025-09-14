@@ -54,24 +54,26 @@ L'API vous permet également de convertir des documents DOCX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOCX** en **PPTX (Présentation PowerPoint moderne)** est essentiel pour créer des diapositives modernes modifiables, prêtes pour le cloud et facilement partageables.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Rapports d'entreprise
 - Contenu éducatif
 - Présentations marketing
 - Decks d'entreprise collaboratifs
 - Récits visuels
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines automatisés de DOCX à PPTX
 - Génération de présentations prêtes pour le cloud
 - Flux de travail de rapports d'entreprise vers présentation
 - Decks de formation/marketing automatisés
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

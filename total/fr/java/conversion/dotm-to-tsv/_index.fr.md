@@ -61,25 +61,27 @@ Après avoir converti DOTM en TSV, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOTM** en **TSV (valeurs séparées par des tabulations)** permet l'exportation structurée des données de documents activés par macro, ce qui le rend idéal pour les importations de base de données, l'intégration de systèmes hérités et les rapports tabulaires évolutifs.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Extraction en masse de données à partir de modèles activés par macro  
 - Pipelines d'import/export de base de données  
 - Reporting structuré prêt pour l'entreprise  
 - Intégration de systèmes hérités  
 - Conversions tabulaires simplifiées  
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Automatisation de l'exportation de données DOTM vers TSV  
 - Pipelines de reporting pilotés par macro  
 - Workflows de conversion tabulaire structurée  
 - Partage de données d'entreprise  
 - Exportations de flux de travail évolutives
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

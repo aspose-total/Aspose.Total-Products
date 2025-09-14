@@ -30,19 +30,21 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **PCL (Printer Command Language)** est largement utilisé pour les imprimantes. Convertir **EML en PCL** permet des flux de travail d'e-mails vers imprimante directs.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Rationalisation des flux de travail d'impression dans les entreprises.
 - Archivage des versions prêtes à imprimer des e-mails.
 - Automatisation des tâches d'impression en masse.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Impression automatisée basée sur serveur à partir de fichiers e-mail.
 - Conversion des notifications par e-mail directement en PCL.
 - Travaux d'impression en masse EML vers PCL.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

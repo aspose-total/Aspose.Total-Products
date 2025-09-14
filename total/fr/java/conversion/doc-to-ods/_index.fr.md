@@ -61,22 +61,24 @@ Après avoir converti DOC en ODS, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOC** en **ODS (OpenDocument Spreadsheet)** est essentiel pour permettre le traitement du contenu Word dans des environnements de feuille de calcul. Cette conversion facilite la manipulation, l'analyse et le partage des données tabulaires extraites des documents Word dans des formats standard ouverts compatibles avec LibreOffice Calc et des outils similaires.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Extraction de tableaux de Word au format ODS
 - Partage de données dérivées de Word avec des applications de feuille de calcul
 - Transformation des données du document pour une analyse détaillée
 - Assurer l'interopérabilité avec LibreOffice, OpenOffice et d'autres outils compatibles ODF
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines d'extraction DOC vers ODS pour le traitement en masse
 - Outils de formatage et de conversion de feuilles de calcul alimentés par Java
 - Analyse automatisée des tableaux de Word vers ODS pour des flux de travail rationalisés
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

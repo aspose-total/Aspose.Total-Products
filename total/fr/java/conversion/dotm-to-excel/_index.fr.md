@@ -61,22 +61,24 @@ Après avoir converti DOTM en EXCEL, [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Modélisation financière et prévision  
 - Création de rapports d'entreprise et de tableaux de bord  
 - Flux de travail d'analyse de données pour de grands ensembles de données  
 - Intégration Excel compatible avec le cloud  
 - Transformations de macro en données pour l'intelligence d'affaires  
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines automatisés de DOTM vers Excel  
 - Génération de feuilles de calcul activées par macro  
 - Automatisation des rapports d'entreprise  
 - Intégration de flux de travail de macro vers Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

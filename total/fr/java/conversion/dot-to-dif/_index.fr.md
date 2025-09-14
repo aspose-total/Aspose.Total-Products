@@ -61,24 +61,26 @@ Après avoir converti DOT en DIF, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOT** en **DIF (Format d'Échange de Données)** permet un échange de données structurées entre les modèles Word et les anciens systèmes de feuilles de calcul ou de bases de données, garantissant la compatibilité et la migration transparente.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - Migration de données
 - Compatibilité avec les systèmes hérités
 - Importations de feuilles de calcul
 - Pipelines d'analyse d'entreprise
 - Archivage de données structurées
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Conversion DOT en DIF dans les workflows ETL
 - Échange de données automatisé
 - Systèmes de reporting compatibles avec DIF
 - Pipelines de document vers données multiplateformes
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

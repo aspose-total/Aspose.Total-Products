@@ -54,22 +54,24 @@ L'API vous permet également de convertir des documents DOC protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOC** en **PPTX (Présentation PowerPoint Open XML)** permet de créer des diapositives modernes et entièrement modifiables à partir de documents Word. Le format PPTX garantit la compatibilité avec les dernières fonctionnalités de PowerPoint, en en faisant un choix idéal pour une utilisation professionnelle.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Conversion de rapports en présentations de diapositives professionnelles
 - Création de modules de formation modifiables à partir de documentation
 - Développement de présentations basées sur des modèles pour toute l'entreprise
 - Mise à jour de présentations de stratégie d'entreprise avec un contenu frais
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Outils de mappage XML DOC-to-PPTX pour des mises en page précises
 - Automatisation des diapositives basée sur le style pour une identité visuelle cohérente
 - Génération en lot de présentations d'entreprise normalisées
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

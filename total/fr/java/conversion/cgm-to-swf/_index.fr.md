@@ -70,11 +70,11 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers CGM en SWF (Shockwave Flash) est essentiel pour les environnements hérités qui dépendent du contenu Flash. Ce format prend en charge l'animation et l'interactivité, le rendant utile pour les anciens simulateurs de formation, les manuels techniques et les outils de visualisation.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Simulateurs de Formation Hérités** – Afficher des diagrammes interactifs pour la formation des opérateurs.
 - **Manuels Techniques Animés** – Ajouter du mouvement aux guides de maintenance et d'exploitation.
 - **Outils de Visualisation Basés sur le Navigateur** – Offrir des graphiques vectoriels dans des environnements pris en charge par Flash.
@@ -84,7 +84,8 @@ Convertir les fichiers CGM en SWF (Shockwave Flash) est essentiel pour les envir
 - **Services de Rendu Hérités** – Prendre en charge les plates-formes existantes sans réingénierie.
 - **Outils de Migration de Contenu d'Apprentissage en Ligne** – Maintenir la compatibilité avec les cours de formation basés sur Flash.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

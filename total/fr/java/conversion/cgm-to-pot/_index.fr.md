@@ -59,21 +59,23 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir des fichiers CGM (Computer Graphics Metafile) en POT (PowerPoint Template) dans des environnements basés sur Java permet aux organisations de créer des modèles de présentation réutilisables et normalisés enrichis de diagrammes techniques. Ce processus est précieux pour les secteurs de l'ingénierie, des affaires et de l'éducation qui nécessitent des mises en page de diapositives cohérentes, une image de marque d'entreprise et des représentations visuelles précises.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Présentations commerciales normalisées** - Maintenir la cohérence de la marque dans toutes les présentations de l'entreprise.
 - **Diaporamas d'ingénierie réutilisables** - Préconcevoir des mises en page avec des diagrammes CGM intégrés pour un reporting de projet plus rapide.
 - **Modèles de rapports personnalisés** - Créer des modèles PowerPoint prêts à l'emploi pour les cycles de reporting récurrents.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Moteurs de présentation basés sur Java** - Utiliser Apache POI ou des API similaires pour intégrer la conversion CGM en POT.
 - **Outils de génération de fichiers Office** - Automatiser la création de fichiers POT avec des diagrammes intégrés pour plusieurs services.
 - **Flux de travail d'automatisation du contenu** - Déployer des scripts planifiés pour générer et mettre à jour des modèles PowerPoint par lots.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

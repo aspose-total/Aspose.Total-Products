@@ -61,25 +61,27 @@ Après avoir converti DOCM en XLAM, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les fichiers **DOCM** en **XLAM (Complément Excel)** est essentiel pour transformer les macros VBA basées sur Word et la logique métier en modules d'automatisation Excel réutilisables. Cela permet aux organisations de centraliser les scripts d'automatisation, d'étendre les capacités d'Excel et de créer de puissants compléments prenant en charge la modélisation financière, les rapports et la validation des données. Avec XLAM, l'automatisation est préservée et distribuée efficacement dans les environnements Excel d'entreprise.  
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Migration des **macros VBA** de Word vers les **environnements Excel**  
 - Création de **boîtes à outils d'automatisation** réutilisables pour les équipes  
 - Conception d'**extensions Excel** pour les modèles financiers et l'analyse  
 - Construction de **compléments de rapports et de validation**  
 - Centralisation de la logique d'automatisation dans les **déploiements Excel d'entreprise**  
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Convertisseurs DOCM en XLAM** qui préservent la logique des macros lors de la conversion  
 - **Pipelines de génération de compléments automatisés** pour les flux de travail d'entreprise  
 - **Systèmes de migration** réutilisant les scripts VBA de Word pour une utilisation dans Excel  
 - **Systèmes de gouvernance** gérant la distribution des fichiers XLAM  
 - **Pipelines DevOps** déployant des compléments XLAM à travers les équipes d'entreprise  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

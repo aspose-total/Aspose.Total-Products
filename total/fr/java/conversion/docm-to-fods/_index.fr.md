@@ -61,8 +61,8 @@ Après avoir converti DOCM en FODS, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Cas d'utilisation clés  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Stockage des feuilles de calcul dans Git pour des différences lisibles**  
   Conservez les données tabulaires sous forme XML où les modifications peuvent être suivies ligne par ligne dans les systèmes de contrôle de version.  
@@ -80,7 +80,8 @@ Après avoir converti DOCM en FODS, [Aspose.Cells for Java](https://products.asp
   Veillez à ce que les données dérivées de DOCM restent exemptes de macros lorsqu'elles sont stockées au format FODS.  
 
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Pipelines CLI de DOCM à FODS**  
   Automatisez les conversions à l'aide d'outils en ligne de commande pour des flux de travail reproductibles et scriptables.  
@@ -96,7 +97,8 @@ Après avoir converti DOCM en FODS, [Aspose.Cells for Java](https://products.asp
 
 - **Injecteurs de métadonnées qui balisent les FODS pour la gouvernance**  
   Enrichissez les sorties avec des métadonnées (propriété, version, balises de politique) pour les environnements réglementés.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

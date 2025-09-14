@@ -61,11 +61,11 @@ Après avoir converti DOCM en CSV, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les **DOCM (Documents activés par macro Word)** en **CSV (Valeurs séparées par des virgules)** est crucial pour extraire des données textuelles tabulaires ou structurées dans un format léger et indépendant de la plateforme. Alors que les fichiers DOCM sont des documents riches en texte conçus pour les macros et la mise en forme, les fichiers CSV fournissent une structure propre et universelle pour stocker et partager des données. Cette conversion simplifie les flux de travail en transformant des données complexes basées sur Word en feuilles de calcul facilement lisibles qui s'intègrent parfaitement avec les bases de données, les outils d'analyse et les pipelines d'apprentissage automatique.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Migration des données dans les bases de données**  
   Convertissez les tables DOCM en format CSV pour des importations rapides dans des bases de données SQL et NoSQL.
@@ -79,7 +79,8 @@ Convertissez les **DOCM (Documents activés par macro Word)** en **CSV (Valeurs 
 - **Partage d'informations structurées entre plateformes**  
   Utilisez des fichiers CSV comme support léger pour échanger des données tabulaires entre les systèmes d'exploitation, les applications cloud et les collaborateurs.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Convertisseurs en lot de DOCM vers CSV**  
   Traitez automatiquement plusieurs fichiers DOCM en format CSV pour une manipulation de données à grande échelle.
@@ -90,7 +91,8 @@ Convertissez les **DOCM (Documents activés par macro Word)** en **CSV (Valeurs 
 - **Workflows de pipeline de données intégrant la sortie CSV avec des outils BI**  
   Intégrez la conversion de DOCM en CSV dans les pipelines ETL, permettant des mises à jour en temps réel et des ensembles de données prêts pour l'analyse.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

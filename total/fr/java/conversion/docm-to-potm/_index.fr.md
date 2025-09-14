@@ -54,11 +54,11 @@ L'API vous permet également de convertir des document DOCM protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les **DOCM (Documents activés par des macros Word)** en **POTM (Modèles activés par des macros PowerPoint)** est essentiel pour créer des **modèles de présentation réutilisables et prêts à l'automatisation**. Contrairement aux conversions statiques, les fichiers POTM préservent les macros intégrées, permettant aux organisations de concevoir des **diapositives interactives, dynamiques et pilotées par des scripts**. Cela garantit que les tâches répétitives, les visuels basés sur les données et les normes d'entreprise peuvent être maintenus de manière transparente à l'intérieur de PowerPoint.  
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Conception de modèles de formation interactifs**  
   Créez des decks de formation réutilisables avec des éléments interactifs alimentés par des macros.  
@@ -75,7 +75,8 @@ Convertissez les **DOCM (Documents activés par des macros Word)** en **POTM (Mo
 - **Normalisation des modèles d'entreprise avec une automatisation intégrée**  
   Distribuez des modèles unifiés activés par des macros pour une cohérence entre les équipes.  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Convertisseurs préservant les macros de DOCM à POTM**  
   Conservez les macros VBA lors de la conversion de documents Word en modèles.  
@@ -92,7 +93,8 @@ Convertissez les **DOCM (Documents activés par des macros Word)** en **POTM (Mo
 - **Conversions basées sur des scripts pour des présentations dynamiques**  
   Utilisez des outils en ligne de commande ou pilotés par des scripts pour automatiser la génération de modèles de diapositives.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

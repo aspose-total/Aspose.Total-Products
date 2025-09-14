@@ -30,12 +30,12 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les e-mails en **Scalable Vector Graphics (SVG)** pour garantir que la représentation visuelle est indépendante de la résolution et adaptée à l'intégration dans les applications modernes. En utilisant l'API Java pour les e-mails, les visuels des e-mails peuvent être préservés dans des formats prêts pour le web.
 
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Publication Web** : Intégrez directement les graphiques des e-mails dans des sites web ou des blogs.
 - **Validation de Conception** : Partagez des instantanés basés sur des vecteurs des mises en page des e-mails.
@@ -52,7 +52,8 @@ Convertissez les e-mails en **Scalable Vector Graphics (SVG)** pour garantir que
 - **Base de Connaissances** : Publiez des e-mails liés à la formation au format SVG en ligne.
 - **Export en Lot** : Convertissez plusieurs communications en SVG pour les archives.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

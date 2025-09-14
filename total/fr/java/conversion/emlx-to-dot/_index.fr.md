@@ -30,23 +30,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers **EMLX** en **DOT (modèle Word)** transforme le contenu des e-mails en modèles de documents normalisés et réutilisables.  
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 - Création de modèles à partir de formats d'e-mails récurrents  
 - Préparation de fichiers DOT pour les communications juridiques ou RH  
 - Normalisation de la documentation basée sur les e-mails  
 - Conception de modèles Word de qualité entreprise à partir d'e-mails  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 - Pipelines EMLX-to-DOT pour créer des formats réutilisables  
 - Génération automatique de modèles à partir des archives d'e-mails  
 - Intégration de modèles DOT dans les flux de travail de l'entreprise  
 - Automatisation du branding des documents à partir des messages électroniques  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

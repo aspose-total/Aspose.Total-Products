@@ -54,22 +54,24 @@ L'API vous permet également de convertir des documents DOC protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOC** to **POTM (Modèle PowerPoint activé par macro)** est précieux pour activer les comportements automatisés des diapositives et les fonctions de macro dans les présentations dérivées de documents Word. Ce format prend en charge l'interactivité avancée et l'automatisation des tâches répétitives dans les présentations.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Création de diapositives d'entreprise interactives avec des macros intégrées
 - Automatisation de la mise en forme répétitive des présentations
 - Intégration de macros VBA pour la manipulation dynamique des diapositives
 - Génération de présentations basées sur les données avec des scripts automatisés
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Workflows d'injection de macros de DOC à POTM pour les modèles d'entreprise
 - Création de diapositives basée sur des scripts avec une mise en forme automatisée
 - Moteurs d'automatisation des diapositives d'entreprise pour la génération de contenu à grande échelle
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -30,11 +30,11 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers **EMLX (Fichiers de messagerie Apple Mail)** en un format **IMAGE générique** garantit la compatibilité avec une large gamme de systèmes, offrant une approche flexible pour archiver et partager visuellement des e-mails.  
 
-## ✅ Principaux cas d'utilisation  
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}  
 
 - **Visualisation universelle** → Assurer que le contenu des e-mails est visible sous forme d'images sur n'importe quel appareil ou système.  
 - **Archivage et stockage** → Convertir en formats IMAGE pour le stockage à long terme et les sauvegardes.  
@@ -42,7 +42,8 @@ Convertir les fichiers **EMLX (Fichiers de messagerie Apple Mail)** en un format
 - **Publication** → Insérer le contenu des e-mails dans des documents, des présentations ou des portails en ligne.  
 - **Partage sécurisé** → Distribuer les messages sous forme d'images statiques au lieu de texte modifiable.  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Pipelines génériques de conversion EMLX en image** → Automatiser la conversion en fichiers image compatibles avec le système.  
 - **Flux de travail d'entreprise** → Intégrer l'e-mail en image dans les systèmes de conformité et de reporting.  
@@ -50,7 +51,8 @@ Convertir les fichiers **EMLX (Fichiers de messagerie Apple Mail)** en un format
 - **Support multi-format** → Fournir des exportations IMAGE pour répondre aux exigences BMP, JPEG, PNG ou TIFF.  
 - **Archives sécurisées** → Enregistrer les messages sensibles dans des formats d'image non modifiables.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

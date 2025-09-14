@@ -30,11 +30,11 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir des e-mails en format **GIF** offre un moyen compact de préserver et de partager les visuels des e-mails. Avec l'API Java Email, les organisations peuvent générer des instantanés GIF d'e-mails pour une distribution et une intégration légères.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Partage léger** : Distribuer de petits instantanés d'e-mails.
 - **Formation et sensibilisation** : Utiliser des GIF d'e-mails de phishing dans des modules d'apprentissage en ligne.
@@ -42,7 +42,8 @@ Convertir des e-mails en format **GIF** offre un moyen compact de préserver et 
 - **Archivage** : Stocker les communications par e-mail dans un format léger.
 - **Utilisation multiplateforme** : Partager des images d'e-mails là où les formats d'image avancés ne sont pas pris en charge.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Automatisation de la base de connaissances** : Publier des e-mails convertis en GIF dans des portails de documentation.
 - **Formation à la sécurité** : Générer automatiquement des exemples GIF d'e-mails d'escroquerie pour la sensibilisation.
@@ -50,7 +51,8 @@ Convertir des e-mails en format **GIF** offre un moyen compact de préserver et 
 - **Export par lot** : Convertir en masse des e-mails en GIF pour l'archivage.
 - **Archivage léger** : Stocker des versions GIF plus petites des communications moins critiques.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

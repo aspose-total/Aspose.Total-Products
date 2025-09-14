@@ -61,24 +61,26 @@ Après avoir converti DOTM en DIF, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOTM** to **DIF (Data Interchange Format)** garantit un échange de données structurées de feuilles de calcul, idéal pour les systèmes hérités et la compatibilité multiplateforme. Ce format prend en charge des flux de travail pilotés par macro sans interruption et l'archivage des dossiers d'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Compatibilité avec les systèmes hérités pour l'import/export de feuilles de calcul
 - Interopérabilité des feuilles de calcul multiplateformes
 - Flux de travail d'archivage d'entreprise
 - Migration de données structurées entre applications
 - Reporting automatisé à partir de documents activés par macro
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines de conversion DOTM en DIF
 - Processus d'échange de données pilotés par macro
 - Reporting automatisé multiplateforme
 - Flux de travail ETL d'entreprise utilisant des fichiers DIF
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

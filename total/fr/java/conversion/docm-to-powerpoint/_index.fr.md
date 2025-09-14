@@ -54,12 +54,12 @@ L'API vous permet également de convertir des document DOCM protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Transforming **DOCM (Word Macro-Enabled Documents)** into **PowerPoint presentations (PPTX/PPT)** is crucial for turning structured documents into **visual, engaging slide decks**. This conversion enables teams to present complex reports, manuals, and business updates in a format that’s concise, collaborative, and ready for meetings or classrooms.  
 
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Transformer des rapports longs en présentations concises**  
   Convertir des documents de plusieurs pages en résumés prêts pour les diapositives.  
@@ -77,7 +77,8 @@ Transforming **DOCM (Word Macro-Enabled Documents)** into **PowerPoint presentat
   Présenter des insights de documents dans un format clair et visuel.  
 
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Générateurs automatiques de DOCM vers PowerPoint**  
   Construire automatiquement des diapositives à partir de tableaux, graphiques et sections Word.  
@@ -94,7 +95,8 @@ Transforming **DOCM (Word Macro-Enabled Documents)** into **PowerPoint presentat
 - **Conversions en masse de documents en decks de diapositives pour les bibliothèques de formation**  
   Automatiser la conversion de manuels en decks de formation réutilisables.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -54,24 +54,26 @@ L'API vous permet également de convertir des dotmuments DOTM protégés par mot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTM** en **PPTM (Présentation PowerPoint avec macros activées)** prend en charge des présentations dynamiques et interactives avec des macros pour les tableaux de bord financiers, les rapports de conformité et les decks d'entreprise automatisés.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Tableaux de bord financiers interactifs
 - Présentations d'entreprise automatisées
 - Rapports de conformité basés sur les workflows
 - Decks de formation alimentés par des macros
 - Génération de rapports d'entreprise
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines de macros DOTM vers PPTM
 - Automatisation des decks d'entreprise
 - Création de PowerPoint basée sur les workflows
 - Livraison de diaporamas basée sur des macros
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

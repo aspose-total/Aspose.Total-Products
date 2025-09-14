@@ -61,24 +61,26 @@ Après avoir converti DOT en FODS, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **DOT** en **FODS (Feuille de calcul ODF XML plate)** est important pour générer des feuilles de calcul open source basées sur XML à partir de modèles Word, prenant en charge les flux de travail multiplateformes et cloud.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Flux de travail OpenDocument
 - Traitement de feuilles de calcul basé sur le cloud
 - Compatibilité multiplateforme
 - Partage de données
 - Archivage à long terme
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines automatisées DOT-to-FODS
 - Intégration de flux de travail open source
 - Traitement de données FODS
 - Solutions de reporting interopérables
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

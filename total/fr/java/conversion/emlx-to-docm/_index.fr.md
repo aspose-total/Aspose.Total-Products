@@ -30,23 +30,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les **emails EMLX** en **DOCM (Document activé par macro Word)** pour garantir que les emails sont préservés dans des formats modifiables avec une automatisation intégrée.  
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 - Intégration du texte de l'email dans des modèles Word activés par macro  
 - Automatisation des flux de travail en utilisant des macros Word sur les données de l'email  
 - Préparation de rapports dynamiques à partir des messages EMLX  
 - Conversion des emails en fichiers Word réutilisables et interactifs  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 - Rapports DOCM générés automatiquement à partir d'emails en masse  
 - Flux de travail axés sur la conformité avec des macros intégrées  
 - Intégration avec des systèmes d'automatisation de documents d'entreprise  
 - Pipelines EMLX-vers-DOCM pour la documentation légale ou financière  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,25 +30,27 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 **Conversion de MSG en PDF** est l'une des transformations les plus largement utilisées, permettant aux e-mails d'être stockés, partagés et archivés de manière sécurisée dans un format universellement accepté.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 
 * Archivage légal et de conformité des e-mails
 * Partage sécurisé des e-mails entre plateformes
 * Conversion des fils de discussion d'e-mails en rapports PDF professionnels
 * Protection du contenu des e-mails avec chiffrement et autorisations
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 * Pipelines MSG-to-PDF pour les cabinets d'avocats et les entreprises
 * Archivage automatisé des boîtes de réception Outlook en PDF
 * Conversion par lot pour les rapports de conformité
 * Intégration e-mail vers PDF dans les systèmes de gestion de documents
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

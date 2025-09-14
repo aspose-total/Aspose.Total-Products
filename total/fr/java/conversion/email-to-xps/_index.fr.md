@@ -30,12 +30,12 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les e-mails en **XPS (XML Paper Specification)** pour obtenir un format de document à mise en page fixe similaire au PDF, idéal pour l'archivage et la distribution. Avec l'API Java pour les e-mails, les organisations peuvent préserver la fidélité des e-mails au format XPS.
 
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Archivage** : Stockez les e-mails importants au format à mise en page fixe pour une utilisation à long terme.
 - **Conformité** : Fournir des versions XPS des e-mails pour les régulateurs ou les audits.
@@ -44,7 +44,8 @@ Convertissez les e-mails en **XPS (XML Paper Specification)** pour obtenir un fo
 - **Stockage prêt à l'impression** : Conservez la communication sous forme préservée en mise en page.
 
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Exportation par lot** : Automatisez la conversion boîte aux lettres-XPS pour l'archivage.
 - **Automatisation de la conformité** : Stockez tous les e-mails de l'entreprise en XPS pour les politiques de conservation.
@@ -52,7 +53,8 @@ Convertissez les e-mails en **XPS (XML Paper Specification)** pour obtenir un fo
 - **Pipelines d'impression** : Envoyez directement les exportations d'e-mails XPS aux systèmes d'impression d'entreprise.
 - **Intégration cloud** : Synchronisez les e-mails convertis en XPS avec les services de stockage de documents.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

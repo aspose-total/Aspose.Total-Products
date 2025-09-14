@@ -61,24 +61,26 @@ Après avoir converti DOT en XLTM, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOT** en **XLTM (modèle Excel activé par macro)** permet de générer des modèles avancés prêts à l'automatisation, intégrant une logique pilotée par macro à partir de documents Word pour les flux de travail d'entreprise.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - Génération automatique de modèles  
 - Macros de reporting à l'échelle de l'entreprise  
 - Automatisation des processus métier  
 - Modèles de facturation dynamiques  
 - Modélisation financière  
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Automatisation pilotée par macro de DOT à XLTM  
 - Pipelines de modèles  
 - Transformation de document activé par macro en modèle  
 - Automatisation de la productivité d'entreprise  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

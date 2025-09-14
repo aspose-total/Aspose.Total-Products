@@ -61,11 +61,11 @@ Après avoir converti DOCM en ODS, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les **DOCM (Documents Word avec macros)** en **ODS (Feuilles de calcul OpenDocument)** est essentiel pour permettre l'utilisation de tableaux basés sur des documents et de données structurées dans **LibreOffice Calc et d'autres applications de feuilles de calcul compatibles avec l'ODF**. Alors que les fichiers DOCM contiennent souvent des tableaux précieux et des données de formulaire, les ODS fournissent un **format de feuille de calcul entièrement modifiable conforme à une norme ouverte** qui garantit l'accessibilité à long terme, la conformité et la collaboration. Cette conversion permet de relier les données basées sur Word aux écosystèmes open source, soutenant à la fois les exigences des entreprises et des gouvernements en matière de **formats de fichiers transparents et neutres vis-à-vis des fournisseurs**.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 
 - **Conversion des tableaux Word en feuilles de calcul modifiables**
   Transformer les tableaux intégrés dans les DOCM en ODS pour des calculs avancés, des formules et des analyses.
@@ -82,7 +82,8 @@ Convertir les **DOCM (Documents Word avec macros)** en **ODS (Feuilles de calcul
 - **Archivage à long terme dans des formats ouverts**
   Préserver les données structurées dans un format durable et basé sur des normes accessible pendant des décennies.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Exportations planifiées de DOCM vers ODS**
   Automatiser les conversions récurrentes de documents en feuilles de calcul pour les rapports et la consolidation des données.
@@ -99,7 +100,8 @@ Convertir les **DOCM (Documents Word avec macros)** en **ODS (Feuilles de calcul
 - **Convertisseurs cloud standardisant la sortie en ODS**
   Livrer les données DOCM en tant qu'ODS dans des suites de collaboration cloud privilégiant les normes ouvertes.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

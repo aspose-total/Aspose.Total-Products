@@ -30,23 +30,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *La conversion des e-mails en DOTX garantit des modèles normalisés et sans macro, idéaux pour la conformité et la création de documents propres.*
 
-### ✅ Cas d'utilisation clés
+#{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 * Transformer des e-mails structurés en modèles sûrs et réutilisables
 * Normaliser la documentation d'entreprise sans macros intégrées
 * Préparer des modèles cohérents avec l'image de marque pour la communication avec les clients
 * Transformer des e-mails de support ou d'annonce répétitifs en bibliothèques de modèles
 
-### ⚙️ Scénarios d'automatisation
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 * Création automatisée de modèles DOTX à partir de flux de travail d'e-mails répétitifs
 * Conversion en lot d'e-mails de support client ou RH en modèles réutilisables
 * Intégration avec des systèmes de documentation pour générer des modèles DOTX
 * Conversion planifiée des archives de communication en DOTX pour plus de cohérence
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

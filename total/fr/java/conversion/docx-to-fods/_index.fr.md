@@ -61,23 +61,25 @@ Après avoir converti DOCX en FODS, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOCX** en **FODS (Feuille de calcul ODF XML plat)** prend en charge les flux de travail de feuille de calcul open source et basés sur des normes. Cela garantit la compatibilité avec OpenOffice et produit des ensembles de données basés sur XML, conviviaux pour les différences, pour la conformité et le contrôle de version.
 
-### ✅ Cas d'utilisation clés
+#{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Interopérabilité avec **LibreOffice & OpenOffice**
 - **Archivage au format ouvert des données DOCX**
 - Création de **structures de feuilles de calcul basées sur XML**
 - Soutien aux **rapports de conformité à long terme**
 
-### ⚙️ Scénarios d'automatisation
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Automatisation open source de DOCX vers FODS**
 - **Pipelines de feuilles de calcul basées sur XML**
 - **Systèmes de reporting FODS**
 - **Flux de travail de suite bureautique multiplateforme**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

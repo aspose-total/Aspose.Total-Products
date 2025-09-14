@@ -47,23 +47,25 @@ Lors de la conversion du fichier CGM en XLTX, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir des fichiers CGM en **XLTX (modèle Excel sans macros)** à l'aide d'outils basés sur Java est essentiel pour les organisations qui ont besoin de conceptions de feuilles de calcul réutilisables sans dépendances de macro. Les modèles XLTX stockent les graphiques CGM et les mises en page des données dans un format sécurisé basé sur XML, garantissant la compatibilité avec les politiques de documents d'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Modèles d'ingénierie sans macro pour les rapports techniques.
 - Structures de rapports graphiques intégrant des diagrammes CGM.
 - Génération de mises en page standardisées pour les rapports récurrents.
 - Modèles conformes sans code exécutable.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Moteurs de modèles de feuilles de calcul Java pour la création de XLTX.
 - Convertisseurs de fichiers Office pour la transformation de CGM en XLTX.
 - Utilitaires de génération de rapports en Java pour une utilisation multi-départements.
 - Création en masse de XLTX pour les bibliothèques de documents d'entreprise partagées.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

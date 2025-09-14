@@ -30,19 +30,21 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **EPUB** est un format de livre électronique populaire. Convertir **EML en EPUB** permet de stocker et de lire facilement des e-mails sur des liseuses, des tablettes et des appareils mobiles.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Transformer des fils de discussion d'e-mails importants en livres électroniques portables.
 - Lire des correspondances archivées sur Kindle, Kobo ou des applications mobiles.
 - Publier des documents de formation ou d'intégration stockés dans des e-mails.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines automatisés qui convertissent les newsletters par e-mail en EPUB.
 - Migration des archives e-mail vers des bibliothèques de livres électroniques.
 - Conversion en lot d'e-mails en EPUB pour une lecture hors ligne.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

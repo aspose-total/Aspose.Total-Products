@@ -42,9 +42,9 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Essayez notre application gratuite pour la conversion CSV en PPS</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Cas d'utilisation clés</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Diapositives de présentation automatisées de produits
 - Génération instantanée de présentations client
 - Production de modules de formation basés sur diaporamas
@@ -56,7 +56,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 - Transitions et animations de diapositives déclenchées par Java
 - Intégration avec des plateformes de diffusion de contenu automatisées
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

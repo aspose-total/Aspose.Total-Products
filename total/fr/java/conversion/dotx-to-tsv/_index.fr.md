@@ -61,24 +61,26 @@ Après avoir converti DOTX en TSV, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOTX (Modèle Word)** en **TSV (Valeurs Séparées par des Tabulations)** garantit l'extraction de données tabulaires structurées, les rendant légères, portables et prêtes pour l'intégration avec les systèmes cloud et backend modernes.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - Migration de données à partir de modèles Word
 - Importation/exportation de feuilles de calcul avec TSV
 - Intégrations de base de données backend
 - Traitement de données tabulaires compatible avec le cloud
 - Reporting et analytique légers
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX-vers-TSV pour des exports structurés
 - Conversion en masse de modèles en données
 - Intégrations basées sur des API avec des outils d'entreprise
 - Workflows de normalisation des données pour la cohérence
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

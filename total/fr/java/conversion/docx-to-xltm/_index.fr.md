@@ -61,24 +61,26 @@ Après avoir converti DOCX en XLTM, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **DOCX** en **XLTM (modèle Excel activé par macro)** est important pour créer des modèles de feuilles de calcul réutilisables activés par macro qui intègrent une logique d'automatisation dérivée de documents.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Automatisation des flux de travail répétitifs
 - Création de modèles de macro prêts pour l'entreprise
 - Migration de la logique basée sur les macros de DOCX vers Excel
 - Prise en charge des modèles financiers et analytiques
 - Rationalisation des rapports
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Automatisation activée par macro de DOCX vers XLTM
 - Pipelines de génération de modèles
 - Gestion des macros d'entreprise
 - Flux de travail automatisés des modèles Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

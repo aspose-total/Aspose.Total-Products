@@ -61,24 +61,26 @@ Après avoir converti DOCM en XLTM, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Conversion de DOCM en XLTM : Modèles avec Macros activées
 
 La conversion de **DOCM** en **XLTM (Modèle Excel avec Macros activées)** permet aux organisations de créer des modèles de feuilles de calcul réutilisables avec des macros à partir de contenu Word. Ces modèles prennent en charge l'automatisation, la modélisation financière, les rapports et l'optimisation des flux de travail d'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Automatisation des **flux de travail répétitifs**
 - Création de **modèles de macros prêts pour l'entreprise**
 - Migration de la **logique basée sur les macros** de DOCM vers Excel
 - Prise en charge des **modèles financiers et analytiques**
 - Rationalisation des **processus de reporting**
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Automatisation des macros DOCM vers XLTM**
 - **Pipelines de génération de modèles**
 - **Gestion des macros d'entreprise**
 - **Flux de travail automatisés pour les modèles Excel**
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

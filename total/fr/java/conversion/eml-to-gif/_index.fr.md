@@ -30,23 +30,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **EML** en **GIF (Graphics Interchange Format)** pour transformer le contenu des e-mails en un format d'image léger et largement pris en charge.  
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 - **Affichage Web** : Intégrez des instantanés d'e-mails sur des sites Web ou des portails intranet.  
 - **Archivage léger** : Stockez des e-mails sous forme de GIF pour des prévisualisations rapides.  
 - **Partage multiplateforme** : Partagez des e-mails dans un format d'image universellement pris en charge.  
 - **Documentation** : Incluez le contenu des e-mails dans des supports de formation ou de reporting.  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 - **Pipelines E-mail vers GIF** : Convertissez les fichiers EML entrants en GIF pour les tableaux de bord.  
 - **Générateurs de prévisualisation** : Automatisez les images miniatures/de prévisualisation pour les e-mails archivés.  
 - **Stockage léger** : Convertissez par lots des e-mails en images GIF compactes.  
 - **Intégration de flux de travail** : Insérez des instantanés d'e-mails dans des systèmes de gestion des tickets ou de CRM.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

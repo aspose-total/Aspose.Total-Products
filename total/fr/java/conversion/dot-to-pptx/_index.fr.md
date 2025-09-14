@@ -54,24 +54,26 @@ L'API vous permet également de convertir des Documents DOT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOT** en **PPTX (Présentation PowerPoint Open XML)** permet de créer des fichiers PowerPoint modernes, modifiables, basés sur XML pour les flux de travail cloud, les modèles d'entreprise évolutifs et l'utilisation académique.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - Rapports d'entreprise
 - Flux de travail de présentation prêts pour le cloud
 - Cours académiques
 - Modèles d'entreprise évolutifs
 - Automatisation des propositions
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Conversion DOT en PPTX
 - Automatisation de la présentation PowerPoint XML
 - Intégration des flux de travail d'entreprise
 - Pipelines de document vers diapositive
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

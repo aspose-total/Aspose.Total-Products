@@ -49,25 +49,27 @@ Pendant que vous convertissez DOTX en JSON, vous pouvez également définir la p
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTX** en **JSON** permet un échange de données structurées, une intégration d'API et des flux de travail web modernes, rendant les données de document utilisables pour les services cloud, les applications web et les pipelines IA/ML.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Exportations de données prêtes pour les API
 - Intégration d'applications web
 - Services cloud
 - Pipelines de données
 - Préparation de jeux de données IA/ML
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX-vers-JSON
 - Génération automatique de JSON
 - Flux de travail API cloud
 - Intégrations de systèmes d'entreprise
 - Automatisation du lac de données
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

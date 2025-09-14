@@ -61,11 +61,11 @@ Après avoir converti DOCM en EXCEL, [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les **DOCM (Documents activés par macro Word)** en **Excel (Classeurs Microsoft Excel)** est essentiel pour transformer des données statiques basées sur des documents en **feuilles de calcul interactives** qui libèrent la puissance des fonctionnalités analytiques d'Excel. Alors que les fichiers DOCM contiennent souvent des tableaux structurés, des formulaires ou des listes de contrôle, Excel les enrichit avec des **formules, des tableaux croisés dynamiques, des graphiques et une validation des données**, rendant les informations plus exploitables et prêtes pour l'entreprise. Cette conversion comble le fossé entre les documents Word riches en texte et les modèles Excel dynamiques utilisés pour la prise de décisions, les rapports et les prévisions.  
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Transformer les tableaux Word en modèles Excel exploitables**  
   Convertir les tableaux DOCM statiques en feuilles Excel pour des calculs avancés et des modèles commerciaux.  
@@ -82,7 +82,8 @@ Convertir les **DOCM (Documents activés par macro Word)** en **Excel (Classeurs
 - **Centraliser les outils de suivi opérationnel dans Excel**  
   Consolider les données de plusieurs listes de contrôle DOCM dans un seul fichier Excel pour une surveillance à l'échelle de l'équipe.  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Processeurs en lots DOCM vers Excel**  
   Convertir plusieurs fichiers DOCM en classeurs Excel en masse pour des flux de travail à l'échelle de l'entreprise.  
@@ -99,7 +100,8 @@ Convertir les **DOCM (Documents activés par macro Word)** en **Excel (Classeurs
 - **Pipelines d'entreprise enrichissant les données et les ajoutant aux classeurs principaux**  
   Intégrer la conversion DOCM vers Excel dans les pipelines BI qui mettent à jour les systèmes de reporting centralisés.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,25 +30,27 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **EML to DOT** permet de transformer les e-mails en modèles Word réutilisables, utiles pour créer des formats de document structurés basés sur le contenu des e-mails.
 
-### ✅ Cas d'utilisation clés
+#{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 * Création de modèles standard à partir des communications client
 * Conversion des e-mails répétitifs en mises en page de document préconçues
 * Utilisation du contenu de l'e-mail comme base pour des rapports personnalisés
 * Préparation de modèles juridiques ou d'entreprise à partir du texte de l'e-mail
 
-### ⚙️ Scénarios d'automatisation
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 * Génération automatique de modèles de document à partir des demandes client entrantes
 * Systèmes de reporting basés sur des modèles
 * Formats de communication de projet standardisés
 * Pipelines d'e-mails vers modèles pour les flux de travail d'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

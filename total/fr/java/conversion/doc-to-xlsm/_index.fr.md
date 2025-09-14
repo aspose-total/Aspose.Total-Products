@@ -61,22 +61,24 @@ Après avoir converti DOC en XLSM, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOC** en **XLSM (Classeur Excel prenant en charge les macros)** intègre l'automatisation directement dans les sorties de feuille de calcul. Cela permet d'automatiser les tâches répétitives, de manipuler des données dynamiques et de générer des rapports intégrant des macros.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Automatisation des flux de travail des feuilles de calcul à partir des données du document
 - Intégration de macros dans les fichiers Excel convertis
 - Rationalisation des tâches de reporting répétitives
 - Intégration des ensembles de données du document dans des solutions Excel alimentées par des macros
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Outils d'injection de macros DOC-to-XLSM
 - Intégration automatisée de code VBA
 - Systèmes d'automatisation des rapports prenant en charge les macros
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

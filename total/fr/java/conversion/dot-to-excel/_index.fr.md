@@ -61,24 +61,26 @@ Après avoir converti DOT en EXCEL, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **DOT** en **Excel (XLS/XLSX)** transforme les modèles Word en feuilles de calcul interactives adaptées à l'analyse, au reporting et à l'automatisation des flux de travail dans les environnements d'entreprise.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Reporting commercial
 - Planification budgétaire
 - Modèles d'analyse de données
 - Optimisation des flux de travail
 - Feuilles de calcul d'entreprise
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Automatisation DOT vers Excel
 - Flux de travail prêts pour les feuilles de calcul
 - Gestion des données d'entreprise
 - Pipelines de document vers feuille de calcul
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

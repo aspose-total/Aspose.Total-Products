@@ -54,24 +54,26 @@ L'API vous permet également de convertir des dotmuments DOTM protégés par mot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTM** en **POTM (Modèle PowerPoint activé par macro)** est essentiel pour les entreprises qui ont besoin de modèles de présentation dynamiques et pilotés par macro pour des rapports automatisés et une efficacité des flux de travail.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Présentations automatisées  
 - Modèles de présentation financière  
 - Génération de diapositives activée par macro  
 - Présentations de formation et de conformité  
 - Automatisation de qualité entreprise  
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Conversion activée par macro de DOTM en POTM  
 - Automatisation de présentations PowerPoint  
 - Déploiement de macros basé sur les flux de travail  
 - Pipelines de présentation d'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

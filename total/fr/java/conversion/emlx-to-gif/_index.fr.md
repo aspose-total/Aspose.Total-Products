@@ -30,12 +30,12 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers **EMLX (Apple Mail Email Files)** en **GIF (Graphics Interchange Format)** est idéal pour partager et distribuer le contenu des e-mails dans un format compact et largement pris en charge. Le GIF garantit des tailles de fichier plus petites et une compatibilité facile sur toutes les plateformes.  
 
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Partage multiplateforme** → Partagez des e-mails sous forme d'images GIF sur des applications, des sites web et des messageries.  
 - **Archivage compact** → Stockez des messages dans un format GIF léger pour économiser de l'espace.  
@@ -44,7 +44,8 @@ Convertir les fichiers **EMLX (Apple Mail Email Files)** en **GIF (Graphics Inte
 - **Visualisation des e-mails** → Transformez les e-mails dans un format adapté aux tableaux de bord ou aux rapports.  
 
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Pipelines en masse de conversion EMLX en GIF** → Automatisez la conversion en images GIF de messages e-mail en masse.  
 - **Publication e-mail-web** → Convertissez automatiquement les e-mails entrants en GIF pour affichage web.  
@@ -52,7 +53,8 @@ Convertir les fichiers **EMLX (Apple Mail Email Files)** en **GIF (Graphics Inte
 - **Intégration d'outils de communication** → Convertissez EMLX en GIF pour l'intégration dans des applications de chat/messagerie.  
 - **Gestion légère des enregistrements** → Utilisez les conversions en GIF là où l'efficacité de stockage est importante.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

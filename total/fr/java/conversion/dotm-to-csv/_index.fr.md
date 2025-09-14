@@ -61,9 +61,9 @@ Après avoir converti DOTM en CSV, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Cas d'utilisation clés</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Migration de données à partir de modèles activés par macro dans des bases de données
 - Flux de travail d'import/export à travers plusieurs systèmes
 - Traitement et analyse de données d'entreprise
@@ -76,7 +76,8 @@ Après avoir converti DOTM en CSV, [Aspose.Cells for Java](https://products.aspo
 - Reporting CSV automatisé à partir de modèles Word
 - Pipelines ETL d'entreprise pour des données structurées
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

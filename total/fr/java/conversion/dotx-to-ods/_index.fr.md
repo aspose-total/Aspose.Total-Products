@@ -61,25 +61,27 @@ Après avoir converti DOTX en ODS, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTX** en **ODS (OpenDocument Spreadsheet)** prend en charge les organisations utilisant des outils de bureau open source tout en permettant la conformité, l'analyse de données multiplateforme et la recherche académique.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Reporting open source
 - Analyse de données multiplateforme
 - Recherche académique
 - Flux de travail de documents multi-systèmes
 - Conformité ODF de l'UE/Gouvernement
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines DOTX-to-ODS
 - Génération automatisée d'ODS
 - Flux de travail LibreOffice/Apache OpenOffice
 - Automatisation d'entreprise des données ouvertes
 - Automatisation de feuilles de calcul multiplateforme
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

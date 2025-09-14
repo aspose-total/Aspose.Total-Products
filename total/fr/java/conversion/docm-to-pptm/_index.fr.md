@@ -54,11 +54,11 @@ L'API vous permet également de convertir des document DOCM protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les **documents DOCM (documents Word avec macros)** en **présentations PPTM (présentations PowerPoint avec macros)** est essentiel pour les organisations ayant besoin de **présentations interactives pilotées par macros**. Les fichiers PPTM conservent l'automatisation, permettant une **navigation dynamique, des rapports automatisés et des démonstrations de produits interactives**.  
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 
 - **Conception de diapositives de formation automatisées**  
   Améliorez la formation avec des diapositives interactives activées par macros.  
@@ -75,7 +75,8 @@ Convertir les **documents DOCM (documents Word avec macros)** en **présentation
 - **Optimisation des tâches répétitives dans les présentations**  
   Utiliser des macros pour gagner du temps à travers les équipes.  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 
 - **Convertisseurs préservant les macros de DOCM à PPTM**  
   Assurer le transfert transparent des scripts d'automatisation.  
@@ -92,7 +93,8 @@ Convertir les **documents DOCM (documents Word avec macros)** en **présentation
 - **Pipelines de reporting avancés exportant des fichiers PPTM**  
   Livrer des présentations de reporting automatisées.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

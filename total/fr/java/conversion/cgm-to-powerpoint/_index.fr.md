@@ -59,21 +59,23 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM à la conversion PowerPoint permet d'intégrer directement des diagrammes d'ingénierie basés sur des vecteurs dans des présentations entièrement fonctionnelles. Cela est essentiel pour les mises à jour commerciales, les rapports de projet et les démonstrations techniques, garantissant la clarté et la précision dans la communication visuelle.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Rapports visuels pour les parties prenantes** – Inclure des visuels techniques précis pour la prise de décision.
 - **Présentations avec des diagrammes d'ingénierie** – Intégrer de manière transparente des fichiers CGM dans les diapositives.
 - **Contenu marketing avec des visuels techniques** – Combinez l'image de marque avec des graphiques d'ingénierie.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **API Java PowerPoint** – Automatisez la création de diapositives à partir de diagrammes CGM avec Apache POI.
 - **Génération de diapositives d'entreprise** – Générez en lot des présentations pour des rapports récurrents.
 - **Flux de conversion automatisée de CGM en diapositives** – Intégrez dans les systèmes de gestion de contenu d'entreprise.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

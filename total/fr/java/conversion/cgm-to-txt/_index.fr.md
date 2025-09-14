@@ -47,13 +47,13 @@ Lors de la conversion du fichier CGM en TXT, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **Fichiers Computer Graphics Metafile (CGM)** en format **TXT (Texte brut)** est précieux pour extraire, documenter et traiter les informations graphiques vectorielles sous une forme légère et lisible par l'homme. Dans les **pipelines de traitement de données alimentés par Java**, cette conversion permet de transformer les diagrammes CGM en représentations textuelles pour le journalisation, le stockage des métadonnées ou l'analyse en aval. En capturant les éléments descriptifs des fichiers CGM en TXT, les organisations peuvent simplifier l'intégration avec d'autres systèmes, permettre une recherche et un indexation rapides, et assurer une compatibilité à long terme.
 
 
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Journalisation basée sur le texte des diagrammes**  
   Stockez les informations des diagrammes CGM sous forme de texte brut pour des raisons d'audit, de débogage ou d'archivage.
@@ -65,7 +65,8 @@ Converting **Fichiers Computer Graphics Metafile (CGM)** en format **TXT (Texte 
   Documentez les données d'ingénierie liées aux CGM dans des fichiers TXT pour une référence rapide et un stockage léger.
 
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Bibliothèques d'E/S Java pour la conversion**  
   Utilisez les API de manipulation de fichiers Java standard ainsi que des analyseurs CGM pour extraire et écrire le contenu dans des fichiers TXT.
@@ -79,7 +80,8 @@ Converting **Fichiers Computer Graphics Metafile (CGM)** en format **TXT (Texte 
 - **Exportateurs de texte brut dans les pipelines ETL**  
   Intégrez l'analyse des CGM et l'exportation en TXT dans des workflows d'extraction-transformation-chargement basés sur Java pour le traitement de données structurées.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -42,23 +42,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Essayez notre application gratuite pour la conversion CSV en DOTM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez un fichier CSV en DOTM (modèle Word activé par macro) permet aux entreprises d'automatiser la création de modèles interactifs pilotés par macro à partir d'ensembles de données structurées. Les modèles DOTM peuvent exécuter des macros VBA, ce qui les rend idéaux pour la génération de documents répétitifs et logiques.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Génération de modèles de documents dynamiques avec des macros intégrées** - Permettre des mises à jour de contenu basées sur la logique.
 - **Automatisation des rapports commerciaux récurrents** - Planifier la population de modèles activés par macro.
 - **Création de formulaires pilotés par macro préremplis avec des données CSV** - Réduire la saisie manuelle et améliorer la précision.
 - **Préparation de documents par lots au niveau de l'entreprise** - Automatiser la production de plusieurs documents basés sur des modèles.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Outils de génération de modèles DOTM basés sur Java** - Construire des modèles activés par macro de manière programmatique.
 - **Association de données CSV avec des modèles activés par macro** - Remplir automatiquement les espaces réservés avec des données CSV.
 - **Intégration avec un logiciel d'automatisation des flux de travail** - Déclencher la création de documents à partir des étapes du flux de travail.
 - **Mises à jour planifiées des modèles via des applications Java** - Maintenir les modèles à jour avec des rafraîchissements de données planifiés.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

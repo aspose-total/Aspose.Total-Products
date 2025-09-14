@@ -61,9 +61,9 @@ Après avoir converti DOCX en SXC, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Cas d'utilisation clés</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Migration de données vers OpenOffice/LibreOffice  
 - Préservation du contenu tabulaire structuré des documents  
 - Compatibilité avec les systèmes basés sur StarOffice  
@@ -75,7 +75,8 @@ Après avoir converti DOCX en SXC, [Aspose.Cells for Java](https://products.aspo
 - Flux de travail de reporting open-source  
 - Pipelines de documents vers feuilles de calcul d'entreprise  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

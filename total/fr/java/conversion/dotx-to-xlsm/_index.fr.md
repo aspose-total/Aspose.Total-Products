@@ -61,24 +61,26 @@ Après avoir converti DOTX en XLSM, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 ## Transformation de **DOTX (modèle Word)** en **XLSM (classeur Excel activé par macro)** débloque l'automatisation en intégrant de puissantes macros dans les feuilles de calcul Excel. Cela est idéal pour les flux de travail commerciaux avancés, la modélisation financière automatisée et l'automatisation des tâches d'entreprise.
 
-#### ✅ Cas d'utilisation clés
+##{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Modélisation financière automatisée à partir de modèles
 - Automatisation des flux de travail entre les départements
 - Traitement avancé des données dans Excel
 - Intégration de macros commerciales pour les tâches récurrentes
 - Automatisation des tâches basées sur des documents avec des macros
 
-#### ⚙️ Scénarios d'automatisation
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Pipelines de macros DOTX-vers-XLSM
 - Génération automatisée de feuilles de calcul avec des macros
 - Flux de travail d'automatisation des tâches d'entreprise
 - Scripting Excel basé sur des modèles pour la productivité
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

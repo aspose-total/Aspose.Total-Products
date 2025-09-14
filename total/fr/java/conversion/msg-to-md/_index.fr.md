@@ -30,25 +30,27 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **MSG en MD (Markdown)** garantit que le contenu de l'e-mail est simplifié dans un format texte léger largement utilisé dans la documentation, les wikis et les plateformes de développement.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 * Publication du contenu de l'e-mail sur GitHub, GitLab ou les systèmes de documentation
 * Conversion de newsletters en articles de blog basés sur Markdown
 * Notes d'e-mail en markdown pour la collaboration d'équipe
 * Archivage simplifié dans un format texte léger
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 * Pipelines MSG-to-MD pour les bases de connaissances des développeurs
 * Conversions automatiques d'e-mail en wiki
 * Export en lot de newsletters par e-mail en articles Markdown
 * Intégration avec les flux de travail CI/CD de la documentation
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

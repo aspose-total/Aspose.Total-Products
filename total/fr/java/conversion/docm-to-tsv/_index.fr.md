@@ -61,25 +61,27 @@ Après avoir converti DOCM en TSV, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting les fichiers **DOCM** en **TSV (valeurs séparées par des tabulations)** est important pour exporter des données structurées à partir de documents Word vers des formats légers basés sur du texte, faciles à intégrer à travers les systèmes. TSV garantit une interopérabilité propre avec les ERP, CRM, les plateformes analytiques et les anciennes plateformes, tout en permettant également des flux de travail d'apprentissage automatique et des échanges de données à travers les environnements de programmation.  
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Préparer des données structurées en **texte** pour les **importations ERP ou CRM**  
 - Migrer des tableaux vers les **plateformes analytiques et de BI**  
 - Partager des ensembles de données tabulaires à travers les **environnements de programmation et de script**  
 - Construire des **ensembles de données pour l'apprentissage automatique** et les flux de travail en IA  
 - Permettre **l'échange de données avec des systèmes anciens** qui nécessitent des formats légers  
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Pipelines d'extraction automatisée DOCM-vers-TSV** pour une conversion évolutive  
 - **Flux ETL** générant des ensembles de données prêts pour TSV  
 - **Services de dossier surveillé** produisant des sorties TSV continues  
 - **Conversions pilotées par API** émettant du TSV pour des intégrations en aval  
 - **Centres de données d'entreprise** tirant parti du TSV pour une interopérabilité légère  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertisseur **EML** en **formats d'image généraux** (BMP, PNG, JPEG, TIFF, etc.) capture la représentation visuelle complète d'un e-mail sous forme d'image statique.  
 
-## ✅ Cas d'utilisation clés  
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
 - **Visualisation universelle** : Visualisez le contenu de l'e-mail sans avoir besoin d'un client e-mail.  
 - **Preuve numérique** : Conservez une copie exacte de l'e-mail à des fins légales et de conformité.  
 - **Partage facile** : Envoyez des e-mails sous forme d'images via des messageries ou des plateformes sociales.  
 - **Formation et documentation** : Insérez des visuels d'e-mails complets dans des manuels d'utilisation.  
 
-## ⚙️ Scénarios d'automatisation  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
 - **Exportation multi-format** : Convertissez automatiquement un EML en plusieurs formats d'image.  
 - **Systèmes de capture d'e-mails** : Stockez tous les e-mails entrants sous forme de captures d'écran.  
 - **Flux de travail d'investigation** : Normalisez les formats d'image pour les enquêtes.  
 - **Pipelines d'archivage** : Automatisez la préservation à long terme dans des bibliothèques d'images.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

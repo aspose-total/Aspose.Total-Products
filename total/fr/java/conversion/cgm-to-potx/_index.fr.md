@@ -59,21 +59,23 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les fichiers CGM en POTX (modèle de présentation Open XML) pour obtenir un format de modèle flexible et moderne adapté aux flux de travail de présentation commerciale et technique évolutifs. Le POTX prend en charge les graphiques vectoriels, ce qui en fait un choix idéal pour les visuels techniques basés sur les fichiers CGM qui doivent être réutilisés dans plusieurs présentations.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Rapports visuels conformes aux normes de l'industrie** - Préparez des mises en page professionnelles pour les présentations aux clients et aux parties prenantes.
 - **Modèles de conception technique** - Intégrez des diagrammes vectoriels évolutifs dans des mises en page réutilisables.
 - **Diapositives de marque réutilisables** - Assurez une identité d'entreprise cohérente à travers différents services.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Systèmes de documents Open XML basés sur Java** - Automatisez la conversion CGM en POTX avec les API Apache POI XSLF.
 - **Automatisation du contenu d'entreprise** - Rationalisez la création de bibliothèques de modèles de marque.
 - **Pipelines de présentation basés sur des modèles** - Intégrez-les dans des pipelines CI/CD pour une préparation automatisée des présentations.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -57,12 +57,12 @@ L'API vous permet également d'exporter le fichier CGM vers DXF dans un seul fic
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers **Computer Graphics Metafile (CGM)** en **DXF (Drawing Exchange Format)** est essentiel dans les flux de travail de **CAO (Conception Assistée par Ordinateur)** pour assurer une interopérabilité transparente entre les systèmes d'ingénierie, d'architecture et de fabrication. Dans les applications basées sur **Java**, cette conversion permet de transformer des diagrammes techniques vectoriels de CGM en un format CAO largement pris en charge, les rendant modifiables, partageables et compatibles avec les outils de conception standard de l'industrie. Ceci est crucial pour la conception collaborative, la fabrication de précision et l'archivage de dessins techniques.
 
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Interopérabilité de la Conception d'Ingénierie**  
   Partagez et modifiez des conceptions basées sur CGM dans des outils CAO prenant en charge DXF pour une collaboration interplateforme.
@@ -85,7 +85,8 @@ Convertir les fichiers **Computer Graphics Metafile (CGM)** en **DXF (Drawing Ex
 - **Systèmes d'Archivage CAO Automatisés**  
   Stockez les conceptions CGM sous forme de fichiers DXF dans des archives d'ingénierie à long terme pour une réutilisation future et la conformité.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

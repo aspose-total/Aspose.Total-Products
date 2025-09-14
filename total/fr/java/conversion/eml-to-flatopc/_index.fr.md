@@ -30,21 +30,23 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **EML en OPC plat (Office Open XML sous forme de fichier plat)** pour préserver le contenu de l'e-mail dans une représentation structurée, basée sur XML, en un seul fichier.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Stocker le contenu de l'e-mail dans un format XML lisible par l'homme.
 - Améliorer l'interchangeabilité des e-mails avec les systèmes Office Open XML.
 - Déboguer et analyser la structure du document.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Automatisation des flux de travail dans le traitement des documents Office.
 - Archivage des données d'e-mails dans des systèmes conformes à XML.
 - Convertir l'EML en OPC plat pour une automatisation ultérieure de Word.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

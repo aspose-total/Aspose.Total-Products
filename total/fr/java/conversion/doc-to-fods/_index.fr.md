@@ -61,22 +61,24 @@ Après avoir converti DOC en FODS, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **DOC** en **FODS (Feuille de calcul OpenDocument plate)** est important pour créer des fichiers de feuille de calcul structurés basés sur XML à partir des données de documents Word. Cela permet une interopérabilité standard ouverte et garantit l'accessibilité à long terme des données tabulaires.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Conversion des tableaux Word en feuilles de calcul conformes à l'ODF
 - Partage de données structurées entre les systèmes OpenOffice/LibreOffice
 - Archivage de données dans des formats ouverts basés sur XML
 - Permettre l'interopérabilité entre documents et feuilles de calcul
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Convertisseurs DOC vers FODS pour une sortie standardisée
 - Scripts de transformation XML pour un formatage précis
 - Flux de travail de données basé sur OpenDocument pour la collaboration
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -42,25 +42,27 @@ Lors de l'enregistrement de votre document d'entrée au format de fichier ODT, v
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir les fichiers CGM (Computer Graphics Metafile) en ODT (OpenDocument Text) offre un moyen pratique d'intégrer des illustrations vectorielles précises dans des documents au format ouvert. Cela garantit des visuels de haute qualité dans les manuels techniques, les rapports d'ingénierie et les documents d'archives, tout en maintenant la compatibilité avec les outils d'édition open-source.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Publication de documents techniques avec des diagrammes vectoriels intégrés.
 - Création de manuels de maintenance avec des illustrations évolutives.
 - Archivage de diagrammes standard de l'industrie dans un format ouvert.
 - Préparation de documents gouvernementaux et institutionnels.
 - Mise en forme de documents scientifiques avec des graphiques basés sur des vecteurs.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Moteurs de génération de documents basés sur Java pour la rédaction technique.
 - Flux de travail d'éditeur de texte open-source avec intégration vectorielle.
 - Systèmes de publication automatisés pour les manuels techniques.
 - Systèmes de reporting d'entreprise avec intégration de diagrammes.
 - Dépôts de documentation sous contrôle de version.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

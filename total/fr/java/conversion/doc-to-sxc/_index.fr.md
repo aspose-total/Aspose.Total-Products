@@ -61,9 +61,9 @@ Après avoir converti DOC en SXC, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-<h2>✅ Cas d'utilisation clés</h2>
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Migration de données texte-vers-tableur pour l'analyse
 - Intégration avec les environnements OpenOffice/LibreOffice Calc
 - Préparation de documents pour des calculs de tableur complexes
@@ -74,7 +74,8 @@ Après avoir converti DOC en SXC, [Aspose.Cells for Java](https://products.aspos
 - Mappage automatisé du style vers les cellules pour un formatage précis
 - Outils de transformation de document en tableur pour de grands ensembles de données
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,19 +30,21 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **SVG (Graphiques vectoriels évolutifs)** est un format vectoriel adapté au web. Convertir **EML en SVG** permet de stocker et d'afficher des e-mails sous forme de graphiques évolutifs.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Intégrer des e-mails sous forme de graphiques vectoriels dans des sites web.
 - Créer des archives interactives de correspondance.
 - Visualiser le contenu des e-mails dans des systèmes de conception.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Conversion par lot pour la publication web.
 - Automatisation de l'archivage de modèles d'e-mails personnalisés.
 - Transformation d'e-mails en SVG pour les flux de travail UI/UX.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

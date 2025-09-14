@@ -54,24 +54,26 @@ L'API vous permet également de convertir des documents DOCX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Transformez les **DOCX** en **PowerPoint** est essentiel pour transformer les documents écrits, les rapports ou les propositions en présentations visuellement attrayantes qui communiquent efficacement les idées.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Présentations d'entreprise
 - Enseignement en classe
 - Modules de formation
 - Présentations de pitch
 - Narration visuelle
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Génération en lot de diapositives DOCX vers PowerPoint
 - Pipelines de reporting d'entreprise
 - Flux de travail de document vers présentation
 - Création automatisée de contenu de formation
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

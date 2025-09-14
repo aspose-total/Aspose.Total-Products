@@ -47,21 +47,23 @@ Lors de la conversion du fichier CGM en XLAM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez les fichiers CGM en XLAM (Complément Excel activé par macro) pour intégrer des diagrammes vectoriels dans des outils analytiques, améliorant ainsi les rapports techniques et les tableaux de bord interactifs.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - **Intégration de graphiques vectoriels dans des extensions Excel** - Améliorez les macros avec des illustrations techniques.
 - **Reporting dynamique** - Mettez automatiquement à jour les diagrammes dans les feuilles de calcul activées par macro.
 - **Tableaux de bord techniques** - Fournissez aux ingénieurs des visualisations de données en direct.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - **Bibliothèques de pont Java-Excel** - Connectez le rendu CGM aux macros Excel.
 - **Scripts de rendu CGM dans des feuilles de calcul** - Automatisez les mises à jour des diagrammes dans les rapports.
 - **Plateformes d'automatisation Excel** - Déployez des solutions Excel interactives et visuellement enrichies.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

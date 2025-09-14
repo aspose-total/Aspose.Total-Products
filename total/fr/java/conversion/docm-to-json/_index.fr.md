@@ -49,8 +49,8 @@ Pendant que vous convertissez DOCM en JSON, vous pouvez également définir la p
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Cas d'utilisation clés
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 
 - **Publication des données du document sur les API REST/GraphQL**  
   Servir le contenu extrait de DOCM sous forme de JSON pour une consommation directe des API dans les applications web et mobiles.
@@ -67,7 +67,8 @@ Pendant que vous convertissez DOCM en JSON, vous pouvez également définir la p
 - **Activer les CMS sans tête ou les architectures de microservices**  
   Intégrer le contenu DOCM dans des systèmes distribués d'abord par API où JSON est la lingua franca.
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 
 - **Extraction DOCM vers JSON avec mappage de champs**  
   Définir des mappings pour transformer les tables, les en-têtes et les champs en objets JSON structurés.
@@ -83,7 +84,8 @@ Pendant que vous convertissez DOCM en JSON, vous pouvez également définir la p
 
 - **Règles de gouvernance qui suppriment les macros et les informations personnelles avant l'exportation en JSON**  
   Appliquer des vérifications de conformité pour garantir des sorties JSON sûres et sanitaires à partir de fichiers activés par macro.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

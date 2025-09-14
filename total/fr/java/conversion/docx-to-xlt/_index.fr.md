@@ -61,24 +61,26 @@ Après avoir converti DOCX en XLT, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOCX** en **XLT (modèle Excel)** permet de créer des modèles de feuilles de calcul réutilisables à partir du contenu du document, standardisant ainsi les rapports d'entreprise et automatisant les flux de travail répétitifs.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Standardisation des rapports commerciaux
 - Création de modèles réutilisables
 - Cadres de saisie de données d'entreprise
 - Automatisation des flux de travail Excel
 - Formatage cohérent entre les équipes
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Création automatisée de modèles DOCX vers XLT
 - Standardisation des flux de travail
 - Gestion des feuilles de calcul d'entreprise
 - Automatisation Excel basée sur des modèles
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

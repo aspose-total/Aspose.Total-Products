@@ -42,23 +42,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Essayez notre application gratuite pour la conversion CSV en PPTX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **CSV** to **PPTX (Présentation PowerPoint Open XML)** permet de produire des présentations modernes, légères et facilement partageables à partir d'ensembles de données structurées. Ce format prend en charge des fonctionnalités de conception avancées et est compatible avec les dernières versions de PowerPoint.
 
-## ✅ Principaux cas d'utilisation
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
 - Création de présentations commerciales dynamiques
 - Automatisation des présentations de conférence
 - Génération de propositions prêtes pour les clients
 - Visualisation des ensembles de données CSV pour les rapports de gestion
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Workflows de conversion par lots de CSV en PPTX
 - Application de thèmes et de mises en page de diapositives pilotée par Java
 - Intégration avec des pipelines de contenu automatisés
 - Traitement à haute vitesse pour de grands ensembles de données
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

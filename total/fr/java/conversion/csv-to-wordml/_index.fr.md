@@ -42,22 +42,24 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Essayez notre application gratuite pour la conversion CSV en WORDML</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Converting **CSV** to **WORDML (Document Microsoft Word XML)** permet la production de documents Word XML hautement structurés, lisibles par l'homme et exploitables par les machines. Cela est particulièrement précieux pour les entreprises nécessitant une création de documents basée sur les données avec une intégration transparente dans les systèmes basés sur WordprocessingML.
 
-### ✅ Cas d'utilisation clés
+#{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Création de documents Word XML basés sur les données à partir d'ensembles de données CSV
 - Intégration avec les systèmes WordprocessingML pour une génération de contenu automatisée
 - Production de documents lisibles par les machines pour un échange entre systèmes
 - Préparation du contenu pour des pipelines de publication automatisés avec une mise en forme précise
 
-### ⚙️ Scénarios d'automatisation
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Utilisation d'outils de mappage CSV vers WORDML pour transformer des ensembles de données structurées en format Word XML
 - Application de moteurs de style XML alimentés par Java pour une sortie personnalisable
 - Automatisation de la population de documents dans les systèmes de gestion de contenu d'entreprise
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

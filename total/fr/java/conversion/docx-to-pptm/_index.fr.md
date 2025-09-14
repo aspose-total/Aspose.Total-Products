@@ -54,24 +54,26 @@ L'API vous permet également de convertir des documents DOCX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOCX** en **PPTM (Présentation PowerPoint avec macros activées)** permet d'intégrer l'automatisation et la logique des macros directement dans les diapositives pour des présentations avancées de flux de travail.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Tableaux de bord d'entreprise interactifs
 - Diapositives basées sur les flux de travail
 - Modules d'apprentissage avec macros activées
 - Présentations de rapports automatisées
 - Systèmes de formation d'entreprise
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Flux de travail avec macros activées de DOCX à PPTM
 - Pipelines de tableaux de bord d'entreprise
 - Diaporamas interactifs pilotés par l'automatisation
 - Création de présentations à partir de documents avec macros
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -54,24 +54,26 @@ L'API vous permet également de convertir des dotmuments DOTM protégés par mot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertir **DOTM** en **PPSX (PowerPoint Slide Show Open XML)** est essentiel pour les présentations modernes prêtes pour les diaporamas, permettant l'automatisation cloud et les flux de travail de présentation d'événements à grande échelle.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Automatisation de la formation
 - Diaporamas de démonstration commerciale
 - Partage de rapports à l'échelle de l'entreprise
 - Présentations d'événements à grande échelle
 - Signalétique numérique
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Intégration de flux de travail DOTM vers PPSX
 - Automatisation de diaporamas prêts pour XML
 - Pipelines de livraison de présentations d'entreprise
 - Diaporamas PowerPoint générés automatiquement
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

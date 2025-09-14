@@ -42,23 +42,25 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Essayez notre application gratuite pour la conversion CSV en OTT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Convertissez **CSV** en **OTT (modèle de document texte OpenDocument)** permet aux organisations de créer des modèles réutilisables et normalisés pré-remplis avec des ensembles de données structurées. Les modèles OTT garantissent une mise en forme et un style cohérents à travers plusieurs documents générés, les rendant idéaux pour les rapports officiels, les modèles conformes au gouvernement et l'automatisation de documents à grande échelle.
 
-## ✅ Cas d'utilisation clés
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
 - Préparation de rapports basés sur des modèles dans LibreOffice ou OpenOffice
 - Automatisation de la création de documents normalisés à partir d'ensembles de données
 - Création de modèles de documents ouverts conformes au gouvernement
 - Distribution de formats de modèles réutilisables pour une utilisation en équipe ou organisationnelle
 
-## ⚙️ Scénarios d'automatisation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
 - Outils de génération OTT basés sur Java pour la création de modèles structurés
 - Systèmes de mappage CSV-vers-modèle pour la population directe de données
 - Utilitaires de conversion OTT par lot pour la préparation de documents en masse
 - Population automatisée de documents avec des ensembles de données CSV pour des gains de temps
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
