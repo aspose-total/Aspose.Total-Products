@@ -58,7 +58,32 @@ Using the API, you can also parse JSON to DOCM with watermark. In order to add a
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **JSON to DOCM** is important for embedding **macros into Word documents** generated from structured data. This process enables organizations to combine raw datasets with powerful automation features inside Word, allowing for dynamic content generation, business rule execution, and interactive document functionality. By transforming JSON into DOCM files, enterprises can streamline workflows, enhance reporting, and build macro-enabled templates that adapt to evolving data needs.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+- **Automated document workflows** – Drive repeatable document creation with embedded macros.  
+- **Data analysis scripts** – Integrate JSON-driven macros for real-time calculations and processing.  
+- **Macro-enabled templates** – Build reusable, intelligent templates for enterprise documentation.  
+- **Enterprise reporting systems** – Generate reports with automated formatting and analysis.  
+- **Interactive compliance forms** – Deliver forms with macro-enabled validation and processing rules.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+- **JSON-to-DOCM pipelines** – Automate the transformation of structured datasets into macro-enabled Word files.  
+- **Auto-triggered Word macros** – Execute macros dynamically during or after document generation.  
+- **Dynamic business rule processing** – Apply enterprise policies and data rules directly within documents.  
+- **Macro-enabled reporting automation** – Standardize and accelerate complex reporting workflows at scale.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

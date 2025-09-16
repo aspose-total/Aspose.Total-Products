@@ -49,7 +49,32 @@ Using the API, you can also parse JSON to DOT with watermark. In order to add a 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **JSON to DOT** is essential for creating **Word templates** from structured data sources. This transformation enables businesses to turn raw datasets into reusable, standardized templates that ensure consistency across corporate, legal, and departmental documentation. By generating DOT files from JSON, organizations can automate template production, streamline compliance-driven workflows, and maintain branding consistency across all documents.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+- **Enterprise letterheads** – Produce branded templates for official communications.  
+- **Legal templates** – Standardize agreements and contracts directly from structured data.  
+- **Invoice automation** – Generate reusable invoice formats powered by JSON inputs.  
+- **Standardized agreements** – Ensure uniformity in corporate and partner documentation.  
+- **Departmental templates** – Deliver consistent document formats across teams.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+- **JSON-to-DOT pipelines** – Automate the creation of Word templates from structured datasets.  
+- **Automated template generation** – Build standardized templates with minimal manual effort.  
+- **JSON-driven corporate document frameworks** – Power enterprise-wide template systems with dynamic data.  
+- **Template distribution workflows** – Deploy ready-to-use DOT files consistently across organizations.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,28 @@ Using the API, you can also rotate the output APNG image as per your needs. The 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}  
+Converting **EPUB to APNG** plays a vital role in enhancing digital publishing by transforming static eBooks into **animated image previews**. This process brings life to digital publications, making them more engaging, interactive, and visually appealing across multiple platforms. From e-learning to marketing, APNG previews help publishers deliver dynamic experiences that capture attention.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
+- **Interactive book previews** – Showcase animated highlights from digital books.  
+- **Animated e-learning content** – Deliver visual explanations for better student engagement.  
+- **Rich media publishing** – Add dynamic previews to enhance storytelling and design.  
+- **Digital marketing creatives** – Use animated snippets for promotional campaigns.  
+- **Cross-platform storytelling** – Share animations across devices and platforms seamlessly.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
+- **EPUB-to-APNG conversion pipelines** – Streamlined workflows for publishers.  
+- **Automated animated preview generation** – Create previews instantly at scale.  
+- **E-learning platform integrations** – Convert lessons into engaging APNG snippets.  
+- **Large-scale publishing automation** – Enable bulk conversion for digital libraries.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

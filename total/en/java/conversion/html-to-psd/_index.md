@@ -65,7 +65,32 @@ Using the API, you can also rotate the output PSD image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **HTML to PSD (Photoshop Document)** is essential for generating **layered graphic files** from web pages. PSD files preserve layers, text, and design elements, allowing designers to edit, adapt, and repurpose web content efficiently. By transforming HTML into PSD, organizations can streamline UI/UX workflows, create high-quality marketing assets, and maintain flexibility for web redesign and digital design projects.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+- **UI/UX design** – Extract web page layouts into editable PSD layers for rapid prototyping and design iteration.
+- **Website redesign workflows** – Convert existing pages into layered files to facilitate updates or redesigns.
+- **Marketing creatives** – Create banners, social media visuals, and campaign graphics from web content.
+- **Digital mockups** – Build realistic product or webpage mockups for presentations and client approvals.
+- **eCommerce design assets** – Repurpose web page sections for product pages, promotional images, and catalogs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+- **HTML-to-PSD pipelines** – Automate conversion of web pages into layered Photoshop files.
+- **Automated layered graphic generation** – Produce PSD files with editable layers consistently across projects.
+- **Bulk creative workflows** – Convert multiple web pages simultaneously for large-scale marketing or design campaigns.
+- **Enterprise-level design automation** – Integrate PSD generation into organizational design and content production workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

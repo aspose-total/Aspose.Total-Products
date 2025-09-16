@@ -57,7 +57,32 @@ Using the API, you can also parse JSON to OTT with watermark. In order to add a 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **JSON to OTT** is essential for producing **text document templates** from structured datasets. OTT, the OpenDocument Text Template format, provides a standardized way to create reusable, editable templates in open-source office suites such as LibreOffice and OpenOffice. By transforming JSON into OTT, organizations ensure consistency, compliance, and automation in document generation across multiple workflows.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+- **Government document frameworks** – Create standardized forms and reports for official use.  
+- **Legal templates** – Automate contracts, agreements, and compliance-ready formats.  
+- **Business letters** – Maintain consistency in enterprise correspondence.  
+- **Educational reports** – Generate academic-ready document templates for research and assignments.  
+- **Open-source office integration** – Seamlessly use JSON-driven templates in open-source environments.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+- **JSON-to-OTT pipelines** – Automate template creation from structured JSON datasets.  
+- **Automated template workflows** – Reduce manual formatting effort across departments.  
+- **JSON-driven document generation** – Enforce consistency in enterprise reporting and compliance.  
+- **Enterprise template distribution** – Standardize document templates across global teams.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

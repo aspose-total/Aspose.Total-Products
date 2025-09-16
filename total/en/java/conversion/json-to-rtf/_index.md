@@ -57,7 +57,32 @@ Using the API, you can also parse JSON to RTF with watermark. In order to add a 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **JSON to RTF** is important for generating **cross-platform rich text documents** from structured data. RTF files provide wide compatibility across operating systems, text editors, and legacy platforms, making them ideal for organizations that require lightweight, portable, and formatted documentation. By transforming JSON into RTF, businesses can enable consistent data presentation, maintain rich formatting, and ensure easy document sharing across diverse environments.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+- **Cross-platform document sharing** – Deliver formatted content accessible on multiple devices and editors.  
+- **Lightweight reporting** – Generate compact, readable reports from structured JSON data.  
+- **Legacy system compatibility** – Ensure documents work with older software and enterprise systems.  
+- **Portable documentation** – Create easily transferable rich text files for universal use.  
+- **Data-driven formatted text** – Turn structured datasets into styled, human-readable documents.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+- **JSON-to-RTF pipelines** – Automate conversion of structured data into rich text files.  
+- **Automated formatted reporting** – Build styled reports directly from JSON sources.  
+- **JSON-driven document portability** – Enable consistent content across platforms and systems.  
+- **Enterprise RTF distribution workflows** – Standardize rich text outputs for large-scale organizational use.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

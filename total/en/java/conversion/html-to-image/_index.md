@@ -58,7 +58,29 @@ Using the API, you can also rotate the output IMAGE image as per your needs. The
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **HTML** to **IMAGE** is essential for capturing accurate visual snapshots of web pages. This process allows designers, marketers, and developers to transform dynamic or static web content into shareable, viewable images that preserve the look and feel of websites across devices. By creating image representations of web pages, teams can streamline previews, enhance digital content, and maintain visual records efficiently.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Website Previews:** Generate snapshots for portfolios, client reviews, or quick visual references.
+* **Infographics:** Convert data-rich web pages into shareable visual formats.
+* **UI/UX Design Workflows:** Capture page designs for testing, feedback, and iteration.
+* **Archival Screenshots:** Preserve historical versions of websites for compliance or documentation.
+* **Digital Marketing Assets:** Create banners, social media visuals, and promotional graphics directly from web content.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **HTML-to-IMAGE Pipelines:** Seamlessly convert multiple web pages into images with minimal manual effort.
+* **Automated Webpage-to-Image Rendering:** Schedule rendering of dynamic pages for reporting or monitoring.
+* **Bulk Screenshot Generation:** Capture hundreds of pages simultaneously for large-scale projects.
+* **Enterprise-Scale Digital Publishing:** Integrate image generation into content workflows for websites, newsletters, or product catalogs.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,32 @@ Using the API, you can also convert JSON to DXF with watermark in your DXF docum
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **JSON to DXF (Drawing Exchange Format)** is essential for generating **CAD drawings** from structured datasets. DXF is a widely adopted format in architecture, engineering, industrial design, and GIS applications, making it ideal for transforming JSON-based data into precise, editable technical drawings. This conversion enables seamless data-to-design workflows, improving interoperability across CAD systems and supporting automation in modern design processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+- **Architecture layouts** – Convert building data into editable CAD floor plans.  
+- **Engineering models** – Generate structural and mechanical designs from JSON inputs.  
+- **JSON-driven CAD automation** – Streamline CAD workflows by transforming structured datasets.  
+- **Industrial design workflows** – Create accurate product and component drawings from JSON data.  
+- **GIS mapping** – Convert geospatial data into DXF for urban planning and infrastructure projects.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+- **JSON-to-DXF pipelines** – Automate transformation of structured data into CAD-ready drawings.  
+- **Automated CAD drawing generation** – Create technical diagrams directly from JSON datasets.  
+- **Data-to-design workflows** – Enable seamless integration of structured data into CAD applications.  
+- **Smart infrastructure modeling** – Power modern infrastructure and mapping systems with JSON-driven DXF outputs.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
