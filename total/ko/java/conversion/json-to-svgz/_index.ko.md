@@ -49,7 +49,33 @@ API를 사용하여 SVGZ 문서에 워터마크가 있는 JSON을 SVGZ로 변환
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 SVGZ로 변환**하는 것은 구조화된 데이터로부터 직접 **압축 가능한 확장 가능한 벡터 그래픽**을 생성하는 데 필수적입니다. SVG의 GZIP 압축 버전인 SVGZ는 해상도 독립성을 유지하면서 파일 크기를 줄여 웹, 모바일 및 기업 시각화 요구에 이상적입니다. JSON 데이터 세트를 SVGZ로 변환함으로써 조직은 가벼우면서 상호작용 가능하고 확장 가능한 시각 자료를 플랫폼 간에 제공할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **확장 가능한 차트** - 해상도에 관계없이 선명도를 유지하는 압축된 차트 생성.
+- **상호작용형 대시보드** - 가벼운 SVGZ 그래픽으로 데이터 주도형 대시보드 구축.
+- **JSON 기반 벡터 다이어그램** - 구조화된 데이터를 최소 저장 공간으로 다이어그램으로 변환.
+- **모바일 최적화 그래픽** - 반응형 앱 및 웹사이트에 빠르게 로드되는 시각 자료 제공.
+- **기업 시각화 시스템** - 기업 워크플로우에서 확장 가능한 그래픽을 표준화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-SVGZ 파이프라인** - 데이터를 압축된 벡터 파일로 변환하는 과정을 자동화.
+- **자동화된 차트 압축** - 품질 손실 없이 대형 시각 자료의 크기 축소.
+- **JSON 기반 벡터 렌더링** - 구조화된 데이터에서 동적 시각 자료 생성.
+- **크로스 플랫폼 그래픽 워크플로우** - 데스크톱, 모바일 및 클라우드 플랫폼 간 일관된 확장 가능한 시각 자료 보장.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

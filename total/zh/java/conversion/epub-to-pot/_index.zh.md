@@ -59,7 +59,29 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 POT（PowerPoint 模板）** 对于从数字出版物生成 **自定义幻灯片模板** 至关重要。POT 文件可以实现可重复使用、可编辑的演示文稿框架，确保设计一致性和内容再利用的高效性。通过将 EPUB 转换为 POT，教育工作者、出版商和企业可以简化幻灯片制作流程，保持品牌和格式的一致性，并支持可扩展的演示文稿工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **学术讲座框架** – 为课程和研讨会创建可重复使用的幻灯片模板。
+- **出版社模板** – 制定一致的营销和推广演示文稿布局。
+- **企业演示文稿模板** – 在部门和团队之间标准化幻灯片。
+- **研究演示框架** – 将学术内容转化为结构化、视觉上吸引人的幻灯片。
+- **教育幻灯片设置** – 为教学计划、研讨会和培训课程制作模板。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 POT 管道** – 自动化将数字出版物转换为 PowerPoint 模板。
+- **自动化 PowerPoint 模板生成** – 快速从电子书内容生成标准化的幻灯片设计。
+- **元数据到模板转换** – 将结构化的电子书数据集成到可重复使用的幻灯片布局中。
+- **企业级模板自动化** – 在组织中扩展演示文稿模板的创建和分发。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

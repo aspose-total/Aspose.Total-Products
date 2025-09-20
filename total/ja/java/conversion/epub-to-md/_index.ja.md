@@ -47,7 +47,29 @@ EPUBファイルをMDに変換するときに、出力MDファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUBをMD（Markdown形式）に変換**することは、電子書籍やデジタル出版物から**プレーンテキストの構造化されたコンテンツ**を生成するために不可欠です。Markdownはシンプルさ、読みやすさ、開発者プラットフォームでの広範な採用を提供し、コンテンツの再利用や配布に最適です。EPUBをMDに変換することで、出版社、研究者、開発者は文書作成を効率化し、オープンソースの共同作業をサポートし、デジタル出版ワークフローを簡素化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **技術文書** – 開発者向けドキュメントのために電子書籍を構造化されたMarkdownに変換する。
+- **ブログ投稿** – EPUBの章を軽量なブログ用のMarkdownファイルに再利用する。
+- **開発者知識ベース** – Markdownコンテンツで協力的な知識リポジトリを構築する。
+- **研究ノート共有** – 学術的または機関のノートを普遍的に読みやすいMD形式で共有する。
+- **オープンソースコンテンツ配布** – 電子書籍コンテンツをグローバルな共同作業と再利用のために公開する。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからMDへのパイプライン** – 電子書籍をMarkdownファイルに自動変換する。
+- **自動化されたMarkdown公開** – MD出力を静的サイトジェネレーターやプラットフォームと同期させる。
+- **開発者プラットフォームのコンテンツ標準化** – GitHub、GitLabなどのツール間での一貫性を確保する。
+- **文書自動化** – Markdown変換を企業の出版ワークフローに統合する。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

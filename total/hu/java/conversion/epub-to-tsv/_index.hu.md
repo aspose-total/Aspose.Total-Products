@@ -47,7 +47,29 @@ A EPUB-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **EPUB to TSV** konvertálása hatékony módszer a **tabulátorral elválasztott adatkészletek** létrehozására e-könyvekből és digitális tartalmakból. A TSV fájlokat széles körben használják strukturált adatok cseréjére, egyszerűséget, olvashatóságot és kompatibilitást kínálva az akadémiai, intézményi és vállalati rendszerekkel. Az e-könyv tartalmának kinyerésével TSV formátumba, a kiadók, kutatók és szervezetek egyszerűsíthetik az adatmegosztást, javíthatják az interoperabilitást és könnyedén fenntarthatják a többnyelvű metaadatokat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- **Akadémiai adatkészletmegosztás** – Strukturált kutatási adatok terjesztése egy univerzálisan kompatibilis formátumban.
+- **Többnyelvű metaadat exportálás** – Nyelvspecifikus publikációs részletek megőrzése TSV fájlokban.
+- **Kiadói munkafolyamatok** – Táblázatos adatok standardizálása a szerkesztői és gyártási csapatok számára.
+- **Intézményi adatcserék** – Adatmegosztás elősegítése osztályok és szervezetek között.
+- **Kutatási interoperabilitás** – Támogatás a könnyen cserélhető adatkészletekkel történő együttműködő tanulmányokhoz.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- **EPUB-to-TSV csővezetékek** – Az e-könyv-adatkészlet munkafolyamatainak automatizálása nagy méretben.
+- **Automatizált adatkészlet konverzió** – Azonnali átalakítás a publikációs adatokat TSV formátumba.
+- **Metaadatok TSV publikálása** – A publikációs metaadatok átalakítása strukturált, tabulátorral elválasztott értékekké.
+- **Vállalati szintű adatintegráció** – TSV adatkészletek integrálása nagyméretű jelentési és kutatási platformokba.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

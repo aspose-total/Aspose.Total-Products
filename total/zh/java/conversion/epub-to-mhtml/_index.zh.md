@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 MHTML（Web 存档）** 对于从数字出版物生成 **单文件网页文档** 至关重要。MHTML 文件将所有资源（HTML、图像和样式）捆绑到一个存档中，确保可移植性、离线可读性和浏览器兼容性。通过将 EPUB 转换为 MHTML，出版商、教育工作者和企业可以将电子书作为自包含的网页文档进行交付，优化在线和离线使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **离线电子书阅读** – 提供完整的数字图书，无需互联网即可访问。
+- **Web 存档** – 将电子书内容保留为单文件浏览器兼容的存档。
+- **面向浏览器的数字出版** – 以可立即打开的网页格式共享 EPUB 内容。
+- **教育内容打包** – 在便携文件中分发课程、学习材料和电子书。
+- **企业文档工作流程** – 将内部出版简化为准备就绪的浏览器文档。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 MHTML 管道** – 自动将数字出版物转换为单文件网页存档。
+- **自动化电子书到网页工作流程** – 简化将 EPUB 直接发布为浏览器支持的格式。
+- **批量发布以供离线访问** – 将整个电子书库转换为 MHTML 以实现可移植性。
+- **跨平台浏览器兼容发布** – 确保在所有主要浏览器上实现无缝阅读。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

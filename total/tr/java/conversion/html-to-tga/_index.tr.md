@@ -57,7 +57,33 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTML'yi TGA'ya (Truevision Graphics Adapter) dönüştürmek**, web içeriğinden yüksek kaliteli radyal grafikler oluşturmak için önemlidir. TGA dosyaları renk derinliğini ve görüntü ayrıntısını korur, bu da onları profesyonel grafikler, 3D görselleştirme ve baskıya hazır varlıklar için ideal hale getirir. HTML'i TGA'ya dönüştürerek, kuruluşlar oyun, tasarım ve yayıncılık iş akışları için hassas görsel çoğaltmayı sağlayabilirken, gelişmiş yaratıcı yazılımlarla uyumluluğu koruyabilirler.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* **Oyun endüstrisi iş akışları** - Web tabanlı varlıkları oyunlar ve simülasyonlar için yüksek kaliteli grafiklere dönüştürün.
+* **3D görselleştirme** - Modelleme ve render iş akışları için uygun detaylı radyal görüntüler oluşturun.
+* **Dijital yayıncılık** - Online dergiler, e-kitaplar ve etkileşimli medya için net görsel içerik oluşturun.
+* **Grafik tasarım varlıkları** - Profesyonel tasarım projeleri için düzenlenebilir radyal grafikler üretin.
+* **Baskı medyası** - Fiziksel yayınlar için doğru renk çoğaltımı ve yüksek çözünürlüklü çıktıyı sağlayın.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* **HTML'den TGA'ya boru hatları** - Web içeriğini yüksek kaliteli radyal dosyalara otomatik olarak dönüştürün.
+* **Otomatik radyal renderlama** - Kesin renk ve ayrıntıya sahip tutarlı TGA görüntüleri üretin.
+* **Toplu varlık dönüşümü** - Birden fazla web sayfasını veya tasarım elemanını ölçeklendirerek verimli bir şekilde işleyin.
+* **Kurumsal düzeyde yaratıcı yayıncılık** - TGA üretimini büyük ölçekli grafik üretim ve yayıncılık iş akışlarına entegre edin.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,33 @@ API를 사용하여 워터마크를 사용하여 JSON을 DOT으로 구문 분석
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 DOT으로 변환하는 것은 구조화된 데이터 소스로부터 **Word 템플릿**을 생성하는 데 필수적입니다. 이 변환을 통해 기업은 원시 데이터 세트를 재사용 가능하고 표준화된 템플릿으로 변환하여 기업, 법적 및 부서 문서 전반에 걸쳐 일관성을 보장할 수 있습니다. JSON에서 DOT 파일을 생성함으로써 조직은 템플릿 제작을 자동화하고, 규정 준수 주도적인 워크플로우를 간소화하며, 모든 문서를 통해 브랜딩 일관성을 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **기업 문서머리글** – 공식 통신용 브랜드 템플릿 생성.
+- **법적 템플릿** – 구조화된 데이터로부터 계약서와 협약 표준화.
+- **송장 자동화** – JSON 입력을 통해 재사용 가능한 송장 형식 생성.
+- **표준화된 협약** – 기업 및 파트너 문서에서 균일성 보장.
+- **부서 템플릿** – 팀 전체에 일관된 문서 형식 제공.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-DOT 파이프라인** – 구조화된 데이터 세트로부터 Word 템플릿 생성 자동화.
+- **자동화된 템플릿 생성** – 최소한의 수동 노력으로 표준화된 템플릿 구축.
+- **JSON 기반 기업 문서 프레임워크** – 동적 데이터로 기업 전체 템플릿 시스템 구축.
+- **템플릿 배포 워크플로우** – 조직 전체에 일관하게 사용 가능한 DOT 파일 배포.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

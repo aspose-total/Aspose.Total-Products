@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengurai JSON ke DOT dengan tanda air. Untuk me
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke DOT** sangat penting untuk membuat **template Word** dari sumber data terstruktur. Transformasi ini memungkinkan bisnis mengubah kumpulan data mentah menjadi template yang dapat digunakan kembali dan standar yang memastikan konsistensi di seluruh dokumen perusahaan, hukum, dan departemen. Dengan menghasilkan file DOT dari JSON, organisasi dapat mengotomatisasi produksi template, menyederhanakan alur kerja yang dipacu kepatuhan, dan menjaga konsistensi branding di semua dokumen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Kepala surat perusahaan** – Hasilkan template bermerk untuk komunikasi resmi.
+- **Template hukum** – Standarisasi perjanjian dan kontrak langsung dari data terstruktur.
+- **Automasi tagihan** – Hasilkan format tagihan yang dapat digunakan kembali yang didukung oleh input JSON.
+- **Perjanjian standar** – Pastikan keseragaman dalam dokumen perusahaan dan mitra.
+- **Template departemen** – Sampaikan format dokumen yang konsisten di seluruh tim.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa JSON ke DOT** – Otomatisasi pembuatan template Word dari kumpulan data terstruktur.
+- **Generasi template otomatis** – Bangun template standar dengan usaha manual minimal.
+- **Kerangka dokumen perusahaan yang didorong JSON** – Mendorong sistem template di seluruh perusahaan dengan data dinamis.
+- **Alur kerja distribusi template** – Terapkan file DOT siap pakai secara konsisten di seluruh organisasi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

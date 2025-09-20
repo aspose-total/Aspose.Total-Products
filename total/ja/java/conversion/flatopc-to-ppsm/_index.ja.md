@@ -54,7 +54,33 @@ APIを使用すると、パスワードで保護されたFLATOPCドキュメン�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**FLATOPCをPPSM（マクロ有効化PowerPointスライドショー）に変換する**ことは、WordprocessingMLコンテンツから直接**インタラクティブで自動化可能なスライドショーファイル**を生成するために不可欠です。PPSMファイルはスライドショーモードで即座に開き、VBAマクロをサポートしており、自動レポート作成、インタラクティブな学習、ダイナミックな営業プレゼンテーションなどの高度な機能を可能にします。FLATOPCをPPSMに変換することで、組織は企業向けの自動化を解除し、非常に魅力的でマクロ駆動型のプレゼンテーションを提供できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+- **自動レポートデモ** – ビルトインマクロを使用して定期的なビジネスレポートを提示します。
+- **インタラクティブな学習コンテンツ** – 魅力的でマクロ駆動型のトレーニングモジュールを提供します。
+- **部門ショーケース** – 自動インタラクティビティを備えたプレゼンテーションを標準化します。
+- **企業向けセールスデッキ** – ダイナミックでマクロ有効化された機能を活用して営業プレゼンテーションを強化します。
+- **企業向けレポート** – マクロを活用したレポートのチーム間配布を効率化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **FLATOPCからPPSMへのパイプライン** – 構造化されたXMLをマクロ有効化スライドショーに自動変換します。
+- **自動スライドショー生成** – 手動コーディングなしでインタラクティブなプレゼンテーションを作成します。
+- **大量デモ作成** – 大量のドキュメントをダイナミックなスライドショーファイルに変換します。
+- **企業規模のインタラクティブなパブリッシング** – 組織全体でマクロ有効化プレゼンテーションを標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

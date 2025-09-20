@@ -78,7 +78,29 @@ otherformats: XLTM XLTX TSV XLSM XLSB FODS CSV EXCEL SXC TXT MD XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **EPUB ל-XLT** היא ערך רב ערך להמרת ספרים אלקטרוניים ופרסומים דיגיטליים לקבצי תבניות של Excel שמבטיחים מבנים נתונים מתוקננים, ניתנים לשימוש מחדש ועקביים. על ידי יצירת תבניות של Excel מתוך תוכן פרסום או מטא-נתונים, ארגונים, ספריות ומוציאי ספרים יכולים לפשט את קטלוג הפריטים, לקצר את הדיווחים ולשמור על עקביות בזרימות העבודה החינוכיות והעסקיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- **דיווחי תוכן מתוקנים** – צור תבניות דיווח אחידות עבור נתוני פרסום.
+- **תבניות קטלוג של ספרייה** – בנה תבניות מובנות לניהול אוספי ספרים.
+- **תבניות משאבי חינוך** – ספק תבניות של Excel הניתנות לשימוש מחדש למשאבי אקדמיה.
+- **תבניות מבוססות מטא-נתונים** – המר מטא-נתוני ספר אלקטרוני לתבניות מוכנות לשימוש.
+- **עקביות בתהליכי פרסום** – שמור על תהליכים מתוקנים בקרב צוותי פרסום.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **זרימי עבודה מ-EPUB ל-XLT** – אוטומציה של יצירת תבניות מנתוני פרסום דיגיטליים.
+- **יצירת תבניות של Excel באופן אוטומטי** – צור תבניות שימושיות בקנה מידה.
+- **תבניות קטלוג ניתנות לשימוש מחדש** – בנה תבניות חוזרות למערכות ספריות וארכיונים.
+- **אוטומציה בפרסום מוסדי** – תקן את שימוש התבניות בסביבות פרסום עסקיות.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

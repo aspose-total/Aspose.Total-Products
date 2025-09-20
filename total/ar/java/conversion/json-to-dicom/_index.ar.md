@@ -49,7 +49,33 @@ otherformats: DICOM DXF WMF TGA SVGZ EMZ IMAGE JPEG2000 PSD WMZ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **JSON إلى DICOM (Digital Imaging and Communications in Medicine)** أمر حاسم لتحويل **بيانات الصحة المنظمة** إلى تنسيقات تصوير طبي قياسية. يعتبر DICOM هو المعيار العالمي لتخزين ونقل وعرض الصور الطبية، مما يتيح لمقدمي الرعاية الصحية والباحثين وأنظمة الذكاء الاصطناعي العمل مع بيانات متسقة وقابلة للتشغيل المشترك. من خلال تحويل JSON إلى DICOM، يمكن دمج سجلات المرضى المنظمة والبيانات السريرية بسلاسة في سير العمل الخاص بالتصوير، مما يدعم التشخيص الدقيق وتحسين نتائج الرعاية الصحية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- **تصور سجل المريض** – تحويل بيانات الصحة المنظمة إلى تنسيقات تصويرية بصرية.
+- **تصوير طبي قائم على الذكاء الاصطناعي** – تمكين أنظمة التعلم الآلي من معالجة مجموعات البيانات التي تعتمد على JSON.
+- **تبادل البيانات الصحية بين الأنظمة** – توحيد البيانات المنظمة في تنسيقات DICOM المعتمدة عالميًا.
+- **سير العمل الإشعاعي** – دمج التقارير المعتمدة على JSON في أنظمة التصوير والتشخيص.
+- **دمج بيانات الأبحاث السريرية** – تحويل مجموعات البيانات المنظمة إلى تنسيقات متوافقة مع التصوير للدراسات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- **أنابيب عملية تحويل JSON إلى DICOM** – أتمتة تحويل بيانات الصحة إلى تنسيقات جاهزة للتصوير.
+- **تحويل تقارير الطبيب بشكل آلي** – إنشاء ملفات DICOM مباشرة من التقارير السريرية المعتمدة على JSON.
+- **تصوير الرعاية الصحية في السحابة** – تمكين تبادل بيانات التصوير الصحي بشكل قابل للتوسع والتشغيل المشترك في السحابة.
+- **أنظمة التشخيص الطبي القائمة على الذكاء الاصطناعي** – تمكين أدوات التشخيص المتقدمة بالتحويل من البيانات المنظمة إلى التصوير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

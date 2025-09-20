@@ -49,7 +49,29 @@ otherformats: TXT XLAM XLSB XLT SXC DIF XLSM EXCEL TSV MD FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 XLTM** 对于生成**支持宏的 Excel 模板**至关重要，这些模板可以将电子书数据转换为可重复使用、自动化和智能化的格式。通过在模板中嵌入宏，组织、研究人员和出版商可以简化数据处理、标准化报告，并在部门间启用交互式工作流程。这确保了在管理数字出版数据时的效率、一致性和可扩展性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **自动化发布工作流程** – 构建可重复使用的模板，简化编辑和生产任务。
+- **学术数据集模板** – 使研究人员能够创建结构化、基于宏的分析工具。
+- **带宏的商业智能** – 为数据建模和可视化准备的 Power BI 模板。
+- **元数据报告** – 将出版元数据转换为智能报告模板。
+- **跨部门模板** – 在组织单位间标准化工作流程。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 XLTM 模板管道** – 自动化支持宏的模板生成。
+- **自动化支持宏的 Excel 模板分发** – 无缝地将 XLTM 文件传送给团队。
+- **发布数据标准化** – 确保模板驱动的发布工作流程的一致性。
+- **企业模板自动化** – 将 XLTM 模板集成到企业数据生态系统中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

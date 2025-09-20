@@ -49,7 +49,33 @@ API를 사용하여 워터마크를 사용하여 JSON을 ODT으로 구문 분석
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 ODT로 변환**하는 것은 구조화된 데이터셋에서 **OpenDocument 텍스트 파일**을 생성하는 데 필수적입니다. ODT는 LibreOffice와 OpenOffice의 기본 형식으로 장기적인 접근성, 오픈 소스 호환성 및 플랫폼 간 상호 운용성을 보장합니다. JSON을 ODT로 변환함으로써 조직은 전문적이고 데이터 기반의 텍스트 문서를 수동 편집 없이 자동화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **정부 문서** - 공공 행정을 위한 준수 및 표준화된 문서 생성.
+- **오픈 소스 오피스 워크플로우** - LibreOffice 및 Apache OpenOffice 환경에서 JSON 데이터를 통합.
+- **학술 논문** - 구조화된 데이터셋에서 연구 보고서 및 출판물 생성.
+- **비즈니스 계약** - JSON 레코드로부터 협약 초안 및 계약 작성 자동화.
+- **데이터 기반 편지** - 대규모로 개인화된 구조화된 통신 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-ODT 파이프라인** - 구조화된 데이터를 편집 가능한 ODT 문서로 자동화.
+- **자동화된 ODT 생성** - JSON에서 직접 사용할 수 있는 텍스트 파일을 생성하여 수동 노력 감소.
+- **JSON-to-OpenDocument 표준화** - 문서 공유를 위한 오픈 표준 준수 보장.
+- **플랫폼 간 문서화 워크플로우** - 기업 및 학술 시스템 간의 원활한 상호 운용성 활성화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,31 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh IMAGE đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **HTML** thành **HÌNH ẢNH** là điều cần thiết để chụp các bản snapshot hình ảnh chính xác của trang web. Quy trình này cho phép các nhà thiết kế, nhà tiếp thị và nhà phát triển chuyển đổi nội dung web động hoặc tĩnh thành hình ảnh có thể chia sẻ, có thể xem giữ nguyên diện mạo của trang web trên các thiết bị. Bằng cách tạo ra biểu diễn hình ảnh của các trang web, các nhóm có thể tối ưu hóa xem trước, cải thiện nội dung kỹ thuật số và duy trì hồ sơ hình ảnh một cách hiệu quả.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Xem trước trang web:** Tạo bản snapshot cho hồ sơ, đánh giá của khách hàng hoặc tham khảo nhanh về mặt hình ảnh.
+* **Infographics:** Chuyển đổi trang web chứa nhiều dữ liệu thành định dạng hình ảnh có thể chia sẻ.
+* **Quy trình Thiết kế UI/UX:** Chụp thiết kế trang web để kiểm tra, phản hồi và lặp lại.
+* **Ảnh chụp màn hình Lưu trữ:** Bảo tồn các phiên bản lịch sử của trang web cho việc tuân thủ hoặc tài liệu.
+* **Tài sản Tiếp thị Số:** Tạo banner, hình ảnh truyền thông xã hội và đồ họa quảng cáo trực tiếp từ nội dung web.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* **Các Đường ống Chuyển đổi HTML thành HÌNH ẢNH:** Chuyển đổi nhiều trang web thành hình ảnh một cách liền mạch với ít công sức thủ công nhất.
+* **Kế hoạch Hình ảnh trang web tự động:** Lên lịch chụp trang web động để báo cáo hoặc giám sát.
+* **Tạo Ảnh chụp màn hình hàng loạt:** Chụp hàng trăm trang cùng một lúc cho các dự án quy mô lớn.
+* **Xuất bản Số Quy mô Doanh nghiệp:** Tích hợp việc tạo hình ảnh vào quy trình làm việc với nội dung cho trang web, bản tin hoặc danh mục sản phẩm.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

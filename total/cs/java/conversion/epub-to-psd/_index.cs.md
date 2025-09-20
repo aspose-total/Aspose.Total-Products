@@ -57,7 +57,29 @@ Pomocí API můžete také otočit výstupní obrázek PSD podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}  
+Převod **EPUB na PSD (Photoshop Document)** je zásadní pro vytváření **upravitelných vrstevnatých grafik** z digitálních publikací. Soubory PSD uchovávají vrstvy, text a efekty, umožňují designérům upravovat a zlepšovat obsah pro tvůrčí projekty. Přeměnou EPUB na PSD mohou vydavatelé, marketéři a pedagogové vytvářet vizuální prvky vysoké kvality, udržovat flexibilitu designu a zjednodušit pracovní postupy grafické produkce.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
+- **Pracovní postupy grafického designu** – Upravujte a přizpůsobujte vizuální prvky e-knih s plnou kontrolou vrstev.  
+- **Marketingové kreativy** – Generujte propagační grafiku a digitální reklamy z obsahu publikací.  
+- **Úprava obalů e-knih** – Přizpůsobte a zlepšete obaly knih pro tisk nebo digitální platformy.  
+- **Vzdělávací vizuály** – Vytvářejte interaktivní diagramy, infografiky a vzdělávací materiály.  
+- **Vlastní materiály pro firemní značku** – Přizpůsobte grafiku publikací pro firemní identitu a kampaně.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}  
+- **Potrubí EPUB na PSD** – Automatizujte převod obsahu e-knih do vrstevnatých souborů Photoshopu.  
+- **Automatické extrakce vrstev** – Uchovávejte a oddělujte designové prvky pro snadné úpravy.  
+- **Hromadná generace kreativních prostředků** – Efektivně vytvářejte více grafik z digitálních publikací.  
+- **Pracovní postupy designu na úrovni podniku** – Integrujte generování PSD do rozsáhlých tvůrčích a publikačních operací.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

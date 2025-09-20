@@ -59,7 +59,29 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをOTP（OpenDocument Presentation Template）に変換することは、デジタル出版物から**標準化されたスライドテンプレート**を生成するために不可欠です。OTPファイルは再利用可能でオープン標準のプレゼンテーションフレームワークを提供し、一貫したデザインと効率的なコンテンツの再利用を可能にします。EPUBをOTPに変換することで、教育関係者、研究者、出版社、企業はスライド作成を効率化し、ブランドの一貫性を維持し、スケーラブルなプレゼンテーションワークフローをサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **学術プレゼンテーションテンプレート** – eBookコンテンツから再利用可能な講義やセミナースライドを作成します。
+- **ビジネスワークフローテンプレート** – チームやプロジェクト全体で企業プレゼンテーションを標準化します。
+- **出版社のマーケティングテンプレート** – eBookの素材に基づいたプロモーション用スライドデッキを作成します。
+- **研究プレゼンテーションフレームワーク** – 学術的なコンテンツを構造化されたプレゼンテーションテンプレートに変換します。
+- **教育用スライドデザイン** – 教育やトレーニング資料用の一貫した再利用可能なテンプレートを作成します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからOTPへのパイプライン** – eBookをプレゼンテーションテンプレートに自動変換します。
+- **自動生成テンプレート** – 複数の使用事例に対して標準化されたスライドを迅速に作成します。
+- **大量の出版スライドテンプレート** – 大量のeBookを再利用可能なOTPファイルに変換します。
+- **企業レベルのプレゼンテーションワークフロー** – 組織全体のスライドテンプレート作成と配布を効率化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

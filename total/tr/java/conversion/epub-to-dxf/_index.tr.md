@@ -57,7 +57,27 @@ API'yi kullanarak, çıktı DXF görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB'i DXF'e dönüştürmek, dijital yayınlardan **CAD uyumlu çizim değişim dosyaları** oluşturmak için önemlidir. Bu süreç, e-kitaplardaki teknik, mühendislik ve mimari içeriğin CAD uyumlu formatlara dönüştürülmesini sağlayarak diyagramları ve illüstrasyonları profesyonel iş akışları için daha erişilebilir hale getirir. EPUB'tan DXF'e yapılan yapılandırılmış görsellerin çıkarılmasıyla yayıncılar, mühendisler ve mimarlar tasarım belgelerini optimize edebilir, etkileşimliliği artırabilir ve kaynak kullanımını geliştirebilir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+- **Şemalar içeren teknik kılavuzlar** – Talimat veren illüstrasyonları düzenlenebilir CAD dosyalarına dönüştürün.
+- **Mühendislik e-kitap içeriği** – Dijital mühendislik kaynaklarını CAD uyumlu çizimlere dönüştürün.
+- **Mimari referans belgeleri** – E-kitaplardan bina tasarımlarını ve şemalarını yeniden kullanın.
+- **CAD ile ilgili kaynakların yayınlanması** – Teknik yayınları DXF uyumlu formatlarda sunun.
+- **Tasarım belge iş akışları** – Mühendislik ekipleri arasında diyagramları standartlaştırın ve yeniden kullanın.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- **EPUB'tan DXF'e dönüşüm boruları** – CAD uyumlu dosyaları ölçeklendirmek için iş akışlarını otomatikleştirin.
+- **Otomatik teknik illüstrasyon çıkarma** – E-kitaplardan diyagramları anında DXF'e çıkarın.
+- **CAD uyumlu yayınlama** – Mühendislere ve mimarlara doğrudan kullanılabilir CAD formatları sağlayın.
+- **Kurumsal mühendislik belgeleri** – EPUB'tan DXF'e dönüşümü büyük ölçekli belge sistemlerine entegre edin.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

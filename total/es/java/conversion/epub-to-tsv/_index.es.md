@@ -47,7 +47,27 @@ Al convertir un archivo EPUB a TSV, también puede agregar una marca de agua a s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}  
+Convertir **EPUB a TSV** es un método eficiente para generar conjuntos de datos **separados por tabuladores** a partir de libros electrónicos y contenido digital. Los archivos TSV se utilizan ampliamente para el intercambio de datos estructurados, ofreciendo simplicidad, legibilidad y compatibilidad con sistemas académicos, institucionales y empresariales. Al extraer el contenido del libro electrónico en formato TSV, los editores, investigadores y organizaciones pueden agilizar el intercambio de datos, mejorar la interoperabilidad y mantener metadatos multilingües con facilidad.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}  
+- **Compartir conjuntos de datos académicos** – Distribuir datos de investigación estructurados en un formato universalmente compatible.  
+- **Exportaciones de metadatos multilingües** – Preservar detalles de publicación específicos de idioma en archivos TSV.  
+- **Flujos de trabajo de casas editoriales** – Estandarizar datos tabulares para equipos editoriales y de producción.  
+- **Intercambio de datos institucionales** – Facilitar el intercambio de datos entre departamentos y organizaciones.  
+- **Interoperabilidad de la investigación** – Apoyar estudios colaborativos con conjuntos de datos fácilmente intercambiables.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}  
+- **Tuberías de EPUB a TSV** – Automatizar flujos de trabajo de libros electrónicos a conjuntos de datos a escala.  
+- **Conversión automatizada de conjuntos de datos** – Transformar instantáneamente datos de publicación en formato TSV.  
+- **Publicación de metadatos a TSV** – Convertir metadatos de publicación en valores estructurados y separados por tabuladores.  
+- **Integración de datos a nivel empresarial** – Integrar conjuntos de datos TSV en plataformas de informes e investigación a gran escala.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

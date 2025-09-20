@@ -61,7 +61,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke RTF** sangat penting untuk menghasilkan **dokumen teks kaya** dari publikasi digital. File RTF memastikan kompatibilitas di berbagai platform, menyediakan pengeditan yang mudah, dan mendukung alur kerja yang kaya metadata. Dengan mengubah EPUB menjadi RTF, organisasi dan penerbit dapat menyederhanakan pengeditan dokumen, meningkatkan aksesibilitas, dan mempertahankan format yang ringan namun terstruktur untuk riset, pendidikan, dan penerbitan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Penerbitan lintas platform** – Bagikan konten eBook dalam format RTF yang didukung secara universal.
+- **Arsip metadata eBook** – Pelihara data publikasi terstruktur dalam file teks kaya yang dapat diedit.
+- **Dokumen riset ringan** – Buat file yang mudah dikelola untuk keperluan akademis dan institusi.
+- **Distribusi sumber belajar** – Sampaikan konten kepada siswa dan guru dalam format yang dapat diedit.
+- **Alur kerja pengeditan konten** – Simplifikasi proses editorial dengan dokumen yang mudah dimodifikasi.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa EPUB-ke-RTF** – Otomatisasikan konversi mulus dari eBook ke dokumen RTF.
+- **Konversi teks kaya otomatis** – Standarisasi alur kerja penerbitan digital dengan output RTF.
+- **Alur kerja penerbitan berkelompok** – Konversi volume besar file EPUB ke format yang dapat diedit.
+- **Otomatisasi portabilitas dokumen** – Pastikan konten dapat diakses dan diedit di berbagai platform.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,27 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **HTML na DICOM** jest niezbędne do generowania **wyjść kompatybilnych z obrazowaniem medycznym** z danych internetowych. DICOM zapewnia standaryzację obrazów klinicznych i informacji związanych z opieką zdrowotną w celu zapewnienia interoperacyjności, archiwizacji i integracji między systemami medycznymi. Konwertując treści HTML na DICOM, dostawcy opieki zdrowotnej i badacze mogą usprawnić przepływy pracy medycznej, zachowując zgodność z normami branżowymi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- **Platformy telemedyczne** – Integracja danych medycznych z internetu do systemów kompatybilnych z DICOM.
+- **Integracja raportów medycznych** – Wstawianie raportów tekstowych i obrazowych do standardowych formatów opieki zdrowotnej.
+- **Przepływy pracy w opiece zdrowotnej** – Umożliwiają płynną wymianę danych pacjentów między działami.
+- **Archiwizacja radiologiczna** – Przechowywanie obrazów i związanych z nimi treści internetowych w archiwach DICOM.
+- **Interoperacyjność między systemami** – Ułatwia standaryzację udostępniania danych między aplikacjami medycznymi.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- **Potoki HTML-do-DICOM** – Automatyzacja konwersji treści medycznych z internetu na DICOM.
+- **Automatyczne wbudowywanie raportów medycznych** – Integracja danych HTML w przepływy pracy obrazowania pacjenta.
+- **Konwersja zbiorcza danych medycznych** – Efektywne przetwarzanie wielu raportów lub stron internetowych na dużą skalę.
+- **Przepływy pracy kliniczne na poziomie przedsiębiorstwa** – Standaryzacja konwersji HTML na DICOM w organizacjach opieki zdrowotnej.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

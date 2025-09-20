@@ -57,7 +57,33 @@ Menggunakan API, Anda juga dapat memutar gambar PSD keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **HTML ke PSD (Dokumen Photoshop)** penting untuk menghasilkan **file grafis berlapis** dari halaman web. File PSD mempertahankan lapisan, teks, dan elemen desain, memungkinkan desainer untuk mengedit, menyesuaikan, dan memanfaatkan kembali konten web dengan efisien. Dengan mengubah HTML menjadi PSD, organisasi dapat memperlancar alur kerja UI/UX, membuat aset pemasaran berkualitas tinggi, dan menjaga fleksibilitas untuk proyek redesain web dan desain digital.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Desain UI/UX** – Ekstrak tata letak halaman web ke lapisan PSD yang dapat diedit untuk prototyping cepat dan iterasi desain.
+- **Alur kerja redesain situs web** – Konversi halaman yang ada menjadi file berlapis untuk memudahkan pembaruan atau redesain.
+- **Kreatif pemasaran** – Buat banner, visual media sosial, dan grafik kampanye dari konten web.
+- **Mockup digital** – Bangun mockup produk atau halaman web yang realistis untuk presentasi dan persetujuan klien.
+- **Aset desain e-commerce** – Manfaatkan kembali bagian halaman web untuk halaman produk, gambar promosi, dan katalog.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa kerja HTML ke PSD** – Otomatis konversi halaman web menjadi file Photoshop berlapis.
+- **Generasi grafis berlapis otomatis** – Hasilkan file PSD dengan lapisan yang dapat diedit secara konsisten di semua proyek.
+- **Alur kerja kreatif massal** – Konversi beberapa halaman web secara bersamaan untuk kampanye pemasaran atau desain dalam skala besar.
+- **Otomatisasi desain tingkat perusahaan** – Integrasikan generasi PSD ke dalam alur kerja desain dan produksi konten organisasi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

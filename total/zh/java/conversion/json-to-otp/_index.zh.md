@@ -49,7 +49,33 @@ otherformats: PPT POWERPOINT PPSX OTP PPS PPTM PPSM POTM POTX POT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 OTP** 对于从结构化数据集生成 **演示模板** 至关重要。OTP，即开放文档演示模板格式，使组织能够创建可重用的、与LibreOffice Impress和其他开源办公套件兼容的标准化模板。通过将JSON转换为OTP，企业、政府和教育工作者可以简化幻灯片制作流程，保持一致的品牌形象，并确保符合开放标准。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **企业幻灯片模板** – 生成适用于一致业务演示的公司准备模板。
+- **教育框架** – 为讲座、研讨会和电子学习模块自动化幻灯片结构。
+- **部门品牌** – 确保内部和外部沟通的统一模板。
+- **政府批准的模板** – 标准化各部门的官方演示。
+- **学术讲座幻灯片** – 简化基于模板的研究和教学演示创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 OTP 管道** – 直接从结构化数据自动化模板创建。
+- **自动化模板生成** – 减少手动格式化工作量，同时确保一致性。
+- **基于 JSON 的演示标准化** – 强制执行符合企业或机构品牌形象的合规性。
+- **云就绪模板分发** – 实现 OTP 模板在团队和系统间的无缝共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

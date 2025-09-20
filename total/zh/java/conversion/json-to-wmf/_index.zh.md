@@ -49,7 +49,33 @@ otherformats: TGA DICOM JPEG2000 WMZ EMZ PSD WMF DXF SVGZ IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 WMF** 对于从结构化数据生成 **Windows Metafile 图形** 至关重要。WMF 文件提供与传统 Windows 应用程序和 Office 文档兼容的可伸缩矢量图形。通过将 JSON 转换为 WMF，组织可以自动化生成图表、图表和技术插图，同时确保在企业工作流程中的一致性和兼容性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **传统 Windows 应用程序** – 保持与需要 WMF 图形的旧软件的兼容性。
+- **可伸缩图表** – 生成可按比例缩放的基于矢量的图表，无损失地缩放。
+- **Office 文档集成** – 直接将 WMF 图形嵌入到 Word、PowerPoint 和 Excel 文件中。
+- **商业图表** – 从结构化数据集自动生成图表，用于企业报告。
+- **技术插图** – 为手册和工程文件创建精确的、数据驱动的插图。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 WMF 管道** – 自动化将结构化数据转换为 WMF 矢量图形。
+- **自动化矢量图形生成** – 减少手动图表和插图的创建。
+- **基于 JSON 的图表渲染** – 直接从数据集中填充图表和可视化内容。
+- **企业级插图工作流程** – 将 WMF 生成集成到企业文档流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

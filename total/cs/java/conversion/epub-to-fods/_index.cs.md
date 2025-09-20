@@ -47,7 +47,29 @@ Při převodu souboru EPUB na FODS můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}  
+Převod **EPUB na FODS (Flat XML ODS tabulky)** je zásadní pro generování **otevřených standardních tabulkových souborů** z e-knih a digitálních publikací. FODS zajišťuje kompatibilitu s kancelářskými balíky s otevřeným zdrojovým kódem, podporuje strukturované formátování XML a umožňuje bezproblémové sdílení dat. Transformací EPUB do FODS mohou nakladatelé, výzkumníci a instituce tabulovat metadata, zjednodušit katalogizaci a sdílet výzkumné datové sady ve všeobecně přístupném formátu.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové Použití" %}}  
+- **Tabulace metadat** – Převést metadata e-knih do strukturovaných tabulek.  
+- **Sběr výzkumných dat** – Extrahovat a organizovat akademická data z digitálních publikací.  
+- **Workflowy pro publikování s otevřeným zdrojovým kódem** – Používat FODS s LibreOffice a dalšími otevřenými platformami.  
+- **Záznamy v knihovním katalogu** – Spravovat bibliografická data v otevřených standardních tabulkách.  
+- **Sdílení akademických datových sad** – Distribuovat strukturované datové sady pro spolupráci a analýzu.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační Scénáře" %}}  
+- **Potrubí EPUB-to-FODS** – Automatizovat převod digitálních publikací do tabulek FODS.  
+- **Automatizovaná generace tabulek** – Zjednodušit zpracování publikovaných a výzkumných dat.  
+- **Extrakce datových sad řízená XML** – Převádět obsah e-knih do strukturovaných, strojově čitelných tabulek.  
+- **Workflowy pro akademické publikování ve firmách** – Standardizovat manipulaci s výzkumnými daty napříč institucemi.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

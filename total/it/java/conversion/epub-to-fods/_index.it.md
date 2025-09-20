@@ -47,7 +47,27 @@ Durante la conversione del file EPUB in FODS, puoi anche aggiungere una filigran
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **EPUB in FODS (fogli di calcolo ODS XML piatti)** è essenziale per generare **file di fogli di calcolo in formato aperto** da eBook e pubblicazioni digitali. FODS garantisce la compatibilità con suite per ufficio open-source, supporta la formattazione XML strutturata e consente la condivisione dati senza soluzione di continuità. Trasformando EPUB in FODS, editori, ricercatori e istituzioni possono tabulare i metadati, ottimizzare la catalogazione e condividere set di dati di ricerca in un formato universalmente accessibile.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- **Tabulazione dei metadati** – Convertire i metadati degli eBook in tabelle di fogli di calcolo strutturati.
+- **Raccolta dati di ricerca** – Estrarre e organizzare dati accademici da pubblicazioni digitali.
+- **Flussi di lavoro di pubblicazione open-source** – Utilizzare FODS con LibreOffice e altre piattaforme open.
+- **Record del catalogo della biblioteca** – Gestire dati bibliografici in fogli di calcolo in formato aperto.
+- **Condivisione di set di dati accademici** – Distribuire set di dati strutturati per collaborazione e analisi.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- **Pipeline EPUB-to-FODS** – Automatizzare la conversione di pubblicazioni digitali in fogli di calcolo FODS.
+- **Generazione automatica di fogli di calcolo** – Ottimizzare l'elaborazione dei dati di pubblicazione e ricerca.
+- **Estrazione di dataset guidata da XML** – Convertire il contenuto degli eBook in fogli di calcolo strutturati e leggibili dalle macchine.
+- **Flussi di lavoro di pubblicazione accademica aziendale** – Standardizzare la gestione dei dati di ricerca tra le istituzioni.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

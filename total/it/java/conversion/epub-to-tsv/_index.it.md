@@ -47,7 +47,27 @@ Durante la conversione del file EPUB in TSV, puoi anche aggiungere una filigrana
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversione di **EPUB in TSV** è un metodo efficiente per generare **insiemi di dati separati da tabulazioni** da eBook e contenuti digitali. I file TSV sono ampiamente utilizzati per lo scambio di dati strutturati, offrendo semplicità, leggibilità e compatibilità con sistemi accademici, istituzionali e aziendali. Estraendo i contenuti degli eBook nel formato TSV, editori, ricercatori e organizzazioni possono ottimizzare la condivisione dei dati, migliorare l'interoperabilità e gestire facilmente metadati multilingue.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- **Condivisione di dataset accademici** – Distribuire dati di ricerca strutturati in un formato universalmente compatibile.
+- **Esportazioni di metadati multilingue** – Preservare dettagli di pubblicazione specifici per lingua nei file TSV.
+- **Flussi di lavoro delle case editrici** – Standardizzare i dati tabulari per i team editoriali e di produzione.
+- **Scambio di dati istituzionali** – Agevolare la condivisione di dati tra dipartimenti e organizzazioni.
+- **Interoperabilità della ricerca** – Supportare studi collaborativi con insiemi di dati facilmente scambiabili.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- **Pipeline EPUB-to-TSV** – Automatizzare i flussi di lavoro da eBook a dataset su larga scala.
+- **Conversione automatica di dataset** – Trasformare istantaneamente i dati di pubblicazione nel formato TSV.
+- **Pubblicazione di metadati in TSV** – Convertire i metadati di pubblicazione in valori strutturati separati da tabulazioni.
+- **Integrazione di dati a livello aziendale** – Integrare insiemi di dati TSV in piattaforme di reporting e ricerca su larga scala.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

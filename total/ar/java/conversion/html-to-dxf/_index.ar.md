@@ -57,7 +57,31 @@ otherformats: DXF TGA IMAGE SVGZ EMZ WMF JPEG2000 PSD WMZ  DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **HTML إلى DXF** أمر أساسي لإنشاء رسومات **متوافقة مع CAD** من الرسومات القائمة على الويب. يضمن DXF أن التوضيحات التقنية والمخططات وتخطيط التصميم من محتوى HTML متوافقة تمامًا مع برامج CAD، مما يمكن من الهندسة الدقيقة وتخطيط الهندسة المعمارية وسير العمل التصنيعية. من خلال تحويل الرسومات القائمة على HTML إلى DXF، يمكن للمؤسسات تبسيط عمليات التصميم والحفاظ على الدقة العالية عبر التحويل الرقمي إلى CAD.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **سير العمل الهندسي** – تحويل خطط الطوابق والمخططات القائمة على الويب إلى ملفات جاهزة للتحرير على CAD.
+- **مخططات الهندسة** – تحويل التوضيحات التخطيطية إلى تنسيقات CAD قابلة للتحرير.
+- **عمليات التصنيع** – دمج مخططات العمليات في أنظمة CAD جاهزة للإنتاج.
+- **تكامل نمذجة ثلاثية الأبعاد** – استخدام التخطيطات القائمة على HTML كأسس للتصاميم ثلاثية الأبعاد.
+- **الوثائق التقنية** – الحفاظ على تصاميم مرئية موحدة وموحدة عبر المنصات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **أنابيب HTML-to-DXF** – أتمتة تحويل الرسومات القائمة على الويب إلى ملفات DXF متوافقة مع CAD.
+- **توليد الرسومات إلى CAD بشكل آلي** – تبسيط سير العمل من محتوى HTML إلى رسومات CAD قابلة للتحرير.
+- **تحويل ملفات التقنية بالجملة** – معالجة الرسومات المتعددة بكفاءة لمشاريع على مستوى المؤسسة.
+- **أتمتة التصميم على مستوى المؤسسة** – دمج تحويل HTML-to-DXF في سير العمل الهندسي على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

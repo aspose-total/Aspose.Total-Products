@@ -59,7 +59,29 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB을 ODP(OpenDocument Presentation)로 변환하는 것은 디지턈 출판물로부터 발표 슬라이드를 생성하는 데 필수적입니다. ODP 파일은 eBook 콘텐츠로부터 매력적인 슬라이드 덱을 만들기 위한 다목적, 오픈 표준 형식을 제공합니다. EPUB을 ODP로 변환함으로써 교육자, 기업, 출판사들은 디지털 콘텐츠를 강의, 회의, 교육 세션, 마케팅 프레젠테이션에 효율적으로 활용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 교육용 강의 슬라이드 – eBook 챕터를 구조화된 교실 프레젠테이션으로 변환합니다.
+- 비즈니스 프레젠테이션 덱 – 기업이나 산업 출판물로부터 전문적인 슬라이드를 생성합니다.
+- 연구 논문 요약 – 학술 콘텐츠를 시각적으로 매력적인 슬라이드로 요약합니다.
+- 출판사 마케팅 슬라이드 – 책 콘텐츠로부터 홍보 프레젠테이션을 만듭니다.
+- 교육 자료 배포 – 워크샵을 위한 사용 준비가 된 슬라이드로 학습 콘텐츠를 패키징합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- EPUB-to-ODP 파이프라인 – 디지털 출판물을 슬라이드 덱으로 자동 변환합니다.
+- 자동화된 프레젠테이션 생성 – eBook 콘텐츠로부터 빠르게 ODP 파일을 생성합니다.
+- 대량 eBook-to-슬라이드 변환 – 다수의 출판물을 대규모로 프레젠테이션으로 처리합니다.
+- 기업 지식 공유 워크플로우 – 교육 및 교육 자료의 유통을 간소화합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

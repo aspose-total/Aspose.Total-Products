@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力IMAGE画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBを画像に変換することは、デジタル出版物の**視覚的なスナップショット**を生成するために不可欠です。画像ファイルは、電子書籍コンテンツを視覚的に表示するための普遍的でプラットフォームに依存しない方法を提供し、プレビュー、プロモーショングラフィックス、アーカイブ記録を容易にします。EPUBを画像に変換することで、出版社、教育関係者、企業はアクセシビリティを向上させ、コンテンツマーケティングを効率化し、クロスプラットフォームの出版ワークフローをサポートすることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- **電子書籍のページプレビュー** – オンラインカタログやプレビュー用の視覚的なスナップショットを生成します。
+- **教育用インフォグラフィック** – コンテンツを分かりやすい視覚的な教育支援ツールに変換します。
+- **マーケティング資料の生成** – 電子書籍のページからプロモーション用のビジュアルを作成します。
+- **アーカイブのスナップショット** – デジタル出版物の静的な表現を長期保存します。
+- **クロスプラットフォームの出版ワークフロー** – ウェブ、モバイル、印刷プラットフォーム間で一貫した視覚コンテンツを確保します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBから画像へのパイプライン** – 電子書籍を視覚的なスナップショットに自動変換して効率化します。
+- **自動ページから画像へのレンダリング** – EPUBファイルから高品質なページ画像を迅速に生成します。
+- **出版プラットフォーム向けの一括プレビュー生成** – 一括で数千のプレビュー画像を生成します。
+- **企業規模の視覚的アーカイブ** – 組織のニーズに応じて大規模な電子書籍画像コレクションを維持します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,29 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **EPUB na SWF (Shockwave Flash)** je zásadní pro generování **interaktivních nebo animovaných prezentací** z digitálních publikací. Soubory SWF umožňují dynamický obsah, animace a interaktivitu, což je činí vhodnými pro eLearning, marketing a multimediální vyprávění. Transformací EPUB na SWF mohou vydavatelé, pedagogové a marketéři poskytnout zajímavé zážitky a zároveň zachovat kompatibilitu s dědictvím na platformách založených na Flashi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- **Staré eLearningové platformy** – Poskytují interaktivní vzdělávací obsah pro systémy podporující Flash.
+- **Interaktivní animace** – Přeměňují vizuální prvky eBooků na dynamické, poutavé animace.
+- **Marketingové demonstrace** – Vytvářejí animované snímky pro propagaci produktů nebo služeb.
+- **Digitální vyprávění** – Poskytují bohaté multimediální vyprávění z obsahu publikací.
+- **Cross-mediální publikování** – Předělávají eBooky pro interaktivní a animované platformy.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- **Potrubí EPUB na SWF** – Automatizují převod eBooků do interaktivních souborů Flash.
+- **Automatizované generování interaktivních náhledů** – Vytvářejí animované náhledy pro vzdělávání nebo marketing.
+- **Hromadné pracovní postupy animací** – Efektivně převádějí více publikací do interaktivních souborů SWF.
+- **Vzdělávací publikování na úrovni podniku** – Integrují generování SWF do distribuce obsahu eLearningu na velkou škálu.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

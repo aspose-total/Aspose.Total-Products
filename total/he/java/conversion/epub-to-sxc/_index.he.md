@@ -78,7 +78,29 @@ otherformats: XLTX FODS XLSM XLTM CSV ODS XLSB TXT MD EXCEL TSV XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **EPUB ל-SXC (גיליון חישובי של StarOffice Calc)** היא חיונית ליצירת **פלטים המתאימים לגיליונות** מספרים. קבצי SXC מבטיחים תאימות עם סביבות העבודה הישנות של OpenOffice ו-StarOffice, מאפשרים ניתוח נתונים חלקי, דיווחים והמרות אקדמיות חלקות. על ידי המרת EPUB ל-SXC, מורים, חוקרים וארגונים יכולים לנהל סט נתונים ביעילות, לייעל זרימות עבודה ולשמור על עקביות בין מערכות גיליון החישוב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- **זרימות עבודה של נתונים ישנים** – שלבו נתוני ספרי קודמים עם מערכות OpenOffice ו-StarOffice ישנות.
+- **סט נתונים אקדמי** – המרת ספרי לימוד וחומרי למידה לגיליונות מובנים.
+- **דיווחים מבוססי OpenOffice** – יצירת דוחות המתאימים לחבילות המשרד הפתוחות.
+- **המרות אקדמיות** – המרת תוכן מחקר בספרי לפורמטים של גיליונות ניתנים לניתוח.
+- **מערכות גיליון מחלקתיות** – תמיכה בניהול נתונים פנימי באמצעות פלטים סטנדרטיים של גיליון.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות EPUB-to-SXC** – אוטומציה של המרת ספרי ל-SXC.
+- **חילוץ נתונים אוטומטי** – חילוץ סטים מובנים מפרסומים ביעילות.
+- **יצירת סט נתונים אקדמי בכמות** – יצירת מספר גדול של גיליונות לכיתות או מוסדות לימוד.
+- **אינטגרציה ברמה הארגונית לגיליונות** – הטמעת יצירת SXC בזרימות ניהול נתונים של הארגון.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

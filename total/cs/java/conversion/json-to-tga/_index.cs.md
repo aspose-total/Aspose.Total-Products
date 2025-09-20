@@ -49,7 +49,33 @@ Pomocí API můžete také převést JSON na TGA s vodoznakem v dokumentu TGA. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **JSON na TGA** je zásadní pro generování **souborů s obrázky Targa ze strukturovaných dat**. Soubory TGA jsou široce využívány ve vývoji her, 3D modelování a produkci videa díky svým grafikám vysoké kvality a podpoře alfa kanálu. Transformací JSON na TGA mohou organizace automatizovat tvorbu textur, zefektivnit vizuální pracovní postupy a efektivně integrovat strukturovaná data do grafických potrubí.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Grafika ve vývoji her** – Generování textur a spriteů pro hry přímo ze strukturovaných datových sad.
+- **Průmyslové 3D modelování** – Vytváření aktiv TGA pro CAD a projekty 3D simulací.
+- **Aktiva pro úpravu videa** – Vytváření obrázků vysoké kvality pro pracovní postupy po produkci.
+- **Virtuální simulace** – Vývoj realistických textur a vizuálních prvků pro simulační prostředí.
+- **Staré pracovní postupy s obrazy** – Udržování kompatibility se systémy vyžadujícími formáty souborů Targa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON na TGA** – Automatizace generování souborů TGA ze strukturovaných dat.
+- **Automatizovaná tvorba textur** – Snížení ruční tvorby aktiv pro grafické projekty.
+- **Exporty grafiky řízené daty** – Přímé naplnění vrstev obrázků strukturovanými datovými sadami.
+- **Vizualizační pracovní postupy řízené JSONem** – Integrování automatizované generace TGA do podnikových grafických potrubí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

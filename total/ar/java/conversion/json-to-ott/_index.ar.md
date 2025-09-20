@@ -49,7 +49,33 @@ otherformats: DOC WORD MOBI RTF DOCM EPUB ODT OTT PS WORDML DOT PCL FLATOPC DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **JSON إلى OTT** أمر أساسي لإنتاج **قوالب وثائق نصية** من مجموعات بيانات منظمة. توفر OTT، صيغة قالب نصوص مستندات مفتوحة، طريقة موحدة لإنشاء قوالب قابلة لإعادة الاستخدام وقابلة للتحرير في حزم مكاتب مفتوحة المصدر مثل LibreOffice و OpenOffice. من خلال تحويل JSON إلى OTT، تضمن المؤسسات التناسق والامتثال والتلقائية في إنشاء المستندات عبر تدفقات العمل المتعددة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- **أطر وثائق الحكومة** – إنشاء نماذج وتقارير موحدة للاستخدام الرسمي.
+- **قوالب قانونية** – أتمتة العقود والاتفاقيات وتنسيقات جاهزة للامتثال.
+- **رسائل الأعمال** – الحفاظ على التناسق في المراسلات التجارية.
+- **تقارير تعليمية** – إنشاء قوالب وثائق جاهزة للبحث والمهام الأكاديمية.
+- **تكامل حزم المكاتب مفتوحة المصدر** – استخدام قوالب مدفوعة بـ JSON بسلاسة في بيئات مفتوحة المصدر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+- **أنابيب JSON-to-OTT** – أتمتة إنشاء القوالب من مجموعات بيانات JSON المنظمة.
+- **سير العمل التلقائية للقوالب** – تقليل جهد التنسيق اليدوي عبر الإدارات.
+- **إنشاء المستندات بواسطة JSON** – فرض التناسق في تقارير الشركات والامتثال.
+- **توزيع القوالب الشركية** – توحيد قوالب المستندات عبر الفرق العالمية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

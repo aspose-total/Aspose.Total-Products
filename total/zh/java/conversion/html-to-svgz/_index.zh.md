@@ -57,7 +57,33 @@ otherformats: EMZ JPEG2000 PSD WMF TGA IMAGE WMZ DXF SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**HTML转换为SVGZ（压缩的SVG）**对于从网页生成**可伸缩、压缩的矢量图形**至关重要。SVGZ保持了矢量图形的清晰度和可伸缩性，同时显著减小了文件大小，使其非常适合响应式设计、网页准备视觉效果和互动数字内容。通过将HTML内容转换为SVGZ，组织可以优化性能，改善加载时间，并有效地管理跨平台的矢量资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **信息图表** – 为数据表示创建视觉清晰、紧凑的矢量图形。
+* **网页准备图表** – 生成可扩展的图表，无缝集成到网站中。
+* **轻量级发布** – 减小文件大小，以便在数字出版物中更快地交付。
+* **移动友好的视觉资产** – 确保在任何屏幕分辨率或设备上都有清晰的图形。
+* **互动设计** – 支持动画和互动，同时保持较小的文件大小。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **HTML到SVGZ管道** – 自动化将网页内容转换为压缩的矢量图形。
+* **自动化矢量压缩** – 为网页和移动使用生成一致优化的SVGZ文件。
+* **批量图表工作流** – 高效处理大型项目的多个矢量资产。
+* **企业级轻量级发布** – 将SVGZ生成集成到可扩展的数字出版工作流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

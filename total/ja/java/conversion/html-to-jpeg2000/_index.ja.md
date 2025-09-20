@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力JPEG2000画像を回転させる
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTMLをJPEG2000に変換**することは、ウェブコンテンツから**高圧縮で高品質な画像**を生成するために重要です。JPEG2000は視覚的忠実性を保ちながらファイルサイズを大幅に削減し、デジタルライブラリ、研究アーカイブ、ウェブコンテンツ保存に最適です。HTMLページをJPEG2000画像に変換することで、組織は品質を損なうことなく大量の視覚的ウェブコンテンツを効率的に保存、共有、管理できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+- **デジタルライブラリ** – コンパクトで高品質な画像形式でウェブリソースを保存および配布します。
+- **アーカイブ用ウェブスナップショット** – コンプライアンスと記録目的でウェブサイトの歴史的バージョンを保存します。
+- **eラーニングプラットフォーム** – ウェブレッスンやインタラクティブコンテンツを高品質な視覚的参照に変換します。
+- **研究出版物** – 学術論文やレポートに正確なウェブベースの視覚的要素を含めます。
+- **ウェブコンテンツ保存** – 視覚的に豊かなウェブページの長期アクセシビリティを維持します。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **HTMLからJPEG2000へのパイプライン** – ウェブページを高圧縮画像に自動変換します。
+- **自動化された高品質スナップショット生成** – 複数のページに対して一貫した、視覚的に正確な画像を生成します。
+- **大量のアーカイブワークフロー** – 大量のウェブコンテンツを効率的に処理して保存または分析します。
+- **エンタープライズレベルのデジタル保存** – 大規模なアーカイブおよびパブリッシングシステムにJPEG2000変換を統合します。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

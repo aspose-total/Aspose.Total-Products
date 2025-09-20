@@ -57,7 +57,29 @@ Mit der API können Sie das ausgegebene DICOM-Bild auch nach Ihren Bedürfnissen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Umwandlung von **EPUB in DICOM** ist ein innovativer Ansatz zur Umwandlung digitaler Publikationen in **medizinisch bildkompatible Dateien**. Dieser Prozess ermöglicht es Gesundheitsfachleuten, Forschern und Pädagogen, strukturierte eBook-Inhalte in DICOM-Formate einzubetten, um sie innerhalb von medizinischen Bildgebungssystemen zugänglich zu machen. Durch die Integration von textbasierten Ressourcen in Bildgebungsworkflows können Krankenhäuser und Institutionen das Training verbessern, die Einhaltung von Vorschriften verbessern und die klinische Dokumentation optimieren.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- **Medizinische Schulungs-eBooks** – Konvertieren von Lernmaterialien in Formate, die mit Bildgebungssystemen kompatibel sind.
+- **Klinische Forschungsdokumentation** – Speichern und standardisieren von Forschungspublikationen in DICOM-Systemen.
+- **Radiologie-Ausbildungsinhalte** – Verbessern von Lehrressourcen durch Integration von Text in Bildgebungsworkflows.
+- **Krankenhausdatenarchivierung** – Verwalten von Publikationsdaten neben Patientenbildaufzeichnungen.
+- **Gesundheitskonforme Workflows** – Sicherstellen, dass medizinische Publikationen standardisierten digitalen Formaten entsprechen.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- **EPUB-zu-DICOM-Pipelines** – Automatisieren der Konvertierung für skalierbare Gesundheitsdaten-Workflows.
+- **Automatisierte medizinische Publikationskonvertierung** – Sofortige Umwandlung von eBooks in DICOM-kompatible Ressourcen.
+- **E-Learning-Integration für das Gesundheitswesen** – Bereitstellung interaktiver medizinischer Inhalte in Schulungsplattformen.
+- **Standardisierung von Forschungsdatensätzen** – Konvertieren von klinischen und Forschungsdokumenten in einheitliche DICOM-Datensätze.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

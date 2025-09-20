@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 RTF로 변환**하는 것은 디지털 출판물로부터 **풍부한 텍스트 문서**를 생성하는 데 필수적입니다. RTF 파일은 플랫폼 간 호환성을 보장하며 쉬운 편집을 제공하고 메타데이터가 풍부한 워크플로우를 지원합니다. EPUB을 RTF로 변환함으로써 조직과 출판사는 문서 편집을 간소화하고 접근성을 향상시키며 연구, 교육 및 출판을 위한 가벼우면서도 구조화된 형식을 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **플랫폼 간 출판** – 보편적으로 지원되는 RTF 형식으로 eBook 콘텐츠 공유.
+- **eBook 메타데이터 보존** – 편집 가능한 풍부한 텍스트 파일에 구조화된 출판 데이터 보존.
+- **가벼운 연구 문서** – 학술 및 기관적 사용을 위한 관리 가능한 파일 생성.
+- **교육 자원 배포** – 편집 가능한 형식으로 학생과 교사에게 콘텐츠 전달.
+- **콘텐츠 편집 워크플로우** – 쉽게 수정 가능한 문서로 편집 프로세스 간소화.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-RTF 파이프라인** – eBook을 RTF 문서로 자동 변환하는 시나리오 자동화.
+- **자동화된 풍부한 텍스트 변환** – RTF 출력으로 디지털 출판 워크플로우 표준화.
+- **일괄 출판 워크플로우** – 대량의 EPUB 파일을 편집 가능한 형식으로 변환.
+- **문서 이식성 자동화** – 콘텐츠가 여러 플랫폼에서 접근 가능하고 편집 가능하도록 보장.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

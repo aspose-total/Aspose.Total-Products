@@ -57,7 +57,29 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **HTML to DICOM** konvertálása alapvető fontosságú az **orvosi képekkel kompatibilis kimenetek** előállításához webes adatokból. A DICOM biztosítja, hogy a klinikai képek és az egészségügyi információk szabványosak legyenek az interoperabilitás, az archiválás és az integráció érdekében az egészségügyi rendszerekben. Az HTML tartalom átalakításával DICOM formátummá az egészségügyi szolgáltatók és kutatók optimalizálhatják az orvosi folyamatokat, miközben betartják az iparági szabványokat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- **Telemedicinai platformok** – Integrálja a webes orvosi adatokat a DICOM-kompatibilis rendszerekbe.
+- **Orvosi jelentések integrációja** – Ágyazza be a szöveges és képi jelentéseket a szabványos egészségügyi formátumokba.
+- **Egészségügyi folyamatok** – Lehetővé teszi a betegadatok zökkenőmentes cseréjét osztályok között.
+- **Radiológiai archiválás** – Tárolja a képeket és az ehhez kapcsolódó webes tartalmakat DICOM archívumokban.
+- **Rendszerközi interoperabilitás** – Segíti az egészségügyi alkalmazások közötti szabványos adatmegosztást.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- **HTML-to-DICOM csatornák** – Automatizálja a webes orvosi tartalmak átalakítását DICOM formátummá.
+- **Automatizált orvosi jelentéságyazás** – Integrálja az HTML adatokat a betegkép-folyamatokba.
+- **Tömeges egészségügyi adatátalakítás** – Dolgozza fel hatékonyan nagy mennyiségű jelentést vagy weboldalt.
+- **Vállalati szintű klinikai folyamatok** – Szabványosítsa az HTML-to-DICOM konverziót az egészségügyi szervezetekben.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

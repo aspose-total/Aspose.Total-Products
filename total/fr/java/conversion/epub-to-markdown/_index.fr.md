@@ -61,7 +61,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion **EPUB en Markdown** est très précieuse pour générer des fichiers de contenu **légers et conviviaux pour les développeurs** à partir de publications numériques. Markdown garantit la simplicité, la compatibilité multiplateforme et l'intégration transparente avec les générateurs de sites statiques et les outils de développement. En transformant l'EPUB en Markdown, les éditeurs, les développeurs et les communautés open source peuvent réutiliser le contenu des livres électroniques pour la documentation, les blogs et la publication collaborative.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- **Publication de sites statiques** – Alimentez les sites Web modernes avec du contenu de livres électroniques basé sur Markdown.
+- **Documentation basée sur GitHub** – Gérez et contrôlez la version du contenu directement dans les dépôts Git.
+- **Partage de livres électroniques open source** – Distribuez des livres sous forme de fichiers Markdown universellement lisibles.
+- **Blogging technique** – Convertissez des chapitres de livres électroniques en contenu de blog convivial pour les développeurs.
+- **Flux de travail de publication convivial pour les développeurs** – Permet une gestion de contenu légère et portable.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines EPUB vers Markdown** – Automatisez la conversion d'eBook en Markdown pour une publication évolutive.
+- **Publication automatisée sur des systèmes basés sur Git** – Synchronisez le contenu de l'eBook avec des dépôts tels que GitHub ou GitLab.
+- **Génération de site Web statique** – Intégrez du contenu Markdown dans Jekyll, Hugo ou Next.js pour la publication Web.
+- **Automatisation de la documentation d'entreprise** – Normalisez les flux de travail de documentation avec des sorties Markdown.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

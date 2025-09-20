@@ -49,7 +49,33 @@ otherformats: PPS PPT PPTM PPSM POWERPOINT POT POTM OTP PPSX POTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 ODP** 对于直接从结构化数据集生成 **OpenDocument 演示文稿** 至关重要。ODP 是由 LibreOffice 和 OpenOffice 使用的标准格式，确保与开源办公套件和跨平台工作流的完全兼容性。通过将 JSON 转换为 ODP，组织可以创建动态、可重用和标准化的演示文稿，无需手动努力。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **商业演示文稿** – 直接从结构化来源构建数据驱动的企业演示文稿。
+- **教育幻灯片** – 从学术数据集生成教材和讲座幻灯片。
+- **数据驱动的推介资料** – 使用实时数据自动化投资者或销售演示文稿。
+- **政府工作流程** – 支持透明度和符合开放标准的 ODP 幻灯片。
+- **开源办公集成** – 确保与 LibreOffice、Apache OpenOffice 和其他符合 ODF 标准的工具的无缝兼容性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 ODP 管道** – 将结构化数据转换为开放标准演示文稿的自动化过程。
+- **自动生成幻灯片** – 通过直接从数据集生成准备好展示的幻灯片来节省时间。
+- **数据到演示文稿工作流程** – 将企业数据系统与 ODP 生成集成以进行报告。
+- **企业演示文稿标准化** – 确保在大型组织中设计、结构和合规性的统一性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

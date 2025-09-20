@@ -57,7 +57,27 @@ Usando a API, você também pode girar a imagem SVGZ de saída conforme suas nec
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para SVGZ (SVG comprimido)** é essencial para gerar **gráficos vetoriais escaláveis** a partir de publicações digitais em um formato comprimido. Arquivos SVGZ mantêm total escalabilidade e qualidade, reduzindo o tamanho do arquivo, tornando-os ideais para aplicações web, móveis e interativas. Ao transformar EPUB em SVGZ, editores, educadores e designers podem fornecer gráficos de alta qualidade de forma eficiente, melhorar os tempos de carregamento e manter a consistência entre plataformas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Publicação web leve** – Implante visualizações de eBooks de forma eficiente em sites com tempos de carregamento mínimos.
+- **Pré-visualizações de eBooks otimizadas para dispositivos móveis** – Forneça gráficos interativos e escaláveis otimizados para dispositivos móveis.
+- **Geração de infográficos** – Crie resumos visuais detalhados e de alta qualidade a partir do conteúdo da publicação.
+- **Compatibilidade entre plataformas** – Garanta a exibição consistente de gráficos vetoriais em dispositivos e plataformas.
+- **Designs interativos** – Permita gráficos dinâmicos e zoomáveis para aprendizado, marketing ou apresentações.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de EPUB para SVGZ** – Automatize a conversão de eBooks em gráficos vetoriais comprimidos.
+- **Compressão automática de vetores** – Reduza o tamanho dos arquivos preservando total escalabilidade e qualidade.
+- **Criação em massa de infográficos** – Gere grandes volumes de conteúdo visual de forma eficiente a partir de publicações digitais.
+- **Fluxos de trabalho de publicação leve em nível empresarial** – Integre a geração de SVGZ em sistemas escaláveis de entrega de conteúdo.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,30 @@ EPUB 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 XLTX로 변환**하는 것은 디지턈 출판물을 재사용 가능하고 일관되며 전문적인 보고 도구로 변환하는 **표준화된 Excel 템플릿**을 생성하는 데 중요합니다. eBook 데이터나 메타데이터에서 구조화된 XLTX 파일을 생성함으로써 출판사, 교육기관 및 기업은 업무 흐름을 최적화하고 보고의 정확성을 보장하며 부서 및 기관 전체에서 일관성을 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **교육 보고 프레임워크** - 학교와 대학에 표준화된 템플릿 제공.
+- **출판사 템플릿** - 편집 및 제작 보고서의 일관성 유지.
+- **도서관 카탈로그 템플릿** - 디지털 및 물리적 컬렉션용 재사용 가능한 템플릿 생성.
+- **연구 메타데이터 템플릿** - 메타데이터를 구조화된 연구용 Excel 파일로 변환.
+- **기업급 업무 흐름** - 대규모 조직 전체에서 보고 및 분석을 표준화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-XLTX 템플릿 파이프라인** - 표준화된 템플릿 생성을 자동화.
+- **자동화된 Excel 템플릿 표준화** - 여러 프로젝트 전체에서 균일한 형식 보장.
+- **eBook 메타데이터를 템플릿으로 변환** - 출판 메타데이터를 사용 가능한 템플릿으로 변환.
+- **기업 자동화** - 부서 전체에서 템플릿 생성 및 사용 확장.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

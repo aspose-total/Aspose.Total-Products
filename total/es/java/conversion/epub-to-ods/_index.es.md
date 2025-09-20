@@ -47,7 +47,27 @@ Al convertir un archivo EPUB a ODS, también puede agregar una marca de agua a s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}  
+Convertir **EPUB a ODS (OpenDocument Spreadsheet)** es esencial para generar **hojas de cálculo de estándares abiertos** a partir de publicaciones digitales. Los archivos ODS proporcionan un formato flexible y ampliamente compatible para organizar y analizar datos estructurados. Al transformar EPUB en ODS, educadores, investigadores, bibliotecas y editores pueden gestionar eficientemente metadatos, hacer un seguimiento de conjuntos de datos de investigación y optimizar flujos de trabajo de publicación basados en datos.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}  
+- **Gestión de conjuntos de datos académicos** – Organizar y mantener datos de investigación de libros electrónicos en formato de hoja de cálculo.  
+- **Registros de catálogo de biblioteca** – Tabular metadatos bibliográficos para un acceso y análisis fáciles.  
+- **Tabulación de metadatos** – Convertir metadatos de libros electrónicos en tablas estructuradas de hojas de cálculo.  
+- **Análisis de datos de investigación** – Facilitar cálculos, clasificaciones e informes utilizando archivos ODS.  
+- **Flujos de trabajo de publicación** – Estandarizar la gestión de datos en la publicación editorial y académica.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}  
+- **Tuberías de EPUB a ODS** – Automatizar la conversión de libros electrónicos en hojas de cálculo estructuradas.  
+- **Conversión automatizada de hojas de cálculo** – Optimizar el procesamiento de metadatos y conjuntos de datos a escala.  
+- **Extracción masiva de conjuntos de datos** – Extraer grandes volúmenes de datos de libros electrónicos de manera eficiente.  
+- **Analítica de publicación a nivel empresarial** – Integrar salidas de ODS en flujos de trabajo de analítica e informes.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

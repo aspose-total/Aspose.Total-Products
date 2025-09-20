@@ -59,7 +59,29 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 PPS（PowerPoint 演示）** 对于从数字出版物生成 **即时播放的演示文件** 至关重要。PPS 文件可以立即以演示模式启动幻灯片展示，非常适合用于会议、培训和营销。通过将 EPUB 转换为 PPS，教育工作者、出版商和企业可以在不需要手动编辑的情况下提供精美、易于访问的演示文稿，简化沟通和内容共享。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- **会议幻灯片** – 为专业活动生成精美的演示文稿。
+- **培训课程** – 提供立即播放的教学幻灯片。
+- **出版社预览** – 以交互式幻灯片格式展示书籍内容。
+- **学术讲座回放** – 为无缝课堂展示提供讲座幻灯片。
+- **商业演示** – 在预配置的幻灯片展示中呈现产品或服务信息。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 PPS 管道** – 自动将电子书转换为即时播放的幻灯片展示。
+- **自动化幻灯片创建** – 快速从多个数字出版物生成 PPS 文件。
+- **基于元数据的展示生成** – 使用结构化的电子书数据填充幻灯片展示。
+- **企业级出版自动化** – 将 PPS 生成集成到大规模演示工作流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

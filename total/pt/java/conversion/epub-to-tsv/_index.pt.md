@@ -47,7 +47,27 @@ Ao converter o arquivo EPUB para TSV, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para TSV** é um método eficiente para gerar conjuntos de dados **separados por tabulação** a partir de eBooks e conteúdo digital. Arquivos TSV são amplamente utilizados para a troca de dados estruturados, oferecendo simplicidade, legibilidade e compatibilidade com sistemas acadêmicos, institucionais e empresariais. Ao extrair o conteúdo do eBook para o formato TSV, editores, pesquisadores e organizações podem otimizar o compartilhamento de dados, aprimorar a interoperabilidade e manter metadados multilíngues com facilidade.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Compartilhamento de conjuntos de dados acadêmicos** – Distribua dados de pesquisa estruturados em um formato universalmente compatível.
+- **Exportações de metadados multilíngues** – Preserve detalhes de publicação específicos de idioma em arquivos TSV.
+- **Fluxos de trabalho de editoras** – Padronize dados tabulares para equipes editoriais e de produção.
+- **Troca de dados institucionais** – Facilite o compartilhamento de dados entre departamentos e organizações.
+- **Interoperabilidade de pesquisa** – Apoie estudos colaborativos com conjuntos de dados facilmente intercambiáveis.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de EPUB para TSV** – Automatize fluxos de trabalho de eBook para conjunto de dados em escala.
+- **Conversão automatizada de conjuntos de dados** – Transforme instantaneamente dados de publicação em formato TSV.
+- **Publicação de metadados em TSV** – Converta metadados de publicação em valores estruturados e separados por tabulação.
+- **Integração de dados em nível empresarial** – Integre conjuntos de dados TSV em plataformas de relatórios e pesquisa em grande escala.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

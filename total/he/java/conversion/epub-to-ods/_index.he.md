@@ -78,7 +78,29 @@ otherformats: MD DIF TXT XLSB FODS XLSM TSV XLT SXC XLTX CSV EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **EPUB ל־ODS (OpenDocument Spreadsheet)** חיונית ליצירת **גיליונות נתונים בתקן פתוח** מפרסומים דיגיטליים. קבצי ODS מספקים פורמט גמיש ותואם ברחביות לארגון וניתוח של נתונים מובנים. על ידי המרת EPUB ל־ODS, מחנכים, חוקרים, ספריות ומוציאי ספרים יכולים לנהל ביעילות מטא-נתונים, לעקוב אחר סטים של מחקר ולקצץ תהליכי פרסום מבוססי נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- **ניהול סט נתונים אקדמי** – לארגן ולשמור נתוני מחקר מספריות דיגיטליים בפורמט גיליון נתונים.
+- **רשומות קטלוג של ספרייה** – לטבל נתוני ביבליוגרפיים לגישה וניתוח קלים.
+- **טבילת מטא-נתונים** – להמיר מטא-נתונים של ספרים אל תוך טבלאות גיליון נתונים מובנות.
+- **ניתוח נתוני מחקר** – לקלט חישובים, מיון ודיווח באמצעות קבצי ODS.
+- **תהליכי פרסום מבוססי נתונים** – לתקן את ניהול הנתונים בכל תהליך עריכה ופרסום אקדמי.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות EPUB-ל־ODS** – לאוטומציה של המרת ספרים אלקטרוניים לגיליונות נתונים מובנים.
+- **המרת גיליונות נתונים אוטומטית** – לקיצור דרך בעיבוד מטא-נתונים וסטי נתונים בקנה מידה.
+- **חילוץ סט נתונים בכמות גדולה** – לחלץ נתוני ספרים אלקטרוניים בכמויות גדולות בצורה יעילה.
+- **ניתוח נתונים לרמת המוסד** – לאינטגרציה של פלטי ODS לתהליכי ניתוח ודיווח.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -49,7 +49,33 @@ Mit der API können Sie auch JSON zu DOT mit Wasserzeichen parsen. Um Ihrem DOT-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Umwandlung von **JSON in DOT** ist entscheidend für die Erstellung von **Word-Vorlagen** aus strukturierten Datenquellen. Diese Transformation ermöglicht es Unternehmen, Rohdatensätze in wiederverwendbare, standardisierte Vorlagen umzuwandeln, die Konsistenz in der Unternehmens-, Rechts- und Abteilungsdokumentation gewährleisten. Durch die Generierung von DOT-Dateien aus JSON können Organisationen die Vorlagenproduktion automatisieren, Compliance-getriebene Workflows optimieren und die Markenkonsistenz in allen Dokumenten aufrechterhalten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+- **Unternehmensbriefköpfe** – Erstellen von gebrandeten Vorlagen für offizielle Kommunikationen.
+- **Juristische Vorlagen** – Standardisierung von Vereinbarungen und Verträgen direkt aus strukturierten Daten.
+- **Rechnungsautomatisierung** – Generierung wiederverwendbarer Rechnungsformate auf Basis von JSON-Eingaben.
+- **Standardisierte Vereinbarungen** – Gewährleistung von Einheitlichkeit in der Unternehmens- und Partnerdokumentation.
+- **Abteilungsvorlagen** – Bereitstellung konsistenter Dokumentenformate in Teams.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+- **JSON-zu-DOT-Pipelines** – Automatisierung der Erstellung von Word-Vorlagen aus strukturierten Datensätzen.
+- **Automatisierte Vorlagenerstellung** – Erstellung standardisierter Vorlagen mit minimalem manuellen Aufwand.
+- **JSON-gesteuerte Unternehmensdokumentenrahmen** – Bereitstellung unternehmensweiter Vorlagensysteme mit dynamischen Daten.
+- **Vorlagenverteilungs-Workflows** – Konsistente Bereitstellung von einsatzbereiten DOT-Dateien in Organisationen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

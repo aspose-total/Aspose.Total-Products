@@ -57,7 +57,27 @@ Met behulp van de API kunt u ook de uitgevoerde DICOM-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}  
+Het omzetten van **HTML naar DICOM** is essentieel voor het genereren van **medische beeldvriendelijke uitvoer** van webgebaseerde gegevens. DICOM zorgt ervoor dat klinische beelden en gezondheidsgerelateerde informatie gestandaardiseerd zijn voor interoperabiliteit, archivering en integratie over medische systemen heen. Door HTML-inhoud om te zetten naar DICOM kunnen zorgverleners en onderzoekers medische workflows stroomlijnen terwijl ze voldoen aan de branchenormen.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}  
+- **Telemedicine platforms** – Integreer webgebaseerde medische gegevens in DICOM-compatibele systemen.  
+- **Integratie van medische rapporten** – Voeg tekstuele en beeldrapporten toe aan standaard gezondheidsformaten.  
+- **Gezondheidswerkstromen** – Maak naadloze uitwisseling van patiëntgegevens tussen afdelingen mogelijk.  
+- **Radiologie-archivering** – Sla beeldmateriaal en bijbehorende webgebaseerde inhoud op in DICOM-archieven.  
+- **Interoperabiliteit tussen systemen** – Vergemakkelijk gestandaardiseerde gegevensuitwisseling tussen gezondheidsapplicaties.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}  
+- **HTML-naar-DICOM-pijplijnen** – Automatiseer de conversie van webgebaseerde medische inhoud naar DICOM.  
+- **Automatische integratie van medische rapporten** – Integreer HTML-gegevens in workflows voor patiëntbeeldvorming.  
+- **Conversie van bulkgezondheidsgegevens** – Verwerk meerdere rapporten of webpagina's efficiënt op schaal.  
+- **Klinische workflows op ondernemingsniveau** – Standaardiseer HTML-naar-DICOM-conversie over gezondheidsorganisaties heen.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

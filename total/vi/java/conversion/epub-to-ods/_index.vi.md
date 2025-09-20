@@ -47,7 +47,29 @@ Trong khi chuyển đổi tệp EPUB sang ODS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **EPUB sang ODS (OpenDocument Spreadsheet)** là điều cần thiết để tạo ra **bảng tính chuẩn mở** từ các xuất bản kỹ thuật số. Tệp ODS cung cấp định dạng linh hoạt, rộng rãi tương thích để tổ chức và phân tích dữ liệu có cấu trúc. Bằng cách chuyển đổi EPUB thành ODS, giáo viên, nhà nghiên cứu, thư viện và nhà xuất bản có thể quản lý siêu dữ liệu một cách hiệu quả, theo dõi tập dữ liệu nghiên cứu và tối ưu hóa quy trình xuất bản dựa trên dữ liệu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- **Quản lý tập dữ liệu học thuật** – Tổ chức và duy trì dữ liệu nghiên cứu từ eBook dưới dạng bảng tính.
+- **Hồ sơ thư viện** – Liệt kê siêu dữ liệu thư mục để truy cập và phân tích dễ dàng.
+- **Bảng dữ liệu siêu dữ liệu** – Chuyển đổi siêu dữ liệu eBook thành bảng bảng tính có cấu trúc.
+- **Phân tích dữ liệu nghiên cứu** – Hỗ trợ tính toán, sắp xếp và báo cáo bằng cách sử dụng tệp ODS.
+- **Quy trình xuất bản** – Chuẩn hóa quản lý dữ liệu trên các nền tảng xuất bản biên tập và học thuật.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- **Các đường ống EPUB-sang-ODS** – Tự động hóa chuyển đổi eBook thành bảng tính có cấu trúc.
+- **Chuyển đổi bảng tính tự động** – Tối ưu hóa xử lý siêu dữ liệu và tập dữ liệu theo quy mô.
+- **Trích xuất tập dữ liệu hàng loạt** – Trích xuất lượng lớn dữ liệu eBook một cách hiệu quả.
+- **Phân tích xuất bản cấp doanh nghiệp** – Tích hợp đầu ra ODS vào quy trình phân tích và báo cáo.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

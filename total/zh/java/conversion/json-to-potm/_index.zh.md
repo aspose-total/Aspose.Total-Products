@@ -49,7 +49,33 @@ otherformats: POTM PPT PPSM POWERPOINT OTP POTX POT PPSX PPS PPTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 POTM** 对于从结构化数据创建 **宏启用的 PowerPoint 模板** 至关重要。POTM 文件允许组织在演示模板中集成 VBA 宏，实现自动化、互动性和动态内容生成。通过将 JSON 转换为 POTM，企业可以标准化工作流程，提高生产力，并在部门间简化高级演示任务。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **交互式幻灯片模板** – 构建带有嵌入式宏的模板，用于引人入胜的演示。
+- **自动化报告幻灯片** – 使用动态的、基于 JSON 的宏生成重复报告。
+- **企业宏集成** – 在演示模板中集中业务规则和自动化脚本。
+- **培训工作流程** – 通过宏启用的互动性标准化学习模块。
+- **高级演示框架** – 实现智能、数据驱动的模板功能。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 POTM 管道** – 直接从 JSON 数据集自动创建宏启用的模板。
+- **自动化宏启用幻灯片生成** – 简化重复的报告和培训工作流程。
+- **基于 JSON 的交互式模板** – 使用结构化数据和动态脚本填充演示文稿。
+- **企业级演示自动化** – 在组织中扩展宏启用模板的使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

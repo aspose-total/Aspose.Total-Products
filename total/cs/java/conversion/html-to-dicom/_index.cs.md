@@ -57,7 +57,29 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}  
+Převod **HTML na DICOM** je zásadní pro generování **výstupů kompatibilních s lékařským zobrazováním** z webových dat. DICOM zajistí, že klinické obrázky a informace související s zdravotnictvím jsou standardizovány pro interoperabilitu, archivaci a integraci napříč lékařskými systémy. Převodem obsahu HTML na DICOM mohou poskytovatelé zdravotní péče a výzkumníci zefektivnit lékařské pracovní postupy a zároveň dodržovat normy průmyslu.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
+- **Telemedicínské platformy** – Integrujte webová lékařská data do systémů kompatibilních s DICOM.  
+- **Integrace lékařských zpráv** – Vložte textové a obrazové zprávy do standardních formátů zdravotní péče.  
+- **Pracovní postupy ve zdravotnictví** – Umožněte bezproblémovou výměnu dat pacientů mezi odděleními.  
+- **Archivace radiologie** – Ukládejte obrázky a související webový obsah do archivů DICOM.  
+- **Interoperabilita mezi systémy** – Umožněte standardizované sdílení dat mezi aplikacemi zdravotní péče.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}  
+- **Potrubí HTML na DICOM** – Automatizujte převod webového lékařského obsahu na DICOM.  
+- **Automatické vkládání lékařských zpráv** – Integrujte HTML data do pracovních postupů obrázků pacientů.  
+- **Hromadný převod zdravotnických dat** – Zpracujte efektivně na škále více zpráv nebo webových stránek.  
+- **Klinické pracovní postupy na úrovni podniku** – Standardizujte převod HTML na DICOM napříč organizacemi zdravotní péče.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

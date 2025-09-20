@@ -49,7 +49,33 @@ Utilizzando l'API, puoi anche convertire JSON in DICOM con filigrana nel tuo doc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **JSON in DICOM (Digital Imaging and Communications in Medicine)** è cruciale per trasformare **dati strutturati sulla salute** in formati standardizzati di immagini mediche. DICOM è lo standard globale per memorizzare, trasmettere e visualizzare immagini mediche, consentendo a fornitori di assistenza sanitaria, ricercatori e sistemi di intelligenza artificiale di lavorare con dati coerenti e interoperabili. Convertendo JSON in DICOM, i record dei pazienti strutturati e i dati clinici possono essere integrati senza soluzione di continuità nei flussi di lavoro delle immagini, supportando diagnosi accurate e migliori esiti sanitari.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+- **Visualizzazione dei record dei pazienti** – Convertire dati strutturati sulla salute in formati di immagini visive.
+- **Imaging medico basato su intelligenza artificiale** – Consentire ai sistemi di apprendimento automatico di elaborare set di dati basati su JSON.
+- **Interoperabilità sanitaria** – Standardizzare i dati strutturati in formati DICOM accettati a livello globale.
+- **Flussi di lavoro radiologici** – Integrare rapporti basati su JSON nei sistemi di imaging e diagnostici.
+- **Integrazione dei dati di ricerca clinica** – Trasformare set di dati strutturati in formati compatibili con gli studi di imaging.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+- **Pipeline JSON-to-DICOM** – Automatizzare la trasformazione dei dati sulla salute in formati pronti per l'imaging.
+- **Conversione automatica di rapporti medici** – Generare file DICOM direttamente da rapporti clinici basati su JSON.
+- **Imaging sanitario basato su cloud** – Abilitare lo scambio di dati di imaging scalabile e interoperabile nel cloud.
+- **Sistemi diagnostici basati su intelligenza artificiale** – Potenziare strumenti diagnostici avanzati con la conversione da strutturato a imaging.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

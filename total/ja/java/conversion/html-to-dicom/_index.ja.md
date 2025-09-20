@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTMLをDICOMに変換**することは、ウェブベースのデータから**医用画像互換の出力**を生成するために不可欠です。DICOMは、臨床画像や医療関連情報が相互運用性、アーカイブ、医療システム全体での統合のために標準化されることを保証します。HTMLコンテンツをDICOMに変換することで、医療提供者や研究者は業界基準を遵守しながら医療ワークフローを効率化することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **テレメディスンプラットフォーム** – ウェブベースの医療データをDICOM互換システムに統合します。
+- **医療レポートの統合** – テキストと画像のレポートを標準の医療形式に埋め込みます。
+- **医療ワークフロー** – 部門間で患者データをシームレスに交換できるようにします。
+- **放射線学のアーカイブ** – 画像と関連するウェブベースのコンテンツをDICOMアーカイブに保存します。
+- **クロスシステムの相互運用性** – 医療アプリケーション間で標準化されたデータ共有を促進します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **HTMLからDICOMへのパイプライン** – ウェブベースの医療コンテンツをDICOMに自動変換します。
+- **自動化された医療レポートの埋め込み** – HTMLデータを患者画像ワークフローに統合します。
+- **大量の医療データ変換** – 複数のレポートやウェブページを効率的にスケールで処理します。
+- **企業レベルの臨床ワークフロー** – 医療機関全体でHTMLからDICOMへの変換を標準化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

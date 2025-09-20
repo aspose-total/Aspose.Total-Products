@@ -47,7 +47,29 @@ EPUBファイルをXLAMに変換するときに、出力XLAMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB**を**XLAM（Excel Add-in）**に変換することは、eBookから**自動化対応のExcel拡張機能**を生成するために不可欠です。XLAMファイルを使用すると、組織はeBookからのデータとマクロを直接Excelに統合し、高度な自動化、ビジネスインテリジェンスワークフロー、カスタムレポートを可能にします。EPUBをXLAMに変換することで、アナリストや企業は繰り返しのタスクを効率化し、意思決定を強化し、スケーラブルなスプレッドシートソリューションを展開することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **データ分析の自動化** – eBookコンテンツをExcelベースの自動化ツールに変換します。
+- **ファイナンシャルモデリング** – 出版データをマクロ有効なファイナンシャルモデルに統合します。
+- **ビジネスインテリジェンスワークフロー** – eBook由来のExcel拡張機能でBIパイプラインを強化します。
+- **カスタムレポートシステム** – 自動化されたExcelアドインを使用して動的レポートを生成します。
+- **企業スプレッドシート拡張機能** – コンテンツ駆動型のマクロで企業スプレッドシートを拡張します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからXLAMへのパイプライン** – デジタル出版物からExcelアドインを自動作成します。
+- **自動化されたExcelアドインの生成** – マクロ有効な拡張機能を効率的に大量生産します。
+- **大量BIワークフローの統合** – 複数のeBookデータセットを企業BIシステムに統合します。
+- **企業レベルのデータ自動化** – XLAMツールを使用して大規模なスプレッドシート自動化を効率化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

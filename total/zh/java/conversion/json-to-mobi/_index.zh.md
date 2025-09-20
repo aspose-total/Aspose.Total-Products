@@ -49,7 +49,33 @@ otherformats: DOT PS ODT OTT WORDML EPUB MOBI DOC FLATOPC DOTX DOCM RTF WORD PCL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 MOBI** 对于从结构化数据生成 **Kindle 兼容的电子书** 至关重要。MOBI 在亚马逊 Kindle 设备上被广泛使用，使其成为出版商、教育者和企业的首选格式。通过将 JSON 数据集转换为 MOBI，组织可以生成移动友好、结构化且易于分发的数字书籍，从而在各种电子阅读器上保持一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键应用场景" %}}
+
+- **数字出版** – 将结构化内容转换为适用于 Kindle 的电子书。
+- **电子学习内容** – 以可访问的 MOBI 格式提供课程材料。
+- **研究成果分发** – 通过 Kindle 设备分享学术或技术发现。
+- **移动友好书籍** – 确保在电子阅读器和智能手机上的兼容性。
+- **企业电子书工作流程** – 为 Kindle 出版标准化业务报告和文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 MOBI 管道** – 从结构化数据集自动生成电子书。
+- **自动化的 Kindle 准备发布** – 简化适用于亚马逊 Kindle 的电子书部署。
+- **动态电子学习内容生成** – 实时创建互动式课程材料。
+- **基于 JSON 的电子书标准化** – 在多个标题之间保持一致的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

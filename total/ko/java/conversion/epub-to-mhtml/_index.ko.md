@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB을 MHTML(웹 아카이브)로 변환하는 것은 디지털 출판물로부터 **단일 파일 웹 문서**를 생성하는 데 중요합니다. MHTML 파일은 HTML, 이미지 및 스타일 시트를 하나의 아카이브로 묶어 옮겨 이식성, 오프라인 가독성 및 브라우저 호환성을 보장합니다. EPUB을 MHTML로 변환함으로써 출판사, 교육기관 및 기업은 온라인 및 오프라인 사용 모두에 최적화된 자체 포함 웹 문서로 전자책을 제공할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **오프라인 전자책 독서** – 인터넷 없이 접근 가능한 완전한 디지털 책 제공.
+- **웹 아카이빙** – 전자책 콘텐츠를 단일 파일 브라우저 호환 아카이브로 보존.
+- **브라우저용 디지털 출판** – EPUB 콘텐츠를 준비된 웹 형식으로 공유.
+- **교육 콘텐츠 패키징** – 수업 자료, 학습 자료 및 전자책을 휴대 가능한 파일로 배포.
+- **기업 문서 작업 흐름** – 내부 출판을 브라우저용 문서로 간소화.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB에서 MHTML로 변환 파이프라인** – 디지털 출판물을 단일 파일 웹 아카이브로 자동 변환.
+- **자동 전자책에서 웹 작업 흐름** – EPUB을 브라우저 지원 형식으로 간편하게 출판.
+- **오프라인 액세스용 대량 출판** – 전체 전자책 라이브러리를 이동성을 위해 MHTML로 변환.
+- **크로스 플랫폼 브라우저 호환 출판** – 모든 주요 브라우저에서의 원활한 독서 보장.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

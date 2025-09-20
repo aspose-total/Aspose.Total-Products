@@ -49,7 +49,33 @@ Pomocí API můžete také analyzovat JSON na DOT s vodoznakem. Chcete-li do dok
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **JSON na DOT** je zásadní pro vytváření **šablon Wordu** ze strukturovaných datových zdrojů. Tato transformace umožňuje firmám převádět surová datová sady do opakovaně použitelných standardizovaných šablon, které zajistí konzistenci napříč firemní, právní a oddělení dokumentací. Generováním souborů DOT z JSON mohou organizace automatizovat výrobu šablon, zjednodušit pracovní postupy řízené dodržováním předpisů a udržovat konzistenci brandingu ve všech dokumentech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Firemní záhlaví** – Vytvářejte značkové šablony pro oficiální komunikaci.
+- **Právní šablony** – Standardizujte smlouvy a kontrakty přímo ze strukturovaných dat.
+- **Automatizace faktur** – Generujte opakovaně použitelné formáty faktur pomocí vstupů JSON.
+- **Standardizované smlouvy** – Zajistěte jednotnost v firemní a partnerské dokumentaci.
+- **Šablony oddělení** – Dodávejte konzistentní formáty dokumentů napříč týmy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON na DOT** – Automatizujte vytváření šablon Wordu ze strukturovaných datových sad.
+- **Automatizovaná generace šablon** – Vytvářejte standardizované šablony s minimálním manuálním úsilím.
+- **Firemní dokumentační rámce řízené JSONem** – Napájejte systémy šablon pro celou firmu dynamickými daty.
+- **Pracovní postupy distribuce šablon** – Konzistentně nasazujte připravené soubory DOT napříč organizacemi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

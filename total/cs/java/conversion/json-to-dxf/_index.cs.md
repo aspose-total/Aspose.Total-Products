@@ -49,7 +49,33 @@ Pomocí API můžete také převést JSON na DXF s vodoznakem v dokumentu DXF. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **JSON na DXF (Drawing Exchange Format)** je zásadní pro generování **CAD výkresů** ze strukturovaných datových sad. DXF je široce přijímaný formát v architektuře, inženýrství, průmyslovém designu a GIS aplikacích, což ho činí ideálním pro transformaci dat založených na JSON do přesných, editovatelných technických výkresů. Tento převod umožňuje bezproblémové pracovní postupy od dat k designu, zlepšuje interoperabilitu mezi CAD systémy a podporuje automatizaci v moderních návrhových procesech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Architektonické rozvrhy** – Převeďte stavební data do editovatelných CAD podlažních plánů.
+- **Inženýrské modely** – Generujte konstrukční a mechanické návrhy z JSON vstupů.
+- **Automatizace CAD řízená JSON** – Zjednodušte pracovní postupy CAD transformací strukturovaných dat.
+- **Pracovní postupy průmyslového designu** – Vytvářejte přesné výkresy produktů a komponentů z dat JSON.
+- **GIS mapování** – Převeďte geoprostorová data do DXF pro městské plánování a infrastrukturní projekty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **JSON na DXF potrubí** – Automatizujte transformaci strukturovaných dat do kresby připravené pro CAD.
+- **Automatizované generování CAD výkresů** – Vytvářejte technické diagramy přímo z datových sad JSON.
+- **Pracovní postupy od dat k designu** – Umocněte bezproblémovou integraci strukturovaných dat do aplikací CAD.
+- **Chytré modelování infrastruktury** – Posilněte moderní infrastrukturní a mapovací systémy výstupy DXF řízenými JSON.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

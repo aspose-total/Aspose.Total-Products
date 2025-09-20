@@ -54,7 +54,33 @@ API juga memungkinkan Anda untuk mengonversi dokumen FLATOPC yang dilindungi kat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **FLATOPC** ke **ODP (OpenDocument Presentation)** sangat penting untuk menghasilkan **file OpenDocument Presentation** dari dokumen WordprocessingML. File ODP memastikan kompatibilitas dengan paket aplikasi perkantoran open-source, mendukung aksesibilitas lintas platform, dan mempertahankan format slide serta integritas konten. Dengan mengubah dokumen FLATOPC menjadi ODP, organisasi dapat menyederhanakan alur kerja presentasi, meningkatkan kolaborasi, dan mengadopsi standar terbuka untuk penggunaan akademis, pemerintah, dan perusahaan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Presentasi lintas platform** – Buat slide yang berfungsi dengan lancar di berbagai sistem operasi dan paket aplikasi perkantoran.
+* **Slide akademis** – Konversi konten WordprocessingML menjadi presentasi kuliah dan seminar.
+* **Dokumentasi pemerintah** – Menjaga kepatuhan dengan standar terbuka untuk materi presentasi resmi.
+* **Kuliah pendidikan** – Persiapkan dek slide terstruktur dan dapat diedit untuk ruang kelas atau kursus online.
+* **Alur kerja open-source** – Aktifkan alur kerja kolaboratif menggunakan aplikasi perkantoran gratis dan open-source.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pipa FLATOPC-ke-ODP** – Otomatis konversi dokumen WordprocessingML menjadi file presentasi.
+* **Generasi slide otomatis** – Hasilkan dek slide ODP terstruktur secara konsisten dari dokumen sumber.
+* **Konversi massal untuk lembaga** – Proses secara efisien beberapa dokumen untuk organisasi akademis atau pemerintah.
+* **Publikasi standar terbuka siap perusahaan** – Integrasikan generasi ODP ke dalam alur kerja dokumen terbuka berskala besar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

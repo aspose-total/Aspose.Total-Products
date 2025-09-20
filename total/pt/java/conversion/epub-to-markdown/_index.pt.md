@@ -61,7 +61,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para Markdown** é altamente valioso para gerar arquivos de conteúdo **leves e amigáveis para desenvolvedores** a partir de publicações digitais. O Markdown garante simplicidade, compatibilidade multiplataforma e integração perfeita com geradores de sites estáticos e ferramentas de desenvolvedor. Ao transformar EPUB em Markdown, editores, desenvolvedores e comunidades de código aberto podem reutilizar o conteúdo de eBooks para documentação, blogs e publicação colaborativa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Publicação de sites estáticos** – Potencialize sites modernos com conteúdo de eBooks baseado em Markdown.
+- **Documentação baseada no GitHub** – Gerencie e controle versões do conteúdo diretamente em repositórios Git.
+- **Compartilhamento de eBooks de código aberto** – Distribua livros em arquivos Markdown universalmente legíveis.
+- **Blogging técnico** – Converta capítulos de eBooks em conteúdo de blog amigável para desenvolvedores.
+- **Fluxos de trabalho de publicação amigáveis para desenvolvedores** – Possibilite gerenciamento de conteúdo leve e portátil.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de EPUB para Markdown** – Automatize a conversão de eBooks para Markdown para publicação escalável.
+- **Publicação automatizada em sistemas baseados em Git** – Sincronize o conteúdo do eBook com repositórios como GitHub ou GitLab.
+- **Geração de sites estáticos** – Alimente conteúdo Markdown no Jekyll, Hugo ou Next.js para publicação na web.
+- **Automação de documentação empresarial** – Padronize fluxos de trabalho de documentação com saídas em Markdown.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

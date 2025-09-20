@@ -49,7 +49,33 @@ otherformats: DICOM EMZ TGA IMAGE SVGZ JPEG2000 WMF WMZ PSD DXF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为图像** 对于从结构化数据创建 **视觉图形** 非常重要。这个过程允许将原始数据集转换为有意义的视觉元素，如图表、信息图表和商业智能图形。通过直接从 JSON 生成图像，组织可以简化报告、增强决策制定，并以视觉上引人注目且易于分享和理解的格式传递数据洞察。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+- **信息图表** – 将结构化数据转化为引人注目的视觉故事。
+- **数据可视化** – 直接从 JSON 渲染图表、图形和绘图。
+- **动态报告** – 导出复杂数据集的视觉摘要。
+- **仪表板导出** – 生成分析仪表板的图像快照。
+- **商业分析可视化** – 以视觉格式提供决策准备就绪的洞察。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到图像管道** – 自动转换结构化数据为可直接使用的图形。
+- **自动化数据到视觉渲染** – 动态从实时 JSON 数据源生成图像。
+- **从数据集生成信息图表** – 直接从结构化信息创建精美的视觉元素。
+- **实时报告自动化** – 为企业和云平台简化视觉报告创建流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,33 @@ Pomocí API můžete také analyzovat JSON na DOCM s vodoznakem. Chcete-li do do
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **JSON na DOCM** je důležité pro vložení **maker do dokumentů Word** generovaných ze strukturovaných dat. Tento proces umožňuje organizacím kombinovat surová datová soubory s výkonnými automatizačními funkcemi uvnitř Wordu, což umožňuje generování dynamického obsahu, provádění obchodních pravidel a interaktivní funkčnost dokumentů. Transformací JSON do souborů DOCM mohou podniky zjednodušit pracovní postupy, zlepšit reporting a vytvářet šablony s makry, které se přizpůsobují měnícím se potřebám dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Automatizované pracovní postupy s dokumenty** – Řiďte opakovatelné vytváření dokumentů s vloženými makry.
+- **Skripty pro analýzu dat** – Integrujte makra řízená JSON pro výpočty a zpracování v reálném čase.
+- **Šablony s makry** – Vytvářejte opětovně použitelné, inteligentní šablony pro dokumentaci podniku.
+- **Systémy pro podnikové reportování** – Generujte zprávy s automatizovaným formátováním a analýzou.
+- **Interaktivní formuláře pro dodržování předpisů** – Poskytujte formuláře s ověřením a pravidly zpracování s makry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON-to-DOCM** – Automatizujte transformaci strukturovaných datových sad do souborů Word s makry.
+- **Automaticky spouštěná makra v Wordu** – Spouštějte makra dynamicky během nebo po generování dokumentu.
+- **Dynamické zpracování obchodních pravidel** – Aplikujte podnikové politiky a pravidla dat přímo v dokumentech.
+- **Automatizace reportování s makry** – Standardizujte a urychlete složité pracovní postupy reportování ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

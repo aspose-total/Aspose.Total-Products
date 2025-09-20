@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 DOTX** 对于从数字出版物生成 **标准化的 Word 模板** 是必不可少的。DOTX 文件可作为可重复使用、一致的框架，支持出版、学术、商业和机构工作流程。通过将 EPUB 转换为 DOTX，组织可以确保统一的格式设置，简化文档流程，并在大规模出版项目中保持品牌或机构标准。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **出版框架模板** – 为编辑工作流程创建可重复使用的 Word 模板。
+- **学术研究文档模板** – 为论文、报告和期刊标准化格式。
+- **商业报告模板** – 自动化专业和一致的文档创建。
+- **图书馆编目框架** – 为基于元数据的文档编制结构化模板。
+- **企业级工作流程** – 通过模板驱动的出版保持部门间的一致性。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 DOTX 模板生成管道** – 自动化将电子书转换为可重复使用的模板。
+- **自动化的 Word 模板分发** – 在团队和系统间部署标准化模板。
+- **基于元数据的 Word 工作流程** – 将电子书元数据集成到预定义的 Word 结构中。
+- **企业出版标准化** – 确保大规模出版生态系统中一致的文档框架。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

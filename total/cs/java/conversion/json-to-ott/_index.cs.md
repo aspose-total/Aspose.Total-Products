@@ -49,7 +49,33 @@ Pomocí API můžete také analyzovat JSON na OTT s vodoznakem. Chcete-li do dok
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **JSON na OTT** je zásadní pro tvorbu **šablon textových dokumentů** ze strukturovaných datových sad. Formát OTT, šablona textového dokumentu OpenDocument, poskytuje standardizovaný způsob vytváření opakovaně použitelných, upravitelných šablon v kancelářských balících s otevřeným zdrojovým kódem, jako je LibreOffice a OpenOffice. Transformací JSON na OTT organizace zajistí konzistenci, dodržování předpisů a automatizaci generování dokumentů napříč různými pracovními postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Rámcové dokumenty vlády** – Vytvářejte standardizované formuláře a zprávy pro oficiální použití.
+- **Právní šablony** – Automatizujte smlouvy, dohody a formáty připravené k dodržení předpisů.
+- **Obchodní dopisy** – Udržujte konzistenci v podnikové korespondenci.
+- **Vzdělávací zprávy** – Generujte akademicky připravené šablony dokumentů pro výzkum a úkoly.
+- **Integrace kancelářských balíků s otevřeným zdrojovým kódem** – Bezproblémově používejte šablony řízené JSONem v prostředích s otevřeným zdrojovým kódem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON-to-OTT** – Automatizujte tvorbu šablon ze strukturovaných datových sad JSON.
+- **Automatizované pracovní postupy se šablonami** – Snížení manuálního úsilí o formátování napříč odděleními.
+- **Generování dokumentů řízené JSONem** – Zajistěte konzistenci v podnikovém hlášení a dodržování předpisů.
+- **Distribuce podnikových šablon** – Standardizujte šablony dokumentů napříč globálními týmy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTMLをDXFに変換**することは、Webベースの図面から**CAD互換の図面**を生成するために不可欠です。DXFを使用することで、HTMLコンテンツからの技術図面、図解、および設計レイアウトがCADソフトウェアと完全に互換性があり、精密なエンジニアリング、建築計画、および製造ワークフローが可能になります。HTML図面をDXFに変換することで、組織は設計プロセスを効率化し、デジタルからCADへの変換において高い忠実度を維持できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- **建築ワークフロー** – Webベースの間取り図や図面をCAD用のファイルに変換します。
+- **エンジニアリング図面** – 図解を編集可能なCAD形式に変換します。
+- **製造プロセス** – プロセス図を製造に適したCADシステムに統合します。
+- **3Dモデリング統合** – HTMLベースのレイアウトを3Dデザインの基礎として使用します。
+- **技術文書** – プラットフォーム間で一貫性のある標準化されたデザインビジュアルを維持します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **HTMLからDXFへのパイプライン** – Web図面をCAD互換のDXFファイルに自動変換します。
+- **図面からCAD生成の自動化** – HTMLコンテンツから編集可能なCAD図面へのワークフローを効率化します。
+- **大量の技術ファイル変換** – 企業レベルのプロジェクトのために複数の図面を効率的に処理します。
+- **企業レベルの設計自動化** – HTMLからDXFへの変換を大規模なエンジニアリングワークフローに統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

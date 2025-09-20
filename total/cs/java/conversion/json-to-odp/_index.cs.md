@@ -49,7 +49,33 @@ Pomocí API můžete také převést JSON na ODP s vodoznakem. Chcete-li do doku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **JSON na ODP** je klíčový pro generování prezentací ve formátu **OpenDocument** přímo ze strukturovaných datových sad. Formát ODP, který používají LibreOffice a OpenOffice, zajišťuje plnou kompatibilitu s kancelářskými balíky s otevřeným zdrojovým kódem a pracovními postupy mezi platformami. Transformací JSON na ODP mohou organizace vytvářet dynamické, znovupoužitelné a standardizované prezentace bez ručního úsilí.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Obchodní prezentace** – Vytvářejte firemní prezentace řízené daty přímo ze strukturovaných zdrojů.
+- **Vzdělávací snímky** – Generujte výukové materiály a přednáškové sady z akademických datových sad.
+- **Prezentační snímky řízené daty** – Automatizujte investiční nebo prodejní prezentace pomocí dat v reálném čase.
+- **Pracovní postupy vlády** – Podpora transparentnosti a souladu s otevřenými standardními snímky ODP.
+- **Integrace kancelářských balíků s otevřeným zdrojovým kódem** – Zajistěte bezproblémovou kompatibilitu s LibreOffice, Apache OpenOffice a dalšími nástroji kompatibilními s formátem ODF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON na ODP** – Automatizujte konverzi strukturovaných dat do otevřených standardních prezentací.
+- **Automatizovaná generace snímků** – Ušetřete čas vytvářením připravených snímků přímo z datových sad.
+- **Pracovní postupy dat na prezentaci** – Integrujte podnikové datové systémy s generováním ODP pro reporting.
+- **Standardizace podnikových prezentací** – Zajistěte jednotnost v designu, struktuře a souladu napříč organizacemi velkého rozsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

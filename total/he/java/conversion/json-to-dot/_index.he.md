@@ -102,7 +102,33 @@ otherformats: RTF FLATOPC ODT DOTX WORDML PCL DOC EPUB OTT WORD PS MOBI CHM DOCM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **JSON ל-DOT** היא חיונית ליצירת **תבניות Word** ממקורות נתונים מובנים. המרה זו מאפשרת לעסקים להמיר קבצי נתונים גולמיים לתבניות חוזרות ומתוקנות שמבטיחות עקביות בכתיבת מסמכים תיקיים, משפטיים ומחלקתיים. על ידי יצירת קבצי DOT מ-JSON, ארגונים יכולים לאוטומציה את ייצור התבניות, לזרז זרימות עבודה המבוססות על תקנות ולשמור על עקביות במיתוג בכל המסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- **כותרות מכתבים עסקיים** – יצירת תבניות מותגיות לתקשורת רשמית.
+- **תבניות משפטיות** – תקנה הסכמים וחוזים ישירות מנתונים מובנים.
+- **אוטומציה של חשבוניות** – יצירת תבניות חשבוניות חוזרות בעזרת קלטי JSON.
+- **הסכמים מתוקנים** – הבטחת אחידות במסמכים תיקיים ושותפים.
+- **תבניות מחלקתיות** – מסירת תבניות מסמכים עקביות בקרב צוותים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- **צינורות JSON-to-DOT** – אוטומציה של יצירת תבניות Word ממערכות נתונים מובנות.
+- **יצירת תבניות אוטומטית** – בניית תבניות מתוקנות עם מאמץ ידני מינימלי.
+- **מתישות מסמכים תיקיים עסקיים מובנים ב-JSON** – הפעלת מערכות תבניות ברחבי הארגון עם נתונים דינמיים.
+- **זרימות עבודה להפצת תבניות** – הפצת קבצי DOT מוכנים לשימוש באופן עקבי בכל הארגונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

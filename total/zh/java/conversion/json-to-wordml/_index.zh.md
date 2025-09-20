@@ -49,7 +49,33 @@ otherformats: FLATOPC PS RTF DOC MOBI WORDML DOCM DOT PCL DOTX EPUB OTT WORD ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 WORDML** 对于从结构化数据生成 **WordprocessingML（基于 XML 的 Word 文档）** 是至关重要的。WORDML 可实现无缝数据交换、基于模板驱动的文档创建，并与基于 XML 的工作流兼容。通过将 JSON 转换为 WORDML，组织可以自动化文档生成，保持结构化内容完整性，并有效支持企业、政府和学术出版。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **系统间数据交换** – 为企业应用程序提供互操作的文档格式。
+- **企业文档存储** – 为长期存储维护结构化、基于 XML 的 Word 文件。
+- **基于模板的生成** – 从模板自动创建标准化文档。
+- **政府数字档案** – 为官方记录生成符合标准的、准备好 XML 的 Word 文档。
+- **结构化学术出版** – 以结构化格式生成研究论文和教育内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 WordML 管道** – 自动化将结构化数据转换为基于 XML 的 Word 文档。
+- **自动化 XML 文档生成** – 简化大量文档创建，同时保持结构。
+- **基于 JSON 的文档工作流** – 直接从结构化数据集填充 WordML 文件。
+- **企业级结构化报告** – 高效扩展跨部门的自动化、结构化文档生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

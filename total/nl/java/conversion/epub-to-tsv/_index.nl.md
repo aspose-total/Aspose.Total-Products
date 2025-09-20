@@ -47,7 +47,27 @@ Tijdens het converteren van het EPUB-bestand naar TSV, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Conversie van **EPUB naar TSV** is een efficiënte methode om **tabgescheiden datasets** te genereren uit eBooks en digitale inhoud. TSV-bestanden worden veel gebruikt voor gestructureerde gegevensuitwisseling, en bieden eenvoud, leesbaarheid en compatibiliteit met academische, institutionele en bedrijfssystemen. Door eBook-inhoud om te zetten naar TSV-formaat, kunnen uitgevers, onderzoekers en organisaties gegevensuitwisseling stroomlijnen, interoperabiliteit verbeteren en meertalige metadata eenvoudig onderhouden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- **Delen van academische datasets** – Verspreid gestructureerde onderzoeksgegevens in een universeel compatibel formaat.
+- **Exporteren van meertalige metadata** – Behoud taalspecifieke publicatiedetails in TSV-bestanden.
+- **Workflows van uitgeverijen** – Standaardiseer tabulaire gegevens voor redactionele en productieteams.
+- **Uitwisseling van institutionele gegevens** – Vergemakkelijk gegevensuitwisseling tussen afdelingen en organisaties.
+- **Onderzoek interoperabiliteit** – Ondersteun samenwerkingsstudies met gemakkelijk uitwisselbare datasets.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- **EPUB-naar-TSV-pipelines** – Automatiseer eBook-naar-datasetworkflows op grote schaal.
+- **Geautomatiseerde datasetconversie** – Transformeer publicatiegegevens direct naar TSV-formaat.
+- **Metadata-naar-TSV-publicatie** – Zet publicatiemetadata om in gestructureerde, tabgescheiden waarden.
+- **Gegevensintegratie op bedrijfsniveau** – Integreer TSV-datasets in grootschalige rapportage- en onderzoeksplatforms.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

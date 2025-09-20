@@ -61,7 +61,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **EPUB إلى Markdown** قيم للغاية لإنشاء **ملفات محتوى خفيفة الوزن وصديقة للمطورين** من النشرات الرقمية. يضمن Markdown البساطة والتوافق عبر المنصات والتكامل السلس مع مولدات المواقع الثابتة وأدوات المطورين. من خلال تحويل EPUB إلى Markdown، يمكن للناشرين والمطورين ومجتمعات مصادر مفتوحة إعادة استخدام محتوى الكتب الإلكترونية للتوثيق والمدونات والنشر التعاوني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **نشر المواقع الثابتة** – قم بتزويد المواقع الحديثة بمحتوى الكتب الإلكترونية القائم على Markdown.
+- **توثيق مستندات GitHub** – إدارة والتحكم في المحتوى مباشرة ضمن مستودعات Git.
+- **مشاركة الكتب مفتوحة المصدر** – توزيع الكتب في ملفات Markdown يمكن قراءتها على نطاق عالمي.
+- **المدونات التقنية** – تحويل فصول الكتب الإلكترونية إلى محتوى مدونة صديق للمطورين.
+- **أنماط عمل نشر صديقة للمطورين** – تمكين إدارة محتوى خفيف الوزن ومحمول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+- **أنابيب تحويل EPUB إلى Markdown** – أتمتة تحويل الكتب الإلكترونية إلى Markdown للنشر الموسع.
+- **نشر تلقائي على أنظمة مبنية على Git** – مزامنة محتوى الكتب الإلكترونية مع مستودعات مثل GitHub أو GitLab.
+- **إنشاء مواقع ويب ثابتة** – إدخال محتوى Markdown إلى Jekyll أو Hugo أو Next.js لنشر الويب.
+- **أتمتة توثيق المؤسسات** – توحيد سير العمل للتوثيق مع مخرجات Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

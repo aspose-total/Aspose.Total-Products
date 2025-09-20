@@ -49,7 +49,33 @@ API를 사용하여 IMAGE 문서에 워터마크가 있는 JSON을 IMAGE로 변�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 이미지로 변환**하는 것은 구조화된 데이터에서 **시각적 그래픽**을 만드는 데 중요합니다. 이 프로세스를 통해 초기 데이터 집합을 차트, 인포그래픽 및 비즈니스 인텔리전스 그래픽과 같은 의미 있는 시각물로 변환할 수 있습니다. JSON에서 이미지를 직접 생성함으로써 조직은 보고서 작성을 간소화하고 의사 결정을 강화하며 시각적으로 매력적이고 이해하기 쉬운 형식으로 데이터 인사이트를 전달할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **인포그래픽** – 구조화된 데이터를 매력적인 시각적 이야기로 변환합니다.
+- **데이터 시각화** – JSON에서 차트, 그래프 및 플롯을 직접 렌더링합니다.
+- **동적 보고서** – 복잡한 데이터 집합의 시각적 요약을 내보냅니다.
+- **대시보드 내보내기** – 분석 대시보드의 이미지 스냅샷을 생성합니다.
+- **비즈니스 분석 시각물** – 시각적 형식으로 의사 결정에 준비된 인사이트를 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-IMAGE 파이프라인** – 구조화된 데이터를 사용 가능한 그래픽으로 자동 변환합니다.
+- **자동 데이터-to-시각 렌더링** – 실시간 JSON 피드에서 이미지를 동적으로 생성합니다.
+- **데이터 집합에서 인포그래픽 생성** – 구조화된 정보에서 직접 정제된 시각물을 생성합니다.
+- **실시간 보고서 자동화** – 기업 및 클라우드 플랫폼을 위한 시각적 보고서 작성을 간소화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

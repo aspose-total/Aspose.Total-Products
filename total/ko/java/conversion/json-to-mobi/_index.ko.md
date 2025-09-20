@@ -49,7 +49,33 @@ API를 사용하여 워터마크를 사용하여 JSON을 MOBI으로 구문 분�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+JSON을 MOBI로 변환하는 것은 구조화된 데이터에서 Kindle 호환 eBook을 생성하는 데 중요합니다. MOBI는 Amazon Kindle 장치에서 널리 사용되며, 이는 출판사, 교육기관 및 기업들에게 선호되는 형식입니다. JSON 데이터 세트를 MOBI로 변환함으로써 조직은 이동 가능하고 구조화되며 쉽게 배포 가능한 디지털 도서를 생산할 수 있으며, eReader 간 일관성을 유지합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **디지털 출판** – 구조화된 콘텐츠를 Kindle용 eBook으로 변환합니다.
+- **e러닝 콘텐츠** – 접근 가능한 MOBI 형식으로 강의 자료 제공합니다.
+- **연구 결과 공유** – 학술 또는 기술적인 연구 결과를 Kindle 장치를 통해 공유합니다.
+- **모바일 친화적 도서** – eReader 및 스마트폰 간 호환성을 보장합니다.
+- **기업용 eBook 워크플로우** – Kindle 출판을 위해 비즈니스 보고서 및 문서를 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-MOBI 파이프라인** – 구조화된 데이터 세트로부터 eBook 생성을 자동화합니다.
+- **자동화된 Kindle용 출판** – Amazon Kindle을 위한 eBook 배포를 간소화합니다.
+- **동적 e러닝 콘텐츠 생성** – 실시간으로 대화식 강의 자료를 생성합니다.
+- **JSON 기반 eBook 표준화** – 여러 제목 간 일관된 형식을 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

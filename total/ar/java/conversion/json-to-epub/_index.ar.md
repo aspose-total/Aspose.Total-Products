@@ -49,7 +49,33 @@ otherformats: DOTX EPUB PCL MOBI WORDML OTT FLATOPC PS DOT DOC WORD RTF ODT DOCM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **JSON إلى EPUB** أمر أساسي لإنتاج **الكتب الإلكترونية** من مجموعات البيانات المنظمة. توفر ملفات EPUB تنسيقًا قابلاً لإعادة التدفق واسع الانتشار لنقل المعرفة عبر قارئات الكتب الإلكترونية والأجهزة المحمولة ومنصات التعلم. من خلال تحويل JSON إلى EPUB، يمكن للمؤسسات أتمتة نشر المحتوى، وإنشاء مواد تعليمية تفاعلية، وتوزيع موارد المعرفة الموحدة في تنسيق رقمي قابل للنقل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- **النشر التلقائي** – تحويل مجموعات البيانات إلى كتب إلكترونية رقمية جاهزة للقراءة.
+- **مواد التعلم الإلكترونية** – تقديم مناهج تعليمية تفاعلية ومنظمة بتنسيق EPUB.
+- **كتب إلكترونية مدفوعة بالبيانات** – إنشاء منشورات ديناميكية مباشرة من مدخلات JSON.
+- **منشورات البحث** – نشر النتائج الأكاديمية والمخرجات البحثية المنظمة ككتب إلكترونية.
+- **توزيع المعرفة في المؤسسات** – توحيد مشاركة المعرفة الداخلية عبر المكتبات الرقمية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+- **أنابيب JSON-to-EPUB** – أتمتة إنشاء الكتب الإلكترونية من مصادر البيانات المنظمة.
+- **إنتاج الكتب الإلكترونية في الوقت الحقيقي** – إنتاج منشورات محدثة مباشرة من تغذيات JSON الحية.
+- **نشر مناهج التعلم تلقائيًا** – تبسيط إنتاج مواد التعلم الإلكترونية للمؤسسات.
+- **دمج المكتبة الرقمية** – دمج EPUBs المدفوعة بالـ JSON في مستودعات الشركات والأكاديميات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

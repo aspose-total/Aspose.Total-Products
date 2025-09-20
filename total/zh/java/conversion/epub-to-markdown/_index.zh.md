@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**EPUB转换为Markdown**对于从数字出版物生成**轻量级、开发者友好的内容文件**非常有价值。Markdown确保简单性、跨平台兼容性，并与静态站点生成器和开发工具无缝集成。通过将EPUB转换为Markdown，出版商、开发人员和开源社区可以将电子书内容重新用于文档、博客和协作出版。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **静态站点发布** – 使用基于Markdown的电子书内容为现代网站提供动力。
+- **基于GitHub的文档** – 直接在Git存储库中管理和版本控制内容。
+- **开源电子书共享** – 以普遍可读的Markdown文件形式分发图书。
+- **技术博客** – 将电子书章节转换为开发者友好的博客内容。
+- **开发者友好的发布工作流** – 实现轻量级和便携式内容管理。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB到Markdown管道** – 为可扩展发布自动化电子书到Markdown的转换。
+- **自动发布到基于Git的系统** – 将电子书内容与GitHub或GitLab等存储库同步。
+- **静态网站生成** – 将Markdown内容输入Jekyll、Hugo或Next.js以进行网站发布。
+- **企业文档自动化** – 使用Markdown输出标准化文档工作流程。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

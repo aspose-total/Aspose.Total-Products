@@ -49,7 +49,33 @@ Usando a API, você também pode converter JSON em DXF com marca d'água em seu 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertendo **JSON para DXF (Drawing Exchange Format)** é essencial para gerar **desenhos CAD** a partir de conjuntos de dados estruturados. DXF é um formato amplamente adotado em arquitetura, engenharia, design industrial e aplicações GIS, tornando-o ideal para transformar dados baseados em JSON em desenhos técnicos precisos e editáveis. Essa conversão permite fluxos de trabalho de dados para design contínuos, melhorando a interoperabilidade entre sistemas CAD e suportando a automação nos processos de design modernos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+- **Layouts de arquitetura** – Converter dados de construção em plantas baixas CAD editáveis.
+- **Modelos de engenharia** – Gerar designs estruturais e mecânicos a partir de entradas JSON.
+- **Automação CAD baseada em JSON** – Simplificar fluxos de trabalho CAD transformando conjuntos de dados estruturados.
+- **Fluxos de trabalho de design industrial** – Criar desenhos precisos de produtos e componentes a partir de dados JSON.
+- **Mapeamento GIS** – Converter dados geoespaciais em DXF para projetos de planejamento urbano e infraestrutura.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+- **Pipelines de JSON para DXF** – Automatizar a transformação de dados estruturados em desenhos prontos para CAD.
+- **Geração automatizada de desenhos CAD** – Criar diagramas técnicos diretamente a partir de conjuntos de dados JSON.
+- **Fluxos de trabalho de dados para design** – Possibilitar a integração contínua de dados estruturados em aplicações CAD.
+- **Modelagem inteligente de infraestrutura** – Potencializar sistemas modernos de infraestrutura e mapeamento com saídas DXF baseadas em JSON.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

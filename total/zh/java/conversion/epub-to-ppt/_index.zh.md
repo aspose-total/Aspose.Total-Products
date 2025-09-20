@@ -59,7 +59,29 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 PPT（PowerPoint 演示文稿）** 对于从数字出版物生成 **可编辑演示文件** 至关重要。PPT 文件使电子书内容能够转变为完全可定制的幻灯片，使教育工作者、研究人员和企业能够高效地创建专业演示文稿。通过将 EPUB 转换为 PPT，组织可以简化幻灯片制作流程，保持内容一致性，并增强知识共享工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **学术幻灯片** – 将教科书章节转化为结构化、可编辑的讲座演示文稿。
+- **企业演示文稿** – 从行业出版物和报告生成商业演示文稿。
+- **研究演示** – 为会议和研讨会创建专业幻灯片。
+- **出版社素材** – 将电子书内容重新制作为营销和推广演示文稿。
+- **教育培训课程** – 为研讨会和电子学习项目开发指导性幻灯片。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 PPT 管道** – 自动化将电子书转换为 PowerPoint 幻灯片。
+- **自动化幻灯片集创建** – 快速从多个出版物生成可立即编辑的演示文稿。
+- **批量出版到 PPT 转换** – 高效地将大量电子书转换为幻灯片集。
+- **企业演示自动化** – 将 PPT 生成集成到组织知识共享和培训工作流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

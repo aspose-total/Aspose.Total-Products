@@ -57,7 +57,33 @@ otherformats: EMZ SVGZ IMAGE PSD WMF WMZ  TGA DXF JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**HTML转换为PSD（Photoshop文档）**对于从网页生成**分层图形文件**至关重要。PSD文件保留了图层、文本和设计元素，使设计师能够高效地编辑、调整和重新利用网页内容。通过将HTML转换为PSD，组织可以简化UI/UX工作流程，创建高质量的营销资产，并保持对网站重新设计和数字设计项目的灵活性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **UI/UX设计** – 将网页布局提取为可编辑的PSD图层，用于快速原型设计和设计迭代。
+- **网站重新设计工作流程** – 将现有页面转换为分层文件，以便更新或重新设计。
+- **营销创意** – 从网页内容创建横幅、社交媒体视觉和活动图形。
+- **数字模型** – 为演示和客户批准构建逼真的产品或网页模型。
+- **电子商务设计资产** – 重新利用网页部分用于产品页面、促销图片和目录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **HTML转PSD管道** – 自动将网页转换为分层的Photoshop文件。
+- **自动化分层图形生成** – 在项目中始终产生具有可编辑图层的PSD文件。
+- **批量创意工作流程** – 同时为大规模营销或设计活动转换多个网页。
+- **企业级设计自动化** – 将PSD生成集成到组织设计和内容生产工作流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

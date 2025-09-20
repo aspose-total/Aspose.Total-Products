@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをDICOMに変換することは、デジタル出版物を医用画像互換ファイルに変換する革新的なアプローチです。このプロセスにより、医療従事者、研究者、教育者が構造化された電子書籍コンテンツをDICOM形式に埋め込み、医用画像システム内でアクセスできるようになります。テキストベースのリソースを画像ワークフローに統合することで、病院や機関はトレーニングを強化し、コンプライアンスを向上させ、臨床文書作成を効率化することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **医療トレーニングの電子書籍** – スタディ資料を画像プラットフォームと互換性のある形式に変換します。
+- **臨床研究文書化** – 研究出版物をDICOMシステム内に保存および標準化します。
+- **放射線学教育コンテンツ** – テキストを画像ワークフローに統合することで教育リソースを強化します。
+- **病院データのアーカイブ** – 患者画像記録と一緒に出版データを維持します。
+- **医療コンプライアンスワークフロー** – 医学出版物が標準化されたデジタル形式に従うことを確認します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからDICOMへのパイプライン** – スケーラブルな医療データワークフローの変換を自動化します。
+- **自動化された医学出版物変換** – 電子書籍を即座にDICOM互換リソースに変換します。
+- **医療向けEラーニング統合** – トレーニングプラットフォーム内でインタラクティブな医療コンテンツを提供します。
+- **研究データセットの標準化** – 臨床および研究文書を統一されたDICOMデータセットに変換します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

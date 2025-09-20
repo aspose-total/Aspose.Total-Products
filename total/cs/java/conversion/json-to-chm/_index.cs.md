@@ -49,7 +49,33 @@ Pomocí API můžete také analyzovat JSON na CHM s vodoznakem. Chcete-li do dok
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **JSON na CHM (Kompilovaná nápověda ve formátu HTML)** je zásadní pro vytváření **kompilovaných nápověd přímo ze strukturované dokumentace**. Soubory CHM kombinují několik nápovědních témat do jediného, vyhledatelného a offline dostupného zdroje, což je ideální pro podporu softwaru a správu znalostí v podnicích. Transformací JSON na CHM mohou organizace zefektivnit doručování dokumentace, zlepšit použitelnost a zajistit dostupnost i bez připojení k internetu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Dokumentace softwaru** – Zabalte technické příručky do kompilovaného, uživatelsky přívětivého formátu.
+- **Offline systémy nápovědy** – Doručujte dokumentaci bez nutnosti připojení k internetu.
+- **Znalostní báze podniku** – Centralizujte organizační znalosti do strukturovaného souboru nápovědy.
+- **Výukové manuály** – Distribuujte kompilované vzdělávací zdroje pro zaměstnance nebo studenty.
+- **Odkazy na API vývojářů** – Převeďte strukturované definice JSON do vyhledatelných offline odkazů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON na CHM** – Automatizujte převod strukturovaných dat do kompilovaných nápověd.
+- **Automatické vytváření souborů nápovědy** – Generujte soubory CHM přímo z se rozvíjejícího obsahu založeného na JSON.
+- **Kompilace dat do dokumentace** – Transformujte strukturovanou dokumentaci JSON do přístupných systémů nápovědy.
+- **Distribuce offline znalostí** – Standardizujte manuály CHM pro širokou škálu firemního vzdělávání a podpory.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

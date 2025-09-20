@@ -49,7 +49,29 @@ otherformats: MD DIF TXT XLSB FODS XLSM TSV XLT SXC XLTX ODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 ODS（开放文档电子表格）** 对于从数字出版物生成 **开放标准电子表格** 至关重要。ODS 文件提供了一种灵活、广泛兼容的格式，用于组织和分析结构化数据。通过将 EPUB 转换为 ODS，教育工作者、研究人员、图书馆和出版商可以高效地管理元数据，跟踪研究数据集，并简化基于数据的出版工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键应用案例" %}}
+- **学术数据集管理** – 将来自电子书的研究数据组织和维护为电子表格格式。
+- **图书馆目录记录** – 为便于访问和分析而制表的文献元数据。
+- **元数据制表** – 将电子书元数据转换为结构化的电子表格。
+- **研究数据分析** – 使用 ODS 文件促进计算、排序和报告。
+- **出版工作流程** – 在编辑和学术出版领域标准化数据管理。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 ODS 管道** – 自动将电子书转换为结构化电子表格。
+- **自动化电子表格转换** – 在规模上简化元数据和数据集处理。
+- **批量数据集提取** – 高效提取大量电子书数据。
+- **企业级出版分析** – 将 ODS 输出集成到分析和报告工作流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

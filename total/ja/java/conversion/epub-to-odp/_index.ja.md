@@ -59,7 +59,29 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをODP（OpenDocument Presentation）に変換することは、デジタル出版物からプレゼンテーションスライドを生成するために不可欠です。ODPファイルは、eBookコンテンツから魅力的なスライドデッキを作成するための多目的でオープンな標準形式を提供します。EPUBをODPに変換することで、教育関係者、企業、出版社はデジタルコンテンツを効率的に講義、会議、トレーニングセッション、マーケティングプレゼンテーションに再利用することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+- **教育用講義スライド** – eBookの章を構造化された教室プレゼンテーションに変換します。
+- **ビジネスプレゼンテーションデッキ** – 企業や業界の出版物から専門的なスライドを生成します。
+- **研究論文の要約** – 学術コンテンツを視覚的に魅力的なスライドにまとめます。
+- **出版社のマーケティングスライド** – 書籍コンテンツからプロモーションプレゼンテーションを作成します。
+- **トレーニング教材の配布** – ワークショップ用に学習コンテンツを使いやすいスライドにまとめます。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからODPへのパイプライン** – デジタル出版物をスライドデッキに自動変換します。
+- **自動化されたプレゼンテーション生成** – eBookコンテンツから迅速にODPファイルを生成します。
+- **大量のeBookからスライドへの変換** – 複数の出版物をスケールでプレゼンテーションに変換します。
+- **企業の知識共有ワークフロー** – 教育およびトレーニング資料の配布を効率化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

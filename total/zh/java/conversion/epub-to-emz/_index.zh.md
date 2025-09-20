@@ -57,7 +57,29 @@ otherformats: JPEG2000 DXF WMZ IMAGE SVGZ TGA WMF PSD  EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 EMZ** 对于从数字出版物生成 **压缩的 Windows 图元文件** 至关重要。EMZ 文件提供了一种可伸缩且压缩的图形格式，使其成为优化电子书中插图、图表和基于矢量的内容的理想选择。通过将 EPUB 视觉内容转换为 EMZ，出版商、设计师和企业可以确保高质量的图形，这些图形轻巧、便携，并且适用于印刷和数字工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **出版图形优化** – 在保持可伸缩图像质量的同时减小文件大小。
+- **跨平台电子书插图** – 为电子书阅读器提供通用支持的图形。
+- **高质量印刷工作流** – 为专业印刷准备出版图形。
+- **营销材料生成** – 将插图重新制作为推广资产。
+- **可伸缩图像的归档** – 存储压缩的、分辨率独立的图形以供长期使用。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 EMZ 转换流水线** – 自动从电子书中提取可伸缩图形。
+- **自动化图元文件提取** – 瞬间将嵌入的插图转换为 EMZ 格式。
+- **出版工作流程压缩** – 优化大规模出版项目中的图像处理。
+- **企业级图形自动化** – 在组织中标准化压缩的图元文件生成。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

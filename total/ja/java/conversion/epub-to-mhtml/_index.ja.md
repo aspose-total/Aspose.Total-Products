@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをMHTML（Web Archive）に変換することは、デジタル出版物から**単一ファイルのWebドキュメント**を生成するために重要です。MHTMLファイルは、HTML、画像、スタイルシートなどすべてのリソースを1つのアーカイブにまとめ、携帯性、オフラインでの読み取り可能性、およびブラウザ互換性を確保します。EPUBをMHTMLに変換することで、出版社、教育関係者、企業は、オンラインおよびオフラインの両方の使用に最適化された自己完結型のWebドキュメントとして電子書籍を提供することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- **オフラインでの電子書籍の閲覧** – インターネット接続なしでアクセス可能な完全なデジタル書籍を提供します。
+- **Webアーカイブ** – 電子書籍コンテンツを単一ファイルのブラウザ互換アーカイブとして保存します。
+- **ブラウザ向けのデジタル出版** – EPUBコンテンツを開く準備が整ったWeb形式で共有します。
+- **教育コンテンツのパッケージング** – レッスン、学習教材、電子書籍をポータブルファイルで配布します。
+- **企業向けドキュメントワークフロー** – 内部の出版物をブラウザで利用可能なドキュメントに効率的に変換します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからMHTMLへのパイプライン** – デジタル出版物を単一ファイルのWebアーカイブに自動変換します。
+- **自動化された電子書籍からWebへのワークフロー** – EPUBをブラウザでサポートされる形式に直接公開することを簡素化します。
+- **オフラインアクセス用の一括公開** – 全体の電子書籍ライブラリをポータビリティのためにMHTMLに変換します。
+- **クロスプラットフォームのブラウザ互換出版** – すべての主要ブラウザでのシームレスな読書を確保します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

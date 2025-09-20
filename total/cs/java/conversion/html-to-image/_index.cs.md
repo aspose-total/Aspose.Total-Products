@@ -57,7 +57,31 @@ Pomocí API můžete také otočit výstupní obrázek IMAGE podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **HTML** na **OBRAZ** je zásadní pro zachycení přesných vizuálních snímků webových stránek. Tento proces umožňuje designérům, marketérům a vývojářům přeměnit dynamický nebo statický obsah webových stránek na sdílitelné, zobrazitelné obrázky, které zachovávají vzhled a pocit webových stránek na různých zařízeních. Vytvářením obrazových reprezentací webových stránek mohou týmy zjednodušit náhledy, zlepšit digitální obsah a efektivně udržovat vizuální záznamy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové Použití" %}}
+
+* **Náhledy Webových Stránek:** Generujte snímky pro portfolio, recenze klientů nebo rychlé vizuální reference.
+* **Infografiky:** Převeďte daty bohaté webové stránky do sdílitelných vizuálních formátů.
+* **Pracovní Postupy UI/UX Designu:** Zachyťte návrhy stránek pro testování, zpětnou vazbu a iteraci.
+* **Archivní Snímky Obrazovek:** Uchovávejte historické verze webových stránek pro dodržování předpisů nebo dokumentaci.
+* **Digitální Marketingové Materiály:** Vytvářejte bannery, vizuální obsah pro sociální média a propagační grafiku přímo z obsahu webových stránek.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační Scénáře" %}}
+
+* **Potrubí HTML-na-OBRAZ:** Bezproblémově převeďte více webových stránek na obrázky s minimálním manuálním úsilím.
+* **Automatizované Rendrování Webové Stránky-na-Obraz:** Naplánujte rendrování dynamických stránek pro reporting nebo monitorování.
+* **Hromadná Generace Snímků Obrazovek:** Zachyťte stovky stránek současně pro velké projekty.
+* **Digitální Publikování na Úrovni Podniku:** Integrujte generování obrázků do pracovních postupů obsahu pro webové stránky, newslettery nebo katalogy produktů.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

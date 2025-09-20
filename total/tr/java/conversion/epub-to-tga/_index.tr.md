@@ -57,7 +57,29 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB'ı TGA'ya (Truevision Graphics Adapter) dönüştürmek, e-kitaplardan yüksek kaliteli radyal grafikler oluşturmak için önemlidir. TGA dosyaları sıkıştırılmamış, yüksek sadakatli görüntüler sağlar ve profesyonel grafikler, oyunlar ve baskı uygulamaları için uygundur. EPUB'u TGA'ya dönüştürerek yayıncılar, tasarımcılar ve geliştiriciler net görseller üretebilir, renk doğruluğunu koruyabilir ve yayın grafiklerini gelişmiş medya iş akışlarına entegre edebilir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Oyun endüstrisi varlıkları - Oyun içi görseller ve dokular için yüksek çözünürlüklü grafikleri çıkarın.
+- 3D görselleştirme - Modelleme ve renderleme iş akışlarında yayın görsellerini kullanın.
+- Baskı medya iş akışları - Kesin renk sadaketi ile baskıya hazır radyal görüntüler oluşturun.
+- Arşiv görüntüleri - Dijital yayın grafiklerini yüksek kaliteli formatlarda koruyun.
+- Grafik yoğun yayıncılık - Detaylı görselleri dergilere, kılavuzlara veya pazarlama içeriğine entegre edin.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- EPUB'tan TGA'ya boru hatları - E-kitap içeriğinin yüksek kaliteli radyal grafiklere otomatik dönüşümünü sağlayın.
+- Otomatik radyal renderleme - Birden fazla yayında tutarlı çıktı kalitesini sağlayın.
+- Toplu grafik oluşturma - Dijital içerikten verimli bir şekilde büyük miktarda TGA görüntüleri üretin.
+- Kurumsal düzey medya yayıncılığı - TGA oluşturmayı profesyonel grafik ve yayıncılık iş akışlarına entegre edin.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

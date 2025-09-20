@@ -47,7 +47,29 @@ otherformats: MD DIF TXT XLSB FODS XLSM TSV XLT SXC XLTX ODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **EPUB إلى ODS (جدول بيانات مستند مفتوح)** ضروري لإنشاء **جداول بيانات مفتوحة المعايير** من النشرات الرقمية. توفر ملفات ODS تنسيقًا مرنًا ومتوافقًا على نطاق واسع لتنظيم وتحليل البيانات المهيكلة. من خلال تحويل EPUB إلى ODS، يمكن للمعلمين والباحثين والمكتبات والناشرين إدارة البيانات الوصفية بكفاءة، وتتبع مجموعات بيانات البحث، وتبسيط سير العمل الذي يعتمد على البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **إدارة مجموعات البيانات الأكاديمية** – تنظيم وصيانة البيانات البحثية من الكتب الإلكترونية بتنسيق جداول البيانات.
+- **سجلات فهرس المكتبة** – جدولة البيانات الوصفية الببليوجرافية لسهولة الوصول والتحليل.
+- **جدولة البيانات الوصفية** – تحويل بيانات الكتب الإلكترونية الوصفية إلى جداول بيانات منظمة.
+- **تحليل بيانات البحث** – تيسير الحسابات والفرز والتقارير باستخدام ملفات ODS.
+- **سير العمل الذي يعتمد على النشر** – توحيد إدارة البيانات عبر النشر التحريري والأكاديمي.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **أنابيب EPUB-to-ODS** – أتمتة تحويل الكتب الإلكترونية إلى جداول بيانات منظمة.
+- **تحويل الجداول بشكل آلي** – تبسيط معالجة البيانات الوصفية والمجموعات بحجم كبير.
+- **استخراج مجموعات البيانات بالجملة** – استخراج حجوم كبيرة من بيانات الكتب الإلكترونية بكفاءة.
+- **تحليل النشر على مستوى المؤسسات** – دمج النواتج ODS في سير العمل التحليلي والتقريري.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

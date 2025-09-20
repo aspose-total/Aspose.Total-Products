@@ -47,7 +47,27 @@ Trong khi chuyển đổi tệp EPUB sang TSV, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **EPUB sang TSV** là phương pháp hiệu quả để tạo ra **bộ dữ liệu được phân tách bằng tab** từ eBook và nội dung số. Các tập tin TSV được sử dụng rộng rãi để trao đổi dữ liệu có cấu trúc, cung cấp sự đơn giản, dễ đọc và tương thích với các hệ thống học thuật, tổ chức và doanh nghiệp. Bằng cách trích xuất nội dung eBook vào định dạng TSV, các nhà xuất bản, nhà nghiên cứu và tổ chức có thể tối ưu hóa việc chia sẻ dữ liệu, nâng cao tính tương thích và duy trì siêu dữ liệu đa ngôn ngữ một cách dễ dàng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- **Chia sẻ bộ dữ liệu học thuật** – Phân phối dữ liệu nghiên cứu có cấu trúc trong một định dạng tương thích mọi nơi.
+- **Xuất siêu dữ liệu đa ngôn ngữ** – Bảo tồn chi tiết xuất bản theo ngôn ngữ trong các tập tin TSV.
+- **Quy trình nhà xuất bản** – Chuẩn hóa dữ liệu bảng cho đội ngũ biên tập và sản xuất.
+- **Trao đổi dữ liệu tổ chức** – Hỗ trợ chia sẻ dữ liệu qua các bộ phận và tổ chức.
+- **Tương thích nghiên cứu** – Hỗ trợ các nghiên cứu hợp tác với các bộ dữ liệu dễ trao đổi.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- **Các đường ống EPUB-to-TSV** – Tự động hóa quy trình làm việc từ eBook sang bộ dữ liệu ở quy mô lớn.
+- **Chuyển đổi bộ dữ liệu tự động** – Biến đổi ngay lập tức dữ liệu xuất bản thành định dạng TSV.
+- **Xuất bản siêu dữ liệu sang TSV** – Chuyển đổi siêu dữ liệu xuất bản thành các giá trị có cấu trúc, được phân tách bằng tab.
+- **Tích hợp dữ liệu cấp doanh nghiệp** – Tích hợp các bộ dữ liệu TSV vào các nền tảng báo cáo và nghiên cứu quy mô lớn.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

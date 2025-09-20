@@ -47,7 +47,29 @@ Trong khi chuyển đổi tệp EPUB sang XLAM, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **EPUB thành XLAM (Excel Add-in)** là điều cần thiết để tạo ra **các tiện ích Excel sẵn sàng tự động hóa** từ các eBook. Tệp XLAM cho phép tổ chức tích hợp dữ liệu và macro xuất phát từ eBook trực tiếp vào Excel, cho phép tự động hóa tiên tiến, luồng công việc thông minh kinh doanh và báo cáo tùy chỉnh. Bằng cách chuyển đổi EPUB thành XLAM, các nhà phân tích và doanh nghiệp có thể tối ưu hóa các công việc lặp đi lặp lại, cải thiện quyết định và triển khai các giải pháp bảng tính có khả năng mở rộng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- **Tự động hóa phân tích dữ liệu** – Chuyển nội dung eBook thành các công cụ tự động hóa được hỗ trợ bởi Excel.
+- **Mô hình tài chính** – Tích hợp dữ liệu xuất bản vào các mô hình tài chính hỗ trợ macro.
+- **Luồng công việc thông minh kinh doanh** – Nâng cao các đường ống BI với các tiện ích Excel xuất phát từ eBook.
+- **Hệ thống báo cáo tùy chỉnh** – Tạo ra báo cáo động bằng cách sử dụng các tiện ích Excel tự động hóa.
+- **Tiện ích bảng tính doanh nghiệp** – Mở rộng bảng tính doanh nghiệp với các macro dựa trên nội dung.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- **Các luồng dữ liệu EPUB thành XLAM** – Tự động hóa việc tạo ra các tiện ích Excel từ các xuất bản kỹ thuật số.
+- **Tạo ra tiện ích Excel tự động hóa** – Sản xuất các tiện ích mở rộng hỗ trợ macro một cách hiệu quả và quy mô.
+- **Tích hợp luồng công việc BI hàng loạt** – Tích hợp nhiều bộ dữ liệu eBook vào hệ thống BI doanh nghiệp.
+- **Tự động hóa dữ liệu cấp doanh nghiệp** – Tối ưu hóa tự động hóa bảng tính quy mô lớn bằng cách sử dụng các công cụ XLAM.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

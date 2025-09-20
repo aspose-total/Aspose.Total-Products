@@ -47,7 +47,29 @@ EPUBファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをTSVに変換することは、電子書籍やデジタルコンテンツからタブ区切りデータセットを効率的に生成する方法です。TSVファイルは、構造化されたデータの交換に広く使用され、学術、機関、エンタープライズシステムとの互換性を提供するシンプルさと読みやすさを備えています。電子書籍コンテンツをTSV形式に抽出することで、出版社、研究者、組織はデータ共有を効率化し、相互運用性を向上させ、多言語メタデータを簡単に維持することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 学術データセットの共有 – 普遍的に互換性のある形式で構造化された研究データを配布します。
+- 多言語メタデータのエクスポート – TSVファイルに言語固有の出版詳細を保存します。
+- 出版社のワークフロー – 編集および制作チーム向けに表形式のデータを標準化します。
+- 機関間データ交換 – 部門や組織間でデータ共有を容易にします。
+- 研究の相互運用性 – 簡単に交換可能なデータセットで共同研究をサポートします。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- EPUBからTSVへのパイプライン – スケールでeBookからデータセットへのワークフローを自動化します。
+- 自動化されたデータセット変換 – 出版データを瞬時にTSV形式に変換します。
+- メタデータからTSVへの公開 – 出版メタデータを構造化されたタブ区切り値に変換します。
+- エンタープライズレベルのデータ統合 – TSVデータセットを大規模なレポートおよび研究プラットフォームに統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

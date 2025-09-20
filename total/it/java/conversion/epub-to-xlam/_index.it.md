@@ -47,7 +47,27 @@ Durante la conversione del file EPUB in XLAM, puoi anche aggiungere una filigran
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **EPUB in XLAM (Excel Add-in)** è essenziale per generare **estensioni Excel pronte per l'automazione** da eBook. I file XLAM consentono alle organizzazioni di integrare dati e macro derivati dagli eBook direttamente in Excel, consentendo l'automazione avanzata, i flussi di business intelligence e la creazione di report personalizzati. Trasformando EPUB in XLAM, analisti e imprese possono ottimizzare compiti ripetitivi, migliorare il processo decisionale e implementare soluzioni di fogli di calcolo scalabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- **Automazione dell'analisi dei dati** – Convertire i contenuti degli eBook in strumenti di automazione alimentati da Excel.
+- **Modellazione finanziaria** – Integrare i dati di pubblicazione nei modelli finanziari abilitati alle macro.
+- **Flussi di lavoro per l'intelligenza aziendale** – Potenziare i flussi di BI con estensioni Excel derivate dagli eBook.
+- **Sistemi di report personalizzati** – Generare report dinamici utilizzando i componenti aggiuntivi di Excel automatizzati.
+- **Estensioni di fogli di calcolo aziendali** – Estendere i fogli di calcolo aziendali con macro basate sui contenuti.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- **Pipeline EPUB-to-XLAM** – Automatizzare la creazione di componenti aggiuntivi di Excel da pubblicazioni digitali.
+- **Generazione automatizzata di componenti aggiuntivi di Excel** – Produrre estensioni abilitate alle macro in modo efficiente su larga scala.
+- **Integrazione bulk nei flussi di lavoro BI** – Integrare più set di dati eBook nei sistemi di BI aziendali.
+- **Automazione dei dati a livello aziendale** – Ottimizzare l'automazione su larga scala dei fogli di calcolo utilizzando strumenti XLAM.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力JPEG2000画像を回転させる
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをJPEG2000に変換することは、デジタル出版物から**高圧縮、高品質の画像**を生成するために不可欠です。JPEG2000は効率的なファイルサイズで優れた画像忠実度を提供し、アーカイブ、出版、研究アプリケーションに最適です。EPUBコンテンツをJPEG2000に変換することで、図書館、出版社、企業は視覚的品質を保持し、ストレージを最適化し、プロフェッショナルなプレビューや画像を提供することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **デジタル図書館** – eBookの視覚データを高品質でスペース効率の良い形式で保存。
+- **アーカイブストレージ** – 優れた画像忠実度で歴史的および研究出版物を保存。
+- **高品質なeBookプレビュー** – デジタルカタログやマーケティング向けの詳細なプレビューを生成。
+- **研究画像保存** – 図表やイラストの明瞭さを維持。
+- **出版社のワークフロー** – 編集および制作パイプラインにJPEG2000を統合。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからJPEG2000へのパイプライン** – eBookを高品質な画像に自動変換。
+- **自動化された高品質プレビュー生成** – マーケティングやカタログ用のプロフェッショナルなプレビューを作成。
+- **大量画像アーカイブ** – 大量のEPUB視覚データを効率的に処理および保存。
+- **企業レベルのコンテンツ保存** – 一貫した画像品質で長期保存を確保。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

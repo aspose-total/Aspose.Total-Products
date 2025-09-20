@@ -47,7 +47,31 @@ otherformats: XLTM XLTX TSV XLSM XLSB FODS XLT EXCEL SXC TXT MD XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **EPUB إلى XLT** قيم للغاية لتحويل الكتب الإلكترونية والنشرات الرقمية إلى ملفات قوالب Excel التي تضمن هياكل بيانات موحدة وقابلة لإعادة الاستخدام ومتسقة. من خلال إنشاء قوالب Excel من محتوى النشر أو البيانات الوصفية، يمكن للمؤسسات والمكتبات والناشرين تبسيط تصنيف المواد، وتبسيط التقارير، والحفاظ على التناسق عبر سير العمل التعليمية والشركات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **تقارير المحتوى الموحدة** – إنشاء قوالب تقارير موحدة لبيانات النشر.
+- **قوالب فهرس المكتبة** – بناء قوالب منظمة لإدارة مجموعات الكتب.
+- **قوالب الموارد التعليمية** – توفير صيغ Excel قابلة لإعادة الاستخدام للموارد الأكاديمية.
+- **قوالب معتمدة على البيانات الوصفية** – تحويل بيانات النشر الإلكتروني إلى قوالب جاهزة للاستخدام.
+- **توحيد سير العمل النشري** – الحفاظ على عمليات موحدة عبر فرق النشر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **سير العمل من EPUB إلى XLT** – أتمتة إنشاء القوالب من بيانات النشر الرقمية.
+- **إنشاء قوالب Excel بشكل آلي** – إنشاء قوالب قابلة لإعادة الاستخدام بشكل مكرر.
+- **قوالب فهرس قابلة لإعادة الاستخدام** – بناء صيغ قابلة للتكرار لأنظمة المكتبة والأرشيف.
+- **أتمتة النشر المؤسسي** – توحيد استخدام القوالب في بيئات النشر الشركية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

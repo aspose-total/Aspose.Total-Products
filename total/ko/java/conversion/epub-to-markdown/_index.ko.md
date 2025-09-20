@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 Markdown으로 변환**하는 것은 디지털 출판물로부터 **가벼운, 개발자 친화적인 콘텐츠 파일**을 생성하는 데 매우 가치가 있습니다. Markdown은 간결함, 크로스 플랫폼 호환성, 정적 사이트 생성기 및 개발자 도구와의 원활한 통합을 보장합니다. EPUB을 Markdown으로 변환함으로써 출판사, 개발자 및 오픈 소스 커뮤니티는 eBook 콘텐츠를 문서 작성, 블로깅 및 협업 출판을 위해 재활용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **정적 사이트 게시** – Markdown 기반 eBook 콘텐츠로 현대적인 웹사이트 구축.
+- **GitHub 기반 문서화** – Git 저장소 내에서 콘텐츠를 직접 관리하고 버전 관리.
+- **오픈 소스 eBook 공유** – 보기 쉬운 Markdown 파일로 책 배포.
+- **기술 블로깅** – eBook 장을 개발자 친화적인 블로그 콘텐츠로 변환.
+- **개발자 친화적인 게시 워크플로우** – 가벼우며 휴대 가능한 콘텐츠 관리 활성화.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB에서 Markdown으로 변환하는 파이프라인** – 확장 가능한 게시를 위해 eBook을 Markdown으로 자동화.
+- **Git 기반 시스템으로의 자동 게시** – GitHub 또는 GitLab과 같은 저장소에 eBook 콘텐츠 동기화.
+- **정적 웹사이트 생성** – Jekyll, Hugo 또는 Next.js에 Markdown 콘텐츠를 제공하여 웹 게시.
+- **기업 문서 자동화** – Markdown 출력물로 문서화 워크플로우 표준화.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

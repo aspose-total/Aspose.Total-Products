@@ -57,7 +57,29 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}  
+Převod **EPUB na DXF** je důležitý pro generování **výměnných souborů s výkresy kompatibilními s CAD** z digitálních publikací. Tento proces umožňuje technický, inženýrský a architektonický obsah v rámci e-knih převést do formátů připravených pro CAD, čímž se diagramy a ilustrace stávají přístupnějšími pro profesionální pracovní postupy. Extrahováním strukturovaných vizuálů z EPUB do DXF mohou vydavatelé, inženýři a architekti zjednodušit dokumentaci návrhu, zlepšit interoperabilitu a zvýšit použitelnost zdrojů.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
+- **Technické manuály s diagramy** – Převeďte instruktážní ilustrace do editovatelných souborů CAD.  
+- **Obsah inženýrských e-knih** – Přeměňte digitální inženýrské zdroje na kresby kompatibilní s CAD.  
+- **Architektonické referenční dokumenty** – Přepracujte návrhy budov a diagramy z e-knih.  
+- **Publikování CAD souvisejících zdrojů** – Dodávejte technické publikace ve formátech připravených pro DXF.  
+- **Pracovní postupy dokumentace návrhu** – Standardizujte a opakovaně používejte diagramy napříč inženýrskými týmy.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}  
+- **Potrubí pro převod EPUB na DXF** – Automatizujte pracovní postupy pro generování souborů připravených pro CAD ve velkém měřítku.  
+- **Automatické extrahování technických ilustrací** – Okamžitě extrahujte diagramy z e-knih do formátu DXF.  
+- **Publikování připravené pro CAD** – Poskytněte inženýrům a architektům přímo použitelné formáty CAD.  
+- **Firemní dokumentace inženýrství** – Integrujte převod EPUB na DXF do systémů dokumentace na velkém měřítku.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

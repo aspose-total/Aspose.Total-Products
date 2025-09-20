@@ -47,7 +47,29 @@ otherformats: MD XLSM XLTX XLTM TSV ODS XLSB DIF SXC TXT EXCEL FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **EPUB إلى XLSM** أمر حيوي لتحويل النشرات الرقمية إلى **سجلات عمل Excel ممكنة للماكروهات**, مما يمكن من التشغيل التلقائي المتقدم والتفاعل ومعالجة البيانات الديناميكية. من خلال تضمين الماكروهات ضمن بيانات الكتب الإلكترونية المستخرجة، يمكن للمؤسسات والباحثين تبسيط سير العمل، وإنشاء لوحات تحكم تفاعلية، وبناء أنظمة تقارير تلقائية مصممة وفق احتياجاتهم.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **تقارير تلقائية** – إنشاء تقارير تعتمد على الماكروهات مباشرة من بيانات النشر.
+- **لوحات تحكم تفاعلية** – إنشاء لوحات تحكم ديناميكية للحصول على رؤى فورية.
+- **نماذج بيانات مخصصة** – تطوير نماذج مصممة خصيصًا بواسطة الماكروهات في Excel.
+- **تحليل أكاديمي بالماكروهات** – تمكين سير العمل البحثي المتقدم من محتوى الكتب الإلكترونية.
+- **سير العمل النشري مع التلقائية** – تبسيط عمليات التحرير والإنتاج.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- **أنابيب تحويل EPUB إلى XLSM** – أتمتة التحويل المنظم إلى ملفات ممكنة للماكروهات.
+- **توزيع سجلات العمل الممكنة للماكروهات تلقائيًا** – توصيل تقارير XLSM بشكل موسع.
+- **تقارير تعتمد على البيانات الوصفية** – استخراج بيانات النشر إلى تقارير Excel قابلة للتنفيذ.
+- **تلقائية النشر للشركات** – دمج Excel ممكنة للماكروهات في أنظمة النشر بمقياس كبير.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

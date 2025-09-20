@@ -57,7 +57,27 @@ Usando a API, você também pode girar a imagem DICOM de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para DICOM** é uma abordagem inovadora para transformar publicações digitais em arquivos compatíveis com **imagens médicas**. Esse processo permite que profissionais de saúde, pesquisadores e educadores incorporem conteúdo estruturado de eBooks em formatos DICOM, tornando-o acessível dentro de sistemas de imagens médicas. Ao integrar recursos baseados em texto com fluxos de trabalho de imagens, hospitais e instituições podem aprimorar treinamentos, melhorar conformidade e otimizar documentação clínica.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **eBooks de treinamento médico** – Converter materiais de estudo em formatos compatíveis com plataformas de imagens.
+- **Documentação de pesquisa clínica** – Armazenar e padronizar publicações de pesquisa dentro de sistemas DICOM.
+- **Conteúdo educacional de radiologia** – Aprimorar recursos de ensino integrando texto com fluxos de trabalho de imagens.
+- **Arquivamento de dados hospitalares** – Manter dados de publicações ao lado de registros de imagens de pacientes.
+- **Fluxos de trabalho de conformidade em saúde** – Garantir que publicações médicas sigam formatos digitais padronizados.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de EPUB para DICOM** – Automatizar a conversão para fluxos de trabalho escaláveis de dados de saúde.
+- **Conversão automatizada de publicações médicas** – Transformar eBooks em recursos compatíveis com DICOM instantaneamente.
+- **Integração de e-learning para saúde** – Entregar conteúdo médico interativo em plataformas de treinamento.
+- **Padronização de conjuntos de dados de pesquisa** – Converter documentos clínicos e de pesquisa em conjuntos de dados DICOM uniformes.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

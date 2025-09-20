@@ -102,7 +102,33 @@ otherformats: DOC WORD MOBI RTF DOCM EPUB ODT CHM PS WORDML DOT PCL FLATOPC DOTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **JSON ל-OTT** היא חיונית ליצירת **תבניות מסמכים טקסטואליים** מקבצים מובנים. OTT, פורמט תבנית הטקסט של OpenDocument, מספק דרך תקנית ליצירת תבניות ניתנות לשימוש חוזר ועריכה בחבילות משרד קוד פתוח כמו LibreOffice ו-OpenOffice. על ידי המרת JSON ל-OTT, ארגונים מבטיחים עקביות, תאימות ואוטומציה ביצירת מסמכים במהלכי עבודה מרובים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- **מסגרות מסמכי ממשל** – צור טפסים ודוחות תקניים לשימוש רשמי.
+- **תבניות משפטיות** – אוטומציה של חוזים, הסכמים ופורמטים מוכני תקנה.
+- **מכתבי עסקים** – שמור על עקביות בתקשורת עסקית.
+- **דוחות לימודיים** – צור תבניות מסמכים מוכנות למחקר ולמטלות.
+- **אינטגרציה עם משרד קוד פתוח** – השתמש בתבניות המופעלות על ידי JSON בסביבות קוד פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- **צינורות JSON-ל-OTT** – אוטומציה של יצירת תבניות מקבצי JSON מובנים.
+- **תהליכי עבודה בתבניות ממוכנים** – הפחת מאמץ עיצוב ידני בין מחלקות.
+- **יצירת מסמכים מופעלת על ידי JSON** – יישום עקביות בדיווח ותקנה עסקית.
+- **הפצת תבניות לעסקים** – תקן תבניות מסמכים בין צוותים גלובליים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

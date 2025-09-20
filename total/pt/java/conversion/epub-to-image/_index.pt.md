@@ -57,7 +57,27 @@ Usando a API, você também pode girar a imagem IMAGE de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para IMAGEM** é essencial para gerar **capturas visuais** de publicações digitais. Arquivos de IMAGEM fornecem uma maneira universal e independente de plataforma para exibir visualmente o conteúdo do eBook, permitindo visualizações fáceis, gráficos promocionais e registros arquivados. Ao transformar EPUB em imagens, editores, educadores e empresas podem aprimorar a acessibilidade, otimizar o marketing de conteúdo e apoiar fluxos de trabalho de publicação multiplataforma.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Pré-visualizações de páginas de eBook** – Gerar capturas visuais para catálogos online e pré-visualizações.
+- **Infográficos educacionais** – Transformar conteúdo em auxílios visuais de ensino facilmente digeríveis.
+- **Geração de material de marketing** – Criar visuais promocionais a partir de páginas de eBook.
+- **Capturas arquivadas** – Preservar representações estáticas de publicações digitais para armazenamento a longo prazo.
+- **Fluxos de trabalho de publicação multiplataforma** – Garantir conteúdo visual consistente em plataformas web, móveis e de impressão.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de EPUB para IMAGEM** – Automatizar a conversão de eBooks em capturas visuais para eficiência.
+- **Renderização automática de página para imagem** – Produzir rapidamente imagens de página de alta qualidade a partir de arquivos EPUB.
+- **Geração em massa de pré-visualizações para plataformas de publicação** – Gerar milhares de imagens de pré-visualização em lote.
+- **Arquivamento visual em escala empresarial** – Manter grandes coleções de imagens de eBooks para necessidades organizacionais.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

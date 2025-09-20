@@ -57,7 +57,33 @@ L'API vous permet également d'exporter le fichier HTML vers PSD dans un seul fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **HTML en PSD (Photoshop Document)** est essentiel pour générer des fichiers graphiques en couches à partir de pages web. Les fichiers PSD préservent les calques, le texte et les éléments de design, permettant aux designers de modifier, d'adapter et de réutiliser efficacement le contenu web. En transformant l'HTML en PSD, les organisations peuvent rationaliser les flux de travail UI/UX, créer des actifs marketing de haute qualité et conserver la flexibilité pour les projets de refonte web et de design numérique.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- **Conception UI/UX** – Extraire les mises en page des pages web en calques PSD modifiables pour le prototypage rapide et l'itération de design.
+- **Flux de travail de refonte de site web** – Convertir les pages existantes en fichiers en couches pour faciliter les mises à jour ou les refontes.
+- **Créations marketing** – Créer des bannières, des visuels pour les médias sociaux et des graphiques de campagne à partir du contenu web.
+- **Maquettes numériques** – Créer des maquettes réalistes de produits ou de pages web pour les présentations et les approbations client.
+- **Ressources de conception pour le commerce électronique** – Réutiliser des sections de pages web pour les pages de produits, les images promotionnelles et les catalogues.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- **Pipelines HTML vers PSD** – Automatiser la conversion des pages web en fichiers Photoshop en couches.
+- **Génération automatique de graphiques en couches** – Produire des fichiers PSD avec des calques modifiables de manière cohérente à travers les projets.
+- **Flux de travail créatif en masse** – Convertir plusieurs pages web simultanément pour des campagnes marketing ou de design à grande échelle.
+- **Automatisation du design de niveau entreprise** – Intégrer la génération de PSD dans les flux de travail de conception et de production de contenu organisationnels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

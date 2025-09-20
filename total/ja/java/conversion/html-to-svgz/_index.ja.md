@@ -57,7 +57,33 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTMLをSVGZ（圧縮されたSVG）に変換**することは、ウェブページから**スケーラブルで圧縮されたベクトルグラフィック**を生成するために不可欠です。SVGZはベクトルグラフィックの明瞭さとスケーラビリティを維持しながら、ファイルサイズを大幅に削減し、レスポンシブデザイン、ウェブ用のビジュアル、インタラクティブなデジタルコンテンツに最適です。HTMLコンテンツをSVGZに変換することで、組織はパフォーマンスを最適化し、読み込み時間を短縮し、さまざまなプラットフォームでベクトルアセットを効率的に管理できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **インフォグラフィック** – データ表現のための視覚的に鮮明でコンパクトなベクトルグラフィックを作成します。
+* **ウェブ用ダイアグラム** – ウェブサイトにシームレスに統合されるスケーラブルなダイアグラムを生成します。
+* **軽量なパブリッシング** – デジタル出版物での高速配信のためにファイルサイズを削減します。
+* **モバイルフレンドリーなビジュアルアセット** – どんな画面解像度やデバイスでも鮮明なグラフィックを確保します。
+* **インタラクティブなデザイン** – 小さなファイルサイズを維持しながらアニメーションや相互作用をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **HTMLからSVGZへのパイプライン** – ウェブコンテンツを圧縮されたベクトルグラフィックに自動変換します。
+* **自動化されたベクトル圧縮** – ウェブやモバイルで一貫して最適化されたSVGZファイルを生成します。
+* **一括ダイアグラムワークフロー** – 大規模プロジェクトのために複数のベクトルアセットを効率的に処理します。
+* **エンタープライズレベルの軽量パブリッシング** – スケーラブルなデジタルパブリッシングワークフローにSVGZ生成を統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

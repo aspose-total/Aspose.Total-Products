@@ -47,7 +47,29 @@ Trong khi chuyển đổi tệp EPUB sang FODS, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **EPUB sang FODS (Bảng tính ODS XML phẳng)** là điều cần thiết để tạo ra **tệp bảng tính chuẩn mở** từ eBook và xuất bản kỹ thuật số. FODS đảm bảo tính tương thích với các bộ ứng dụng văn phòng mã nguồn mở, hỗ trợ định dạng XML có cấu trúc và cho phép chia sẻ dữ liệu một cách liền mạch. Bằng cách chuyển đổi EPUB thành FODS, các nhà xuất bản, nhà nghiên cứu và các tổ chức có thể tạo bảng dữ liệu, tối ưu hóa việc đánh số thứ tự và chia sẻ tập dữ liệu nghiên cứu dưới dạng có thể truy cập một cách phổ biến.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- **Đánh số thứ tự siêu dữ liệu** – Chuyển đổi siêu dữ liệu eBook thành các bảng bảng tính có cấu trúc.
+- **Thu thập dữ liệu nghiên cứu** – Trích xuất và tổ chức dữ liệu học thuật từ các xuất bản kỹ thuật số.
+- **Luồng công việc xuất bản mã nguồn mở** – Sử dụng FODS với LibreOffice và các nền tảng mã nguồn mở khác.
+- **Hồ sơ thư viện** – Quản lý dữ liệu thư mục trong các bảng tính chuẩn mở.
+- **Chia sẻ tập dữ liệu học thuật** – Phân phối các tập dữ liệu có cấu trúc để hợp tác và phân tích.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- **Đường ống EPUB-sang-FODS** – Tự động hóa việc chuyển đổi các xuất bản kỹ thuật số thành bảng tính FODS.
+- **Tạo bảng tính tự động** – Tối ưu hóa quy trình xuất bản và xử lý dữ liệu nghiên cứu.
+- **Trích xuất tập dữ liệu dựa trên XML** – Chuyển đổi nội dung eBook thành các bảng tính có cấu trúc, có thể đọc bằng máy.
+- **Luồng công việc xuất bản học thuật doanh nghiệp** – Tiêu chuẩn hóa xử lý dữ liệu nghiên cứu trên các tổ chức.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

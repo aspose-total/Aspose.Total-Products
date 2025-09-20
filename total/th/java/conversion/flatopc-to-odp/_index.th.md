@@ -54,7 +54,33 @@ API ยังช่วยให้คุณแปลงเอกสาร FLATOP
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **FLATOPC** เป็น **ODP (OpenDocument Presentation)** เป็นสิ่งจำเป็นสำหรับสร้าง **ไฟล์ OpenDocument Presentation** จากเอกสาร WordprocessingML ไฟล์ ODP ช่วยให้เกิดความเข้ากันได้กับชุดโปรแกรมสำนักงานโอเพ่นซอร์ส รองรับความเข้าถึงได้ทุกแพลตฟอร์ม และรักษาการจัดรูปแบบสไลด์และความสมบูรณ์ของเนื้อหา โดยการแปลงเอกสาร FLATOPC เป็น ODP องค์กรสามารถปรับปรุงการทำงานของงานนำเสนอ เสริมความร่วมมือ และนำมาใช้มาตรฐานเปิดสำหรับการใช้งานในสาขาวิชาการ รัฐบาล และองค์กรธุรกิจ
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* **การนำเสนอข้ามแพลตฟอร์ม** – สร้างสไลด์ที่ทำงานได้อย่างเรียบร้อยในระบบปฏิบัติการและชุดโปรแกรมสำนักงานที่แตกต่างกัน
+* **สไลด์ในสาขาวิชาการ** – แปลงเนื้อหา WordprocessingML เป็นการนำเสนอบรรยายและสัมมนา
+* **เอกสารของรัฐบาล** – รักษาความเข้ากันได้กับมาตรฐานเปิดสำหรับเอกสารนำเสนอทางการ
+* **บรรยายการเรียนการสอน** – เตรียมสไลด์ที่มีโครงสร้างและสามารถแก้ไขได้สำหรับห้องเรียนหรือคอร์สออนไลน์
+* **กระบวนการทำงานโอเพ่นซอร์ส** – เปิดให้ใช้งานกระบวนการทำงานร่วมกันโดยใช้แอปพลิเคชันสำนักงานฟรีและโอเพ่นซอร์ส
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* **ท่อการทำงาน FLATOPC-to-ODP** – อัตโนมัติการแปลงเอกสาร WordprocessingML เป็นไฟล์นำเสนอ
+* **การสร้างสไลด์อัตโนมัติ** – สร้างสไลด์ ODP ที่มีโครงสร้างอย่างสม่ำเสมอจากเอกสารต้นฉบับ
+* **การแปลงข้อมูลเป็นกลุ่มสำหรับสถาบัน** – ประมวลผลเอกสารหลายรายการอย่างมีประสิทธิภาพสำหรับองค์กรทางวิชาการหรือรัฐบาล
+* **การเผยแพร่มาตรฐานเปิดพร้อมใช้งานในองค์กร** – รวมการสร้าง ODP เข้ากับกระบวนการทำงานเอกสารเปิดใหญ่
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

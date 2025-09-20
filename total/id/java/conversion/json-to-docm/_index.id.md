@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengurai JSON ke DOCM dengan tanda air. Untuk m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke DOCM** penting untuk menyematkan **makro ke dalam dokumen Word** yang dihasilkan dari data terstruktur. Proses ini memungkinkan organisasi untuk menggabungkan kumpulan data mentah dengan fitur otomatisasi yang kuat di dalam Word, memungkinkan generasi konten dinamis, eksekusi aturan bisnis, dan fungsionalitas dokumen interaktif. Dengan mengubah JSON menjadi file DOCM, perusahaan dapat mempermudah alur kerja, meningkatkan pelaporan, dan membangun templat yang diaktifkan makro yang dapat beradaptasi dengan kebutuhan data yang berkembang.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Alur kerja dokumen otomatis** – Dorong pembuatan dokumen yang dapat diulang dengan makro tersemat.
+- **Skrip analisis data** – Integrasikan makro yang didorong JSON untuk perhitungan dan pemrosesan real-time.
+- **Templat yang diaktifkan makro** – Bangun templat cerdas yang dapat digunakan kembali untuk dokumentasi perusahaan.
+- **Sistem pelaporan perusahaan** – Hasilkan laporan dengan format dan analisis otomatis.
+- **Formulir kepatuhan interaktif** – Sampaikan formulir dengan validasi yang diaktifkan makro dan aturan pemrosesan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa JSON-to-DOCM** – Otomatisasikan transformasi kumpulan data terstruktur menjadi file Word yang diaktifkan makro.
+- **Makro Word yang dipicu otomatis** – Jalankan makro secara dinamis selama atau setelah pembuatan dokumen.
+- **Pemrosesan aturan bisnis dinamis** – Terapkan kebijakan perusahaan dan aturan data langsung dalam dokumen.
+- **Otomatisasi pelaporan yang diaktifkan makro** – Standarisasi dan percepat alur kerja pelaporan kompleks dalam skala besar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

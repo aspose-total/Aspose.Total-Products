@@ -57,7 +57,33 @@ Med hjälp av API:t kan du också rotera den utgående PSD-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Att konvertera **HTML till PSD (Photoshop-dokument)** är avgörande för att skapa **skiktfiler** från webbsidor. PSD-filer bevarar lager, text och designelement, vilket gör det möjligt för designers att effektivt redigera, anpassa och återanvända webbinnehåll. Genom att omvandla HTML till PSD kan organisationer effektivisera UI/UX-arbetsflöden, skapa högkvalitativa marknadsföringsmaterial och behålla flexibiliteten för webbdesign och digitala designprojekt.
+
+{{% blocks/products/pf/agp/feature-section-col title="Viktiga användningsfall" %}}
+
+- **UI/UX-design** – Extrahera webbsideslayouter till redigerbara PSD-lager för snabb prototypning och designiteration.
+- **Arbetsflöden för webbplatsoptimering** – Konvertera befintliga sidor till skiktfiler för att underlätta uppdateringar eller omdesign.
+- **Marknadsföringsmaterial** – Skapa banners, sociala medier-visuella och kampanjgrafik från webbinnehåll.
+- **Digitala mockuper** – Bygg realistiska produkt- eller webbsidemockuper för presentationer och kundgodkännanden.
+- **Designresurser för e-handel** – Återanvänd webbsideavsnitt för produktbeskrivningar, kampanjbilder och kataloger.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+- **HTML-till-PSD-pipelines** – Automatisera konvertering av webbsidor till skiktfiler i Photoshop.
+- **Automatiserad skapande av skiktfiler** – Skapa PSD-filer med redigerbara lager konsekvent över olika projekt.
+- **Massiva kreativa arbetsflöden** – Konvertera flera webbsidor samtidigt för storskaliga marknadsförings- eller designkampanjer.
+- **Designautomatisering på företagsnivå** – Integrera PSD-generering i organisationens design- och innehållsproduktionsarbetsflöden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

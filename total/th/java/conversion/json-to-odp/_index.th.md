@@ -49,7 +49,33 @@ otherformats: PPS PPT PPTM PPSM POWERPOINT POT POTM OTP PPSX POTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **JSON เป็น ODP** เป็นสิ่งสำคัญสำหรับการสร้าง **งานนำเสนอ OpenDocument** โดยตรงจากชุดข้อมูลที่มีโครงสร้าง  ODP ซึ่งเป็นรูปแบบมาตรฐานที่ใช้โดย LibreOffice และ OpenOffice ทำให้มีความเข้ากันได้เต็มรูปแบบกับชุดเครื่องมือสำนักงานโอเพนซอร์สและเวิร์กโฟลว์跨แพลตฟอร์ม  โดยการแปลง JSON เป็น ODP องค์กรสามารถสร้างงานนำเสนอที่เปลี่ยนไปได้ ที่ใช้ซ้ำและมีมาตรฐานโดยไม่ต้องใช้ความพยายามของมนุษย์
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+- **งานนำเสนอทางธุรกิจ** – สร้างงานนำเสนอที่ใช้ข้อมูลเชิงข้อมูลโดยตรงจากแหล่งที่มีโครงสร้าง
+- **สไลด์การศึกษา** – สร้างเนื้อหาการสอนและสไลด์การบรรยายจากชุดข้อมูลทางวิชาการ
+- **ดีคส์ที่ใช้ข้อมูล** – อัตโนมัติงานนำเสนอของนักลงทุนหรือการขายโดยใช้ข้อมูลแบบเรียลไทม์
+- **เวิร์กโฟลว์ของรัฐบาล** – สนับสนุนความโปร่งใสและความเชื่อถือด้วยสไลด์ ODP มาตรฐาน
+- **การผสานข้อมูลของสำนักงานโอเพนซอร์ส** – รับรองความเข้ากันได้โดยไม่มีช่องว่างกับ LibreOffice, Apache OpenOffice และเครื่องมือที่เป็นไปตาม ODF อื่น ๆ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+- **ท่อการทำงาน JSON เป็น ODP** – อัตโนมัติการแปลงข้อมูลโครงสร้างเป็นงานนำเสนอมาตรฐานที่เปิดเผย
+- **การสร้างสไลด์โดยอัตโนมัติ** – ประหยัดเวลาโดยการสร้างสไลด์พร้อมนำเสนอโดยตรงจากชุดข้อมูล
+- **เวิร์กโฟลว์ข้อมูลไปยังงานนำเสนอ** – ผสานระบบข้อมูลองค์กรกับการสร้าง ODP สำหรับรายงาน
+- **มาตรฐานงานนำเสนอขององค์กร** – รับรองความสม่ำเสมอในการออกแบบ โครงสร้าง และความเชื่อถือในองค์กรขนาดใหญ่
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

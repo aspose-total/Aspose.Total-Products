@@ -49,7 +49,33 @@ Usando a API, você também pode analisar JSON para CHM com marca d'água. Para 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **JSON para CHM (Ajuda HTML Compilada)** é essencial para construir **manuais de ajuda compilados** diretamente a partir de documentação estruturada. Arquivos CHM combinam vários tópicos de ajuda em um recurso único, pesquisável e acessível offline, tornando-os ideais para suporte de software e gerenciamento de conhecimento empresarial. Ao transformar JSON em CHM, organizações podem otimizar a entrega de documentação, melhorar a usabilidade e garantir acessibilidade mesmo sem conexão com a internet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+- **Documentação de software** – Empacote guias técnicos em um formato compilado e amigável ao usuário.
+- **Sistemas de ajuda offline** – Entregue documentação sem necessidade de acesso à internet.
+- **Bases de conhecimento empresarial** – Centralize o conhecimento organizacional em um arquivo de ajuda estruturado.
+- **Manuais de treinamento** – Distribua recursos de aprendizado compilados para funcionários ou alunos.
+- **Referências de API de desenvolvedor** – Converta definições JSON estruturadas em referências offline pesquisáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+- **Pipelines de JSON para CHM** – Automatize a conversão de dados estruturados em manuais de ajuda compilados.
+- **Criação automatizada de arquivos de ajuda** – Gere arquivos CHM diretamente a partir de conteúdo baseado em JSON em evolução.
+- **Compilação de dados para documentação** – Transforme documentação JSON estruturada em sistemas de ajuda acessíveis.
+- **Distribuição de conhecimento offline** – Padronize manuais CHM para treinamento e suporte em toda a empresa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

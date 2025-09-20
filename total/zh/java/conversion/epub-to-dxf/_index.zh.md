@@ -57,7 +57,27 @@ otherformats: EMZ JPEG2000 DXF IMAGE WMF  WMZ PSD TGA SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 DXF** 对于从数字出版物生成 **CAD 兼容的绘图交换文件** 是重要的。这个过程使得电子书中的技术、工程和建筑内容可以被重新用于 CAD 准备格式，使图表和插图更易于专业工作流程中使用。通过将 EPUB 中的结构化视觉内容提取到 DXF 中，出版商、工程师和建筑师可以简化设计文档、提高互操作性，并增强资源的可用性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **带有图表的技术手册** – 将说明性插图转换为可编辑的 CAD 文件。
+- **工程电子书内容** – 将数字工程资源转换为 CAD 兼容的绘图。
+- **建筑参考文档** – 从电子书中重新用建筑设计和图表。
+- **CAD 相关资源的发布** – 以 DXF 准备格式提供技术出版物。
+- **设计文档工作流程** – 在工程团队之间标准化和重复使用图表。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 DXF 转换流水线** – 自动化工作流程，批量生成 CAD 准备文件。
+- **自动化技术插图提取** – 立即从电子书中提取图表到 DXF 中。
+- **CAD 准备发布** – 为工程师和建筑师提供直接可用的 CAD 格式。
+- **企业工程文档** – 将 EPUB 到 DXF 转换集成到大规模文档系统中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

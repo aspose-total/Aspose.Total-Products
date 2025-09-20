@@ -57,7 +57,33 @@ Usando a API, você também pode girar a imagem TGA de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **HTML para TGA (Truevision Graphics Adapter)** é essencial para gerar **gráficos raster de alta qualidade** a partir de conteúdo da web. Arquivos TGA preservam a profundidade de cor e detalhes da imagem, tornando-os ideais para gráficos profissionais, visualização 3D e ativos prontos para impressão. Ao transformar HTML em TGA, organizações podem garantir uma reprodução visual precisa para fluxos de trabalho de jogos, design e publicação, mantendo a compatibilidade com software criativo avançado.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Fluxos de trabalho da indústria de jogos** – Converter ativos baseados na web em gráficos de alta fidelidade para jogos e simulações.
+* **Visualização 3D** – Gerar imagens raster detalhadas adequadas para fluxos de trabalho de modelagem e renderização.
+* **Publicação digital** – Criar conteúdo visual nítido para revistas online, eBooks e mídia interativa.
+* **Ativos de design gráfico** – Produzir gráficos raster editáveis para projetos de design profissional.
+* **Mídia impressa** – Garantir reprodução precisa de cor e saída de alta resolução para publicações físicas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines HTML para TGA** – Automatizar a conversão de conteúdo da web em arquivos raster de alta qualidade.
+* **Renderização raster automatizada** – Produzir imagens TGA consistentes com cores e detalhes precisos.
+* **Conversão em massa de ativos** – Processar eficientemente várias páginas da web ou elementos de design em escala.
+* **Publicação criativa em nível empresarial** – Integrar a geração de TGA em produção gráfica em larga escala e fluxos de trabalho de publicação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

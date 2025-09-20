@@ -57,7 +57,33 @@ Utilizzando l'API, puoi anche ruotare l'immagine PSD di output secondo le tue es
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **HTML in PSD (Photoshop Document)** è essenziale per generare **file grafici a strati** dalle pagine web. I file PSD conservano i livelli, il testo e gli elementi di design, consentendo ai designer di modificare, adattare e riutilizzare i contenuti web in modo efficiente. Trasformando l'HTML in PSD, le organizzazioni possono ottimizzare i flussi di lavoro UI/UX, creare asset di marketing di alta qualità e mantenere flessibilità per progetti di ridisegno web e design digitale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+- **Design UI/UX** – Estrarre layout delle pagine web in livelli PSD modificabili per prototipazione rapida e iterazione del design.
+- **Flussi di lavoro per la ridisegno del sito web** – Convertire le pagine esistenti in file a strati per facilitare aggiornamenti o ridisegni.
+- **Creatività di marketing** – Creare banner, immagini per i social media e grafiche per campagne dai contenuti web.
+- **Mockup digitali** – Creare mockup realistici di prodotti o pagine web per presentazioni e approvazioni dei clienti.
+- **Asset di design per l'eCommerce** – Riutilizzare sezioni delle pagine web per pagine di prodotto, immagini promozionali e cataloghi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+- **Flussi di lavoro HTML-to-PSD** – Automatizzare la conversione delle pagine web in file Photoshop a strati.
+- **Generazione automatizzata di grafica a strati** – Produrre file PSD con livelli modificabili in modo coerente tra i progetti.
+- **Flussi di lavoro creativi in blocco** – Convertire più pagine web contemporaneamente per campagne di marketing o design su larga scala.
+- **Automazione del design a livello enterprise** – Integrare la generazione di PSD nei flussi di lavoro di design e produzione di contenuti organizzativi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

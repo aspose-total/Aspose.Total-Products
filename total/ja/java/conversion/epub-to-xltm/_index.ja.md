@@ -47,7 +47,29 @@ EPUBファイルをXLTMに変換するときに、出力XLTMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUBをXLTMに変換**することは、eBookデータを再利用可能で自動化されたインテリジェントな形式に変換する**マクロ有効なExcelテンプレート**を生成するために不可欠です。テンプレートに埋め込まれたマクロにより、組織、研究者、出版社はデータ処理を効率化し、レポートの標準化を図り、部門間でのインタラクティブなワークフローを可能にします。これにより、デジタル出版データの管理において効率性、一貫性、拡張性が確保されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- **自動化されたパブリッシングワークフロー** – 編集や制作タスクを簡素化する再利用可能なテンプレートを構築します。
+- **学術データセットテンプレート** – 研究者が構造化された、マクロ駆動の分析ツールを作成できるようにします。
+- **マクロを使用したビジネスインテリジェンス** – データモデリングや可視化のためのPower BI対応テンプレート。
+- **メタデータレポート** – 出版メタデータをスマートなレポートテンプレートに変換します。
+- **部門間テンプレート** – 組織内のワークフローを標準化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからXLTMへのテンプレートパイプライン** – マクロ有効なテンプレート生成を自動化します。
+- **自動化されたマクロ有効なExcelテンプレートの配布** – XLTMファイルをチーム全体にシームレスに配信します。
+- **パブリッシングデータの標準化** – テンプレート駆動のパブリッシングワークフローにおける一貫性を確保します。
+- **エンタープライズテンプレートの自動化** – XLTMテンプレートを企業データエコシステムに統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

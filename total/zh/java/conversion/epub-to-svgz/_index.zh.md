@@ -57,7 +57,29 @@ otherformats: WMF  EMZ WMZ TGA IMAGE SVGZ DXF JPEG2000 PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 SVGZ（压缩的 SVG）** 对于从数字出版物中生成 **可伸缩矢量图形** 是必不可少的。SVGZ 文件保留了完整的可伸缩性和质量，同时减小了文件大小，使其非常适合用于网络、移动设备和互动应用。通过将 EPUB 转换为 SVGZ，出版商、教育工作者和设计师可以高效地传递高质量的图形，改善加载时间，并保持跨平台一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **轻量级网络发布** – 在网站上高效部署电子书视觉元素，加载时间最短。
+- **面向移动设备的电子书预览** – 提供针对移动设备优化的交互式和可伸缩图形。
+- **信息图表生成** – 从出版内容创建详细、高质量的视觉摘要。
+- **跨平台兼容性** – 确保矢量图形在各种设备和平台上显示一致。
+- **互动设计** – 为学习、营销或演示启用动态和可缩放的图形。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 SVGZ 管道** – 自动化将电子书转换为压缩的矢量图形。
+- **自动化矢量压缩** – 减小文件大小同时保留完整的可伸缩性和质量。
+- **批量信息图表创建** – 从数字出版物高效生成大量视觉内容。
+- **企业级轻量级发布工作流** – 将 SVGZ 生成集成到可扩展的内容传递系统中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

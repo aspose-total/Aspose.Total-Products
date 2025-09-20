@@ -57,7 +57,27 @@ Usando la API, también puede rotar la imagen DICOM de salida según sus necesid
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **HTML a DICOM** es esencial para generar **salidas compatibles con imágenes médicas** a partir de datos basados en la web. DICOM garantiza que las imágenes clínicas y la información relacionada con la salud estén estandarizadas para la interoperabilidad, el archivado y la integración en los sistemas médicos. Al convertir el contenido HTML en DICOM, los proveedores de atención médica e investigadores pueden agilizar los flujos de trabajo médicos manteniendo la conformidad con los estándares de la industria.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+- **Plataformas de telemedicina** – Integrar datos médicos basados en la web en sistemas compatibles con DICOM.
+- **Integración de informes médicos** – Incrustar informes textuales e imágenes en formatos de atención médica estándar.
+- **Flujos de trabajo de atención médica** – Permitir el intercambio fluido de datos de pacientes entre departamentos.
+- **Archivado de radiología** – Almacenar imágenes y contenido basado en la web asociado en archivos DICOM.
+- **Interoperabilidad entre sistemas** – Facilitar el intercambio de datos estandarizado entre aplicaciones de atención médica.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+- **Tuberías HTML a DICOM** – Automatizar la conversión de contenido médico basado en la web en DICOM.
+- **Incrustación automatizada de informes médicos** – Integrar datos HTML en flujos de trabajo de imágenes de pacientes.
+- **Conversión masiva de datos de atención médica** – Procesar múltiples informes o páginas web de manera eficiente a escala.
+- **Flujos de trabajo clínicos a nivel empresarial** – Estandarizar la conversión de HTML a DICOM en organizaciones de atención médica.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

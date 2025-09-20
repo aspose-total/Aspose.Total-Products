@@ -49,7 +49,33 @@ API'yi kullanarak, TGA belgenizdeki filigranlı JSON'u TGA'ye de dönüştürebi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+JSON'u TGA'ya dönüştürmek, yapılandırılmış verilerden Targa görüntü dosyaları oluşturmak için temel bir adımdır. TGA dosyaları, yüksek kaliteli raster grafikleri ve alfa kanal desteği nedeniyle oyun geliştirme, 3D modelleme ve video prodüksiyonunda yaygın olarak kullanılmaktadır. JSON'u TGA'ya dönüştürerek, kuruluşlar dokuların otomatik oluşturulmasını sağlayabilir, görsel iş akışlarını optimize edebilir ve yapılandırılmış verileri grafik iş akışlarına verimli bir şekilde entegre edebilir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- **Oyun geliştirme grafikleri** – Yapılandırılmış veri kümelerinden doğrudan oyunlar için dokular ve sprite'lar oluşturun.
+- **Endüstriyel 3D modelleme** – CAD ve 3D simülasyon projeleri için TGA varlıkları üretin.
+- **Video düzenleme varlıkları** – Prodüksiyon iş akışları için yüksek kaliteli görüntüler oluşturun.
+- **Sanal simülasyonlar** – Simülasyon ortamları için gerçekçi dokular ve görsel unsurlar geliştirin.
+- **Eski görüntüleme iş akışları** – Targa dosya formatlarını gerektiren sistemlerle uyumluluğu koruyun.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- **JSON'dan TGA'ya boru hatları** – Yapılandırılmış verilerden TGA dosyalarının otomatik oluşturulmasını sağlayın.
+- **Otomatik dokuların oluşturulması** – Grafik projeleri için manuel varlık oluşturmayı azaltın.
+- **Veri odaklı grafik dışa aktarımları** – Yapılandırılmış veri kümeleriyle doğrudan görüntü katmanlarını doldurun.
+- **JSON destekli görsel iş akışları** – Otomatik TGA oluşturmayı kurumsal grafik iş akışlarına entegre edin.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

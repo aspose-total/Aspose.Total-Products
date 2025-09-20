@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUBをPSD（Photoshop Document）に変換**することは、デジタル出版物から**編集可能なレイヤーグラフィック**を生成するために不可欠です。PSDファイルにはレイヤー、テキスト、エフェクトが保持され、デザイナーがクリエイティブプロジェクトのためにコンテンツを修正および強化できます。EPUBをPSDに変換することで、出版社、マーケター、教育者は高品質のビジュアルを作成し、デザインの柔軟性を維持し、グラフィック制作のワークフローを効率化することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **グラフィックデザインワークフロー** – レイヤーコントロールを使用してeBookのビジュアルを編集およびカスタマイズします。
+- **マーケティングクリエイティブ** – 出版コンテンツからプロモーショングラフィックスやデジタル広告を生成します。
+- **eBookカバー編集** – 印刷物またはデジタルプラットフォーム向けにブックカバーをカスタマイズおよび強化します。
+- **教育用ビジュアル** – 対話型図表、インフォグラフィック、学習教材を作成します。
+- **カスタムブランディング資料** – 企業のアイデンティティやキャンペーン向けに出版グラフィックを適応させます。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからPSDへのパイプライン** – eBookコンテンツをレイヤー化されたPhotoshopファイルに自動変換します。
+- **自動化されたレイヤー抽出** – 簡単な編集のためにデザイン要素を保持および分離します。
+- **大量のクリエイティブアセット生成** – デジタル出版物から効率的に複数のグラフィックスを生成します。
+- **エンタープライズレベルのデザインワークフロー** – 大規模なクリエイティブおよび出版業務にPSD生成を統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

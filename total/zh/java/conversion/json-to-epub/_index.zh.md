@@ -49,7 +49,33 @@ otherformats: DOTX EPUB PCL MOBI WORDML OTT FLATOPC PS DOT DOC WORD RTF ODT DOCM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 EPUB** 对于从结构化数据集生成 **数字电子书** 至关重要。EPUB 文件提供了一种广泛支持的可重排格式，可在电子阅读器、移动设备和学习平台上传递知识。通过将 JSON 转换为 EPUB，组织可以自动化内容发布，创建交互式电子学习材料，并以便携数字格式分发标准化的知识资源。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **自动化发布** – 将数据集转换为可阅读的数字电子书。
+- **电子学习材料** – 以 EPUB 格式提供交互式结构化课程资料。
+- **数据驱动的电子书** – 直接从 JSON 输入生成动态出版物。
+- **研究出版物** – 将学术发现和结构化研究成果发布为电子书。
+- **企业知识分发** – 通过数字图书馆标准化内部知识共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 EPUB 流水线** – 从结构化数据源自动创建电子书。
+- **实时电子书生成** – 直接从实时 JSON 源生成最新出版物。
+- **自动化课程资料发布** – 为机构简化电子学习材料制作流程。
+- **数字图书馆集成** – 将基于 JSON 的 EPUB 集成到企业和学术知识库中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

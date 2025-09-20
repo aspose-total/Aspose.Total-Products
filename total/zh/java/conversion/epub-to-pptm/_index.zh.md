@@ -59,7 +59,29 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 PPTM（启用宏的 PowerPoint 演示文稿）** 对于从电子书生成具有自动化的 **交互式演示文稿** 至关重要。PPTM 文件支持嵌入式宏，可实现动态内容、自动化工作流程和交互功能。通过将 EPUB 转换为 PPTM，企业、教育工作者和出版商可以创建智能演示文稿，增强参与度，标准化内容，并简化大规模演示文稿的制作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **商业智能演示文稿** – 生成具有自动化数据更新和分析的动态幻灯片。
+- **自动化培训材料** – 创建具有交互式和宏驱动内容的教学演示文稿。
+- **学术研究演示文稿** – 将学术内容转化为结构化、交互式幻灯片。
+- **出版工作流程** – 简化将电子书内容转换为启用宏的演示文稿。
+- **企业幻灯片自动化** – 在团队间标准化和自动化大规模演示文稿制作。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 PPTM 管道** – 自动化将电子书转换为启用宏的幻灯片。
+- **自动化启用宏演示文稿生成** – 在幻灯片中嵌入交互性和动态功能。
+- **基于元数据的幻灯片转换** – 使用结构化的电子书数据填充演示文稿。
+- **企业出版工作流程** – 在组织中扩展自动化的 PPTM 制作。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

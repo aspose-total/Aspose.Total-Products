@@ -49,7 +49,33 @@ otherformats: WORDML EPUB WORD RTF DOT ODT PCL PS DOCM DOC OTT MOBI FLATOPC DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 ODT** 对于从结构化数据集生成 **OpenDocument 文本文件** 至关重要。ODT 是 LibreOffice 和 OpenOffice 的原生格式，确保长期可访问性、开源兼容性和跨平台互操作性。通过将 JSON 转换为 ODT，组织可以自动创建专业的、基于数据支持的文本文档，无需手动编辑。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **政府文件** – 为公共管理制定符合标准的文件。
+- **开源办公流程** – 将 JSON 数据与 LibreOffice 和 Apache OpenOffice 环境集成。
+- **学术论文** – 从结构化数据集生成研究报告和出版物。
+- **商业合同** – 从 JSON 记录自动化协议起草和合同创建。
+- **数据驱动信函** – 批量创建个性化、结构化的通信。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 ODT 管道** – 自动化将结构化数据转换为可编辑的 ODT 文档。
+- **自动化 ODT 生成** – 通过直接从 JSON 生成可直接使用的文本文件，减少手动工作量。
+- **JSON 到 OpenDocument 标准化** – 确保符合文档共享的开放标准。
+- **跨平台文档工作流** – 实现企业和学术系统之间的平滑互操作性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

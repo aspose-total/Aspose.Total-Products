@@ -102,7 +102,33 @@ otherformats: DOT PS ODT OTT WORDML EPUB CHM DOC FLATOPC DOTX DOCM RTF WORD PCL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **JSON ל־MOBI** חשובה ליצירת **ספרי קוד Kindle** מנתונים מובנים. MOBI משמש בצורה נרחבת במכשירי Amazon Kindle, ולכן הוא פורמט מועדף על ידי מוציאי ספרים, מחנכים ועסקים. על ידי המרת קבצי JSON ל־MOBI, יכולות ארגונים ליצור ספרים דיגיטליים ידידותיים לנייד, מובנים וניתנים להפצה בקלות ששומרים על עקביות בין קוראי ספרים אלקטרוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- **פרסום דיגיטלי** – המרת תוכן מובנה לספרי קוד מוכנים ל־Kindle.
+- **תוכן למידה אלקטרוני** – מסירת חומרי קורס בפורמט MOBI נגיש.
+- **הפצת מחקרים** – שיתוף ממצאים אקדמיים או טכניים דרך מכשירי Kindle.
+- **ספרים ידידותיים לנייד** – הבטיחו תאימות בין קוראי ספרים אלקטרוניים וסמארטפונים.
+- **תהליכי עבודה לספרי קוד בעסקים** – תקנו דוחות עסקיים ומסמכים לפרסום ב־Kindle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- **צינורות JSON-to-MOBI** – אוטומציה של יצירת ספרי קוד מנתונים מובנים.
+- **פרסום מוכן ל־Kindle אוטומטי** – קיצור דרך בפרסום ספרים ל־Amazon Kindle.
+- **יצירת תוכן למידה אלקטרוני דינמי** – יצירת חומרי קורס אינטראקטיביים בזמן אמת.
+- **תקנות ספרי קוד מובנות ב־JSON** – שמירה על עיצוב עקבי בין כותרים מרובים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

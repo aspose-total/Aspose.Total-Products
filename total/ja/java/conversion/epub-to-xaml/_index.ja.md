@@ -59,7 +59,29 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUBをXAMLに変換**することは、電子書籍コンテンツから**UIに適したマークアップ**を生成するために不可欠です。XAMLファイルを使用すると、デザイナーや開発者が出版コンテンツから直接インタラクティブでスケーラブルでWindows互換のユーザーインターフェースを作成できます。EPUBをXAMLに変換することで、チームはアプリケーションのプロトタイピングを効率化し、UI/UXワークフローを改善し、出版資産をWindows Presentation Foundation（WPF）プロジェクトに統合することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- **アプリケーションのプロトタイピング** – コンテンツをアプリ用のインターフェイス準備マークアップに迅速に変換します。
+- **UI/UXワークフロー** – 電子書籍要素をインタラクティブなデザインシステムに統合します。
+- **クロスプラットフォームの公開** – コンテンツを複数デバイスおよび複数プラットフォームのUIプロジェクトに適応させます。
+- **インタラクティブデザイン** – テキストとビジュアルコンテンツからダイナミックでレスポンシブなインターフェースを構築します。
+- **Windows Presentation Foundation（WPF）の統合** – WPFアプリケーションで出版コンテンツをシームレスに使用します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからXAMLへのパイプライン** – 電子書籍をマークアップ準備ファイルに自動変換します。
+- **自動化されたマークアップ抽出** – デザイン利用のために効率的にUI要素を抽出します。
+- **一括UI生成** – 大規模な出版ライブラリから複数のインターフェイス準備ファイルを生成します。
+- **エンタープライズレベルのアプリデザインワークフロー** – EPUBからXAMLへの変換をスケーラブルなソフトウェア開発パイプラインに統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

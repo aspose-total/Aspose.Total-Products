@@ -49,7 +49,33 @@ otherformats: IMAGE DICOM TGA WMF WMZ EMZ PSD SVGZ JPEG2000 DXF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 SVGZ** 对于直接从结构化数据生成 **压缩可伸缩矢量图形** 是至关重要的。SVGZ 是 SVG 的 GZIP 压缩版本，确保文件大小更小，同时保持分辨率独立性，非常适合 Web、移动和企业可视化需求。通过将 JSON 数据集转换为 SVGZ，组织可以跨平台提供轻量级、交互式和可伸缩的视觉效果。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **可伸缩图表** – 生成保持清晰度的压缩图表，适用于任何分辨率。
+- **交互式仪表盘** – 使用轻量级的 SVGZ 图形为数据驱动的仪表盘提供支持。
+- **基于 JSON 的矢量图** – 将结构化数据转换为具有最小存储开销的图表。
+- **移动优化图形** – 为响应式应用和网站提供更快加载的视觉效果。
+- **企业可视化系统** – 在企业工作流程中标准化可伸缩图形。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 SVGZ 管道** – 自动化将数据转换为压缩矢量文件。
+- **自动化图表压缩** – 在不损失质量的情况下减小大型可视化的大小。
+- **基于 JSON 的矢量渲染** – 从结构化数据集创建动态视觉效果。
+- **跨平台图形工作流程** – 确保桌面、移动和云平台上的一致、可伸缩的视觉效果。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

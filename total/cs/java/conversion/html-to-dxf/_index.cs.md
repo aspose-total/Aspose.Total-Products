@@ -57,7 +57,29 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}  
+Převod **HTML na DXF** je zásadní pro generování **CAD kompatibilních výkresů** z webových diagramů. DXF zajišťuje, že technické ilustrace, schémata a návrhy z obsahu HTML jsou plně kompatibilní s CAD softwarem, umožňující přesné inženýrské práce, plánování architektury a výrobní postupy. Převodem HTML diagramů na DXF mohou organizace zjednodušit návrhové procesy a udržet vysokou věrnost při transformacích digitálního obsahu na CAD.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové Použití" %}}  
+- **Architektonické postupy** – Přeměňte webové podlahové plány a diagramy na soubory připravené pro CAD.  
+- **Inženýrské diagramy** – Převeďte schématické ilustrace do editovatelných CAD formátů.  
+- **Výrobní procesy** – Integrujte procesní diagramy do systémů připravených pro výrobu v CAD.  
+- **Integrace 3D modelování** – Použijte HTML založené rozložení jako základ pro 3D návrhy.  
+- **Technická dokumentace** – Udržujte konzistentní, standardizované vizuály návrhu napříč platformami.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační Scénáře" %}}  
+- **Potrubí HTML na DXF** – Automatizujte převod webových diagramů do CAD kompatibilních souborů DXF.  
+- **Automatizovaná generace diagramů do CAD** – Zjednodušte pracovní postup od obsahu HTML k editovatelným CAD výkresům.  
+- **Hromadná technická konverze souborů** – Efektivně zpracujte více diagramů pro projekty na úrovni podniku.  
+- **Automatizace návrhu na úrovni podniku** – Integrujte převod HTML na DXF do rozsáhlých inženýrských pracovních postupů.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

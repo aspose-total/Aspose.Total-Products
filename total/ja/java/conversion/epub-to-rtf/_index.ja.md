@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをRTFに変換することは、デジタル出版物からリッチテキスト文書を生成するために不可欠です。RTFファイルは、プラットフォーム間の互換性を確保し、簡単な編集を可能にし、メタデータ豊富なワークフローをサポートします。EPUBをRTFに変換することで、組織や出版社は文書の編集を効率化し、アクセシビリティを向上させ、研究、教育、出版のための軽量かつ構造化されたフォーマットを維持できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- **クロスプラットフォーム出版** – ユニバーサルにサポートされるRTF形式で電子書籍コンテンツを共有します。
+- **電子書籍メタデータのアーカイブ** – 編集可能なリッチテキストファイルに構造化された出版データを保存します。
+- **軽量な研究文書** – 学術および機関利用のために管理しやすいファイルを作成します。
+- **教育資料の配布** – 編集可能な形式でコンテンツを学生や教師に提供します。
+- **コンテンツ編集ワークフロー** – 編集が容易なドキュメントで編集プロセスを簡素化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからRTFへのパイプライン** – 電子書籍からRTF文書へのシームレスな変換を自動化します。
+- **自動リッチテキスト変換** – RTF出力でデジタル出版ワークフローを標準化します。
+- **一括出版ワークフロー** – 大量のEPUBファイルを編集可能な形式に変換します。
+- **ドキュメントの携帯性自動化** – コンテンツが複数のプラットフォームでアクセス可能で編集可能であることを保証します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

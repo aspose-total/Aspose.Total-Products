@@ -49,7 +49,33 @@ otherformats: EPUB RTF DOTX WORDML DOCM OTT ODT PCL DOC FLATOPC PS MOBI DOT WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 DOCM** 对于将结构化数据生成的 Word 文档中嵌入 **宏** 是很重要的。这个过程使组织能够在 Word 中将原始数据集与强大的自动化功能相结合，实现动态内容生成、业务规则执行和交互式文档功能。通过将 JSON 转换为 DOCM 文件，企业可以简化工作流程，增强报告功能，并构建能够适应不断变化的数据需求的宏启用模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **自动化文档工作流程** – 使用嵌入的宏推动可重复使用的文档创建。
+- **数据分析脚本** – 集成基于 JSON 的宏以进行实时计算和处理。
+- **宏启用模板** – 为企业文档构建可重用的智能模板。
+- **企业报告系统** – 生成具有自动格式设置和分析功能的报告。
+- **交互式合规表单** – 提供具有宏启用验证和处理规则的表单。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 DOCM 管道** – 自动化将结构化数据集转换为宏启用的 Word 文件。
+- **自动触发的 Word 宏** – 在文档生成期间或之后动态执行宏。
+- **动态业务规则处理** – 在文档内直接应用企业政策和数据规则。
+- **宏启用的报告自动化** – 在规模上标准化和加速复杂的报告工作流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

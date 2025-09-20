@@ -47,7 +47,27 @@ otherformats: ODS XLSM XLT MD TSV XLTM XLAM FODS XLSB SXC XLTX TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **EPUB เป็น XLAM (Excel Add-in)** เป็นสิ่งจำเป็นสำหรับสร้าง **ส่วนขยาย Excel ที่พร้อมใช้งานด้วยการอัตโนมัติ** จาก eBook ไฟล์ XLAM ช่วยให้องค์กรสามารถรวมข้อมูลและแมโครที่ได้จาก eBook โดยตรงเข้ากับ Excel ซึ่งช่วยให้สามารถทำการอัตโนมัติขั้นสูง การทำงานทางธุรกิจที่มีประสิทธิภาพ และรายงานที่ปรับแต่งเองได้ โดยการแปลง EPUB เป็น XLAM นักวิเคราะห์และองค์กรสามารถปรับปรุงงานที่ซ้ำซาก เสริมสร้างการตัดสินใจ และใช้งานโซลูชันสเกลเบิลบนสเปรดชีทได้  
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- **การอัตโนมัติการวิเคราะห์ข้อมูล** – แปลงเนื้อหา eBook เป็นเครื่องมืออัตโนมัติที่ใช้งานบน Excel  
+- **การจำลองการเงิน** – รวมข้อมูลจากการตีพิมพ์เข้ากับแบบจำลองการเงินที่เปิดใช้งานแมโคร  
+- **การทำงานของไบโอที่มีประสิทธิภาพ** – เสริมสร้างกระบวนการไบโอที่มี Excel ที่ได้จาก eBook  
+- **ระบบรายงานที่ปรับแต่งเอง** – สร้างรายงานแบบไดนามิกโดยใช้ Excel add-ins อัตโนมัติ  
+- **ส่วนขยายสเปรดชีทขององค์กร** – ขยายสเปรดชีทขององค์กรด้วยแมโครที่ขับเคลื่อนด้วยเนื้อหา  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+- **กระแสงาน EPUB ไปเป็น XLAM** – อัตโนมัติการสร้าง Excel add-ins จากการตีพิมพ์ดิจิตอล  
+- **การสร้าง Excel add-in อัตโนมัติ** – ผลิตส่วนขยายที่เปิดใช้งานแมโครอย่างมีประสิทธิภาพในขนาดใหญ่  
+- **การรวมการทำงานไบโอเป็นกลุ่ม** – รวมชุดข้อมูล eBook หลายชุดเข้ากับระบบไบโอขององค์กร  
+- **การอัตโนมัติข้อมูลในระดับองค์กร** – ปรับปรุงกระบวนการอัตโนมัติสเปรดชีทในขนาดใหญ่โดยใช้เครื่องมือ XLAM  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

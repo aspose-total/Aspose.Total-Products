@@ -57,7 +57,29 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 DICOM으로 변환**은 디지털 출판물을 **의료 영상 호환 파일**로 변환하는 혁신적인 방법입니다. 이 프로세스를 통해 의료 전문가, 연구자 및 교육자들은 구조화된 eBook 콘텐츠를 DICOM 형식으로 포함시켜 의료 영상 시스템 내에서 접근할 수 있게 됩니다. 텍스트 기반 자료를 영상 작업 흐름에 통합함으로써 병원과 기관은 교육을 강화하고 준수를 개선하며 임상 문서 작성을 간소화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **의료 교육용 eBook** – 공부 자료를 영상 플랫폼과 호환되는 형식으로 변환합니다.
+- **임상 연구 문서화** – 연구 출판물을 DICOM 시스템 내에 저장하고 표준화합니다.
+- **방사선학 교육 콘텐츠** – 텍스트를 영상 작업 흐름에 통합하여 교육 자료를 강화합니다.
+- **병원 데이터 아카이빙** – 환자 영상 기록과 함께 출판 자료를 유지합니다.
+- **의료 규정 준수 작업 흐름** – 의료 출판물이 표준화된 디지털 형식을 따르도록 보장합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-DICOM 파이프라인** – 확장 가능한 의료 데이터 작업 흐름을 자동화합니다.
+- **자동 의료 출판물 변환** – eBook을 즉시 DICOM 호환 자원으로 변환합니다.
+- **의료용 E-러닝 통합** – 교육 플랫폼 내에서 대화식 의료 콘텐츠를 제공합니다.
+- **연구 데이터셋 표준화** – 임상 및 연구 문서를 균일한 DICOM 데이터셋으로 변환합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

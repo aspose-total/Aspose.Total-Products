@@ -47,7 +47,29 @@ EPUB 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 XLT로 변환**하는 것은 eBook 및 디지털 출판물을 **Excel 템플릿 파일**로 변환하여 표준화된, 재사용 가능하고 일관된 데이터 구조를 보장하는 데 매우 가치가 있습니다. 출판 콘텐츠나 메타데이터에서 Excel 템플릿을 생성함으로써 조직, 도서관 및 출판사는 카탈로그 작성을 간소화하고 보고서 작성을 간소화하며 교육 및 기업 업무 흐름 전반에 걸쳐 일관성을 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **표준화된 콘텐츠 보고** - 출판 데이터용 균일한 보고서 템플릿 생성.
+- **도서관 카탈로그 템플릿** - 책 컬렉션 관리용 구조화된 템플릿 작성.
+- **교육 자료 템플릿** - 학술 자료용 재사용 가능한 Excel 형식 제공.
+- **메타데이터 기반 템플릿** - eBook 메타데이터를 사용 가능한 템플릿으로 변환.
+- **출판 업무 일관성** - 출판 팀 전반에 걸쳐 표준화된 프로세스 유지.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-XLT 워크플로우** - 디지털 출판 데이터로부터 템플릿 생성 자동화.
+- **자동화된 Excel 템플릿 생성** - 대규모로 재사용 가능한 템플릿 생성.
+- **재사용 가능한 카탈로그 템플릿** - 도서관 및 아카이브 시스템용 반복 가능한 형식 작성.
+- **기관 출판 자동화** - 기업 출판 환경에서 템플릿 사용 표준화.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

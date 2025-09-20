@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 PCL（打印机命令语言）** 对于从数字出版物生成 **适用于打印的文档** 至关重要。PCL 确保精确的格式设置、高质量的打印以及与企业级打印机的兼容性。通过将 EPUB 转换为 PCL，出版商、学术机构和企业可以简化高容量打印、支持按需图书制作，并自动化专业的打印工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **高容量出版** – 为专业打印准备大量电子书。
+- **书店印刷** – 为零售分发生成适用于打印的格式。
+- **按需打印工作流** – 从数字内容库实现即时打印。
+- **学术资料分发** – 高效生产教科书、讲义和研究资料。
+- **企业打印自动化** – 为企业和机构需求标准化文档输出。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 PCL 管道** – 自动化电子书转换为打印机兼容文件。
+- **自动化打印作业生成** – 简化高容量和按需打印流程。
+- **出版社打印工作流** – 将 PCL 转换集成到编辑和生产流程中。
+- **批量电子书到打印机自动化** – 高效管理大规模数字到打印的转换。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

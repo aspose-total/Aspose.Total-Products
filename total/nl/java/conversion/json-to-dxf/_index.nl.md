@@ -49,7 +49,33 @@ Met behulp van de API kunt u JSON ook converteren naar DXF met watermerk in uw D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **JSON naar DXF (Drawing Exchange Format)** is essentieel voor het genereren van **CAD-tekeningen** uit gestructureerde gegevenssets. DXF is een veelgebruikt formaat in architectuur, engineering, industrieel ontwerp en GIS-toepassingen, waardoor het ideaal is voor het omzetten van op JSON gebaseerde gegevens in nauwkeurige, bewerkbare technische tekeningen. Deze conversie maakt naadloze gegevens-naar-ontwerp workflows mogelijk, verbetert de interoperabiliteit tussen CAD-systemen en ondersteunt automatisering in moderne ontwerpprocessen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+- **Architectuurlay-outs** – Zet gebouwgegevens om in bewerkbare CAD-plattegronden.
+- **Engineeringmodellen** – Genereer structurele en mechanische ontwerpen vanuit JSON-invoer.
+- **JSON-gestuurde CAD-automatisering** – Stroomlijn CAD-workflows door gestructureerde gegevens om te zetten.
+- **Workflows voor industrieel ontwerp** – Maak nauwkeurige product- en componenttekeningen van JSON-gegevens.
+- **GIS-mapping** – Zet geospatiale gegevens om in DXF voor stadsplanning en infrastructuurprojecten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+- **JSON-naar-DXF-pijplijnen** – Automatiseer de transformatie van gestructureerde gegevens naar CAD-gereed tekeningen.
+- **Geautomatiseerde generatie van CAD-tekeningen** – Maak technische diagrammen rechtstreeks vanuit JSON-datasets.
+- **Gegevens-naar-ontwerp workflows** – Maak naadloze integratie van gestructureerde gegevens in CAD-toepassingen mogelijk.
+- **Slimme infrastructuurmodellering** – Voed moderne infrastructuur- en kaartsystemen met op JSON gebaseerde DXF-uitvoer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,29 @@ EPUBファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをXLTに変換することは、電子書籍やデジタル出版物をExcelテンプレートファイルに変換するために非常に価値があります。これにより、標準化され、再利用可能で一貫したデータ構造が確保されます。出版コンテンツやメタデータからExcelテンプレートを生成することで、組織、図書館、出版社はカタログ作成を簡素化し、レポート作成を効率化し、教育および企業のワークフロー全体で一貫性を維持することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **標準化されたコンテンツレポート** – 出版データのための一貫したレポートテンプレートを作成します。
+- **図書館カタログテンプレート** – 書籍コレクションを管理するための構造化されたテンプレートを作成します。
+- **教育資料テンプレート** – 学術資料用の再利用可能なExcel形式を提供します。
+- **メタデータベースのテンプレート** – 電子書籍のメタデータを即座に使用可能なテンプレートに変換します。
+- **出版ワークフローの一貫性** – 出版チーム全体で標準化されたプロセスを維持します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからXLTへのワークフロー** – デジタル出版データからのテンプレート作成を自動化します。
+- **自動化されたExcelテンプレート作成** – 大規模な再利用可能なテンプレートを生成します。
+- **再利用可能なカタログテンプレート** – 図書館やアーカイブシステム向けの繰り返し可能なフォーマットを作成します。
+- **機関出版の自動化** – 企業出版環境でのテンプレート使用を標準化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

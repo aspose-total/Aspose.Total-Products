@@ -57,7 +57,33 @@ Pomocí API můžete také otočit výstupní obrázek PSD podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **HTML na PSD (Photoshop Document)** je zásadní pro generování **vrstvených grafických souborů** z webových stránek. Soubory PSD uchovávají vrstvy, text a designové prvky, což umožňuje designérům efektivně upravovat, přizpůsobovat a znovu využívat obsah webových stránek. Transformací HTML na PSD mohou organizace optimalizovat pracovní postupy UI/UX, vytvářet kvalitní marketingové materiály a zachovat flexibilitu pro redesign webových stránek a digitálních designových projektů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **UI/UX design** – Extrahovat rozložení webových stránek do editovatelných vrstev PSD pro rychlé prototypování a iterace designu.
+- **Pracovní postupy pro redesign webových stránek** – Převést existující stránky do vrstvených souborů pro usnadnění aktualizací nebo redesignů.
+- **Marketingové kreativy** – Vytvářet bannery, vizuální prvky pro sociální média a grafiku kampaní z obsahu webových stránek.
+- **Digitální mockupy** – Vytvářet realistické mockupy produktů nebo webových stránek pro prezentace a schválení klienty.
+- **Designové prvky pro elektronický obchod** – Znovu využít sekce webových stránek pro stránky produktů, propagační obrázky a katalogy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí HTML na PSD** – Automatizovat převod webových stránek do vrstvených souborů Photoshopu.
+- **Automatizovaná generace vrstvené grafiky** – Vytvářet soubory PSD s editovatelnými vrstvami konzistentně napříč projekty.
+- **Hromadné pracovní postupy pro kreativní práci** – Převádět současně více webových stránek pro velké marketingové nebo designové kampaně.
+- **Automatizace designu na úrovni podniku** – Integrovat generaci PSD do pracovních postupů organizace pro design a produkci obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

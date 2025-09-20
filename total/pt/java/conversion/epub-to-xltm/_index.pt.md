@@ -47,7 +47,29 @@ Ao converter o arquivo EPUB para XLTM, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para XLTM** é essencial para gerar **modelos de Excel habilitados para macro** que transformam os dados de eBooks em formatos reutilizáveis, automatizados e inteligentes. Com macros incorporadas nos modelos, organizações, pesquisadores e editores podem otimizar o manuseio de dados, padronizar relatórios e habilitar fluxos de trabalho interativos entre departamentos. Isso garante eficiência, consistência e escalabilidade na gestão de dados de publicações digitais.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Fluxos de trabalho de publicação automatizados** – Construa modelos reutilizáveis que simplifiquem tarefas editoriais e de produção.
+- **Modelos de conjuntos de dados acadêmicos** – Permita que pesquisadores criem ferramentas de análise estruturadas e orientadas por macros.
+- **Inteligência empresarial com macros** – Modelos prontos para Power BI para modelagem e visualização de dados.
+- **Relatórios de metadados** – Converta metadados de publicação em modelos inteligentes de relatórios.
+- **Modelos interdepartamentais** – Padronize fluxos de trabalho entre unidades organizacionais.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Tubulações de modelos EPUB-para-XLTM** – Automatize a geração de modelos habilitados para macro.
+- **Distribuição automatizada de modelos de Excel habilitados para macro** – Entregue arquivos XLTM entre equipes de forma transparente.
+- **Padronização de dados de publicação** – Garanta consistência nos fluxos de trabalho de publicação orientados por modelos.
+- **Automação de modelos empresariais** – Integre modelos XLTM nos ecossistemas de dados corporativos.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

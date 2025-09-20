@@ -59,7 +59,29 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをPPT（PowerPointプレゼンテーション）に変換することは、デジタル出版物から編集可能なプレゼンテーションファイルを生成するために不可欠です。PPTファイルにより、電子書籍コンテンツを完全にカスタマイズ可能なスライドに変換し、教育者、研究者、企業が効率的にプロフェッショナルなプレゼンテーションを作成できるようになります。EPUBをPPTに変換することで、組織はスライド作成を効率化し、コンテンツの一貫性を維持し、知識共有のワークフローを向上させることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+- **学術スライド** – 教科書の章を構造化された編集可能な講義プレゼンテーションに変換します。
+- **企業向けデッキ** – 業界の出版物やレポートからビジネスプレゼンテーションを生成します。
+- **研究プレゼンテーション** – 学会やセミナー用のプロフェッショナルなスライドを作成します。
+- **出版社資料** – マーケティングやプロモーション用のデッキに電子書籍コンテンツを再利用します。
+- **教育トレーニングセッション** – ワークショップやeラーニングプログラム用の指導スライドを作成します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからPPTへのパイプライン** – 電子書籍をPowerPointスライドに自動変換します。
+- **自動化されたスライドデッキの作成** – 複数の出版物から編集可能なプレゼンテーションを迅速に生成します。
+- **大量の出版物をPPTに変換** – 大量の電子書籍をスライドデッキに効率的に変換します。
+- **企業向けプレゼンテーションの自動化** – PPT生成を組織の知識共有やトレーニングワークフローに統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

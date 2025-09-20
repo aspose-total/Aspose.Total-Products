@@ -49,7 +49,33 @@ Pomocí API můžete také analyzovat JSON na ODT s vodoznakem. Chcete-li do dok
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **JSON na ODT** je zásadní pro generování **souborů s textem ve formátu OpenDocument** ze strukturovaných datových sad. ODT, původní formát pro LibreOffice a OpenOffice, zajišťuje dlouhodobou dostupnost, kompatibilitu se zdrojovým kódem a interoperabilitu mezi platformami. Transformací JSON na ODT mohou organizace automatizovat tvorbu profesionálních textových dokumentů s datovou podporou bez ruční úpravy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Vládní dokumenty** – Vytvářejte dodržující, standardizované dokumenty pro veřejnou správu.
+- **Pracovní postupy s otevřeným zdrojovým kódem** – Integrujte data JSON s prostředími LibreOffice a Apache OpenOffice.
+- **Akademické práce** – Generujte výzkumné zprávy a publikace ze strukturovaných datových sad.
+- **Obchodní smlouvy** – Automatizujte tvorbu návrhů smluv a smluv záznamy JSON.
+- **Datově řízené dopisy** – Vytvářejte personalizovanou, strukturovanou korespondenci ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON na ODT** – Automatizujte transformaci strukturovaných dat do upravitelných dokumentů ODT.
+- **Automatizovaná generace ODT** – Snížení ruční námahy produkcí připravených k použití textových souborů přímo z JSON.
+- **Standardizace JSON na OpenDocument** – Zajistěte soulad s otevřenými standardy pro sdílení dokumentů.
+- **Pracovní postupy dokumentace mezi platformami** – Umožněte plynulou interoperabilitu napříč podnikovými a akademickými systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

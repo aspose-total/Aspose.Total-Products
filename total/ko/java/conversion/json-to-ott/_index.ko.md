@@ -49,7 +49,33 @@ API를 사용하여 워터마크를 사용하여 JSON을 OTT으로 구문 분석
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+JSON을 OTT로 변환하는 것은 구조화된 데이터셋에서 텍스트 문서 템플릿을 생성하는 데 필수적입니다. OTT(OpenDocument Text Template) 형식은 LibreOffice 및 OpenOffice와 같은 오픈 소스 오피스 스위트에서 재사용 가능하고 편집 가능한 템플릿을 생성하는 표준화된 방법을 제공합니다. JSON을 OTT로 변환함으로써 조직은 다양한 워크플로우에서 문서 생성에서 일관성, 규정 준수 및 자동화를 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- 정부 문서 프레임워크 - 공식 사용을 위한 표준화된 양식 및 보고서 생성.
+- 법적 템플릿 - 계약, 합의 및 규정 준수 형식 자동화.
+- 비즈니스 편지 - 기업 간 통신에서 일관성 유지.
+- 교육 보고서 - 연구 및 과제용 학술 문서 템플릿 생성.
+- 오픈 소스 오피스 통합 - 오픈 소스 환경에서 JSON 기반 템플릿을 원활하게 사용.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- JSON-to-OTT 파이프라인 - 구조화된 JSON 데이터셋에서 템플릿 생성 자동화.
+- 자동화된 템플릿 워크플로우 - 부서 간 수동 서식 지정 작업 감소.
+- JSON 기반 문서 생성 - 기업 보고 및 규정 준수에서 일관성 강화.
+- 기업용 템플릿 배포 - 글로벌 팀 간 문서 템플릿 표준화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

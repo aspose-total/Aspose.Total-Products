@@ -47,7 +47,29 @@ EPUB dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize filig
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB**'ı **TSV'ye** dönüştürmek, e-kitaplar ve dijital içeriklerden **sekmeyle ayrılmış veri kümeleri** oluşturmak için verimli bir yöntemdir. TSV dosyaları, yapılandırılmış veri alışverişi için geniş bir şekilde kullanılmakta olup basitlik, okunabilirlik ve akademik, kurumsal ve kurumsal sistemlerle uyumluluk sunmaktadır. E-kitap içeriğini TSV formatına çıkarmak, yayıncıların, araştırmacıların ve kuruluşların veri paylaşımını hızlandırmalarına, etkileşimliliği artırmalarına ve çok dilli meta verileri kolaylıkla sürdürmelerine olanak tanır.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+- **Akademik veri seti paylaşımı** – Yapılandırılmış araştırma verilerini evrensel olarak uyumlu bir formatta dağıtın.
+- **Çok dilli meta veri dışa aktarımları** – Dil özgü yayın detaylarını TSV dosyalarında koruyun.
+- **Yayınevi iş akışları** – Editöryel ve üretim ekipleri için tablo verilerini standartlaştırın.
+- **Kurumsal veri alışverişi** – Bölümler ve kuruluşlar arasında veri paylaşımını kolaylaştırın.
+- **Araştırma etkileşimliliği** – Kolayca değiştirilebilir veri kümeleri ile işbirlikçi çalışmaları destekleyin.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- **EPUB'ten-TSV'ye boruları** – Ölçekte e-kitap verilerini veri kümesine otomatik olarak dönüştürün.
+- **Otomatik veri kümesi dönüşümü** – Yayın verilerini anında TSV formatına dönüştürün.
+- **Meta veriden-TSV yayıncılığı** – Yayın meta verilerini yapılandırılmış, sekmeyle ayrılmış değerlere dönüştürün.
+- **Kurumsal düzey veri entegrasyonu** – TSV veri kümelerini büyük ölçekli raporlama ve araştırma platformlarına entegre edin.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

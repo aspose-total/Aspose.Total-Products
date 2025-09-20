@@ -47,7 +47,29 @@ Saat mengonversi file EPUB ke FODS, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke FODS (Lembar Data Spreadsheet XML Datar ODS)** sangat penting untuk menghasilkan **file spreadsheet standar terbuka** dari eBook dan publikasi digital. FODS memastikan kompatibilitas dengan paket aplikasi kantor sumber terbuka, mendukung format XML terstruktur, dan memungkinkan berbagi data tanpa hambatan. Dengan mengubah EPUB menjadi FODS, penerbit, peneliti, dan lembaga dapat membuat metadata dalam bentuk tabel, menyederhanakan pengkatalogan, dan berbagi dataset penelitian dalam format yang dapat diakses secara universal.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Tabulasi metadata** – Mengonversi metadata eBook menjadi tabel spreadsheet terstruktur.
+- **Pengumpulan data penelitian** – Mengekstrak dan mengorganisir data akademik dari publikasi digital.
+- **Alur kerja penerbitan sumber terbuka** – Gunakan FODS dengan LibreOffice dan platform sumber terbuka lainnya.
+- **Catatan katalog perpustakaan** – Mengelola data bibliografi dalam spreadsheet standar terbuka.
+- **Berbagi dataset akademik** – Mendistribusikan dataset terstruktur untuk kolaborasi dan analisis.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa EPUB-ke-FODS** – Otomatisasi konversi publikasi digital menjadi lembar data spreadsheet FODS.
+- **Generasi spreadsheet otomatis** – Menyederhanakan pemrosesan data penerbitan dan penelitian.
+- **Ekstraksi dataset yang didorong XML** – Mengonversi konten eBook menjadi spreadsheet terstruktur yang dapat dibaca mesin.
+- **Alur kerja penerbitan akademik perusahaan** – Standarisasi penanganan data penelitian di seluruh lembaga.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

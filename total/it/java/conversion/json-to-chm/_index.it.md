@@ -49,7 +49,33 @@ Utilizzando l'API, puoi anche analizzare JSON in CHM con filigrana. Per aggiunge
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **JSON in CHM (Compiled HTML Help)** è essenziale per la creazione di **manuali di aiuto compilati** direttamente dalla documentazione strutturata. I file CHM combinano vari argomenti di aiuto in una risorsa unica, ricercabile e accessibile offline, rendendoli ideali per il supporto software e la gestione della conoscenza aziendale. Trasformando JSON in CHM, le organizzazioni possono ottimizzare la distribuzione della documentazione, migliorare l'usabilità e garantire l'accessibilità anche in assenza di connessione internet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+- **Documentazione software** – Raggruppare guide tecniche in un formato compilato e user-friendly.
+- **Sistemi di aiuto offline** – Distribuire documentazione senza richiedere accesso a internet.
+- **Basi di conoscenza aziendali** – Centralizzare la conoscenza organizzativa in un file di aiuto strutturato.
+- **Manuali di formazione** – Distribuire risorse di apprendimento compilate per il personale o gli studenti.
+- **Riferimenti API per sviluppatori** – Convertire definizioni JSON strutturate in riferimenti offline ricercabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+- **Pipeline JSON-to-CHM** – Automatizzare la conversione di dati strutturati in manuali di aiuto compilati.
+- **Creazione automatica di file di aiuto** – Generare file CHM direttamente da contenuti basati su JSON in evoluzione.
+- **Compilazione dati-documentazione** – Trasformare la documentazione JSON strutturata in sistemi di aiuto accessibili.
+- **Distribuzione di conoscenza offline** – Standardizzare manuali CHM per la formazione e il supporto su scala aziendale.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

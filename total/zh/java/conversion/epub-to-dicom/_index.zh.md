@@ -57,7 +57,29 @@ otherformats: PSD WMF TGA WMZ DXF JPEG2000 DICOM IMAGE SVGZ EMZ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 DICOM** 是一种创新方法，可将数字出版物转换为 **医学成像兼容文件**。这一过程使医疗保健专业人员、研究人员和教育工作者能够将结构化的电子书内容嵌入 DICOM 格式中，从而使其可以在医学成像系统中访问。通过将基于文本的资源与成像工作流程集成，医院和机构可以增强培训、改善合规性，并简化临床文档编制。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **医学培训电子书** – 将学习材料转换为与成像平台兼容的格式。
+- **临床研究文档** – 在 DICOM 系统中存储和标准化研究出版物。
+- **放射学教育内容** – 通过将文本与成像工作流程集成，增强教学资源。
+- **医院数据归档** – 在患者成像记录旁维护出版物数据。
+- **医疗合规工作流程** – 确保医学出版物遵循标准化的数字格式。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 DICOM 管道** – 为可扩展的医疗数据工作流程自动化转换。
+- **自动化医学出版物转换** – 瞬间将电子书转换为 DICOM 兼容资源。
+- **医疗保健的电子学习整合** – 在培训平台内提供交互式医学内容。
+- **研究数据集标准化** – 将临床和研究文档转换为统一的 DICOM 数据集。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

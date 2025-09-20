@@ -47,7 +47,29 @@ EPUBファイルをFODSに変換するときに、出力FODSファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUBをFODS（Flat XML ODSスプレッドシート）に変換**することは、電子書籍やデジタル出版物から**オープン標準のスプレッドシートファイル**を生成するために不可欠です。FODSはオープンソースのオフィススイートとの互換性を確保し、構造化されたXML形式をサポートし、データ共有をシームレスに行うことができます。EPUBをFODSに変換することで、出版社、研究者、機関はメタデータを表にまとめ、カタログ作成を効率化し、研究データセットを普遍的にアクセス可能な形式で共有することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **メタデータの表作成** – 電子書籍のメタデータを構造化されたスプレッドシートに変換します。
+- **研究データの収集** – デジタル出版物から学術データを抽出して整理します。
+- **オープンソースの出版ワークフロー** – LibreOfficeや他のオープンプラットフォームでFODSを使用します。
+- **図書館カタログレコード** – オープン標準のスプレッドシートで書誌データを管理します。
+- **学術データセットの共有** – 構造化されたデータセットを共同作業や分析のために配布します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからFODSへのパイプライン** – デジタル出版物をFODSスプレッドシートに自動変換します。
+- **自動化されたスプレッドシート生成** – 出版や研究データ処理を効率化します。
+- **XML駆動型データセット抽出** – 電子書籍コンテンツを構造化された、機械可読なスプレッドシートに変換します。
+- **企業向け学術出版ワークフロー** – 機関間で研究データの取り扱いを標準化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

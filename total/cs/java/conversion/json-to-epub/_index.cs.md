@@ -49,7 +49,33 @@ Pomocí API můžete také analyzovat JSON na EPUB s vodoznakem. Chcete-li do do
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **JSON na EPUB** je zásadní pro generování **digitálních eBooků** ze strukturovaných datových sad. Soubory EPUB poskytují široce podporovaný, přizpůsobitelný formát pro distribuci znalostí prostřednictvím čteček e-knih, mobilních zařízení a vzdělávacích platforem. Transformací JSONu do formátu EPUB mohou organizace automatizovat publikování obsahu, vytvářet interaktivní výukové materiály a distribuovat standardizované znalostní zdroje v přenosném digitálním formátu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Automatizované publikování** – Převádějte datové sady na připravené digitální eKnihy.
+- **Výukové materiály** – Dodávejte interaktivní, strukturované výukové materiály ve formátu EPUB.
+- **Daty řízené eKnihy** – Generujte dynamické publikace přímo z vstupů JSON.
+- **Výzkumné publikace** – Publikujte akademické poznatky a strukturované výstupy výzkumu jako eKnihy.
+- **Distribuce znalostí v podniku** – Standardizujte interní sdílení znalostí prostřednictvím digitálních knihoven.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON-to-EPUB** – Automatizujte tvorbu eKnih z datových zdrojů.
+- **Generování eKnih v reálném čase** – Vytvářejte aktuální publikace přímo z živých datových zdrojů JSON.
+- **Automatizované publikování výukových materiálů** – Zjednodušte produkci výukových materiálů pro instituce.
+- **Integrace digitální knihovny** – Začleňte do podnikových a akademických repozitářů EPUBy řízené JSONem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

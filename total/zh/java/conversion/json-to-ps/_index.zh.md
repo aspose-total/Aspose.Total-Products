@@ -49,7 +49,33 @@ otherformats: WORD DOTX PS OTT EPUB RTF PCL DOC DOCM FLATOPC ODT WORDML DOT MOBI
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 PS** 对于将 **结构化数据转换为高质量的 PostScript 文件** 以进行高质量打印和发布至关重要。PS 文件提供独立于设备的可伸缩输出，适用于专业打印、企业文档和存档用途。通过将 JSON 转换为 PS，组织可以自动化打印工作流程，保持输出的一致性，并高效生产符合行业标准的出版物。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **高质量印刷出版** – 生成专业的、可伸缩的 PostScript 文件以进行印刷制作。
+- **图形丰富的报告** – 从结构化数据中生成具有准确格式的视觉详细报告。
+- **企业打印工作流** – 标准化跨部门和办公室的批量打印流程。
+- **文档归档** – 为长期存储和合规性创建适用于打印的文件。
+- **工业级输出** – 确保用于制造或技术文档的高分辨率、与打印机兼容的文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 PS 管道** – 自动化将结构化数据转换为 PostScript 文件。
+- **自动化的 PostScript 生成** – 简化打印就绪文档的创建。
+- **打印就绪工作流** – 减少手动格式化和打印准备工作。
+- **基于 JSON 的出版自动化** – 高效地将结构化数据集成到专业打印和发布工作流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

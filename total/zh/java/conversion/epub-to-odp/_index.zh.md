@@ -59,7 +59,29 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 ODP（OpenDocument Presentation）** 对于从数字出版物生成 **演示文稿幻灯片** 是至关重要的。ODP 文件提供了一种多功能的、开放标准的格式，可从电子书内容创建引人入胜的幻灯片。通过将 EPUB 转换为 ODP，教育工作者、企业和出版商可以高效地重新利用数字内容用于讲座、会议、培训课程和营销演示。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- **教育讲座幻灯片** – 将电子书章节转换为结构化的课堂演示文稿。
+- **商业演示文稿** – 从公司或行业出版物生成专业幻灯片。
+- **研究论文摘要** – 将学术内容总结为视觉吸引力的幻灯片。
+- **出版社营销幻灯片** – 从书籍内容创建推广演示文稿。
+- **培训材料分发** – 将学习内容打包成可立即使用的幻灯片用于研讨会。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 ODP 管道** – 自动化将数字出版物转换为幻灯片。
+- **自动化生成演示文稿** – 从电子书内容快速生成 ODP 文件。
+- **批量电子书转幻灯片转换** – 大规模处理多个出版物转为演示文稿。
+- **企业知识共享工作流** – 简化教育和培训材料的分发。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

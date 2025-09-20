@@ -47,7 +47,27 @@ Ao converter o arquivo EPUB para XLSM, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para XLSM** é crucial para transformar publicações digitais em **pastas de trabalho Excel habilitadas para macro**, permitindo automação avançada, interatividade e manipulação de dados dinâmicos. Ao incorporar macros nos dados extraídos do eBook, organizações e pesquisadores podem otimizar fluxos de trabalho, gerar painéis interativos e construir sistemas de relatórios automatizados adaptados às suas necessidades.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Relatórios automatizados** – Gerar relatórios com macros diretamente a partir dos dados de publicação.
+- **Painéis interativos** – Criar painéis dinâmicos para insights em tempo real.
+- **Modelos de dados personalizados** – Desenvolver modelos personalizados alimentados por macros do Excel.
+- **Análise acadêmica com macros** – Possibilitar fluxos de trabalho avançados de pesquisa a partir do conteúdo do eBook.
+- **Fluxos de trabalho de publicação com automação** – Otimizar processos editoriais e de produção.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de conversão EPUB para XLSM** – Automatizar a conversão estruturada em arquivos habilitados para macro.
+- **Distribuição automatizada de pastas de trabalho habilitadas para macro** – Entregar relatórios XLSM em escala.
+- **Relatórios orientados por metadados** – Extrair metadados de publicação em relatórios Excel acionáveis.
+- **Automação de publicação empresarial** – Integrar o Excel habilitado para macro em sistemas de publicação em larga escala.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

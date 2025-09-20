@@ -47,7 +47,29 @@ otherformats: MD XLSM XLTX XLTM TSV ODS XLSB DIF SXC TXT EXCEL FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **EPUB เป็น XLSM** เป็นสิ่งสำคัญสำหรับการแปลงสิ่งพิมพ์ดิจิทัลเป็น **งาน Excel ที่เปิดใช้งานมาโคร**, เพื่อให้สามารถใช้งานอัตโนมัติขั้นสูง, มีความสามารถในการแสดงผล, และการจัดการข้อมูลแบบไดนามิก โดยการฝังมาโครภายในข้อมูล eBook ที่ถูกสกัดออก, องค์กรและนักวิจัยสามารถปรับปรุงการทำงาน, สร้างแดชบอร์ดแบบแอคทีฟ, และสร้างระบบรายงานอัตโนมัติที่เหมาะกับความต้องการของพวกเขา.
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- **รายงานอัตโนมัติ** – สร้างรายงานที่ใช้มาโครโดยตรงจากข้อมูลสิ่งพิมพ์.
+- **แดชบอร์ดแบบแอคทีฟ** – สร้างแดชบอร์ดไดนามิกสำหรับการเข้าใจข้อมูลแบบเรียลไทม์.
+- **โมเดลข้อมูลที่กำหนดเอง** – พัฒนาโมเดลที่กำหนดเองด้วยมาโคร Excel.
+- **การวิเคราะห์ทางวิชาการด้วยมาโคร** – เปิดใช้งานการทำงานที่ขั้นสูงจากเนื้อหา eBook.
+- **กระบวนการการทำงานด้วยอัตโนมัติในการเผยแพร่** – ปรับปรุงกระบวนการบรรณาธิกรรมและการผลิต.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- **ท่อการแปลง EPUB เป็น XLSM** – อัตโนมัติการแปลงโครงสร้างเข้าสู่ไฟล์ที่เปิดใช้งานมาโคร.
+- **การกระจายงาน Excel ที่เปิดใช้งานด้วยมาโครอัตโนมัติ** – ส่งรายงาน XLSM ในขอบเขตที่กำหนด.
+- **รายงานที่ใช้ข้อมูลเมตาดาต้า** – สกัดเอาเมตาดาต้าจากสิ่งพิมพ์เพื่อสร้างรายงาน Excel ที่สามารถใช้งานได้.
+- **การอัตโนมัติในการเผยแพร่ขององค์กร** – รวมมาโคร Excel เข้าสู่ระบบการเผยแพร่ขนาดใหญ่.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

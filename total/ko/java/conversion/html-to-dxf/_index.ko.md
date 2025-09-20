@@ -57,7 +57,29 @@ API를 사용하여 필요에 따라 출력 DXF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTML을 DXF로 변환하는 것**은 웹 기반 다이어그램에서 **CAD 호환 도면**을 생성하는 데 필수적입니다. DXF는 HTML 콘텐츠에서 기술적인 삽화, 구성도 및 디자인 레이아웃이 CAD 소프트웨어와 완벽하게 호환되도록 보장하여 정밀 공학, 건축 계획 및 제조 워크플로우를 가능하게 합니다. HTML 다이어그램을 DXF로 변환함으로써 조직은 디자인 프로세스를 최적화하고 디지턼에서 CAD로의 변환 과정에서 높은 충실도를 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **건축 워크플로우** – 웹 기반 평면도와 다이어그램을 CAD용 파일로 변환합니다.
+- **공학 다이어그램** – 개요 삽화를 편집 가능한 CAD 형식으로 변환합니다.
+- **제조 공정** – 공정 다이어그램을 제조용 CAD 시스템에 통합합니다.
+- **3D 모델링 통합** – 3D 디자인의 기초로 HTML 기반 레이아웃을 사용합니다.
+- **기술 문서** – 플랫폼 간에 일관되고 표준화된 디자인 시각을 유지합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **HTML-to-DXF 파이프라인** – 웹 다이어그램을 CAD 호환 DXF 파일로 자동 변환합니다.
+- **자동 다이어그램-to-CAD 생성** – HTML 콘텐츠에서 편집 가능한 CAD 도면으로의 워크플로우를 간소화합니다.
+- **대량 기술 파일 변환** – 기업 수준 프로젝트용 다이어그램을 효율적으로 처리합니다.
+- **기업 수준 디자인 자동화** – 대규모 공학 워크플로에 HTML-to-DXF 변환을 통합합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

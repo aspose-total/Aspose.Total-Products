@@ -49,7 +49,33 @@ Utilizzando l'API, puoi anche analizzare JSON in DOCM con filigrana. Per aggiung
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **JSON in DOCM** è importante per incorporare **macro nei documenti Word** generati da dati strutturati. Questo processo consente alle organizzazioni di combinare set di dati grezzi con potenti funzionalità di automazione all'interno di Word, consentendo la generazione di contenuti dinamici, l'esecuzione di regole aziendali e la funzionalità interattiva dei documenti. Trasformando i file JSON in file DOCM, le imprese possono ottimizzare i flussi di lavoro, migliorare la creazione di report e creare modelli abilitati alle macro che si adattano alle esigenze di dati in evoluzione.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+- **Flussi di lavoro documentali automatizzati** – Guidare la creazione ripetibile di documenti con macro incorporate.  
+- **Script di analisi dei dati** – Integrare macro basate su JSON per calcoli e processamenti in tempo reale.  
+- **Modelli abilitati alle macro** – Creare modelli intelligenti riutilizzabili per la documentazione aziendale.  
+- **Sistemi di reportistica aziendale** – Generare report con formattazione e analisi automatizzate.  
+- **Moduli interattivi di conformità** – Fornire moduli con regole di convalida e processamento abilitate alle macro.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+- **Pipeline JSON-to-DOCM** – Automatizzare la trasformazione di set di dati strutturati in file Word abilitati alle macro.  
+- **Macro Word attivate automaticamente** – Eseguire macro dinamicamente durante o dopo la generazione del documento.  
+- **Elaborazione dinamica delle regole aziendali** – Applicare direttamente politiche aziendali e regole sui dati all'interno dei documenti.  
+- **Automazione della reportistica abilitata alle macro** – Standardizzare e accelerare i flussi di lavoro di reportistica complessi su larga scala.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

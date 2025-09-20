@@ -49,7 +49,33 @@ otherformats: DOC WORD MOBI RTF DOCM EPUB ODT OTT PS WORDML DOT PCL FLATOPC DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 OTT** 对于从结构化数据集生成 **文本文档模板** 至关重要。OTT，即开放文档文本模板格式，提供了一种标准化的方式，在开源办公套件（如LibreOffice和OpenOffice）中创建可重用、可编辑的模板。通过将JSON转换为OTT，组织确保在多个工作流程中生成文档时的一致性、合规性和自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **政府文件框架** – 创建用于官方用途的标准化表单和报告。
+- **法律模板** – 自动化合同、协议和符合规定的格式。
+- **商业信函** – 保持企业通信的一致性。
+- **教育报告** – 为研究和作业生成学术准备的文档模板。
+- **开源办公集成** – 在开源环境中无缝使用基于JSON的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 OTT 管道** – 从结构化JSON数据集自动化模板创建。
+- **自动化模板工作流程** – 减少部门间的手动格式化工作量。
+- **基于JSON的文档生成** – 强制执行企业报告和合规性的一致性。
+- **企业模板分发** – 在全球团队中标准化文档模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

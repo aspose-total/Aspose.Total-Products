@@ -57,7 +57,31 @@ Usando a API, você também pode girar a imagem JPEG2000 de saída conforme suas
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **HTML para JPEG2000** é crucial para gerar **imagens de alta compressão e alta qualidade** a partir de conteúdo da web. O JPEG2000 preserva a fidelidade visual enquanto reduz significativamente o tamanho dos arquivos, tornando-o ideal para bibliotecas digitais, arquivos de pesquisa e preservação de conteúdo da web. Ao transformar páginas HTML em imagens JPEG2000, as organizações podem armazenar, compartilhar e gerenciar eficientemente grandes volumes de conteúdo visual da web sem comprometer a qualidade.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+- **Bibliotecas digitais** – Armazene e distribua recursos baseados na web em um formato de imagem compacto e de alta qualidade.
+- **Instantâneos da web arquivados** – Preserve versões históricas de sites para conformidade e registro.
+- **Plataformas de eLearning** – Converta lições da web e conteúdo interativo em referências visuais de alta qualidade.
+- **Publicações de pesquisa** – Inclua visuais precisos baseados na web em trabalhos acadêmicos e relatórios.
+- **Preservação de conteúdo da web** – Mantenha a acessibilidade de longo prazo de páginas da web visualmente ricas.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+- **Pipelines HTML para JPEG2000** – Automatize a conversão de páginas da web em imagens de alta compressão.
+- **Geração automatizada de instantâneos de alta qualidade** – Gere imagens consistentes e visualmente precisas para várias páginas.
+- **Fluxos de trabalho de arquivamento em massa** – Processe eficientemente grandes volumes de conteúdo da web para armazenamento ou análise.
+- **Preservação digital em nível empresarial** – Integre a conversão para JPEG2000 em sistemas de arquivamento e publicação em grande escala.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

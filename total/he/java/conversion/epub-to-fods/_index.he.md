@@ -78,7 +78,30 @@ otherformats: SXC XLT CSV MD XLSM XLSB XLTX EXCEL TXT XLAM XLTM TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **EPUB ל־FODS (גיליון נתונים XML שטוח של ODS)** היא חיונית ליצירת **קבצי גליון נתונים בתקן פתוח** מספרי ספרים אלקטרוניים ופרסומים דיגיטליים. FODS מבטיחה תאימות עם חבילות משרד קוד פתוח, תומכת בעיצוב XML מובנה, ומאפשרת שיתוף נתונים חלקי. על ידי המרת EPUB ל־FODS, יצרני ספרים, חוקרים ומוסדות יכולים לטבל נתוני מטה־נתונים, לפשט את תהליכי הקטלוגיזציה, ולשתף קבצי מחקר בפורמט הנגיש באופן אוניברסלי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- **טבילת מטה־נתונים** – המרת מטה־נתונים של ספר אלקטרוני לטבלאות גליון נתונים מובנות.
+- **איסוף נתוני מחקר** – חילוץ וארגון של נתוני אקדמיה מפרסומים דיגיטליים.
+- **תהליכי פרסום בקוד פתוח** – שימוש ב־FODS עם LibreOffice ופלטפורמות פתוחות נוספות.
+- **רשומות קטלוג של ספרייה** – ניהול נתוני ביבליוגרפיה בגליונות נתונים בתקן פתוח.
+- **שיתוף קבצי נתונים אקדמיים** – הפצת קבצי נתונים מובנים לצורך שיתוף פעולה וניתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות מידע מ־EPUB ל־FODS** – אוטומציה של המרת פרסומים דיגיטליים לגליונות נתונים FODS.
+- **ייצור גליונות נתונים אוטומטי** – פשטת תהליכי פרסום ועיבוד נתוני מחקר.
+- **חילוץ קבצי נתונים מובנה ב־XML** – המרת תוכן ספר אלקטרוני לגליונות נתונים מובנים ונגישים למכונה.
+- **תהליכי פרסום אקדמיים בארגוני מוסדות** – תקנה של טיפול בנתוני מחקר בכל המוסדות.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,29 @@ otherformats: DXF  PSD SVGZ EMZ JPEG2000 TGA WMZ WMF IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 APNG** 在增强数字出版方面起着至关重要的作用，将静态电子书转变为 **动画图像预览**。这一过程赋予数字出版物生命力，使其在多个平台上更具吸引力、互动性和视觉吸引力。从电子学习到营销，APNG 预览帮助出版商提供能够吸引注意力的动态体验。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- **互动书籍预览** – 展示数字图书的动画亮点。
+- **动画电子学习内容** – 提供视觉解释，促进学生更好地参与。
+- **丰富的媒体出版** – 添加动态预览以增强叙事和设计。
+- **数字营销创意** – 为促销活动使用动画片段。
+- **跨平台叙事** – 在设备和平台之间无缝共享动画。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 APNG 转换流水线** – 出版商的流程优化。
+- **自动化动画预览生成** – 在规模上即时创建预览。
+- **电子学习平台集成** – 将课程转换为引人入胜的 APNG 片段。
+- **大规模出版自动化** – 为数字图书馆实现批量转换。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengurai JSON ke OTT dengan tanda air. Untuk me
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke OTT** sangat penting untuk menghasilkan **template dokumen teks** dari kumpulan data terstruktur. OTT, format Template Teks OpenDocument, menyediakan cara standar untuk membuat template yang dapat digunakan ulang dan diedit dalam paket aplikasi perkantoran sumber terbuka seperti LibreOffice dan OpenOffice. Dengan mengubah JSON menjadi OTT, organisasi memastikan konsistensi, kepatuhan, dan otomatisasi dalam pembuatan dokumen di berbagai alur kerja.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Kerangka dokumen pemerintah** – Buat formulir dan laporan standar untuk penggunaan resmi.
+- **Template hukum** – Otomatisasikan kontrak, perjanjian, dan format yang siap kepatuhan.
+- **Surat bisnis** – Pertahankan konsistensi dalam korespondensi perusahaan.
+- **Laporan pendidikan** – Hasilkan template dokumen siap akademis untuk penelitian dan tugas.
+- **Integrasi kantor sumber terbuka** – Gunakan template yang didorong JSON dengan lancar di lingkungan sumber terbuka.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa JSON ke OTT** – Otomatisasikan pembuatan template dari kumpulan data JSON terstruktur.
+- **Alur kerja template otomatis** – Kurangi upaya pemformatan manual di seluruh departemen.
+- **Pembuatan dokumen yang didorong JSON** – Terapkan konsistensi dalam pelaporan perusahaan dan kepatuhan.
+- **Distribusi template perusahaan** – Standarisasi template dokumen di seluruh tim global.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

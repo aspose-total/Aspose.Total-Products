@@ -57,7 +57,27 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **HTML sang DICOM** là điều cần thiết để tạo ra **đầu ra tương thích với hình ảnh y học** từ dữ liệu trên web. DICOM đảm bảo rằng hình ảnh lâm sàng và thông tin liên quan đến chăm sóc sức khỏe được chuẩn hóa để tương thích, lưu trữ và tích hợp trên các hệ thống y tế. Bằng cách chuyển nội dung HTML thành DICOM, các nhà cung cấp dịch vụ chăm sóc sức khỏe và nhà nghiên cứu có thể tối ưu hóa quy trình làm việc y tế trong khi duy trì tuân thủ các tiêu chuẩn ngành.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- **Các nền tảng y tế từ xa** – Tích hợp dữ liệu y tế trên web vào các hệ thống tương thích với DICOM.
+- **Tích hợp báo cáo y tế** – Nhúng báo cáo văn bản và hình ảnh vào các định dạng chăm sóc sức khỏe tiêu chuẩn.
+- **Quy trình làm việc y tế** – Cho phép trao đổi dữ liệu bệnh nhân một cách liền mạch qua các phòng ban.
+- **Lưu trữ hình ảnh lâm sàng** – Lưu trữ hình ảnh và nội dung trên web liên quan trong các bộ lưu trữ DICOM.
+- **Tương thích giữa các hệ thống** – Hỗ trợ chia sẻ dữ liệu chuẩn hóa giữa các ứng dụng chăm sóc sức khỏe.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- **Các đường ống HTML-to-DICOM** – Tự động hóa việc chuyển đổi nội dung y tế trên web sang DICOM.
+- **Nhúng báo cáo y tế tự động** – Tích hợp dữ liệu HTML vào quy trình làm việc hình ảnh bệnh nhân.
+- **Chuyển đổi dữ liệu y tế hàng loạt** – Xử lý nhiều báo cáo hoặc trang web một cách hiệu quả theo quy mô.
+- **Quy trình làm việc lâm sàng cấp doanh nghiệp** – Chuẩn hóa việc chuyển đổi HTML sang DICOM trên các tổ chức chăm sóc sức khỏe.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,27 @@ Menggunakan API, Anda juga dapat memutar gambar DXF keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke DXF** penting untuk menghasilkan **file pertukaran gambar yang kompatibel dengan CAD** dari publikasi digital. Proses ini memungkinkan konten teknis, rekayasa, dan arsitektur dalam eBook untuk diubah menjadi format siap CAD, membuat diagram dan ilustrasi lebih mudah diakses untuk alur kerja profesional. Dengan mengekstrak visual terstruktur dari EPUB ke DXF, penerbit, insinyur, dan arsitek dapat mempermudah dokumentasi desain, meningkatkan interoperabilitas, dan meningkatkan kegunaan sumber daya.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Manual teknis dengan diagram** – Mengonversi ilustrasi instruksional menjadi file CAD yang dapat diedit.
+- **Konten eBook rekayasa** – Mengubah sumber daya rekayasa digital menjadi gambar yang kompatibel dengan CAD.
+- **Dokumen referensi arsitektur** – Memanfaatkan desain bangunan dan diagram dari eBook.
+- **Penerbitan sumber daya terkait CAD** – Menyampaikan publikasi teknis dalam format siap DXF.
+- **Alur kerja dokumentasi desain** – Standarisasi dan gunakan kembali diagram di seluruh tim rekayasa.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa konversi EPUB ke DXF** – Otomatisasi alur kerja untuk menghasilkan file siap CAD dalam skala besar.
+- **Ekstraksi ilustrasi teknis otomatis** – Secara instan ekstrak diagram dari eBook ke DXF.
+- **Penerbitan siap CAD** – Berikan insinyur dan arsitek dengan format CAD yang langsung dapat digunakan.
+- **Dokumentasi rekayasa perusahaan** – Integrasi konversi EPUB ke DXF ke dalam sistem dokumentasi berskala besar.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,29 @@ EPUB 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB을 SXC(StarOffice Calc Spreadsheet)로 변환하는 것은 eBook에서 스프레드시트 호환 출력물을 생성하는 데 필수적입니다. SXC 파일은 기존 OpenOffice 및 StarOffice 환경과 호환성을 보장하여 데이터 분석, 보고 및 학술 변환을 원활하게 할 수 있습니다. EPUB을 SXC로 변환함으로써 교육자, 연구자 및 기관은 데이터 세트를 효율적으로 관리하고 워크플로우를 최적화하며 스프레드시트 시스템 간 일관성을 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **기존 데이터 워크플로우** – eBook 데이터를 이전 OpenOffice 및 StarOffice 시스템과 통합합니다.
+- **교육용 데이터 세트** – 교과서와 학습 자료를 구조화된 스프레드시트로 변환합니다.
+- **OpenOffice 기반 보고서** – 오픈 소스 오피스 스위트와 호환되는 보고서를 생성합니다.
+- **학술 변환** – eBook 연구 콘텐츠를 분석 가능한 스프레드시트 형식으로 변환합니다.
+- **부서별 스프레드시트 시스템** – 표준화된 스프레드시트 출력을 사용하여 내부 데이터 관리를 지원합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-SXC 파이프라인** – eBook을 SXC 스프레드시트 파일로 자동 변환합니다.
+- **자동 데이터 추출** – 효율적으로 출판물에서 구조화된 데이터 세트를 추출합니다.
+- **대량 교육용 데이터 세트 생성** – 교실이나 기관을 위해 여러 스프레드시트를 생성합니다.
+- **기업 수준 스프레드시트 통합** – 조직적 데이터 관리 워크플로에 SXC 생성을 통합합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

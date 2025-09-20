@@ -47,7 +47,27 @@ Al convertir un archivo EPUB a FODS, también puede agregar una marca de agua a 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **EPUB a FODS (hojas de cálculo ODS XML plano)** es esencial para generar **archivos de hojas de cálculo de estándar abierto** a partir de libros electrónicos y publicaciones digitales. FODS garantiza la compatibilidad con suites de oficina de código abierto, admite formato XML estructurado y permite compartir datos de forma fluida. Al transformar EPUB en FODS, los editores, investigadores e instituciones pueden tabular metadatos, agilizar la catalogación y compartir conjuntos de datos de investigación en un formato universalmente accesible.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+- **Tabulación de metadatos** – Convertir metadatos de libros electrónicos en tablas de hojas de cálculo estructuradas.
+- **Recopilación de datos de investigación** – Extraer y organizar datos académicos de publicaciones digitales.
+- **Flujos de trabajo de publicación de código abierto** – Utilizar FODS con LibreOffice y otras plataformas abiertas.
+- **Registros de catálogo de biblioteca** – Gestionar datos bibliográficos en hojas de cálculo de estándar abierto.
+- **Compartir conjuntos de datos académicos** – Distribuir conjuntos de datos estructurados para colaboración y análisis.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+- **Tuberías de EPUB a FODS** – Automatizar la conversión de publicaciones digitales en hojas de cálculo FODS.
+- **Generación automatizada de hojas de cálculo** – Agilizar el procesamiento de datos de publicación e investigación.
+- **Extracción de conjuntos de datos impulsada por XML** – Convertir contenido de libros electrónicos en hojas de cálculo estructuradas y legibles por máquina.
+- **Flujos de trabajo de publicación académica empresarial** – Estandarizar el manejo de datos de investigación entre instituciones.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

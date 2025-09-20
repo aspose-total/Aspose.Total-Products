@@ -49,7 +49,29 @@ otherformats: TSV XLSB SXC XLTM MD XLT XLTX FODS ODS XLAM XLSM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 CSV** 是从数字出版物中生成 **轻量级、结构化数据集** 的强大方式。CSV 文件具有通用兼容性，非常适合处理元数据、组织出版物详细信息，并将内容整合到研究或网络平台中。通过将电子书中的结构化数据提取为 CSV 格式，出版商、图书馆和企业可以实现更快的处理、更容易的分析，并在系统间实现无缝互操作性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **元数据管理** – 导出并组织电子书详细信息以进行编目。
+- **学术数据集** – 将出版物转换为结构化数据集以供研究使用。
+- **图书馆记录** – 维护可搜索且轻量级的藏书目录。
+- **研究分析** – 从提取的出版内容中实现数据驱动的洞察。
+- **网络发布集成** – 将 CSV 数据提供给网站、API 或数字存储库。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 CSV 管道** – 自动化转换以实现一致的大规模数据集。
+- **自动化数据集提取** – 立即提取并格式化电子书内容为 CSV。
+- **批量发布元数据导出** – 轻松处理大型数字收藏。
+- **API 就绪的 CSV 生成** – 实现与企业和网络应用的无缝集成。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

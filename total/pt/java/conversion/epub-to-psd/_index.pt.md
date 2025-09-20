@@ -57,7 +57,27 @@ Usando a API, você também pode girar a imagem PSD de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para PSD (Documento Photoshop)** é essencial para gerar **gráficos em camadas editáveis** a partir de publicações digitais. Arquivos PSD mantêm camadas, texto e efeitos, permitindo que designers modifiquem e aprimorem o conteúdo para projetos criativos. Ao transformar EPUB em PSD, editores, profissionais de marketing e educadores podem criar visuais de alta qualidade, manter flexibilidade de design e otimizar fluxos de produção gráfica.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Fluxos de trabalho de design gráfico** – Edite e personalize visuais de eBooks com controle total de camadas.
+- **Materiais de marketing** – Gere gráficos promocionais e anúncios digitais a partir do conteúdo de publicações.
+- **Edição de capas de eBooks** – Personalize e aprimore capas de livros para plataformas impressas ou digitais.
+- **Visuais educacionais** – Crie diagramas interativos, infográficos e materiais de aprendizagem.
+- **Materiais de marca personalizados** – Adapte gráficos de publicações para identidade corporativa e campanhas.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Fluxos de trabalho EPUB-para-PSD automatizados** – Automatize a conversão de conteúdo de eBooks em arquivos do Photoshop em camadas.
+- **Extração automatizada de camadas** – Preserve e separe elementos de design para facilitar a edição.
+- **Geração em massa de ativos criativos** – Produza vários gráficos de forma eficiente a partir de publicações digitais.
+- **Fluxos de trabalho de design em nível empresarial** – Integre a geração de PSD em operações criativas e de publicação em grande escala.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

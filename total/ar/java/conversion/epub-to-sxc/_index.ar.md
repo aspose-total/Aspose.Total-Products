@@ -47,7 +47,29 @@ otherformats: XLTX FODS XLSM XLTM SXC ODS XLSB TXT MD EXCEL TSV XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **EPUB إلى SXC (جدول بيانات StarOffice Calc)** أمر أساسي لإنتاج **مخرجات متوافقة مع جداول البيانات** من الكتب الإلكترونية. تضمن ملفات SXC التوافق مع بيئات OpenOffice وStarOffice القديمة، مما يتيح تحليل البيانات بسهولة وإعداد التقارير وتحويل البيانات الأكاديمية. من خلال تحويل EPUB إلى SXC، يمكن للمدرسين والباحثين والمؤسسات إدارة البيانات بكفاءة، وتبسيط سير العمل، والحفاظ على التوافق عبر أنظمة الجداول البيانية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **سير العمل للبيانات القديمة** – دمج بيانات الكتب الإلكترونية مع أنظمة OpenOffice وStarOffice القديمة.
+- **مجموعات بيانات تعليمية** – تحويل الكتب الدراسية ومواد التعلم إلى جداول بيانات منظمة.
+- **إعداد التقارير بناءً على OpenOffice** – إنشاء تقارير متوافقة مع حزم البرامج المكتبية مفتوحة المصدر.
+- **تحويلات أكاديمية** – تحويل محتوى الأبحاث في الكتب الإلكترونية إلى تنسيقات جداول بيانات يمكن تحليلها.
+- **أنظمة جداول بيانية إدارية** – دعم إدارة البيانات الداخلية باستخدام مخرجات جداول بيانات موحدة.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- **أنابيب تحويل EPUB إلى SXC** – أتمتة تحويل الكتب الإلكترونية إلى ملفات جداول بيانات SXC.
+- **استخراج البيانات التلقائي** – استخراج مجموعات بيانات منشورات منظمة بكفاءة.
+- **إنتاج مجموعات بيانات تعليمية بالجملة** – إنتاج عدة جداول بيانات للفصول الدراسية أو المؤسسات.
+- **تكامل جداول البيانات على مستوى المؤسسة** – تضمين إنتاج SXC في سير العمل الخاص بإدارة البيانات التنظيمية.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

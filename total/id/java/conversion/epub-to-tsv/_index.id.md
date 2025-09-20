@@ -47,7 +47,27 @@ Saat mengonversi file EPUB ke TSV, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke TSV** adalah metode yang efisien untuk menghasilkan **kumpulan data yang dipisahkan tab** dari eBook dan konten digital. File TSV banyak digunakan untuk pertukaran data terstruktur, menawarkan kesederhanaan, kemudahan dibaca, dan kompatibilitas dengan sistem akademis, institusi, dan perusahaan. Dengan mengekstrak konten eBook ke format TSV, penerbit, peneliti, dan organisasi dapat mempermudah berbagi data, meningkatkan interoperabilitas, dan menjaga metadata multibahasa dengan mudah.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Berbagi dataset akademis** – Mendistribusikan data penelitian terstruktur dalam format yang kompatibel secara universal.
+- **Ekspor metadata multibahasa** – Menjaga detail publikasi berbahasa tertentu dalam file TSV.
+- **Alur kerja penerbitan** – Standarisasi data tabular untuk tim editorial dan produksi.
+- **Pertukaran data institusional** – Memfasilitasi berbagi data di antara departemen dan organisasi.
+- **Interoperabilitas penelitian** – Mendukung studi kolaboratif dengan dataset yang mudah ditukar.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja EPUB-ke-TSV** – Otomatisasi alur kerja eBook-ke-kumpulan data dalam skala besar.
+- **Konversi dataset otomatis** – Langsung mengubah data publikasi ke format TSV.
+- **Penerbitan metadata ke TSV** – Mengonversi metadata publikasi menjadi nilai terstruktur yang dipisahkan tab.
+- **Integrasi data tingkat perusahaan** – Mengintegrasikan kumpulan data TSV ke platform pelaporan dan penelitian berskala besar.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

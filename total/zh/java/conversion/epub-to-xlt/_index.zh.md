@@ -49,7 +49,29 @@ otherformats: XLTM XLTX TSV XLSM XLSB FODS XLT EXCEL SXC TXT MD XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 XLT** 对于将电子书和数字出版物转换为 **Excel 模板文件** 非常有价值，可以确保标准化、可重复使用和一致的数据结构。通过从出版内容或元数据生成 Excel 模板，组织、图书馆和出版商可以简化编目、简化报告流程，并在教育和企业工作流程中保持一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- **标准化内容报告** – 为出版数据创建统一的报告模板。
+- **图书馆目录模板** – 构建用于管理图书收藏的结构化模板。
+- **教育资源模板** – 为学术资源提供可重复使用的 Excel 格式。
+- **基于元数据的模板** – 将电子书元数据转换为可立即使用的模板。
+- **出版工作流程一致性** – 在出版团队之间保持标准化流程。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 XLT 工作流程** – 从数字出版数据自动创建模板。
+- **自动化 Excel 模板创建** – 批量生成可重复使用的模板。
+- **可重复使用的目录模板** – 为图书馆和档案系统构建可重复使用的格式。
+- **机构出版自动化** – 在企业出版环境中标准化模板使用。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

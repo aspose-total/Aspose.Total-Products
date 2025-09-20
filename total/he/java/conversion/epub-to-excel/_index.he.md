@@ -78,7 +78,29 @@ otherformats: XLAM XLTM TXT ODS XLT TSV XLSM CSV XLSB FODS SXC XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **EPUB to Excel (XLSX)** הוא דרך יעילה לחליץ **נתונים מובנים מספרי ספרים אלקטרוניים** לגיליונות אלקטרוניים שניתן לנהל בקלות. על ידי המרת פרסומים דיגיטליים לקבצי Excel, ארגונים, חוקרים ומוציאים לאור יכולים לפתוח תובנות, לקצר את תהליכי הקטלוגיזציה ולאפשר דיווח וניתוח מתקדם. קבצי XLSX מספקים פורמט ניתן לעריכה ואוניברסלי התומך בתהליכי עבודה ברמה אקדמית, עסקית ורמת המותג.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- **נתוני מחקר אקדמי** – חלץ תוכן מובנה לניתוח וניהול ציטוטים.
+- **מטא-נתונים לפרסום** – המר פרטי ספר לגיליונות אקסל מתוקנים.
+- **קטלוגיזציה בספרייה** – ארגן אוספים דיגיטליים בפורמטים חיפושיים של Excel.
+- **דיווח עסקי מספרי ספרים אלקטרוניים** – המר נתוני פרסום למודעות עסקיות שימושיות.
+- **ארכוב תוכן** – אחסן מידע על ספרים אלקטרוניים בפורמטים מובנים לטווח ארוך.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות EPUB-to-Excel** – אוטומציה של המרת ספרי ספרים אלקטרוניים למערכות נתונים מובנות.
+- **חילוץ מטא-נתונים אוטומטי** – משוך מידע מרכזי ישירות לתאי Excel.
+- **המרות ספרי ספרים אלקטרוניים ל-Excel בצורת צ'אט** – טפל בהמרות בקניות בגדלים גדולים ביעילות.
+- **אוטומציה ברמת המותג בקטלוגיזציה** – תקן תהליכי קטלוגיזציה ודיווח בכל הארגונים.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -49,7 +49,33 @@ De plus, l'API vous permet de définir des options de mise en page pour votre JS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **JSON en ODT** est essentiel pour générer des fichiers texte **OpenDocument** à partir d'ensembles de données structurées. ODT, le format natif de LibreOffice et OpenOffice, garantit l'accessibilité à long terme, la compatibilité open-source et l'interopérabilité multiplateforme. En transformant le JSON en ODT, les organisations peuvent automatiser la création de documents texte professionnels et basés sur des données sans édition manuelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- **Documents gouvernementaux** – Produire des documents conformes et normalisés pour l'administration publique.
+- **Flux de travail de bureau open-source** – Intégrer des données JSON avec les environnements LibreOffice et Apache OpenOffice.
+- **Articles académiques** – Générer des rapports de recherche et des publications à partir d'ensembles de données structurées.
+- **Contrats commerciaux** – Automatiser la rédaction d'accords et la création de contrats à partir d'enregistrements JSON.
+- **Lettres basées sur les données** – Créer des correspondances personnalisées et structurées à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- **Pipelines JSON vers ODT** – Automatiser la transformation de données structurées en documents ODT modifiables.
+- **Génération ODT automatisée** – Réduire les efforts manuels en produisant des fichiers texte prêts à l'emploi directement à partir du JSON.
+- **Normalisation JSON vers OpenDocument** – Garantir la conformité aux normes ouvertes pour le partage de documents.
+- **Flux de travail de documentation multiplateforme** – Permettre une interopérabilité fluide entre les systèmes d'entreprise et académiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

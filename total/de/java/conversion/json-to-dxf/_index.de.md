@@ -49,7 +49,33 @@ Mit der API können Sie auch JSON in DXF mit Wasserzeichen in Ihrem DXF-Dokument
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Umwandlung von **JSON in DXF (Drawing Exchange Format)** ist entscheidend für die Erzeugung von **CAD-Zeichnungen** aus strukturierten Datensätzen. DXF ist ein weit verbreitetes Format in Architektur, Ingenieurwesen, Industriedesign und GIS-Anwendungen, was es ideal macht, JSON-basierte Daten in präzise, bearbeitbare technische Zeichnungen umzuwandeln. Diese Konvertierung ermöglicht nahtlose Daten-zu-Design-Workflows, verbessert die Interoperabilität zwischen CAD-Systemen und unterstützt die Automatisierung in modernen Designprozessen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+- **Architekturlayouts** – Konvertieren von Gebäudedaten in bearbeitbare CAD-Grundrisse.
+- **Ingenieurmodelle** – Generieren von konstruktiven und mechanischen Entwürfen aus JSON-Eingaben.
+- **JSON-gesteuerte CAD-Automatisierung** – Vereinfachung von CAD-Workflows durch Umwandlung strukturierter Datensätze.
+- **Industriedesign-Workflows** – Erstellen von genauen Produkt- und Komponentenzeichnungen aus JSON-Daten.
+- **GIS-Mapping** – Umwandeln von geografischen Daten in DXF für Stadtplanung und Infrastrukturprojekte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+- **JSON-zu-DXF-Pipelines** – Automatisierung der Umwandlung strukturierter Daten in CAD-bereite Zeichnungen.
+- **Automatisierte CAD-Zeichnungserstellung** – Erstellen von technischen Diagrammen direkt aus JSON-Datensätzen.
+- **Daten-zu-Design-Workflows** – Ermöglichen der nahtlosen Integration strukturierter Daten in CAD-Anwendungen.
+- **Intelligente Infrastrukturmodellierung** – Unterstützung moderner Infrastruktur- und Kartierungssysteme mit JSON-gesteuerten DXF-Ausgaben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

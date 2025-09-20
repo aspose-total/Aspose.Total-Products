@@ -57,7 +57,31 @@ Pomocí API můžete také otočit výstupní obrázek JPEG2000 podle svých pot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **HTML na JPEG2000** je klíčový pro generování **vysoce komprimovaných, vysoce kvalitních obrázků** z obsahu webu. JPEG2000 zachovává vizuální věrnost a zároveň výrazně snižuje velikost souborů, což je ideální pro digitální knihovny, výzkumné archivy a zachování obsahu webu. Transformací HTML stránek na obrázky ve formátu JPEG2000 mohou organizace efektivně ukládat, sdílet a spravovat velké objemy vizuálního obsahu webu bez kompromitace kvality.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Digitální knihovny** – Ukládejte a distribuujte zdroje založené na webu ve formátu kompaktních, vysoce kvalitních obrázků.
+- **Archivace webových snímků** – Zachovejte historické verze webových stránek pro dodržování předpisů a evidence.
+- **eLearningové platformy** – Převeďte webové lekce a interaktivní obsah do vysoce kvalitních vizuálních referencí.
+- **Výzkumné publikace** – Začleňte přesné vizuální prvky založené na webu do akademických prací a zpráv.
+- **Zachování obsahu webu** – Udržujte dlouhodobou dostupnost vizuálně bohatých webových stránek.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí HTML-to-JPEG2000** – Automatizujte převod webových stránek na vysoce komprimované obrázky.
+- **Automatizované generování vysoce kvalitních snímků** – Generujte konzistentní, vizuálně přesné obrázky pro více stránek.
+- **Hromadné archivační pracovní postupy** – Efektivně zpracovávejte velké objemy webového obsahu pro účely ukládání nebo analýzy.
+- **Digitální archivace na úrovni podniku** – Integrujte převod do formátu JPEG2000 do rozsáhlých archivačních a publikačních systémů.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

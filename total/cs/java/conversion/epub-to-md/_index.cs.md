@@ -47,7 +47,29 @@ Při převodu souboru EPUB na MD můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **EPUB na MD (Markdown formát)** je zásadní pro generování **strukturovaného obsahu ve formátu prostého textu** z e-knih a digitálních publikací. Markdown nabízí jednoduchost, čitelnost a širokou podporu ve vývojářských platformách, což ho činí ideálním pro opakované využití a distribuci obsahu. Transformací EPUB na MD mohou vydavatelé, výzkumníci a vývojáři zjednodušit dokumentaci, podpořit spolupráci ve světě open-source a zjednodušit pracovní postupy digitálního vydávání.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- **Technická dokumentace** – Převádějte e-knihy do strukturovaného Markdownu pro dokumentaci vývojářů.
+- **Publikování blogů** – Převedení kapitol z EPUB do lehkých souborů Markdown připravených pro blogy.
+- **Báze znalostí vývojářů** – Vytvářejte společné repozitáře znalostí s obsahem v Markdownu.
+- **Sdílení výzkumných poznámek** – Sdílejte akademické nebo institucionální poznámky ve formátu MD, který je univerzálně čitelný.
+- **Distribuce obsahu open-source** – Publikujte obsah e-knih pro globální spolupráci a opakované využití.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- **Potrubí EPUB-to-MD** – Automatizujte převod e-knih do souborů Markdown.
+- **Automatizované publikování Markdownu** – Synchronizujte výstupy MD se statickými generátory webů a platformami.
+- **Standardizace obsahu pro vývojářské platformy** – Zajistěte konzistenci napříč GitHubem, GitLabem a podobnými nástroji.
+- **Automatizace dokumentace** – Integrujte převod Markdownu do pracovních postupů podnikového vydávání.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

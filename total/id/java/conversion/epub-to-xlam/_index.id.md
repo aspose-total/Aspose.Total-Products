@@ -47,7 +47,29 @@ Saat mengonversi file EPUB ke XLAM, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke XLAM (Excel Add-in)** sangat penting untuk menghasilkan **ekstensi Excel yang siap otomatisasi** dari eBook. File XLAM memungkinkan organisasi untuk mengintegrasikan data dan makro yang berasal dari eBook langsung ke Excel, memungkinkan otomatisasi tingkat lanjut, alur kerja business intelligence, dan pelaporan kustom. Dengan mengubah EPUB menjadi XLAM, analis dan perusahaan dapat mempermudah tugas-tugas yang berulang, meningkatkan pengambilan keputusan, dan menerapkan solusi spreadsheet yang dapat diskalakan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Otomatisasi analisis data** – Mengonversi konten eBook menjadi alat otomatisasi yang didukung oleh Excel.
+- **Model keuangan** – Mengintegrasikan data publikasi ke dalam model keuangan yang diaktifkan makro.
+- **Alur kerja business intelligence** – Meningkatkan alur kerja BI dengan ekstensi Excel yang berasal dari eBook.
+- **Sistem pelaporan kustom** – Menghasilkan laporan dinamis menggunakan add-in Excel otomatis.
+- **Ekstensi spreadsheet perusahaan** – Memperluas spreadsheet perusahaan dengan makro yang didorong oleh konten.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa EPUB-ke-XLAM** – Otomatisasi pembuatan add-in Excel dari publikasi digital.
+- **Generasi add-in Excel otomatis** – Menghasilkan ekstensi yang diaktifkan makro secara efisien dalam skala besar.
+- **Integrasi alur kerja BI massal** – Mengintegrasikan beberapa set data eBook ke dalam sistem BI perusahaan.
+- **Otomatisasi data tingkat perusahaan** – Mempermudah otomatisasi spreadsheet dalam skala besar menggunakan alat XLAM.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

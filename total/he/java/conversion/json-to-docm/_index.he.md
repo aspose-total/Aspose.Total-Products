@@ -102,7 +102,33 @@ otherformats: EPUB RTF DOTX WORDML CHM OTT ODT PCL DOC FLATOPC PS MOBI DOT WORD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **JSON ל-DOCM** חשובה להטמעת **מקרוים במסמכי Word** שנוצרים מנתונים מובנים. תהליך זה מאפשר לארגונים לשלב קבוצות נתונים גולמיים עם תכונות אוטומציה חזקות בתוך Word, מאפשר יצירת תוכן דינמי, ביצוע כללי עסקי, ופונקציונליות של מסמך אינטראקטיבי. על ידי המרת JSON לקבצי DOCM, עסקים יכולים לייעל זרימות עבודה, לשפר דיווחים, ולבנות תבניות עם מקרוים המאפשרות התאמה לצרכי נתונים משתנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- **זרימות עבודה של מסמכים אוטומטיים** – הנעה של יצירת מסמכים חוזרת עם מקרוים מוטבעים.
+- **תסריטי ניתוח נתונים** – שלבו מקרוים מונעים על ידי JSON לחישובים ועיבוד בזמן אמת.
+- **תבניות עם מקרוים** – בניית תבניות חכמות וניתנות לשימוש חוזר לתיעוד עסקי.
+- **מערכות דיווח עסקיות** – יצירת דוחות עם עיצוב וניתוח אוטומטיים.
+- **טפסים אינטראקטיביים להתאמה** – מסירת טפסים עם כללי אימות ועיבוד מקרוים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- **צינורות JSON ל-DOCM** – אוטומציה של המרת קבוצות נתונים מובנים לקבצי Word עם מקרוים.
+- **מקרוים ב-Word המופעלים אוטומטית** – ביצוע מקרוים באופן דינמי במהלך או לאחר יצירת המסמך.
+- **עיבוד כללי של כללי עסקים דינמיים** – החלת מדיניות עסקית וכללי נתונים ישירות במסמכים.
+- **אוטומציה של דיווחים עם מקרוים** – תקנה ותאוצה של זרימות עבודה מורכבות בקנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

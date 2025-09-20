@@ -49,7 +49,33 @@ otherformats: EPUB FLATOPC PCL WORDML DOTX PS DOCM RTF DOC WORD MOBI ODT DOT OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 RTF** 对于从结构化数据生成 **跨平台富文本文档** 至关重要。RTF 文件在操作系统、文本编辑器和传统平台之间具有广泛的兼容性，使其成为需要轻便、便携和格式化文档的组织理想选择。通过将 JSON 转换为 RTF，企业可以实现数据呈现的一致性，保持丰富的格式，并确保在不同环境中轻松共享文档。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **跨平台文档共享** – 提供可在多个设备和编辑器上访问的格式化内容。
+- **轻量级报告** – 从结构化 JSON 数据生成紧凑、可读的报告。
+- **与传统系统兼容** – 确保文档与旧软件和企业系统兼容。
+- **便携文档** – 创建易于传输的富文本文件，可供普遍使用。
+- **数据驱动的格式化文本** – 将结构化数据集转换为样式化、易读的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 RTF 流水线** – 自动将结构化数据转换为富文本文件。
+- **自动化格式化报告** – 直接从 JSON 源构建样式化报告。
+- **JSON 驱动的文档可移植性** – 在各平台和系统间实现一致的内容。
+- **企业 RTF 分发工作流** – 为大规模组织使用标准化的富文本输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

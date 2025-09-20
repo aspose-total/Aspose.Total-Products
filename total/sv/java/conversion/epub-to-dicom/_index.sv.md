@@ -57,7 +57,29 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertering av **EPUB till DICOM** är ett innovativt tillvägagångssätt för att omvandla digitala publikationer till **medicinskt bildkompatibla filer**. Denna process möjliggör för vårdpersonal, forskare och pedagoger att bädda in strukturerat eBook-innehåll i DICOM-format, vilket gör det tillgängligt inom medicinska bildsystem. Genom att integrera textbaserade resurser med bildbehandlingsflöden kan sjukhus och institutioner förbättra utbildningen, öka efterlevnaden och effektivisera klinisk dokumentation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga användningsfall" %}}
+- **Medicinska utbildnings-eBooks** – Konvertera studiematerial till format kompatibla med bildsystem.
+- **Klinisk forskningsdokumentation** – Lagra och standardisera forskningspublikationer inom DICOM-system.
+- **Radiologiutbildningsinnehåll** – Förbättra undervisningsresurser genom att integrera text med bildbehandlingsflöden.
+- **Sjukhusdataarkivering** – Behåll publiceringsdata bredvid patientbildsregister.
+- **Vårdnadsflöden för efterlevnad** – Se till att medicinska publikationer följer standardiserade digitala format.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- **EPUB-till-DICOM-pipelines** – Automatisera konvertering för skalbara vårdnadsflöden.
+- **Automatiserad konvertering av medicinska publikationer** – Omvandla eBooks till DICOM-kompatibla resurser omedelbart.
+- **E-lärande integration för vården** – Leverera interaktivt medicinskt innehåll inom utbildningsplattformar.
+- **Standardisering av forskningsdataset** – Konvertera kliniska och forskningsdokument till enhetliga DICOM-dataset.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

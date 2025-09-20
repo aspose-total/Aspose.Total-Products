@@ -47,7 +47,29 @@ Trong khi chuyển đổi tệp EPUB sang MD, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **EPUB sang MD (định dạng Markdown)** là điều cần thiết để tạo nội dung **cấu trúc văn bản thuần túy** từ sách điện tử và xuất bản kỹ thuật số. Markdown cung cấp sự đơn giản, dễ đọc, và được sử dụng rộng rãi trong các nền tảng phát triển, làm cho nó lý tưởng cho việc tái sử dụng và phân phối nội dung. Bằng cách chuyển đổi EPUB thành MD, các nhà xuất bản, nhà nghiên cứu, và nhà phát triển có thể tối ưu hóa tài liệu, hỗ trợ sự hợp tác mã nguồn mở, và đơn giản hóa quy trình xuất bản kỹ thuật số.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- **Tài liệu kỹ thuật** – Chuyển đổi sách điện tử thành Markdown cấu trúc cho tài liệu phát triển viên.
+- **Xuất bản blog** – Tái sử dụng các chương EPUB thành các tệp Markdown nhẹ phù hợp cho blog.
+- **Cơ sở kiến thức cho nhà phát triển** – Xây dựng kho thông tin hợp tác với nội dung Markdown.
+- **Chia sẻ ghi chú nghiên cứu** – Chia sẻ ghi chú học thuật hoặc tổ chức trong định dạng MD có thể đọc được một cách phổ biến.
+- **Phân phối nội dung mã nguồn mở** – Xuất bản nội dung sách điện tử cho sự hợp tác và tái sử dụng toàn cầu.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- **Các đường ống EPUB-to-MD** – Tự động hóa việc chuyển đổi sách điện tử thành các tệp Markdown.
+- **Xuất bản Markdown tự động** – Đồng bộ hóa đầu ra MD với các công cụ và nền tảng tạo trang tĩnh.
+- **Tiêu chuẩn hóa nội dung cho các nền tảng phát triển viên** – Đảm bảo tính nhất quán trên GitHub, GitLab, và các công cụ tương tự.
+- **Tự động hóa tài liệu** – Tích hợp chuyển đổi Markdown vào quy trình xuất bản doanh nghiệp.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,29 @@ otherformats: IMAGE DXF SVGZ JPEG2000 EMZ PSD WMF WMZ  TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**HTML转换为APNG**对于从HTML页面生成**动画网络图形**至关重要。APNG能够实现高质量、可循环播放的动画，同时保持透明度，使其非常适合用于交互式预览、营销内容和动态UI元素。通过将HTML转换为APNG，企业和开发人员可以增强用户参与度，创造视觉上引人注目的网络体验。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **交互式网站预览** – 有效展示网页的动画组件。
+- **营销横幅** – 为活动生成引人注目的动画横幅。
+- **UI/UX动画** – 将HTML交互转换为流畅、可重复使用的图形。
+- **数字叙事** – 通过从HTML衍生的动画视觉增强叙事。
+- **跨浏览器发布** – 创建与现代浏览器兼容的一致动画。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **HTML到APNG管道** – 自动化将网页内容转换为动画图形。
+- **自动生成网络动画** – 直接从HTML组件生成APNG。
+- **批量横幅渲染** – 高效地将多个HTML元素转换为动画图形。
+- **企业级数字发布工作流** – 将HTML到APNG转换集成到企业内容流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

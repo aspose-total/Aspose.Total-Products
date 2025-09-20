@@ -57,7 +57,29 @@ Menggunakan API, Anda juga dapat memutar gambar DXF keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **HTML ke DXF** sangat penting untuk menghasilkan gambar **kompatibel CAD** dari diagram berbasis web. DXF memastikan bahwa ilustrasi teknis, skematik, dan tata letak desain dari konten HTML sepenuhnya kompatibel dengan perangkat lunak CAD, memungkinkan rekayasa presisi, perencanaan arsitektur, dan alur kerja manufaktur. Dengan mengonversi diagram HTML ke DXF, organisasi dapat menyederhanakan proses desain dan mempertahankan kesetiaan tinggi di seluruh transformasi digital ke CAD.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Alur kerja arsitektur** – Mengubah rencana lantai dan diagram berbasis web menjadi file siap CAD.
+- **Diagram rekayasa** – Mengonversi ilustrasi skematik ke dalam format CAD yang dapat diedit.
+- **Proses manufaktur** – Mengintegrasikan diagram proses ke dalam sistem CAD siap produksi.
+- **Integrasi pemodelan 3D** – Gunakan tata letak berbasis HTML sebagai dasar untuk desain 3D.
+- **Dokumentasi teknis** – Menjaga visual desain yang konsisten dan terstandarisasi di seluruh platform.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja HTML ke DXF** – Otomatis konversi diagram web menjadi file DXF yang kompatibel dengan CAD.
+- **Generasi diagram ke CAD otomatis** – Menyederhanakan alur kerja dari konten HTML ke gambar CAD yang dapat diedit.
+- **Konversi file teknis massal** – Memproses beberapa diagram secara efisien untuk proyek tingkat perusahaan.
+- **Otomatisasi desain tingkat perusahaan** – Mengintegrasikan konversi HTML ke DXF ke dalam alur kerja rekayasa skala besar.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

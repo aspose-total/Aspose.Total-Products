@@ -49,7 +49,33 @@ Pomocí API můžete také převést JSON na DICOM s vodoznakem v dokumentu DICO
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **JSON na DICOM (Digital Imaging and Communications in Medicine)** je klíčový pro transformaci **strukturovaných zdravotních dat** do standardizovaných lékařských obrazových formátů. DICOM je globálním standardem pro ukládání, přenášení a vizualizaci lékařských obrázků, umožňuje poskytovatelům zdravotní péče, výzkumníkům a systémům umělé inteligence pracovat s konzistentními, interoperabilními daty. Převodem JSON na DICOM lze strukturované záznamy pacientů a klinická data bezproblémově integrovat do obrazových pracovních postupů, podporujících přesné diagnostiky a lepší výsledky zdravotní péče.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Vizualizace záznamů pacientů** – Převeďte strukturovaná zdravotní data do vizuálních obrazových formátů.
+- **AI založené na lékařských obrazech** – Umožněte systémům strojového učení zpracovávat datasety řízené JSONem.
+- **Interoperabilita ve zdravotnictví** – Standardizujte strukturovaná data do globálně akceptovaných formátů DICOM.
+- **Radiologické pracovní postupy** – Integrujte zprávy založené na JSONu do obrazových a diagnostických systémů.
+- **Integrace klinických výzkumných dat** – Převeďte strukturované datasety do obrazově kompatibilních formátů pro studie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON-to-DICOM** – Automatizujte transformaci zdravotních dat do obrazově připravených formátů.
+- **Automatická konverze lékařských zpráv** – Generujte soubory DICOM přímo z klinických zpráv založených na JSONu.
+- **Zdravotnické obrazové úložiště v cloudu** – Umožněte škálovatelnou, interoperabilní výměnu obrazových dat v cloudu.
+- **AI řízené diagnostické systémy** – Napájejte pokročilé diagnostické nástroje konverzí ze strukturovaného na obrazový formát.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

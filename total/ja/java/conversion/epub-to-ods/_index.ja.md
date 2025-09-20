@@ -47,7 +47,29 @@ EPUBファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをODS（OpenDocument Spreadsheet）に変換することは、デジタル出版物から**オープン標準のスプレッドシート**を生成するために不可欠です。ODSファイルは、構造化されたデータを整理し分析するための柔軟で広く互換性のあるフォーマットを提供します。EPUBをODSに変換することで、教育関係者、研究者、図書館、出版社は、メタデータを効率的に管理し、研究データセットを追跡し、データ駆動の出版ワークフローを効率化することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **学術データセット管理** – 電子書籍からの研究データをスプレッドシート形式で整理および維持します。
+- **図書館カタログレコード** – 簡単なアクセスと分析のために書誌メタデータを表形式でまとめます。
+- **メタデータの表形式化** – 電子書籍のメタデータを構造化されたスプレッドシートテーブルに変換します。
+- **研究データの分析** – ODSファイルを使用して計算、ソート、レポート作成を容易にします。
+- **出版ワークフロー** – 編集および学術出版全体でデータ管理を標準化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからODSへのパイプライン** – 電子書籍を構造化されたスプレッドシートに自動変換します。
+- **自動化されたスプレッドシート変換** – メタデータおよびデータセットの処理を規模化して効率化します。
+- **大量データセットの抽出** – 大容量の電子書籍データを効率的に抽出します。
+- **企業レベルの出版分析** – ODS出力を分析およびレポート作成ワークフローに統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

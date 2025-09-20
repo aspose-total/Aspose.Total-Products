@@ -57,7 +57,31 @@ L'API vous permet également d'exporter le fichier HTML vers IMAGE dans un seul 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **HTML** en **IMAGE** est essentiel pour capturer des instantanés visuels précis des pages web. Ce processus permet aux designers, marketeurs et développeurs de transformer le contenu web dynamique ou statique en images partageables et visualisables qui préservent l'apparence des sites web sur tous les appareils. En créant des représentations d'images des pages web, les équipes peuvent rationaliser les prévisualisations, améliorer le contenu numérique et conserver efficacement des enregistrements visuels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Prévisualisations de sites web :** Générer des instantanés pour les portfolios, les avis clients ou les références visuelles rapides.
+* **Infographies :** Convertir des pages web riches en données en formats visuels partageables.
+* **Flux de travail de conception UI/UX :** Capturer les conceptions de pages pour les tests, les retours et les itérations.
+* **Captures d'écran archivées :** Conserver les versions historiques des sites web pour la conformité ou la documentation.
+* **Actifs de marketing numérique :** Créer des bannières, des visuels pour les médias sociaux et des graphiques promotionnels directement à partir du contenu web.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines HTML vers IMAGE :** Convertir de manière transparente plusieurs pages web en images avec un effort manuel minimal.
+* **Rendu automatisé de page web en image :** Programmer le rendu de pages dynamiques pour les rapports ou la surveillance.
+* **Génération en masse de captures d'écran :** Capturer des centaines de pages simultanément pour des projets à grande échelle.
+* **Publication numérique à l'échelle de l'entreprise :** Intégrer la génération d'images dans les flux de travail de contenu pour les sites web, les newsletters ou les catalogues de produits.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

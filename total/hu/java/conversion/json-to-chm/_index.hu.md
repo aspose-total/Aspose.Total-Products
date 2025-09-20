@@ -49,7 +49,33 @@ Az API használatával a JSON-t CHM-be is elemezheti vízjellel. Ha vízjelet sz
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+A **JSON átalakítása CHM formátumba (Összeállított HTML Súgó)** alapvető fontosságú a **összeállított súgó kézikönyvek** közvetlenül strukturált dokumentációból történő létrehozásához. A CHM fájlok több súgótémát egyetlen, keresésre alkalmas, offline-hozzáférhető erőforrásba kombinálnak, ami ideálissá teszi őket szoftvertámogatáshoz és vállalati tudáskezeléshez. A JSON átalakításával CHM formátumba az szervezetek egyszerűsíthetik a dokumentáció kézbesítését, javíthatják a felhasználhatóságot, és biztosíthatják az elérhetőséget még internetkapcsolat nélkül is.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfelhasználási esetek" %}}
+
+- **Szoftverdokumentáció** – Technikai útmutatók csomagolása összeállított, felhasználóbarát formátumba.
+- **Offline súgórendszerek** – Dokumentáció kézbesítése internet-hozzáférés nélkül.
+- **Vállalati tudásbázisok** – Szervezeti tudás centralizálása strukturált súgófájlban.
+- **Kézikönyvek** – Összeállított tananyagok terjesztése személyzet vagy diákok számára.
+- **Fejlesztői API referenciák** – Strukturált JSON definíciók átalakítása keresésre alkalmas offline referenciákká.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+- **JSON-CHM csővezetékek** – Strukturált adatok automatizált átalakítása összeállított súgókézikönyvekké.
+- **Automatizált súgófájl létrehozás** – CHM fájlok generálása közvetlenül fejlődő JSON-alapú tartalomból.
+- **Adat-dokumentáció összeállítás** – Strukturált JSON dokumentáció átalakítása elérhető súgórendszerekké.
+- **Offline tudás terjesztése** – CHM kézikönyvek szabványosítása vállalaton belüli képzéshez és támogatáshoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

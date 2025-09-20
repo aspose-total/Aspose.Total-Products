@@ -49,7 +49,29 @@ otherformats: TSV XLSB XLSM XLTM TXT XLAM SXC MD XLTX EXCEL ODS FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**EPUB转换为XLTX**对于生成**标准化的Excel模板**至关重要，这些模板将数字出版物转化为可重复使用、一致且专业的报告工具。通过从电子书数据或元数据生成结构化的XLTX文件，出版商、教育工作者和企业可以简化工作流程，确保报告准确性，并在部门和机构之间保持一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **教育报告框架** – 为学校和大学提供标准化模板。
+- **出版社模板** – 在编辑和生产报告中保持一致性。
+- **图书馆目录模板** – 为数字和实体收藏创建可重复使用的模板。
+- **研究元数据模板** – 将元数据转换为结构化的、适用于研究的Excel文件。
+- **企业级工作流程** – 在大型组织中标准化报告和分析。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB到XLTX模板管道** – 自动化生成标准化模板。
+- **自动化Excel模板标准化** – 确保多个项目中的统一格式。
+- **电子书元数据到模板转换** – 将出版元数据转化为可直接使用的模板。
+- **企业自动化** – 在部门间扩展模板创建和使用。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

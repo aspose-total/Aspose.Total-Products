@@ -49,7 +49,33 @@ otherformats: SVGZ WMF DICOM DXF IMAGE TGA EMZ PSD WMZ JPEG2000
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 PSD** 对于从结构化数据创建 **Photoshop 设计文件** 至关重要。PSD 文件保留图层、文本和效果，使设计师能够使用从动态数据集生成的完全可编辑的图形进行工作。通过将 JSON 转换为 PSD，组织可以简化创意工作流程，自动化营销视觉，并高效生成个性化、适用于打印或数字设计资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **动态图形设计** – 生成可根据不断变化的数据集调整的分层设计文件。
+- **自动化营销创意** – 自动产生横幅、社交媒体视觉和活动图形。
+- **个性化图像模板** – 为特定客户内容创建定制模板。
+- **网页和应用程序模型** – 为网站和移动应用程序构建交互式模型。
+- **适用于打印的艺术品** – 为专业打印准备高质量的 PSD 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 PSD 管道** – 自动将结构化数据转换为分层的 Photoshop 文件。
+- **自动化 Photoshop 图层创建** – 通过程序生成可编辑图层以提高效率。
+- **数据驱动的设计工作流程** – 直接将数据集集成到创意流程中。
+- **JSON 驱动的创意自动化** – 在营销、网络和印刷项目中扩展设计生产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

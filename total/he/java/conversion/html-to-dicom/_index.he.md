@@ -105,7 +105,29 @@ otherformats: WMZ TGA SVGZ APNG WMF EMZ DXF PSD JPEG2000 IMAGE
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **HTML ל-DICOM** חיונית ליצירת **פלטים תואמי תמונות רפואיות** מנתוני מקור באינטרנט. DICOM מבטיח שתמונות קליניות ומידע הקשור לבריאות ייבואו לתקנים לצורך התאמה, ארכיבה ואינטגרציה בין מערכות רפואיות. על ידי המרת תוכן HTML ל-DICOM, ספקי שירותי בריאות וחוקרים יכולים לייעל את תהליכי העבודה הרפואיים ולשמור על עמידה בתקני התעשייה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- **פלטפורמות טלמדיציה** – שלבו נתוני רפואה באינטרנט למערכות התואמות ל-DICOM.
+- **אינטגרציה של דיווחים רפואיים** – הטמעת דיווחים טקסטואליים ותמונתיים בפורמטים בריאות תקניים.
+- **תהליכי עבודה בתחום הבריאות** – הפעלת תמיכה בקליטה חלקה של נתוני מטופלים בין מחלקות.
+- **ארכיבת רדיולוגיה** – אחסון תמונות ותוכן באינטרנט הקשור ב-DICOM בארכיונים.
+- **אינטרופרביליות בין מערכות** – קידום שיתוף נתונים תקני בין יישומי בריאות.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות HTML-to-DICOM** – אוטומציה של המרת תוכן רפואי באינטרנט ל-DICOM.
+- **הטמעת דיווחים רפואיים אוטומטית** – שלבו נתוני HTML בתהליכי עבודה עם תמונות של מטופלים.
+- **המרת נתוני בריאות בכמות גדולה** – עיבוד של דיווחים מרובים או עמודי אינטרנט ביעילות בקנה מידה.
+- **תהליכי עבודה קליניים ברמת עסקים** – תקנה של המרת HTML-to-DICOM ברמת ארגונים בתחום הבריאות.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

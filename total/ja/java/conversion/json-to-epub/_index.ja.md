@@ -49,7 +49,33 @@ APIを使用して、透かしを使用してJSONからEPUBに解析すること
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSONをEPUBに変換**することは、構造化されたデータセットから**デジタル電子書籍**を生成するために不可欠です。EPUBファイルは、eReader、モバイルデバイス、学習プラットフォームを通じて知識を提供するための広くサポートされた、リフロータブルな形式を提供します。JSONをEPUBに変換することで、組織はコンテンツの公開を自動化し、インタラクティブなeラーニング教材を作成し、携帯可能なデジタル形式で標準化された知識リソースを配布することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **自動化された公開** – データセットを読みやすいデジタル電子書籍に変換します。
+- **eラーニング教材** – EPUB形式でインタラクティブで構造化されたコースウェアを提供します。
+- **データ駆動型電子書籍** – JSON入力から直接動的な出版物を生成します。
+- **研究出版物** – 学術的な知見や構造化された研究成果を電子書籍として公開します。
+- **企業知識の配布** – デジタルライブラリを介した内部知識共有を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONからEPUBへのパイプライン** – 構造化されたデータソースから電子書籍の作成を自動化します。
+- **リアルタイム電子書籍生成** – ライブなJSONフィードから直接最新の出版物を生成します。
+- **自動化されたコースウェアの公開** – 機関向けのeラーニング教材制作を効率化します。
+- **デジタルライブラリの統合** – 企業や学術リポジトリにJSON駆動のEPUBを組み込みます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,29 @@ otherformats: SXC XLT FODS MD XLSM XLSB XLTX EXCEL TXT XLAM XLTM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **EPUB إلى FODS (جداول بيانات ODS بتنسيق XML مسطح)** أمر أساسي لإنشاء **ملفات جداول بيانات بمعايير مفتوحة** من الكتب الإلكترونية والنشرات الرقمية. يضمن FODS التوافق مع حزم مكتبية مفتوحة المصدر، ويدعم تنسيق XML المهيكل، ويمكن من مشاركة البيانات بسلاسة. من خلال تحويل EPUB إلى FODS، يمكن للناشرين والباحثين والمؤسسات تبويب البيانات الوصفية، وتبسيط تصنيف الفهارس، ومشاركة مجموعات البيانات البحثية بتنسيق يمكن الوصول إليه عالميًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **تبويب البيانات الوصفية** – تحويل بيانات الكتب الإلكترونية إلى جداول بيانات منظمة.
+- **جمع بيانات البحث** – استخراج وتنظيم البيانات الأكاديمية من النشرات الرقمية.
+- **سير العمل للنشر مفتوح المصدر** – استخدام FODS مع LibreOffice ومنصات مفتوحة أخرى.
+- **سجلات فهارس المكتبة** – إدارة البيانات الببليوجرافية في جداول بيانات بمعايير مفتوحة.
+- **مشاركة مجموعات البيانات الأكاديمية** – توزيع مجموعات بيانات منظمة للتعاون والتحليل.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **أنابيب تحويل EPUB إلى FODS** – أتمتة تحويل النشرات الرقمية إلى جداول بيانات FODS.
+- **توليد جداول البيانات تلقائيًا** – تبسيط معالجة البيانات الخاصة بالنشر والبحث.
+- **استخراج البيانات بتنسيق XML** – تحويل محتوى الكتب الإلكترونية إلى جداول بيانات منظمة وقابلة للقراءة من قبل الآلة.
+- **سير العمل للنشر الأكاديمي في المؤسسات** – توحيد معالجة بيانات البحث عبر المؤسسات.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

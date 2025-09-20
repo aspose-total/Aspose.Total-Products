@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 DOCM** 对于从数字出版物生成 **启用宏的 Word 文档** 非常有价值。 DOCM 文件允许集成自动化脚本和宏，从而可以简化文档处理、增强互动性，并创建智能的出版工作流程。通过将电子书转换为 DOCM，出版商、学者和企业可以优化报告、保护数字版权，并自动化复杂的内容任务。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **自动化出版工作流程** – 简化编辑和内容生产流程。
+- **研究文档自动化** – 生成带有嵌入式宏的结构化报告。
+- **带宏的学术内容** – 创建互动式学习材料和自动化分析工具。
+- **数字版权管理文档** – 使用自动化控制安全地分发电子书内容。
+- **企业报告生成** – 从出版数据构建动态的、启用宏的报告。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 DOCM 管道** – 自动化将电子书转换为启用宏的 Word 文件。
+- **自动化启用宏文档创建** – 使用自定义脚本即时生成 DOCM 文件。
+- **批量电子书转换为 Word** – 高效处理大型数字图书馆。
+- **基于工作流的出版自动化** – 将 DOCM 生成集成到企业内容系统中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

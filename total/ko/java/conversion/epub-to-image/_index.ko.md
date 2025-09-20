@@ -57,7 +57,29 @@ API를 사용하여 필요에 따라 출력 IMAGE 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB을 이미지로 변환하는 것은 디지턈 출판물의 시각적 스냅샷을 생성하는 데 필수적입니다. 이미지 파일은 eBook 콘텐츠를 시각적으로 표시하는 범용적이고 플랫폼 독립적인 방법을 제공하여 미리보기, 홍보 그래픽 및 보존 기록을 용이하게 합니다. EPUB을 이미지로 변환함으로써 출판사, 교육자 및 기업은 접근성을 향상시키고 콘텐츠 마케팅을 간소화하며 크로스 플랫폼 출판 워크플로우를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- eBook 페이지 미리보기 - 온라인 카탈로그 및 미리보기용 시각적 스냅샷 생성.
+- 교육용 인포그래픽 - 콘텐츠를 쉽게 소화할 수 있는 시각적 교육 보조 도구로 변환.
+- 마케팅 자료 생성 - eBook 페이지에서 홍보용 시각 자료 생성.
+- 아카이브 스냅샷 - 디지털 출판물의 정적 표현을 장기 보존.
+- 크로스 플랫폼 출판 워크플로우 - 웹, 모바일 및 인쇄 플랫폼 간 일관된 시각적 콘텐츠 보장.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- EPUB-to-IMAGE 파이프라인 - 효율성을 위해 eBook을 시각적 스냅샷으로 자동 변환.
+- 자동화된 페이지-to-이미지 렌더링 - EPUB 파일에서 고품질 페이지 이미지 빠르게 생성.
+- 출판 플랫폼용 대량 미리보기 생성 - 대량의 미리보기 이미지 일괄 생성.
+- 기업 규모의 시각적 아카이빙 - 조직적 요구에 맞는 대규모 eBook 이미지 컬렉션 유지.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

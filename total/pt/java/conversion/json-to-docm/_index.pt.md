@@ -49,7 +49,33 @@ Usando a API, você também pode analisar JSON para DOCM com marca d'água. Para
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **JSON para DOCM** é importante para incorporar **macros em documentos do Word** gerados a partir de dados estruturados. Esse processo permite que organizações combinem conjuntos de dados brutos com recursos de automação poderosos dentro do Word, permitindo a geração de conteúdo dinâmico, execução de regras de negócios e funcionalidades interativas nos documentos. Ao transformar JSON em arquivos DOCM, as empresas podem otimizar fluxos de trabalho, aprimorar relatórios e construir modelos habilitados para macro que se adaptam às necessidades de dados em evolução.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+- **Fluxos de trabalho de documentos automatizados** – Impulsione a criação repetitiva de documentos com macros incorporadas.
+- **Scripts de análise de dados** – Integre macros orientadas por JSON para cálculos e processamentos em tempo real.
+- **Modelos habilitados para macro** – Construa modelos inteligentes e reutilizáveis para documentação empresarial.
+- **Sistemas de relatórios empresariais** – Gere relatórios com formatação e análise automatizadas.
+- **Formulários interativos de conformidade** – Forneça formulários com regras de validação e processamento habilitadas para macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+- **Pipelines de JSON para DOCM** – Automatize a transformação de conjuntos de dados estruturados em arquivos do Word habilitados para macro.
+- **Macros do Word acionados automaticamente** – Execute macros dinamicamente durante ou após a geração do documento.
+- **Processamento dinâmico de regras de negócios** – Aplique políticas empresariais e regras de dados diretamente nos documentos.
+- **Automação de relatórios habilitados para macro** – Padronize e acelere fluxos de trabalho de relatórios complexos em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,33 @@ APIを使用して、DICOMドキュメントに透かしを入れたJSONをDICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSONをDICOM（医学画像および通信用データ規約）に変換**することは、**構造化された健康データ**を標準化された医用画像形式に変換するために重要です。DICOMは医用画像を保存、送信、視覚化するための世界標準であり、医療提供者、研究者、AIシステムが一貫性のある相互運用可能なデータを扱うことを可能にします。JSONをDICOMに変換することで、構造化された患者記録や臨床データを画像ワークフローにシームレスに統合し、正確な診断とより良い医療成績を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+- **患者記録の視覚化** – 構造化された健康データを視覚的な画像形式に変換します。
+- **AIを活用した医用画像** – 機械学習システムがJSON駆動のデータセットを処理できるようにします。
+- **医療の相互運用性** – 構造化データを世界的に受け入れられたDICOM形式に標準化します。
+- **放射線学のワークフロー** – JSONベースのレポートを画像および診断システムに統合します。
+- **臨床研究データの統合** – 研究用に構造化データセットを画像互換形式に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONからDICOMへのパイプライン** – 健康データを画像用の形式に自動変換します。
+- **自動化された医療レポート変換** – JSONベースの臨床レポートから直接DICOMファイルを生成します。
+- **クラウドベースの医療画像** – クラウドでスケーラブルで相互運用可能な画像データ交換を可能にします。
+- **AI駆動の診断システム** – 構造化から画像への変換で高度な診断ツールをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,33 @@ otherformats: APNG WMF WMZ SVGZ TGA JPEG2000 PSD EMZ DICOM IMAGE
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **JSON ל־DXF (Drawing Exchange Format)** היא חיונית ליצירת שרטוטי **CAD** מסדנים מובנים. DXF הוא פורמט נפוץ בתחומי האדריכלות, ההנדסה, עיצוב תעשייתי ויישומי GIS, ולכן הוא אידיאלי להמרת נתוני מבנה מבוססי JSON לשרטוטים טכניים מדויקים וניתנים לעריכה. ההמרה הזו מאפשרת זרימות עבודה חלקות מנתח-עיצוב, שמשפרות אינטרופרביליות בין מערכות CAD ותומכות באוטומציה בתהליכי עיצוב מודרניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- **פריסות אדריכליות** – המרת נתוני בניין לתוכניות קומות CAD שניתנות לעריכה.
+- **דגמים הנדסיים** – יצירת תכניות מבניות ומכאניות מקלטי JSON.
+- **אוטומציה של CAD מבוססת JSON** – סידור זרימות עבודה של CAD על ידי המרת סדרות נתונים מובנות.
+- **זרימות עבודה לעיצוב תעשייתי** – יצירת שרטוטים מדויקים של מוצרים ורכיבים מנתוני JSON.
+- **מיפוי GIS** – המרת נתוני מרחב ל־DXF לצורך תכנון עירוני ופרויקטי תשתיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- **צינורות JSON-to-DXF** – אוטומציה של המרת נתונים מובנים לשרטוטים מוכנים ל־CAD.
+- **יצירת שרטוטים מכאניים אוטומטית** – יצירת תרשימים טכניים ישירות מסטים של JSON.
+- **זרימות עבודה מנתונים לעיצוב** – אפשרות לאינטגרציה חלקה של נתונים מובנים ליישומי CAD.
+- **דגמים תשתיות חכמים** – הפעלת מערכות תשתיות ומיפוי מודרניים עם פלטי DXF מבוססי JSON.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

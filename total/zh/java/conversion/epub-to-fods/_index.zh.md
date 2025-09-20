@@ -49,7 +49,29 @@ otherformats: SXC XLT FODS MD XLSM XLSB XLTX EXCEL TXT XLAM XLTM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**EPUB转换为FODS（平面XML ODS电子表格）**对于从电子书和数字出版物生成**开放标准电子表格文件**至关重要。FODS确保与开源办公套件兼容，支持结构化XML格式，并实现无缝数据共享。通过将EPUB转换为FODS，出版商、研究人员和机构可以将元数据制成表格，简化编目工作，并以普遍可访问的格式共享研究数据集。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **元数据制表** – 将电子书元数据转换为结构化电子表格。
+- **研究数据收集** – 从数字出版物中提取和组织学术数据。
+- **开源出版工作流程** – 使用FODS与LibreOffice和其他开放平台。
+- **图书馆目录记录** – 在开放标准电子表格中管理书目数据。
+- **学术数据集共享** – 分发结构化数据集以进行协作和分析。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB到FODS管道** – 自动化将数字出版物转换为FODS电子表格。
+- **自动化电子表格生成** – 简化出版和研究数据处理。
+- **基于XML的数据集提取** – 将电子书内容转换为结构化、可机器读取的电子表格。
+- **企业学术出版工作流程** – 在机构间标准化研究数据处理。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

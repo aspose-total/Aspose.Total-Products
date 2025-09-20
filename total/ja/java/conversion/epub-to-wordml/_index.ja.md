@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをWordML（XMLベースのWord文書）に変換することは、デジタル出版物から**構造化された機械可読なWordファイル**を生成するために不可欠です。WordMLはXML駆動のエコシステムにシームレスに統合され、メタデータ豊富なワークフローをサポートし、プラットフォーム間の相互運用性を向上させます。EPUBをWordMLに変換することで、出版社、学術機関、企業はコンテンツのアーカイブ化を効率化し、文書生成を自動化し、高度なレポート作成を可能にすることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- **XML駆動の出版ワークフロー** – 構造化されたXML Word文書で出版パイプラインを簡素化します。
+- **メタデータ豊富な学術レポート** – 研究成果のために出版メタデータを保存および統合します。
+- **クロスプラットフォームの相互運用性** – コンテンツがアプリケーションやプラットフォーム間でシームレスに動作することを保証します。
+- **デジタルコンテンツのアーカイブ** – 長期利用のために構造化された機械可読なeBookを保存します。
+- **エンタープライズワード処理** – 文書ワークフローにおける自動化、カスタマイズ、スケーラビリティを実現します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからWordMLへのパイプライン** – eBookをXMLベースのWordファイルに自動変換します。
+- **自動化されたXML Wordワークフロー生成** – ワークフロー対応のWordMLでデジタル出版を強化します。
+- **メタデータからWordMLへの出版** – eBookメタデータを構造化されたWord形式に変換します。
+- **エンタープライズレベルの文書自動化** – 大規模な出版およびレポート業務を標準化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

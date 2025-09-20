@@ -47,7 +47,26 @@ otherformats: XLAM XLTM TXT ODS XLT TSV XLSM EXCEL XLSB FODS SXC XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **EPUB إلى Excel (XLSX)** هو طريقة فعالة لاستخراج **البيانات المنظمة من الكتب الإلكترونية** إلى جداول بيانات يمكن إدارتها بسهولة. من خلال تحويل النشرات الرقمية إلى ملفات Excel، يمكن للمؤسسات والباحثين والناشرين فتح البصيرة، وتبسيط التصنيف، وتمكين التقارير والتحليلات المتقدمة. توفر ملفات XLSX تنسيقًا قابلا للتحرير وداعمًا للأنشطة الأكاديمية والتجارية ومستويات الشركات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **بيانات البحث الأكاديمي** – استخراج المحتوى المنظم للتحليل وإدارة الاقتباسات.
+- **بيانات النشر** – تحويل تفاصيل الكتب إلى جداول بيانات Excel موحدة.
+- **تصنيف المكتبة** – تنظيم المجموعات الرقمية في تنسيقات Excel قابلة للبحث.
+- **تقارير الأعمال من الكتب الإلكترونية** – تحويل بيانات النشر إلى معلومات تجارية قابلة للاستخدام.
+- **أرشفة المحتوى** – تخزين معلومات الكتب الإلكترونية في تنسيقات منظمة طويلة الأمد.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **أنابيب تحويل EPUB إلى Excel** – أتمتة تحويل الكتب الإلكترونية إلى مجموعات بيانات منظمة.
+- **استخراج البيانات التلقائي للنشرات** – سحب المعلومات الرئيسية مباشرة إلى خلايا Excel.
+- **تحويل دُفعات من الكتب الإلكترونية إلى Excel** – التعامل بكفاءة مع تحويلات بمقياس كبير.
+- **أتمتة تصنيف المكتبة على مستوى المؤسسة** – توحيد التصنيف والتقارير عبر المؤسسات.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

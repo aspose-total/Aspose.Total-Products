@@ -49,7 +49,33 @@ otherformats: IMAGE TGA DXF PSD WMZ JPEG2000 EMZ SVGZ DICOM WMF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **JSON إلى TGA** ضروري لإنشاء ملفات صور Targa من البيانات المهيكلة. تُستخدم ملفات TGA على نطاق واسع في تطوير الألعاب، ونمذجة الثلاثية الأبعاد، وإنتاج الفيديو بسبب رسوميات البكسل عالية الجودة ودعم القناة ألفا. من خلال تحويل JSON إلى TGA، يمكن للمؤسسات أتمتة إنشاء القوام، وتبسيط سير العمل البصري، ودمج البيانات المهيكلة في خطوط الإنتاج الرسومية بكفاءة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- **رسومات تطوير الألعاب** – إنشاء قوام ورموز للألعاب مباشرة من مجموعات البيانات المهيكلة.
+- **نمذجة ثلاثية الأبعاد الصناعية** – إنتاج أصول TGA لمشاريع CAD والمحاكاة ثلاثية الأبعاد.
+- **أصول تحرير الفيديو** – إنشاء صور عالية الجودة لسير العمل ما بعد الإنتاج.
+- **المحاكاة الافتراضية** – تطوير قوام وعناصر بصرية واقعية لبيئات المحاكاة.
+- **سير العمل القديمة للصور** – الحفاظ على التوافق مع الأنظمة التي تتطلب تنسيقات ملفات Targa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+
+- **أنابيب JSON-to-TGA** – أتمتة إنشاء ملفات TGA من البيانات المهيكلة.
+- **توليد القوام الآلي** – تقليل إنشاء الأصول اليدوي لمشاريع الرسومات.
+- **تصدير الرسومات المدفوعة بالبيانات** – ملء طبقات الصور مباشرة بمجموعات بيانات مهيكلة.
+- **سير العمل البصري المدفوع بـ JSON** – دمج إنشاء TGA الآلي في خطوط الإنتاج الرسومية للشركات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,33 @@ otherformats: EPUB RTF DOTX WORDML DOCM OTT ODT PCL DOC FLATOPC PS MOBI DOT WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **JSON เป็น DOCM** เป็นสิ่งสำคัญสำหรับฝัง **macros ลงในเอกสาร Word** ที่สร้างจากข้อมูลโครงสร้าง กระบวนการนี้ช่วยให้องค์กรสามารถรวมชุดข้อมูลดิบกับคุณสมบัติอัตโนมัติที่มีประสิทธิภาพภายใน Word ซึ่งช่วยในการสร้างเนื้อหาแบบไดนามิก การดำเนินกฎธุรกิจ และฟังก์ชันของเอกสารที่สามารถปฏิสัมพันธ์ได้  โดยการแปลง JSON เป็นไฟล์ DOCM องค์กรสามารถปรับปรุงการทำงาน ปรับปรุงรายงาน และสร้างเทมเพลตที่มี macros ที่สามารถปรับตัวได้ตามความต้องการข้อมูลที่เปลี่ยนไป
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+- **การทำงานของเอกสารอัตโนมัติ** – สร้างการสร้างเอกสารที่ซ้ำซากด้วย macros ที่ฝังอยู่
+- **สคริปต์การวิเคราะห์ข้อมูล** – รวม macros ที่ได้รับการขับเคลื่อนด้วย JSON สำหรับการคำนวณและประมวลผลแบบเรียลไทม์
+- **เทมเพลตที่เปิดใช้ macros** – สร้างเทมเพลตที่ฉลาดและสามารถใช้ซ้ำได้สำหรับเอกสารขององค์กร
+- **ระบบรายงานขององค์กร** – สร้างรายงานด้วยการจัดรูปแบบและการวิเคราะห์โดยอัตโนมัติ
+- **แบบฟอร์มการปฏิบัติตามข้อบังคับที่สามารถปฏิบัติตามกฎการตรวจสอบและกฎการประมวลผลที่เปิดใช้ macros** – ส่งแบบฟอร์มพร้อมกับกฎการตรวจสอบและกฎการประมวลผลที่เปิดใช้ macros
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+- **ท่อการทำงาน JSON เป็น DOCM** – อัตโนมัติการแปลงชุดข้อมูลโครงสร้างเป็นไฟล์ Word ที่มี macros
+- **การเรียก macros ของ Word โดยอัตโนมัติ** – ประมวลผล macros อย่างไดนามิกระหว่างหรือหลังจากการสร้างเอกสาร
+- **การประมวลผลกฎธุรกิจแบบไดนามิก** – ใช้นโยบายขององค์กรและกฎข้อมูลโดยตรงภายในเอกสาร
+- **การอัตโนมัติการรายงานที่เปิดใช้ macros** – มาตรฐานและเร่งความเร็วของการทำงานของระบบรายงานที่ซับซ้อนในขอบเขตที่กว้าง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

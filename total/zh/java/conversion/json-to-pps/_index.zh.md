@@ -49,7 +49,33 @@ otherformats: POT PPTM PPSM POTM OTP POWERPOINT PPSX PPS PPT POTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 PPS** 对于直接从结构化数据构建 **PowerPoint 幻灯片文件** 至关重要。PPS 文件以全屏幻灯片形式打开，非常适合自动化演示交付、交互式演示和一致的企业或教育演示。通过将 JSON 转换为 PPS，组织可以简化幻灯片制作流程，减少手动格式设置，并确保幻灯片输出标准化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **自动化幻灯片交付** – 生成用于会议和在线分发的即时播放演示文稿。
+- **营销演示** – 为产品推广和活动制作交互式幻灯片演示。
+- **培训课程** – 在规模上标准化教育和入职演示文稿。
+- **会议演示** – 为活动和研讨会提供一致、专业的幻灯片。
+- **数据叙事** – 将结构化数据集转化为视觉吸引力的幻灯片叙事。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 PPS 管道** – 从结构化数据集自动创建幻灯片文件。
+- **自动生成幻灯片** – 减少设计重复演示文稿的手动工作量。
+- **全企业幻灯片交付** – 在部门和团队之间分发标准化幻灯片。
+- **JSON 集成演示自动化** – 将动态数据嵌入幻灯片以进行实时可视化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

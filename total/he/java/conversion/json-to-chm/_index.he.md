@@ -102,7 +102,33 @@ otherformats: FLATOPC DOCM WORD WORDML ODT RTF DOC MOBI OTT DOTX PCL DOT EPUB PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **JSON ל-CHM (עזרה מורכבת בפורמט HTML)** היא חיונית לבניית **מדריכי עזרה מורכבים** ישירות מתיעוד מובנה. קבצי CHM משלבים מספר נושאי עזרה לתוך משאב אחד, ניתן לחיפוש בו ולגשת אליו במצב לא מקוון, מה שהופך אותם לאידיאליים לתמיכה בתוכנה ולניהול ידע בארגונים. על ידי המרת JSON ל-CHM, ארגונים יכולים לייעל את משלוח התיעוד, לשפר את השימושיות ולוודא נגישות גם בלעדי חיבור לאינטרנט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- **תיעוד תוכנה** – ארוז מדריכים טכניים בפורמט מורכב ונוח למשתמש.
+- **מערכות עזרה לא מקוונות** – מסר תיעוד בלי צורך בגישה לאינטרנט.
+- **בסיסי ידע לארגונים** – מרכז ידע ארגוני בקובץ עזרה מובנה.
+- **מדריכי הכשרה** – חלוקת משאבי למידה מורכבים לצוות או לתלמידים.
+- **הפניות API של מפתחים** – המרת הגדרות JSON מובנות לחיפוש בהפניות לא מקוונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- **צינורות JSON-to-CHM** – אוטומציה של המרת נתונים מובנים למדריכי עזרה מורכבים.
+- **יצירת קבצי עזרה אוטומטית** – יצירת קבצי CHM ישירות מתוכן מבוסס JSON מתפתח.
+- **אוסף נתונים לתיעוד** – המרת תיעוד JSON מובנה למערכות עזרה נגישות.
+- **הפצת ידע לא מקוון** – תקנה של מדריכי CHM להכשרה ותמיכה ברמה ארגונית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

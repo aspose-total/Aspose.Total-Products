@@ -49,7 +49,33 @@ otherformats: FLATOPC DOCM WORD WORDML ODT RTF DOC MOBI OTT DOTX PCL DOT EPUB PS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **JSON إلى CHM (مساعدة HTML مجمعة)** أمر أساسي لبناء **دلائل المساعدة المجمعة** مباشرة من الوثائق المهيكلة. تجمع ملفات CHM بين عدة مواضيع مساعدة في مورد واحد، قابل للبحث والوصول دون اتصال بالإنترنت، مما يجعلها مثالية لدعم البرامج وإدارة المعرفة في المؤسسات. من خلال تحويل JSON إلى CHM، يمكن للمؤسسات تبسيط توصيل الوثائق، وتحسين قابلية الاستخدام، وضمان الوصول حتى بدون اتصال بالإنترنت.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- **وثائق البرمجيات** – حزم الدلائل التقنية في شكل مجمع وسهل الاستخدام.
+- **أنظمة المساعدة دون اتصال** – تقديم الوثائق دون الحاجة إلى اتصال بالإنترنت.
+- **قواعد المعرفة التنظيمية** – تركيز معرفة المؤسسة في ملف مساعدة مهيكل.
+- **دلائل التدريب** – توزيع موارد التعلم المجمعة للموظفين أو الطلاب.
+- **مراجع واجهة برمجة التطبيقات للمطورين** – تحويل تعريفات JSON المهيكلة إلى مراجع دون اتصال بالإنترنت.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- **أنابيب JSON-to-CHM** – أتمتة تحويل البيانات المهيكلة إلى دلائل مساعدة مجمعة.
+- **إنشاء ملف مساعدة آلي** – إنشاء ملفات CHM مباشرة من محتوى JSON المتطور.
+- **تجميع البيانات إلى الوثائق** – تحويل وثائق JSON المهيكلة إلى أنظمة مساعدة قابلة للوصول.
+- **توزيع المعرفة دون اتصال** – توحيد الدلائل CHM للتدريب والدعم على مستوى المؤسسة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

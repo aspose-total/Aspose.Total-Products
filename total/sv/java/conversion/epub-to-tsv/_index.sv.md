@@ -47,7 +47,29 @@ När du konverterar EPUB-fil till TSV, kan du också lägga till vattenstämpel 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertera **EPUB till TSV** är en effektiv metod för att generera **tab-separerade dataset** från e-böcker och digitalt innehåll. TSV-filer används brett för strukturerad datautbyte och erbjuder enkelhet, läsbarhet och kompatibilitet med akademiska, institutionella och företagssystem. Genom att extrahera e-boksinnehåll till TSV-format kan förläggare, forskare och organisationer effektivisera datautbyte, förbättra interoperabilitet och underhålla flerspråkig metadata med lätthet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+- **Delning av akademiska dataset** – Distribuera strukturerade forskningsdata i ett universellt kompatibelt format.
+- **Export av flerspråkig metadata** – Bevara språkspecifika publikationsdetaljer i TSV-filer.
+- **Arbetsflöden för förlagsverksamhet** – Standardisera tabulär data för redaktionella och produktionsgrupper.
+- **Utbyte av institutionella data** – Underlätta datautbyte mellan avdelningar och organisationer.
+- **Forskningsinteroperabilitet** – Stöd samarbetsstudier med lätt utbytbara dataset.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- **EPUB-till-TSV-pipelines** – Automatisera e-bok-till-dataset-arbetsflöden i stor skala.
+- **Automatisk datasetkonvertering** – Omedelbart omvandla publikationsdata till TSV-format.
+- **Metadata-till-TSV-publicering** – Konvertera publikationsmetadata till strukturerade, tab-separerade värden.
+- **Dataintegration på företagsnivå** – Integrera TSV-dataset i storskaliga rapporterings- och forskningsplattformar.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

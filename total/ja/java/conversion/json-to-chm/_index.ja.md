@@ -49,7 +49,33 @@ APIを使用して、透かしを使用してJSONからCHMに解析すること�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSONをCHM（コンパイル済みHTMLヘルプ）に変換**することは、**構造化されたドキュメントから直接コンパイルされたヘルプマニュアル**を作成するために不可欠です。CHMファイルは複数のヘルプトピックを1つの検索可能でオフラインアクセス可能なリソースに組み合わせ、ソフトウェアサポートや企業の知識管理に最適です。JSONをCHMに変換することで、組織はドキュメント配信を効率化し、使いやすさを向上させ、インターネット接続なしでもアクセス可能性を確保できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **ソフトウェアドキュメント** – テクニカルガイドをコンパイルされた使いやすい形式にパッケージ化します。
+- **オフラインヘルプシステム** – インターネットアクセスを必要とせずにドキュメントを提供します。
+- **企業の知識ベース** – 組織の知識を構造化されたヘルプファイルに集約します。
+- **トレーニングマニュアル** – スタッフや学生向けにコンパイルされた学習リソースを配布します。
+- **開発者APIリファレンス** – 構造化されたJSON定義を検索可能なオフラインリファレンスに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONからCHMへのパイプライン** – 構造化データをコンパイルされたヘルプマニュアルに自動変換します。
+- **自動化されたヘルプファイル作成** – 進化するJSONベースのコンテンツから直接CHMファイルを生成します。
+- **データからドキュメントへのコンパイル** – 構造化されたJSONドキュメントをアクセス可能なヘルプシステムに変換します。
+- **オフライン知識配布** – 企業全体のトレーニングとサポートのためにCHMマニュアルを標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

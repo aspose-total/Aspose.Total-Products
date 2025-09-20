@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 DOTM** 对于从电子书和数字出版物生成 **带宏的 Word 模板** 至关重要。DOTM 文件通过嵌入的宏实现高级自动化，使出版商、研究人员和企业能够简化工作流程、减少手动工作量并标准化内容创建。通过将 EPUB 转换为 DOTM，组织可以将动态功能集成到可重复使用的模板中，确保在学术、商业和教育文档中实现效率和一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **自动化发布模板** – 加快大型目录的电子书到模板的转换速度。
+- **研究和学术自动化** – 为研究创建标准化的、带宏的框架。
+- **商业智能模板** – 自动化报告、数据集成和结构化内容。
+- **教育内容框架** – 构建带宏的课程和学习材料模板。
+- **工作流驱动的模板** – 集成宏以自动化重复的发布任务。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 DOTM 管道** – 从数字出版物中简化批量模板生成。
+- **带宏模板分发** – 在团队间部署交互式、动态模板。
+- **元数据到模板转换** – 将参考文献和出版元数据转换为可立即使用的 DOTM 文件。
+- **企业发布自动化** – 构建连接 EPUB 源和带宏 Word 模板的端到端工作流。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,27 @@ Usando la API, también puede rotar la imagen DXF de salida según sus necesidad
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **EPUB a DXF** es importante para generar **archivos de intercambio de dibujos compatibles con CAD** a partir de publicaciones digitales. Este proceso permite que el contenido técnico, de ingeniería y arquitectónico dentro de los eBooks se reutilice en formatos listos para CAD, lo que hace que los diagramas e ilustraciones sean más accesibles para flujos de trabajo profesionales. Al extraer visuales estructurados de EPUB a DXF, los editores, ingenieros y arquitectos pueden agilizar la documentación de diseño, mejorar la interoperabilidad y aumentar la usabilidad de los recursos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+- **Manuales técnicos con diagramas** – Convertir ilustraciones instructivas en archivos CAD editables.
+- **Contenido de eBooks de ingeniería** – Transformar recursos de ingeniería digitales en dibujos compatibles con CAD.
+- **Documentos de referencia arquitectónica** – Reutilizar diseños de edificios y diagramas de eBooks.
+- **Publicación de recursos relacionados con CAD** – Entregar publicaciones técnicas en formatos listos para DXF.
+- **Flujos de trabajo de documentación de diseño** – Estandarizar y reutilizar diagramas en equipos de ingeniería.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+- **Tuberías de conversión de EPUB a DXF** – Automatizar flujos de trabajo para generar archivos listos para CAD a gran escala.
+- **Extracción automatizada de ilustraciones técnicas** – Extraer instantáneamente diagramas de eBooks a DXF.
+- **Publicación lista para CAD** – Proporcionar a ingenieros y arquitectos formatos CAD directamente utilizables.
+- **Documentación de ingeniería empresarial** – Integrar la conversión de EPUB a DXF en sistemas de documentación a gran escala.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

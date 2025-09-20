@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}  
+Převod **EPUB na MHTML (Web Archive)** je důležitý pro generování **jednosouborových webových dokumentů** z digitálních publikací. Soubory MHTML seskupují všechny zdroje – HTML, obrázky a styly – do jednoho archivu, což zajišťuje přenositelnost, offline čitelnost a kompatibilitu s prohlížeči. Transformací EPUB na MHTML mohou vydavatelé, pedagogové a podniky dodávat e-knihy jako samostatné webové dokumenty optimalizované pro online i offline použití.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
+- **Offline čtení e-knih** – Poskytnutí kompletních digitálních knih přístupných bez internetu.  
+- **Archivace webu** – Uchování obsahu e-knih jako jednosouborových archivů kompatibilních s prohlížeči.  
+- **Digitální publikování pro prohlížeče** – Sdílení obsahu EPUB ve formátu připraveném k otevření na webu.  
+- **Balení vzdělávacího obsahu** – Distribuce lekcí, studijních materiálů a e-knih v přenosných souborech.  
+- **Pracovní postupy dokumentace podniku** – Zjednodušení interního publikování do dokumentů připravených pro prohlížeče.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}  
+- **Potrubí EPUB na MHTML** – Automatizace převodu digitálních publikací do jednosouborových webových archivů.  
+- **Automatizované pracovní postupy e-knih do webu** – Zjednodušení publikování EPUBů přímo ve formátech podporovaných prohlížeči.  
+- **Hromadné publikování pro offline přístup** – Převod celých knihoven e-knih do MHTML pro přenositelnost.  
+- **Publikování kompatibilní s prohlížeči na různých platformách** – Zajištění plynulého čtení ve všech hlavních prohlížečích.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

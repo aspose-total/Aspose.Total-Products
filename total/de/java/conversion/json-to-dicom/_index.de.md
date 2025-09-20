@@ -49,7 +49,33 @@ Mit der API können Sie auch JSON in DICOM mit Wasserzeichen in Ihrem DICOM-Doku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Umwandlung von **JSON in DICOM (Digital Imaging and Communications in Medicine)** ist entscheidend, um **strukturierte Gesundheitsdaten** in standardisierte medizinische Bildformate zu transformieren. DICOM ist der weltweite Standard zum Speichern, Übertragen und Visualisieren von medizinischen Bildern, der es Gesundheitsdienstleistern, Forschern und KI-Systemen ermöglicht, mit konsistenten, interoperablen Daten zu arbeiten. Durch die Umwandlung von JSON in DICOM können strukturierte Patientenakten und klinische Daten nahtlos in Bildgebungsworkflows integriert werden, um genaue Diagnosen und bessere Gesundheitsergebnisse zu unterstützen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+- **Visualisierung von Patientenakten** – Konvertieren von strukturierten Gesundheitsdaten in visuelle Bildformate.
+- **KI-basierte medizinische Bildgebung** – Ermöglichen von maschinellem Lernen zur Verarbeitung von JSON-gesteuerten Datensätzen.
+- **Gesundheitsinteroperabilität** – Strukturieren von Daten in weltweit akzeptierte DICOM-Formate.
+- **Radiologie-Workflows** – Integration von auf JSON basierenden Berichten in Bildgebungs- und Diagnosesysteme.
+- **Integration von klinischen Forschungsdaten** – Umwandlung von strukturierten Datensätzen in bildkompatible Formate für Studien.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+- **JSON-zu-DICOM-Pipelines** – Automatisierung der Umwandlung von Gesundheitsdaten in bildfertige Formate.
+- **Automatisierte Konvertierung von medizinischen Berichten** – Generierung von DICOM-Dateien direkt aus auf JSON basierenden klinischen Berichten.
+- **Cloud-basierte Gesundheitsbildgebung** – Ermöglichen von skalierbarem, interoperablem Austausch von Bilddaten in der Cloud.
+- **KI-gestützte diagnostische Systeme** – Bereitstellung fortschrittlicher diagnostischer Tools durch Struktur-zu-Bild-Umwandlung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

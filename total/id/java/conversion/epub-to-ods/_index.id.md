@@ -47,7 +47,29 @@ Saat mengonversi file EPUB ke ODS, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke ODS (OpenDocument Spreadsheet)** sangat penting untuk menghasilkan **lembar kerja standar terbuka** dari publikasi digital. File ODS menyediakan format yang fleksibel dan kompatibel secara luas untuk mengatur dan menganalisis data terstruktur. Dengan mengubah EPUB menjadi ODS, para pendidik, peneliti, perpustakaan, dan penerbit dapat mengelola metadata dengan efisien, melacak dataset penelitian, dan menyederhanakan alur kerja penerbitan berbasis data.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Manajemen dataset akademis** – Mengatur dan memelihara data penelitian dari eBook dalam format spreadsheet.
+- **Catatan katalog perpustakaan** – Membuat metadata bibliografi untuk akses dan analisis yang mudah.
+- **Tabulasi metadata** – Mengonversi metadata eBook menjadi tabel spreadsheet terstruktur.
+- **Analisis data penelitian** – Memfasilitasi perhitungan, pengurutan, dan pelaporan menggunakan file ODS.
+- **Alur kerja penerbitan** – Standarisasi manajemen data di seluruh penerbitan editorial dan akademis.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa EPUB-ke-ODS** – Otomatisasi konversi eBook menjadi spreadsheet terstruktur.
+- **Konversi spreadsheet otomatis** – Menyederhanakan pemrosesan metadata dan dataset dalam skala besar.
+- **Ekstraksi dataset massal** – Mengekstrak volume besar data eBook secara efisien.
+- **Analitika penerbitan tingkat perusahaan** – Mengintegrasikan output ODS ke dalam alur kerja analitika dan pelaporan.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

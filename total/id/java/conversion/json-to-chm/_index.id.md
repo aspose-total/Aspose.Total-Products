@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengurai JSON ke CHM dengan tanda air. Untuk me
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke CHM (Compiled HTML Help)** sangat penting untuk membangun **manual bantuan terkompilasi** langsung dari dokumentasi terstruktur. File CHM menggabungkan beberapa topik bantuan menjadi satu sumber daya yang dapat dicari dan diakses secara offline, menjadikannya ideal untuk dukungan perangkat lunak dan manajemen pengetahuan perusahaan. Dengan mengubah JSON menjadi CHM, organisasi dapat menyederhanakan pengiriman dokumentasi, meningkatkan kegunaan, dan memastikan aksesibilitas bahkan tanpa koneksi internet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Dokumentasi perangkat lunak** – Kemas panduan teknis ke dalam format yang mudah digunakan.
+- **Sistem bantuan offline** – Sampaikan dokumentasi tanpa memerlukan akses internet.
+- **Basis pengetahuan perusahaan** – Pusatkan pengetahuan organisasi dalam file bantuan terstruktur.
+- **Manual pelatihan** – Distribusikan sumber daya pembelajaran terkompilasi untuk staf atau siswa.
+- **Referensi API pengembang** – Konversi definisi JSON terstruktur menjadi referensi offline yang dapat dicari.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa JSON ke CHM** – Otomatisasikan konversi data terstruktur menjadi manual bantuan terkompilasi.
+- **Pembuatan file bantuan otomatis** – Hasilkan file CHM langsung dari konten berbasis JSON yang berkembang.
+- **Kompilasi data ke dokumentasi** – Ubah dokumentasi JSON terstruktur menjadi sistem bantuan yang dapat diakses.
+- **Distribusi pengetahuan offline** – Standarisasi manual CHM untuk pelatihan dan dukungan di seluruh perusahaan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

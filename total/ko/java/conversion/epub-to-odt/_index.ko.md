@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB을 ODT(OpenDocument Text)로 변환하는 것은 eBook 및 디지털 출판물로부터 오픈 표준 텍스트 문서를 생성하는 데 필수적입니다. ODT 파일은 크로스 플랫폼 호환성, 편집 가능한 콘텐츠, 그리고 오픈 표준 준수를 보장합니다. EPUB을 ODT로 변환함으로써 교육자, 연구자, 출판사, 기업은 학술 작성, 콘텐츠 배포, 그리고 보관 워크플로우를 효율적으로 최적화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 학술 작성 – 연구 및 과제를 위해 eBook을 편집 가능한 텍스트 문서로 변환합니다.
+- 오픈 소스 출판 – 디지털 출판물을 보편적으로 지원되는 오픈 형식으로 공유합니다.
+- 도서관 보관 – 표준화된 접근 가능한 형식으로 텍스트 콘텐츠를 보존합니다.
+- 교육 콘텐츠 배포 – 편집 가능한 ODT 파일로 수업 및 강의 자료를 제공합니다.
+- 비즈니스 문서화 – 전문적이고 운영 문서에 eBook 콘텐츠를 통합합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- EPUB-to-ODT 파이프라인 – eBook을 ODT 텍스트 문서로 자동 변환합니다.
+- 자동화된 텍스트 문서 변환 – 다중 파일에 대한 출판 워크플로우를 간소화합니다.
+- 메타데이터-to-text 출판 – 구조화된 eBook 데이터를 ODT로 추출하여 보고 및 연구에 활용합니다.
+- 기업 수준 ODT 문서 자동화 – 대규모 텍스트 변환 및 배포를 표준화합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

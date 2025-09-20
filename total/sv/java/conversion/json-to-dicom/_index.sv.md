@@ -49,7 +49,33 @@ Med hjälp av API:t kan du också konvertera JSON till DICOM med vattenstämpel 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Att konvertera **JSON till DICOM (Digital Imaging and Communications in Medicine)** är avgörande för att omvandla **strukturerade hälsodata** till standardiserade medicinska bildformat. DICOM är den globala standarden för att lagra, överföra och visualisera medicinska bilder, vilket möjliggör för vårdgivare, forskare och AI-system att arbeta med konsekventa, interoperabla data. Genom att konvertera JSON till DICOM kan strukturerade patientjournaler och kliniska data integreras sömlöst i bildbehandlingsflöden, vilket stödjer korrekt diagnostik och bättre vårdresultat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga användningsfall" %}}
+
+- **Visualisering av patientjournaler** – Konvertera strukturerade hälsodata till visuella bildformat.
+- **AI-baserad medicinsk bildbehandling** – Möjliggör för maskininlärningssystem att bearbeta JSON-drivna dataset.
+- **Hälsovårdsinteroperabilitet** – Standardisera strukturerade data till globalt accepterade DICOM-format.
+- **Radiologiflöden** – Integrera JSON-baserade rapporter i bild- och diagnostiksystem.
+- **Integration av kliniska forskningsdata** – Omvandla strukturerade dataset till bildkompatibla format för studier.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+- **JSON-till-DICOM-pipelines** – Automatisera omvandlingen av hälsodata till bildklara format.
+- **Automatisk konvertering av medicinska rapporter** – Generera DICOM-filer direkt från JSON-baserade kliniska rapporter.
+- **Hälsovårdsbildbehandling i molnet** – Möjliggör skalbar, interoperabel bilddatautbyte i molnet.
+- **AI-drivna diagnostiksystem** – Driv avancerade diagnostikverktyg med strukturerad-till-bildkonvertering.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

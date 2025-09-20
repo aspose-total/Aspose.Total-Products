@@ -57,7 +57,27 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertering av **HTML till DICOM** är avgörande för att generera **medicinska bildkompatibla utdata** från webbaserade data. DICOM säkerställer att kliniska bilder och hälsoinformation standardiseras för interoperabilitet, arkivering och integration över medicinska system. Genom att konvertera HTML-innehåll till DICOM kan vårdgivare och forskare effektivisera medicinska arbetsflöden samtidigt som de upprätthåller efterlevnad av branschstandarder.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+- **Telemedicinplattformar** – Integrera webbaserade medicinska data i DICOM-kompatibla system.
+- **Integration av medicinska rapporter** – Bädda in text- och bildrapporter i standardiserade hälsoformat.
+- **Hälsoarbetsflöden** – Möjliggör sömlös utbyte av patientdata mellan avdelningar.
+- **Radiologiarkivering** – Lagra bilder och tillhörande webbinnehåll i DICOM-arkiv.
+- **Interoperabilitet mellan olika system** – Underlätta standardiserad datadelning mellan hälsoapplikationer.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- **HTML-till-DICOM-pipelines** – Automatisera konvertering av webbaserat medicinskt innehåll till DICOM.
+- **Automatisk inbäddning av medicinska rapporter** – Integrera HTML-data i patientbildsarbetsflöden.
+- **Masskonvertering av hälsoinformation** – Bearbeta flera rapporter eller webbsidor effektivt i stor skala.
+- **Kliniska arbetsflöden på företagsnivå** – Standardisera HTML-till-DICOM-konvertering över hälsoorganisationer.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

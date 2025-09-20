@@ -49,7 +49,33 @@ Met behulp van de API kunt u JSON ook ontleden naar MOBI met watermerk. Om een w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **JSON naar MOBI** is belangrijk voor het genereren van **Kindle-compatibele eBooks** uit gestructureerde gegevens. MOBI wordt veel gebruikt in Amazon Kindle-apparaten, waardoor het een voorkeursformaat is voor uitgevers, opvoeders en bedrijven. Door JSON-datasets om te zetten in MOBI, kunnen organisaties mobielvriendelijke, gestructureerde en gemakkelijk distribueerbare digitale boeken produceren die consistentie behouden over verschillende eReaders.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+- **Digitale publicatie** – Zet gestructureerde inhoud om in Kindle-ready eBooks.
+- **eLearning inhoud** – Lever cursusmateriaal in toegankelijk MOBI-formaat.
+- **Verspreiding van onderzoek** – Deel academische of technische bevindingen via Kindle-apparaten.
+- **Mobielvriendelijke boeken** – Zorg voor compatibiliteit over eReaders en smartphones.
+- **Enterprise eBook-workflows** – Standaardiseer zakelijke rapporten en documenten voor Kindle-publicatie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+- **JSON-naar-MOBI-pipelines** – Automatiseer eBook-generatie van gestructureerde datasets.
+- **Geautomatiseerde Kindle-ready publicatie** – Stroomlijn eBook-implementatie voor Amazon Kindle.
+- **Dynamische eLearning inhoudsgeneratie** – Creëer interactief cursusmateriaal on-the-fly.
+- **JSON-gedreven eBook-standaardisatie** – Behoud consistente opmaak over meerdere titels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

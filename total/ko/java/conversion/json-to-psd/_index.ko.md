@@ -49,7 +49,33 @@ API를 사용하여 PSD 문서에 워터마크가 있는 JSON을 PSD로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 PSD로 변환**하는 것은 **구조화된 데이터에서 포토샵 디자인 파일을 만드는 데 필수적**입니다. PSD 파일은 레이어, 텍스트 및 효과를 보존하여 동적 데이터셋에서 생성된 완전히 편집 가능한 그래픽으로 디자이너가 작업할 수 있게 합니다. JSON을 PSD로 변환함으로써 조직은 창의적인 워크플로우를 최적화하고 마케팅 시각 자동화를 실현하며 효율적으로 맞춤형, 인쇄용 또는 디지털 디자인 자산을 생산할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **동적 그래픽 디자인** – 변화하는 데이터셋에 적응하는 레이어화된 디자인 파일 생성.
+- **자동화된 마케팅 창작물** – 자동으로 배너, 소셜 미디어 시각 자료 및 캠페인 그래픽 생성.
+- **개인화된 이미지 템플릿** – 고객별 콘텐츠에 맞춤형 템플릿 생성.
+- **웹 및 앱 모형** – 웹사이트 및 모바일 애플리케이션을 위한 상호 작용 모형 구축.
+- **인쇄용 아트워크** – 전문적인 인쇄를 위한 고품질 PSD 파일 준비.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-PSD 파이프라인** – 구조화된 데이터를 레이어화된 포토샵 파일로 자동 변환.
+- **자동화된 포토샵 레이어 생성** – 효율성을 위해 프로그래밍 방식으로 편집 가능한 레이어 생성.
+- **데이터 주도형 디자인 워크플로우** – 데이터셋을 창의적인 프로세스에 직접 통합.
+- **JSON 기반 창작물 자동화** – 마케팅, 웹 및 인쇄 프로젝트 전반에 걸쳐 디자인 생산 확장.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

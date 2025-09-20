@@ -57,7 +57,29 @@ Mit der API können Sie das ausgegebene DICOM-Bild auch nach Ihren Bedürfnissen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertieren von **HTML zu DICOM** ist entscheidend für die Erzeugung von **medizinisch bildkompatiblen Ausgaben** aus webbasierten Daten. DICOM stellt sicher, dass klinische Bilder und gesundheitsbezogene Informationen standardisiert sind für Interoperabilität, Archivierung und Integration in medizinische Systeme. Durch die Umwandlung von HTML-Inhalten in DICOM können Gesundheitsdienstleister und Forscher medizinische Workflows optimieren und gleichzeitig die Einhaltung von Branchenstandards gewährleisten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- **Telemedizin-Plattformen** – Integrieren von webbasierten medizinischen Daten in DICOM-kompatible Systeme.
+- **Integration von medizinischen Berichten** – Einbetten von textuellen und bildgebenden Berichten in standardisierte Gesundheitsformate.
+- **Gesundheitsdienstleistungs-Workflows** – Ermöglichen eines nahtlosen Austauschs von Patientendaten zwischen Abteilungen.
+- **Radiologie-Archivierung** – Speichern von Bildern und zugehörigen webbasierten Inhalten in DICOM-Archiven.
+- **Interoperabilität zwischen Systemen** – Erleichtern des standardisierten Datenaustauschs zwischen Gesundheitsanwendungen.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- **HTML-zu-DICOM-Pipelines** – Automatisieren der Umwandlung von webbasierten medizinischen Inhalten in DICOM.
+- **Automatisiertes Einbetten von medizinischen Berichten** – Integration von HTML-Daten in Patientenbild-Workflows.
+- **Massenkonvertierung von Gesundheitsdaten** – Effiziente Verarbeitung mehrerer Berichte oder Webseiten im großen Maßstab.
+- **Klinische Workflows auf Unternehmensebene** – Standardisierung der HTML-zu-DICOM-Konvertierung in Gesundheitsorganisationen.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

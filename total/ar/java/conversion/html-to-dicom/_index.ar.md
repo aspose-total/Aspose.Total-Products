@@ -57,7 +57,29 @@ otherformats: WMZ TGA SVGZ DICOM WMF EMZ DXF PSD JPEG2000 IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **HTML إلى DICOM** أمر أساسي لإنشاء **مخرجات متوافقة مع الصور الطبية** من البيانات المستندة إلى الويب. يضمن DICOM أن تكون الصور السريرية والمعلومات المتعلقة بالرعاية الصحية موحدة للتشغيل المشترك والأرشفة والتكامل عبر الأنظمة الطبية. من خلال تحويل محتوى HTML إلى DICOM، يمكن لمقدمي الرعاية الصحية والبحاث تبسيط سير العمل الطبي مع الحفاظ على الامتثال لمعايير الصناعة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **منصات الطب عن بُعد** – دمج البيانات الطبية المستندة إلى الويب في أنظمة تتوافق مع DICOM.
+- **دمج تقارير طبية** – تضمين التقارير النصية والصورية في تنسيقات الرعاية الصحية القياسية.
+- **سير العمل الصحي** – تمكين تبادل سلس لبيانات المرضى عبر الأقسام.
+- **أرشفة الأشعة التشخيصية** – تخزين الصور والمحتوى المستند إلى الويب المرتبط في أرشيفات DICOM.
+- **التوافق بين الأنظمة المتقاطعة** – تيسير تبادل البيانات الموحدة بين تطبيقات الرعاية الصحية.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **أنابيب عملية HTML-to-DICOM** – أتمتة تحويل المحتوى الطبي المستند إلى الويب إلى DICOM.
+- **دمج تقارير طبية تلقائيًا** – دمج البيانات الطبية المستندة إلى HTML في سير العمل الخاصة بصور المرضى.
+- **تحويل البيانات الصحية بالجملة** – معالجة تقارير متعددة أو صفحات ويب بكفاءة على نطاق واسع.
+- **سير العمل السريري على مستوى المؤسسة** – توحيد تحويل HTML إلى DICOM عبر منظمات الرعاية الصحية.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

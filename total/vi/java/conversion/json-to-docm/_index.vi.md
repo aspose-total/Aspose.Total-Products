@@ -49,7 +49,33 @@ Sử dụng API, bạn cũng có thể phân tích cú pháp JSON thành DOCM v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **JSON thành DOCM** là quan trọng để nhúng **macros vào tài liệu Word** được tạo ra từ dữ liệu có cấu trúc. Quy trình này cho phép tổ chức kết hợp các bộ dữ liệu thô với các tính năng tự động hóa mạnh mẽ bên trong Word, cho phép tạo nội dung động, thực thi quy tắc kinh doanh và chức năng tương tác của tài liệu. Bằng cách chuyển đổi JSON thành các tệp DOCM, doanh nghiệp có thể tối ưu hóa quy trình làm việc, cải thiện báo cáo và xây dựng các mẫu có macros mà thích ứng với nhu cầu dữ liệu đang phát triển.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+- **Quy trình làm việc tài liệu tự động** – Thúc đẩy việc tạo tài liệu lặp đi lặp lại với macros nhúng.
+- **Kịch bản phân tích dữ liệu** – Tích hợp macros dựa trên JSON cho các tính toán và xử lý thời gian thực.
+- **Mẫu có macros** – Xây dựng các mẫu thông minh có thể tái sử dụng cho tài liệu doanh nghiệp.
+- **Hệ thống báo cáo doanh nghiệp** – Tạo báo cáo với định dạng và phân tích tự động.
+- **Biểu mẫu tuân thủ tương tác** – Cung cấp biểu mẫu với quy tắc xác thực và xử lý có macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+- **Các đường ống JSON-to-DOCM** – Tự động hóa quá trình chuyển đổi bộ dữ liệu có cấu trúc thành các tệp Word có macros.
+- **Macros Word tự kích hoạt** – Thực thi macros một cách động trong hoặc sau quá trình tạo tài liệu.
+- **Xử lý quy tắc kinh doanh động** – Áp dụng chính sách doanh nghiệp và quy tắc dữ liệu trực tiếp trong tài liệu.
+- **Tự động hóa báo cáo có macros** – Tiêu chuẩn hóa và tăng tốc quy trình làm việc báo cáo phức tạp theo quy mô.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

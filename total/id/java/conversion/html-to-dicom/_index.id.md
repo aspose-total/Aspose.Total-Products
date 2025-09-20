@@ -57,7 +57,29 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **HTML ke DICOM** sangat penting untuk menghasilkan **output yang kompatibel dengan citra medis** dari data berbasis web. DICOM memastikan bahwa gambar klinis dan informasi terkait kesehatan distandarisasi untuk interoperabilitas, arsip, dan integrasi di seluruh sistem medis. Dengan mengonversi konten HTML menjadi DICOM, penyedia layanan kesehatan dan peneliti dapat menyederhanakan alur kerja medis sambil mematuhi standar industri.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Platform Telemedicine** – Mengintegrasikan data medis berbasis web ke dalam sistem yang kompatibel dengan DICOM.
+- **Integrasi laporan medis** – Menanamkan laporan teks dan citra ke dalam format kesehatan standar.
+- **Alur kerja kesehatan** – Memungkinkan pertukaran data pasien yang lancar di antara departemen.
+- **Arsip radiologi** – Menyimpan citra dan konten berbasis web terkait dalam arsip DICOM.
+- **Interoperabilitas lintas sistem** – Memfasilitasi pertukaran data yang distandarisasi antara aplikasi kesehatan.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa jalur HTML ke DICOM** – Mengotomatisasi konversi konten medis berbasis web menjadi DICOM.
+- **Penanaman laporan medis otomatis** – Mengintegrasikan data HTML ke alur kerja citra pasien.
+- **Konversi data kesehatan massal** – Memproses beberapa laporan atau halaman web secara efisien dalam skala besar.
+- **Alur kerja klinis tingkat perusahaan** – Menstandarisasi konversi HTML ke DICOM di seluruh organisasi kesehatan.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

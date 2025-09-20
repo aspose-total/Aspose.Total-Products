@@ -57,7 +57,27 @@ L'API vous permet également d'exporter le fichier EPUB vers DXF dans un seul fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion d'**EPUB en DXF** est importante pour générer des **fichiers d'échange de dessins compatibles avec CAO** à partir de publications numériques. Ce processus permet de réutiliser le contenu technique, d'ingénierie et architectural des livres électroniques dans des formats prêts pour la CAO, rendant les diagrammes et illustrations plus accessibles pour les flux de travail professionnels. En extrayant des visuels structurés de l'EPUB en DXF, les éditeurs, ingénieurs et architectes peuvent rationaliser la documentation de conception, améliorer l'interopérabilité et renforcer la facilité d'utilisation des ressources.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+- **Manuels techniques avec des diagrammes** – Convertir des illustrations pédagogiques en fichiers CAO modifiables.
+- **Contenu d'eBook d'ingénierie** – Transformer les ressources d'ingénierie numériques en dessins compatibles avec la CAO.
+- **Documents de référence architecturaux** – Réutiliser les conceptions de bâtiments et les diagrammes des livres électroniques.
+- **Publication de ressources liées à la CAO** – Fournir des publications techniques dans des formats prêts pour DXF.
+- **Flux de travail de documentation de conception** – Normaliser et réutiliser des diagrammes au sein des équipes d'ingénierie.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines de conversion EPUB en DXF** – Automatiser les flux de travail pour générer des fichiers prêts pour la CAO à grande échelle.
+- **Extraction automatisée d'illustrations techniques** – Extraire instantanément des diagrammes des livres électroniques en DXF.
+- **Publication prête pour la CAO** – Fournir aux ingénieurs et architectes des formats CAO directement utilisables.
+- **Documentation d'ingénierie d'entreprise** – Intégrer la conversion EPUB en DXF dans des systèmes de documentation à grande échelle.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

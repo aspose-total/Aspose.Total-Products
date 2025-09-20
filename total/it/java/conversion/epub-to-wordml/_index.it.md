@@ -61,7 +61,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversione di **EPUB in WordML (documenti Word basati su XML)** è essenziale per generare **file Word strutturati e leggibili dalle macchine** da pubblicazioni digitali. WordML garantisce un'integrazione senza soluzione di continuità negli ecosistemi basati su XML, supporta flussi di lavoro ricchi di metadati e migliora l'interoperabilità tra piattaforme. Trasformando EPUB in WordML, editori, accademici e imprese possono ottimizzare l'archiviazione dei contenuti, automatizzare la generazione di documenti e abilitare la creazione di report avanzati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- **Flussi di lavoro editoriali basati su XML** – Semplifica i processi editoriali con documenti Word strutturati in XML.
+- **Reporting accademico ricco di metadati** – Preserva e integra i metadati delle pubblicazioni per le produzioni di ricerca.
+- **Interoperabilità tra piattaforme** – Assicura che i contenuti funzionino senza problemi tra applicazioni e piattaforme.
+- **Archiviazione di contenuti digitali** – Conserva eBook strutturati e leggibili dalle macchine per un uso a lungo termine.
+- **Elaborazione di documenti aziendali in Word** – Abilita l'automazione, la personalizzazione e la scalabilità nei flussi di lavoro documentali.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- **Flussi di lavoro EPUB-to-WordML** – Automatizza la conversione degli eBook in file Word basati su XML.
+- **Generazione automatica di flussi di lavoro WordML in XML** – Potenzia la pubblicazione digitale con WordML pronto per i flussi di lavoro.
+- **Pubblicazione di metadati in WordML** – Trasforma i metadati degli eBook in formati Word strutturati.
+- **Automazione dei documenti a livello aziendale** – Standardizza le operazioni di pubblicazione e reporting su larga scala.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

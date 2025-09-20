@@ -49,7 +49,33 @@ De plus, l'API vous permet de définir des options de mise en page pour votre JS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **JSON en CHM (Compiled HTML Help)** est essentiel pour créer des **manuels d'aide compilés** directement à partir d'une documentation structurée. Les fichiers CHM regroupent plusieurs sujets d'aide en une seule ressource consultable et accessible hors ligne, ce qui les rend idéaux pour le support logiciel et la gestion des connaissances en entreprise. En transformant le JSON en CHM, les organisations peuvent rationaliser la livraison de la documentation, améliorer la convivialité et garantir l'accessibilité même sans connexion Internet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- **Documentation logicielle** – Regrouper des guides techniques dans un format convivial et compilé.
+- **Systèmes d'aide hors ligne** – Distribuer la documentation sans nécessiter d'accès Internet.
+- **Bases de connaissances d'entreprise** – Centraliser les connaissances organisationnelles dans un fichier d'aide structuré.
+- **Manuels de formation** – Distribuer des ressources d'apprentissage compilées pour le personnel ou les étudiants.
+- **Références API pour les développeurs** – Convertir des définitions JSON structurées en références hors ligne consultables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- **Pipelines JSON vers CHM** – Automatiser la conversion de données structurées en manuels d'aide compilés.
+- **Création automatisée de fichiers d'aide** – Générer des fichiers CHM directement à partir de contenu JSON évolutif.
+- **Compilation de données en documentation** – Transformer la documentation JSON structurée en systèmes d'aide accessibles.
+- **Distribution de connaissances hors ligne** – Normaliser les manuels CHM pour la formation et le support à l'échelle de l'entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

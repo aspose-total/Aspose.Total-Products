@@ -49,7 +49,33 @@ otherformats: RTF FLATOPC ODT DOTX WORDML PCL DOC EPUB OTT WORD PS MOBI DOT DOCM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 DOT** 对于从结构化数据源创建 **Word 模板** 至关重要。这种转换使企业能够将原始数据集转化为可重复使用、标准化的模板，从而确保公司、法律和部门文件的一致性。通过从 JSON 生成 DOT 文件，组织可以自动化模板生成，简化合规驱动的工作流程，并在所有文件中保持品牌一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **企业信头** – 为官方通信制作品牌模板。
+- **法律模板** – 直接从结构化数据标准化协议和合同。
+- **发票自动化** – 生成由 JSON 输入驱动的可重复使用发票格式。
+- **标准化协议** – 确保公司和合作伙伴文件的统一性。
+- **部门模板** – 在团队之间提供一致的文档格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 DOT 管道** – 从结构化数据集自动创建 Word 模板。
+- **自动化模板生成** – 以最少的手动工作构建标准化模板。
+- **JSON 驱动的企业文件框架** – 使用动态数据为整个企业提供模板系统支持。
+- **模板分发工作流** – 在组织中一致地部署可立即使用的 DOT 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

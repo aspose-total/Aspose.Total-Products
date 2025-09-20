@@ -49,7 +49,33 @@ Utilizzando l'API, puoi anche convertire JSON in DXF con filigrana nel tuo docum
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **JSON in DXF (Drawing Exchange Format)** è essenziale per generare disegni **CAD** da set di dati strutturati. DXF è un formato ampiamente adottato in architettura, ingegneria, design industriale e applicazioni GIS, rendendolo ideale per trasformare dati basati su JSON in disegni tecnici precisi ed editabili. Questa conversione consente flussi di lavoro senza soluzione di continuità da dati a design, migliorando l'interoperabilità tra sistemi CAD e supportando l'automazione nei processi di design moderni.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+- **Layout architettonici** – Convertire i dati degli edifici in piantine CAD editabili.
+- **Modelli di ingegneria** – Generare progetti strutturali e meccanici da input JSON.
+- **Automazione CAD basata su JSON** – Ottimizzare i flussi di lavoro CAD trasformando set di dati strutturati.
+- **Flussi di lavoro di design industriale** – Creare disegni precisi di prodotti e componenti da dati JSON.
+- **Mappatura GIS** – Convertire dati geospaziali in DXF per progetti di pianificazione urbana e infrastrutturale.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+- **Pipeline JSON-to-DXF** – Automatizzare la trasformazione di dati strutturati in disegni pronti per CAD.
+- **Generazione automatica di disegni CAD** – Creare diagrammi tecnici direttamente da set di dati JSON.
+- **Flussi di lavoro da dati a design** – Abilitare l'integrazione senza soluzione di continuità di dati strutturati nelle applicazioni CAD.
+- **Modellazione intelligente delle infrastrutture** – Potenziare sistemi moderni di infrastrutture e mappatura con output DXF basati su JSON.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

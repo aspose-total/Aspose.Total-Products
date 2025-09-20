@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力IMAGE画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTML**を**IMAGE**に変換することは、Webページの正確なビジュアルスナップショットをキャプチャするために不可欠です。このプロセスにより、デザイナーやマーケター、開発者が、動的または静的なWebコンテンツを共有可能で閲覧可能な画像に変換し、デバイス間でウェブサイトの外観や雰囲気を維持することができます。Webページの画像表現を作成することで、チームはプレビューを効率化し、デジタルコンテンツを強化し、視覚的な記録を効率的に維持することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* **ウェブサイトのプレビュー:** ポートフォリオ、クライアントレビュー、またはクイックビジュアルリファレンス用のスナップショットを生成します。
+* **インフォグラフィック:** データ豊富なWebページを共有可能なビジュアル形式に変換します。
+* **UI/UXデザインワークフロー:** テスト、フィードバック、および反復のためのページデザインをキャプチャします。
+* **アーカイブスクリーンショット:** コンプライアンスまたは文書化のためにウェブサイトの歴史的なバージョンを保存します。
+* **デジタルマーケティング資産:** ウェブコンテンツから直接、バナー、ソーシャルメディアのビジュアル、プロモーショングラフィックスを作成します。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **HTML-to-IMAGEパイプライン:** 手動作業を最小限に抑えて複数のWebページを画像にシームレスに変換します。
+* **自動化されたWebページから画像へのレンダリング:** レポート作成や監視のために動的ページのレンダリングをスケジュールします。
+* **大量スクリーンショット生成:** 大規模プロジェクト向けに同時に数百ページをキャプチャします。
+* **エンタープライズ規模のデジタルパブリッシング:** ウェブサイト、ニュースレター、または製品カタログ向けのコンテンツワークフローに画像生成を統合します。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

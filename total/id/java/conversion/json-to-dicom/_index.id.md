@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengonversi JSON ke DICOM dengan tanda air di d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke DICOM (Digital Imaging and Communications in Medicine)** sangat penting untuk mengubah **data kesehatan terstruktur** menjadi format citra medis yang terstandar. DICOM adalah standar global untuk menyimpan, mentransmisikan, dan memvisualisasikan gambar medis, memungkinkan penyedia layanan kesehatan, peneliti, dan sistem kecerdasan buatan (AI) untuk bekerja dengan data yang konsisten dan dapat dioperasikan. Dengan mengonversi JSON ke DICOM, catatan pasien terstruktur dan data klinis dapat terintegrasi dengan lancar ke dalam alur kerja citra, mendukung diagnosis yang akurat dan hasil perawatan kesehatan yang lebih baik.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Visualisasi catatan pasien** – Mengonversi data kesehatan terstruktur ke dalam format citra visual.
+- **Pengolahan citra medis berbasis AI** – Memungkinkan sistem pembelajaran mesin untuk memproses kumpulan data yang didorong oleh JSON.
+- **Interoperabilitas layanan kesehatan** – Standarisasi data terstruktur ke dalam format DICOM yang diterima secara global.
+- **Alur kerja radiologi** – Mengintegrasikan laporan berbasis JSON ke dalam sistem citra dan diagnostik.
+- **Integrasi data penelitian klinis** – Mengubah kumpulan data terstruktur ke dalam format yang kompatibel dengan citra untuk studi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa data JSON ke DICOM** – Otomatisasi transformasi data kesehatan ke dalam format siap citra.
+- **Konversi laporan medis otomatis** – Menghasilkan file DICOM langsung dari laporan klinis berbasis JSON.
+- **Pengolahan citra kesehatan berbasis cloud** – Memungkinkan pertukaran data citra yang dapat dioperasikan dan dapat diperluas di cloud.
+- **Sistem diagnostik berbasis AI** – Mendukung alat diagnostik canggih dengan konversi data terstruktur ke citra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

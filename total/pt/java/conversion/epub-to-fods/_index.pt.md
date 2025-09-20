@@ -47,7 +47,27 @@ Ao converter o arquivo EPUB para FODS, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para FODS (Planilhas ODS XML planas)** é essencial para gerar **arquivos de planilha de padrão aberto** a partir de eBooks e publicações digitais. FODS garante compatibilidade com suítes de escritório de código aberto, suporta formatação XML estruturada e permite o compartilhamento de dados sem interrupções. Ao transformar EPUB em FODS, editores, pesquisadores e instituições podem tabular metadados, simplificar a catalogação e compartilhar conjuntos de dados de pesquisa em um formato universalmente acessível.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Tabulação de metadados** – Converter metadados de eBooks em tabelas de planilhas estruturadas.
+- **Coleta de dados de pesquisa** – Extrair e organizar dados acadêmicos de publicações digitais.
+- **Fluxos de trabalho de publicação de código aberto** – Utilize FODS com o LibreOffice e outras plataformas abertas.
+- **Registros de catálogo de biblioteca** – Gerenciar dados bibliográficos em planilhas de padrão aberto.
+- **Compartilhamento de conjuntos de dados acadêmicos** – Distribuir conjuntos de dados estruturados para colaboração e análise.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de EPUB para FODS** – Automatizar a conversão de publicações digitais em planilhas FODS.
+- **Geração automatizada de planilhas** – Simplificar o processamento de dados de publicação e pesquisa.
+- **Extração de conjuntos de dados baseada em XML** – Converter conteúdo de eBooks em planilhas estruturadas e legíveis por máquina.
+- **Fluxos de trabalho de publicação acadêmica empresarial** – Padronizar o manuseio de dados de pesquisa entre instituições.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

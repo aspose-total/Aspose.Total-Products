@@ -57,7 +57,31 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **EPUB sang DICOM** là một phương pháp đổi mới để chuyển đổi các xuất bản kỹ thuật số thành **các tệp tương thích với hình ảnh y học**. Quy trình này cho phép các chuyên gia y tế, nhà nghiên cứu và giáo viên nhúng nội dung eBook có cấu trúc vào định dạng DICOM, giúp dễ dàng truy cập trong các hệ thống hình ảnh y học. Bằng cách tích hợp tài nguyên dựa trên văn bản vào quy trình làm việc với hình ảnh, bệnh viện và các cơ sở y tế có thể nâng cao quá trình đào tạo, cải thiện việc tuân thủ và tối ưu hóa tài liệu lâm sàng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- **eBook đào tạo y tế** – Chuyển đổi tài liệu học tập thành định dạng tương thích với các nền tảng hình ảnh.
+- **Tài liệu nghiên cứu lâm sàng** – Lưu trữ và chuẩn hóa các bản xuất bản nghiên cứu trong hệ thống DICOM.
+- **Nội dung giáo dục chuyên ngành nhi khoa** – Nâng cao tài nguyên giảng dạy bằng cách tích hợp văn bản vào quy trình làm việc với hình ảnh.
+- **Lưu trữ dữ liệu bệnh viện** – Bảo quản dữ liệu xuất bản cùng với hồ sơ hình ảnh bệnh nhân.
+- **Quy trình tuân thủ y tế** – Đảm bảo các xuất bản y tế tuân thủ định dạng kỹ thuật số chuẩn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- **Các đường ống EPUB-to-DICOM** – Tự động hóa quá trình chuyển đổi cho các quy trình làm việc với dữ liệu y tế có thể mở rộng.
+- **Chuyển đổi xuất bản y tế tự động** – Biến đổi eBook thành tài nguyên tương thích với DICOM ngay lập tức.
+- **Tích hợp học trực tuyến cho y tế** – Cung cấp nội dung y tế tương tác trong các nền tảng đào tạo.
+- **Chuẩn hóa tập dữ liệu nghiên cứu** – Chuyển đổi tài liệu lâm sàng và nghiên cứu thành tập dữ liệu DICOM thống nhất.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

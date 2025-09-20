@@ -78,7 +78,29 @@ otherformats: DIF XLSM XLT ODS CSV EXCEL XLAM XLTX MD FODS SXC TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **EPUB ל־TSV** היא שיטה יעילה ליצירת **מערכות נתונים בפורמט פסולת** מספרי ספרים אלקטרוניים ותוכן דיגיטלי. קבצי TSV משמשים באופן נרחב להחלפת נתונים מובנים, מציעים פשטות, קריאות ותאימות עם מערכות אקדמיות, מוסדיות ועסקיות. על ידי חילוץ תוכן ספר אלקטרוני לפורמט TSV, יצרנים, חוקרים וארגונים יכולים לקצר את שיתוף הנתונים, לשפר את האינטרופרביליות ולשמור על מטא-נתונים רב־לשוניים בקלות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- **שיתוף נתוני מערכת אקדמית** – להפיץ נתוני מחקר מובנים בפורמט התאמה אוניברסלית.
+- **ייצוא מטא-נתונים רב־לשוני** – לשמור פרטי פרסום ספציפיים לשפה בקבצי TSV.
+- **תהליכי בית ההוצאה** – לתקן נתונים טבלאיים לצוותי עריכה והפקה.
+- **החלפת נתונים מוסדית** – לקלות בשיתוף נתונים בין מחלקות וארגונים.
+- **אינטרופרביליות במחקר** – לתמוך בלימודים שיתופיים עם מערכות נתונים ניתנות להחלפה בקלות.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות EPUB-to-TSV** – לאוטומציה של תהליכי עבודה מספרי ספרים אלקטרוניים למערכות נתונים בקנה מידה.
+- **המרת נתונים מובנים אוטומטית** – להמיר מיד נתוני פרסום לפורמט TSV.
+- **פרסום מטא-נתונים ל־TSV** – להמיר מטא-נתוני פרסום לערכים מובנים ומופרדים בטבלה.
+- **אינטגרציה של נתונים ברמה עסקית** – לאינטגרציה של מערכות נתונים בפורמט TSV לפלטפורמות דיווח ומחקר בקנה מידה.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

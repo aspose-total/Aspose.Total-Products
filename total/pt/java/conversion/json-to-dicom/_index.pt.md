@@ -49,7 +49,31 @@ Usando a API, você também pode converter JSON em DICOM com marca d'água em se
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **JSON para DICOM (Digital Imaging and Communications in Medicine)** é crucial para transformar **dados estruturados de saúde** em formatos padronizados de imagens médicas. O DICOM é o padrão global para armazenar, transmitir e visualizar imagens médicas, permitindo que prestadores de cuidados de saúde, pesquisadores e sistemas de IA trabalhem com dados consistentes e interoperáveis. Ao converter JSON em DICOM, registros de pacientes estruturados e dados clínicos podem ser integrados de forma transparente em fluxos de trabalho de imagens, apoiando diagnósticos precisos e melhores resultados de saúde.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+- **Visualização de registros de pacientes** – Converter dados estruturados de saúde em formatos de imagens visuais.
+- **Imagens médicas baseadas em IA** – Permitir que sistemas de aprendizado de máquina processem conjuntos de dados orientados por JSON.
+- **Interoperabilidade em saúde** – Padronizar dados estruturados em formatos DICOM globalmente aceitos.
+- **Fluxos de trabalho de radiologia** – Integrar relatórios baseados em JSON em sistemas de imagens e diagnósticos.
+- **Integração de dados de pesquisa clínica** – Transformar conjuntos de dados estruturados em formatos compatíveis com imagens para estudos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+- **Pipelines de JSON para DICOM** – Automatizar a transformação de dados de saúde em formatos prontos para imagens.
+- **Conversão automatizada de relatórios médicos** – Gerar arquivos DICOM diretamente de relatórios clínicos baseados em JSON.
+- **Imagens de saúde baseadas em nuvem** – Possibilitar a troca escalável e interoperável de dados de imagens na nuvem.
+- **Sistemas de diagnóstico baseados em IA** – Potencializar ferramentas de diagnóstico avançadas com conversão de estruturado para imagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

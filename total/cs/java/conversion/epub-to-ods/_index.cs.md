@@ -47,7 +47,29 @@ Při převodu souboru EPUB na ODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}  
+Převod **EPUB na ODS (OpenDocument Spreadsheet)** je zásadní pro generování **tabulek ve standardu otevřených formátů** z digitálních publikací. Soubory ODS poskytují flexibilní a široce kompatibilní formát pro organizaci a analýzu strukturovaných dat. Transformací EPUB na ODS mohou pedagogové, výzkumníci, knihovny a vydavatelé efektivně spravovat metadata, sledovat výzkumná data a zjednodušit pracovní postupy založené na datech.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
+- **Správa akademických datových sad** – Organizace a udržování výzkumných dat z e-knih ve formátu tabulky.  
+- **Záznamy knihovního katalogu** – Tabulkování bibliografických metadat pro snadný přístup a analýzu.  
+- **Tabulkování metadat** – Převod metadat e-knih do strukturovaných tabulek.  
+- **Analýza výzkumných dat** – Umožnění výpočtů, třídění a reportování pomocí souborů ODS.  
+- **Pracovní postupy vydávání** – Standardizace správy dat v rámci redakčního a akademického vydávání.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}  
+- **Potrubí EPUB na ODS** – Automatizace převodu e-knih do strukturovaných tabulek.  
+- **Automatický převod tabulek** – Zjednodušení zpracování metadat a datových sad ve velkém měřítku.  
+- **Hromadné extrakce datových sad** – Efektivní extrakce velkých objemů dat z e-knih.  
+- **Analytika vydávání na úrovni podniku** – Integrace výstupů ODS do analytických a reportovacích pracovních postupů.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

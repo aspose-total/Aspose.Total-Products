@@ -49,7 +49,33 @@ otherformats: EPUB PCL WORDML WORD RTF MOBI DOT ODT PS FLATOPC DOTX OTT DOCM DOC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 WORD** 对于将 **结构化数据集转换为可编辑的 Microsoft Word 文档** 至关重要。Word 文件使组织能够直接从结构化数据生成完全可编辑、标准化和专业格式的文档。通过将 JSON 转换为 Word，企业可以高效地简化报告、法律文件、学术内容创建和政府记录管理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **商业报告** – 为企业决策制定结构化、可编辑的报告。
+- **法律合同** – 自动创建标准化协议和合同。
+- **学术文件** – 从结构化数据集生成研究论文、文章和讲义。
+- **政府记录** – 为官方用途维护合规、可编辑的文档。
+- **企业文档** – 为内部和外部工作流程标准化企业文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 Word 管道** – 自动将结构化数据转换为 Word 文档。
+- **自动化文档生成** – 减少手动内容创建，同时确保格式一致性。
+- **企业范围的报告工作流程** – 高效地扩展部门间的文档生成。
+- **基于 JSON 的内容创建** – 直接从结构化数据集填充 Word 文档，确保准确性和速度。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,29 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 PPSM（启用宏的 PowerPoint 演示）** 对于从电子书生成 **交互式幻灯片文件** 至关重要。PPSM 文件允许幻灯片包含用于自动化、互动性和动态内容更新的宏，使其非常适用于教育、企业和出版应用。通过将 EPUB 转换为 PPSM，组织可以提供增强参与度并简化演示工作流程的智能演示文稿。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **自动化学术展示** – 生成带有预配置互动元素的讲座幻灯片。
+- **带宏的培训材料** – 创建带有自动化导航或计算的教学演示文稿。
+- **企业幻灯片自动化** – 标准化和自动化业务演示工作流程。
+- **出版预览** – 向客户或利益相关者提供电子书内容的交互式预览。
+- **研究演示回放** – 为动态研究演示制作启用宏的幻灯片。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 PPSM 管道** – 自动化将电子书转换为启用宏的幻灯片文件。
+- **启用宏的幻灯片创建** – 直接将互动性和自动化嵌入幻灯片中。
+- **基于元数据的自动化** – 使用结构化的电子书数据填充幻灯片。
+- **企业演示工作流程** – 简化大规模生产和分发交互式幻灯片。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

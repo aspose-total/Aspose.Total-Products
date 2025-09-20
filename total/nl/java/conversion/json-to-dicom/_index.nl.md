@@ -49,7 +49,33 @@ Met behulp van de API kunt u JSON ook converteren naar DICOM met watermerk in uw
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **JSON naar DICOM (Digital Imaging and Communications in Medicine)** is cruciaal voor het omzetten van **gestructureerde gezondheidsgegevens** naar gestandaardiseerde medische beeldformaten. DICOM is de wereldwijde standaard voor het opslaan, verzenden en visualiseren van medische beelden, waardoor zorgverleners, onderzoekers en AI-systemen kunnen werken met consistente, interoperabele gegevens. Door JSON om te zetten naar DICOM kunnen gestructureerde patiëntendossiers en klinische gegevens naadloos worden geïntegreerd in beeldvormingsworkflows, waardoor nauwkeurige diagnostiek en betere gezondheidsresultaten worden ondersteund.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+- **Visualisatie van patiëntendossiers** – Converteer gestructureerde gezondheidsgegevens naar visuele beeldformaten.
+- **AI-gebaseerde medische beeldvorming** – Maak machinaal leren systemen in staat om op JSON gebaseerde datasets te verwerken.
+- **Gezondheidszorginteroperabiliteit** – Standaardiseer gestructureerde gegevens naar wereldwijd geaccepteerde DICOM-formaten.
+- **Radiologieworkflows** – Integreer op JSON gebaseerde rapporten in beeldvormings- en diagnostische systemen.
+- **Integratie van klinische onderzoeksgegevens** – Transformeer gestructureerde datasets naar beeldvorming-compatibele formaten voor studies.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+- **JSON-naar-DICOM-pipelines** – Automatiseer de transformatie van gezondheidsgegevens naar beeldvormingsklare formaten.
+- **Geautomatiseerde conversie van medische rapporten** – Genereer DICOM-bestanden rechtstreeks vanuit op JSON gebaseerde klinische rapporten.
+- **Cloudgebaseerde gezondheidszorgbeeldvorming** – Maak schaalbare, interoperabele uitwisseling van beeldvormingsgegevens in de cloud mogelijk.
+- **AI-gestuurde diagnostische systemen** – Voed geavanceerde diagnostische tools met gestructureerde-naar-beeldvorming conversie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

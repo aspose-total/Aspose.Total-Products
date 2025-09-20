@@ -68,7 +68,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUBをXAMLFLOWに変換**することは、**モダンなアプリケーション向けのフローベースのドキュメントレイアウト**を生成するために不可欠です。XAMLFLOWは、動的でインタラクティブ、適応性のあるコンテンツのレンダリングを可能にし、デジタル出版、研究の可視化、アプリケーション駆動のドキュメントに最適です。EPUBをXAMLFLOWに変換することで、出版社や開発者は、読みやすさ、関与度、クロスプラットフォームの相互作用を向上させるレスポンシブなレイアウトを作成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- **デジタル出版ワークフロー** – 適応性のあるインタラクティブなeBookレイアウトを効率化します。
+- **インタラクティブなeBook** – 動的でフローベースのコンテンツでユーザーの関与を向上させます。
+- **アプリケーション駆動のコンテンツ** – 出版物をアプリベースのインターフェースにシームレスに統合します。
+- **研究文書の可視化** – 複雑なデータセットや出版物を構造化され、読みやすいフローで提示します。
+- **動的なレイアウト** – デバイスやプラットフォーム間でレスポンシブデザインを可能にします。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからXAMLFLOWへのパイプライン** – eBookをフローベースのレイアウトに自動変換します。
+- **自動化されたフロードキュメント生成** – 出版コンテンツからインタラクティブなドキュメントを生成します。
+- **大量コンテンツ変換** – 大規模なEPUBライブラリを効率的にXAMLFLOWに変換します。
+- **エンタープライズレベルの出版アプリ** – スケーラブルなデジタル出版プラットフォームにXAMLFLOW生成を統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

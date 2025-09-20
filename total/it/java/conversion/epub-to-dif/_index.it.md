@@ -47,7 +47,27 @@ Durante la conversione del file EPUB in DIF, puoi anche aggiungere una filigrana
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversione di **EPUB in DIF** è preziosa per creare **file di formato di interscambio dati** da eBook e pubblicazioni digitali. I file DIF forniscono un modo leggero e strutturato per scambiare dati tra applicazioni, rendendoli particolarmente utili negli ambienti accademici, editoriali e aziendali. Convertendo i contenuti o i metadati EPUB in DIF, le organizzazioni possono migliorare l'interoperabilità, semplificare la segnalazione e migliorare la condivisione dei dataset di ricerca.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- **Scambio di dati tra sistemi** – Agevolare il trasferimento senza soluzione di continuità dei dati di pubblicazione.
+- **Conversione di metadati accademici** – Standardizzare i metadati degli eBook in un formato amico della ricerca.
+- **Interoperabilità dei fogli di calcolo** – Garantire la compatibilità tra Excel e altri strumenti di fogli di calcolo.
+- **Esportazioni di dataset di ricerca** – Convertire i contenuti strutturati degli eBook in file dati condivisibili.
+- **Flussi di lavoro editoriali** – Semplificare i processi di segnalazione e gestione del catalogo.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- **Pipeline da EPUB a DIF** – Automatizzare i flussi di lavoro di conversione per grandi collezioni digitali.
+- **Generazione automatica di interscambio dati** – Creare istantaneamente file DIF dai metadati degli eBook.
+- **Integrazione di pubblicazione multi-piattaforma** – Abilitare un trasferimento dati fluido tra sistemi di pubblicazione.
+- **Gestione di dataset aziendali** – Gestire e distribuire dati di pubblicazione strutturati su larga scala.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

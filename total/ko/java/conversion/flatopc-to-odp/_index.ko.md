@@ -54,7 +54,33 @@ API를 사용하면 암호로 보호된 FLATOPC 문서를 ODP로 변환할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**FLATOPC**를 **ODP (OpenDocument Presentation)**로 변환하는 것은 WordprocessingML 문서에서 **OpenDocument Presentation 파일**을 생성하는 데 필수적입니다. ODP 파일은 오픈 소스 오피스 스위트와의 호환성을 보장하며, 크로스 플랫폼 접근성을 지원하고, 슬라이드 형식 및 콘텐츠 무결성을 보존합니다. FLATOPC 문서를 ODP로 변환함으로써 조직은 프레젠테이션 워크플로우를 최적화하고, 협업을 강화하며, 학술, 정부 및 기업용으로 오픈 표준을 채택할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **크로스 플랫폼 프레젠테이션** – 서로 다른 운영 체제 및 오피스 스위트 간에 원활하게 작동하는 슬라이드 생성
+* **학술 슬라이드** – WordprocessingML 콘텐츠를 강의 및 세미나 프레젠테이션으로 변환
+* **정부 문서 작성** – 공식 프레젠테이션 자료에 대한 오픈 표준 준수 유지
+* **교육용 강의** – 교실이나 온라인 강좌용 구조화되고 편집 가능한 슬라이드 덱 준비
+* **오픈 소스 워크플로우** – 무료 및 오픈 소스 오피스 애플리케이션을 활용한 협업 워크플로우 활성화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **FLATOPC-to-ODP 파이프라인** – WordprocessingML 문서를 프레젠테이션 파일로 자동 변환
+* **자동 슬라이드 생성** – 소스 문서에서 일관되게 구조화된 ODP 슬라이드 덱 생성
+* **기관을 위한 대량 변환** – 학술 또는 정부 기관을 위해 여러 문서를 효율적으로 처리
+* **기업용 오픈 표준 게시** – 대규모 오픈 문서 워크플로우에 ODP 생성 통합
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

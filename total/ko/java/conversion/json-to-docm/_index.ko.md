@@ -49,7 +49,33 @@ API를 사용하여 워터마크를 사용하여 JSON을 DOCM으로 구문 분�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 DOCM으로 변환하는 것**은 구조화된 데이터에서 생성된 **Word 문서에 매크로를 포함하는 데 중요**합니다. 이 프로세스를 통해 조직은 워드 내에서 강력한 자동화 기능과 함께 기본 데이터 세트를 결합하여 동적 콘텐츠 생성, 비즈니스 규칙 실행 및 대화형 문서 기능을 가능하게 합니다. JSON을 DOCM 파일로 변환함으로써 기업은 업무 프로세스를 최적화하고 보고서 작성을 강화하며, 변화하는 데이터 요구에 적응하는 매크로 활성화된 템플릿을 구축할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **자동 문서 워크플로우** – 포함된 매크로로 반복 가능한 문서 작성을 촉진합니다.
+- **데이터 분석 스크립트** – 실시간 계산 및 처리를 위해 JSON 기반 매크로를 통합합니다.
+- **매크로 활성화된 템플릿** – 기업 문서 작성을 위한 재사용 가능하고 지능적인 템플릿을 작성합니다.
+- **기업 보고 시스템** – 자동 서식 지정 및 분석을 통한 보고서 생성합니다.
+- **대화형 규정 준수 양식** – 매크로 활성화된 유효성 검사 및 처리 규칙이 포함된 양식을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-DOCM 파이프라인** – 구조화된 데이터 세트를 매크로 활성화된 Word 파일로 자동 변환합니다.
+- **자동 트리거된 Word 매크로** – 문서 생성 중이나 후에 동적으로 매크로를 실행합니다.
+- **동적 비즈니스 규칙 처리** – 문서 내에서 기업 정책 및 데이터 규칙을 직접 적용합니다.
+- **매크로 활성화된 보고서 자동화** – 규모에 맞게 복잡한 보고서 작업을 표준화하고 가속화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

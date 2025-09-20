@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengonversi JSON ke DXF dengan tanda air di dok
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke DXF (Drawing Exchange Format)** sangat penting untuk menghasilkan gambar **CAD** dari kumpulan data terstruktur. DXF adalah format yang banyak digunakan dalam arsitektur, rekayasa, desain industri, dan aplikasi GIS, sehingga ideal untuk mengubah data berbasis JSON menjadi gambar teknis yang akurat dan dapat diedit. Konversi ini memungkinkan alur kerja data-ke-desain yang mulus, meningkatkan interoperabilitas di seluruh sistem CAD, dan mendukung otomatisasi dalam proses desain modern.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Tata letak arsitektur** – Mengonversi data bangunan menjadi rencana lantai CAD yang dapat diedit.
+- **Model rekayasa** – Menghasilkan desain struktural dan mekanikal dari input JSON.
+- **Otomatisasi CAD berbasis JSON** – Mempermudah alur kerja CAD dengan mengubah kumpulan data terstruktur.
+- **Alur kerja desain industri** – Membuat gambar produk dan komponen yang akurat dari data JSON.
+- **Pemetaan GIS** – Mengonversi data geospasial menjadi DXF untuk proyek perencanaan perkotaan dan infrastruktur.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa JSON ke DXF** – Mengotomatisasi transformasi data terstruktur menjadi gambar siap CAD.
+- **Generasi gambar CAD otomatis** – Membuat diagram teknis langsung dari kumpulan data JSON.
+- **Alur kerja data-ke-desain** – Memungkinkan integrasi mulus data terstruktur ke dalam aplikasi CAD.
+- **Modeling infrastruktur cerdas** – Mendukung sistem infrastruktur dan pemetaan modern dengan output DXF berbasis JSON.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

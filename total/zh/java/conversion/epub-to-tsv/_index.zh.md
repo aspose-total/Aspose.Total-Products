@@ -49,7 +49,29 @@ otherformats: DIF XLSM XLT ODS TSV EXCEL XLAM XLTX MD FODS SXC TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 TSV** 是从电子书和数字内容生成 **制表符分隔数据集** 的高效方法。TSV 文件被广泛用于结构化数据交换，提供简单性、可读性，并与学术、机构和企业系统兼容。通过将电子书内容提取为 TSV 格式，出版商、研究人员和组织可以简化数据共享，增强互操作性，并轻松维护多语言元数据。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **学术数据集共享** – 以通用兼容格式分发结构化研究数据。
+- **多语言元数据导出** – 在 TSV 文件中保留特定语言的出版详细信息。
+- **出版社工作流程** – 为编辑和制作团队标准化表格数据。
+- **机构数据交换** – 促进部门和组织之间的数据共享。
+- **研究互操作性** – 支持易于交换数据集的协作研究。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 TSV 管道** – 自动化规模化的电子书到数据集工作流程。
+- **自动化数据集转换** – 立即将出版数据转换为 TSV 格式。
+- **元数据到 TSV 发布** – 将出版元数据转换为结构化的制表符分隔数值。
+- **企业级数据集成** – 将 TSV 数据集集成到大规模报告和研究平台中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

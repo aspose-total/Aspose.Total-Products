@@ -57,7 +57,27 @@ L'API vous permet également d'exporter le fichier EPUB vers DICOM dans un seul 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}  
+Convertir **EPUB en DICOM** est une approche innovante pour transformer les publications numériques en fichiers compatibles avec l'imagerie médicale. Ce processus permet aux professionnels de la santé, aux chercheurs et aux éducateurs d'intégrer du contenu structuré d'eBook dans des formats DICOM, le rendant accessible au sein des systèmes d'imagerie médicale. En intégrant des ressources basées sur du texte aux flux de travail d'imagerie, les hôpitaux et les institutions peuvent améliorer la formation, renforcer la conformité et rationaliser la documentation clinique.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
+- **Livres électroniques de formation médicale** – Convertir les supports d'étude en formats compatibles avec les plateformes d'imagerie.  
+- **Documentation de recherche clinique** – Stocker et normaliser les publications de recherche dans les systèmes DICOM.  
+- **Contenu éducatif en radiologie** – Améliorer les ressources pédagogiques en intégrant du texte aux flux de travail d'imagerie.  
+- **Archivage des données hospitalières** – Conserver les données de publication aux côtés des dossiers d'imagerie des patients.  
+- **Flux de travail de conformité en santé** – Veiller à ce que les publications médicales suivent des formats numériques normalisés.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
+- **Pipelines EPUB-to-DICOM** – Automatiser la conversion pour des flux de travail de données de santé évolutifs.  
+- **Conversion automatisée de publications médicales** – Transformer instantanément des livres électroniques en ressources compatibles avec DICOM.  
+- **Intégration de l'apprentissage en ligne pour la santé** – Diffuser du contenu médical interactif au sein des plateformes de formation.  
+- **Normalisation des ensembles de données de recherche** – Convertir des documents cliniques et de recherche en ensembles de données DICOM uniformes.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

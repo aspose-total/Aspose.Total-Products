@@ -57,7 +57,29 @@ Usando a API, você também pode girar a imagem APNG de saída conforme suas nec
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para APNG** desempenha um papel vital em aprimorar a publicação digital, transformando eBooks estáticos em **pré-visualizações de imagens animadas**. Esse processo dá vida às publicações digitais, tornando-as mais envolventes, interativas e visualmente atraentes em várias plataformas. Desde e-learning até marketing, as pré-visualizações de APNG ajudam os editores a oferecer experiências dinâmicas que capturam a atenção.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Pré-visualizações interativas de livros** – Destaque animações de destaques de livros digitais.
+- **Conteúdo de e-learning animado** – Forneça explicações visuais para melhor engajamento dos alunos.
+- **Publicação de mídia rica** – Adicione pré-visualizações dinâmicas para aprimorar a narrativa e o design.
+- **Materiais criativos de marketing digital** – Use trechos animados para campanhas promocionais.
+- **Narrativa multiplataforma** – Compartilhe animações em dispositivos e plataformas de forma contínua.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de conversão EPUB para APNG** – Fluxos de trabalho simplificados para editores.
+- **Geração automatizada de pré-visualizações animadas** – Crie pré-visualizações instantaneamente em escala.
+- **Integrações de plataformas de e-learning** – Converta lições em trechos de APNG envolventes.
+- **Automação de publicação em larga escala** – Possibilite a conversão em massa para bibliotecas digitais.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

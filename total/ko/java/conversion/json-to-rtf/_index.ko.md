@@ -49,7 +49,33 @@ API를 사용하여 워터마크를 사용하여 JSON을 RTF으로 구문 분석
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 RTF로 변환하는 것**은 구조화된 데이터로부터 **크로스 플랫폼 리치 텍스트 문서**를 생성하는 데 중요합니다. RTF 파일은 운영 체제, 텍스트 편집기 및 레거시 플랫폼 간의 넓은 호환성을 제공하여 경량, 휴대용 및 서식이 있는 문서가 필요한 조직에 이상적입니다. JSON을 RTF로 변환함으로써 비즈니스는 일관된 데이터 표현을 가능하게 하고 풍부한 서식을 유지하며 다양한 환경 간에 쉽게 문서를 공유할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **크로스 플랫폼 문서 공유** – 여러 기기 및 편집기에서 접근 가능한 서식이 있는 콘텐츠 제공.
+- **경량 보고서 작성** – 구조화된 JSON 데이터로부터 간결하고 가독성 있는 보고서 생성.
+- **레거시 시스템 호환성** – 문서가 오래된 소프트웨어 및 기업 시스템과 작동하도록 보장.
+- **휴대용 문서** – 보기 쉬운 리치 텍스트 파일을 만들어 어디서나 사용할 수 있도록 함.
+- **데이터 기반 서식 있는 텍스트** – 구조화된 데이터 세트를 스타일이 있는 사람이 읽을 수 있는 문서로 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-RTF 파이프라인** – 구조화된 데이터를 리치 텍스트 파일로 자동 변환.
+- **자동화된 서식 있는 보고서 작성** – JSON 소스에서 직접 스타일이 있는 보고서 작성.
+- **JSON 기반 문서 이동성** – 플랫폼 및 시스템 간에 일관된 콘텐츠를 가능하게 함.
+- **기업용 RTF 배포 워크플로우** – 대규모 조직적 사용을 위해 리치 텍스트 출력을 표준화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

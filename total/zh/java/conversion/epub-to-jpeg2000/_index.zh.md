@@ -57,7 +57,29 @@ otherformats: JPEG2000 WMZ WMF TGA PSD EMZ SVGZ IMAGE  DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 JPEG2000** 对于从数字出版物生成 **高压缩、高质量图像** 是至关重要的。JPEG2000 提供了卓越的图像保真度和高效的文件大小，使其非常适合于档案、出版和研究应用。通过将 EPUB 内容转换为 JPEG2000，图书馆、出版商和企业可以保留视觉质量，优化存储，并提供专业级的预览和图像。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **数字图书馆** – 将电子书视觉内容存储在高质量、节省空间的格式中。
+- **档案存储** – 保留具有卓越图像保真度的历史和研究出版物。
+- **高质量电子书预览** – 为数字目录和营销生成详细的预览。
+- **研究图像保护** – 保持图表、图表和插图的清晰度。
+- **出版社工作流程** – 将 JPEG2000 集成到编辑和生产流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 JPEG2000 管道** – 自动将电子书转换为高质量图像。
+- **自动化高质量预览生成** – 为营销和目录创建专业预览。
+- **批量图像存档** – 高效处理和存储大量 EPUB 视觉内容。
+- **企业级内容保护** – 确保长期存储并保持一致的图像质量。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

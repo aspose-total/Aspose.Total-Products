@@ -49,7 +49,33 @@ Sử dụng API, bạn cũng có thể chuyển đổi JSON thành DICOM với h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **JSON thành DICOM (Hình ảnh kỹ thuật số và Liên lạc trong Y học)** là rất quan trọng để chuyển đổi **dữ liệu sức khỏe có cấu trúc** thành các định dạng hình ảnh y học chuẩn hóa. DICOM là tiêu chuẩn toàn cầu để lưu trữ, truyền tải và hiển thị hình ảnh y học, cho phép các nhà cung cấp dịch vụ y tế, nhà nghiên cứu và hệ thống trí tuệ nhân tạo làm việc với dữ liệu nhất quán, tương tác được. Bằng cách chuyển đổi JSON thành DICOM, hồ sơ bệnh nhân có cấu trúc và dữ liệu lâm sàng có thể được tích hợp một cách liền mạch vào quy trình làm việc với hình ảnh, hỗ trợ chẩn đoán chính xác và kết quả y tế tốt hơn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+- **Hiển thị hồ sơ bệnh nhân** – Chuyển đổi dữ liệu sức khỏe có cấu trúc thành các định dạng hình ảnh trực quan.
+- **Hệ thống hình ảnh y học dựa trên trí tuệ nhân tạo** – Cho phép các hệ thống học máy xử lý các bộ dữ liệu dựa trên JSON.
+- **Tương tác y tế** – Chuẩn hóa dữ liệu có cấu trúc thành các định dạng DICOM được chấp nhận toàn cầu.
+- **Quy trình làm việc trong chuyên khoa nội soi** – Tích hợp các báo cáo dựa trên JSON vào hệ thống hình ảnh và chẩn đoán.
+- **Tích hợp dữ liệu nghiên cứu lâm sàng** – Chuyển đổi các bộ dữ liệu có cấu trúc thành các định dạng tương thích với hình ảnh cho các nghiên cứu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+- **Các đường ống chuyển đổi từ JSON sang DICOM** – Tự động hóa quá trình chuyển đổi dữ liệu sức khỏe thành các định dạng sẵn sàng cho hình ảnh.
+- **Chuyển đổi báo cáo y tế tự động** – Tạo các tệp DICOM trực tiếp từ các báo cáo lâm sàng dựa trên JSON.
+- **Hệ thống hình ảnh y tế dựa trên đám mây** – Cho phép trao đổi dữ liệu hình ảnh có khả năng mở rộng, tương tác trên đám mây.
+- **Hệ thống chẩn đoán dựa trên trí tuệ nhân tạo** – Cung cấp công cụ chẩn đoán tiên tiến với quá trình chuyển đổi từ dữ liệu có cấu trúc sang hình ảnh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

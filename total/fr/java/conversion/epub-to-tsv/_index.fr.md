@@ -47,7 +47,27 @@ Lors de la conversion du fichier EPUB en TSV, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **EPUB en TSV** est une méthode efficace pour générer des **ensembles de données séparés par des tabulations** à partir d'eBooks et de contenus numériques. Les fichiers TSV sont largement utilisés pour l'échange de données structurées, offrant simplicité, lisibilité et compatibilité avec les systèmes académiques, institutionnels et d'entreprise. En extrayant le contenu de l'eBook au format TSV, les éditeurs, les chercheurs et les organisations peuvent rationaliser le partage de données, améliorer l'interopérabilité et maintenir facilement des métadonnées multilingues.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- **Partage de données académiques** – Distribuer des données de recherche structurées dans un format universellement compatible.
+- **Exportations de métadonnées multilingues** – Préserver les détails de publication spécifiques à la langue dans les fichiers TSV.
+- **Flux de travail des maisons d'édition** – Normaliser les données tabulaires pour les équipes éditoriales et de production.
+- **Échange de données institutionnelles** – Faciliter le partage de données entre les départements et les organisations.
+- **Interopérabilité de la recherche** – Soutenir des études collaboratives avec des ensembles de données facilement échangeables.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines EPUB vers TSV** – Automatiser les flux de travail de conversion d'eBook en ensemble de données à grande échelle.
+- **Conversion automatisée d'ensembles de données** – Transformer instantanément les données de publication en format TSV.
+- **Publication de métadonnées en TSV** – Convertir les métadonnées de publication en valeurs structurées et séparées par des tabulations.
+- **Intégration de données au niveau de l'entreprise** – Intégrer des ensembles de données TSV dans des plateformes de reporting et de recherche à grande échelle.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

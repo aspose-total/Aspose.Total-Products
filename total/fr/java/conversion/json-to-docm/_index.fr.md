@@ -49,7 +49,33 @@ De plus, l'API vous permet de définir des options de mise en page pour votre JS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **JSON en DOCM** est important pour intégrer des **macros dans les documents Word** générés à partir de données structurées. Ce processus permet aux organisations de combiner des ensembles de données brutes avec des fonctionnalités d'automatisation puissantes à l'intérieur de Word, permettant la génération de contenu dynamique, l'exécution de règles métier et la fonctionnalité de document interactive. En transformant le JSON en fichiers DOCM, les entreprises peuvent rationaliser les flux de travail, améliorer les rapports et créer des modèles activés par macro qui s'adaptent aux besoins de données évolutifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- **Flux de travail de documents automatisés** – Piloter la création de documents répétables avec des macros intégrées.
+- **Scripts d'analyse de données** – Intégrer des macros pilotées par JSON pour des calculs et un traitement en temps réel.
+- **Modèles activés par macro** – Construire des modèles intelligents réutilisables pour la documentation d'entreprise.
+- **Systèmes de reporting d'entreprise** – Générer des rapports avec un formatage et une analyse automatisés.
+- **Formulaires de conformité interactifs** – Livrer des formulaires avec des règles de validation et de traitement activées par macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- **Pipelines JSON vers DOCM** – Automatiser la transformation d'ensembles de données structurées en fichiers Word activés par macro.
+- **Macros Word déclenchées automatiquement** – Exécuter dynamiquement des macros pendant ou après la génération de documents.
+- **Traitement dynamique des règles métier** – Appliquer les politiques d'entreprise et les règles de données directement dans les documents.
+- **Automatisation du reporting activée par macro** – Normaliser et accélérer les flux de travail de reporting complexes à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

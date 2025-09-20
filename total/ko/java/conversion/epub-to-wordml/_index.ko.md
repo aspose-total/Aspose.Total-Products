@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 WordML(기반 XML Word 문서)로 변환하는 것**은 디지털 출판물로부터 **구조화되고 기계가 읽을 수 있는 Word 파일**을 생성하는 데 필수적입니다. WordML은 XML 기반 생태계에 완벽히 통합되며 메타데이터 풍부한 워크플로우를 지원하고 플랫폼 간 상호 운용성을 향상시킵니다. EPUB을 WordML로 변환함으로써 출판사, 학계 및 기업은 콘텐츠 아카이빙을 간소화하고 문서 생성을 자동화하며 고급 보고를 가능하게 할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **XML 기반 출판 워크플로우** – 구조화된 XML Word 문서로 출판 파이프라인을 간소화합니다.
+- **메타데이터 풍부한 학술 보고** – 연구 결과물을 위해 출판 메타데이터를 보존하고 통합합니다.
+- **플랫폼 간 상호 운용성** – 콘텐츠가 응용 프로그램 및 플랫폼 간에 원활하게 작동하도록 보장합니다.
+- **디지털 콘텐츠 아카이빙** – 장기적 사용을 위해 구조화되고 기계가 읽을 수 있는 eBook을 저장합니다.
+- **기업용 Word 처리** – 문서 워크플로우에서 자동화, 사용자 정의 및 확장성을 가능하게 합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB을 WordML로 변환하는 파이프라인** – eBook을 XML 기반 Word 파일로 자동 변환합니다.
+- **자동화된 XML Word 워크플로우 생성** – 워크플로우에 준비된 WordML로 디지털 출판을 강화합니다.
+- **메타데이터를 WordML로 출판** – eBook 메타데이터를 구조화된 Word 형식으로 변환합니다.
+- **기업급 문서 자동화** – 대규모 출판 및 보고 작업을 표준화합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

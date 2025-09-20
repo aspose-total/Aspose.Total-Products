@@ -49,7 +49,33 @@ otherformats: DXF WMF WMZ SVGZ TGA JPEG2000 PSD EMZ DICOM IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**JSON转换为DXF（绘图交换格式）**对于从结构化数据集生成**CAD图纸**至关重要。DXF是建筑、工程、工业设计和GIS应用中广泛采用的格式，非常适合将基于JSON的数据转换为精确、可编辑的技术图纸。这种转换实现了无缝的数据到设计工作流程，提高了CAD系统之间的互操作性，并支持现代设计流程中的自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **建筑布局** – 将建筑数据转换为可编辑的CAD平面图。
+- **工程模型** – 从JSON输入生成结构和机械设计。
+- **基于JSON的CAD自动化** – 通过转换结构化数据来简化CAD工作流程。
+- **工业设计工作流程** – 从JSON数据创建准确的产品和零部件图纸。
+- **GIS地图制作** – 将地理空间数据转换为DXF，用于城市规划和基础设施项目。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON到DXF管道** – 自动化将结构化数据转换为CAD准备的图纸。
+- **自动化CAD图纸生成** – 直接从JSON数据集创建技术图表。
+- **数据到设计工作流程** – 实现结构化数据无缝集成到CAD应用程序中。
+- **智能基础设施建模** – 使用基于JSON的DXF输出为现代基础设施和地图系统提供动力。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

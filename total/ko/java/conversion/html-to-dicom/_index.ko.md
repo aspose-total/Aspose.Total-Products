@@ -57,7 +57,29 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTML을 DICOM으로 변환하는 것**은 웹 기반 데이터로부터 **의료 이미지 호환성 출력물을 생성**하는 데 필수적입니다. DICOM은 임상 이미지와 관련된 정보가 의료 시스템 전반에 걸쳐 상호 운용성, 아카이빙 및 통합을 위해 표준화되도록 보장합니다. HTML 콘텐츠를 DICOM으로 변환함으로써, 의료 공급 업체와 연구자들은 산업 표준을 준수하면서 의료 워크플로우를 최적화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **원격 의료 플랫폼** – 웹 기반 의료 데이터를 DICOM 호환 시스템에 통합합니다.
+- **의료 보고서 통합** – 텍스트 및 이미지 보고서를 표준 의료 형식에 포함시킵니다.
+- **의료 워크플로우** – 부서 간 환자 데이터의 원활한 교환을 가능하게 합니다.
+- **방사선학 아카이빙** – DICOM 아카이브에 이미지 및 관련 웹 기반 콘텐츠를 저장합니다.
+- **시스템 간 상호 운용성** – 의료 응용 프로그램 간에 표준화된 데이터 공유를 용이하게 합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **HTML-to-DICOM 파이프라인** – 웹 기반 의료 콘텐츠를 DICOM으로 자동 변환합니다.
+- **자동화된 의료 보고서 포함** – HTML 데이터를 환자 이미징 워크플로에 통합합니다.
+- **대량 의료 데이터 변환** – 다수의 보고서 또는 웹 페이지를 효율적으로 대규모로 처리합니다.
+- **기업 수준의 임상 워크플로** – 의료 기관 전반에 걸쳐 HTML-to-DICOM 변환을 표준화합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

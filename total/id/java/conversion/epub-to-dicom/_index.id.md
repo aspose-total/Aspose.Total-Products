@@ -57,7 +57,29 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke DICOM** adalah pendekatan inovatif untuk mengubah publikasi digital menjadi **file yang kompatibel dengan citra medis**. Proses ini memungkinkan para profesional kesehatan, peneliti, dan pendidik menyematkan konten eBook terstruktur ke dalam format DICOM, sehingga dapat diakses dalam sistem citra medis. Dengan mengintegrasikan sumber daya berbasis teks dengan alur kerja citra, rumah sakit dan lembaga dapat meningkatkan pelatihan, meningkatkan kepatuhan, dan menyederhanakan dokumentasi klinis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **eBook pelatihan medis** – Mengonversi materi belajar ke format yang kompatibel dengan platform citra.
+- **Dokumentasi penelitian klinis** – Menyimpan dan menstandardisasi publikasi penelitian dalam sistem DICOM.
+- **Konten pendidikan radiologi** – Meningkatkan sumber daya pengajaran dengan mengintegrasikan teks dengan alur kerja citra.
+- **Arsip data rumah sakit** – Menjaga data publikasi bersama catatan citra pasien.
+- **Alur kerja kepatuhan kesehatan** – Memastikan publikasi medis mengikuti format digital yang terstandardisasi.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja EPUB ke DICOM** – Mengotomatisasi konversi untuk alur kerja data kesehatan yang dapat diskalakan.
+- **Konversi publikasi medis otomatis** – Mengubah eBook menjadi sumber daya yang kompatibel dengan DICOM secara instan.
+- **Integrasi e-learning untuk kesehatan** – Mengirimkan konten medis interaktif dalam platform pelatihan.
+- **Standardisasi dataset penelitian** – Mengonversi dokumen klinis dan penelitian menjadi dataset DICOM yang seragam.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

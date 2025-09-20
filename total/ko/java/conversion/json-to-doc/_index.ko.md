@@ -49,7 +49,33 @@ API를 사용하여 워터마크를 사용하여 JSON을 DOC으로 구문 분석
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 DOC로 변환**하는 것은 **구조화된 데이터셋**을 완전히 **편집 가능한 Word 문서**로 변환하는 데 필수적입니다. 이 과정은 원시 데이터를 사람이 읽을 수 있는 형식으로 연결하여 비즈니스 및 조직이 JSON 콘텐츠로부터 직접 다듬어진, 표준화된 및 고객용 문서를 생성할 수 있게 합니다. JSON을 DOC 파일로 변환함으로써 구조화된 정보는 편집, 협업 및 규정 준수 주도적 워크플로에 대해 접근 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **비즈니스 보고서** – JSON 기반 데이터를 전문적인 Word 보고서로 변환합니다.
+- **정책 문서** – 데이터셋으로부터 편집 가능한 정책 및 규정 문서를 생성합니다.
+- **데이터 기반 콘텐츠 생성** – 구조화된 정보로부터 문서 생성을 자동화합니다.
+- **규정 준수 기록** – JSON 소스에서 법적 및 감사 준비가 완료된 Word 파일을 표준화합니다.
+- **고객용 보고서** – 실시간 데이터를 기반으로 다듬어진 편집 가능한 보고서를 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-DOC 파이프라인** – 데이터를 편집 가능한 Word 파일로 변환하는 프로세스를 최적화합니다.
+- **자동 보고서 생성** – JSON 피드로부터 동적으로 Word 문서를 작성합니다.
+- **기업 데이터-문서 워크플로우** – JSON 기반 콘텐츠를 기업 문서 시스템에 통합합니다.
+- **JSON 데이터로부터 문서 표준화** – 생성된 모든 Word 파일에 걸쳐 일관성과 규정 준수를 보장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

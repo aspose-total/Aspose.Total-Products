@@ -49,7 +49,33 @@ Sử dụng API, bạn cũng có thể phân tích cú pháp JSON thành CHM v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **JSON thành CHM (Compiled HTML Help)** là điều cần thiết để xây dựng **sổ tay trợ giúp biên soạn** trực tiếp từ tài liệu có cấu trúc. Tệp CHM kết hợp nhiều chủ đề trợ giúp thành một nguồn tài nguyên duyệt, tìm kiếm và truy cập ngoại tuyến duy nhất, làm cho chúng lý tưởng cho hỗ trợ phần mềm và quản lý kiến thức doanh nghiệp. Bằng cách biến đổi JSON thành CHM, tổ chức có thể tối ưu hóa việc giao tài liệu, cải thiện tính khả dụng và đảm bảo khả năng truy cập ngay cả khi không có kết nối internet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+- **Tài liệu phần mềm** – Đóng gói hướng dẫn kỹ thuật vào định dạng biên soạn, dễ sử dụng.
+- **Hệ thống trợ giúp ngoại tuyến** – Cung cấp tài liệu mà không cần truy cập internet.
+- **Cơ sở kiến thức doanh nghiệp** – Tập trung kiến thức tổ chức vào một tệp trợ giúp có cấu trúc.
+- **Tài liệu đào tạo** – Phân phối tài nguyên học tập biên soạn cho nhân viên hoặc sinh viên.
+- **Tài liệu tham chiếu API cho nhà phát triển** – Chuyển đổi định nghĩa JSON có cấu trúc thành tài liệu tham chiếu ngoại tuyến có thể tìm kiếm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+- **Các luồng dữ liệu JSON-CHM** – Tự động hóa quá trình chuyển đổi dữ liệu có cấu trúc thành sổ tay trợ giúp biên soạn.
+- **Tạo tệp trợ giúp tự động** – Tạo tệp CHM trực tiếp từ nội dung dựa trên JSON đang phát triển.
+- **Biên soạn dữ liệu thành tài liệu** – Chuyển đổi tài liệu JSON có cấu trúc thành hệ thống trợ giúp có thể truy cập.
+- **Phân phối kiến thức ngoại tuyến** – Tiêu chuẩn hóa sổ tay CHM cho đào tạo và hỗ trợ trên toàn doanh nghiệp.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,33 @@ otherformats: PPT POTM PPTM PPS PPSX POT POWERPOINT OTP POTX PPSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 PPSX** 对于从结构化数据生成 **现代 PowerPoint 幻灯片文件** 至关重要。PPSX 文件提供全屏、即时播放的幻灯片，与当代 PowerPoint 版本兼容，使组织能够自动化演示文稿的创建，保持品牌一致性，并高效地传递数据驱动内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **商务会议** – 为高管和团队演示制作标准化、专业的幻灯片。
+- **教育讲座** – 直接从结构化数据集生成讲座幻灯片和课程资料。
+- **产品演示** – 为展示产品和服务构建动态、即时呈现的幻灯片。
+- **营销活动** – 自动创建品牌幻灯片演示，用于促销活动。
+- **研究数据展示** – 将结构化研究数据转化为视觉吸引力的幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 PPSX 流水线** – 简化结构化数据转换为现代幻灯片文件的流程。
+- **自动化幻灯片创建** – 减少手动幻灯片设计和格式化工作。
+- **企业级报告幻灯片** – 在各部门生成标准化的演示文稿。
+- **基于 JSON 的品牌幻灯片** – 在自动化幻灯片中嵌入数据并保持企业品牌。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

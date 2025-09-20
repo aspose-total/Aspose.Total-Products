@@ -47,7 +47,29 @@ Ao converter o arquivo EPUB para EXCEL, você também pode adicionar marca d'ág
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para Excel (XLSX)** é uma maneira eficaz de extrair **dados estruturados de eBooks** em planilhas facilmente gerenciáveis. Ao transformar publicações digitais em arquivos do Excel, organizações, pesquisadores e editores podem desbloquear insights, simplificar a catalogação e permitir relatórios e análises avançadas. Arquivos XLSX fornecem um formato universal e editável que suporta fluxos de trabalho acadêmicos, empresariais e de nível corporativo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Dados de pesquisa acadêmica** – Extrair conteúdo estruturado para análise e gerenciamento de citações.
+- **Metadados de publicação** – Converter detalhes de livros em planilhas do Excel padronizadas.
+- **Catalogação de biblioteca** – Organizar coleções digitais em formatos Excel pesquisáveis.
+- **Relatórios de negócios a partir de eBooks** – Transformar dados de publicação em inteligência de negócios utilizável.
+- **Arquivamento de conteúdo** – Armazenar informações de eBooks em formatos estruturados a longo prazo.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de EPUB para Excel** – Automatizar a conversão de eBooks em conjuntos de dados estruturados.
+- **Extração automatizada de metadados** – Extrair informações-chave diretamente em células do Excel.
+- **Conversões em lote de eBook para Excel** – Lidar com transformações em grande escala de forma eficiente.
+- **Automação de catálogo de nível corporativo** – Padronizar a catalogação e relatórios em organizações.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

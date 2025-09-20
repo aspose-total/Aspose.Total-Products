@@ -78,7 +78,29 @@ otherformats: ODS XLSM XLT MD TSV XLTM CSV FODS XLSB SXC XLTX TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **EPUB ל-XLAM (תוסף Excel)** היא חיונית ליצירת **הרחבות Excel המוכנות לאוטומציה** מספרי ספרים אלקטרוניים. קבצי XLAM מאפשרים לארגונים לשלב נתונים ומאקרוס מספרי ספרים אלקטרוניים ישירות לתוך Excel, מאפשרים אוטומציה מתקדמת, זרימות עבודה בתחום הבינה עסקית ויצירת דוחות מותאמים. על ידי המרת EPUB ל-XLAM, ניתן לקצר את המשימות החוזרות, לשפר את תהליכי הקבלת ההחלטות ולפרוס פתרונות גלויים לגידול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- **אוטומציה של ניתוח נתונים** – המרת תוכן ספר אלקטרוני לכלים לאוטומציה ב-Excel.
+- **דגמות פיננסיות** – שלב נתוני פרסום לתוך דגמים פיננסיים המאופשרים מאקרו.
+- **זרימות עבודה בתחום הבינה עסקית** – שפר צינורות BI עם הרחבות Excel המקורסות מספרי ספרים אלקטרוניים.
+- **מערכות דיווח מותאמות** – צור דוחות דינמיים באמצעות הרחבות Excel מאוטומטיות.
+- **הרחבות גליוני אלקטרוניות לרמה הארגונית** – הרחב גליונות אלקטרוניים עסקיים עם מאקרוס מופעלים על ידי תוכן.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות EPUB-to-XLAM** – אוטומציה של יצירת הרחבות Excel מפרסומים דיגיטליים.
+- **ייצור אוטומטי של הרחבות Excel** – יצר הרחבות המאופשרות מאקרו ביעילות בקנה מידה.
+- **אינטגרציה בזרימות עבודה BI בכמות** – אינטגרציה של מספר סטים של נתוני ספרים אלקטרוניים למערכות BI ארגוניות.
+- **אוטומציה של נתונים ברמה הארגונית** – קיצור זמני אוטומציה של גליונות אלקטרוניים בקנה מידה באמצעות כלי XLAM.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -49,7 +49,33 @@ API를 사용하여 DICOM 문서에 워터마크가 있는 JSON을 DICOM로 변�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 DICOM으로 변환하는 것은 구조화된 건강 데이터를 표준화된 의료 이미징 형식으로 변환하는 데 중요**합니다. DICOM은 의료 이미지를 저장, 전송 및 시각화하기 위한 전 세계 표준으로, 의료 공급자, 연구자 및 AI 시스템이 일관된, 상호 운용 가능한 데이터로 작업할 수 있도록 합니다. JSON을 DICOM으로 변환함으로써 구조화된 환자 기록 및 임상 데이터를 이미징 워크플로에 신속히 통합하여 정확한 진단과 더 나은 의료 결과를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **환자 기록 시각화** – 구조화된 건강 데이터를 시각적 이미징 형식으로 변환합니다.
+- **AI 기반 의료 이미징** – 머신 러닝 시스템이 JSON 기반 데이터 세트를 처리할 수 있도록 합니다.
+- **의료 상호 운용성** – 구조화된 데이터를 전 세계적으로 인정받는 DICOM 형식으로 표준화합니다.
+- **방사선학 워크플로** – JSON 기반 보고서를 이미징 및 진단 시스템에 통합합니다.
+- **임상 연구 데이터 통합** – 연구를 위해 구조화된 데이터 세트를 이미징 호환 형식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-DICOM 파이프라인** – 건강 데이터를 이미징 준비 형식으로 자동 변환합니다.
+- **자동 의료 보고서 변환** – JSON 기반 임상 보고서에서 직접 DICOM 파일을 생성합니다.
+- **클라우드 기반 의료 이미징** – 클라우드에서 확장 가능하고 상호 운용 가능한 이미징 데이터 교환을 가능하게 합니다.
+- **AI 기반 진단 시스템** – 구조화된 데이터를 이미징으로 변환하여 고급 진단 도구를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

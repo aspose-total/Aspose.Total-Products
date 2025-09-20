@@ -49,7 +49,33 @@ APIを使用して、JSONを透かし付きのOTPに変換することもでき�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSONをOTPに変換**することは、構造化されたデータセットから**プレゼンテーションテンプレート**を生成するために重要です。OTP（OpenDocument Presentation Template形式）は、組織がLibreOffice Impressや他のオープンソースオフィススイートと互換性のある再利用可能で標準化されたテンプレートを作成できるようにします。JSONをOTPに変換することで、企業、政府、教育機関はスライド作成を効率化し、一貫したブランディングを維持し、オープン標準の遵守を確保できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **企業用スライドテンプレート** – 一貫したビジネスプレゼンテーション用の企業向けテンプレートを生成します。
+- **教育フレームワーク** – 講義、セミナー、eラーニングモジュールのスライド構造を自動化します。
+- **部門のブランディング** – 内部および外部コミュニケーション用の統一されたテンプレートを確保します。
+- **政府承認済みテンプレート** – 部門全体で公式プレゼンテーションを標準化します。
+- **学術講義スライド** – 研究や教育のためのテンプレート駆動型プレゼンテーション作成を簡素化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONからOTPへのパイプライン** – 構造化データから直接テンプレート作成を自動化します。
+- **自動化されたテンプレート生成** – 手作業のフォーマット作業を削減しながら一貫性を確保します。
+- **JSON駆動型プレゼンテーション標準化** – 企業や機関のブランディングとの遵守を強制します。
+- **クラウド対応のテンプレート配布** – チームやシステム間でのOTPテンプレートのシームレスな共有を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

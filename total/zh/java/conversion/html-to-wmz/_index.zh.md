@@ -57,7 +57,33 @@ otherformats: TGA PSD WMZ IMAGE EMZ JPEG2000 WMF SVGZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **HTML 转换为 WMZ（压缩的 Windows Metafile）** 对于从网页生成 **压缩的矢量图形** 是至关重要的。WMZ 保持了矢量图形的可伸缩性和可编辑性，同时显著减小了文件大小，使其非常适合轻量级发布、存档存储和跨平台共享。通过将 HTML 转换为 WMZ，组织可以优化性能，简化分发，并以紧凑格式保持高质量的视觉效果。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* **轻量级发布** – 为数字出版物提供具有减小文件大小的可伸缩矢量图形。
+* **存档压缩** – 高效保留历史网页内容，而不牺牲视觉清晰度。
+* **跨平台图表** – 轻松在 Windows 和兼容应用程序之间共享矢量图形。
+* **教育视觉** – 为电子学习和教学材料创建紧凑、高质量的图形。
+* **报告工作流程** – 将精确的图表和图表集成到业务报告中，同时最大限度地减少存储空间。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **HTML 到 WMZ 管道** – 自动化将网页转换为压缩的矢量图形。
+* **自动化的元文件压缩** – 在项目中持续生成优化的 WMZ 文件。
+* **批量图表发布** – 同时处理多个网页或图表，用于大规模工作流程。
+* **企业级轻量级工作流程** – 将 WMZ 生成集成到组织的发布和存档系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

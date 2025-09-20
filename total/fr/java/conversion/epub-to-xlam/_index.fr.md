@@ -47,7 +47,27 @@ Lors de la conversion du fichier EPUB en XLAM, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion d'**EPUB en XLAM (Complément Excel)** est essentielle pour générer des **extensions Excel prêtes à l'automatisation** à partir d'eBooks. Les fichiers XLAM permettent aux organisations d'intégrer directement dans Excel les données et macros issues des eBooks, facilitant ainsi l'automatisation avancée, les flux de travail en intelligence d'affaires et les rapports personnalisés. En transformant l'EPUB en XLAM, les analystes et les entreprises peuvent rationaliser les tâches répétitives, améliorer la prise de décision et déployer des solutions de feuille de calcul évolutives.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- **Automatisation de l'analyse des données** – Convertir le contenu des eBooks en outils d'automatisation alimentés par Excel.
+- **Modélisation financière** – Intégrer les données de publication dans des modèles financiers activés par macro.
+- **Flux de travail en intelligence d'affaires** – Améliorer les pipelines BI avec des extensions Excel dérivées d'eBooks.
+- **Systèmes de rapports personnalisés** – Générer des rapports dynamiques à l'aide de compléments Excel automatisés.
+- **Extensions de feuilles de calcul d'entreprise** – Étendre les feuilles de calcul d'entreprise avec des macros basées sur le contenu.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines EPUB-vers-XLAM** – Automatiser la création de compléments Excel à partir de publications numériques.
+- **Génération automatisée de compléments Excel** – Produire efficacement des extensions activées par macro à grande échelle.
+- **Intégration en masse de flux de travail BI** – Intégrer plusieurs ensembles de données d'eBooks dans les systèmes BI d'entreprise.
+- **Automatisation des données au niveau de l'entreprise** – Rationaliser l'automatisation de feuilles de calcul à grande échelle en utilisant des outils XLAM.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,33 @@ otherformats: FLATOPC DOCM WORD WORDML ODT RTF DOC MOBI OTT DOTX PCL DOT EPUB PS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 CHM（编译的 HTML 帮助）** 对于直接从结构化文档构建 **编译的帮助手册** 至关重要。CHM 文件将多个帮助主题合并为单个、可搜索且离线访问的资源，使其非常适用于软件支持和企业知识管理。通过将 JSON 转换为 CHM，组织可以简化文档交付流程，提高可用性，并确保即使没有互联网连接也能访问。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+- **软件文档** – 将技术指南打包成编译的、用户友好的格式。
+- **离线帮助系统** – 在不需要互联网访问的情况下提供文档。
+- **企业知识库** – 将组织知识集中在结构化的帮助文件中。
+- **培训手册** – 为员工或学生分发编译的学习资源。
+- **开发人员 API 参考** – 将结构化的 JSON 定义转换为可搜索的离线参考资料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 CHM 管道** – 自动化将结构化数据转换为编译的帮助手册。
+- **自动化帮助文件创建** – 直接从不断演变的基于 JSON 的内容生成 CHM 文件。
+- **数据到文档编译** – 将结构化的 JSON 文档转换为可访问的帮助系统。
+- **离线知识分发** – 为企业范围的培训和支持标准化 CHM 手册。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

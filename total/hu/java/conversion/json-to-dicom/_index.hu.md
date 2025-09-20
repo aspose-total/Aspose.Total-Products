@@ -49,7 +49,33 @@ Az API használatával a JSON-t DICOM-vé alakíthatja vízjellel az DICOM-dokum
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **JSON to DICOM (Digital Imaging and Communications in Medicine)** konvertálása kulcsfontosságú a **strukturált egészségügyi adatok** átalakításához standardizált orvosi képformátumokká. A DICOM a globális szabvány a medicinai képek tárolására, továbbítására és megjelenítésére, lehetővé téve az egészségügyi szolgáltatók, kutatók és AI rendszerek számára, hogy egységes, interoperábilis adatokkal dolgozzanak. Az JSON átalakításával DICOM-má, a strukturált páciensrekordok és klinikai adatok zökkenőmentesen integrálhatók a képfeldolgozási folyamatokba, támogatva ezzel a pontos diagnosztikát és jobb egészségügyi eredményeket.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+- **Páciensrekordok vizualizációja** – Konvertálja a strukturált egészségügyi adatokat vizuális képformátumokká.
+- **AI-alapú orvosi képfeldolgozás** – Lehetővé teszi a gépi tanuló rendszerek számára a JSON-alapú adathalmazok feldolgozását.
+- **Egészségügyi interoperabilitás** – Standardizálja a strukturált adatokat globálisan elfogadott DICOM formátumokká.
+- **Radiológiai folyamatok** – Integrálja a JSON-alapú jelentéseket a képalkotó és diagnosztikai rendszerekbe.
+- **Klinikai kutatási adatok integrációja** – Alakítsa át a strukturált adathalmazokat képfeldolgozás-kompatibilis formátumokká tanulmányokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Szcenáriók" %}}
+
+- **JSON-to-DICOM csővezetékek** – Automatizálja az egészségügyi adatok átalakítását képre kész formátumokká.
+- **Automatizált orvosi jelentés konverzió** – Hozzon létre DICOM fájlokat közvetlenül JSON-alapú klinikai jelentésekből.
+- **Felhőalapú egészségügyi képfeldolgozás** – Lehetővé teszi a skálázható, interoperábilis képadatok cseréjét a felhőben.
+- **AI-alapú diagnosztikai rendszerek** – Hajtsa végre a fejlett diagnosztikai eszközöket strukturált képfeldolgozás segítségével.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

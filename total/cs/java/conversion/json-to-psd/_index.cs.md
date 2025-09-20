@@ -49,7 +49,33 @@ Pomocí API můžete také převést JSON na PSD s vodoznakem v dokumentu PSD. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **JSON na PSD** je zásadní pro vytváření **návrhů Photoshopu ze strukturovaných dat**. Soubory PSD uchovávají vrstvy, text a efekty, umožňují designérům pracovat s plně upravitelnými grafikami generovanými z dynamických dat. Transformací JSON na PSD mohou organizace zefektivnit tvůrčí pracovní postupy, automatizovat marketingové vizuály a efektivně vytvářet personalizované, připravené k tisku nebo digitální designové prvky.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Dynamický grafický design** – Generujte vrstvené návrhové soubory, které se přizpůsobují změnám v datech.  
+- **Automatizované tvorba marketingových kreativ** – Automaticky vytvářejte bannery, vizuály pro sociální média a grafiku pro kampaně.  
+- **Personalizované šablony obrázků** – Vytvářejte upravené šablony pro obsah specifický pro klienta.  
+- **Návrhy webů a aplikací** – Vytvářejte interaktivní návrhy pro webové stránky a mobilní aplikace.  
+- **Připravené k tisku umění** – Připravte soubory PSD ve vysoké kvalitě pro profesionální tisk.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON na PSD** – Automatizujte převod strukturovaných dat do vrstvených souborů Photoshopu.  
+- **Automatizované vytváření vrstev Photoshopu** – Generujte upravitelné vrstvy programově pro efektivitu.  
+- **Pracovní postupy řízené daty** – Integrujte data přímo do tvůrčích procesů.  
+- **Automatizace kreativní produkce pomocí JSON** – Škálovat produkci designu napříč marketingem, webem a tiskovými projekty.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

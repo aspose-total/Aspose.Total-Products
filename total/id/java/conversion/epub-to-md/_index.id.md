@@ -47,7 +47,29 @@ Saat mengonversi file EPUB ke MD, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke MD (format Markdown)** penting untuk menghasilkan **konten terstruktur teks polos** dari eBook dan publikasi digital. Markdown menawarkan kesederhanaan, kemudahan dibaca, dan adopsi luas di platform pengembang, menjadikannya ideal untuk penggunaan kembali dan distribusi konten. Dengan mengubah EPUB menjadi MD, penerbit, peneliti, dan pengembang dapat menyederhanakan dokumentasi, mendukung kolaborasi sumber terbuka, dan menyederhanakan alur kerja penerbitan digital.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Dokumentasi teknis** – Mengonversi eBook menjadi Markdown terstruktur untuk dokumen pengembang.
+- **Penerbitan blog** – Memanfaatkan kembali bab EPUB ke file Markdown siap blog yang ringan.
+- **Basis pengetahuan pengembang** – Membangun repositori pengetahuan kolaboratif dengan konten Markdown.
+- **Berbagi catatan penelitian** – Berbagi catatan akademis atau institusi dalam format MD yang dapat dibaca secara universal.
+- **Distribusi konten sumber terbuka** – Menerbitkan konten eBook untuk kolaborasi global dan penggunaan kembali.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa EPUB ke MD** – Otomatisasi konversi eBook menjadi file Markdown.
+- **Penerbitan Markdown otomatis** – Sinkronkan output MD dengan generator situs statis dan platform.
+- **Standarisasi konten untuk platform pengembang** – Pastikan konsistensi di seluruh GitHub, GitLab, dan alat serupa.
+- **Otomatisasi dokumentasi** – Integrasikan konversi Markdown ke dalam alur kerja penerbitan perusahaan.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

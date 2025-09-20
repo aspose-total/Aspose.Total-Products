@@ -59,7 +59,29 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke ODP (OpenDocument Presentation)** sangat penting untuk menghasilkan **slide presentasi** dari publikasi digital. File ODP menyediakan format standar terbuka yang serbaguna untuk membuat slide menarik dari konten eBook. Dengan mengubah EPUB menjadi ODP, pendidik, bisnis, dan penerbit dapat menggunakan kembali konten digital untuk kuliah, pertemuan, sesi pelatihan, dan presentasi pemasaran secara efisien.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Slide kuliah pendidikan** – Mengonversi bab eBook menjadi presentasi kelas yang terstruktur.
+- **Deck presentasi bisnis** – Menghasilkan slide profesional dari publikasi perusahaan atau industri.
+- **Ringkasan makalah penelitian** – Ringkas konten akademis menjadi slide yang menarik secara visual.
+- **Slide pemasaran penerbitan** – Membuat presentasi promosi dari konten buku.
+- **Distribusi materi pelatihan** – Mengemas konten belajar menjadi slide siap pakai untuk lokakarya.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa EPUB-ke-ODP** – Otomatisasi konversi publikasi digital menjadi slide.
+- **Generasi presentasi otomatis** – Cepat menghasilkan file ODP dari konten eBook.
+- **Konversi massal eBook-ke-slide** – Memproses beberapa publikasi menjadi presentasi dalam skala besar.
+- **Alur kerja berbagi pengetahuan perusahaan** – Memperlancar distribusi materi pendidikan dan pelatihan.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

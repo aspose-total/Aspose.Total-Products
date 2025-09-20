@@ -102,7 +102,33 @@ otherformats: IMAGE APNG DXF PSD WMZ JPEG2000 EMZ SVGZ DICOM WMF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **JSON ל־TGA** היא חיונית ליצירת **קבצי תמונת Targa מנתונים מובנים**. קבצי TGA נמצאים בשימוש רחב בפיתוח משחקים, בדוגמאות תלת־מימד, ובהפקת וידאו בשל איכותם הגבוהה של גרפיקה רסטרית ותמיכה בערוץ אלפא. על ידי המרת JSON ל־TGA, ארגונים יכולים לאוטומציה יצירת טקסטורות, לזרוק זרימות עבודה חזותיות, ולשלב נתונים מובנים בצורה יעילה לצינורות גרפיקה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- **גרפיקת פיתוח משחקים** – לייצר טקסטורות וספרייטים למשחקים ישירות ממערכות נתונים מובנות.
+- **דוגמאות תלת־מימד תעשייתיות** – לייצר נכסים TGA לפרויקטים ב-CAD ובדוגמאות תלת־מימד.
+- **נכסים לעריכת וידאו** – ליצור תמונות באיכות גבוהה לזרימות עבודה לאחר הפקה.
+- **סימולציות וירטואליות** – לפתח טקסטורות ורכיבים חזותיים ריאליסטיים לסביבות סימולציה.
+- **זרימות עבודה של תמונה מותגמות** – לשמור על תאימות עם מערכות הדורשות פורמטי קובץ Targa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- **צינורות JSON-to-TGA** – לאוטומציה ביצור קבצי TGA מנתונים מובנים.
+- **יצירת טקסטורות אוטומטית** – להפחתת יצירת נכסים ידנית לפרויקטי גרפיקה.
+- **יצוא גרפי מונעה־נתונים** – למלא שכבות תמונה ישירות ממערכות נתונים מובנות.
+- **זרימות עבודה חזותיות מונעות־JSON** – לשלב יצירת TGA אוטומטית לצורות גרפיקה עסקיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

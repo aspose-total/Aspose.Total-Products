@@ -57,7 +57,31 @@ Menggunakan API, Anda juga dapat memutar gambar IMAGE keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **HTML** menjadi **GAMBAR** sangat penting untuk menangkap cuplikan visual yang akurat dari halaman web. Proses ini memungkinkan desainer, pemasar, dan pengembang untuk mengubah konten web yang dinamis atau statis menjadi gambar yang dapat dibagikan dan dilihat, yang mempertahankan tampilan dan nuansa situs web di berbagai perangkat. Dengan membuat representasi gambar dari halaman web, tim dapat mempercepat pratinjau, meningkatkan konten digital, dan menjaga catatan visual dengan efisien.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pratinjau Situs Web:** Menghasilkan cuplikan untuk portofolio, ulasan klien, atau referensi visual cepat.
+* **Infografis:** Mengonversi halaman web yang kaya data menjadi format visual yang dapat dibagikan.
+* **Alur Kerja Desain UI/UX:** Menangkap desain halaman untuk pengujian, umpan balik, dan iterasi.
+* **Tangkapan Layar Arsip:** Menjaga versi historis situs web untuk kepatuhan atau dokumentasi.
+* **Aset Pemasaran Digital:** Membuat banner, visual media sosial, dan grafis promosi langsung dari konten web.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pipa HTML-ke-GAMBAR:** Mengonversi beberapa halaman web menjadi gambar dengan usaha manual minimal.
+* **Rendering Halaman Web ke Gambar Otomatis:** Jadwalkan rendering halaman dinamis untuk pelaporan atau pemantauan.
+* **Generasi Tangkapan Layar Massal:** Menangkap ratusan halaman secara bersamaan untuk proyek berskala besar.
+* **Publikasi Digital Skala Enterprise:** Integrasikan generasi gambar ke alur kerja konten untuk situs web, buletin, atau katalog produk.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,33 @@ Pomocí API můžete také převést JSON na OTP s vodoznakem. Chcete-li do doku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **JSON na OTP** je klíčové pro generování **šablon prezentací** ze strukturovaných datových sad. OTP, formát šablony prezentace OpenDocument Presentation Template, umožňuje organizacím vytvářet opakovaně použitelné, standardizované šablony kompatibilní s LibreOffice Impress a dalšími kancelářskými balíky s otevřeným zdrojovým kódem. Transformací JSON na OTP mohou podniky, vlády a vzdělávací instituce zjednodušit tvorbu snímků, udržovat konzistentní firemní image a zajistit dodržování otevřených standardů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- **Šablony snímků pro podniky** – Generujte šablony připravené pro firemní prezentace.
+- **Vzdělávací rámce** – Automatizujte struktury snímků pro přednášky, semináře a e-learningové moduly.
+- **Firemní branding oddělení** – Zajistěte jednotné šablony pro interní a externí komunikaci.
+- **Schválené vládní šablony** – Standardizujte oficiální prezentace napříč odděleními.
+- **Prezentační snímky z akademických přednášek** – Zjednodušte tvorbu prezentací řízených šablonami pro výzkum a výuku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- **Potrubí JSON-to-OTP** – Automatizujte tvorbu šablon přímo ze strukturovaných dat.
+- **Automatizovaná generace šablon** – Snížení manuálního úsilí o formátování a zajištění konzistence.
+- **Standardizace prezentací řízených JSONem** – Vynutí dodržování firemního nebo institucionálního brandingu.
+- **Distribuce šablon připravených pro cloud** – Umožněte bezproblémové sdílení šablon OTP napříč týmy a systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

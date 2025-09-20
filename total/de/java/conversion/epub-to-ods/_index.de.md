@@ -47,7 +47,23 @@ Während Sie eine EPUB-Datei in ODS konvertieren, können Sie Ihrem Ausgabe-ODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Funktionen  
+Die Umwandlung von **EPUB in ODS (OpenDocument Spreadsheet)** ist entscheidend für die Erstellung von **Tabellenkalkulationen im Open-Standard** aus digitalen Publikationen. ODS-Dateien bieten ein flexibles, weitgehend kompatibles Format zur Organisation und Analyse strukturierter Daten. Durch die Umwandlung von EPUB in ODS können Pädagogen, Forscher, Bibliotheken und Verlage Metadaten effizient verwalten, Forschungsdatensätze verfolgen und datengesteuerte Veröffentlichungsworkflows optimieren.  
+
+## Hauptanwendungsfälle  
+- **Verwaltung von akademischen Datensätzen** – Organisieren und pflegen von Forschungsdaten aus eBooks im Tabellenformat.  
+- **Bibliothekskatalogeinträge** – Tabellarische Erfassung bibliografischer Metadaten für einfachen Zugriff und Analyse.  
+- **Metadatentabellierung** – Konvertieren von eBook-Metadaten in strukturierte Tabellenkalkulationen.  
+- **Analyse von Forschungsdaten** – Unterstützung bei Berechnungen, Sortierungen und Berichterstattung mithilfe von ODS-Dateien.  
+- **Veröffentlichungsworkflows** – Standardisierung der Datenverwaltung in redaktionellen und akademischen Verlagsbereichen.  
+
+## Automatisierungsszenarien  
+- **EPUB-zu-ODS-Pipelines** – Automatisierung der Umwandlung von eBooks in strukturierte Tabellenkalkulationen.  
+- **Automatisierte Tabellenkalkulationen** – Vereinfachung der Metadaten- und Datensatzverarbeitung im großen Maßstab.  
+- **Massenhafte Datensatzauswertung** – Effiziente Extraktion großer Mengen von eBook-Daten.  
+- **Analytik auf Unternehmensebene für Verlagswesen** – Integration von ODS-Ausgaben in Analytik- und Berichterstattungsworkflows.  
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

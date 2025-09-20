@@ -49,7 +49,33 @@ APIを使用して、透かしを使用してJSONからOTTに解析すること�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+JSONをOTTに変換することは、構造化されたデータセットから**テキストドキュメントテンプレート**を生成するために不可欠です。OTT、OpenDocument Text Template形式は、LibreOfficeやOpenOfficeなどのオープンソースオフィススイートで再利用可能で編集可能なテンプレートを作成する標準化された方法を提供します。JSONをOTTに変換することで、組織は複数のワークフロー全体で文書生成に一貫性、コンプライアンス、自動化を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **政府文書フレームワーク** – 公式使用の標準化されたフォームやレポートを作成します。
+- **法的テンプレート** – 契約書、合意書、コンプライアンス対応フォーマットを自動化します。
+- **ビジネスレター** – 企業間のやり取りに一貫性を保ちます。
+- **教育用レポート** – 研究や課題のための学術用ドキュメントテンプレートを生成します。
+- **オープンソースオフィス統合** – オープンソース環境でJSON駆動のテンプレートをシームレスに使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONからOTTへのパイプライン** – 構造化されたJSONデータセットからのテンプレート作成を自動化します。
+- **自動化されたテンプレートワークフロー** – 部門全体での手動フォーマット作業を削減します。
+- **JSON駆動の文書生成** – 企業の報告書やコンプライアンスに一貫性を強制します。
+- **企業向けテンプレート配布** – グローバルチーム全体で文書テンプレートを標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

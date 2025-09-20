@@ -57,7 +57,29 @@ otherformats: WMZ  SVGZ IMAGE EMZ DXF WMF JPEG2000 PSD TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 PSD（Photoshop 文档）** 对于从数字出版物生成 **可编辑的分层图形** 是必不可少的。PSD 文件保留图层、文本和效果，使设计师能够修改和增强内容，用于创意项目。通过将 EPUB 转换为 PSD，出版商、营销人员和教育工作者可以创建高质量的视觉效果，保持设计灵活性，并简化图形制作工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **图形设计工作流程** – 使用完整的图层控制编辑和定制电子书视觉效果。
+- **营销创意** – 从出版内容生成促销图形和数字广告。
+- **电子书封面编辑** – 为印刷或数字平台定制和增强书籍封面。
+- **教育视觉效果** – 创建交互式图表、信息图表和学习资料。
+- **定制品牌材料** – 为企业形象和活动调整出版图形。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 PSD 管道** – 自动将电子书内容转换为分层的 Photoshop 文件。
+- **自动化图层提取** – 保留并分离设计元素，便于编辑。
+- **批量创意资产生成** – 从数字出版物高效地生成多个图形。
+- **企业级设计工作流程** – 将 PSD 生成集成到大规模创意和出版操作中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

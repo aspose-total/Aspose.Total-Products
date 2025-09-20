@@ -47,7 +47,29 @@ EPUB 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 TSV로 변환**하는 것은 eBook 및 디지턈 콘텐츠로부터 **탭으로 구분된 데이터셋**을 생성하는 효율적인 방법입니다. TSV 파일은 구조화된 데이터 교환을 위해 널리 사용되며, 학술, 기관 및 기업 시스템과의 호환성을 제공하면서 간편하고 가독성이 좋습니다. eBook 콘텐츠를 TSV 형식으로 추출함으로써 출판사, 연구자 및 기관은 데이터 공유를 간소화하고 상호 운용성을 향상시키며 다국어 메타데이터를 쉽게 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **학술 데이터셋 공유** – 보다 보편적으로 호환되는 형식으로 구조화된 연구 데이터를 배포합니다.
+- **다국어 메타데이터 내보내기** – TSV 파일에 언어별 출판 세부 정보를 보존합니다.
+- **출판사 워크플로우** – 편집 및 제작 팀을 위해 탭으로 구분된 데이터를 표준화합니다.
+- **기관 간 데이터 교환** – 부서 및 기관 간 데이터 공유를 용이하게 합니다.
+- **연구 상호 운용성** – 쉽게 교환 가능한 데이터셋으로 협업 연구를 지원합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-TSV 파이프라인** – 규모에 맞게 eBook-to-데이터셋 워크플로우를 자동화합니다.
+- **자동 데이터셋 변환** – 즉시 출판 데이터를 TSV 형식으로 변환합니다.
+- **메타데이터-to-TSV 게시** – 출판 메타데이터를 구조화된 탭으로 구분된 값으로 변환합니다.
+- **기업 수준 데이터 통합** – 대규모 보고 및 연구 플랫폼에 TSV 데이터셋을 통합합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

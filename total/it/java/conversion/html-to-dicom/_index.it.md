@@ -57,7 +57,27 @@ Utilizzando l'API, puoi anche ruotare l'immagine DICOM di output secondo le tue 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **HTML in DICOM** è essenziale per generare **output compatibili con l'immagine medica** dai dati basati sul web. DICOM garantisce che le immagini cliniche e le informazioni correlate alla sanità siano standardizzate per l'interoperabilità, l'archiviazione e l'integrazione tra i sistemi medici. Convertendo i contenuti HTML in DICOM, i fornitori di assistenza sanitaria e i ricercatori possono ottimizzare i flussi di lavoro medici mantenendo la conformità agli standard del settore.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- **Piattaforme di telemedicina** – Integrare i dati medici basati sul web nei sistemi compatibili con DICOM.
+- **Integrazione dei report medici** – Incorporare report testuali e di imaging nei formati sanitari standard.
+- **Flussi di lavoro sanitari** – Abilitare lo scambio senza soluzione di continuità dei dati dei pazienti tra i reparti.
+- **Archiviazione radiologica** – Memorizzare immagini e contenuti basati sul web associati negli archivi DICOM.
+- **Interoperabilità tra sistemi** – Agevolare la condivisione standardizzata dei dati tra le applicazioni sanitarie.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenario di automazione" %}}
+- **Pipeline HTML-to-DICOM** – Automatizzare la conversione dei contenuti medici basati sul web in DICOM.
+- **Incorporazione automatizzata dei report medici** – Integrare i dati HTML nei flussi di lavoro di imaging del paziente.
+- **Conversione bulk dei dati sanitari** – Elaborare efficientemente a scala multipla report o pagine web.
+- **Flussi di lavoro clinici a livello aziendale** – Standardizzare la conversione HTML-to-DICOM attraverso le organizzazioni sanitarie.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

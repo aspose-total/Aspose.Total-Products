@@ -57,7 +57,27 @@ Utilizzando l'API, puoi anche ruotare l'immagine DICOM di output secondo le tue 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **EPUB in DICOM** è un approccio innovativo per trasformare le pubblicazioni digitali in file compatibili con l'**imaging medico**. Questo processo consente ai professionisti sanitari, ai ricercatori e agli educatori di incorporare contenuti strutturati di eBook nei formati DICOM, rendendoli accessibili all'interno dei sistemi di imaging medico. Integrando risorse basate su testo con flussi di lavoro di imaging, ospedali e istituzioni possono migliorare la formazione, migliorare la conformità e ottimizzare la documentazione clinica.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- **eBook per la formazione medica** – Convertire materiali di studio in formati compatibili con le piattaforme di imaging.
+- **Documentazione di ricerca clinica** – Archiviare e standardizzare le pubblicazioni di ricerca all'interno dei sistemi DICOM.
+- **Contenuti educativi di radiologia** – Migliorare le risorse didattiche integrando testo con flussi di lavoro di imaging.
+- **Archiviazione dati ospedalieri** – Mantenere i dati delle pubblicazioni insieme ai record di imaging dei pazienti.
+- **Flussi di lavoro di conformità sanitaria** – Garantire che le pubblicazioni mediche seguano formati digitali standardizzati.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- **Pipeline EPUB-to-DICOM** – Automatizzare la conversione per flussi di lavoro scalabili dei dati sanitari.
+- **Conversione automatizzata di pubblicazioni mediche** – Trasformare istantaneamente eBook in risorse compatibili con DICOM.
+- **Integrazione dell'e-learning per la sanità** – Offrire contenuti medici interattivi all'interno delle piattaforme di formazione.
+- **Standardizzazione dei dataset di ricerca** – Convertire documenti clinici e di ricerca in dataset DICOM uniformi.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

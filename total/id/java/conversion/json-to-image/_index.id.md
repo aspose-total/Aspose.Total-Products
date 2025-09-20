@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengonversi JSON ke IMAGE dengan tanda air di d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke GAMBAR** penting untuk membuat **grafik visual** dari data terstruktur. Proses ini memungkinkan dataset mentah diubah menjadi visual yang bermakna seperti grafik, infografis, dan grafik bisnis. Dengan menghasilkan gambar langsung dari JSON, organisasi dapat menyederhanakan pelaporan, meningkatkan pengambilan keputusan, dan menyampaikan wawasan data dalam format yang menarik secara visual yang mudah dibagikan dan dipahami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Infografis** – Ubah data terstruktur menjadi cerita visual yang menarik.
+- **Visualisasi data** – Render grafik, diagram, dan plot langsung dari JSON.
+- **Laporan dinamis** – Ekspor ringkasan visual dari dataset kompleks.
+- **Ekspor dasbor** – Hasilkan cuplikan gambar dari dasbor analitik.
+- **Visualisasi analitik bisnis** – Sampaikan wawasan siap pakai dalam format visual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa JSON-ke-GAMBAR** – Otomatis konversi data terstruktur menjadi grafik siap pakai.
+- **Penghasilan visual otomatis dari data** – Hasilkan gambar secara dinamis dari feed JSON langsung.
+- **Generasi infografis dari dataset** – Buat visual yang rapi langsung dari informasi terstruktur.
+- **Otomatisasi pelaporan real-time** – Mempermudah pembuatan laporan visual untuk platform perusahaan dan cloud.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

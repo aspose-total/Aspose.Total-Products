@@ -49,7 +49,33 @@ otherformats: DXF WMF WMZ SVGZ TGA JPEG2000 PSD EMZ DICOM IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **JSON إلى DXF (تنسيق تبادل الرسومات)** أمر أساسي لإنشاء رسومات **CAD** من مجموعات بيانات منظمة. يعتبر تنسيق DXF من التنسيقات المعتمدة على نطاق واسع في مجال الهندسة المعمارية والهندسة والتصميم الصناعي وتطبيقات نظم المعلومات الجغرافية، مما يجعله مثاليًا لتحويل البيانات المستندة إلى JSON إلى رسوم فنية دقيقة وقابلة للتحرير. يمكن لهذا التحويل تمكين سير العمل السلس بين البيانات والتصميم، مما يعزز التوافق بين أنظمة CAD ويدعم الأتمتة في عمليات التصميم الحديثة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- **تخطيطات الهندسة المعمارية** – تحويل بيانات البناء إلى خطط طوابق CAD قابلة للتحرير.
+- **نماذج الهندسة** – إنشاء تصاميم هيكلية وميكانيكية من مدخلات JSON.
+- **أتمتة CAD مدفوعة بـ JSON** – تبسيط سير العمل في CAD من خلال تحويل مجموعات البيانات المنظمة.
+- **سير العمل للتصميم الصناعي** – إنشاء رسوم دقيقة للمنتجات والمكونات من البيانات JSON.
+- **رسم الخرائط الجغرافية (GIS)** – تحويل البيانات الجغرافية إلى DXF لمشاريع التخطيط الحضري والبنية التحتية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- **أنابيب JSON-to-DXF** – أتمتة تحويل البيانات المنظمة إلى رسوم CAD جاهزة.
+- **إنشاء رسوم CAD تلقائية** – إنشاء رسوم تخطيطية تقنية مباشرة من مجموعات بيانات JSON.
+- **سير العمل من البيانات إلى التصميم** – تمكين التكامل السلس للبيانات المنظمة في تطبيقات CAD.
+- **نمذجة البنية التحتية الذكية** – تمكين أنظمة البنية التحتية والخرائط الحديثة بمخرجات DXF مدفوعة بـ JSON.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

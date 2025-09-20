@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力TGA画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをTGA（Truevision Graphics Adapter）に変換することは、電子書籍から高品質のラスターグラフィックスを生成するために不可欠です。TGAファイルは、非圧縮で高忠実度の画像を提供し、プロのグラフィックス、ゲーム、印刷アプリケーションに最適です。EPUBをTGAに変換することで、出版社、デザイナー、開発者は鮮明なビジュアルを作成し、色の正確性を保持し、出版グラフィックスを高度なメディアワークフローに統合することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- **ゲーム業界の資産** – ゲーム内のビジュアルやテクスチャのために高解像度のグラフィックスを抽出します。
+- **3Dビジュアライゼーション** – モデリングやレンダリングワークフローで出版画像を使用します。
+- **印刷メディアワークフロー** – 正確な色の忠実度を持つ印刷用ラスター画像を生成します。
+- **アーカイブ画像** – デジタル出版グラフィックスを高品質な形式で保存します。
+- **グラフィック集中型出版** – 詳細なビジュアルを雑誌、マニュアル、マーケティングコンテンツに統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからTGAへのパイプライン** – 電子書籍コンテンツを高品質のラスターグラフィックスに自動変換します。
+- **自動化されたラスターレンダリング** – 複数の出版物で一貫した出力品質を確保します。
+- **大量のグラフィック生成** – デジタルコンテンツから効率的に大量のTGA画像を生成します。
+- **エンタープライズレベルのメディアパブリッシング** – プロのグラフィックおよび出版ワークフローにTGA生成を統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

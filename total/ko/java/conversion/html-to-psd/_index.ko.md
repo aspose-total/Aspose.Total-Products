@@ -57,7 +57,33 @@ API를 사용하여 필요에 따라 출력 PSD 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTML을 PSD(Photoshop 문서)로 변환**하는 것은 웹 페이지에서 **계층화된 그래픽 파일**을 생성하는 데 필수적입니다. PSD 파일은 레이어, 텍스트 및 디자인 요소를 보존하여 디자이너가 웹 콘텐츠를 효율적으로 편집, 조정 및 재활용할 수 있게 합니다. HTML을 PSD로 변환함으로써 조직은 UI/UX 워크플로우를 최적화하고 고품질의 마케팅 자산을 생성하며 웹 재디자인 및 디지턀 디자인 프로젝트의 유연성을 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **UI/UX 디자인** – 웹 페이지 레이아웃을 편집 가능한 PSD 레이어로 추출하여 신속한 프로토타이핑 및 디자인 반복을 수행합니다.
+- **웹사이트 재디자인 워크플로우** – 기존 페이지를 계층화된 파일로 변환하여 업데이트 또는 재디자인을 용이하게 합니다.
+- **마케팅 창작물** – 웹 콘텐츠에서 배너, 소셜 미디어 시각 자료 및 캠페인 그래픽을 생성합니다.
+- **디지털 모형** – 프레젠테이션 및 클라이언트 승인을 위한 현실적인 제품 또는 웹페이지 모형을 작성합니다.
+- **전자상거래 디자인 자산** – 제품 페이지, 프로모션 이미지 및 카탈로그를 위해 웹 페이지 섹션을 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **HTML-to-PSD 파이프라인** – 웹 페이지를 계층화된 Photoshop 파일로 자동 변환합니다.
+- **자동화된 계층화된 그래픽 생성** – 프로젝트 전반에 걸쳐 편집 가능한 레이어를 가진 PSD 파일을 일관되게 생성합니다.
+- **대규모 창작물 워크플로우** – 대규모 마케팅 또는 디자인 캠페인을 위해 여러 웹 페이지를 동시에 변환합니다.
+- **기업급 디자인 자동화** – PSD 생성을 조직적 디자인 및 콘텐츠 제작 워크플로에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

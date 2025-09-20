@@ -49,7 +49,33 @@ De plus, l'API vous permet de définir des options de mise en page pour votre JS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **JSON en EPUB** est essentielle pour générer des **livres électroniques numériques** à partir d'ensembles de données structurées. Les fichiers EPUB offrent un format reflowable largement pris en charge pour diffuser des connaissances sur les liseuses électroniques, les appareils mobiles et les plateformes d'apprentissage. En transformant le JSON en EPUB, les organisations peuvent automatiser la publication de contenu, créer des matériels d'apprentissage interactifs et distribuer des ressources de connaissances normalisées dans un format numérique portable.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- **Publication automatisée** – Convertir des ensembles de données en livres électroniques numériques prêts à être lus.
+- **Matériels d'apprentissage** – Diffuser des supports de cours interactifs et structurés au format EPUB.
+- **Livres électroniques basés sur les données** – Générer des publications dynamiques directement à partir d'entrées JSON.
+- **Publications de recherche** – Publier des résultats académiques et des sorties de recherche structurées sous forme de livres électroniques.
+- **Distribution des connaissances en entreprise** – Normaliser le partage des connaissances internes via des bibliothèques numériques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- **Pipelines JSON vers EPUB** – Automatiser la création de livres électroniques à partir de sources de données structurées.
+- **Génération de livres électroniques en temps réel** – Produire des publications à jour directement à partir de flux JSON en direct.
+- **Publication automatisée de supports de cours** – Rationaliser la production de matériels d'apprentissage pour les institutions.
+- **Intégration de bibliothèques numériques** – Incorporer des EPUB pilotés par JSON dans les référentiels d'entreprise et académiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

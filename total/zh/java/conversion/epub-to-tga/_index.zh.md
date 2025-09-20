@@ -57,7 +57,29 @@ otherformats: PSD DXF TGA IMAGE EMZ WMZ WMF JPEG2000 SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 TGA（Truevision Graphics Adapter）** 对于从电子书生成 **高质量光栅图形** 至关重要。TGA 文件提供未压缩的、高保真度的图像，非常适合专业图形、游戏和印刷应用。通过将 EPUB 转换为 TGA，出版商、设计师和开发人员可以生成清晰的视觉效果，保持色彩准确性，并将出版图形整合到高级媒体工作流程中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **游戏行业资产** – 提取高分辨率图形以用于游戏内视觉效果和纹理。
+- **3D 可视化** – 在建模和渲染工作流程中使用出版图像。
+- **印刷媒体工作流程** – 生成具有精确色彩保真度的印刷就绪光栅图像。
+- **档案图像** – 以高质量格式保存数字出版图形。
+- **图形密集型出版** – 将详细视觉效果整合到杂志、手册或营销内容中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 TGA 管道** – 自动化将电子书内容转换为高质量光栅图形。
+- **自动化光栅渲染** – 确保多个出版物之间的输出质量一致。
+- **批量图形生成** – 从数字内容高效地生成大量 TGA 图像。
+- **企业级媒体发布** – 将 TGA 生成整合到专业图形和出版工作流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

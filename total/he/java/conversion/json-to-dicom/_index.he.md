@@ -102,7 +102,33 @@ otherformats: APNG DXF WMF TGA SVGZ EMZ IMAGE JPEG2000 PSD WMZ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **JSON ל-DICOM (תקשורת דיגיטלית ותקשורת ברפואה)** היא חיונית להמרת **נתוני בריאות מובנים** לתקנים תקשורתיים רפואיים מתוקננים. DICOM הוא התקן הגלובלי לאחסון, העברה ותצוגה של תמונות רפואיות, המאפשר לספקי שירותי בריאות, חוקרים ומערכות AI לעבוד עם נתונים עקביים ואינטרופרביליים. על ידי המרת JSON ל-DICOM, רשומות מבוטחים מובנות ונתונים קליניים יכולים להיות משולבים באופן שקוף בתהליכי תמונה, תומכים באבחנות מדויקות ותוצאות בריאות טובות יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- **תצוגת רשומות מטופלים** – המרת נתוני בריאות מובנים לתצוגה חזותית של תמונות.
+- **תמיכה בתמונות רפואיות מבוססות AI** – הפעלת מערכות למידת מכונה לעיבוד סטים מידע המופעלים על ידי JSON.
+- **אינטרופרביליות בתחום הבריאות** – תקנות נתונים מובנים לתקנים DICOM מקובלים ברחבי העולם.
+- **תהליכי רדיולוגיה** – שילוב דוחות מבוססי JSON במערכות תמונה ואבחנה.
+- **אינטגרציה של נתוני מחקר קליני** – המרת סטים מידע מובנים לתקנים תואמי תמונה למחקרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- **צינורות עבודה של JSON ל-DICOM** – אוטומציה של המרת נתוני בריאות לתקנים מוכנים לתמונה.
+- **המרת דוחות רפואיים אוטומטית** – יצירת קבצי DICOM ישירות מדוחות קליניים מבוססי JSON.
+- **תמיכה בתמונות רפואיות בעננים** – הפעלת תהליכי תמונה אינטרופרביליים ונמכרים בענן.
+- **מערכות אבחון מתומכות ב- AI** – הפעלת כלים אבחוניים מתקדמים עם המרת מובנה לתמונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

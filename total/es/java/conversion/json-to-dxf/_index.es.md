@@ -49,7 +49,31 @@ Usando la API, también puede convertir JSON a DXF con marca de agua en su docum
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **JSON a DXF (Drawing Exchange Format)** es esencial para generar **dibujos CAD** a partir de conjuntos de datos estructurados. DXF es un formato ampliamente adoptado en arquitectura, ingeniería, diseño industrial y aplicaciones GIS, lo que lo hace ideal para transformar datos basados en JSON en dibujos técnicos precisos y editables. Esta conversión permite flujos de trabajo de datos a diseño sin problemas, mejorando la interoperabilidad entre sistemas CAD y apoyando la automatización en los procesos de diseño modernos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Diseños de arquitectura** – Convertir datos de construcción en planos de planta CAD editables.
+- **Modelos de ingeniería** – Generar diseños estructurales y mecánicos a partir de entradas JSON.
+- **Automatización CAD basada en JSON** – Optimizar flujos de trabajo de CAD mediante la transformación de conjuntos de datos estructurados.
+- **Flujos de trabajo de diseño industrial** – Crear dibujos precisos de productos y componentes a partir de datos JSON.
+- **Mapeo GIS** – Convertir datos geoespaciales en DXF para proyectos de planificación urbana e infraestructura.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- **Tuberías JSON a DXF** – Automatizar la transformación de datos estructurados en dibujos listos para CAD.
+- **Generación automatizada de dibujos CAD** – Crear diagramas técnicos directamente a partir de conjuntos de datos JSON.
+- **Flujos de trabajo de datos a diseño** – Permitir la integración sin problemas de datos estructurados en aplicaciones CAD.
+- **Modelado inteligente de infraestructuras** – Potenciar sistemas modernos de infraestructura y mapeo con salidas DXF basadas en JSON.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

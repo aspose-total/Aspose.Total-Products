@@ -49,7 +49,31 @@ Usando la API, también puede analizar JSON a CHM con marca de agua. Para agrega
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **JSON a CHM (Ayuda HTML Compilada)** es esencial para construir **manuales de ayuda compilados** directamente desde documentación estructurada. Los archivos CHM combinan múltiples temas de ayuda en un recurso único, buscable y accesible sin conexión, lo que los hace ideales para el soporte de software y la gestión del conocimiento empresarial. Al transformar JSON en CHM, las organizaciones pueden agilizar la entrega de documentación, mejorar la usabilidad y garantizar la accesibilidad incluso sin conexión a Internet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Documentación de software** – Empaquetar guías técnicas en un formato compilado y fácil de usar.
+- **Sistemas de ayuda sin conexión** – Entregar documentación sin necesidad de acceso a Internet.
+- **Bases de conocimiento empresarial** – Centralizar el conocimiento organizacional en un archivo de ayuda estructurado.
+- **Manuales de entrenamiento** – Distribuir recursos de aprendizaje compilados para personal o estudiantes.
+- **Referencias de API para desarrolladores** – Convertir definiciones JSON estructuradas en referencias offline buscables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- **Tuberías de JSON a CHM** – Automatizar la conversión de datos estructurados en manuales de ayuda compilados.
+- **Creación automatizada de archivos de ayuda** – Generar archivos CHM directamente desde contenido basado en JSON en evolución.
+- **Compilación de datos a documentación** – Transformar documentación estructurada en JSON en sistemas de ayuda accesibles.
+- **Distribución de conocimiento sin conexión** – Estandarizar manuales CHM para entrenamiento y soporte en toda la empresa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

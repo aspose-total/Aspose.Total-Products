@@ -47,7 +47,29 @@ EPUB 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB을 DIF로 변환하는 것은 eBook 및 디지털 출판물에서 데이터 교환 형식 파일을 생성하는 데 유용합니다. DIF 파일은 응용 프로그램 간 데이터 교환을 위한 가벼우면서 구조화된 방법을 제공하여 학술, 출판 및 기업 환경에서 특히 유용합니다. EPUB 콘텐츠나 메타데이터를 DIF로 변환함으로써 조직은 상호 운용성을 향상시키고 보고서 작성을 간소화하며 연구 데이터 집합 공유를 향상시킬 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 시스템 간 데이터 교환 - 출판 데이터의 원활한 전송을 용이하게 합니다.
+- 학술 메타데이터 변환 - eBook 메타데이터를 연구 친화적 형식으로 표준화합니다.
+- 스프레드시트 상호 운용성 - Excel 및 기타 스프레드시트 도구 간 호환성을 보장합니다.
+- 연구 데이터 집합 내보내기 - 구조화된 eBook 콘텐츠를 공유 가능한 데이터 파일로 변환합니다.
+- 출판 워크플로우 - 보고서 작성 및 카탈로그 관리 프로세스를 간소화합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- EPUB-to-DIF 파이프라인 - 대규모 디지털 컬렉션을 위한 변환 워크플로우를 자동화합니다.
+- 자동 데이터 교환 생성 - eBook 메타데이터에서 즉시 DIF 파일을 생성합니다.
+- 크로스 플랫폼 출판 통합 - 출판 시스템 간의 원활한 데이터 전송을 가능하게 합니다.
+- 기업 데이터 집합 관리 - 규모에 맞게 구조화된 출판 데이터를 관리하고 배포합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

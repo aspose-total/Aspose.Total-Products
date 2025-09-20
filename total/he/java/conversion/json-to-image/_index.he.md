@@ -102,7 +102,33 @@ otherformats: DICOM EMZ TGA APNG SVGZ JPEG2000 WMF WMZ PSD DXF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **JSON לתמונה** חשובה ליצירת **גרפיקות חזותיות** מנתונים מובנים. תהליך זה מאפשר להמיר סט נתונים גולמי לגרפיקות משמעותיות כגון תרשימים, אינפוגרפיקות וגרפיקות לבינה עסקית. על ידי יצירת תמונות ישירות מ-JSON, ארגונים יכולים לפשט דיווחים, לשפר את תהליך הקבלת ההחלטות, ולמסור תובנות מידע בפורמטים חזותיים המעוררים עניין וקלים לשיתוף והבנה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- **אינפוגרפיקות** – המרת נתונים מובנים לסיפורים חזותיים מרתקים.
+- **תצוגת נתונים** – יצירת תרשימים, גרפים וגרפים ישירות מ-JSON.
+- **דוחות דינמיים** – יצוא סיכומים חזותיים של סטי נתונים מורכבים.
+- **ייצוא לוחות מחוונים** – יצירת צילומי תמונה של לוחות בקרת נתונים.
+- **תמונות לבינה עסקית** – מסירת תובנות מוכנות להחלטה בפורמטים חזותיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- **צינורות JSON-לתמונה** – אוטומציה של המרת נתונים מובנים לגרפיקות מוכנות לשימוש.
+- **הפקת תמונות חזותיות מנתונים** – יצירת תמונות באופן דינמי מזרמי JSON חיים.
+- **יצירת אינפוגרפיקות מסטי נתונים** – יצירת גרפיקות מעוצבות ישירות ממידע מובנה.
+- **אוטומציה של דיווחים בזמן אמת** – פיתוח יצירת דוחות חזותיים לפלטפורמות עסקיות וענניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

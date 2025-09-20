@@ -57,7 +57,29 @@ API를 사용하여 필요에 따라 출력 SVGZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB을 SVGZ(압축된 SVG)로 변환하는 것은 디지털 출판물로부터 확장 가능한 벡터 그래픽을 압축된 형식으로 생성하는 데 필수적입니다. SVGZ 파일은 파일 크기를 줄이면서 전체 확장 가능성과 품질을 유지하므로 웹, 모바일 및 대화형 애플리케이션에 이상적입니다. EPUB을 SVGZ로 변환함으로써 출판사, 교육자 및 디자이너는 고품질 그래픽을 효율적으로 전달하고 로드 시간을 개선하며 플랫폼 간 일관성을 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 가벼운 웹 게시 – 로드 시간을 최소화하여 웹사이트에 eBook 비주얼 효율적으로 배포합니다.
+- 모바일 중심 eBook 미리보기 – 모바일 기기용으로 최적화된 대화식 및 확장 가능한 그래픽 제공합니다.
+- 인포그래픽 생성 – 출판 콘텐츠로부터 자세하고 고품질의 시각적 요약물을 생성합니다.
+- 플랫폼 간 호환성 – 장치 및 플랫폼 간 벡터 그래픽의 일관된 표시를 보장합니다.
+- 대화식 디자인 – 학습, 마케팅 또는 프레젠테이션용 동적 및 확대 가능한 그래픽을 활성화합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- EPUB-to-SVGZ 파이프라인 – eBook을 압축된 벡터 그래픽으로 자동 변환합니다.
+- 자동화된 벡터 압축 – 전체 확장 가능성과 품질을 유지하면서 파일 크기를 줄입니다.
+- 대량 인포그래픽 생성 – 디지털 출판물로부터 대량의 시각적 콘텐츠를 효율적으로 생성합니다.
+- 기업급 가벼운 게시 워크플로우 – 확장 가능한 콘텐츠 전달 시스템에 SVGZ 생성을 통합합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

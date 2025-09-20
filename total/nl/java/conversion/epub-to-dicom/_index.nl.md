@@ -57,7 +57,29 @@ Met behulp van de API kunt u ook de uitgevoerde DICOM-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Conversie van **EPUB naar DICOM** is een innovatieve aanpak om digitale publicaties om te zetten in **bestanden die compatibel zijn met medische beeldvorming**. Dit proces stelt zorgprofessionals, onderzoekers en docenten in staat gestructureerde eBook-inhoud in DICOM-formaten in te sluiten, waardoor deze toegankelijk wordt binnen medische beeldvormingssystemen. Door tekstuele bronnen te integreren met beeldvormingsworkflows kunnen ziekenhuizen en instellingen de training verbeteren, de naleving verbeteren en klinische documentatie stroomlijnen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- **Medische trainings-eBooks** – Zet studiemateriaal om in formaten die compatibel zijn met beeldvormingsplatforms.
+- **Documentatie van klinisch onderzoek** – Sla onderzoekspublicaties op en standaardiseer deze binnen DICOM-systemen.
+- **Inhoud voor radiologie-onderwijs** – Verbeter leermiddelen door tekst te integreren met beeldvormingsworkflows.
+- **Archivering van ziekenhuisgegevens** – Onderhoud publicatiegegevens naast patiëntbeeldopnamen.
+- **Workflows voor naleving in de gezondheidszorg** – Zorg ervoor dat medische publicaties voldoen aan gestandaardiseerde digitale formaten.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- **EPUB-naar-DICOM-pijplijnen** – Automatiseer conversie voor schaalbare workflows voor gezondheidszorggegevens.
+- **Geautomatiseerde conversie van medische publicaties** – Transformeer eBooks direct in DICOM-compatibele bronnen.
+- **E-learning integratie voor de gezondheidszorg** – Lever interactieve medische inhoud binnen trainingsplatforms.
+- **Standaardisatie van onderzoeksdatasets** – Zet klinische en onderzoeksdocumenten om in uniforme DICOM-datasets.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

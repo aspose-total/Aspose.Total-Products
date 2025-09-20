@@ -49,7 +49,29 @@ otherformats: XLTX FODS XLSM XLTM SXC ODS XLSB TXT MD EXCEL TSV XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 SXC（StarOffice Calc 电子表格）** 对于从电子书生成 **与电子表格兼容的输出** 至关重要。SXC 文件确保与传统 OpenOffice 和 StarOffice 环境兼容，实现无缝数据分析、报告和学术转换。通过将 EPUB 转换为 SXC，教育工作者、研究人员和组织可以高效管理数据集，简化工作流程，并在电子表格系统之间保持一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- **传统数据工作流程** – 将电子书数据与旧版 OpenOffice 和 StarOffice 系统集成。
+- **教育数据集** – 将教科书和学习材料转换为结构化电子表格。
+- **基于 OpenOffice 的报告** – 生成与开源办公套件兼容的报告。
+- **学术转换** – 将电子书研究内容转换为可分析的电子表格格式。
+- **部门电子表格系统** – 支持使用标准化电子表格输出进行内部数据管理。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 SXC 管道** – 自动将电子书转换为 SXC 电子表格文件。
+- **自动化数据提取** – 高效从出版物中提取结构化数据集。
+- **批量教育数据集生成** – 为课堂或机构生成多个电子表格。
+- **企业级电子表格集成** – 将 SXC 生成嵌入组织数据管理工作流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

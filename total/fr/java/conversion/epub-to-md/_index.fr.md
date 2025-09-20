@@ -47,7 +47,27 @@ Lors de la conversion du fichier EPUB en MD, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **EPUB en MD (format Markdown)** est essentiel pour générer du **contenu structuré en texte brut** à partir d'eBooks et de publications numériques. Markdown offre simplicité, lisibilité et une large adoption dans les plateformes de développement, le rendant idéal pour la réutilisation et la distribution de contenu. En transformant l'EPUB en MD, les éditeurs, les chercheurs et les développeurs peuvent rationaliser la documentation, soutenir la collaboration open source et simplifier les flux de travail de publication numérique.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- **Documentation technique** – Convertir des eBooks en Markdown structuré pour la documentation des développeurs.
+- **Publication de blog** – Réutiliser les chapitres EPUB en fichiers Markdown prêts pour les blogs.
+- **Bases de connaissances des développeurs** – Construire des référentiels de connaissances collaboratifs avec du contenu Markdown.
+- **Partage de notes de recherche** – Partager des notes académiques ou institutionnelles dans un format MD universellement lisible.
+- **Distribution de contenu open source** – Publier du contenu d'eBook pour une collaboration et une réutilisation mondiales.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines EPUB vers MD** – Automatiser la conversion d'eBooks en fichiers Markdown.
+- **Publication Markdown automatisée** – Synchroniser les sorties MD avec des générateurs de sites statiques et des plateformes.
+- **Normalisation du contenu pour les plateformes de développement** – Assurer la cohérence sur GitHub, GitLab et des outils similaires.
+- **Automatisation de la documentation** – Intégrer la conversion Markdown dans les flux de travail de publication d'entreprise.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

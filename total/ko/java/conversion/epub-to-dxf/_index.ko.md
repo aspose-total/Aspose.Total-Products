@@ -57,7 +57,29 @@ API를 사용하여 필요에 따라 출력 DXF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 DXF로 변환하는 것**은 디지턈 출판물로부터 **CAD 호환 도면 교환 파일**을 생성하는 데 중요합니다. 이 과정을 통해 eBook 내의 기술, 공학 및 건축 콘텐츠를 CAD용 형식으로 재활용하여 다이어그램과 삽화를 전문적인 작업 흐름에서 더 접근 가능하게 만들 수 있습니다. EPUB에서 DXF로 구조화된 시각 자료를 추출함으로써 출판사, 엔지니어 및 건축가는 설계 문서 작업을 간소화하고 상호 운용성을 향상시키며 리소스 사용성을 향상시킬 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **다이어그램이 포함된 기술 매뉴얼** – 지시 삽화를 편집 가능한 CAD 파일로 변환합니다.
+- **공학 eBook 콘텐츠** – 디지털 공학 자료를 CAD 호환 도면으로 변환합니다.
+- **건축 참고 문서** – eBook으로부터 건물 설계와 다이어그램을 재활용합니다.
+- **CAD 관련 자료의 게시** – 기술 출판물을 DXF로 제공합니다.
+- **설계 문서 작업 흐름** – 공학 팀 간에 다이어그램을 표준화하고 재사용합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB에서 DXF로 변환하는 파이프라인** – 대규모로 CAD용 파일을 생성하는 작업 흐름을 자동화합니다.
+- **자동화된 기술 삽화 추출** – eBook으로부터 다이어그램을 즉시 DXF로 추출합니다.
+- **CAD용 게시** – 엔지니어와 건축가에 직접 사용 가능한 CAD 형식을 제공합니다.
+- **기업 공학 문서** – 대규모 문서 시스템에 EPUB에서 DXF로 변환을 통합합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,27 @@ Lors de la conversion du fichier EPUB en ODS, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion d'**EPUB en ODS (OpenDocument Spreadsheet)** est essentielle pour générer des **feuilles de calcul aux normes ouvertes** à partir de publications numériques. Les fichiers ODS offrent un format flexible et largement compatible pour organiser et analyser des données structurées. En transformant l'EPUB en ODS, les éducateurs, les chercheurs, les bibliothèques et les éditeurs peuvent gérer efficacement les métadonnées, suivre les ensembles de données de recherche et rationaliser les flux de travail de publication basés sur les données.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- **Gestion des ensembles de données académiques** – Organiser et maintenir les données de recherche des livres électroniques au format de feuille de calcul.
+- **Enregistrements de catalogues de bibliothèque** – Tabuler les métadonnées bibliographiques pour un accès et une analyse faciles.
+- **Tabulation des métadonnées** – Convertir les métadonnées des livres électroniques en tables de feuilles de calcul structurées.
+- **Analyse des données de recherche** – Faciliter les calculs, le tri et les rapports à l'aide de fichiers ODS.
+- **Flux de travail de publication** – Standardiser la gestion des données dans l'édition et l'édition académique.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines EPUB vers ODS** – Automatiser la conversion des livres électroniques en feuilles de calcul structurées.
+- **Conversion automatisée de feuilles de calcul** – Rationaliser le traitement des métadonnées et des ensembles de données à grande échelle.
+- **Extraction en masse d'ensembles de données** – Extraire efficacement de grands volumes de données de livres électroniques.
+- **Analyse de publication au niveau de l'entreprise** – Intégrer les sorties ODS dans les flux de travail d'analyse et de reporting.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

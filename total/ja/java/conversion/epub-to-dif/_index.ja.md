@@ -47,7 +47,29 @@ EPUBファイルをDIFに変換するときに、出力DIFファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをDIFに変換することは、電子書籍やデジタル出版物からデータ交換形式ファイルを作成するために有益です。DIFファイルは、アプリケーション間でデータをやり取りするための軽量で構造化された方法を提供し、特に学術、出版、企業環境で特に有用です。EPUBコンテンツやメタデータをDIFに変換することで、組織は相互運用性を向上させ、レポートの効率化、研究データセットの共有を強化することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- **システム間のデータ交換** – 出版データのシームレスな転送を促進します。
+- **学術メタデータの変換** – eBookメタデータを研究に適した形式に標準化します。
+- **スプレッドシートの相互運用性** – Excelや他のスプレッドシートツールとの互換性を確保します。
+- **研究データセットのエクスポート** – 構造化されたeBookコンテンツを共有可能なデータファイルに変換します。
+- **出版ワークフロー** – レポート作成やカタログ管理プロセスを簡素化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからDIFへのパイプライン** – 大規模なデジタルコレクションの変換ワークフローを自動化します。
+- **自動データ交換の生成** – eBookメタデータからDIFファイルを即座に作成します。
+- **クロスプラットフォームの出版統合** – 出版システム間でスムーズなデータ転送を可能にします。
+- **企業データセット管理** – 規模の大きな構造化された出版データを管理および配布します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,31 @@ De plus, l'API vous permet de définir des options de mise en page pour votre JS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **JSON en OTT** est essentiel pour produire des **modèles de documents texte** à partir d'ensembles de données structurés. OTT, le format de modèle de texte OpenDocument, offre un moyen standardisé de créer des modèles réutilisables et modifiables dans des suites bureautiques open source telles que LibreOffice et OpenOffice. En transformant le JSON en OTT, les organisations garantissent la cohérence, la conformité et l'automatisation dans la génération de documents à travers plusieurs flux de travail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- **Cadres de documents gouvernementaux** – Créer des formulaires et des rapports normalisés à usage officiel.
+- **Modèles juridiques** – Automatiser les contrats, accords et formats prêts à la conformité.
+- **Lettres commerciales** – Maintenir la cohérence dans la correspondance d'entreprise.
+- **Rapports éducatifs** – Générer des modèles de documents prêts pour la recherche et les devoirs académiques.
+- **Intégration des bureaux open source** – Utiliser de manière transparente des modèles pilotés par JSON dans des environnements open source.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- **Pipelines JSON vers OTT** – Automatiser la création de modèles à partir d'ensembles de données JSON structurés.
+- **Flux de travail de modèles automatisés** – Réduire les efforts de formatage manuel à travers les départements.
+- **Génération de documents pilotée par JSON** – Faire respecter la cohérence dans les rapports d'entreprise et la conformité.
+- **Distribution de modèles d'entreprise** – Normaliser les modèles de documents à travers les équipes mondiales.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

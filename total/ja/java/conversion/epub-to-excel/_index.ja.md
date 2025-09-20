@@ -47,7 +47,29 @@ EPUBファイルをEXCELに変換するときに、出力EXCELファイル形式
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをExcel（XLSX）に変換することは、電子書籍から構造化されたデータを簡単に管理可能なスプレッドシートに抽出する効果的な方法です。デジタル出版物をExcelファイルに変換することで、組織、研究者、出版社は洞察を得たり、カタログ作成を効率化したり、高度なレポート作成や分析を可能にすることができます。XLSXファイルは、学術、ビジネス、企業レベルのワークフローをサポートする汎用性のある編集可能な形式を提供します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **学術研究データ** – 分析や引用管理のために構造化されたコンテンツを抽出します。
+- **出版メタデータ** – 書籍の詳細を標準化されたExcelスプレッドシートに変換します。
+- **図書館カタログ作成** – 検索可能なExcel形式でデジタルコレクションを整理します。
+- **電子書籍からのビジネスレポート** – 出版データを使いやすいビジネスインテリジェンスに変換します。
+- **コンテンツアーカイブ** – 長期間、構造化された形式で電子書籍情報を保存します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからExcelへのパイプライン** – 電子書籍を構造化されたデータセットに自動変換します。
+- **自動メタデータ抽出** – キー情報を直接Excelセルに取り込みます。
+- **一括電子書籍からExcelへの変換** – 大規模な変換を効率的に処理します。
+- **企業レベルのカタログ自動化** – 組織全体でのカタログ作成とレポートを標準化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

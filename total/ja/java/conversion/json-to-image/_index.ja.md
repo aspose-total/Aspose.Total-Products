@@ -49,7 +49,33 @@ APIを使用して、IMAGEドキュメントに透かしを入れたJSONをIMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSONを画像に変換**することは、構造化されたデータから**ビジュアルグラフィック**を作成するために重要です。このプロセスにより、生データセットをチャート、インフォグラフィック、ビジネスインテリジェンスグラフィックなどの意味のあるビジュアルに変換することが可能となります。JSONから直接画像を生成することで、組織はレポート作成を簡素化し、意思決定を強化し、データの洞察を視覚的に魅力的な形式で共有し理解しやすくすることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **インフォグラフィック** – 構造化データを魅力的なビジュアルストーリーに変換します。
+- **データ可視化** – チャート、グラフ、プロットをJSONから直接レンダリングします。
+- **ダイナミックレポート** – 複雑なデータセットのビジュアルサマリーをエクスポートします。
+- **ダッシュボードのエクスポート** – 分析ダッシュボードの画像スナップショットを生成します。
+- **ビジネスアナリティクスビジュアル** – 決定に即した洞察を視覚的な形式で提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONから画像へのパイプライン** – 構造化データを即座に使用可能なグラフィックに自動変換します。
+- **自動化されたデータからビジュアルへのレンダリング** – ライブJSONフィードから動的に画像を生成します。
+- **データセットからのインフォグラフィック生成** – 構造化情報から直接洗練されたビジュアルを作成します。
+- **リアルタイムレポートの自動化** – 企業およびクラウドプラットフォーム向けのビジュアルレポート作成を効率化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

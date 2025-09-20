@@ -59,7 +59,29 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 XAML** 对于从电子书内容生成 **UI 友好标记** 是至关重要的。XAML 文件使设计师和开发人员能够直接从出版内容创建交互式、可扩展和与 Windows 兼容的用户界面。通过将 EPUB 转换为 XAML，团队可以简化应用程序原型设计，改善 UI/UX 工作流程，并将出版资产集成到 Windows Presentation Foundation (WPF) 项目中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **应用程序原型设计** – 快速将内容转换为应用程序界面准备就绪的标记。
+- **UI/UX 工作流程** – 将电子书元素集成到交互式设计系统中。
+- **跨平台发布** – 为多设备和多平台 UI 项目调整内容。
+- **交互式设计** – 从文本和视觉内容构建动态和响应式界面。
+- **Windows Presentation Foundation (WPF) 集成** – 无缝地在 WPF 应用程序中使用出版内容。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 XAML 管道** – 自动化将电子书转换为准备好的标记文件。
+- **自动标记提取** – 高效提取 UI 元素以供设计使用。
+- **批量 UI 生成** – 从大型出版库生成多个界面准备就绪的文件。
+- **企业级应用程序设计工作流程** – 将 EPUB 到 XAML 转换集成到可扩展的软件开发流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

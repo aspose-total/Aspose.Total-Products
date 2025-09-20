@@ -59,7 +59,29 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 POTX（PowerPoint 开放式 XML 模板）** 对于从数字出版物生成 **标准化的现代演示文稿模板** 至关重要。POTX 文件提供基于开放式 XML 的格式，可重复使用、可编辑的幻灯片，实现一致的设计和高效的内容再利用。通过将 EPUB 转换为 POTX，教育工作者、出版商和企业可以简化演示文稿的创建过程，保持视觉一致性，并支持可扩展的专业幻灯片工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **教育幻灯片** – 创建可重复使用的讲座和课程演示文稿模板。
+- **商业演示文稿框架** – 标准化团队和项目间的公司幻灯片。
+- **出版模板** – 制定一致的推广和编辑幻灯片布局。
+- **研究演示** – 将学术内容转化为结构化、视觉吸引力的幻灯片。
+- **培训材料标准化** – 为公司和教育培训项目生成统一的模板。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 POTX 管道** – 自动化将电子书转换为标准化演示文稿模板。
+- **自动化模板分发** – 高效地在团队或组织间部署 POTX 幻灯片。
+- **元数据到幻灯片生成** – 使用结构化的电子书数据填充幻灯片内容。
+- **企业级出版工作流程** – 在教育或公司企业间扩展幻灯片模板的创建和分发。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

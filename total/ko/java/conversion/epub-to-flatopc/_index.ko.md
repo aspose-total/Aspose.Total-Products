@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUB을 Flat OPC(Flat XML Office 파일)로 변환하는 것은 디지털 출판물로부터 XML 기반의 워드 처리 파일을 생성하는 데 중요합니다. Flat OPC는 완전히 XML 기반의 구조를 제공하여 상호 운용성, 메타데이터 통합 및 콘텐츠 자동화를 향상시킵니다. EPUB을 Flat OPC로 변환함으로써 출판사, 연구자 및 기업은 구조화된 워크플로우를 구현하고 학술 보고를 단순화하며 장기적인 디지털 아카이빙을 표준화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **구조화된 출판 워크플로우** - 일관된 XML 기반 콘텐츠 관리 가능
+- **XML 기반 학술 보고** - 메타데이터 풍부한 XML 구조로 연구 결과물 전달
+- **메타데이터 풍부한 아카이빙** - 표준화된 Flat OPC 파일에 eBook 콘텐츠 및 메타데이터 보존
+- **연구 문서화** - 학술 출판물을 상호 운용 가능한 XML 워드 형식으로 변환
+- **기업 콘텐츠 교환** - 플랫폼 및 시스템 간 확장 가능한 문서 공유 지원
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-FLATOPC 파이프라인** - eBook을 XML 기반 오피스 파일로 자동 변환
+- **자동화된 XML 문서 생성** - 출판 및 기업 워크플로우 간소화
+- **메타데이터-to-Word 워크플로우** - 구조화된 메타데이터를 사용 가능한 워드 호환 형식으로 변환
+- **기업 수준의 출판 자동화** - 대규모 조직 내 문서 표준화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

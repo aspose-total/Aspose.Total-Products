@@ -59,7 +59,27 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para XAML** é essencial para gerar marcações **amigáveis para a interface do usuário** a partir do conteúdo de eBooks. Arquivos XAML permitem que designers e desenvolvedores criem interfaces de usuário interativas, escaláveis e compatíveis com o Windows diretamente a partir do conteúdo de publicações. Ao transformar EPUB em XAML, equipes podem otimizar a prototipagem de aplicativos, melhorar os fluxos de trabalho de UI/UX e integrar ativos de publicação em projetos do Windows Presentation Foundation (WPF).
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Prototipagem de aplicativos** – Converter rapidamente conteúdo em marcações prontas para a interface de aplicativos.
+- **Fluxos de trabalho de UI/UX** – Integrar elementos de eBooks em sistemas de design interativos.
+- **Publicação multiplataforma** – Adaptar conteúdo para projetos de UI em vários dispositivos e plataformas.
+- **Design interativo** – Construir interfaces dinâmicas e responsivas a partir de conteúdo textual e visual.
+- **Integração com Windows Presentation Foundation (WPF)** – Utilizar conteúdo de publicação de forma contínua em aplicativos WPF.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de EPUB para XAML** – Automatizar a conversão de eBooks em arquivos prontos para marcação.
+- **Extração automatizada de marcação** – Extrair elementos de UI de forma eficiente para uso em design.
+- **Geração em massa de UI** – Produzir vários arquivos prontos para interface a partir de grandes bibliotecas de publicações.
+- **Fluxos de trabalho de design de aplicativos em nível empresarial** – Integrar a conversão de EPUB para XAML em pipelines escaláveis de desenvolvimento de software.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

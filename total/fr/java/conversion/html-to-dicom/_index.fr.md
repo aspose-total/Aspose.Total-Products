@@ -57,7 +57,27 @@ L'API vous permet également d'exporter le fichier HTML vers DICOM dans un seul 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}  
+La conversion de **HTML en DICOM** est essentielle pour générer des **sorties compatibles avec l'imagerie médicale** à partir de données basées sur le web. DICOM garantit que les images cliniques et les informations liées aux soins de santé sont normalisées pour l'interopérabilité, l'archivage et l'intégration à travers les systèmes médicaux. En convertissant le contenu HTML en DICOM, les prestataires de soins de santé et les chercheurs peuvent rationaliser les flux de travail médicaux tout en respectant les normes de l'industrie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}  
+- **Plateformes de télémédecine** – Intégrer des données médicales basées sur le web dans des systèmes compatibles avec DICOM.  
+- **Intégration de rapports médicaux** – Intégrer des rapports textuels et d'imagerie dans des formats de soins de santé standard.  
+- **Flux de travail en santé** – Permettre l'échange transparent des données des patients entre les services.  
+- **Archivage en radiologie** – Stocker des images et du contenu basé sur le web associé dans des archives DICOM.  
+- **Interopérabilité entre systèmes** – Faciliter le partage de données normalisées entre les applications de santé.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}  
+- **Pipelines HTML-to-DICOM** – Automatiser la conversion de contenu médical basé sur le web en DICOM.  
+- **Intégration automatisée de rapports médicaux** – Intégrer des données HTML dans les flux de travail d'imagerie des patients.  
+- **Conversion en masse de données de santé** – Traiter efficacement plusieurs rapports ou pages web à grande échelle.  
+- **Flux de travail clinique de niveau entreprise** – Normaliser la conversion HTML-to-DICOM à travers les organisations de santé.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

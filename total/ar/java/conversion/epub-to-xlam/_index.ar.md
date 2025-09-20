@@ -47,7 +47,29 @@ otherformats: ODS XLSM XLT MD TSV XLTM XLAM FODS XLSB SXC XLTX TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **EPUB إلى XLAM (Excel Add-in)** أمر أساسي لإنشاء **امتدادات Excel جاهزة للتشغيل التلقائي** من الكتب الإلكترونية. تتيح ملفات XLAM للمؤسسات دمج البيانات والماكروس المستمدة من الكتب الإلكترونية مباشرة في Excel، مما يمكن من تحقيق التشغيل التلقائي المتقدم وسير العمل لذكاء الأعمال والتقارير المخصصة. من خلال تحويل EPUB إلى XLAM، يمكن للمحللين والشركات تبسيط المهام المتكررة، تعزيز عملية اتخاذ القرارات، ونشر حلول جداول البيانات التي يمكن توسيعها.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- **تشغيل تحليل البيانات تلقائيًا** – حول محتوى الكتب الإلكترونية إلى أدوات تشغيل تلقائي مدعومة بـ Excel.
+- **نمذجة مالية** – دمج بيانات النشر في نماذج مالية ممكنة للماكرو.
+- **سير العمل لذكاء الأعمال** – تعزيز أنابيب BI بامتدادات Excel مستمدة من الكتب الإلكترونية.
+- **أنظمة التقارير المخصصة** – إنشاء تقارير ديناميكية باستخدام إضافات Excel التلقائية.
+- **امتدادات جداول البيانات للشركات** – توسيع جداول البيانات الشركية بماكروهات تعتمد على المحتوى.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- **أنابيب EPUB-to-XLAM** – أتمتة إنشاء إضافات Excel من النشرات الرقمية.
+- **إنتاج إضافات Excel التلقائية** – إنتاج امتدادات ممكنة للماكرو بكفاءة وبمقياس كبير.
+- **تكامل سير العمل الضخم لذكاء الأعمال** – دمج مجموعات بيانات الكتب الإلكترونية المتعددة في أنظمة ذكاء الأعمال الشركية.
+- **تشغيل البيانات على مستوى المؤسسة تلقائيًا** – تبسيط عمليات التشغيل التلقائي لجداول البيانات على نطاق واسع باستخدام أدوات XLAM.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

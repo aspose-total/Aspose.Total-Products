@@ -47,7 +47,29 @@ EPUBファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをSXC（StarOffice Calc Spreadsheet）に変換することは、電子書籍からスプレッドシート互換の出力を生成するために不可欠です。SXCファイルは、従来のOpenOfficeやStarOffice環境との互換性を確保し、データ分析、レポート作成、学術的な変換をシームレスに行うことができます。EPUBをSXCに変換することで、教育関係者、研究者、組織はデータセットを効率的に管理し、ワークフローを効率化し、スプレッドシートシステム全体での一貫性を維持することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **レガシーデータワークフロー** – eBookデータを古いOpenOfficeやStarOfficeシステムに統合します。
+- **教育用データセット** – 教科書や学習教材を構造化されたスプレッドシートに変換します。
+- **OpenOfficeベースのレポート** – オープンソースオフィススイートと互換性のあるレポートを生成します。
+- **学術的な変換** – eBookの研究コンテンツを分析可能なスプレッドシート形式に変換します。
+- **部門のスプレッドシートシステム** – 標準化されたスプレッドシート出力を使用して内部データ管理をサポートします。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからSXCへのパイプライン** – eBookをSXCスプレッドシートファイルに自動変換します。
+- **自動データ抽出** – 出版物から構造化されたデータセットを効率的に抽出します。
+- **大量の教育用データセット生成** – 教室や機関向けに複数のスプレッドシートを生成します。
+- **企業レベルのスプレッドシート統合** – SXC生成を組織のデータ管理ワークフローに組み込みます。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

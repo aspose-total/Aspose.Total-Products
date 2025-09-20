@@ -59,7 +59,28 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## 转换 EPUB 到 OTP
+
+将 **EPUB 转换为 OTP（OpenDocument Presentation Template）** 对于从数字出版物生成 **标准化幻灯片模板** 是必不可少的。OTP 文件提供可重复使用的、开放标准的演示文稿框架，实现一致的设计和高效的内容再利用。通过将 EPUB 转换为 OTP，教育工作者、研究人员、出版商和企业可以简化幻灯片制作流程，保持品牌一致性，并支持可扩展的演示工作流程。
+
+## 主要用例
+
+- **学术演示模板** – 从电子书内容创建可重复使用的讲座和研讨会幻灯片。
+- **业务工作流模板** – 标准化团队和项目间的企业演示。
+- **出版社营销模板** – 基于电子书材料开发推广幻灯片。
+- **研究演示框架** – 将学术内容转换为结构化演示模板。
+- **教育幻灯片设计** – 为教学和培训材料制作一致、可重复使用的模板。
+
+## 自动化场景
+
+- **EPUB 到 OTP 管道** – 自动化将电子书转换为演示模板。
+- **自动生成模板** – 快速为多种用例生成标准化幻灯片。
+- **批量发布幻灯片模板** – 将大量电子书转换为可重复使用的 OTP 文件。
+- **企业级演示工作流** – 简化整个组织的幻灯片模板创建和分发。
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

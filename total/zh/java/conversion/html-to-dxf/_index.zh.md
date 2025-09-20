@@ -57,7 +57,29 @@ otherformats: DXF TGA IMAGE SVGZ EMZ WMF JPEG2000 PSD WMZ  DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**HTML转换为DXF**对于从基于Web的图表生成**与CAD兼容的图纸**至关重要。DXF确保技术插图、原理图和设计布局从HTML内容完全兼容CAD软件，实现精密工程、建筑规划和制造工作流程。通过将HTML图表转换为DXF，组织可以简化设计流程，并在数字到CAD转换中保持高度保真度。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **建筑工作流程** – 将基于Web的平面图和图表转换为CAD准备文件。
+- **工程图表** – 将原理图转换为可编辑的CAD格式。
+- **制造流程** – 将流程图集成到可用于生产的CAD系统中。
+- **3D建模集成** – 使用基于HTML的布局作为3D设计的基础。
+- **技术文档** – 在各个平台上保持一致、标准化的设计视觉。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **HTML到DXF管道** – 自动将Web图表转换为与CAD兼容的DXF文件。
+- **自动化图表到CAD生成** – 从HTML内容到可编辑CAD图纸的工作流程优化。
+- **批量技术文件转换** – 高效处理多个图表，用于企业级项目。
+- **企业级设计自动化** – 将HTML到DXF转换集成到大规模工程工作流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

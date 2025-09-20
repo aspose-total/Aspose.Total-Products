@@ -57,7 +57,29 @@ API를 사용하여 필요에 따라 출력 PSD 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 PSD(Photoshop 문서)로 변환**하는 것은 디지턈 출판물로부터 **편집 가능한 계층 그래픽**을 생성하는 데 필수적입니다. PSD 파일은 레이어, 텍스트 및 효과를 유지하여 디자이너가 창의적 프로젝트를 위해 콘텐츠를 수정하고 향상시킬 수 있습니다. EPUB을 PSD로 변환함으로써 출판사, 마케터 및 교육자는 고품질 시각 자료를 만들고 디자인 유연성을 유지하며 그래픽 제작 워크플로우를 간소화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **그래픽 디자인 워크플로우** – 전체 레이어 제어로 eBook 시각 자료를 편집하고 사용자 정의합니다.
+- **마케팅 크리에이티브** – 출판 콘텐츠로부터 프로모션 그래픽 및 디지털 광고 생성.
+- **eBook 표지 편집** – 인쇄물이나 디지털 플랫폼용으로 책 표지를 사용자 정의하고 향상시킵니다.
+- **교육용 시각 자료** – 대화식 다이어그램, 인포그래픽 및 학습 자료 생성.
+- **맞춤형 브랜딩 자료** – 기업 아이덴티티와 캠페인을 위해 출판 자료를 적응시킵니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-PSD 파이프라인** – eBook 콘텐츠를 계층 Photoshop 파일로 자동 변환.
+- **자동 레이어 추출** – 쉬운 편집을 위해 디자인 요소를 보존하고 분리합니다.
+- **대량의 크리에이티브 자산 생성** – 디지털 출판물로부터 효율적으로 여러 그래픽 생성.
+- **기업급 디자인 워크플로우** – 대규모 창의적 및 출판 작업에 PSD 생성 통합.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

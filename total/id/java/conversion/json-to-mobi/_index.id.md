@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengurai JSON ke MOBI dengan tanda air. Untuk m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke MOBI** penting untuk menghasilkan **eBook yang kompatibel dengan Kindle** dari data terstruktur. MOBI banyak digunakan di perangkat Amazon Kindle, menjadikannya format yang disukai oleh penerbit, pendidik, dan perusahaan. Dengan mengubah dataset JSON menjadi MOBI, organisasi dapat menghasilkan buku digital yang ramah seluler, terstruktur, dan mudah didistribusikan yang menjaga konsistensi di berbagai eReader.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Penerbitan digital** – Mengonversi konten terstruktur menjadi eBook siap Kindle.
+- **Konten eLearning** – Menyampaikan materi kursus dalam format MOBI yang dapat diakses.
+- **Distribusi penelitian** – Berbagi temuan akademis atau teknis melalui perangkat Kindle.
+- **Buku ramah seluler** – Memastikan kompatibilitas di berbagai eReader dan ponsel pintar.
+- **Alur kerja eBook perusahaan** – Standarisasi laporan bisnis dan dokumen untuk penerbitan Kindle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa JSON ke MOBI** – Otomatisasi generasi eBook dari dataset terstruktur.
+- **Penerbitan Kindle otomatis siap** – Mempermudah penyebaran eBook untuk Amazon Kindle.
+- **Generasi konten eLearning dinamis** – Membuat materi kursus interaktif secara langsung.
+- **Standarisasi eBook yang didorong JSON** – Menjaga format yang konsisten di berbagai judul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

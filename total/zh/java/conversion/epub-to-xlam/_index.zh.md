@@ -49,7 +49,29 @@ otherformats: ODS XLSM XLT MD TSV XLTM XLAM FODS XLSB SXC XLTX TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 XLAM（Excel 加载项）** 对于从电子书生成 **自动化准备的 Excel 扩展** 至关重要。XLAM 文件使组织能够直接将电子书衍生的数据和宏集成到 Excel 中，实现高级自动化、商业智能工作流程和定制报告。通过将 EPUB 转换为 XLAM，分析师和企业可以简化重复任务、增强决策能力，并部署可扩展的电子表格解决方案。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **数据分析自动化** – 将电子书内容转换为 Excel 强力自动化工具。
+- **财务建模** – 将出版数据集成到支持宏的财务模型中。
+- **商业智能工作流程** – 使用电子书衍生的 Excel 扩展增强 BI 流程。
+- **定制报告系统** – 使用自动化的 Excel 加载项生成动态报告。
+- **企业电子表格扩展** – 使用内容驱动的宏扩展企业电子表格。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 XLAM 管道** – 从数字出版物自动创建 Excel 加载项。
+- **自动化 Excel 加载项生成** – 高效批量生成支持宏的扩展。
+- **批量 BI 工作流程集成** – 将多个电子书数据集成到企业 BI 系统中。
+- **企业级数据自动化** – 使用 XLAM 工具简化大规模电子表格自动化。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

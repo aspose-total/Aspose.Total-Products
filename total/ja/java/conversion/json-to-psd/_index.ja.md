@@ -49,7 +49,33 @@ APIを使用して、PSDドキュメントに透かしを入れたJSONをPSDに�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSONをPSDに変換**することは、**構造化されたデータからPhotoshopデザインファイルを作成**するために不可欠です。PSDファイルはレイヤー、テキスト、エフェクトを保持し、デザイナーがダイナミックなデータセットから生成された完全に編集可能なグラフィックスで作業できるようにします。JSONをPSDに変換することで、組織はクリエイティブなワークフローを効率化し、マーケティングビジュアルを自動化し、パーソナライズされた、印刷用またはデジタルデザイン資産を効率的に生成することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **ダイナミックなグラフィックデザイン** – 変化するデータセットに適応するレイヤー付きデザインファイルを生成します。
+- **自動化されたマーケティングクリエイティブ** – バナー、ソーシャルメディアのビジュアル、キャンペーングラフィックスを自動的に生成します。
+- **パーソナライズされた画像テンプレート** – クライアント固有のコンテンツ用にカスタマイズされたテンプレートを作成します。
+- **Webおよびアプリのモックアップ** – ウェブサイトやモバイルアプリケーションのためのインタラクティブなモックアップを作成します。
+- **印刷用アートワーク** – プロの印刷用に高品質のPSDファイルを準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONからPSDへのパイプライン** – 構造化されたデータをレイヤー付きのPhotoshopファイルに自動変換します。
+- **自動化されたPhotoshopレイヤーの作成** – 効率的にプログラムで編集可能なレイヤーを生成します。
+- **データ駆動型デザインワークフロー** – データセットをクリエイティブプロセスに直接統合します。
+- **JSONベースのクリエイティブ自動化** – マーケティング、Web、印刷プロジェクト全体でデザイン制作を拡大します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

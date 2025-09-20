@@ -57,7 +57,33 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTMLをPSD（Photoshop Document）に変換**することは、ウェブページから**レイヤー付きグラフィックファイル**を生成するために不可欠です。PSDファイルはレイヤー、テキスト、デザイン要素を保持し、デザイナーがウェブコンテンツを効率的に編集、適応、再利用できるようにします。HTMLをPSDに変換することで、組織はUI/UXワークフローを効率化し、高品質なマーケティング資産を作成し、ウェブのリデザインやデジタルデザインプロジェクトの柔軟性を維持できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+- **UI/UXデザイン** – ウェブページレイアウトを編集可能なPSDレイヤーに変換して、迅速なプロトタイピングとデザインの反復を実現します。
+- **ウェブサイトの再設計ワークフロー** – 既存のページをレイヤー化されたファイルに変換して、更新やリデザインを容易にします。
+- **マーケティングクリエイティブ** – ウェブコンテンツからバナー、ソーシャルメディアのビジュアル、キャンペーングラフィックを作成します。
+- **デジタルモックアップ** – プレゼンテーションやクライアントの承認のために、リアルな製品やウェブページのモックアップを作成します。
+- **eコマースデザイン資産** – 製品ページ、プロモーション画像、カタログ用にウェブページセクションを再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **HTMLからPSDへのパイプライン** – ウェブページをレイヤー付きのPhotoshopファイルに自動変換します。
+- **自動化されたレイヤーグラフィック生成** – プロジェクト全体で編集可能なレイヤーを持つPSDファイルを一貫して生成します。
+- **一括クリエイティブワークフロー** – 大規模なマーケティングやデザインキャンペーンのために複数のウェブページを同時に変換します。
+- **エンタープライズレベルのデザイン自動化** – PSD生成を組織のデザインとコンテンツ制作ワークフローに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

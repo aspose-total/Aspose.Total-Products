@@ -49,7 +49,31 @@ De plus, l'API vous permet de définir des options de mise en page pour votre JS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **JSON en MOBI** est importante pour générer des **livres électroniques compatibles avec Kindle** à partir de données structurées. MOBI est largement utilisé dans les appareils Amazon Kindle, en faisant un format privilégié pour les éditeurs, les éducateurs et les entreprises. En transformant des ensembles de données JSON en MOBI, les organisations peuvent produire des livres numériques conviviaux pour les appareils mobiles, structurés et facilement distribuables tout en maintenant une cohérence sur tous les lecteurs électroniques.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- **Publication numérique** – Convertir du contenu structuré en livres électroniques prêts pour Kindle.
+- **Contenu d'apprentissage en ligne** – Diffuser du matériel de cours au format MOBI accessible.
+- **Distribution de recherches** – Partager des résultats académiques ou techniques via des appareils Kindle.
+- **Livres conviviaux pour les appareils mobiles** – Assurer la compatibilité sur tous les lecteurs électroniques et smartphones.
+- **Flux de travail d'eBooks d'entreprise** – Normaliser les rapports commerciaux et les documents pour la publication sur Kindle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- **Pipelines JSON vers MOBI** – Automatiser la génération de livres électroniques à partir de jeux de données structurés.
+- **Publication automatisée prête pour Kindle** – Rationaliser le déploiement de livres électroniques pour Amazon Kindle.
+- **Génération dynamique de contenu d'apprentissage en ligne** – Créer du matériel de cours interactif à la volée.
+- **Standardisation des eBooks pilotée par JSON** – Maintenir une mise en forme cohérente sur plusieurs titres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

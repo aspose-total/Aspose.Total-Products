@@ -49,7 +49,29 @@ otherformats: XLSB XLTX MD EXCEL TSV SXC XLTM XLT XLSM XLAM DIF TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 MD（Markdown 格式）** 对于从电子书和数字出版物生成 **纯文本结构化内容** 至关重要。Markdown 提供了简单性、可读性，并在开发者平台上被广泛采用，使其成为内容重用和分发的理想选择。通过将 EPUB 转换为 MD，出版商、研究人员和开发者可以简化文档编制、支持开源协作，并简化数字出版工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **技术文档** – 将电子书转换为结构化的 Markdown 用于开发者文档。
+- **博客发布** – 将 EPUB 章节重新用于轻量级、适合博客的 Markdown 文件。
+- **开发者知识库** – 使用 Markdown 内容构建协作知识库。
+- **研究笔记共享** – 以普遍可读的 MD 格式分享学术或机构笔记。
+- **开源内容分发** – 发布电子书内容以进行全球协作和重用。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 MD 管道** – 自动化将电子书转换为 Markdown 文件。
+- **自动化 Markdown 发布** – 将 MD 输出与静态站点生成器和平台同步。
+- **开发者平台内容标准化** – 确保 GitHub、GitLab 等工具之间的一致性。
+- **文档自动化** – 将 Markdown 转换集成到企业出版工作流程中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

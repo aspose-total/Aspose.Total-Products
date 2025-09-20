@@ -49,7 +49,31 @@ Met behulp van de API kunt u JSON ook ontleden naar DOCM met watermerk. Om een w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **JSON naar DOCM** is belangrijk voor het insluiten van **macro's in Word-documenten** die zijn gegenereerd uit gestructureerde gegevens. Dit proces stelt organisaties in staat om ruwe gegevenssets te combineren met krachtige automatiseringsfuncties binnen Word, waardoor dynamische inhoudsgeneratie, uitvoering van bedrijfsregels en interactieve documentfunctionaliteit mogelijk wordt. Door JSON om te zetten in DOCM-bestanden kunnen bedrijven workflows stroomlijnen, rapportage verbeteren en macro-ingeschakelde sjablonen bouwen die zich aanpassen aan veranderende gegevensbehoeften.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+- **Geautomatiseerde documentworkflows** – Stuur herhaalbare documentcreatie aan met ingesloten macro's.  
+- **Scripts voor gegevensanalyse** – Integreer op JSON gebaseerde macro's voor realtime berekeningen en verwerking.  
+- **Macro-ingeschakelde sjablonen** – Bouw herbruikbare, intelligente sjablonen voor bedrijfsdocumentatie.  
+- **Rapportagesystemen voor bedrijven** – Genereer rapporten met geautomatiseerde opmaak en analyse.  
+- **Interactieve nalevingsformulieren** – Lever formulieren met macro-ingeschakelde validatie- en verwerkingsregels.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+- **JSON-naar-DOCM-pipelines** – Automatiseer de transformatie van gestructureerde gegevenssets naar macro-ingeschakelde Word-bestanden.  
+- **Automatisch getriggerde Word-macro's** – Voer macro's dynamisch uit tijdens of na de documentgeneratie.  
+- **Dynamische verwerking van bedrijfsregels** – Pas bedrijfsbeleid en gegevensregels direct toe in documenten.  
+- **Automatisering van rapportage met macro's** – Standaardiseer en versnel complexe rapportageworkflows op schaal.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

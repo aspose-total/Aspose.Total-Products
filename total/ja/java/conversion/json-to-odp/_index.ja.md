@@ -49,7 +49,33 @@ APIを使用して、JSONを透かし付きのODPに変換することもでき�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSONをODPに変換**することは、構造化されたデータセットから直接**OpenDocumentプレゼンテーション**を生成するために重要です。LibreOfficeやOpenOfficeで使用される標準フォーマットであるODPは、オープンソースのオフィススイートやクロスプラットフォームのワークフローと完全に互換性があります。JSONをODPに変換することで、組織は手作業なしで動的で再利用可能で標準化されたプレゼンテーションを作成することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **ビジネスプレゼンテーション** – 構造化されたソースから直接データ駆動型の企業プレゼンテーションを構築します。
+- **教育スライド** – 学術データセットから教材や講義用のスライドを生成します。
+- **データ駆動型のピッチデッキ** – リアルタイムデータを使用して投資家や営業プレゼンテーションを自動化します。
+- **政府のワークフロー** – オープン標準のODPスライドで透明性とコンプライアンスをサポートします。
+- **オープンソースオフィスの統合** – LibreOffice、Apache OpenOffice、および他のODF準拠ツールとのシームレスな互換性を確保します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONからODPへのパイプライン** – 構造化データの変換を自動化してオープン標準のプレゼンテーションを生成します。
+- **スライドの自動生成** – データセットから直接プレゼンテーション用のスライドを作成して時間を節約します。
+- **データからプレゼンテーションへのワークフロー** – レポート作成のために企業データシステムをODP生成と統合します。
+- **企業プレゼンテーションの標準化** – 大規模な組織全体でデザイン、構造、コンプライアンスの統一性を確保します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

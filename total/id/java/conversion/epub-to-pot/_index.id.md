@@ -59,7 +59,29 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke POT (PowerPoint Template)** sangat penting untuk menghasilkan **template slide kustom** dari publikasi digital. File POT memungkinkan kerangka presentasi yang dapat digunakan kembali dan diedit, memastikan desain yang konsisten dan efisiensi dalam memanfaatkan ulang konten. Dengan mengubah EPUB menjadi POT, pendidik, penerbit, dan bisnis dapat menyederhanakan pembuatan slide, menjaga konsistensi merek dan format, serta mendukung alur kerja presentasi yang dapat diskalakan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Kerangka kuliah akademis** – Buat template slide yang dapat digunakan kembali untuk kursus dan seminar.
+- **Template rumah penerbitan** – Kembangkan tata letak presentasi pemasaran dan promosi yang konsisten.
+- **Template presentasi perusahaan** – Standarisasi slide di seluruh departemen dan tim.
+- **Kerangka presentasi riset** – Ubah konten ilmiah menjadi slide yang terstruktur dan menarik secara visual.
+- **Penyiapan slide pendidikan** – Hasilkan template untuk rencana pelajaran, lokakarya, dan sesi pelatihan.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja EPUB ke POT** – Otomatisasi konversi publikasi digital menjadi template PowerPoint.
+- **Generasi template PowerPoint otomatis** – Cepat hasilkan desain slide standar dari konten eBook.
+- **Konversi metadata ke template** – Integrasikan data eBook terstruktur ke dalam tata letak slide yang dapat digunakan kembali.
+- **Otomatisasi template tingkat perusahaan** – Skalakan pembuatan dan distribusi template presentasi di seluruh organisasi.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

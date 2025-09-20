@@ -49,7 +49,33 @@ APIを使用して、透かしを使用してJSONからDOCMに解析すること
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSONをDOCMに変換**することは、構造化されたデータから生成されたWord文書に**マクロを埋め込む**ために重要です。このプロセスにより、組織は生データをWord内で強力な自動化機能と組み合わせることができ、動的コンテンツ生成、ビジネスルールの実行、インタラクティブなドキュメント機能が可能となります。JSONをDOCMファイルに変換することで、企業はワークフローを効率化し、レポート作成を強化し、進化するデータニーズに適応するマクロ有効なテンプレートを作成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **自動化された文書ワークフロー** – マクロを埋め込んだ繰り返し可能な文書作成を推進します。
+- **データ分析スクリプト** – リアルタイムの計算と処理のためにJSON駆動のマクロを統合します。
+- **マクロ有効なテンプレート** – 企業文書用の再利用可能でインテリジェントなテンプレートを作成します。
+- **企業向けレポーティングシステム** – 自動フォーマットと分析を備えたレポートを生成します。
+- **インタラクティブコンプライアンスフォーム** – マクロ有効な検証と処理ルールを備えたフォームを提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONからDOCMへのパイプライン** – 構造化されたデータセットをマクロ有効なWordファイルに自動変換します。
+- **自動トリガーされるWordマクロ** – 文書生成中または後に動的にマクロを実行します。
+- **動的ビジネスルール処理** – ドキュメント内で企業ポリシーとデータルールを直接適用します。
+- **マクロ有効なレポート自動化** – 複雑なレポーティングワークフローを標準化し、スケール化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

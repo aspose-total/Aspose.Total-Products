@@ -49,7 +49,31 @@ Usando a API, você também pode analisar JSON para MOBI com marca d'água. Para
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **JSON para MOBI** é importante para gerar **eBooks compatíveis com o Kindle** a partir de dados estruturados. O MOBI é amplamente utilizado em dispositivos Amazon Kindle, tornando-se um formato preferido para editores, educadores e empresas. Ao transformar conjuntos de dados JSON em MOBI, as organizações podem produzir livros digitais amigáveis para dispositivos móveis, estruturados e facilmente distribuíveis que mantêm consistência em todos os eReaders.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+- **Publicação digital** – Converter conteúdo estruturado em eBooks prontos para o Kindle.
+- **Conteúdo de eLearning** – Entregar material do curso em formato MOBI acessível.
+- **Distribuição de pesquisas** – Compartilhar descobertas acadêmicas ou técnicas por meio de dispositivos Kindle.
+- **Livros amigáveis para dispositivos móveis** – Garantir compatibilidade em todos os eReaders e smartphones.
+- **Fluxos de trabalho de eBooks corporativos** – Padronizar relatórios e documentos comerciais para publicação no Kindle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+- **Pipelines de JSON para MOBI** – Automatizar a geração de eBooks a partir de conjuntos de dados estruturados.
+- **Publicação automatizada pronta para o Kindle** – Agilizar a implantação de eBooks para o Amazon Kindle.
+- **Geração dinâmica de conteúdo de eLearning** – Criar material do curso interativo instantaneamente.
+- **Padronização de eBooks orientada por JSON** – Manter formatação consistente em vários títulos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

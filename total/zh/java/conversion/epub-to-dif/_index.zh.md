@@ -49,7 +49,29 @@ otherformats: XLAM XLSB TSV SXC DIF XLT XLTM ODS XLTX FODS TXT MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 DIF** 对于从电子书和数字出版物创建 **数据交换格式文件** 非常有价值。DIF 文件提供了一种轻量且结构化的方式，在应用程序之间交换数据，使其在学术、出版和企业环境中特别有用。通过将 EPUB 内容或元数据转换为 DIF，组织可以提高互操作性，简化报告流程，并增强研究数据集共享。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **系统之间的数据交换** – 促进出版数据的无缝传输。
+- **学术元数据转换** – 将电子书元数据标准化为研究友好的格式。
+- **电子表格互操作性** – 确保在 Excel 和其他电子表格工具之间的兼容性。
+- **研究数据集导出** – 将结构化的电子书内容转换为可共享的数据文件。
+- **出版工作流程** – 简化报告和目录管理流程。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 DIF 管道** – 为大型数字收藏自动化转换工作流程。
+- **自动生成数据交换** – 从电子书元数据即时创建 DIF 文件。
+- **跨平台出版集成** – 在出版系统之间实现平滑数据传输。
+- **企业数据集管理** – 在规模上管理和分发结构化出版数据。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

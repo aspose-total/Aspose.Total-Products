@@ -49,7 +49,29 @@ otherformats: MD XLSM XLTX XLTM TSV ODS XLSB DIF SXC TXT EXCEL FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 XLSM** 对于将数字出版物转换为 **启用宏的 Excel 工作簿** 至关重要，从而实现高级自动化、互动性和动态数据处理。通过在提取的电子书数据中嵌入宏，组织和研究人员可以简化工作流程，生成交互式仪表板，并构建符合其需求的自动报告系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **自动报告** – 直接从出版数据生成基于宏的报告。
+- **交互式仪表板** – 为实时洞察力创建动态仪表板。
+- **自定义数据模型** – 开发由 Excel 宏驱动的定制模型。
+- **使用宏进行学术分析** – 从电子书内容启用高级研究工作流程。
+- **具有自动化的发布工作流程** – 简化编辑和生产流程。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 XLSM 转换流水线** – 自动化结构化转换为启用宏的文件。
+- **自动化的启用宏工作簿分发** – 大规模交付 XLSM 报告。
+- **基于元数据的报告** – 将出版元数据提取为可操作的 Excel 报告。
+- **企业发布自动化** – 将启用宏的 Excel 集成到大规模发布系统中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

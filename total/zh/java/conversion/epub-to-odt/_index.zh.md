@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 ODT（OpenDocument Text）** 对于从电子书和数字出版物生成 **开放标准文本文档** 至关重要。ODT 文件确保跨平台兼容性、可编辑内容，并遵守开放标准。通过将 EPUB 转换为 ODT，教育工作者、研究人员、出版商和企业可以高效地简化学术写作、内容分发和档案工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **学术写作** – 将电子书转换为可编辑的文本文档，用于研究和作业。
+- **开源出版** – 以通用支持的开放格式分享数字出版物。
+- **图书馆存档** – 以标准化、可访问的格式保存文本内容。
+- **教育内容分发** – 以可编辑的 ODT 文件传递课程和教材。
+- **商业文档** – 将电子书内容整合到专业和运营文档中。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 ODT 管道** – 自动化将电子书转换为 ODT 文本文档。
+- **自动化文本文档转换** – 为多个文件简化出版工作流程。
+- **元数据到文本发布** – 将结构化的电子书数据提取到 ODT 用于报告和研究。
+- **企业级 ODT 文档自动化** – 标准化大规模文本转换和分发。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

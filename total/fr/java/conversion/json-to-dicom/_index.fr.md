@@ -49,7 +49,33 @@ De plus, l'API vous permet d'analyser JSON en DICOM avec des options de mise en 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **JSON en DICOM (Digital Imaging and Communications in Medicine)** est crucial pour transformer les **données de santé structurées** en formats d'imagerie médicale normalisés. DICOM est la norme mondiale pour stocker, transmettre et visualiser des images médicales, permettant aux prestataires de soins de santé, aux chercheurs et aux systèmes d'IA de travailler avec des données cohérentes et interopérables. En convertissant le JSON en DICOM, les dossiers de patients structurés et les données cliniques peuvent être intégrés de manière transparente dans les flux de travail d'imagerie, soutenant des diagnostics précis et de meilleurs résultats de santé.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- **Visualisation des dossiers de patients** – Convertir les données de santé structurées en formats d'imagerie visuelle.
+- **Imagerie médicale basée sur l'IA** – Permettre aux systèmes d'apprentissage automatique de traiter des ensembles de données pilotés par JSON.
+- **Interopérabilité des soins de santé** – Normaliser les données structurées dans des formats DICOM acceptés mondialement.
+- **Flux de travail en radiologie** – Intégrer des rapports basés sur JSON dans les systèmes d'imagerie et de diagnostic.
+- **Intégration des données de recherche clinique** – Transformer des ensembles de données structurées en formats compatibles avec l'imagerie pour les études.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- **Pipelines JSON-to-DICOM** – Automatiser la transformation des données de santé en formats prêts pour l'imagerie.
+- **Conversion automatisée de rapports médicaux** – Générer des fichiers DICOM directement à partir de rapports cliniques basés sur JSON.
+- **Imagerie de soins de santé basée sur le cloud** – Permettre un échange de données d'imagerie évolutif et interopérable dans le cloud.
+- **Systèmes de diagnostic basés sur l'IA** – Alimenter des outils de diagnostic avancés avec une conversion structurée en imagerie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,29 @@ Pomocí API můžete také otočit výstupní obrázek IMAGE podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **EPUB na OBRÁZEK** je zásadní pro generování **vizuálních snímků** digitálních publikací. Soubory OBRÁZKŮ poskytují univerzální, platformně nezávislý způsob zobrazení obsahu e-knih vizuálně, umožňují snadné náhledy, propagační grafiku a archivační záznamy. Transformací EPUB na obrázky mohou vydavatelé, pedagogové a podniky zlepšit dostupnost, zjednodušit marketing obsahu a podpořit pracovní postupy pro publikování na různých platformách.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- **Náhledy stránek e-knihy** – Generování vizuálních snímků pro online katalogy a náhledy.
+- **Vzdělávací infografiky** – Transformace obsahu do snadno stravitelných vizuálních výukových pomůcek.
+- **Generování propagačního materiálu** – Vytváření propagačních vizuálů z stránek e-knihy.
+- **Archivační snímky** – Uchování statických reprezentací digitálních publikací pro dlouhodobé uložení.
+- **Pracovní postupy pro publikování na různých platformách** – Zajištění konzistentního vizuálního obsahu na webových, mobilních a tištěných platformách.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- **Potrubí EPUB na OBRÁZEK** – Automatizace převodu e-knih do vizuálních snímků pro efektivitu.
+- **Automatické vykreslování stránky na obrázek** – Rychlé vytváření vysoce kvalitních obrázků stránek z EPUB souborů.
+- **Hromadná generace náhledů pro publikovací platformy** – Generování tisíců náhledových obrázků hromadně.
+- **Vizualizace ve velkém měřítku pro archivaci** – Udržování velkých sbírek obrázků e-knih pro organizační potřeby.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

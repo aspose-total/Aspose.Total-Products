@@ -49,7 +49,33 @@ otherformats: IMAGE TGA DXF PSD WMZ JPEG2000 EMZ SVGZ DICOM WMF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 TGA** 对于从结构化数据生成 **Targa 图像文件** 至关重要。TGA 文件在游戏开发、3D 建模和视频制作中被广泛使用，因为其高质量的光栅图形和 alpha 通道支持。通过将 JSON 转换为 TGA，组织可以自动化纹理创建，简化视觉工作流程，并有效地将结构化数据整合到图形流程中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- **游戏开发图形** – 直接从结构化数据集生成游戏纹理和精灵。
+- **工业 3D 建模** – 为 CAD 和 3D 模拟项目生成 TGA 资产。
+- **视频编辑资产** – 为后期制作工作流程创建高质量图像。
+- **虚拟模拟** – 为模拟环境开发逼真纹理和视觉元素。
+- **传统成像工作流** – 与需要 Targa 文件格式的系统保持兼容性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 TGA 管道** – 从结构化数据自动化生成 TGA 文件。
+- **自动化纹理生成** – 减少图形项目的手动资产创建。
+- **数据驱动的图形导出** – 直接使用结构化数据集填充图像图层。
+- **JSON 驱动的视觉工作流** – 将自动化 TGA 生成整合到企业图形流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

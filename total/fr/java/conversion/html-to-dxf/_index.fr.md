@@ -57,7 +57,27 @@ L'API vous permet également d'exporter le fichier HTML vers DXF dans un seul fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **HTML en DXF** est essentielle pour générer des dessins **compatibles avec les logiciels de CAO** à partir de diagrammes en ligne. Le DXF garantit que les illustrations techniques, les schémas et les mises en page de conception à partir du contenu HTML sont entièrement compatibles avec les logiciels de CAO, permettant ainsi l'ingénierie de précision, la planification architecturale et les flux de travail de fabrication. En convertissant les diagrammes HTML en DXF, les organisations peuvent rationaliser les processus de conception et maintenir une haute fidélité lors des transformations numériques en CAO.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- **Flux de travail en architecture** – Transformer des plans d'étage et des diagrammes en ligne en fichiers prêts pour la CAO.
+- **Diagrammes d'ingénierie** – Convertir des illustrations schématiques en formats de CAO modifiables.
+- **Processus de fabrication** – Intégrer des diagrammes de processus dans des systèmes de CAO prêts pour la production.
+- **Intégration de modélisation 3D** – Utiliser des mises en page basées sur HTML comme bases pour des conceptions 3D.
+- **Documentation technique** – Maintenir des visuels de conception cohérents et normalisés sur toutes les plateformes.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines HTML vers DXF** – Automatiser la conversion de diagrammes en ligne en fichiers DXF compatibles avec la CAO.
+- **Génération automatisée de diagrammes vers CAO** – Rationaliser le flux de travail du contenu HTML vers des dessins de CAO modifiables.
+- **Conversion en masse de fichiers techniques** – Traiter efficacement de multiples diagrammes pour des projets de niveau entreprise.
+- **Automatisation de la conception de niveau entreprise** – Intégrer la conversion HTML en DXF dans des flux de travail d'ingénierie à grande échelle.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

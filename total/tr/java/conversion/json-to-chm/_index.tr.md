@@ -49,7 +49,32 @@ API'yi kullanarak ayrıca JSON'u filigranla CHM'ye ayrıştırabilirsiniz. CHM b
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON'ı CHM'ye (Derlenmiş HTML Yardım) dönüştürmek**, yapılandırılmış belgelerden doğrudan derlenmiş yardım kılavuzları oluşturmak için önemlidir. CHM dosyaları, birden fazla yardım konusunu tek bir, aranabilir ve çevrimdışı erişilebilir kaynakta birleştirerek, yazılım desteği ve kurumsal bilgi yönetimi için ideal hale getirir. JSON'ı CHM'ye dönüştürerek, kuruluşlar belge dağıtımını optimize edebilir, kullanılabilirliği artırabilir ve internet bağlantısı olmadan erişilebilirliği sağlayabilir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- **Yazılım belgeleri** – Teknik kılavuzları derlenmiş, kullanıcı dostu bir formata paketleyin.
+- **Çevrimdışı yardım sistemleri** – İnternet erişimi gerektirmeden belge dağıtımı yapın.
+- **Kurumsal bilgi tabanları** – Organizasyonel bilgiyi yapılandırılmış bir yardım dosyasında merkezileştirin.
+- **Eğitim kılavuzları** – Personel veya öğrenciler için derlenmiş öğrenme kaynaklarını dağıtın.
+- **Geliştirici API referansları** – Yapılandırılmış JSON tanımlamalarını aranabilir çevrimdışı referanslara dönüştürün.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- **JSON'dan CHM'ye borular** – Yapılandırılmış verilerin otomatik olarak derlenmiş yardım kılavuzlarına dönüştürülmesini otomatize edin.
+- **Otomatik yardım dosyası oluşturma** – Evrilen JSON tabanlı içerikten doğrudan CHM dosyaları oluşturun.
+- **Veriden belge derleme** – Yapılandırılmış JSON belgelerini erişilebilir yardım sistemlerine dönüştürün.
+- **Çevrimdışı bilgi dağıtımı** – Kurumsal geniş eğitim ve destek için standart CHM kılavuzları oluşturun.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

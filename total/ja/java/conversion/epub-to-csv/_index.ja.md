@@ -47,7 +47,29 @@ EPUBファイルをCSVに変換するときに、出力CSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをCSVに変換することは、デジタル出版物から**軽量で構造化されたデータセット**を生成する強力な方法です。CSVファイルは普遍的な互換性を提供し、メタデータの取り扱いや出版詳細の整理、コンテンツを研究やウェブプラットフォームに統合するのに最適です。電子書籍から構造化データをCSV形式に抽出することで、出版社、図書館、企業はより迅速な処理、容易な分析、システム間でのシームレスな相互運用性を実現できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **メタデータ管理** – カタログ作成のために電子書籍の詳細をエクスポートおよび整理します。
+- **学術データセット** – 出版物を構造化されたデータセットに変換して研究に活用します。
+- **図書館の記録** – 検索可能で軽量なコレクションのカタログを維持します。
+- **研究分析** – 抽出された出版コンテンツからデータ駆動型の洞察を可能にします。
+- **ウェブパブリッシングの統合** – CSVデータをウェブサイト、API、またはデジタルリポジトリにフィードします。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからCSVへのパイプライン** – 一貫性のある大規模データセットの変換を自動化します。
+- **自動化されたデータセット抽出** – 電子書籍コンテンツを瞬時にCSVに抽出およびフォーマットします。
+- **大量の出版メタデータのエクスポート** – 大規模なデジタルコレクションを簡単に処理します。
+- **API対応のCSV生成** – 企業やウェブアプリケーションとのシームレスな統合を可能にします。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

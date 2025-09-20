@@ -57,7 +57,31 @@ API'yi kullanarak, çıktı IMAGE görüntüsünü ihtiyaçlarınıza göre de d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTML**'i **RESİM**e dönüştürmek, web sayfalarının doğru görsel anlık görüntülerini yakalamak için önemlidir. Bu süreç, tasarımcıların, pazarlamacıların ve geliştiricilerin dinamik veya statik web içeriğini paylaşılabilir, görülebilir görüntülere dönüştürmelerine olanak tanır ve web sitelerinin görünümünü ve hissini cihazlar arasında korur. Web sayfalarının resim temsillerini oluşturarak, ekipler önizlemeleri optimize edebilir, dijital içeriği geliştirebilir ve görsel kayıtları verimli bir şekilde sürdürebilirler.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* **Web Sitesi Önizlemeleri:** Portföyler, müşteri incelemeleri veya hızlı görsel referanslar için anlık görüntüler oluşturun.
+* **Bilgi Grafikleri:** Veri yoğun web sayfalarını paylaşılabilir görsel formatlara dönüştürün.
+* **UI/UX Tasarım İş Akışları:** Test, geri bildirim ve iterasyon için sayfa tasarımlarını yakalayın.
+* **Arşiv Ekran Görüntüleri:** Uyumluluk veya belgelendirme için web sitelerinin tarihsel sürümlerini koruyun.
+* **Dijital Pazarlama Varlıkları:** Web içeriğinden doğrudan bannerlar, sosyal medya görselleri ve tanıtım grafikleri oluşturun.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* **HTML'den RESİM'e Boru Hatları:** Minimum manuel çaba ile birden fazla web sayfasını sorunsuzca resimlere dönüştürün.
+* **Otomatik Web Sayfası-RESİM Dönüştürme:** Dinamik sayfaların raporlama veya izleme için zamanlamasını yapın.
+* **Toplu Ekran Görüntüsü Oluşturma:** Büyük ölçekli projeler için yüzlerce sayfayı aynı anda yakalayın.
+* **Kurumsal Ölçekli Dijital Yayıncılık:** İçerik iş akışlarına resim oluşturmayı entegre ederek web siteleri, bültenler veya ürün katalogları için.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

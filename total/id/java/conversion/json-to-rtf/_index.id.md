@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengurai JSON ke RTF dengan tanda air. Untuk me
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke RTF** penting untuk menghasilkan **dokumen teks kaya lintas platform** dari data terstruktur. Berkas RTF memberikan kompatibilitas luas di berbagai sistem operasi, editor teks, dan platform warisan, menjadikannya ideal untuk organisasi yang memerlukan dokumentasi ringan, portabel, dan berformat. Dengan mengubah JSON menjadi RTF, bisnis dapat memungkinkan presentasi data yang konsisten, mempertahankan format yang kaya, dan memastikan berbagi dokumen yang mudah di berbagai lingkungan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Berbagi dokumen lintas platform** – Sampaikan konten yang diformat yang dapat diakses di berbagai perangkat dan editor.
+- **Pelaporan ringan** – Hasilkan laporan yang ringkas dan mudah dibaca dari data JSON terstruktur.
+- **Kompatibilitas sistem warisan** – Pastikan dokumen berfungsi dengan perangkat lunak dan sistem perusahaan yang lebih lama.
+- **Dokumentasi portabel** – Buat file teks kaya yang mudah dipindahkan untuk penggunaan universal.
+- **Teks terformat berbasis data** – Ubah kumpulan data terstruktur menjadi dokumen yang berformat dan mudah dibaca.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa JSON ke RTF** – Otomatisasikan konversi data terstruktur menjadi file teks kaya.
+- **Pelaporan terformat otomatis** – Bangun laporan berformat langsung dari sumber JSON.
+- **Portabilitas dokumen berbasis JSON** – Aktifkan konten yang konsisten di berbagai platform dan sistem.
+- **Alur kerja distribusi RTF perusahaan** – Standarisasi output teks kaya untuk penggunaan organisasi dalam skala besar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,33 @@ API를 사용하여 DXF 문서에 워터마크가 있는 JSON을 DXF로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 DXF(Drawing Exchange Format)로 변환**하는 것은 구조화된 데이터 세트에서 **CAD 도면**을 생성하는 데 필수적입니다. DXF는 건축, 공학, 산업 디자인 및 GIS 응용 분야에서 널리 사용되는 형식으로, JSON 기반 데이터를 정확하고 편집 가능한 기술 도면으로 변환하기에 이상적입니다. 이 변환을 통해 데이터에서 디자인으로의 워크플로우가 원활해지며, CAD 시스템 간의 상호 운용성이 향상되고 현대적인 디자인 프로세스에서 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **건축 레이아웃** – 건물 데이터를 편집 가능한 CAD 평면도로 변환합니다.
+- **공학 모델** – JSON 입력에서 구조 및 기계 설계를 생성합니다.
+- **JSON 기반 CAD 자동화** – 구조화된 데이터를 변환하여 CAD 워크플로우를 간소화합니다.
+- **산업 디자인 워크플로우** – JSON 데이터로 정확한 제품 및 구성 요소 도면을 작성합니다.
+- **GIS 매핑** – 도시 계획 및 인프라 프로젝트를 위해 지리 정보 데이터를 DXF로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-DXF 파이프라인** – 구조화된 데이터를 CAD용 도면으로 자동 변환합니다.
+- **자동화된 CAD 도면 생성** – JSON 데이터 세트에서 직접 기술 도표를 작성합니다.
+- **데이터에서 디자인 워크플로우** – 구조화된 데이터를 CAD 응용 프로그램에 원활하게 통합합니다.
+- **스마트 인프라 모델링** – JSON 기반 DXF 출력으로 현대적인 인프라 및 매핑 시스템을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

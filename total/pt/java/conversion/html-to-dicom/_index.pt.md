@@ -57,7 +57,27 @@ Usando a API, você também pode girar a imagem DICOM de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **HTML para DICOM** é essencial para gerar **saídas compatíveis com imagens médicas** a partir de dados baseados na web. O DICOM garante que as imagens clínicas e informações relacionadas à saúde sejam padronizadas para interoperabilidade, arquivamento e integração em sistemas médicos. Ao converter conteúdo HTML em DICOM, os prestadores de cuidados de saúde e pesquisadores podem otimizar os fluxos de trabalho médicos, mantendo a conformidade com os padrões da indústria.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Plataformas de telemedicina** – Integre dados médicos baseados na web em sistemas compatíveis com DICOM.
+- **Integração de relatórios médicos** – Incorpore relatórios textuais e de imagens em formatos de saúde padrão.
+- **Fluxos de trabalho de saúde** – Possibilite a troca contínua de dados do paciente entre departamentos.
+- **Arquivamento de radiologia** – Armazene imagens e conteúdo baseado na web associado em arquivos DICOM.
+- **Interoperabilidade entre sistemas** – Facilite o compartilhamento de dados padronizados entre aplicativos de saúde.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines HTML para DICOM** – Automatize a conversão de conteúdo médico baseado na web em DICOM.
+- **Incorporação automatizada de relatórios médicos** – Integre dados HTML nos fluxos de trabalho de imagens do paciente.
+- **Conversão em massa de dados de saúde** – Processe vários relatórios ou páginas da web de forma eficiente em escala.
+- **Fluxos de trabalho clínicos em nível empresarial** – Padronize a conversão HTML para DICOM em organizações de saúde.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

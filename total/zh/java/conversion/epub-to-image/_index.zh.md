@@ -57,7 +57,29 @@ otherformats: JPEG2000 DXF WMF SVGZ TGA  WMZ EMZ PSD IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为图像** 对于生成数字出版物的 **视觉快照** 至关重要。图像文件提供了一种通用的、独立于平台的方式来直观显示电子书内容，从而实现轻松预览、推广图形和档案记录。通过将 EPUB 转换为图像，出版商、教育工作者和企业可以增强可访问性，简化内容营销，并支持跨平台出版工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **电子书页面预览** – 为在线目录和预览生成视觉快照。
+- **教育信息图表** – 将内容转化为易于消化的视觉教学辅助工具。
+- **营销物料生成** – 从电子书页面创建推广图像。
+- **档案快照** – 为长期存储保留数字出版物的静态表示。
+- **跨平台出版工作流程** – 确保在网络、移动和印刷平台上保持一致的视觉内容。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到图像流水线** – 自动化将电子书转换为视觉快照以提高效率。
+- **自动化页面到图像渲染** – 快速从 EPUB 文件生成高质量页面图像。
+- **批量预览生成用于发布平台** – 批量生成成千上万的预览图像。
+- **企业规模的视觉存档** – 为组织需求维护大量的电子书图像集合。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

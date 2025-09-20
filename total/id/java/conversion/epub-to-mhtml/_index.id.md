@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **EPUB ke MHTML (Web Archive)** penting untuk menghasilkan **dokumen web berkas tunggal** dari publikasi digital. Berkas MHTML mengemas semua sumber daya—HTML, gambar, dan gaya—menjadi satu arsip, memastikan portabilitas, kemampuan dibaca secara offline, dan kompatibilitas dengan browser. Dengan mengubah EPUB menjadi MHTML, penerbit, pendidik, dan perusahaan dapat menyampaikan eBook sebagai dokumen web mandiri yang dioptimalkan untuk digunakan baik secara online maupun offline.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- **Membaca eBook secara offline** – Menyediakan buku digital lengkap yang dapat diakses tanpa internet.
+- **Arsip web** – Menjaga konten eBook sebagai arsip yang kompatibel dengan browser dalam satu berkas.
+- **Publikasi digital untuk browser** – Berbagi konten EPUB dalam format web yang siap dibuka.
+- **Pengemasan konten pendidikan** – Mendistribusikan pelajaran, materi belajar, dan eBook dalam berkas portabel.
+- **Alur kerja dokumentasi perusahaan** – Mempermudah penerbitan internal menjadi dokumen yang siap diakses melalui browser.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja EPUB ke MHTML** – Mengotomatisasi konversi publikasi digital menjadi arsip web berkas tunggal.
+- **Alur kerja eBook-ke-web yang terotomatisasi** – Menyederhanakan penerbitan EPUB langsung ke dalam format yang didukung oleh browser.
+- **Publikasi massal untuk akses offline** – Mengonversi seluruh perpustakaan eBook menjadi MHTML untuk portabilitas.
+- **Publikasi yang kompatibel dengan browser lintas platform** – Memastikan pembacaan yang lancar di semua browser utama.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

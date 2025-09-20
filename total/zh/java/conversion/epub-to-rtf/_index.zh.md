@@ -61,7 +61,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **EPUB 转换为 RTF** 对于从数字出版物生成 **富文本文档** 至关重要。RTF 文件可确保跨平台兼容性，提供便捷编辑，并支持富有元数据的工作流程。通过将 EPUB 转换为 RTF，组织和出版商可以简化文档编辑，提高可访问性，并保持轻量但结构化的格式，用于研究、教育和出版。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- **跨平台出版** – 以广泛支持的 RTF 格式分享电子书内容。
+- **存档电子书元数据** – 在可编辑的富文本文件中保留结构化出版数据。
+- **轻量级研究文档** – 为学术和机构使用创建可管理的文件。
+- **教育资源分发** – 以可编辑格式向学生和教师提供内容。
+- **内容编辑工作流** – 通过易于修改的文档简化编辑流程。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB 到 RTF 管道** – 自动化从电子书到 RTF 文档的无缝转换。
+- **自动化富文本转换** – 使用 RTF 输出标准化数字出版工作流程。
+- **批量出版工作流** – 将大量 EPUB 文件转换为可编辑格式。
+- **文档可移植性自动化** – 确保内容在多个平台上可访问和可编辑。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

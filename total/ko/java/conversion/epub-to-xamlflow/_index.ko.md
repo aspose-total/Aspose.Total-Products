@@ -67,7 +67,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 XAMLFLOW로 변환하는 것**은 현대적인 애플리케이션을 위한 **플로우 기반 문서 레이아웃**을 생성하는 데 필수적입니다. XAMLFLOW는 동적이고 대화형 그리고 적응형 콘텐츠 렌더링을 가능하게 하며, 디지털 출판, 연구 시각화 및 애플리케이션 중심 문서에 이상적입니다. EPUB을 XAMLFLOW로 변환함으로써 출판사와 개발자는 가독성, 참여도 및 플랫폼 간 상호 작용을 향상시키는 반응형 레이아웃을 만들 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **디지털 출판 워크플로우** – 적응형 및 대화형 eBook 레이아웃을 간소화합니다.
+- **대화형 eBook** – 동적인 플로우 기반 콘텐츠로 사용자 참여도를 향상시킵니다.
+- **애플리케이션 중심 콘텐츠** – 출판물을 앱 기반 인터페이스에 원활하게 통합합니다.
+- **연구 문서 시각화** – 구조화되고 가독성 있는 플로우로 복잡한 데이터 집합과 출판물을 제시합니다.
+- **동적 레이아웃** – 장치 및 플랫폼 간 반응형 디자인을 가능하게 합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-XAMLFLOW 파이프라인** – eBook을 플로우 기반 레이아웃으로 자동 변환합니다.
+- **자동화된 플로우 문서 생성** – 출판 콘텐츠로부터 대화형 문서를 생성합니다.
+- **대량 콘텐츠 변환** – 대량의 EPUB을 효율적으로 XAMLFLOW로 변환합니다.
+- **기업급 출판 앱** – 확장 가능한 디지털 출판 플랫폼에 XAMLFLOW 생성을 통합합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

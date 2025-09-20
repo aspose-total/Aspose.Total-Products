@@ -57,7 +57,31 @@ API를 사용하여 필요에 따라 출력 JPEG2000 이미지를 회전할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTML을 JPEG2000으로 변환**하는 것은 웹 콘텐츠로부터 **고 압축률, 고품질 이미지**를 생성하는 데 중요합니다. JPEG2000은 파일 크기를 크게 줄이면서 시각적 충실성을 보존하여 디지털 도서관, 연구 아카이브 및 웹 콘텐츠 보존에 이상적입니다. HTML 페이지를 JPEG2000 이미지로 변환함으로써 조직은 품질을 희생하지 않고 대량의 시각적 웹 콘텐츠를 효율적으로 저장, 공유 및 관리할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **디지털 도서관** – 웹 기반 자원을 조밀하고 고품질 이미지 형식으로 저장 및 배포합니다.
+- **아카이브 웹 스냅샷** – 규정 준수 및 기록 보관을 위해 웹 사이트의 역사적 버전을 보존합니다.
+- **e러닝 플랫폼** – 웹 레슨 및 상호 작용 콘텐츠를 고품질 시각적 참조로 변환합니다.
+- **연구 출판물** – 학술 논문 및 보고서에 정확한 웹 기반 시각 자료를 포함합니다.
+- **웹 콘텐츠 보존** – 시각적으로 풍부한 웹 페이지의 장기 접근성을 유지합니다.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **HTML-to-JPEG2000 파이프라인** – 웹 페이지를 고 압축 이미지로 자동 변환합니다.
+- **자동화된 고품질 스냅샷 생성** – 여러 페이지에 대해 일관된 시각적 정확도를 갖는 이미지를 생성합니다.
+- **대량 아카이브 워크플로우** – 저장 또는 분석을 위해 대량의 웹 콘텐츠를 효율적으로 처리합니다.
+- **기업급 디지털 보존** – 대규모 아카이브 및 게시 시스템에 JPEG2000 변환을 통합합니다.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

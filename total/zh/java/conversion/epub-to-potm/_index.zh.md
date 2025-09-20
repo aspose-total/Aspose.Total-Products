@@ -59,7 +59,29 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**EPUB转换为POTM（启用宏的PowerPoint模板）**对于从电子书生成**具有自动化的交互式模板**至关重要。POTM文件可以创建具有嵌入式宏的可重用幻灯片，实现自动化工作流程、动态内容更新和交互功能。通过将EPUB转换为POTM，教育工作者、出版商和企业可以创建智能演示文稿，提高生产力，标准化幻灯片设计，并简化培训和报告流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **自动化学术演示文稿** – 生成带有预配置交互元素的讲座幻灯片。
+- **企业幻灯片自动化** – 标准化和自动化内部演示文稿工作流程。
+- **带有宏的出版工作流程** – 嵌入宏以简化演示文稿模板中的内容更新。
+- **研究框架** – 将学术内容转换为交互式、启用宏的幻灯片。
+- **企业级培训模板** – 在团队间交付可重用、自动化的培训演示文稿。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **EPUB到POTM管道** – 自动化将电子书转换为启用宏的演示文稿模板。
+- **启用宏的演示文稿自动化** – 将动态内容和交互性集成到幻灯片中。
+- **基于元数据的幻灯片模板** – 使用结构化的电子书数据自动填充演示内容。
+- **批量发布模板创建** – 为企业或教育机构生成大规模的交互式幻灯片模板。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

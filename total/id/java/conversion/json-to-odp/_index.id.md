@@ -49,7 +49,33 @@ Menggunakan API, Anda juga dapat mengonversi JSON ke ODP dengan tanda air. Untuk
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **JSON ke ODP** sangat penting untuk menghasilkan **presentasi OpenDocument** langsung dari kumpulan data terstruktur. ODP, format standar yang digunakan oleh LibreOffice dan OpenOffice, memastikan kompatibilitas penuh dengan suite kantor open-source dan alur kerja lintas platform. Dengan mengubah JSON menjadi ODP, organisasi dapat membuat presentasi dinamis, dapat digunakan kembali, dan terstandarisasi tanpa usaha manual.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- **Presentasi bisnis** – Bangun presentasi perusahaan berbasis data langsung dari sumber terstruktur.
+- **Slide pendidikan** – Hasilkan materi pengajaran dan dek kuliah dari kumpulan data akademis.
+- **Pitch deck berbasis data** – Otomatisasikan presentasi investor atau penjualan menggunakan data real-time.
+- **Alur kerja pemerintah** – Mendukung transparansi dan kepatuhan dengan slide ODP standar terbuka.
+- **Integrasi kantor open-source** – Pastikan kompatibilitas yang mulus dengan LibreOffice, Apache OpenOffice, dan alat lain yang sesuai dengan ODF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- **Pipa JSON ke ODP** – Otomatisasikan konversi data terstruktur menjadi presentasi standar terbuka.
+- **Generasi slide otomatis** – Hemat waktu dengan menghasilkan slide siap disajikan langsung dari kumpulan data.
+- **Alur kerja data ke presentasi** – Integrasikan sistem data perusahaan dengan generasi ODP untuk pelaporan.
+- **Standarisasi presentasi perusahaan** – Pastikan keseragaman dalam desain, struktur, dan kepatuhan di seluruh organisasi berskala besar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

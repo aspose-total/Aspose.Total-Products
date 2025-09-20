@@ -49,7 +49,33 @@ Utilizzando l'API, puoi anche analizzare JSON in ODT con filigrana. Per aggiunge
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **JSON in ODT** è essenziale per generare **file di testo OpenDocument** da insiemi di dati strutturati. ODT, il formato nativo per LibreOffice e OpenOffice, garantisce l'accessibilità a lungo termine, la compatibilità open-source e l'interoperabilità multi-piattaforma. Trasformando JSON in ODT, le organizzazioni possono automatizzare la creazione di documenti di testo professionali supportati dai dati senza doverli modificare manualmente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+- **Documenti governativi** – Produrre documenti conformi e standardizzati per l'amministrazione pubblica.
+- **Flussi di lavoro open-source per ufficio** – Integrare dati JSON con gli ambienti di LibreOffice e Apache OpenOffice.
+- **Articoli accademici** – Generare rapporti di ricerca e pubblicazioni da insiemi di dati strutturati.
+- **Contratti commerciali** – Automatizzare la stesura di accordi e la creazione di contratti da record JSON.
+- **Lettere basate sui dati** – Creare corrispondenza strutturata personalizzata su larga scala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+- **Pipeline JSON-to-ODT** – Automatizzare la trasformazione di dati strutturati in documenti ODT modificabili.
+- **Generazione ODT automatizzata** – Ridurre lo sforzo manuale producendo file di testo pronti all'uso direttamente da JSON.
+- **Standardizzazione JSON-to-OpenDocument** – Garantire la conformità agli standard aperti per la condivisione di documenti.
+- **Flussi di lavoro di documentazione multi-piattaforma** – Abilitare un'interoperabilità fluida tra sistemi aziendali e accademici.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

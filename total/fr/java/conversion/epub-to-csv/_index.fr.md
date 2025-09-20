@@ -47,7 +47,27 @@ Lors de la conversion du fichier EPUB en CSV, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion d'**EPUB en CSV** est un moyen puissant de générer des **ensembles de données structurés et légers** à partir de publications numériques. Les fichiers CSV offrent une compatibilité universelle, ce qui les rend idéaux pour gérer les métadonnées, organiser les détails de publication et intégrer du contenu dans des plateformes de recherche ou web. En extrayant des données structurées des livres électroniques au format CSV, les éditeurs, les bibliothèques et les entreprises peuvent obtenir un traitement plus rapide, une analyse plus facile et une interopérabilité transparente entre les systèmes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- **Gestion des métadonnées** – Exportez et organisez les détails des livres électroniques pour le catalogage.
+- **Ensembles de données académiques** – Convertissez des publications en ensembles de données structurés à des fins de recherche.
+- **Registres de bibliothèque** – Maintenez des catalogues de collections recherchables et légers.
+- **Analyse de recherche** – Permettez des insights basés sur les données à partir du contenu extrait des publications.
+- **Intégration de publication web** – Alimentez les données CSV dans des sites web, des API ou des dépôts numériques.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines EPUB vers CSV** – Automatisez les conversions pour des ensembles de données cohérents à grande échelle.
+- **Extraction automatisée d'ensembles de données** – Extrayez et formatez instantanément le contenu des livres électroniques en CSV.
+- **Exportation de métadonnées en masse pour publication** – Gérez facilement de grandes collections numériques.
+- **Génération de CSV prête pour les API** – Permettez une intégration transparente avec les applications d'entreprise et web.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

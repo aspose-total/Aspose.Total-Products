@@ -47,7 +47,29 @@ EPUB 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 워터
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 Excel (XLSX)로 변환**하는 것은 **eBook에서 구조화된 데이터를 추출**하여 쉽게 관리할 수 있는 스프레드시트로 전환하는 효과적인 방법입니다. 디지털 출판물을 Excel 파일로 변환함으로써 조직, 연구자 및 출판사는 통찰력을 얻고 카탈로그 작성을 간소화하며 고급 보고 및 분석을 가능하게 할 수 있습니다. XLSX 파일은 학술, 비즈니스 및 기업 수준의 워크플로우를 지원하는 범용 편집 가능 형식을 제공합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **학술 연구 데이터** - 분석 및 인용 관리를 위해 구조화된 콘텐츠 추출.
+- **출판 메타데이터** - 책 세부 정보를 표준화된 Excel 스프레드시트로 변환.
+- **도서관 카탈로그 작성** - 검색 가능한 Excel 형식으로 디지털 컬렉션 정리.
+- **eBook에서의 비즈니스 보고** - 출판 데이터를 활용 가능한 비즈니스 인텔리전스로 전환.
+- **콘텐츠 아카이빙** - eBook 정보를 장기 구조화된 형식으로 저장.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB을 Excel로 변환하는 파이프라인** - eBook을 구조화된 데이터 세트로 자동 변환.
+- **자동 메타데이터 추출** - 주요 정보를 직접 Excel 셀로 추출.
+- **일괄 eBook을 Excel로 변환** - 대규모 변환을 효율적으로 처리.
+- **기업 수준의 카탈로그 자동화** - 조직 전반에 걸쳐 카탈로그 작성 및 보고 표준화.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

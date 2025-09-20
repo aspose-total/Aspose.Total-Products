@@ -49,7 +49,33 @@ API를 사용하여 워터마크를 사용하여 JSON을 EPUB으로 구문 분�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSON을 EPUB으로 변환하는 것**은 구조화된 데이터셋으로부터 **디지턈 eBook을 생성하는 데 필수적**입니다. EPUB 파일은 eReader, 모바일 기기 및 학습 플랫폼을 통해 지식을 전달하기 위한 널리 지원되는, 리플로우 가능한 형식을 제공합니다. JSON을 EPUB으로 변환함으로써 조직은 콘텐츠 게시를 자동화하고, 대화형 e러닝 자료를 작성하며, 휴대용 디지털 형식으로 표준화된 지식 자원을 배포할 수 있습니다.  
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- **자동 게시** – 데이터셋을 읽기 준비된 디지턈 eBook으로 변환합니다.  
+- **e러닝 자료** – EPUB 형식의 대화형 구조화된 교재를 제공합니다.  
+- **데이터 기반 eBook** – JSON 입력에서 직접 동적 출판물을 생성합니다.  
+- **연구 출판물** – 학술 연구 결과 및 구조화된 연구 산출물을 eBook으로 게시합니다.  
+- **기업 지식 배포** – 디지털 도서관을 통해 내부 지식 공유를 표준화합니다.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- **JSON-to-EPUB 파이프라인** – 구조화된 데이터 소스에서 eBook 생성을 자동화합니다.  
+- **실시간 eBook 생성** – 실시간 JSON 피드로부터 최신 출판물을 직접 생성합니다.  
+- **자동화된 교재 게시** – 기관을 위한 e러닝 자료 제작을 간소화합니다.  
+- **디지털 도서관 통합** – 기업 및 학술 저장소에 JSON 기반 EPUB을 통합합니다.  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

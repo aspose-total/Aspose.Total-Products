@@ -47,7 +47,27 @@ Tijdens het converteren van het EPUB-bestand naar FODS, kunt u ook een watermerk
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Conversie van **EPUB naar FODS (Flat XML ODS-spreadsheets)** is essentieel voor het genereren van **open-standaard spreadsheetbestanden** van eBooks en digitale publicaties. FODS zorgt voor compatibiliteit met open-source kantoorpakketten, ondersteunt gestructureerde XML-opmaak en maakt naadloos delen van gegevens mogelijk. Door EPUB om te zetten in FODS kunnen uitgevers, onderzoekers en instellingen metadata tabuleren, catalogisering stroomlijnen en onderzoeksgegevens delen in een universeel toegankelijk formaat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- **Metadata tabulatie** – Zet eBook-metadata om in gestructureerde spreadsheettabellen.
+- **Verzameling van onderzoeksgegevens** – Haal academische gegevens uit digitale publicaties en organiseer deze.
+- **Workflows voor open-source publicatie** – Gebruik FODS met LibreOffice en andere open platforms.
+- **Bibliotheekcatalogusrecords** – Beheer bibliografische gegevens in open-standaard spreadsheets.
+- **Delen van academische datasets** – Verspreid gestructureerde datasets voor samenwerking en analyse.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- **EPUB-naar-FODS-pijplijnen** – Automatiseer de conversie van digitale publicaties naar FODS-spreadsheets.
+- **Geautomatiseerde spreadsheetgeneratie** – Stroomlijn publicatie- en onderzoeksgegevensverwerking.
+- **XML-gestuurde datasetextractie** – Zet eBook-inhoud om in gestructureerde, machinaal leesbare spreadsheets.
+- **Enterprise academische publicatieworkflows** – Standaardiseer de verwerking van onderzoeksgegevens over instellingen heen.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

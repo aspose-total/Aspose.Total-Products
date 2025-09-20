@@ -57,7 +57,29 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}  
+Převod **EPUB na DICOM** je inovativní přístup k transformaci digitálních publikací do **souborů kompatibilních s lékařským zobrazováním**. Tento proces umožňuje zdravotnickým profesionálům, výzkumníkům a pedagogům vložit strukturovaný obsah e-knih do formátů DICOM, čímž je přístupný v rámci systémů lékařského zobrazování. Integrací textových zdrojů s obrazovými pracovními postupy mohou nemocnice a instituce zlepšit školení, zvýšit dodržování předpisů a zjednodušit klinickou dokumentaci.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}  
+- **E-knihy pro lékařské školení** – Převeďte studijní materiály do formátů kompatibilních s obrazovými platformami.  
+- **Dokumentace klinického výzkumu** – Ukládejte a standardizujte výzkumné publikace v rámci systémů DICOM.  
+- **Obsah vzdělávání v radiologii** – Zlepšete vzdělávací zdroje integrací textu s obrazovými pracovními postupy.  
+- **Archivace dat nemocnice** – Udržujte údaje o publikacích vedle záznamů o obrazování pacientů.  
+- **Pracovní postupy pro dodržování zdravotnických předpisů** – Ujistěte se, že lékařské publikace následují standardizované digitální formáty.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}  
+- **Potrubí EPUB-to-DICOM** – Automatizujte převod pro škálovatelné pracovní postupy s daty v oblasti zdravotnictví.  
+- **Automatizovaný převod lékařských publikací** – Okamžitě převeďte e-knihy na zdroje kompatibilní s DICOM.  
+- **Integrace e-learningu pro zdravotnictví** – Poskytněte interaktivní lékařský obsah v rámci školicích platforem.  
+- **Standardizace souborů s výzkumnými daty** – Převeďte klinické a výzkumné dokumenty do jednotných souborů DICOM.  
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

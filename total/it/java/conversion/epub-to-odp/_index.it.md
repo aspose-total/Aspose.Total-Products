@@ -59,7 +59,27 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **EPUB in ODP (OpenDocument Presentation)** è essenziale per generare **diapositive di presentazione** da pubblicazioni digitali. I file ODP forniscono un formato versatile e standard aperto per creare presentazioni coinvolgenti da contenuti di eBook. Trasformando EPUB in ODP, educatori, aziende e editori possono riutilizzare in modo efficiente i contenuti digitali per lezioni, riunioni, sessioni di formazione e presentazioni di marketing.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- **Diapositive di lezioni educative** – Convertire i capitoli degli eBook in presentazioni strutturate per la classe.
+- **Set di presentazioni aziendali** – Generare diapositive professionali da pubblicazioni aziendali o di settore.
+- **Sommari di articoli di ricerca** – Riassumere i contenuti accademici in diapositive visivamente coinvolgenti.
+- **Diapositive di marketing della casa editrice** – Creare presentazioni promozionali dai contenuti dei libri.
+- **Distribuzione di materiale formativo** – Impacchettare i contenuti di apprendimento in diapositive pronte all'uso per workshop.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- **Flussi di lavoro EPUB-to-ODP** – Automatizzare la conversione delle pubblicazioni digitali in set di diapositive.
+- **Generazione automatica di presentazioni** – Produrre rapidamente file ODP dai contenuti degli eBook.
+- **Conversioni in blocco da eBook a diapositive** – Elaborare più pubblicazioni in presentazioni su larga scala.
+- **Flussi di lavoro aziendali per la condivisione della conoscenza** – Ottimizzare la distribuzione di materiali educativi e formativi.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

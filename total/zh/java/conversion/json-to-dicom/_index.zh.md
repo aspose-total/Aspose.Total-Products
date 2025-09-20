@@ -49,7 +49,33 @@ otherformats: DICOM DXF WMF TGA SVGZ EMZ IMAGE JPEG2000 PSD WMZ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **JSON 转换为 DICOM（医学数字成像和通信）** 对于将 **结构化健康数据** 转化为标准化的医学成像格式至关重要。DICOM 是全球存储、传输和可视化医学图像的标准，使医疗保健提供者、研究人员和人工智能系统能够使用一致、可互操作的数据。通过将 JSON 转换为 DICOM，结构化的患者记录和临床数据可以无缝集成到成像工作流程中，支持准确诊断和更好的医疗结果。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键应用案例" %}}
+
+- **患者记录可视化** – 将结构化健康数据转换为可视化成像格式。
+- **基于人工智能的医学成像** – 使机器学习系统能够处理基于 JSON 的数据集。
+- **医疗互操作性** – 将结构化数据标准化为全球接受的 DICOM 格式。
+- **放射学工作流程** – 将基于 JSON 的报告集成到成像和诊断系统中。
+- **临床研究数据集成** – 将结构化数据集转换为适用于研究的成像兼容格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- **JSON 到 DICOM 管道** – 自动化将健康数据转换为成像准备格式。
+- **自动化医疗报告转换** – 直接从基于 JSON 的临床报告生成 DICOM 文件。
+- **基于云的医疗成像** – 在云中实现可扩展、可互操作的成像数据交换。
+- **基于人工智能的诊断系统** – 通过结构化到成像的转换为先进的诊断工具提供动力。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

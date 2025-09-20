@@ -57,7 +57,29 @@ Usando a API, você também pode girar a imagem IMAGE de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **HTML** em **IMAGEM** é essencial para capturar instantâneos visuais precisos de páginas da web. Esse processo permite que designers, profissionais de marketing e desenvolvedores transformem conteúdo web dinâmico ou estático em imagens compartilháveis e visualizáveis que preservam a aparência e sensação dos sites em diferentes dispositivos. Ao criar representações de imagens de páginas da web, equipes podem agilizar prévias, aprimorar conteúdo digital e manter registros visuais de forma eficiente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Prévias de Websites:** Gerar instantâneos para portfólios, revisões de clientes ou referências visuais rápidas.
+* **Infográficos:** Converter páginas da web ricas em dados em formatos visuais compartilháveis.
+* **Fluxos de Trabalho de Design de UI/UX:** Capturar designs de páginas para testes, feedback e iteração.
+* **Capturas de Tela de Arquivamento:** Preservar versões históricas de websites para conformidade ou documentação.
+* **Ativos de Marketing Digital:** Criar banners, visuais para mídias sociais e gráficos promocionais diretamente a partir do conteúdo web.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de HTML para IMAGEM:** Converter várias páginas da web em imagens de forma contínua com esforço manual mínimo.
+* **Renderização Automatizada de Página da Web para Imagem:** Agendar a renderização de páginas dinâmicas para relatórios ou monitoramento.
+* **Geração em Massa de Capturas de Tela:** Capturar centenas de páginas simultaneamente para projetos em grande escala.
+* **Publicação Digital em Escala Empresarial:** Integrar a geração de imagens em fluxos de trabalho de conteúdo para websites, boletins informativos ou catálogos de produtos.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

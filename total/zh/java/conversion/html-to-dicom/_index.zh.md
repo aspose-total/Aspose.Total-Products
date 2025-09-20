@@ -57,7 +57,29 @@ otherformats: WMZ TGA SVGZ DICOM WMF EMZ DXF PSD JPEG2000 IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**HTML转换为DICOM**对于从基于Web的数据生成**医学成像兼容输出**至关重要。DICOM确保临床图像和与医疗相关的信息标准化，以实现在医疗系统中的互操作性、归档和集成。通过将HTML内容转换为DICOM，医疗保健提供者和研究人员可以简化医疗工作流程，同时保持符合行业标准。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- **远程医疗平台** – 将基于Web的医疗数据集成到DICOM兼容系统中。
+- **医疗报告集成** – 将文本和成像报告嵌入标准医疗格式中。
+- **医疗工作流程** – 实现患者数据在部门间的无缝交换。
+- **放射学归档** – 将成像和相关基于Web的内容存储在DICOM归档中。
+- **跨系统互操作性** – 促进医疗应用程序之间的标准化数据共享。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **HTML到DICOM管道** – 自动化将基于Web的医疗内容转换为DICOM。
+- **自动化医疗报告嵌入** – 将HTML数据集成到患者成像工作流程中。
+- **批量医疗数据转换** – 高效地处理多个报告或网页。
+- **企业级临床工作流程** – 在医疗机构中实现HTML到DICOM转换的标准化。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

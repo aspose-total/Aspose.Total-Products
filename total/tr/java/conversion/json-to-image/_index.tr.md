@@ -49,7 +49,33 @@ API'yi kullanarak, IMAGE belgenizdeki filigranlı JSON'u IMAGE'ye de dönüştü
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+JSON'ı RESME dönüştürmek, yapılandırılmış verilerden görsel grafikler oluşturmak için önemlidir. Bu süreç, ham veri kümelerinin grafikler, infografi ve iş zekası grafikleri gibi anlamlı görsellere dönüştürülmesine olanak tanır. JSON'dan doğrudan görüntüler oluşturarak, kuruluşlar raporlama işlemlerini basitleştirebilir, karar alma süreçlerini geliştirebilir ve paylaşılması ve anlaşılması kolay görsel olarak çekici formatlarda veri içgörülerini sunabilirler.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- **Infografi** – Yapılandırılmış verileri etkileyici görsel hikayelere dönüştürün.
+- **Veri görselleştirme** – Grafikleri, grafikleri ve çizimleri doğrudan JSON'dan oluşturun.
+- **Dinamik raporlar** – Karmaşık veri kümelerinin görsel özetlerini dışa aktarın.
+- **Pano dışa aktarımları** – Analitik panoların görüntü anlık görüntülerini oluşturun.
+- **İş zekası görselleri** – Karar almaya hazır içgörüleri görsel formatlarda sunun.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- **JSON'dan-RESME boruları** – Yapılandırılmış verilerin kullanıma hazır grafiklere otomatik dönüşümünü gerçekleştirin.
+- **Otomatik veri-görsel dönüşümü** – Canlı JSON beslemelerinden dinamik olarak görüntüler oluşturun.
+- **Veri kümelerinden infografi oluşturma** – Yapılandırılmış bilgilerden doğrudan cilalanmış görseller oluşturun.
+- **Gerçek zamanlı rapor otomasyonu** – Kurumsal ve bulut platformları için görsel rapor oluşturma sürecini optimize edin.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

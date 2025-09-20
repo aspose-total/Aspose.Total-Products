@@ -57,7 +57,29 @@ API를 사용하여 필요에 따라 출력 JPEG2000 이미지를 회전할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUB을 JPEG2000으로 변환**하는 것은 디지털 출판물로부터 **고 압축률, 고품질 이미지**를 생성하는 데 필수적입니다. JPEG2000은 효율적인 파일 크기로 우수한 이미지 충실도를 제공하여 보존, 출판 및 연구 응용에 이상적입니다. EPUB 콘텐츠를 JPEG2000으로 변환함으로써 도서관, 출판사 및 기업은 시각적 품질을 보존하고 저장 공간을 최적화하며 전문가 수준의 미리보기와 이미지를 제공할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **디지털 도서관** - eBook 시각 자료를 고품질, 공간 효율적인 형식으로 저장합니다.
+- **보존 저장** - 우수한 이미지 충실도로 역사적 및 연구 출판물을 보존합니다.
+- **고품질 eBook 미리보기** - 디지털 카탈로그 및 마케팅을 위한 상세한 미리보기 생성합니다.
+- **연구 이미지 보존** - 다이어그램, 차트 및 일러스트레이션의 명확성을 유지합니다.
+- **출판사 작업 흐름** - 편집 및 제작 파이프라인에 JPEG2000 통합합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **EPUB-to-JPEG2000 파이프라인** - eBook을 고품질 이미지로 자동 변환합니다.
+- **자동 고품질 미리보기 생성** - 마케팅 및 카탈로그용 전문적인 미리보기를 생성합니다.
+- **대량 이미지 아카이빙** - 대량의 EPUB 시각 자료를 효율적으로 처리하고 저장합니다.
+- **기업 수준 콘텐츠 보존** - 일관된 이미지 품질로 장기 저장을 보장합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

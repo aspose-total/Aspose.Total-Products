@@ -57,7 +57,31 @@ API를 사용하여 필요에 따라 출력 IMAGE 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**HTML**을 **IMAGE**로 변환하는 것은 웹 페이지의 정확한 시각적 스냅샷을 촬영하는 데 필수적입니다. 이 프로세스를 통해 디자이너, 마케터 및 개발자는 동적 또는 정적 웹 콘텐츠를 공유 가능하고 보기 좋은 이미지로 변환하여 다양한 기기에서 웹 사이트의 모양과 느낌을 유지할 수 있습니다. 웹 페이지의 이미지 표현을 만들면 팀이 미리보기를 간소화하고 디지털 콘텐츠를 향상시키며 시각적 기록을 효율적으로 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **웹 사이트 미리보기:** 포트폴리오, 고객 리뷰 또는 빠른 시각적 참조용 스냅샷 생성.
+* **인포그래픽:** 데이터가 풍부한 웹 페이지를 공유 가능한 시각적 형식으로 변환.
+* **UI/UX 디자인 워크플로우:** 테스트, 피드백 및 반복을 위해 페이지 디자인 캡처.
+* **아카이브 스크린샷:** 규정 준수 또는 문서화를 위해 웹 사이트의 역사적 버전 보존.
+* **디지털 마케팅 자산:** 웹 콘텐츠로부터 배너, 소셜 미디어 비주얼 및 프로모션 그래픽 직접 생성.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **HTML-to-IMAGE 파이프라인:** 최소한의 수동 노력으로 여러 웹 페이지를 이미지로 원활하게 변환.
+* **자동화된 웹페이지-to-이미지 렌더링:** 보고서 또는 모니터링을 위해 동적 페이지 렌더링 일정화.
+* **대량 스크린샷 생성:** 대규모 프로젝트를 위해 동시에 수백 개의 페이지 캡처.
+* **기업 규모의 디지털 게시:** 이미지 생성을 웹 사이트, 뉴스레터 또는 제품 카탈로그의 콘텐츠 워크플로에 통합.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

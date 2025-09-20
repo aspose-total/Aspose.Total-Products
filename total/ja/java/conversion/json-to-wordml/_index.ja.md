@@ -49,7 +49,33 @@ APIを使用して、透かしを使用してJSONからWORDMLに解析するこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**JSONをWORDMLに変換**することは、**構造化されたデータからWordprocessingML（XMLベースのWord文書）を生成**するために不可欠です。WORDMLにより、シームレスなデータ交換、テンプレート駆動の文書作成、XMLベースのワークフローとの互換性が実現されます。JSONをWORDMLに変換することで、組織は文書生成を自動化し、構造化されたコンテンツの整合性を維持し、企業、政府、学術出版を効率的にサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **システム間のデータ交換** – 企業アプリケーション向けの相互運用可能な文書形式を容易にします。
+- **企業文書の保存** – 長期保存用に構造化された、XMLベースのWordファイルを維持します。
+- **テンプレートベースの生成** – テンプレートから標準化された文書の作成を自動化します。
+- **政府のデジタルアーカイブ** – 公式記録用に準拠した、XML対応のWord文書を生成します。
+- **構造化された学術出版** – 構造化された形式で研究論文や教育コンテンツを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **JSONからWordMLへのパイプライン** – 構造化されたデータをXMLベースのWord文書に自動変換します。
+- **自動化されたXML文書生成** – 構造を維持しながら大量の文書作成を効率化します。
+- **JSON駆動の文書ワークフロー** – 構造化されたデータセットから直接WordMLファイルを生成します。
+- **企業向けの構造化されたレポーティング** – 部門間で効率的に自動化された構造化文書生成をスケールさせます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

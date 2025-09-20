@@ -61,7 +61,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **EPUB para MHTML (Arquivo da Web)** é importante para gerar **documentos da web em um único arquivo** a partir de publicações digitais. Arquivos MHTML agrupam todos os recursos - HTML, imagens e estilos - em um único arquivo, garantindo portabilidade, legibilidade offline e compatibilidade com navegadores. Ao transformar EPUB em MHTML, editores, educadores e empresas podem fornecer eBooks como documentos da web autocontidos otimizados tanto para uso online quanto offline.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- **Leitura de eBooks offline** - Fornecer livros digitais completos acessíveis sem internet.
+- **Arquivamento da web** - Preservar o conteúdo do eBook como arquivos únicos compatíveis com navegadores.
+- **Publicação digital para navegadores** - Compartilhar conteúdo EPUB em um formato web pronto para abrir.
+- **Embalagem de conteúdo educacional** - Distribuir lições, materiais de estudo e eBooks em arquivos portáteis.
+- **Fluxos de trabalho de documentação empresarial** - Simplificar a publicação interna em documentos prontos para navegador.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines EPUB para MHTML** - Automatizar a conversão de publicações digitais em arquivos da web em um único arquivo.
+- **Fluxos de trabalho automatizados de eBook para web** - Simplificar a publicação de EPUBs diretamente em formatos suportados por navegadores.
+- **Publicação em massa para acesso offline** - Converter bibliotecas inteiras de eBooks em MHTML para portabilidade.
+- **Publicação compatível com navegadores multiplataforma** - Garantir uma leitura perfeita em todos os principais navegadores.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

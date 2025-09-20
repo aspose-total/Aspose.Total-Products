@@ -47,7 +47,27 @@ Ao converter o arquivo EPUB para ODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}  
+Converter **EPUB para ODS (Planilha de Documentos Abertos)** é essencial para gerar **planilhas de padrão aberto** a partir de publicações digitais. Arquivos ODS fornecem um formato flexível e amplamente compatível para organizar e analisar dados estruturados. Ao transformar EPUB em ODS, educadores, pesquisadores, bibliotecas e editores podem gerenciar eficientemente metadados, rastrear conjuntos de dados de pesquisa e otimizar fluxos de trabalho de publicação orientados por dados.  
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}  
+- **Gerenciamento de conjuntos de dados acadêmicos** – Organize e mantenha dados de pesquisa de eBooks em formato de planilha.  
+- **Registros de catálogo de biblioteca** – Tabule metadados bibliográficos para fácil acesso e análise.  
+- **Tabulação de metadados** – Converta metadados de eBooks em tabelas de planilhas estruturadas.  
+- **Análise de dados de pesquisa** – Facilite cálculos, classificações e relatórios usando arquivos ODS.  
+- **Fluxos de trabalho de publicação** – Padronize o gerenciamento de dados em publicações editoriais e acadêmicas.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}  
+- **Pipelines de EPUB para ODS** – Automatize a conversão de eBooks em planilhas estruturadas.  
+- **Conversão automatizada de planilhas** – Otimize o processamento de metadados e conjuntos de dados em escala.  
+- **Extração em massa de conjuntos de dados** – Extraia grandes volumes de dados de eBooks de forma eficiente.  
+- **Análise de publicação em nível empresarial** – Integre saídas ODS em fluxos de trabalho de análise e relatórios.  
+{{% /blocks/products/pf/agp/feature-section-col %}}  
+
+{{< /blocks/products/pf/agp/feature-section >}}  
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

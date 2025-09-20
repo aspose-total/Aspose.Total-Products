@@ -57,7 +57,31 @@ Az API használatával igény szerint elforgathatja a kimeneti IMAGE-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **HTML** átalakítása **KÉP**-vé elengedhetetlen a weboldalak pontos vizuális pillanatképeinek rögzítéséhez. Ez a folyamat lehetővé teszi a tervezők, a marketingesek és a fejlesztők számára, hogy átalakítsák a dinamikus vagy statikus webes tartalmat megosztható, megtekinthető képeként, amelyek megőrzik a webhelyek megjelenését és érzetét az eszközökön át. A weboldalak képi reprezentációinak létrehozásával a csapatok előnézeteket tudnak optimalizálni, fokozni a digitális tartalmat és hatékonyan fenntartani a vizuális nyilvántartásokat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Webhely előnézetek:** Készítsen pillanatképeket portfóliókhoz, ügyfélértékelésekhez vagy gyors vizuális hivatkozásokhoz.
+* **Infografikák:** Alakítsa át adagazdag weboldalakat megosztható vizuális formátumokká.
+* **UI/UX tervezési folyamatok:** Rögzítse az oldalterveket teszteléshez, visszajelzéshez és iterációhoz.
+* **Archív képernyőképek:** Megőrizze a webhelyek történelmi verzióit a szabályozás vagy dokumentáció érdekében.
+* **Digitális marketingeszközök:** Hozzon létre bannereke, közösségi média vizuális elemeket és promóciós grafikákat közvetlenül a webes tartalomból.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **HTML-KÉP csővezetékek:** Zökkenőmentesen alakítsa át több weboldalt képeké vá minimális manuális erőfeszítéssel.
+* **Automatizált weboldal-kép konvertálás:** Ütemezze a dinamikus oldalak renderelését jelentéskészítéshez vagy monitorozáshoz.
+* **Tömeges képernyőkép-generálás:** Rögzítsen egyszerre száz oldalt nagy léptékű projektekhez.
+* **Vállalati méretű digitális kiadás:** Integrálja a kép generálást a tartalomfolyamatokba weboldalak, hírlevelek vagy termék katalógusok számára.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

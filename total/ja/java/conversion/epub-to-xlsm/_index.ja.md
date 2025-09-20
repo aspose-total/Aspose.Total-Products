@@ -47,7 +47,29 @@ EPUBファイルをXLSMに変換するときに、出力XLSMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**EPUBをXLSMに変換**することは、デジタル出版物を**マクロ有効なExcelワークブック**に変換するために重要です。これにより、高度な自動化、インタラクティブ性、および動的データ処理が可能となります。抽出された電子書籍データにマクロを埋め込むことで、組織や研究者はワークフローを効率化し、インタラクティブなダッシュボードを生成し、ニーズに合わせた自動レポートシステムを構築することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+- **自動レポート作成** – 出版データから直接マクロ駆動のレポートを生成します。
+- **インタラクティブなダッシュボード** – リアルタイムの洞察を得るための動的なダッシュボードを作成します。
+- **カスタムデータモデル** – Excelマクロによってパワードされたカスタムモデルを開発します。
+- **マクロを使用した学術分析** – 電子書籍コンテンツからの高度な研究ワークフローを可能にします。
+- **自動化された出版ワークフロー** – 編集および制作プロセスを効率化します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからXLSMへの変換パイプライン** – 構造化された変換をマクロ有効なファイルに自動化します。
+- **自動化されたマクロ有効なワークブックの配布** – XLSMレポートをスケールで配信します。
+- **メタデータ駆動のレポート作成** – 出版メタデータをアクション可能なExcelレポートに抽出します。
+- **エンタープライズ出版自動化** – 大規模な出版システムにマクロ有効なExcelを統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

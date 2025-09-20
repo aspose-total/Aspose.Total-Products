@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+EPUBをSVGZ（圧縮されたSVG）に変換することは、デジタル出版物からスケーラブルなベクターグラフィックスを圧縮形式で生成するために不可欠です。SVGZファイルはファイルサイズを削減しながら完全なスケーラビリティと品質を維持し、Web、モバイル、インタラクティブアプリケーションに最適です。EPUBをSVGZに変換することで、出版社、教育者、デザイナーは高品質なグラフィックスを効率的に提供し、読み込み時間を短縮し、クロスプラットフォームの一貫性を維持することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- **軽量Webパブリッシング** – eBookのビジュアルを最小の読み込み時間でウェブサイトに展開します。
+- **モバイルファーストのeBookプレビュー** – モバイルデバイス向けに最適化されたインタラクティブでスケーラブルなグラフィックスを提供します。
+- **インフォグラフィックの生成** – 出版コンテンツから詳細で高品質なビジュアルサマリーを作成します。
+- **クロスプラットフォームの互換性** – ベクターグラフィックスの一貫した表示をデバイスやプラットフォーム間で確保します。
+- **インタラクティブデザイン** – 学習、マーケティング、プレゼンテーション向けにダイナミックでズーム可能なグラフィックスを可能にします。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **EPUBからSVGZへのパイプライン** – eBookを圧縮されたベクターグラフィックスに自動変換します。
+- **自動化されたベクター圧縮** – 完全なスケーラビリティと品質を保ちながらファイルサイズを削減します。
+- **大量のインフォグラフィックの作成** – デジタル出版物から大量のビジュアルコンテンツを効率的に生成します。
+- **エンタープライズレベルの軽量パブリッシングワークフロー** – スケーラブルなコンテンツ配信システムにSVGZ生成を統合します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,29 @@ otherformats: SXC XLT FODS MD XLSM XLSB XLTX EXCEL TXT XLAM XLTM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **EPUB เป็น FODS (Flat XML ODS spreadsheets)** เป็นสิ่งจำเป็นสำหรับการสร้าง **ไฟล์สเปรดชีตมาตรฐานเปิด** จาก eBooks และการพิมพ์ดิจิทัล  FODS ช่วยให้เกิดความเข้ากันได้กับชุดออฟฟิศที่เปิด, รองรับการจัดรูปแบบ XML อย่างมีโครงสร้าง, และเปิดโอกาสให้แบ่งปันข้อมูลได้อย่างไม่มีข้อจำกัด  โดยการแปลง EPUB เป็น FODS, สำนักพิมพ์, นักวิจัย, และสถาบันสามารถจัดเก็บเมตาดาต้า, ปรับปรุงการจัดเก็บข้อมูล, และแบ่งปันชุดข้อมูลวิจัยในรูปแบบที่สามารถเข้าถึงได้ทั่วไป  
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- **การจัดเก็บเมตาดาต้า** – แปลงข้อมูลเมตาดาต้าจาก eBook เป็นตารางสเปรดชีตที่มีโครงสร้าง  
+- **การรวบรวมข้อมูลวิจัย** – สกัดและจัดระเบียบข้อมูลทางวิชาการจากการพิมพ์ดิจิทัล  
+- **กระบวนการการพิมพ์แบบเปิดซอร์ส** – ใช้ FODS กับ LibreOffice และแพลตฟอร์มเปิดอื่นๆ  
+- **บันทึกข้อมูลในห้องสมุด** – จัดการข้อมูลทรัพยากรสารสนเป็นตารางสเปรดชีตมาตรฐานเปิด  
+- **การแบ่งปันชุดข้อมูลทางวิชาการ** – แจกจ่ายชุดข้อมูลโครงสร้างเพื่อการทำงานร่วมและการวิเคราะห์  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+- **ท่อการแปลง EPUB เป็น FODS** – อัตโนมัติการแปลงการพิมพ์ดิจิทัลเป็นตารางสเปรดชีต FODS  
+- **การสร้างสเปรดชีตอัตโนมัติ** – ปรับปรุงกระบวนการการพิมพ์และการประมวลผลข้อมูลวิจัย  
+- **การสกัดข้อมูลจาก XML อัตโนมัติ** – แปลงเนื้อหา eBook เป็นตารางสเปรดชีตโครงสร้างที่สามารถอ่านโดยเครื่อง  
+- **กระบวนการการพิมพ์ทางวิชาการขององค์กร** – มาตรฐานการจัดการข้อมูลวิจัยทั่วไปของสถาบัน  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}
