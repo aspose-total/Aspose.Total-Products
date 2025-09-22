@@ -56,7 +56,26 @@ While converting PDF file to MD, you can also add watermark to your output MD fi
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+The **PDF to MD** conversion case focuses on converting PDF files into **Markdown (.md) format**, which is widely used in **developer documentation, technical blogs, and content automation pipelines**. It allows structured reuse of PDF text, tables, and code snippets in Markdown editors.
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+- Developer documentation migration from PDF to MD  
+- Converting PDF manuals into Markdown for editing  
+- Technical blogging workflows using MD content  
+- Open-source project documentation stored as Markdown  
+- Creating structured **knowledge bases** from PDF reports  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+- Automated **PDF-to-MD pipelines for developers**  
+- Batch PDF conversion into Markdown repositories  
+- Git-based workflows integrating PDF-to-MD export  
+- API-driven PDF-to-MD processing for CMS platforms  
+- Enterprise automation for migrating PDF docs to MD  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

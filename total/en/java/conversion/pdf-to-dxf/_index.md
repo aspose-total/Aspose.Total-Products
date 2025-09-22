@@ -64,7 +64,26 @@ Using the API, you can also rotate the output DXF image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **PDF to DXF** is critical for engineers, architects, and designers who need to transform static documents into **AutoCAD-compatible drawings**. This enables seamless reuse of **PDF blueprints** in CAD workflows for construction, manufacturing, and 3D design.
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+- Converting architectural blueprints from PDF to DXF  
+- Engineering drawings reuse in CAD software  
+- Manufacturing workflows requiring CAD-compatible input  
+- Migration of PDF schematics into DXF formats  
+- Collaborative design sharing across teams  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+- Automated **PDF-to-DXF CAD pipelines**  
+- Batch PDF blueprint conversion for construction projects  
+- PDF to DXF automation for manufacturing drawings  
+- DXF export workflows for enterprise engineering systems  
+- Scalable CAD automation integrating PDF inputs  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
