@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na PPS. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **WORD na PPS** umožňuje obsahu programu Word stát se soubory **PowerPoint Show (PPS)**, připravenými k přímé prezentaci bez ručního nastavení snímků.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Převádění zpráv z programu Word do připravených prezentací k přehrání
+- Snímky pro firemní a podniková setkání
+- Příprava akademických a školicích materiálů
+- Prezentace založené na šablonách pro briefing a reportování
+- Prezentace připravené k prezentaci pro vládu a organizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované prezentace z Wordu do PPS
+- Hromadná generace připravených snímků k prezentaci
+- Šablonami řízené automatizované pracovní postupy pro prezentace
+- Automatizace PowerPointu na úrovni podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

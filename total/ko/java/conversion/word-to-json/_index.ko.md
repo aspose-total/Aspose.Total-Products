@@ -49,7 +49,26 @@ WORD를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 설정
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 JSON으로 변환**하는 것은 Word 문서에서 구조화된 콘텐츠를 **JSON 형식**으로 추출하는 데 중요하며, 데이터 기반 애플리케이션, API 통합, 현대적인 웹 또는 기업 워크플로우를 용이하게 합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 문서 시스템 및 애플리케이션 간 데이터 교환
+- 웹 및 모바일 플랫폼과의 Word 콘텐츠 통합
+- 템플릿 기반 문서 콘텐츠 추출
+- 정부 및 연구를 위한 구조화된 콘텐츠 보관
+- 구조화된 학술 또는 기업 출판
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- Word-to-JSON 추출 파이프라인
+- 자동화된 API 준비 문서 콘텐츠 생성
+- JSON 기반 워크플로우 자동화
+- 기업 규모의 구조화된 문서 보고
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

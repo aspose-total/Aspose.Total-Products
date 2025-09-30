@@ -54,7 +54,24 @@ L'API consente inoltre di convertire documenti WORD protetti da password in PPSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **WORD in PPSX** trasforma i documenti Word in file **PowerPoint Show (PPSX)**, offrendo presentazioni pronte per essere riprodotte senza macro per pubblico aziendale, accademico e aziendale.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- Presentazioni pronte per la riproduzione da contenuti Word
+- Diapositive aziendali e aziendali senza macro
+- Preparazione di presentazioni accademiche e formative
+- Reporting e briefing basati su modelli
+- Presentazioni pronte per lo show per enti governativi e organizzazioni
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- Pipeline batch automatizzate da Word a PPSX
+- Automazione di diapositive pronte per la riproduzione basate su modelli
+- Flussi di lavoro di presentazione aziendale di alta qualità senza macro
+- Conversione batch da report Word a presentazioni
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

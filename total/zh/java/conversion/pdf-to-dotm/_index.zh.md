@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为DOTM**使组织能够创建将可重复使用的布局与自动化功能相结合的**宏启用的Word模板**。通过在线PDF转换为DOTM的工具和企业工作流程，企业可以简化报告流程，确保动态文档流程的一致性。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 带有宏的自动化报告模板
+- 企业级文档生成
+- 需要公式自动化的财务报表
+- 带有内置检查的合规文件
+- 企业规模的文档模板
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 用于可扩展报告的PDF转DOTM管道
+- 批量PDF转DOTM模板转换
+- 使用宏自动创建可重复使用模板
+- 从PDF生成工作流驱动的报告
+- 使用DOTM进行智能文档组装
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

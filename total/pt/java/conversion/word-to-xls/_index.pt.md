@@ -61,7 +61,24 @@ Depois de converter WORD para XLS, o [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para XLS** permite exportar tabelas do Word para o formato legado de planilha do Excel (XLS), preservando a estrutura para relatórios empresariais e análise de planilhas.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Migrar tabelas do Word para formatos legados do Excel
+- Relatórios empresariais e análise financeira
+- Preparação de dados acadêmicos e de pesquisa
+- Integração de documentos governamentais
+- Geração estruturada de planilhas baseadas em modelos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines em lote automatizados de Word para XLS
+- Criação de planilhas do Excel baseadas em modelos
+- Automação de relatórios de nível empresarial
+- Fluxos de integração de sistemas legados
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 WORD 문서를 PPSM로 변환할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 PPSM으로 변환**하면 Word 문서에서 **매크로 활성화된 PowerPoint 쇼 (PPSM) 파일**을 만들어 상호 작용이 가능한 프레젠테이션과 자동화 기능을 제공할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 콘텐츠에서 매크로 활성화된 프레젠테이션 쇼
+- 기업이나 기관의 상호 작용형 프레젠테이션
+- 학술 연구 및 교육 슬라이드 쇼
+- 템플릿 기반의 상호 작용형 프레젠테이션 워크플로우
+- 정부 및 기관 브리핑 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-PPSM 슬라이드 파이프라인
+- 매크로 활성화된 프레젠테이션 쇼의 일괄 생성
+- 템플릿 기반의 상호 작용형 슬라이드 자동화
+- 기업용 매크로 활성화된 프레젠테이션 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

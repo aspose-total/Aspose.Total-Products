@@ -57,7 +57,27 @@ API также позволяет экспортировать файл PDF в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в DXF** критично для инженеров, архитекторов и дизайнеров, которым необходимо преобразовать статические документы в чертежи, совместимые с **AutoCAD**. Это обеспечивает беспрепятственное повторное использование **PDF чертежей** в рабочих процессах САПР для строительства, производства и 3D-дизайна.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Преобразование архитектурных чертежей из PDF в DXF
+- Повторное использование инженерных чертежей в программном обеспечении САПР
+- Рабочие процессы производства, требующие ввода, совместимого с CAD
+- Миграция схем PDF в форматы DXF
+- Совместное проектирование и обмен данными между командами
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **конвейеры PDF в DXF CAD**
+- Пакетное преобразование архитектурных чертежей из PDF для строительных проектов
+- Автоматизация PDF в DXF для производственных чертежей
+- Экспорт DXF для корпоративных инженерных систем
+- Масштабируемая автоматизация САПР, интегрирующая ввод PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,26 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POWER
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang DOC** cho phép biến đổi nội dung bài thuyết trình thành **tài liệu Word có thể chỉnh sửa**, giúp dễ dàng tái sử dụng các slide cho báo cáo, tài liệu hoặc chỉnh sửa cộng tác.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tái sử dụng các slide bài thuyết trình thành báo cáo văn bản
+- Chỉnh sửa cộng tác và chú thích trong Word
+- Chuẩn bị biên bản họp chính thức hoặc báo cáo
+- Lưu trữ bài thuyết trình dưới dạng tài liệu Word
+- Tài liệu giáo dục dựa trên các slide
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Chuyển đổi hàng loạt tự động các bài thuyết trình sang Word
+- Tích hợp vào các đường ống báo cáo
+- Luồng công việc tài liệu dựa trên PowerPoint
+- Tái sử dụng nội dung doanh nghiệp cho nhiều nhóm
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

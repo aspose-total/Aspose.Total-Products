@@ -57,7 +57,27 @@ otherformats: TGA WMF SVGZ WMZ  DXF PSD JPEG2000 IMAGE EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 WMZ** 对于从 PDF 内容生成 **压缩的 Windows Metafile 图形** 是很重要的。当在 Windows 应用程序和企业工作流程中以一种节省空间的方式存储或共享 **基于矢量的图表和插图** 时，这种格式尤其有用。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 为办公文档压缩的矢量图形
+- 以轻量级 WMZ 格式呈现的企业图表和图表
+- 政府和企业文件插图
+- 营销和演示图形
+- 以减小文件大小存档矢量 PDF 图形
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的 **PDF 到 WMZ 压缩流程**
+- 为企业批量转换 PDF 图表为 WMZ
+- 与 PowerPoint 和 Word 工作流程集成
+- 使用 WMZ 存储的企业图形自动化
+- 用于存档的可扩展的 PDF 到矢量压缩
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **PDF na RTF** umožňuje podnikům generovat dokumenty ve formátu **Rich Text Format**, které jsou kompatibilní napříč platformami. S online nástroji pro převod PDF na RTF a automatizací mohou podniky zajistit plynulou úpravu, sdílení a integraci s dědictvím systémů po celém světě.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Sdílení dokumentů napříč platformami  
+- Kompatibilita s dědictvím systémů  
+- Přenositelnost právní dokumentace  
+- Odevzdávání akademických prací ve standardních formátech  
+- Archivace pro dlouhodobou dostupnost
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované potrubí PDF na RTF pro výměnu dokumentů  
+- Hromadná generace RTF z archivů PDF  
+- RTF pracovní postupy pro celou firmu  
+- Integrace s dědictvím aplikací pomocí RTF  
+- Automatizace interoperability napříč systémy
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

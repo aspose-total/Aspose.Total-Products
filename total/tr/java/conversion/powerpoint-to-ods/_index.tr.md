@@ -61,7 +61,26 @@ POWERPOINT dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint' i ODS' ye dönüştürmek**, sunum tablolarını **OpenDocument Elektronik Tablo biçimine** dönüştürmeyi sağlar, yapılandırılmış veri analizi ve platformlar arası uyumluluk sağlar.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+- Tabloları elektronik tablo analizi için çıkarma
+- Kurumsal raporlama ve analitik
+- OpenDocument araçlarıyla platformlar arası veri paylaşımı
+- Yapılandırılmış slayt verilerini arşivleme
+- Sunumlardan sayısal veya tablo raporları hazırlama
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- ODS biçimine otomatik tablo çıkarma
+- Analitik boru hatlarıyla entegrasyon
+- Toplu slayt-elektronik tablo dönüşümleri
+- Veri odaklı raporlama iş akışları
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

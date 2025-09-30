@@ -61,7 +61,26 @@ Podczas konwertowania pliku POWERPOINT do SXC możesz również dodać znak wodn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do SXC** pozwala na eksportowanie tabel i strukturyzowanych danych slajdów do formatu **Arkusz kalkulacyjny StarOffice Calc**, umożliwiając zgodność z wersjami z poprzednich lat oraz analizę danych.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Wyodrębnianie danych tabeli ze slajdów do arkuszy kalkulacyjnych
+- Zgodność z przestarzałymi pakietami biurowymi w zakresie arkuszy kalkulacyjnych
+- Raportowanie i analiza oparta na danych
+- Archiwizacja strukturalnych treści z prezentacji
+- Przygotowywanie raportów numerycznych ze slajdów
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczna konwersja slajdów na tabele SXC
+- Partie wyodrębniania do analizy
+- Integracja z systemami raportowania przedsiębiorstwa
+- Automatyzacja procesów dla generowania przestarzałych arkuszy kalkulacyjnych
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

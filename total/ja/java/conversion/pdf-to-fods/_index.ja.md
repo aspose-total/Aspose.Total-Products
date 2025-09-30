@@ -47,7 +47,27 @@ PDFファイルをFODSに変換するときに、出力FODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをFODS（Flat ODF Spreadsheet）に変換**することで、**LibreOffice CalcおよびOpenDocument互換のスプレッドシート**に構造化されたデータを抽出できます。これにより、組織は**PDFテーブルをXMLベースのFODSに再利用**して報告書、分析、コンプライアンスに活用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- オープンソースのスプレッドシートワークフロー用のPDFからFODSへの変換
+- 学術テーブルをODFスプレッドシートに変換
+- LibreOfficeおよびOpenOffice環境でのデータ再利用
+- XMLベースのスプレッドシート形式による構造化報告
+- 表形式のPDFコンテンツの長期保存
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからFODSへのパイプライン**
+- PDFテーブルのバッチ処理によるODFスプレッドシートへの変換
+- PDFからFODSを生成するJSON駆動ワークフロー
+- FODSエクスポートによるエンタープライズ報告の自動化
+- PDFからFODSへのツールを使用したオープンソースシステム統合
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

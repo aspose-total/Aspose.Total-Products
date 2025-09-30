@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたWORDドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDからODPへの変換**により、Word文書を**OpenDocument Presentation (ODP)ファイル**に変換することができ、テキストベースのレポートとプレゼンテーション形式を結びつけ、協力的でオープンな標準環境向けのギャップを埋めます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- テキストレポートをスライドデッキに変換する
+- 企業協力のためのオープン標準プレゼンテーション
+- 学術および研究プレゼンテーションの準備
+- 政府および企業のプレゼンテーションアーカイブ
+- テンプレートベースの企業レポートとブリーフィング
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- WordからODPへの自動生成ワークフロー
+- 企業レポートのバッチ変換
+- テンプレート駆動のスライドデッキ作成
+- 構造化されたレポートとブリーフィングの自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

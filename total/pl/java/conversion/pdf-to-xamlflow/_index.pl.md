@@ -144,7 +144,27 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PDF na XAMLFLOW** jest idealne dla programistów tworzących pliki **XAML oparte na FlowDocument** w aplikacjach .NET i WPF. Dzięki wsadowym konwerterom PDF na XAMLFlow i zautomatyzowanym potokom, statyczna zawartość może być przekształcona w interaktywne, zorganizowane zasoby oprogramowania.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Integracja bogatego tekstu w aplikacjach WPF
+- Publikowanie cyfrowe w formacie FlowDocument
+- Podręczniki i systemy pomocy oprogramowania
+- Integracja z bazą wiedzy przedsiębiorstwa
+- Przepływy pracy od dokumentu do aplikacji
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane potoki PDF-to-XAMLFLOW dla rozwoju aplikacji
+- Konwersja wsadowa dla przedsiębiorstwowych aplikacji WPF
+- Integracja przepływów pracy w systemach publikacji
+- Generowanie zawartości FlowDocument w skali
+- Automatyzacja interaktywnej dokumentacji oprogramowania
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

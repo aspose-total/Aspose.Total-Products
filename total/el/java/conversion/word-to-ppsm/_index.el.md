@@ -54,7 +54,26 @@ otherformats: PPT PPSX POWERPOINT PPTM POT POTX PPSM PPTX POTM PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε PPSM** επιτρέπει τη δημιουργία **αρχείων Macro-Enabled PowerPoint Show (PPSM)** από έγγραφα Word, επιτρέποντας διαδραστικές παρουσιάσεις με δυνατότητες αυτοματισμού.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Δημιουργία παρουσιάσεων με δυνατότητα μακροενεργοποίησης από περιεχόμενο Word
+- Διαδραστικές παρουσιάσεις επιχειρήσεων ή επιχειρήσεων
+- Παρουσιάσεις διαφανειών ακαδημαϊκής έρευνας και εκπαίδευσης
+- Ροές εργασίας διαδραστικών παρουσιάσεων με πρότυπα
+- Αυτοματισμός ενημέρωσης κυβερνητικών και οργανωτικών ενημερώσεων
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής Word σε PPSM
+- Μαζική δημιουργία παρουσιάσεων με δυνατότητα μακροενεργοποίησης
+- Αυτοματοποίηση διαδραστικών διαφανειών με πρότυπα
+- Ροές εργασίας παρουσιάσεων με δυνατότητα μακροενεργοποίησης επιχειρήσεων
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

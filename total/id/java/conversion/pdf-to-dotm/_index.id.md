@@ -130,7 +130,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke DOTM** memungkinkan organisasi untuk membuat **template Word yang mendukung makro** yang menggabungkan tata letak yang dapat digunakan kembali dengan fitur otomatisasi. Dengan konverter online PDF ke DOTM dan alur kerja perusahaan, bisnis dapat mempermudah pelaporan dan memastikan konsistensi di seluruh proses dokumen dinamis.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Template laporan otomatis dengan makro
+- Generasi dokumen tingkat perusahaan
+- Laporan keuangan yang memerlukan otomatisasi formula
+- Dokumentasi kepatuhan dengan pemeriksaan bawaan
+- Templating dokumen dalam skala besar untuk perusahaan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa PDF ke DOTM untuk pelaporan yang dapat diskalakan
+- Konversi template PDF ke DOTM secara massal
+- Pembuatan template yang dapat digunakan kembali dengan makro secara otomatis
+- Generasi laporan yang didorong oleh alur kerja dari PDF
+- Perakitan dokumen cerdas menggunakan DOTM
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

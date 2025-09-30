@@ -130,7 +130,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke WORDML** penting untuk menghasilkan **WordprocessingML (dokumen Word berbasis XML)** dari PDF. Alat online PDF ke WordML dan otomatisasi memastikan dokumen terstruktur yang sesuai dengan XML yang siap untuk diarsipkan, dipublikasikan, dan alur kerja perusahaan.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Pertukaran data antar sistem
+- Penyimpanan dokumen perusahaan
+- Generasi dokumen berbasis template
+- Arsip digital pemerintah
+- Publikasi akademis terstruktur
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa kerja PDF-to-WordML otomatis untuk pelaporan terstruktur
+- Generasi dokumen XML dari PDF
+- Alur kerja Batch WordML untuk perusahaan
+- Integrasi arsip digital ke format XML
+- Pelaporan terstruktur tingkat perusahaan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,24 @@ otherformats: WORD DOCX ODT WORDML DOT DOCXM DOTX DOTM FLATOPC RTF TEXT OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в DOCX** позволяет экспортировать презентации в **современный формат Word**, обеспечивая совместимость с текущими функциями Word и средствами совместной работы.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Преобразование слайдов в редактируемые современные документы Word  
+- Коллективная работа команды над содержимым презентации  
+- Подготовка отчетов или учебных материалов  
+- Архивирование в широко поддерживаемом формате DOCX  
+- Структурированная документация на основе слайдов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Пакетные рабочие процессы преобразования слайдов в DOCX  
+- Автоматизированное повторное использование контента для предприятий  
+- Генерация отчетов на основе слайдов  
+- Интеграция с системами управления контентом
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,26 @@ API juga memungkinkan Anda untuk mengonversi dokumen WORD yang dilindungi kata s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **WORD ke PPTM** memungkinkan konten Word menjadi file **Macro-Enabled PowerPoint (PPTM)**, memungkinkan otomatisasi dan fitur presentasi interaktif.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Presentasi perusahaan dan perusahaan yang diaktifkan makro
+- Slide akademis dan pelatihan interaktif
+- Alur kerja presentasi yang diaktifkan makro berbasis template
+- Otomatisasi briefing pemerintah dan organisasi
+- Template presentasi yang dapat digunakan ulang yang diaktifkan makro
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa slide Word-to-PPTM yang terotomatisasi
+- Pembuatan tumpukan presentasi yang diaktifkan makro secara batch
+- Otomatisasi slide interaktif berbasis template
+- Alur kerja presentasi yang diaktifkan makro tingkat perusahaan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

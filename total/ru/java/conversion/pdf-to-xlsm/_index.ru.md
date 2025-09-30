@@ -47,7 +47,27 @@ otherformats: DIF ODS SXC FODS XLSB EXCEL MD XLT XLSM XLTM XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в XLSM** позволяет организациям создавать **макро-включенные электронные таблицы Excel** непосредственно из данных PDF. Онлайн инструменты и автоматизация PDF в XLSM дают возможность бизнесу интегрировать расширенные вычисления, сценарии и рабочие процессы в файлах Excel.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Автоматизированные модели финансового прогнозирования
+- Исследовательские наборы данных с повторно используемыми сценариями
+- Проверки соответствия с встроенными макросами
+- Дашборды бизнес-аналитики
+- Автоматизация электронных таблиц на корпоративном уровне
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры PDF в XLSM для отчетности
+- Пакетная генерация XLSM с макросами
+- Преобразование финансовых моделей из отчетов PDF
+- Автоматизация рабочего процесса с макро-включенным Excel
+- Интеграция макросов на корпоративном уровне
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,27 @@ otherformats: FODS XLTX XLSB XLSM MD SXC EXCEL DIF XLAM TSV ODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**Преобразование PDF в MD** сосредотачивается на преобразовании файлов PDF в формат **Markdown (.md)**, который широко используется в **документации разработчика, технических блогах и автоматизированных конвейерах контента**. Это позволяет структурированно использовать текст, таблицы и фрагменты кода из PDF в редакторах Markdown.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Миграция документации разработчика из PDF в MD
+- Преобразование PDF-руководств в Markdown для редактирования
+- Рабочие процессы технического блогинга с использованием контента MD
+- Документация проектов с открытым исходным кодом, хранящаяся в формате Markdown
+- Создание структурированных **баз знаний** из отчетов в формате PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры **PDF-to-MD для разработчиков**
+- Пакетное преобразование PDF в репозитории Markdown
+- Рабочие процессы на основе Git с интеграцией экспорта PDF в MD
+- Обработка PDF в MD с использованием API для платформ управления контентом
+- Предприятий автоматизация для миграции документов PDF в MD
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

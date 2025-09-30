@@ -61,7 +61,26 @@ otherformats: SXC EXCEL ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى EXCEL** أمر حيوي لنقل جداول Word إلى **جداول بيانات Excel**، مما يمكن من تحليل البيانات، وإعداد التقارير الشركاتية، والتكامل السلس مع سير العمل في Excel.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل الجداول النصية إلى صيغ جاهزة للعمل في Excel
+- إعداد التقارير والتحليلات للشركات
+- معالجة البيانات الأكاديمية والبحثية
+- الحفاظ على السجلات في الحكومة والشركات
+- إنشاء صفحات Excel بناءً على قوالب من مستندات Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- خطوط أنابيب تحويل Word إلى Excel تلقائيًا
+- سير عمل تحويل المستندات إلى جداول بيانات بشكل دفعي
+- إنشاء تقارير Excel بناءً على قوالب محددة
+- أتمتة تكامل البيانات على مستوى الشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,27 @@ otherformats: XLSB MD TXT XLTX XLAM FODS TSV XLT DIF EXCEL SXC XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น XLT** ช่วยธุรกิจในการสร้าง **ไฟล์เทมเพลต Excel** ที่สามารถนำกลับมาใช้ในกระบวนการรายงานและป้อนข้อมูลได้ เส้นทางการแปลง PDF เป็น XLT อัตโนมัติ สนับสนุนความสอดคล้องในการจัดแบรนด์และรูปแบบข้อมูลมาตรฐาน
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- รูปแบบเทมเพลตสำหรับรายงานบริษัท  
+- แบบฟอร์มการวิจัยทางวิชาการ  
+- รูปแบบการเงินของรัฐบาล  
+- สเปรดชีตการจัดการสินค้าคงคลัง  
+- แดชบอร์ดขององค์กรมาตรฐาน
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- เส้นทางเทมเพลต PDF เป็น XLT สำหรับองค์กร  
+- การแปลงแบบฟอร์มเป็นเทมเพลต Excel โดยอัตโนมัติ  
+- การสร้างเทมเพลตเป็นชุดจากเอกสาร PDF แบบกลุ่ม  
+- อัตโนมัติเวิร์กโฟร์สำหรับสเปรดชีตบริษัท  
+- การนำเทมเพลตใช้ซ้ำทั่วองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

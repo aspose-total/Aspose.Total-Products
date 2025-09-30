@@ -135,7 +135,27 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в XAML** помогает разработчикам и предприятиям создавать файлы **Extensible Application Markup Language** из макетов документов. Используя онлайн конвертеры PDF в XAML и автоматизированные конвейеры, компании могут преобразовывать PDF-файлы в ресурсы пользовательского интерфейса для приложений WPF и цифрового издательства.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Прототипирование пользовательского интерфейса из макетов PDF
+- Документирование дизайна корпоративных приложений
+- Генерация ресурсов приложений WPF
+- Интерактивная документация программного обеспечения
+- Цифровое издательство в структурированной разметке
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры PDF в XAML для пользовательских фреймворков
+- Массовое преобразование PDF в XAML для предприятий
+- Интеграция рабочего процесса для документации дизайна
+- Прототипирование приложений из архивов PDF
+- Автоматизация документирования корпоративного программного обеспечения
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

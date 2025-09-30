@@ -61,7 +61,26 @@ POWERPOINT 파일을 XLS로 변환하는 동안 출력 XLS 파일 형식에 워�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 XLS로 변환**하면 슬라이드를 **레거시 Excel 97-2003 워크북**으로 내보낼 수 있어서 오래된 스프레드시트 시스템과의 호환성을 지원합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 레거시 스프레드시트 호환성
+- 프레젠테이션 테이블 및 차트 아카이빙
+- 오래된 Excel 형식에서의 기업 보고
+- 크로스 플랫폼 데이터 공유
+- 오래된 시스템을 위한 구조화된 보고서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 일괄 슬라이드를 XLS로 변환
+- 레거시 보고서 워크플로우 통합
+- 프레젠테이션 테이블 자동 추출
+- 구조화된 데이터 아카이빙
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

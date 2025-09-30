@@ -103,7 +103,26 @@ otherformats: POTX PPTM POT POWERPOINT PPTX PPT PPSX PPS POTM PPSM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-ODP** מאפשרת להמיר מסמכי Word לקבצי **OpenDocument Presentation (ODP)**, גשר על הפער בין דוחות מבוססי טקסט ובין פורמטי ההצגה לסביבות שיתופיות ותקנים פתוחים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת דוחות טקסטואליים למצגות
+- מצגות תקניות לשיתוף פעולה בארגונים
+- הכנת מצגות ללימודים ומחקרים
+- ארכיונים של מצגות ממשלתיות ועסקיות
+- דיווחים ומבואות בהתאמה לתבנית ובסיס תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- זרימי עבודה אוטומטיים להמרת Word ל-ODP
+- המרה רציפה של דוחות עסקיים למצגות
+- יצירת מצגות בהתאמה לתבנית
+- אוטומציה של דיווחים מובנים ומבואות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

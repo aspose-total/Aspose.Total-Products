@@ -102,7 +102,26 @@ otherformats: XLTM XLSB XLSM SXC XLTX DIF ODS TSV XLS MHTML MARKDOWN FODS XLT XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **PowerPoint у XLAM** дозволяє експортувати слайди у **Excel-додатки з підтримкою макросів**, що дозволяє автоматизувати та використовувати функції, отримані з даних презентації.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Створення Excel-додатків з макросами, що базуються на презентаціях
+- Автоматизація функцій звітності на основі слайдів
+- Інтеграція корпоративних робочих процесів з автоматизацією в Excel
+- Повторне використання бібліотек макросів з даних презентації
+- Оптимізація повторюваних завдань з електронними таблицями
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизоване створення XLAM-додатків з презентацій
+- Пакетні робочі процеси макросів слайдів у Excel
+- Інтеграція з корпоративними потоками звітності
+- Автоматизація на основі слайдів в Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

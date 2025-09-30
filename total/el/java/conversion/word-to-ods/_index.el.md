@@ -61,7 +61,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε ODS** επιτρέπει την εξαγωγή περιεχομένου Word σε μορφή **OpenDocument Spreadsheet (ODS)**, κάνοντας τα δομημένα δεδομένα προσβάσιμα για ανάλυση φύλλου εργασίας και συνεργατικές ροές εργασίας.
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+- Εξαγωγή πινάκων Word σε ODS για αναλύσεις
+- Διαλειτουργική αναφορά σε μορφές OpenDocument
+- Ροές εργασίας φύλλου εργασίας εταιρικού και δημόσιου τομέα
+- Επεξεργασία και αρχειοθέτηση ακαδημαϊκών δεδομένων
+- Μεταφορά δομημένων δεδομένων πίνακα σε μοντέρνα συστήματα φύλλων εργασίας
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής από Word σε ODS
+- Δομημένη αναφορά υψηλής επιχειρηματικής κλίμακας
+- Αυτοματισμός ροών εργασίας με βάση φύλλα εργασίας
+- Δημιουργία εγγράφων σε φύλλα εργασίας με βάση πρότυπα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

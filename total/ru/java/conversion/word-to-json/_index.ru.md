@@ -49,7 +49,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в JSON** критично для извлечения структурированного контента из документов Word в формат **JSON**, облегчая создание приложений, интеграцию с API и современные веб- или корпоративные рабочие процессы.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Обмен данных между системами документов и приложениями
+- Интеграция содержимого Word с веб- и мобильными платформами
+- Извлечение содержимого документов на основе шаблонов
+- Архивирование структурированного контента для государственных и исследовательских целей
+- Структурированная академическая или корпоративная публикация
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Конвейеры извлечения Word в JSON
+- Автоматизированная генерация содержимого документов, готового к использованию в API
+- Автоматизация рабочих процессов на основе JSON
+- Масштабированная структурированная отчетность документов для предприятий
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

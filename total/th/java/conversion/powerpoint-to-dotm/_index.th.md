@@ -53,7 +53,26 @@ otherformats: RTF OTT DOTMX WORDML DOTMM DOTM DOT ODT WORD DOTX FLATOPC TEXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น DOTM** ช่วยให้สไลด์กลายเป็น **เทมเพลต Word ที่เปิดใช้งานแมโคร**, รักษาอัตโนมัติแบบโต้ตอบสำหรับการใช้งานทางธุรกิจหรือทางการศึกษาซ้ำๆ
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- สร้างเทมเพลตที่ใช้แมโครได้ซ้ำได้  
+- มาตรฐานการทำงานอัตโนมัติในการรายงาน  
+- มาตรฐานเอกสารสำหรับองค์กรและสำหรับการศึกษา  
+- เทมเพลตเอกสารแบบโต้ตอบจากการนำเสนอ  
+- การสร้างเทมเพลตที่เกี่ยวกับความปฏิบัติหรือกระบวนการ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การสร้างเทมเพลตที่ใช้แมโครอัตโนมัติ  
+- คลังเทมเพลตขององค์กรพร้อมกับอัตโนมัติ  
+- การสร้างท่อเทมเพลตแบบ JSON หรือจากสไลด์  
+- อัตโนมัติของกระบวนการสำหรับการรายงานที่ใช้เทมเพลต
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

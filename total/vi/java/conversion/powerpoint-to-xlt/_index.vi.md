@@ -61,7 +61,26 @@ Trong khi chuyển đổi tệp POWERPOINT sang XLT, bạn cũng có thể thêm
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint thành XLT** cho phép xuất các slide dưới dạng **mẫu Excel cũ**, cho phép tạo các mẫu có thể tái sử dụng từ dữ liệu trình bày để báo cáo theo tiêu chuẩn.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tạo các mẫu Excel có thể tái sử dụng từ các bài trình bày
+- Tiêu chuẩn hóa báo cáo doanh nghiệp hoặc học thuật
+- Lưu trữ các slide dưới dạng bảng mẫu
+- Chuẩn bị các mẫu dự án hoặc báo cáo có cấu trúc
+- Tạo mẫu cũ cho các phiên bản Excel cũ hơn
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- Tự động tạo mẫu từ slide sang XLT
+- Tích hợp quy trình làm việc cho thư viện mẫu doanh nghiệp
+- Tạo mẫu hàng loạt từ nhiều bài trình bày
+- Tự động hóa báo cáo dựa trên mẫu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

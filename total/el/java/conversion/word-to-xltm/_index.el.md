@@ -61,7 +61,26 @@ otherformats: XLSB XLS XLAM EXCEL DIF XLTM FODS SXC XLTX XLT XLSM TSV ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε XLTM** επιτρέπει τη μετατροπή εγγράφων Word σε αρχεία **Πρότυπο Excel με ενεργοποιημένα μακρό** (XLTM), επιτρέποντας την αυτοματοποίηση, τα μακρό και τα επαναχρησιμοποιήσιμα πρότυπα υπολογιστικών φύλλων για τις επιχειρηματικές ροές εργασίας.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Δημιουργία προτύπων Excel με μακρό από το Word
+- Επιχειρηματική αναφορά με αυτοματοποίηση
+- Ακαδημαϊκές και ερευνητικές ροές εργασίας χρησιμοποιώντας μακρό
+- Δημιουργία προτύπων υπολογιστικών φύλλων με μακρό
+- Δομημένη αναφορά επιχειρήσεων και κυβερνητικών οργανισμών
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες διαδικασίες προτύπων Word-to-XLTM
+- Αυτοματοποίηση ροών εργασίας με μακρό
+- Παραγωγή πακέτων επαναχρησιμοποιήσιμων προτύπων με μακρό
+- Επιχειρηματική αναφορά και ροές εργασίας αυτοματοποίησης
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

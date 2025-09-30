@@ -61,7 +61,26 @@ Trong khi chuyển đổi tệp POWERPOINT sang XLS, bạn cũng có thể thêm
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang XLS** cho phép các slide được xuất dưới dạng **các bảng tính Excel cũ từ năm 1997 đến 2003**, hỗ trợ tương thích với các hệ thống bảng tính cũ hơn.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tương thích với các bảng tính cũ  
+- Lưu trữ các bảng và biểu đồ trình bày  
+- Báo cáo doanh nghiệp trong các định dạng Excel cũ hơn  
+- Chia sẻ dữ liệu đa nền tảng  
+- Chuẩn bị báo cáo có cấu trúc cho các hệ thống cũ hơn
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Chuyển đổi nhiều slide sang XLS một cách tự động  
+- Tích hợp với quy trình làm việc báo cáo cũ  
+- Trích xuất tự động các bảng trình bày  
+- Lưu trữ dữ liệu có cấu trúc
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

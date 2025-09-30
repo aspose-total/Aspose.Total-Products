@@ -61,7 +61,24 @@ Depois de converter WORD para XLTM, o [Aspose.Cells for Java](https://products.a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para XLTM** permite a transformação de documentos do Word em arquivos **Modelo do Excel Habilitado para Macro (XLTM)**, permitindo automação, macros e modelos de planilhas reutilizáveis para fluxos de trabalho empresariais.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Criar modelos de Excel habilitados para macro a partir do Word
+- Relatórios empresariais com automação
+- Fluxos de trabalho acadêmicos e de pesquisa usando macros
+- Geração de planilhas habilitadas para macro orientadas por modelo
+- Relatórios estruturados corporativos e governamentais
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines de modelos automatizados de Word para XLTM
+- Automação de fluxo de trabalho orientada por macro
+- Geração em lote de modelos reutilizáveis habilitados para macro
+- Relatórios e fluxos de trabalho de automação de nível empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

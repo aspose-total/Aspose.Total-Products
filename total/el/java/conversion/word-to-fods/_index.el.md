@@ -61,7 +61,26 @@ otherformats: XLTM XLS FODS XLT TSV XLAM EXCEL SXC ODS XLSM XLSX DIF XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε FODS** επιτρέπει τη δημιουργία **Flat OpenDocument Spreadsheet (FODS) αρχείων** από περιεχόμενο Word, χρήσιμη για τη φορητότητα δεδομένων, προηγμένες ροές εργασίας υπολογιστικού φύλλου και τη διατήρηση συμβατότητας σε οικοσυστήματα OpenDocument.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Μετατροπή πινάκων Word σε μορφές έτοιμες για υπολογιστικό φύλλο
+- Συνεργασία με σουίτες γραφείου OpenDocument
+- Επιχειρησιακή αναφορά χρησιμοποιώντας τυποποιημένες μορφές
+- Προετοιμασία ακαδημαϊκών δεδομένων σε ανοικτές μορφές
+- Αρχειοθέτηση δομημένων δεδομένων σε κυβερνητικούς ή εταιρικούς αποθετηρίους
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Σωληνώσεις μετατροπής παρτίδων Word σε FODS
+- Αυτοματοποιημένη δημιουργία υπολογιστικών φύλλων με βάση έγγραφα
+- Ενσωμάτωση με πλατφόρμες ανάλυσης ανοικτού κώδικα
+- Ροές εργασίας δομημένης αναφοράς βασισμένες σε FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

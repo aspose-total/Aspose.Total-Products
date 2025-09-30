@@ -57,7 +57,25 @@ Met behulp van de API kunt u ook de uitgevoerde DICOM-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PDF naar DICOM** is essentieel voor de gezondheidszorgsector waar medische beeldvorming en klinische documentatie geïntegreerd moeten worden. Dit zorgt ervoor dat **PDF-medische rapporten** kunnen worden omgezet in **DICOM-formaat voor PACS-servers**, radiologische workflows en langdurige archivering in ziekenhuizen.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Integratie van medische rapporten in DICOM-beeldvormingssystemen  
+- PDF naar DICOM conversie voor **radiologie- en cardiologierapporten**  
+- Archivering en naleving van ziekenhuis PACS-servers  
+- Delen van gestructureerde medische gegevens tussen systemen  
+- Gestandaardiseerd beheer van patiëntendossiers  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde pipelines voor **PDF naar DICOM medische beeldvorming**  
+- Batchconversie van PDF-scans naar DICOM-archieven  
+- Integratie van ziekenhuis EMR/EHR met PDF-naar-DICOM-workflows  
+- Enterprise medische beeldvormingsautomatisering voor naleving  
+- Veilige, geautomatiseerde overdracht van klinische gegevens  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

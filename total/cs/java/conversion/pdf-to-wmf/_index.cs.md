@@ -57,7 +57,27 @@ Pomocí API můžete také otočit výstupní obrázek WMF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **PDF na WMF** nebo **PDF na WMZ** umožňuje vektorovou grafiku z PDF souborů používat v **aplikacích pro Windows**, prezentacích a škálovatelných ilustracích pro podniky, vládu a pracovní postupy designu.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vkládání vektorové grafiky z PDF do aplikací balíku Office
+- Vytváření prezentací a marketingových materiálů
+- Škálovatelné diagramy a ilustrace
+- Grafika dokumentů pro podniky a vládu
+- Ukládání komprimované vektorové formátu pomocí WMZ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **potrubí pro převod PDF na WMF/WMZ**
+- Dávkové zpracování vektorové grafiky z PDF
+- Integrace s prezentacemi a pracovními postupy kanceláře
+- Automatizace grafiky pro podniky pro publikace
+- Automatizace ukládání a opětovného použití škálovatelné vektorové grafiky
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

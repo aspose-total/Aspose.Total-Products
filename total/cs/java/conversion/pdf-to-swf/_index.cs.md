@@ -121,7 +121,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na SWF (Flash)** je užitečný pro vytváření **interaktivního, webem připraveného obsahu** z PDF dokumentů. Tento formát je vhodný pro prezentace, moduly eLearningu a online marketingové materiály.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- eLearning a obsah online kurzů
+- Interaktivní prezentace PDF pro web
+- Marketingové snímky a propagace
+- Archivace PDF založených multimédií pro přehrávání na webu
+- Digitální brožury a interaktivní manuály
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **potrubí PDF-to-SWF**
+- Hromadný převod pro online školicí moduly
+- Integrace s platformami LMS pro eLearning
+- Pracovní postupy pro web s výstupem SWF
+- Škálovatelná automatizace interaktivního obsahu PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

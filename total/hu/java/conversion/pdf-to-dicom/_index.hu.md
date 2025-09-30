@@ -57,7 +57,27 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF to DICOM** konvertálása létfontosságú az egészségügyi szektor számára, ahol az orvosi képalkotás és a klinikai dokumentáció integrálása szükséges. Ez biztosítja, hogy a **PDF orvosi jelentések** átalakíthatók **DICOM formátummá a PACS szerverek**, a radiológiai munkafolyamatok és a hosszú távú kórházi archiválás számára.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Orvosi jelentések integrálása a DICOM képalkotó rendszerekbe
+- PDF to DICOM konverzió radiológiai és kardiológiai jelentésekhez
+- Kórházi PACS szerver archiválás és megfelelőség
+- Strukturált orvosi adatok megosztása rendszerek között
+- Szabványosított páciensrekord kezelés
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált csővezetékek **PDF to DICOM orvosi képalkotás** céljából
+- PDF szkennelt dokumentumok tömeges átalakítása DICOM archívumokká
+- Kórházi EMR/EHR integráció PDF-to-DICOM munkafolyamatokkal
+- Vállalati orvosi képalkotás automatizálása a megfelelőség érdekében
+- Klinikai adatok biztonságos, automatizált átvitele
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

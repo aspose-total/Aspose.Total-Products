@@ -61,7 +61,26 @@ otherformats: XLTM XLSB XLSM SXC XLTX DIF ODS TSV XLS MHTML MARKDOWN FODS XLT XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى XLAM** يسمح بتصدير الشرائح إلى **إضافات Excel ممكّنة للماكرو**, مما يتيح الأتمتة والوظائف القابلة لإعادة الاستخدام المستمدة من بيانات العرض.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء إضافات Excel مع ماكرو مشتقة من العروض التقديمية
+- أتمتة وظائف التقارير بناءً على الشرائح
+- تكامل سير العمل الشركاتي مع الأتمتة في Excel
+- مكتبات ماكرو قابلة لإعادة الاستخدام من بيانات العرض
+- تبسيط المهام المتكررة في جداول البيانات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- توليد آلي لإضافات XLAM من العروض التقديمية
+- سير عمل ماكرو من الشرائح إلى Excel بشكل دفعي
+- تكامل مع خطوط أنابيب تقارير الشركات
+- أتمتة مشتقة من الشرائح في Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

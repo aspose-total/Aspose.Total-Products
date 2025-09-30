@@ -135,7 +135,27 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertering av **PDF till XAML** hjälper utvecklare och företag att generera **Extensible Application Markup Language-filer** från dokumentlayouter. Genom att använda onlineverktyg för att konvertera PDF till XAML och automatiserade processer kan företag omvandla PDF-filer till UI-resurser för WPF-applikationer och digital publicering.
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga användningsområden" %}}
+- UI-prototyper från PDF-layouter
+- Dokumentation för design av företagsappar
+- Generering av resurser för WPF-applikationer
+- Interaktiv programvarudokumentation
+- Digital publicering i strukturerad markup
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+- Automatiserade PDF-till-XAML-processer för UI-ramverk
+- Masskonvertering av PDF till XAML för företag
+- Integrering av arbetsflöden för designdokumentation
+- Applikationsprototyper från PDF-arkiv
+- Automatisering av dokumentation för företagsprogramvara
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

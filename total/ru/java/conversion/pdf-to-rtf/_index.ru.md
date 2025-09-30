@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в RTF** позволяет компаниям создавать **документы в формате Rich Text**, совместимые с различными платформами. С помощью онлайн-инструментов и автоматизации PDF в RTF предприятия могут обеспечить плавное редактирование, обмен и интеграцию с устаревшими системами по всему миру.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Обмен документами между платформами  
+- Совместимость с устаревшими системами  
+- Переносимость юридической документации  
+- Подача академических работ в стандартных форматах  
+- Архивирование для долгосрочного доступа
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры PDF в RTF для обмена документами  
+- Массовое создание RTF из архивов PDF  
+- Рабочие процессы с RTF на уровне предприятия  
+- Интеграция устаревших приложений с RTF  
+- Автоматизация межсистемной совместимости
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

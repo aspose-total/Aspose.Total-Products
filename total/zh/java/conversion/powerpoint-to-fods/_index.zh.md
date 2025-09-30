@@ -61,7 +61,26 @@ otherformats: XLSB XLSM XLAM DIF FODS XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PowerPoint转换为FODS**允许将演示文稿表格导出为**Flat OpenDocument Spreadsheet**，用于分析、数据交换和报告。
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+- 将幻灯片表格数据提取到电子表格中
+- 与OpenDocument工具进行跨平台数据共享
+- 企业数据分析和报告
+- 结构化幻灯片数据的存档
+- 从演示文稿准备数字或表格报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 将表格自动提取为FODS格式
+- 与分析管道集成
+- 批量将幻灯片转换为电子表格
+- 数据驱动的工作流自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

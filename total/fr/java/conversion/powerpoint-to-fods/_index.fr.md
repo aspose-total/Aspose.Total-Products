@@ -61,7 +61,24 @@ Lors de la conversion du fichier POWERPOINT en FODS, vous pouvez également ajou
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PowerPoint en FODS** permet d'exporter les tableaux de présentation dans un **tableur OpenDocument plat**, utile pour l'analyse, l'échange de données et les rapports.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Extraction des données des tableaux de diapositives dans des feuilles de calcul  
+- Partage de données multiplateforme avec des outils OpenDocument  
+- Analyse et reporting des données d'entreprise  
+- Archivage des données structurées des diapositives  
+- Préparation de rapports numériques ou tabulaires à partir des présentations
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Extraction automatisée des tableaux au format FODS  
+- Intégration avec des pipelines d'analyse  
+- Conversion en lot de diapositives en feuilles de calcul  
+- Automatisation des flux de travail basés sur les données
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

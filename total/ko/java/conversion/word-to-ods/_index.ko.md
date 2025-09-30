@@ -61,7 +61,27 @@ WORD를 ODS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 ODS로 변환**
+Word 콘텐츠를 **OpenDocument Spreadsheet (ODS) 형식**으로 내보내어 구조화된 표 데이터를 스프레드시트 분석 및 협업 워크플로에 활용할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 분석을 위한 Word 표를 ODS로 내보내기
+- OpenDocument 형식에서의 상호 운용 가능한 보고서
+- 기업 및 정부 스프레드시트 워크플로
+- 학술 데이터 처리 및 보관
+- 구조화된 표 데이터를 현대적인 스프레드시트 시스템으로 이관
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-ODS 변환 파이프라인
+- 기업용 구조화된 보고서
+- 스프레드시트 기반의 워크플로 자동화
+- 템플릿 기반의 문서를 스프레드시트로 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

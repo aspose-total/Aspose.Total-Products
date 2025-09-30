@@ -47,7 +47,27 @@ otherformats: SXC TSV DIF EXCEL XLT XLTX XLSM MD FODS XLSB TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PDF σε ODS** επιτρέπει τη μετατροπή **αναφορών PDF σε μορφή ανοικτού φύλλου υπολογιστή OpenDocument**, εξασφαλίζοντας προσβασιμότητα και ευελιξία για ανάλυση δεδομένων, οικονομικές αναφορές και επιστημονικά σύνολα δεδομένων.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Οικονομικές καταστάσεις και λογιστικά αρχεία
+- Συστήματα αναφοράς υψηλής επιχειρηματικής κλίμακας
+- Πρωτοβουλίες κοινοποίησης δεδομένων της κυβέρνησης
+- Δεδομένα ακαδημαϊκής έρευνας
+- Δομημένη αποθήκευση δεδομένων μακροπρόθεσμης διάρκειας
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Ροές εξαγωγής δεδομένων από PDF σε ODS
+- Αυτοματοποιημένες διαδικασίες μετατροπής για οικονομικά και ερευνητικά στοιχεία
+- Δημιουργία φύλλου υπολογιστή με βάση JSON/XML
+- Αυτοματισμός αναφοράς επιχειρήσεων
+- Κλιμακούμενη ψηφιακή μετασχηματιστική διαδικασία δεδομένων
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

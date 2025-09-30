@@ -61,7 +61,26 @@ otherformats: SXC XLS ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น XLS** ช่วยให้ตาราง Word สามารถถูกส่งออกเป็นรูปแบบ **Excel Spreadsheet (XLS)** เวอร์ชันเก่าไว้เพื่อการรายงานขององค์กรและการวิเคราะห์สเปรดชีต
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- การย้ายตาราง Word เข้าสู่รูปแบบ Excel เวอร์ชันเก่า
+- การรายงานขององค์กรและการวิเคราะห์ทางการเงิน
+- การเตรียมข้อมูลทางวิชาการและวิจัย
+- การผสมเอกสารของรัฐบาล
+- การสร้างสเปรดชีตโครงสร้างตามแม่แบบ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- การสร้างกระแสงาน Word-to-XLS แบบจำนวนมากโดยอัตโนมัติ
+- การสร้างแผ่น Excel โดยใช้เทมเพลต
+- การอัตโนมัติในการรายงานเพื่อองค์กร
+- กระบวนการการผสมเข้ากับระบบเก่า
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

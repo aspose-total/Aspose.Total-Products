@@ -53,7 +53,26 @@ Med hjälp av API:t kan du också utföra POWERPOINT-fil till DOTX-konvertering 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertering av **PowerPoint till DOTX** möjliggör export av slides till **moderna Word-mallformat**, perfekt för att skapa återanvändbara och standardiserade mallar utan makron.
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+- Skapande av moderna mallar för företagsdokumentation
+- Standardiserat material för utbildning
+- Återanvändbara projekt- eller rapportmallar
+- Arkivering av presentationer som mallar
+- Teamarbete på dokument med mallar
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+- Automatisk konvertering av slide till mall
+- Mallgenereringspipelines för företagsanvändning
+- Integrering av arbetsflöden med innehållshanteringssystem
+- Automatisering av repetitiva rapport- eller projektdokument
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

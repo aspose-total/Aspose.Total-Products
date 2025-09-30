@@ -47,7 +47,27 @@ PDFファイルをXLTMに変換するときに、出力XLTMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをXLTMに変換**することで、**マクロを有効にしたExcelテンプレート**を作成できます。自動化されたPDFからXLTMへの変換ツールは、静的なレイアウトと組み込みの自動化を組み合わせ、金融、研究、エンタープライズのシナリオに最適です。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- マクロを有効にした金融テンプレート  
+- 自動化された研究レポーティング  
+- エンタープライズレベルのワークフロー自動化  
+- 規制遵守レポーティング  
+- データ駆動型のExcelテンプレート再利用
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- スケーラブルなレポーティングのためのPDFからXLTMへのパイプライン  
+- 自動化されたマクロを有効にしたExcelテンプレートの作成  
+- エンタープライズ向けのバッチテンプレート変換  
+- ワークフロー駆動型のExcel自動化  
+- AIによるXLTM生成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

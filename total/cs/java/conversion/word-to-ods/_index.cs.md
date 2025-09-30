@@ -61,7 +61,26 @@ Po převodu WORD do ODS vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **WORDU na ODS** umožňuje exportovat obsah Wordu do formátu **OpenDocument Spreadsheet (ODS)**, čímž se strukturovaná tabulková data stávají přístupnými pro analýzu tabulek a spolupracovní pracovní postupy.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Exportování tabulek z Wordu do ODS pro analytiku
+- Interoperabilní reportování ve formátech OpenDocument
+- Korporátní a vládní pracovní postupy se tabulkami
+- Zpracování a archivace akademických dat
+- Migrace strukturovaných tabulkových dat do moderních tabulkových systémů
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované konverzní procesy Wordu na ODS
+- Strukturované reportování na úrovni podniku
+- Automatizace pracovních postupů řízených tabulkami
+- Generování dokumentů do tabulek na základě šablon
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

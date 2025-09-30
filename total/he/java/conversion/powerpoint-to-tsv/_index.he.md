@@ -102,7 +102,26 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF CSV XLT MARKDOWN XLSX SXC X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל־TSV** מאפשרת ייצוא שקופיות כערכים מופרדים בטאב, ומקלה על עיבוד נתונים מובנים ועל תאימות גליוני נתונים בין פלטפורמות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- חילוץ נתונים טבלאיים לצורכי ניתוח
+- שיתוף נתונים בין פלטפורמות
+- אינטגרציה עם כלים לעיבוד נתונים מקוריים ומודרניים
+- ארכיבה של תוכן מובנה ממצגות
+- הכנת דוחות מובנים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות עיבוד אוטומטיים של שקופיות ל־TSV
+- אינטגרציה עם זרימות עבודה לניתוח עסקי
+- אוטומציה של דיווחים המבוססים על נתונים
+- הכנת גליוני נתונים למערכת מורשית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

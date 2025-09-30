@@ -53,7 +53,26 @@ otherformats: TEXT DOTX DOCMX WORDML FLATOPC DOT ODT RTF WORD DOCM OTT DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น DOCM** ช่วยให้สามารถส่งออกภาพนิทัยเข้าสู่ **เอกสาร Word ที่เปิดใช้งานมาโคร**, รักษาการอัตโนมัติและปฏิสัมพันธ์ภายในสภาพแวดล้อมของเอกสาร
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การรักษามาโครเมื่อถ่ายโอนข้อมูลการนำเสนอ  
+- สร้างรายงานแบบแอ็กทีฟพร้อมสคริปต์อัตโนมัติ  
+- แม่แบบองค์กรพร้อมฟังก์ชันฝัง  
+- รายงานการปฏิบัติตามกฎหมายพร้อมมาโครที่กำหนดไว้  
+- เอกสารทางการศึกษาหรือธุรกิจที่ต้องการเนื้อหาแบบไดนามิก
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- ท่อการแปลงอัตโนมัติที่รักษามาโคร  
+- การสร้างเอกสารมาโครจาก JSON/การขับเคลื่อนภาพนิทาย  
+- กระบวนการทำงานขององค์กรด้วยแม่แบบที่เปิดใช้งานมาโคร  
+- การสร้างรายงานโดยอัตโนมัติจากภาพนิทาย
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

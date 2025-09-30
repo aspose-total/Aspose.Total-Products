@@ -103,7 +103,26 @@ otherformats: PPTX POTX PPTM PPSX PPT PPS PPSM POWERPOINT POTM ODP CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **WORD у POT** дозволяє перетворювати документи Word у файли **шаблонів PowerPoint (POT)**, що дозволяє використовувати шаблони презентацій безпосередньо з вмісту Word.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+- Створення стандартизованих шаблонів PowerPoint звітів у Word
+- Генерація корпоративних шаблонів презентацій
+- Повторне використання слайдів для академічних та дослідницьких цілей
+- Шаблони для корпоративних брифінгів та звітів
+- Робочий процес на основі шаблонів для презентацій
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизоване створення шаблонів Word у POT
+- Пакетне перетворення документів Word у шаблони презентацій
+- Генерація слайд-дек за допомогою шаблонів
+- Автоматизовані робочі процеси презентацій корпоративного рівня
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

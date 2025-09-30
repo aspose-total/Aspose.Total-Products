@@ -47,7 +47,27 @@ otherformats: SXC TSV DIF EXCEL XLT XLTX XLSM MD FODS XLSB TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в ODS** позволяет преобразовать **PDF-отчеты в формат электронных таблиц OpenDocument**, обеспечивая доступность и гибкость для анализа данных, финансовых отчетов и научных наборов данных.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Финансовые отчеты и бухгалтерская отчетность
+- Системы отчетности корпоративного уровня
+- Инициативы по обмену данными в государственных структурах
+- Наборы данных для академических исследований
+- Долгосрочное хранение структурированных данных
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Рабочие процессы извлечения данных из PDF в ODS
+- Автоматизированные конвейеры преобразования для финансов и исследований
+- Создание электронных таблиц на основе JSON/XML
+- Автоматизация отчетности корпоративного уровня
+- Масштабируемое преобразование цифровых данных
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

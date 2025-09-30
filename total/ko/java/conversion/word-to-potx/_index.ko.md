@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 WORD 문서를 POTX로 변환할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 POTX로 변환**하면 Word 콘텐츠를 **PowerPoint 템플릿 (POTX) 파일**로 변환하여 기업 및 학술용으로 재사용 가능한 매크로 없는 프레젠테이션 템플릿을 제공합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 재사용 가능한 매크로 없는 PowerPoint 템플릿 생성
+- 표준화된 기업용 프레젠테이션 템플릿
+- 학술 및 연구용 슬라이드 준비
+- 템플릿 기반의 기업 보고서 및 브리핑
+- 매크로 없는 슬라이드를 위한 워크플로 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-POTX 템플릿 생성
+- 템플릿 재사용을 위한 일괄 변환
+- 템플릿 기반의 슬라이드 자동화 워크플로
+- 기업용 프레젠테이션 파이프라인
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

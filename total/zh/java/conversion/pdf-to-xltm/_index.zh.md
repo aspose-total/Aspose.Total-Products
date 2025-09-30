@@ -49,7 +49,27 @@ otherformats: ODS EXCEL XLTM TXT XLTX XLSB XLAM XLSM SXC TSV MD FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为XLTM**可创建**带宏的Excel模板**，用于重复工作流程。自动化PDF转XLTM工具将静态布局与嵌入式自动化结合，非常适用于金融、研究和企业场景。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 带宏的财务模板
+- 自动化研究报告
+- 企业级工作流自动化
+- 法规合规报告
+- 数据驱动的Excel模板重用
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 可扩展报告的PDF到XLTM管道
+- 自动化带宏的Excel模板创建
+- 企业批量模板转换
+- 工作流驱动的Excel自动化
+- AI增强的XLTM生成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

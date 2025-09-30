@@ -121,7 +121,27 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF'yi ODP'ye dönüştürmek**, düzenlenebilir sunum dosyaları oluşturmak için **OpenDocument Presentation formatında** hayati öneme sahiptir. Bu, iş sunumları, eğitim slaytları ve açık standart dosya uyumluluğunun önemli olduğu işbirlikçi ortamlar için son derece faydalıdır.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+- Eğitim ve akademik slayt paylaşımı
+- İş toplantıları ve açık standart sunumlar
+- Hükümet ve STK belgeleri
+- LibreOffice Impress kullanarak işbirlikçi projeler
+- Sunum içeriğinin uzun vadeli arşivlenmesi
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Kurumlar için PDF'den ODP'ye otomatik boru hatları
+- İşletmeler için sunumların toplu işlenmesi
+- OpenDocument tabanlı iş akışı entegrasyonu
+- PDF'lerden otomatik sunum oluşturma
+- Ölçeklenebilir dijital sunum arşivleri
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

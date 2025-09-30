@@ -130,7 +130,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke ODT** penting untuk menghasilkan dokumen **OpenDocument Text** dari PDF statis. Ini memastikan fleksibilitas pengeditan di LibreOffice Writer dan pengolah kata open-source lainnya, menjadikannya berharga untuk pemerintah, bisnis, dan penerbitan akademis.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Dokumentasi pemerintah dan hukum
+- Penyimpanan kebijakan perusahaan dalam format terbuka
+- Penerbitan riset akademis
+- Penulisan dan pengeditan kolaboratif
+- Pengarsipan dokumen teks jangka panjang
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa konten otomatis PDF ke ODT
+- Sistem manajemen dokumen dengan integrasi ODT
+- Alur kerja penerbitan otomatis
+- Konversi dokumentasi perusahaan dalam skala besar
+- Pengolahan batch untuk pemerintah dan LSM
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

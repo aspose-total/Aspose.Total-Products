@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett WORD dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **WORD to PPSM** konvertálása lehetővé teszi a **Makróval ellátott PowerPoint bemutató (PPSM) fájlok** létrehozását Word dokumentumokból, interaktív prezentációk készítését automatizálási képességekkel.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Makróval ellátott bemutatók készítése Word tartalomból
+- Vállalati vagy vállalati interaktív prezentációk
+- Akadémiai kutatási és oktatási diavetítések
+- Sablonvezérelt interaktív prezentációs munkafolyamatok
+- Kormányzati és szervezeti tájékoztató automatizálás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált Word-to-PPSM diavetítési csatornák
+- Makróval ellátott bemutatók tömeges létrehozása
+- Sablonvezérelt interaktív diavetítés automatizálása
+- Vállalati szintű makróval ellátott prezentációs munkafolyamatok
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,27 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh PSD đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang PSD** cho phép các nhà thiết kế biến đổi **đồ họa PDF thành định dạng Adobe Photoshop**, cho phép chỉnh sửa dựa trên lớp và cải thiện quy trình làm việc sáng tạo.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Chỉnh sửa minh họa PDF trong Photoshop
+- Chuyển đổi đồ họa thông tin và tài sản tiếp thị
+- Quy trình thiết kế bảo tồn lớp cho các nhóm sáng tạo
+- Chuẩn bị nội dung PDF cho các chiến dịch truyền thông truyền thống
+- Lưu trữ đồ họa PDF dưới dạng PSD có thể chỉnh sửa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Chuyển đổi hàng loạt **PDF sang PSD tự động**
+- Tích hợp quy trình thiết kế cho các studio sáng tạo
+- Xử lý PDF sang Photoshop dựa trên API
+- Các đường ống tự động hóa đồ họa doanh nghiệp
+- Trích xuất lớp tự động từ tệp PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

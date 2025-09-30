@@ -53,7 +53,26 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 DOC로 변
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 DOC로 변환**하면 프레젠테이션 콘텐츠를 **편집 가능한 워드 문서**로 원활하게 변환할 수 있어, 보고서, 문서 또는 협업 편집을 위해 슬라이드를 재활용하기가 더 쉬워집니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션 슬라이드를 텍스트 보고서로 재활용  
+- 워드에서의 협업 편집 및 주석  
+- 공식 회의록 또는 보고서 작성  
+- 워드 문서로 프레젠테이션 보관  
+- 슬라이드에서 파생된 교육 자료
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 프레젠테이션을 워드로 자동 일괄 변환  
+- 보고 파이프라인 통합  
+- PowerPoint 기반 문서 워크플로우  
+- 다중 팀을 위한 기업 콘텐츠 재활용
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

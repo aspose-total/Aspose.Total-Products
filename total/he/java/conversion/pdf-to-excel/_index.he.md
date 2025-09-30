@@ -102,7 +102,27 @@ otherformats: XLTM XLAM XLTX SXC DIF MD XLSB XLT FODS TSV CSV TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-Excel (XLS/XLSX)** היא אחת מצרכי העסקים הנפוצים ביותר, המאפשרת גישה לגיליונות מובנים ישירות מדוחות. ממירי PDF ל-Excel מקוונים וצינורות אוטומטיים מפתחים נתונים פיננסיים, אקדמיים ועסקיים לניתוח אינטראקטיבי.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- דיווחים פיננסיים וביקורת
+- סט נתונים למחקר אקדמי
+- ניהול מלאי ולוגיסטיקה
+- דיווחי נתונים לבינה עסקית
+- דיווחים כלכליים מממשלתיים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- זרימות עבודה אוטומטיות מ-PDF ל-Excel לעסקים
+- חילוץ אקסל צמוד מ-PDF סרוקים
+- המרת PDF לגיליון אלקטרוני באמצעות AI
+- צינורות תקינות פיננסיות בשימוש ב-Excel
+- אינטגרציה בזמן אמת עם קבצי Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

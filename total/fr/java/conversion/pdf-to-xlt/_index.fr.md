@@ -47,7 +47,25 @@ Lors de la conversion du fichier PDF en XLT, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en XLT** aide les entreprises à créer des fichiers de modèle **Excel** qui peuvent être réutilisés dans les processus de reporting et de saisie de données. Les pipelines automatisés de PDF en XLT soutiennent la cohérence de la marque et les formats de données standardisés.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Modèles de reporting d'entreprise
+- Formulaires de recherche universitaire
+- Modèles financiers gouvernementaux
+- Feuilles de calcul de gestion des stocks
+- Tableaux de bord d'entreprise standardisés
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines de modèles PDF vers XLT pour les entreprises
+- Conversion automatisée de formulaires en modèles Excel
+- Génération de modèles en lot à partir d'archives PDF
+- Automatisation des flux de travail pour les feuilles de calcul d'entreprise
+- Réutilisation de modèles à l'échelle de l'entreprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

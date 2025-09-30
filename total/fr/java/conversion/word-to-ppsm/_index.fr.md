@@ -54,7 +54,24 @@ L'API vous permet également de convertir des documents WORD protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **WORD en PPSM** permet de créer des fichiers **Macro-Enabled PowerPoint Show (PPSM)** à partir de documents Word, permettant des présentations interactives avec des capacités d'automatisation.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Présentations avec macros à partir de contenu Word
+- Présentations interactives pour entreprises ou organisations
+- Diaporamas pour la recherche académique et la formation
+- Flux de travail de présentation interactive basé sur des modèles
+- Automatisation des briefings gouvernementaux et organisationnels
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines de diapositives Word vers PPSM automatisés
+- Création en lot de présentations avec macros
+- Automatisation de diapositives interactives basée sur des modèles
+- Flux de travail de présentation avec macros de qualité entreprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

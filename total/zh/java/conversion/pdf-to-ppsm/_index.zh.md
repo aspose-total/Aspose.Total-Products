@@ -121,7 +121,27 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 PPSM** 可以直接从 PDF 文件创建 **带宏的 PowerPoint 幻灯片放映文件**。这样可以使演示文稿立即以幻灯片模式查看，同时保留用于培训、报告和业务自动化的 **交互式宏**。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 准备好播放的带宏幻灯片放映
+- 互动式企业培训模块
+- 自动化的业务报告演示
+- 带有用于测验或模拟的宏的教育讲座
+- 具有动态功能的活动和营销幻灯片
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 企业的自动化 **PDF 到 PPSM 管道**
+- 批量将 PDF 培训材料转换为互动式演示
+- 与 LMS 和电子学习平台集成
+- 用于 PPSM 格式的自动化报告的企业工作流程
+- 从 PDF 中生成可扩展的带宏幻灯片放映
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

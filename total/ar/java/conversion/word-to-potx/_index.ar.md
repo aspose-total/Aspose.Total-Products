@@ -54,7 +54,26 @@ otherformats: POTX POWERPOINT PPS PPTX PPT PPSM POT PPTM PPSX POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى POTX** يمكن أن يسمح بتحويل محتوى Word إلى ملفات **PowerPoint Template (POTX)**، مما يوفر قوالب عروض تقديمية قابلة لإعادة الاستخدام وخالية من الماكرو للاستخدام في المؤسسات والأغراض الأكاديمية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء قوالب عروض تقديمية قابلة لإعادة الاستخدام وخالية من الماكرو
+- قوالب عروض تقديمية موحدة للشركات
+- إعداد شرائح أكاديمية وبحثية
+- تقارير شركات وإجتماعات مدعومة بالقوالب
+- أتمتة سير العمل للشرائح بدون ماكرو
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- إنشاء قوالب Word-to-POTX تلقائيًا
+- تحويل دفعي لإعادة استخدام القوالب
+- سير العمل الموجه بالقوالب لأتمتة الشرائح
+- خطوط أنابيب العروض التقديمية عالية المستوى للشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

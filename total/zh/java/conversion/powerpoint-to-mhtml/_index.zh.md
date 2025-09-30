@@ -61,7 +61,26 @@ otherformats: FODS ODS XLAM XLSX XLSM SXC MARKDOWN XLSB DIF MHTML XLTX XLS TSV E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 MHTML** 可以将幻灯片导出为 **Web 存档格式**，将 HTML 内容和资源合并到单个文件中，便于共享和发布。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 为 Web 发布存档演示文稿
+- 将幻灯片分享为独立的网页
+- 跨平台演示文稿查看
+- 企业内部网内容分发
+- 通过 Web 存档分享教育材料
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动转换到 MHTML 的流水线
+- 批量幻灯片到 Web 存档工作流程
+- 与内容管理系统集成
+- 适用于 Web 的报告自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na XLTM můžete také přidat vodoznak do výs
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na XLTM** umožňuje snadné vytváření **makro-povolených šablon Excelu**, které uchovávají makra pro opakované automatizované hlášení a podnikové pracovní postupy.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Makro-povolené opakovaně použitelné šablony Excelu  
+- Standardizované hlášení s vestavěnou automatizací  
+- Archivace prezentací jako makro-povolených šablon  
+- Interaktivní projektové šablony pro podnikové využití  
+- Vytváření vzdělávacích a školicích šablon
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované konverzní toky ze slidů do XLTM  
+- Vytváření knihoven podnikových šablon s makry  
+- Hromadná generace makro-povolených šablon  
+- Šablonami řízené automatizované hlášení
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

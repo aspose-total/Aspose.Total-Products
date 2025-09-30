@@ -61,7 +61,26 @@ Saat mengonversi file POWERPOINT ke EXCEL, Anda juga dapat menambahkan tanda air
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PowerPoint ke EXCEL** memungkinkan slide diekspor ke **lembar Excel**, sehingga lebih mudah untuk menganalisis, melaporkan, dan berbagi data slide dalam format spreadsheet.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Mengubah tabel dan grafik presentasi ke dalam spreadsheet
+- Pelaporan dan analitika perusahaan
+- Mengarsipkan data slide untuk penggunaan terstruktur
+- Pengeditan data kolaboratif
+- Menyiapkan laporan numerik atau teks dari slide
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa konversi slide-ke-Excel otomatis
+- Pengolahan batch presentasi ke dalam spreadsheet
+- Integrasi dengan sistem analitika dan pelaporan perusahaan
+- Otomatisasi alur kerja berbasis slide
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

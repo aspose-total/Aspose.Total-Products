@@ -61,7 +61,26 @@ POWERPOINT 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 TSV로 변환**하면 **탭으로 구분된 값**으로 슬라이드를 내보낼 수 있어 구조화된 데이터 처리와 크로스 플랫폼 스프레드시트 호환성을 용이하게 합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 분석을 위한 표 데이터 추출
+- 크로스 플랫폼 데이터 공유
+- 레거시 및 최신 스프레드시트 도구 통합
+- 프레젠테이션에서 구조화된 콘텐츠 아카이빙
+- 구조화된 보고서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 일괄 슬라이드-TSV 파이프라인
+- 기업 분석 워크플로우 통합
+- 데이터 주도형 보고서 자동화
+- 레거시 시스템 스프레드시트 준비
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

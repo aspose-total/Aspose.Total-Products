@@ -61,7 +61,26 @@ POWERPOINTファイルをSXCに変換するときに、出力SXCファイル形�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをSXCに変換**することで、表や構造化されたスライドデータを**StarOffice Calcスプレッドシート形式**にエクスポートでき、レガシー互換性とデータ分析が可能になります。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- スプレッドシート用のスライド表データの抽出
+- 古いオフィススイート向けのレガシースプレッドシート互換性
+- データ駆動型のレポートと分析
+- プレゼンテーションからの構造化コンテンツのアーカイブ
+- スライドからの数値レポートの作成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化されたスライドからSXCへの表変換
+- 分析用のバッチ抽出パイプライン
+- 企業向けレポートシステムとの統合
+- レガシースプレッドシート生成のためのワークフロー自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

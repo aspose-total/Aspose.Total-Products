@@ -102,7 +102,26 @@ otherformats: CSV FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PowerPoint в SXC** дозволяє експортувати таблиці та структуровані дані слайдів у формат **StarOffice Calc Spreadsheet**, що забезпечує сумісність зі старими версіями та аналіз даних.
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+- Вилучення даних таблиць слайдів для електронних таблиць
+- Сумісність зі старими офісними пакетами для електронних таблиць
+- Звітність та аналіз на основі даних
+- Архівування структурованого контенту з презентацій
+- Підготовка числових звітів зі слайдів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизована конвертація слайдів у таблиці SXC
+- Пакетні процеси вилучення для аналітики
+- Інтеграція з системами корпоративної звітності
+- Автоматизація робочого процесу для створення старих електронних таблиць
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

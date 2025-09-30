@@ -61,7 +61,26 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 TSV** 可以将幻灯片导出为 **制表符分隔值**，便于结构化数据处理和跨平台电子表格兼容性。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 提取表格数据进行分析
+- 跨平台数据共享
+- 与传统和现代电子表格工具集成
+- 存档演示文稿中的结构化内容
+- 准备结构化报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化批量幻灯片到 TSV 管道
+- 与企业分析工作流集成
+- 数据驱动的报告自动化
+- 传统系统电子表格准备
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

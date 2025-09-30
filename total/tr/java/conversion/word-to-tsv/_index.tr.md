@@ -61,7 +61,26 @@ WORD'yi TSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD'ü TSV'ye dönüştürme**, Word'den tablo verilerinin **Tablo Ayırıcı Değerler (TSV)** formatına çıkarılmasını sağlar, bu da analitik, veritabanı sistemleri ve diğer yapılandırılmış veri uygulamaları ile uyumluluğu garanti eder.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Veri işleme için Word tablolarını dışa aktarma
+- Analitik ve veritabanı sistemleriyle entegrasyon
+- Kurumsal raporlama ve yapılandırılmış arşivleme
+- Akademik veya araştırma tablo verilerinin taşınması
+- Şablon odaklı tablo verisi çıkarma
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Otomatik Word'ten TSV'ye boruları
+- Analitik ve raporlama için toplu çıkarma
+- Yapılandırılmış belge iş akışları
+- Kurumsal ölçekli tablo verisi otomasyonu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

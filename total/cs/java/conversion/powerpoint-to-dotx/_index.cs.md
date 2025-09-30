@@ -53,7 +53,26 @@ Pomocí API můžete také provést převod POWERPOINT souboru na DOTX s vodozna
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu do formátu DOTX** umožňuje export snímků do **moderních šablon ve formátu Word**, ideální pro vytváření opakovaně použitelných a standardizovaných šablon bez maker.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření moderních šablon pro firemní dokumentaci  
+- Standardizované vzdělávací materiály  
+- Opakovaně použitelné šablony pro projekty nebo zprávy  
+- Archivace prezentací jako šablon  
+- Týmová spolupráce na dokumentech ve šablonách
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatický převod snímků do šablony  
+- Generování šablonových potrubí pro firemní použití  
+- Integrace pracovního postupu s systémy pro správu obsahu  
+- Automatizace opakovaných zpráv nebo dokumentů projektu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

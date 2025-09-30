@@ -129,7 +129,27 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertering av **PDF till OTT** möjliggör generering av **OpenDocument Text Template-filer**, vilket säkerställer standardisering i företags-, akademiska och offentliga dokumentationsprocesser.
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+- Standardiserade affärsdokumentmallar
+- Juridiska och offentliga policy-mallar
+- Ramverk för akademisk publicering
+- Mallar för NGO-kommunikation
+- Strukturerad skapande av företagsinnehåll
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- Automatiserade PDF-till-OTT-mallflöden
+- Dokumentationspipeliner av företagsklass
+- Automatisering av offentliga och juridiska dokument
+- Automatisering av akademisk publicering i stor skala
+- Skalbar batchmallbehandling
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,27 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz WMF z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PDF na WMF** lub **PDF na WMZ** pozwala na wykorzystanie grafiki wektorowej z plików PDF w **aplikacjach opartych na systemie Windows**, prezentacjach oraz skalowalnych ilustracjach do zastosowań w firmach, instytucjach rządowych oraz w procesach projektowych.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Osadzanie wektorowej grafiki PDF w aplikacjach biurowych
+- Tworzenie materiałów prezentacyjnych i marketingowych
+- Skalowalne diagramy i ilustracje
+- Grafika dokumentów firmowych i rządowych
+- Kompresowane przechowywanie formatu wektorowego za pomocą WMZ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane **potoki konwersji PDF na WMF/WMZ**
+- Przetwarzanie wsadowe wektorowej grafiki PDF
+- Integracja z prezentacjami i procesami biurowymi
+- Automatyzacja grafiki firmowej do publikacji
+- Automatyzacja przechowywania i ponownego wykorzystywania wektorów
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

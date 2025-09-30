@@ -53,7 +53,26 @@ APIを使用して、透かしを使用してPOWERPOINTファイルからOTTへ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをOTTに変換**すると、スライドを**OpenDocument Text Templates**としてエクスポートでき、標準化されたドキュメント用の再利用可能なテンプレートが作成できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- プレゼンテーションから再利用可能なテキストテンプレートを作成する
+- 標準化された企業や学術文書
+- テンプレートベースのレポーティングやプロジェクト提案
+- プレゼンテーション構造をテンプレートとしてアーカイブする
+- 教育やトレーニング用テンプレートの作成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- OpenDocumentテキストテンプレートの自動生成
+- 企業テンプレートライブラリのワークフロー統合
+- スライドを再利用可能なテンプレートに一括変換
+- テンプレート駆動のドキュメント自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

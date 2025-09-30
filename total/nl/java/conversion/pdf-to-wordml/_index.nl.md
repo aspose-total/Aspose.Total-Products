@@ -129,7 +129,27 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PDF naar WORDML** is belangrijk voor het produceren van **WordprocessingML (XML-gebaseerde Word-documenten)** vanuit PDF's. Online PDF naar WordML tools en automatisering zorgen voor gestructureerde, XML-compatibele documenten die klaar zijn voor archivering, publicatie en bedrijfsworkflows.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Gegevensuitwisseling tussen systemen
+- Opslag van bedrijfsdocumenten
+- Generatie van documenten op basis van sjablonen
+- Digitale archieven van de overheid
+- Gestructureerde academische publicatie
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde PDF-naar-WordML-pijplijnen voor gestructureerde rapportage
+- Generatie van XML-documenten uit PDF's
+- Batch WordML-workflows voor bedrijven
+- Integratie van digitale archieven met XML-formaten
+- Gestructureerde rapportage van bedrijfsniveau
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

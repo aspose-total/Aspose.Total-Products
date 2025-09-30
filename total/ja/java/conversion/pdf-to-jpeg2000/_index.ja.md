@@ -57,7 +57,27 @@ APIを使用すると、必要に応じて出力JPEG2000画像を回転させる
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをJPEG2000に変換**するプロセスは、PDFページから**高品質で圧縮された画像**を生成するために重要です。JPEG2000は、**デジタルライブラリ、医療画像、アーカイブ**などで広く使用されており、効率的な圧縮とロスレスな保存が必要です。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- JPEG2000を使用したデジタルライブラリの保存
+- **医療画像アーカイブ**のためのPDF変換
+- サイズを削減した高解像度ドキュメントの保存
+- JPEG2000規格を使用した政府アーカイブ
+- **長期的な画像保存**を必要とする学術リポジトリ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからJPEG2000へのパイプライン**
+- PDFをJPEG2000形式にバッチ変換するアーカイブ
+- デジタルライブラリシステムとの統合
+- PDFからJPEG2000への医療画像ワークフロー
+- 高品質な圧縮保存のためのエンタープライズ自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

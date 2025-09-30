@@ -61,7 +61,24 @@ Tijdens het converteren van een POWERPOINT-bestand naar FODS, kunt u ook een wat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PowerPoint naar FODS** maakt het mogelijk om presentatietabellen te exporteren naar **Flat OpenDocument Spreadsheet**, handig voor analyse, gegevensuitwisseling en rapportage.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het extraheren van gegevens uit dia-tabellen naar spreadsheets  
+- Gegevensuitwisseling tussen verschillende platforms met OpenDocument-tools  
+- Analyse en rapportage van bedrijfsgegevens  
+- Archivering van gestructureerde gegevens van dia's  
+- Voorbereiden van numerieke of tabellarische rapporten uit presentaties
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde extractie van tabellen naar FODS-formaat  
+- Integratie met analysepipelines  
+- Batchconversie van dia's naar spreadsheets  
+- Automatisering van op gegevens gebaseerde workflows
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ otherformats: XLSB XLS XLAM EXCEL DIF XLTM FODS SXC XLTX XLT XLSM TSV ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى XLTM** يمكن أن يسمح بتحويل مستندات Word إلى ملفات **قالب Excel الممكنة للماكرو (XLTM)**، مما يسمح بالتأتير، الماكروهات، وقوالب جداول بيانات قابلة لإعادة الاستخدام لسير العمل في المؤسسات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء قوالب Excel ممكنة للماكرو من Word
+- تقارير المؤسسات مع التأتير
+- سير العمل الأكاديمي والبحثي باستخدام الماكروهات
+- إنشاء جداول بيانات ممكنة للماكرو بناءً على القوالب
+- تقارير هيكلية للشركات والحكومات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+- أنابيب عمل القوالب الممكنة للماكرو من Word إلى XLTM
+- تأتير سير العمل بالماكروهات
+- إنشاء دفعات من القوالب القابلة لإعادة الاستخدام الممكنة للماكرو
+- تقارير وسير عمل مؤسساتية عالية الجودة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

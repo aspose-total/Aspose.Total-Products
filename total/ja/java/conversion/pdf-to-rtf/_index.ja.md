@@ -130,7 +130,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをRTFに変換**することで、企業は**リッチテキスト形式のドキュメント**を生成し、さまざまなプラットフォームで互換性のあるものを作成できます。オンラインPDFからRTFへのツールと自動化により、企業はスムーズな編集、共有、および世界中のレガシーシステムとの統合を確保できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- クロスプラットフォームのドキュメント共有
+- レガシーシステムとの互換性
+- 法的文書の携帯性
+- 標準形式での学術提出
+- 長期的なアクセシビリティのためのアーカイブ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- ドキュメント交換用の自動PDFからRTFへのパイプライン
+- PDFアーカイブからの大量のRTF生成
+- 企業全体のRTFワークフロー
+- RTFとのレガシーアプリケーション統合
+- システム間の相互運用性の自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ WORD'yi SXC'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD**'ü **SXC'ye** dönüştürmek, Word içeriğini **StarOffice Calc (SXC) dosyalarına** dönüştürerek, işletme veya arşiv kullanımı için eski OpenOffice/StarOffice elektronik tablo formatlarıyla uyumluluk sağlar.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+- Word tablolarını eski elektronik tablo formatlarına dışa aktarma
+- Eski ofis paketleriyle uyumluluk
+- Yapılandırılmış içeriğin işletme ve devlet arşivi
+- Akademik tablo verilerinin taşınması
+- Word belgelerinden şablon tabanlı elektronik tablo hazırlama
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Toplu Word-SXC dönüşüm iş akışları
+- İşletme ölçeğinde belge-elektronik tablo otomasyonu
+- Eski sistem entegrasyonu boruları
+- Şablon tabanlı raporlama otomasyonu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

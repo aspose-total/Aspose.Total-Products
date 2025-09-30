@@ -57,7 +57,25 @@ API также позволяет экспортировать файл PDF в T
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в TGA (Targa)** идеально подходит для создания **высококачественных растровых изображений** из страниц PDF для цифрового искусства, игр и мультимедийного производства.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Извлечение цифрового искусства и иллюстраций
+- Генерация игровых ресурсов из содержимого PDF
+- Растровая графика высокого качества для мультимедийных проектов
+- Архивирование графики PDF в виде изображений TGA
+- Преобразование для анимации и визуальных эффектов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированное **пакетное преобразование PDF в TGA**
+- Интеграция с цифровыми медиа и игровыми конвейерами
+- Растеризация графики PDF для визуальных эффектов
+- Автоматизация рабочего процесса для мультимедийного производства
+- Масштабируемый экспорт изображений PDF в TGA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

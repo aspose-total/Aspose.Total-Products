@@ -105,7 +105,27 @@ otherformats: WMZ APNG TGA JPEG2000 EMZ SVGZ IMAGE  WMF DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PDF в PSD** дозволяє дизайнерам перетворювати **графіку у форматі PDF в формат Adobe Photoshop**, що дозволяє редагування на основі шарів та покращення творчого робочого процесу.
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+- Редагування ілюстрацій у форматі PDF в Photoshop
+- Конвертація інфографіки та маркетингових ресурсів
+- Робочий процес дизайну зі збереженням шарів для творчих команд
+- Підготовка вмісту у форматі PDF для цифрових медіа-кампаній
+- Архівування графіки у форматі PSD для подальшого редагування
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизована **пакетна конвертація PDF в PSD**
+- Інтеграція робочого процесу дизайну для творчих студій
+- Обробка PDF в Photoshop за допомогою API
+- Автоматизовані графічні конвеєри для підприємств
+- Автоматизований вилучення шарів з файлів PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

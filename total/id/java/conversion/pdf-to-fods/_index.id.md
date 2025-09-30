@@ -47,7 +47,27 @@ Saat mengonversi file PDF ke FODS, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke FODS (Flat ODF Spreadsheet)** membantu dalam mengekstrak data terstruktur dari PDF ke spreadsheet **LibreOffice Calc dan yang kompatibel dengan OpenDocument**. Hal ini memungkinkan organisasi untuk menggunakan kembali **tabel PDF dalam FODS berbasis XML** untuk pelaporan, analisis, dan kepatuhan.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- PDF ke FODS untuk alur kerja spreadsheet sumber terbuka
+- Mengonversi tabel akademik ke spreadsheet ODF
+- Penggunaan data di lingkungan LibreOffice dan OpenOffice
+- Pelaporan terstruktur dengan format spreadsheet berbasis XML
+- Penyimpanan arsip jangka panjang dari konten PDF berbentuk tabel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja PDF ke FODS otomatis**
+- Pengolahan batch tabel PDF ke spreadsheet ODF
+- Alur kerja yang didorong JSON menghasilkan FODS dari PDF
+- Otomatisasi pelaporan perusahaan dengan ekspor FODS
+- Integrasi sistem sumber terbuka dengan alat PDF ke FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

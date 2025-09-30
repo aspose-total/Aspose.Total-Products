@@ -103,7 +103,26 @@ otherformats: PPTM PPSM POTM POTX ODP PPT POWERPOINT PPTX POT PPS CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-PPSX** ממירה מסמכי Word לקבצי **PowerPoint Show (PPSX)**, מציעה מצגות מוכנות לניגון לקהלי עסקים, אקדמיים ותעשייתיים ללא מקרוים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- מצגות מוכנות לניגון מתוך תוכן Word
+- שקופיות ללא מקרוים לעסקים וחברות
+- הכנת מצגות אקדמיות ואימונים
+- דיווחים ובריפינגים מבוססי תבניות
+- מצגות מוכנות להצגה לגורמים ממשלתיים וארגוניים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים מ-Word ל-PPSX
+- אוטומציה של מצגות מוכנות לניגון בהתבסס על תבנית
+- זרימות עבודה ללא מקרוים ברמה עסקית
+- המרה רציפה מדוחות Word למצגות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

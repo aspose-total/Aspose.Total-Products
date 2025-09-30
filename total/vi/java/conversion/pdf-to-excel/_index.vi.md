@@ -47,7 +47,27 @@ Trong khi chuyển đổi tệp PDF sang EXCEL, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang Excel (XLS/XLSX)** là một trong những nhu cầu phổ biến nhất của doanh nghiệp, cho phép tạo ra **bảng tính có cấu trúc** trực tiếp từ các báo cáo. Công cụ chuyển đổi PDF sang Excel trực tuyến và các đường ống tự động mở khóa dữ liệu tài chính, học thuật và doanh nghiệp để phân tích tương tác.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Báo cáo tài chính và kiểm toán
+- Tập dữ liệu nghiên cứu học thuật
+- Quản lý hàng tồn kho và logistics
+- Báo cáo thông minh doanh nghiệp
+- Báo cáo kinh tế của chính phủ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- Quy trình làm việc tự động PDF-sang-Excel cho doanh nghiệp
+- Trích xuất Excel hàng loạt từ PDF quét
+- Chuyển đổi PDF-sang-bảng tính dựa trên trí tuệ nhân tạo
+- Đường ống tuân thủ tài chính sử dụng Excel
+- Tích hợp phân tích thời gian thực với các tệp Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

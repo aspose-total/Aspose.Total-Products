@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów WORD chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **WORD na POTX** umożliwia przekształcenie treści z programu Word w pliki **szablonów programu PowerPoint (POTX)**, zapewniając wielokrotnie używalne, pozbawione makr szablony prezentacji do użytku w firmach i instytucjach akademickich.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Tworzenie wielokrotnie używalnych szablonów PowerPoint bez makr
+- Standaryzowane szablony prezentacji dla firm
+- Przygotowywanie slajdów akademickich i badawczych
+- Raportowanie i briefowanie w oparciu o szablony
+- Automatyzacja procesów dla slajdów bez makr
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczna generacja szablonów Word-to-POTX
+- Konwersja wsadowa dla ponownego użycia szablonów
+- Automatyzacja procesów slajdów oparta na szablonach
+- Rurocień prezentacji na poziomie przedsiębiorstwa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

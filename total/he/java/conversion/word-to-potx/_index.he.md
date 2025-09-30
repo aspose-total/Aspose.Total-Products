@@ -103,7 +103,26 @@ otherformats: ODP POWERPOINT PPS PPTX PPT PPSM POT PPTM PPSX POTM CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-POTX** מאפשרת להמיר תוכן Word לקבצי **תבנית PowerPoint (POTX)**, ומספקת תבניות מצגת ניתנות לשימוש חוזר ללא מקרו עבור שימוש עסקי ואקדמי.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזי" %}}
+- יצירת תבניות ל-PowerPoint ניתנות לשימוש חוזר ללא מקרו
+- תבניות מצגת עסקיות תקניות
+- הכנת שקופיות אקדמיות ומחקר
+- דיווחים ופגישות עסקיות מונחים על ידי תבניות
+- אוטומציה של זרימת עבודה לשקופיות ללא מקרו
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירת תבנית Word-to-POTX אוטומטית
+- המרה רציפה לשימוש חוזר בתבניות
+- זרימות עבודה אוטומטיות על פי תבניות לשקופיות
+- צינורות עבודה למצגות ברמה עסקית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,26 @@ otherformats: XLS TSV DIF CSV XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN MHT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-EXCEL** מאפשרת ייצוא שקופיות לתוך גיליונות **Excel**, מה שהופך את הנתונים לנגישים יותר לניתוח, דיון ושיתוף נתוני השקופית בפורמט של גיליון נתונים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת טבלאות ותרשימים ממצגת לגיליונות נתונים
+- דיווח וניתוח עסקי
+- ארכיבה של נתוני שקופית לשימוש מובנה
+- עריכת נתונים שיתופיים
+- הכנת דוחות מספריים או טקסטואליים משקפים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרת שקופיות ל-Excel אוטומטיים
+- עיבוד רצף של מצגות לגיליונות נתונים
+- שילוב עם מערכות ניתוח ודיווח עסקיות
+- אוטומציה של תהליכי עבודה מופעלים על ידי שקופיות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

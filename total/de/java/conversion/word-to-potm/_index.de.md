@@ -54,7 +54,26 @@ Mit der API können Sie auch passwortgeschützte WORD-Dokumente in POTM konverti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertierung von **WORD zu POTM** ermöglicht die Erstellung von **Makro-fähigen PowerPoint-Vorlagendateien (POTM)** aus Word-Inhalten, was die Erstellung wiederverwendbarer Vorlagen mit Makros für eine fortgeschrittene Automatisierung ermöglicht.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Generierung von makrofähigen Präsentationsvorlagen aus Word
+- Unternehmensautomatisierung bei der Präsentationserstellung
+- Akademische und Forschungsvorlagen mit interaktiven Elementen
+- Wiederverwendbare Unternehmenspräsentationsfolien
+- Vorlagengetriebener Workflow für automatisierte Folien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte Vorlagenpipelines von Word zu POTM
+- Stapelerstellung von makrofähigen Präsentationsvorlagen
+- Vorlagengetriebene Automatisierung von Folienpräsentationen
+- Unternehmensweite Präsentationsworkflows
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

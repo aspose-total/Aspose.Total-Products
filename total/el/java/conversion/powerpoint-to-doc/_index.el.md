@@ -53,7 +53,26 @@ otherformats: DOTX DOTM FLATOPC RTF DOT WORD DOCX TEXT WORDML ODT OTT DOCM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε DOC** επιτρέπει την άνετη μετατροπή περιεχομένου παρουσίασης σε **επεξεργάσιμα έγγραφα Word**, κάνοντας ευκολότερη την επαναχρησιμοποίηση διαφανειών για αναφορές, τεκμηρίωση ή συλλογική επεξεργασία.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+- Επαναχρησιμοποίηση διαφανειών παρουσίασης σε κειμενικές αναφορές  
+- Συλλογική επεξεργασία και σχολιασμός στο Word  
+- Προετοιμασία επίσημων πρακτικών συνεδριάσεων ή αναφορών  
+- Αρχειοθέτηση παρουσιάσεων ως έγγραφα Word  
+- Εκπαιδευτικά υλικά που προέρχονται από διαφάνειες
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτόματη μαζική μετατροπή παρουσιάσεων σε Word  
+- Ενσωμάτωση σε αγωγούς αναφοράς  
+- Ροές εγγράφων που οδηγούνται από το PowerPoint  
+- Επαναχρησιμοποίηση περιεχομένου επιχείρησης για πολλαπλές ομάδες
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

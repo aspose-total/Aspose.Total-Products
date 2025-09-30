@@ -130,7 +130,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをODTに変換**することは、静的なPDFから**OpenDocument Textドキュメント**を作成するために不可欠です。これにより、LibreOffice Writerやその他のオープンソースのワードプロセッサで編集の柔軟性が確保され、政府、企業、学術出版にとって価値があります。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 政府および法的文書
+- オープンフォーマットでの企業ポリシーの保存
+- 学術研究の出版
+- 共同執筆と編集
+- 長期的なテキスト文書のアーカイブ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- PDFからODTへの自動化されたコンテンツパイプライン
+- ODT統合を備えた文書管理システム
+- 自動化された出版ワークフロー
+- 大規模企業文書変換
+- 政府およびNGO向けのバッチ処理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

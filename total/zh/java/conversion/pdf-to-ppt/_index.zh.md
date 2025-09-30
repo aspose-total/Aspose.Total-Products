@@ -121,7 +121,27 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 PPT** 将静态 PDF 文档转换为 **可编辑的 PowerPoint 演示文稿**，使得更容易为 **商业、学术或培训目的** 重新利用幻灯片。此转换提供了完全的灵活性，可在 Microsoft PowerPoint 内编辑、格式化和重复使用现有的 PDF 内容。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将报告和幻灯片从 PDF 转换为可编辑的 PowerPoint
+- 商务会议和营销演示文稿
+- 学术讲座、研究研讨会和工作坊
+- 培训材料和入职文件
+- 将存档的 PDF 内容重新利用为新的演示文稿
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 企业的自动化 **PDF 到 PPT 管道**
+- 将 PDF 报告批量转换为 PowerPoint 幻灯片
+- 与 Office 365 集成以进行自动化工作流
+- 从基于 PDF 的课程生成电子学习内容
+- 面向企业和学术档案的大规模转换
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ otherformats: SXC XLS ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ΛΕΞΗ σε XLS** επιτρέπει στους πίνακες του Word να εξάγονται στην παλαιά μορφή **Λογιστικού Φύλλου Excel (XLS)**, διατηρώντας τη δομή για επιχειρηματική αναφορά και ανάλυση φύλλου εργασίας.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Μεταφορά πινάκων Word σε παλαιές μορφές Excel
+- Επιχειρηματική αναφορά και οικονομική ανάλυση
+- Προετοιμασία δεδομένων ακαδημαϊκής έρευνας
+- Ενσωμάτωση εγγράφων του κράτους
+- Δημιουργία δομημένου φύλλου εργασίας με βάση το πρότυπο
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες διαδικασίες παραγωγής πακέτων Word-to-XLS
+- Δημιουργία φύλλου Excel με βάση πρότυπο
+- Αυτοματισμός αναφοράς υψηλής ποιότητας
+- Ροές ενσωμάτωσης συστημάτων παλαιάς μορφής
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в Flat OPC (Open Packaging Convention)** критично для создания **однофайлового XML-представления документов Office**. Это поддерживает архивирование предприятий, обмен данных и безшовные рабочие процессы, включая **интеграцию PDF в OpenXML**.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Архивирование PDF в Flat OPC предприятий
+- Преобразование PDF в Flat OPC для совместимости с Office
+- Рабочие процессы обмена документами на основе XML
+- Долгосрочное сохранение в структуре Flat OPC
+- Генерация на основе шаблонов для автоматизации Office
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **конвейеры PDF в Flat OPC**
+- Рабочие процессы документов XML, преобразование из PDF
+- Предприятий отчетность с использованием структур Flat OPC
+- Пакетная обработка PDF в однофайловый формат OpenXML
+- Интеграция рабочего процесса с автоматизацией Microsoft Office
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

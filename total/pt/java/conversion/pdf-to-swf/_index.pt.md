@@ -121,7 +121,27 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertendo **PDF para SWF (Flash)** é útil para criar **conteúdo interativo e pronto para a web** a partir de documentos PDF. Este formato é adequado para apresentações, módulos de eLearning e materiais de marketing online.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Conteúdo de eLearning e cursos online
+- Apresentações interativas em PDF para web
+- Slides de marketing e promoções
+- Arquivamento de multimídia baseada em PDF para reprodução na web
+- Brochuras digitais e manuais interativos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines PDF para SWF automatizados**
+- Conversão em lote para módulos de treinamento online
+- Integração com plataformas LMS para eLearning
+- Fluxos de trabalho de publicação na web com saída SWF
+- Automação de conteúdo PDF interativo escalável
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,27 @@ Met behulp van de API kunt u ook de uitgevoerde PSD-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PDF naar PSD** stelt ontwerpers in staat om **PDF-afbeeldingen om te zetten in Adobe Photoshop-formaat**, waardoor laagsgewijze bewerking en creatieve workflowverbeteringen mogelijk zijn.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Bewerken van PDF-illustraties in Photoshop
+- Omzetten van infographics en marketingmaterialen
+- Workflow voor ontwerpteams met behoud van lagen
+- Voorbereiding van PDF-inhoud voor digitale mediacampagnes
+- Archiveren van PDF-afbeeldingen in bewerkbaar PSD-formaat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde **batchconversie van PDF naar PSD**
+- Integratie van ontwerpworkflow voor creatieve studio's
+- API-gestuurde verwerking van PDF naar Photoshop
+- Grafische automatiseringspijplijnen voor bedrijven
+- Geautomatiseerde extractie van lagen uit PDF-bestanden
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

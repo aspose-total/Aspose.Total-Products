@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF转PCL（打印机命令语言）**转换在打印工作流程中被广泛使用，其中PDF必须被转换为**企业打印机的PCL命令**。这确保了与**高容量办公室打印，政府文件和企业批量打印工作**的兼容性。
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+- 企业打印工作流将PDF转换为PCL
+- 政府办公室使用PCL进行安全打印
+- 高容量企业打印环境
+- 需要**兼容PCL输入**的批量打印工作
+- 用于合规性和审计的PDF到PCL工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化**PDF到PCL打印流水线**
+- 使用PCL输出进行批量PDF打印
+- 企业打印服务器集成PDF到PCL工具
+- 用于政府和企业打印的工作流自动化
+- 从PDF存档进行高容量自动化打印
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,25 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PDF naar SWF (Flash)** is handig voor het maken van **interactieve, webklare inhoud** van PDF-documenten. Dit formaat is geschikt voor presentaties, e-learning modules en online marketingmateriaal.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- e-learning en online cursusinhoud
+- Interactieve PDF-presentaties voor web
+- Marketingslides en promoties
+- Archivering van op PDF gebaseerde multimedia voor webweergave
+- Digitale brochures en interactieve handleidingen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde **PDF-naar-SWF-pijplijnen**
+- Batchconversie voor online trainingsmodules
+- Integratie met LMS-platforms voor e-learning
+- Webpublicatieworkflows met SWF-uitvoer
+- Schaalbare automatisering van interactieve PDF-inhoud
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

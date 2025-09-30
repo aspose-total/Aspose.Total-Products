@@ -61,7 +61,26 @@ Podczas konwertowania pliku POWERPOINT do TSV możesz również dodać znak wodn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do TSV** umożliwia eksportowanie slajdów jako **Wartości Oddzielone Tabulatorami**, ułatwiając przetwarzanie danych w strukturze i kompatybilność arkuszy kalkulacyjnych między platformami.
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+- Wyodrębnianie danych tabelarycznych do analiz
+- Udostępnianie danych między platformami
+- Integracja z narzędziami do arkuszy kalkulacyjnych zarówno z dziedziny dziedzictwa, jak i nowoczesnymi
+- Archiwizacja strukturalnych treści z prezentacji
+- Przygotowywanie raportów w strukturze
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+- Zautomatyzowane wsadowe przetwarzanie slajdów na TSV
+- Integracja z przepływami pracy analitycznej w przedsiębiorstwie
+- Automatyzacja raportowania opartego na danych
+- Przygotowywanie arkuszy kalkulacyjnych w systemach dziedzictwa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

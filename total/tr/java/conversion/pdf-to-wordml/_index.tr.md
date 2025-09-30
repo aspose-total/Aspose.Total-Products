@@ -129,7 +129,27 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF'yi WORDML'ye** dönüştürmek, PDF'lerden **WordprocessingML (XML tabanlı Word belgeleri)** üretmek için önemlidir. Çevrimiçi PDF'ten WordML araçları ve otomasyon, yapılandırılmış, XML uyumlu belgelerin arşivleme, yayınlama ve kurumsal iş akışları için hazır olmasını sağlar.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Sistemler arası veri alışverişi
+- Kurumsal belge depolama
+- Şablon tabanlı belge oluşturma
+- Hükümet dijital arşivleri
+- Yapılandırılmış akademik yayıncılık
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Yapılandırılmış raporlama için otomatik PDF'den WordML boru hatları
+- PDF'lerden XML belge oluşturma
+- Kurumsal için toplu WordML iş akışları
+- XML formatlarına dijital arşiv entegrasyonu
+- Kurumsal düzeyde yapılandırılmış raporlama
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

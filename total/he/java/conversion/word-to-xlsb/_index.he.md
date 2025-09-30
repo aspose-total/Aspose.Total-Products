@@ -102,7 +102,26 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-XLSB** מאפשרת ייצוא של תוכן Word לתבנית **Excel Binary Workbook (XLSB)**, ממזג אחסון גדול לגיליון אלקטרוני ואפשרות עיבוד מהיר יותר ב-Excel.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת טבלאות Word בגדל רחב ל-Excel
+- דיווחים עסקיים עם גודל קובץ מותקן
+- עיבוד קבצי נתונים אקדמיים ומחקריים
+- יצירת דוחות מובנים בתבנית
+- זרימות עבודה בגיליונות אלקטרוניים ביצוע גבוה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה מאוטומטיים מ-Word ל-XLSB
+- יצירת דוחות אקסל בינאריים בצורה צפופה
+- זרימות עבודה אוטומטיות ב-Excel בהתאמה לתבנית
+- דיווחים מובנים ברמה עסקית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

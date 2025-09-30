@@ -103,7 +103,26 @@ otherformats: PPS ODP POTM PPTX PPT PPSM POT POTX POWERPOINT PPSX CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-PPTM** מאפשרת לתוכן Word להפוך לקבצי **Macro-Enabled PowerPoint (PPTM)**, מאפשרת אוטומציה ותכונות מצגת אינטראקטיביות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- מצגות עסקיות וארגוניות עם אפשרות למאקרו
+- שקופיות אקדמיות ואימונים אינטראקטיביים
+- זרימות עבודה של מצגות עם מאקרו בהתאמה לתבנית
+- אוטומציה של הצגות ביטוי עבור ממשל וארגונים
+- תבניות חוזרות של מצגות עם מאקרו
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים מ-Word ל-PPTM
+- יצירת סדרות שקופיות מאקרו באופן רציף
+- אוטומציה של שקופיות אינטראקטיביות בהתאמה לתבנית
+- זרימות עבודה של מצגות עם מאקרו ברמה עסקית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

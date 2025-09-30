@@ -61,7 +61,26 @@ POWERPOINT 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 FODS로 변환**하면 프레젠테이션 테이블을 **Flat OpenDocument Spreadsheet**로 내보낼 수 있어서 분석, 데이터 교환 및 보고에 유용합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 슬라이드 테이블 데이터를 스프레드시트로 추출
+- OpenDocument 도구를 통한 크로스 플랫폼 데이터 공유
+- 기업 데이터 분석 및 보고
+- 구조화된 슬라이드 데이터의 보관
+- 프레젠테이션에서 숫자 또는 테이블 보고서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- FODS 형식으로 테이블 자동 추출
+- 분석 파이프라인과의 통합
+- 슬라이드를 스프레드시트로 일괄 변환
+- 데이터 주도형 워크플로 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

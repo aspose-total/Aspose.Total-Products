@@ -61,7 +61,26 @@ otherformats: MARKDOWN ODS XLS SXC TSV XLT XLTM XLTX DIF EXCEL MHTML FODS XLAM X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 CSV** 可以将幻灯片导出为 **逗号分隔值**，非常适合用于电子表格分析、数据库集成和结构化数据工作流程。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 提取用于分析的表格或图表数据
+- 用于报告的数据库导入/导出
+- 企业数据共享和集成
+- 结构化幻灯片内容的归档
+- 准备数值或表格报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化幻灯片到 CSV 的提取管道
+- 批量处理多个演示文稿
+- 与商业智能和分析系统集成
+- 数据驱动的报告工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

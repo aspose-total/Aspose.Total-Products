@@ -61,7 +61,26 @@ otherformats: MARKDOWN FODS XLTM DIF TSV ODS XLAM EXCEL MHTML XLSX SXC XLTX XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى XLSM** يسمح بتصدير الشرائح إلى **سجلات عمل Excel ممكنة للماكرو**, محافظاً على الوظائف الآلية وعناصر التقارير التفاعلية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء جداول بيانات تقارير ممكنة للماكرو  
+- تكامل سير العمل الآلي للشركات  
+- أرشفة الشرائح مع ماكروهات Excel مضمنة  
+- قوالب تقارير تفاعلية قابلة لإعادة الاستخدام  
+- تحليل بيانات تفاعلي ممكن للماكرو بالتعاون
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- تحويل دفعة من الشرائح إلى XLSM  
+- سير العمل الذي يعمل بالماكرو  
+- أنابيب عمل الماكرو من الشرائح إلى Excel تلقائياً  
+- التكامل مع أنظمة الأتمتة الشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

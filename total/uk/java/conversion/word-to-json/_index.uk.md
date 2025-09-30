@@ -102,7 +102,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **WORD у JSON** є важливим для видобуття структурованого вмісту з документів Word у формат **JSON**, що сприяє застосункам, що працюють на даних, інтеграції з API та сучасним веб-або корпоративними робочими процесами.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Обмін даними між системами документів та додатками
+- Інтеграція вмісту Word з веб- та мобільними платформами
+- Видобуток вмісту документів за допомогою шаблонів
+- Архівування структурованого вмісту для уряду та досліджень
+- Структуроване академічне або корпоративне видавництво
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Конвеєри видобутку Word у JSON
+- Автоматизоване створення вмісту документів, готового для API
+- Автоматизація робочих процесів на основі JSON
+- Структурована звітність документів масштабу підприємства
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

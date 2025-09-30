@@ -102,7 +102,26 @@ otherformats: EXCEL CSV XLSX ODS XLS DIF XLT FODS MHTML XLTM TSV XLAM XLSM SXC X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל־MARKDOWN** מאפשרת ייצוא שקופיות לתוך פורמט **Markdown**, אידיאלי עבור תיעוד קל, מחוללי אתרים סטטיים וגירסאות של תוכן.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת תוכן ממצגות לאתרים או בלוגים
+- תיעוד קל מבוסס טקסט
+- ארכיבת שקופיות בפורמטים שנשמרים בגרסאות
+- כתיבת פתקים שיתופיים ושיתוף תוכן
+- חומרי למידה למפתחים וכותבי טקסטים טכניים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות עבודה אוטומטיים משקופיות ל־Markdown
+- שילוב עם מחוללי אתרים סטטיים כמו Hugo או Jekyll
+- המרה צפופה של מצגות ל־Markdown
+- זרימי עבודה לתיעוד בבסיסי ידע של עסקים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

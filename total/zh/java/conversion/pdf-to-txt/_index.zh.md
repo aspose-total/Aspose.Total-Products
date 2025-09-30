@@ -49,7 +49,27 @@ otherformats: XLT ODS EXCEL TSV XLSB XLSM DIF XLTX XLAM MD SXC XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 TXT** 提供了一种高效的方式来提取**纯文本内容**以进行分析、搜索和索引。通过批量 PDF 到 TXT 工具和自动化工作流程，组织可以简化合规性检查、文本挖掘和基于人工智能的文档处理。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 用于搜索引擎的数据提取
+- 自然语言处理流水线
+- 合规性文本分析
+- 法律发现工作流程
+- 学术文本挖掘和索引
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 用于数据挖掘的自动化 PDF 到 TXT 流水线
+- 用于合规性检查的批量 PDF 到 TXT 转换
+- 与提取的文本集成的人工智能/机器学习
+- 企业规模的大规模 TXT 工作流程
+- 使用 TXT 进行轻量级文档自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

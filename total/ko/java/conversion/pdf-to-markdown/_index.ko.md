@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 Markdown(MD)으로 변환**하면 PDF에서 **개발자, 작가 및 문서 작업**을 위해 깔끔하고 가벼우며 휴대 가능한 콘텐츠를 추출할 수 있습니다. 이를 통해 PDF 보고서나 기사를 **GitHub, 정적 사이트 생성기 또는 콘텐츠 관리 시스템**과 같은 **Markdown 기반 플랫폼**에서 재사용할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- **Markdown 블로그 게시물로 PDF 기사 게시**
+- GitHub를 위한 PDF에서 MD로 기술 문서 이전
+- 개발자 및 오픈 소스 프로젝트를 위한 문서 작업
+- 가벼운 Markdown 형식으로 학술 연구 PDF 변환
+- **정적 사이트 생성기(Hugo, Jekyll 등)를 위한 PDF 콘텐츠 저장**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-Markdown 파이프라인**
+- 콘텐츠 재사용을 위한 보고서 일괄 변환
+- PDF를 Markdown 문서로 변환하는 CI/CD 워크플로우
+- 지식 베이스 플랫폼을 위한 API 기반 변환
+- 기존 PDF에서 Markdown 저장소로의 자동 이전
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

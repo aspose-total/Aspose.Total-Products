@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na XLT můžete také přidat vodoznak do výst
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na XLT** umožňuje exportovat snímky jako **zastaralé šablony Excelu**, což umožňuje vytvářet opakovaně použitelné šablony z dat prezentace pro standardizované hlášení.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření opakovaně použitelných šablon Excelu z prezentací
+- Standardizace podnikového nebo akademického hlášení
+- Archivace snímků jako šablonových sešitů
+- Příprava strukturovaných projektových nebo hlášovacích šablon
+- Vytváření zastaralých šablon pro starší verze Excelu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované generování šablony slide-to-XLT
+- Integrace pracovního postupu pro knihovny podnikových šablon
+- Hromadné vytváření šablon z více prezentací
+- Automatizace hlášení řízená šablonou
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

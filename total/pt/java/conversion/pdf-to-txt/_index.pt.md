@@ -47,7 +47,27 @@ Ao converter o arquivo PDF para TXT, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para TXT** fornece uma maneira eficiente de extrair **conteúdo de texto simples** para análise, pesquisa e indexação. Com ferramentas em lote para PDF para TXT e fluxos de trabalho automatizados, as organizações podem otimizar verificações de conformidade, mineração de texto e processamento de documentos orientado por IA.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Extração de dados para mecanismos de busca
+- Pipelines de Processamento de Linguagem Natural
+- Análise de texto para conformidade
+- Fluxos de trabalho de descoberta legal
+- Mineração e indexação de texto acadêmico
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines automatizados de PDF para TXT para mineração de dados
+- Conversão em lote de PDF para TXT para verificações de conformidade
+- Integração de IA/ML com texto extraído
+- Fluxos de trabalho de TXT em grande escala para empresas
+- Automação de documentos leve com TXT
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,26 @@ otherformats: DOTX ODT WORDML DOT DOTM WORD RTF DOCM DOC TEXT FLATOPC DOCX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-OTT** מאפשרת לייצא שקופיות כ-**תבניות טקסט של OpenDocument**, מאפשר תבניות חוזרות לתיעוד תקני.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תבניות טקסט חוזרות ממצגות
+- תיעוד תקני לחברות או אקדמיה
+- דיווחים והצעות פרויקט מבוססות תבנית
+- ארכיבת מבני מצגות כתבניות
+- יצירת תבניות לחינוך או הכשרה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירה אוטומטית של תבניות טקסט של OpenDocument
+- שילוב זרימת עבודה לספריות תבניות לעסקים
+- המרה רציפה של שקופיות לתבניות חוזרות
+- אוטומציה של מסמכים מבוססת תבנית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

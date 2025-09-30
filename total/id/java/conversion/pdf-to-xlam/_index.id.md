@@ -47,7 +47,25 @@ Saat mengonversi file PDF ke XLAM, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke XLAM** memungkinkan pembuatan file **Excel Add-in** dari makro spreadsheet berbasis PDF atau fungsi kustom. Ini sangat berguna untuk **model keuangan otomatis, pelaporan perusahaan, dan peningkatan alur kerja Excel**.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Pembuatan makro dan add-in Excel dari data PDF
+- Model keuangan otomatis dan alat pelaporan
+- Peningkatan alur kerja spreadsheet perusahaan
+- Automasi Excel berbasis akademik atau penelitian
+- Distribusi template Excel Add-in dalam skala besar
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa add-in PDF ke XLAM otomatis**
+- Pengolahan batch untuk spreadsheet keuangan dan perusahaan
+- Integrasi dengan otomatisasi alur kerja Excel
+- Pipa pelaporan berbasis makro perusahaan
+- Distribusi berskala dari Excel add-in dari PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

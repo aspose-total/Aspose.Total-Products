@@ -61,7 +61,26 @@ otherformats: XLAM XLS ODS XLSB FODS XLT XLSX DIF XLTM XLTX XLSM EXCEL SXC TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น XLAM** เป็นสิ่งสำคัญสำหรับการแปลงเนื้อหา Word เป็น **ไฟล์ Excel Add-in** ที่เปิดใช้งานอัตโนมัติ แมโคร และการผสานรวมกับไฟล์ Excel workflows ในขณะที่ใช้ข้อมูลเอกสารโครงสร้าง
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- สร้าง Excel add-ins จากเทมเพลตที่มีขึ้นจาก Word
+- ผสานเอกสารบริษัทเข้ากับการอัตโนมัติของ Excel
+- รายงานเชิงการเงินและองค์กรที่ใช้แมโคร
+- การผสานรวมของงานทางวิชาการหรือวิจัย
+- การอัตโนมัติระบบสืบทอดโดยใช้ add-ins ที่มีขึ้นจาก Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+- การสร้าง add-ins อัตโนมัติจาก Word เป็น XLAM
+- การสร้างกระบวนการทำงานที่ใช้แมโครจากเทมเพลต
+- รายงานองค์กรและการอัตโนมัติงาน
+- การใช้เอกสารเป็นตัวขับเคลื่อนการอัตโนมัติของ Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

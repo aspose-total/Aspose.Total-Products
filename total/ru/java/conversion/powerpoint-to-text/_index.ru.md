@@ -53,7 +53,26 @@ otherformats: OTT TEXTM WORDML RTF TEXT DOTX WORD TEXTX FLATOPC ODT DOT DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в TEXT** позволяет экспортировать слайды в **обычный текстовый формат**, идеально подходит для извлечения данных, текстовой аналитики или обмена легким контентом.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Извлечение текста для аналитики или обработки ИИ
+- Подготовка отчетов или заметок в виде обычного текста
+- Легкое архивирование содержимого слайдов
+- Переиспользование контента для электронных писем или сценариев
+- Упрощенная документация из презентаций
+{{< /blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры извлечения текста из слайдов
+- Интеграция с системами NLP или аналитики ИИ
+- Корпоративные текстовые рабочие процессы из презентаций
+- Пакетное извлечение контента для отчетов
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

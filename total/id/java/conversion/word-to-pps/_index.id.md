@@ -54,7 +54,24 @@ API juga memungkinkan Anda untuk mengonversi dokumen WORD yang dilindungi kata s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **WORD ke PPS** memungkinkan konten Word menjadi file **PowerPoint Show (PPS)**, siap untuk presentasi langsung tanpa pengaturan slide manual.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Mengonversi laporan Word menjadi presentasi siap main
+- Slide pertemuan perusahaan dan perusahaan
+- Persiapan materi akademik dan pelatihan
+- Presentasi laporan dan briefing berbasis template
+- Presentasi siap tayang untuk pemerintah dan organisasi
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa presentasi otomatis Word ke PPS
+- Generasi batch slide siap tayang
+- Alur kerja presentasi otomatis berbasis template
+- Otomatisasi PowerPoint kelas enterprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

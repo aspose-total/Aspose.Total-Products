@@ -61,7 +61,26 @@ otherformats: SXC XLT ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى XLT** يسمح بحفظ محتوى Word كملفات **Excel Template (XLT)**، مما يتيح قوالب جداول بيانات قابلة لإعادة الاستخدام لسير العمل في المؤسسات أو الأكاديمية أو المالية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء قوالب Excel قابلة لإعادة الاستخدام من جداول Word
+- قوالب تقارير المؤسسات والشركات
+- قوالب بيانات هيكلية للأبحاث الأكاديمية
+- توحيد تقارير الحكومة والمالية
+- سير العمل من الوثيقة إلى جدول بيانات مدفوع بالقوالب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- إنشاء قوالب XLT من Word بشكل تلقائي
+- أتمتة سير العمل بالجداول المدفوعة بالقوالب
+- إنشاء دفعي لقوالب Excel قابلة لإعادة الاستخدام
+- أتمتة تقارير الدرجة الأولى للمؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

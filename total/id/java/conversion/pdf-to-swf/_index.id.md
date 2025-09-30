@@ -121,7 +121,25 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke SWF (Flash)** berguna untuk membuat **konten interaktif siap web** dari dokumen PDF. Format ini cocok untuk presentasi, modul eLearning, dan materi pemasaran online.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Konten eLearning dan kursus online
+- Presentasi PDF interaktif untuk web
+- Slide pemasaran dan promosi
+- Mengarsipkan multimedia berbasis PDF untuk pemutaran web
+- Brosur digital dan manual interaktif
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja PDF ke SWF otomatis**
+- Konversi batch untuk modul pelatihan online
+- Integrasi dengan platform LMS untuk eLearning
+- Alur kerja penerbitan web dengan output SWF
+- Otomatisasi konten PDF interaktif yang dapat diskalakan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

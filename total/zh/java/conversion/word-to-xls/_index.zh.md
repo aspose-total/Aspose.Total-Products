@@ -61,7 +61,26 @@ otherformats: SXC XLS ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为XLS**允许将Word表格导出为传统的**Excel电子表格（XLS）**格式，保留结构以用于企业报告和电子表格分析。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将Word表格迁移到传统的Excel格式
+- 企业报告和财务分析
+- 学术和研究数据准备
+- 政府文件集成
+- 基于模板的结构化电子表格生成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word到XLS批处理管道
+- 基于模板的Excel表格创建
+- 企业级报告自动化
+- 传统系统集成工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

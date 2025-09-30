@@ -53,7 +53,26 @@ APIを使用して、透かしを使用してPOWERPOINTファイルからDOTXへ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをDOTXに変換**することで、**現代のWordテンプレート形式**にスライドをエクスポートでき、マクロを使用せずに再利用可能で標準化されたテンプレートを作成するのに最適です。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 企業文書のための現代的なテンプレート作成
+- 標準化された教育資料
+- 再利用可能なプロジェクトやレポートのテンプレート
+- テンプレートとしてプレゼンテーションをアーカイブ
+- テンプレート化された文書でのチームコラボレーション
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- スライドからテンプレートへの自動変換
+- 企業利用向けのテンプレート生成パイプライン
+- コンテンツ管理システムとのワークフロー統合
+- 繰り返しのレポートやプロジェクト文書の自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

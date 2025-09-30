@@ -53,7 +53,26 @@ otherformats: OTT TEXTM WORDML RTF TEXT DOTX WORD TEXTX FLATOPC ODT DOT DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى نص** يسمح بتصدير الشرائح إلى **تنسيق نص عادي**, مثالي لاستخراج البيانات، وتحليل النصوص، أو مشاركة المحتوى بشكل خفيف.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- استخراج النص لأغراض التحليل أو معالجة الذكاء الاصطناعي
+- إعداد تقارير أو ملاحظات بتنسيق نص عادي
+- أرشفة خفيفة لمحتوى الشرائح
+- إعادة استخدام المحتوى للبريد الإلكتروني أو النصوص
+- توثيق مبسط من العروض التقديمية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب استخراج النص من الشرائح بشكل آلي
+- التكامل مع أنظمة معالجة اللغة الطبيعية أو التحليل الذكي
+- سير العمل النصي للشركات من العروض التقديمية
+- استخراج المحتوى بالدفعات لإعداد التقارير
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

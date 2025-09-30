@@ -61,7 +61,26 @@ otherformats: MARKDOWN FODS XLTM DIF TSV ODS XLAM EXCEL MHTML XLSX SXC XLTX XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в XLSM** позволяет экспортировать слайды в **рабочие книги Excel с поддержкой макросов**, сохраняя автоматизированные функции и интерактивные элементы отчетности.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Создание отчетных электронных таблиц с поддержкой макросов
+- Интеграция автоматизированных рабочих процессов предприятия
+- Архивирование слайдов с встроенными макросами Excel
+- Многократное использование интерактивных шаблонов отчетности
+- Коллективный анализ данных с поддержкой макросов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Пакетное преобразование слайдов в XLSM
+- Рабочие процессы отчетности, управляемые макросами
+- Автоматизированные конвейеры слайдов в Excel с макросами
+- Интеграция с системами автоматизации предприятия
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

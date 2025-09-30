@@ -61,7 +61,26 @@ otherformats: SXC XLTX ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为XLTX**允许将Word文档导出为**Excel模板（XLTX）**格式，为企业和学术目的提供可重复使用的不带宏的电子表格模板。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 创建可重复使用的无宏Excel模板
+- 企业和公司标准化报告
+- 学术和研究模板准备
+- 模板驱动的结构化电子表格工作流程
+- 政府和财务报告标准化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word到XLTX模板管道
+- 从Word表格批量生成模板
+- 模板驱动的电子表格自动化
+- 企业级报告工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

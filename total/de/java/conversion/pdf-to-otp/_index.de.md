@@ -121,7 +121,27 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertieren von **PDF in OTP** ist wichtig für die Erstellung von **OpenDocument Presentation Template-Dateien**, die die Wiederverwendung von Folien-Vorlagen in Unternehmen, Bildungseinrichtungen und Regierungsbehörden ermöglichen.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Standardisierte Unternehmenspräsentationsvorlagen
+- Vorlagen für akademische Vorlesungsreihen
+- Kommunikations- und Schulungsmodule für Regierungen
+- Archivierung von Präsentationen von NGOs
+- Kollaborative Design-Workflows
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte PDF-zu-OTP-Konvertierungspipelines
+- Vorlagenbasierte Präsentationsautomatisierung
+- Stapelweise Vorlagenerstellung aus archivierten PDFs
+- Workflow-Integration mit LibreOffice Impress
+- Zentrale Vorlagen-Repositories für Organisationen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

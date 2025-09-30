@@ -54,7 +54,26 @@ otherformats: POTX POWERPOINT PPS PPTX PPT PPSM POT PPTM PPSX POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε POTX** επιτρέπει τη μετατροπή περιεχομένου Word σε αρχεία **PowerPoint Template (POTX)**, παρέχοντας επαναχρησιμοποιήσιμα πρότυπα παρουσιάσεων χωρίς μακρό, για επιχειρηματική και ακαδημαϊκή χρήση.
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+- Δημιουργία επαναχρησιμοποιήσιμων προτύπων παρουσιάσεων PowerPoint χωρίς μακρό
+- Πρότυπα παρουσιάσεων επιχειρήσεων με τυποποιημένη μορφή
+- Προετοιμασία διαφανειών για ακαδημαϊκές και ερευνητικές εργασίες
+- Εταιρική αναφορά και ενημερώσεις βασισμένες σε πρότυπα
+- Αυτοματοποίηση ροών εργασίας για διαφάνειες χωρίς μακρό
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτόματη δημιουργία προτύπων Word-to-POTX
+- Μαζική μετατροπή για επαναχρησιμοποίηση προτύπων
+- Αυτοματοποίηση ροών εργασίας διαφανειών βασισμένη σε πρότυπα
+- Σωληνώσεις παρουσιάσεων υψηλής ποιότητας για επιχειρήσεις
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

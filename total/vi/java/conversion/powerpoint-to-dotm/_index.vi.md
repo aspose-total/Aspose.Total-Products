@@ -53,7 +53,26 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POWER
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang DOTM** cho phép các slide trở thành **mẫu Word có macro**, bảo tồn tự động hóa tương tác cho việc sử dụng lặp đi lặp lại trong doanh nghiệp hoặc học thuật.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tạo các mẫu có macro có thể tái sử dụng  
+- Chuẩn hóa quy trình làm báo cáo tự động  
+- Chuẩn hóa tài liệu doanh nghiệp và học thuật  
+- Tạo mẫu tài liệu tương tác từ bài thuyết trình  
+- Tạo mẫu tuân thủ hoặc quy trình
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Tự động tạo các mẫu có macro  
+- Thư viện mẫu doanh nghiệp với tự động hóa  
+- Đường ống mẫu có macro dựa trên JSON hoặc slide  
+- Tự động hóa quy trình cho báo cáo theo mẫu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

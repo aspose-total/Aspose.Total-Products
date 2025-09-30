@@ -121,7 +121,27 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в ODP** критично для создания **редактируемых презентационных файлов в формате OpenDocument Presentation**. Это крайне полезно для бизнес-презентаций, учебных слайдов и совместных сред, где важна совместимость с файлами в формате открытых стандартов.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Обмен учебными и академическими слайдами
+- Бизнес-встречи и презентации в формате открытых стандартов
+- Документирование для государственных органов и НПО
+- Совместные проекты с использованием LibreOffice Impress
+- Долгосрочное архивирование содержимого презентаций
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры PDF в ODP для учреждений
+- Пакетная обработка презентаций для предприятий
+- Интеграция рабочего процесса на основе OpenDocument
+- Автоматизированное создание презентаций из PDF
+- Масштабируемые цифровые архивы презентаций
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

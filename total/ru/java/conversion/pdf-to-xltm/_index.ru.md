@@ -47,7 +47,27 @@ otherformats: ODS EXCEL XLTM TXT XLTX XLSB XLAM XLSM SXC TSV MD FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в XLTM** позволяет создавать **макро-включенные шаблоны Excel** для повторяющихся рабочих процессов. Автоматизированные инструменты для преобразования PDF в XLTM объединяют статические макеты с встроенной автоматизацией, что делает их идеальными для финансовых, исследовательских и корпоративных сценариев.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Макро-включенные финансовые шаблоны  
+- Автоматизированная отчетность по исследованиям  
+- Автоматизация рабочего процесса на корпоративном уровне  
+- Отчетность в соответствии с регулированием  
+- Повторное использование шаблонов Excel на основе данных
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Конвейеры PDF в XLTM для масштабируемой отчетности  
+- Автоматизированное создание макро-включенных шаблонов Excel  
+- Пакетное преобразование шаблонов для предприятий  
+- Автоматизация Excel на основе рабочего процесса  
+- Генерация XLTM с использованием искусственного интеллекта
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

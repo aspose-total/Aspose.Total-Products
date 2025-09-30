@@ -54,7 +54,24 @@ A API também permite converter documentos WORD protegidos por senha em PPSX. Se
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para PPSX** transforma documentos do Word em arquivos **PowerPoint Show (PPSX)**, oferecendo apresentações prontas para reprodução, sem macros, para públicos empresariais, acadêmicos e corporativos.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Apresentações prontas para reprodução a partir de conteúdo do Word
+- Slides empresariais e corporativos sem macros
+- Preparação de apresentações acadêmicas e de treinamento
+- Relatórios e briefings baseados em modelos
+- Apresentações prontas para exibição governamentais e organizacionais
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines em lote automatizados de Word para PPSX
+- Automação de slides prontos para reprodução baseados em modelos
+- Fluxos de trabalho de apresentação empresarial sem macros
+- Conversão em lote de relatórios do Word para apresentações de slides
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

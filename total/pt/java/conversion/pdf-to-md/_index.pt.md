@@ -47,7 +47,25 @@ Ao converter o arquivo PDF para MD, você também pode adicionar marca d'água a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+O caso de conversão de **PDF para MD** concentra-se na conversão de arquivos PDF para o formato **Markdown (.md)**, amplamente utilizado na **documentação de desenvolvedores, blogs técnicos e pipelines de automação de conteúdo**. Permite o reuso estruturado de texto em PDF, tabelas e trechos de código em editores Markdown.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Migração de documentação de desenvolvedores de PDF para MD  
+- Conversão de manuais em PDF para Markdown para edição  
+- Fluxos de trabalho de blogs técnicos usando conteúdo MD  
+- Documentação de projetos de código aberto armazenada como Markdown  
+- Criação de **bases de conhecimento estruturadas** a partir de relatórios em PDF  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines automatizados de PDF para MD para desenvolvedores**  
+- Conversão em lote de PDF em repositórios Markdown  
+- Fluxos de trabalho baseados em Git integrando a exportação de PDF para MD  
+- Processamento de PDF para MD orientado por API para plataformas de CMS  
+- Automação empresarial para migrar documentos em PDF para MD  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ otherformats: SXC XLSX ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى XLSX** يمكن أن يتيح تصدير جداول Word إلى تنسيق **Excel Workbook (XLSX)** الحديث، مما يضمن التوافق مع إصدارات Excel الحالية والميزات المتقدمة لجداول البيانات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تصدير جداول Word إلى سجلات Excel الحديثة
+- تكامل التقارير والتحليلات في المؤسسات
+- إعداد جداول البيانات الأكاديمية والبحثية
+- تحويل المستندات إلى Excel بناءً على القوالب
+- الاحتفاظ بالسجلات في الحكومة والشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب تحويل Word إلى XLSX آليّة
+- إنشاء تقارير Excel بالدُفعات
+- أتمتة هياكل الجداول البيانية الهيكلية بناءً على القوالب
+- سير العمل لتكامل بيانات الشركات على مستوى المؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

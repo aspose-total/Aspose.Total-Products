@@ -57,7 +57,27 @@ API также позволяет экспортировать файл PDF в W
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в WMF** или **PDF в WMZ** позволяет использовать векторную графику из PDF в **приложениях для Windows**, презентациях и масштабируемых иллюстрациях для предприятий, государственных учреждений и дизайнерских рабочих процессов.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Встраивание векторной графики из PDF в приложения Office
+- Создание презентационных и маркетинговых материалов
+- Масштабируемые диаграммы и иллюстрации
+- Графика документов предприятий и государственных учреждений
+- Сжатое хранение векторного формата с использованием WMZ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры преобразования **PDF в WMF/WMZ**
+- Пакетная обработка векторной графики из PDF
+- Интеграция с презентационными и офисными рабочими процессами
+- Автоматизация графики предприятий для публикаций
+- Автоматизация масштабируемого хранения и повторного использования векторов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

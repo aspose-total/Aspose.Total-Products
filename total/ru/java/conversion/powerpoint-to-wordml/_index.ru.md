@@ -53,7 +53,26 @@ otherformats: ODT RTF WORD FLATOPC OTT WORDMLX DOT WORDMLM DOTX TEXT WORDML DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в WORDML** критично для создания **WordprocessingML (документов Word на основе XML из презентаций)**, обеспечивая структурированные рабочие процессы документов.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Структурированное хранение документов предприятия
+- Генерация на основе шаблонов из презентаций
+- Обмен данными между системами
+- Цифровые архивы для государственных органов и соответствия требованиям
+- Академическое издательство с использованием структурированного XML
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры PowerPoint-to-WordML
+- Генерация документов XML из слайдов
+- Рабочие процессы на основе презентаций XML
+- Структурированная отчетность корпоративного уровня
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

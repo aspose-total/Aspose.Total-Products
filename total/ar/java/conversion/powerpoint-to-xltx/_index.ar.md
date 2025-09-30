@@ -61,7 +61,26 @@ otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT XLTX TSV XLAM MHTML FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى XLTX** يمكن أن يتيح تصدير الشرائح كـ **قوالب Excel حديثة**, مما يخلق قوالب قابلة لإعادة الاستخدام بدون ماكرو لتقارير المؤسسات أو الأكاديمية الموحدة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- قوالب Excel حديثة قابلة لإعادة الاستخدام
+- تقارير موحدة للمؤسسات أو الأكاديمية
+- أرشفة العروض كدفاتر عمل قوالب
+- إعداد قوالب للمشاريع أو التقارير
+- مشاركة وتحرير القوالب بشكل تعاوني
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- توليد آلي لقوالب XLTX من الشرائح
+- سير عمل لإنشاء القوالب بالدُفعة
+- دمج مع مكتبات القوالب للمؤسسات
+- أتمتة تقارير مدفوعة بالقوالب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

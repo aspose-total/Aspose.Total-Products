@@ -61,7 +61,26 @@ POWERPOINTファイルをXLTXに変換するときに、出力XLTXファイル�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをXLTXに変換**すると、**モダンなExcelテンプレート**としてスライドをエクスポートでき、マクロを使用せずに再利用可能なテンプレートを作成し、標準化された企業や学術報告に活用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- モダンで再利用可能なExcelテンプレート
+- 標準化された企業や学術報告
+- プレゼンテーションをテンプレートワークブックとしてアーカイブ
+- プロジェクトや報告書のテンプレートの準備
+- 共同作業用のテンプレート共有と編集
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- スライドからXLTXテンプレートの自動生成
+- バッチテンプレート作成ワークフロー
+- 企業のテンプレートライブラリとの統合
+- テンプレート駆動型の報告自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

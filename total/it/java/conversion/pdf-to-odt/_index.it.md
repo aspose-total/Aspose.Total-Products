@@ -130,7 +130,27 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+La conversione da **PDF a ODT** è essenziale per produrre documenti **OpenDocument Text** da PDF statici. Questo garantisce flessibilità di modifica in LibreOffice Writer e in altri processori di testo open source, rendendolo prezioso per governi, imprese e pubblicazioni accademiche.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- Documentazione governativa e legale
+- Archiviazione delle politiche aziendali in formati aperti
+- Pubblicazione di ricerche accademiche
+- Scrittura e modifica collaborativa
+- Archiviazione a lungo termine di documenti di testo
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- Flussi di contenuti automatizzati da PDF a ODT
+- Sistemi di gestione documentale con integrazione ODT
+- Flussi di lavoro di pubblicazione automatizzati
+- Conversione di documentazione aziendale su larga scala
+- Elaborazione batch per governi e ONG
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ otherformats: XLTM XLS FODS XLT TSV XLAM EXCEL SXC ODS XLSM XLSX DIF XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น FODS** ช่วยให้สามารถสร้าง **Flat OpenDocument Spreadsheet (FODS) files** จากเนื้อหาของ Word ซึ่งมีประโยชน์สำหรับการโอนย้ายข้อมูล การทำงานกับสเปรดชีตขั้นสูง และการรักษาความเข้ากันได้ในระบบ OpenDocument ecosystems
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- การแปลงตาราง Word เป็นรูปแบบพร้อมใช้งานในสเปรดชีต
+- การทำงานร่วมกับชุดโปรแกรมสำนักงาน OpenDocument
+- การรายงานขององค์กรโดยใช้รูปแบบมาตรฐาน
+- การเตรียมข้อมูลทางการศึกษาในรูปแบบเปิด
+- การเก็บข้อมูลโครงสร้างในคลังข้อมูลของรัฐบาลหรือบริษัท
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- การแปลงจาก Word เป็น FODS ด้วยการใช้ท่อการแปลงข้อมูลแบบกลุ่ม
+- การสร้างสเปรดชีตโดยใช้เอกสารอัตโนมัติ
+- การผสานกับแพลตฟอร์มวิเคราะห์โอเพนซอร์ส
+- การทำงานร่วมกับกระบวนการรายงานโครงสร้างที่ใช้ FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

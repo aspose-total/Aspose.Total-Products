@@ -61,7 +61,26 @@ otherformats: XLTM XLS FODS XLT TSV XLAM EXCEL SXC ODS XLSM XLSX DIF XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى FODS** يسمح بإنشاء ملفات **Flat OpenDocument Spreadsheet (FODS)** من محتوى Word، مفيد لنقل البيانات، وسير العمل المتقدم لجداول البيانات، والحفاظ على التوافق عبر نظم OpenDocument.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل جداول Word إلى تنسيقات جاهزة لجداول البيانات
+- التعاون مع حلول مكاتب OpenDocument
+- تقارير المؤسسات باستخدام تنسيقات موحدة
+- إعداد البيانات الأكاديمية في تنسيقات مفتوحة
+- أرشفة البيانات المنظمة في مستودعات الحكومة أو الشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- خطوط أنابيب تحويل دفعي من Word إلى FODS
+- إنشاء جداول بيانات تلقائيًا بناءً على المستند
+- التكامل مع منصات التحليل مفتوحة المصدر
+- سير العمل المنظم بناءً على FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

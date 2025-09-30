@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 WORD 문서를 PPSX로 변환할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 PPSX로 변환**하면 Word 문서를 **PowerPoint Show (PPSX) 파일**로 변환하여 기업, 학술 및 기업 관객을 위한 매크로 없는 재생 준비 프레젠테이션을 제공합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 콘텐츠에서 재생 준비 프레젠테이션
+- 매크로 없는 기업 및 기업용 슬라이드
+- 학술 및 교육 프레젠테이션 준비
+- 템플릿 기반 보고서 및 브리핑
+- 정부 및 조직적으로 준비된 프레젠테이션
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-PPSX 일괄 파이프라인
+- 템플릿 기반 재생 준비 슬라이드 자동화
+- 기업급 매크로 없는 프레젠테이션 워크플로우
+- Word 보고서에서 슬라이드 쇼로 일괄 변환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

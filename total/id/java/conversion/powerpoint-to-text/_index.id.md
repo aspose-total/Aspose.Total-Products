@@ -53,7 +53,26 @@ Menggunakan API, Anda juga dapat melakukan konversi file POWERPOINT ke TEXT deng
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PowerPoint ke TEKS** memungkinkan ekspor slide ke format **teks polos**, ideal untuk ekstraksi data, analisis teks, atau berbagi konten ringan.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Ekstraksi teks untuk analisis atau pemrosesan AI
+- Menyiapkan laporan atau catatan teks polos
+- Penyimpanan arsip ringan dari konten slide
+- Repurposing konten untuk email atau skrip
+- Dokumentasi yang disederhanakan dari presentasi
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa ekstraksi slide ke teks otomatis
+- Integrasi dengan sistem analisis NLP atau AI
+- Alur kerja teks perusahaan dari presentasi
+- Ekstraksi konten batch untuk pelaporan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

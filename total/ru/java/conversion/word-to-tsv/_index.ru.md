@@ -61,7 +61,26 @@ otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC TSV XLSX DIF XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в TSV** позволяет извлекать табличные данные из Word в формат **Tab-Separated Values (TSV)**, обеспечивая совместимость с аналитикой, системами баз данных и другими приложениями для структурированных данных.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Экспорт таблиц Word для обработки данных
+- Интеграция с аналитикой и системами баз данных
+- Предприятий отчетность и структурированный архив
+- Миграция табличных данных для академических или исследовательских целей
+- Извлечение табличных данных на основе шаблонов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры Word-to-TSV
+- Пакетное извлечение для аналитики и отчетности
+- Структурированные рабочие процессы с документами
+- Автоматизация табличных данных на предприятии
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

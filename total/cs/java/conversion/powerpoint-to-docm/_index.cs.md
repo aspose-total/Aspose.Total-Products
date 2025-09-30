@@ -53,7 +53,26 @@ Pomocí API můžete také provést převod POWERPOINT souboru na DOCM s vodozna
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu do DOCM** umožňuje export snímků do **dokumentů Word s makry**, zachovávající automatizaci a interaktivitu v prostředí dokumentu.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Uchování maker při přenosu dat prezentace  
+- Vytváření interaktivních zpráv s automatizačními skripty  
+- Firemní šablony s vestavěnými funkcemi  
+- Sestavování zpráv o souladu s předdefinovanými makry  
+- Akademické nebo firemní dokumenty vyžadující dynamický obsah
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované konverzní toky zachovávající makra  
+- Generování dokumentů s makry řízené JSONem/snímkem  
+- Firemní pracovní postupy s šablonami s makry  
+- Zjednodušené vytváření automatizovaných zpráv ze snímků
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

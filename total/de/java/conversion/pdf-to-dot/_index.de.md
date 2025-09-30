@@ -130,7 +130,27 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Umwandlung von **PDF in DOT** ist eine leistungsstarke Möglichkeit, **Word-Dokumentvorlagen** direkt aus PDFs zu erstellen. Mit Online-PDF-zu-DOT-Tools und automatisierten Workflows können Unternehmen das Branding bewahren, die Konsistenz wahren und den Einsatz von Vorlagen problemlos über Abteilungen hinweg skalieren.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Erstellung von Unternehmensdokumentenvorlagen
+- Rechtliche Verträge mit einheitlicher Struktur
+- HR-Formulare und Einarbeitungspakete
+- Marketingmaterial mit konsistentem Branding
+- Von Regierungsbehörden herausgegebene standardisierte Vorlagen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte PDF-zu-DOT-Vorlagenerstellungspipelines
+- Stapelverarbeitung von PDF zu DOT für Unternehmen
+- Workflow-Automatisierung für Unternehmensvorlagen
+- Dynamische Vorlagenerstellung aus PDF-Archiven
+- Dokumentenstandardisierung im großen Maßstab
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

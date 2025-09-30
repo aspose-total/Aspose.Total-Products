@@ -102,7 +102,26 @@ otherformats: DOTX ODT WORDML DOT DOTM WORD RTF DOCM DOC TEXT FLATOPC DOCX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **PowerPoint в OTT** дозволяє експортувати слайди як **шаблони текстових документів OpenDocument**, що дозволяє використовувати шаблони для стандартизованої документації.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+- Створення повторно використовуваних текстових шаблонів з презентацій
+- Стандартизована корпоративна або академічна документація
+- Звітність на основі шаблонів та пропозиції проекти
+- Архівування структур презентацій у вигляді шаблонів
+- Створення освітніх або навчальних шаблонів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизоване створення шаблонів текстових документів OpenDocument
+- Інтеграція робочого процесу для корпоративних бібліотек шаблонів
+- Пакетне перетворення слайдів у повторно використовувані шаблони
+- Автоматизація документів на основі шаблонів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

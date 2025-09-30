@@ -61,7 +61,26 @@ Podczas konwertowania pliku POWERPOINT do FODS możesz również dodać znak wod
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do FODS** pozwala na eksportowanie tabel prezentacji do **Płaskiej Arkusza Kalkulacyjnego OpenDocument**, co jest przydatne do analizy, wymiany danych i raportowania.
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+- Wyodrębnianie danych tabeli slajdów do arkuszy kalkulacyjnych
+- Współdzielenie danych międzyplatformowe za pomocą narzędzi OpenDocument
+- Analiza danych i raportowanie w przedsiębiorstwie
+- Archiwizacja strukturalnych danych slajdów
+- Przygotowywanie raportów numerycznych lub tabelarycznych z prezentacji
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+- Zautomatyzowane wyodrębnianie tabel do formatu FODS
+- Integracja z potokami analitycznymi
+- Konwersja slajdów na arkusze kalkulacyjne w trybie wsadowym
+- Automatyzacja przepływu pracy oparta na danych
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

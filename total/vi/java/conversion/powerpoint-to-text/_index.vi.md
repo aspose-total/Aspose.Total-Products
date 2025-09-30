@@ -53,7 +53,26 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POWER
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint thành VĂN BẢN** cho phép xuất các slide thành định dạng **văn bản thuần túy**, lý tưởng cho việc trích xuất dữ liệu, phân tích văn bản hoặc chia sẻ nội dung nhẹ.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Trích xuất văn bản cho phân tích hoặc xử lý trí tuệ nhân tạo
+- Chuẩn bị báo cáo hoặc ghi chú dưới dạng văn bản thuần túy
+- Lưu trữ nhẹ nội dung của slide
+- Tái sử dụng nội dung cho email hoặc kịch bản
+- Tài liệu đơn giản hóa từ các bài thuyết trình
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- Các luồng công việc tự động hóa trích xuất slide thành văn bản
+- Tích hợp với hệ thống phân tích NLP hoặc trí tuệ nhân tạo
+- Luồng công việc văn bản doanh nghiệp từ các bài thuyết trình
+- Trích xuất nội dung theo lô cho báo cáo
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

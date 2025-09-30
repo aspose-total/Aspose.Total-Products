@@ -57,7 +57,27 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 DICOM으로 변환**하는 것은 의료 분야에서 매우 중요합니다. 의료 영상 및 임상 문서화를 통합해야 하는 경우 **PDF 의료 보고서**를 **PACS 서버용 DICOM 형식**으로 변환할 수 있습니다. 이는 방사선학적 워크플로우 및 장기 병원 아카이빙에 필요합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- DICOM 영상 시스템으로 의료 보고서 통합
+- 방사선학 및 심장학 보고서용 PDF를 DICOM으로 변환
+- 병원 PACS 서버 아카이빙 및 규정 준수
+- 시스템 간 구조화된 의료 데이터 공유
+- 표준화된 환자 기록 관리
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- **PDF를 DICOM으로 자동 변환하는 의료 영상 파이프라인
+- PDF 스캔을 DICOM 아카이브로 일괄 변환
+- 병원 EMR/EHR을 PDF-to-DICOM 워크플로우와 통합
+- 규정 준수를 위한 기업 의료 영상 자동화
+- 임상 데이터의 안전하고 자동화된 전송
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

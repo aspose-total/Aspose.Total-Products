@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたWORDドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをPOTXに変換**することで、Wordコンテンツを**PowerPointテンプレート（POTXファイル）**に変換し、企業や学術用途に再利用可能でマクロフリーなプレゼンテーションテンプレートを提供します。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- 再利用可能なマクロフリーのPowerPointテンプレートの作成
+- 標準化された企業プレゼンテーションテンプレート
+- 学術および研究用スライドの準備
+- テンプレート駆動型の企業レポートおよびブリーフィング
+- マクロのないスライドのワークフロー自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- WordからPOTXへの自動テンプレート生成
+- テンプレート再利用のためのバッチ変換
+- テンプレート駆動型のスライド自動化ワークフロー
+- 企業向けのプレゼンテーションパイプライン
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

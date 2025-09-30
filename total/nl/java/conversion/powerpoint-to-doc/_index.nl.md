@@ -53,7 +53,24 @@ Met behulp van de API kunt u ook een POWERPOINT-bestand naar DOC-conversie met w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PowerPoint naar DOC** maakt een naadloze transformatie van presentatie-inhoud naar **bewerkbare Word-documenten** mogelijk, waardoor het gemakkelijker wordt om dia's opnieuw te gebruiken voor rapporten, documentatie of samenwerking bij het bewerken.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Hergebruik van presentatiedia's in tekstuele rapporten
+- Samenwerking bij het bewerken en annoteren in Word
+- Voorbereiden van officiële vergaderingsnotulen of rapporten
+- Archiveren van presentaties als Word-documenten
+- Educatieve hand-outs afgeleid van dia's
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde batchconversie van presentaties naar Word
+- Integratie in rapportagepijplijnen
+- PowerPoint-gestuurde documentworkflows
+- Hergebruik van ondernemingsinhoud voor meerdere teams
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

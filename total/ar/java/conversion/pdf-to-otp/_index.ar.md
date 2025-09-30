@@ -121,7 +121,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ملفات PDF إلى OTP** مهم لإنشاء ملفات **قالب العرض لمستندات OpenDocument**، مما يمكن من استخدام قوالب الشرائح القابلة لإعادة الاستخدام عبر المؤسسات التجارية والمؤسسات التعليمية والهيئات الحكومية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- قوالب العروض الموحدة للشركات
+- قوالب سلسلة محاضرات أكاديمية
+- وحدات الاتصال والتدريب الحكومية
+- أرشيف العروض الخاص بالمنظمات غير الحكومية
+- سير العمل التصميمية التعاونية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- خطوط أنابيب التحويل التلقائي من PDF إلى OTP
+- أتمتة العروض بناءً على القوالب
+- إنشاء قوالب دفعي من ملفات PDF المؤرشفة
+- تكامل سير العمل مع LibreOffice Impress
+- مستودعات القوالب المركزية للمنظمات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

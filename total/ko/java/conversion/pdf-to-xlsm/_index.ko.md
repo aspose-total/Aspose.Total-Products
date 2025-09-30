@@ -47,7 +47,27 @@ PDF 파일을 XLSM로 변환하는 동안 출력 XLSM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 XLSM으로 변환**하는 것은 조직이 PDF 데이터로부터 직접 **매크로가 활성화된 Excel 스프레드시트**를 생성할 수 있게 합니다. 온라인 PDF에서 XLSM으로의 변환 도구와 자동화는 업무에 고급 계산, 스크립트 및 Excel 파일에서의 워크플로우 통합을 가능하게 합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 자동화된 재무 예측 모델
+- 재사용 가능한 스크립트를 포함한 연구 데이터셋
+- 포함된 매크로로의 준수 검사
+- 비즈니스 인텔리전스 대시보드
+- 기업 스프레드시트 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 보고를 위한 자동화된 PDF-to-XLSM 파이프라인
+- 매크로가 포함된 일괄 XLSM 생성
+- PDF 보고서로부터의 재무 모델 변환
+- 매크로가 활성화된 Excel을 통한 워크플로우 자동화
+- 기업 수준의 매크로 통합
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

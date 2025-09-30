@@ -61,7 +61,26 @@ otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM DIF MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в DIF** позволяет экспортировать данные презентации в **формат обмена данными**, облегчая структурированный обмен данными между приложениями.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Передача данных презентации в таблицы или инструменты аналитики  
+- Архивирование данных в стандартизированных форматах  
+- Интеграция с финансовыми или исследовательскими системами  
+- Потоки предприятий отчетности  
+- Подготовка слайдов на основе данных для кроссплатформенного использования
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные рабочие процессы преобразования слайдов в DIF  
+- Извлечение данных из презентаций для аналитики  
+- Автоматизация отчетности предприятий  
+- Интеграция с потоками бизнес-аналитики
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

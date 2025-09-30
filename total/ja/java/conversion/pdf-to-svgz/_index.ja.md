@@ -57,7 +57,27 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをSVGZに変換**することで、ベクターベースのPDFグラフィックを**圧縮されたスケーラブルベクターグラフィックス（SVGZ）**ファイルとして保存できます。これは、**Webパブリッシング、CAD図面、レスポンシブデザイン**など、拡張性とパフォーマンスが重要な場面で特に価値があります。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- SVGZとしてスケーラブルなPDFグラフィックスをWebに公開  
+- エンジニアリングおよびデザインワークフロー向けのCAD図面のエクスポート  
+- 大きなPDFを軽量なSVGZファイルに圧縮  
+- ウェブサイトやモバイルアプリ向けのレスポンシブダイアグラム  
+- 圧縮されたベクターフォーマットでの技術図面のアーカイブ  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからSVGZへのエクスポートパイプライン**  
+- エンジニアリングチーム向けのバッチPDFベクター変換  
+- PDFファイルからのSVGZを使用したWebパブリッシングワークフロー  
+- 圧縮された出力を使用したエンタープライズグラフィックスの自動化  
+- PDFからSVGZへのAPIのシステム統合  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

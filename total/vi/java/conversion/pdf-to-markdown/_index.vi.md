@@ -129,7 +129,27 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang Markdown (MD)** giúp trích xuất nội dung sạch, nhẹ và dễ di động từ PDF cho **nhà phát triển, nhà văn và quy trình tài liệu**. Điều này đảm bảo báo cáo hoặc bài viết PDF có thể được tái sử dụng trên các nền tảng dựa trên **Markdown như GitHub, các trình tạo trang tĩnh hoặc hệ thống quản lý nội dung**.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Xuất bản bài viết PDF dưới dạng **bài blog Markdown**  
+- Di dời tài liệu kỹ thuật từ PDF sang MD cho GitHub  
+- Quy trình tài liệu cho nhà phát triển và dự án mã nguồn mở  
+- Chuyển đổi các nghiên cứu học thuật từ PDF sang định dạng Markdown nhẹ  
+- Lưu trữ nội dung PDF cho **các trình tạo trang tĩnh (Hugo, Jekyll, v.v.)**  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- **Các luồng công việc tự động hóa từ PDF sang Markdown**  
+- Chuyển đổi hàng loạt báo cáo thành MD để tái sử dụng nội dung  
+- Luồng công việc CI/CD biến đổi PDF thành tài liệu Markdown  
+- Chuyển đổi dựa trên API cho các nền tảng cơ sở kiến thức  
+- Di dời tự động từ PDF kế thừa sang các kho lưu trữ Markdown  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

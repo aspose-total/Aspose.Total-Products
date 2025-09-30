@@ -130,7 +130,27 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PDF na MHTML** (format archiwum internetowego) jest niezbędne do przekształcania dokumentów w **strony HTML w pojedynczym pliku z osadzonymi zasobami**. Umożliwia to łatwe rozpowszechnianie plików PDF jako plików gotowych do publikacji w internecie do **archiwizacji, cyfrowej publikacji i przeglądania w przeglądarce**.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- PDF na MHTML dla archiwizacji w pojedynczym pliku internetowym
+- Konwertowanie raportów na przeglądalne w przeglądarce **archiwa internetowe**
+- Przepływy pracy w przedsiębiorstwie dla **dystrybucji dokumentów opartych na HTML**
+- Przechowywanie dokumentów prawnych i zgodności jako MHTML
+- Przepływy pracy z publikacją cyfrową, konwertujące pliki PDF na **formaty gotowe do publikacji w internecie**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane **potoki PDF do MHTML**
+- Przetwarzanie wsadowe plików PDF na archiwa internetowe
+- Integracja systemów zarządzania treścią przedsiębiorstwa dla wyników MHTML
+- Zautomatyzowane przepływy pracy z publikacją z konwersją PDF na MHTML
+- Konwersja plików PDF w przeglądarce na **samodzielne archiwa HTML**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

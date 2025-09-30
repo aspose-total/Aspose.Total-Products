@@ -121,7 +121,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na POT** umožňuje vytváření souborů **šablon PowerPointu** z PDF snímků. To je cenné pro organizace potřebující **standardizované šablony prezentací** pro schůzky, školení a firemní komunikaci.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Standardizované firemní šablony prezentací
+- Vytváření šablon vzdělávacích přednáškových sérií
+- Školicí moduly pro podniky a neziskové organizace
+- Archivy marketingových a prodejních šablon
+- Opakovaně použitelné designy snímků pro workshopy a webináře
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **potrubí šablon PDF na POT**
+- Hromadná generace šablon prezentací
+- Integrace pracovního postupu s PowerPointem pro opakované použití šablon
+- Centralizovaný management šablon pro organizace
+- Firemní automatizace tvorby prezentací
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

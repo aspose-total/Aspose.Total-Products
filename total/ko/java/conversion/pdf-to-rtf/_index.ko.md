@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 RTF로 변환**하는 것은 업무에서 **Rich Text Format 문서**를 생성하여 다양한 플랫폼에서 호환되는 문서를 만들 수 있게 합니다. 온라인 PDF에서 RTF로 변환하는 도구와 자동화를 통해 기업은 전 세계의 레거시 시스템과의 원활한 편집, 공유 및 통합을 보장할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 다양한 플랫폼 간 문서 공유
+- 레거시 시스템 호환성
+- 법적 문서 이식성
+- 표준 형식의 학술 제출
+- 장기 접근성을 위한 아카이빙
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 문서 교환을 위한 자동화된 PDF-to-RTF 파이프라인
+- PDF 아카이브에서 대량의 RTF 생성
+- 기업 전반에 걸친 RTF 워크플로우
+- RTF와의 레거시 응용 프로그램 통합
+- 시스템 간 상호 운용성 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

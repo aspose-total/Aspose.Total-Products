@@ -61,7 +61,26 @@ otherformats: SXC XLSM ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в XLSM** позволяет преобразовывать документы Word в **Excel Macro-Enabled Workbooks (XLSM)**, обеспечивая автоматизацию с помощью макросов VBA и улучшенные рабочие процессы с электронными таблицами.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Создание макро-включенных отчетов Excel на основе данных Word
+- Автоматизация рабочих процессов предприятия
+- Академические исследовательские наборы данных с автоматизированными расчетами
+- Преобразование документов в электронные таблицы на основе шаблонов
+- Структурированная отчетность для государственных и корпоративных нужд
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматическое создание отчетов Word в формате XLSM
+- Автоматизация рабочих процессов с макросами
+- Создание макросов Excel на основе шаблонов
+- Автоматизация документооборота на предприятии
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

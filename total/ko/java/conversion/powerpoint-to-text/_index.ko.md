@@ -53,7 +53,26 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 TEXT로 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 TEXT로 변환**하면 **일반 텍스트 형식**으로 슬라이드를 내보낼 수 있어 데이터 추출, 텍스트 분석 또는 가벼운 콘텐츠 공유에 이상적입니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 분석이나 AI 처리를 위한 텍스트 추출
+- 일반 텍스트 보고서나 메모 작성
+- 슬라이드 콘텐츠의 가벼운 아카이빙
+- 이메일이나 스크립트용 콘텐츠 재활용
+- 프레젠테이션으로부터 단순화된 문서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 슬라이드에서 텍스트 추출 파이프라인
+- NLP 또는 AI 분석 시스템과 통합
+- 프레젠테이션으로부터의 기업용 텍스트 워크플로우
+- 보고서용 일괄 콘텐츠 추출
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

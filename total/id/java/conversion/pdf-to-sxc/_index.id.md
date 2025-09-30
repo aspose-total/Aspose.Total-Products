@@ -47,7 +47,27 @@ Saat mengonversi file PDF ke SXC, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke SXC (Lembar Kerja OpenOffice Calc)** membantu mengekstrak data terstruktur dari PDF ke format **lembar kerja open-source**, memungkinkan analisis lebih lanjut, pelaporan, dan penelitian akademis.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Ekstraksi data akademis dan penelitian
+- Alur kerja lembar kerja open-source (LibreOffice/OpenOffice)
+- Pelaporan data keuangan dan ilmiah
+- Migrasi tabel PDF ke format SXC yang dapat diedit
+- Pengarsipan dan penggunaan ulang lembar kerja perusahaan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa data PDF ke SXC otomatis**
+- Konversi batch laporan dan kumpulan data
+- Integrasi dengan sistem analisis data dan pelaporan
+- Otomatisasi alur kerja perusahaan dan akademis
+- Ekstraksi tabel PDF ke format lembar kerja open-source
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

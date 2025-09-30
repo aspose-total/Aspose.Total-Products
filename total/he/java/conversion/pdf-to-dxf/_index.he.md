@@ -105,7 +105,27 @@ otherformats: WMF PSD APNG IMAGE TGA EMZ WMZ JPEG2000 SVGZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל־DXF** חיונית עבור מהנדסים, אדריכלים ומעצבים שצריכים להמיר מסמכים סטטיים לשרטוטים **שניתן לעבוד איתם ב-AutoCAD**. זה מאפשר שימוש חלקי של **תוכניות PDF** בתהליכי CAD עבור בנייה, ייצור ועיצוב בתלת-מימד.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת תוכניות אדריכליות מ-PDF ל־DXF
+- שימוש מחדש בשרטוטי הנדסיים בתוכנות CAD
+- תהליכי ייצור שדורשים קלט שניתן לעבוד איתו ב־CAD
+- העברת סכמות מ-PDF לפורמטים של DXF
+- שיתוף עיצוב משותף בין צוותים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות CAD מ-PDF ל-DXF** אוטומטיים
+- המרת תוכניות אדריכליות בצפצוף לפרויקטי בנייה
+- אוטומציה של PDF ל-DXF לשרטוטי ייצור
+- תהליכי ייצוא DXF למערכות הנדסה עסקית
+- אוטומציה נתמכת בגודל של CAD המשלבת קלטים מ-PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ otherformats: XLSX XLSM XLT SXC XLS XLTM FODS XLSB DIF XLTX XLAM EXCEL TSV ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى CSV** يمكن استخراج البيانات الجدولية من مستندات Word إلى تنسيق **قيم مفصولة بفواصل (CSV)**، مما يجعلها جاهزة للتحليلات واستيراد قواعد البيانات ومعالجة الجداول.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تصدير جداول Word إلى أنظمة جداول بيانات أو قواعد بيانات
+- تبادل البيانات بين مستندات Word وأدوات التحليل
+- تقارير المؤسسات بتنسيق موحد وقابل للنقل
+- إعداد البيانات الأكاديمية والبحثية
+- ترحيل البيانات المهيكلة في Word للأرشفة أو التكامل
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- خطوط أنابيب استخراج Word-to-CSV المؤتمتة
+- تحويل دفعي لسير العمل التحليلية
+- أتمتة تقارير مدعومة بـ CSV
+- التكامل مع قواعد البيانات وأدوات الذكاء التجاري
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

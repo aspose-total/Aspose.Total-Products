@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 PCL (프린터 명령어 언어)**로 변환은 PDF를 기업 프린터용 PCL 명령어로 변환해야 하는 인쇄 워크플로우에서 널리 사용됩니다. 이를 통해 **대량의 사무실 인쇄, 정부 문서 작성 및 기업 일괄 인쇄 작업과의 호환성**이 보장됩니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF를 PCL로 변환하는 기업 인쇄 워크플로우
+- 안전한 인쇄를 위해 PCL을 사용하는 정부 기관
+- 대량의 기업 인쇄 환경
+- **PCL 호환 입력**이 필요한 일괄 인쇄 작업
+- 규정 준수 및 감사를 위한 PDF에서 PCL로의 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-PCL 프린트 파이프라인**
+- PCL 출력을 사용한 일괄 PDF 인쇄
+- PDF-to-PCL 도구를 통합한 기업 프린트 서버 통합
+- 정부 및 기업 인쇄를 위한 워크플로우 자동화
+- PDF 아카이브로부터의 대량 자동 인쇄
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

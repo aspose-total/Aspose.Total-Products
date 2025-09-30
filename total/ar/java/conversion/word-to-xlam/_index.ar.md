@@ -61,7 +61,26 @@ otherformats: XLAM XLS ODS XLSB FODS XLT XLSX DIF XLTM XLTX XLSM EXCEL SXC TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى XLAM** هو العنصر الأساسي لتحويل محتوى Word إلى ملفات **إضافة Excel**، مما يتيح التشغيل التلقائي، والماكروهات، والتكامل مع سير العمل في Excel مع استغلال بيانات الوثيقة المنظمة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء إضافات Excel من قوالب Word
+- دمج الوثائق الشركية في التشغيل التلقائي لـ Excel
+- إعداد تقارير معمقة معتمدة على الماكروهات للشركات والمؤسسات المالية
+- دمج سير العمل الأكاديمي أو البحثي
+- الأتمتة لأنظمة متقادمة باستخدام إضافات مشتقة من Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- توليد إضافات تلقائية Word-to-XLAM
+- إنشاء سير عمل معتمد على القوالب وممكن للماكروهات
+- تقارير المؤسسات والأتمتة في المهام
+- خطوط الأتمتة في Excel مدفوعة بالوثائق
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

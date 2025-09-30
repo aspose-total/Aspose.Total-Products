@@ -57,7 +57,27 @@ APIを使用すると、必要に応じて出力IMAGE画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFを画像に変換**することは、文書をPNG、JPG、またはTIFFなどのさまざまな画像形式に変換することを可能にする、最も一般的なワークフローの1つです。これにより、PDFを**Web公開、アーカイブ、デジタルプレゼンテーション**環境でより使いやすくすることができます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- PDF文書を画像ファイルとしてアーカイブする
+- PNGまたはJPGとしてWebサイトにPDFページを埋め込む
+- PDFからサムネイルやプレビューを作成する
+- デジタルスライドやプレゼンテーションにPDFを統合する
+- コンプライアンスや監査のための画像ベースのストレージ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFから画像へのバッチパイプライン**
+- Webプラットフォーム向けのPDFからPNGまたはJPGへのワークフロー
+- 文書管理システム向けのプレビュー画像生成
+- 企業のアーカイブ用の複数ページTIFFへのPDF変換
+- APIベースのPDFから画像への自動変換
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

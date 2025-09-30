@@ -47,7 +47,27 @@ Saat mengonversi file PDF ke ODS, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke ODS** memungkinkan mengubah **laporan PDF ke format Spreadsheet OpenDocument**, memastikan aksesibilitas dan fleksibilitas untuk analisis data, laporan keuangan, dan kumpulan data ilmiah.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Laporan keuangan dan catatan akuntansi
+- Sistem pelaporan kelas enterprise
+- Inisiatif berbagi data pemerintah
+- Kumpulan data penelitian akademis
+- Penyimpanan data terstruktur jangka panjang
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Alur kerja ekstraksi data PDF ke ODS
+- Pipa konversi otomatis untuk keuangan dan penelitian
+- Pembuatan spreadsheet yang didorong JSON/XML
+- Otomatisasi pelaporan enterprise
+- Transformasi data digital yang dapat diskalakan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

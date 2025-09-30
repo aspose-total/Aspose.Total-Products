@@ -121,7 +121,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 PPSX로 변환**하면 PDF에서 **PowerPoint 슬라이드 쇼 파일**을 생성하여 수동 편집 없이 즉시 프레젠테이션을 슬라이드 쇼 모드로 볼 수 있습니다. 이는 **기업 행사, 마케팅, 교육 및 학술 강의**에 매우 유용하며 즉시 발표 가능한 파일이 필요한 경우에 사용됩니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 즉시 재생 가능한 기업 프레젠테이션 슬라이드
+- 행사 및 마케팅 캠페인 슬라이드쇼
+- 교육 강의 및 훈련 세션
+- 컨퍼런스 및 세미나 프레젠테이션
+- 보관 중인 PDF를 재사용 가능한 슬라이드쇼로 자동 변환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동 **PDF를 PPSX 슬라이드쇼로 생성**
+- 여러 PDF를 일괄 처리하여 슬라이드쇼용 파일로 변환
+- 기업 교육 및 학술 행사용 워크플로 자동화
+- 기업 문서 시스템과의 통합
+- 확장 가능한 프레젠테이션 게시 파이프라인
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

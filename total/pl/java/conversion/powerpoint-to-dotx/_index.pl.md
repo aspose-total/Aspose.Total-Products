@@ -53,7 +53,26 @@ Korzystając z API, możesz również wykonać konwersję pliku POWERPOINT do DO
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do DOTX** pozwala na eksportowanie slajdów do **nowoczesnych formatów szablonów Worda**, idealnych do tworzenia wielokrotnie używanych i standaryzowanych szablonów bez makr.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Tworzenie nowoczesnych szablonów do dokumentacji korporacyjnej
+- Standaryzacja materiałów edukacyjnych
+- Wielokrotne wykorzystanie szablonów projektów lub raportów
+- Archiwizowanie prezentacji jako szablonów
+- Współpraca zespołu nad dokumentami opartymi na szablonach
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczna konwersja slajdów na szablony
+- Generowanie szablonów w rurociągach dla przedsiębiorstw
+- Integracja procesów z systemami zarządzania treścią
+- Automatyzacja powtarzalnych raportów lub dokumentów projektowych
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ WORD를 XLTM로 변환한 후 [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 XLTM으로 변환**하면 Word 문서를 **매크로가 가능한 Excel 템플릿 (XLTM)** 파일로 변환할 수 있어 기업 업무 흐름을 위한 자동화, 매크로 및 재사용 가능한 스프레드시트 템플릿을 제공합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word로부터 매크로가 가능한 Excel 템플릿 생성
+- 자동화를 통한 기업 보고
+- 매크로 사용을 통한 학술 및 연구 업무
+- 템플릿 기반의 매크로가 가능한 스프레드시트 생성
+- 기업 및 정부의 구조화된 보고서
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- Word-to-XLTM 자동화된 템플릿 파이프라인
+- 매크로 기반의 업무 자동화
+- 재사용 가능한 매크로가 가능한 템플릿 일괄 생성
+- 기업급 보고 및 자동화 업무 흐름
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

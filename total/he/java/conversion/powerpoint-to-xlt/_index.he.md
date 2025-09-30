@@ -102,7 +102,26 @@ otherformats: EXCEL XLAM DIF MARKDOWN CSV XLTM XLSX XLSB TSV XLS SXC FODS XLSM O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-XLT** מאפשרת ייצוא שקופיות כ **תבניות Excel מסורתיות**, מאפשרת תבניות חוזרות מנתוני המצגת לדיווח תקני.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תבניות Excel חוזרות ממצגות
+- תקנות דיווחים עסקיים או אקדמיים
+- ארכיבת שקופיות כספריות תבניות
+- הכנת תבניות מובנות לפרויקטים או דיווחים
+- יצירת תבנית מסורתית לגרסאות ישנות יותר של Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירת תבנית משקפים ל-XLT אוטומטית
+- אינטגרציה של תהליכי עבודה לספריות תבניות עסקיות
+- יצירת תבניות בצורה צפופה ממצגות מרובות
+- אוטומציה של דיווחים מבוססי תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

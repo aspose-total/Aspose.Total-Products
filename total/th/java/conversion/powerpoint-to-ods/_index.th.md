@@ -61,7 +61,26 @@ otherformats: FODS XLAM TSV ODS XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น ODS** ช่วยให้สามารถส่งออกตารางในงานนำเสนอเป็นรูปแบบ **OpenDocument Spreadsheet** ซึ่งเป็นการทำให้สามารถวิเคราะห์ข้อมูลโครงสร้างและเพิ่มความเข้ากันได้กับหลายแพลตฟอร์ม
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- การสกัดตารางในสไลด์เพื่อวิเคราะห์ในสเปรดชีต  
+- รายงานและการวิเคราะห์ขององค์กร  
+- การแบ่งปันข้อมูลข้ามแพลตฟอร์มด้วยเครื่องมือ OpenDocument  
+- การเก็บข้อมูลโครงสร้างในสไลด์  
+- เตรียมรายงานตัวเลขหรือตารางจากงานนำเสนอ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- การสกัดตารางโดยอัตโนมัติเป็นรูปแบบ ODS  
+- การผสานกับท่อไซต์วิเคราะห์ข้อมูล  
+- การแปลงสไลด์เป็นสเปรดชีตเป็นชุด  
+- การทำงานของการรายงานที่ขับเคลื่อนด้วยข้อมูล
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

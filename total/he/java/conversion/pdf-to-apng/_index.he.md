@@ -105,7 +105,27 @@ otherformats: IMAGE SVGZ WMZ JPEG2000 DXF TGA  PSD EMZ WMF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-APNG** שימושית כאשר יש צורך לייצג אלמנטים אינטראקטיביים או מונפשים בתבנית **פורמט Animated PNG**. זה מאפשר לארגונים לשפר תוכן דיגיטלי על ידי המרת איורים, אינפוגרפיקות ותרשימים דינמיים ב-PDF ל**אנימציות APNG קלות משקל**.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת אינפוגרפיקות מונפשות מקבצי PDF
+- המרת שקופיות PDF ל-APNG למצגות
+- פרסום ברשת עם אנימציות APNG שיוצאות מ-PDF
+- חומרי למידה הדורשים **תרשימים מונפשים**
+- שיפור פלטפורמות למידה ממוחשבות עם תמונות מונפשות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות אנימציה מ-PDF ל-APNG** אוטומטיים
+- המרת איורי PDF בצורת APNG בצורה צינורית
+- זרימות עבודה מ-PDF ל-APNG לפרסום דיגיטלי
+- אוטומציה של גרפיקה ברמה הארגונית של מסמכים
+- המרת PDF ל-APNG המופעלת על ידי API לפלטפורמות תוכן
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

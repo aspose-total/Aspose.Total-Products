@@ -61,7 +61,26 @@ POWERPOINTファイルをXLTに変換するときに、出力XLTファイル形�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをXLTに変換**することで、スライドを**従来のExcelテンプレート**としてエクスポートでき、標準化されたレポート用のプレゼンテーションデータから再利用可能なテンプレートを作成できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- プレゼンテーションから再利用可能なExcelテンプレートを作成する
+- 企業や学術報告の標準化
+- スライドをテンプレートワークブックとしてアーカイブする
+- 構造化されたプロジェクトや報告のテンプレートを準備する
+- 古いExcelバージョン向けの従来のテンプレート作成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化されたスライドからXLTテンプレートの生成
+- 企業テンプレートライブラリのワークフロー統合
+- 複数のプレゼンテーションからの一括テンプレート作成
+- テンプレート駆動の報告自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

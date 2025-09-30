@@ -143,7 +143,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 GIF로** 변환하는 프로세스는 PDF 문서에서 **동적 또는 정적 GIF**를 생성하는 데 널리 사용됩니다. 이를 통해 PDF 페이지를 가벼운 GIF로 빠르게 공유할 수 있어 **소셜 미디어, e러닝 및 디지털 마케팅 워크플로우**에 이상적입니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF 프레젠테이션을 동적 GIF로 변환
+- **소셜 미디어 플랫폼**에 PDF 콘텐츠 공유
+- PDF 다이어그램에서 교육용 GIF 생성
+- **가벼운 GIF 콘텐츠**를 활용한 마케팅 캠페인
+- PDF 페이지의 빠른 미리보기 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF를 GIF로 일괄 변환**
+- 소셜 미디어 일정에 맞는 PDF-to-GIF 파이프라인
+- 교과서에서 GIF 생성하는 교육 워크플로우
+- GIF 캠페인을 위한 마케팅 플랫폼 통합
+- PDF 미리보기를 GIF로 하는 기업 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -130,7 +130,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをMarkdown（MD）に変換**することで、**開発者、ライター、およびドキュメントワークフロー**向けにPDFからクリーンで軽量かつポータブルなコンテンツを抽出することが可能になります。これにより、PDFレポートや記事を**GitHub、静的サイトジェネレータ、またはコンテンツ管理システム**などのMarkdownベースのプラットフォームで再利用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- **Markdownブログ投稿**としてPDF記事を公開する
+- GitHub向けにPDFからMDへの技術文書の移行
+- 開発者やオープンソースプロジェクト向けのドキュメントワークフロー
+- 軽量なMarkdown形式への学術研究PDFの変換
+- **静的サイトジェネレータ（Hugo、Jekyllなど）**向けのPDFコンテンツの保存
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからMarkdownへのパイプライン**
+- レポートのバッチ変換によるMDへのコンテンツ再利用
+- CI/CDワークフローによるPDFからMarkdown文書への変換
+- ナレッジベースプラットフォーム向けのAPI駆動型変換
+- 旧式のPDFからMarkdownリポジトリへの自動移行
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

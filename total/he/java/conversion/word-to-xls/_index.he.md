@@ -102,7 +102,26 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-XLS** מאפשרת לייצא טבלאות Word לתבנית הישנה של **גיליון האלקסל (XLS)**, ששומרת על מבנה לצורך דיווח עסקי וניתוח גיליונות אלקסל.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- העברת טבלאות Word לתבניות אלקסל ישנות
+- דיווח עסקי וניתוח פיננסי
+- הכנת נתונים אקדמיים ומחקריים
+- אינטגרציה של מסמכי ממשל
+- יצירת גיליונות אלקסל מבוססי תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות עיבוד אוטומטיים של Word-to-XLS
+- יצירת גיליונות אלקסל בהתאמה לתבנית
+- אוטומציה של דיווחים ברמה עסקית
+- זרימות עבודה לאינטגרציה עם מערכות ישנות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

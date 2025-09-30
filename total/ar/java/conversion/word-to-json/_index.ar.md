@@ -49,7 +49,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى JSON** أمر حيوي لاستخراج المحتوى المنظم من مستندات Word إلى تنسيق **JSON**، مما يسهل تطبيقات البيانات المدفوعة، وتكامل واجهة برمجة التطبيقات، وسير العمل الحديثة على الويب أو في الشركات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تبادل البيانات بين أنظمة المستندات والتطبيقات
+- دمج محتوى Word مع منصات الويب والهواتف المحمولة
+- استخراج محتوى المستند بناءً على القوالب
+- أرشفة المحتوى المنظم للحكومة والبحث
+- نشر أكاديمي أو شركاتي منظم
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- خطوط أنابيب استخراج Word-to-JSON
+- إنشاء محتوى المستند الجاهز للواجهة البرمجية بشكل آلي
+- أتمتة سير العمل بناءً على JSON
+- إنشاء تقارير مستندات منظمة بمقياس المؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

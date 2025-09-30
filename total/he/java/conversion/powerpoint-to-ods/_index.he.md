@@ -102,7 +102,26 @@ otherformats: FODS XLAM TSV CSV XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-ODS** מאפשרת ייצוא שולחנות המצגת לתבנית **גיליון נתונים של OpenDocument**, שמאפשר ניתוח נתונים מובנה ותאימות למספר פלטפורמות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- חילוץ טבלאות משקפים לניתוח בגיליון נתונים
+- דיווח וניתוח עסקי
+- שיתוף נתונים בין פלטפורמות עם כלי OpenDocument
+- ארכיבת נתוני שקפים מובנים
+- הכנת דוחות מספריים או טבלאיים ממצגות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- חילוץ טבלאות באופן אוטומטי לתבנית ODS
+- שילוב עם צינורות אנליטיים
+- המרות מצגות לגיליונות נתונים בצורה צפופה
+- זרימות עבודה לדיווח מבוסס נתונים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,27 @@ otherformats: SXC XLSM XLSB XLAM FODS DIF XLT TXT TSV XLTM XLTX MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ملف PDF إلى FODS (جدول بيانات ODF المسطح)** يساعد في استخراج البيانات المهيكلة من ملف PDF إلى **LibreOffice Calc وجداول بيانات متوافقة مع OpenDocument**. يتيح هذا للمؤسسات إعادة استخدام **جداول PDF في FODS معتمدة على XML** للتقارير والتحليل والامتثال.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل PDF إلى FODS لسير العمل في برامج جداول البيانات مفتوحة المصدر
+- تحويل الجداول الأكاديمية إلى جداول بيانات ODF
+- إعادة استخدام البيانات في بيئات LibreOffice وOpenOffice
+- تقارير منظمة بتنسيقات جداول البيانات المعتمدة على XML
+- الأرشفة على المدى الطويل لمحتوى PDF الجدولي
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **أنابيب تحويل PDF إلى FODS** التلقائية
+- معالجة دفعية لجداول PDF إلى جداول بيانات ODF
+- سير العمل المدفوع بواسطة JSON لتوليد FODS من PDF
+- أتمتة تقارير المؤسسات مع تصدير FODS
+- تكامل النظام مفتوح المصدر مع أدوات تحويل PDF إلى FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

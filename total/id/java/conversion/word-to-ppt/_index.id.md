@@ -54,7 +54,26 @@ API juga memungkinkan Anda untuk mengonversi dokumen WORD yang dilindungi kata s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **WORD ke PPT** memungkinkan dokumen Word diekspor ke file **PowerPoint (PPT) lama**, sehingga konten teks siap untuk presentasi untuk penggunaan perusahaan, korporat, dan akademis.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Pembuatan presentasi PPT lama dari laporan Word
+- Slide briefing perusahaan dan korporat
+- Slide penelitian akademis dan pengajaran
+- Presentasi pemerintah dan organisasi
+- Generasi slide berbasis template dari konten Word yang terstruktur
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa slide Word-to-PPT otomatis
+- Konversi batch laporan Word menjadi presentasi
+- Otomatisasi dek slide berbasis template
+- Alur kerja dokumen ke slide kelas perusahaan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

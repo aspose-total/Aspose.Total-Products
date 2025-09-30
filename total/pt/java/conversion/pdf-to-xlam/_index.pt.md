@@ -47,7 +47,25 @@ Ao converter o arquivo PDF para XLAM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para XLAM** permite criar arquivos de **Suplemento do Excel** a partir de macros de planilhas em PDF ou funções personalizadas. Isso é altamente útil para **modelos financeiros automatizados, relatórios empresariais e aprimoramentos de fluxo de trabalho do Excel**.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Criação de macros e suplementos do Excel a partir de dados em PDF
+- Modelos financeiros automatizados e ferramentas de relatório
+- Aprimoramentos de fluxo de trabalho em planilhas empresariais
+- Automação do Excel com base acadêmica ou de pesquisa
+- Distribuição de modelos de suplementos do Excel em grande escala
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de suplementos PDF para XLAM automatizados**
+- Processamento em lote para planilhas financeiras e empresariais
+- Integração com automação de fluxo de trabalho do Excel
+- Pipelines de relatórios habilitados para macro de nível empresarial
+- Distribuição escalável de suplementos do Excel a partir de PDFs
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

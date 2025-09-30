@@ -102,7 +102,26 @@ otherformats: DOTX DOTM FLATOPC RTF DOT WORD DOCX TEXT WORDML ODT OTT DOCM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-DOC** מאפשרת המרה חלקה של תוכן המצגת ל-**מסמך Word ניתן לעריכה**, מה שהופך את השקפים לנמצאים בקלות לשימוש מחדש לצורך דיווחים, תיעוד או עריכה שיתופית.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- שימוש מחודש בשקפים מהמצגת לדוחות טקסטואליים  
+- עריכה שיתופית והערות ב-Word  
+- הכנת דקות פגישה רשמיות או דוחות  
+- ארכיבת מצגות כמסמכי Word  
+- חומרי הדרכה חינוכיים המפונקים מהשקפים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- המרה אוטומטית בצורת סדרת המרות של מצגות ל-Word  
+- שילוב בצינורות דיווח  
+- זרימות עבודה ב-Word המופעלות על ידי PowerPoint  
+- שימוש מחדש בתוכן עסקי למספר צוותים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

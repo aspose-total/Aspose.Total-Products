@@ -105,7 +105,27 @@ otherformats: WMZ JPEG2000 SVGZ WMF TGA PSD DXF APNG EMZ IMAGE
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-DICOM** חיונית לתחום הבריאות, בו עליה להיות אינטגרציה בין תמונות רפואיות ותיעוד קליני. זה מבטיח שניתן להמיר **דוחות רפואיים בפורמט PDF** ל-**DICOM עבור שרתי PACS**, תהליכי רדיולוגיה וארכיון בתי חולים לטווח ארוך.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- אינטגרציה של דוחות רפואיים במערכות תמונות DICOM
+- המרת PDF ל-DICOM עבור דוחות רדיולוגיה וקרדיולוגיה
+- ארכיון והתאמה לשרתי PACS בבתי חולים
+- שיתוף נתונים רפואיים מובנים בין מערכות
+- ניהול רשומות מטופלים מתוקנן
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות אוטומטיים לתמונות רפואיות מ-PDF ל-DICOM
+- המרת סריקות PDF לארכיונים DICOM בצורה גורפת
+- אינטגרציה של EMR/EHR בבתי חולים עם זרימות עבודה מ-PDF ל-DICOM
+- אוטומציה בתחום תמונות רפואיות להתאמה
+- העברת נתונים קליניים מאובטחת ואוטומטית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

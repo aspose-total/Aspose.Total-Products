@@ -121,7 +121,27 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF átalakítása ODP formátumba** alapvető fontosságú az **szerkeszthető bemutatófájlok létrehozásához OpenDocument Presentation formátumban**. Ez nagyon hasznos üzleti bemutatókhoz, oktatási diákhoz és együttműködési környezetekhez, ahol az open-standard fájlkompatibilitás fontos.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Oktatási és tudományos diák megosztása  
+- Üzleti találkozók és open-standard bemutatók  
+- Kormányzati és NGO dokumentáció  
+- Együttműködési projektek a LibreOffice Impress használatával  
+- Bemutató tartalom hosszú távú archiválása  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- PDF-ODP automatizált csővezetékek intézmények számára  
+- Prezentációk tömeges feldolgozása vállalatok számára  
+- OpenDocument-alapú munkafolyamat integráció  
+- Automatizált bemutatók generálása PDF-ekből  
+- Skálázható digitális bemutató archívumok  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

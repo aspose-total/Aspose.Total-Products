@@ -53,7 +53,26 @@ Met behulp van de API kunt u ook een POWERPOINT-bestand naar OTT-conversie met w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PowerPoint naar OTT** maakt het mogelijk om dia's te exporteren als **OpenDocument-tekstsjablonen**, waardoor herbruikbare sjablonen voor gestandaardiseerde documentatie ontstaan.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het maken van herbruikbare tekstsjablonen van presentaties
+- Gestandaardiseerde zakelijke of academische documentatie
+- Rapportage en projectvoorstellen op basis van sjablonen
+- Het archiveren van presentatiestructuren als sjablonen
+- Het maken van educatieve of trainingsjablonen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde generatie van OpenDocument-tekstsjablonen
+- Workflow-integratie voor bedrijfssjablonenbibliotheken
+- Batchconversie van dia's naar herbruikbare sjablonen
+- Documentautomatisering op basis van sjablonen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

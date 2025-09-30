@@ -47,7 +47,27 @@ PDFファイルをMDに変換するときに、出力MDファイル形式に透�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをMDに変換**するケースは、PDFファイルを**Markdown (.md)形式**に変換することに焦点を当てており、これは**開発者向けドキュメント、技術ブログ、コンテンツ自動化パイプライン**で広く使用されています。これにより、PDFのテキスト、表、コードスニペットをMarkdownエディタで構造化して再利用することができます。
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- PDFからMDへの開発者向けドキュメント移行
+- 編集用にPDFマニュアルをMarkdownに変換
+- MDコンテンツを使用した技術ブログワークフロー
+- Markdownとして保存されたオープンソースプロジェクトのドキュメント
+- PDFレポートから構造化された**ナレッジベース**の作成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 開発者向けの自動化された**PDFからMDへのパイプライン**
+- MarkdownリポジトリへのバッチPDF変換
+- PDFからMDへのエクスポートを統合するGitベースのワークフロー
+- CMSプラットフォーム向けのAPI駆動型PDFからMDへの処理
+- PDFドキュメントをMDに移行するための企業向け自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

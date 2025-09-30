@@ -61,7 +61,26 @@ POWERPOINT dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçimini
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint' i FODS' a dönüştürmek**, sunum tablolarını **Flat OpenDocument Spreadsheet** biçimine aktarmayı sağlar, analiz, veri değişimi ve raporlama için kullanışlıdır.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+- Sunum tablo verilerini elektronik tablolara çıkarma  
+- OpenDocument araçları ile platformlar arası veri paylaşımı  
+- Kurumsal veri analizi ve raporlama  
+- Yapılandırılmış slayt verilerinin arşivlenmesi  
+- Sunumlardan sayısal veya tablo raporları hazırlama
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Tabloların FODS formatına otomatik olarak çıkarılması  
+- Analitik boru hatlarıyla entegrasyon  
+- Toplu slayt-tablo dönüşümü  
+- Veri odaklı iş akışı otomasyonu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

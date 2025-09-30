@@ -47,7 +47,27 @@ otherformats: SXC TSV DIF EXCEL XLT XLTX XLSM MD FODS XLSB TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น ODS** ช่วยให้เปลี่ยน **รายงาน PDF เป็นรูปแบบสเปรดชีต OpenDocument** ซึ่งช่วยให้สามารถเข้าถึงและใช้งานข้อมูลได้อย่างยืดหยุ่นสำหรับการวิเคราะห์ข้อมูล รายงานทางการเงิน และชุดข้อมูลทางวิทยาศาสตร์
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- รายงานทางการเงินและบัญชี
+- ระบบรายงานระดับองค์กร
+- โครงการแบ่งปันข้อมูลของรัฐบาล
+- ชุดข้อมูลวิจัยทางวิชาการ
+- การเก็บข้อมูลโครงสร้างยาวนาน
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- กระบวนการสกัดข้อมูล PDF เป็น ODS
+- กระบวนการแปลงอัตโนมัติสำหรับการเงินและวิจัย
+- การสร้างสเปรดชีตด้วย JSON/XML
+- อัตโนมัติรายงานองค์กร
+- การแปลงข้อมูลดิจิทัลขนาดใหญ่
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,27 @@ otherformats: SXC TSV DIF EXCEL XLT XLTX XLSM MD FODS XLSB TXT XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PDF в ODS** дозволяє перетворити **PDF-звіти в формат OpenDocument Spreadsheet**, забезпечуючи доступність та гнучкість для аналізу даних, фінансових звітів та наукових наборів даних.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Фінансові звіти та облікові записи
+- Системи звітності класу підприємства
+- Ініціативи обміну даними уряду
+- Набори даних для академічних досліджень
+- Довгострокове зберігання структурованих даних
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Робочі процеси екстракції даних з PDF в ODS
+- Автоматизовані конвертуючі конвеєри для фінансів та досліджень
+- Створення таблиць на основі JSON/XML
+- Автоматизація звітності підприємства
+- Масштабована цифрова трансформація даних
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

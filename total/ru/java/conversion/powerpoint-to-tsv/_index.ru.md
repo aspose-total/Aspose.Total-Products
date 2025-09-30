@@ -61,7 +61,26 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в TSV** позволяет экспортировать слайды в формат **значений, разделенных табуляцией**, облегчая обработку структурированных данных и обеспечивая совместимость с электронными таблицами на разных платформах.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Извлечение табличных данных для аналитики
+- Обмен данными между платформами
+- Интеграция с устаревшими и современными инструментами электронных таблиц
+- Архивирование структурированного контента из презентаций
+- Подготовка структурированных отчетов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные пакетные конвейеры слайдов в TSV
+- Интеграция с рабочими процессами предприятия по аналитике
+- Автоматизация отчетности на основе данных
+- Подготовка электронных таблиц для устаревших систем
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

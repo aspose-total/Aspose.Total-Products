@@ -102,7 +102,26 @@ otherformats: DOTM DOC DOTX FLATOPC ODT OTT DOCX RTF WORD WORDML DOCM TEXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל- DOT** מאפשרת שמירת מצגות כ **תבניות Word**, מאפשרת שימוש חוזר בתוכן המצגת בפורמטים תיקניים של מסמכים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תבניות Word ניתנות לשימוש מחדש משקפים
+- תיעוד תיקני של חברות
+- דיווחים והצעות מבוססות תבנית
+- ארכיבת מבני מצגות לשימוש מאוחר יותר
+- יצירת תבניות לחינוך
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירת תבניות אוטומטיות ממצגות
+- אינטגרציה של זרימת עבודה לספריות תבניות עסקיות
+- יצירת מסמכים מרובים ממצגת אחת
+- אוטומציה של דיווחים מבוססי תבנית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

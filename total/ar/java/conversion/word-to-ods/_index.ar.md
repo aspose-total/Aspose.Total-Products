@@ -61,7 +61,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى ODS** يسمح بتصدير محتوى Word إلى تنسيق **جدول بيانات OpenDocument (ODS)**، مما يجعل البعد الهيكلي للبيانات الجدولية متاحًا لتحليل الجداول وسير العمل التعاونية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تصدير جداول Word إلى ODS للتحليل
+- تقارير تشغيلية في تنسيقات OpenDocument قابلة للتبادل
+- سير العمل لجداول البيانات في الشركات والحكومات
+- معالجة البيانات الأكاديمية والأرشفة
+- ترحيل البيانات الجدولية الهيكلية إلى أنظمة جداول البيانات الحديثة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+- خطوط أنابيب تحويل Word إلى ODS مؤتمتة
+- تقارير هيكلية على مستوى المؤسسات
+- أتمتة سير العمل المدفوع بجداول البيانات
+- إنشاء مستندات قائمة على القوالب إلى جداول البيانات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

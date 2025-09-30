@@ -57,7 +57,25 @@ Usando a API, você também pode girar a imagem DXF de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para DXF** é crucial para engenheiros, arquitetos e designers que precisam transformar documentos estáticos em desenhos compatíveis com o **AutoCAD**. Isso permite a reutilização perfeita de **plantas em PDF** em fluxos de trabalho CAD para construção, manufatura e design 3D.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Conversão de plantas arquitetônicas de PDF para DXF  
+- Reutilização de desenhos de engenharia em software CAD  
+- Fluxos de trabalho de manufatura que requerem entrada compatível com CAD  
+- Migração de esquemas em PDF para formatos DXF  
+- Compartilhamento de design colaborativo entre equipes  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines CAD automatizados de PDF para DXF**  
+- Conversão em lote de plantas em PDF para projetos de construção  
+- Automação de PDF para DXF para desenhos de manufatura  
+- Fluxos de exportação DXF para sistemas de engenharia empresarial  
+- Automação CAD escalável integrando entradas em PDF  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

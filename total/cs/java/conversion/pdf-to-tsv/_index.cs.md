@@ -47,7 +47,27 @@ Při převodu souboru PDF na TSV můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na TSV** je cenný pro generování **hodnot oddělených tabulátorem**, které zachovávají čistá, sloupcově uspořádaná data. S konvertory PDF na TSV a automatizací organizace zajistí kompatibilitu s databázemi, tabulkami a výzkumnými nástroji.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Datové sady pro akademický výzkum  
+- Bioinformatika a vědecké tabulky  
+- Výsledky průzkumu trhu  
+- Statistické archivy vládních institucí  
+- Strukturovaná výměna dat mezi systémy
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované pracovní postupy pro laboratoře výzkumu  
+- Hromadná generace TSV pro strukturované reporty  
+- Integrace s potrubími pro příjem dat do databází  
+- Příprava dat pro analytické platformy  
+- Automatizace zpracování velkého objemu tabulkových dat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

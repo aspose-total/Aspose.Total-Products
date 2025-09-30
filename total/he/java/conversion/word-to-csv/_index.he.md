@@ -102,7 +102,26 @@ otherformats: XLSX XLSM XLT SXC XLS XLTM FODS XLSB DIF XLTX XLAM EXCEL TSV ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל־CSV** מאפשרת חילוץ של נתוני טבלה ממסמכי Word לתבנית **ערכים מופרדים בפסיקים (CSV)**, מה שהופך אותם למוכנים לניתוח, יבוא למסדי נתונים ועיבוד בגליון נתונים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- ייצוא טבלאות Word למערכות גיליון או מסדי נתונים
+- תמיכה בתהליכי נתונים בין מסמכי Word וכלים לניתוח
+- דיווח עסקי בפורמט תקני ונייד
+- הכנת נתונים אקדמיים ומחקריים
+- העברת נתונים מסודרים ב-Word לצורך ארכיבה או אינטגרציה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות חילוץ אוטומטיים מ-Word ל־CSV
+- המרה צפופה לתהליכי נתונים
+- אוטומציה שמשתמשת ב־CSV לדיווחים
+- אינטגרציה עם מסדי נתונים וכלים לבינה עסקית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

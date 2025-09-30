@@ -57,7 +57,27 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น TGA (Targa)** เหมาะสำหรับสร้าง **รูปภาพเราสเตอร์คุณภาพสูง** จากหน้า PDF สำหรับศิลปะดิจิทัล เกม และการผลิตมัลติมีเดีย
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การสกัดภาพศิลปะดิจิทัลและภาพประกอบ
+- การสร้างสินทรัพย์เกมจากเนื้อหา PDF
+- กราฟิกเราสเตอร์คุณภาพสูงสำหรับโครงการมัลติมีเดีย
+- การเก็บถาวรกราฟิก PDF เป็นรูป TGA
+- การแปลงสำหรับการทำงานอนิเมชันและเอฟเฟกต์ทางสายตา
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การแปลง PDF เป็น TGA แบบกลุ่มโดยอัตโนมัติ
+- การผสานกับท่อการสื่อสารดิจิทัลและเกม
+- การเปลี่ยนรูปภาพ PDF เป็นรูป TGA สำหรับเอฟเฟกต์ทางสายตา
+- อัตโนมัติการทำงานสำหรับการผลิตมัลติมีเดีย
+- การส่งออกภาพ PDF ไปยัง TGA ได้โดยมีขนาดเปลี่ยนได้
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ POWERPOINT 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 XLTM으로 변환**하면 **매크로가 활성화된 Excel 템플릿**으로 슬라이드를 변환하여 반복되는 자동 보고 및 기업 워크플로우에 매크로를 보존할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 매크로가 활성화된 재사용 가능한 Excel 템플릿
+- 포함된 자동화로 표준화된 보고서
+- 매크로가 활성화된 템플릿으로 프레젠테이션 아카이빙
+- 기업용 대화식 프로젝트 템플릿
+- 교육 및 훈련 템플릿 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 슬라이드를 XLTM으로 자동 변환하는 파이프라인 자동화
+- 매크로가 포함된 기업용 템플릿 라이브러리 생성
+- 일괄 매크로가 활성화된 템플릿 생성
+- 템플릿 기반의 자동 보고서
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

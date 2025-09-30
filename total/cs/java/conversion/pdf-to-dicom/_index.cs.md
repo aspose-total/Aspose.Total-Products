@@ -57,7 +57,27 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na DICOM** je klíčový pro zdravotnický sektor, kde musí být lékařské zobrazovací metody a klinická dokumentace integrovány. To zajišťuje, že **lékařské zprávy ve formátu PDF** mohou být převedeny do formátu **DICOM pro PACS servery**, radiologické pracovní postupy a dlouhodobé archivace v nemocnicích.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Integrace lékařských zpráv do DICOM zobrazovacích systémů
+- Převod PDF na DICOM pro **radiologické a kardiologické** zprávy
+- Archivace a dodržování předpisů pro nemocniční PACS servery
+- Sdílení strukturovaných lékařských dat mezi systémy
+- Standardizovaný management pacientských záznamů
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované procesy pro **lékařské zobrazování PDF na DICOM**
+- Hromadný převod skenů PDF do DICOM archivů
+- Integrace nemocničních EMR/EHR s pracovními postupy PDF na DICOM
+- Automatizace podnikového lékařského zobrazování pro dodržování předpisů
+- Bezpečný, automatizovaný přenos klinických dat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

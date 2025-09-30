@@ -57,7 +57,27 @@ API를 사용하여 필요에 따라 출력 IMAGE 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 이미지로 변환**하는 것은 가장 일반적인 워크플로 중 하나로, 문서를 PNG, JPG 또는 TIFF와 같은 다양한 이미지 형식으로 변환할 수 있게 합니다. 이를 통해 PDF를 **웹 게시, 아카이빙 및 디지털 프레젠테이션** 환경에서 더 쉽게 사용할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 이미지 파일로 PDF 문서 아카이빙
+- 웹사이트에 PNG 또는 JPG로 PDF 페이지 삽입
+- PDF로부터 썸네일 및 미리보기 생성
+- 디지털 슬라이드 및 프레젠테이션에 PDF 통합
+- 규정 준수 및 감사를 위한 이미지 기반 저장
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-IMAGE 일괄 처리 파이프라인**
+- 웹 플랫폼을 위한 PDF-to-PNG 또는 JPG 워크플로
+- 문서 관리 시스템을 위한 미리보기 이미지 생성
+- 기업 아카이빙을 위한 다중 페이지 TIFF로 PDF 변환
+- API 기반 PDF-to-IMAGE 자동 변환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

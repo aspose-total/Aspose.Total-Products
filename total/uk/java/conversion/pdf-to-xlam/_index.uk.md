@@ -102,7 +102,27 @@ otherformats: EXCEL XLT SXC XLTX TXT TSV DIF CSV XLSB FODS XLSM MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PDF в XLAM** дозволяє створювати файли **Excel Add-in** з макросами або користувацькими функціями на основі PDF. Це дуже корисно для **автоматизованих фінансових моделей, підприємницької звітності та покращення робочого процесу в Excel**.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Створення макросів та додатків Excel з даних у форматі PDF
+- Автоматизовані фінансові моделі та засоби звітності
+- Покращення робочого процесу в ентерпрайзі
+- Автоматизація Excel у навчальних або дослідницьких цілях
+- Розповсюдження шаблонів Excel Add-in у великому масштабі
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані **конвеєри PDF-to-XLAM add-in**
+- Пакетна обробка фінансових та підприємницьких електронних таблиць
+- Інтеграція з автоматизацією робочого процесу в Excel
+- Макроси з підтримкою ентерпрайзу для звітності
+- Масштабоване розповсюдження додатків Excel з PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

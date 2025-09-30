@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为平面OPC（Open Packaging Convention）**对于创建**Office文档的单个文件XML表示**至关重要。这支持企业存档、数据交换以及涉及**PDF到OpenXML集成**的无缝工作流程。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将PDF存档转换为平面OPC
+- 用于Office互操作性的PDF到平面OPC
+- 基于XML的文档交换工作流程
+- 在平面OPC结构中进行长期保存
+- 用于Office自动化的基于模板的生成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的**PDF到平面OPC管道**
+- 从PDF转换的XML文档工作流程
+- 使用平面OPC结构进行企业报告
+- 将PDF批量处理为OpenXML单文件格式
+- 与Microsoft Office自动化进行工作流程集成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

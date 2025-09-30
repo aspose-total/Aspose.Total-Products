@@ -54,7 +54,26 @@ otherformats: PPTX POTX PPTM PPSX PPT PPS PPSM POWERPOINT POTM POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى POT** يسمح بتحويل مستندات Word إلى ملفات **قالب PowerPoint (POT)**، مما يتيح قوالب عروض قابلة لإعادة الاستخدام مباشرة من محتوى Word.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء قوالب PowerPoint موحدة من تقارير Word
+- إنشاء قوالب عروض تقديمية للشركات
+- شرائح قابلة لإعادة الاستخدام في المجال الأكاديمي والبحث
+- قوالب للتقارير والعروض التقديمية الشركات
+- سير عمل قائم على القوالب للعروض التقديمية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- إنشاء قوالب POT من Word بشكل آلي
+- تحويل دفعي لمستندات Word إلى قوالب عروض تقديمية
+- إنشاء عروض تقديمية بناءً على القوالب
+- سيناريوهات أتمتة العروض التقديمية على مستوى المؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

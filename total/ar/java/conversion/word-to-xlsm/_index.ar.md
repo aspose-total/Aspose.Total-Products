@@ -61,7 +61,26 @@ otherformats: SXC XLSM ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى XLSM** يسمح بتحويل مستندات Word إلى **سجلات عمل Excel الممكنة للماكرو (XLSM)**، مما يتيح التشغيل التلقائي عبر ماكرو VBA وتحسين سير العمل في جداول البيانات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء تقارير Excel الممكنة للماكرو من بيانات Word
+- سير العمل الآلي للشركات
+- مجموعات بيانات البحوث الأكاديمية مع حسابات آلية
+- تحويل المستندات إلى جداول بيانات بناءً على القوالب
+- تقارير هيكلية للحكومة والشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- إنشاء تقارير آلية من Word إلى XLSM
+- تشغيل آلي لسير العمل الممكن للماكرو
+- إنشاء ماكرو Excel بناءً على القوالب
+- خطوط أنابيب الأتمتة للمستندات على مستوى المؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

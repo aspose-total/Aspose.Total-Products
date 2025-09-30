@@ -53,7 +53,26 @@ Pomocí API můžete také provést převod POWERPOINT souboru na DOTM s vodozna
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **PowerPointu na DOTM** umožňuje snadné vytváření **makro-šablony pro Word**, zachovává interaktivní automatizaci pro opakované firemní nebo akademické použití.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření opakovaně použitelných makro-šablon  
+- Standardizace automatizovaných pracovních postupů pro reportování  
+- Standardizace firemních a akademických dokumentů  
+- Interaktivní dokumentové šablony z prezentací  
+- Generování šablon pro soulad nebo procesní účely
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatické generování makro-šablon  
+- Firemní knihovny šablon s automatizací  
+- JSON nebo prezentacemi řízené makro šablony  
+- Automatizace pracovních postupů pro reportování pomocí šablon
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

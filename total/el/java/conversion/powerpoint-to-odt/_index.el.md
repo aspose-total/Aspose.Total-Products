@@ -53,7 +53,26 @@ otherformats: ODT FLATOPC OTT DOTM TEXT WORD ODTM ODTX DOT DOTX RTF WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε ODT** επιτρέπει την αποθήκευση διαφανειών ως εγγράφων **OpenDocument Text**, υποστηρίζοντας επεξεργάσιμο περιεχόμενο κειμένου από παρουσιάσεις πολλαπλών πλατφορμών.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Μετατροπή διαφανειών σε επεξεργάσιμα αρχεία κειμένου OpenDocument
+- Συνεργατική επεξεργασία σε διαφορετικά πακέτα γραφείου
+- Αρχειοθέτηση παρουσιάσεων σε ένα ευρέως υποστηριζόμενο μορφότυπο
+- Εκπαιδευτικά υλικά και εταιρικές αναφορές
+- Επαναχρησιμοποίηση περιεχομένου παρουσίασης για τεκμηρίωση
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Μαζικές μετατροπές από PowerPoint σε ODT
+- Ενσωμάτωση σε ροές διαχείρισης εγγράφων
+- Αυτοματοποιημένη δημιουργία αναφορών από διαφάνειες
+- Επαναχρησιμοποίηση επιχειρησιακού περιεχομένου
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

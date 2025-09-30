@@ -47,7 +47,27 @@ A PDF-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF átalakítása TSV formátumba** értékes a tiszta, oszlopalapú adatkészletek létrehozásához. A PDF-ből TSV formátumba történő átalakítókkal és automatizálással a szervezetek biztosítják az adatbázisokkal, táblázatkezelőkkel és kutatási eszközökkel való kompatibilitást.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Akadémiai kutatási adatkészletek
+- Bioinformatikai és tudományos adattáblák
+- Piaci kutatási felmérési eredmények
+- Kormányzati statisztikai archívumok
+- Keresztrendszerű strukturált adatcsere
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált PDF-TSV munkafolyamatok kutató laboratóriumok számára
+- TSV generálás tételben strukturált jelentéskészítéshez
+- Integráció adatbázis beolvasási csatornákkal
+- Adatok előkészítése analitikai platformokhoz
+- Nagy mennyiségű táblázatos adat automatizálása
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

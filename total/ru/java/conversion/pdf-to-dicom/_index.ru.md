@@ -57,7 +57,27 @@ API также позволяет экспортировать файл PDF в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в DICOM** является важным для сектора здравоохранения, где медицинское изображение и клиническая документация должны быть интегрированы. Это обеспечивает возможность преобразования **медицинских отчетов в формат DICOM для серверов PACS**, радиологических рабочих процессов и долгосрочного архивирования в больнице.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Интеграция медицинских отчетов в системы DICOM-изображений
+- Преобразование PDF в DICOM для **радиологических и кардиологических** отчетов
+- Архивирование и соблюдение правил больничных серверов PACS
+- Обмен структурированными медицинскими данными между системами
+- Стандартизированное управление медицинскими записями пациентов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры для **медицинского изображения PDF в DICOM**
+- Пакетное преобразование PDF-сканов в архивы DICOM
+- Интеграция больничных ЭМК/ЭМР с рабочими процессами PDF в DICOM
+- Автоматизация медицинского изображения предприятия для соблюдения правил
+- Безопасная, автоматизированная передача клинических данных
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

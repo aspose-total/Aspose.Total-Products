@@ -61,7 +61,26 @@ Trong khi chuyển đổi tệp POWERPOINT sang MHTML, bạn cũng có thể th�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang MHTML** cho phép các slide được xuất dưới dạng **định dạng web archive**, kết hợp nội dung HTML và tài nguyên vào một tệp duy nhất để dễ dàng chia sẻ và xuất bản.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Lưu trữ bài thuyết trình để xuất bản trên web
+- Chia sẻ slide dưới dạng trang web tự chứa
+- Xem bài thuyết trình trên nhiều nền tảng
+- Phân phối nội dung trên mạng nội bộ doanh nghiệp
+- Chia sẻ tài liệu giáo dục qua web archives
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Các đường ống chuyển đổi tự động sang MHTML
+- Quy trình làm việc hàng loạt từ slide sang web archive
+- Tích hợp với hệ thống quản lý nội dung
+- Tự động hóa báo cáo sẵn sàng trên web
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

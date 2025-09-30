@@ -121,7 +121,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 OTP** 对于生成 **OpenDocument Presentation Template 文件** 非常重要，可以实现企业、教育机构和政府机构之间可重复使用的幻灯片模板。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 标准化企业演示文稿模板
+- 学术讲座系列模板
+- 政府沟通和培训模块
+- NGO 演示档案
+- 协作设计工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- PDF 到 OTP 的自动转换管道
+- 基于模板的演示文稿自动化
+- 从存档的 PDF 批量生成模板
+- 与 LibreOffice Impress 的工作流程集成
+- 为组织提供集中式模板存储库
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

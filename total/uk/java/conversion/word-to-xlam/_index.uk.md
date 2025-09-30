@@ -102,7 +102,26 @@ otherformats: CSV XLS ODS XLSB FODS XLT XLSX DIF XLTM XLTX XLSM EXCEL SXC TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **WORD у XLAM** є ключовим для перетворення вмісту Word у файли **Excel Add-in**, що дозволяє автоматизацію, макроси та інтеграцію з робочими процесами Excel, використовуючи структуровані дані документів.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Генерація Excel-додатків з шаблонів на основі Word
+- Інтеграція корпоративних документів у автоматизацію Excel
+- Фінансова та підприємницька звітність на основі макросів
+- Інтеграція академічних або дослідницьких робочих процесів
+- Автоматизація системи спадщини за допомогою додатків, що походять від Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизована генерація додатків Word-to-XLAM
+- Створення робочого процесу з макросами на основі шаблону
+- Звітність та автоматизація завдань для підприємства
+- Потоки автоматизації Excel на основі документів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

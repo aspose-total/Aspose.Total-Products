@@ -61,7 +61,26 @@ otherformats: SXC XLT ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε XLT** επιτρέπει στο περιεχόμενο του Word να αποθηκεύεται ως αρχεία **Πρότυπο Excel (XLT)**, επιτρέποντας τη χρήση επαναχρησιμοποιήσιμων προτύπων υπολογιστικών φύλλων για επιχειρηματικές, ακαδημαϊκές ή οικονομικές ροές εργασίας.
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+- Δημιουργία επαναχρησιμοποιήσιμων προτύπων Excel από πίνακες Word
+- Πρότυπα αναφοράς για επιχειρήσεις και εταιρείες
+- Ακαδημαϊκά και έρευνας προτύπα δομημένων δεδομένων
+- Κυβερνητική και οικονομική προτύπα αναφοράς
+- Ροές εργασίας έγγραφο-προς-υπολογιστικό φύλλο με βάση πρότυπα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένη δημιουργία προτύπων Word-προς-XLT
+- Αυτοματισμός ροών εργασίας υπολογιστικών φύλλων με βάση πρότυπα
+- Μαζική δημιουργία επαναχρησιμοποιήσιμων προτύπων Excel
+- Αυτοματισμός αναφορών υψηλής ποιότητας για επιχειρήσεις
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

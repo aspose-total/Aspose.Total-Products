@@ -102,7 +102,26 @@ otherformats: FODS ODS XLAM XLSX XLSM SXC MARKDOWN XLSB DIF CSV XLTX XLS TSV EXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל־MHTML** מאפשרת לייצא שקופיות כקובץ **ארכיון אינטרנטי**, המשלב תוכן HTML ומשאבים לקובץ אחד לשיתוף ופרסום קל.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+- ארכיבה של מצגות לצורך פרסום ברשת
+- שיתוף שקופיות כדפים אינטרנטיים עצמאיים
+- צפייה במצגות בכל פלטפורמה
+- הפצת תוכן באינטרנט הפנימי של חברה
+- שיתוף חומרי למידה דרך ארכיונים אינטרנטיים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים ל־MHTML
+- זרימות עבודה אוטומטיות להמרת שקופיות לדפי אינטרנט
+- שילוב עם מערכות ניהול תוכן
+- אוטומציה של דיווחים מוכנים לרשת
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в WORDML** важно для создания **WordprocessingML (документов Word на основе XML)** из PDF. Онлайн инструменты PDF в WordML и автоматизация обеспечивают структурированные документы, совместимые с XML, готовые для архивирования, публикации и корпоративных рабочих процессов.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Обмен данными между системами
+- Хранение корпоративных документов
+- Генерация документов на основе шаблонов
+- Цифровые архивы государственных учреждений
+- Структурированная академическая публикация
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры PDF в WordML для структурированной отчетности
+- Генерация XML-документов из PDF
+- Пакетные рабочие процессы WordML для предприятий
+- Интеграция цифровых архивов с форматами XML
+- Структурированная отчетность корпоративного уровня
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na PPSM** umožňuje vytváření **makro-povolených prezentací PowerPoint Slide Show** přímo z PDF souborů. To umožňuje okamžité zobrazení prezentací v režimu diaprezentace a zároveň zachování **interaktivních maker** pro školení, reporting a automatizaci podnikání.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Připravené makro-povolené prezentace
+- Interaktivní firemní školicí moduly
+- Automatizované obchodní prezentace
+- Vzdělávací přednášky s makry pro kvízy nebo simulace
+- Událostní a marketingové prezentace s dynamickými prvky
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **potrubí PDF na PPSM** pro podniky
+- Hromadný převod PDF školicích materiálů do interaktivních prezentací
+- Integrace s LMS a eLearning platformami
+- Podnikové pracovní postupy pro automatizovaný reporting ve formátu PPSM
+- Škálovatelná generace makro-povolených diaprezentací z PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

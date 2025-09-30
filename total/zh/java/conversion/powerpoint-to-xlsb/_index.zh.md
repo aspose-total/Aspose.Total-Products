@@ -61,7 +61,26 @@ otherformats: FODS SXC DIF XLS XLT MARKDOWN TSV XLAM EXCEL MHTML ODS XLTX XLSM X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 XLSB** 可以将幻灯片导出为 **二进制 Excel 工作簿**，优化大型数据驱动演示文稿的性能和文件大小。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 处理演示文稿中的大型数据集
+- 企业报告和分析
+- 以高效的二进制格式存档幻灯片
+- 用于分析的快速电子表格加载
+- 协作企业数据工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动幻灯片转换为 XLSB 的流水线
+- 大型演示文稿的批处理
+- 与高性能报告系统集成
+- 企业数据提取工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

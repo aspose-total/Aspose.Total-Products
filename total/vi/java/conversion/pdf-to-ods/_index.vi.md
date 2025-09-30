@@ -47,7 +47,27 @@ Trong khi chuyển đổi tệp PDF sang ODS, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang ODS** giúp chuyển đổi **báo cáo PDF thành định dạng Bảng tính OpenDocument**, đảm bảo tính khả dụng và linh hoạt cho việc phân tích dữ liệu, báo cáo tài chính và tập dữ liệu khoa học.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Báo cáo tài chính và hồ sơ kế toán
+- Hệ thống báo cáo cấp doanh nghiệp
+- Các dự án chia sẻ dữ liệu của chính phủ
+- Tập dữ liệu nghiên cứu học thuật
+- Lưu trữ dữ liệu có cấu trúc dài hạn
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Quy trình trích xuất dữ liệu từ PDF sang ODS
+- Các đường ống chuyển đổi tự động cho tài chính và nghiên cứu
+- Tạo bảng tính dựa trên JSON/XML
+- Tự động hóa báo cáo doanh nghiệp
+- Chuyển đổi dữ liệu kỹ thuật số có khả năng mở rộng
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

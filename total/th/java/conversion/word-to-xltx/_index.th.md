@@ -61,7 +61,26 @@ otherformats: SXC XLTX ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น XLTX** ช่วยให้เอกสาร Word สามารถส่งออกเป็นรูปแบบ **Excel Template (XLTX)** ซึ่งเป็นเทมเพลตสเปรดชีทที่ใช้ซ้ำได้โดยไม่มีแมโครสำหรับวัตถุประสงค์ในองค์กรและการศึกษา
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- สร้างเทมเพลต Excel ที่ใช้ซ้ำโดยไม่มีแมโคร
+- รายงานมาตรฐานขององค์กรและธุรกิจ
+- เตรียมเทมเพลตสำหรับการศึกษาและวิจัย
+- การเตรียมการทำงานของสเปรดชีทโดยใช้เทมเพลต
+- มาตรฐานการรายงานของรัฐบาลและการเงิน
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- กระบวนการทำงานเทมเพลต Word-to-XLTX อัตโนมัติ
+- การสร้างเทมเพลตเป็นชุดจากตาราง Word แบบกลุ่ม
+- การอัตโนมัติสเปรดชีทที่ใช้เทมเพลต
+- กระบวนการทำงานของรายงานระดับองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

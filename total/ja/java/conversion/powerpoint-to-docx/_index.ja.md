@@ -53,7 +53,26 @@ APIを使用して、透かしを使用してPOWERPOINTファイルからDOCXへ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをDOCXに変換**することで、プレゼンテーションを**現代のWord形式**にエクスポートし、現在のWord機能や共同作業ツールとの互換性を確保します。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- スライドを編集可能な現代のWord文書に変換する
+- プレゼンテーションコンテンツのチーム共同作業
+- レポートやトレーニング資料の準備
+- 広くサポートされているDOCX形式でのアーカイブ
+- スライドデッキからの構造化された文書作成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- バッチ処理によるスライドからDOCXへの変換ワークフロー
+- 企業向けの自動化されたコンテンツ再利用
+- スライドに基づいたレポート生成
+- コンテンツ管理システムとの統合
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

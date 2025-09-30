@@ -53,7 +53,26 @@ Pomocí API můžete také provést převod POWERPOINT souboru na FLATOPC s vodo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na FLATOPC** umožňuje ukládání snímků jako **Flat OPC XML**, poskytující jednosouborovou XML reprezentaci prezentace pro strukturované zpracování.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Strukturované ukládání dat pro prezentace
+- Výměna dat mezi systémy pomocí XML
+- Archivace snímků v jediném XML souboru
+- Standardizace obsahu na úrovni podniku
+- Generování dokumentů na základě šablony
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované potrubí snímků do FLATOPC
+- Automatizace pracovního postupu řízená XML
+- Dávková konverze prezentací do strukturovaného XML
+- Archivační a reportingové systémy na úrovni podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

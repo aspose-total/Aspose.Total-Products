@@ -61,7 +61,26 @@ Beim Konvertieren der POWERPOINT-Datei in XLTX können Sie Ihrem Ausgabe-XLTX-Da
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Konvertierung von **PowerPoint in XLTX** ermöglicht es, Folien als **moderne Excel-Vorlagen** zu exportieren, um wiederverwendbare Vorlagen ohne Makros für standardisierte Unternehmens- oder akademische Berichterstattung zu erstellen.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Moderne wiederverwendbare Excel-Vorlagen
+- Standardisierte Unternehmens- oder akademische Berichterstattung
+- Archivierung von Präsentationen als Vorlagenarbeitsmappen
+- Vorbereitung von Projekt- oder Berichtsvorlagen
+- Kollaboratives Teilen und Bearbeiten von Vorlagen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte Generierung von XLTX-Vorlagen aus Folien
+- Stapelverarbeitung von Vorlagen-Erstellung
+- Integration in unternehmenseigene Vorlagensammlungen
+- Automatisierung der Berichterstellung durch Vorlagen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

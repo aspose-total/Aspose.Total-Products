@@ -47,7 +47,27 @@ A PDF-fájl ODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti ODS-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF átalakítása ODS formátummá** lehetővé teszi a **PDF jelentések átalakítását OpenDocument táblázatkezelő formátummá**, biztosítva ezzel az adatelemzés, pénzügyi jelentések és tudományos adatkészletek hozzáférhetőségét és rugalmasságát.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Pénzügyi kimutatások és számviteli nyilvántartások
+- Vállalati szintű jelentési rendszerek
+- Kormányzati adatmegosztási kezdeményezések
+- Akadémiai kutatási adatkészletek
+- Hosszú távú strukturált adattárolás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- PDF-ODS adatok kinyerésére szolgáló munkafolyamatok
+- Automatizált átalakítási csatornák a pénzügyek és kutatások számára
+- JSON/XML vezérelt táblázat létrehozás
+- Vállalati jelentés automatizálás
+- Skálázható digitális adatátalakítás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

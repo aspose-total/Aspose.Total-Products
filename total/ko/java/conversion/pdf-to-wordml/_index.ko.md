@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 WORDML로 변환하는 것**은 PDF에서 **WordprocessingML(XML 기반 Word 문서)**을 생성하는 데 중요합니다. 온라인 PDF에서 WordML로 변환하는 도구와 자동화를 사용하면 구조화된 XML 호환 문서가 만들어지며 아카이빙, 게시 및 기업 워크플로에 적합합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 시스템 간 데이터 교환
+- 기업 문서 저장
+- 템플릿 기반 문서 생성
+- 정부 디지털 아카이브
+- 구조화된 학술 출판
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 구조화된 보고서용 자동 PDF-to-WordML 파이프라인
+- PDF에서 XML 문서 생성
+- 기업을 위한 일괄 WordML 워크플로
+- XML 형식으로의 디지턀 아카이브 통합
+- 기업급 구조화된 보고서
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

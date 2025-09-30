@@ -47,7 +47,27 @@ PDFファイルをXLSMに変換するときに、出力XLSMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをXLSMに変換**することで、組織はPDFデータから直接**マクロ有効なExcelスプレッドシート**を生成できます。オンラインPDFからXLSMへの変換ツールや自動化により、企業はExcelファイルに高度な計算、スクリプト、ワークフローを統合することが可能となります。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 自動化された財務予測モデル
+- 再利用可能なスクリプトを使用した研究データセット
+- 埋め込みマクロを使用したコンプライアンスチェック
+- ビジネスインテリジェンスダッシュボード
+- 企業向けスプレッドシート自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- レポート用の自動化されたPDFからXLSMへのパイプライン
+- マクロを使用したバッチXLSM生成
+- PDFレポートからの財務モデル変換
+- マクロ有効なExcelを使用したワークフロー自動化
+- 企業レベルのマクロ統合
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,25 @@ Lors de la conversion du fichier PDF en TSV, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en TSV** est précieuse pour générer des **valeurs séparées par des tabulations** qui préservent des ensembles de données propres et basés sur des colonnes. Avec des convertisseurs de PDF en TSV et l'automatisation, les organisations garantissent la compatibilité avec les bases de données, les feuilles de calcul et les outils de recherche.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Ensembles de données de recherche académique
+- Bioinformatique et tables de données scientifiques
+- Résultats d'enquêtes de recherche de marché
+- Archives statistiques gouvernementales
+- Échange de données structurées entre systèmes
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Workflows automatisés de PDF à TSV pour les laboratoires de recherche
+- Génération en lot de TSV pour des rapports structurés
+- Intégration avec les pipelines d'ingestion de base de données
+- Préparation des données pour les plateformes d'analyse
+- Automatisation des données tabulaires à haut volume
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

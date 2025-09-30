@@ -47,7 +47,27 @@ A PDF-fájl FODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti FODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+A **PDF átalakítása FODS formátumra (Flat ODF táblázat)** segít strukturált adatok kinyerésében a PDF-ből a **LibreOffice Calc és OpenDocument-kompatibilis táblázatokba**. Ez lehetővé teszi a szervezetek számára a **PDF táblázatok újrahasznosítását XML-alapú FODS formátumban** jelentéskészítéshez, elemzéshez és szabályozáshoz.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- PDF átalakítása FODS formátumra nyílt forráskódú táblázatkezelő munkafolyamatokhoz
+- Akadémiai táblázatok átalakítása ODF táblázatokká
+- Adatújrafelhasználás a LibreOffice és OpenOffice környezetekben
+- Strukturált jelentéskészítés XML-alapú táblázatformátumokkal
+- Táblázatos PDF tartalom hosszú távú archiválása
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált **PDF átalakítása FODS csövekbe**
+- PDF táblázatok batch feldolgozása ODF táblázatokká
+- JSON vezérelt munkafolyamatok FODS létrehozásához PDF-ből
+- Vállalati jelentésautomatizálás FODS exporttal
+- Nyílt forráskódú rendszerintegráció PDF-FODS eszközökkel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

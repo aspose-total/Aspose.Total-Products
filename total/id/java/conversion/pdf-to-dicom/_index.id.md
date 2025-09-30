@@ -57,7 +57,27 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke DICOM** sangat penting untuk sektor kesehatan di mana pencitraan medis dan dokumentasi klinis harus terintegrasi. Hal ini memastikan **laporan medis PDF** dapat diubah menjadi **format DICOM untuk server PACS**, alur kerja radiologi, dan penyimpanan arsip rumah sakit jangka panjang.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Integrasi laporan medis ke dalam sistem pencitraan DICOM  
+- Konversi PDF ke DICOM untuk laporan **radiologi dan kardiologi**  
+- Pengarsipan dan kepatuhan server PACS rumah sakit  
+- Berbagi data medis terstruktur di seluruh sistem  
+- Manajemen catatan pasien yang terstandarisasi  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa otomatis untuk **pencitraan medis PDF ke DICOM**  
+- Konversi batch pemindaian PDF menjadi arsip DICOM  
+- Integrasi EMR/EHR rumah sakit dengan alur kerja PDF ke DICOM  
+- Otomatisasi pencitraan medis perusahaan untuk kepatuhan  
+- Transfer data klinis yang aman dan otomatis  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

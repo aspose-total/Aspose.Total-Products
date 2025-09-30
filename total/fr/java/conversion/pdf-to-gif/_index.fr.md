@@ -144,7 +144,25 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Le processus de conversion de **PDF en GIF** est largement utilisé pour produire des GIF animés ou statiques à partir de documents PDF. Il permet de partager rapidement des pages PDF sous forme de GIF légers, idéaux pour les **réseaux sociaux, l'e-learning et les flux de travail du marketing numérique**.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Conversion de présentations PDF en GIF animés
+- Partage de contenu PDF sur les **plateformes de médias sociaux**
+- Création de GIF éducatifs à partir de diagrammes PDF
+- Campagnes marketing utilisant du **contenu GIF léger**
+- Génération rapide d'aperçus de pages PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Conversion par lot automatisée de PDF en GIF**
+- Pipelines PDF-to-GIF pour la planification sur les réseaux sociaux
+- Flux de travail éducatif générant des GIF à partir de manuels
+- Intégration avec des plateformes marketing pour des campagnes GIF
+- Automatisation d'entreprise pour l'aperçu PDF en GIF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

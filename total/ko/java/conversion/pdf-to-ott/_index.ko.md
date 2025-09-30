@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 OTT로 변환**하면 **OpenDocument Text Template 파일**을 생성할 수 있어 기업, 학술 및 정부 문서 작업에서 표준화를 보장합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 표준화된 비즈니스 문서 템플릿
+- 법적 및 정부 정책 템플릿
+- 학술 출판 프레임워크
+- 비정부 기구 통신 템플릿
+- 구조화된 기업 콘텐츠 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 PDF-to-OTT 템플릿 워크플로우
+- 기업급 문서 파이프라인
+- 정부 및 법적 문서 자동화
+- 대규모 학술 출판 자동화
+- 확장 가능한 일괄 템플릿 처리
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

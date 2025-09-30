@@ -47,7 +47,25 @@ Al convertir un archivo PDF a XLSM, también puede agregar una marca de agua a s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PDF a XLSM** permite a las organizaciones generar hojas de cálculo de Excel con macros directamente a partir de datos en PDF. Las herramientas en línea y la automatización de PDF a XLSM capacitan a las empresas para integrar cálculos avanzados, scripts y flujos de trabajo en archivos de Excel.
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+- Modelos automatizados de pronóstico financiero  
+- Conjuntos de datos de investigación con scripts reutilizables  
+- Verificaciones de cumplimiento con macros integradas  
+- Paneles de inteligencia empresarial  
+- Automatización de hojas de cálculo a nivel empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+- Tuberías automatizadas de PDF a XLSM para informes  
+- Generación por lotes de XLSM con macros  
+- Conversión de modelos financieros a partir de informes en PDF  
+- Automatización de flujos de trabajo con Excel habilitado para macros  
+- Integración de macros a nivel empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

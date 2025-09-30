@@ -61,7 +61,24 @@ Depois de converter WORD para XLT, o [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para XLT** permite que o conteúdo do Word seja salvo como arquivos de **Modelo do Excel (XLT)**, possibilitando a criação de modelos de planilhas reutilizáveis para fluxos de trabalho empresariais, acadêmicos ou financeiros.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Criar modelos de Excel reutilizáveis a partir de tabelas do Word
+- Modelos de relatórios empresariais e corporativos
+- Modelos de dados estruturados acadêmicos e de pesquisa
+- Padronização de relatórios governamentais e financeiros
+- Fluxos de trabalho de documentos para planilhas baseados em modelos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Geração automatizada de modelos Word para XLT
+- Automação de fluxos de trabalho de planilhas baseados em modelos
+- Criação em lote de modelos de Excel reutilizáveis
+- Automação de relatórios de nível empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

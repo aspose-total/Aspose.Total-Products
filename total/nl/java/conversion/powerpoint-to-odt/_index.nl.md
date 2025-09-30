@@ -53,7 +53,24 @@ Met behulp van de API kunt u ook een POWERPOINT-bestand naar ODT-conversie met w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PowerPoint naar ODT** maakt het mogelijk om dia's op te slaan als **OpenDocument-tekstdocumenten**, met ondersteuning voor bewerkbare, platformonafhankelijke tekstinhoud van presentaties.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het omzetten van dia's in bewerkbare OpenDocument-tekstbestanden  
+- Samenwerken aan bewerkingen in verschillende kantoorpakketten  
+- Presenteren archiveren in een breed ondersteund formaat  
+- Educatieve hand-outs en bedrijfsrapporten  
+- Hergebruik van presentatie-inhoud voor documentatie
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Batchconversies van PowerPoint naar ODT  
+- Integratie in documentbeheerworkflows  
+- Geautomatiseerde generatie van rapporten vanuit dia's  
+- Enterprise content hergebruikspijplijnen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

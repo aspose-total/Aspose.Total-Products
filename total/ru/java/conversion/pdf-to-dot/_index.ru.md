@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в DOT** - мощный способ создания **шаблонов документов Word** непосредственно из PDF-файлов. С помощью онлайн инструментов PDF в DOT и автоматизированных рабочих процессов компании могут сохранить брендинг, обеспечить согласованность и масштабировать использование шаблонов между отделами без усилий.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Создание корпоративных шаблонов документов  
+- Юридические контракты, требующие унифицированной структуры  
+- HR-формы и пакеты для новых сотрудников  
+- Маркетинговые материалы с согласованным брендингом  
+- Стандартизированные шаблоны, утвержденные государством
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры генерации шаблонов PDF в DOT  
+- Пакетное преобразование PDF в DOT для предприятий  
+- Автоматизация рабочих процессов для корпоративных шаблонов  
+- Динамическая генерация шаблонов из архивов PDF  
+- Стандартизация документов в масштабе
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,27 @@ WORD를 XLS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 XLS로 변환**
+Word 테이블을 레거시 **Excel 스프레드시트 (XLS)** 형식으로 내보내어 기업 보고 및 스프레드시트 분석을 위한 구조를 보존합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 테이블을 레거시 Excel 형식으로 이관
+- 기업 보고 및 재무 분석
+- 학술 및 연구 데이터 준비
+- 정부 문서 통합
+- 템플릿 기반의 구조화된 스프레드시트 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-XLS 일괄 처리 파이프라인
+- 템플릿 기반의 Excel 시트 생성
+- 기업급 보고 자동화
+- 레거시 시스템 통합 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

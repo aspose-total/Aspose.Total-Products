@@ -121,7 +121,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PDF σε OTP** είναι σημαντική για τη δημιουργία αρχείων **OpenDocument Presentation Template**, επιτρέποντας την επαναχρησιμοποίηση προτύπων διαφανειών σε επιχειρήσεις, εκπαιδευτικά ιδρύματα και δημόσιους φορείς.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+- Τυποποιημένα πρότυπα παρουσιάσεων επιχειρήσεων
+- Πρότυπα σειρές διαλέξεων ακαδημαϊκών
+- Πρότυπα επικοινωνίας και εκπαίδευσης κυβερνητικών φορέων
+- Αρχεία παρουσιάσεων ΜΚΟ
+- Συνεργατικές ροές σχεδιασμού
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής PDF σε OTP
+- Αυτοματισμός παρουσιάσεων με βάση πρότυπα
+- Δημιουργία παρουσιών σε πακέτα από αρχεία PDF
+- Ενσωμάτωση ροών εργασίας με το LibreOffice Impress
+- Κεντρικά αποθετήρια προτύπων για οργανισμούς
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

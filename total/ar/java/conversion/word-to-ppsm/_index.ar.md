@@ -54,7 +54,26 @@ otherformats: PPT PPSX POWERPOINT PPTM POT POTX PPSM PPTX POTM PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى PPSM** يسمح بإنشاء ملفات **Macro-Enabled PowerPoint Show (PPSM)** من مستندات Word، مما يتيح عروض تقديمية تفاعلية مع إمكانيات الأتمتة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- عروض تقديمية معتمدة على الماكرو من محتوى Word
+- عروض تقديمية تفاعلية للشركات أو المؤسسات
+- عروض شرائح للأبحاث الأكاديمية والتدريب
+- سير عمل تقديمي تفاعلي مدفوع بالقوالب
+- أتمتة الإحاطة الحكومية والتنظيمية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عرض Word-to-PPSM مُتميزة بالأتمتة
+- إنشاء دفعي لعروض تقديمية معتمدة على الماكرو
+- أتمتة الشرائح التفاعلية بالقوالب
+- سير عمل تقديمي معتمد على الماكرو للشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

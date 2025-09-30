@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 WORD 문서를 ODP로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 ODP로 변환**하면 Word 문서를 **OpenDocument Presentation (ODP) 파일**로 변환하여 텍스트 기반 보고서와 프레젠테이션 형식을 연결하여 협업 및 오픈 표준 환경을 위한 다리 역할을 합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 텍스트 보고서를 슬라이드 덱으로 변환
+- 기업 협업을 위한 오픈 표준 프레젠테이션
+- 학술 및 연구 발표 준비
+- 정부 및 기업 프레젠테이션 아카이브
+- 템플릿 기반의 기업 보고서 및 브리핑
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-ODP 생성 워크플로우
+- 기업 보고서를 프레젠테이션으로 일괄 변환
+- 템플릿 기반의 슬라이드 덱 작성
+- 구조화된 보고서 및 브리핑 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

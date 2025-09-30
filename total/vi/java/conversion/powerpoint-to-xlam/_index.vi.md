@@ -61,7 +61,26 @@ Trong khi chuyển đổi tệp POWERPOINT sang XLAM, bạn cũng có thể thê
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang XLAM** cho phép các slide được xuất thành **tiện ích mở rộng Excel hỗ trợ macro**, cho phép tự động hóa và các chức năng có thể tái sử dụng dựa trên dữ liệu trình bày.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tạo tiện ích mở rộng Excel với các macro dựa trên bài trình bày  
+- Tự động hóa các chức năng báo cáo dựa trên slide  
+- Tích hợp luồng công việc doanh nghiệp với tự động hóa Excel  
+- Thư viện macro có thể tái sử dụng từ dữ liệu trình bày  
+- Tối ưu hóa các nhiệm vụ bảng tính lặp đi lặp lại
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Tự động tạo tiện ích mở rộng XLAM từ các bài trình bày  
+- Luồng làm việc tự động từ slide sang Excel  
+- Tích hợp với các đường ống báo cáo doanh nghiệp  
+- Tự động hóa dựa trên slide trong Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,26 @@ otherformats: PPT PPS POTM POWERPOINT POTX PPSX PPSM POT PPTX PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε PPTX** επιτρέπει στα έγγραφα Word να μετατραπούν σε σύγχρονα αρχεία **PowerPoint (PPTX)**, παρέχοντας πλήρη συμβατότητα με τις τρέχουσες εκδόσεις PowerPoint για επιχειρηματική, ακαδημαϊκή και εταιρική χρήση.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Δημιουργία σύγχρονων παρουσιάσεων από αναφορές Word
+- Παρουσιάσεις επιχειρήσεων και εταιρειών
+- Προετοιμασία διαφανειών για ακαδημαϊκή έρευνα και εκπαίδευση
+- Δημιουργία διαφανειών βάσει προτύπων για αναφορές και ενημερώσεις
+- Ροές εργασίας παρουσιάσεων για κυβερνητικούς φορείς και οργανισμούς
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής Word σε PPTX
+- Δημιουργία παρουσιάσεων σε παρτίδες από έγγραφα Word
+- Αυτοματοποίηση σύγχρονων παρουσιάσεων βάσει προτύπων
+- Ροές εργασίας εγγράφου-διαφάνειας υψηλής ποιότητας για επιχειρήσεις
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

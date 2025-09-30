@@ -61,7 +61,26 @@ otherformats: SXC EXCEL ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น EXCEL** เป็นสิ่งสำคัญสำหรับการโอนตาราง Word เข้าสู่ **สเปรดชีต Excel** เพื่อให้สามารถวิเคราะห์ข้อมูล รายงานองค์กร และการผสมผสานได้อย่างราบรื่นกับไฟล์ Excel
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การแปลงตารางข้อความเป็นรูปแบบพร้อมใช้งานใน Excel
+- รายงานและการวิเคราะห์ข้อมูลขององค์กร
+- การประมวลผลข้อมูลทางวิชาการและวิจัย
+- การเก็บข้อมูลของรัฐบาลและบริษัท
+- การสร้างเอกสาร Excel ตามแม่แบบจากเอกสาร Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การสร้างกระแสงาน Word เป็น Excel โดยอัตโนมัติ
+- การทำงานกลุ่มเอกสารเป็นสเปรดชีตอัตโนมัติ
+- การสร้างรายงาน Excel ตามแม่แบบ
+- การอัตโนมัติการรวมข้อมูลระดับองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

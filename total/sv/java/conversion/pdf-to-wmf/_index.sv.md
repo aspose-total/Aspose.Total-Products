@@ -57,7 +57,25 @@ Med hjälp av API:t kan du också rotera den utgående WMF-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertering av **PDF till WMF** eller **PDF till WMZ** gör att vektorgafik från PDF-filer kan användas i **Windows-baserade applikationer**, presentationer och skalbara illustrationer för företag, regeringen och designarbetsflöden.
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+- Bädda in vektor-PDF-grafik i Office-applikationer
+- Skapande av presentationer och marknadsföringsmaterial
+- Skalbara diagram och illustrationer
+- Grafik för företag och regeringsdokument
+- Komprimerad vektorformatlagring med WMZ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- Automatiserade **PDF-till-WMF/WMZ-konverteringspipeliner**
+- Batchbehandling av vektor-PDF-grafik
+- Integration med presentation och kontorsarbetsflöden
+- Automatisering av företagsgrafik för publikationer
+- Skalbar vektorlagring och återanvändningsautomatisering
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

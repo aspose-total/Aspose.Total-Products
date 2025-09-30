@@ -47,7 +47,27 @@ A PDF-fájl SXC-vé konvertálásakor vízjelet is hozzáadhat a kimeneti SXC-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+PDF átalakítása SXC-re (OpenOffice Calc táblázatkezelő) segít strukturált adatok kinyerésében a PDF-ekből az **open-source táblázatformátumba**, lehetővé téve további elemzéseket, jelentéskészítést és tudományos kutatásokat.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfelhasználási esetek" %}}
+- Tudományos és kutatási adatok kinyerése
+- Open-source táblázatkezelő munkafolyamatok (LibreOffice/OpenOffice)
+- Pénzügyi és tudományos adatok jelentése
+- PDF táblák migrálása szerkeszthető SXC formátumba
+- Vállalati táblázatarchiválás és újrafelhasználás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált PDF-SXC adatcsatornák
+- Jelentések és adatkészletek tömeges átalakítása
+- Integráció adatelemzési és jelentéskészítő rendszerekkel
+- Vállalati és tudományos munkafolyamat-automatizálás
+- PDF táblák kinyerése open-source táblázatformátumokba
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,27 @@ Při převodu souboru PDF na XLAM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na XLAM** umožňuje vytváření souborů **Excel Add-in** z makro nebo vlastních funkcí založených na PDF. To je velmi užitečné pro **automatizované finanční modely, podnikové reporty a zlepšení pracovního postupu v Excelu**.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření Excelových maker a add-inů z dat v PDF
+- Automatizované finanční modely a nástroje pro reportování
+- Zlepšení pracovního postupu v podnikových tabulkách
+- Automatizace Excelu založená na akademickém nebo výzkumném prostředí
+- Distribuce šablon Excel Add-in ve velkém měřítku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+- Automatizované **potrubí pro převod PDF na XLAM add-in**
+- Hromadné zpracování finančních a podnikových tabulek
+- Integrace s automatizací pracovního postupu v Excelu
+- Podnikové reportovací potrubí s makry
+- Škálovatelná distribuce Excel Add-in z PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -103,7 +103,26 @@ otherformats: PPT PPTM PPTX POT ODP POTM PPSX POWERPOINT PPSM POTX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **WORD у PPS** дозволяє перетворити вміст Word у файли **PowerPoint Show (PPS)**, готові для презентації без ручного налаштування слайдів.
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+- Конвертація звітів Word у готові до відтворення презентації
+- Слайди для підприємницьких та корпоративних зустрічей
+- Підготовка навчального матеріалу
+- Презентації на основі шаблонів для брифінгів та звітів
+- Готові до показу презентації для уряду та організацій
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані конвеєри презентацій з Word у PPS
+- Пакетне створення готових до показу слайдів
+- Шаблонні автоматизовані робочі процеси презентацій
+- Автоматизація PowerPoint корпоративного класу
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

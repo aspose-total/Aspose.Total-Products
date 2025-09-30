@@ -54,7 +54,26 @@ otherformats: POTX POWERPOINT PPS PPTX PPT PPSM POT PPTM PPSX POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为POTX**可将Word内容转换为**PowerPoint模板（POTX）文件**，为企业和学术用途提供可重复使用的无宏代码的演示文稿模板。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 创建可重复使用的无宏代码的PowerPoint模板
+- 标准化的企业演示文稿模板
+- 学术和研究幻灯片准备
+- 以模板驱动的公司报告和简报
+- 无宏代码幻灯片的工作流自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word-to-POTX模板生成
+- 批量转换以供模板重用
+- 以模板驱动的幻灯片自动化工作流
+- 企业级演示文稿流水线
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

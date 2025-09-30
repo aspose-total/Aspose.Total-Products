@@ -61,7 +61,26 @@ otherformats: MARKDOWN ODS XLS SXC TSV XLT XLTM XLTX DIF EXCEL MHTML FODS XLAM X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε CSV** επιτρέπει την εξαγωγή διαφανειών ως **Comma-Separated Values**, ιδανικό για ανάλυση υπολογιστικού φύλλου, ολοκλήρωση βάσης δεδομένων και δομημένες ροές δεδομένων.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Εξαγωγή δεδομένων πίνακα ή γραφήματος για αναλύσεις
+- Εισαγωγή/εξαγωγή βάσης δεδομένων για αναφορές
+- Κοινοποίηση και ολοκλήρωση επιχειρησιακών δεδομένων
+- Αρχειοθέτηση δομημένου περιεχομένου διαφανειών
+- Προετοιμασία αριθμητικών ή πίνακα αναφορών
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες διαδικασίες εξαγωγής διαφανειών σε CSV
+- Μαζική επεξεργασία πολλαπλών παρουσιάσεων
+- Ολοκλήρωση με συστήματα BI και αναλυτικά συστήματα
+- Ροές εργασιών αναφοράς βασισμένες σε δεδομένα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

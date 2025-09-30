@@ -61,7 +61,26 @@ POWERPOINTファイルをCSVに変換するときに、出力CSVファイル形�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをCSVに変換**すると、スライドを**コンマ区切り値**としてエクスポートでき、スプレッドシート分析、データベース統合、構造化データワークフローに最適です。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- 分析用の表やチャートデータの抽出
+- レポート用のデータベースのインポート/エクスポート
+- 企業データの共有と統合
+- 構造化されたスライドコンテンツのアーカイブ
+- 数値や表形式のレポートの準備
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化されたスライドからCSVへの抽出パイプライン
+- 複数のプレゼンテーションの一括処理
+- BIや分析システムとの統合
+- データ駆動型のレポートワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

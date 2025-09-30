@@ -102,7 +102,26 @@ otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC CSV XLSX DIF XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל־TSV** מאפשרת חילוץ של נתוני טבלה מ-Word לתוך פורמט **ערכים מופרדים בטאב (TSV)**, מבטיחה תאימות עם ניתוחים, מערכות מסד נתונים ויישומים מובנים נוספים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- ייצוא טבלאות Word לעיבוד נתונים
+- שילוב עם ניתוחים ומערכות מסד נתונים
+- דיווח עסקי וארכיון מובנה
+- העברת נתוני טבלה אקדמיים או מחקריים
+- חילוץ נתוני טבלה מופעל על ידי תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות עבודה מופעלים אוטומטית מ-Word ל־TSV
+- חילוץ צפיפות לניתוחים ודיווחים
+- זרימות עבודה מובנות
+- אוטומציה של נתוני טבלה בטווח הארגוני
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

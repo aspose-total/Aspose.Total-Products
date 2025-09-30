@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 WORD 문서를 PPS로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 PPS로 변환**하면 Word 콘텐츠를 **PowerPoint Show (PPS) 파일**로 변환하여 수동 슬라이드 설정 없이 직접 프레젠테이션할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 보고서를 준비된 프레젠테이션으로 변환
+- 기업 및 기업 회의 슬라이드
+- 학술 및 교육 자료 준비
+- 템플릿 기반 브리핑 및 보고 프레젠테이션
+- 정부 및 조직적으로 프레젠테이션할 준비가 된 프레젠테이션
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- Word-to-PPS 자동화된 프레젠테이션 파이프라인
+- 준비된 슬라이드 일괄 생성
+- 템플릿 기반 자동화된 프레젠테이션 워크플로우
+- 기업급 PowerPoint 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

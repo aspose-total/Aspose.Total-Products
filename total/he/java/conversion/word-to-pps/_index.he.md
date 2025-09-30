@@ -103,7 +103,26 @@ otherformats: PPT PPTM PPTX POT ODP POTM PPSX POWERPOINT PPSM POTX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-PPS** מאפשרת לתוכן Word להפוך לקבצי **PowerPoint Show (PPS)**, מוכנים להצגה ישירה בלי צורך בהגדרת השקופיות באופן ידני.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת דוחות Word למצגות מוכנות להצגה
+- שקופיות לפגישות עסקיות וארגוניות
+- הכנת חומרי לימוד ואקדמיים
+- מצגות לדיון ודיווח על בסיס תבניות
+- מצגות מוכנות להצגה לצרכי ממשל וארגונים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות הצגה אוטומטיים מ-Word ל-PPS
+- יצירת מצגות מוכנות להצגה בצורה צינורית
+- זרימות עבודה אוטומטיות המופעלות על ידי תבניות למצגות
+- אוטומציה ברמת עסקים ל-PowerPoint
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

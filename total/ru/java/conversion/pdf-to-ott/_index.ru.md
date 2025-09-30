@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в OTT** позволяет создавать файлы **шаблонов текста OpenDocument**, обеспечивая стандартизацию в процессах документооборота предприятий, академической и государственной сфер.  
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Стандартизированные шаблоны деловых документов  
+- Шаблоны юридических и государственных политик  
+- Фреймворки академического издательства  
+- Шаблоны для коммуникации НПО  
+- Структурированное создание корпоративного контента  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные рабочие процессы шаблонов PDF в OTT  
+- Документационные конвейеры корпоративного уровня  
+- Автоматизация государственных и юридических документов  
+- Автоматизация масштабного академического издательства  
+- Масштабируемая обработка пакетов шаблонов  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

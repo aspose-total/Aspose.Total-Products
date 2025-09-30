@@ -61,7 +61,26 @@ POWERPOINT 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 CSV로 변환**하면 슬라이드를 **쉼표로 구분된 값**으로 내보낼 수 있어서 스프레드시트 분석, 데이터베이스 통합 및 구조화된 데이터 워크플로에 이상적입니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 분석을 위한 표나 차트 데이터 추출
+- 보고를 위한 데이터베이스 가져오기/내보내기
+- 기업 데이터 공유 및 통합
+- 구조화된 슬라이드 콘텐츠의 보관
+- 숫자 또는 표 형태의 보고서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 슬라이드-CSV 추출 파이프라인
+- 여러 프레젠테이션의 일괄 처리
+- BI 및 분석 시스템과의 통합
+- 데이터 주도형 보고서 워크플로
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -49,7 +49,27 @@ otherformats: XLTM FODS XLAM SXC XLT TSV XLSB XLTX TXT XLSM ODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为SXC（OpenOffice Calc电子表格）**有助于从PDF中提取结构化数据到**开源电子表格格式**，进而实现进一步的分析、报告和学术研究。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 学术和研究数据提取
+- 开源电子表格工作流程（LibreOffice/OpenOffice）
+- 财务和科学数据报告
+- 将PDF表格迁移到可编辑的SXC格式
+- 企业电子表格存档和重复使用
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化**PDF到SXC数据管道**
+- 批量转换报告和数据集
+- 与数据分析和报告系统集成
+- 企业和学术工作流程自动化
+- 将PDF表格提取到开源电子表格格式
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

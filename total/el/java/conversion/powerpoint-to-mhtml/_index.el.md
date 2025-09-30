@@ -61,7 +61,26 @@ otherformats: FODS ODS XLAM XLSX XLSM SXC MARKDOWN XLSB DIF MHTML XLTX XLS TSV E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε MHTML** επιτρέπει την εξαγωγή διαφανειών σε μορφή **αρχείου web archive**, συνδυάζοντας περιεχόμενο HTML και πόρους σε ένα μόνο αρχείο για εύκολο κοινοποίηση και δημοσίευση.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Αρχειοθέτηση παρουσιάσεων για δημοσίευση στο web
+- Κοινοποίηση διαφανειών ως αυτόνομες ιστοσελίδες
+- Προβολή παρουσιάσεων σε διαφορετικές πλατφόρμες
+- Διανομή περιεχομένου σε εταιρικά εσωτερικά δίκτυα
+- Κοινοποίηση εκπαιδευτικού υλικού μέσω web archives
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής σε MHTML
+- Παρτίδες εργασίας μετατροπής διαφανειών σε web archive
+- Ενσωμάτωση με συστήματα διαχείρισης περιεχομένου
+- Αυτοματοποίηση έκθεσης έτοιμης για το web
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

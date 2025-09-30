@@ -57,7 +57,27 @@ API также позволяет экспортировать файл PDF в I
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в изображение** является одним из наиболее распространенных рабочих процессов, позволяющим преобразовывать документы в различные форматы изображений, такие как PNG, JPG или TIFF. Это упрощает использование PDF-файлов в **веб-публикациях, архивировании и цифровых презентациях**.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Архивирование PDF-документов в виде изображений
+- Встраивание страниц PDF в веб-сайты в формате PNG или JPG
+- Создание миниатюр и предварительных просмотров из PDF
+- Интеграция PDF в цифровые слайды и презентации
+- Хранение на основе изображений для соблюдения нормативных требований и проверок
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **пакетные конвейеры PDF в изображение**
+- Рабочие процессы PDF в PNG или JPG для веб-платформ
+- Генерация предварительных изображений для систем управления документами
+- PDF в многостраничный TIFF для корпоративного архивирования
+- Автоматизированное API-преобразование PDF в изображение
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

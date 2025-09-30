@@ -121,7 +121,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke OTP** penting untuk menghasilkan file **Template Presentasi OpenDocument**, memungkinkan penggunaan ulang template slide di seluruh perusahaan, lembaga pendidikan, dan lembaga pemerintah.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Template presentasi perusahaan yang terstandar
+- Template seri kuliah akademik
+- Modul komunikasi dan pelatihan pemerintah
+- Arsip presentasi LSM
+- Alur kerja desain kolaboratif
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa konversi otomatis PDF ke OTP
+- Otomatisasi presentasi berbasis template
+- Generasi template batch dari PDF yang diarsipkan
+- Integrasi alur kerja dengan LibreOffice Impress
+- Repositori template terpusat untuk organisasi
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -103,7 +103,26 @@ otherformats: PPT PPS POTM POWERPOINT POTX PPSX PPSM POT ODP PPTM CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-PPTX** מאפשרת להמיר מסמכי Word לקבצי **PowerPoint (PPTX)** מודרניים, מספקת תאימות מלאה עם גרסאות ה-PowerPoint הנוכחיות לשימוש עסקי, אקדמי ותעסוקתי.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת מצגת מודרנית מדוחות Word
+- מצגות לעסקים וחברות
+- הכנת שקופיות למחקר אקדמי והכשרה
+- יצירת שקופיות דו"ח והצגת מידע באמצעות תבניות
+- זרימות עבודה למצגות במוסדות ממשלתיים וארגוניים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים מ-Word ל-PPTX
+- יצירת מצגת סליידים בצורה צפופה ממסמכי Word
+- אוטומציה מודרנית בהתאמה לתבניות למצגות
+- זרימות עבודה ממסמך לשקופיות ברמה עסקית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

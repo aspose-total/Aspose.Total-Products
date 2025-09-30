@@ -49,7 +49,27 @@ otherformats: EXCEL XLT SXC XLTX TXT TSV DIF XLAM XLSB FODS XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 XLAM** 可以从基于 PDF 的电子表格宏或自定义函数创建 **Excel 加载项文件**。这对于 **自动化财务模型、企业报告和 Excel 工作流增强** 非常有用。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 从 PDF 数据创建 Excel 宏和加载项
+- 自动化财务模型和报告工具
+- 企业电子表格工作流增强
+- 学术或研究为基础的 Excel 自动化
+- 大规模 Excel 加载项模板分发
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化 **PDF 到 XLAM 加载项管道**
+- 用于财务和企业电子表格的批处理
+- 与 Excel 工作流自动化集成
+- 企业级宏启用的报告管道
+- 从 PDF 分发 Excel 加载项的可扩展性
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

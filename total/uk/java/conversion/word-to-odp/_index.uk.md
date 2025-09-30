@@ -103,7 +103,26 @@ otherformats: POTX PPTM POT POWERPOINT PPTX PPT PPSX PPS POTM PPSM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **WORD у ODP** дозволяє перетворювати документи Word у файли **OpenDocument Presentation (ODP)**, зв'язуючи текстові звіти з форматами презентацій для спільних відкритих середовищ стандартів.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+- Перетворення текстових звітів у слайд-деки
+- Презентації відкритих стандартів для корпоративного співробітництва
+- Підготовка презентацій для академічних досліджень
+- Архівування презентацій урядових та корпоративних структур
+- Корпоративна звітність та брифінги на основі шаблонів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані робочі процеси генерації Word-у-ODP
+- Пакетне перетворення корпоративних звітів у презентації
+- Створення слайд-деків на основі шаблонів
+- Автоматизація структурованої звітності та брифінгів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

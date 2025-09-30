@@ -57,7 +57,27 @@ otherformats: SVGZ TGA JPEG2000 WMF IMAGE PSD  WMZ EMZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ملف PDF إلى TGA (Targa)** مثالي لإنشاء **صور نقطية عالية الجودة** من صفحات PDF للفن الرقمي والألعاب وإنتاج الوسائط المتعددة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- استخراج الفن الرقمي والرسم
+- إنشاء أصول اللعبة من محتوى PDF
+- صور رقمية عالية الجودة لمشاريع الوسائط المتعددة
+- أرشفة رسوميات PDF كصور TGA
+- تحويل لسير العمل للرسوم المتحركة والتأثيرات البصرية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **تحويل دفعي من PDF إلى TGA تلقائيًا**
+- دمج مع أنابيب الوسائط الرقمية والألعاب
+- تحويل رسوميات PDF إلى صور TGA لتأثيرات بصرية
+- أتمتة سير العمل لإنتاج الوسائط المتعددة
+- تصدير صور PDF بتنسيق TGA قابل للتوسيع
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

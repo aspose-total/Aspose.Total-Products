@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为MHTML**（Web存档格式）对于将文档转换为**带有嵌入资源的单个HTML页面**至关重要。这使得将PDF作为Web准备文件进行**归档、数字出版和基于浏览器的查看**变得更加容易。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将PDF转换为MHTML以进行单个文件Web存档
+- 将报告转换为可在浏览器中查看的**Web存档**
+- 用于**基于HTML的文档分发**的企业工作流程
+- 将法律和合规文件存储为MHTML
+- 数字出版工作流将PDF转换为**Web准备格式**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的**PDF到MHTML管道**
+- 批量处理PDF文件以生成Web存档
+- 用于MHTML输出的企业CMS集成
+- 具有PDF到MHTML转换的自动化发布工作流程
+- 基于浏览器的PDF转换为**自包含HTML存档**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

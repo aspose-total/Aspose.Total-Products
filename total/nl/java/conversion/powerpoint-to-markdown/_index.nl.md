@@ -61,7 +61,24 @@ Tijdens het converteren van een POWERPOINT-bestand naar MARKDOWN, kunt u ook een
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PowerPoint naar MARKDOWN** maakt het exporteren van dia's naar **Markdown-indeling** mogelijk, ideaal voor lichte documentatie, statische sitegeneratoren en inhoudsversiebeheer.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het omzetten van presentatie-inhoud voor websites of blogs
+- Lichtgewicht op tekst gebaseerde documentatie
+- Archiveren van dia's in versiegecontroleerde formaten
+- Samenwerking bij het maken van notities en delen van inhoud
+- Educatief materiaal voor ontwikkelaars en technische schrijvers
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde dia-naar-Markdown-pipelines
+- Integratie met statische sitegeneratoren zoals Hugo of Jekyll
+- Batchconversie van presentaties naar Markdown
+- Documentatieworkflows voor bedrijfskennisbanken
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

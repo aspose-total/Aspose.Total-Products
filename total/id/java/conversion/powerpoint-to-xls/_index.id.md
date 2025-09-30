@@ -61,7 +61,24 @@ Saat mengonversi file POWERPOINT ke XLS, Anda juga dapat menambahkan tanda air k
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PowerPoint ke XLS** memungkinkan slide diekspor sebagai **buku kerja Excel versi lama 97–2003**, mendukung kompatibilitas dengan sistem spreadsheet lama.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Kompatibilitas spreadsheet lama  
+- Mengarsipkan tabel dan grafik presentasi  
+- Pelaporan perusahaan dalam format Excel lama  
+- Berbagi data lintas platform  
+- Menyiapkan laporan terstruktur untuk sistem lama
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Konversi slide ke XLS secara batch  
+- Integrasi dengan alur kerja pelaporan lama  
+- Ekstraksi otomatis tabel presentasi  
+- Pengarsipan data terstruktur
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

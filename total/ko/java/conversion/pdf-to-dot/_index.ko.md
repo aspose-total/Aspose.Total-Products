@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 DOT으로 변환**하는 것은 PDF에서 **Word 문서 템플릿**을 직접 생성하는 강력한 방법입니다. 온라인 PDF에서 DOT으로 변환하는 도구와 자동화된 워크플로우를 사용하면 기업은 브랜딩을 유지하고 일관성을 유지하며 부서간에 템플릿 사용을 손쉽게 확장할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 기업 문서 템플릿 생성
+- 균일한 구조를 필요로 하는 법적 계약
+- HR 양식 및 입사 절차
+- 일관된 브랜딩을 가진 마케팅 자료
+- 정부에서 발행하는 표준화된 템플릿
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 PDF에서 DOT으로 템플릿 생성 파이프라인
+- 기업을 위한 일괄 PDF에서 DOT으로 변환
+- 기업 템플릿을 위한 워크플로우 자동화
+- PDF 아카이브에서 동적 템플릿 생성
+- 대규모 문서 표준화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,26 @@ otherformats: XLSB XLS XLAM EXCEL DIF CSV FODS SXC XLTX XLT XLSM TSV ODS XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-XLTM** מאפשרת המרת מסמכי Word לקבצי **תבנית Excel המאופשרת מאקרו (XLTM)**, מאפשרת אוטומציה, מאקרוס, ותבניות גיליון נתונים חוזרות לזרימי עבודה בארגון.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תבניות Excel המאופשרות מאקרו מ-Word
+- דיווחים עסקיים עם אוטומציה
+- זרימות עבודה אקדמיות ומחקר באמצעות מאקרוס
+- יצירת גיליונות נתונים חוזרים המופשרים על ידי תבניות מאקרו
+- דיווחים מובנים לחברות ולממשל
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות תבניות מאופשרות מ-Word ל-XLTM באופן אוטומטי
+- אוטומציה בעזרת מאקרוס
+- יצירת תבניות חוזרות המופשרות מאקרו באופן צפון
+- דיווחים עסקיים ברמה עסקית וזרימות עבודה באופן אוטומטי
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

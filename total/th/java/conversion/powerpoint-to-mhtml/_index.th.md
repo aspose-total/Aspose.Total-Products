@@ -61,7 +61,26 @@ otherformats: FODS ODS XLAM XLSX XLSM SXC MARKDOWN XLSB DIF MHTML XLTX XLS TSV E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น MHTML** ช่วยให้สไลด์สามารถส่งออกในรูปแบบ **web archive** โดยรวมเนื้อหา HTML และทรัพยากรเข้าไว้ในไฟล์เดียวสำหรับการแบ่งปันและเผยแพร่ได้ง่าย
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- การเก็บถาวรงานนำเสนอสำหรับการเผยแพร่บนเว็บ
+- แบ่งปันสไลด์เป็นหน้าเว็บที่มีอยู่เอง
+- การดูงานนำเสนอได้ทุกแพลตฟอร์ม
+- การกระจายเนื้อหาบนอินทราเน็ตขององค์กร
+- การแบ่งปันเนื้อหาการศึกษาผ่าน web archives
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- ท่องไปร์นการแปลงเป็น MHTML โดยอัตโนมัติ
+- การทำงานเป็นชุดของสไลด์ไปยังเว็บ archive โดยเป็นชุด
+- การผสานกับระบบจัดการเนื้อหา
+- การอัตโนมัติในการรายงานพร้อมเว็บ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

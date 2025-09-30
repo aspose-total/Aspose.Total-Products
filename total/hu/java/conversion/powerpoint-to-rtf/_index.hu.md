@@ -53,7 +53,26 @@ Az API segítségével POWERPOINT fájlból RTF-ba konvertálhat vízjellel. Ha 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to RTF** konvertálása lehetővé teszi az ábrák **Rich Text Format dokumentummá** alakítását, így széles körben kompatibilissé válnak különböző szövegszerkesztőkkel és örökségi rendszerekkel.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Platformok közötti dokumentummegosztás
+- Szerkesztés könnyű vagy örökségi szerkesztőkben
+- Prezentáció szövegtartalmának archiválása
+- Egyszerűsített jelentések vagy kiadványok készítése
+- Kompatibilitás több irodai csomaggal
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Tömeges ábra-RTF konverzió
+- Automatizált archiválási munkafolyamatok
+- Tartalomkinyerési csatornák jelentéshez
+- Integráció több formátumú dokumentumrendszerekbe
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

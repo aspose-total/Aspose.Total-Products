@@ -47,7 +47,27 @@ A PDF-fájl XLT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF átalakítása XLT formátumba** segít a vállalatoknak olyan **Excel sablonfájlokat** létrehozni, amelyek újrahasznosíthatók a jelentési és adatbeviteli folyamatok során. Az automatizált PDF átalakítás XLT formátumba támogatja a márkaegységet és az egységes adatformátumokat.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Vállalati jelentéssablonok  
+- Akadémiai kutatási űrlapok  
+- Kormányzati pénzügyi sablonok  
+- Készletkezelési táblázatok  
+- Egységesített vállalati vezérlőpultok
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- PDF-XLT sablonvezetékek vállalatok számára  
+- Űrlapok automatizált átalakítása Excel sablonokká  
+- Tömeges sablonkészítés PDF archívumokból  
+- Munkafolyamat-automatizálás vállalati táblázatokhoz  
+- Vállalaton belüli sablonújrafelhasználás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów WORD chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwersja **WORD na POT** pozwala na przekształcenie dokumentów Worda w pliki **szablonów PowerPoint (POT)**, umożliwiając ponowne wykorzystanie szablonów prezentacji bezpośrednio z treści Worda.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Tworzenie standaryzowanych szablonów PowerPoint z raportów Word
+- Generowanie szablonów prezentacji dla przedsiębiorstw
+- Ponowne wykorzystywanie slajdów akademickich i badawczych
+- Szablony do briefingu i raportowania w firmach
+- Przepływ pracy oparty na szablonach dla prezentacji
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne tworzenie szablonów Word-to-POT
+- Konwersja wsadowa dokumentów Word na szablony prezentacji
+- Generowanie prezentacji na podstawie szablonów
+- Automatyzacja prac prezentacyjnych na poziomie przedsiębiorstwa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

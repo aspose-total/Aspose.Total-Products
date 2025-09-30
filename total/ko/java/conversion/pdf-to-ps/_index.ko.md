@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 PS (PostScript)로 변환**하는 것은 고품질 인쇄 워크플로우에 필수적이며, PDF를 **PostScript 호환 프린터**로 보내어 전문 출판, 그래픽 디자인 및 기업 인쇄 환경에 사용할 수 있게 합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF 문서로부터 전문적인 인쇄 제작
+- PostScript 프린터용 그래픽 디자인 출력
+- 기업 및 정부 인쇄 워크플로우
+- 출판사의 사전 인쇄 워크플로우
+- 규정 준수를 위한 PostScript 형식의 PDF 아카이빙
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-PS 인쇄 파이프라인**
+- 대량 인쇄 작업을 위한 일괄 PDF 변환
+- 기업 프린트 서버와의 통합
+- 출판을 위한 사전 인쇄 워크플로우 자동화
+- PS 출력을 통한 확장 가능한 인쇄 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

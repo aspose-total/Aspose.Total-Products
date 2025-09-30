@@ -54,7 +54,24 @@ Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar POT con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **WORD naar POT** maakt het mogelijk om Word-documenten om te zetten in **PowerPoint-sjablonen (POT-bestanden)**, waardoor herbruikbare presentatiesjablonen rechtstreeks vanuit Word-content worden gecreëerd.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Standaard PowerPoint-sjablonen maken van Word-rapporten
+- Genereren van ondernemingspresentatiesjablonen
+- Herbruikbare dia's voor academische en onderzoeksdoeleinden
+- Sjablonen voor bedrijfspresentaties en rapporten
+- Op sjablonen gebaseerde workflow voor presentaties
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde creatie van Word-naar-POT-sjablonen
+- Batchconversie van Word-documenten naar presentatiesjablonen
+- Generatie van dia-decks op basis van sjablonen
+- Automatiseringsworkflows voor presentaties op ondernemingsniveau
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

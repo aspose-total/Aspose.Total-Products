@@ -53,7 +53,26 @@ otherformats: WORDML RTF FLATOPC OTT WORD DOTX RTFM DOTM RTFX DOT TEXT ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε RTF** επιτρέπει στις διαφάνειες να γίνουν **έγγραφα Rich Text Format**, καθιστώντας τις συμβατές με διάφορους επεξεργαστές κειμένου και παλαιά συστήματα.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Διαμοιρασμός εγγράφων μεταξύ πλατφορμών
+- Επεξεργασία σε ελαφριά ή παλαιά προγράμματα επεξεργασίας
+- Αρχειοθέτηση περιεχομένου κειμένου παρουσίασης
+- Προετοιμασία απλουστευμένων αναφορών ή χειροπιάστων υλικών
+- Συμβατότητα με πολλά γραφεία
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Μαζική μετατροπή διαφανειών σε RTF
+- Αυτοματοποιημένες ροές εργασίας αρχειοθέτησης
+- Αποσυμπίεση περιεχομένου για αναφορές
+- Ενσωμάτωση σε συστήματα εγγράφων πολλαπλών μορφών
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

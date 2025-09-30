@@ -61,7 +61,24 @@ otherformats: XLSX XLSM XLT SXC XLS XLTM FODS XLSB DIF XLTX XLAM EXCEL TSV ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в CSV** позволяет извлекать табличные данные из документов Word в формат **Comma-Separated Values (CSV)**, готовый для аналитики, импорта в базы данных и обработки в электронных таблицах.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Экспорт таблиц Word в электронные таблицы или базы данных
+- Обмен данными между документами Word и инструментами аналитики
+- Предприятий отчетность в стандартизированном, портативном формате
+- Подготовка данных для академических и исследовательских целей
+- Миграция структурированных данных Word для архивирования или интеграции
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры извлечения Word в CSV
+- Пакетное преобразование для рабочих процессов аналитики
+- Автоматизация отчетности на основе CSV
+- Интеграция с базами данных и инструментами бизнес-аналитики
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,26 @@ Pomocí API můžete také provést převod POWERPOINT souboru na TEXT s vodozna
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na TEXT** umožňuje exportovat snímky do **formátu prostého textu**, což je ideální pro extrakci dat, textovou analýzu nebo sdílení lehkého obsahu.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Extrahování textu pro analýzu nebo zpracování AI
+- Příprava zpráv nebo poznámek ve formátu prostého textu
+- Lehké archivování obsahu snímků
+- Předělání obsahu pro e-maily nebo skripty
+- Zjednodušená dokumentace z prezentací
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované extrakční potrubí ze snímků do textu
+- Integrace s NLP nebo systémy pro analýzu AI
+- Firemní textové pracovní postupy z prezentací
+- Hromadná extrakce obsahu pro reporting
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

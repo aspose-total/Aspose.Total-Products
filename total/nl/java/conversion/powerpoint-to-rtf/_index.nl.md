@@ -53,7 +53,24 @@ Met behulp van de API kunt u ook een POWERPOINT-bestand naar RTF-conversie met w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PowerPoint naar RTF** maakt het mogelijk om dia's om te zetten in **Rich Text Format-documenten**, waardoor ze breed compatibel zijn met verschillende teksteditors en legacy-systemen.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Documenten delen tussen verschillende platforms
+- Bewerken in lichte of verouderde editors
+- Archiveren van tekstinhoud van presentaties
+- Voorbereiden van vereenvoudigde rapporten of hand-outs
+- Compatibiliteit met meerdere kantoorpakketten
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Batchconversie van dia's naar RTF
+- Geautomatiseerde archiveringsworkflows
+- Contentextractiepijplijnen voor rapportage
+- Integratie in systemen voor documenten in meerdere formaten
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

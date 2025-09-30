@@ -61,7 +61,26 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 EXCEL** 可以将幻灯片导出为 **Excel 电子表格**，使得在电子表格格式中分析、报告和共享幻灯片数据更加容易。
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+- 将演示文稿中的表格和图表转换为电子表格
+- 企业报告和分析
+- 存档幻灯片数据以进行结构化使用
+- 协作数据编辑
+- 从幻灯片准备数字或文本报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动幻灯片到 Excel 转换流水线
+- 批量处理演示文稿并转换为电子表格
+- 与企业分析和报告系统集成
+- 由幻灯片驱动的工作流自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

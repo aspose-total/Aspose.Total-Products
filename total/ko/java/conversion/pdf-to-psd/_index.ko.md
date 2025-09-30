@@ -57,7 +57,27 @@ API를 사용하여 필요에 따라 출력 PSD 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 PSD로 변환**하는 것은 디자이너들이 **PDF 그래픽을 Adobe Photoshop 형식으로 변환**하여 레이어 기반 편집과 창의적인 워크플로우 향상을 가능하게 합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Photoshop에서 PDF 일러스트레이션 편집
+- 인포그래픽 및 마케팅 자산 변환
+- 창의적인 팀을 위한 레이어 보존된 디자인 워크플로우
+- 디지털 미디어 캠페인을 위한 PDF 콘텐츠 준비
+- 편집 가능한 PSD 형식으로 PDF 그래픽 아카이빙
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF를 PSD로 일괄 변환**
+- 창의적인 스튜디오를 위한 디자인 워크플로우 통합
+- API 기반 PDF에서 Photoshop으로 처리
+- 기업 그래픽 자동화 파이프라인
+- PDF 파일로부터 자동 레이어 추출
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

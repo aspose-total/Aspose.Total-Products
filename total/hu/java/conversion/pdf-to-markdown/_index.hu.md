@@ -130,7 +130,27 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF átalakítása Markdown (MD)-re** lehetővé teszi a tiszta, könnyű és hordozható tartalom kinyerését a PDF-ekből **fejlesztők, írók és dokumentációs folyamatok** számára. Ez biztosítja, hogy a PDF jelentések vagy cikkek újrahasznosíthatók legyenek **Markdown-alapú platformokon, mint például a GitHub, statikus webhelygenerátorok vagy tartalomkezelő rendszerek**.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- PDF cikkek közzététele **Markdown blogbejegyzésként**
+- Műszaki dokumentumok áthelyezése PDF-ről MD-re a GitHubon
+- Dokumentációs folyamatok fejlesztők és nyílt forráskódú projektek számára
+- Akadémiai kutatási PDF-ek átalakítása könnyű Markdown formátumba
+- PDF tartalom tárolása **statikus webhelygenerátorokhoz (Hugo, Jekyll, stb.)**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált **PDF-Markdown csővezetékek**
+- Jelentések tömeges átalakítása MD formátumba a tartalom újrafelhasználása érdekében
+- CI/CD folyamatok PDF-ek Markdown dokumentumokká alakításához
+- API-vezérelt átalakítás tudásbázis platformok számára
+- Automatizált migráció az örökölt PDF-ekről Markdown tárolókba
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

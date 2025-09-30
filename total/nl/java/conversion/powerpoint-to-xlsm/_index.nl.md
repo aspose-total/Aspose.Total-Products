@@ -61,7 +61,26 @@ Tijdens het converteren van een POWERPOINT-bestand naar XLSM, kunt u ook een wat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PowerPoint naar XLSM** maakt het exporteren van dia's naar **macro-enabled Excel-werkboeken** mogelijk, met behoud van geautomatiseerde functies en interactieve rapportage-elementen.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het maken van macro-enabled rapportagespreadsheets
+- Geautomatiseerde integratie van bedrijfsprocessen
+- Archiveren van dia's met ingesloten Excel-macro's
+- Herbruikbare interactieve rapportagesjablonen
+- Samenwerkende macro-enabled data-analyse
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Batchconversie van dia's naar XLSM
+- Door macro's aangestuurde rapportageworkflows
+- Geautomatiseerde dia-naar-Excel-macro-pijplijnen
+- Integratie met bedrijfsautomatiseringssystemen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

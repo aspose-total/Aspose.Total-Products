@@ -129,7 +129,25 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PDF naar ODT** is essentieel voor het produceren van **OpenDocument-tekstdocumenten** van statische PDF's. Dit zorgt voor bewerkingsflexibiliteit in LibreOffice Writer en andere open-source tekstverwerkers, waardoor het waardevol is voor overheden, bedrijven en academische publicaties.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Overheids- en juridische documentatie
+- Opslag van bedrijfsbeleid in open formaten
+- Publicatie van academisch onderzoek
+- Samen schrijven en bewerken
+- Archivering van tekstdocumenten op lange termijn
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde content pipelines van PDF naar ODT
+- Documentbeheersystemen met ODT-integratie
+- Geautomatiseerde publicatieworkflows
+- Conversie van documentatie op grote schaal voor bedrijven
+- Batchverwerking voor overheden en NGO's
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,25 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PDF naar OTP** is belangrijk voor het genereren van **OpenDocument Presentatie Sjabloonbestanden**, waardoor herbruikbare dia-sjablonen mogelijk zijn voor bedrijven, onderwijsinstellingen en overheidsinstanties.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Gestandaardiseerde presentatiesjablonen voor bedrijven
+- Sjablonen voor academische collegeseries
+- Communicatie- en trainingsmodules voor de overheid
+- Archieven van presentaties voor NGO's
+- Samenwerkingsworkflows voor ontwerp
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde PDF-naar-OTP-conversiepijplijnen
+- Automatisering van presentaties op basis van sjablonen
+- Batchgeneratie van sjablonen uit gearchiveerde PDF's
+- Workflow-integratie met LibreOffice Impress
+- Gecentraliseerde sjabloonopslagplaatsen voor organisaties
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

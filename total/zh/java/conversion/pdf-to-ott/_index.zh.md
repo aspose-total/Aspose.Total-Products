@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为OTT**可生成**OpenDocument Text Template文件**，确保企业、学术和政府文件处理的标准化。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 标准化的业务文件模板
+- 法律和政府政策模板
+- 学术出版框架
+- NGO通信模板
+- 结构化的企业内容创建
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的PDF到OTT模板工作流程
+- 企业级文档流水线
+- 政府和法律文件自动化
+- 大规模学术出版自动化
+- 可扩展的批量模板处理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

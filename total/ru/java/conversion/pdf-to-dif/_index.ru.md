@@ -47,7 +47,27 @@ otherformats: TXT XLAM XLSM XLTM TSV SXC MD DIF FODS XLTX XLT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в DIF** является важным для работы с **устаревшими форматами электронных таблиц** в статистике, финансах и научных областях. Преобразование таблиц из PDF в **формат обмена данными** помогает поддерживать совместимость с более старыми системами и структурированный анализ.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Миграция устаревших электронных таблиц из PDF  
+- Анализ данных с использованием статистических приложений, поддерживающих DIF  
+- Финансовая отчетность с использованием файлов DIF  
+- Преобразование таблиц академических исследований в формат DIF  
+- Архивирование структурированных данных в форматах для взаимодействия  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **конвейеры PDF в DIF** для миграции данных  
+- Пакетное извлечение таблиц из PDF в электронные таблицы DIF  
+- Интеграция экспорта DIF в рабочие процессы предприятия по аналитике  
+- Автоматическое создание DIF для финансовых аудитов  
+- Инструменты отчетности PDF в DIF для академического издательства  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

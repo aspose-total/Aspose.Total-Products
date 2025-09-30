@@ -61,7 +61,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น ODS** ช่วยให้เนื้อหาจาก Word สามารถถูกส่งออกเป็นรูปแบบ **OpenDocument Spreadsheet (ODS)** ซึ่งทำให้ข้อมูลตารางที่มีโครงสร้างเป็นไปได้สำหรับการวิเคราะห์ข้อมูลในสเปรดชีตและการทำงานร่วมกัน
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- การส่งออกตารางจาก Word เป็น ODS เพื่อการวิเคราะห์
+- รายงานที่สามารถใช้งานร่วมกันในรูปแบบ OpenDocument
+- การทำงานของสเปรดชีตในองค์กรและรัฐบาล
+- การประมวลผลข้อมูลทางวิชาการและการเก็บถาวร
+- การย้ายข้อมูลตารางที่มีโครงสร้างไปยังระบบสเปรดชีตรุ่นใหม่
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- การสร้างกระแสการแปลงจาก Word เป็น ODS โดยอัตโนมัติ
+- รายงานโครงสร้างระดับองค์กร
+- การอัตโนมัติของกระบวนการทำงานในสเปรดชีต
+- การสร้างเอกสารเชิงเทมเพลตเป็นสเปรดชีต
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

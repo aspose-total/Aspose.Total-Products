@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na DOT** je mocný způsob, jak vytvářet **šablony dokumentů ve formátu Word** přímo z PDF souborů. S online nástroji pro převod PDF na DOT a automatizovanými pracovními postupy mohou společnosti snadno zachovat firemní image, udržet konzistenci a škálovat používání šablon napříč odděleními.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření firemních šablon dokumentů
+- Právní smlouvy vyžadující jednotnou strukturu
+- Formuláře HR a uvítací balíčky
+- Marketingové materiály s konzistentním firemním designem
+- Standardizované šablony vydávané vládou
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované procesy generování šablon PDF na DOT
+- Hromadný převod PDF na DOT pro podniky
+- Automatizace pracovních postupů pro firemní šablony
+- Dynamické generování šablon z archivů PDF
+- Standardizace dokumentů ve velkém měřítku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

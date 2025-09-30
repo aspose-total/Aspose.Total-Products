@@ -130,7 +130,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke DOT** adalah cara yang powerful untuk menghasilkan **template dokumen Word** langsung dari PDF. Dengan alat online PDF ke DOT dan alur kerja otomatis, perusahaan dapat mempertahankan branding, menjaga konsistensi, dan meningkatkan penggunaan template secara efisien di seluruh departemen.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Pembuatan template dokumen perusahaan
+- Kontrak hukum yang memerlukan struktur seragam
+- Formulir HR dan paket onboarding
+- Materi pemasaran dengan branding yang konsisten
+- Template standar yang dikeluarkan oleh pemerintah
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa generasi template PDF ke DOT otomatis
+- Konversi batch PDF ke DOT untuk perusahaan
+- Otomatisasi alur kerja untuk template perusahaan
+- Generasi template dinamis dari arsip PDF
+- Standarisasi dokumen dalam skala besar
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

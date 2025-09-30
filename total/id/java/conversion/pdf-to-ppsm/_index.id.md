@@ -121,7 +121,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke PPSM** memungkinkan pembuatan **file Slide Show PowerPoint yang mendukung makro** langsung dari PDF. Hal ini membuat presentasi langsung dapat dilihat dalam mode tayangan slide sambil mempertahankan **makro interaktif** untuk pelatihan, pelaporan, dan otomatisasi bisnis.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Slide show makro siap main
+- Modul pelatihan perusahaan yang interaktif
+- Presentasi pelaporan bisnis otomatis
+- Ceramah pendidikan dengan makro untuk kuis atau simulasi
+- Slide acara dan pemasaran dengan fitur dinamis
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja PDF ke PPSM** otomatis untuk perusahaan
+- Konversi batch materi pelatihan PDF menjadi tayangan interaktif
+- Integrasi dengan LMS dan platform eLearning
+- Alur kerja perusahaan untuk pelaporan otomatis dalam format PPSM
+- Generasi tayangan slide yang mendukung makro yang dapat diskalakan dari PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

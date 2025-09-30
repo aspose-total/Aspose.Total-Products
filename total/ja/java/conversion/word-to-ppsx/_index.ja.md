@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたWORDドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをPPSXに変換**すると、Word文書が**PowerPoint Show (PPSX)ファイル**に変換され、企業、学術、法人の観客向けに、マクロがない再生準備が整ったプレゼンテーションが提供されます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- Wordコンテンツからの再生準備完了のプレゼンテーション
+- マクロがない企業および法人向けスライド
+- 学術およびトレーニングプレゼンテーションの準備
+- テンプレートベースのレポートとブリーフィング
+- 政府および組織向けのプレゼンテーション準備完了
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化されたWordからPPSXへのバッチパイプライン
+- テンプレート駆動の再生準備完了スライド自動化
+- 企業向けのマクロがないプレゼンテーションワークフロー
+- Wordレポートからスライドショーへのバッチ変換
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

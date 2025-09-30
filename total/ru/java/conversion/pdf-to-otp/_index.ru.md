@@ -121,7 +121,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в OTP** важно для создания файлов **шаблонов презентаций OpenDocument**, обеспечивая возможность повторного использования шаблонов слайдов в предприятиях, образовательных учреждениях и государственных органах.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Стандартизированные шаблоны презентаций предприятий
+- Шаблоны академических лекций
+- Коммуникации и обучающие модули для государственных органов
+- Архивы презентаций НПО
+- Совместные рабочие процессы по дизайну
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры преобразования PDF в OTP
+- Автоматизация презентаций на основе шаблонов
+- Пакетная генерация шаблонов из архивированных PDF
+- Интеграция рабочего процесса с LibreOffice Impress
+- Централизованные хранилища шаблонов для организаций
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

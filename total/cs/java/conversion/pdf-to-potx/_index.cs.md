@@ -121,7 +121,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na POTX** vytváří **šablony PowerPoint XML souborů**, zajistí kompatibilitu s moderními verzemi kancelářských balíků a opakovaně použitelné šablony pro **firemní a vzdělávací prezentace**.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Archivy firemních šablon pro PowerPoint
+- Vzdělávací a akademické šablony snímků
+- Marketingové a obchodní návrhy šablon
+- Opakovaně použitelné prezentace pro workshopy a semináře
+- Správa šablon v cloudu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **šablony potrubí PDF na POTX**
+- Hromadný převod pro firemní knihovny šablon
+- Automatizace pracovního postupu pro opakované použití prezentací
+- Integrace s cloudovými kancelářskými řešeními
+- Škálovatelná správa šablon prezentací
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

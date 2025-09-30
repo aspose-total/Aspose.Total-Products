@@ -121,7 +121,27 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PDF na OTP** jest ważne do generowania plików **szablonów prezentacji OpenDocument**, umożliwiając ponowne wykorzystywanie szablonów slajdów w przedsiębiorstwach, instytucjach edukacyjnych i organach rządowych.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Standaryzowane szablony prezentacji przedsiębiorstw
+- Szablony serii wykładów akademickich
+- Komunikacja rządowa i moduły szkoleniowe
+- Archiwa prezentacji organizacji pozarządowych
+- Przepływy pracy projektowania współpracującego
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne konwersje PDF na OTP
+- Automatyzacja prezentacji oparta na szablonach
+- Generowanie zbiorcze szablonów z zarchiwizowanych plików PDF
+- Integracja przepływu pracy z LibreOffice Impress
+- Centralne repozytoria szablonów dla organizacji
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

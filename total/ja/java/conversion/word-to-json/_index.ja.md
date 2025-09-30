@@ -49,7 +49,26 @@ WORDをJSONに変換しているときに、範囲を出力JSON形式に設定�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをJSONに変換**することは、Word文書から構造化されたコンテンツを**JSON形式**に抽出し、データ駆動型アプリケーション、API統合、モダンなWebやエンタープライズのワークフローを容易にするために重要です。
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- ドキュメントシステムとアプリケーション間のデータ交換
+- WordコンテンツをWebやモバイルプラットフォームと統合
+- テンプレート駆動のドキュメントコンテンツ抽出
+- 政府や研究のための構造化されたコンテンツのアーカイブ
+- 構造化された学術的または企業向けの出版
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- WordからJSONへの抽出パイプライン
+- 自動化されたAPI対応のドキュメントコンテンツ生成
+- JSON駆動のワークフロー自動化
+- エンタープライズ規模の構造化ドキュメントレポーティング
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

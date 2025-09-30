@@ -47,7 +47,27 @@ PDF 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 XLAM으로 변환**하면 PDF 기반 스프레드시트 매크로나 사용자 정의 함수에서 **Excel Add-in 파일**을 생성할 수 있습니다. 이는 **자동화된 금융 모델, 기업 보고 및 Excel 워크플로우 향상**에 매우 유용합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF 데이터에서 Excel 매크로 및 Add-in 생성
+- 자동화된 금융 모델 및 보고 도구
+- 기업 스프레드시트 워크플로우 향상
+- 학술 또는 연구 기반 Excel 자동화
+- 대규모 Excel Add-in 템플릿 배포
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-XLAM Add-in 파이프라인**
+- 금융 및 기업 스프레드시트를 위한 일괄 처리
+- Excel 워크플로우 자동화와의 통합
+- 기업용 매크로 활성화 보고 파이프라인
+- PDF에서 Excel Add-in의 확장 가능한 배포
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

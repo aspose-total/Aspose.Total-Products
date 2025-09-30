@@ -57,7 +57,25 @@ Usando a API, você também pode girar a imagem SVGZ de saída conforme suas nec
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para SVGZ** permite que gráficos em PDF baseados em vetores sejam salvos como arquivos **compressed Scalable Vector Graphics (SVGZ)**. Isso é especialmente valioso para **publicação na web, desenhos CAD e design responsivo**, onde escalabilidade e desempenho são essenciais.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Publicação na web de gráficos PDF escaláveis como SVGZ  
+- Exportação de desenhos CAD para fluxos de trabalho de engenharia e design  
+- Comprimir PDFs grandes em arquivos SVGZ leves  
+- Diagramas responsivos para sites e aplicativos móveis  
+- Arquivamento de desenhos técnicos em formato vetorial comprimido  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines de exportação automatizada de PDF para SVGZ**  
+- Conversão em lote de vetores PDF para equipes de engenharia  
+- Fluxos de trabalho de publicação na web usando SVGZ a partir de arquivos PDF  
+- Automação de gráficos empresariais com saída comprimida  
+- Integração de sistemas de APIs de PDF para SVGZ  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

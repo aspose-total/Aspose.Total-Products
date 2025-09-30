@@ -53,7 +53,26 @@ Pomocí API můžete také provést převod POWERPOINT souboru na DOT s vodoznak
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na DOT** umožňuje ukládání prezentací jako **šablon Wordu**, což umožňuje opakované využití obsahu prezentace ve standardizovaných formátech dokumentů.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření opakovaně použitelných šablon Wordu ze snímků  
+- Standardizace firemní dokumentace  
+- Generování zpráv a návrhů na základě šablon  
+- Archivace struktur prezentací pro pozdější použití  
+- Generování vzdělávacích šablon
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatické vytváření šablon ze souborů snímků  
+- Integrace pracovního postupu pro firemní knihovny šablon  
+- Generování více variant dokumentů z jednoho PPT  
+- Automatizace generování zpráv řízená šablonami
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

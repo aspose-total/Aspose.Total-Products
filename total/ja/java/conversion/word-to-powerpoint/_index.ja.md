@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたWORDドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをPOWERPOINTに変換**することで、Word文書を完全な**PowerPointプレゼンテーション**にシームレスに変換し、企業、学術、法人利用においてテキストコンテンツとビジュアルスライドデッキを結びつけます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+- Wordレポートをビジュアルプレゼンテーションに変換する
+- 法人および企業のブリーフィングスライド
+- 学術研究用スライドデッキの準備
+- 政府および政策文書のプレゼンテーション
+- 構造化されたWordコンテンツからのテンプレート駆動型スライド生成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- WordからPowerPointへの自動化されたスライドパイプライン
+- レポートからのプレゼンテーションデッキの一括作成
+- テンプレート駆動型スライド自動化ワークフロー
+- 企業向けの文書からスライドへの自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

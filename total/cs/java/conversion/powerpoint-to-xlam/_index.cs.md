@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na XLAM můžete také přidat vodoznak do výs
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na XLAM** umožňuje export snímků do **makro-povolených doplňků pro Excel**, což umožňuje automatizaci a opakované funkce odvozené z dat prezentace.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření doplňků pro Excel s makry řízenými prezentací
+- Automatizace funkce reportů založená na snímcích
+- Integrace podnikových pracovních postupů s automatizací Excelu
+- Opakované knihovny maker z dat prezentace
+- Zjednodušení opakujících se úkolů se sešity
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované generování doplňků XLAM z prezentací
+- Hromadné pracovní postupy snímku na makro Excelu
+- Integrace s podnikovými reportovacími potrubími
+- Automatizace řízená snímky v Excelu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

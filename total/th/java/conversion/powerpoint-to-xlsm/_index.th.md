@@ -61,7 +61,26 @@ otherformats: MARKDOWN FODS XLTM DIF TSV ODS XLAM EXCEL MHTML XLSX SXC XLTX XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น XLSM** ช่วยให้สามารถส่งออกภาพนิพนธ์เข้าสู่ **สมุดงาน Excel ที่เปิดใช้งานมาโคร**, รักษาฟังก์ชันอัตโนมัติและองค์ประกอบสำหรับรายงานที่มีปฏิสัมพันธ์
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- สร้างสเปรดชีตรายงานที่เปิดใช้งานมาโคร
+- การผสานการทำงานขององค์กรอัตโนมัติ
+- เก็บถาวรภาพนิพนธ์พร้อมมาโคร Excel ที่ฝังอยู่
+- แม่แบบรายงานที่เปิดใช้งานมาโครที่สามารถใช้ซ้ำได้
+- การวิเคราะห์ข้อมูลแบบมาโครที่สามารถทำงานร่วมกัน
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การแปลงสไลด์เป็น XLSM แบบกลุ่ม
+- การทำงานของระบบรายงานที่ใช้มาโคร
+- ท่อนโมงข้อมูลจากสไลด์ไปยัง Excel ที่ใช้มาโครโดยอัตโนมัติ
+- การผสานกับระบบอัตโนมัติขององค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

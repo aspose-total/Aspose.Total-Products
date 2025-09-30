@@ -61,7 +61,24 @@ Tijdens het converteren van een POWERPOINT-bestand naar XLTX, kunt u ook een wat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PowerPoint naar XLTX** maakt het mogelijk om dia's te exporteren als **moderne Excel-sjablonen**, waardoor herbruikbare sjablonen zonder macro's worden gecreëerd voor gestandaardiseerde zakelijke of academische rapportage.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Moderne herbruikbare Excel-sjablonen
+- Gestandaardiseerde zakelijke of academische rapportage
+- Archiveren van presentaties als sjabloonwerkboeken
+- Voorbereiden van project- of rapportagesjablonen
+- Samenwerking bij het delen en bewerken van sjablonen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde generatie van XLTX-sjablonen van dia's
+- Workflows voor het maken van batch-sjablonen
+- Integratie met zakelijke sjabloonbibliotheken
+- Rapportageautomatisering op basis van sjablonen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

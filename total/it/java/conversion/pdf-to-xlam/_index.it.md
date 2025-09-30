@@ -47,7 +47,25 @@ Durante la conversione del file PDF in XLAM, puoi anche aggiungere una filigrana
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **PDF in XLAM** consente di creare file **Excel Add-in** da macro basate su PDF o funzioni personalizzate. Questo è estremamente utile per **modelli finanziari automatizzati, report aziendali e miglioramenti dei flussi di lavoro di Excel**.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- Creazione di macro ed add-in Excel da dati PDF
+- Modelli finanziari automatizzati e strumenti di reportistica
+- Miglioramenti dei flussi di lavoro su fogli di calcolo aziendali
+- Automazione di Excel basata su scopi accademici o di ricerca
+- Distribuzione di modelli di Excel Add-in su larga scala
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- **Pipeline di add-in PDF-to-XLAM automatizzate**
+- Elaborazione batch per fogli di calcolo finanziari e aziendali
+- Integrazione con l'automazione dei flussi di lavoro di Excel
+- Pipeline di reportistica abilitata per macro di grado aziendale
+- Distribuzione scalabile di add-in Excel da PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

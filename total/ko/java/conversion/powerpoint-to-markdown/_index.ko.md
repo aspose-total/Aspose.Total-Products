@@ -61,7 +61,26 @@ POWERPOINT 파일을 MARKDOWN로 변환하는 동안 출력 MARKDOWN 파일 형�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 MARKDOWN으로 변환**하면 **Markdown 형식**으로 슬라이드를 내보낼 수 있어 가벼운 문서 작성, 정적 사이트 생성기 및 콘텐츠 버전 관리에 이상적입니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 웹사이트나 블로그용 프레젠테이션 콘텐츠 변환
+- 가벼운 텍스트 기반 문서 작성
+- 버전 관리 형식으로 슬라이드 보관
+- 협업 노트 작성 및 콘텐츠 공유
+- 개발자 및 기술 작가를 위한 교육 자료
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 슬라이드-마크다운 파이프라인
+- Hugo 또는 Jekyll과 같은 정적 사이트 생성기와 통합
+- 프레젠테이션 일괄 변환을 위한 Markdown
+- 기업 지식 베이스를 위한 문서 작업 흐름
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

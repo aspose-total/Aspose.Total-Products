@@ -47,7 +47,27 @@ Při převodu souboru PDF na XLSM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na XLSM** umožňuje organizacím generovat **makro-povolené tabulky Excelu** přímo z dat ve formátu PDF. Online nástroje pro převod PDF na XLSM a automatizace umožňují firmám integrovat pokročilé výpočty, skripty a pracovní postupy do souborů Excel.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Automatizované modely finančního předpovídání  
+- Výzkumné datasety s opakovaně použitelnými skripty  
+- Kontroly souladu s vestavěnými makry  
+- Řídicí panely pro obchodní inteligenci  
+- Automatizace tabulek na úrovni podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+- Automatizované potrubí PDF na XLSM pro reporting  
+- Hromadná generace XLSM s makry  
+- Převod finančního modelu z PDF zpráv  
+- Automatizace pracovních postupů s makro-povoleným Excelem  
+- Integrace maker na úrovni podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ otherformats: SXC FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε SXC** επιτρέπει την εξαγωγή πινάκων και δομημένων δεδομένων διαφανιών σε μορφή **StarOffice Calc Spreadsheet**, επιτρέποντας τη συμβατότητα με παλαιότερες εκδόσεις και την ανάλυση δεδομένων.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Εξαγωγή δεδομένων πινάκων διαφανιών για υπολογιστικούς πίνακες
+- Συμβατότητα με παλαιότερες εκδόσεις λογιστικών φύλλων
+- Αναφορές και ανάλυση βασισμένες σε δεδομένα
+- Αρχειοθέτηση δομημένου περιεχομένου από παρουσιάσεις
+- Προετοιμασία αριθμητικών αναφορών από διαφάνειες
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτόματη μετατροπή πίνακα διαφανιών σε SXC
+- Διαδικασίες εξαγωγής παρτίδων για αναλύσεις
+- Ενσωμάτωση με συστήματα επιχειρησιακής αναφοράς
+- Αυτοματισμός ροών εργασίας για τη δημιουργία παλαιών φύλλων λογιστικών
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

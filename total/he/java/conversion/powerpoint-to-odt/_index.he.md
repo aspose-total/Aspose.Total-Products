@@ -102,7 +102,26 @@ otherformats: DOC FLATOPC OTT DOTM TEXT WORD DOCM DOCX DOT DOTX RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-ODT** מאפשרת לשמור שקופיות כמסמכי טקסט של **OpenDocument**, תומכת בתוכן טקסט ניתן לעריכה וצלילה בין פלטפורמות ממצגות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת שקופיות לקבצי טקסט פתיחים ניתנים לעריכה
+- עריכה שיתופית בין חבילות משרד שונות
+- ארכיבה של מצגות בפורמט נתמך בצורה רחבה
+- חומרי הדרכה ודוחות תעשייתיים
+- שימוש מחודש בתוכן המצגת לצורך תיעוד
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- המרות גורמות מצגת ל-ODT בצורה צינון
+- שילוב בזרם עבודה לניהול מסמכים
+- יצירה אוטומטית של דוחות משקפים
+- צינון תוכן עסקי מחודש
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

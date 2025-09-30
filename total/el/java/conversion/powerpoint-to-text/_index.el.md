@@ -53,7 +53,26 @@ otherformats: OTT TEXTM WORDML RTF TEXT DOTX WORD TEXTX FLATOPC ODT DOT DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε ΚΕΙΜΕΝΟ** επιτρέπει την εξαγωγή διαφανειών σε **μορφή απλού κειμένου**, ιδανική για εξαγωγή δεδομένων, ανάλυση κειμένου ή ανταλλαγή ελαφριών περιεχομένων.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Εξαγωγή κειμένου για ανάλυση ή επεξεργασία με τεχνητή νοημοσύνη
+- Προετοιμασία αναφορών ή σημειώσεων σε μορφή απλού κειμένου
+- Ελαφριά αρχειοθέτηση περιεχομένου διαφανειών
+- Επαναχρησιμοποίηση περιεχομένου για emails ή σενάρια
+- Απλοποιημένη τεκμηρίωση από παρουσιάσεις
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες διαδικασίες εξαγωγής διαφανειών σε κείμενο
+- Ενσωμάτωση με συστήματα NLP ή ανάλυσης με τεχνητή νοημοσύνη
+- Επιχειρησιακές ροές κειμένου από παρουσιάσεις
+- Εξαγωγή περιεχομένου σε πακέτα για αναφορές
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

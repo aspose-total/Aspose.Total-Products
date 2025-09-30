@@ -103,7 +103,26 @@ otherformats: PPTX POTX PPTM PPSX PPT PPS PPSM POWERPOINT POTM ODP CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-POT** מאפשרת להמיר מסמכי Word לקבצי **תבנית PowerPoint (POT)**, מאפשרת תבניות תצוגה ניתנות לשימוש ממסמכי Word.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תבניות PowerPoint תקניות מדוחות Word
+- יצירת תבניות תצוגה לעסקים
+- שקבוצות ומחקר שימושיות חוזרות
+- תבניות לדיווחים והצגות עסקיות
+- זרימת עבודה מבוססת תבניות להצגות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירת תבנית Word-to-POT אוטומטית
+- המרה רציפה של מסמכי Word לתבניות הצגה
+- יצירת מצגת שקבוצות מונחים על ידי תבנית
+- זרימות עבודה להצגות ברמת עסקים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

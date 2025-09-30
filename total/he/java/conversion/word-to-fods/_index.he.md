@@ -102,7 +102,26 @@ otherformats: XLTM XLS CSV XLT TSV XLAM EXCEL SXC ODS XLSM XLSX DIF XLSB XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל־FODS** מאפשרת יצירת קבצי **Flat OpenDocument Spreadsheet (FODS)** מתוך תוכן Word, שימושי לניידות נתונים, זרימות עבודה מתקדמות בגליון אלקטרוני, ושמירת תאימות בקרב סביבות OpenDocument.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת טבלאות Word לפורמטים מוכנים לגליון אלקטרוני
+- שיתוף פעולה עם חבילות משרד OpenDocument
+- דיווחים עסקיים באמצעות פורמטים תקניים
+- הכנת נתונים אקדמיים בפורמטים פתוחים
+- ארכיון של נתונים מובנים במאגרי מידע של ממשלה או חברה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה מאצווה של Word ל־FODS
+- יצירת גליונות אלקטרוניים באופן אוטומטי על ידי מסמכים
+- שילוב עם פלטפורמות ניתוח קוד פתוח
+- זרימות עבודה מובנות על בסיס FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

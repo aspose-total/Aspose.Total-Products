@@ -102,7 +102,26 @@ otherformats: XLSB XLSM XLAM DIF CSV XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PowerPoint в FODS** дозволяє експортувати таблиці презентацій у **Flat OpenDocument Spreadsheet**, корисно для аналізу, обміну даними та звітності.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Видобуток даних таблиць слайдів у таблиці
+- Перехресний обмін даними між платформами за допомогою інструментів OpenDocument
+- Аналіз та звітність даних підприємства
+- Архівування структурованих даних слайдів
+- Підготовка числових або табличних звітів з презентацій
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизований видобуток таблиць у формат FODS
+- Інтеграція з аналітичними конвеєрами
+- Пакетне перетворення слайдів у таблиці
+- Автоматизація робочого процесу на основі даних
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

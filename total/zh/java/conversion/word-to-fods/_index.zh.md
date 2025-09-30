@@ -61,7 +61,26 @@ otherformats: XLTM XLS FODS XLT TSV XLAM EXCEL SXC ODS XLSM XLSX DIF XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为FODS**可从Word内容创建**Flat OpenDocument Spreadsheet (FODS)文件**，有助于数据可移植性、高级电子表格工作流程，并保持在OpenDocument生态系统中的兼容性。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将Word表格转换为适合电子表格的格式
+- 与OpenDocument办公套件协作
+- 使用标准格式进行企业报告
+- 在开放格式中准备学术数据
+- 在政府或企业存储库中存档结构化数据
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- Word到FODS批量转换管道
+- 自动化文档驱动的电子表格生成
+- 与开源分析平台集成
+- 基于FODS的结构化报告工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

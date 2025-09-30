@@ -61,7 +61,26 @@ otherformats: SXC FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 SXC** 可以将表格和结构化幻灯片数据导出为 **StarOffice Calc 电子表格格式**，实现遗留兼容性和数据分析。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 从幻灯片中提取表格数据以用于电子表格  
+- 旧办公套件的遗留电子表格兼容性  
+- 数据驱动的报告和分析  
+- 从演示文稿中存档结构化内容  
+- 从幻灯片准备数字报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动幻灯片转换为 SXC 表格  
+- 批量提取管道用于分析  
+- 与企业报告系统集成  
+- 用于遗留电子表格生成的工作流自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

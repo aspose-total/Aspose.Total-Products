@@ -135,7 +135,27 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น XAML** ช่วยให้นักพัฒนาและองค์กรสามารถสร้างไฟล์ **Extensible Application Markup Language** จากเลย์เอาท์ของเอกสารได้ โดยใช้เครื่องมือแปลง PDF เป็น XAML ออนไลน์และท่องไปได้อัตโนมัติ ธุรกิจสามารถแปลง PDF เป็นทรัพยากร UI สำหรับแอปพลิเคชัน WPF และการเผยแพร่ดิจิทัลได้
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การทดลอง UI จากเลย์เอาท์ของ PDF  
+- เอกสารออกแบบแอปพลิเคชันสำหรับองค์กร  
+- การสร้างทรัพยากรแอปพลิเคชัน WPF  
+- เอกสารซอฟต์แวร์แบบแอคทีฟ  
+- การเผยแพร่ดิจิทัลในรูปแบบมาร์กอัพที่มีโครงสร้าง
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- ท่องไปอัตโนมัติจาก PDF เป็น XAML สำหรับเฟรมเวิร์ก UI  
+- การแปลง PDF เป็น XAML จำนวนมากสำหรับองค์กร  
+- การผสานการทำงานสำหรับเอกสารออกแบบ  
+- การทดลองแอปพลิเคชันจากเอกสาร PDF ในลักษณะของคลังข้อมูล  
+- การอัตโนมัติเอกสารซอฟต์แวร์สำหรับองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

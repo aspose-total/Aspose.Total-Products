@@ -129,7 +129,27 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertering av **PDF till RTF** gör att företag kan skapa **Rich Text Format-dokument** som är kompatibla över plattformar. Med onlineverktyg för PDF till RTF och automatisering kan företag säkerställa smidig redigering, delning och integration med äldre system över hela världen.
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+- Delning av dokument över plattformar
+- Kompatibilitet med äldre system
+- Portabilitet för juridisk dokumentation
+- Akademiska bidrag i standardformat
+- Arkivering för långsiktig tillgänglighet
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+- Automatiserade PDF-till-RTF-pipelines för dokumentutbyte
+- Massgenerering av RTF från PDF-arkiv
+- Företagsomfattande RTF-arbetsflöden
+- Integration av äldre applikationer med RTF
+- Automatisering av interoperabilitet mellan olika system
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

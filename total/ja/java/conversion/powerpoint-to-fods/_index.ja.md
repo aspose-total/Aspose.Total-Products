@@ -61,7 +61,26 @@ POWERPOINTファイルをFODSに変換するときに、出力FODSファイル�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをFODSに変換**することで、プレゼンテーションの表を**Flat OpenDocument Spreadsheet**にエクスポートでき、分析、データ交換、レポート作成に役立ちます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- スライドの表データをスプレッドシートに抽出する
+- OpenDocumentツールでのクロスプラットフォームデータ共有
+- 企業向けデータ分析とレポート作成
+- 構造化されたスライドデータのアーカイブ
+- プレゼンテーションから数値や表形式のレポートを作成する
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- テーブルをFODS形式に自動抽出
+- 分析パイプラインとの統合
+- スライドからスプレッドシートへの一括変換
+- データ駆動型のワークフロー自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

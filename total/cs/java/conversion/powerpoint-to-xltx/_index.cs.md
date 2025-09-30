@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na XLTX můžete také přidat vodoznak do výs
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na XLTX** umožňuje exportovat snímky jako **moderní šablony Excelu**, vytvářející opakovaně použitelné šablony bez maker pro standardizované podnikové nebo akademické hlášení.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Moderní opakovaně použitelné šablony Excelu
+- Standardizované podnikové nebo akademické hlášení
+- Archivace prezentací jako pracovních sešitů se šablonami
+- Příprava projektových nebo hlášovacích šablon
+- Spolupracující sdílení a úpravy šablon
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované generování šablon XLTX ze snímků
+- Hromadné vytváření pracovních postupů se šablonami
+- Integrace s podnikovými knihovnami šablon
+- Automatizace hlášení řízená šablonami
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

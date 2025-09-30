@@ -129,7 +129,27 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF**'yi **Markdown (MD)**'e dönüştürmek, **geliştiriciler, yazarlar ve belge iş akışları** için PDF'lerden temiz, hafif ve taşınabilir içerik çıkarmayı mümkün kılar. Bu, PDF raporlarının veya makalelerinin **GitHub, statik site oluşturucuları veya içerik yönetim sistemleri** gibi **Markdown tabanlı platformlarda** yeniden kullanılabilir olmasını sağlar.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- PDF makalelerini **Markdown blog gönderileri** olarak yayınlama
+- GitHub için teknik belgeleri PDF'ten MD'ye taşıma
+- Geliştiriciler ve açık kaynak projeler için belge iş akışları
+- Akademik araştırma PDF'lerini hafif Markdown formatına dönüştürme
+- **Statik site oluşturucuları (Hugo, Jekyll vb.)** için PDF içeriğini saklama
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Otomatik **PDF'den Markdown boru hatlarına** dönüştürme
+- Raporların MD'ye toplu dönüşümü içeriğin yeniden kullanımı için
+- CI/CD iş akışları PDF'leri Markdown belgelere dönüştürme
+- API destekli dönüşüm bilgi tabanı platformları için
+- Eski PDF'lerden Markdown depolarına otomatik taşıma
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

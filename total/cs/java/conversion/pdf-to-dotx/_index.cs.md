@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na DOTX** je nejlepší možností pro generování **šablon Word bez maker** ze statických PDF souborů. Online konvertory PDF na DOTX a automatizované pracovní postupy pomáhají organizacím udržovat bezpečnost dokumentů, prosazovat firemní směrnice a dosáhnout konzistence na velkém měřítku.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Bezpečná generace šablon pro regulované odvětví
+- Prosazování firemní identity a stylu
+- Struktury dokumentů pro akademické a výzkumné účely
+- Formuláře pro HR bez požadavků na automatizaci
+- Šablony dokumentů schválené vládou
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+- Automatizované konverzní procesy PDF na DOTX
+- Hromadná generace šablon DOTX pro podniky
+- Bezpečná automatizace pracovního postupu souborů DOTX
+- Transformace z archivu na šablonu
+- Firemní automatizace firemní identity pomocí souborů DOTX
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

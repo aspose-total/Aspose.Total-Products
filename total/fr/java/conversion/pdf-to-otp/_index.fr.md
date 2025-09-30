@@ -121,7 +121,25 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en OTP** est importante pour générer des fichiers de modèle de présentation OpenDocument, permettant des modèles de diapositives réutilisables dans les entreprises, les institutions éducatives et les organismes gouvernementaux.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Modèles de présentation d'entreprise standardisés
+- Modèles de séries de conférences académiques
+- Modules de communication et de formation gouvernementaux
+- Archives de présentations d'ONG
+- Flux de conception collaborative
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines de conversion automatisée de PDF en OTP
+- Automatisation de présentation basée sur des modèles
+- Génération de modèles en lot à partir de PDF archivés
+- Intégration de flux de travail avec LibreOffice Impress
+- Référentiels de modèles centralisés pour les organisations
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ otherformats: TSV XLTM XLSX MARKDOWN XLT XLSB MHTML DIF XLS XLSM ODS SXC EXCEL X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى XLS** يتيح تصدير الشرائح كـ **مصنفات Excel القديمة 97-2003**، داعمًا للتوافق مع أنظمة جداول البيانات القديمة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- توافق جداول البيانات القديمة
+- أرشفة جداول العروض التقديمية والرسوم البيانية
+- تقارير المؤسسات في تنسيقات Excel القديمة
+- مشاركة البيانات عبر منصات متعددة
+- إعداد تقارير منظمة لأنظمة قديمة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+- تحويل الشرائح إلى XLS بالدُفعات
+- دمجها مع سير العمل للتقارير القديمة
+- استخراج جداول العروض التلقائي
+- أرشفة البيانات المنظمة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

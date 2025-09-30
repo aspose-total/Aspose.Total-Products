@@ -130,7 +130,25 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversione di **PDF in Flat OPC (Open Packaging Convention)** è cruciale per creare una **rappresentazione XML in un unico file dei documenti di Office**. Questo supporta l'archiviazione aziendale, lo scambio di dati e i flussi di lavoro senza soluzione di continuità che coinvolgono **l'integrazione PDF-in-OpenXML**.
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+- Archiviazione aziendale dei PDF in Flat OPC
+- Da PDF a Flat OPC per l'interoperabilità con Office
+- Flussi di lavoro di scambio di documenti basati su XML
+- Conservazione a lungo termine nella struttura Flat OPC
+- Generazione basata su modelli per l'automazione di Office
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+- **Pipeline automatizzate da PDF a Flat OPC**
+- Flussi di lavoro di documenti XML che convertono da PDF
+- Reporting aziendale con strutture Flat OPC
+- Elaborazione batch di PDF in formato di file singolo OpenXML
+- Integrazione dei flussi di lavoro con l'automazione di Microsoft Office
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

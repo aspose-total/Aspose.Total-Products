@@ -121,7 +121,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na ODP** je klíčový pro vytváření **upravitelných prezentací ve formátu OpenDocument Presentation**. To je velmi prospěšné pro firemní prezentace, vzdělávací snímky a spolupracující prostředí, kde je důležitá kompatibilita s otevřeným standardem souborů.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Sdílení vzdělávacích a akademických snímků  
+- Firemní schůzky a prezentace s otevřeným standardem  
+- Dokumentace pro vládu a nevládní organizace  
+- Spolupracující projekty s LibreOffice Impress  
+- Dlouhodobé archivování obsahu prezentací  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované potrubí PDF na ODP pro instituce  
+- Hromadné zpracování prezentací pro podniky  
+- Integrace pracovního postupu založená na OpenDocument  
+- Automatizované generování prezentací z PDF  
+- Škálovatelné digitální archivy prezentací  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ A POWERPOINT fájl CSV formátumba konvertálásakor vízjelet is hozzáadhat a 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to CSV** konvertálása lehetővé teszi a diák exportálását **Vesszővel Elválasztott Értékek** formátumban, ideális táblázatelemzéshez, adatbázis integrációhoz és strukturált adatmunkafolyamatokhoz.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+- Táblázat vagy diagramadatok kinyerése elemzéshez
+- Adatbázis import/export jelentéskészítéshez
+- Vállalati adatmegosztás és integráció
+- Strukturált dia tartalom archiválása
+- Numerikus vagy táblázatos jelentések előkészítése
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+- Automatizált dia-to-CSV kinyerési csatornák
+- Több prezentáció tömeges feldolgozása
+- Integráció BI és elemző rendszerekkel
+- Adatalapú jelentési munkafolyamatok
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

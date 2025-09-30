@@ -61,7 +61,26 @@ otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT XLTX TSV XLAM MHTML FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น XLTX** ช่วยให้สไลด์สามารถส่งออกเป็น **เทมเพลต Excel ที่ทันสมัย** ทำให้เกิดเทมเพลตที่ใช้ซ้ำได้โดยไม่มีแมโครสำหรับการรายงานขององค์กรหรือสำหรับการรายงานทางวิชาการที่มีมาตรฐาน
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- เทมเพลต Excel ที่ใช้ซ้ำทันสมัย
+- การรายงานขององค์กรหรือทางวิชาการที่มีมาตรฐาน
+- เก็บถาวรงานนำเสนอเป็นเทมเพลตบุ๊ค
+- เตรียมเทมเพลตโครงการหรือการรายงาน
+- การแชร์และแก้ไขเทมเพลตร่วมกัน
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การสร้างเทมเพลต XLTX โดยอัตโนมัติจากสไลด์
+- กระบวนการทำงานสร้างเทมเพลตเป็นชุด
+- การผสานกับไลบรารีเทมเพลตขององค์กร
+- การอัตโนมัติในการรายงานตามเทมเพลต
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

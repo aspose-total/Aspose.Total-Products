@@ -61,7 +61,26 @@ Lors de la conversion du fichier POWERPOINT en MARKDOWN, vous pouvez également 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PowerPoint en MARKDOWN** permet d'exporter des diapositives au format **Markdown**, idéal pour la documentation légère, les générateurs de sites statiques et la gestion de contenu.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Conversion du contenu de présentation pour des sites web ou des blogs
+- Documentation légère basée sur du texte
+- Archivage des diapositives dans des formats sous contrôle de version
+- Prise de notes collaborative et partage de contenu
+- Matériaux éducatifs pour les développeurs et rédacteurs techniques
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines automatisés de diapositives vers Markdown
+- Intégration avec des générateurs de sites statiques comme Hugo ou Jekyll
+- Conversion en lot de présentations en Markdown
+- Flux de travail de documentation pour les bases de connaissances d'entreprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

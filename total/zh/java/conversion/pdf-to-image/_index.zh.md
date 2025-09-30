@@ -57,7 +57,27 @@ otherformats: JPEG2000 EMZ  WMZ TGA PSD DXF WMF SVGZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为图像**是最常见的工作流之一，允许将文档转换为各种图像格式，如PNG、JPG或TIFF。这使得PDF在**网络发布、存档和数字演示**环境中更易于使用。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将PDF文档存档为图像文件
+- 将PDF页面嵌入网站作为PNG或JPG
+- 从PDF创建缩略图和预览
+- 将PDF集成到数字幻灯片和演示文稿中
+- 基于图像的存储以符合合规和审计要求
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化**PDF转图像批处理流程**
+- 用于网络平台的PDF转PNG或JPG工作流程
+- 为文档管理系统生成预览图像
+- 用于企业存档的PDF转多页TIFF
+- 基于API的自动化PDF转图像转换
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ WORDをXLTに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをXLTに変換**することで、Wordコンテンツを**Excelテンプレート（XLT）**ファイルとして保存でき、企業、学術、または財務ワークフロー向けの再利用可能なスプレッドシートテンプレートを作成できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- Wordテーブルから再利用可能なExcelテンプレートを作成する
+- 企業および法人向けレポーティングテンプレート
+- 学術および研究構造化データテンプレート
+- 政府および財務レポーティングの標準化
+- テンプレート駆動の文書からスプレッドシートへのワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化されたWordからXLTへのテンプレート生成
+- テンプレート駆動のスプレッドシートワークフローの自動化
+- 再利用可能なExcelテンプレートの一括作成
+- 企業向けレポーティングの自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,27 @@ otherformats: SXC XLSM XLSB XLAM FODS DIF XLT TXT TSV XLTM XLTX MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в FODS (Flat ODF Spreadsheet)** помогает извлекать структурированные данные из PDF в **таблицы LibreOffice Calc и совместимые с OpenDocument**. Это позволяет организациям повторно использовать **таблицы PDF в формате FODS на основе XML** для отчетов, анализа и соблюдения требований.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Преобразование PDF в FODS для рабочих процессов с открытым исходным кодом
+- Преобразование академических таблиц в таблицы ODF
+- Повторное использование данных в средах LibreOffice и OpenOffice
+- Структурированное создание отчетов с использованием форматов таблиц на основе XML
+- Долгосрочное архивирование табличного содержимого PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **конвейеры PDF в FODS**
+- Пакетная обработка таблиц PDF в таблицы ODF
+- Рабочие процессы, управляемые JSON, генерирующие FODS из PDF
+- Автоматизация предприятий с экспортом FODS
+- Интеграция систем с открытым исходным кодом с инструментами для преобразования PDF в FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

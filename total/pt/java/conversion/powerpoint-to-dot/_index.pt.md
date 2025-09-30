@@ -53,7 +53,24 @@ Usando a API, você também pode realizar a conversão de arquivo POWERPOINT par
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PowerPoint para DOT** permite salvar apresentações como **modelos do Word**, permitindo o reuso repetido do conteúdo da apresentação em formatos de documento padronizados.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Criar modelos do Word reutilizáveis a partir de slides
+- Padronizar documentação corporativa
+- Relatórios e propostas baseados em modelos
+- Arquivar estruturas de apresentação para uso posterior
+- Geração de modelos educacionais
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Criação automatizada de modelos a partir de conjuntos de slides
+- Integração de fluxo de trabalho para bibliotecas de modelos empresariais
+- Gerar várias variações de documentos a partir de um único PPT
+- Automação de relatórios baseada em modelos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

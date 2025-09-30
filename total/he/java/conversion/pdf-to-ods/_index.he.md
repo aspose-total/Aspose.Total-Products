@@ -102,7 +102,27 @@ otherformats: SXC TSV DIF EXCEL XLT XLTX XLSM MD FODS XLSB TXT XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-ODS** מאפשרת להמיר **דוחות PDF לתבנית גיליון נתונים של OpenDocument**, מבטיחה נגישות וגמישות לניתוח נתונים, דוחות פיננסיים ומערכות נתונים מדעיים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- דוחות פיננסיים ורשומות חשבונאות
+- מערכות דיווח ברמה ארגונית
+- יוזמות שיתוף נתונים של ממשלה
+- סט נתונים למחקר אקדמי
+- אחסון נתונים מובנה לטווח ארוך
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- זרימות עבודה לחילוץ נתונים מ-PDF ל-ODS
+- צינורות המרה אוטומטיים לפיננסים ומחקר
+- יצירת גיליון נתונים מופעלת על ידי JSON/XML
+- אוטומציה בדיווח ברמה ארגונית
+- המרת נתונים דיגיטליים בקנה מידה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

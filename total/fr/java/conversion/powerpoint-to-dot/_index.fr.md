@@ -53,7 +53,24 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PowerPoint en DOT** permet de sauvegarder des présentations en tant que modèles Word, permettant une réutilisation répétée du contenu de la présentation dans des formats de document standardisés.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Création de modèles Word réutilisables à partir de diapositives
+- Standardisation de la documentation d'entreprise
+- Rapports et propositions basés sur des modèles
+- Archivage des structures de présentation pour une utilisation ultérieure
+- Génération de modèles éducatifs
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Création automatisée de modèles à partir de diaporamas
+- Intégration de flux de travail pour les bibliothèques de modèles d'entreprise
+- Génération de plusieurs variations de documents à partir d'un seul PPT
+- Automatisation des rapports basée sur des modèles
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

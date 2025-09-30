@@ -54,7 +54,26 @@ otherformats: PPT PPS POTM POWERPOINT POTX PPSX PPSM POT PPTX PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى PPTX** يسمح بتحويل مستندات Word إلى ملفات **PowerPoint (PPTX)** الحديثة، مما يوفر التوافق الكامل مع الإصدارات الحالية من PowerPoint للاستخدام في المؤسسات والأكاديميات والشركات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء عروض شرائح حديثة من تقارير Word
+- عروض تقديمية للشركات والمؤسسات
+- إعداد شرائح البحث الأكاديمي والتدريب
+- إعداد تقارير وشرائح تقديمية مدفوعة بالقوالب
+- سير عمل العروض التقديمية للحكومة والمنظمات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- خطوط أنابيب تحويل Word إلى PPTX آليّة
+- إنشاء عروض شرائح دفعة واحدة من مستندات Word
+- أتمتة العروض التقديمية الحديثة بالقوالب
+- سير عمل الوثائق إلى الشرائح على مستوى المؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

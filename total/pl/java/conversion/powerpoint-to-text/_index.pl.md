@@ -53,7 +53,26 @@ Korzystając z API, możesz również wykonać konwersję pliku POWERPOINT do TE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwersja **PowerPoint do TEKSTU** pozwala na wyeksportowanie slajdów do **formatu zwykłego tekstu**, idealnego do ekstrakcji danych, analizy tekstu lub lekkiego udostępniania treści.
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+- Wyodrębnianie tekstu do analizy lub przetwarzania AI
+- Przygotowywanie raportów lub notatek w formie zwykłego tekstu
+- Lekkie archiwizowanie treści slajdów
+- Przekształcanie treści do e-maili lub skryptów
+- Uproszczone dokumentowanie prezentacji
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+- Zautomatyzowane procesy ekstrakcji tekstu ze slajdów
+- Integracja z systemami NLP lub analizy AI
+- Przepływy pracy tekstu w przedsiębiorstwie na podstawie prezentacji
+- Wyodrębnianie treści partiami do raportowania
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

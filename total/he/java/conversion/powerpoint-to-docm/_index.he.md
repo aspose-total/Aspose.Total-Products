@@ -102,7 +102,26 @@ otherformats: TEXT DOTX DOCX WORDML FLATOPC DOT ODT RTF WORD DOC OTT DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-DOCM** מאפשרת ייצוא שקופיות לתוך מסמכי Word המאופשרים מאקרו, ששומרים על אוטומציה ועל פעילות בסביבת המסמך.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+- שמירת מאקרוס בעת העברת נתוני המצגת
+- יצירת דוחות אינטראקטיביים עם סקריפטים לאוטומציה
+- תבניות עסקיות עם פונקציות מוטמעות
+- דיווחי תאימות עם מאקרוס מוגדרים מראש
+- מסמכים אקדמיים או עסקיים הדורשים תוכן דינמי
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים ששומרים על מאקרוס
+- יצירת מסמכי מאקרו מופעלים באמצעות JSON/שקופית
+- זרימות עבודה עסקיות עם תבניות המאפשרות מאקרו
+- יצירת דוחות אוטומטיים מסודרת מהשקופיות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

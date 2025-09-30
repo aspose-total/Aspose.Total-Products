@@ -57,7 +57,27 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh TGA đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang TGA (Targa)** là lựa chọn lý tưởng để tạo ra **hình ảnh raster chất lượng cao** từ các trang PDF cho nghệ thuật số, game và sản xuất đa phương tiện.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Trích xuất nghệ thuật số và minh họa
+- Tạo tài sản game từ nội dung PDF
+- Đồ họa raster chất lượng cao cho dự án đa phương tiện
+- Lưu trữ đồ họa PDF dưới dạng hình ảnh TGA
+- Chuyển đổi cho quy trình làm phim hoạt hình và hiệu ứng hình ảnh
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Chuyển đổi hàng loạt **PDF sang TGA tự động**
+- Tích hợp với đường ống truyền thông số và game số
+- Raster hóa đồ họa PDF cho hiệu ứng hình ảnh
+- Tự động hóa quy trình làm phim đa phương tiện
+- Xuất hình ảnh PDF có thể mở rộng sang TGA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

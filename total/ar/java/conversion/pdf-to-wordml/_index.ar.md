@@ -130,7 +130,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى WORDML** مهم لإنتاج **WordprocessingML (مستندات Word معتمدة على XML)** من ملفات PDF. تضمن أدوات تحويل PDF إلى WordML عبر الإنترنت والأتمتة إنشاء مستندات منظمة متوافقة مع XML جاهزة للأرشفة والنشر وسير العمل في المؤسسات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تبادل البيانات بين الأنظمة
+- تخزين المستندات في المؤسسات
+- إنشاء مستندات قائمة على القوالب
+- أرشيف رقمي حكومي
+- نشر أكاديمي منظم
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عمل مؤتمتة لتحويل PDF إلى WordML لتقارير منظمة
+- إنشاء مستندات XML من ملفات PDF
+- سير عمل دفعي لـ WordML للمؤسسات
+- تكامل الأرشيف الرقمي مع تنسيقات XML
+- تقارير منظمة عالية المستوى للمؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

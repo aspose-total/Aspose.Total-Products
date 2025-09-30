@@ -57,7 +57,27 @@ Pomocí API můžete také otočit výstupní obrázek TGA podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na TGA (Targa)** je ideální pro vytváření **vysokokvalitních rastrových obrázků** z stránek PDF pro digitální umění, hry a multimediální produkci.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Extrahování digitálního umění a ilustrací
+- Generování herních prvků z obsahu PDF
+- Vytváření vysokokvalitních rastrových grafik pro multimediální projekty
+- Archivace grafiky z PDF jako obrázků TGA
+- Konverze pro animační a vizuální efekty
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizovaný **dávkový převod PDF na TGA**
+- Integrace s digitálními médii a herními toky
+- Rastrování grafiky z PDF pro vizuální efekty
+- Automatizace pracovního postupu pro multimediální produkci
+- Škálovatelný export obrázků PDF do formátu TGA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

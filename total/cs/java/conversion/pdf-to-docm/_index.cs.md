@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na DOCM** je nezbytný, když podniky potřebují převést statické soubory do **makro-povolených dokumentů Wordu**. Použitím online převodu PDF na DOCM nebo automatizovaných potrubí mohou organizace odemknout pokročilé pracovní postupy, vložit automatizační skripty a účinně zjednodušit úkoly související s dokumenty.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Automatizace úkolů s vloženými makry
+- Podnikové hlášení s šablonami řízenými makry
+- Finanční modely vyžadující opakovatelné výpočty
+- Dokumenty o obchodních procesech s automatizačními zálohami
+- Regulační zprávy s ověřením maker
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Online a hromadné převody PDF na DOCM pro dodržování předpisů
+- Automatizované generování hlášení s makry
+- Hromadný převod PDF na DOCM pro podniky
+- Automatizace pracovního postupu pro interaktivní soubory Wordu
+- Řízení životního cyklu dokumentů řízených makry
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

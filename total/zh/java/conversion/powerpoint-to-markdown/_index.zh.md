@@ -61,7 +61,26 @@ otherformats: EXCEL MARKDOWN XLSX ODS XLS DIF XLT FODS MHTML XLTM TSV XLAM XLSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 MARKDOWN** 可以将幻灯片导出为 **Markdown 格式**，非常适合轻量级文档、静态网站生成器和内容版本控制。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 将演示内容转换为网站或博客用途
+- 轻量级基于文本的文档
+- 将幻灯片存档为版本控制格式
+- 协作记笔记和内容共享
+- 开发人员和技术撰稿人的教育材料
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动幻灯片到Markdown的流水线
+- 与Hugo或Jekyll等静态网站生成器集成
+- 批量将演示文稿转换为Markdown
+- 企业知识库的文档工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,26 @@ otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT CSV TSV XLAM MHTML FODS X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-XLTX** מאפשרת לייצא שקופיות כ **תבניות Excel מודרניות**, יוצרת תבניות חוזרות בלי מקרוים לדיווח תקני בעסקים או במגמה אקדמית.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+- תבניות Excel חוזרות ומודרניות
+- דיווח תקני בעסקים או במגמה אקדמית
+- ארכיבה של מצגות כספריות תבניות
+- הכנת תבניות פרויקט או דיווח
+- שיתוף תבניות קולבורטיבי ועריכה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירת תבניות XLTX משקופיות באופן אוטומטי
+- זרימות עבודה ליצירת תבניות בצורה צפופה
+- שילוב עם ספריות תבניות עסקיות
+- אוטומציה של דיווחים המופעלים על ידי תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

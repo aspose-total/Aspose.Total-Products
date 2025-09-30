@@ -57,7 +57,27 @@ API также позволяет экспортировать файл PDF в P
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в PSD** позволяет дизайнерам преобразовывать **графику PDF в формат Adobe Photoshop**, обеспечивая редактирование на основе слоев и улучшение творческого рабочего процесса.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Редактирование иллюстраций PDF в Photoshop
+- Преобразование инфографики и маркетинговых ресурсов
+- Рабочий процесс дизайна с сохранением слоев для творческих команд
+- Подготовка контента PDF для цифровых медийных кампаний
+- Архивирование графики PDF в редактируемом формате PSD
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированное **пакетное преобразование PDF в PSD**
+- Интеграция рабочего процесса дизайна для творческих студий
+- Обработка PDF в Photoshop с помощью API
+- Автоматизированные графические конвейеры для предприятий
+- Автоматизированное извлечение слоев из файлов PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

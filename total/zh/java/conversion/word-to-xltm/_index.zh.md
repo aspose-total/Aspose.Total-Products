@@ -61,7 +61,26 @@ otherformats: XLSB XLS XLAM EXCEL DIF XLTM FODS SXC XLTX XLT XLSM TSV ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为XLTM**可将Word文档转换为**宏启用的Excel模板（XLTM）**文件，实现企业工作流程的自动化、宏和可重复使用的电子表格模板。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 从Word创建宏启用的Excel模板
+- 使用自动化进行企业报告
+- 使用宏进行学术和研究工作流程
+- 基于模板驱动的宏启用电子表格生成
+- 企业和政府结构化报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- Word到XLTM自动化模板管道
+- 基于宏的工作流自动化
+- 批量生成可重复使用的宏启用模板
+- 企业级报告和自动化工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

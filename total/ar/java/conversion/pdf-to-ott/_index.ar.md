@@ -130,7 +130,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ملفات PDF إلى OTT** يسمح بإنشاء ملفات **قوالب OpenDocument Text**، مما يضمن التوحيد في عمليات الوثائق في المؤسسات والأكاديمية والحكومية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- قوالب وثائق الأعمال الموحدة
+- قوالب السياسات القانونية والحكومية
+- أطر النشر الأكاديمي
+- قوالب الاتصال للمنظمات غير الحكومية
+- إنشاء محتوى شركات منظم
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- سير العمل التلقائي لقوالب PDF إلى OTT
+- أنابيب وثائقية عالية المستوى للشركات
+- أتمتة الوثائق الحكومية والقانونية
+- أتمتة النشر الأكاديمي على نطاق واسع
+- معالجة دفعية قابلة للتوسيع للقوالب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

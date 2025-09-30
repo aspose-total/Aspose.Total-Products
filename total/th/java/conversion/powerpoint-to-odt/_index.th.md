@@ -53,7 +53,26 @@ otherformats: ODT FLATOPC OTT DOTM TEXT WORD ODTM ODTX DOT DOTX RTF WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น ODT** ช่วยให้สไลด์สามารถบันทึกเป็นเอกสาร **OpenDocument Text** ที่รองรับเนื้อหาข้อความที่สามารถแก้ไขได้และทำงานได้บนหลายแพลตฟอร์มจากการนำเสนอ
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การแปลงสไลด์เป็นไฟล์ข้อความ OpenDocument ที่สามารถแก้ไขได้  
+- การทำงานร่วมกันในหน้าต่างต่าง ๆ ของสำนักงาน  
+- การเก็บถาวรงานนำเสนอในรูปแบบที่ได้รับการสนับสนุนอย่างกว้างขวาง  
+- การแจกจ่ายเอกสารการศึกษาและรายงานของบริษัท  
+- การนำเนื้อหาการนำเสนอมาใช้ในการเขียนเอกสาร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การแปลงจำนวนมากของ PowerPoint เป็น ODT  
+- การรวมเข้ากับการทำงานของเอกสารในกระบวนการทำงาน  
+- การสร้างรายงานโดยอัตโนมัติจากสไลด์  
+- ท่องไปรของเนื้อหาองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

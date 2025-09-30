@@ -57,7 +57,27 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF**'yi **TGA (Targa)**'ya dönüştürmek, dijital sanat, oyun ve multimedya üretimi için **yüksek kaliteli rastgele görüntüler** oluşturmak için idealdir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Dijital sanat ve illüstrasyon çıkarma
+- PDF içeriğinden oyun varlığı oluşturma
+- Multimedya projeleri için yüksek kaliteli rastgele grafikler
+- PDF grafiklerini TGA görüntüleri olarak arşivleme
+- Animasyon ve görsel efekt iş akışları için dönüştürme
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Otomatik **PDF'den TGA'ya toplu dönüştürme**
+- Dijital medya ve oyun boru hatlarıyla entegrasyon
+- Görsel efektler için PDF grafiklerinin rastgeleleştirilmesi
+- Multimedya üretimi için iş akışı otomasyonu
+- TGA'ya ölçeklenebilir PDF görüntü ihracatı
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

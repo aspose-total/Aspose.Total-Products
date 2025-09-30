@@ -143,7 +143,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 XAMLFLOW로 변환**하는 것은 .NET 및 WPF 애플리케이션에서 **FlowDocument 기반 XAML 파일**을 개발하는 개발자에게 이상적입니다. 일괄 PDF에서 XAMLFlow로 변환하는 도구와 자동화된 파이프라인을 사용하여 정적 콘텐츠를 인터랙티브하고 구조화된 소프트웨어 자원으로 변환할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- WPF 앱에서 풍부한 텍스트 통합
+- FlowDocument 형식의 디지털 게시
+- 소프트웨어 매뉴얼 및 도움말 시스템
+- 기업 지식베이스 통합
+- 문서에서 앱으로의 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 앱 개발을 위한 자동화된 PDF-to-XAMLFLOW 파이프라인
+- 기업용 WPF 애플리케이션을 위한 일괄 변환
+- 게시 시스템으로의 워크플로우 통합
+- 규모에 맞는 FlowDocument 콘텐츠 생성
+- 인터랙티브 소프트웨어 문서 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

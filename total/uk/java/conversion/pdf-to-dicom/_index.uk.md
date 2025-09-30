@@ -105,7 +105,27 @@ otherformats: WMZ JPEG2000 SVGZ WMF TGA PSD DXF APNG EMZ IMAGE
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **PDF в DICOM** є важливим для сектору охорони здоров'я, де потрібна інтеграція медичного зображення та клінічної документації. Це забезпечує можливість перетворення **медичних звітів у формат DICOM для серверів PACS**, рентгенологічних робочих процесів та довгострокового архівування в лікарнях.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Інтеграція медичних звітів у системи медичного зображення DICOM
+- Перетворення PDF в DICOM для **рентгенологічних та кардіологічних** звітів
+- Архівування та відповідність лікарняних серверів PACS
+- Обмін структурованими медичними даними між системами
+- Стандартизоване управління медичними записами пацієнтів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані конвеєри для **медичного зображення PDF в DICOM**
+- Пакетне перетворення сканів PDF в архіви DICOM
+- Інтеграція лікарняних ЕМР/ЕЛР з робочими процесами PDF в DICOM
+- Автоматизація медичного зображення для відповідності
+- Безпечний, автоматизований трансфер клінічних даних
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

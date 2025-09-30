@@ -61,7 +61,26 @@ otherformats: SXC XLT ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为XLT**可将Word内容保存为**Excel模板（XLT）**文件，为企业、学术或财务工作流程提供可重复使用的电子表格模板。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 从Word表格创建可重复使用的Excel模板
+- 企业和公司报告模板
+- 学术和研究结构化数据模板
+- 政府和财务报告标准化
+- 模板驱动的文档到电子表格工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word到XLT模板生成
+- 模板驱动的电子表格工作流程自动化
+- 批量创建可重复使用的Excel模板
+- 企业级报告自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

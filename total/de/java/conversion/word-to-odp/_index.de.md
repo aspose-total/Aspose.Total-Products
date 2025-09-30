@@ -54,7 +54,26 @@ Mit der API können Sie auch passwortgeschützte WORD-Dokumente in ODP konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Umwandlung von **WORD in ODP** ermöglicht es, Word-Dokumente in **OpenDocument Presentation (ODP) Dateien** umzuwandeln und so die Kluft zwischen textbasierten Berichten und Präsentationsformaten für kollaborative, offene Standardumgebungen zu überbrücken.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Umwandlung von Textberichten in Präsentationsfolien
+- Präsentationen nach offenen Standards für unternehmensweite Zusammenarbeit
+- Vorbereitung von akademischen und Forschungspräsentationen
+- Archivierung von Regierungs- und Unternehmenspräsentationen
+- Vorlagenbasierte Unternehmensberichterstattung und Besprechungen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte Workflows zur Erzeugung von Word-zu-ODP
+- Stapelkonvertierung von Unternehmensberichten in Präsentationen
+- Vorlagenbasierte Erstellung von Präsentationsfolien
+- Strukturierte Berichterstattung und Besprechungsautomatisierung
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

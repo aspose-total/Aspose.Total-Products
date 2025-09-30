@@ -61,7 +61,26 @@ POWERPOINT 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 ODS로 변환**하면 프레젠테이션 테이블을 **OpenDocument 스프레드시트 형식**으로 내보낼 수 있어 구조화된 데이터 분석과 플랫폼 간 호환성을 제공합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 스프레드시트 분석을 위한 슬라이드 테이블 추출
+- 기업 보고 및 분석
+- OpenDocument 도구를 통한 플랫폼 간 데이터 공유
+- 구조화된 슬라이드 데이터 아카이빙
+- 프레젠테이션에서 숫자 또는 테이블 보고서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- ODS 형식으로 자동 테이블 추출
+- 분석 파이프라인과의 통합
+- 일괄 슬라이드에서 스프레드시트로의 변환
+- 데이터 주도형 보고서 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

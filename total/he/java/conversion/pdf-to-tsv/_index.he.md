@@ -102,7 +102,27 @@ otherformats: XLSM XLTM DIF SXC FODS MD CSV TXT XLAM XLT EXCEL XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל־TSV** חשובה ליצירת **ערכים מופרדים בטבלה** ששומרים על סט נקי של נתונים בעמודות. עם ממירי PDF ל־TSV ואוטומציה, ארגונים מבטיחים תאימות עם מסדי נתונים, גיליונות אלקטרוניים וכלי מחקר.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- סט נתונים למחקר אקדמי
+- טבלאות נתונים ביואינפורמטיקה ומדעי החיים
+- תוצאות סקרי מחקר שוק
+- ארכיונים סטטיסטיים של ממשלה
+- תמורות מובנות להחלפת נתונים מובנים במערכות שונות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- זרימות עבודה אוטומטיות מ־PDF ל־TSV למעבדות מחקר
+- יצירת TSV בצפיפות גבוהה לדיווח מובנה
+- שילוב עם צינורות כניסת מסדי נתונים
+- הכנת נתונים לפלטפורמות ניתוח
+- אוטומציה של נתונים טבלאיים בנפח גבוה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

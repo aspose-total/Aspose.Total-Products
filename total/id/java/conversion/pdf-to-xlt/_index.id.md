@@ -47,7 +47,27 @@ Saat mengonversi file PDF ke XLT, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke XLT** membantu perusahaan membangun file template **Excel** yang dapat digunakan kembali dalam proses pelaporan dan penginputan data. Pipa PDF ke XLT otomatis mendukung konsistensi merek dan format data yang terstandar.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Template pelaporan perusahaan
+- Formulir penelitian akademis
+- Template keuangan pemerintah
+- Spreadsheet manajemen inventaris
+- Dasbor perusahaan yang terstandar
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa template PDF-to-XLT untuk perusahaan
+- Konversi otomatis formulir menjadi template Excel
+- Generasi template batch dari arsip PDF
+- Otomatisasi alur kerja untuk spreadsheet perusahaan
+- Penggunaan kembali template secara enterprise-wide
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

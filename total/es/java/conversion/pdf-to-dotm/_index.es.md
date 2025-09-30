@@ -130,7 +130,25 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversión de **PDF a DOTM** permite a las organizaciones crear **plantillas de Word con macros** que combinan diseños reutilizables con funciones de automatización. Con convertidores en línea de PDF a DOTM y flujos de trabajo empresariales, las empresas pueden agilizar la generación de informes y garantizar la coherencia en los procesos de documentos dinámicos.
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+- Plantillas de informes automatizadas con macros  
+- Generación de documentos a nivel empresarial  
+- Declaraciones financieras que requieren automatización de fórmulas  
+- Documentación de cumplimiento con controles integrados  
+- Plantillas de documentos a gran escala para empresas
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+- Pipelines de PDF a DOTM para informes escalables  
+- Conversión masiva de PDF a plantillas DOTM  
+- Creación automatizada de plantillas reutilizables con macros  
+- Generación de informes basada en flujos de trabajo a partir de PDF  
+- Ensamblaje inteligente de documentos utilizando DOTM
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

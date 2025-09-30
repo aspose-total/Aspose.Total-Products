@@ -102,7 +102,26 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-EXCEL** חיונית להעברת טבלאות Word לתוך **גיליונות עבודה של Excel**, שמאפשרת ניתוח נתונים, דיווח תאגידי ושילוב חלק עם זרימות עבודה של Excel.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת טבלאות טקסטואליות לפורמטים המוכנים ל-Excel
+- דיווח וניתוח עסקי ברמה הארגונית
+- עיבוד נתונים אקדמי ומחקרי
+- ניהול רישומים בממשלה ובחברות
+- יצירת גיליונות עבודה ב-Excel באמצעות תבניות מבוססות על Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרת Word ל-Excel אוטומטיים
+- זרימות עבודה למסמכים רבים לגיליונות עבודה
+- יצירת דוחות Excel בהתאמה לתבנית
+- אוטומציה של שילוב נתונים ברמה הארגונית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

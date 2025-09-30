@@ -47,7 +47,25 @@ Al convertir un archivo PDF a SXC, también puede agregar una marca de agua a su
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PDF a SXC (Hoja de cálculo de OpenOffice Calc)** ayuda a extraer datos estructurados de los PDF en un **formato de hoja de cálculo de código abierto**, lo que permite un análisis adicional, informes e investigaciones académicas.
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+- Extracción de datos académicos e investigativos
+- Flujos de trabajo de hojas de cálculo de código abierto (LibreOffice/OpenOffice)
+- Informes de datos financieros y científicos
+- Migración de tablas PDF a formato SXC editable
+- Archivado y reutilización de hojas de cálculo empresariales
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+- **Tuberías de datos automatizadas de PDF a SXC**
+- Conversión por lotes de informes y conjuntos de datos
+- Integración con sistemas de análisis de datos e informes
+- Automatización de flujos de trabajo empresariales y académicos
+- Extracción de tablas PDF en formatos de hojas de cálculo de código abierto
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

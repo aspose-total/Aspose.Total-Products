@@ -61,7 +61,26 @@ otherformats: FODS XLAM TSV ODS XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 ODS** 可以将演示文稿中的表格导出为 **OpenDocument 电子表格格式**，实现结构化数据分析和跨平台兼容性。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 提取幻灯片表格以进行电子表格分析
+- 企业报告和分析
+- 与 OpenDocument 工具进行跨平台数据共享
+- 存档结构化幻灯片数据
+- 从演示文稿准备数字或表格报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动提取表格到 ODS 格式
+- 与分析管道集成
+- 批量将幻灯片转换为电子表格
+- 数据驱动的报告工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

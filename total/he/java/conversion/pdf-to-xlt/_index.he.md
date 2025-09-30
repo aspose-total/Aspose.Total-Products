@@ -102,7 +102,27 @@ otherformats: XLSB MD TXT XLTX XLAM FODS TSV CSV DIF EXCEL SXC XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-XLT** עוזרת לחברות לבנות **קבצי תבניות של Excel** שניתן להשתמש בהם במהלך דיווחים ותהליכי הזנת נתונים. צינורות ההמרה האוטומטית מ-PDF ל-XLT תומכים בעיצוב קבוצתי ובפורמטים תקניים של נתונים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- תבניות דיווח תאגידיות
+- טפסי מחקר אקדמיים
+- תבניות פיננסיות של ממשלה
+- גיליונות ניהול מלאי
+- לוחות מחוונים תקניים לעסקים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות תבניות מ-PDF ל-XLT לעסקים
+- המרה אוטומטית של טפסים לתבניות של Excel
+- יצירת תבניות בצורה צמודה מארכיוני PDF
+- אוטומציה של זרימת עבודה לגיליונות תקניים לעסקים
+- שימוש בתבניות ברחבי העסק
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -130,7 +130,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke RTF** memungkinkan bisnis untuk menghasilkan dokumen **Rich Text Format** yang kompatibel di berbagai platform. Dengan alat online PDF ke RTF dan otomatisasi, perusahaan dapat memastikan pengeditan, berbagi, dan integrasi yang lancar dengan sistem warisan di seluruh dunia.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Berbagi dokumen lintas platform
+- Kompatibilitas dengan sistem warisan
+- Portabilitas dokumen hukum
+- Penyerahan akademik dalam format standar
+- Pengarsipan untuk aksesibilitas jangka panjang
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa kerja PDF ke RTF otomatis untuk pertukaran dokumen
+- Generasi RTF massal dari arsip PDF
+- Alur kerja RTF di seluruh perusahaan
+- Integrasi aplikasi warisan dengan RTF
+- Otomatisasi interoperabilitas lintas sistem
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

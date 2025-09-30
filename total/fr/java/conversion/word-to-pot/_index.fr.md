@@ -54,7 +54,24 @@ L'API vous permet également de convertir des documents WORD protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **WORD en POT** permet de transformer les documents Word en fichiers **modèles PowerPoint (POT)**, permettant la réutilisation de modèles de présentation directement à partir du contenu Word.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Création de modèles PowerPoint standardisés à partir de rapports Word
+- Génération de modèles de présentation d'entreprise
+- Diapositives réutilisables pour l'enseignement et la recherche
+- Modèles de briefing et de reporting d'entreprise
+- Flux de travail basé sur des modèles pour les présentations
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Création automatisée de modèles Word vers POT
+- Conversion en lot de documents Word en modèles de présentation
+- Génération de diapositives basée sur des modèles
+- Flux de travail d'automatisation de présentation de qualité entreprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

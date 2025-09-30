@@ -53,7 +53,26 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 DOT로 변
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 DOT으로 변환**하면 프레젠테이션을 **Word 템플릿**으로 저장할 수 있어서 표준화된 문서 형식에서 프레젠테이션 콘텐츠를 반복해서 재사용할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 슬라이드에서 재사용 가능한 Word 템플릿 생성
+- 기업 문서 표준화
+- 템플릿 기반 보고서 및 제안서
+- 나중에 사용하기 위해 프레젠테이션 구조 아카이빙
+- 교육용 템플릿 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 슬라이드 덱에서 자동화된 템플릿 생성
+- 기업 템플릿 라이브러리에 대한 워크플로 통합
+- 단일 PPT에서 여러 문서 변형 생성
+- 템플릿 기반 보고서 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

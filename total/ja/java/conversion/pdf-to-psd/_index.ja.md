@@ -57,7 +57,27 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをPSDに変換**することで、デザイナーは**PDFグラフィックスをAdobe Photoshop形式に変換**し、レイヤーベースの編集やクリエイティブなワークフローの向上を実現できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- PhotoshopでPDFイラストの編集
+- インフォグラフィックやマーケティング資産の変換
+- クリエイティブチーム向けのレイヤー保存型デザインワークフロー
+- デジタルメディアキャンペーン向けのPDFコンテンツの準備
+- 編集可能なPSD形式でのPDFグラフィックスのアーカイブ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからPSDへのバッチ変換**
+- クリエイティブスタジオ向けのデザインワークフロー統合
+- API駆動のPDFからPhotoshopへの処理
+- 企業向けのグラフィックス自動化パイプライン
+- PDFファイルからの自動化されたレイヤー抽出
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

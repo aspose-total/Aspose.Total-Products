@@ -54,7 +54,26 @@ otherformats: PPT PPTM PPTX POT PPS POTM PPSX POWERPOINT PPSM POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى PPS** يمكن أن يجعل محتوى Word يصبح ملفات **PowerPoint Show (PPS)**، جاهزة للعرض المباشر دون الحاجة لإعداد الشرائح يدويًا.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل تقارير Word إلى عروض تقديمية جاهزة للتشغيل
+- شرائح الاجتماعات الشركاتية والمؤسسية
+- إعداد المواد الأكاديمية والتدريبية
+- عروض تقديمية قائمة على القوالب للإيضاح والتقارير
+- عروض تقديمية جاهزة للعرض للحكومة والمؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عرض تقديمي مؤتمت من Word إلى PPS
+- توليد دفعة من الشرائح الجاهزة للعرض
+- سير عمل تقديمي مؤتمت قائم على القوالب
+- أتمتة PowerPoint على مستوى المؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

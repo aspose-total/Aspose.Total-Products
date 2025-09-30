@@ -130,7 +130,25 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en MHTML** (format d'archive web) est essentielle pour transformer des documents en **pages HTML à fichier unique avec des ressources intégrées**. Cela permet une distribution facile des PDF en tant que fichiers prêts pour le web pour **l'archivage, la publication numérique et la visualisation basée sur le navigateur**.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- PDF en MHTML pour l'archivage web à fichier unique
+- Conversion de rapports en **archives web** consultables par navigateur
+- Flux de travail d'entreprise pour la **distribution de documents basés sur HTML**
+- Stockage de documents légaux et de conformité en tant que MHTML
+- Flux de travail de publication numérique convertissant les PDF en **formats prêts pour le web**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines PDF vers MHTML** automatisés
+- Traitement par lot des PDF en archives web
+- Intégration de CMS d'entreprise pour les sorties MHTML
+- Flux de travail de publication automatisée avec conversion PDF vers MHTML
+- Conversion de PDF basée sur le navigateur en **archives HTML autonomes**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

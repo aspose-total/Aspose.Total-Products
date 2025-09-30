@@ -57,7 +57,27 @@ API также позволяет экспортировать файл PDF в S
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в SVGZ** позволяет сохранять векторную графику PDF в виде файлов **сжатой масштабируемой векторной графики (SVGZ)**. Это особенно ценно для **веб-публикаций, чертежей CAD и адаптивного дизайна**, где масштабируемость и производительность являются ключевыми.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Веб-публикация масштабируемой векторной графики PDF в формате SVGZ
+- Экспорт чертежей CAD для инженерных и дизайнерских рабочих процессов
+- Сжатие больших PDF-файлов в легкие файлы SVGZ
+- Адаптивные диаграммы для веб-сайтов и мобильных приложений
+- Архивирование технических чертежей в сжатом векторном формате
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **конвейеры экспорта PDF в SVGZ**
+- Пакетное преобразование векторов PDF для инженерных команд
+- Рабочие процессы веб-публикации с использованием SVGZ из файлов PDF
+- Автоматизация графики предприятия с сжатым выводом
+- Интеграция системы API PDF в SVGZ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

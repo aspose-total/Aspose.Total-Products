@@ -61,7 +61,24 @@ Trong khi chuyển đổi tệp POWERPOINT sang MARKDOWN, bạn cũng có thể 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang MARKDOWN** cho phép xuất các slide vào định dạng **Markdown**, lý tưởng cho tài liệu nhẹ, các công cụ tạo trang web tĩnh và phiên bản nội dung.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Chuyển đổi nội dung bài thuyết trình cho trang web hoặc blog  
+- Tài liệu văn bản nhẹ  
+- Lưu trữ slide trong các định dạng kiểm soát phiên bản  
+- Ghi chú và chia sẻ nội dung cộng tác  
+- Tài liệu giáo dục cho các nhà phát triển và nhà văn kỹ thuật
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Đường ống chuyển đổi slide sang Markdown tự động  
+- Tích hợp với các công cụ tạo trang web tĩnh như Hugo hoặc Jekyll  
+- Chuyển đổi hàng loạt các bài thuyết trình sang Markdown  
+- Quy trình tài liệu cho cơ sở kiến thức doanh nghiệp
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

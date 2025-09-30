@@ -57,7 +57,27 @@ otherformats: SVGZ PSD EMZ DXF IMAGE TGA JPEG2000 WMZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى WMF** أو **PDF إلى WMZ** يسمح باستخدام الرسومات الناقلة من ملفات PDF في **تطبيقات تعتمد على نظام Windows**, العروض التقديمية، والرسوم التوضيحية القابلة للتوسيع لسير العمل في المؤسسات والحكومات والتصميم.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تضمين الرسومات الناقلة من PDF بصيغة ناقلة في تطبيقات Office
+- إنشاء مواد العروض التقديمية والتسويق
+- الرسوم التخطيطية والرسوم التوضيحية القابلة للتوسيع
+- رسومات وثائق المؤسسات والحكومات
+- تخزين صيغة الرسومات الناقلة المضغوطة باستخدام WMZ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب تحويل **PDF إلى WMF/WMZ تلقائية**
+- معالجة دفعية للرسومات الناقلة من PDF
+- التكامل مع سير العمل في العروض التقديمية والمكاتب
+- أتمتة الرسومات في المؤسسات للنشر
+- تخزين الرسومات الناقلة القابلة للتوسيع وأتمتة إعادة الاستخدام
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,27 @@ otherformats: TSV FODS ODS MD XLAM TXT DIF XLT SXC EXCEL XLSB XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל־CSV** חיונית לחילוץ **נתונים טבלאיים לערכים מופרדים בפסיקים**. כלי מקוון להמרת PDF ל־CSV ותהליכי עבודה אוטומטיים מאפשרים לעסקים לפתוח קבוצות נתונים מובנות לניתוח, דיווח והעברת נתונים בקלות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- חילוץ נתוני דוחות פיננסיים
+- המרת קטלוג מוצרי מסחר אלקטרוני
+- קבוצות נתונים למחקר מדעי
+- דוחות סטטיסטיים מממשלתיים
+- ייבוא נתונים לכלי BI
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות PDF-to-CSV אוטומטיים לניתוח
+- המרה צפונית של דוחות פיננסיים ל־CSV
+- שילוב עם תהליכי עבודת נתונים ETL
+- עיבוד AI/ML באמצעות קבוצות נתונים בפורמט CSV
+- אוטומציה לשיתוף נתונים בין פלטפורמות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

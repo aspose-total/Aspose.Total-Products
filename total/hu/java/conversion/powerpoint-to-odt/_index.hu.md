@@ -53,7 +53,26 @@ Az API segítségével POWERPOINT fájlból ODT-ba konvertálhat vízjellel. Ha 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to ODT** konvertálása lehetővé teszi a diák mentését **OpenDocument Text dokumentumokként**, támogatva a prezentációk szerkeszthető, platformfüggetlen szöveges tartalmát.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Diák átalakítása szerkeszthető OpenDocument szövegfájlokká
+- Együttműködés különböző irodai szoftverek között
+- Prezentációk archiválása széles körben támogatott formátumban
+- Oktatási kiadványok és vállalati jelentések
+- Prezentációs tartalom újrahasznosítása dokumentációhoz
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Tömeges PowerPoint-ODT konverziók
+- Integráció dokumentumkezelési munkafolyamatokba
+- Jelentések automatikus generálása diákokból
+- Vállalati tartalom újrahasznosítási csatornák
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

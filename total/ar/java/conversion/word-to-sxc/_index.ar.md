@@ -61,7 +61,26 @@ otherformats: SXC XLTX XLAM XLS FODS XLT XLSM TSV DIF EXCEL ODS XLSX XLTM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى SXC** يسمح بتحويل محتوى Word إلى ملفات **StarOffice Calc (SXC)**، مما يتيح التوافق مع تنسيقات جداول البيانات القديمة لبرامج OpenOffice/StarOffice للاستخدام في الشركات أو للأغراض الأرشيفية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تصدير جداول Word إلى تنسيقات جداول البيانات القديمة
+- التوافق مع حزم البرامج المكتبية القديمة
+- أرشفة المحتوى المهيكل للشركات والحكومات
+- ترحيل البعد الجدولي الأكاديمي
+- إعداد جداول بيانات قائمة على القوالب من مستندات Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+- سير العمل الدفعي لتحويل Word إلى SXC
+- أتمتة تحويل المستندات إلى جداول بيانات على مستوى المؤسسات
+- أنابيب تكامل الأنظمة القديمة
+- أتمتة تقارير مبنية على القوالب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

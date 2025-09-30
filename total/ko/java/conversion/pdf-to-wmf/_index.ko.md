@@ -57,7 +57,27 @@ API를 사용하여 필요에 따라 출력 WMF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 WMF** 또는 **PDF를 WMZ**로 변환하면 PDF의 벡터 그래픽을 **Windows 기반 응용 프로그램**, 프레젠테이션 및 기업, 정부 및 디자인 워크플로에 사용할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Office 응용 프로그램에 벡터 PDF 그래픽 임베딩
+- 프레젠테이션 및 마케팅 자료 작성
+- 확장 가능한 다이어그램 및 일러스트레이션
+- 기업 및 정부 문서 그래픽
+- WMZ를 사용한 압축된 벡터 형식 저장
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-WMF/WMZ 변환 파이프라인**
+- 벡터 PDF 그래픽의 일괄 처리
+- 프레젠테이션 및 오피스 워크플로 통합
+- 출판을 위한 기업 그래픽 자동화
+- 확장 가능한 벡터 저장 및 재사용 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

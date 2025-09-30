@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na TSV můžete také přidat vodoznak do výst
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na TSV** umožňuje export snímků jako **hodnot oddělených tabulátorem**, usnadňuje zpracování strukturovaných dat a kompatibilitu se sešity napříč platformami.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Extrahování tabulkových dat pro analytiku
+- Sdílení dat napříč platformami
+- Integrace s dědictvím a moderními nástroji pro tabulkové procesy
+- Archivace strukturovaného obsahu z prezentací
+- Příprava strukturovaných zpráv
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované dávkové převody snímků na TSV
+- Integrace s pracovními postupy podnikové analytiky
+- Automatizace zpráv řízených daty
+- Příprava tabulek pro systémy dědictví
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

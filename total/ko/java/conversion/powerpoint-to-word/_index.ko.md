@@ -53,7 +53,26 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 WORD로 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 WORD로 변환**하면 슬라이드가 **편집 가능한 Word 문서**로 변환되어 보고서, 협업 편집 및 문서 작성에 널리 사용될 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션에서 편집 가능한 문서 생성
+- 기업 보고서 작성
+- 학술 및 교육 자료 준비
+- Word 형식으로 프레젠테이션 보관
+- 협업 편집 및 주석 작업
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 프레젠테이션을 위한 일괄 변환 파이프라인
+- 기업 문서 워크플로에 통합
+- 슬라이드로부터 보고서 자동 생성
+- 팀을 위한 슬라이드 기반 문서 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

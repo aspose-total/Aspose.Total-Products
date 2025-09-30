@@ -61,7 +61,26 @@ otherformats: XLTM XLSB XLSM SXC XLTX DIF ODS TSV XLS MHTML MARKDOWN FODS XLT XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PowerPoint转换为XLAM**可将幻灯片导出为**启用宏的Excel加载项**，实现自动化和可重复使用的功能，源自演示文稿数据。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 使用演示文稿驱动的宏创建Excel加载项
+- 根据幻灯片自动化报告功能
+- 与Excel自动化的企业工作流集成
+- 从演示文稿数据中创建可重复使用的宏库
+- 简化重复的电子表格任务
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 从演示文稿自动生成XLAM加载项
+- 批量幻灯片到Excel宏工作流
+- 与企业报告管道集成
+- 在Excel中进行幻灯片驱动的自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

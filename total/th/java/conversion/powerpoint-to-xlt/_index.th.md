@@ -61,7 +61,26 @@ otherformats: EXCEL XLAM DIF MARKDOWN XLT XLTM XLSX XLSB TSV XLS SXC FODS XLSM O
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น XLT** ช่วยให้สามารถส่งออกสไลด์เป็น **เทมเพลต Excel เวอร์ชันเก่า**, เพื่อให้สามารถใช้เทมเพลตซ้ำได้จากข้อมูลในงานนำเสนอสำหรับรายงานมาตรฐาน
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- สร้างเทมเพลต Excel ที่ใช้ซ้ำจากงานนำเสนอ  
+- มาตรฐานในการรายงานขององค์กรหรือสถาบันการศึกษา  
+- เก็บสไลด์เป็นสมุดงานเทมเพลต  
+- เตรียมเทมเพลตโครงสร้างสำหรับโครงการหรือรายงาน  
+- การสร้างเทมเพลตเวอร์ชันเก่าสำหรับ Excel เวอร์ชันเก่า
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+- การสร้างเทมเพลตจากสไลด์ไปยัง XLT โดยอัตโนมัติ  
+- การผสานการทำงานในกระบวนการสำหรับไลบรารีเทมเพลตขององค์กร  
+- การสร้างเทมเพลตเป็นชุดจากงานนำเสนอหลายรายการ  
+- การอัตโนมัติในการรายงานตามเทมเพลต
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

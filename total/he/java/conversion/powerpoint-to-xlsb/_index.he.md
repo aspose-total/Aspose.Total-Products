@@ -102,7 +102,26 @@ otherformats: FODS SXC DIF XLS XLT MARKDOWN TSV XLAM EXCEL MHTML ODS XLTX XLSM C
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-XLSB** מאפשרת ייצוא שקופיות כ **חדות Excel בינאריות**, ממטבת ביצועים וגודל קובץ עבור מצגות גדולות המבוססות על נתונים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+- עיבוד סטים גדולים ממצגות
+- דיווח וניתוח עסקי
+- ארכיבת שקופיות בפורמט בינארי יעיל
+- טעינת גליונות נתונים מהירה לצורכי ניתוח
+- זרימות נתונים עסקיות שיתופיות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים משקופיות ל-XLSB
+- עיבוד רצפי שקופיות גדולות
+- שילוב עם מערכות דיווח ביצועיות גבוהה
+- זרימות נתונים עסקיות לחילוץ נתונים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

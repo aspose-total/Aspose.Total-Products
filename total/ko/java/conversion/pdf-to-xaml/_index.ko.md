@@ -135,7 +135,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 XAML로 변환**은 개발자와 기업이 문서 레이아웃으로부터 **Extensible Application Markup Language 파일**을 생성하는 데 도움이 됩니다. 온라인 PDF에서 XAML로 변환하는 도구와 자동화된 파이프라인을 사용하여 기업은 PDF를 WPF 애플리케이션 및 디지털 게시물용 UI 자원으로 변환할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF 레이아웃으로부터 UI 프로토타이핑  
+- 기업 앱 디자인 문서  
+- WPF 애플리케이션 자원 생성  
+- 대화형 소프트웨어 문서  
+- 구조화된 마크업에서의 디지털 게시
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- UI 프레임워크용 자동화된 PDF-to-XAML 파이프라인  
+- 기업을 위한 대량 PDF에서 XAML로 변환  
+- 디자인 문서용 워크플로 통합  
+- PDF 아카이브로부터의 애플리케이션 프로토타이핑  
+- 기업 소프트웨어 문서 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -130,7 +130,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى DOTM** يمكن المؤسسات من إنشاء **قوالب Word محملة بالماكرو** التي تجمع بين التخطيطات القابلة لإعادة الاستخدام مع ميزات الأتمتة. من خلال محولات PDF إلى DOTM عبر الإنترنت وسير العمل الخاصة بالشركات، يمكن للشركات تبسيط عمليات التقارير وضمان الاتساق عبر العمليات الوثيقة الديناميكية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- قوالب تقارير آلية مع ماكروهات
+- إنشاء وثائق على مستوى المؤسسة
+- بيانات مالية تتطلب أتمتة الصيغ
+- وثائق الامتثال مع فحوصات مدمجة
+- إنشاء قوالب وثائق بمقياس كبير للشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عملية PDF إلى DOTM لتقارير قابلة للتوسيع
+- تحويل الدفعة الضخمة من PDF إلى قوالب DOTM آليًا
+- إنشاء تقارير قابلة لإعادة الاستخدام بماكروهات بشكل آلي
+- إنشاء تقارير مدفوعة بسير العمل من PDF
+- تجميع وثائق ذكية باستخدام DOTM
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

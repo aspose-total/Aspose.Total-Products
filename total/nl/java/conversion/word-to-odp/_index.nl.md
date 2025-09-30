@@ -54,7 +54,24 @@ Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar ODP con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **WORD naar ODP** maakt het mogelijk om Word-documenten om te zetten in **OpenDocument Presentation (ODP) bestanden**, waardoor de kloof tussen op tekst gebaseerde rapporten en presentatieformaten voor samenwerkings- en open-standaardomgevingen wordt overbrugd.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het omzetten van tekstuele rapporten naar presentaties
+- Presentaties volgens open standaarden voor zakelijke samenwerking
+- Voorbereiding van academische en onderzoekspresentaties
+- Archivering van presentaties voor overheid en bedrijven
+- Rapportage en briefing op basis van sjablonen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde workflows voor het genereren van Word naar ODP
+- Batchconversie van bedrijfsrapporten naar presentaties
+- Creatie van presentaties op basis van sjablonen
+- Geautomatiseerde gestructureerde rapportage en briefing
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

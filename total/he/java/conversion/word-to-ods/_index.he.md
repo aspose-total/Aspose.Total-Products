@@ -102,7 +102,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-ODS** מאפשרת לייצא תוכן מ-Word לתוך **תבנית OpenDocument Spreadsheet (ODS)**, מה שהופך נתוני טבלה מובנים לנגישים לניתוח גיליונות נתונים ותהליכי עבודה שיתופיים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- ייצוא טבלאות Word ל-ODS לצורך ניתוח
+- דיווחים התאמתיים בפורמטים של OpenDocument
+- תהליכי עבודה בגיליונות נתונים עבור חברות וממשלות
+- עיבוד נתונים אקדמי וארכיוני
+- העברת נתוני טבלה מובנים למערכות גיליון נתונים מודרניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה מ-Word ל-ODS אוטומטיים
+- דיווחים מובנים ברמת עסקים
+- אוטומציה של תהליכי עבודה המבוססים על גיליונות נתונים
+- הפקת מסמכים מבוססת תבנית לגיליון נתונים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,24 @@ Ao converter o arquivo POWERPOINT para XLTX, você também pode adicionar marca 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PowerPoint para XLTX** permite exportar slides como **modelos Excel modernos**, criando modelos reutilizáveis sem macros para relatórios padronizados empresariais ou acadêmicos.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Modelos Excel modernos reutilizáveis  
+- Relatórios padronizados empresariais ou acadêmicos  
+- Arquivar apresentações como pastas de trabalho de modelo  
+- Preparar modelos de projeto ou relatório  
+- Compartilhamento e edição colaborativos de modelos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Geração automatizada de modelos XLTX a partir de slides  
+- Fluxos de trabalho de criação em lote de modelos  
+- Integração com bibliotecas de modelos empresariais  
+- Automação de relatórios orientada por modelos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

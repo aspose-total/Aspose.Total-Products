@@ -61,7 +61,26 @@ POWERPOINT dosyasını XLTM'ye dönüştürürken, çıktı XLTM dosya biçimini
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint' i XLTM' ye dönüştürmek**, slaytların **makro özellikli Excel şablonlarına** dönüşmesine olanak tanır, tekrarlanan otomatik raporlama ve kurumsal iş akışları için makroları korur.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Makro özellikli tekrar kullanılabilir Excel şablonları
+- Gömülü otomasyonla standartlaştırılmış raporlama
+- Sunumları makro özellikli şablonlar olarak arşivleme
+- Kurumsal kullanım için etkileşimli proje şablonları
+- Eğitim ve eğitim şablonu oluşturma
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Otomatik slayt-XLTM dönüşüm boru hatları
+- Makrolarla kurumsal şablon kütüphanesi oluşturma
+- Toplu makro özellikli şablon oluşturma
+- Şablon tabanlı otomatik raporlama
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,27 @@ otherformats: XLTM FODS XLAM CSV XLT TSV XLSB XLTX TXT XLSM ODS DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-SXC (גיליון חישובים של OpenOffice Calc)** עוזרת לחשוף נתונים מובנים מ- PDF ולהמירם לתבנית של גיליון חישובים בקוד פתוח, מאפשרת ניתוח נוסף, דיווח ומחקר אקדמי.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- חילוץ נתונים אקדמיים ומחקריים
+- זרימות עבודה של גיליונות חישובים בקוד פתוח (LibreOffice/OpenOffice)
+- דיווח על נתונים פיננסיים ומדעיים
+- העברת טבלאות מ- PDF לתבנית SXC שניתנת לעריכה
+- ארכיבה ושימוש חוזר בגיליונות חישובים לעסקים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות נתונים **מ-PDF ל-SXC** אוטומטיים
+- המרה רציפה של דוחות וקבצים
+- שילוב עם מערכות ניתוח ודיווח נתונים
+- אוטומציה של זרימות עבודה לעסקים ולאקדמיה
+- חילוץ של טבלאות מ-PDF לתבניות של גיליונות חישובים בקוד פתוח
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

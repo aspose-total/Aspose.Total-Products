@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 WORD 문서를 PPTX로 변환할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 PPTX로 변환**하면 Word 문서를 현대적인 **PowerPoint (PPTX) 파일**로 변환하여 기업, 학술 및 기업용 현재 PowerPoint 버전과 완전히 호환되도록 제공합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 보고서에서 현대적인 슬라이드 덱 생성
+- 기업 및 기업용 프레젠테이션
+- 학술 연구 및 교육 슬라이드 준비
+- 템플릿 기반 보고 및 브리핑 슬라이드
+- 정부 및 조직 프레젠테이션 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-PPTX 변환 파이프라인
+- Word 문서에서 일괄 슬라이드 덱 생성
+- 템플릿 기반 현대적인 프레젠테이션 자동화
+- 기업용 문서에서 슬라이드로의 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

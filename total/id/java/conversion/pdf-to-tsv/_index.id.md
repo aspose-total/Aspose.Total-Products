@@ -47,7 +47,27 @@ Saat mengonversi file PDF ke TSV, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke TSV** sangat berharga untuk menghasilkan **nilai terpisah tab** yang menjaga dataset berbasis kolom yang bersih. Dengan konverter PDF ke TSV dan otomatisasi, organisasi memastikan kompatibilitas dengan basis data, spreadsheet, dan alat penelitian.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Dataset penelitian akademis
+- Bioinformatika dan tabel data ilmiah
+- Hasil survei penelitian pasar
+- Arsip statistik pemerintah
+- Pertukaran data terstruktur lintas sistem
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Alur kerja PDF-ke-TSV otomatis untuk laboratorium penelitian
+- Generasi TSV batch untuk pelaporan terstruktur
+- Integrasi dengan jalur masukan basis data
+- Persiapan data untuk platform analitik
+- Otomatisasi data tabular berkapasitas tinggi
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

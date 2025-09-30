@@ -57,7 +57,27 @@ otherformats: WMZ PSD TGA JPEG2000 EMZ SVGZ IMAGE  WMF DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 PSD** 可让设计师将 **PDF 图形转换为 Adobe Photoshop 格式**，实现基于图层的编辑和创意工作流增强。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 在 Photoshop 中编辑 PDF 插图
+- 转换信息图表和营销资产
+- 为创意团队提供保留图层的设计工作流
+- 为数字媒体活动准备 PDF 内容
+- 将 PDF 图形存档为可编辑的 PSD 格式
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的 **PDF 到 PSD 批量转换**
+- 创意工作室的设计工作流集成
+- 基于 API 的 PDF 到 Photoshop 处理
+- 企业图形自动化流水线
+- 从 PDF 文件中自动提取图层
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

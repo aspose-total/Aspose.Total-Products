@@ -61,7 +61,24 @@ WORDをXLTMに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをXLTMに変換**することで、Word文書を**マクロ有効Excelテンプレート（XLTM）**ファイルに変換し、企業ワークフロー向けの自動化、マクロ、再利用可能なスプレッドシートテンプレートを実現します。
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- Wordからマクロ有効Excelテンプレートの作成
+- 自動化された企業レポーティング
+- マクロを使用した学術および研究ワークフロー
+- テンプレート駆動のマクロ有効スプレッドシート生成
+- 企業および政府の構造化レポーティング
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- WordからXLTMへの自動化されたテンプレートパイプライン
+- マクロ駆動のワークフロー自動化
+- 再利用可能なマクロ有効テンプレートの一括生成
+- 企業向けのレポーティングおよび自動化ワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

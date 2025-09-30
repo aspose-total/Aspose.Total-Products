@@ -102,7 +102,27 @@ otherformats: EXCEL XLT SXC XLTX TXT TSV DIF CSV XLSB FODS XLSM MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-XLAM** מאפשרת יצירת קבצי **תוסף Excel** ממאקרוסים בגיליון האלקטרוני המבוססים על PDF או פונקציות מותאמות אישית. זה מאוד שימושי למודלים פיננסיים ממוכנים מראש, לדיווחי עסקים ולשיפורי זרימת עבודה ב-Excel.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת מאקרוס ותוספים ב-Excel מנתוני PDF
+- מודלים פיננסיים אוטומטיים וכלי דיווח
+- שיפורי זרימת עבודה בגליונות אלקטרוניים עסקיים
+- אוטומציה ב-Excel בהתבסס על מחקר או אקדמיה
+- הפצת תבניות תוספי Excel בגודל גדול
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות עבודה אוטומטיים של **PDF-to-XLAM**
+- עיבוד צורת עסקים ופיננסים בצורה צפופה
+- שילוב עם אוטומציה בזרימת עבודה ב-Excel
+- צינורות דיווחים מאקרו-מופעלים ברמה עסקית
+- הפצה נמוכה של תוספי Excel מתוך PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

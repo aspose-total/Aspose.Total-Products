@@ -61,7 +61,26 @@ otherformats: MARKDOWN ODS XLS SXC TSV XLT XLTM XLTX DIF EXCEL MHTML FODS XLAM X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в CSV** позволяет экспортировать слайды в формат **Comma-Separated Values**, идеально подходит для анализа таблиц, интеграции с базами данных и структурированных рабочих процессов с данными.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Извлечение данных из таблиц или диаграмм для аналитики
+- Импорт/экспорт данных для отчетности
+- Обмен и интеграция корпоративных данных
+- Архивирование структурированного содержимого слайдов
+- Подготовка числовых или табличных отчетов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры извлечения слайдов в CSV
+- Пакетная обработка нескольких презентаций
+- Интеграция с BI и аналитическими системами
+- Рабочие процессы отчетности на основе данных
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ otherformats: TSV XLTM XLSX MARKDOWN XLT XLSB MHTML DIF XLS XLSM ODS SXC EXCEL X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε XLS** επιτρέπει την εξαγωγή διαφανειών ως **παλαιών φυλλομετρητών Excel 97-2003**, υποστηρίζοντας συμβατότητα με παλαιότερα συστήματα φύλλων εργασίας.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Συμβατότητα με παλαιούς φυλλομετρητές  
+- Αρχειοθέτηση πινάκων και γραφημάτων παρουσιάσεων  
+- Επιχειρησιακή αναφορά σε παλαιότερες μορφές Excel  
+- Διαμοιρασμός δεδομένων σε διαφορετικές πλατφόρμες  
+- Προετοιμασία δομημένων αναφορών για παλαιότερα συστήματα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Μαζική μετατροπή διαφανειών σε XLS  
+- Ενσωμάτωση με παλαιές ροές εργασίας αναφοράς  
+- Αυτοματοποιημένη εξαγωγή πινάκων παρουσίασης  
+- Δομημένη αρχειοθέτηση δεδομένων
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

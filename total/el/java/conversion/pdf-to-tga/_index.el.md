@@ -57,7 +57,27 @@ otherformats: SVGZ TGA JPEG2000 WMF IMAGE PSD  WMZ EMZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PDF σε TGA (Targa)** είναι ιδανική για τη δημιουργία **υψηλής ποιότητας εικόνων raster** από σελίδες PDF για ψηφιακή τέχνη, gaming και παραγωγή πολυμέσων.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Εξαγωγή ψηφιακής τέχνης και εικονογράφησης
+- Δημιουργία περιεχομένου παιχνιδιών από το περιεχόμενο PDF
+- Υψηλής ποιότητας γραφικά raster για πολυμεσικά έργα
+- Αρχειοθέτηση γραφικών PDF ως εικόνες TGA
+- Μετατροπή για ροές εργασίας animation και οπτικών εφέ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένη **μετατροπή μαζικής PDF σε TGA**
+- Ενσωμάτωση με ψηφιακά μέσα και δίκτυα παιχνιδιών
+- Ραστεροποίηση γραφικών PDF για οπτικά εφέ
+- Αυτοματισμός ροών εργασίας για παραγωγή πολυμέσων
+- Κλιμακούμενη εξαγωγή εικόνας PDF σε TGA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

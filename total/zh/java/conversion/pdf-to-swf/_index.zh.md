@@ -121,7 +121,27 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 SWF（Flash）** 对于从 PDF 文档创建 **交互式、适用于网络的内容** 非常有用。这种格式适用于演示文稿、电子学习模块和在线营销材料。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 电子学习和在线课程内容
+- 用于网络的交互式 PDF 演示文稿
+- 营销幻灯片和促销活动
+- 存档 PDF 多媒体以进行网络播放
+- 数字手册和交互式手册
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的 **PDF 到 SWF 管道**
+- 用于在线培训模块的批量转换
+- 与电子学习管理系统平台集成
+- 具有 SWF 输出的网络发布工作流程
+- 可扩展的交互式 PDF 内容自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

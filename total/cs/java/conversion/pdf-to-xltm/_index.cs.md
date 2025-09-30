@@ -47,7 +47,27 @@ Při převodu souboru PDF na XLTM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na XLTM** umožňuje vytváření **makro-povolených šablon Excelu** pro opakující se pracovní postupy. Automatizované nástroje pro převod PDF na XLTM kombinují statické rozložení s vestavěnou automatizací, což je činí ideálními pro finanční, výzkumné a podnikové scénáře.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Makro-povolené finanční šablony  
+- Automatizované výzkumné reporty  
+- Automatizace pracovních postupů na úrovni podniku  
+- Reportování pro dodržování předpisů  
+- Opětovné využití datově řízených šablon Excelu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Potrubí PDF-to-XLTM pro škálovatelné reportování  
+- Automatizované vytváření makro-povolených šablon Excelu  
+- Dávkový převod šablon pro podniky  
+- Automatizace Excelu řízená pracovním postupem  
+- Generování XLTM s podporou AI
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

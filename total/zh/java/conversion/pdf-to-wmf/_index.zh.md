@@ -57,7 +57,27 @@ otherformats: SVGZ PSD EMZ DXF IMAGE TGA JPEG2000 WMZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 WMF** 或 **PDF 转换为 WMZ** 可以让来自 PDF 的矢量图形在 **基于 Windows 的应用程序**、演示文稿和可扩展插图中使用，适用于企业、政府和设计工作流程。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 在 Office 应用程序中嵌入矢量 PDF 图形
+- 创建演示文稿和营销材料
+- 可扩展的图表和插图
+- 企业和政府文件图形
+- 使用 WMZ 进行压缩的矢量格式存储
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的 **PDF 到 WMF/WMZ 转换流程**
+- 批量处理矢量 PDF 图形
+- 与演示文稿和办公流程集成
+- 用于出版的企业图形自动化
+- 可扩展的矢量存储和重复利用自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

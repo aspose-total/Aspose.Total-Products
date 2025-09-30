@@ -54,7 +54,26 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORD được bảo v
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **WORD sang POWERPOINT** cho phép biến đổi mượt mà các tài liệu Word thành các bài thuyết trình **PowerPoint** đầy đủ, kết nối nội dung văn bản với các bộ slide hình ảnh cho mục đích doanh nghiệp, học thuật và công ty.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Biến đổi báo cáo Word thành các bài thuyết trình hình ảnh
+- Các slide trình bày thông tin cho doanh nghiệp và công ty
+- Chuẩn bị slide cho nghiên cứu học thuật
+- Trình bày tài liệu chính phủ và chính sách
+- Tạo slide theo mẫu từ nội dung Word có cấu trúc
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Các luồng công việc tự động hóa từ Word sang PowerPoint
+- Tạo hàng loạt các bộ slide trình bày từ các báo cáo
+- Luồng công việc tự động hóa slide theo mẫu
+- Tự động hóa tài liệu sang slide cấp doanh nghiệp
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

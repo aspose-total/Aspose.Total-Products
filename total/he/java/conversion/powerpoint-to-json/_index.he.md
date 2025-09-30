@@ -102,7 +102,26 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-JSON** מאפשרת ייצוא שקופיות כנתוני **JSON מובנים**, מאפשרת שילוב חלק עם אפליקציות אינטרנט, APIs ומערכות עיבוד אוטומטי.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- שילוב תוכן מצגת באפליקציות אינטרנט או ניידות
+- יצירת שקופיות המופעלות על ידי נתונים
+- ארכיבת שקופיות בתור JSON מובנה לשימוש חוזר
+- דיווח וניתוח עסקי
+- אוטומציה מבוססת תבניות באמצעות נתוני שקופיות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- זרימי עבודה שמופעלים על ידי JSON
+- מסירת תוכן באמצעות API באופן אוטומטי
+- המרת קובצים רבים של שקופיות ל-JSON
+- שילוב עם מערכות AI/ניתוח לעיבוד נתונים מובנים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

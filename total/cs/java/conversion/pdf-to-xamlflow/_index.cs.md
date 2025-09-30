@@ -144,7 +144,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na XAMLFLOW** je ideální pro vývojáře, kteří staví **XAML soubory založené na FlowDocument** v aplikacích .NET a WPF. S dávkovými konvertory PDF na XAMLFlow a automatizovanými potrubími lze statický obsah přeměnit na interaktivní, strukturované softwarové zdroje.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Integrace bohatého textu ve WPF aplikacích
+- Digitální publikování ve formátu FlowDocument
+- Softwarové manuály a systémy nápovědy
+- Integrace do znalostní báze podniku
+- Pracovní postupy od dokumentu k aplikaci
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované potrubí PDF na XAMLFLOW pro vývoj aplikací
+- Dávková konverze pro podnikové aplikace WPF
+- Integrace pracovního postupu do publikačních systémů
+- Generování obsahu FlowDocument ve velkém měřítku
+- Automatizace interaktivní dokumentace softwaru
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

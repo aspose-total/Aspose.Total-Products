@@ -102,7 +102,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-JSON** חיונית לחילוץ תוכן מובנה ממסמכי Word לתוך פורמט **JSON**, המקלה על אפליקציות מבוססות נתונים, שילוב API וזרימות עבודה מודרניות ברשת או בעסקים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- תמורת נתונים בין מערכות מסמכים ויישומים
+- שילוב תוכן מ-Word עם פלטפורמות רשת וניידות
+- חילוץ תוכן מסמך המופעל על ידי תבנית
+- ארכיבה של תוכן מובנה לצורכי ממשל ומחקר
+- פרסום אקדמי או תעשייתי מובנה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות חילוץ מ-Word ל-JSON
+- יצירת תוכן מסמך מוכן ל-API באופן אוטומטי
+- אוטומציה של זרימות עבודה מופעלות על ידי JSON
+- דיווח מובנה בסקל ארגוני
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

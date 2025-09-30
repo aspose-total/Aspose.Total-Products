@@ -53,7 +53,24 @@ otherformats: ODT FLATOPC OTT DOTM TEXT WORD ODTM ODTX DOT DOTX RTF WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в ODT** позволяет сохранять слайды в формате **документов OpenDocument Text**, поддерживая редактируемое текстовое содержимое презентаций на различных платформах.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Преобразование слайдов в редактируемые файлы текста OpenDocument  
+- Совместное редактирование в различных офисных пакетах  
+- Архивирование презентаций в широко поддерживаемом формате  
+- Образовательные материалы и корпоративные отчеты  
+- Переиспользование содержимого презентации для документации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Пакетное преобразование PowerPoint в ODT  
+- Интеграция в рабочие процессы управления документами  
+- Автоматизированная генерация отчетов на основе слайдов  
+- Переиспользование корпоративного контента
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

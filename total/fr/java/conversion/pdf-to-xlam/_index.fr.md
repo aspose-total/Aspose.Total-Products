@@ -47,7 +47,25 @@ Lors de la conversion du fichier PDF en XLAM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en XLAM** permet de créer des fichiers **Complément Excel** à partir de macros de feuilles de calcul basées sur des PDF ou de fonctions personnalisées. Cela est très utile pour les **modèles financiers automatisés, les rapports d'entreprise et les améliorations de flux de travail Excel**.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Création de macros et compléments Excel à partir de données PDF
+- Modèles financiers automatisés et outils de reporting
+- Améliorations des flux de travail des feuilles de calcul d'entreprise
+- Automatisation Excel basée sur des travaux académiques ou de recherche
+- Distribution de modèles de compléments Excel à grande échelle
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines de compléments PDF vers XLAM automatisés**
+- Traitement par lots pour les feuilles de calcul financières et d'entreprise
+- Intégration avec l'automatisation des flux de travail Excel
+- Pipelines de reporting activés par macro de qualité entreprise
+- Distribution évolutive de compléments Excel à partir de PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

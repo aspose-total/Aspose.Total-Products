@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 WORD 문서를 POWERPOINT로 변환할 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 POWERPOINT로 변환**하면 워드 문서를 완전한 **PowerPoint 프레젠테이션**으로 신속하게 변환할 수 있어 기업, 학술 및 기업용으로 텍스트 콘텐츠와 시각적 슬라이드 덱을 연결합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 워드 보고서를 시각적 프레젠테이션으로 변환
+- 기업 및 기업용 브리핑 슬라이드
+- 학술 연구 슬라이드 덱 준비
+- 정부 및 정책 문서 프레젠테이션
+- 구조화된 워드 콘텐츠에서 템플릿 기반 슬라이드 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 워드에서 PowerPoint 슬라이드로 변환
+- 보고서로부터 프레젠테이션 덱 일괄 생성
+- 템플릿 기반 슬라이드 자동화 워크플로
+- 기업용 문서에서 슬라이드 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

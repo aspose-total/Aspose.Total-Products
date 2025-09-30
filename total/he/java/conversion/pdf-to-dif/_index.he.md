@@ -102,7 +102,27 @@ otherformats: TXT XLAM XLSM XLTM TSV SXC MD CSV FODS XLTX XLT EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל־DIF** היא חיונית לעבודה עם **פורמטי גיליון מורשים** בתחומי הסטטיסטיקה, הפיננסים והמדעיים. המרת טבלאות מ־PDF ל־**פורמט החלפת נתונים** עוזרת בשמירה על תאימות עם מערכות ישנות ובניתוח מובנה.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- העברת גיליונות גיליון מ־PDF
+- ניתוח נתונים עם יישומים סטטיסטיים התומכים ב־DIF
+- זרימות דיווח פיננסיות באמצעות קבצי DIF
+- המרת טבלאות מחקר אקדמי לפורמט DIF
+- ארכיבת נתונים מובנים בפורמטים המתאימים לאינטרופרביליות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות עבודה אוטומטיים **מ־PDF ל־DIF** להעברת נתונים
+- חילוץ טבלאות PDF בצפיפות לגיליונות DIF
+- שילוב ייצוא DIF לתהליכי ניתוח עסקיים ארגוניים
+- יצירת DIF אוטומטית לצורך בדיקות פיננסיות
+- כלי דיווח מ־PDF ל־DIF לפרסום אקדמי
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

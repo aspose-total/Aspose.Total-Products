@@ -61,7 +61,26 @@ POWERPOINT 파일을 XLSM로 변환하는 동안 출력 XLSM 파일 형식에 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 XLSM으로 변환**하면 **매크로가 활성화된 Excel 워크북**으로 슬라이드를 내보낼 수 있어 자동화된 기능과 대화형 보고 요소를 보존할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 매크로가 활성화된 보고용 스프레드시트 생성
+- 자동화된 기업 워크플로 통합
+- Excel 매크로가 포함된 슬라이드 아카이빙
+- 재사용 가능한 대화형 보고 템플릿
+- 협업이 가능한 매크로가 활성화된 데이터 분석
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 슬라이드를 XLSM으로 일괄 변환
+- 매크로 기반 보고 워크플로
+- 슬라이드에서 Excel 매크로로 자동화된 파이프라인
+- 기업 자동화 시스템과의 통합
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

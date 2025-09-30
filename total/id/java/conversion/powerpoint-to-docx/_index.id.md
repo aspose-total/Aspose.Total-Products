@@ -53,7 +53,26 @@ Menggunakan API, Anda juga dapat melakukan konversi file POWERPOINT ke DOCX deng
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PowerPoint ke DOCX** memungkinkan ekspor presentasi ke format Word **modern**, memastikan kompatibilitas dengan fitur Word saat ini dan alat kolaborasi.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Mengubah slide menjadi dokumen Word modern yang dapat diedit
+- Kolaborasi tim pada konten presentasi
+- Menyiapkan laporan atau materi pelatihan
+- Arsip dalam format DOCX yang didukung secara luas
+- Dokumentasi terstruktur dari slide deck
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Alur kerja konversi slide ke DOCX secara batch
+- Repurposing konten otomatis untuk perusahaan
+- Generasi laporan berbasis slide
+- Integrasi dengan sistem manajemen konten
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

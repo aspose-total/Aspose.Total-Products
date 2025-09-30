@@ -47,7 +47,25 @@ Lors de la conversion du fichier PDF en XLTM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en XLTM** permet de créer des **modèles Excel avec macros** pour des flux de travail répétitifs. Les outils automatisés de conversion de PDF en XLTM combinent des mises en page statiques avec une automatisation intégrée, ce qui les rend idéaux pour les scénarios financiers, de recherche et d'entreprise.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Modèles financiers avec macros  
+- Rapports de recherche automatisés  
+- Automatisation des flux de travail au niveau de l'entreprise  
+- Rapports de conformité réglementaire  
+- Réutilisation de modèles Excel basés sur les données
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines de conversion PDF en XLTM pour des rapports évolutifs  
+- Création automatisée de modèles Excel avec macros  
+- Conversion en lot de modèles pour les entreprises  
+- Automatisation des flux de travail Excel  
+- Génération XLTM améliorée par l'IA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 PPTM으로 변환**하면 상호 작용 가능한 슬라이드, 교육 모듈 및 매크로가 기능을 향상시키는 자동화된 워크플로우에 유용한 **매크로가 포함된 PowerPoint 프레젠테이션**이 생성됩니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 상호 작용 가능한 매크로를 사용한 교육 슬라이드
+- 자동화된 기업 보고서 덱
+- 재사용 가능한 매크로를 사용한 교육 모듈
+- 마케팅 및 이벤트 프레젠테이션 템플릿
+- 매크로 지원이 필요한 기업 콘텐츠 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 일괄 **PDF를 PPTM으로 변환하는 파이프라인**
+- 매크로가 포함된 슬라이드 배포 자동화
+- 기업 프레젠테이션 시스템과의 통합
+- 상호 작용 가능한 교육 자료 자동 생성
+- 조직을 위한 확장 가능한 PPTM 관리
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

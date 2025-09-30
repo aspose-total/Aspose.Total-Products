@@ -61,7 +61,26 @@ A POWERPOINT fájl XLTM formátumba konvertálásakor vízjelet is hozzáadhat a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to XLTM** konvertálása lehetővé teszi a diák **makróval ellátott Excel sablonná** alakítását, megőrizve a makrókat az ismételt automatizált jelentéskészítéshez és vállalati munkafolyamatokhoz.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Makróval ellátott újrafelhasználható Excel sablonok
+- Szabványosított jelentéskészítés beágyazott automatizálással
+- Prezentációk archiválása makróval ellátott sablonokként
+- Interaktív projekt sablonok vállalati felhasználásra
+- Oktatási és képzési sablonok létrehozása
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált diavetítés-XLTM konverziós csatornák
+- Vállalati sablonkönyvtár létrehozása makrókkal
+- Tömeges makróval ellátott sablon generálás
+- Sablonvezérelt automatizált jelentéskészítés
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

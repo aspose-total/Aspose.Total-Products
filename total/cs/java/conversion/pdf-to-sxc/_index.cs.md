@@ -47,7 +47,27 @@ Při převodu souboru PDF na SXC můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na SXC (tabulkový kalkulátor OpenOffice Calc)** pomáhá extrahovat strukturovaná data z PDF do **otevřeného formátu tabulkového kalkulátoru**, umožňující další analýzu, reporting a akademický výzkum.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Extrahování akademických a výzkumných dat
+- Pracovní postupy s otevřeným zdrojovým kódem tabulkových kalkulátorů (LibreOffice/OpenOffice)
+- Finanční a vědecké datové reporty
+- Migrace tabulek z PDF do editovatelného formátu SXC
+- Archivace a opětovné využití firemních tabulkových kalkulátorů
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **datové toky PDF na SXC**
+- Hromadný převod reportů a datových sad
+- Integrace s analytickými a reportovacími systémy
+- Automatizace pracovních postupů ve firemním a akademickém prostředí
+- Extrahování tabulek z PDF do formátů tabulkových kalkulátorů s otevřeným zdrojovým kódem
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

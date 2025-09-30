@@ -47,7 +47,27 @@ Při převodu souboru PDF na FODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na FODS (Flat ODF Spreadsheet)** pomáhá extrahovat strukturovaná data z PDF do **LibreOffice Calc a OpenDocument-kompatibilních tabulek**. To umožňuje organizacím znovu použít **PDF tabulky ve formátu FODS založeném na XML** pro reporting, analýzu a dodržování předpisů.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Převod PDF na FODS pro open-source tabulkové procesy
+- Převádění akademických tabulek do ODF tabulek
+- Opětovné použití dat v prostředí LibreOffice a OpenOffice
+- Strukturovaný reporting s formáty tabulek založenými na XML
+- Dlouhodobé archivování tabulkového obsahu PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **PDF na FODS potrubí**
+- Dávkové zpracování PDF tabulek do ODF tabulek
+- Workflows řízené JSONem generující FODS z PDF
+- Automatizace podnikového reportingu s exportem FODS
+- Integrace open-source systémů s nástroji pro převod PDF na FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

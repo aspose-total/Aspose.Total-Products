@@ -61,7 +61,26 @@ otherformats: SXC XLTX XLAM XLS FODS XLT XLSM TSV DIF EXCEL ODS XLSX XLTM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в SXC** позволяет преобразовывать содержимое Word в файлы **StarOffice Calc (SXC)**, обеспечивая совместимость с более старыми форматами электронных таблиц OpenOffice/StarOffice для предприятий или архивного использования.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Экспорт таблиц Word в устаревшие форматы электронных таблиц
+- Взаимодействие с более старыми офисными пакетами
+- Архивирование структурированного контента предприятий и государственных учреждений
+- Миграция академических табличных данных
+- Подготовка шаблонов электронных таблиц на основе документов Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Пакетные рабочие процессы преобразования Word в SXC
+- Автоматизация документов в электронные таблицы на предприятии
+- Интеграционные конвейеры устаревших систем
+- Автоматизация отчетности на основе шаблонов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

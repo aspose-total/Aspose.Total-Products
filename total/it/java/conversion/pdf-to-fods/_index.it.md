@@ -47,7 +47,25 @@ Durante la conversione del file PDF in FODS, puoi anche aggiungere una filigrana
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversione di **PDF in FODS (Foglio di calcolo ODF piatto)** aiuta ad estrarre dati strutturati da PDF in **fogli di calcolo compatibili con LibreOffice Calc e OpenDocument**. Ciò consente alle organizzazioni di riutilizzare **tabelle PDF in formato FODS basato su XML** per reporting, analisi e conformità.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- PDF in FODS per flussi di lavoro di fogli di calcolo open-source  
+- Conversione di tabelle accademiche in fogli di calcolo ODF  
+- Riutilizzo dei dati negli ambienti LibreOffice e OpenOffice  
+- Reporting strutturato con formati di fogli di calcolo basati su XML  
+- Archiviazione a lungo termine di contenuti tabellari in PDF  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- **Pipeline automatizzate da PDF a FODS**  
+- Elaborazione batch di tabelle PDF in fogli di calcolo ODF  
+- Flussi di lavoro guidati da JSON che generano FODS da PDF  
+- Automazione del reporting aziendale con esportazione in FODS  
+- Integrazione di sistemi open-source con strumenti da PDF a FODS  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

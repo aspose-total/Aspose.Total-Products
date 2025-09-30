@@ -54,7 +54,24 @@ Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar POWERPO
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **WORD naar POWERPOINT** maakt een naadloze transformatie van Word-documenten naar volledige **PowerPoint-presentaties** mogelijk, waarbij tekstuele inhoud wordt verbonden met visuele dia-decks voor zakelijk, academisch en zakelijk gebruik.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het omzetten van Word-rapporten naar visuele presentaties
+- Zakelijke en zakelijke briefingdia's
+- Voorbereiding van academische onderzoeksdiadiensten
+- Overheids- en beleidsdocumentpresentaties
+- Sjabloon-gestuurde dia-generatie van gestructureerde Word-inhoud
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde Word-naar-PowerPoint dia-pijplijnen
+- Batchcreatie van presentatiedecks uit rapporten
+- Sjabloon-gestuurde dia-automatiseringsworkflows
+- Automatisering van document-naar-dia op bedrijfsniveau
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

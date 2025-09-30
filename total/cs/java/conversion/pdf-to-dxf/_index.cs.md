@@ -57,7 +57,27 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na DXF** je klíčový pro inženýry, architekty a designéry, kteří potřebují transformovat statické dokumenty do výkresů kompatibilních s **AutoCADem**. Tím umožňuje bezproblémové opětovné využití **PDF plánů** v pracovních postupech CAD pro stavebnictví, výrobu a 3D design.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Převod architektonických plánů z PDF do DXF
+- Opětovné využití inženýrských výkresů v softwaru CAD
+- Výrobní pracovní postupy vyžadující vstup kompatibilní s CAD
+- Migrace PDF schémat do formátů DXF
+- Sdílení designu napříč týmy
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+- Automatické **PDF-to-DXF CAD toky**
+- Hromadný převod PDF plánů pro stavební projekty
+- Automatizace převodu PDF na DXF pro výrobní výkresy
+- Workflows exportu DXF pro podnikové inženýrské systémy
+- Škálovatelná CAD automatizace integrující PDF vstupy
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

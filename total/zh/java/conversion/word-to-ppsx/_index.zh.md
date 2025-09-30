@@ -54,7 +54,26 @@ otherformats: PPTM PPSM POTM POTX PPSX PPT POWERPOINT PPTX POT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为PPSX**将Word文档转换为**PowerPoint Show (PPSX)文件**，为企业、学术和企业观众提供无宏代码、即时播放的演示文稿。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 从Word内容生成即时播放的演示文稿
+- 无宏代码的企业和企业幻灯片
+- 学术和培训演示文稿准备
+- 基于模板的报告和简报
+- 政府和组织的演示文稿准备
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word到PPSX批处理管道
+- 基于模板的即时播放幻灯片自动化
+- 企业级无宏代码演示工作流程
+- 从Word报告批量转换为幻灯片演示
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

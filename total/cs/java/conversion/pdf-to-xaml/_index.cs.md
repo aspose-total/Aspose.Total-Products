@@ -135,7 +135,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **PDF na XAML** pomáhá vývojářům a podnikům generovat soubory **Extensible Application Markup Language** z rozvržení dokumentů. Použitím online konvertorů PDF na XAML a automatizovaných potrubí mohou firmy přeměnit PDF do zdrojů uživatelského rozhraní pro aplikace WPF a digitální publikování.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Prototypování uživatelského rozhraní z rozvržení PDF  
+- Návrh dokumentace pro podnikové aplikace  
+- Generování zdrojů aplikací WPF  
+- Interaktivní softwarová dokumentace  
+- Digitální publikování ve strukturovaném značkování
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované potrubí PDF na XAML pro uživatelské rámce  
+- Hromadná konverze PDF na XAML pro podniky  
+- Integrace pracovního postupu pro návrh dokumentace  
+- Prototypování aplikací z archivů PDF  
+- Automatizace dokumentace podnikového softwaru
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

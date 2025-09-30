@@ -53,7 +53,26 @@ otherformats: DOTX ODT WORDML DOT DOTM WORD RTF OTTM OTT TEXT FLATOPC OTTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в OTT** позволяет экспортировать слайды в виде **шаблонов текста OpenDocument**, обеспечивая возможность повторного использования шаблонов для стандартизированной документации.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Создание повторно используемых текстовых шаблонов из презентаций
+- Стандартизированная корпоративная или академическая документация
+- Отчеты и проектные предложения на основе шаблонов
+- Архивирование структур презентаций в виде шаблонов
+- Создание образовательных или тренировочных шаблонов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированная генерация шаблонов текста OpenDocument
+- Интеграция рабочего процесса для корпоративных библиотек шаблонов
+- Пакетное преобразование слайдов в повторно используемые шаблоны
+- Автоматизация документооборота на основе шаблонов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

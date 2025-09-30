@@ -61,7 +61,26 @@ otherformats: XLSB ODS XLSX XLS XLTX EXCEL TSV DIF XLAM MARKDOWN XLTM XLSM SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в XLSX** позволяет экспортировать слайды в виде **современных книг Excel**, поддерживающих расширенные функции, совместную работу и предприятий отчетность.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Преобразование таблиц и диаграмм слайдов в современные электронные таблицы
+- Предприятий отчетность и аналитика данных
+- Совместное редактирование с функциями Excel 2007+
+- Архивирование структурированного содержимого презентаций
+- Подготовка числовых или текстовых отчетов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры преобразования слайдов в XLSX
+- Пакетная генерация электронных таблиц из презентаций
+- Интеграция с предприятий BI и системами отчетности
+- Автоматизация рабочего процесса на основе слайдов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

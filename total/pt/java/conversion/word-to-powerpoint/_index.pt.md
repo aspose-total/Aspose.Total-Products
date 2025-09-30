@@ -54,7 +54,24 @@ A API também permite converter documentos WORD protegidos por senha em POWERPOI
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para POWERPOINT** permite a transformação perfeita de documentos do Word em apresentações completas do **PowerPoint**, conectando conteúdo textual com decks de slides visuais para uso empresarial, acadêmico e corporativo.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Transformar relatórios do Word em apresentações visuais
+- Slides de briefing corporativos e empresariais
+- Preparação de decks de slides para pesquisa acadêmica
+- Apresentações de documentos governamentais e de políticas
+- Geração de slides orientada por modelos a partir de conteúdo estruturado do Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines de slides automatizados de Word para PowerPoint
+- Criação em lote de decks de apresentação a partir de relatórios
+- Fluxos de trabalho de automação de slides orientados por modelos
+- Automação de documentos para slides de nível empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

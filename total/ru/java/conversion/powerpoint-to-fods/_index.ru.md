@@ -61,7 +61,26 @@ otherformats: XLSB XLSM XLAM DIF FODS XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в FODS** позволяет экспортировать таблицы презентации в **Flat OpenDocument Spreadsheet**, что полезно для анализа, обмена данными и отчетности.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Извлечение данных таблиц слайдов в электронные таблицы
+- Обмен данными между платформами с помощью инструментов OpenDocument
+- Анализ и отчетность предприятий
+- Архивирование структурированных данных слайдов
+- Подготовка числовых или табличных отчетов из презентаций
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированное извлечение таблиц в формат FODS
+- Интеграция с аналитическими конвейерами
+- Пакетное преобразование слайдов в электронные таблицы
+- Автоматизация рабочего процесса на основе данных
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

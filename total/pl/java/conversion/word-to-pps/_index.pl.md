@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów WORD chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **WORD do PPS** umożliwia zamianę treści z programu Word na pliki **PowerPoint Show (PPS)**, gotowe do prezentacji bez konieczności ręcznego ustawiania slajdów.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Konwertowanie raportów z programu Word na gotowe do odtworzenia prezentacje
+- Slajdy do spotkań w przedsiębiorstwach i korporacjach
+- Przygotowanie materiałów akademickich i szkoleniowych
+- Prezentacje oparte na szablonach do briefingu i raportowania
+- Prezentacje gotowe do pokazania dla instytucji rządowych i organizacji
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne przeprowadzanie prezentacji Word-to-PPS
+- Generowanie zbiorcze gotowych do pokazania slajdów
+- Szablony do automatyzacji przepływów pracy prezentacyjnej
+- Automatyzacja prezentacji PowerPoint na poziomie przedsiębiorstwa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

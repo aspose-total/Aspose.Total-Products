@@ -61,7 +61,26 @@ Podczas konwertowania pliku POWERPOINT do XLTM możesz również dodać znak wod
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do XLTM** pozwala slajdom stać się **szablonami Excel z obsługą makr**, zachowując makra do powtarzalnego automatycznego raportowania i przepływów pracy w przedsiębiorstwie.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Makroobsługiwane wielokrotnego użytku szablony Excel  
+- Standaryzowane raportowanie z wbudowaną automatyzacją  
+- Archiwizacja prezentacji jako szablonów z obsługą makr  
+- Interaktywne szablony projektów do użytku w przedsiębiorstwie  
+- Tworzenie szablonów edukacyjnych i szkoleniowych
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne konwersje slajdów na XLTM  
+- Tworzenie biblioteki szablonów przedsiębiorstwa z makrami  
+- Generowanie wsadowe makroobsługiwanych szablonów  
+- Raportowanie automatyczne oparte na szablonach
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

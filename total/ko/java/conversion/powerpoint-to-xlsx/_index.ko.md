@@ -61,7 +61,26 @@ POWERPOINT 파일을 XLSX로 변환하는 동안 출력 XLSX 파일 형식에 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 XLSX로 변환**하면 **현대적인 Excel 워크북**으로 슬라이드를 내보낼 수 있어 고급 기능, 협업 및 기업 보고를 지원합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 슬라이드 테이블과 차트를 현대적인 스프레드시트로 변환
+- 기업 데이터 보고 및 분석
+- Excel 2007+ 기능을 활용한 협업 편집
+- 구조화된 프레젠테이션 콘텐츠 아카이빙
+- 숫자 또는 텍스트 보고서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 슬라이드-to-XLSX 변환 파이프라인
+- 프레젠테이션으로부터 일괄 스프레드시트 생성
+- 기업 BI 및 보고 시스템과 통합
+- 슬라이드 기반의 워크플로 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

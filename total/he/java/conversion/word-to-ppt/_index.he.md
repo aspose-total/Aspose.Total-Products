@@ -103,7 +103,26 @@ otherformats: PPS PPSX PPTX POWERPOINT POTX POT PPTM PPSM ODP POTM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-PPT** מאפשרת לייצא מסמכי Word לקבצי **PowerPoint (PPT) מורשים**, מה שהופך את תוכן הטקסט למוכן להצגה למטרות עסקיות, תאגידיות ואקדמיות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת מצגות PPT מסמכי Word מורשים
+- שקופיות לתאגידים ולעסקים
+- מחקר אקדמי והוראה
+- מצגות לממשלה ולארגונים
+- יצירת שקופיות בהתאמה אישית מתוך תוכן מובנה ב-Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים מ-Word ל-PPT
+- המרה רציפה של דוחות Word למצגות
+- אוטומציה של שקופיות בהתאמה אישית
+- זרימות עבודה ממסמך לשקופיות ברמת תאגיד
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

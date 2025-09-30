@@ -53,7 +53,26 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 RTF로 변
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 RTF로 변환**하면 슬라이드를 **Rich Text Format 문서**로 변환하여 다양한 텍스트 편집기 및 레거시 시스템과 널리 호환되도록 만들어줍니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 크로스 플랫폼 문서 공유
+- 가벼운 또는 레거시 편집기에서 편집
+- 프레젠테이션 텍스트 콘텐츠 아카이빙
+- 간소화된 보고서 또는 핸드아웃 준비
+- 여러 오피스 스위트와의 호환성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 일괄 슬라이드를 RTF로 변환
+- 자동 아카이브 워크플로우
+- 보고서용 콘텐츠 추출 파이프라인
+- 다중 형식 문서 시스템 통합
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

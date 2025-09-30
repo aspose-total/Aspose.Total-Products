@@ -47,7 +47,25 @@ Saat mengonversi file PDF ke MD, Anda juga dapat menambahkan tanda air ke format
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Kasus konversi **PDF ke MD** berfokus pada mengonversi file PDF ke format **Markdown (.md)**, yang banyak digunakan dalam **dokumentasi pengembang, blog teknis, dan alur kerja otomatisasi konten**. Ini memungkinkan penggunaan kembali teks PDF, tabel, dan potongan kode secara terstruktur di editor Markdown.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Migrasi dokumentasi pengembang dari PDF ke MD
+- Mengonversi manual PDF menjadi Markdown untuk diedit
+- Alur kerja blogging teknis menggunakan konten MD
+- Dokumentasi proyek sumber terbuka disimpan sebagai Markdown
+- Membuat **basis pengetahuan terstruktur** dari laporan PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa kerja otomatis **PDF-ke-MD untuk pengembang**
+- Konversi PDF dalam batch ke repositori Markdown
+- Alur kerja berbasis Git yang mengintegrasikan ekspor PDF-ke-MD
+- Pengolahan PDF-ke-MD berbasis API untuk platform CMS
+- Otomatisasi perusahaan untuk memigrasi dokumen PDF ke MD
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

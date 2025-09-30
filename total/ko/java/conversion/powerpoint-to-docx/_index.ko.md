@@ -53,7 +53,26 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 DOCX로 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 DOCX로 변환**하면 프레젠테이션을 **현대적인 Word 형식**으로 내보낼 수 있어 현재 Word 기능 및 협업 도구와의 호환성을 보장합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 슬라이드를 편집 가능한 현대적인 Word 문서로 변환하기
+- 프레젠테이션 콘텐츠에 대한 팀 협업
+- 보고서 또는 교육 자료 작성
+- 널리 지원되는 DOCX 형식으로의 보관
+- 슬라이드 덱으로부터 구조화된 문서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 일괄 슬라이드를 DOCX로 변환하는 워크플로우
+- 기업을 위한 자동화된 콘텐츠 재활용
+- 슬라이드 기반 보고서 생성
+- 콘텐츠 관리 시스템과의 통합
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

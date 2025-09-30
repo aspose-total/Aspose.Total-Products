@@ -61,7 +61,26 @@ POWERPOINT 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 DIF로 변환**하는 것은 프레젠테이션 데이터를 **데이터 교환 형식**으로 내보내어 응용 프로그램 간의 구조화된 데이터 교환을 용이하게 합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션 데이터를 스프레드시트나 분석 도구로 전송
+- 표준화된 형식으로 데이터 아카이빙
+- 금융이나 연구 시스템과의 통합
+- 기업 보고 파이프라인
+- 다양한 플랫폼에서 사용할 데이터 주도형 슬라이드 준비
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동 슬라이드에서 DIF로 변환하는 워크플로우
+- 분석을 위한 프레젠테이션에서 데이터 추출
+- 기업 보고 자동화
+- 비즈니스 인텔리전스 파이프라인과의 통합
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

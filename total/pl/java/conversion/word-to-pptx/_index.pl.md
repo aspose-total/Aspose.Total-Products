@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów WORD chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **WORD na PPTX** pozwala na przekształcenie dokumentów Worda w nowoczesne pliki **PowerPoint (PPTX)**, zapewniając pełną kompatybilność z obecnymi wersjami PowerPointa do użytku w przedsiębiorstwach, instytucjach akademickich i korporacjach.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Tworzenie nowoczesnych prezentacji slajdów na podstawie raportów Worda
+- Prezentacje w przedsiębiorstwach i korporacjach
+- Przygotowanie slajdów do badań akademickich i szkoleń
+- Tworzenie raportów i prezentacji z wykorzystaniem szablonów
+- Przepływy pracy prezentacyjnej w rządzie i organizacjach
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane przepływy konwersji Word-to-PPTX
+- Tworzenie pakietowe prezentacji slajdów z dokumentów Worda
+- Automatyzacja nowoczesnych prezentacji opartych na szablonach
+- Przepływy pracy dokumentu-do-slajdu na poziomie przedsiębiorstwa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

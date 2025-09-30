@@ -102,7 +102,27 @@ otherformats: SXC XLSM XLSB XLAM CSV DIF XLT TXT TSV XLTM XLTX MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל־FODS (גיליון Flat ODF)** עוזרת בחילוץ נתונים מובנים מ־PDF לתוך **LibreOffice Calc וגיליונות תואמי OpenDocument**. זה מאפשר לארגונים לשכפל טבלאות מ־PDF ל־FODS בפורמט XML לצורכי דיווח, ניתוח והתאמה לתקנים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת PDF ל־FODS עבור זרימות עבודה של גיליונות תואמי קוד פתוח
+- המרת טבלאות אקדמיות לגיליונות ODF
+- שימוש מחדש בנתונים בסביבות LibreOffice ו־OpenOffice
+- דיווח מובנה עם פורמטי גיליון מבוססי XML
+- ארכיבה לטווח ארוך של תוכן טבלאי מ־PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות המרת PDF ל־FODS** אוטומטיים
+- עיבוד צובר של טבלאות PDF לגיליונות ODF
+- זרימות עבודה מופעלות על ידי JSON שיוצרות FODS מ־PDF
+- אוטומציה של דיווחים עסקיים עם ייצוא FODS
+- אינטגרציה של מערכת קוד פתוח עם כלים להמרת PDF ל־FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

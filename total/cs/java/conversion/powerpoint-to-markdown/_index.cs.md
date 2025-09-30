@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na MARKDOWN můžete také přidat vodoznak do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na MARKDOWN** umožňuje exportovat snímky do formátu **Markdown**, což je ideální pro lehkou dokumentaci, statické generátory webů a verzování obsahu.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Převod obsahu prezentace pro webové stránky nebo blogy
+- Lehká textová dokumentace
+- Archivace snímků ve verzovatelných formátech
+- Spolupracovní poznámky a sdílení obsahu
+- Vzdělávací materiály pro vývojáře a technické spisovatele
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované převody snímků na Markdown
+- Integrace se statickými generátory webů jako Hugo nebo Jekyll
+- Hromadný převod prezentací na Markdown
+- Dokumentační pracovní postupy pro znalostní báze podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

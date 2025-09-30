@@ -135,7 +135,27 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 XAML** 有助于开发人员和企业从文档布局生成 **可扩展应用标记语言文件**。使用在线 PDF 到 XAML 转换工具和自动化流程，企业可以将 PDF 转换为 WPF 应用程序和数字出版物的 UI 资源。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 从 PDF 布局进行 UI 原型设计
+- 企业应用设计文档
+- WPF 应用程序资源生成
+- 交互式软件文档
+- 结构化标记的数字出版物
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 用于 UI 框架的自动化 PDF 到 XAML 流程
+- 企业批量 PDF 转 XAML
+- 用于设计文档的工作流集成
+- 从 PDF 存档进行应用程序原型设计
+- 企业软件文档自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى TSV** يمكن تصدير الشرائح كقيم مفصولة بواسطة علامات التبويب، مما يسهل معالجة البيانات المنظمة وتوافق جداول البيانات عبر المنصات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- استخراج البيانات الجدولية للتحليل
+- مشاركة البيانات عبر المنصات
+- التكامل مع أدوات جداول البيانات القديمة والحديثة
+- أرشفة المحتوى المنظم من العروض
+- إعداد التقارير المنظمة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عمل تحويل الشرائح إلى TSV تلقائيًا
+- التكامل مع سير العمل التحليلي للشركات
+- أتمتة تقارير قائمة على البيانات
+- إعداد جداول بيانات النظام القديم
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

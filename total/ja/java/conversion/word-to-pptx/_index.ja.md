@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたWORDドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをPPTXに変換**することで、Word文書を現代の**PowerPoint（PPTX）ファイル**に変換し、企業、学術、および法人利用向けの現行PowerPointバージョンと完全に互換性を提供します。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- Wordレポートからの現代的なスライドデッキ作成
+- 企業および法人プレゼンテーション
+- 学術研究およびトレーニング用スライド準備
+- テンプレート駆動のレポートおよびブリーフィングスライド
+- 政府および組織プレゼンテーションワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化されたWordからPPTXへの変換パイプライン
+- Word文書からのバッチスライドデッキ作成
+- テンプレート駆動の現代的なプレゼンテーション自動化
+- 企業向けのドキュメントからスライドへのワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

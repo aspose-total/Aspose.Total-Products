@@ -61,7 +61,24 @@ Ao converter o arquivo POWERPOINT para TSV, você também pode adicionar marca d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PowerPoint para TSV** permite exportar slides como **Valores Separados por Tabulação**, facilitando o processamento de dados estruturados e a compatibilidade com planilhas em várias plataformas.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Extração de dados tabulares para análise
+- Compartilhamento de dados entre plataformas
+- Integração com ferramentas de planilhas antigas e modernas
+- Arquivamento de conteúdo estruturado de apresentações
+- Preparação de relatórios estruturados
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines automatizados em lote de slide para TSV
+- Integração com fluxos de trabalho de análise empresarial
+- Automação de relatórios orientados por dados
+- Preparação de planilhas de sistemas legados
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

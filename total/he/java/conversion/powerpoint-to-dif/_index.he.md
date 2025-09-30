@@ -102,7 +102,26 @@ otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM CSV MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל־DIF** מאפשרת ייצוא נתוני המצגת ל־**Data Interchange Format**, ומקלה על תהליך תמיכה מובנה בנתונים בין יישומים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- העברת נתוני מצגת לגיליונות אלקטרוניים או כלי ניתוח
+- ארכיבה של נתונים בפורמטים מתוקנים
+- אינטגרציה עם מערכות פיננסיות או מחקר
+- צינורות דיווח עסקיים
+- הכנת שקופיות מבוססות נתונים לשימוש במגוון פלטפורמות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- זרימי עבודה אוטומטיים להמרת שקופיות ל־DIF
+- חילוץ נתונים ממצגות לצורך ניתוח
+- אוטומציה של דיווחים עסקיים
+- אינטגרציה עם צינורות עבודה באינטליגנציה עסקית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

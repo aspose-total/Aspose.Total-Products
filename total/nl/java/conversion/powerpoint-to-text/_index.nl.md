@@ -53,7 +53,24 @@ Met behulp van de API kunt u ook een POWERPOINT-bestand naar TEXT-conversie met 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PowerPoint naar TEKST** maakt het exporteren van dia's naar **platte tekstformaat** mogelijk, ideaal voor gegevensextractie, tekstanalyse of lichte inhoudsdistributie.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Tekstextractie voor analyse of AI-verwerking
+- Voorbereiden van rapporten of notities in platte tekst
+- Licht archiveren van dia-inhoud
+- Inhoud hergebruiken voor e-mails of scripts
+- Vereenvoudigde documentatie van presentaties
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde pijplijnen voor dia-naar-tekstextractie
+- Integratie met NLP- of AI-analyse systemen
+- Enterprise tekstworkflows van presentaties
+- Batchinhoudsextractie voor rapportage
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

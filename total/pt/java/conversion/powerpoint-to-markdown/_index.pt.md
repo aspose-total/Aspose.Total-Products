@@ -61,7 +61,24 @@ Ao converter o arquivo POWERPOINT para MARKDOWN, você também pode adicionar ma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PowerPoint para MARKDOWN** permite exportar slides para o formato **Markdown**, ideal para documentação leve, geradores de sites estáticos e versionamento de conteúdo.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Conversão de conteúdo de apresentações para sites ou blogs
+- Documentação leve baseada em texto
+- Arquivamento de slides em formatos controlados por versão
+- Anotações colaborativas e compartilhamento de conteúdo
+- Materiais educacionais para desenvolvedores e escritores técnicos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines automatizados de slide para Markdown
+- Integração com geradores de sites estáticos como Hugo ou Jekyll
+- Conversão em lote de apresentações para Markdown
+- Fluxos de trabalho de documentação para bases de conhecimento empresariais
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

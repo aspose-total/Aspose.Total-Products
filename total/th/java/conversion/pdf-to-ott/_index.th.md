@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น OTT** ช่วยให้สามารถสร้าง **ไฟล์เทมเพลตของ OpenDocument Text**, ทำให้มีมาตรฐานในกระบวนการเอกสารขององค์กรธุรกิจ สถาบันการศึกษา และรัฐบาล
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- รูปแบบเทมเพลตเอกสารธุรกิจที่มีมาตรฐาน
+- รูปแบบเทมเพลตเอกสารทางกฎหมายและรัฐบาล
+- กรอบงานการเผยแพร่ทางวิชาการ
+- รูปแบบเทมเพลตการสื่อสารขององค์กรไม่แสวงหาผลกำไร
+- การสร้างเนื้อหาองค์กรโครงสร้าง
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- กระบวนการทำงานเทมเพลต PDF เป็น OTT โดยอัตโนมัติ
+- กระบวนการเอกสารระดับองค์กร
+- การอัตโนมัติเอกสารของรัฐบาลและกฎหมาย
+- การอัตโนมัติการเผยแพร่ทางวิชาการในมาตรฐานขนาดใหญ่
+- การประมวลผลเทมเพลตเป็นชุดใหญ่ที่สามารถขยายได้
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

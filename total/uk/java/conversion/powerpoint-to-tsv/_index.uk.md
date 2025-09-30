@@ -102,7 +102,26 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF CSV XLT MARKDOWN XLSX SXC X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PowerPoint в TSV** дозволяє експортувати слайди у вигляді **значень, розділених табуляцією**, сприяючи обробці структурованих даних та сумісності таблиць між платформами.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Вилучення табличних даних для аналітики
+- Обмін даними між платформами
+- Інтеграція зі старими та сучасними інструментами для роботи з електронними таблицями
+- Архівування структурованого вмісту з презентацій
+- Підготовка структурованих звітів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані пакетні конвеєри слайдів у TSV
+- Інтеграція з робочими процесами аналітики підприємства
+- Автоматизація звітів на основі даних
+- Підготовка електронних таблиць для старих систем
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

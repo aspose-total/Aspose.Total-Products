@@ -57,7 +57,27 @@ otherformats: EMZ  WMF DXF JPEG2000 TGA SVGZ WMZ PSD IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF转JPEG2000**的转换过程对于从PDF页面生成**高质量、压缩图像**非常重要。JPEG2000广泛应用于**数字图书馆、医学影像和档案**等领域，这些领域需要高效压缩和无损存储。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 使用JPEG2000进行数字图书馆保存
+- 用于**医学影像档案**的PDF转换
+- 以减小尺寸存储高分辨率文档
+- 使用JPEG2000标准的政府档案
+- 需要**长期图像保存**的学术知识库
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的**PDF到JPEG2000流程**
+- 批量将PDF存档为JPEG2000格式
+- 与数字图书馆系统集成
+- 包含PDF到JPEG2000的医学影像工作流程
+- 用于高质量压缩存储的企业自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

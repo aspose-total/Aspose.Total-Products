@@ -57,7 +57,27 @@ otherformats: WMF PSD DXF IMAGE TGA EMZ WMZ JPEG2000 SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 DXF** 对于需要将静态文档转换为 **AutoCAD 兼容图纸** 的工程师、建筑师和设计师至关重要。这使得在建筑、制造和3D设计的 CAD 工作流程中能够无缝重用 **PDF 蓝图**。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将建筑蓝图从 PDF 转换为 DXF
+- 在 CAD 软件中重复使用工程图纸
+- 需要 CAD 兼容输入的制造工作流程
+- 将 PDF 原理图迁移到 DXF 格式
+- 跨团队共享协作设计
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的 **PDF 到 DXF CAD 管道**
+- 用于建筑项目的批量 PDF 蓝图转换
+- 制造图纸的 PDF 到 DXF 自动化
+- 用于企业工程系统的 DXF 导出工作流程
+- 集成 PDF 输入的可扩展 CAD 自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

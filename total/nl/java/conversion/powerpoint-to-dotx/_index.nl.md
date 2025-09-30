@@ -53,7 +53,26 @@ Met behulp van de API kunt u ook een POWERPOINT-bestand naar DOTX-conversie met 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PowerPoint naar DOTX** maakt het mogelijk om dia's te exporteren naar **moderne Word-sjabloonindelingen**, ideaal voor het maken van herbruikbare en gestandaardiseerde sjablonen zonder macro's.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Moderne sjablooncreatie voor bedrijfsdocumentatie
+- Gestandaardiseerd educatief materiaal
+- Herbruikbare project- of rapport-sjablonen
+- Archiveren van presentaties als sjablonen
+- Team samenwerking aan gesjabloneerde documenten
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde dia-naar-sjabloon conversie
+- Sjabloon generatie pijplijnen voor bedrijfsgebruik
+- Workflow integratie met content management systemen
+- Repetitieve rapport- of projectdocument automatisering
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

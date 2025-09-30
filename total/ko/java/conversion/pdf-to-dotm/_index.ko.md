@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 DOTM으로 변환**하면 조직이 **매크로가 활성화된 Word 템플릿**을 만들어 재사용 가능한 레이아웃과 자동화 기능을 결합할 수 있습니다. 온라인 PDF를 DOTM으로 변환하는 도구와 기업 워크플로우를 통해 비즈니스는 보고서 작성을 최적화하고 동적 문서 프로세스 전반에 걸쳐 일관성을 확보할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 매크로가 포함된 자동 보고서 템플릿
+- 기업 수준의 문서 생성
+- 수식 자동화가 필요한 재무 보고서
+- 내장된 확인 기능이 있는 규정 준수 문서
+- 기업을 위한 대규모 문서 템플릿
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 확장 가능한 보고서를 위한 PDF-to-DOTM 파이프라인
+- 대량 PDF를 DOTM 템플릿으로 변환
+- 매크로가 포함된 재사용 가능한 템플릿의 자동 생성
+- PDF로부터 워크플로우 기반 보고서 생성
+- DOTM을 활용한 지능적인 문서 조립
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

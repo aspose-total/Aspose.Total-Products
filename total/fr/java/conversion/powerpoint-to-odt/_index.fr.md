@@ -53,7 +53,24 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PowerPoint en ODT** permet d'enregistrer les diapositives sous forme de **documents texte OpenDocument**, prenant en charge un contenu texte modifiable et multiplateforme à partir des présentations.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Transformation des diapositives en fichiers texte OpenDocument modifiables  
+- Édition collaborative entre différentes suites bureautiques  
+- Archivage des présentations dans un format largement pris en charge  
+- Supports pédagogiques et rapports d'entreprise  
+- Réutilisation du contenu des présentations pour la documentation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Conversions en lot de PowerPoint vers ODT  
+- Intégration dans les flux de travail de gestion de documents  
+- Génération automatisée de rapports à partir des diapositives  
+- Réutilisation du contenu d'entreprise dans des pipelines
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

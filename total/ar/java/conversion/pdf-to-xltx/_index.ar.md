@@ -47,7 +47,27 @@ otherformats: SXC TSV XLAM XLTX EXCEL XLSB MD XLSM DIF FODS XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى XLTX** ضروري لإنتاج **قوالب Excel خالية من الماكرو** التي تضمن السلامة والاتساق. من خلال محولات PDF إلى XLTX والأتمتة، يمكن للشركات نشر قوالب موحدة دون مخاطر التعليمات البرمجية المضمنة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- قوالب جداول البيانات الشركية
+- سير العمل الآمن للتقارير في الصناعات المنظمة
+- قوالب تقديم الأبحاث الأكاديمية
+- قوالب بيانات الموارد البشرية والرواتب
+- صيغ Excel المعتمدة من قبل الحكومة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عملية تحويل PDF إلى XLTX للشركات
+- سير العمل الآمن لإنشاء قوالب Excel
+- تحويل دُفعي لـ XLTX من تقارير PDF
+- أتمتة من الأرشيف إلى القالب
+- سير العمل الموحد لجداول البيانات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

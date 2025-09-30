@@ -143,7 +143,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в XAMLFLOW** идеально подходит для разработчиков, создающих **XAML-файлы на основе FlowDocument** в приложениях .NET и WPF. С помощью пакетных конвертеров PDF в XAMLFlow и автоматизированных конвейеров статическое содержимое может быть преобразовано в интерактивные, структурированные программные ресурсы.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Интеграция форматированного текста в приложения WPF
+- Цифровая публикация в формате FlowDocument
+- Руководства по программному обеспечению и системы справки
+- Интеграция в корпоративную базу знаний
+- Рабочие процессы от документа к приложению
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры PDF в XAMLFLOW для разработки приложений
+- Пакетное преобразование для корпоративных приложений WPF
+- Интеграция рабочего процесса в системы публикации
+- Генерация содержимого FlowDocument в масштабе
+- Автоматизация интерактивной документации программного обеспечения
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

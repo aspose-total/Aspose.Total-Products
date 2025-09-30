@@ -47,7 +47,27 @@ Konwertując plik PDF na SXC, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PDF na SXC (Arkusz kalkulacyjny OpenOffice Calc)** pomaga w wydobyciu strukturalnych danych z plików PDF do **formatu arkusza kalkulacyjnego typu open-source**, umożliwiając dalszą analizę, raportowanie i badania akademickie.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Wydobywanie danych akademickich i badawczych
+- Przepływy pracy arkusza kalkulacyjnego typu open-source (LibreOffice/OpenOffice)
+- Raportowanie danych finansowych i naukowych
+- Migracja tabel PDF do edytowalnego formatu SXC
+- Archiwizacja i ponowne wykorzystanie arkuszy kalkulacyjnych w przedsiębiorstwie
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane **potoki danych PDF do SXC**
+- Konwersja wsadowa raportów i zbiorów danych
+- Integracja z systemami analizy danych i raportowania
+- Automatyzacja przepływów pracy w przedsiębiorstwie i akademii
+- Wydobywanie tabel PDF do formatów arkuszy kalkulacyjnych typu open-source
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

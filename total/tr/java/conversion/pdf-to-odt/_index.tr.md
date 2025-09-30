@@ -129,7 +129,27 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF**'yi **ODT'ye** dönüştürmek, statik PDF'lerden **OpenDocument Text belgeleri** üretmek için önemlidir. Bu, LibreOffice Writer ve diğer açık kaynaklı kelime işlemcilerinde düzenleme esnekliğini sağlar ve bu da hükümetler, işletmeler ve akademik yayıncılık için değerli hale getirir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Hükümet ve yasal belgeler
+- Açık formatlarda kurumsal politika depolama
+- Akademik araştırma yayıncılığı
+- İşbirlikçi yazma ve düzenleme
+- Uzun vadeli metin belgesi arşivleme
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- PDF'den ODT'ye otomatik içerik akışları
+- ODT entegrasyonuna sahip belge yönetim sistemleri
+- Otomatik yayıncılık iş akışları
+- Büyük ölçekli kurumsal belge dönüştürme
+- Hükümet ve STK'lar için toplu işleme
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

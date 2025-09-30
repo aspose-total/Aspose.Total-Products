@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+## **PDF를 POWERPOINT/PPT로 변환**
+PDF를 편집 가능한 PowerPoint 프레젠테이션으로 변환하여 **비즈니스, 학술 또는 교육 목적**으로 재사용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 정적 PDF 슬라이드를 편집 가능한 PPT로 변환
+- 기업 회의용 프레젠테이션 재사용
+- 학술 강의 슬라이드 및 세미나 프레젠테이션
+- 마케팅 및 영업 덱
+- 워크샵 및 웨비나 콘텐츠 재활용
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-PPT 파이프라인**
+- 여러 PDF 덱을 PPT로 일괄 변환
+- Office 365/PowerPoint와의 통합을 통한 워크플로 자동화
+- 교육 및 세미나용 콘텐츠 재활용
+- 대규모 기업용 프레젠테이션 처리
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

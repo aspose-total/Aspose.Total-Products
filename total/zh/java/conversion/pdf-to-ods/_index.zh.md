@@ -49,7 +49,27 @@ otherformats: SXC TSV DIF EXCEL XLT XLTX XLSM MD FODS XLSB TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为ODS**可将**PDF报告转换为OpenDocument电子表格格式**，确保数据分析、财务报告和科学数据集的可访问性和灵活性。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 财务报表和会计记录
+- 企业级报告系统
+- 政府数据共享计划
+- 学术研究数据集
+- 长期结构化数据存储
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- PDF到ODS数据提取工作流程
+- 用于财务和研究的自动转换管道
+- 基于JSON/XML的电子表格创建
+- 企业报告自动化
+- 可扩展的数字数据转换
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

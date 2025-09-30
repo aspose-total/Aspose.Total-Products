@@ -61,7 +61,26 @@ otherformats: TSV XLTM XLSX MARKDOWN XLT XLSB MHTML DIF XLS XLSM ODS SXC EXCEL X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PowerPoint转换为XLS**可将幻灯片导出为**传统的Excel 97–2003工作簿**，支持与旧版电子表格系统的兼容性。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 传统电子表格兼容性
+- 存档演示文稿中的表格和图表
+- 在旧版Excel格式中进行企业报告
+- 跨平台数据共享
+- 为旧系统准备结构化报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 批量幻灯片转换为XLS
+- 与传统报告工作流程集成
+- 自动提取演示文稿中的表格
+- 结构化数据归档
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

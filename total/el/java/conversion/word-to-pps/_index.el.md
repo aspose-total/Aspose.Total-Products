@@ -54,7 +54,26 @@ otherformats: PPT PPTM PPTX POT PPS POTM PPSX POWERPOINT PPSM POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ΛΕΞΗ σε PPS** επιτρέπει στο περιεχόμενο της Λέξης να γίνει αρχεία **PowerPoint Show (PPS)**, έτοιμα για άμεση παρουσίαση χωρίς χειροκίνητη ρύθμιση διαφανειών.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+- Μετατροπή αναφορών Word σε παρουσιάσεις έτοιμες για αναπαραγωγή
+- Διαφάνειες για επιχειρηματικές και εταιρικές συναντήσεις
+- Προετοιμασία ακαδημαϊκού και εκπαιδευτικού υλικού
+- Παρουσιάσεις βασισμένες σε πρότυπα για ενημέρωση και αναφορές
+- Παρουσιάσεις έτοιμες για εμφάνιση για κυβερνητικούς και οργανωτικούς σκοπούς
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες διαδικασίες παρουσίασης από Word σε PPS
+- Μαζική δημιουργία διαφανειών έτοιμων για προβολή
+- Αυτοματοποιημένες ροές εργασίας που βασίζονται σε πρότυπα παρουσιάσεις
+- Αυτοματισμός PowerPoint υψηλής ποιότητας για επιχειρήσεις
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

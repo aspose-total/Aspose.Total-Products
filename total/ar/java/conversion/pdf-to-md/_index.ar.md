@@ -47,7 +47,27 @@ otherformats: FODS XLTX XLSB XLSM MD SXC EXCEL DIF XLAM TSV ODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+حالة تحويل **PDF إلى MD** تركز على تحويل ملفات PDF إلى تنسيق **Markdown (.md)**، الذي يستخدم على نطاق واسع في **توثيق المطورين، المدونات التقنية، وأنابيب التشغيل التلقائي للمحتوى**. يتيح إعادة استخدام النصوص المنظمة في ملفات PDF، والجداول، ومقاطع الشفرة في محررات Markdown.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- ترحيل توثيق المطورين من PDF إلى MD
+- تحويل الدلائل الفنية من PDF إلى Markdown للتحرير
+- سير العمل في المدونات التقنية باستخدام محتوى MD
+- تخزين توثيق المشاريع مفتوحة المصدر على شكل Markdown
+- إنشاء قواعد معرفية من التقارير بتنسيق PDF المنظمة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- أنابيب **تحويل PDF إلى MD تلقائية للمطورين**
+- تحويل دفعي لملفات PDF إلى مستودعات Markdown
+- سير العمل المعتمد على Git يدمج تصدير PDF إلى MD
+- معالجة تحويل PDF إلى MD مدفوعة بواسطة واجهة برمجة التطبيقات لمنصات إدارة نظم إدارة المحتوى
+- تشغيل الأتمتة لترحيل مستندات PDF إلى MD
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

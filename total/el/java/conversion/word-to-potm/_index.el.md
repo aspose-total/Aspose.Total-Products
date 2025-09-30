@@ -54,7 +54,26 @@ otherformats: PPSX PPSM POWERPOINT POTM PPTM PPTX PPT POTX POT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε POTM** επιτρέπει τη δημιουργία **αρχείων Macro-Enabled PowerPoint Template (POTM)** από περιεχόμενο Word, επιτρέποντας τη χρήση επαναχρησιμοποιήσιμων προτύπων με macros για προηγμένη αυτοματοποίηση.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Δημιουργία προτύπων παρουσιάσεων με macros από το Word
+- Επιχειρησιακή αυτοματοποίηση στη δημιουργία παρουσιάσεων
+- Πρότυπα ακαδημαϊκών και έρευνας με διαδραστικά στοιχεία
+- Επαναχρησιμοποιήσιμες διαφάνειες ενημέρωσης για επιχειρήσεις
+- Ροή εργασίας με πρότυπο για αυτοματοποιημένες διαφάνειες
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής Word σε POTM
+- Μαζική δημιουργία προτύπων παρουσιάσεων με macros
+- Αυτοματοποίηση παρουσιάσεων με ροή εργασίας βασισμένη σε πρότυπα
+- Επιχειρησιακές ροές εργασίας παρουσιάσεων
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

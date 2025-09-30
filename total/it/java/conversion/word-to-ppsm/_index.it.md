@@ -54,7 +54,24 @@ L'API consente inoltre di convertire documenti WORD protetti da password in PPSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversione da **WORD a PPSM** consente la creazione di file **Macro-Enabled PowerPoint Show (PPSM)** da documenti di Word, consentendo presentazioni interattive con funzionalità di automazione.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+- Presentazioni con macro abilitate da contenuti di Word
+- Presentazioni interattive per aziende o enti
+- Presentazioni di slide per ricerca accademica e formazione
+- Flussi di lavoro di presentazioni interattive basati su modelli
+- Automazione di briefing governativi e organizzativi
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+- Pipeline di slide da Word a PPSM automatizzate
+- Creazione batch di presentazioni con macro abilitate
+- Automazione di slide interattive basate su modelli
+- Flussi di lavoro di presentazioni con macro abilitate di livello enterprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

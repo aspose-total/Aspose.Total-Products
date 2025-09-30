@@ -144,7 +144,27 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF átalakítása XAMLFLOW formátumba** ideális fejlesztők számára, akik **FlowDocument alapú XAML fájlokat** építenek .NET és WPF alkalmazásokhoz. A batch PDF-ből XAMLFlow konverterek és automatizált csővezetékek segítségével a statikus tartalmat interaktív, strukturált szoftveres erőforrásokká lehet átalakítani.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Gazdag szöveg integráció WPF alkalmazásokban
+- Digitális kiadás FlowDocument formátumban
+- Szoftveres kézikönyvek és súgórendszerek
+- Vállalati tudásbázis integráció
+- Dokumentum-alkalmazás munkafolyamatok
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált PDF-XAMLFLOW csővezetékek az alkalmazásfejlesztéshez
+- Batch konverzió vállalati WPF alkalmazásokhoz
+- Munkafolyamat integráció a kiadórendszerekbe
+- FlowDocument tartalom generálása nagy méretben
+- Interaktív szoftveres dokumentáció automatizálása
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

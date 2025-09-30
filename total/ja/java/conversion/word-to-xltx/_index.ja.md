@@ -61,7 +61,26 @@ WORDをXLTXに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをXLTXに変換する**ことにより、Word文書を**Excelテンプレート（XLTX）**形式にエクスポートでき、マクロのない再利用可能なスプレッドシートテンプレートを企業や学術目的で提供します。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- マクロを使用しない再利用可能なExcelテンプレートの作成
+- 企業や法人の標準化されたレポーティング
+- 学術および研究用テンプレートの準備
+- テンプレート駆動型の構造化されたスプレッドシートワークフロー
+- 政府や財務報告の標準化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- WordからXLTXへの自動化されたテンプレートパイプライン
+- Wordテーブルからのバッチテンプレート生成
+- テンプレート駆動型のスプレッドシート自動化
+- 企業向けのレポーティングワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

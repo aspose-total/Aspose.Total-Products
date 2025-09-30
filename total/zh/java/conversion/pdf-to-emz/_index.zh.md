@@ -57,7 +57,27 @@ otherformats: SVGZ WMF IMAGE EMZ  DXF TGA JPEG2000 WMZ PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF转EMZ**转换过程用于将PDF中的**矢量图形**存储为**增强型图元文件（压缩）**格式。这对于出版工作流程、可伸缩图像存储以及将PDF图形集成到Windows应用程序中特别有用。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 需要EMZ矢量图形的出版工作流程
+- 将PDF插图存档为压缩的EMZ文件
+- 将图表转换为技术文档
+- EMZ与Microsoft Office应用程序集成
+- 高效存储可伸缩的PDF图像
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 批量**PDF转EMZ图像转换**
+- 将PDF图表自动化转换为EMZ的流水线
+- 使用EMZ文件进行可伸缩矢量工作流程
+- 在企业出版中集成PDF到EMZ的导出
+- 用于文档系统的自动化图形压缩
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

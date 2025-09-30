@@ -53,7 +53,26 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POWER
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint thành DOT** cho phép lưu bài thuyết trình dưới dạng **mẫu Word**, cho phép sử dụng lại nội dung bài thuyết trình một cách lặp đi lặp lại trong các định dạng tài liệu chuẩn.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tạo mẫu Word có thể tái sử dụng từ các slide
+- Chuẩn hóa tài liệu doanh nghiệp
+- Báo cáo và đề xuất dựa trên mẫu
+- Lưu trữ cấu trúc bài thuyết trình để sử dụng sau này
+- Tạo mẫu giáo dục
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Tạo mẫu tự động từ bộ slide
+- Tích hợp quy trình làm việc cho thư viện mẫu doanh nghiệp
+- Tạo nhiều biến thể tài liệu từ một file PPT duy nhất
+- Tự động hóa báo cáo dựa trên mẫu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

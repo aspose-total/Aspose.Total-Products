@@ -54,7 +54,24 @@ A API também permite converter documentos WORD protegidos por senha em POTM. Se
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para POTM** permite a criação de **arquivos de Modelo de PowerPoint Habilitado para Macro (POTM)** a partir de conteúdo do Word, possibilitando a criação de modelos reutilizáveis com macros para automação avançada.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Geração de modelos de apresentação habilitados para macro a partir do Word
+- Automação empresarial na criação de apresentações
+- Modelos acadêmicos e de pesquisa com elementos interativos
+- Slides de briefing corporativos reutilizáveis
+- Fluxo de trabalho orientado por modelo para slides automatizados
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines de modelo automatizado de Word para POTM
+- Criação em lote de modelos de apresentação habilitados para macro
+- Automação de decks de slides orientada por modelo
+- Fluxos de trabalho de apresentação de nível empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,27 @@ Ao converter o arquivo PDF para FODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para FODS (Planilha ODF Plana)** ajuda na extração de dados estruturados do PDF para **LibreOffice Calc e planilhas compatíveis com OpenDocument**. Isso permite que organizações reutilizem **tabelas em PDF em FODS baseados em XML** para relatórios, análises e conformidade.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- PDF para FODS para fluxos de trabalho de planilhas de código aberto
+- Conversão de tabelas acadêmicas em planilhas ODF
+- Reutilização de dados em ambientes LibreOffice e OpenOffice
+- Relatórios estruturados com formatos de planilha baseados em XML
+- Arquivamento de longo prazo de conteúdo tabular em PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines automatizados de PDF para FODS**
+- Processamento em lote de tabelas em PDF em planilhas ODF
+- Fluxos de trabalho orientados por JSON gerando FODS a partir de PDF
+- Automação de relatórios empresariais com exportação FODS
+- Integração de sistemas de código aberto com ferramentas de PDF para FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

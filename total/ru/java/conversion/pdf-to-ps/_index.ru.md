@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в PS (PostScript)** необходимо для рабочих процессов высококачественной печати, позволяя отправлять PDF-файлы на **принтеры, совместимые с PostScript**, для профессионального издательства, графического дизайна и печати в предприятиях.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Профессиональное производство печати из PDF-документов
+- Графический дизайн для принтеров PostScript
+- Печатные рабочие процессы предприятий и государственных учреждений
+- Предварительная печать в издательствах
+- Архивирование PDF-файлов в формате PostScript для соответствия требованиям
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **печатные конвейеры PDF в PS**
+- Пакетное преобразование PDF для печати большого объема
+- Интеграция с предприятий печатными серверами
+- Автоматизация рабочего процесса предварительной печати для издательств
+- Масштабируемая автоматизация печати с выходом в PS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

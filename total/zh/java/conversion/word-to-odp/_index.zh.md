@@ -54,7 +54,26 @@ otherformats: POTX PPTM POT POWERPOINT PPTX PPT PPSX PPS POTM PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为ODP**可将Word文档转换为**OpenDocument Presentation (ODP)文件**，从而弥合基于文本的报告和演示格式之间的差距，为协作、开放标准的环境提供支持。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将文本报告转换为幻灯片
+- 企业协作的开放标准演示
+- 学术和研究演示准备
+- 政府和企业演示档案
+- 基于模板的企业报告和简报
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word转ODP生成工作流程
+- 批量将企业报告转换为演示文稿
+- 基于模板的幻灯片创建
+- 结构化报告和简报自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,24 @@ A API também permite converter documentos WORD protegidos por senha em PPS. Se 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertendo **WORD para PPS** permite que o conteúdo do Word se torne arquivos **PowerPoint Show (PPS)**, prontos para apresentação direta sem configuração manual de slides.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Conversão de relatórios do Word em apresentações prontas para reprodução
+- Slides de reuniões empresariais e corporativas
+- Preparação de material acadêmico e de treinamento
+- Apresentações de briefing e relatórios baseados em modelos
+- Apresentações prontas para exibição de governo e organizações
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines de apresentação automatizados de Word para PPS
+- Geração em lote de slides prontos para exibição
+- Fluxos de trabalho de apresentação automatizados baseados em modelos
+- Automação de PowerPoint de nível empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,27 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang DICOM** là rất quan trọng đối với ngành y tế nơi mà hình ảnh y khoa và tài liệu lâm sàng phải được tích hợp. Điều này đảm bảo rằng **báo cáo y tế PDF** có thể được chuyển đổi thành **định dạng DICOM cho máy chủ PACS**, quy trình chụp X-quang và lưu trữ lâu dài tại bệnh viện.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tích hợp báo cáo y tế vào hệ thống hình ảnh DICOM  
+- Chuyển đổi PDF sang DICOM cho **báo cáo chụp X-quang và tim mạch**  
+- Lưu trữ và tuân thủ máy chủ PACS của bệnh viện  
+- Chia sẻ dữ liệu y tế có cấu trúc qua các hệ thống  
+- Quản lý hồ sơ bệnh nhân theo tiêu chuẩn  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Các đường ống tự động hóa cho **hình ảnh y học PDF sang DICOM**  
+- Chuyển đổi hàng loạt quét PDF thành bản lưu trữ DICOM  
+- Tích hợp EMR/EHR của bệnh viện với quy trình làm việc PDF-to-DICOM  
+- Tự động hóa hình ảnh y học doanh nghiệp để tuân thủ  
+- Chuyển dữ liệu lâm sàng một cách an toàn và tự động  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

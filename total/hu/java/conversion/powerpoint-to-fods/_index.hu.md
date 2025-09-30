@@ -61,7 +61,26 @@ A POWERPOINT fájl FODS formátumba konvertálásakor vízjelet is hozzáadhat a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to FODS** konvertálása lehetővé teszi a prezentációs táblázatok exportálását **Flat OpenDocument Spreadsheet** formátumba, amely hasznos az elemzéshez, adatcseréhez és jelentéskészítéshez.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Diavetítés táblázatainak adatokká alakítása táblázatokba
+- Platformfüggetlen adatmegosztás OpenDocument eszközökkel
+- Vállalati adatelemzés és jelentéskészítés
+- Strukturált diaadatok archiválása
+- Numerikus vagy táblázatos jelentések készítése prezentációkból
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Táblázatok automatizált kinyerése FODS formátumba
+- Integráció az analitikai csővezetékekkel
+- Diavetítés-táblázat konverzió tömeges feldolgozása
+- Adatalapú munkafolyamat-automatizálás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

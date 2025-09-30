@@ -61,7 +61,26 @@ otherformats: SXC XLSB ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为XLSB**可将Word内容导出为**Excel二进制工作簿（XLSB）**格式，优化大型电子表格存储，并在Excel中实现更快的处理速度。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 用于Excel的大规模Word表格转换
+- 优化文件大小的企业报告
+- 处理学术和研究数据集
+- 基于模板的结构化报告生成
+- 高性能电子表格工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word到XLSB转换流程
+- 批量创建二进制Excel报告
+- 基于模板的Excel自动化工作流程
+- 企业级结构化报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

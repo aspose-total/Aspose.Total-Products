@@ -61,7 +61,26 @@ Trong khi chuyển đổi tệp POWERPOINT sang XLTM, bạn cũng có thể thê
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang XLTM** cho phép các slide trở thành **mẫu Excel hỗ trợ macro**, bảo tồn các macro cho báo cáo tự động lặp lại và quy trình làm việc doanh nghiệp.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Mẫu Excel có hỗ trợ macro có thể tái sử dụng
+- Báo cáo chuẩn với tự động hóa nhúng
+- Lưu trữ bài thuyết trình dưới dạng mẫu hỗ trợ macro
+- Mẫu dự án tương tác cho việc sử dụng doanh nghiệp
+- Tạo mẫu giáo dục và đào tạo
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Đường ống chuyển đổi slide sang XLTM tự động
+- Tạo thư viện mẫu doanh nghiệp với macro
+- Tạo ra hàng loạt mẫu hỗ trợ macro
+- Báo cáo tự động dựa trên mẫu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

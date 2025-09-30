@@ -102,7 +102,26 @@ otherformats: WORDML DOC FLATOPC OTT WORD DOTX DOCM DOTM DOCX DOT TEXT ODT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PowerPoint в RTF** дозволяє слайдам стати документами **Rich Text Format**, що робить їх широко сумісними з різними текстовими редакторами та системами старого зразка.
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+- Поділ документів між платформами
+- Редагування у легких або застарілих редакторах
+- Архівування вмісту тексту презентації
+- Підготовка спрощених звітів або роздавання матеріалів
+- Сумісність з різними офісними пакетами
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Пакетна конвертація слайдів в RTF
+- Автоматизовані робочі процеси архівації
+- Потоки вилучення вмісту для звітів
+- Інтеграція в системи документів у різних форматах
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

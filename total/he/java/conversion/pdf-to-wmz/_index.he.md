@@ -105,7 +105,27 @@ otherformats: TGA WMF SVGZ APNG  DXF PSD JPEG2000 IMAGE EMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל- WMZ** חשובה לייצור **גרפיקה מדוחסת בפורמט Windows Metafile** מתוך תוכן PDF. פורמט זה מועיל במיוחד כאשר מאוחסן או משותף **תרשימים, טבלאות ואיורים מבוססי וקטור** בדרך יעילה מבחינת מקום עבור אפליקציות Windows ותהליכי עבודה בארגונים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- גרפיקה מדוחסת בפורמט וקטורי למסמכי Office
+- תרשימים וטבלאות לעסקים בפורמט WMZ קל
+- איורים למסמכים תיקיים בממשק ממשלתי ועסקי
+- גרפיקה לשיווק והצגה
+- ארכיבה של גרפיקה וקטורית בפורמט PDF עם גודל קובץ מוקטן
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **צינורות דחיסה אוטומטיים מ- PDF ל-WMZ**
+- המרת תרשימי PDF בצורה צינורית ל-WMZ לעסקים
+- שילוב עם תהליכי עבודה ב-PowerPoint ו-Word
+- אוטומציה של גרפיקה לעסקים עם אחסון WMZ
+- דחיסת PDF לוקטורית נמצאת לארכיבה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

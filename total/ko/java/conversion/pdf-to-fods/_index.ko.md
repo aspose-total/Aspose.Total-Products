@@ -47,7 +47,27 @@ PDF 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 FODS (Flat ODF Spreadsheet)로 변환**하면 PDF에서 구조화된 데이터를 **LibreOffice Calc 및 OpenDocument 호환 스프레드시트**로 추출할 수 있습니다. 이를 통해 조직은 **PDF 테이블을 XML 기반 FODS로 재사용**하여 보고서 작성, 분석 및 규정 준수를 할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 오픈 소스 스프레드시트 워크플로에 대한 PDF를 FODS로 변환
+- 학술 테이블을 ODF 스프레드시트로 변환
+- LibreOffice 및 OpenOffice 환경에서 데이터 재사용
+- XML 기반 스프레드시트 형식으로 구조화된 보고서 작성
+- 표 형식의 PDF 콘텐츠 장기 보관
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF를 FODS로 변환하는 파이프라인**
+- PDF 테이블을 ODF 스프레드시트로 일괄 처리
+- PDF에서 FODS를 생성하는 JSON 기반 워크플로우
+- FODS 내보내기로 기업 보고 자동화
+- PDF를 FODS로 변환하는 오픈 소스 시스템 통합 도구
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

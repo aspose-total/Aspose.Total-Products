@@ -53,7 +53,26 @@ APIを使用して、透かしを使用してPOWERPOINTファイルからDOTへ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをDOTに変換**することで、プレゼンテーションを**Wordテンプレート**として保存し、標準化されたドキュメント形式でプレゼンテーションコンテンツを繰り返し再利用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- スライドから再利用可能なWordテンプレートの作成
+- 企業文書の標準化
+- テンプレートベースのレポート作成と提案
+- 後で使用するためにプレゼンテーション構造をアーカイブ
+- 教育用テンプレートの生成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- スライドデッキからの自動化されたテンプレート作成
+- 企業テンプレートライブラリのワークフロー統合
+- 1つのPPTから複数のドキュメントバリエーションの生成
+- テンプレート駆動のレポート自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

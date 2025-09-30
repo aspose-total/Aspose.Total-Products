@@ -49,7 +49,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为JSON**对于从Word文档中提取结构化内容到**JSON格式**至关重要，有助于数据驱动应用程序、API集成以及现代网络或企业工作流程。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 文档系统和应用程序之间的数据交换
+- 将Word内容与Web和移动平台集成
+- 基于模板的文档内容提取
+- 结构化内容的归档用于政府和研究
+- 结构化的学术或企业出版
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- Word到JSON提取管道
+- 自动化API就绪的文档内容生成
+- 基于JSON的工作流自动化
+- 企业规模的结构化文档报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

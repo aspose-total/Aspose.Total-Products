@@ -121,7 +121,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 OTP로 변환**하는 것은 **OpenDocument Presentation Template 파일**을 생성하는 데 중요하며, 기업, 교육 기관 및 정부 기관 간에 재사용 가능한 슬라이드 템플릿을 활성화합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 표준화된 기업 프레젠테이션 템플릿
+- 학술 강의 시리즈 템플릿
+- 정부 커뮤니케이션 및 교육 모듈
+- 비정부 기구 프레젠테이션 아카이브
+- 협업 디자인 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- PDF를 OTP로 자동 변환하는 파이프라인
+- 템플릿 기반 프레젠테이션 자동화
+- 아카이브된 PDF에서 일괄 템플릿 생성
+- LibreOffice Impress와의 워크플로우 통합
+- 조직을 위한 중앙 집중식 템플릿 저장소
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

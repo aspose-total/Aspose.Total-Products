@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na WORDML** je důležitý pro vytváření **WordprocessingML (XML založené dokumenty Wordu)** z PDF. Online nástroje pro převod PDF na WordML a automatizace zajistí strukturované, XML-kompatibilní dokumenty, které jsou připraveny k archivaci, publikaci a podnikovým pracovním postupům.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Výměna dat mezi systémy
+- Ukládání podnikových dokumentů
+- Generování dokumentů na základě šablon
+- Digitální archivy vlády
+- Strukturované akademické publikování
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované potrubí pro převod PDF na WordML pro strukturované reporty
+- Generování XML dokumentů z PDF
+- Dávkové pracovní postupy WordML pro podniky
+- Integrace digitálních archivů do formátů XML
+- Strukturované reportování na úrovni podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

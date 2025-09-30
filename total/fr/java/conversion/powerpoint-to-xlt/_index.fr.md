@@ -61,7 +61,24 @@ Lors de la conversion du fichier POWERPOINT en XLT, vous pouvez également ajout
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PowerPoint en XLT** permet d'exporter des diapositives en **modèles Excel hérités**, permettant la création de modèles réutilisables à partir des données de présentation pour des rapports normalisés.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Création de modèles Excel réutilisables à partir de présentations
+- Normalisation des rapports d'entreprise ou académiques
+- Archivage des diapositives en tant que classeurs de modèles
+- Préparation de modèles de projet ou de rapports structurés
+- Création de modèles hérités pour les anciennes versions d'Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Génération automatisée de modèles de diapositives en XLT
+- Intégration de flux de travail pour les bibliothèques de modèles d'entreprise
+- Création en lot de modèles à partir de plusieurs présentations
+- Automatisation des rapports basée sur des modèles
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,27 @@ otherformats: WMF PSD DXF IMAGE TGA EMZ WMZ JPEG2000 SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى DXF** أمر حيوي للمهندسين والمهندسين المعماريين والمصممين الذين يحتاجون إلى تحويل المستندات الثابتة إلى رسومات متوافقة مع **AutoCAD**. يتيح ذلك إعادة استخدام سلس لل**مخططات الزرقاء بتنسيق PDF** في سير العمل في CAD لمشاريع البناء والتصنيع والتصميم ثلاثي الأبعاد.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل المخططات المعمارية من PDF إلى DXF
+- إعادة استخدام رسومات الهندسة في برامج CAD
+- سير العمل في التصنيع الذي يتطلب إدخال متوافق مع CAD
+- ترحيل المخططات الكهربائية من PDF إلى صيغ DXF
+- مشاركة التصميم التعاوني عبر الفرق
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **أنابيب CAD من PDF إلى DXF** آلية تشغيلية
+- تحويل دفعي لمخططات البناء من PDF
+- أتمتة PDF إلى DXF لرسومات التصنيع
+- سير العمل لتصدير DXF لأنظمة الهندسة الشركات
+- أتمتة CAD قابلة للتوسيع تدمج إدخالات PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

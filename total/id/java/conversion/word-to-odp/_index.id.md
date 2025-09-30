@@ -54,7 +54,26 @@ API juga memungkinkan Anda untuk mengonversi dokumen WORD yang dilindungi kata s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **WORD ke ODP** memungkinkan dokumen Word diubah menjadi file **OpenDocument Presentation (ODP)**, menjembatani kesenjangan antara laporan berbasis teks dan format presentasi untuk lingkungan kolaboratif berstandar terbuka.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Mengonversi laporan teks menjadi slide deck
+- Presentasi berstandar terbuka untuk kolaborasi perusahaan
+- Persiapan presentasi akademis dan penelitian
+- Arsip presentasi pemerintah dan perusahaan
+- Pelaporan dan penyampaian berbasis template perusahaan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Alur kerja generasi Word-to-ODP otomatis
+- Konversi batch laporan perusahaan menjadi presentasi
+- Pembuatan slide deck berbasis template
+- Otomatisasi pelaporan terstruktur dan penyampaian
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

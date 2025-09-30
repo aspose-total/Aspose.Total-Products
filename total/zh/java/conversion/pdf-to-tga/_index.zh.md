@@ -57,7 +57,27 @@ otherformats: SVGZ TGA JPEG2000 WMF IMAGE PSD  WMZ EMZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 TGA（Targa）** 是为数字艺术、游戏和多媒体制作从 PDF 页面创建 **高质量光栅图像** 的理想选择。
+{{% blocks/products/pf/agp/feature-section-col title="关键用途" %}}
+- 数字艺术和插图提取
+- 从 PDF 内容生成游戏资产
+- 多媒体项目的高质量光栅图形
+- 将 PDF 图形存档为 TGA 图像
+- 用于动画和视觉效果工作流的转换
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化 **PDF 到 TGA 批量转换**
+- 与数字媒体和游戏流程集成
+- 为视觉效果光栅化 PDF 图形
+- 多媒体制作的工作流自动化
+- 可扩展的 PDF 图像导出到 TGA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

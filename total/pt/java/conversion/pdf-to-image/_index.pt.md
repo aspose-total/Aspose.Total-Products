@@ -57,7 +57,25 @@ Usando a API, você também pode girar a imagem IMAGE de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para IMAGEM** é um dos fluxos de trabalho mais comuns, permitindo que documentos sejam transformados em vários formatos de imagem como PNG, JPG ou TIFF. Isso torna os PDFs mais fáceis de usar em ambientes de **publicação na web, arquivamento e apresentação digital**.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Arquivar documentos PDF como arquivos de imagem
+- Incorporar páginas PDF em sites como PNG ou JPG
+- Criar miniaturas e pré-visualizações a partir de PDFs
+- Integrar PDFs em slides e apresentações digitais
+- Armazenamento baseado em imagem para conformidade e auditorias
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Pipelines em lote automatizados de PDF para IMAGEM**
+- Fluxos de trabalho de PDF para PNG ou JPG para plataformas web
+- Geração de imagens de pré-visualização para sistemas de gerenciamento de documentos
+- PDF para TIFF de várias páginas para arquivamento empresarial
+- Conversão automatizada de PDF para IMAGEM baseada em API
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

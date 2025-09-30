@@ -52,7 +52,26 @@ otherformats: ODT FLATOPC OTT DOTM TEXT WORD ODTM ODTX DOT DOTX RTF WORDML
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 ODT** 可以将幻灯片保存为 **OpenDocument 文本文档**，支持来自演示文稿的可编辑、跨平台文本内容。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 将幻灯片转换为可编辑的 OpenDocument 文本文件
+- 在不同办公套件之间进行协作编辑
+- 将演示文稿存档为广泛支持的格式
+- 用于教育散发资料和企业报告
+- 将演示内容重新用于文档
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 批量进行 PowerPoint 到 ODT 的转换
+- 集成到文档管理工作流程中
+- 从幻灯片自动生成报告
+- 企业内容再利用流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

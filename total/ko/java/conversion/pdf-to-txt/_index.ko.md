@@ -47,7 +47,26 @@ PDF 파일을 TXT로 변환하는 동안 출력 TXT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 TXT로 변환**하는 것은 **평문 텍스트 콘텐츠**를 추출하여 분석, 검색 및 색인화하는 효율적인 방법을 제공합니다. 일괄 PDF를 TXT로 변환하는 도구와 자동화된 워크플로우를 통해 조직은 규정 준수 점검, 텍스트 마이닝 및 AI 기반 문서 처리를 간소화할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 검색 엔진용 데이터 추출  
+- 자연어 처리 파이프라인  
+- 규정 준수 텍스트 분석  
+- 법적 발견 워크플로우  
+- 학술적 텍스트 마이닝 및 색인화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 데이터 마이닝용 자동화된 PDF-to-TXT 파이프라인  
+- 규정 준수 점검용 일괄 PDF를 TXT로 변환  
+- 추출된 텍스트와의 AI/ML 통합  
+- 대규모 TXT 워크플로우를 위한 기업용 가벼운 문서 자동화  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ otherformats: XLAM XLS ODS XLSB FODS XLT XLSX DIF XLTM XLTX XLSM EXCEL SXC TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ΛΕΞΗ σε XLAM** είναι καίρια για τη μετατροπή περιεχομένου Word σε **αρχεία Excel Add-in**, επιτρέποντας την αυτοματοποίηση, τα macros και την ολοκλήρωση με τις ροές εργασίας του Excel ενώ εκμεταλλεύεται τα δομημένα δεδομένα του εγγράφου.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Δημιουργία προσθέτων Excel από πρότυπα βασισμένα σε Word
+- Ενσωμάτωση εταιρικών εγγράφων στην αυτοματοποίηση του Excel
+- Χρηματοοικονομική και επιχειρηματική αναφορά βασισμένη σε macros
+- Ενσωμάτωση σε ακαδημαϊκές ή ερευνητικές ροές εργασίας
+- Αυτοματοποίηση συστημάτων κληρονομιάς χρησιμοποιώντας πρόσθετα που προέρχονται από το Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτόματη δημιουργία προσθέτων Word-to-XLAM
+- Δημιουργία ροών εργασίας με macros βασισμένα σε πρότυπα
+- Αναφορά επιχειρήσεων και αυτοματοποίηση εργασιών
+- Αυτοματοποίηση ροών εργασίας Excel βασισμένων σε έγγραφα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na ODP. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **WORD na ODP** umožňuje transformaci dokumentů Word do souborů **OpenDocument Presentation (ODP)**, spojuje textové zprávy a prezentace pro spolupráci v otevřených standardních prostředích.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Převod textových zpráv do prezentací
+- Prezentace v otevřených standardech pro podnikovou spolupráci
+- Příprava akademických a výzkumných prezentací
+- Archivace vládních a firemních prezentací
+- Šablonové firemní hlášení a briefinky
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované pracovní postupy pro převod Wordu na ODP
+- Hromadný převod firemních zpráv do prezentací
+- Vytváření prezentací na základě šablon
+- Automatizace strukturovaného hlášení a briefinků
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

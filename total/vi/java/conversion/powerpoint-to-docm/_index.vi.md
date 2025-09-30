@@ -53,7 +53,26 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POWER
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang DOCM** cho phép xuất các slide vào **tài liệu Word hỗ trợ macro**, bảo tồn tự động hóa và tương tác trong môi trường tài liệu.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Bảo tồn các macro khi chuyển dữ liệu trình bày  
+- Tạo báo cáo tương tác với kịch bản tự động hóa  
+- Mẫu doanh nghiệp với các chức năng nhúng  
+- Báo cáo tuân thủ với các macro được xác định trước  
+- Tài liệu học thuật hoặc doanh nghiệp yêu cầu nội dung động
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Đường ống chuyển đổi tự động bảo tồn các macro  
+- Tạo tài liệu macro dựa trên JSON/slide  
+- Quy trình làm việc doanh nghiệp với các mẫu hỗ trợ macro  
+- Tạo báo cáo tự động từ các slide một cách hiệu quả
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

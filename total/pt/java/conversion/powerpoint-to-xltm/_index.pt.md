@@ -61,7 +61,26 @@ Ao converter o arquivo POWERPOINT para XLTM, você também pode adicionar marca 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PowerPoint para XLTM** permite que os slides se tornem **modelos de Excel habilitados para macro**, preservando macros para relatórios automatizados repetidos e fluxos de trabalho corporativos.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Modelos de Excel reutilizáveis habilitados para macro
+- Relatórios padronizados com automação incorporada
+- Arquivamento de apresentações como modelos habilitados para macro
+- Modelos interativos de projetos para uso corporativo
+- Criação de modelos educacionais e de treinamento
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines de conversão automatizada de slide para XLTM
+- Criação de biblioteca de modelos corporativos com macros
+- Geração em lote de modelos habilitados para macro
+- Relatórios automatizados orientados por modelos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,25 @@ PDFファイルをXLAMに変換するときに、出力XLAMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをXLAMに変換**することで、PDFベースのスプレッドシートマクロやカスタム関数から**Excelアドインファイル**を作成できます。これは**自動化された財務モデル、企業レポーティング、およびExcelワークフローの強化**に非常に役立ちます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- PDFデータからExcelマクロとアドインの作成
+- 自動化された財務モデルおよびレポーティングツール
+- 企業スプレッドシートワークフローの強化
+- 学術または研究ベースのExcel自動化
+- 大規模なExcelアドインテンプレートの配布
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからXLAMへのアドインパイプライン**
+- 財務および企業スプレッドシートのバッチ処理
+- Excelワークフロー自動化との統合
+- 企業向けのマクロ対応レポーティングパイプライン
+- PDFからExcelアドインへのスケーラブルな配布
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

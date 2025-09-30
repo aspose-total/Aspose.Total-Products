@@ -53,7 +53,26 @@ otherformats: DOTX ODT WORDML DOT DOTM WORD RTF OTTM OTT TEXT FLATOPC OTTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น OTT** ช่วยให้สไลด์สามารถส่งออกเป็น **เทมเพลตข้อความ OpenDocument**, ทำให้เกิดเทมเพลตที่ใช้ซ้ำได้สำหรับเอกสารมาตรฐาน
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- สร้างเทมเพลตข้อความที่ใช้ซ้ำจากงานนำเสนอ
+- เอกสารมาตรฐานสำหรับองค์กรหรือสถาบันการศึกษา
+- รายงานที่ใช้เทมเพลตและข้อเสนอโครงการ
+- เก็บถาพสไลด์เป็นเทมเพลต
+- สร้างเทมเพลตสำหรับการศึกษาหรือการอบรม
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การสร้างเทมเพลตข้อความ OpenDocument โดยอัตโนมัติ
+- การผสานการทำงานเข้ากับไลบรารีเทมเพลตขององค์กร
+- การแปลงสไลด์เป็นเทมเพลตที่ใช้ซ้ำเป็นชุด
+- การอัตโนมัติเอกสารตามเทมเพลต
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

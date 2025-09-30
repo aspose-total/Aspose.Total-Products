@@ -61,7 +61,26 @@ POWERPOINTファイルをMHTMLに変換するときに、出力MHTMLファイル
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをMHTMLに変換**すると、スライドを**Webアーカイブ形式**でエクスポートでき、HTMLコンテンツとリソースを1つのファイルに組み合わせて簡単に共有および公開できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- Web公開用にプレゼンテーションをアーカイブ化
+- スライドを自己完結型のWebページとして共有
+- クロスプラットフォームでのプレゼンテーション表示
+- 企業内ネットワークのコンテンツ配信
+- Webアーカイブを介した教育資料の共有
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- MHTMLへの自動変換パイプライン
+- スライドをWebアーカイブに一括変換するワークフロー
+- コンテンツ管理システムとの統合
+- Web用レポートの自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε TSV** επιτρέπει την εξαγωγή διαφανειών ως **Τιμές με Διαχωτικό Πλαίσιο**, διευκολύνοντας την επεξεργασία δομημένων δεδομένων και τη συμβατότητα φύλλων εργασίας διαφόρων πλατφορμών.
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+- Εξαγωγή πίνακα δεδομένων για αναλύσεις
+- Διαμοιρασμός δεδομένων μεταξύ διαφόρων πλατφορμών
+- Ενσωμάτωση με παλαιά και σύγχρονα εργαλεία φύλλων εργασίας
+- Αρχειοθέτηση δομημένου περιεχομένου από παρουσιάσεις
+- Προετοιμασία δομημένων αναφορών
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής διαφανειών σε TSV
+- Ενσωμάτωση με ροές εργασίας αναλύσεων επιχειρήσεων
+- Αυτοματοποίηση αναφορών βασισμένων σε δεδομένα
+- Προετοιμασία φύλλων εργασίας συστημάτων παλαιάς τεχνολογίας
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

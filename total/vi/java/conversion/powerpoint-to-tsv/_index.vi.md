@@ -61,7 +61,26 @@ Trong khi chuyển đổi tệp POWERPOINT sang TSV, bạn cũng có thể thêm
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang TSV** cho phép xuất các slide dưới dạng **Tab-Separated Values**, giúp xử lý dữ liệu có cấu trúc và tương thích với bảng tính trên nhiều nền tảng.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Trích xuất dữ liệu bảng cho phân tích
+- Chia sẻ dữ liệu trên nhiều nền tảng
+- Tích hợp với các công cụ bảng tính cổ điển và hiện đại
+- Lưu trữ nội dung có cấu trúc từ các bài thuyết trình
+- Chuẩn bị báo cáo có cấu trúc
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Các luồng công việc tự động hóa từ slide sang TSV
+- Tích hợp với các luồng công việc phân tích doanh nghiệp
+- Tự động hóa báo cáo dựa trên dữ liệu
+- Chuẩn bị bảng tính hệ thống cổ điển
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

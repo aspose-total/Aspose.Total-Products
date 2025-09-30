@@ -54,7 +54,26 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORD được bảo v
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **WORD thành ODP** cho phép tài liệu Word được chuyển đổi thành tệp **OpenDocument Presentation (ODP)**, nối liền khoảng cách giữa báo cáo dựa trên văn bản và định dạng trình bày cho môi trường hợp tác, chuẩn mở.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Chuyển đổi báo cáo văn bản thành slide
+- Trình bày theo chuẩn mở cho hợp tác doanh nghiệp
+- Chuẩn bị trình bày học thuật và nghiên cứu
+- Lưu trữ trình bày chính phủ và doanh nghiệp
+- Báo cáo và thông tin ngắn gọn dựa trên mẫu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- Quy trình tạo ODP từ Word tự động
+- Chuyển đổi hàng loạt báo cáo doanh nghiệp thành trình bày
+- Tạo slide theo mẫu
+- Tự động hóa báo cáo cấu trúc và thông tin ngắn gọn
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

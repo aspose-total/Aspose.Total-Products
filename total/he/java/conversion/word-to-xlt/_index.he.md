@@ -102,7 +102,26 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-XLT** מאפשרת לשמור תוכן Word כקבצי **תבנית Excel (XLT)**, מאפשרת תבניות גיליון נתונים חוזרות לזרימות עבודה עסקיות, אקדמיות או פיננסיות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תבניות Excel חוזרות מטבלאות Word
+- תבניות דיווח עסקיות וארגוניות
+- תבניות נתונים מובנות לאקדמיה ומחקר
+- תקנות דיווח ממשלתיות ופיננסיות
+- זרימות עבודה מופעלות על ידי תבניות מסמך-לגיליון
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירת תבנית Word-to-XLT אוטומטית
+- אוטומציה של זרימת עבודה בעזרת תבניות
+- יצירת תבניות Excel חוזרות בצורה צפופה
+- אוטומציה של דיווחים ברמה עסקית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

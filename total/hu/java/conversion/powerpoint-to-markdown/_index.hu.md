@@ -61,7 +61,26 @@ A POWERPOINT fájl MARKDOWN formátumba konvertálásakor vízjelet is hozzáadh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint átalakítása MARKDOWN-ra** lehetővé teszi a diák exportálását **Markdown formátumba**, ideális könnyű dokumentációhoz, statikus webhelygenerátorokhoz és tartalomverziózáshoz.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Prezentációs tartalom átalakítása webhelyekre vagy blogokra
+- Könnyű szöveges dokumentáció
+- Diák archiválása verziókezelt formátumokban
+- Együttműködéses jegyzetelés és tartalommegosztás
+- Oktatási anyagok fejlesztőknek és technikai íróknak
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált slide-to-Markdown csatornák
+- Integráció statikus webhelygenerátorokkal, mint például a Hugo vagy a Jekyll
+- Prezentációk batch átalakítása Markdown formátumba
+- Dokumentációs munkafolyamatok vállalati tudásbázisokhoz
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

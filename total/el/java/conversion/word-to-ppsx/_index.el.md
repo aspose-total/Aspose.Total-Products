@@ -54,7 +54,26 @@ otherformats: PPTM PPSM POTM POTX PPSX PPT POWERPOINT PPTX POT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε PPSX** μετατρέπει τα έγγραφα Word σε αρχεία **PowerPoint Show (PPSX)**, προσφέροντας παρουσιάσεις έτοιμες για αναπαραγωγή χωρίς μακρόσυρτα, για επιχειρηματικό, ακαδημαϊκό και εταιρικό κοινό.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Έτοιμες για αναπαραγωγή παρουσιάσεις από περιεχόμενο Word
+- Σελίδες επιχειρηματικών και εταιρικών διαφανειών χωρίς μακρόσυρτα
+- Προετοιμασία ακαδημαϊκών και εκπαιδευτικών παρουσιάσεων
+- Δημιουργία αναφορών και ενημερώσεων με βάση πρότυπα
+- Έτοιμες για παρουσίαση παρουσιάσεις για κυβερνητικούς και οργανωτικούς σκοπούς
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες διαδικασίες παραγωγής παρουσιάσεων Word σε PPSX
+- Αυτοματοποίηση δημιουργίας έτοιμων διαφανειών με βάση πρότυπα
+- Ροές εργασίας παρουσιάσεων υψηλής ποιότητας χωρίς μακρόσυρτα για επιχειρήσεις
+- Μαζική μετατροπή από αναφορές Word σε παρουσιάσεις
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

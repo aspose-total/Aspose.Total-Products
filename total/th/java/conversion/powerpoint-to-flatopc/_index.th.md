@@ -53,7 +53,26 @@ otherformats: WORD WORDML OTT FLATOPCM DOTM RTF TEXT FLATOPCX DOT DOTX FLATOPC O
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น FLATOPC** ช่วยให้สามารถบันทึกภาพนิ่งเป็น **Flat OPC XML** ซึ่งเป็นการแสดงข้อมูลแบบ XML ในรูปแบบไฟล์เดียวสำหรับการประมวลผลโครงสร้าง
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การเก็บข้อมูลโครงสร้างสำหรับงานนำเสนอ
+- การแลกเปลี่ยนข้อมูลระหว่างระบบโดยใช้ XML
+- การเก็บถาวรของภาพนิ่งในไฟล์ XML เดียว
+- มาตรฐานเนื้อหาระดับองค์กร
+- การสร้างเอกสารตามแม่แบบ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การสร้างกระแสงานนำเสนอไป FLATOPC โดยอัตโนมัติ
+- การอัตโนมัติของขั้นตอนการทำงานโดยใช้ XML
+- การแปลงงานนำเสนอเป็น XML โครงสร้างเป็นชุด
+- ระบบเก็บถาวรและรายงานระดับองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

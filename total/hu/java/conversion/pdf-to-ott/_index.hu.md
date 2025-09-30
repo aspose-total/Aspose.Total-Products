@@ -130,7 +130,27 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF átalakítása OTT formátumba** lehetővé teszi az **OpenDocument Text Template fájlok** létrehozását, biztosítva a szabványosítást az üzleti, akadémiai és kormányzati dokumentációs folyamatokban.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Szabványosított üzleti dokumentum sablonok
+- Jogszabályi és kormányzati irányelvek sablonjai
+- Akadémiai kiadási keretrendszerek
+- Civil szervezetek kommunikációs sablonjai
+- Strukturált vállalati tartalom létrehozása
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált PDF-OTT sablon munkafolyamatok
+- Vállalati szintű dokumentációs csatornák
+- Kormányzati és jogi dokumentum automatizálás
+- Nagy léptékű akadémiai kiadás automatizálása
+- Skálázható tétel feldolgozási sablonok
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

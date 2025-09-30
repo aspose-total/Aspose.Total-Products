@@ -57,7 +57,27 @@ otherformats: IMAGE SVGZ WMZ JPEG2000 DXF TGA  PSD EMZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为APNG**在必须以**动态PNG格式**表示交互式或动画文档元素时非常有用。这使组织能够通过将PDF插图、信息图表和动态图表转换为**轻量级APNG动画**来增强数字内容。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 从PDF文件创建动画信息图表
+- 将PDF幻灯片转换为APNG以用于演示
+- 使用从PDF中提取的APNG动画进行Web发布
+- 需要**动画图表**的教育材料
+- 通过动画视觉效果增强电子学习平台
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的**PDF到APNG动画流程**
+- 批量将PDF插图转换为APNG序列
+- 用于数字出版的PDF到APNG工作流程
+- 企业级文档图形自动化
+- 面向内容平台的API驱动的PDF到APNG转换
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

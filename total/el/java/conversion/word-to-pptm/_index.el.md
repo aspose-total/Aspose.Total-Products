@@ -54,7 +54,26 @@ otherformats: PPS PPTM POTM PPTX PPT PPSM POT POTX POWERPOINT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε PPTM** επιτρέπει στο περιεχόμενο του Word να γίνει **αρχεία Macro-Enabled PowerPoint (PPTM)**, επιτρέποντας την αυτοματοποίηση και τις διαδραστικές λειτουργίες παρουσίασης.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Μακροενεργοποιημένες εταιρικές και επιχειρησιακές παρουσιάσεις
+- Διαδραστικά ακαδημαϊκά και εκπαιδευτικά διαφάνεια
+- Ροές εργασίας παρουσίασης με μακροενεργοποίηση βασισμένες σε πρότυπα
+- Αυτοματοποίηση ενημερώσεων κυβερνητικών και οργανωτικών ενημερώσεων
+- Επαναχρησιμοποιήσιμα πρότυπα παρουσιάσεων με μακροενεργοποίηση
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής από Word σε PPTM
+- Δημιουργία παρουσιάσεων με μακροενεργοποίηση σε παρτίδες
+- Αυτοματοποίηση διαδραστικών διαφανειών βασισμένη σε πρότυπα
+- Ροές εργασίας παρουσιάσεων με μακροενεργοποίηση υψηλής ποιότητας
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

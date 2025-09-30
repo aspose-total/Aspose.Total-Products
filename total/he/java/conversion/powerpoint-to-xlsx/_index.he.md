@@ -102,7 +102,26 @@ otherformats: XLSB ODS CSV XLS XLTX EXCEL TSV DIF XLAM MARKDOWN XLTM XLSM SXC XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-XLSX** מאפשרת ייצוא שקופיות כ **חדות Excel מודרניות**, התומכות בתכונות מתקדמות, שיתוף פעולה ודיווח עסקי.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+- המרת טבלאות ותרשימים של שקופיות לגיליונות עבודה מודרניים
+- דיווח וניתוח נתונים עסקיים
+- עריכה שיתופית עם תכונות של Excel 2007 ומעלה
+- ארכיבה של תוכן מצגת מובנה
+- הכנת דוחות נומריים או טקסטואליים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים משקופיות ל-XLSX
+- יצירת גיליונות עבודה בצורה צפופה ממצגות
+- שילוב עם מערכות BI עסקיות ודיווח
+- אוטומציה של תהליכי עבודה המופעלים על ידי שקופיות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów WORD chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **WORD do POWERPOINT** pozwala na płynną transformację dokumentów Worda w pełne prezentacje **PowerPoint**, łącząc treści tekstowe z wizualnymi slajdami do użytku w firmach, instytucjach akademickich i korporacjach.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Przekształcanie raportów Worda w prezentacje wizualne
+- Slajdy do prezentacji korporacyjnych i firmowych
+- Przygotowanie slajdów do badania akademickiego
+- Prezentacje dokumentów rządowych i politycznych
+- Generowanie slajdów zgodnie z szablonem na podstawie strukturalnej zawartości Worda
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane przepływy robocze slajdów z Worda do PowerPointa
+- Tworzenie zbiorcze prezentacji z raportów
+- Automatyzacja przepływów roboczych slajdów zgodnie z szablonem
+- Automatyzacja dokumentów na poziomie korporacyjnym do slajdów
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

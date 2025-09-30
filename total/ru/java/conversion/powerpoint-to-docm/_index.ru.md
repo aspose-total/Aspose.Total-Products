@@ -53,7 +53,26 @@ otherformats: TEXT DOTX DOCMX WORDML FLATOPC DOT ODT RTF WORD DOCM OTT DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в DOCM** позволяет экспортировать слайды в **документы Word с поддержкой макросов**, сохраняя автоматизацию и интерактивность в среде документа.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Сохранение макросов при передаче данных презентации
+- Создание интерактивных отчетов с помощью сценариев автоматизации
+- Шаблоны предприятия с встроенными функциями
+- Отчетность в соответствии с предопределенными макросами
+- Учебные или корпоративные документы, требующие динамического содержания
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры преобразования с сохранением макросов
+- Генерация документов с макросами на основе JSON/слайдов
+- Предприятий рабочие процессы с шаблонами, поддерживающими макросы
+- Упрощенное создание автоматизированных отчетов из слайдов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

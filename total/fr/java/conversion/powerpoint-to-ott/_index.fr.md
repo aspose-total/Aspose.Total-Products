@@ -53,7 +53,24 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PowerPoint en OTT** permet d'exporter les diapositives en **modèles de texte OpenDocument**, permettant la création de modèles réutilisables pour une documentation standardisée.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Création de modèles de texte réutilisables à partir de présentations  
+- Documentation d'entreprise ou académique standardisée  
+- Rapports basés sur des modèles et propositions de projets  
+- Archivage des structures de présentation sous forme de modèles  
+- Création de modèles éducatifs ou de formation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Génération automatisée de modèles de texte OpenDocument  
+- Intégration de flux de travail pour les bibliothèques de modèles d'entreprise  
+- Conversion par lots de diapositives en modèles réutilisables  
+- Automatisation de documents basée sur des modèles
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

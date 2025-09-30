@@ -57,7 +57,27 @@ Menggunakan API, Anda juga dapat memutar gambar TGA keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke TGA (Targa)** ideal untuk membuat **gambar raster berkualitas tinggi** dari halaman PDF untuk seni digital, game, dan produksi multimedia.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Ekstraksi seni digital dan ilustrasi
+- Generasi aset game dari konten PDF
+- Grafis raster berkualitas tinggi untuk proyek multimedia
+- Mengarsipkan grafis PDF sebagai gambar TGA
+- Konversi untuk alur kerja animasi dan efek visual
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Konversi batch PDF ke TGA otomatis**
+- Integrasi dengan media digital dan pipa game
+- Rasterisasi grafis PDF untuk efek visual
+- Otomatisasi alur kerja untuk produksi multimedia
+- Ekspor gambar PDF yang dapat diskalakan ke TGA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

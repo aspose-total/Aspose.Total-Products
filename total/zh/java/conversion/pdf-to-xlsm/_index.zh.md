@@ -49,7 +49,27 @@ otherformats: DIF ODS SXC FODS XLSB EXCEL MD XLT XLSM XLTM XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为XLSM**使组织能够直接从PDF数据生成**启用宏的Excel电子表格**。在线PDF转XLSM工具和自动化使企业能够在Excel文件中集成高级计算、脚本和工作流程。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 自动化财务预测模型
+- 具有可重复使用脚本的研究数据集
+- 嵌入宏的合规性检查
+- 企业智能仪表板
+- 企业电子表格自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 用于报告的自动化PDF到XLSM管道
+- 带有宏的批量XLSM生成
+- 从PDF报告转换财务模型
+- 具有启用宏的Excel的工作流自动化
+- 企业级宏集成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

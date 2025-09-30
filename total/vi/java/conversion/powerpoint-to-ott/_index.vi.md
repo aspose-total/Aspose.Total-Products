@@ -53,7 +53,26 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POWER
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang OTT** cho phép các slide được xuất dưới dạng **Mẫu Văn bản OpenDocument**, cho phép tạo các mẫu có thể tái sử dụng cho tài liệu chuẩn hóa.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tạo các mẫu văn bản có thể tái sử dụng từ các bài thuyết trình
+- Tài liệu chuẩn hóa cho doanh nghiệp hoặc học thuật
+- Báo cáo dựa trên mẫu và đề xuất dự án theo mẫu
+- Lưu trữ cấu trúc bài thuyết trình dưới dạng mẫu
+- Tạo mẫu giáo dục hoặc đào tạo
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- Tự động tạo ra các mẫu văn bản OpenDocument
+- Tích hợp quy trình làm việc cho thư viện mẫu doanh nghiệp
+- Chuyển đổi hàng loạt slide thành các mẫu có thể tái sử dụng
+- Tự động hóa tài liệu dựa trên mẫu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

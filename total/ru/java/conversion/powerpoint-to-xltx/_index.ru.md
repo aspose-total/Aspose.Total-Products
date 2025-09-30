@@ -61,7 +61,26 @@ otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT XLTX TSV XLAM MHTML FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в XLTX** позволяет экспортировать слайды в виде **современных шаблонов Excel**, создавая многоразовые шаблоны без макросов для стандартизированной отчетности предприятий или учебных заведений.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Современные многоразовые шаблоны Excel
+- Стандартизированная отчетность предприятий или учебных заведений
+- Архивирование презентаций в виде шаблонов рабочих книг
+- Подготовка проектных или отчетных шаблонов
+- Коллективное совместное использование и редактирование шаблонов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированное создание шаблонов XLTX из слайдов
+- Пакетное создание шаблонов
+- Интеграция с библиотеками предприятий для шаблонов
+- Автоматизация отчетности на основе шаблонов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

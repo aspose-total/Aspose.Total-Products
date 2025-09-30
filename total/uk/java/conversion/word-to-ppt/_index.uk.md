@@ -103,7 +103,26 @@ otherformats: PPS PPSX PPTX POWERPOINT POTX POT PPTM PPSM ODP POTM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **WORD в PPT** дозволяє експортувати документи Word у старі файли **PowerPoint (PPT)**, що робить текстовий контент готовим до презентацій для підприємств, корпорацій та академічного використання.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Створення презентацій Legacy PPT звітів у Word
+- Слайди для корпоративних та підприємницьких презентацій
+- Слайди для академічних досліджень та навчання
+- Презентації для урядових та організаційних заходів
+- Генерація слайдів за допомогою шаблонів зі структурованого вмісту Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані конвеєри слайдів з Word в PPT
+- Пакетне перетворення звітів Word у презентації
+- Автоматизація створення слайдів за допомогою шаблонів
+- Робочі процеси перетворення документів у слайди на рівні підприємства
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

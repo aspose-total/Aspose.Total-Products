@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为DOT**是一种强大的方法，可以直接从PDF生成**Word文档模板**。通过在线PDF转换为DOT工具和自动化工作流程，公司可以轻松保留品牌形象，保持一致性，并在部门间扩展模板使用。
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+- 公司文件模板创建
+- 需要统一结构的法律合同
+- 人力资源表格和入职包
+- 具有一致品牌形象的营销资料
+- 政府发布的标准化模板
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化PDF转换为DOT模板生成管道
+- 企业批量PDF转换为DOT
+- 公司模板的工作流自动化
+- 从PDF档案动态生成模板
+- 大规模文档标准化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

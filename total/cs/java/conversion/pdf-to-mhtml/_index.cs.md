@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na MHTML** (formát webové archivy) je zásadní pro přeměnu dokumentů na **jednosouborové HTML stránky s vestavěnými zdroji**. Tím se usnadňuje distribuce PDF jako souborů připravených pro web pro **archivaci, digitální publikování a prohlížení v prohlížeči**.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- PDF na MHTML pro archivaci webových stránek v jednom souboru
+- Převádění zpráv do prohlížitelných **webových archivů**
+- Podnikové pracovní postupy pro **distribuci dokumentů na bázi HTML**
+- Ukládání právních a dodržovacích dokumentů jako MHTML
+- Pracovní postupy digitálního publikování převádějící PDF do **formátů připravených pro web**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **potrubí PDF na MHTML**
+- Dávkové zpracování PDF do webových archivů
+- Integrace podnikového CMS pro výstupy MHTML
+- Automatizované pracovní postupy publikování s převodem PDF na MHTML
+- Převod PDF do **samostatných HTML archivů** v prohlížeči
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

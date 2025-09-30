@@ -61,7 +61,26 @@ otherformats: SXC XLSM ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น XLSM** ช่วยให้เอกสาร Word สามารถแปลงเป็น **Excel Macro-Enabled Workbooks (XLSM)** ซึ่งช่วยให้สามารถใช้การอัตโนมัติผ่าน VBA macros และเพิ่มประสิทธิภาพในการทำงานกับสเปรดชีต
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- สร้างรายงาน Excel ที่เปิดใช้งาน Macro จากข้อมูล Word
+- กระบวนการอัตโนมัติในองค์กร
+- ชุดข้อมูลวิจัยทางวิชาการที่มีการคำนวณโดยอัตโนมัติ
+- การแปลงเอกสารตามแม่แบบเป็นสเปรดชีต
+- รายงานโครงสร้างของรัฐบาลและบริษัท
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+- การสร้างรายงาน Excel ที่เปิดใช้งาน Macro จาก Word อัตโนมัติ
+- กระบวนการอัตโนมัติของการทำงานที่เปิดใช้งาน Macro
+- การสร้าง Macro Excel ตามแม่แบบ
+- กระบวนการอัตโนมัติเอกสารระดับองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

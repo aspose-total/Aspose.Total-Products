@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 Markdown (MD)** 可以从 PDF 中提取干净、轻量和便携的内容，适用于 **开发人员、作家和文档工作流程**。这确保了 PDF 报告或文章可以在 **基于 Markdown 的平台（如 GitHub、静态网站生成器或内容管理系统）** 中得到重复使用。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将 PDF 文章发布为 **Markdown 博客文章**
+- 将技术文档从 PDF 转换为 MD 以用于 GitHub
+- 为开发人员和开源项目提供文档工作流程
+- 将学术研究 PDF 转换为轻量的 Markdown 格式
+- 为 **静态网站生成器（Hugo、Jekyll 等）** 存储 PDF 内容
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的 **PDF 到 Markdown 管道**
+- 批量将报告转换为 MD 以便内容重用
+- CI/CD 工作流程将 PDF 转换为 Markdown 文档
+- 基于 API 的转换用于知识库平台
+- 从传统 PDF 自动迁移至 Markdown 存储库
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,27 @@ otherformats: DIF ODS SXC FODS XLSB EXCEL MD XLT XLSM XLTM XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى XLSM** يسمح للمؤسسات بإنشاء جداول بيانات Excel مع ماكرو مباشرة من بيانات PDF. تتيح أدوات تحويل PDF إلى XLSM عبر الإنترنت والأتمتة للشركات دمج الحسابات المتقدمة والنصوص وسير العمل في ملفات Excel.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- نماذج تنبؤ مالي آلي  
+- مجموعات بيانات بحثية مع نصوص قابلة لإعادة الاستخدام  
+- فحوصات الامتثال مع ماكروهات مضمنة  
+- لوحات معلومات الأعمال  
+- أتمتة جداول البيانات على مستوى المؤسسة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عمليات تحويل PDF إلى XLSM تلقائيًا للإبلاغ  
+- توليد دفعي لملفات XLSM مع ماكروهات  
+- تحويل نموذج مالي من تقارير PDF  
+- أتمتة سير العمل مع Excel مع ماكروهات ممكنة  
+- دمج الماكروهات على مستوى المؤسسة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

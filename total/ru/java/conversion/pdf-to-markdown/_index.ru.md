@@ -129,7 +129,25 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в Markdown (MD)** позволяет извлекать чистый, легкий и портативный контент из PDF для **разработчиков, писателей и документационных рабочих процессов**. Это обеспечивает возможность повторного использования PDF-отчетов или статей на **платформах на основе Markdown, таких как GitHub, статические генераторы сайтов или системы управления контентом**.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Публикация статей в PDF в качестве **блог-постов в Markdown**  
+- Миграция технических документов из PDF в MD для GitHub  
+- Рабочие процессы документирования для разработчиков и проектов с открытым исходным кодом  
+- Преобразование академических исследовательских PDF в легкий формат Markdown  
+- Хранение контента PDF для **статических генераторов сайтов (Hugo, Jekyll и т. д.)**  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **конвейеры PDF в Markdown**  
+- Пакетное преобразование отчетов в MD для повторного использования контента  
+- Рабочие процессы CI/CD, преобразующие PDF в документы Markdown  
+- Преобразование с использованием API для платформ базы знаний  
+- Автоматизированная миграция с устаревших PDF в репозитории Markdown  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

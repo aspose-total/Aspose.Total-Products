@@ -47,7 +47,27 @@ PDFファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをSXC（OpenOffice Calc Spreadsheet）に変換**することで、PDFから**オープンソースのスプレッドシート形式**に構造化されたデータを抽出し、さらなる分析、レポーティング、学術研究を可能にします。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 学術および研究データの抽出
+- オープンソースのスプレッドシートワークフロー（LibreOffice/OpenOffice）
+- 金融および科学データのレポーティング
+- PDFテーブルの編集可能なSXC形式への移行
+- 企業スプレッドシートのアーカイブおよび再利用
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからSXCへのデータパイプライン**
+- レポートおよびデータセットのバッチ変換
+- データ分析およびレポーティングシステムとの統合
+- 企業および学術ワークフローの自動化
+- PDFテーブルのオープンソーススプレッドシート形式への抽出
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

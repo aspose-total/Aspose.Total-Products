@@ -47,7 +47,27 @@ otherformats: XLTM FODS XLAM SXC XLT TSV XLSB XLTX TXT XLSM ODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PDF σε SXC (Λογιστικό Φύλλο OpenOffice Calc)** βοηθά στην εξαγωγή δομημένων δεδομένων από PDF σε **μορφή φύλλου υπολογιστή ανοικτού κώδικα**, επιτρέποντας περαιτέρω ανάλυση, αναφορά και ακαδημαϊκή έρευνα.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Εξαγωγή δεδομένων ακαδημαϊκής και ερευνητικής έρευνας
+- Ροές εργασίας φύλλου υπολογιστή ανοικτού κώδικα (LibreOffice/OpenOffice)
+- Αναφορά οικονομικών και επιστημονικών δεδομένων
+- Μεταφορά πινάκων PDF σε επεξεργάσιμη μορφή SXC
+- Αρχειοθέτηση και επαναχρησιμοποίηση φύλλων υπολογιστή επιχειρήσεων
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες **αγωγοί δεδομένων PDF σε SXC**
+- Μαζική μετατροπή αναφορών και συνόλων δεδομένων
+- Ενσωμάτωση με συστήματα ανάλυσης και αναφοράς δεδομένων
+- Αυτοματοποίηση ροών εργασίας επιχειρήσεων και ακαδημαϊκής κοινότητας
+- Εξαγωγή πινάκων PDF σε μορφές φύλλων υπολογιστή ανοικτού κώδικα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

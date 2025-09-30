@@ -54,7 +54,26 @@ otherformats: PPS PPSX PPTX POWERPOINT POTX POT PPTM PPSM PPT POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为PPT**允许将Word文档导出为传统的**PowerPoint（PPT）文件**，使文本内容适用于企业、公司和学术用途的演示文稿。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 从Word报告创建传统PPT演示文稿
+- 公司和企业简报幻灯片
+- 学术研究和教学幻灯片
+- 政府和组织演示文稿
+- 从结构化Word内容生成基于模板的幻灯片
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word到PPT幻灯片流程
+- 批量将Word报告转换为演示文稿
+- 基于模板的幻灯片自动化
+- 企业级文档到幻灯片工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

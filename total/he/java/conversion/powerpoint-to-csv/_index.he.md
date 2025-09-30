@@ -102,7 +102,26 @@ otherformats: MARKDOWN ODS XLS SXC TSV XLT XLTM XLTX DIF EXCEL MHTML FODS XLAM X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל־CSV** מאפשרת לייצא שקופיות כערכים מופרדים בפסיקים (**Comma-Separated Values**), מושלם לניתוח גיליון, אינטגרציה עם מסדי נתונים וזרימות נתונים מובנות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- חילוץ נתוני טבלה או תרשים לצורך ניתוח
+- ייבוא/ייצוא מסד נתונים לצורך דיווחים
+- שיתוף נתונים ואינטגרציה עסקית
+- ארכיבה של תוכן מובנה בשקופיות
+- הכנת דוחות מספריים או טבלאיים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות חילוץ אוטומטיים של שקופיות ל־CSV
+- עיבוד צ׳אט של מצגות מרובות
+- אינטגרציה עם מערכות BI וניתוחים
+- זרימות עבודה לדיווחים מבוססי נתונים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

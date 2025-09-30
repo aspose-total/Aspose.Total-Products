@@ -61,7 +61,26 @@ otherformats: SXC XLS FODS MHTML MARKDOWN XLTM XLSM XLT EXCEL DIF ODS XLAM XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 XLTM** 可使幻灯片成为 **带宏的 Excel 模板**，保留宏以用于重复自动报告和企业工作流程。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 带宏的可重复使用 Excel 模板
+- 嵌入自动化的标准化报告
+- 将演示文稿存档为带宏的模板
+- 用于企业的交互式项目模板
+- 教育和培训模板创建
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动幻灯片到 XLTM 转换流水线
+- 带宏的企业模板库创建
+- 批量生成带宏的模板
+- 模板驱动的自动报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

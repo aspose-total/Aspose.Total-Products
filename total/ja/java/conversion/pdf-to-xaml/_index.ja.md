@@ -135,7 +135,29 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## PDFをXAMLに変換する
+
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをXAMLに変換**することで、開発者や企業は文書レイアウトから**拡張可能なアプリケーションマークアップ言語ファイル**を生成できます。オンラインのPDFからXAMLへの変換ツールや自動化パイプラインを使用することで、企業はPDFをWPFアプリケーションやデジタル出版向けのUIリソースに変換できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- PDFレイアウトからのUIプロトタイピング  
+- 企業向けアプリケーション設計文書  
+- WPFアプリケーションリソースの生成  
+- インタラクティブなソフトウェア文書  
+- 構造化されたマークアップでのデジタル出版
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- UIフレームワーク向けの自動化されたPDFからXAMLへのパイプライン  
+- 企業向けの大量PDFからXAMLへの変換  
+- 設計文書のワークフロー統合  
+- PDFアーカイブからのアプリケーションプロトタイピング  
+- 企業向けソフトウェア文書の自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

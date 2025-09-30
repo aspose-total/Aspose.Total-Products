@@ -61,7 +61,26 @@ otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC TSV XLSX DIF XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى TSV** يسمح باستخراج البيانات الجدولية من Word إلى تنسيق **Tab-Separated Values (TSV)**، مما يضمن التوافق مع تحليلات البيانات وأنظمة قواعد البيانات وتطبيقات البيانات المهيكلة الأخرى.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تصدير جداول Word لمعالجة البيانات
+- التكامل مع تحليلات وأنظمة قواعد البيانات
+- التقارير الشركاتية والأرشفة المهيكلة
+- هجرة البيانات الجدولية الأكاديمية أو البحثية
+- استخراج البيانات الجدولية بناءً على القوالب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عمل Word-to-TSV الآلية
+- استخراج دفعي للتحليلات والتقارير
+- سير العمل الوثيق للمستندات
+- أتمتة البيانات الجدولية على مستوى المؤسسة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

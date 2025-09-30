@@ -47,7 +47,27 @@ Trong khi chuyển đổi tệp PDF sang XLAM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF thành XLAM** cho phép tạo các tệp **Excel Add-in** từ các macro hoặc hàm tùy chỉnh dựa trên PDF. Điều này rất hữu ích cho **mô hình tài chính tự động, báo cáo doanh nghiệp và cải thiện quy trình làm việc trên Excel**.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tạo macro và add-in Excel từ dữ liệu PDF
+- Mô hình tài chính tự động và công cụ báo cáo
+- Cải thiện quy trình làm việc trên bảng tính doanh nghiệp
+- Tự động hóa Excel dựa trên nghiên cứu hoặc học thuật
+- Phân phối mẫu Excel Add-in quy mô lớn
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- **Đường ống tự động hóa PDF thành XLAM add-in**
+- Xử lý hàng loạt cho các bảng tính tài chính và doanh nghiệp
+- Tích hợp với tự động hóa quy trình làm việc trên Excel
+- Đường ống báo cáo có khả năng chạy macro doanh nghiệp
+- Phân phối mở rộng các Excel add-in từ PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

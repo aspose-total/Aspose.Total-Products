@@ -102,7 +102,26 @@ otherformats: RTF OTT DOCX WORDML DOCM DOC DOT ODT WORD DOTX FLATOPC TEXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל- DOTM** מאפשרת לשקפים להפוך לתבניות Word עם מאקרו, ששומרות על אוטומציה אינטראקטיבית לשימוש עסקי או אקדמי חוזר.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תבניות ניתנות לשימוש חוזר עם מאקרו
+- תהליכי דיווח אוטומטיים תקניים
+- תקנות עסקיות ואקדמיות למסמכים
+- תבניות מסמכים אינטראקטיביות ממצגות
+- יצירת תבניות עם תקנות או תהליכים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירה אוטומטית של תבניות עם מאקרו
+- ספריות תבניות עסקיות עם אוטומציה
+- צינורות תבניות מאקרו מבוססי JSON או שקפים
+- אוטומציה של תהליכי עבודה לדיווחים באמצעות תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

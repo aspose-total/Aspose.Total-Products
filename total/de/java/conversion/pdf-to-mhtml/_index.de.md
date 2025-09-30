@@ -130,7 +130,27 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Umwandlung von **PDF in MHTML** (Webarchivformat) ist entscheidend, um Dokumente in **HTML-Seiten mit eingebetteten Ressourcen in einer einzigen Datei** zu transformieren. Dies ermöglicht eine einfache Verteilung von PDFs als webfertige Dateien für **Archivierung, digitale Veröffentlichung und browserbasierte Anzeige**.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- PDF in MHTML für die Archivierung als einzelne Webdatei
+- Umwandlung von Berichten in browseransichtbare **Webarchive**
+- Unternehmens-Workflows für die Verteilung von **HTML-basierten Dokumenten**
+- Speicherung von rechtlichen und Compliance-Dokumenten als MHTML
+- Workflows für die digitale Veröffentlichung, die PDFs in **webfertige Formate** umwandeln
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte **PDF-zu-MHTML-Pipelines**
+- Stapelverarbeitung von PDFs in Webarchive
+- Integration von Unternehmens-CMS für MHTML-Ausgaben
+- Automatisierte Veröffentlichungs-Workflows mit PDF-zu-MHTML-Konvertierung
+- Browserbasierte PDF-Konvertierung in **selbständige HTML-Archive**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

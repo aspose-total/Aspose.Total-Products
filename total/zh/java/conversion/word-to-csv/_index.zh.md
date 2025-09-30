@@ -61,7 +61,26 @@ otherformats: XLSX XLSM XLT SXC XLS XLTM FODS XLSB DIF XLTX XLAM EXCEL TSV ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为CSV**可从Word文档中提取表格数据，并转换为**逗号分隔值（CSV）**格式，使其可以用于分析、数据库导入和电子表格处理。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 将Word表格导出到电子表格或数据库系统
+- 在Word文档和分析工具之间交换数据
+- 以标准化、可移植的格式进行企业报告
+- 学术和研究数据准备
+- 将结构化的Word数据迁移用于归档或集成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word到CSV提取管道
+- 批量转换用于分析工作流程
+- 基于CSV的报告自动化
+- 与数据库和商业智能工具集成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

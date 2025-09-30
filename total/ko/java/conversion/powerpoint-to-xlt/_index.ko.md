@@ -61,7 +61,26 @@ POWERPOINT 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint을 XLT로 변환**하면 **레거시 Excel 템플릿**으로 슬라이드를 내보낼 수 있어 프레젠테이션 데이터로부터 재사용 가능한 템플릿을 만들어 표준화된 보고서를 작성할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션에서 재사용 가능한 Excel 템플릿 생성
+- 기업이나 학술 보고서 표준화
+- 슬라이드를 템플릿 워크북으로 아카이빙
+- 구조화된 프로젝트나 보고서 템플릿 준비
+- 오래된 Excel 버전을 위한 레거시 템플릿 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 슬라이드를 XLT 템플릿으로 생성
+- 기업 템플릿 라이브러리에 대한 워크플로 통합
+- 여러 프레젠테이션으로부터 일괄 템플릿 생성
+- 템플릿 기반 보고서 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

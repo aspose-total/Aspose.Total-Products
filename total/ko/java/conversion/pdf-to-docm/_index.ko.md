@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 DOCM으로 변환**하는 것은 기업이 정적 파일을 **매크로가 활성화된 워드 문서**로 변환해야 할 때 필수적입니다. 온라인 PDF를 DOCM으로 변환하거나 자동화된 파이프라인을 사용함으로써, 조직은 고급 워크플로우를 활성화하고 자동화 스크립트를 포함시키며 문서 관련 작업을 효율적으로 간소화할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 포함된 매크로로 문서 작업 자동화
+- 매크로가 구동되는 템플릿을 사용한 기업 보고서
+- 반복 가능한 계산이 필요한 금융 모델
+- 자동화 후크가 있는 비즈니스 프로세스 문서
+- 매크로 유효성 검사가 필요한 규제 보고서
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 규정 준수를 위한 온라인 및 일괄 PDF-to-DOCM 파이프라인
+- 자동화된 매크로가 활성화된 보고서 생성
+- 기업을 위한 대량 PDF를 DOCM으로 변환
+- 대화형 워드 파일을 위한 워크플로 자동화
+- 매크로 구동 문서 라이프사이클 관리
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

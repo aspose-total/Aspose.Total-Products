@@ -54,7 +54,26 @@ Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar POTX co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **WORD naar POTX** maakt het mogelijk om Word-inhoud om te zetten in **PowerPoint-sjablonen (POTX-bestanden)**, waardoor herbruikbare, macrovrije presentatiesjablonen voor zakelijk en academisch gebruik worden gecreëerd.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het maken van herbruikbare, macrovrije PowerPoint-sjablonen
+- Gestandaardiseerde zakelijke presentatiesjablonen
+- Voorbereiding van academische en onderzoeksdiavoorstellingen
+- Sjabloon-gestuurde bedrijfsrapportage en briefing
+- Workflowautomatisering voor dia's zonder macro's
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde generatie van Word-naar-POTX-sjablonen
+- Batchconversie voor hergebruik van sjablonen
+- Sjabloon-gestuurde automatiseringsworkflows voor dia's
+- Presentatiepijplijnen van zakelijke kwaliteit
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

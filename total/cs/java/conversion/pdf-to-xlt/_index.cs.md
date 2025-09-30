@@ -47,7 +47,27 @@ Při převodu souboru PDF na XLT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **PDF na XLT** pomáhá společnostem vytvářet **šablonové soubory Excelu**, které lze znovu použít při procesech reportování a zadávání dat. Automatizované toky převodu PDF na XLT podporují konzistenci firemního designu a standardizované formáty dat.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Firemní šablony pro reportování  
+- Formuláře pro akademický výzkum  
+- Finanční šablony pro vládu  
+- Tabulky pro správu inventáře  
+- Standardizované firemní dashboardy
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+- Toky šablon PDF na XLT pro podniky  
+- Automatizovaný převod formulářů do šablon Excelu  
+- Hromadná generace šablon z archivů PDF  
+- Automatizace pracovního postupu pro firemní tabulky  
+- Opakované využití šablon napříč celou firmou
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

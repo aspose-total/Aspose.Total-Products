@@ -57,7 +57,27 @@ otherformats: WMZ JPEG2000 SVGZ WMF TGA PSD DXF DICOM EMZ IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为DICOM**对医疗行业至关重要，医学影像和临床文档必须整合。这确保**PDF医疗报告**可以转换为**DICOM格式用于PACS服务器**、放射学工作流程和长期医院存档。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 医疗报告整合到DICOM影像系统中
+- 将PDF转换为DICOM以用于**放射学和心脏病学**报告
+- 医院PACS服务器存档和合规性
+- 在系统间共享结构化医疗数据
+- 标准化患者记录管理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- **PDF转换为DICOM医学影像**的自动化流程
+- 批量将PDF扫描转换为DICOM存档
+- 医院EMR/EHR与PDF转DICOM工作流程集成
+- 用于合规性的企业医学影像自动化
+- 安全、自动化的临床数据传输
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

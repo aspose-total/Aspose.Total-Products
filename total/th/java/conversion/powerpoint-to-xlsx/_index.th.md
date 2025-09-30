@@ -61,7 +61,26 @@ otherformats: XLSB ODS XLSX XLS XLTX EXCEL TSV DIF XLAM MARKDOWN XLTM XLSM SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น XLSX** ช่วยให้สไลด์สามารถส่งออกเป็น **สมุดงาน Excel รุ่นใหม่** ที่รองรับคุณสมบัติขั้นสูง การทำงานร่วมกัน และรายงานขององค์กร
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การแปลงตารางและแผนภูมิในสไลด์เป็นสเปรดชีตรุ่นใหม่
+- รายงานข้อมูลและการวิเคราะห์ข้อมูลขององค์กร
+- การแก้ไขร่วมกันด้วยคุณสมบัติ Excel 2007+
+- เก็บถาวรเนื้อหาการนำเสนอที่มีโครงสร้าง
+- เตรียมข้อมูลรายงานตัวเลขหรือข้อความ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- ท่อการแปลงสไลด์เป็น XLSX อัตโนมัติ
+- การสร้างสเปรดชีตเป็นชุดจากการนำเสนอ
+- การผสานกับระบบ BI และรายงานขององค์กร
+- การอัตโนมัติของขั้นตอนการทำงานที่มีการนำเสนอ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

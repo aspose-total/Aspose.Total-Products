@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 WORD 문서를 POTM로 변환할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 POTM으로 변환**하면 Word 콘텐츠로부터 **매크로가 활성화된 PowerPoint 템플릿(POTM) 파일**을 생성할 수 있어, 고급 자동화를 위한 매크로가 포함된 재사용 가능한 템플릿을 만들 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word로부터 매크로가 활성화된 프레젠테이션 템플릿 생성
+- 프레젠테이션 작성의 기업 자동화
+- 상호작용 요소가 포함된 학술 및 연구 템플릿
+- 기업용 재사용 가능한 브리핑 슬라이드
+- 자동화된 슬라이드를 위한 템플릿 기반 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- Word-to-POTM 자동화된 템플릿 파이프라인
+- 매크로가 활성화된 프레젠테이션 템플릿의 일괄 생성
+- 템플릿 기반의 슬라이드 덱 자동화
+- 기업용 프레젠테이션 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

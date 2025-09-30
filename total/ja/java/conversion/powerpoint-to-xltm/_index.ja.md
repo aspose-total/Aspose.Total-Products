@@ -61,7 +61,26 @@ POWERPOINTファイルをXLTMに変換するときに、出力XLTMファイル�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをXLTMに変換**することで、スライドを**マクロ有効なExcelテンプレート**に変換し、繰り返しの自動報告やエンタープライズワークフローでマクロを保存します。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- マクロ有効な再利用可能なExcelテンプレート
+- 組み込み自動化による標準化された報告
+- マクロ有効なテンプレートとしてプレゼンテーションをアーカイブ
+- エンタープライズ利用向けのインタラクティブなプロジェクトテンプレート
+- 教育およびトレーニング用テンプレートの作成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- スライドからXLTMへの自動変換パイプライン
+- マクロを含むエンタープライズテンプレートライブラリの作成
+- バッチ処理によるマクロ有効なテンプレートの生成
+- テンプレート駆動の自動報告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,27 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+A PDF átalakítása WORDML formátummá fontos a WordprocessingML (XML-alapú Word dokumentumok) előállításához PDF fájlokból. Az online PDF-ből WordML eszközök és automatizálás biztosítja a strukturált, XML-kompatibilis dokumentumokat, amelyek készen állnak az archiválásra, közzétételre és vállalati munkafolyamatokra.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Adatcsere rendszerek között
+- Vállalati dokumentumtárolás
+- Sablon alapú dokumentumgenerálás
+- Kormányzati digitális archívumok
+- Strukturált tudományos kiadványok
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Strukturált jelentésekhez automatizált PDF-to-WordML csővezetékek
+- XML dokumentumok generálása PDF fájlokból
+- Tömeges WordML munkafolyamatok vállalatok számára
+- Digitális archívum integráció XML formátumokhoz
+- Vállalati szintű strukturált jelentések
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

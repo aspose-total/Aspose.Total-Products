@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたWORDドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをPOTMに変換**することで、Wordコンテンツから**マクロ有効なPowerPointテンプレート（POTMファイル）**を作成し、高度な自動化のためのマクロ付き再利用可能なテンプレートを作成できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- Wordからマクロ有効なプレゼンテーションテンプレートの生成
+- プレゼンテーション作成におけるエンタープライズ自動化
+- インタラクティブ要素を備えた学術および研究用テンプレート
+- 企業向け再利用可能なブリーフィングスライド
+- 自動化されたスライドのためのテンプレート駆動ワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- WordからPOTMへの自動化されたテンプレートパイプライン
+- マクロ有効なプレゼンテーションテンプレートの一括作成
+- テンプレート駆動のスライドデッキ自動化
+- エンタープライズグレードのプレゼンテーションワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -121,7 +121,25 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Att konvertera **PDF till OTP** är viktigt för att generera **OpenDocument Presentation Template-filer**, vilket möjliggör återanvändbara slide-mallar över företag, utbildningsinstitutioner och offentliga organ.
+{{% blocks/products/pf/agp/feature-section-col title="Viktiga användningsfall" %}}
+- Standardiserade företagspresentationmallar
+- Akademiska föreläsningsmallar
+- Kommunikations- och utbildningsmoduler för regeringen
+- Presentationarkiv för NGO:er
+- Samarbetsinriktade designarbetsflöden
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+- Automatiserade konverteringspipelines för PDF till OTP
+- Automatisering av presentationer baserat på mallar
+- Batch-generering av mallar från arkiverade PDF:er
+- Integrering av arbetsflöden med LibreOffice Impress
+- Centraliserade mallarkiv för organisationer
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

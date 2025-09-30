@@ -47,7 +47,27 @@ otherformats: XLSB MD TXT XLTX XLAM FODS TSV XLT DIF EXCEL SXC XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в XLT** помогает компаниям создавать **файлы шаблонов Excel**, которые можно повторно использовать в отчетности и процессах ввода данных. Автоматизированные конвейеры PDF в XLT поддерживают единообразие бренда и стандартизированные форматы данных.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Шаблоны корпоративной отчетности
+- Формы для академических исследований
+- Шаблоны финансовых отчетов государственных органов
+- Таблицы управления запасами
+- Стандартизированные корпоративные панели управления
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Конвейеры шаблонов PDF в XLT для предприятий
+- Автоматизированное преобразование форм в шаблоны Excel
+- Пакетная генерация шаблонов из архивов PDF
+- Автоматизация рабочего процесса для корпоративных таблиц
+- Повторное использование шаблонов на всем предприятии
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

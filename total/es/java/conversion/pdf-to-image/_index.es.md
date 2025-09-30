@@ -57,7 +57,25 @@ Usando la API, también puede rotar la imagen IMAGE de salida según sus necesid
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PDF a IMAGEN** es uno de los flujos de trabajo más comunes, lo que permite convertir documentos en varios formatos de imagen como PNG, JPG o TIFF. Esto facilita el uso de los PDF en entornos de **publicación web, archivado y presentación digital**.
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+- Archivar documentos PDF como archivos de imagen
+- Incrustar páginas PDF en sitios web como PNG o JPG
+- Crear miniaturas y previsualizaciones a partir de PDF
+- Integrar PDF en presentaciones y diapositivas digitales
+- Almacenamiento basado en imágenes para cumplimiento y auditorías
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+- **Tuberías de lotes automatizadas de PDF a IMAGEN**
+- Flujos de trabajo de PDF a PNG o JPG para plataformas web
+- Generación de imágenes de vista previa para sistemas de gestión de documentos
+- PDF a TIFF de varias páginas para archivado empresarial
+- Conversión automatizada de PDF a IMAGEN basada en API
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT XLTX TSV XLAM MHTML FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε XLTX** επιτρέπει την εξαγωγή διαφανειών ως **σύγχρονα πρότυπα Excel**, δημιουργώντας επαναχρησιμοποιήσιμα πρότυπα χωρίς μακροεντολές για τυποποιημένη επιχειρησιακή ή ακαδημαϊκή αναφορά.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Σύγχρονα επαναχρησιμοποιήσιμα πρότυπα Excel
+- Τυποποιημένη επιχειρησιακή ή ακαδημαϊκή αναφορά
+- Αρχειοθέτηση παρουσιάσεων ως πρότυπα εργασιακών βιβλίων
+- Προετοιμασία προτύπων έργου ή αναφοράς
+- Κοινόχρηστη κοινοποίηση και επεξεργασία προτύπων
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένη δημιουργία προτύπων XLTX από διαφάνειες
+- Ροές εργασίας δημιουργίας προτύπων σε πακέτα
+- Ενσωμάτωση με βιβλιοθήκες επιχειρησιακών προτύπων
+- Αυτοματισμός αναφοράς με βάση πρότυπα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

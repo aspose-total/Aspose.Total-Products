@@ -57,7 +57,27 @@ API를 사용하여 필요에 따라 출력 DXF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 DXF로 변환**하는 것은 정적 문서를 **AutoCAD 호환 도면**으로 변환해야 하는 엔지니어, 건축가 및 디자이너들에게 중요합니다. 이를 통해 **PDF 도면**을 건설, 제조 및 3D 디자인을 위한 CAD 워크플로에 매끄럽게 재사용할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF에서 DXF로 건축 도면 변환
+- CAD 소프트웨어에서 엔지니어링 도면 재사용
+- CAD 호환 입력이 필요한 제조 워크플로
+- PDF 도면을 DXF 형식으로 이관
+- 팀 간 협업적인 디자인 공유
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-DXF CAD 파이프라인**
+- 건설 프로젝트를 위한 일괄 PDF 도면 변환
+- 제조 도면을 위한 PDF to DXF 자동화
+- 기업 엔지니어링 시스템을 위한 DXF 내보내기 워크플로
+- PDF 입력을 통합하는 확장 가능한 CAD 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

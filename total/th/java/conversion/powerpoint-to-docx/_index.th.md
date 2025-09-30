@@ -53,7 +53,26 @@ otherformats: WORD DOCX ODT WORDML DOT DOCXM DOTX DOTM FLATOPC RTF TEXT OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น DOCX** ช่วยให้สามารถส่งออกงานนำเสนอเป็น **รูปแบบ Word ที่ทันสมัย**, ทำให้เข้ากันได้กับคุณสมบัติ Word ปัจจุบันและเครื่องมือสร้างสรรค์
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การแปลงสไลด์เป็นเอกสาร Word ที่สามารถแก้ไขได้
+- การทำงานร่วมกันของทีมในเนื้อหางานนำเสนอ
+- เตรียมเอกสารรายงานหรือเอกสารฝึกอบรม
+- เก็บถาวรในรูปแบบ DOCX ที่รองรับอย่างกว้างขวาง
+- เอกสารโครงสร้างจากสไลด์เด็ก
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- ได้รับการแปลงสไลด์เป็น DOCX ในชุดงาน
+- การนำเนื้อหาอัตโนมัติใหม่สำหรับองค์กร
+- การสร้างรายงานจากสไลด์
+- การผสานกับระบบจัดการเนื้อหา
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

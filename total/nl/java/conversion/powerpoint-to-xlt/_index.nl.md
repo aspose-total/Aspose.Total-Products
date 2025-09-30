@@ -61,7 +61,26 @@ Tijdens het converteren van een POWERPOINT-bestand naar XLT, kunt u ook een wate
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PowerPoint naar XLT** maakt het exporteren van dia's mogelijk als **oude Excel-sjablonen**, waardoor herbruikbare sjablonen van presentatiedata voor gestandaardiseerde rapportage ontstaan.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het maken van herbruikbare Excel-sjablonen van presentaties
+- Standaardiseren van bedrijfs- of academische rapportage
+- Archiveren van dia's als sjabloonwerkboeken
+- Voorbereiden van gestructureerde project- of rapportagesjablonen
+- Oude sjablooncreatie voor oudere Excel-versies
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde dia-naar-XLT-sjabloon generatie
+- Workflow-integratie voor bedrijfssjabloonbibliotheken
+- Batch-sjablooncreatie vanuit meerdere presentaties
+- Rapportageautomatisering op basis van sjablonen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

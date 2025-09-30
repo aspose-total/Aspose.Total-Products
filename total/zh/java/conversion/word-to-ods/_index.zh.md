@@ -61,7 +61,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为ODS**允许将Word内容导出为**OpenDocument电子表格（ODS）格式**，使结构化表格数据可用于电子表格分析和协作工作流程。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将Word表格导出为ODS以进行分析
+- 在OpenDocument格式中进行互操作性报告
+- 企业和政府电子表格工作流程
+- 学术数据处理和存档
+- 将结构化表格数据迁移到现代电子表格系统
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word到ODS转换流水线
+- 企业级结构化报告
+- 电子表格驱动的工作流自动化
+- 基于模板的文档到电子表格生成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

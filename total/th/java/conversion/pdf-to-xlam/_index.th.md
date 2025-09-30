@@ -47,7 +47,28 @@ otherformats: EXCEL XLT SXC XLTX TXT TSV DIF XLAM XLSB FODS XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น XLAM** ช่วยให้สามารถสร้าง **ไฟล์ Excel Add-in** จากแมโครสเปรดชีตที่มี PDF หรือฟังก์ชันที่กำหนดเองได้ ซึ่งมีประโยชน์อย่างมากสำหรับ **โมเดลการเงินอัตโนมัติ, รายงานขององค์กร, และการปรับปรุงการทำงานใน Excel**.
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การสร้างแมโครและ Add-in ใน Excel จากข้อมูลใน PDF
+- โมเดลการเงินและเครื่องมือรายงานอัตโนมัติ
+- การปรับปรุงการทำงานในสเปรดชีตขององค์กร
+- การอัตโนมัติใน Excel ที่เกี่ยวข้องกับงาน
+- การอัตโนมัติใน Excel ที่เกี่ยวข้องกับงานทางวิชาการหรือวิจัย
+- การกระจายเทมเพลต Excel Add-in ขนาดใหญ่จาก PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+- ท่อประมวลผลอัตโนมัติ **PDF-to-XLAM add-in**
+- การประมวลผลเป็นชุดสำหรับสเปรดชีตทางการเงินและองค์กร
+- การผสานกับการปรับปรุงการทำงานใน Excel อัตโนมัติ
+- ท่อรายงานที่เปิดใช้งานแมโครขององค์กร
+- การกระจายขนาดใหญ่ของ Excel Add-in จาก PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

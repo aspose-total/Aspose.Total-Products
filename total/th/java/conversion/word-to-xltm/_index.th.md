@@ -61,7 +61,26 @@ otherformats: XLSB XLS XLAM EXCEL DIF XLTM FODS SXC XLTX XLT XLSM TSV ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น XLTM** ช่วยให้เอกสาร Word สามารถแปลงเป็นไฟล์ **Macro-Enabled Excel Template (XLTM)** ซึ่งสามารถใช้ในการอัตโนมัติ มาโคร และเทมเพลตสเปรดชีตที่ใช้ซ้ำสำหรับการทำงานขององค์กร
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- สร้างเทมเพลต Excel ที่ใช้มาโครจาก Word
+- รายงานขององค์กรด้วยการอัตโนมัติ
+- การทำงานทางวิชาการและวิจัยโดยใช้มาโคร
+- การสร้างสเปรดชีตที่ใช้มาโครตามเทมเพลต
+- รายงานโครระดับองค์กรและรัฐบาล
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+- ท่องไป Word-to-XLTM อัตโนมัติ
+- การอัตโนมัติขับเคลื่อนการทำงานที่ใช้มาโคร
+- การสร้างเทมเพลตที่ใช้มาโครซ้ำได้เป็นชุด
+- รายงานและการทำงานที่ใช้มาโครขององค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

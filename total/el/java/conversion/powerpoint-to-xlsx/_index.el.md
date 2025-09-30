@@ -61,7 +61,26 @@ otherformats: XLSB ODS XLSX XLS XLTX EXCEL TSV DIF XLAM MARKDOWN XLTM XLSM SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε XLSX** επιτρέπει την εξαγωγή διαφανειών ως **σύγχρονα Excel αρχεία**, υποστηρίζοντας προηγμένες λειτουργίες, συνεργασία και επιχειρησιακή αναφορά.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Μετατροπή πινάκων και γραφημάτων διαφανειών σε σύγχρονα φύλλα εργασίας
+- Αναφορά και ανάλυση δεδομένων επιχείρησης
+- Συνεργατική επεξεργασία με χαρακτηριστικά Excel 2007+
+- Αρχειοθέτηση δομημένου περιεχομένου παρουσιάσεων
+- Προετοιμασία αριθμητικών ή κειμενικών αναφορών
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής διαφανειών σε XLSX
+- Δημιουργία πακέτων φύλλων εργασίας από παρουσιάσεις
+- Ενσωμάτωση με επιχειρησιακά συστήματα BI και αναφοράς
+- Αυτοματισμός ροών εργασίας με τη χρήση διαφανειών
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -105,7 +105,27 @@ otherformats: SVGZ APNG JPEG2000 WMF IMAGE PSD  WMZ EMZ DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-TGA (Targa)** היא אידיאלית ליצירת **תמונות רסטר באיכות גבוהה** מעמודי PDF לצורכי אמנות דיגיטלית, משחקים והפקת מדיה מרובת תחומים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- חילוץ אמנות דיגיטלית ואיורים
+- יצירת נכסי משחק מתוך תוכן PDF
+- גרפיקה רסטר באיכות גבוהה לפרויקטים מרובי מדיה
+- ארכיבה של גרפיקה מ- PDF כתמונות TGA
+- המרה לצורך זרימות עבודה של אנימציה ואפקטים חזותיים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **המרת קובצי PDF ל-TGA בצורת סדרה** אוטומטית
+- שילוב עם צינורות עבודה דיגיטליים ומשחקים
+- רסטריזציה של גרפיקה מ- PDF לצורך אפקטים חזותיים
+- אוטומציה של זרימות עבודה להפקת מדיה מרובי תחומים
+- ייצוא תמונת PDF נפתח ל-TGA בצורה נפתחת
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

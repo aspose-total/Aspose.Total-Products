@@ -61,7 +61,26 @@ otherformats: EXCEL MARKDOWN XLSX ODS XLS DIF XLT FODS MHTML XLTM TSV XLAM XLSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى MARKDOWN** يسمح بتصدير الشرائح إلى تنسيق **Markdown**، مثالي للوثائق الخفيفة، ومُنشئي المواقع الثابتة، وإصدارات المحتوى.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل محتوى العروض التقديمية للمواقع الإلكترونية أو المدونات
+- وثائق نصية خفيفة الوزن
+- أرشفة الشرائح في تنسيقات تحكم الإصدارات
+- تدوين الملاحظات بشكل تعاوني ومشاركة المحتوى
+- مواد تعليمية للمطورين وكتاب النصوص التقنية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+- أنابيب عمل تحويل الشرائح إلى Markdown تلقائيًا
+- التكامل مع مُنشئي المواقع الثابتة مثل Hugo أو Jekyll
+- تحويل دُفعي للعروض التقديمية إلى Markdown
+- سير العمل الخاص بالوثائق لقواعد معرفية المؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

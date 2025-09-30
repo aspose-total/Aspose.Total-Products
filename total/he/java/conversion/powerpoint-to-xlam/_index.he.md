@@ -102,7 +102,26 @@ otherformats: XLTM XLSB XLSM SXC XLTX DIF ODS TSV XLS MHTML MARKDOWN FODS XLT XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-XLAM** מאפשרת לייצא שקופיות לתוסף **Excel המאופשר במקרו**, שמאפשר אוטומציה ופונקציות חוזרות המגיעות מנתוני המצגת.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תוספי Excel עם מאקרוים המופעלים על ידי המצגת
+- אוטומציה של פונקציות דיווח על סמך שקופיות
+- אינטגרציה בזרם העבודה הארגוני עם אוטומציה ב-Excel
+- ספריות מאקרו חוזרות מנתוני המצגת
+- ייעול משימות גיליון האלקטרוני החוזרות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירת תוספי XLAM מופעלים אוטומטית ממצגות
+- זרימות עבודה בצורת מאקרו משקופיות ל-Excel בצפצוף
+- אינטגרציה עם צינורות דיווח ארגוניים
+- אוטומציה ב-Excel המופעלת על ידי שקופיות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

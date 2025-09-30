@@ -54,7 +54,24 @@ L'API vous permet également de convertir des documents WORD protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **WORD en PPT** permet d'exporter des documents Word en fichiers **PowerPoint (PPT) hérités**, rendant le contenu textuel prêt à être présenté pour une utilisation en entreprise, en milieu corporatif et académique.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Création de présentations PPT héritées à partir de rapports Word
+- Diapositives de briefing corporatives et d'entreprise
+- Diapositives de recherche et d'enseignement académiques
+- Présentations gouvernementales et organisationnelles
+- Génération de diapositives basée sur des modèles à partir de contenu structuré dans Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines de diapositives Word vers PPT automatisés
+- Conversion en lot de rapports Word en présentations
+- Automatisation de la création de decks de diapositives basée sur des modèles
+- Workflows de conversion de documents en diapositives de qualité entreprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

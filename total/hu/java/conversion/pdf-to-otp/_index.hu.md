@@ -121,7 +121,27 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **OTP-fájlok PDF formátumba való átalakítása** fontos az **OpenDocument Presentation Template fájlok** létrehozásához, amelyek lehetővé teszik az újrafelhasználható diavetítési sablonokat vállalatokban, oktatási intézményekben és kormányzati szerveknél.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Szabványosított vállalati bemutató sablonok
+- Akadémiai előadássorozat sablonok
+- Kormányzati kommunikációs és képzési modulok
+- NGO-bemutató archívumok
+- Együttműködéses tervezési munkafolyamatok
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- PDF-OTP automatizált konverziós csatornák
+- Sablonalapú bemutató automatizálás
+- Tömeges sablon generálás archivált PDF-ekből
+- Munkafolyamat integráció a LibreOffice Impress-szel
+- Központosított sablonraktárak szervezetek számára
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

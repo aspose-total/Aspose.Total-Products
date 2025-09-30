@@ -57,7 +57,25 @@ Usando a API, você também pode girar a imagem PSD de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para PSD** permite aos designers transformar **gráficos em PDF para o formato Adobe Photoshop**, possibilitando edição em camadas e melhorias no fluxo de trabalho criativo.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Edição de ilustrações em PDF no Photoshop
+- Conversão de infográficos e ativos de marketing
+- Fluxo de trabalho de design preservando camadas para equipes criativas
+- Preparação de conteúdo em PDF para campanhas de mídia digital
+- Arquivamento de gráficos em PDF no formato PSD editável
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Conversão em lote automatizada de **PDF para PSD**
+- Integração de fluxo de trabalho de design para estúdios criativos
+- Processamento de PDF para Photoshop orientado por API
+- Pipelines de automação de gráficos empresariais
+- Extração automatizada de camadas de arquivos PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

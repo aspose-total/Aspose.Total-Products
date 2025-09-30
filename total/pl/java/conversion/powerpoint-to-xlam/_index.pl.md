@@ -61,7 +61,26 @@ Podczas konwertowania pliku POWERPOINT do XLAM możesz również dodać znak wod
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do XLAM** pozwala na eksport slajdów do **dodatków Excel z obsługą makr**, umożliwiając automatyzację i ponowne wykorzystanie funkcji pochodzących z danych prezentacji.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Tworzenie dodatków Excel z makrami sterowanymi prezentacją
+- Automatyzacja funkcji raportowania opartych na slajdach
+- Integracja przepływów pracy przedsiębiorstwa z automatyzacją w Excelu
+- Biblioteki makr do ponownego wykorzystania z danych prezentacji
+- Usprawnianie powtarzalnych zadań arkusza kalkulacyjnego
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne generowanie dodatków XLAM z prezentacji
+- Przetwarzanie wsadowe makr slajdów do Excela
+- Integracja z potokami raportowania przedsiębiorstwa
+- Automatyzacja sterowana slajdami w Excelu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

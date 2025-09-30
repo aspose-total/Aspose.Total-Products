@@ -61,7 +61,26 @@ otherformats: TSV XLTM XLSX MARKDOWN XLT XLSB MHTML DIF XLS XLSM ODS SXC EXCEL X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น XLS** ช่วยให้สไลด์สามารถส่งออกเป็น **ไฟล์งาน Excel เวอร์ชันเก่า 97–2003** ซึ่งรองรับความเข้ากันได้กับระบบสเปรดชีตเก่า
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- ความเข้ากันได้กับสเปรดชีตเก่า
+- การเก็บข้อมูลตารางและแผนภูมิในงานนำเสนอ
+- รายงานขององค์กรในรูปแบบ Excel เวอร์ชันเก่า
+- การแบ่งปันข้อมูลระหว่างแพลตฟอร์ม
+- เตรียมรายงานโครงสร้างสำหรับระบบเก่า
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การแปลงสไลด์เป็น XLS จำนวนมาก
+- การผสานกับขั้นตอนการทำงานของรายงานเก่า
+- การสกัดข้อมูลตารางจากงานนำเสนอโดยอัตโนมัติ
+- การเก็บข้อมูลโครงสร้าง
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

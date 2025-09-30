@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konverze **PDF na PCL (Printer Command Language)** je široce používána v tiskových pracovních postupech, kde musí být PDF přeloženy do **PCL příkazů pro firemní tiskárny**. To zajistí kompatibilitu s **tiskem ve vysokém objemu v kancelářích, dokumentací veřejné správy a firemními dávkovými tiskovými úlohami**.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Firemní tiskové pracovní postupy převádějící PDF na PCL
+- Úřady veřejné správy používající PCL pro bezpečný tisk
+- Firemní prostředí s tiskem ve vysokém objemu
+- Dávkové tiskové úlohy vyžadující **PCL-kompatibilní vstup**
+- Pracovní postupy PDF na PCL pro dodržování předpisů a auditů
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **tiskové potrubí PDF na PCL**
+- Dávkový tisk PDF s výstupem PCL
+- Integrace firemního tiskového serveru s nástroji pro PDF na PCL
+- Automatizace pracovních postupů pro tisk ve veřejné správě a firemním prostředí
+- Tisk ve vysokém objemu z archivů PDF s automatizací
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ POWERPOINT 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 XLAM으로 변환**하면 **매크로가 활성화된 Excel 추가 기능**으로 슬라이드를 내보낼 수 있어 프레젠테이션 데이터에서 파생된 자동화 및 재사용 가능한 기능을 제공합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션 기반 매크로를 사용한 Excel 추가 기능 생성
+- 슬라이드를 기반으로 한 보고 기능 자동화
+- Excel 자동화를 통한 기업 워크플로 통합
+- 프레젠테이션 데이터로부터 재사용 가능한 매크로 라이브러리
+- 반복적인 스프레드시트 작업을 간소화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 프레젠테이션에서 XLAM 추가 기능의 자동 생성
+- 슬라이드를 Excel로 일괄 변환하는 매크로 워크플로
+- 기업 보고 파이프라인과의 통합
+- Excel에서 슬라이드 기반 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

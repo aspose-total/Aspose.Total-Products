@@ -47,7 +47,25 @@ PDF dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF**'yi **SXC'ye (OpenOffice Calc Elektronik Tablo)** dönüştürmek, PDF'lerden yapılandırılmış verileri **açık kaynak elektronik tablo formatına** çıkarmaya yardımcı olur, böylece daha fazla analiz, raporlama ve akademik araştırma yapılabilir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Akademik ve araştırma veri çıkarma
+- Açık kaynak elektronik tablo iş akışları (LibreOffice/OpenOffice)
+- Finansal ve bilimsel veri raporlama
+- PDF tablolarının düzenlenebilir SXC formatına dönüştürülmesi
+- Kurumsal elektronik tablo arşivleme ve yeniden kullanım
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Otomatik **PDF'den SXC'ye veri boru hatları**
+- Rapor ve veri kümelerinin toplu dönüşümü
+- Veri analizi ve raporlama sistemleriyle entegrasyon
+- Kurumsal ve akademik iş akışı otomasyonu
+- PDF tablolarının açık kaynak elektronik tablo formatlarına çıkartılması
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

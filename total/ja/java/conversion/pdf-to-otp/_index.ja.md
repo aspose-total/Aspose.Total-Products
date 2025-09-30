@@ -121,7 +121,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをOTPに変換**することは、**OpenDocument Presentation Templateファイル**を生成するために重要であり、企業、教育機関、政府機関間で再利用可能なスライドテンプレートを可能にします。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 標準化された企業プレゼンテーションテンプレート
+- 学術講義シリーズのテンプレート
+- 政府のコミュニケーションおよびトレーニングモジュール
+- NGOのプレゼンテーションアーカイブ
+- 協力的なデザインワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- PDFからOTPへの自動変換パイプライン
+- テンプレートベースのプレゼンテーション自動化
+- アーカイブされたPDFからの一括テンプレート生成
+- LibreOffice Impressとのワークフロー統合
+- 組織向けの中央集権化されたテンプレートリポジトリ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

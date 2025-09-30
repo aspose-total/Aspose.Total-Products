@@ -102,7 +102,26 @@ otherformats: CSV XLS ODS XLSB FODS XLT XLSX DIF XLTM XLTX XLSM EXCEL SXC TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-XLAM** היא מרכזית להמרת תוכן Word לקבצי **תוסף Excel**, שמאפשרים אוטומציה, מאקרוס, ואינטגרציה עם זרימות עבודה ב-Excel תוך ניצול נתוני מסמך מובנים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תוספי Excel מתבניות ב-Word
+- אינטגרציה של מסמכי חברה לאוטומציה ב-Excel
+- דיווחים מאקרו מבוססים על פיננסים ועסקים
+- אינטגרציה של זרימות עבודה אקדמיות או מחקריות
+- אוטומציה של מערכת ישנה באמצעות תוספי המקור של Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- הפיכת Word ל-XLAM יצירת תוסף אוטומטי
+- יצירת זרימות עבודה מאקרו בהתאמה לתבנית
+- דיווחים עסקיים ואוטומציה של משימות
+- צינורות אוטומציה ב-Excel המופעלים על ידי מסמכים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

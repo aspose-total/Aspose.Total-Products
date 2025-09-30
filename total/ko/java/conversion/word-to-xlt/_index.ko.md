@@ -61,7 +61,26 @@ WORD를 XLT로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 XLT로 변환**하면 Word 콘텐츠를 **Excel 템플릿 (XLT)** 파일로 저장할 수 있어 기업, 학술, 혹은 금융 워크플로에 재사용 가능한 스프레드시트 템플릿을 만들 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 테이블에서 재사용 가능한 Excel 템플릿 생성
+- 기업 및 기관 보고서 템플릿
+- 학술 및 연구 구조화된 데이터 템플릿
+- 정부 및 금융 보고서 표준화
+- 템플릿 기반 문서-스프레드시트 워크플로
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-XLT 템플릿 생성
+- 템플릿 기반 스프레드시트 워크플로 자동화
+- 재사용 가능한 Excel 템플릿 일괄 생성
+- 기업급 보고서 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

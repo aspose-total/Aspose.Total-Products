@@ -47,7 +47,27 @@ Trong khi chuyển đổi tệp PDF sang TSV, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang TSV** là quan trọng để tạo ra **giá trị được phân tách bằng tab** để bảo tồn dữ liệu sạch, dựa trên cột. Với các công cụ chuyển đổi PDF sang TSV và tự động hóa, các tổ chức đảm bảo tính tương thích với cơ sở dữ liệu, bảng tính và các công cụ nghiên cứu.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Bộ dữ liệu nghiên cứu học thuật
+- Bảng dữ liệu sinh học và khoa học
+- Kết quả khảo sát nghiên cứu thị trường
+- Lưu trữ thống kê của chính phủ
+- Trao đổi dữ liệu có cấu trúc giữa các hệ thống
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- Quy trình làm việc chuyển đổi PDF sang TSV tự động cho phòng thí nghiệm nghiên cứu
+- Tạo TSV hàng loạt cho báo cáo có cấu trúc
+- Tích hợp với đường ống tiếp nhận cơ sở dữ liệu
+- Chuẩn bị dữ liệu cho các nền tảng phân tích
+- Tự động hóa dữ liệu bảng lớn
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

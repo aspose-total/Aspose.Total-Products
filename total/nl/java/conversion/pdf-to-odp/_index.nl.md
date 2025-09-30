@@ -121,7 +121,27 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PDF naar ODP** is cruciaal voor het maken van **bewerkbare presentatiebestanden in het OpenDocument Presentatieformaat**. Dit is zeer gunstig voor zakelijke presentaties, educatieve dia's en samenwerkingsomgevingen waar compatibiliteit met open standaarden belangrijk is.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Delen van educatieve en academische dia's
+- Zakelijke vergaderingen en presentaties volgens open standaarden
+- Documentatie voor overheid en NGO's
+- Samenwerkingsprojecten met behulp van LibreOffice Impress
+- Langetermijnarchivering van presentatie-inhoud
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde PDF-naar-ODP-pijplijnen voor instellingen
+- Batchverwerking van presentaties voor bedrijven
+- Integratie van workflows op basis van OpenDocument
+- Geautomatiseerde generatie van presentaties vanuit PDF's
+- Schaalbare digitale presentatiearchieven
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

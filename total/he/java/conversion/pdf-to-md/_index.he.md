@@ -102,7 +102,27 @@ otherformats: FODS XLTX XLSB XLSM CSV SXC EXCEL DIF XLAM TSV ODS TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המקרה של המרת **PDF ל־MD** מתמקד בהמרת קבצי PDF ל־פורמט **Markdown (.md)**, שמשמש באופן נרחב בתיעוד למפתחים, בלוגים טכניים וצינורות אוטומציה של תוכן. זה מאפשר שימוש מובנה בטקסט, טבלאות וקטעי קוד מקבצי PDF בעורכי Markdown.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- העברת תיעוד למפתחים מ־PDF ל־MD
+- המרת מדריכים ב־PDF ל־Markdown לצורך עריכה
+- זרימות עבודה טכניות בשימוש בתוכן MD
+- תיעוד לפרויקטים קוד פתוח שמאוחסן כ־Markdown
+- יצירת בסיסי ידע מובנים מדוחות PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות עבודה **אוטומטיים מ־PDF ל־MD למפתחים**
+- המרת קבצי PDF בצורה צפופה למאגרי Markdown
+- זרימות עבודה במערכת Git שמשלבות ייצוא מ־PDF ל־MD
+- עיבוד מ־PDF ל־MD באמצעות API עבור פלטפורמות CMS
+- אוטומציה לעסקים להעברת מסמכי PDF ל־MD
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ WORD를 FODS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 FODS로 변환**하면 Word 콘텐츠에서 **Flat OpenDocument Spreadsheet (FODS) 파일**을 생성할 수 있어 데이터 이동성, 고급 스프레드시트 워크플로우, 그리고 OpenDocument 생태계 간의 호환성 유지에 유용합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 테이블을 스프레드시트용 형식으로 변환
+- OpenDocument 오피스 스위트와의 협업
+- 표준화된 형식을 사용한 기업 보고서
+- 오픈 형식의 학술 데이터 준비
+- 정부 또는 기업 저장소에 구조화된 데이터 보관
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- Word-to-FODS 일괄 변환 파이프라인
+- 자동 문서 기반 스프레드시트 생성
+- 오픈 소스 분석 플랫폼 통합
+- FODS 기반 구조화된 보고서 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

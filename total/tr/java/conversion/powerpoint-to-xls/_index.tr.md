@@ -61,7 +61,24 @@ POWERPOINT dosyasını XLS'ye dönüştürürken, çıktı XLS dosya biçiminize
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint' i XLS' ye dönüştürmek**, slaytların **eski Excel 97-2003 çalışma kitapları** olarak dışa aktarılmasını sağlar, böylece eski elektronik tablo sistemleriyle uyumluluğu destekler.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Eski elektronik tablo uyumluluğu
+- Sunum tablolarını ve grafiklerini arşivleme
+- Eski Excel formatlarında kurumsal raporlama
+- Çapraz platform veri paylaşımı
+- Eski sistemler için yapılandırılmış raporlar hazırlama
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Toplu slayt-XLS dönüşümü
+- Eski raporlama iş akışlarıyla entegrasyon
+- Sunum tablolarının otomatik çıkarılması
+- Yapılandırılmış veri arşivleme
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

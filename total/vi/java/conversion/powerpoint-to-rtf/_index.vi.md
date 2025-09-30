@@ -53,7 +53,26 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POWER
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang RTF** cho phép các slide trở thành **tài liệu định dạng Rich Text**, khiến chúng tương thích rộng rãi với các trình soạn thảo văn bản và hệ thống cũ.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Chia sẻ tài liệu trên nhiều nền tảng  
+- Chỉnh sửa trong các trình soạn thảo nhẹ hoặc cổ điển  
+- Lưu trữ nội dung văn bản của bài thuyết trình  
+- Chuẩn bị báo cáo hoặc tài liệu tóm tắt đơn giản  
+- Tương thích với nhiều bộ ứng dụng văn phòng
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Chuyển đổi slide sang RTF hàng loạt  
+- Quy trình lưu trữ tự động  
+- Đường ống trích xuất nội dung cho báo cáo  
+- Tích hợp vào hệ thống tài liệu đa định dạng
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

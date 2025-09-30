@@ -103,7 +103,26 @@ otherformats: PPT PPSX POWERPOINT PPTM POT POTX ODP PPTX POTM PPS CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **WORD у PPSM** дозволяє створювати файли **Macro-Enabled PowerPoint Show (PPSM)** з документів Word, що дозволяє створювати інтерактивні презентації з можливостями автоматизації.
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+- Презентації з макросами з вмісту Word
+- Корпоративні або підприємницькі інтерактивні презентації
+- Навчальні дослідження та тренувальні слайд-шоу
+- Шаблонні інтерактивні робочі процеси презентацій
+- Автоматизація брифінгів уряду та організацій
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані конвеєри слайдів Word-на-PPSM
+- Пакетне створення макро-включених презентацій
+- Шаблонне інтерактивне автоматизоване перемикання слайдів
+- Корпоративні рівні робочі процеси макро-включених презентацій
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

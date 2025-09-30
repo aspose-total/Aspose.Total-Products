@@ -121,7 +121,27 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 POWERPOINT/PPT** 将 PDF 幻灯片转换为可编辑的 **PowerPoint 演示文稿**，使其可重复用于 **商业、学术或培训目的**。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将静态 PDF 幻灯片转换为可编辑的 PPT
+- 为企业会议重复使用演示文稿
+- 学术讲座幻灯片和研讨会演示
+- 营销和销售文稿
+- 转换车间和网络研讨会内容
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的 **PDF 到 PPT 管道**
+- 批量将多个 PDF 幻灯片转换为 PPT
+- 与 Office 365/PowerPoint 集成以进行工作流自动化
+- 为培训和研讨会重新利用内容
+- 企业级演示文稿处理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

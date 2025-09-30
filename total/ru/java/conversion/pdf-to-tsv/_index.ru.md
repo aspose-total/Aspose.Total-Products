@@ -47,7 +47,27 @@ otherformats: XLSM XLTM DIF SXC FODS MD TSV TXT XLAM XLT EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в TSV** ценно для создания **значений, разделенных табуляцией**, которые сохраняют чистые, столбцовые наборы данных. С помощью конвертеров PDF в TSV и автоматизации организации обеспечивают совместимость с базами данных, электронными таблицами и инструментами исследований.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Наборы данных для академических исследований
+- Биоинформатика и научные таблицы данных
+- Результаты маркетинговых исследований
+- Государственные статистические архивы
+- Структурированный обмен данными между системами
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные рабочие процессы преобразования PDF в TSV для исследовательских лабораторий
+- Пакетная генерация TSV для структурированной отчетности
+- Интеграция с конвейерами ввода данных в базу данных
+- Подготовка данных для аналитических платформ
+- Автоматизация обработки табличных данных большого объема
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

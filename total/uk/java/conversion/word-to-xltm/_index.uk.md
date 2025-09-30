@@ -102,7 +102,26 @@ otherformats: XLSB XLS XLAM EXCEL DIF CSV FODS SXC XLTX XLT XLSM TSV ODS XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **WORD у XLTM** дозволяє перетворити документи Word у файли **Шаблон Excel з підтримкою макросів (XLTM)**, що дозволяє автоматизацію, макроси та повторне використання шаблонів електронних таблиць для корпоративних робочих процесів.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+- Створення шаблонів Excel з підтримкою макросів з Word
+- Корпоративна звітність з автоматизацією
+- Академічні та наукові робочі процеси з використанням макросів
+- Генерація електронних таблиць з підтримкою макросів на основі шаблонів
+- Структурована звітність для корпоративного та урядового секторів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані конвеєри шаблонів від Word до XLTM
+- Автоматизація робочих процесів на основі макросів
+- Пакетне створення повторно використовуваних шаблонів з підтримкою макросів
+- Корпоративна звітність та автоматизація робочих процесів високого рівня
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,24 @@ Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar PPS con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **WORD naar PPS** maakt het mogelijk dat Word-inhoud **PowerPoint Show (PPS) bestanden** wordt, klaar voor directe presentatie zonder handmatige dia-instelling.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Het omzetten van Word-rapporten in presentaties die klaar zijn om af te spelen
+- Dia's voor ondernemings- en bedrijfsvergaderingen
+- Voorbereiding van academisch en trainingsmateriaal
+- Presentaties voor briefing en rapportage op basis van sjablonen
+- Presentaties klaar voor weergave voor overheid en organisaties
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde presentatiepijplijnen van Word naar PPS
+- Batchgeneratie van dia's die klaar zijn om te tonen
+- Sjabloon-gedreven geautomatiseerde presentatieworkflows
+- Automatisering van PowerPoint op bedrijfsniveau
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

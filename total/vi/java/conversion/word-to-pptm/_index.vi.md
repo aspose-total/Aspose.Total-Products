@@ -54,7 +54,26 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORD được bảo v
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **WORD sang PPTM** cho phép nội dung Word trở thành các tệp **Macro-Enabled PowerPoint (PPTM)**, cho phép tự động hóa và tính năng trình bày tương tác.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Trình bày doanh nghiệp và công ty với Macro-enabled
+- Trình bày tương tác trong học thuật và đào tạo
+- Luồng làm việc trình bày Macro-enabled dựa trên mẫu
+- Tự động hóa thông tin trình bày cho chính phủ và tổ chức
+- Mẫu trình bày tái sử dụng với Macro-enabled
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Các quy trình trình bày tự động từ Word sang PPTM
+- Tạo hàng loạt bộ trình bày Macro-enabled
+- Tự động hóa trình bày tương tác dựa trên mẫu
+- Luồng làm việc trình bày Macro-enabled cấp doanh nghiệp
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

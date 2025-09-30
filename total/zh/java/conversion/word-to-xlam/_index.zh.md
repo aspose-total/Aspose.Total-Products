@@ -61,7 +61,26 @@ otherformats: XLAM XLS ODS XLSB FODS XLT XLSX DIF XLTM XLTX XLSM EXCEL SXC TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为XLAM**是将Word内容转换为**Excel插件文件**的关键，实现自动化、宏以及与Excel工作流的集成，同时利用结构化文档数据。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 从基于Word的模板生成Excel插件
+- 将公司文档集成到Excel自动化中
+- 金融和企业基于宏的报告
+- 学术或研究工作流集成
+- 使用基于Word的插件进行遗留系统自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- Word到XLAM的自动化插件生成
+- 基于模板驱动的启用宏工作流创建
+- 企业报告和任务自动化
+- 文档驱动的Excel自动化流水线
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

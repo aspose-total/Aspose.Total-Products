@@ -103,7 +103,26 @@ otherformats: PPTX PPTM POT POTX PPSM ODP POTM PPSX PPS PPT CSV DIF FODS ODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-POWERPOINT** מאפשרת המרה חלקה של מסמכי Word למצגות מלאות של **PowerPoint**, חוצה תוכן טקסטואלי עם מצגות חזותיות לשימוש עסקי, אקדמי ותעשייתי.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת דוחות Word למצגות חזותיות
+- שקופיות לחברות ועסקים
+- הכנת מצגות למחקר אקדמי
+- הצגת מסמכים לממשלה ולמדיניות
+- יצירת שקופיות באמצעות תבניות מתוקנות של תוכן ממוקד ב-Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים מ-Word ל-PowerPoint
+- יצירת מצגות מדווחים באופן צינורי
+- זרימות עבודה אוטומטיות ליצירת שקופיות באמצעות תבניות
+- אוטומציה של מסמכים לשקופיות ברמת עסקים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

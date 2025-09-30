@@ -61,7 +61,26 @@ Trong khi chuyển đổi tệp POWERPOINT sang SXC, bạn cũng có thể thêm
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang SXC** cho phép xuất bảng và dữ liệu cấu trúc trang trình bày vào định dạng **StarOffice Calc Spreadsheet**, cho phép tương thích với các phiên bản cũ hơn và phân tích dữ liệu kế thừa.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Trích xuất dữ liệu bảng từ trang trình bày cho bảng tính  
+- Tương thích với bảng tính cũ cho các bộ ứng dụng văn phòng cũ hơn  
+- Báo cáo và phân tích dữ liệu dựa trên dữ liệu  
+- Lưu trữ nội dung cấu trúc từ các bài thuyết trình  
+- Chuẩn bị báo cáo số liệu từ các trang trình bày
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Chuyển đổi bảng từ trang trình bày sang SXC tự động  
+- Các đường ống trích xuất hàng loạt cho phân tích  
+- Tích hợp với hệ thống báo cáo doanh nghiệp  
+- Tự động hóa quy trình cho việc tạo bảng tính kế thừa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

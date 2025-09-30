@@ -61,7 +61,26 @@ Po převodu WORD do XLTM vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **WORDU na XLTM** umožňuje transformaci dokumentů Word do souborů **Makro-povolené šablony Excelu (XLTM)**, což umožňuje automatizaci, makra a opakovaně použitelné šablony tabulek pro podnikové pracovní postupy.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření makro-povolených excelových šablon z Wordu
+- Podnikové hlášení s automatizací
+- Akademické a výzkumné pracovní postupy s použitím maker
+- Generování tabulek s makry řízených šablonami
+- Strukturované hlášení firem a vládních institucí
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované šablony Word-to-XLTM
+- Automatizace pracovních postupů řízených makry
+- Hromadná generace opakovaně použitelných makro-povolených šablon
+- Podnikové hlášení a automatizace pracovních postupů
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

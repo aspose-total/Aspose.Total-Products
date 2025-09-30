@@ -143,7 +143,27 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF'yi XAMLFLOW'a** dönüştürmek, .NET ve WPF uygulamalarında **FlowDocument tabanlı XAML dosyaları** oluşturan geliştiriciler için idealdir. Toplu PDF'den XAMLFlow dönüştürücüler ve otomatikleştirilmiş borularla, statik içerik etkileşimli, yapılandırılmış yazılım kaynaklarına dönüştürülebilir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Zengin metin entegrasyonu WPF uygulamalarında
+- FlowDocument formatında dijital yayıncılık
+- Yazılım kılavuzları ve yardım sistemleri
+- Kurumsal bilgi tabanı entegrasyonu
+- Belgeden uygulamaya iş akışları
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Uygulama geliştirme için otomatik PDF'den XAMLFLOW boruları
+- Kurumsal WPF uygulamaları için toplu dönüşüm
+- Yayıncılık sistemlerine iş akışı entegrasyonu
+- Ölçekte FlowDocument içeriği oluşturma
+- Etkileşimli yazılım belgelendirme otomasyonu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

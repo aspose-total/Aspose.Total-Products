@@ -61,7 +61,26 @@ otherformats: FODS XLAM TSV ODS XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى ODS** يسمح بتصدير جداول العروض التقديمية إلى تنسيق **جدول بيانات OpenDocument**، مما يتيح تحليل البيانات المنظمة والتوافق مع مختلف الأنظمة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- استخراج جداول الشرائح لتحليلها في جداول بيانات
+- تقارير وتحليلات المؤسسات
+- مشاركة البيانات عبر المنصات مع أدوات OpenDocument
+- أرشفة البيانات المنظمة للشرائح
+- إعداد تقارير رقمية أو جدولية من العروض التقديمية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- استخراج الجداول تلقائيًا إلى تنسيق ODS
+- التكامل مع أنابيب التحليل
+- تحويل الشرائح إلى جداول بيانات بشكل دفعي
+- سير العمل لتقارير مدفوعة بالبيانات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ Tijdens het converteren van een POWERPOINT-bestand naar XLTM, kunt u ook een wat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PowerPoint naar XLTM** maakt van dia's **macro-ingeschakelde Excel-sjablonen**, waardoor macro's behouden blijven voor herhaalde geautomatiseerde rapportage en bedrijfsworkflows.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Macro-ingeschakelde herbruikbare Excel-sjablonen
+- Gestandaardiseerde rapportage met ingebedde automatisering
+- Archiveren van presentaties als macro-ingeschakelde sjablonen
+- Interactieve project-sjablonen voor bedrijfsgebruik
+- Educatieve en trainings-sjablooncreatie
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde dia-naar-XLTM-conversiepijplijnen
+- Creatie van een bedrijfssjabloonbibliotheek met macro's
+- Batch-macro-ingeschakelde sjablooncreatie
+- Sjabloon-gedreven geautomatiseerde rapportage
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

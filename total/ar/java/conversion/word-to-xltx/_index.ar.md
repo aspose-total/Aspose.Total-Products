@@ -61,7 +61,26 @@ otherformats: SXC XLTX ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى XLTX** يسمح بتصدير مستندات Word إلى تنسيق **Excel Template (XLTX)**، مما يوفر قوالب جداول بيانات قابلة لإعادة الاستخدام بدون ماكرو لأغراض المؤسسات والأكاديمية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء قوالب Excel قابلة لإعادة الاستخدام بدون ماكرو
+- تقارير موحدة للشركات والمؤسسات
+- إعداد قوالب أكاديمية وبحثية
+- سير عمل هيكلي للجداول البيانية بناءً على القوالب
+- توحيد التقارير الحكومية والمالية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عمل قوالب Word-to-XLTX المؤتمتة
+- توليد دفعي للقوالب من جداول Word
+- أتمتة الجداول البيانية بناءً على القوالب
+- سير عمل تقارير عالية المستوى للمؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

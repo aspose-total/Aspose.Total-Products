@@ -61,7 +61,26 @@ otherformats: XLSB XLSM XLAM DIF FODS XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى FODS** يسمح بتصدير جداول العروض التقديمية إلى **Flat OpenDocument Spreadsheet**، مفيد للتحليل وتبادل البيانات والإبلاغ.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- استخراج بيانات جداول الشرائح إلى جداول بيانات
+- مشاركة البيانات عبر المنصات مع أدوات OpenDocument
+- تحليل البيانات والإبلاغ في الشركات
+- أرشفة البيانات المهيكلة للشرائح
+- إعداد تقارير رقمية أو جدولية من العروض التقديمية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- استخراج آلي للجداول إلى تنسيق FODS
+- دمج مع أنابيب التحليل
+- تحويل الشرائح إلى جداول بيانات بشكل دفعي
+- أتمتة سير العمل القائم على البيانات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

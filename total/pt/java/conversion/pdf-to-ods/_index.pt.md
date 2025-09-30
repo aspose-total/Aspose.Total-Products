@@ -47,7 +47,25 @@ Ao converter o arquivo PDF para ODS, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para ODS** permite transformar **relatórios em PDF em formato de Planilha de Documentos Abertos**, garantindo acessibilidade e flexibilidade para análise de dados, relatórios financeiros e conjuntos de dados científicos.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Demonstrações financeiras e registros contábeis
+- Sistemas de relatórios de nível empresarial
+- Iniciativas de compartilhamento de dados governamentais
+- Conjuntos de dados de pesquisa acadêmica
+- Armazenamento de dados estruturados a longo prazo
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Fluxos de trabalho de extração de dados de PDF para ODS
+- Pipelines de conversão automatizada para finanças e pesquisa
+- Criação de planilhas baseada em JSON/XML
+- Automação de relatórios empresariais
+- Transformação escalável de dados digitais
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na PPSX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **WORDU na PPSX** transformuje dokumenty Word do souborů **PowerPoint Show (PPSX)**, nabízí makrovolné, připravené prezentace pro firemní, akademické a firemní publikum.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Připravené prezentace z obsahu Wordu
+- Makrovolné firemní a firemní snímky
+- Příprava akademických a školicích prezentací
+- Šablonové hlášení a briefingu
+- Prezentace připravené k předvedení pro vládu a organizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované dávkové potrubí Word-to-PPSX
+- Automatizace připravených snímků řízená šablonou
+- Firemní makrovolné pracovní postupy pro prezentace
+- Dávkový převod z Wordových zpráv na prezentace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

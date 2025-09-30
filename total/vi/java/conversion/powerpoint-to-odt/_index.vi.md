@@ -53,7 +53,26 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POWER
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PowerPoint sang ODT** cho phép lưu các slide dưới dạng **tài liệu văn bản OpenDocument**, hỗ trợ nội dung văn bản có thể chỉnh sửa, tương thích trên nhiều nền tảng từ bài thuyết trình.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Chuyển đổi slide thành các tệp văn bản OpenDocument có thể chỉnh sửa
+- Chỉnh sửa cộng tác trên các bộ ứng dụng văn phòng khác nhau
+- Lưu trữ bài thuyết trình dưới định dạng được hỗ trợ rộng rãi
+- Tài liệu hướng dẫn giáo dục và báo cáo doanh nghiệp
+- Tái sử dụng nội dung bài thuyết trình cho tài liệu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- Chuyển đổi hàng loạt từ PowerPoint sang ODT
+- Tích hợp vào quy trình quản lý tài liệu
+- Tự động tạo ra báo cáo từ các slide
+- Các đường ống tái sử dụng nội dung doanh nghiệp
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

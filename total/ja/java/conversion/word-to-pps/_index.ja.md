@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたWORDドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをPPSに変換**することで、Wordコンテンツを**PowerPoint Show (PPS)ファイル**に変換し、手動スライドセットアップなしで直接プレゼンテーション用に準備できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- Wordレポートを再生可能なプレゼンテーションに変換
+- 企業や組織の会議用スライド
+- 学術およびトレーニング資料の準備
+- テンプレートベースのブリーフィングおよびレポートプレゼンテーション
+- 政府および組織向けのプレゼンテーション準備
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- WordからPPSへの自動化されたプレゼンテーションパイプライン
+- 再生可能なスライドの一括生成
+- テンプレート駆動の自動化されたプレゼンテーションワークフロー
+- 企業向けのPowerPoint自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

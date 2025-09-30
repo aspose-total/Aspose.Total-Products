@@ -54,7 +54,24 @@ Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar PPT con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **WORD naar PPT** maakt het mogelijk om Word-documenten te exporteren naar legacy **PowerPoint (PPT) bestanden**, waardoor tekstuele inhoud klaar is voor presentatie in ondernemingen, bedrijven en academische omgevingen.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Legacy PPT-presentaties maken van Word-rapporten
+- Bedrijfs- en ondernemingspresentaties
+- Academische onderzoeks- en lesmaterialen
+- Overheids- en organisatorische presentaties
+- Sjabloon-gestuurde dia's genereren van gestructureerde Word-inhoud
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde Word-naar-PPT dia-pipelines
+- Batchconversie van Word-rapporten naar presentaties
+- Sjabloon-gestuurde automatisering van dia-decks
+- Document-naar-dia-workflows op ondernemingsniveau
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

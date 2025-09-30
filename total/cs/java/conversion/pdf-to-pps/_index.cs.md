@@ -121,7 +121,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na PPS/PPSM/PPSX** vytváří soubory **PowerPoint Slide Show** (včetně makro-povolených PPSM a XML-based PPSX). Tyto jsou optimalizovány pro **přímé použití při prezentaci**, ideální pro marketing, vzdělávání nebo firemní události.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Připravené prezentace pro prezentace
+- Makro-povolené školení nebo interaktivní snímky (PPSM)
+- Marketingové kampaně a prezentace událostí
+- Akademické přednášky a workshopy
+- Opakovaně použitelné firemní a seminářské snímky
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **PDF-to-PPS/PPSM/PPSX pipelines**
+- Hromadný převod PDF snímků pro události
+- Workflové generace prezentací pro podniky
+- Integrace s makro-povolenou automatizací PowerPointu
+- Zjednodušené nasazení prezentací pro organizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

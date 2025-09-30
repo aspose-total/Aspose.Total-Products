@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na POT. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **WORD na POT** umožňuje transformaci dokumentů Word do souborů **PowerPoint Template (POT)**, což umožňuje opakované použití šablon prezentací přímo z obsahu Wordu.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření standardizovaných šablon PowerPoint z Word reportů
+- Generování firemních prezentací
+- Opakované snímky pro akademické a výzkumné účely
+- Firemní šablony pro informační a reportovací účely
+- Pracovní postupy založené na šablonách pro prezentace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatické vytváření šablony Word-to-POT
+- Hromadná konverze dokumentů Word na šablony prezentací
+- Generování prezentací řízených šablonami
+- Firemní automatizované pracovní postupy pro prezentace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

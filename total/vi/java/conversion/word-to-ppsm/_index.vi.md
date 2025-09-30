@@ -54,7 +54,26 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORD được bảo v
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **WORD sang PPSM** cho phép tạo ra các tập tin **Macro-Enabled PowerPoint Show (PPSM)** từ tài liệu Word, cho phép tạo ra bài thuyết trình tương tác với khả năng tự động hóa.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Hiển thị bài thuyết trình có kích hoạt Macro từ nội dung Word
+- Bài thuyết trình tương tác doanh nghiệp hoặc tổ chức
+- Bài thuyết trình slide cho nghiên cứu và đào tạo học thuật
+- Luồng làm việc bài thuyết trình tương tác dựa trên mẫu
+- Tự động hóa thông tin trình bày cho chính phủ và tổ chức
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Các luồng trình bài tự động từ Word sang PPSM
+- Tạo ra hàng loạt bài thuyết trình có kích hoạt Macro
+- Tự động hóa slide tương tác dựa trên mẫu
+- Luồng làm việc bài thuyết trình có kích hoạt Macro cấp doanh nghiệp
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

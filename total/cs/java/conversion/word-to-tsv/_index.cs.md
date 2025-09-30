@@ -61,7 +61,26 @@ Po převodu WORD do TSV vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **WORD na TSV** umožňuje extrakci tabulkových dat z Wordu do formátu **Hodnot oddělených tabulátory (TSV)**, což zajišťuje kompatibilitu s analytickými nástroji, databázovými systémy a dalšími aplikacemi pro strukturovaná data.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Exportování tabulek z Wordu pro zpracování dat
+- Integrace s analytickými a databázovými systémy
+- Podnikové hlášení a strukturované archivace
+- Migrace tabulkových dat pro akademické nebo výzkumné účely
+- Extrahování tabulkových dat řízené šablonami
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované potrubí Word-to-TSV
+- Dávkové extrakce pro analytiku a hlášení
+- Strukturované pracovní postupy s dokumenty
+- Automatizace tabulkových dat na úrovni podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

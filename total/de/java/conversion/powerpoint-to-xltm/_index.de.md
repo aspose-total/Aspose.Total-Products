@@ -61,7 +61,26 @@ Beim Konvertieren der POWERPOINT-Datei in XLTM können Sie Ihrem Ausgabe-XLTM-Da
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Konvertierung von **PowerPoint zu XLTM** ermöglicht es, Folien zu **makrofähigen Excel-Vorlagen** zu machen, wodurch Makros für wiederholte automatisierte Berichterstellung und Unternehmensworkflows erhalten bleiben.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Makrofähige wiederverwendbare Excel-Vorlagen
+- Standardisierte Berichterstellung mit eingebetteter Automatisierung
+- Archivierung von Präsentationen als makrofähige Vorlagen
+- Interaktive Projektvorlagen für den Unternehmenseinsatz
+- Erstellung von Bildungs- und Schulungsvorlagen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte Umwandlung von Folien in XLTM-Pipelines
+- Erstellung einer Unternehmensvorlagenbibliothek mit Makros
+- Stapelverarbeitung zur Generierung von makrofähigen Vorlagen
+- Vorlagenbasierte automatisierte Berichterstellung
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

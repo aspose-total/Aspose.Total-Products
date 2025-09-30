@@ -102,7 +102,26 @@ otherformats: CSV FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-SXC** מאפשרת ייצוא טבלאות ונתוני שקפים מובנים לתבנית **StarOffice Calc Spreadsheet**, שמאפשרת תאימות לגרסאות ישנות וניתוח נתונים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- חילוץ נתוני טבלאות משקפים לגיליונות עבודה  
+- תאימות לגרסאות ישנות של תוכנות משרד  
+- דיווח וניתוח מבוססי נתונים  
+- ארכיבה של תוכן מובנה ממצגות  
+- הכנת דוחות מספריים משקפים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- המרת שקפים לטבלאות SXC באופן אוטומטי  
+- צינורות חילוץ רציפים לניתוחים  
+- שילוב עם מערכות דיווח עסקיות  
+- אוטומציה של תהליכי עבודה ליצירת גרסאות ישנות של גיליונות עבודה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

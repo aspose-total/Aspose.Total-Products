@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów WORD chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **WORD do PPT** pozwala na eksportowanie dokumentów Word do przestarzałych plików **PowerPoint (PPT)**, sprawiając, że treść tekstowa jest gotowa do prezentacji w środowisku przedsiębiorczym, korporacyjnym i akademickim.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Tworzenie prezentacji w formacie PPT na podstawie raportów Word
+- Slajdy do prezentacji korporacyjnych i przedsiębiorczych
+- Slajdy do badań naukowych i nauki
+- Prezentacje rządowe i organizacyjne
+- Generowanie slajdów z ustrukturyzowanych treści Word z wykorzystaniem szablonów
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane przepływy slajdów z Word do PPT
+- Konwersja zbiorcza raportów Word na prezentacje
+- Automatyzacja tworzenia slajdów z wykorzystaniem szablonów
+- Przepływy dokumentów na slajdy na poziomie przedsiębiorstwa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

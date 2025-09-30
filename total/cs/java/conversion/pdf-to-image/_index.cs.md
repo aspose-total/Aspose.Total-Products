@@ -57,7 +57,27 @@ Pomocí API můžete také otočit výstupní obrázek IMAGE podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **PDF na OBRÁZEK** je jedním z nejběžnějších pracovních postupů, který umožňuje dokumenty převádět do různých obrazových formátů, jako jsou PNG, JPG nebo TIFF. To usnadňuje použití PDF souborů ve **webovém publikování, archivaci a digitálních prezentacích**.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Archivace PDF dokumentů jako obrazových souborů
+- Vkládání stránek PDF do webových stránek jako PNG nebo JPG
+- Vytváření náhledů a ukázek z PDF
+- Integrace PDF do digitálních snímků a prezentací
+- Ukládání založené na obrazech pro dodržování předpisů a auditů
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **dávkové potrubí PDF-na-OBRÁZEK**
+- Pracovní postupy PDF-na-PNG nebo JPG pro webové platformy
+- Generování náhledových obrázků pro systémy správy dokumentů
+- PDF na vícestránkový TIFF pro podnikovou archivaci
+- Automatizovaná API založená na převodu PDF-na-OBRÁZEK
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ otherformats: XLTM XLS FODS XLT TSV XLAM EXCEL SXC ODS XLSM XLSX DIF XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в FODS** позволяет создавать файлы **Flat OpenDocument Spreadsheet (FODS)** из содержимого Word, что полезно для переносимости данных, расширенных рабочих процессов электронных таблиц и поддержания совместимости в экосистемах OpenDocument.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Преобразование таблиц Word в форматы, готовые для электронных таблиц
+- Совместная работа с офисными пакетами OpenDocument
+- Предприятий отчетность с использованием стандартизированных форматов
+- Подготовка академических данных в открытых форматах
+- Архивирование структурированных данных в правительственных или корпоративных репозиториях
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Пакетные конвейеры преобразования Word в FODS
+- Автоматизированное создание электронных таблиц на основе документов
+- Интеграция с платформами аналитики с открытым исходным кодом
+- Рабочие процессы структурированной отчетности на основе FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

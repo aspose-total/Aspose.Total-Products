@@ -53,7 +53,26 @@ otherformats: FLATOPC TEXT ODT DOTXM DOTX DOTM DOTXX OTT WORDML RTF DOT WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى DOTX** يسمح بتصدير الشرائح إلى **تنسيقات قوالب Word الحديثة**, مثالية لإنشاء قوالب قابلة لإعادة الاستخدام وموحدة دون استخدام البرامج النصية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء قوالب حديثة للوثائق الشركية
+- مواد تعليمية موحدة
+- قوالب مشروع أو تقرير قابلة لإعادة الاستخدام
+- أرشفة العروض كقوالب
+- تعاون الفريق على الوثائق المقننة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- تحويل الشرائح إلى قوالب بشكل آلي
+- أنابيب إنتاج القوالب للاستخدام في المؤسسات
+- تكامل سير العمل مع أنظمة إدارة المحتوى
+- أتمتة تقارير متكررة أو وثائق مشروع
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

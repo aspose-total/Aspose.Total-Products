@@ -121,7 +121,27 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Konvertierung von **PDF in ODP** ist entscheidend für die Erstellung von **bearbeitbaren Präsentationsdateien im OpenDocument Presentation-Format**. Dies ist äußerst vorteilhaft für Geschäftspräsentationen, Bildungsfolien und kollaborative Umgebungen, in denen die Kompatibilität mit offenen Dateistandards wichtig ist.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Austausch von Bildungs- und akademischen Folien
+- Geschäftstreffen und Präsentationen nach offenen Standards
+- Dokumentation für Regierung und NGOs
+- Kollaborative Projekte mit LibreOffice Impress
+- Langfristige Archivierung von Präsentationsinhalten
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte Pipelines von PDF zu ODP für Institutionen
+- Stapelverarbeitung von Präsentationen für Unternehmen
+- Integration von Workflows auf Basis von OpenDocument
+- Automatische Generierung von Präsentationen aus PDFs
+- Skalierbare digitale Präsentationsarchive
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

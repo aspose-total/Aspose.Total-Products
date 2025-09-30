@@ -130,7 +130,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをMHTMLに変換**（Webアーカイブ形式）は、文書を**埋め込みリソースを持つ単一ファイルHTMLページ**に変換するために不可欠です。これにより、PDFをWeb用のファイルとして簡単に配布し、**アーカイブ、デジタル出版、ブラウザベースの閲覧**に適したものにします。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 単一ファイルWebアーカイブ用のPDFからMHTMLへの変換
+- レポートをブラウザで閲覧可能な**Webアーカイブ**に変換
+- **HTMLベースの文書配布**のためのエンタープライズワークフロー
+- 法的およびコンプライアンス文書をMHTMLとして保存
+- PDFを**Web用の形式**に変換するデジタル出版ワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからMHTMLへのパイプライン**
+- PDFをWebアーカイブにバッチ処理
+- MHTML出力のためのエンタープライズCMS統合
+- PDFからMHTMLへの変換を伴う自動出版ワークフロー
+- **自己完結型HTMLアーカイブ**へのブラウザベースのPDF変換
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

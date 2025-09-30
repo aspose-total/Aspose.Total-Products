@@ -130,7 +130,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをOTTに変換**することで、**OpenDocument Text Templateファイル**を生成し、企業、学術、政府の文書プロセスの標準化を確保します。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 標準化されたビジネス文書テンプレート
+- 法的および政府の方針テンプレート
+- 学術出版フレームワーク
+- NGOコミュニケーションテンプレート
+- 構造化された企業コンテンツ作成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- PDFからOTTへの自動化されたテンプレートワークフロー
+- 企業向けのドキュメントパイプライン
+- 政府および法的文書の自動化
+- 大規模な学術出版の自動化
+- スケーラブルなバッチテンプレート処理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

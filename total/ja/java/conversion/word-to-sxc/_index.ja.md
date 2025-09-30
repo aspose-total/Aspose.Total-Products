@@ -61,7 +61,26 @@ WORDをSXCに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをSXCに変換**すると、Wordコンテンツを**StarOffice Calc（SXC）ファイル**に変換でき、古いOpenOffice/StarOfficeスプレッドシート形式との互換性を実現し、企業やアーカイブ用途で利用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- Wordテーブルをレガシースプレッドシート形式にエクスポート
+- 古いオフィススイートとの相互運用性
+- 企業および政府による構造化コンテンツのアーカイブ
+- 学術的な表形式データの移行
+- Word文書からのテンプレートベースのスプレッドシート準備
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- バッチ処理によるWordからSXCへの変換ワークフロー
+- 企業規模の文書からスプレッドシートへの自動化
+- レガシーシステム統合パイプライン
+- テンプレート駆動のレポート自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

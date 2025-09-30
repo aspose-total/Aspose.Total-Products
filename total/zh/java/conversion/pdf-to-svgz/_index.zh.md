@@ -57,7 +57,27 @@ otherformats: EMZ PSD TGA SVGZ JPEG2000 DXF  WMZ WMF IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 SVGZ** 可以将基于矢量的 PDF 图形保存为 **压缩的可缩放矢量图形 (SVGZ)** 文件。这对于 **网络发布、CAD 图纸和响应式设计** 特别有价值，其中可伸缩性和性能至关重要。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将可缩放的 PDF 图形作为 SVGZ 进行网络发布
+- 用于工程和设计工作流程的 CAD 图纸导出
+- 将大型 PDF 压缩为轻量级的 SVGZ 文件
+- 网站和移动应用程序的响应式图表
+- 以压缩矢量格式存档技术图纸
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的 **PDF 到 SVGZ 导出流程**
+- 面向工程团队的批量 PDF 矢量转换
+- 使用来自 PDF 文件的 SVGZ 进行网络发布工作流程
+- 使用压缩输出进行企业图形自动化
+- PDF 到 SVGZ API 的系统集成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

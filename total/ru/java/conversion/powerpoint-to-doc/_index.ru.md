@@ -53,7 +53,26 @@ otherformats: DOTX DOTM FLATOPC RTF DOT WORD DOCX TEXT WORDML ODT OTT DOCM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в DOC** позволяет без проблем преобразовывать содержимое презентации в **редактируемые документы Word**, что упрощает повторное использование слайдов для отчетов, документации или совместного редактирования.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Преобразование слайдов презентации в текстовые отчеты  
+- Совместное редактирование и аннотации в Word  
+- Подготовка официальных протоколов совещаний или отчетов  
+- Архивирование презентаций в виде документов Word  
+- Образовательные материалы на основе слайдов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированное пакетное преобразование презентаций в Word  
+- Интеграция в отчетные конвейеры  
+- Рабочие процессы документов на основе PowerPoint  
+- Переиспользование корпоративного контента для нескольких команд
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

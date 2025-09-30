@@ -53,7 +53,26 @@ otherformats: DOTM DOT DOTX FLATOPC ODT OTT DOTX RTF WORD WORDML DOTM TEXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى DOT** يمكن حفظ العروض كقوالب **Word**، مما يسمح باستخدام محتوى العرض بشكل متكرر في صيغ مستندات موحدة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء قوالب Word قابلة لإعادة الاستخدام من الشرائح
+- توحيد الوثائق الشركية
+- تقارير واقتراحات مستندة على القوالب
+- أرشفة هياكل العروض للاستخدام لاحقًا
+- إنشاء قوالب تعليمية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- إنشاء قوالب تلقائية من عروض الشرائح
+- تكامل سير العمل لمكتبات القوالب الشركية
+- إنشاء متغيرات مستند متعددة من عرض تقديمي واحد
+- أتمتة تقارير مستندة على القوالب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

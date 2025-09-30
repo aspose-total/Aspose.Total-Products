@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 DOCM** 在企业需要将静态文件转换为 **带宏的 Word 文档** 时至关重要。通过使用在线 PDF 转 DOCM 转换或自动化流程，组织可以解锁高级工作流程，嵌入自动化脚本，并高效地简化与文档相关的任务。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 使用嵌入宏自动化文档任务  
+- 使用宏驱动模板进行企业报告  
+- 需要可重复计算的财务模型  
+- 具有自动化钩子的业务流程文档  
+- 具有宏验证的监管报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 用于合规的在线和批处理 PDF 到 DOCM 流程  
+- 自动化的带宏报告生成  
+- 用于企业的批量 PDF 到 DOCM 转换  
+- 用于交互式 Word 文件的工作流自动化  
+- 基于宏驱动的文档生命周期管理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

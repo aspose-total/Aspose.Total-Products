@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 WORD 문서를 POT로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 POT로 변환**
+Word 문서를 **PowerPoint 템플릿 (POT) 파일**로 변환하여 Word 콘텐츠에서 직접 재사용 가능한 프레젠테이션 템플릿을 만들 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 보고서로 표준화된 PowerPoint 템플릿 생성
+- 기업용 프레젠테이션 템플릿 생성
+- 학술 및 연구용 재사용 가능한 슬라이드
+- 기업 브리핑 및 보고서 템플릿
+- 프레젠테이션을 위한 템플릿 기반 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-POT 템플릿 생성
+- Word 문서를 프레젠테이션 템플릿으로 일괄 변환
+- 템플릿 기반의 슬라이드 덱 생성
+- 기업용 프레젠테이션 자동화 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

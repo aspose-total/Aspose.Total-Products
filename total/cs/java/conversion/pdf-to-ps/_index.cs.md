@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na PS (PostScript)** je zásadní pro pracovní postupy s vysokou kvalitou tisku, umožňuje odesílat PDF soubory na **tiskárny kompatibilní s PostScriptem** pro profesionální publikování, grafický design a podniková tisková prostředí.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Profesionální tisková produkce z PDF dokumentů
+- Grafický designový výstup pro tiskárny s PostScriptem
+- Podnikové a vládní tiskové postupy
+- Předtiskové postupy v nakladatelstvích
+- Archivace PDF ve formátu PostScript pro dodržování předpisů
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **tiskové toky PDF na PS**
+- Hromadný převod PDF pro tiskové úlohy ve velkém množství
+- Integrace s podnikovými tiskovými servery
+- Automatizace předtiskových postupů pro nakladatelství
+- Škálovatelná automatizace tisku s výstupem PS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

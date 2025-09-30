@@ -54,7 +54,26 @@ API juga memungkinkan Anda untuk mengonversi dokumen WORD yang dilindungi kata s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **WORD ke POTM** memungkinkan penciptaan **file Template PowerPoint yang Diaktifkan Makro (POTM)** dari konten Word, memungkinkan template yang dapat digunakan kembali dengan makro untuk otomatisasi lanjutan.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Menghasilkan template presentasi yang diaktifkan makro dari Word
+- Otomatisasi perusahaan dalam pembuatan presentasi
+- Template akademis dan penelitian dengan elemen interaktif
+- Slide briefing yang dapat digunakan kembali untuk perusahaan
+- Alur kerja yang didorong oleh template untuk otomatisasi slide
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa template otomatis WORD ke POTM
+- Pembuatan batch template presentasi yang diaktifkan makro
+- Otomatisasi slide deck yang didorong oleh template
+- Alur kerja presentasi kelas enterprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

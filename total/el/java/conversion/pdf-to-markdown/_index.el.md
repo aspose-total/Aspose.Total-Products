@@ -130,7 +130,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PDF σε Markdown (MD)** καθιστά δυνατή την εξαγωγή καθαρού, ελαφρού και φορητού περιεχομένου από PDF για **προγραμματιστές, συγγραφείς και ροές εργασίας τεκμηρίωσης**. Αυτό εξασφαλίζει ότι τα αναφορές ή άρθρα σε PDF μπορούν να επαναχρησιμοποιηθούν σε **πλατφόρμες βασισμένες σε Markdown όπως το GitHub, γεννητές στατικών ιστοσελίδων ή συστήματα διαχείρισης περιεχομένου**.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Δημοσίευση άρθρων PDF ως **αναρτήσεις ιστολογίου Markdown**  
+- Μεταφορά τεχνικών εγγράφων από PDF σε MD για το GitHub  
+- Ροές εργασίας τεκμηρίωσης για προγραμματιστές και έργα ανοικτού κώδικα  
+- Μετατροπή ακαδημαϊκών έρευνων σε PDF σε ελαφρύ μορφή Markdown  
+- Αποθήκευση περιεχομένου PDF για **γεννητές στατικών ιστοσελίδων (Hugo, Jekyll, κλπ.)**  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες **διαδικασίες μετατροπής PDF σε Markdown**  
+- Μαζική μετατροπή αναφορών σε MD για επαναχρησιμοποίηση περιεχομένου  
+- Ροές εργασίας CI/CD μετατρέποντας PDF σε εγγράφα Markdown  
+- Μετατροπή με βάση το API για πλατφόρμες βάσης γνώσης  
+- Αυτοματοποιημένη μεταφορά από παλιά PDF σε αποθετήρια Markdown  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

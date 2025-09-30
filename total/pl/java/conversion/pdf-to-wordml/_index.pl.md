@@ -130,7 +130,27 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PDF na WORDML** jest ważne dla tworzenia **WordprocessingML (dokumentów opartych na XML)** z plików PDF. Narzędzia online do konwersji PDF na WordML oraz automatyzacja zapewniają strukturalne, zgodne z XML dokumenty gotowe do archiwizacji, publikacji i przepływów pracy w przedsiębiorstwie.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Wymiana danych między systemami
+- Przechowywanie dokumentów przedsiębiorstwa
+- Generowanie dokumentów na podstawie szablonów
+- Cyfrowe archiwa rządowe
+- Strukturalne publikacje akademickie
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane potoki PDF-do-WordML dla raportowania strukturalnego
+- Generowanie dokumentów XML z plików PDF
+- Przepływy pracy wsadowe WordML dla przedsiębiorstw
+- Integracja archiwów cyfrowych z formatami XML
+- Raportowanie strukturalne klasy przedsiębiorstw
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

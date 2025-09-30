@@ -54,7 +54,26 @@ otherformats: PPTM PPSM POTM POTX PPSX PPT POWERPOINT PPTX POT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى PPSX** يحول مستندات Word إلى ملفات **PowerPoint Show (PPSX)**، مما يوفر عروض تقديمية جاهزة للتشغيل بدون ماكرو للجماهير الشركاتية والأكاديمية والشركات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- عروض تقديمية جاهزة للتشغيل من محتوى Word
+- شرائح شركات ومؤسسات خالية من الماكرو
+- إعداد العروض الأكاديمية والتدريبية
+- تقارير وإحاطات قائمة على القوالب
+- عروض جاهزة للعروض الحكومية والتنظيمية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عمل دفعية آلية من Word إلى PPSX
+- أتمتة الشرائح الجاهزة للتشغيل بناءً على القوالب
+- سير عمل عروض جاهزة للشركات خالية من الماكرو
+- تحويل دفعي من تقارير Word إلى عروض تقديمية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

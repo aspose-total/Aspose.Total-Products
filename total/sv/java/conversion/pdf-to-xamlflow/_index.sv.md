@@ -143,7 +143,27 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertering av **PDF till XAMLFLOW** är idealiskt för utvecklare som bygger **FlowDocument-baserade XAML-filer** i .NET- och WPF-applikationer. Med batch-PDF till XAMLFlow-omvandlare och automatiserade pipeliner kan statligt innehåll omvandlas till interaktiva, strukturerade programresurser.
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+- Integration av rik text i WPF-applikationer
+- Digital publicering i FlowDocument-format
+- Programvaruhandböcker och hjälpsystem
+- Integration av företagets kunskapsbas
+- Dokument-till-applikationsarbetsflöden
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- Automatiserade PDF-till-XAMLFLOW-pipeliner för apputveckling
+- Batchkonvertering för företags-WPF-applikationer
+- Arbetsflödesintegration i publiceringssystem
+- Generering av FlowDocument-innehåll i skala
+- Automatisering av interaktiv programvarudokumentation
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

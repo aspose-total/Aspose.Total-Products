@@ -102,7 +102,26 @@ otherformats: WORD DOC ODT WORDML DOT DOCM DOTX DOTM FLATOPC RTF TEXT OTT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל־DOCX** מאפשרת ייצוא שקפים לתוך פורמט המילים המודרני, מבטיחת תאימות עם תכונות וכלים של Word הנוכחיים וכלים לשיתוף פעולה.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- המרת שקפים למסמכי Word ניתנים לעריכה
+- שיתוף צוות בתוכן המצגת
+- הכנת דוחות או חומרי הדרכה
+- ארכיבה בפורמט DOCX נתמך בצורה רחבה
+- תיעוד מובנה ממצגות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- זרימי עבודה אוטומטיים להמרת שקפים ל־DOCX
+- שימוש מחודש בתוכן למערכות עסקיות
+- יצירת דוחות המופעלות על ידי שקפים
+- שילוב עם מערכות לניהול תוכן
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

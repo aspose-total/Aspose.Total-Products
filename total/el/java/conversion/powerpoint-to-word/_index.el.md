@@ -53,7 +53,26 @@ otherformats: OTT WORDM DOTM FLATOPC DOTX RTF ODT DOT WORDML WORDX TEXT WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε WORD** εξασφαλίζει ότι οι διαφάνειες μετατρέπονται σε **επεξεργάσιμα έγγραφα Word**, υποστηρίζοντας την ευρεία χρήση σε αναφορές, συνεργατικές επεξεργασίες και τεκμηρίωση.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+- Δημιουργία επεξεργάσιμων εγγράφων από παρουσιάσεις
+- Δημιουργία εταιρικών αναφορών
+- Προετοιμασία ακαδημαϊκού και εκπαιδευτικού υλικού
+- Αρχειοθέτηση παρουσιάσεων σε μορφή Word
+- Συνεργατικές επεξεργασίες και ροές σχολιασμού
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Σωληνώσεις μαζικής μετατροπής για παρουσιάσεις
+- Ενσωμάτωση σε επιχειρησιακές ροές εγγράφων
+- Αυτόματη δημιουργία αναφορών από διαφάνειες
+- Δημιουργία εγγράφων βασισμένη σε διαφάνειες για ομάδες
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

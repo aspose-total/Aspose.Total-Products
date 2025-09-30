@@ -102,7 +102,26 @@ otherformats: FLATOPC TEXT ODT DOCM DOC DOTM DOCX OTT WORDML RTF DOT WORD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל־DOTX** מאפשרת ייצוא שקופיות ל־**תבניות Word מודרניות**, אשר הן אידיאליות ליצירת תבניות חוזרות ותקנות בלי מאקרוס.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תבניות מודרניות לתיעוד תאגידי
+- חומרי לימוד תקניים
+- תבניות לפרויקטים או דוחות ניתנים לשימוש חוזר
+- ארכיבה של מצגות כתבניות
+- שיתוף צוות במסמכים בעלי תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- המרת שקופיות לתבנית באופן אוטומטי
+- צינורות יצור תבניות לשימוש בארגונים
+- שילוב זרימת עבודה עם מערכות ניהול תוכן
+- אוטומציה של דוחות חוזרים או מסמכי פרויקט
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

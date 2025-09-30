@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na DOTM** umožňuje organizacím vytvářet **makro-povolené šablony Wordu**, které kombinují opakovaně použitelné rozložení s funkcemi automatizace. S online převodníky PDF na DOTM a podnikovými pracovními postupy mohou firmy zjednodušit reporting a zajistit konzistenci v dynamických procesech dokumentů.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Automatizované šablony zpráv s makry  
+- Generování dokumentů na úrovni podniku  
+- Finanční výkazy vyžadující automatizaci vzorců  
+- Dokumentace o shodě s vestavěnými kontrolami  
+- Škálovatelné šablonování dokumentů pro podniky
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Potrubí PDF na DOTM pro škálovatelný reporting  
+- Hromadný převod PDF na DOTM šablonu  
+- Automatizované vytváření opakovaně použitelných šablon s makry  
+- Generování zpráv řízených pracovním postupem z PDF  
+- Inteligentní sestavování dokumentů pomocí DOTM
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

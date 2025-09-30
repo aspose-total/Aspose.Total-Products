@@ -57,7 +57,27 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh APNG đầu ra theo nhu 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang APNG** hữu ích khi các yếu tố tương tác hoặc hoạt hình trong tài liệu cần được biểu diễn dưới định dạng **APNG hoạt hình**. Điều này cho phép tổ chức tăng cường nội dung kỹ thuật số bằng cách biến đổi các minh họa PDF, infographics và biểu đồ động thành **hoạt hình APNG nhẹ**.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tạo infographics hoạt hình từ tệp PDF
+- Chuyển đổi các slide PDF thành APNG cho các bài thuyết trình
+- Xuất bản web với các hoạt hình APNG được trích xuất từ PDF
+- Tài liệu giáo dục yêu cầu **sơ đồ hoạt hình**
+- Nâng cao nền tảng học trực tuyến với hình ảnh hoạt hình
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- **Đường ống hoạt hình PDF sang APNG tự động**
+- Chuyển đổi loạt ảnh minh họa PDF thành chuỗi APNG
+- Quy trình làm việc từ PDF sang APNG cho xuất bản kỹ thuật số
+- Tự động hóa đồ họa tài liệu cấp doanh nghiệp
+- Chuyển đổi PDF sang APNG dựa trên API cho các nền tảng nội dung
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в DOTX** - лучший вариант для создания **шаблонов Word без макросов** из статических PDF. Онлайн конвертеры PDF в DOTX и автоматизированные рабочие процессы помогают организациям обеспечить безопасность документов, соблюдать корпоративный стиль и достичь единообразия в масштабе.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Безопасное создание шаблонов для регулируемых отраслей
+- Соблюдение брендовых стандартов и стилевых руководств
+- Структуры документов в области образования и исследований
+- HR-формы без требований к автоматизации
+- Шаблоны документов, утвержденные государством
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры преобразования PDF в DOTX
+- Пакетная генерация шаблонов DOTX для предприятий
+- Безопасная автоматизация рабочего процесса с файлами DOTX
+- Преобразование из архива в шаблон
+- Автоматизация корпоративного брендинга с помощью DOTX
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

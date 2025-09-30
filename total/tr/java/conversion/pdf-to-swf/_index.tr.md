@@ -121,7 +121,27 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF'yi SWF'ye (Flash)** dönüştürmek, PDF belgelerinden **etkileşimli, web için hazır içerikler** oluşturmak için faydalıdır. Bu format, sunumlar, e-öğrenme modülleri ve çevrimiçi pazarlama materyalleri için uygundur.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- e-öğrenme ve çevrimiçi kurs içerikleri
+- Web için etkileşimli PDF sunumları
+- Pazarlama slaytları ve promosyonlar
+- Web oynatımı için PDF tabanlı multimedya arşivleme
+- Dijital broşürler ve etkileşimli kılavuzlar
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Otomatik **PDF'den SWF'ye boruları**
+- Çevrimiçi eğitim modülleri için toplu dönüşüm
+- e-öğrenme için LMS platformlarıyla entegrasyon
+- SWF çıkışıyla web yayıncılığı iş akışları
+- Ölçeklenebilir etkileşimli PDF içerik otomasyonu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

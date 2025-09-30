@@ -47,7 +47,27 @@ otherformats: SXC XLSM XLSB XLAM FODS DIF XLT TXT TSV XLTM XLTX MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น FODS (Flat ODF Spreadsheet)** ช่วยในการสกัดข้อมูลโครงสร้างจาก PDF เข้าสู่ **LibreOffice Calc และสเปรดชีตที่เข้ากันได้กับ OpenDocument** นี้ช่วยให้องค์กรสามารถนำ **ตาราง PDF เข้าสู่ FODS ที่ใช้ XML** สำหรับการรายงาน การวิเคราะห์ และความเป็นไปตามกฎหมาย
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- PDF เป็น FODS สำหรับการทำงานของสเปรดชีตโอเพนซอร์ส  
+- การแปลงตารางทางวิชาการเป็นสเปรดชีต ODF  
+- การนำข้อมูลกลับมาใช้ในสภาพแวดล้อม LibreOffice และ OpenOffice  
+- การรายงานโครงสร้างด้วยรูปแบบสเปรดชีตที่ใช้ XML  
+- การเก็บถาวรข้อมูลที่เป็นตารางใน PDF  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- **การทำงานของท่อไปร PDF เป็น FODS โดยอัตโนมัติ**  
+- การประมวลผลเป็นชุดของตาราง PDF เป็นสเปรดชีต ODF  
+- การทำงานของไฟล์ JSON ที่สร้าง FODS จาก PDF  
+- การอัตโนมัติในการรายงานขององค์กรด้วยการส่งออก FODS  
+- การผสานระบบโอเพนซอร์สกับเครื่องมือ PDF เป็น FODS  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

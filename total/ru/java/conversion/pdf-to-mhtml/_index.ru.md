@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в MHTML** (формат веб-архива) необходимо для преобразования документов в **HTML-страницы в одном файле с встроенными ресурсами**. Это обеспечивает простое распространение PDF-файлов в виде файлов, готовых для веба, для **архивирования, цифровой публикации и просмотра в браузере**.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- PDF в MHTML для веб-архивирования в одном файле
+- Преобразование отчетов в **веб-архивы** для просмотра в браузере
+- Потоки работ предприятия для **распространения документов на основе HTML**
+- Хранение юридических и документов о соответствии в формате MHTML
+- Цифровые рабочие процессы, преобразующие PDF в **готовые для веба форматы**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **конвейеры PDF в MHTML**
+- Пакетная обработка PDF в веб-архивы
+- Интеграция корпоративной системы управления контентом для вывода в MHTML
+- Автоматизированные рабочие процессы публикации с преобразованием PDF в MHTML
+- Преобразование PDF в браузере в **самодостаточные HTML-архивы**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

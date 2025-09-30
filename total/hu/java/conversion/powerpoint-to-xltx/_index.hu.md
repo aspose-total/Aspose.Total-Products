@@ -61,7 +61,26 @@ A POWERPOINT fájl XLTX formátumba konvertálásakor vízjelet is hozzáadhat a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to XLTX** konvertálása lehetővé teszi az előadások exportálását **modern Excel sablonokké**, újrafelhasználható sablonok létrehozását makrók nélkül az egységesített vállalati vagy akadémiai jelentésekhez.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Modern újrafelhasználható Excel sablonok  
+- Egységesített vállalati vagy akadémiai jelentések  
+- Prezentációk archiválása sablon munkafüzetekként  
+- Projekt vagy jelentés sablonok előkészítése  
+- Együttműködéses sablonmegosztás és szerkesztés
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- XLTX sablonok automatikus generálása az előadásokból  
+- Tömeges sablon létrehozási folyamatok  
+- Integráció vállalati sablonkönyvtárakkal  
+- Sablonvezérelt jelentés automatizálás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

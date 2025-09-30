@@ -47,7 +47,27 @@ PDF dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF**'yi **FODS (Düz ODF Elektronik Tablo)**'a dönüştürmek, **LibreOffice Calc ve OpenDocument uyumlu elektronik tablolar**a yapılandırılmış verilerin **PDF'den çıkarılmasına yardımcı olur**. Bu, kuruluşların **PDF tablolarını XML tabanlı FODS**'da raporlama, analiz ve uyumluluk için yeniden kullanmalarını sağlar.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Açık kaynak elektronik tablo iş akışları için PDF'den FODS'a  
+- Akademik tabloları ODF elektronik tablolarına dönüştürme  
+- LibreOffice ve OpenOffice ortamlarında veri yeniden kullanımı  
+- XML tabanlı elektronik tablo formatlarıyla yapılandırılmış raporlama  
+- Tablo PDF içeriğinin uzun vadeli arşivlenmesi  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Otomatik **PDF'den FODS'a boru hatları**  
+- PDF tablolarının ODF elektronik tablolarına toplu işlenmesi  
+- PDF'den FODS oluşturan JSON destekli iş akışları  
+- FODS dışa aktarma ile kurumsal raporlama otomasyonu  
+- PDF'den FODS araçlarıyla açık kaynak sistem entegrasyonu  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

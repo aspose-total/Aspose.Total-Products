@@ -57,7 +57,27 @@ Med hjälp av API:t kan du också rotera den utgående IMAGE-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertera **PDF till BILD** är en av de vanligaste arbetsflödena, vilket gör det möjligt att omvandla dokument till olika bildformat som PNG, JPG eller TIFF. Detta gör PDF-filer lättare att använda i **webbpublicering, arkivering och digitala presentationsmiljöer**.
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+- Arkivering av PDF-dokument som bildfiler
+- Bädda in PDF-sidor på webbplatser som PNG eller JPG
+- Skapa miniatyrbilder och förhandsvisningar från PDF-filer
+- Integrera PDF-filer i digitala bildspel och presentationer
+- Bildbaserad lagring för efterlevnad och revisioner
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- Automatiserade **PDF-till-BILD batch-pipelines**
+- PDF-till-PNG eller JPG arbetsflöden för webbplattformar
+- Förhandsvisningsbildsgenerering för dokumenthanteringssystem
+- PDF till flersidig TIFF för företagsarkivering
+- Automatiserad API-baserad PDF-till-BILD konvertering
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,27 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น PSD** ช่วยให้นักออกแบบสามารถแปลง **กราฟิก PDF เป็นรูปแบบ Adobe Photoshop** ซึ่งช่วยในการแก้ไขตามเลเยอร์และเพิ่มประสิทธิภาพของการทำงานที่สร้างสรรค์
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การแก้ไขภาพประกอบ PDF ใน Photoshop
+- การแปลงกราฟิกและทรัพย์สินทางการตลาด
+- การทำงานด้วยการออกแบบที่เก็บเลเยอร์สำหรับทีมงานสร้างสรรค์
+- เตรียมเนื้อหา PDF สำหรับแคมเปญสื่อดิจิทัล
+- เก็บถาวรกราฟิก PDF ในรูปแบบ PSD ที่สามารถแก้ไขได้
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การแปลง **PDF เป็น PSD แบบกลุ่มโดยอัตโนมัติ**
+- การผสานการทำงานด้วยการออกแบบสำหรับสตูดิโอสร้างสรรค์
+- การประมวลผล PDF เป็น Photoshop ด้วย API
+- ท่อการทำงานอัตโนมัติกราฟิกขององค์กร
+- การสกัดเลเยอร์อัตโนมัติจากไฟล์ PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}} 
 {{< /blocks/products/pf/main-wrap-class >}}

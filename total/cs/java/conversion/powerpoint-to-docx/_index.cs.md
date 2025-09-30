@@ -53,7 +53,26 @@ Pomocí API můžete také provést převod POWERPOINT souboru na DOCX s vodozna
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu do DOCX** umožňuje export prezentací do **moderního formátu Wordu**, zajistí kompatibilitu s aktuálními funkcemi Wordu a nástroji pro spolupráci.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Transformace snímků do editovatelných moderních dokumentů Wordu  
+- Týmová spolupráce na obsahu prezentace  
+- Příprava zpráv nebo školicích materiálů  
+- Archivace ve široce podporovaném formátu DOCX  
+- Strukturovaná dokumentace z prezentací
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Hromadné převody snímků do formátu DOCX  
+- Automatické využití obsahu pro podniky  
+- Generování zpráv řízených snímky  
+- Integrace s systémy pro správu obsahu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

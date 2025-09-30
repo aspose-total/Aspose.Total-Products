@@ -49,7 +49,26 @@ POWERPOINT를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 JSON으로 변환**하면 슬라이드를 **구조화된 JSON 데이터**로 내보낼 수 있어 웹 애플리케이션, API 및 자동 처리 시스템과의 원활한 통합이 가능해집니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션 콘텐츠를 웹이나 모바일 앱에 통합  
+- 데이터 기반 슬라이드 생성  
+- 구조화된 JSON으로 슬라이드 보관하여 재사용  
+- 기업 보고 및 분석  
+- 슬라이드 데이터를 활용한 템플릿 기반 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- JSON 기반 프레젠테이션 워크플로우  
+- 자동화된 API 기반 콘텐츠 전달  
+- 슬라이드를 JSON으로 일괄 변환  
+- 구조화된 데이터 처리를 위한 AI/분석 시스템 통합
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

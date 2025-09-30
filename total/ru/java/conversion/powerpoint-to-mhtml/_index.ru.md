@@ -61,7 +61,26 @@ otherformats: FODS ODS XLAM XLSX XLSM SXC MARKDOWN XLSB DIF MHTML XLTX XLS TSV E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в MHTML** позволяет экспортировать слайды в формат **веб-архива**, объединяя HTML-контент и ресурсы в один файл для удобного обмена и публикации.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Архивирование презентаций для публикации в Интернете
+- Обмен слайдами как самодостаточными веб-страницами
+- Просмотр презентаций на различных платформах
+- Распространение корпоративного контента в корпоративной сети
+- Обмен учебным материалом через веб-архивы
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры преобразования в MHTML
+- Пакетные рабочие процессы преобразования слайдов в веб-архивы
+- Интеграция с системами управления контентом
+- Автоматизация подготовки отчетов для веба
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

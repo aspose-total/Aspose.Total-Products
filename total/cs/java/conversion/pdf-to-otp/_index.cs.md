@@ -121,7 +121,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na OTP** je důležitý pro generování souborů **šablon prezentací ve formátu OpenDocument Presentation**, což umožňuje opakované použití šablon snímků napříč podniky, vzdělávacími institucemi a vládními orgány.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Standardizované šablony firemních prezentací
+- Šablony akademických přednáškových sérií
+- Komunikační a vzdělávací moduly pro vládu
+- Archivy prezentací nevládních organizací
+- Spolupracující pracovní postupy designu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatické konverzní potrubí PDF na OTP
+- Automatizace prezentací založená na šablonách
+- Hromadná generace šablon z archivovaných PDF
+- Integrace pracovního postupu s LibreOffice Impress
+- Centralizované repozitáře šablon pro organizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

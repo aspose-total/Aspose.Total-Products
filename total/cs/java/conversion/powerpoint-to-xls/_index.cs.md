@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na XLS můžete také přidat vodoznak do výst
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na XLS** umožňuje export snímků jako **starých sešitů Excel 97–2003**, podporující kompatibilitu s staršími systémy tabulek.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Kompatibilita se starými sešity  
+- Archivace tabulek a grafů prezentace  
+- Podnikové hlášení ve starších formátech Excelu  
+- Sdílení dat mezi platformami  
+- Příprava strukturovaných zpráv pro starší systémy
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Dávkový převod snímků na XLS  
+- Integrace s pracovními postupy starých hlášení  
+- Automatizované extrahování tabulek prezentace  
+- Archivace strukturovaných dat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

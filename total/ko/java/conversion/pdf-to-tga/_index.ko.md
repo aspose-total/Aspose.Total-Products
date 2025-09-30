@@ -57,7 +57,27 @@ API를 사용하여 필요에 따라 출력 TGA 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 TGA (Targa)로 변환**하는 것은 디지털 아트, 게임 및 멀티미디어 제작을 위해 PDF 페이지에서 **고품질 래스터 이미지**를 만드는 데 이상적입니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 디지털 아트 및 일러스트 추출
+- PDF 콘텐츠에서 게임 에셋 생성
+- 멀티미디어 프로젝트용 고품질 래스터 그래픽
+- TGA 이미지로 PDF 그래픽 아카이빙
+- 애니메이션 및 시각 효과 워크플로우용 변환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-TGA 일괄 변환**
+- 디지털 미디어 및 게임 파이프라인 통합
+- 시각 효과를 위한 PDF 그래픽 래스터화
+- 멀티미디어 제작을 위한 워크플로우 자동화
+- TGA로 확장 가능한 PDF 이미지 내보내기
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

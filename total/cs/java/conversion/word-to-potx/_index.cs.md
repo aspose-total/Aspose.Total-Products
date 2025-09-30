@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na POTX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **WORD na POTX** umožňuje transformaci obsahu Wordu do souborů **PowerPoint Template (POTX)**, poskytující opakovaně použitelné šablony prezentací bez maker pro podnikové a akademické účely.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření opakovaně použitelných šablon PowerPoint bez maker
+- Standardizované podnikové šablony prezentací
+- Příprava akademických a výzkumných snímků
+- Šablonami řízené firemní reporty a briefinky
+- Automatizace pracovního postupu pro snímky bez maker
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizovaná generace šablony Word-to-POTX
+- Hromadný převod pro opětovné použití šablony
+- Šablonami řízené pracovní postupy pro snímky
+- Prezentační potrubí na úrovni podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

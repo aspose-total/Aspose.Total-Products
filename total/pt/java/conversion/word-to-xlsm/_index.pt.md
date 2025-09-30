@@ -61,7 +61,26 @@ Depois de converter WORD para XLSM, o [Aspose.Cells for Java](https://products.a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para XLSM** permite que documentos do Word sejam transformados em **Pastas de Trabalho Habilitadas para Macro do Excel (XLSM)**, possibilitando automação por meio de macros VBA e fluxos de trabalho aprimorados de planilhas.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Criar relatórios do Excel habilitados para macro a partir de dados do Word
+- Fluxos de trabalho de automação empresarial
+- Conjuntos de dados de pesquisa acadêmica com cálculos automatizados
+- Conversão de documentos para planilhas orientada por modelo
+- Relatórios estruturados governamentais e corporativos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Geração automatizada de relatórios do Word para XLSM
+- Automação de fluxo de trabalho habilitado para macro
+- Criação de macros do Excel orientada por modelo
+- Pipelines de automação de documentos de nível empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

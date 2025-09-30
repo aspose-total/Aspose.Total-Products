@@ -53,7 +53,26 @@ Pomocí API můžete také provést převod POWERPOINT souboru na WORDML s vodoz
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na WORDML** je klíčový pro vytváření **WordprocessingML (XML založené dokumenty Wordu) z prezentací**, umožňující strukturované pracovní postupy s dokumenty.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Strukturované ukládání firemních dokumentů
+- Generování na základě šablon z prezentací
+- Výměna dat mezi systémy
+- Digitální archivy pro vládu a dodržování předpisů
+- Akademické publikování s strukturovaným XML
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované potrubí PowerPoint-to-WordML
+- Generování XML dokumentů ze snímků
+- Pracovní postupy s XML řízené prezentacemi
+- Strukturované reportování na úrovni podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

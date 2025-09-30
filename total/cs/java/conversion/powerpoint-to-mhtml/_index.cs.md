@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na MHTML můžete také přidat vodoznak do vý
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na MHTML** umožňuje exportovat snímky jako **formát webové archivy**, který kombinuje obsah HTML a zdroje do jediného souboru pro snadné sdílení a publikování.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Archivace prezentací pro webové publikování
+- Sdílení snímků jako samostatných webových stránek
+- Prohlížení prezentací na různých platformách
+- Distribuce obsahu firemní intranet
+- Sdílení vzdělávacích materiálů pomocí webových archivů
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované konverzní toky do MHTML
+- Dávkové pracovní postupy pro převod snímků na webové archivy
+- Integrace s systémy pro správu obsahu
+- Automatizace přípravy pro web
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

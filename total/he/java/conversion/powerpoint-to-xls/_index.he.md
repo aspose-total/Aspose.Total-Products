@@ -102,7 +102,26 @@ otherformats: TSV XLTM XLSX MARKDOWN XLT XLSB MHTML DIF CSV XLSM ODS SXC EXCEL X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-XLS** מאפשרת ייצוא שקופיות כקבצי **Excel 97-2003 המוכרים**, תומכת בתאימות עם מערכות גיליון ישנות יותר.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- תאימות עם גרסאות ישנות של גיליונות אלקטרוניים
+- ארכיבה של טבלאות ותרשימים ממצגת
+- דיווח עסקי בפורמטים ישנים יותר של Excel
+- שיתוף נתונים בין פלטפורמות
+- הכנת דוחות מובנים עבור מערכות ישנות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- המרת שקופיות ל-XLS בצורה רצפה
+- שילוב עם זרימות עבודה לצורך דיווחים ישנים
+- חילוץ אוטומטי של טבלאות ממצגת
+- ארכיבה מובנית של נתונים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

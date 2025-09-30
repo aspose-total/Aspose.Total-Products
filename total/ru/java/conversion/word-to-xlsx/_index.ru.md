@@ -61,7 +61,26 @@ otherformats: SXC XLSX ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в XLSX** позволяет экспортировать таблицы Word в современный формат **Excel Workbook (XLSX)**, обеспечивая совместимость с текущими версиями Excel и продвинутыми функциями электронных таблиц.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Экспорт таблиц Word в современные книги Excel
+- Интеграция отчетности и аналитики предприятия
+- Подготовка таблиц для академических и исследовательских целей
+- Преобразование документов в Excel на основе шаблонов
+- Ведение записей в государственных и корпоративных структурах
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры Word-to-XLSX
+- Пакетная генерация отчетов Excel
+- Структурированная автоматизация электронных таблиц на основе шаблонов
+- Рабочие процессы интеграции данных корпоративного уровня
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

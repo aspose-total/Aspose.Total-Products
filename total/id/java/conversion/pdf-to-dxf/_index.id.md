@@ -57,7 +57,25 @@ Menggunakan API, Anda juga dapat memutar gambar DXF keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke DXF** sangat penting bagi insinyur, arsitek, dan desainer yang perlu mengubah dokumen statis menjadi gambar **AutoCAD-compatible**. Ini memungkinkan penggunaan ulang yang mulus dari **blueprint PDF** dalam alur kerja CAD untuk konstruksi, manufaktur, dan desain 3D.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Mengonversi blueprint arsitektur dari PDF ke DXF
+- Penggunaan kembali gambar teknik dalam perangkat lunak CAD
+- Alur kerja manufaktur yang memerlukan input yang kompatibel dengan CAD
+- Migrasi skematik PDF ke format DXF
+- Berbagi desain kolaboratif di antara tim
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa CAD PDF-to-DXF otomatis**
+- Konversi blueprint PDF secara batch untuk proyek konstruksi
+- Otomatisasi PDF ke DXF untuk gambar manufaktur
+- Alur kerja ekspor DXF untuk sistem rekayasa perusahaan
+- Otomatisasi CAD yang dapat diskalakan yang mengintegrasikan input PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

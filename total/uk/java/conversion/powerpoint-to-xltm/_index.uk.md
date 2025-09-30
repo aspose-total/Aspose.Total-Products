@@ -102,7 +102,26 @@ otherformats: SXC XLS FODS MHTML MARKDOWN CSV XLSM XLT EXCEL DIF ODS XLAM XLSX T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PowerPoint в XLTM** дозволяє слайдам стати **шаблонами Excel з макросами**, зберігаючи макроси для повторних автоматизованих звітів та корпоративних робочих процесів.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+- Повторне використання шаблонів Excel з макросами
+- Стандартизовані звіти з вбудованою автоматизацією
+- Архівування презентацій як шаблонів з макросами
+- Інтерактивні шаблони проектів для корпоративного використання
+- Створення освітніх та навчальних шаблонів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані конвеєри конвертації слайдів в XLTM
+- Створення бібліотеки корпоративних шаблонів з макросами
+- Пакетне створення макро-шаблонів
+- Автоматизована звітність на основі шаблонів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

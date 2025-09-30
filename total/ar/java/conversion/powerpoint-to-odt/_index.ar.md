@@ -53,7 +53,26 @@ otherformats: ODT FLATOPC OTT DOTM TEXT WORD ODTM ODTX DOT DOTX RTF WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى ODT** يسمح بحفظ الشرائح كمستندات **OpenDocument Text**، داعمًا للمحتوى النصي القابل للتحرير والمتوافق مع مختلف الأنظمة من العروض التقديمية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل الشرائح إلى ملفات نصية قابلة للتحرير بتنسيق OpenDocument
+- التحرير التعاوني عبر مجموعات مكتبية مختلفة
+- أرشفة العروض التقديمية بتنسيق مدعوم على نطاق واسع
+- مواد تعليمية وتقارير شركات
+- إعادة استخدام محتوى العرض التقديمي للتوثيق
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- تحويل دفعة من PowerPoint إلى ODT
+- دمجه في سير العمل لإدارة المستندات
+- إنشاء تقارير تلقائيًا من الشرائح
+- أنابيب إعادة استخدام محتوى المؤسسة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

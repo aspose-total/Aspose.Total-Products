@@ -47,7 +47,27 @@ PDF 파일을 MD로 변환하는 동안 출력 MD 파일 형식에 워터마크�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 MD로** 변환하는 경우는 **개발자 문서, 기술 블로그 및 콘텐츠 자동화 파이프라인**에서 널리 사용되는 **Markdown (.md) 형식**으로 PDF 파일을 변환하는 데 초점을 맞춥니다. 이를 통해 PDF 텍스트, 표 및 코드 스니펫을 Markdown 편집기에서 구조화된 방식으로 재사용할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF에서 MD로 개발자 문서 이관
+- 편집을 위해 PDF 매뉴얼을 Markdown으로 변환
+- MD 콘텐츠를 활용한 기술 블로깅 워크플로우
+- Markdown으로 저장된 오픈 소스 프로젝트 문서
+- PDF 보고서로부터 구조화된 **지식 베이스** 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 개발자를 위한 자동화된 **PDF-to-MD 파이프라인**
+- Markdown 저장소로의 일괄 PDF 변환
+- PDF-to-MD 내보내기를 통합하는 Git 기반 워크플로우
+- CMS 플랫폼을 위한 API 기반 PDF-to-MD 처리
+- PDF 문서를 MD로 이관하는 기업 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

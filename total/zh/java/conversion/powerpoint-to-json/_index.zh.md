@@ -49,7 +49,26 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 JSON** 可以将幻灯片导出为 **结构化的 JSON 数据**，实现与 Web 应用程序、API 和自动化处理系统的无缝集成。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将演示内容集成到 Web 或移动应用程序中
+- 数据驱动的幻灯片生成
+- 将幻灯片存档为结构化的 JSON 以便重复使用
+- 企业报告和分析
+- 使用幻灯片数据进行基于模板的自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 基于 JSON 的演示工作流
+- 自动化的基于 API 的内容交付
+- 将幻灯片批量转换为 JSON
+- 与 AI/分析系统集成，用于结构化数据处理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

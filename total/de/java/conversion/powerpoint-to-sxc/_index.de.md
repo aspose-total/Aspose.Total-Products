@@ -61,7 +61,26 @@ Beim Konvertieren der POWERPOINT-Datei in SXC können Sie Ihrem Ausgabe-SXC-Date
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Konvertierung von **PowerPoint zu SXC** ermöglicht das Exportieren von Tabellen und strukturierten Folieninhalten in das **StarOffice Calc Spreadsheet-Format**, was die Kompatibilität mit älteren Versionen ermöglicht und die Datenanalyse erleichtert.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Extrahieren von Tabellendaten aus Folien für Tabellenkalkulationen
+- Kompatibilität mit älteren Office-Suiten für Tabellenkalkulationen
+- Datenbasierte Berichterstellung und Analyse
+- Archivierung strukturierter Inhalte aus Präsentationen
+- Vorbereitung numerischer Berichte aus Folien
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte Umwandlung von Folien in SXC-Tabellen
+- Stapelverarbeitungspipelines für Analysen
+- Integration in unternehmenseigene Berichtssysteme
+- Workflow-Automatisierung für die Erstellung von Tabellenkalkulationen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

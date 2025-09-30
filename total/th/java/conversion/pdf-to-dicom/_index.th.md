@@ -57,7 +57,27 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น DICOM** เป็นสิ่งจำเป็นสำหรับภาคสุขภาพที่ต้องการรวมภาพถ่ายทางการแพทย์และเอกสารทางคลินิกเข้าด้วยกัน นี้จะทำให้ **รายงานทางการแพทย์ในรูปแบบ PDF** สามารถแปลงเป็น **รูปแบบ DICOM สำหรับเซิร์ฟเวอร์ PACS** การทำงานทางรังสีวิทยา และการเก็บถาวรในโรงพยาบาลในระยะยาว
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การรวมรายงานทางการแพทย์เข้าสู่ระบบภาพถ่าย DICOM  
+- การแปลง PDF เป็น DICOM สำหรับรายงานทางรังสีวิทยาและโรคหัวใจ  
+- การเก็บถาวรบนเซิร์ฟเวอร์ PACS ของโรงพยาบาลและความเป็นไปตามกฎหมาย  
+- การแบ่งปันข้อมูลทางการแพทย์โครงสร้างข้ามระบบ  
+- การจัดการบันทึกข้อมูลผู้ป่วยในรูปแบบมาตรฐาน  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- ท่องไปท่องมาอัตโนมัติสำหรับ **การสร้างภาพถ่ายทางการแพทย์จาก PDF เป็น DICOM**  
+- การแปลงไฟล์ PDF ในชุดเป็นเอกสารเก็บข้อมูล DICOM  
+- การรวมระบบ EMR/EHR ของโรงพยาบาลกับการทำงาน PDF เป็น DICOM  
+- การอัตโนมัติภาพถ่ายทางการแพทย์ขององค์กรเพื่อความเป็นไปตามกฎหมาย  
+- การถ่ายโอนข้อมูลทางคลินิกอย่างปลอดภัยและอัตโนมัติ  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

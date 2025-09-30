@@ -61,7 +61,26 @@ POWERPOINTファイルをODSに変換するときに、出力ODSファイル形�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをODSに変換**することで、プレゼンテーションの表を**OpenDocument Spreadsheet形式**にエクスポートでき、構造化されたデータ解析やクロスプラットフォーム互換性が可能になります。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- スライドの表をスプレッドシート分析用に抽出する
+- 企業向けレポーティングおよび分析
+- OpenDocumentツールを使用したクロスプラットフォームデータ共有
+- 構造化されたスライドデータのアーカイブ
+- プレゼンテーションから数値または表形式のレポートを作成する
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- ODS形式への自動表抽出
+- 分析パイプラインとの統合
+- バッチ処理によるスライドからスプレッドシートへの変換
+- データ駆動型レポーティングワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

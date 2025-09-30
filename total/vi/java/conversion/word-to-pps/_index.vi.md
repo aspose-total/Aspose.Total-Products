@@ -54,7 +54,26 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORD được bảo v
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **WORD sang PPS** cho phép nội dung Word trở thành các tệp **PowerPoint Show (PPS)**, sẵn sàng cho việc trình bày trực tiếp mà không cần thiết lập slide thủ công.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Chuyển đổi báo cáo Word thành các bản trình bày sẵn sàng phát
+- Slide họp doanh nghiệp và công ty
+- Chuẩn bị tài liệu học tập và đào tạo
+- Bản trình bày và báo cáo dựa trên mẫu
+- Bản trình bày sẵn sàng cho chính phủ và tổ chức
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Đường ống trình bày tự động từ Word sang PPS
+- Tạo lô slide sẵn sàng phát
+- Quy trình làm việc trình bày tự động dựa trên mẫu
+- Tự động hóa PowerPoint cấp doanh nghiệp
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

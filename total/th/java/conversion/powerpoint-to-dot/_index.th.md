@@ -53,7 +53,26 @@ otherformats: DOTM DOT DOTX FLATOPC ODT OTT DOTX RTF WORD WORDML DOTM TEXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น DOT** ช่วยให้สามารถบันทึกงานนำเสนอเป็น **เทมเพลต Word**, ทำให้สามารถนำเนื้อหางานนำเสนอมาใช้ซ้ำได้ในรูปแบบเอกสารมาตรฐาน
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- สร้างเทมเพลต Word ที่ใช้ซ้ำจากสไลด์
+- มาตรฐานเอกสารขององค์กร
+- รายงานและข้อเสนอที่ใช้เทมเพลต
+- เก็บสถาปัตยกรรมงานนำเสนอเพื่อใช้ในภายหลัง
+- การสร้างเทมเพลตทางการศึกษา
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การสร้างเทมเพลตโดยอัตโนมัติจากสไลด์
+- การผสานข้อมูลเข้ากับไลบรารีเทมเพลตขององค์กร
+- สร้างรูปแบบเอกสารหลายรูปแบบจาก PPT เดียว
+- อัตโนมัติรายงานตามเทมเพลต
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

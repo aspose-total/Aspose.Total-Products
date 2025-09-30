@@ -49,7 +49,27 @@ otherformats: XLTM XLAM XLTX SXC DIF MD XLSB XLT FODS TSV EXCEL TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 Excel (XLS/XLSX)** 是企业中最常见的需求之一，可以直接从报告中生成 **结构化电子表格**。在线 PDF 转 Excel 软件和自动化流程可以解锁财务、学术和商业数据，以进行交互式分析。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 财务报告和审计
+- 学术研究数据集
+- 库存和物流管理
+- 商业智能报告
+- 政府经济报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 企业自动化 PDF 到 Excel 工作流程
+- 从扫描的 PDF 批量提取 Excel
+- 基于 AI 的 PDF 到电子表格转换
+- 使用 Excel 进行财务合规流程
+- 实时分析与 Excel 文件集成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

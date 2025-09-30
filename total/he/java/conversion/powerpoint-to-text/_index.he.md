@@ -102,7 +102,26 @@ otherformats: OTT DOCM WORDML RTF DOC DOTX WORD DOCX FLATOPC ODT DOT DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint לטקסט** מאפשרת ייצוא שקופיות לתוך **פורמט טקסט פשוט**, אידיאלי לחילוץ נתונים, ניתוח טקסט, או שיתוף תוכן קל.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- חילוץ טקסט לצורך ניתוח או עיבוד באמצעות AI  
+- הכנת דוחות או הערות בפורמט טקסט פשוט  
+- ארכיבה קלה של תוכן משקפי המצגת  
+- שימוש מחודש בתוכן למיילים או סקריפטים  
+- יצירת תיעוד פשוט ממצגות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות חילוץ טקסט משקפיות באופן אוטומטי  
+- שילוב עם מערכות NLP או AI לניתוח  
+- זרימות עבודה בתחום הטקסט בחברות ממצגות  
+- חילוץ תוכן בצורה צפויה לדיווחים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ otherformats: FODS XLAM TSV ODS XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в ODS** позволяет экспортировать таблицы презентации в формат **OpenDocument Spreadsheet**, обеспечивая структурированный анализ данных и совместимость с различными платформами.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Извлечение таблиц слайдов для анализа в электронных таблицах
+- Отчетность и аналитика для предприятий
+- Обмен данными между платформами с помощью инструментов OpenDocument
+- Архивирование структурированных данных слайдов
+- Подготовка числовых или табличных отчетов из презентаций
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированное извлечение таблиц в формат ODS
+- Интеграция с аналитическими конвейерами
+- Пакетное преобразование слайдов в электронные таблицы
+- Рабочие процессы отчетности на основе данных
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

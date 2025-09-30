@@ -54,7 +54,24 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORD được bảo v
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **WORD sang PPSX** biến tài liệu Word thành các tệp **PowerPoint Show (PPSX)**, cung cấp bài thuyết trình sẵn sàng phát mà không có macro cho công ty, học thuật và doanh nghiệp.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Bài thuyết trình sẵn sàng phát từ nội dung Word
+- Slide doanh nghiệp và công ty không chứa macro
+- Chuẩn bị bài thuyết trình học thuật và đào tạo
+- Chuẩn bị báo cáo và thông báo dựa trên mẫu
+- Chuẩn bị bài thuyết trình sẵn sàng cho tổ chức và chính phủ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Đường ống chuyển đổi tự động từ Word sang PPSX
+- Tự động hóa slide sẵn sàng phát dựa trên mẫu
+- Quy trình làm việc bài thuyết trình không chứa macro cấp doanh nghiệp
+- Chuyển đổi hàng loạt từ báo cáo Word sang bài thuyết trình
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

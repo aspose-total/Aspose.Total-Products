@@ -121,7 +121,27 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в POTX** создает **файлы шаблонов PowerPoint XML**, обеспечивая совместимость с современными версиями Office и повторное использование шаблонов для **корпоративных и учебных презентаций**.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Архивы корпоративных шаблонов для PowerPoint
+- Шаблоны слайдов для образования и академических целей
+- Шаблоны для маркетинга и бизнес-предложений
+- Повторно используемые презентации для семинаров и мастер-классов
+- Управление шаблонами на основе облака
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **шаблоны потоков PDF в POTX**
+- Пакетное преобразование для библиотек корпоративных шаблонов
+- Автоматизация рабочего процесса для повторного использования презентаций
+- Интеграция с облачными решениями Office
+- Масштабируемое управление шаблонами презентаций
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

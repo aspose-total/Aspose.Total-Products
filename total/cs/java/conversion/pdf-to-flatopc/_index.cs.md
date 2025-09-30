@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na plochý OPC (Open Packaging Convention)** je klíčový pro vytváření **jedno-souborové XML reprezentace kancelářských dokumentů**. Tento postup podporuje archivaci pro podniky, výměnu dat a plynulé pracovní postupy zahrnující **integraci PDF do OpenXML**.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Archivace PDF do plochého OPC
+- PDF na plochý OPC pro interoperabilitu s kanceláří
+- XML založené pracovní postupy pro výměnu dokumentů
+- Dlouhodobá archivace ve struktuře plochého OPC
+- Generování na základě šablon pro automatizaci kanceláře
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **potrubí PDF do plochého OPC**
+- Pracovní postupy s XML dokumenty převádějící z PDF
+- Podnikové reportování s plochými OPC strukturami
+- Dávkové zpracování PDF do jedno-souborového formátu OpenXML
+- Integrace pracovních postupů s automatizací Microsoft Office
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

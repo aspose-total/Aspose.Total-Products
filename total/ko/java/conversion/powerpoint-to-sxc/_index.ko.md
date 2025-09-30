@@ -61,7 +61,26 @@ POWERPOINT 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 SXC로 변환**하면 표 및 구조화된 슬라이드 데이터를 **StarOffice Calc 스프레드시트 형식**으로 내보낼 수 있어, 레거시 호환성과 데이터 분석이 가능해집니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 스프레드시트용 슬라이드 테이블 데이터 추출
+- 오래된 오피스 스위트용 레거시 스프레드시트 호환성
+- 데이터 기반 보고 및 분석
+- 프레젠테이션의 구조화된 콘텐츠 아카이빙
+- 슬라이드로부터 숫자 보고서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 슬라이드에서 SXC 테이블로의 변환
+- 분석을 위한 일괄 추출 파이프라인
+- 기업 보고 시스템과의 통합
+- 레거시 스프레드시트 생성을 위한 워크플로 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,27 @@ PDF 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 Excel (XLS/XLSX)로 변환**하는 것은 기업들의 가장 일반적인 요구 중 하나로, 보고서로부터 **구조화된 스프레드시트**를 직접 얻을 수 있습니다. 온라인 PDF를 Excel로 변환하는 도구와 자동화된 파이프라인을 통해 금융, 학술 및 비즈니스 데이터를 대화식 분석을 위해 활용할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 재무 보고 및 감사
+- 학술 연구 데이터셋
+- 재고 및 물류 관리
+- 비즈니스 인텔리전스 보고
+- 정부 경제 보고서
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 기업을 위한 자동화된 PDF-to-Excel 워크플로우
+- 스캔된 PDF에서 일괄 Excel 추출
+- AI 기술을 활용한 PDF-to-스프레드시트 변환
+- Excel을 활용한 재무 규정 준수 파이프라인
+- Excel 파일과의 실시간 분석 통합
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

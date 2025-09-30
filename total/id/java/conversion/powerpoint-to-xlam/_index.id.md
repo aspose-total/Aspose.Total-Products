@@ -61,7 +61,26 @@ Saat mengonversi file POWERPOINT ke XLAM, Anda juga dapat menambahkan tanda air 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PowerPoint ke XLAM** memungkinkan slide diekspor ke **add-in Excel yang mendukung makro**, memungkinkan otomatisasi dan fungsi yang dapat digunakan ulang yang berasal dari data presentasi.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Membuat add-in Excel dengan makro yang didorong oleh presentasi
+- Mengotomatisasi fungsi pelaporan berdasarkan slide
+- Integrasi alur kerja perusahaan dengan otomatisasi Excel
+- Perpustakaan makro yang dapat digunakan ulang dari data presentasi
+- Mempermudah tugas-tugas spreadsheet yang berulang
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Generasi otomatis add-in XLAM dari presentasi
+- Alur kerja makro slide-ke-Excel dalam jumlah besar
+- Integrasi dengan jalur pelaporan perusahaan
+- Otomatisasi yang didorong oleh slide di Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 PS（PostScript）** 对于高质量的打印工作流至关重要，使 PDF 可以发送到 **与 PostScript 兼容的打印机**，用于专业出版、平面设计和企业打印环境。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+- 从 PDF 文档生成专业印刷品
+- 面向 PostScript 打印机的平面设计输出
+- 企业和政府打印工作流
+- 出版社的排版工作流
+- 将 PDF 存档为 PostScript 格式以符合规定
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的 **PDF 到 PS 打印流水线**
+- 批量 PDF 转换以进行大容量打印作业
+- 与企业打印服务器集成
+- 出版业的排版工作流自动化
+- 具有 PS 输出的可扩展打印自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

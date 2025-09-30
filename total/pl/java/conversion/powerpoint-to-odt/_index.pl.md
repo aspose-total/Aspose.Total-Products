@@ -53,7 +53,26 @@ Korzystając z API, możesz również wykonać konwersję pliku POWERPOINT do OD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do ODT** pozwala zapisać slajdy jako dokumenty **OpenDocument Text**, obsługując edytowalne, wieloplatformowe treści tekstowe z prezentacji.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Przekształcanie slajdów w edytowalne pliki tekstowe OpenDocument
+- Współpraca przy edycji w różnych pakietach biurowych
+- Archiwizowanie prezentacji w powszechnie obsługiwanym formacie
+- Materiały edukacyjne i raporty korporacyjne
+- Ponowne wykorzystanie treści prezentacji do dokumentacji
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Konwersje wsadowe z PowerPoint do ODT
+- Integracja z przepływami pracy dokumentów
+- Automatyczne generowanie raportów ze slajdów
+- Przetwarzanie treści przedsiębiorstwa do celów ponownego wykorzystania
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

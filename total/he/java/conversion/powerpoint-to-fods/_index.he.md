@@ -102,7 +102,26 @@ otherformats: XLSB XLSM XLAM DIF CSV XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל־FODS** מאפשרת ייצוא שולחנות המצגת ל־**Flat OpenDocument Spreadsheet**, שימושי לניתוח, תמיכה בנתונים ודיווחים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- חילוץ נתוני טבלה משקפים לגיליונות אלקטרוניים
+- שיתוף נתונים בין פלטפורמות עם כלי OpenDocument
+- ניתוח ודיווח נתונים לעסקים
+- ארכיבה של נתוני שקפים מובנים
+- הכנת דוחות מספריים או טבלאיים ממצגות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- חילוץ אוטומטי של טבלאות לפורמט FODS
+- שילוב עם צינורות אנליטיקה
+- המרת שקפים לגיליונות אלקטרוניים בצורה צפונית
+- אוטומציה של תהליכי עבודה מבוססי נתונים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

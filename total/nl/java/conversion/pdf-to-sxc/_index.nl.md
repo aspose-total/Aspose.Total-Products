@@ -47,7 +47,25 @@ Tijdens het converteren van het PDF-bestand naar SXC, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PDF naar SXC (OpenOffice Calc-spreadsheet)** helpt gestructureerde gegevens uit PDF's te extraheren naar **open-source spreadsheetformaat**, waardoor verdere analyse, rapportage en academisch onderzoek mogelijk is.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Extractie van academische en onderzoeksgegevens  
+- Workflows met open-source spreadsheets (LibreOffice/OpenOffice)  
+- Financiële en wetenschappelijke gegevensrapportage  
+- Migratie van PDF-tabellen naar bewerkbaar SXC-formaat  
+- Archivering en hergebruik van spreadsheets voor bedrijven  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde **PDF-naar-SXC gegevenspijplijnen**  
+- Batchconversie van rapporten en datasets  
+- Integratie met gegevensanalyse- en rapportagesystemen  
+- Automatisering van workflows voor bedrijven en academici  
+- Extractie van PDF-tabellen naar open-source spreadsheetformaten  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,26 @@ otherformats: PPS PPSX PPTX POWERPOINT POTX POT PPTM PPSM PPT POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ΛΈΞΗ σε PPT** επιτρέπει στα έγγραφα Word να εξάγονται σε παλαιότερα αρχεία **PowerPoint (PPT)**, καθιστώντας το περιεχόμενο κειμένου έτοιμο για παρουσίαση για επιχειρήσεις, εταιρική χρήση και ακαδημαϊκούς σκοπούς.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Δημιουργία παλαιών παρουσιάσεων PPT από αναφορές Word
+- Διαφάνειες ενημέρωσης για επιχειρήσεις και εταιρικά περιβάλλοντα
+- Διαφάνειες ακαδημαϊκής έρευνας και διδασκαλίας
+- Παρουσιάσεις για κυβερνητικούς και οργανωτικούς σκοπούς
+- Δημιουργία διαφανειών με βάση πρότυπα από δομημένο περιεχόμενο Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής από Word σε PPT
+- Μαζική μετατροπή αναφορών Word σε παρουσιάσεις
+- Αυτοματοποίηση παραγωγής διαφανειών με βάση πρότυπα
+- Ροές εργασίας από έγγραφα σε διαφάνειες υψηλής ποιότητας για επιχειρήσεις
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

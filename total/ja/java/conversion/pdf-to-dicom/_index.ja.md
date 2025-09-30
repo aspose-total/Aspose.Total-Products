@@ -57,7 +57,27 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをDICOMに変換**することは、医療分野において重要です。医用画像と臨床文書を統合する必要があるため、**PDF医療レポート**を**DICOM形式に変換**することで、PACSサーバー、放射線学ワークフロー、長期的な病院アーカイブに利用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- DICOM画像システムへの医療レポートの統合
+- **放射線学および心臓病**レポートのPDFからDICOMへの変換
+- 病院PACSサーバーのアーカイブとコンプライアンス
+- システム間での構造化された医療データの共有
+- 標準化された患者記録管理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- **PDFをDICOM医療画像**に自動変換するパイプライン
+- PDFスキャンのバッチ変換をDICOMアーカイブに
+- 病院のEMR/EHRをPDFからDICOMへのワークフローと統合
+- コンプライアンスのための企業向け医療画像自動化
+- 臨床データの安全で自動化された転送
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

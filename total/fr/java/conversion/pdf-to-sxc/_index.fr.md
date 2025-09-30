@@ -47,7 +47,25 @@ Lors de la conversion du fichier PDF en SXC, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en SXC (feuille de calcul OpenOffice Calc)** aide à extraire des données structurées des PDF en **format de feuille de calcul open-source**, permettant une analyse, des rapports et des recherches académiques ultérieurs.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Extraction de données académiques et de recherche
+- Flux de travail de feuille de calcul open-source (LibreOffice/OpenOffice)
+- Rapports de données financières et scientifiques
+- Migration de tableaux PDF en format SXC modifiable
+- Archivage et réutilisation de feuilles de calcul d'entreprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines de données PDF vers SXC automatisés**
+- Conversion en lot de rapports et ensembles de données
+- Intégration avec des systèmes d'analyse et de rapports de données
+- Automatisation des flux de travail d'entreprise et académiques
+- Extraction de tableaux PDF dans des formats de feuille de calcul open-source
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

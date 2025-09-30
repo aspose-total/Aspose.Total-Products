@@ -53,7 +53,26 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 DOTM로 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 DOTM으로 변환**하면 슬라이드를 **매크로가 활성화된 워드 템플릿**으로 변환하여, 기업이나 학술적인 반복적 사용을 위한 상호작용 자동화를 보존할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 매크로가 활성화된 재사용 가능한 템플릿 생성
+- 자동화된 보고서 작업의 표준화
+- 기업 및 학술 문서의 표준화
+- 프레젠테이션으로부터 대화식 문서 템플릿 생성
+- 규정 준수 또는 프로세스 중심의 템플릿 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 매크로가 활성화된 템플릿의 자동 생성
+- 자동화된 기업 템플릿 라이브러리
+- JSON 또는 슬라이드 기반의 매크로 템플릿 파이프라인
+- 템플릿화된 보고서를 위한 워크플로 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,27 @@ Trong khi chuyển đổi tệp PDF sang MD, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Trường hợp chuyển đổi **PDF sang MD** tập trung vào việc chuyển đổi tệp PDF thành định dạng **Markdown (.md)**, được sử dụng rộng rãi trong **tài liệu cho nhà phát triển, blog kỹ thuật và quy trình tự động hóa nội dung**. Nó cho phép tái sử dụng cấu trúc văn bản PDF, bảng và đoạn mã trong các trình soạn thảo Markdown.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Di dời tài liệu cho nhà phát triển từ PDF sang MD
+- Chuyển đổi hướng dẫn sử dụng PDF thành Markdown để chỉnh sửa
+- Quy trình làm blog kỹ thuật sử dụng nội dung MD
+- Tài liệu dự án mã nguồn mở được lưu trữ dưới dạng Markdown
+- Tạo cơ sở kiến thức có cấu trúc từ báo cáo PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- **Các luồng công việc tự động PDF-sang-MD cho nhà phát triển**
+- Chuyển đổi hàng loạt PDF thành các kho lưu trữ Markdown
+- Luồng công việc dựa trên Git tích hợp xuất PDF-sang-MD
+- Xử lý PDF-sang-MD dựa trên API cho các nền tảng CMS
+- Tự động hóa doanh nghiệp để di chuyển tài liệu PDF sang MD
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

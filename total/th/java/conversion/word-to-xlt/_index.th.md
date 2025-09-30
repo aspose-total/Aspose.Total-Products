@@ -61,7 +61,26 @@ otherformats: SXC XLT ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น XLT** ช่วยให้เนื้อหาจาก Word สามารถบันทึกเป็นไฟล์ **Excel Template (XLT)** ซึ่งช่วยให้สามารถใช้งานได้ซ้ำซากในรูปแบบของเทมเพลตสำหรับการทำงานทางธุรกิจ วิชาการ หรือการเงิน
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- สร้างเทมเพลต Excel ที่ใช้งานซ้ำจากตาราง Word
+- เทมเพลตสำหรับรายงานขององค์กรและบริษัท
+- เทมเพลตข้อมูลโครงสร้างสำหรับงานวิจัยและการศึกษา
+- มาตรฐานการรายงานของรัฐบาลและการเงิน
+- การทำงานจากเอกสารที่ใช้เทมเพลตไปสู่สเปรดชีท
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+- การสร้างเทมเพลต Word-to-XLT โดยอัตโนมัติ
+- การอัตโนมัติของการทำงานจากสเปรดชีทที่ใช้เทมเพลต
+- การสร้างเทมเพลต Excel ที่ใช้งานซ้ำเป็นชุด
+- การอัตโนมัติของการรายงานระดับองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

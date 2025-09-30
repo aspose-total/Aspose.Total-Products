@@ -57,7 +57,27 @@ API를 사용하여 필요에 따라 출력 APNG 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 APNG로 변환**하는 것은 상호 작용이나 애니메이션된 문서 요소를 **APNG 형식**으로 표현해야 할 때 유용합니다. 이를 통해 조직은 PDF 삽화, 인포그래픽 및 동적 차트를 **가벼운 APNG 애니메이션**으로 변환하여 디지털 콘텐츠를 향상시킬 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF 파일에서 애니메이션 인포그래픽 생성
+- 프레젠테이션용 PDF 슬라이드를 APNG로 변환
+- PDF에서 추출한 APNG 애니메이션을 사용한 웹 게시
+- **애니메이션 다이어그램**이 필요한 교육 자료
+- 애니메이션 시각 자료로 e러닝 플랫폼 강화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF를 APNG로 변환하는 애니메이션 파이프라인**
+- 일괄 PDF 삽화를 APNG 시퀀스로 변환
+- 디지털 게시를 위한 PDF-to-APNG 워크플로우
+- 기업 수준의 문서 그래픽 자동화
+- 콘텐츠 플랫폼을 위한 API 기반 PDF를 APNG로 변환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

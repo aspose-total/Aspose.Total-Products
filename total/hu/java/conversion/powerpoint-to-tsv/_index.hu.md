@@ -61,7 +61,26 @@ A POWERPOINT fájl TSV formátumba konvertálásakor vízjelet is hozzáadhat a 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to TSV** konvertálása lehetővé teszi a diák exportálását **Tabulátorral Elválasztott Értékek** formátumban, elősegítve a strukturált adatfeldolgozást és a keresztplatformos táblázatkezelő kompatibilitást.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+- Táblázatos adatok kinyerése elemzésekhez
+- Keresztplatformos adatmegosztás
+- Integráció az örökölt és modern táblázatkezelő eszközökkel
+- Strukturált tartalom archiválása prezentációkból
+- Strukturált jelentések készítése
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+- Automatizált diavetítés-to-TSV csővezetékek
+- Integráció vállalati elemzési munkafolyamatokkal
+- Adatalapú jelentésautomatizálás
+- Örökölt rendszer táblázat előkészítése
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

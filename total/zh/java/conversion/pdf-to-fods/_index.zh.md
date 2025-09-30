@@ -49,7 +49,27 @@ otherformats: SXC XLSM XLSB XLAM FODS DIF XLT TXT TSV XLTM XLTX MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为FODS（Flat ODF Spreadsheet）**有助于从PDF中提取结构化数据到**LibreOffice Calc和兼容OpenDocument的电子表格**中。这使得组织可以在报告、分析和合规性方面重复使用**PDF表格中的基于XML的FODS**。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将PDF转换为FODS以用于开源电子表格工作流程
+- 将学术表格转换为ODF电子表格
+- 在LibreOffice和OpenOffice环境中重复使用数据
+- 使用基于XML的电子表格格式进行结构化报告
+- 长期存档表格PDF内容
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化**PDF到FODS管道**
+- 批处理将PDF表格转换为ODF电子表格
+- 通过JSON驱动的工作流程从PDF生成FODS
+- 使用FODS导出进行企业报告自动化
+- 与PDF到FODS工具集成的开源系统
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

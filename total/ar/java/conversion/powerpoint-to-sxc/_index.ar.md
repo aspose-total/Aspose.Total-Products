@@ -61,7 +61,26 @@ otherformats: SXC FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى SXC** يسمح بتصدير الجداول والبيانات المنظمة في الشرائح إلى تنسيق جداول البيانات في **StarOffice Calc**، مما يتيح التوافق مع الإصدارات القديمة وتحليل البيانات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- استخراج بيانات الجدول من الشرائح للجداول الإلكترونية
+- التوافق مع الإصدارات القديمة من برامج الأوفيس
+- تقارير وتحليلات قائمة على البيانات
+- أرشفة المحتوى المنظم من العروض التقديمية
+- إعداد تقارير رقمية من الشرائح
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- تحويل الشرائح إلى جداول SXC بشكل آلي
+- خطوط إنتاج استخراج دُفعية للتحليلات
+- التكامل مع أنظمة تقارير المؤسسات
+- أتمتة سير العمل لإنشاء جداول بيانات قديمة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,27 @@ otherformats: ODS EXCEL XLTM TXT XLTX XLSB XLAM XLSM SXC TSV MD FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى XLTM** يمكن أن يسمح بإنشاء **قوالب إكسل مع وظائف ماكرو** لسير العمل المتكررة. تجمع أدوات تحويل PDF إلى XLTM بين التخطيطات الثابتة مع الأتمتة المضمنة، مما يجعلها مثالية للسيناريوهات المالية والبحثية والمؤسسية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- قوالب مالية مع وظائف ماكرو  
+- تقارير بحثية مؤتمتة  
+- أتمتة سير العمل على مستوى المؤسسة  
+- تقارير الامتثال التنظيمي  
+- إعادة استخدام القوالب في إكسل قائمة على البيانات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب PDF-to-XLTM لتقارير قابلة للتوسيع  
+- إنشاء قوالب إكسل مع وظائف ماكرو مؤتمتة  
+- تحويل القوالب بالدُفعة للشركات  
+- أتمتة إكسل قائمة على سير العمل  
+- توليد XLTM المحسن بالذكاء الاصطناعي
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

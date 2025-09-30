@@ -47,7 +47,27 @@ otherformats: XLT ODS EXCEL TSV XLSB XLSM DIF XLTX XLAM MD SXC XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى TXT** يوفر طريقة فعالة لاستخراج **محتوى نصي عادي** للتحليل والبحث والفهرسة. من خلال أدوات تحويل دفعة من PDF إلى TXT وسير العمل الآلي، يمكن للمؤسسات تبسيط عمليات التحقق من الامتثال، وتنقيب النصوص، ومعالجة المستندات بتقنيات الذكاء الاصطناعي.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- استخراج البيانات لمحركات البحث
+- خطوط أنابيب معالجة اللغة الطبيعية
+- تحليل النصوص للامتثال
+- سير العمل لاكتشاف القانون
+- تنقيب وفهرسة النصوص الأكاديمية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- خطوط أنابيب تحويل PDF إلى TXT آلي لتنقيب البيانات
+- تحويل دفعة من PDF إلى TXT لفحوص الامتثال
+- تكامل الذكاء الاصطناعي/التعلم الآلي مع النصوص المستخرجة
+- سير العمل بمقياس كبير للنصوص النصية للشركات
+- أتمتة المستندات الخفيفة باستخدام النصوص النصية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

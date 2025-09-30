@@ -54,7 +54,26 @@ otherformats: PPS PPSX PPTX POWERPOINT POTX POT PPTM PPSM PPT POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى PPT** يسمح بتصدير مستندات Word إلى ملفات **PowerPoint (PPT) القديمة**, مما يجعل المحتوى النصي جاهزًا للعرض في الشركات والمؤسسات والأغراض الأكاديمية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء عروض تقديمية PPT تقليدية من تقارير Word
+- شرائح تقديمية للشركات والمؤسسات
+- شرائح بحثية وتعليمية أكاديمية
+- عروض تقديمية للحكومة والمنظمات
+- إنشاء شرائح مستندة على قوالب من محتوى Word المنظم
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عمل آلية لتحويل Word إلى PPT تلقائيًا
+- تحويل دفعي لتقارير Word إلى عروض تقديمية
+- أتمتة عروض تقديمية مستندة على قوالب
+- سير عمل مستند إلى شريحة على مستوى المؤسسة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

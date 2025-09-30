@@ -105,7 +105,27 @@ otherformats: SVGZ PSD EMZ DXF IMAGE TGA JPEG2000 WMZ APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל־WMF** או **PDF ל־WMZ** מאפשרת לגרפיקה וקטורית מקבצי PDF לשמש ביישומים המבוססים על **Windows**, במצגות, ובאיורים נמתחים לעסקים, ממשלה, ועבודות עיצוב.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- הטמעת גרפיקה וקטורית מקבצי PDF ביישומי Office
+- יצירת חומרי מצגת ושיווק
+- תרשימים ואיורים נמתחים
+- גרפיקה למסמכי עסקים וממשלה
+- אחסון בפורמט וקטורי דחוס באמצעות WMZ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה **PDF ל־WMF/WMZ** אוטומטיים
+- עיבוד רצפי של גרפיקה וקטורית מקבצי PDF
+- שילוב עם זרימות עבודה במצגות ובמשרד
+- אוטומציה של גרפיקה לעסקים לפרסומים
+- אוטומציה של אחסון ושימוש בגרפיקה נמתחת
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

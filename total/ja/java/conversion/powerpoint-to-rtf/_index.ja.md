@@ -53,7 +53,24 @@ APIを使用して、透かしを使用してPOWERPOINTファイルからRTFへ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをRTFに変換**することで、スライドを**リッチテキスト形式のドキュメント**に変換し、さまざまなテキストエディタや旧式システムと広く互換性があります。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- クロスプラットフォームの文書共有
+- 軽量または旧式のエディタでの編集
+- プレゼンテーションのテキストコンテンツのアーカイブ
+- 簡略化されたレポートや配布資料の準備
+- 複数のオフィススイートとの互換性
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- スライドをRTFに一括変換
+- 自動アーカイブワークフロー
+- レポート用のコンテンツ抽出パイプライン
+- 複数形式の文書システムへの統合
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

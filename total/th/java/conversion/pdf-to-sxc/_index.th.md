@@ -47,7 +47,27 @@ otherformats: XLTM FODS XLAM SXC XLT TSV XLSB XLTX TXT XLSM ODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น SXC (สเปรดชีต OpenOffice Calc)** ช่วยในการสกัดข้อมูลโครงสร้างจาก PDF เป็น **รูปแบบสเปรดชีตโอเพนซอร์ส**, เพื่อให้สามารถวิเคราะห์ข้อมูลเพิ่มเติม, รายงาน, และการวิจัยทางวิชาการ
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การสกัดข้อมูลทางวิชาการและการวิจัย
+- การทำงานกับสเปรดชีตโอเพนซอร์ส (LibreOffice/OpenOffice)
+- การรายงานข้อมูลทางการเงินและวิทยาศาสตร์
+- การย้ายตาราง PDF เข้าสู่รูปแบบ SXC ที่สามารถแก้ไขได้
+- การเก็บถาวรและนำกลับมาใช้ใหม่ในสเปรดชีตขององค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การสร้างท่อน้ำข้อมูล **PDF เป็น SXC โดยอัตโนมัติ**
+- การแปลงรายงานและชุดข้อมูลเป็นกลุ่ม
+- การผสานระบบวิเคราะข้อมูลและรายงาน
+- การอัตโนมัติของกระบวนการทำงานขององค์กรและวิชาการ
+- การสกัดตาราง PDF เข้าสู่รูปแบบสเปรดชีตโอเพนซอร์ส
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ otherformats: SXC XLSB ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى XLSB** يمكن تصدير محتوى Word إلى تنسيق **Excel Binary Workbook (XLSB)**، مما يحسن تخزين جداول البيانات الكبيرة ويمكن معالجتها بشكل أسرع في Excel.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل جداول Word بمقياس كبير إلى Excel
+- إنشاء تقارير المؤسسات بأحجام ملفات محسنة
+- التعامل مع مجموعات بيانات الأبحاث والأكاديمية
+- إنشاء تقارير منظمة بناءً على القوالب
+- سير عمل جداول بيانات عالية الأداء
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+- أنابيب تحويل Word إلى XLSB تلقائية
+- إنشاء تقارير Excel الثنائية بشكل دفعي
+- سير عمل التأتير الآلي في Excel بناءً على القوالب
+- تقارير منظمة على مستوى المؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

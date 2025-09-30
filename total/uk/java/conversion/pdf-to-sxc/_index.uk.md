@@ -102,7 +102,27 @@ otherformats: XLTM FODS XLAM CSV XLT TSV XLSB XLTX TXT XLSM ODS DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PDF в SXC (таблицю OpenOffice Calc)** допомагає видобувати структуровані дані з PDF-файлів у **формат електронної таблиці з відкритим вихідним кодом**, що дозволяє подальший аналіз, звітність та академічні дослідження.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+- Видобування даних для академічних та дослідницьких цілей
+- Робочі процеси з електронними таблицями з відкритим вихідним кодом (LibreOffice/OpenOffice)
+- Фінансова та наукова звітність
+- Міграція таблиць PDF у редагований формат SXC
+- Архівування та повторне використання електронних таблиць у підприємствах
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані **потоки даних з PDF в SXC**
+- Пакетна конвертація звітів та наборів даних
+- Інтеграція з системами аналізу даних та звітності
+- Автоматизація робочих процесів у підприємствах та академії
+- Видобування таблиць PDF у формати електронних таблиць з відкритим вихідним кодом
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

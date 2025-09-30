@@ -47,7 +47,27 @@ otherformats: XLSM XLTM DIF SXC FODS MD TSV TXT XLAM XLT EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น TSV** มีค่ามากสำหรับการสร้าง **ค่าที่แยกด้วยแท็บ** ที่รักษาชุดข้อมูลที่สะอาดและมีคอลัมน์ ด้วยตัวแปลง PDF เป็น TSV และการอัตโนมัติ องค์กรสามารถรับรองความเข้ากันได้กับฐานข้อมูล สเปรดชีต และเครื่องมือวิจัย
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- ชุดข้อมูลวิจัยทางวิชาการ
+- ตารางข้อมูลทางชีวภาพและวิทยาศาสตร์
+- ผลสำรวจการวิจัยทางการตลาด
+- คลังข้อมูลสถิติของรัฐบาล
+- การแลกเปลี่ยนข้อมูลโครงสร้างระบบต่าง ๆ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- กระบวนการทำงาน PDF-to-TSV อัตโนมัติสำหรับห้องปฏิบัติการวิจัย
+- การสร้าง TSV แบบกลุ่มสำหรับรายงานโครงสร้าง
+- การผสานกับท่อรับข้อมูลฐานข้อมูล
+- เตรียมข้อมูลสำหรับแพลตฟอร์มการวิเคราะห์
+- อัตโนมัติข้อมูลตารางปริมาณมาก
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

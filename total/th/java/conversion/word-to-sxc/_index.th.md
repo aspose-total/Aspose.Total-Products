@@ -61,7 +61,26 @@ otherformats: SXC XLTX XLAM XLS FODS XLT XLSM TSV DIF EXCEL ODS XLSX XLTM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น SXC** ช่วยให้เกิดการแปลงเนื้อหาจาก Word เป็นไฟล์ **StarOffice Calc (SXC)** ซึ่งเป็นไฟล์ที่เข้ากันได้กับรูปแบบสเปรดชีตของ OpenOffice/StarOffice เวอร์ชันเก่าสำหรับการใช้ในองค์กรหรือการเก็บถาวร
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การส่งออกตาราง Word เป็นรูปแบบสเปรดชีตเวอร์ชันเก่า
+- สามารถใช้งานร่วมกับชุดโปรแกรมสำนักงานเวอร์ชันเก่า
+- การเก็บถาวรของเนื้อหาโครงสร้างในองค์กรและรัฐบาล
+- การย้ายข้อมูลตารางทางการศึกษา
+- การเตรียมสเปรดชีตตามเทมเพลตจากเอกสาร Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- กระบวนการทำงานแปลง Word เป็น SXC จำนวนมาก
+- การอัตโนมัติเอกสารเป็นสเปรดชีตในองค์กรขนาดใหญ่
+- ท่อการรวมระบบเก่า
+- การอัตโนมัติรายงานตามเทมเพลต
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

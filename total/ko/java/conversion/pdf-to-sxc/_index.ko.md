@@ -47,7 +47,27 @@ PDF 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 SXC(OpenOffice Calc 스프레드시트)로 변환**하면 PDF에서 구조화된 데이터를 추출하여 **오픈 소스 스프레드시트 형식**으로 변환하여 추가 분석, 보고 및 학술 연구가 가능해집니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 학술 및 연구 데이터 추출
+- 오픈 소스 스프레드시트 워크플로우 (LibreOffice/OpenOffice)
+- 금융 및 과학 데이터 보고
+- PDF 테이블을 편집 가능한 SXC 형식으로 이관
+- 기업 스프레드시트 아카이빙 및 재사용
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-SXC 데이터 파이프라인**
+- 보고서 및 데이터 세트의 일괄 변환
+- 데이터 분석 및 보고 시스템 통합
+- 기업 및 학술 워크플로우 자동화
+- PDF 테이블을 오픈 소스 스프레드시트 형식으로 추출
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

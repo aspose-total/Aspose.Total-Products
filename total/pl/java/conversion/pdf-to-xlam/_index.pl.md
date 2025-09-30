@@ -47,7 +47,27 @@ Konwertując plik PDF na XLAM, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwersja **PDF do XLAM** umożliwia tworzenie plików **dodatków Excel** z makr arkuszy kalkulacyjnych lub funkcji niestandardowych opartych na PDF. Jest to bardzo przydatne do **zautomatyzowanych modeli finansowych, raportowania przedsiębiorstw oraz ulepszeń w przepływie pracy w Excelu**.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Tworzenie makr i dodatków Excel z danych PDF
+- Zautomatyzowane modele finansowe i narzędzia raportowania
+- Ulepszenia w przepływie pracy arkuszy kalkulacyjnych przedsiębiorstwa
+- Automatyzacja Excela na potrzeby akademickie lub badawcze
+- Dystrybucja szablonów dodatków Excel w dużych ilościach
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane **potoki dodatków PDF do XLAM**
+- Przetwarzanie wsadowe arkuszy kalkulacyjnych finansowych i przedsiębiorstw
+- Integracja z automatyzacją przepływu pracy w Excelu
+- Potoki raportowania z makrami w przedsiębiorstwach klasy korporacyjnej
+- Skalowalna dystrybucja dodatków Excel z plików PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

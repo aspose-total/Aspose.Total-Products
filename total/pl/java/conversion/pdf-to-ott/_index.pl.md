@@ -130,7 +130,27 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PDF na OTT** pozwala generować pliki **szablonów tekstu OpenDocument**, zapewniając standaryzację w procesach dokumentacji przedsiębiorstw, akademickich i rządowych.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Standaryzowane szablony dokumentów biznesowych
+- Szablony prawne i polityczne dla rządów
+- Ramy publikacji akademickich
+- Szablony komunikacji organizacji pozarządowych
+- Strukturalne tworzenie treści korporacyjnych
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane przepływy pracy szablonów PDF do OTT
+- Potoki dokumentacji klasy przedsiębiorstw
+- Automatyzacja dokumentów rządowych i prawnych
+- Automatyzacja publikacji akademickich na dużą skalę
+- Skalowalne przetwarzanie wsadowe szablonów
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,27 @@ API를 사용하여 필요에 따라 출력 JPEG2000 이미지를 회전할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 JPEG2000으로** 변환하는 프로세스는 PDF 페이지에서 **고품질, 압축된 이미지**를 생성하는 데 중요합니다. JPEG2000은 **디지털 도서관, 의료 이미징, 보관** 등에서 효율적인 압축과 손실 없는 저장이 필요한 곳에서 널리 사용됩니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- JPEG2000을 사용한 디지털 도서관 보존
+- **의료 이미징 아카이브**를 위한 PDF 변환
+- 용량 축소된 고해상도 문서 저장
+- JPEG2000 표준을 사용하는 정부 아카이브
+- **장기적인 이미지 보존**이 필요한 학술 저장소
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF를 JPEG2000으로 변환하는 파이프라인**
+- PDF를 JPEG2000 형식으로 일괄 보관
+- 디지털 도서관 시스템과의 통합
+- PDF를 JPEG2000으로 변환하는 의료 이미징 워크플로우
+- 고품질 압축 저장을 위한 기업 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

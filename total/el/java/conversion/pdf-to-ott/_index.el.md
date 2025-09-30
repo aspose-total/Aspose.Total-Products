@@ -130,7 +130,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PDF σε OTT** επιτρέπει τη δημιουργία αρχείων **OpenDocument Text Template**, εξασφαλίζοντας την τυποποίηση στις διαδικασίες τεκμηρίωσης επιχειρήσεων, ακαδημαϊκών και κυβερνητικών οργανισμών.
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+- Τυποποιημένα πρότυπα επιχειρηματικών εγγράφων
+- Πρότυπα νομικών και κυβερνητικών πολιτικών
+- Πλαίσια ακαδημαϊκής έκδοσης
+- Πρότυπα επικοινωνίας ΜΚΟ
+- Δομημένη δημιουργία περιεχομένου επιχείρησης
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες ροές εργασίας προτύπων PDF σε OTT
+- Σωληνώσεις τεκμηρίωσης υψηλής ποιότητας για επιχειρήσεις
+- Αυτοματισμός εγγράφων κυβέρνησης και νομικών
+- Αυτοματισμός μεγάλης κλίμακας ακαδημαϊκής έκδοσης
+- Επεξεργασία προτύπων μεγάλης κλίμακας
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

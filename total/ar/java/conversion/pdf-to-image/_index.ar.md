@@ -57,7 +57,27 @@ otherformats: JPEG2000 EMZ  WMZ TGA PSD DXF WMF SVGZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ملف PDF إلى صورة** هو أحد سيناريوهات العمل الأكثر شيوعًا، مما يسمح بتحويل المستندات إلى تنسيقات صور مختلفة مثل PNG، JPG، أو TIFF. وهذا يجعل من السهل استخدام ملفات PDF في بيئات النشر على الويب، والأرشفة، والعروض الرقمية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- أرشفة مستندات PDF كملفات صور
+- تضمين صفحات PDF في مواقع الويب كملفات PNG أو JPG
+- إنشاء صور مصغرة ومعاينات من ملفات PDF
+- دمج ملفات PDF في الشرائح الرقمية والعروض
+- تخزين قائم على الصور للامتثال والتدقيق
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عمل تحويل **ملف PDF إلى صورة** تلقائية
+- سير عمل PDF إلى PNG أو JPG لمنصات الويب
+- إنشاء صور معاينة لأنظمة إدارة المستندات
+- تحويل PDF إلى TIFF متعدد الصفحات للأرشفة الشركية
+- تحويل ملف PDF إلى صورة بناءً على واجهة برمجة التطبيقات تلقائيًا
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

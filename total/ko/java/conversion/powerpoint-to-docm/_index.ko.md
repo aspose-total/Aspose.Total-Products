@@ -53,7 +53,26 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 DOCM로 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 DOCM으로 변환**하면 **매크로가 활성화된 워드 문서**로 슬라이드를 내보낼 수 있어 문서 환경 내에서 자동화와 상호 작용을 보존할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션 데이터 전송 시 매크로 유지
+- 자동화 스크립트로 대화식 보고서 작성
+- 포함된 기능이 있는 기업 템플릿
+- 미리 정의된 매크로로 규정 준수 보고
+- 동적 콘텐츠가 필요한 학술 또는 기업 문서
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 매크로 유지하는 자동 변환 파이프라인
+- JSON/슬라이드 기반 매크로 문서 생성
+- 매크로가 활성화된 템플릿을 사용한 기업 워크플로
+- 슬라이드로부터 간소화된 자동 보고서 작성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke OTT** memungkinkan pembuatan file **OpenDocument Text Template**, memastikan standarisasi dalam proses dokumentasi perusahaan, akademis, dan pemerintahan.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Template dokumen bisnis yang terstandarisasi
+- Template kebijakan hukum dan pemerintah
+- Kerangka penerbitan akademis
+- Template komunikasi NGO
+- Pembuatan konten perusahaan yang terstruktur
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Alur kerja template PDF-ke-OTT yang terotomatisasi
+- Pipa dokumentasi kelas enterprise
+- Otomatisasi dokumen pemerintah dan hukum
+- Otomatisasi penerbitan akademis dalam skala besar
+- Pengolahan template dalam jumlah besar yang dapat diskalakan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

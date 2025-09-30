@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów WORD chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **WORD na POTM** pozwala na tworzenie plików **Makroaktywowanych szablonów PowerPoint (POTM)** z treści Worda, umożliwiając ponowne wykorzystanie szablonów z makrami do zaawansowanej automatyzacji.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Generowanie makroaktywowanych szablonów prezentacji z Worda
+- Automatyzacja przedsiębiorstwa w tworzeniu prezentacji
+- Szablony akademickie i badawcze z interaktywnymi elementami
+- Korporacyjne wielokrotnego użytku slajdy informacyjne
+- Przepływ pracy oparty na szablonach dla zautomatyzowanych slajdów
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne szablony Word-to-POTM
+- Partiowa tworzenie makroaktywowanych szablonów prezentacji
+- Automatyzacja zestawu slajdów oparta na szablonach
+- Przepływy pracy prezentacji na poziomie przedsiębiorstwa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

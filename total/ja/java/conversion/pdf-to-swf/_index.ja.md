@@ -121,7 +121,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをSWF（Flash）に変換**することは、PDFドキュメントから**インタラクティブでWeb対応のコンテンツ**を作成するのに役立ちます。この形式はプレゼンテーション、eラーニングモジュール、オンラインマーケティング資料に適しています。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- eラーニングおよびオンラインコースコンテンツ
+- Web用のインタラクティブPDFプレゼンテーション
+- マーケティングスライドとプロモーション
+- Web再生用のPDFベースのマルチメディアのアーカイブ
+- デジタルパンフレットとインタラクティブマニュアル
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからSWFへのパイプライン**
+- オンライントレーニングモジュールのバッチ変換
+- eラーニング向けLMSプラットフォームとの統合
+- SWF出力を使用したWeb公開ワークフロー
+- スケーラブルなインタラクティブPDFコンテンツの自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

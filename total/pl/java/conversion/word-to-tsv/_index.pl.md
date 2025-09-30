@@ -61,7 +61,26 @@ Po przekonwertowaniu WORD na TSV [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **WORD na TSV** pozwala na wyodrębnienie danych tabelarycznych z programu Word do formatu **Tab-Separated Values (TSV)**, zapewniając kompatybilność z analizami, systemami baz danych i innymi aplikacjami do przetwarzania strukturalnych danych.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Eksportowanie tabel z programu Word do przetwarzania danych
+- Integracja z analizami i systemami baz danych
+- Raportowanie w przedsiębiorstwie i archiwizacja strukturalna
+- Migracja danych tabelarycznych w celach akademickich lub badawczych
+- Wydobywanie danych tabelarycznych z szablonów
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne przepływy pracy z Word do TSV
+- Wyodrębnianie wsadowe do analiz i raportowania
+- Strukturalne przepływy dokumentów
+- Automatyzacja danych tabelarycznych na skalę przedsiębiorstwa
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

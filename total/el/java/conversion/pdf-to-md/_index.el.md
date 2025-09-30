@@ -47,7 +47,27 @@ otherformats: FODS XLTX XLSB XLSM MD SXC EXCEL DIF XLAM TSV ODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η περίπτωση μετατροπής από **PDF σε MD** επικεντρώνεται στη μετατροπή αρχείων PDF σε μορφή **Markdown (.md)**, η οποία χρησιμοποιείται ευρέως σε **τεκμηρίωση προγραμματιστών, τεχνικά blogs και αυτοματισμό περιεχομένου**. Επιτρέπει τη δομημένη επαναχρησιμοποίηση κειμένου PDF, πινάκων και αποσπασμάτων κώδικα σε επεξεργαστές Markdown.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Μεταφορά τεκμηρίωσης προγραμματιστή από PDF σε MD
+- Μετατροπή εγχειριδίων PDF σε Markdown για επεξεργασία
+- Ροές εργασίας τεχνικού blogging χρησιμοποιώντας περιεχόμενο MD
+- Τεκμηρίωση ανοικτού κώδικα αποθηκευμένη ως Markdown
+- Δημιουργία δομημένων **βάσεων γνώσης** από αναφορές PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες **αγωγοί μετατροπής PDF σε MD για προγραμματιστές**
+- Μαζική μετατροπή PDF σε αποθετήρια Markdown
+- Ροές εργασίας βασισμένες σε Git που ενσωματώνουν την εξαγωγή PDF σε MD
+- Επεξεργασία PDF σε MD με κίνητρο το API για πλατφόρμες CMS
+- Επιχειρησιακός αυτοματισμός για μετακίνηση εγγράφων PDF σε MD
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

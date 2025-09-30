@@ -61,7 +61,26 @@ otherformats: FODS ODS XLAM XLSX XLSM SXC MARKDOWN XLSB DIF MHTML XLTX XLS TSV E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى MHTML** يمكن أن يسمح بتصدير الشرائح بتنسيق **ملف الويب المؤرشف**، مما يجمع بين محتوى HTML والموارد في ملف واحد لسهولة المشاركة والنشر.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- أرشفة العروض التقديمية للنشر على الويب
+- مشاركة الشرائح كصفحات ويب مستقلة
+- عرض العروض التقديمية عبر منصات متعددة
+- توزيع محتوى الشبكة الداخلية للشركات
+- مشاركة المواد التعليمية عبر ملفات الويب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب تحويل آلي إلى MHTML
+- سير عمل دفعي لتحويل الشرائح إلى ملفات ويب مؤرشفة
+- التكامل مع أنظمة إدارة المحتوى
+- أتمتة تقارير جاهزة للويب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

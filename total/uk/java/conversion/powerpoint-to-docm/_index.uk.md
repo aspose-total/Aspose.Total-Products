@@ -102,7 +102,26 @@ otherformats: TEXT DOTX DOCX WORDML FLATOPC DOT ODT RTF WORD DOC OTT DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PowerPoint в DOCM** дозволяє експортувати слайди у **документи Word з підтримкою макросів**, зберігаючи автоматизацію та взаємодію в середовищі документа.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+- Збереження макросів при передачі даних презентації
+- Створення інтерактивних звітів зі сценаріями автоматизації
+- Шаблони підприємства з вбудованими функціями
+- Звіти з відповідністю заздалегідь визначеними макросами
+- Документи для академічних або корпоративних цілей, що потребують динамічного вмісту
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані конверсійні конвеєри зі збереженням макросів
+- Генерація документів з макросами на основі JSON/слайдів
+- Робочі процеси підприємства з шаблонами, що підтримують макроси
+- Оптимізоване автоматизоване створення звітів зі слайдів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

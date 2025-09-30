@@ -57,7 +57,25 @@ Met behulp van de API kunt u ook de uitgevoerde WMF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PDF naar WMF** of **PDF naar WMZ** maakt het mogelijk om vectorafbeeldingen uit PDF's te gebruiken in **Windows-gebaseerde toepassingen**, presentaties en schaalbare illustraties voor bedrijven, overheden en ontwerpworkflows.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Inbedden van vector PDF-afbeeldingen in Office-toepassingen
+- Creatie van presentatie- en marketingmateriaal
+- Schaalbare diagrammen en illustraties
+- Grafische documenten voor bedrijven en overheden
+- Gecomprimeerde vectorformaatopslag met behulp van WMZ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde **PDF-naar-WMF/WMZ-conversiepijplijnen**
+- Batchverwerking van vector PDF-afbeeldingen
+- Integratie met presentatie- en kantoorworkflows
+- Automatisering van grafische publicaties voor bedrijven
+- Schaalbare vectoropslag en hergebruik automatisering
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 PPT로 변환**하면 정적 PDF 문서를 **편집 가능한 PowerPoint 프레젠테이션**으로 변환하여 **비즈니스, 학술 또는 교육 목적**으로 슬라이드를 재활용하기 쉬워집니다. 이 변환은 기존 PDF 콘텐츠를 Microsoft PowerPoint 내에서 편집, 서식 지정 및 재사용할 수 있는 완전한 유연성을 제공합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF를 편집 가능한 PowerPoint으로 변환하여 보고서 및 슬라이드 변환
+- 비즈니스 회의 및 마케팅 프레젠테이션 덱
+- 학술 강의, 연구 세미나 및 워크샵
+- 교육 자료 및 온보딩 문서
+- 보관된 PDF 콘텐츠를 새로운 프레젠테이션으로 재활용
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 기업을 위한 자동화된 **PDF-to-PPT 파이프라인**
+- PDF 보고서를 PowerPoint 슬라이드로 일괄 변환
+- 자동화된 워크플로우를 위한 Office 365 통합
+- PDF 기반 레슨에서 e러닝 콘텐츠 생성
+- 기업 및 학술 아카이브를 위한 대규모 변환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

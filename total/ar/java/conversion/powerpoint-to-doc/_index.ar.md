@@ -53,7 +53,26 @@ otherformats: DOTX DOTM FLATOPC RTF DOT WORD DOCX TEXT WORDML ODT OTT DOCM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى DOC** يسمح بتحويل سلس لمحتوى العرض التقديمي إلى **مستندات Word قابلة للتحرير**, مما يجعل من السهل إعادة استخدام الشرائح لتقارير أو وثائق أو التحرير التعاوني.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إعادة استخدام شرائح العرض التقديمي في تقارير نصية
+- التحرير التعاوني والتعليقات في Word
+- إعداد محاضر الاجتماعات الرسمية أو التقارير
+- أرشفة العروض التقديمية كمستندات Word
+- مواد تعليمية مستمدة من الشرائح
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- تحويل دفعي آلي للعروض التقديمية إلى Word
+- دمجها في أنابيب الإبلاغ
+- سير العمل الوثيق بـ PowerPoint
+- إعادة استخدام محتوى المؤسسة لفرق متعددة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをDOTMに変換**することで、再利用可能なレイアウトと自動化機能を組み合わせた**マクロ有効なWordテンプレート**を作成することができます。オンラインPDFからDOTMへの変換ツールやエンタープライズワークフローを活用することで、企業はレポーティングを効率化し、動的な文書プロセス全体での一貫性を確保できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- マクロを使用した自動レポートテンプレート  
+- エンタープライズレベルの文書生成  
+- 数式自動化が必要な財務諸表  
+- 組み込みチェック機能を備えたコンプライアンス文書  
+- 企業向けの大規模文書テンプレート作成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- スケーラブルなレポーティングのためのPDFからDOTMへのパイプライン  
+- 大量のPDFをDOTMテンプレートに一括変換  
+- マクロを使用した再利用可能なテンプレートの自動作成  
+- PDFからのワークフロー駆動型レポート生成  
+- DOTMを使用したインテリジェントな文書組み立て
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

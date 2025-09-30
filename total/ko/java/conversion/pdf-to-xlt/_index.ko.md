@@ -47,7 +47,27 @@ PDF 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 XLT로 변환**하면 기업이 보고 및 데이터 입력 프로세스 전반에 재사용할 수 있는 **Excel 템플릿 파일**을 작성할 수 있습니다. 자동화된 PDF를 XLT로 변환하는 파이프라인은 브랜딩 일관성과 표준화된 데이터 형식을 지원합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 기업 보고서 템플릿
+- 학술 연구 양식
+- 정부 재무 템플릿
+- 재고 관리 스프레드시트
+- 표준화된 기업 대시보드
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 기업을 위한 PDF-to-XLT 템플릿 파이프라인
+- 양식을 Excel 템플릿으로 자동 변환
+- PDF 아카이브에서 일괄 템플릿 생성
+- 기업 스프레드시트용 워크플로 자동화
+- 기업 전반에서 템플릿 재사용
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

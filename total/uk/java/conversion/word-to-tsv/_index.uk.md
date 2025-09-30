@@ -102,7 +102,26 @@ otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC CSV XLSX DIF XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **WORD у TSV** дозволяє видобувати табличні дані з Word у формат **значень, розділених табуляцією (TSV)**, забезпечуючи сумісність з аналітикою, системами баз даних та іншими структурованими додатками для обробки даних.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+- Експорт таблиць Word для обробки даних
+- Інтеграція з аналітикою та системами баз даних
+- Підприємницька звітність та структуроване архівування
+- Міграція табличних даних для академічних або дослідницьких цілей
+- Видобування табличних даних за допомогою шаблонів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані конвеєри Word-у-TSV
+- Пакетне видобування для аналітики та звітності
+- Структуровані робочі процеси документів
+- Автоматизація табличних даних на підприємницькому рівні
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

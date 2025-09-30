@@ -53,7 +53,26 @@ Pomocí API můžete také provést převod POWERPOINT souboru na OTT s vodoznak
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu na OTT** umožňuje exportovat snímky jako **šablony textu OpenDocument**, což umožňuje vytvářet opakovaně použitelné šablony pro standardizovanou dokumentaci.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření opakovaně použitelných textových šablon z prezentací
+- Standardizovaná firemní nebo akademická dokumentace
+- Reporting a návrhy projektů založené na šablonách
+- Archivace struktur prezentací jako šablon
+- Vytváření vzdělávacích nebo školicích šablon
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizovaná generace šablon textu OpenDocument
+- Integrace pracovního postupu pro firemní knihovny šablon
+- Hromadný převod snímků na opakovaně použitelné šablony
+- Automatizace dokumentů řízená šablonami
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ otherformats: SXC XLSX ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น XLSX** ช่วยให้ตาราง Word สามารถส่งออกเป็นรูปแบบ **Excel Workbook (XLSX)** ที่ทันสมัย ทำให้เข้ากันได้กับ Excel เวอร์ชันปัจจุบันและคุณลักษณะของสเปรดชีทขั้นสูง
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- การส่งออกตาราง Word เป็น Excel workbooks ที่ทันสมัย
+- การรวบรวมรายงานและการผสมผสานข้อมูลในองค์กร
+- การเตรียมสำหรับการทำสำเนาสำหรับงานวิจัยและการศึกษา
+- การแปลงเอกสารตามเทมเพลตเป็น Excel
+- การเก็บข้อมูลของรัฐบาลและบริษัท
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- การสร้างท่อการส่งออก Word-to-XLSX อัตโนมัติ
+- การสร้างรายงาน Excel จำนวนมาก
+- การอัตโนมัติโครงสร้างสเปรดชีทตามเทมเพลต
+- การทำงานข้อมูลระดับองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

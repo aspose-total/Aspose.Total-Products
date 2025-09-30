@@ -135,7 +135,27 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PDF en XAML** aide les développeurs et les entreprises à générer des fichiers **Extensible Application Markup Language** à partir de mises en page de documents. En utilisant des convertisseurs en ligne de PDF en XAML et des pipelines automatisés, les entreprises peuvent transformer des PDF en ressources d'interface utilisateur pour les applications WPF et la publication numérique.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Prototypage d'interface à partir de mises en page PDF
+- Documentation de conception d'application d'entreprise
+- Génération de ressources d'application WPF
+- Documentation logicielle interactive
+- Publication numérique en balisage structuré
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines automatisés de PDF vers XAML pour les frameworks d'interface utilisateur
+- Conversion en masse de PDF en XAML pour les entreprises
+- Intégration de flux de travail pour la documentation de conception
+- Prototypage d'application à partir d'archives PDF
+- Automatisation de la documentation logicielle d'entreprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

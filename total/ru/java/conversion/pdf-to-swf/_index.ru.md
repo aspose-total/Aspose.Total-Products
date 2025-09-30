@@ -121,7 +121,27 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в SWF (Flash)** полезно для создания **интерактивного, готового к вебу контента** из PDF-документов. Этот формат подходит для презентаций, модулей электронного обучения и онлайн-маркетинговых материалов.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Электронное обучение и онлайн-курсы
+- Интерактивные презентации PDF для веба
+- Слайды маркетинга и акции
+- Архивирование мультимедийных PDF для воспроизведения в Интернете
+- Цифровые брошюры и интерактивные руководства
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **конвейеры PDF в SWF**
+- Пакетное преобразование для модулей онлайн-обучения
+- Интеграция с платформами LMS для электронного обучения
+- Рабочие процессы публикации веб-контента с выходом в SWF
+- Масштабируемая автоматизация интерактивного контента PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

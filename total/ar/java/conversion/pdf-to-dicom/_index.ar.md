@@ -57,7 +57,27 @@ otherformats: WMZ JPEG2000 SVGZ WMF TGA PSD DXF DICOM EMZ IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى DICOM** ضروري لقطاع الرعاية الصحية حيث يجب دمج الصور الطبية والوثائق السريرية. هذا يضمن أن يمكن تحويل **تقارير الرعاية الصحية بتنسيق PDF** إلى **تنسيق DICOM لخوادم PACS**، وسير العمل الإشعاعي، وأرشفة المستشفيات على المدى الطويل.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- دمج تقارير طبية في أنظمة الصور DICOM
+- تحويل PDF إلى DICOM لتقارير **الأشعة والقلب**
+- أرشفة خوادم PACS في المستشفيات والامتثال
+- مشاركة البيانات الطبية المنظمة عبر الأنظمة
+- إدارة سجلات المرضى الموحدة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- خطوط أنابيب آلية لـ **تحويل PDF إلى صور طبية DICOM**
+- تحويل دفعي لمسح PDF إلى أرشيفات DICOM
+- دمج سجلات EMR/EHR في المستشفيات مع سير العمل من PDF إلى DICOM
+- أتمتة صور الطب الشرعي في المؤسسات للامتثال
+- نقل آلي وآمن للبيانات السريرية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

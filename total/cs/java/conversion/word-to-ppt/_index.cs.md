@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na PPT. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **WORD do PPT** umožňuje exportovat dokumenty Word do zastaralých souborů **PowerPoint (PPT)**, čímž se textový obsah připraví k prezentaci pro podnikové, firemní a akademické účely.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření prezentací v zastaralém formátu PPT z Word reportů
+- Firemní a podnikové prezentace
+- Prezentace pro akademický výzkum a výuku
+- Prezentace pro vládní a organizační účely
+- Generování snímků řízené šablonami ze strukturovaného obsahu Wordu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované procesy pro převod Wordu na PPT snímky
+- Hromadný převod Word reportů do prezentací
+- Automatizace tvorby snímkových sad řízená šablonami
+- Dokumentové pracovní postupy pro převod na snímky
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

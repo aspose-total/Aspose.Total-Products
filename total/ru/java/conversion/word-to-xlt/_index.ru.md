@@ -61,7 +61,26 @@ otherformats: SXC XLT ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в XLT** позволяет сохранять содержимое Word в файлах **Excel Template (XLT)**, обеспечивая возможность использования повторно шаблонов электронных таблиц для предприятий, академических или финансовых рабочих процессов.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Создание повторно используемых шаблонов Excel из таблиц Word
+- Шаблоны отчетности для предприятий и корпораций
+- Шаблоны структурированных данных для академических и исследовательских целей
+- Стандартизация отчетности для государственных и финансовых организаций
+- Рабочие процессы документов к электронным таблицам на основе шаблонов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматическое создание шаблонов Word в XLT
+- Автоматизация рабочего процесса электронных таблиц на основе шаблонов
+- Пакетное создание повторно используемых шаблонов Excel
+- Автоматизация отчетности предприятий
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

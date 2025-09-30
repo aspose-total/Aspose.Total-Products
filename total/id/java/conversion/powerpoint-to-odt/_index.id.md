@@ -53,7 +53,26 @@ Menggunakan API, Anda juga dapat melakukan konversi file POWERPOINT ke ODT denga
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PowerPoint ke ODT** memungkinkan slide disimpan sebagai dokumen **OpenDocument Text**, mendukung konten teks yang dapat diedit dan lintas platform dari presentasi.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Mengubah slide menjadi file teks OpenDocument yang dapat diedit
+- Penyuntingan kolaboratif di berbagai suite kantor yang berbeda
+- Mengarsipkan presentasi dalam format yang didukung secara luas
+- Materi pendidikan dan laporan korporat
+- Memanfaatkan kembali konten presentasi untuk dokumentasi
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Konversi batch PowerPoint ke ODT
+- Integrasi ke alur kerja manajemen dokumen
+- Generasi otomatis laporan dari slide
+- Pipa pemanfaatan kembali konten perusahaan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

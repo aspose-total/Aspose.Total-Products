@@ -61,7 +61,26 @@ POWERPOINT 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 EXCEL로 변환**하면 슬라이드를 **Excel 스프레드시트**로 내보낼 수 있어, 스프레드시트 형식으로 슬라이드 데이터를 분석, 보고 및 공유하기가 더 쉬워집니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션 테이블과 차트를 스프레드시트로 변환하기
+- 기업 보고 및 분석
+- 구조화된 사용을 위한 슬라이드 데이터 아카이빙
+- 협업 데이터 편집
+- 슬라이드에서 숫자 또는 텍스트 보고서 준비
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 슬라이드-Excel 변환 파이프라인
+- 프레젠테이션 일괄 처리를 통한 스프레드시트로의 변환
+- 기업 분석 및 보고 시스템과의 통합
+- 슬라이드 주도형 워크플로 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

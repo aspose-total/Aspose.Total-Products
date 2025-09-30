@@ -61,7 +61,27 @@ WORD를 XLSX로 변환한 후 [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 XLSX로 변환하기**
+Word 테이블을 최신 **Excel Workbook (XLSX)** 형식으로 내보내어 현재 Excel 버전 및 고급 스프레드시트 기능과의 호환성을 보장합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 테이블을 최신 Excel 워크북으로 내보내기
+- 기업 보고 및 분석 통합
+- 학술 및 연구 스프레드시트 준비
+- 템플릿 기반 문서를 Excel로 변환
+- 정부 및 기업 기록 보관
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-XLSX 파이프라인
+- 일괄 Excel 보고서 생성
+- 템플릿 기반 구조화된 스프레드시트 자동화
+- 기업급 데이터 통합 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

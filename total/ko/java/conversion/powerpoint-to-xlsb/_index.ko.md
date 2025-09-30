@@ -61,7 +61,26 @@ POWERPOINT 파일을 XLSB로 변환하는 동안 출력 XLSB 파일 형식에 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 XLSB로 변환**하면 슬라이드를 **이진 Excel 워크북**으로 내보낼 수 있어 대규모 데이터 기반 프레젠테이션의 성능과 파일 크기를 최적화합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션에서 대규모 데이터 세트 처리  
+- 기업 보고 및 분석  
+- 효율적인 이진 형식으로 슬라이드 보관  
+- 분석을 위한 빠른 스프레드시트 로딩  
+- 협업 기업 데이터 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 슬라이드에서 XLSB로 변환하는 파이프라인  
+- 대규모 프레젠테이션 일괄 처리  
+- 고성능 보고 시스템과 통합  
+- 기업 데이터 추출 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -49,7 +49,27 @@ otherformats: TSV XLAM XLT XLSM EXCEL XLSB XLTM FODS XLTX TXT DIF SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为XLSB**在企业需要**二进制Excel文件**以加快处理速度和减小文件大小时至关重要。自动化的PDF到XLSB工作流提高了金融、研究和企业报告中大型数据集的性能。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 大规模财务电子表格
+- 企业数据仓库
+- Excel中的大数据报告
+- 银行合规文件
+- 具有大量数据集的科学模拟
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 用于加速的PDF到XLSB转换管道
+- 大型PDF数据集的批处理
+- 二进制Excel中的自动化财务模型
+- 使用XLSB文件进行优化的存档
+- 企业规模的Excel自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

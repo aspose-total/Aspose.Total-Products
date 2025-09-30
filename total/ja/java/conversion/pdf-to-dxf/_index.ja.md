@@ -57,7 +57,27 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをDXFに変換**することは、**AutoCAD互換の図面**に静的ドキュメントを変換する必要があるエンジニア、建築家、デザイナーにとって重要です。これにより、建設、製造、3D設計のためのCADワークフローで**PDFの設計図**をシームレスに再利用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- PDFからDXFへの建築図面の変換
+- CADソフトウェアでのエンジニアリング図面の再利用
+- CAD互換の入力が必要な製造ワークフロー
+- PDFの回路図をDXF形式に移行
+- チーム間での共同設計の共有
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからDXFへのCADパイプライン**
+- 建設プロジェクト向けのバッチPDF図面変換
+- 製造図面のためのPDFからDXFへの自動化
+- 企業エンジニアリングシステム向けのDXFエクスポートワークフロー
+- PDF入力を統合したスケーラブルなCAD自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

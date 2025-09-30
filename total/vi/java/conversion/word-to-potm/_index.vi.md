@@ -54,7 +54,26 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORD được bảo v
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **WORD thành POTM** cho phép tạo **tệp Mẫu PowerPoint có Macro (POTM)** từ nội dung Word, cho phép tạo các mẫu có macro để tự động hóa nâng cao.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Tạo các mẫu trình bày có macro từ Word
+- Tự động hóa doanh nghiệp trong việc tạo trình bày
+- Mẫu học thuật và nghiên cứu với các yếu tố tương tác
+- Slide thông báo doanh nghiệp có thể tái sử dụng
+- Luồng làm việc dựa trên mẫu cho việc tự động hóa slide
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- Đường ống mẫu tự động từ Word sang POTM
+- Tạo hàng loạt các mẫu trình bày có macro
+- Tự động hóa slide deck dựa trên mẫu
+- Luồng làm việc trình bày cấp doanh nghiệp
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

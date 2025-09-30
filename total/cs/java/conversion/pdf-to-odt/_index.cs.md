@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na ODT** je zásadní pro vytváření dokumentů ve formátu **OpenDocument Text** ze statických PDF souborů. Tím se zajistí flexibilita úprav v LibreOffice Writer a dalších open-source textových procesorech, což je cenné pro vlády, podniky a akademické vydavatelství.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vládní a právní dokumentace
+- Ukládání firemních politik ve formátech otevřených standardů
+- Publikování akademických výzkumů
+- Spolupráce při psaní a úpravách
+- Archivace textových dokumentů na dlouhou dobu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované potrubí obsahu pro převod PDF na ODT
+- Systémy správy dokumentů s integrací ODT
+- Automatizované pracovní postupy pro publikování
+- Konverze dokumentace velkých firem
+- Hromadné zpracování pro vlády a nevládní organizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

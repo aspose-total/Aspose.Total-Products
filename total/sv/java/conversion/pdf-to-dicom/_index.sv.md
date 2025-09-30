@@ -57,7 +57,25 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Att konvertera **PDF till DICOM** är avgörande för hälso- och sjukvårdssektorn där medicinsk avbildning och klinisk dokumentation måste integreras. Detta säkerställer att **PDF-medicinska rapporter** kan omvandlas till **DICOM-format för PACS-servrar**, radiologi arbetsflöden och långsiktig sjukhusarkivering.
+{{% blocks/products/pf/agp/feature-section-col title="Viktiga användningsfall" %}}
+- Integrering av medicinska rapporter i DICOM-avbildningssystem  
+- PDF till DICOM-omvandling för **radiologi och kardiologi** rapporter  
+- Sjukhus PACS-serverarkivering och efterlevnad  
+- Delning av strukturerade medicinska data mellan system  
+- Standardiserad hantering av patientjournaler  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- Automatiserade pipeliner för **PDF till DICOM medicinsk avbildning**  
+- Batchkonvertering av PDF-skanningar till DICOM-arkiv  
+- Sjukhus EMR/EHR-integration med PDF-till-DICOM-arbetsflöden  
+- Företagsmedicinsk avbildningsautomatisering för efterlevnad  
+- Säker, automatiserad överföring av kliniska data  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

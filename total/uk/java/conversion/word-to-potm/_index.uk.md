@@ -103,7 +103,26 @@ otherformats: PPSX PPSM POWERPOINT ODP PPTM PPTX PPT POTX POT PPS CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **WORD в POTM** дозволяє створювати **шаблони PowerPoint з підтримкою макросів (файли POTM)** з вмісту Word, що дозволяє використовувати їх повторно з макросами для розширеної автоматизації.
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+- Генерація шаблонів презентацій з підтримкою макросів з Word
+- Автоматизація підприємства у створенні презентацій
+- Шаблони для академічних та дослідницьких робіт з інтерактивними елементами
+- Корпоративні повторно використовувані слайди для брифінгів
+- Робочий процес на основі шаблонів для автоматизованих слайдів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизовані конвеєри шаблонів Word-to-POTM
+- Пакетне створення шаблонів презентацій з підтримкою макросів
+- Автоматизація слайдів на основі шаблонів
+- Робочі процеси презентацій класу підприємства
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

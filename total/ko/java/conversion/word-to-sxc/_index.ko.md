@@ -61,7 +61,26 @@ WORD를 SXC로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 SXC로 변환**하면 Word 콘텐츠를 **StarOffice Calc (SXC) 파일**로 변환할 수 있어, 기업이나 보관용으로 오래된 OpenOffice/StarOffice 스프레드시트 형식과의 호환성을 제공합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- Word 테이블을 레거시 스프레드시트 형식으로 내보내기
+- 오래된 오피스 스위트와의 상호 운용성
+- 기업 및 정부의 구조화된 콘텐츠 아카이브
+- 학술적 표 데이터 이관
+- Word 문서로부터 템플릿 기반 스프레드시트 준비
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 일괄 Word-to-SXC 변환 워크플로우
+- 기업 규모의 문서-스프레드시트 자동화
+- 레거시 시스템 통합 파이프라인
+- 템플릿 기반 보고서 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

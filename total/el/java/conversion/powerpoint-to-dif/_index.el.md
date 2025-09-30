@@ -61,7 +61,26 @@ otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM DIF MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε DIF** επιτρέπει την εξαγωγή δεδομένων παρουσίασης στη μορφή **Data Interchange Format**, διευκολύνοντας τη δομημένη ανταλλαγή δεδομένων μεταξύ εφαρμογών.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+- Μεταφορά δεδομένων παρουσίασης σε φύλλα εργασίας ή εργαλεία ανάλυσης
+- Αρχειοθέτηση δεδομένων σε κανονικοποιημένες μορφές
+- Ενσωμάτωση με χρηματοοικονομικά ή ερευνητικά συστήματα
+- Σωληνώσεις εκθέσεων επιχείρησης
+- Προετοιμασία δεδομένων για διαφανή διαφάνεια για πολλαπλή χρήση
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες ροές εργασίας μετατροπής διαφανειών σε DIF
+- Εξαγωγή δεδομένων από παρουσιάσεις για ανάλυση
+- Αυτοματισμός εκθέσεων επιχείρησης
+- Ενσωμάτωση με σωληνώσεις ευφυούς επιχειρηματικής νοημοσύνης
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

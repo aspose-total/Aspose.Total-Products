@@ -61,7 +61,26 @@ otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM DIF MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PowerPoint 转换为 DIF** 可以将演示文稿数据导出为 **数据交换格式**，促进应用程序之间的结构化数据交换。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将演示文稿数据转移到电子表格或分析工具
+- 以标准格式进行数据归档
+- 与财务或研究系统集成
+- 企业报告管道
+- 为跨平台使用准备数据驱动幻灯片
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动幻灯片到 DIF 转换工作流程
+- 从演示文稿中提取数据进行分析
+- 企业报告自动化
+- 与商业智能管道集成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

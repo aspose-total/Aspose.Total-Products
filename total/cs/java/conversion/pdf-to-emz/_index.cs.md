@@ -57,7 +57,27 @@ Pomocí API můžete také otočit výstupní obrázek EMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Proces konverze **PDF na EMZ** se používá, když je třeba uložit **vektorovou grafiku** z PDF souborů ve formátu **Enhanced Metafile (komprimovaný)**. To je zvláště užitečné pro publikační pracovní postupy, ukládání škálovatelných obrázků a integraci grafiky z PDF do aplikací pro Windows.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Publikační pracovní postupy vyžadující vektorovou grafiku EMZ  
+- Archivace ilustrací z PDF do komprimovaných souborů EMZ  
+- Konverze diagramů pro technickou dokumentaci  
+- Integrace EMZ s aplikacemi Microsoft Office  
+- Efektivní ukládání škálovatelných obrázků PDF  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Hromadná konverze obrázků **PDF na EMZ**  
+- Automatizované toky pro diagramy PDF do EMZ  
+- Škálovatelné vektorové pracovní postupy soubory EMZ  
+- Integrace exportu z PDF do EMZ do podnikové publikační praxe  
+- Automatizovaná komprese grafiky pro systémy dokumentů  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ POWERPOINT 파일을 MHTML로 변환하는 동안 출력 MHTML 파일 형식에 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 MHTML로 변환**하면 슬라이드를 **웹 아카이브 형식**으로 내보낼 수 있어 HTML 콘텐츠와 리소스를 하나의 파일로 결합하여 쉽게 공유하고 게시할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 웹 게시를 위한 프레젠테이션 아카이빙
+- 슬라이드를 독립적인 웹 페이지로 공유
+- 크로스 플랫폼 프레젠테이션 뷰
+- 기업 인트라넷 콘텐츠 배포
+- 웹 아카이브를 통한 교육 자료 공유
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- MHTML로 자동 변환하는 파이프라인
+- 일괄 슬라이드를 웹 아카이브로 변환하는 워크플로우
+- 콘텐츠 관리 시스템 통합
+- 웹용 보고서 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

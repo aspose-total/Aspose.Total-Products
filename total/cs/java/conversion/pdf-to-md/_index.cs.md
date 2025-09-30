@@ -47,7 +47,27 @@ Při převodu souboru PDF na MD můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Případ konverze **PDF na MD** se zaměřuje na převod souborů PDF do formátu **Markdown (.md)**, který je široce používán v **dokumentaci vývojářů, technických blogích a automatizovaných potrubích obsahu**. Umožňuje strukturované opětovné použití textu, tabulek a kódových úryvků z PDF v editorech Markdown.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Migrace dokumentace vývojářů z PDF do MD
+- Převod manuálů ve formátu PDF do Markdownu pro úpravy
+- Pracovní postupy technického blogování s použitím obsahu MD
+- Dokumentace open-source projektů uložená jako Markdown
+- Vytváření strukturovaných **bází znalostí** z PDF zpráv
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované **potrubí PDF na MD pro vývojáře**
+- Hromadný převod PDF do repozitářů Markdown
+- Pracovní postupy založené na Gitu integrující export PDF do MD
+- API-řízené zpracování PDF na MD pro platformy CMS
+- Podniková automatizace pro migraci PDF dokumentů do MD
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

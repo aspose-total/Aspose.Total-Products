@@ -102,7 +102,26 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-XLTX** מאפשרת לייצא מסמכי Word לתבנית **Excel (XLTX)**, מספקת תבניות גיליון חוזרות ללא מקרוים לצורכי עסקים ואקדמיה.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת תבניות Excel חוזרות ללא מקרוים
+- דיווחים ארגוניים תקניים
+- הכנת תבניות ללימודים ומחקר
+- זרימות עבודה מובנות בתבניות
+- תקנות בדיוניות ופיננסיות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות תבניות מאוטומטיים מ-Word ל-XLTX
+- יצירת תבניות בצורה צפופה מטבלאות Word
+- אוטומציה של גיליונות עבודה מובנים בתבניות
+- זרימות עבודה לדיווחים ברמה ארגונית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

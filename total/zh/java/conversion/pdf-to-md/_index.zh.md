@@ -49,7 +49,25 @@ otherformats: FODS XLTX XLSB XLSM MD SXC EXCEL DIF XLAM TSV ODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF转MD**转换案例侧重于将PDF文件转换为**Markdown (.md)格式**，这在**开发者文档、技术博客和内容自动化流程**中被广泛使用。它允许在Markdown编辑器中结构化地重用PDF文本、表格和代码片段。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 从PDF迁移开发者文档至MD  
+- 将PDF手册转换为Markdown以进行编辑  
+- 使用MD内容进行技术博客工作流程  
+- 将开源项目文档存储为Markdown  
+- 从PDF报告创建结构化**知识库**  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 为开发者设计的自动化**PDF转MD流水线**  
+- 批量将PDF转换为Markdown存储库  
+- 集成PDF转MD导出的基于Git的工作流程  
+- 面向CMS平台的基于API的PDF转MD处理  
+- 用于将PDF文档迁移到MD的企业自动化  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

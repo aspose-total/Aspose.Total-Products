@@ -47,7 +47,25 @@ Lors de la conversion du fichier PDF en ODS, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en ODS** permet de transformer les **rapports PDF en format de feuille de calcul OpenDocument**, garantissant l'accessibilité et la flexibilité pour l'analyse de données, les rapports financiers et les ensembles de données scientifiques.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- États financiers et dossiers comptables
+- Systèmes de reporting de qualité entreprise
+- Initiatives de partage de données gouvernementales
+- Ensembles de données de recherche académique
+- Stockage de données structurées à long terme
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Flux de travail d'extraction de données de PDF vers ODS
+- Pipelines de conversion automatisée pour la finance et la recherche
+- Création de feuilles de calcul pilotée par JSON/XML
+- Automatisation des rapports d'entreprise
+- Transformation numérique évolutive des données
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

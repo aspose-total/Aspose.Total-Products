@@ -57,7 +57,25 @@ API также позволяет экспортировать файл PDF в J
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Процесс преобразования **PDF в JPEG2000** важен для создания **высококачественных сжатых изображений** из страниц PDF. JPEG2000 широко используется в **цифровых библиотеках, медицинском изображении и архивировании**, где требуется эффективное сжатие и без потерь хранение.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Сохранение цифровых библиотек с использованием JPEG2000  
+- Преобразование PDF для **архивов медицинского изображения**  
+- Хранение документов высокого разрешения с уменьшенным размером  
+- Государственные архивы с использованием стандартов JPEG2000  
+- Академические репозитории, требующие **долгосрочного сохранения изображений**  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные **конвейеры PDF в JPEG2000**  
+- Пакетное архивирование PDF в формат JPEG2000  
+- Интеграция с системами цифровых библиотек  
+- Рабочие процессы медицинского изображения с PDF в JPEG2000  
+- Предприятий автоматизация для хранения высокого качества сжатия  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

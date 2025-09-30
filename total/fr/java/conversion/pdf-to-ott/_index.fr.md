@@ -130,7 +130,25 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en OTT** permet de générer des fichiers de modèle de texte OpenDocument, garantissant la standardisation des processus de documentation d'entreprise, académique et gouvernementale.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Modèles de documents commerciaux standardisés
+- Modèles juridiques et politiques gouvernementales
+- Cadres de publication académique
+- Modèles de communication pour les ONG
+- Création de contenu d'entreprise structuré
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Flux de travail automatisés de modèles PDF vers OTT
+- Pipelines de documentation de qualité entreprise
+- Automatisation des documents gouvernementaux et juridiques
+- Automatisation de la publication académique à grande échelle
+- Traitement de lots de modèles évolutif
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

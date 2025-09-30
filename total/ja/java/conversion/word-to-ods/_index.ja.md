@@ -61,7 +61,26 @@ WORDをODSに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORDをODSに変換**すると、Wordコンテンツを**OpenDocument Spreadsheet (ODS)形式**にエクスポートでき、構造化された表形式データをスプレッドシート分析や共同作業に利用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- アナリティクス用にWordの表をODSにエクスポート
+- OpenDocument形式での相互運用可能なレポート
+- 企業や政府のスプレッドシートワークフロー
+- 学術データ処理とアーカイブ
+- 構造化された表形式データの現代的なスプレッドシートシステムへの移行
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化されたWordからODSへの変換パイプライン
+- エンタープライズ向けの構造化レポート
+- スプレッドシートに基づくワークフローの自動化
+- テンプレートベースの文書からスプレッドシートへの生成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

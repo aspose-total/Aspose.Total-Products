@@ -53,7 +53,26 @@ otherformats: OTT WORDM DOTM FLATOPC DOTX RTF ODT DOT WORDML WORDX TEXT WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в WORD** гарантирует, что слайды превращаются в **редактируемые документы Word**, поддерживая широкое использование в отчетах, совместном редактировании и документировании.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Создание редактируемых документов из презентаций
+- Генерация корпоративных отчетов
+- Подготовка учебных и тренировочных материалов
+- Архивирование презентаций в формате Word
+- Совместное редактирование и аннотирование документов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Пакетные конверсионные конвейеры для презентаций
+- Интеграция в корпоративные документальные рабочие процессы
+- Автоматическое создание отчетов на основе слайдов
+- Генерация документов на основе слайдов для команд
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

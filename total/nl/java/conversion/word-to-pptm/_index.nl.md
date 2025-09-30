@@ -54,7 +54,26 @@ Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar PPTM co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **WORD naar PPTM** maakt het mogelijk dat Word-inhoud **Macro-Enabled PowerPoint (PPTM) bestanden** wordt, waardoor automatisering en interactieve presentatiefuncties mogelijk zijn.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Macro-ingeschakelde bedrijfs- en ondernemingspresentaties
+- Interactieve academische en trainingsdia's
+- Op sjabloon gebaseerde macro-ingeschakelde presentatieworkflows
+- Automatisering van overheids- en organisatiebriefings
+- Herbruikbare macro-ingeschakelde presentatiesjablonen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde Word-naar-PPTM dia-pipelines
+- Batchcreatie van macro-ingeschakelde presentatiedecks
+- Op sjabloon gebaseerde interactieve dia-automatisering
+- Bedrijfsklasse macro-ingeschakelde presentatieworkflows
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

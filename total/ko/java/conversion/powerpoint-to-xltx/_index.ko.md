@@ -61,7 +61,26 @@ POWERPOINT 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 XLTX로 변환**하면 슬라이드를 **현대적인 Excel 템플릿**으로 내보낼 수 있어, 표준화된 기업이나 학술 보고를 위한 매크로 없는 재사용 가능한 템플릿을 만들 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 현대적인 재사용 가능한 Excel 템플릿
+- 표준화된 기업이나 학술 보고
+- 템플릿 워크북으로 프레젠테이션을 아카이빙
+- 프로젝트나 보고서 템플릿 준비
+- 협업을 통한 템플릿 공유 및 편집
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 슬라이드로부터 XLTX 템플릿의 자동 생성
+- 일괄 템플릿 생성 워크플로우
+- 기업 템플릿 라이브러리 통합
+- 템플릿 기반의 보고서 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

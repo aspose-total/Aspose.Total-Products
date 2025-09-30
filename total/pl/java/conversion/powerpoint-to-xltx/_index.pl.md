@@ -61,7 +61,26 @@ Podczas konwertowania pliku POWERPOINT do XLTX możesz również dodać znak wod
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do XLTX** umożliwia wyeksportowanie slajdów jako **nowoczesne szablony Excel**, tworząc szablony wielokrotnego użytku bez makr do standaryzowanych raportów przedsiębiorstwowych lub akademickich.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Nowoczesne szablony Excel do wielokrotnego użytku
+- Standaryzowane raportowanie przedsiębiorstwowe lub akademickie
+- Archiwizowanie prezentacji jako szablonów skoroszytów
+- Przygotowywanie szablonów projektów lub raportów
+- Współpraca w udostępnianiu i edycji szablonów
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne generowanie szablonów XLTX z slajdów
+- Przepływy pracy tworzenia szablonów wsadowych
+- Integracja z bibliotekami szablonów przedsiębiorstwowych
+- Automatyzacja raportowania oparta na szablonach
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

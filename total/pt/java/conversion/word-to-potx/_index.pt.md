@@ -54,7 +54,24 @@ A API também permite converter documentos WORD protegidos por senha em POTX. Se
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para POTX** permite transformar o conteúdo do Word em arquivos de **Modelo do PowerPoint (POTX)**, fornecendo modelos de apresentação reutilizáveis e livres de macros para uso empresarial e acadêmico.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Criar modelos de PowerPoint reutilizáveis e livres de macros
+- Modelos de apresentação padronizados para empresas
+- Preparação de slides acadêmicos e de pesquisa
+- Relatórios e briefings corporativos baseados em modelos
+- Automação de fluxo de trabalho para slides sem macros
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Geração automatizada de modelos de Word para POTX
+- Conversão em lote para reutilização de modelos
+- Fluxos de trabalho de automação de slides baseados em modelos
+- Pipelines de apresentação de nível empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

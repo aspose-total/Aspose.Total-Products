@@ -130,7 +130,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをDOCMに変換**することは、企業が静的ファイルを**マクロ有効なWord文書**に変換する必要があるときに重要です。オンラインPDFからDOCMへの変換や自動化されたパイプラインを使用することで、組織は高度なワークフローを解除し、自動化スクリプトを埋め込み、効率的に文書関連のタスクを効率化することができます。
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- マクロを埋め込んだ文書タスクの自動化
+- マクロ駆動型テンプレートによる企業レポーティング
+- 繰り返し可能な計算が必要な財務モデル
+- 自動化フックを持つビジネスプロセス文書
+- マクロ検証付きの規制レポート
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- コンプライアンスのためのオンラインおよびバッチPDFからDOCMへのパイプライン
+- 自動化されたマクロ有効なレポート生成
+- 企業向けの大量PDFからDOCMへの変換
+- インタラクティブなWordファイルのワークフロー自動化
+- マクロ駆動型文書ライフサイクル管理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

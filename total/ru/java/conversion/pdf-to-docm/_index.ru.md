@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в DOCM** необходимо, когда компаниям нужно преобразовать статические файлы в **документы Word с поддержкой макросов**. Используя онлайн конвертацию PDF в DOCM или автоматизированные конвейеры, организации могут разблокировать расширенные рабочие процессы, встраивать сценарии автоматизации и эффективно оптимизировать задачи, связанные с документами.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Автоматизация задач с документами с встроенными макросами
+- Отчетность предприятия с шаблонами, управляемыми макросами
+- Финансовые модели, требующие повторяемых расчетов
+- Документы бизнес-процессов с хуками автоматизации
+- Регуляторные отчеты с проверкой макросов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Онлайн и пакетные конвейеры PDF в DOCM для соответствия требованиям
+- Автоматизированная генерация отчетов с поддержкой макросов
+- Массовое преобразование PDF в DOCM для предприятий
+- Автоматизация рабочего процесса для интерактивных файлов Word
+- Управление жизненным циклом документов с помощью макросов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

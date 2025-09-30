@@ -61,7 +61,26 @@ otherformats: SXC XLTX ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в XLTX** позволяет экспортировать документы Word в формат **Excel Template (XLTX)**, обеспечивая многократное использование шаблонов электронных таблиц без макросов для предприятий и академических целей.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Создание многоразовых шаблонов Excel без макросов
+- Стандартизированная отчетность предприятий и организаций
+- Подготовка шаблонов для академических и исследовательских целей
+- Структурированные рабочие процессы на основе шаблонов
+- Стандартизация отчетности для государственных и финансовых органов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры шаблонов Word-to-XLTX
+- Пакетная генерация шаблонов из таблиц Word
+- Автоматизация рабочих процессов на основе шаблонов
+- Рабочие процессы отчетности предприятий высокого уровня
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

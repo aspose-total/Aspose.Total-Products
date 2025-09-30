@@ -49,7 +49,26 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى JSON** يسمح بتصدير الشرائح كـ **بيانات JSON منظمة**, مما يتيح التكامل السلس مع تطبيقات الويب وواجهات برمجة التطبيقات وأنظمة المعالجة التلقائية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- دمج محتوى العرض في تطبيقات الويب أو التطبيقات المحمولة
+- إنشاء شرائح مدفوعة بالبيانات
+- أرشفة الشرائح في شكل JSON منظم لإعادة الاستخدام
+- تقارير الشركات والتحليلات
+- الأتمتة القائمة على القوالب باستخدام بيانات الشرائح
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- سير العمل القائمة على JSON للعروض التقديمية
+- توصيل المحتوى بناءً على واجهات برمجة التطبيقات التلقائية
+- تحويل دفعة من الشرائح إلى JSON
+- التكامل مع أنظمة الذكاء الاصطناعي/التحليلات لمعالجة البيانات المنظمة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

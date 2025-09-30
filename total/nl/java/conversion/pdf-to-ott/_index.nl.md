@@ -129,7 +129,25 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PDF naar OTT** maakt het genereren van **OpenDocument Text Template-bestanden** mogelijk, waardoor standaardisatie wordt gegarandeerd in bedrijfs-, academische en overheidsdocumentatieprocessen.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Gestandaardiseerde sjablonen voor zakelijke documenten
+- Sjablonen voor juridische en overheidsbeleidsdocumenten
+- Kaders voor academische publicaties
+- Sjablonen voor NGO-communicatie
+- Gestroomlijnde creatie van gestructureerde bedrijfsinhoud
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde PDF-naar-OTT-sjabloonworkflows
+- Documentatiepijplijnen van bedrijfskwaliteit
+- Automatisering van overheids- en juridische documenten
+- Automatisering van grootschalige academische publicaties
+- Schaalbare verwerking van batchsjablonen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

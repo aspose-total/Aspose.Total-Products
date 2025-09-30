@@ -47,7 +47,25 @@ Ao converter o arquivo PDF para TSV, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para TSV** é valioso para gerar **valores separados por tabulação** que preservam conjuntos de dados limpos e baseados em colunas. Com conversores de PDF para TSV e automação, as organizações garantem compatibilidade com bancos de dados, planilhas e ferramentas de pesquisa.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Conjuntos de dados de pesquisa acadêmica
+- Bioinformática e tabelas de dados científicos
+- Resultados de pesquisas de mercado
+- Arquivos estatísticos governamentais
+- Troca de dados estruturados entre sistemas
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Fluxos de trabalho automatizados de PDF para TSV para laboratórios de pesquisa
+- Geração em lote de TSV para relatórios estruturados
+- Integração com pipelines de ingestão de banco de dados
+- Preparação de dados para plataformas de análise
+- Automação de dados tabulares em alto volume
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

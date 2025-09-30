@@ -61,7 +61,26 @@ A POWERPOINT fájl MHTML formátumba konvertálásakor vízjelet is hozzáadhat 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint MHTML formátumba történő konvertálása** lehetővé teszi a diák exportálását **web archív formátumba**, amely összefogja az HTML tartalmat és erőforrásokat egyetlen fájlba könnyű megosztás és közzététel érdekében.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Prezentációk archiválása webes közzététel céljából
+- Dia megosztása önálló weboldalak formájában
+- Keresztplatformos prezentáció megtekintése
+- Vállalati belső hálózati tartalomterjesztés
+- Oktatási anyagok megosztása webes archívumokon keresztül
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált konverziós csatornák MHTML formátumba
+- Tömeges dia-webarchív munkafolyamatok
+- Integráció tartalomkezelő rendszerekkel
+- Webes jelentésautomatizálásra kész
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

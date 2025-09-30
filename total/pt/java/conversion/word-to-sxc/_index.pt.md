@@ -61,7 +61,24 @@ Depois de converter WORD para SXC, o [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para SXC** permite a transformação de conteúdo do Word em arquivos **StarOffice Calc (SXC)**, possibilitando a compatibilidade com formatos de planilhas mais antigos do OpenOffice/StarOffice para uso empresarial ou arquivamento.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Exportar tabelas do Word para formatos de planilhas legados
+- Interoperabilidade com suites de escritório mais antigos
+- Arquivamento empresarial e governamental de conteúdo estruturado
+- Migração de dados tabulares acadêmicos
+- Preparação de planilhas baseadas em modelos a partir de documentos do Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Fluxos de trabalho em lote de conversão de Word para SXC
+- Automação de documentos para planilhas em escala empresarial
+- Integração de sistemas legados
+- Automação de relatórios baseada em modelos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

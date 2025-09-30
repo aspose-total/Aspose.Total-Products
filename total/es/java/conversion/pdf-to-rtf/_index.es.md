@@ -130,7 +130,25 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PDF a RTF** permite a las empresas generar documentos en **formato de texto enriquecido** que son compatibles en todas las plataformas. Con herramientas en línea de PDF a RTF y automatización, las empresas pueden garantizar una edición, compartición e integración fluidas con sistemas heredados en todo el mundo.
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+- Compartir documentos entre plataformas  
+- Compatibilidad con sistemas heredados  
+- Portabilidad de documentación legal  
+- Presentaciones académicas en formatos estándar  
+- Archivado para accesibilidad a largo plazo
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+- Tuberías automatizadas de PDF a RTF para intercambio de documentos  
+- Generación masiva de RTF a partir de archivos PDF  
+- Flujos de trabajo RTF en toda la empresa  
+- Integración de aplicaciones heredadas con RTF  
+- Automatización de interoperabilidad entre sistemas
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

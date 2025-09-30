@@ -135,7 +135,27 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى XAML** يساعد المطورين والشركات على إنشاء ملفات **لغة ترميز تطبيق قابلة للتوسيع** من تخطيطات المستندات. باستخدام محولات PDF إلى XAML عبر الإنترنت وأنابيب العمل الآلي، يمكن للشركات تحويل ملفات PDF إلى موارد واجهة المستخدم لتطبيقات WPF والنشر الرقمي.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- نمذجة واجهة المستخدم من تخطيطات PDF
+- توثيق تصميم تطبيق الشركات
+- إنشاء موارد تطبيق WPF
+- توثيق برمجيات تفاعلية
+- النشر الرقمي في ترميز منظم
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب عمل آلية لتحويل PDF إلى XAML لأطر واجهة المستخدم
+- تحويل كمي لملفات PDF إلى XAML للشركات
+- تكامل سير العمل لتوثيق التصميم
+- نمذجة التطبيق من أرشيفات PDF
+- أتمتة توثيق برمجيات الشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

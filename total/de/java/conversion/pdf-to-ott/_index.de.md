@@ -130,7 +130,27 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Umwandlung von **PDF in OTT** ermöglicht die Erstellung von **OpenDocument Text Template-Dateien**, um die Standardisierung in Unternehmens-, akademischen und behördlichen Dokumentationsprozessen sicherzustellen.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Standardisierte Geschäftsdokumentenvorlagen
+- Vorlagen für Rechts- und Regierungspolitik
+- Rahmenbedingungen für akademische Veröffentlichungen
+- Vorlagen für die Kommunikation von NGOs
+- Strukturierte Erstellung von Unternehmensinhalten
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte PDF-zu-OTT-Vorlagen-Workflows
+- Dokumentationspipelines auf Unternehmensebene
+- Automatisierung von Regierungs- und Rechtsdokumenten
+- Automatisierung von groß angelegten akademischen Veröffentlichungen
+- Skalierbare Stapelvorlagenverarbeitung
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

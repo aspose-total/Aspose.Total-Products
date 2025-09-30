@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na POTM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **WORD na POTM** umožňuje vytváření souborů **Macro-Enabled PowerPoint Template (POTM)** z obsahu Wordu, což umožňuje vytváření opakovaně použitelných šablon s makry pro pokročilou automatizaci.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Generování makro-aktivovaných prezentčních šablon z Wordu
+- Firemní automatizace při vytváření prezentací
+- Akademické a výzkumné šablony s interaktivními prvky
+- Firemní opakované informační snímky
+- Šablonami řízený pracovní postup pro automatizované snímky
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatické šablony Word-to-POTM
+- Hromadné vytváření makro-aktivovaných prezentčních šablon
+- Automatizace snímků řízená šablonami
+- Firemní pracovní postupy pro prezentace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

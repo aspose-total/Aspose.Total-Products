@@ -53,7 +53,26 @@ otherformats: OTT TEXTM WORDML RTF TEXT DOTX WORD TEXTX FLATOPC ODT DOT DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็นข้อความ** ช่วยให้สามารถส่งออกภาพนำเข้ารูปแบบ **ข้อความธรรมดา** ที่เหมาะสำหรับการสกัดข้อมูล การวิเคราะห์ข้อความ หรือการแบ่งปันเนื้อหาที่เบาน้ำหนัก
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การสกัดข้อความสำหรับการวิเคราะห์หรือประมวลผลด้าน AI
+- เตรียมรายงานหรือบันทึกข้อความธรรมดา
+- การเก็บถาวรเนื้อหาสไลด์อย่างเบาน้ำหนัก
+- การนำเนื้อหากลับมาใช้ในอีเมลหรือสคริปต์
+- การสร้างเอกสารอย่างเรียบง่ายจากการนำเสนอ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- ท่อส่งการสกัดข้อความจากสไลด์ไปยังข้อความ
+- การรวมระบบ NLP หรือ AI analytics
+- การทำงานของข้อความขององค์กรจากการนำเสนอ
+- การสกัดเนื้อหาเป็นชุดสำหรับรายงาน
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

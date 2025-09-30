@@ -61,7 +61,26 @@ otherformats: SXC XLTX XLAM XLS FODS XLT XLSM TSV DIF EXCEL ODS XLSX XLTM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为SXC**可将Word内容转换为**StarOffice Calc (SXC)文件**，实现与旧版OpenOffice/StarOffice电子表格格式的兼容，适用于企业或存档用途。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 将Word表格导出为传统电子表格格式
+- 与旧版办公套件的互操作性
+- 企业和政府对结构化内容的存档
+- 学术表格数据迁移
+- 基于模板从Word文档准备电子表格
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 批量进行Word到SXC的转换工作流程
+- 企业规模的文档到电子表格自动化
+- 旧系统集成管道
+- 基于模板的报告自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

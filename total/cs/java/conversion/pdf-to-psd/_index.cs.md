@@ -57,7 +57,27 @@ Pomocí API můžete také otočit výstupní obrázek PSD podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na PSD** umožňuje designérům transformovat **grafiku PDF do formátu Adobe Photoshop**, což umožňuje úpravy založené na vrstvách a zlepšení pracovního postupu pro kreativní práci.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Úprava ilustrací PDF v programu Photoshop
+- Převod infografik a marketingových prostředků
+- Pracovní postup designu s uchováním vrstev pro kreativní týmy
+- Příprava obsahu PDF pro digitální mediální kampaně
+- Archivace grafiky PDF ve formátu PSD pro úpravy
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizovaný **dávkový převod PDF na PSD**
+- Integrace pracovního postupu designu pro kreativní studia
+- Zpracování PDF do Photoshopu řízené API
+- Automatizované grafické potrubí pro podniky
+- Automatické extrakce vrstev z souborů PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

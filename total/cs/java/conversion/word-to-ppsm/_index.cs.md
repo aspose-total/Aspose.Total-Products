@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na PPSM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **WORD na PPSM** umožňuje vytváření souborů **Macro-Enabled PowerPoint Show (PPSM)** z dokumentů Word, což umožňuje interaktivní prezentace s automatizačními schopnostmi.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Prezentace s makry z obsahu Wordu
+- Interaktivní prezentace pro firemní nebo podnikové účely
+- Prezentační diapozitivy pro akademický výzkum a školení
+- Šablona řízená interaktivní prezentace
+- Automatizace briefingu pro vládu a organizace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované převody diapozitivů z Wordu do PPSM
+- Hromadné vytváření makro-enabled prezentací
+- Šablona řízená interaktivní automatizace diapozitivů
+- Firemní řešení pro makro-enabled prezentace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -143,7 +143,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为XAMLFLOW**非常适合在.NET和WPF应用程序中构建基于FlowDocument的XAML文件的开发人员。通过批量PDF转换为XAMLFlow转换器和自动化流程，静态内容可以转换为交互式、结构化的软件资源。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 在WPF应用程序中集成富文本  
+- 以FlowDocument格式进行数字出版  
+- 软件手册和帮助系统  
+- 企业知识库集成  
+- 文档到应用程序工作流程
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 用于应用程序开发的自动化PDF到XAMLFLOW流程  
+- 用于企业WPF应用程序的批量转换  
+- 工作流程集成到发布系统中  
+- 规模化生成FlowDocument内容  
+- 交互式软件文档自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ otherformats: SXC XLSM ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为XLSM**允许将Word文档转换为**启用宏的Excel工作簿（XLSM）**，通过VBA宏实现自动化和增强电子表格工作流程。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 从Word数据创建启用宏的Excel报告
+- 企业自动化工作流程
+- 具有自动计算的学术研究数据集
+- 模板驱动的文档到电子表格转换
+- 政府和企业结构化报告
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- Word到XLSM自动报告生成
+- 启用宏的工作流自动化
+- 模板驱动的Excel宏创建
+- 企业级文档自动化流水线
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

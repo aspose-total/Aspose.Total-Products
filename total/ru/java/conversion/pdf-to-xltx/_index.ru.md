@@ -47,7 +47,27 @@ otherformats: SXC TSV XLAM XLTX EXCEL XLSB MD XLSM DIF FODS XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в XLTX** необходимо для создания **макро-безопасных шаблонов Excel**, обеспечивающих безопасность и последовательность. С помощью конвертеров PDF в XLTX и автоматизации компании могут использовать стандартизированные шаблоны без риска внедрения кода.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Корпоративные шаблоны таблиц Excel
+- Безопасные рабочие процессы отчетности в регулируемых отраслях
+- Шаблоны для представления академических исследований
+- Шаблоны данных по кадровому учету и зарплате
+- Одобренные правительством форматы Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры PDF в XLTX для предприятий
+- Безопасное создание шаблонов Excel
+- Пакетное преобразование XLTX из отчетов PDF
+- Автоматизация от архива к шаблону
+- Стандартизированные рабочие процессы таблиц Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,26 @@ Az API segítségével POWERPOINT fájlból DOCM-ba konvertálhat vízjellel. Ha
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to DOCM** konvertálása lehetővé teszi a diák exportálását **makróval ellátott Word dokumentumokba**, megőrizve az automatizálást és az interaktivitást a dokumentumkörnyezetben.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Makrók megőrzése prezentációadatok átvitelekor
+- Interaktív jelentések készítése automatizálási szkriptekkel
+- Vállalati sablonok beágyazott funkciókkal
+- Megfelelési jelentések előre meghatározott makrókkal
+- Dinamikus tartalmat igénylő oktatási vagy vállalati dokumentumok
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Makrók megőrzése automatizált konverziós csövekben
+- JSON/diavetítésvezérelt makró dokumentumgenerálás
+- Vállalati munkafolyamatok makróval ellátott sablonokkal
+- Zökkenőmentes automatizált jelentéskészítés a diákból
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

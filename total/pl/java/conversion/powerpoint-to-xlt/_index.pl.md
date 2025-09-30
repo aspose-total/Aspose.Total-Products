@@ -61,7 +61,26 @@ Podczas konwertowania pliku POWERPOINT do XLT możesz również dodać znak wodn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do XLT** umożliwia eksportowanie slajdów jako **szablonów Excel z poprzednich wersji**, co pozwala na ponowne wykorzystanie szablonów na podstawie danych prezentacji do standaryzowanego raportowania.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Tworzenie ponownie wykorzystywalnych szablonów Excel na podstawie prezentacji
+- Standaryzacja raportowania w przedsiębiorstwie lub w środowisku akademickim
+- Archiwizacja slajdów jako szablonów skoroszytów
+- Przygotowywanie strukturalnych szablonów projektów lub raportów
+- Tworzenie szablonów z poprzednich wersji Excela
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne generowanie szablonów XLT na podstawie slajdów
+- Integracja z procesami dla bibliotek szablonów przedsiębiorstwa
+- Tworzenie zbiorcze szablonów z wielu prezentacji
+- Automatyzacja raportowania oparta na szablonach
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

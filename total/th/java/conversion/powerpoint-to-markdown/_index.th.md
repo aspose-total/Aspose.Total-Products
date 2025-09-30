@@ -61,7 +61,26 @@ otherformats: EXCEL MARKDOWN XLSX ODS XLS DIF XLT FODS MHTML XLTM TSV XLAM XLSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น MARKDOWN** ช่วยให้สามารถส่งออกภาพนิพนธ์เป็นรูปแบบ **Markdown** ที่เหมาะสำหรับเอกสารเบา ๆ, การสร้างเว็บไซต์แบบสถิต, และการจัดเก็บเวอร์ชันเนื้อหา
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- การแปลงเนื้อหาการนำเสนอสำหรับเว็บไซต์หรือบล็อก
+- เอกสารเบา ๆ ที่ใช้ข้อความเป็นหลัก
+- การเก็บถาวรภาพนิพนธ์ในรูปแบบที่ควบคุมเวอร์ชัน
+- การจดบันทึกและแบ่งปันเนื้อหาร่วมกัน
+- วัสดุการศึกษาสำหรับนักพัฒนาและเขียนเทคนิค
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- กระบวนการทำงานอัตโนมัติจากสไลด์เป็น Markdown
+- การผสานกับเครื่องมือสร้างเว็บไซต์แบบสถิต เช่น Hugo หรือ Jekyll
+- การแปลงกลุ่มการนำเสนอเป็น Markdown
+- กระบวนการเอกสารสำหรับฐานความรู้ขององค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

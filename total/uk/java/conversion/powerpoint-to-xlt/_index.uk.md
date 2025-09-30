@@ -102,7 +102,26 @@ otherformats: EXCEL XLAM DIF MARKDOWN CSV XLTM XLSX XLSB TSV XLS SXC FODS XLSM O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **PowerPoint в XLT** дозволяє експортувати слайди як **застарілі шаблони Excel**, що дозволяє використовувати шаблони з даних презентації для стандартизованої звітності.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+- Створення повторно використовуваних шаблонів Excel з презентацій
+- Стандартизація корпоративної або академічної звітності
+- Архівування слайдів у вигляді робочих книг-шаблонів
+- Підготовка структурованих проектних або звітних шаблонів
+- Створення застарілих шаблонів для старіших версій Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+- Автоматизоване створення шаблонів слайдів у форматі XLT
+- Інтеграція робочих процесів для корпоративних бібліотек шаблонів
+- Пакетне створення шаблонів з декількох презентацій
+- Автоматизація звітності на основі шаблонів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

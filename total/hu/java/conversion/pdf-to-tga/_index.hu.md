@@ -57,7 +57,27 @@ Az API használatával igény szerint elforgathatja a kimeneti TGA-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+PDF átalakítása TGA (Targa) formátumba ideális a magas minőségű rácsképek létrehozásához PDF oldalakból digitális művészeti, játék- és multimédiatermeléshez.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Digitális művészet és illusztráció kinyerése
+- Játékelem-generálás PDF tartalomból
+- Magas minőségű rácsgrafika multimédiaprojektekhez
+- PDF grafikák archiválása TGA képekké
+- Konverzió animációs és vizuális effektus munkafolyamatokhoz
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált PDF-TGA tömeges konverzió
+- Integráció digitális média- és játékfolyamatokkal
+- PDF grafikák rácsosítása vizuális effektusokhoz
+- Munkafolyamat-automatizálás multimédiatermeléshez
+- Skálázható PDF kép exportálása TGA formátumba
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

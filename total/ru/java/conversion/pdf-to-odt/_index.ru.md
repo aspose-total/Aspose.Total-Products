@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в ODT** необходимо для создания **документов OpenDocument Text** из статических PDF. Это обеспечивает гибкость редактирования в LibreOffice Writer и других текстовых процессорах с открытым исходным кодом, что ценно для правительств, бизнеса и академического издательства.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Государственная и юридическая документация
+- Хранение корпоративных политик в открытых форматах
+- Публикация академических исследований
+- Совместное написание и редактирование
+- Архивирование текстовых документов на долгосрочное хранение
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры контента PDF в ODT
+- Системы управления документами с интеграцией ODT
+- Автоматизированные рабочие процессы публикации
+- Конвертация документации крупных предприятий
+- Пакетная обработка для правительственных и НПО
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -130,7 +130,27 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Konvertierung von **PDF in WORDML** ist wichtig für die Erstellung von **WordprocessingML (XML-basierten Word-Dokumenten)** aus PDFs. Online-PDF-zu-WordML-Tools und Automatisierung gewährleisten strukturierte, XML-konforme Dokumente, die für Archivierung, Veröffentlichung und Unternehmensworkflows bereit sind.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+- Datenaustausch zwischen Systemen
+- Unternehmensdokumentenspeicherung
+- Vorlagenbasierte Dokumentenerstellung
+- Digitale Archive der Regierung
+- Strukturierte akademische Veröffentlichungen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+- Automatisierte PDF-zu-WordML-Pipelines für strukturierte Berichterstellung
+- XML-Dokumentenerstellung aus PDFs
+- Stapelverarbeitung von WordML-Workflows für Unternehmen
+- Integration digitaler Archive in XML-Formate
+- Strukturierte Berichterstellung auf Unternehmensebene
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

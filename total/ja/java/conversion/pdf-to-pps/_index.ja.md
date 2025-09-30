@@ -121,7 +121,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをPPS/PPSM/PPSXに変換**すると、**PowerPointスライドショーファイル**（マクロを有効にしたPPSMおよびXMLベースのPPSXを含む）が生成されます。これらは**直接プレゼンテーションに使用する**ために最適化されており、マーケティング、教育、または企業イベントに最適です。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+- プレゼンテーション用の再生可能なスライドショー
+- マクロを有効にしたトレーニングやインタラクティブなスライド（PPSM）
+- マーケティングキャンペーンやイベントプレゼンテーション
+- 学術講義やワークショップ
+- 再利用可能なビジネスやセミナーのスライド
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからPPS/PPSM/PPSXへのパイプライン**
+- イベント用にPDFスライドのバッチ変換
+- 企業向けスライドショー生成ワークフロー
+- マクロを有効にしたPowerPoint自動化との統合
+- 組織向けのスムーズなプレゼンテーション展開
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

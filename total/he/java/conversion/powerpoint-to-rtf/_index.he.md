@@ -102,7 +102,26 @@ otherformats: WORDML DOC FLATOPC OTT WORD DOTX DOCM DOTM DOCX DOT TEXT ODT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל־RTF** מאפשרת לשקפים להפוך למסמכי **Rich Text Format**, מה שהופך אותם לגמישים בצורה רחבה עם עורכי טקסט שונים ומערכות ירושות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- שיתוף מסמכים בין פלטפורמות שונות
+- עריכה בעורכי טקסט קלים או מערכות ירושות
+- ארכיבת תוכן טקסט של ההצגה
+- הכנת דוחות פשוטים או חוברות
+- תאימות עם מספר רב של חבילות משרד
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- המרת שקפים ל־RTF בצורה צירופית
+- זרימות עבודה לארכיון באופן אוטומטי
+- צינורות חילוץ תוכן לדיווחים
+- שילוב במערכות מסמכים במספר פורמטים
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

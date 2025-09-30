@@ -61,7 +61,26 @@ otherformats: XLTM XLSB XLSM SXC XLTX DIF ODS TSV XLS MHTML MARKDOWN FODS XLT XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น XLAM** ช่วยให้สไลด์สามารถถูกส่งออกเป็น **macro-enabled Excel add-ins** ทำให้เกิดการอัตโนมัติและฟังก์ชันที่สามารถนำมาใช้ซ้ำได้จากข้อมูลในงานนำเสนอ
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- สร้าง Excel add-ins ด้วย macro ที่มาจากงานนำเสนอ  
+- การอัตโนมัติฟังก์ชันการรายงานที่มีขึ้นจากสไลด์  
+- การผสานการทำงานขององค์กรกับ Excel automation  
+- ไลบรารี macro ที่สามารถนำมาใช้ซ้ำจากข้อมูลในงานนำเสนอ  
+- การลดเวลาในการทำงานที่ซ้ำซากในสเปรดชีต
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+- การสร้าง XLAM add-ins โดยอัตโนมัติจากงานนำเสนอ  
+- การทำงานกลุ่มของสไลด์เป็น Excel macro  
+- การผสานการทำงานกับท่อรายงานขององค์กร  
+- การใช้งานที่มีการควบคุมจากสไลด์ใน Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,24 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PowerPoint en TEXTE** permet d'exporter les diapositives au format **texte brut**, idéal pour l'extraction de données, l'analyse de texte ou le partage de contenu léger.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Extraction de texte pour l'analyse ou le traitement par IA
+- Préparation de rapports ou de notes en texte brut
+- Archivage léger du contenu des diapositives
+- Réutilisation du contenu pour des e-mails ou des scripts
+- Documentation simplifiée à partir des présentations
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines d'extraction automatique de diapositives en texte
+- Intégration avec des systèmes d'analyse NLP ou IA
+- Flux de travail textuel d'entreprise à partir des présentations
+- Extraction de contenu en lot pour les rapports
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

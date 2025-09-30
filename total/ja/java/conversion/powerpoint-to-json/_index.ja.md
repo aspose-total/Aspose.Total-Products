@@ -49,7 +49,26 @@ POWERPOINTをJSONに変換しているときに、範囲を出力JSON形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをJSONに変換**することで、スライドを**構造化されたJSONデータ**としてエクスポートし、ウェブアプリケーション、API、自動処理システムとのシームレスな統合を実現できます。
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- プレゼンテーションコンテンツをウェブやモバイルアプリに統合する
+- データ駆動型のスライド生成
+- 再利用するために構造化されたJSONでスライドをアーカイブする
+- 企業向けレポーティングと分析
+- スライドデータを使用したテンプレートベースの自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- JSONによるプレゼンテーションワークフロー
+- APIベースのコンテンツ配信の自動化
+- スライドをJSONに一括変換
+- 構造化データ処理のためのAI/分析システムとの統合
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

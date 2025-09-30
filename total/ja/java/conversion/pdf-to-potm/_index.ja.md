@@ -121,7 +121,27 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをPOTMに変換**すると、**マクロが有効化されたPowerPointテンプレートファイル**が生成され、組織はトレーニング、自動化、または動的プレゼンテーション用の**インタラクティブテンプレート**を再利用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- 再利用可能なマクロが有効化されたプレゼンテーションテンプレート
+- インタラクティブなトレーニングセッションスライド
+- 企業向け自動化されたレポートテンプレート
+- 教育プログラム用の動的テンプレート
+- マーケティングおよびセールスワークフローの自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- バッチ**PDFからPOTMへの変換パイプライン**
+- 企業向けの自動化されたテンプレート配布
+- マクロが有効化されたPowerPointワークフローとの統合
+- 再利用可能なテンプレートを使用したトレーニング資料の自動化
+- マクロが有効化されたプレゼンテーションの中央集中管理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

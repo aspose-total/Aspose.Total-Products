@@ -61,7 +61,26 @@ otherformats: SXC FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น SXC** ช่วยให้สามารถส่งออกตารางและข้อมูลสไลด์โครงสร้างเข้าสู่รูปแบบสเปรดชีตของ **StarOffice Calc** ทำให้เกิดความเข้ากันได้กับระบบเก่าและการวิเคราะห์ข้อมูล
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การสกัดข้อมูลตารางสไลด์สำหรับสเปรดชีต  
+- ความเข้ากันได้กับสเปรดชีตรุ่นเก่าสำหรับชุดโปรแกรมสำนักงานเก่า  
+- การรายงานและวิเคราะห์ข้อมูลที่มีการควบคุม  
+- การเก็บถาวรเนื้อหาโครงสร้างจากการนำเสนอ  
+- เตรียมรายงานตัวเลขจากสไลด์
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- การแปลงสไลด์เป็นตาราง SXC โดยอัตโนมัติ  
+- การสร้างท่อส่งออกเป็นชุดสำหรับการวิเคราะห์  
+- การผสานระบบรายงานขององค์กร  
+- การอัตโนมัติของขั้นตอนการทำงานสำหรับการสร้างสเปรดชีตรุ่นเก่า
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

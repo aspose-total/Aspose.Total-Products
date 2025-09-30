@@ -61,7 +61,26 @@ Saat mengonversi file POWERPOINT ke FODS, Anda juga dapat menambahkan tanda air 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PowerPoint ke FODS** memungkinkan ekspor tabel presentasi ke **Flat OpenDocument Spreadsheet**, berguna untuk analisis, pertukaran data, dan pelaporan.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Mengekstrak data tabel slide ke spreadsheet
+- Berbagi data lintas platform dengan alat OpenDocument
+- Analisis data dan pelaporan perusahaan
+- Arsip data slide terstruktur
+- Menyiapkan laporan numerik atau tabular dari presentasi
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Ekstraksi otomatis tabel ke format FODS
+- Integrasi dengan jalur analitik
+- Konversi slide ke spreadsheet secara batch
+- Otomatisasi alur kerja berbasis data
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

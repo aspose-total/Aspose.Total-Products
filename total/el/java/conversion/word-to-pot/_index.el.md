@@ -54,7 +54,26 @@ otherformats: PPTX POTX PPTM PPSX PPT PPS PPSM POWERPOINT POTM POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή του **WORD σε POT** επιτρέπει τη μετατροπή εγγράφων Word σε αρχεία **PowerPoint Template (POT)**, επιτρέποντας την επαναχρησιμοποίηση προτύπων παρουσιάσεων απευθείας από το περιεχόμενο του Word.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Δημιουργία τυποποιημένων προτύπων PowerPoint από αναφορές Word
+- Δημιουργία επιχειρησιακών προτύπων παρουσιάσεων
+- Επαναχρησιμοποίηση διαφανειών για ακαδημαϊκές και ερευνητικές εργασίες
+- Πρότυπα παρουσίασης και αναφοράς για επιχειρήσεις
+- Ροή εργασίας βασισμένη σε πρότυπα για παρουσιάσεις
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένη δημιουργία προτύπων Word-to-POT
+- Μαζική μετατροπή εγγράφων Word σε πρότυπα παρουσιάσεων
+- Δημιουργία συλλογής διαφανειών με βάση πρότυπα
+- Επιχειρησιακά σενάρια αυτοματισμού παρουσιάσεων
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

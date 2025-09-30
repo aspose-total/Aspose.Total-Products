@@ -47,7 +47,27 @@ otherformats: XLTM FODS XLAM SXC XLT TSV XLSB XLTX TXT XLSM ODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ملف PDF إلى جدول بيانات SXC (جدول بيانات OpenOffice Calc)** يساعد على استخراج البيانات المهيكلة من ملفات PDF إلى **تنسيق جدول بيانات مفتوح المصدر**، مما يمكن من إجراء تحليلات إضافية وإعداد تقارير والببحث الأكاديمي.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- استخراج البيانات الأكاديمية والبحثية
+- سير العمل لجداول البيانات مفتوحة المصدر (LibreOffice/OpenOffice)
+- إعداد تقارير للبيانات المالية والعلمية
+- تحويل جداول PDF إلى تنسيق SXC قابل للتحرير
+- أرشفة وإعادة استخدام جداول البيانات للشركات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- أنابيب بيانات **PDF-to-SXC** التلقائية
+- تحويل دفعي للتقارير والمجموعات البيانية
+- التكامل مع أنظمة تحليل البيانات وإعداد التقارير
+- أتمتة سير العمل للشركات والمؤسسات الأكاديمية
+- استخراج جداول PDF إلى تنسيق جدول بيانات مفتوح المصدر
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,27 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+กระบวนการแปลง **PDF เป็น JPEG2000** เป็นสิ่งสำคัญสำหรับการสร้าง **รูปภาพที่มีคุณภาพสูงและบีบอัด** จากหน้า PDF  JPEG2000 ใช้กันอย่างแพร่หลายใน **ห้องสมุดดิจิทัล การสร้างภาพการแพทย์ และการเก็บถาวร** ที่ต้องการการบีบอัดที่มีประสิทธิภาพและการเก็บรักษาโดยไม่สูญเสีย
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- การอนุรักษ์ห้องสมุดดิจิทัลโดยใช้ JPEG2000
+- การแปลง PDF สำหรับ **คลังภาพการแพทย์**
+- การเก็บรักษาเอกสารความละเอียดสูงด้วยขนาดที่ลดลง
+- คลังข้อมูลของรัฐบาลโดยใช้มาตรฐาน JPEG2000
+- คลังข้อมูลวิชาการที่ต้องการ **การอนุรักษ์ภาพในระยะยาว**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- การใช้งานท่องไปยัง JPEG2000 จาก PDF โดยอัตโนมัติ
+- การเก็บถาวรของ PDF ในรูปแบบ JPEG2000 แบบจำนวนมาก
+- การรวมระบบห้องสมุดดิจิทัล
+- กระบวนการทำงานภาพการแพทย์ด้วย PDF-to-JPEG2000
+- การอัตโนมัติขององค์กรสำหรับการเก็บรักษาที่บีบอัดคุณภาพสูง
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

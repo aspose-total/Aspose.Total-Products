@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett WORD dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+A **WORD to POT** konvertálása lehetővé teszi, hogy a Word dokumentumokat átalakítsuk **PowerPoint sablonfájlokká (POT)**, így újrafelhasználható bemutató sablonokat hozhatunk létre közvetlenül a Word tartalmából.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Szabványosított PowerPoint sablonok létrehozása Word jelentésekből
+- Vállalati bemutató sablon generálás
+- Akadémiai és kutatási újrafelhasználható diaanyagok
+- Vállalati tájékoztató és jelentési sablonok
+- Sablonalapú munkafolyamat a bemutatókhoz
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált Word-to-POT sablon létrehozás
+- Word dokumentumok tömeges átalakítása bemutató sablonokká
+- Sablonvezérelt diaanyag generálás
+- Vállalati szintű bemutató automatizálási munkafolyamatok
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

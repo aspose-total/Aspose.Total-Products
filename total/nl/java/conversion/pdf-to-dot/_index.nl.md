@@ -129,7 +129,27 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **PDF naar DOT** is een krachtige manier om **Word-sjablonen** rechtstreeks vanuit PDF's te produceren. Met online PDF naar DOT-tools en geautomatiseerde workflows kunnen bedrijven moeiteloos branding behouden, consistentie handhaven en sjabloongebruik over afdelingen heen schalen.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Creatie van bedrijfsdocument-sjablonen
+- Juridische contracten met uniforme structuur
+- HR-formulieren en onboarding-pakketten
+- Marketingmateriaal met consistente branding
+- Overheidsuitgegeven gestandaardiseerde sjablonen
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde PDF-naar-DOT sjabloon-generatiepijplijnen
+- Batch PDF naar DOT conversie voor bedrijven
+- Workflowautomatisering voor bedrijfssjablonen
+- Dynamische sjabloon-generatie uit PDF-archieven
+- Documentstandaardisatie op grote schaal
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,26 @@ otherformats: TEXT DOTX DOCMX WORDML FLATOPC DOT ODT RTF WORD DOCM OTT DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PowerPoint σε DOCM** επιτρέπει την εξαγωγή διαφανειών σε **εγγραφα Word με macros**, διατηρώντας την αυτοματοποίηση και τη διαδραστικότητα εντός του περιβάλλοντος του εγγράφου.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Διατήρηση macros κατά τη μεταφορά δεδομένων παρουσίασης
+- Δημιουργία διαδραστικών αναφορών με scripts αυτοματισμού
+- Πρότυπα επιχείρησης με ενσωματωμένες λειτουργίες
+- Αναφορές συμμόρφωσης με προκαθορισμένα macros
+- Ακαδημαϊκά ή εταιρικά έγγραφα που απαιτούν δυναμικό περιεχόμενο
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτοματοποιημένες διαδικασίες μετατροπής που διατηρούν macros
+- Δημιουργία εγγράφων με macros με βάση JSON/διαφάνειες
+- Επιχειρησιακές ροές εργασίας με πρότυπα που υποστηρίζουν macros
+- Απλοποιημένη δημιουργία αυτοματοποιημένων αναφορών από διαφάνειες
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

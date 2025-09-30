@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น RTF** ช่วยธุรกิจสร้างเอกสารรูปแบบ **Rich Text Format** ที่เข้ากันได้ทุกแพลตฟอร์ม ด้วยเครื่องมือออนไลน์และอัตโนมัติ PDF เป็น RTF องค์กรสามารถรับรองการแก้ไข แบ่งปัน และผสานร่วมกับระบบที่มีอยู่ทั่วโลกได้อย่างราบรื่น
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การแบ่งปันเอกสารข้ามแพลตฟอร์ม
+- ความเข้ากันได้กับระบบที่มีอยู่
+- ความเคลื่อนย้ายเอกสารทางกฎหมาย
+- การส่งเสนองานวิชาการในรูปแบบมาตรฐาน
+- การเก็บถาวรเพื่อการเข้าถึงในระยะยาว
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- การสร้างท่อการส่งเอกสาร PDF เป็น RTF อัตโนมัติ
+- การสร้าง RTF จำนวนมากจากเอกสาร PDF ในคลังข้อมูล
+- การทำงานของ RTF ในองค์กรทั่วไป
+- การผสานร่วมแอปพลิเคชันที่มีอยู่กับ RTF
+- การอัตโนมัติความเข้ากันได้ข้ามระบบ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

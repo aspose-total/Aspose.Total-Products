@@ -61,7 +61,26 @@ otherformats: SXC EXCEL ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в EXCEL** критично для передачи таблиц Word в **таблицы Excel**, обеспечивая анализ данных, корпоративную отчетность и безпрепятственную интеграцию с рабочими процессами Excel.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Преобразование текстовых таблиц в форматы, готовые к использованию в Excel
+- Корпоративная отчетность и аналитика
+- Обработка данных в области образования и исследований
+- Ведение записей в государственных и корпоративных структурах
+- Создание шаблонов для генерации листов Excel на основе документов Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры преобразования Word в Excel
+- Пакетные рабочие процессы документов в таблицы
+- Создание отчетов в Excel на основе шаблонов
+- Автоматизация интеграции данных корпоративного уровня
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

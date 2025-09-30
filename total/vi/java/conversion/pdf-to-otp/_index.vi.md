@@ -121,7 +121,27 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang OTP** là quan trọng để tạo ra các tệp **mẫu trình bày OpenDocument**, cho phép sử dụng lại các mẫu trang trình bày trong các doanh nghiệp, các cơ sở giáo dục và cơ quan chính phủ.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Mẫu trình bày doanh nghiệp chuẩn hóa
+- Mẫu bài giảng học thuật
+- Các mô-đun giao tiếp và đào tạo của chính phủ
+- Lưu trữ bài thuyết trình của tổ chức phi chính phủ
+- Luồng làm việc thiết kế cộng tác
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+- Các đường ống chuyển đổi tự động từ PDF sang OTP
+- Tự động hóa trình bày dựa trên mẫu
+- Tạo mẫu hàng loạt từ các tệp PDF được lưu trữ
+- Tích hợp luồng làm việc với LibreOffice Impress
+- Kho lưu trữ mẫu tập trung cho các tổ chức
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

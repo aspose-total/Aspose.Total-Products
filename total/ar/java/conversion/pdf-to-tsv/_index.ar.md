@@ -47,7 +47,27 @@ otherformats: XLSM XLTM DIF SXC FODS MD TSV TXT XLAM XLT EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى TSV** قيم لإنشاء **قيم مفصولة بواسطة علامات تبويب** تحافظ على مجموعات بيانات نظيفة مستندة إلى الأعمدة. من خلال محولات PDF إلى TSV والأتمتة، تضمن المؤسسات التوافق مع قواعد البيانات والجداول الإلكترونية وأدوات البحث.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- مجموعات بيانات البحوث الأكاديمية
+- البيانات البيولوجية والجداول العلمية
+- نتائج استطلاعات الأبحاث السوقية
+- أرشيفات الإحصاءات الحكومية
+- تبادل البيانات المهيكلة بين الأنظمة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- سير عمل تحويل PDF إلى TSV تلقائي لمختبرات البحوث
+- إنتاج دفعي لقيم مفصولة بواسطة علامات تبويب للتقارير المهيكلة
+- التكامل مع أنابيب استيعاب قواعد البيانات
+- تحضير البيانات لمنصات التحليل
+- أتمتة بيانات الجداول عالية الحجم
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

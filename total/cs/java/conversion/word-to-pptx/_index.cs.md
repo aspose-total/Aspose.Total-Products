@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na PPTX. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **WORD na PPTX** umožňuje transformaci dokumentů Word do moderních souborů **PowerPoint (PPTX)**, poskytující plnou kompatibilitu s aktuálními verzemi PowerPointu pro podnikové, akademické a firemní použití.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Vytváření moderních prezentací z Wordových zpráv
+- Prezentace pro podniky a firmy
+- Příprava výzkumu a výukových snímků pro akademické účely
+- Vytváření zpráv a prezentací podle šablony
+- Pracovní postupy pro prezentace vlády a organizací
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované konverzní toky Word-to-PPTX
+- Hromadné vytváření prezentací ze souborů Word
+- Automatizace moderní prezentace řízená šablonou
+- Pracovní postupy pro dokumenty a snímky na úrovni podniku
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น TSV** ช่วยให้สามารถส่งออกสไลด์เป็น **ค่าที่แยกด้วย Tab** ทำให้การประมวลผลข้อมูลโครงสร้างและความเข้ากันได้กับสเปรดชีทที่ทำงานบนหลายแพลตฟอร์มได้
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- การสกัดข้อมูลตารางสำหรับการวิเคราะห์
+- การแบ่งปันข้อมูลระหว่างแพลตฟอร์ม
+- การผสานรวมกับเครื่องมือสเปรดชีทที่เป็นระบบที่เก่าและใหม่
+- การเก็บถาวรเนื้อหาโครงสร้างจากการนำเสนอ
+- เตรียมการรายงานโครงสร้าง
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- ท่อการทำงานสไลด์เป็น TSV แบบจำนวนมากโดยอัตโนมัติ
+- การผสานรวมกับกระบวนการทำงานของการวิเคราะห์ขององค์กร
+- อัตโนมัติการรายงานที่มีข้อมูลเป็นพื้นฐาน
+- เตรียมการสเปรดชีทของระบบที่เป็นที่มา
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,26 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-XLSX** מאפשרת לייצא טבלאות Word לתוך חבילת **Excel המודרנית (XLSX)**, מבטיחה תאימות עם גרסאות ה-Excel הנוכחיות ותכונות גליון האלקטרוני המתקדמות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- ייצוא טבלאות Word לחבילות Excel מודרניות
+- שילוב דיווחים וניתוחים עסקיים ברמה הארגונית
+- הכנת גיליונות אלקטרוניים לתחום האקדמי והמחקר
+- המרת מסמכים לפי תבניות לגיליון אלקטרוני ב-Excel
+- שמירת רשומות ברמה הממשלתית והעסקית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים מ-Word ל-XLSX
+- יצירת דוחות Excel בצורה צפופה
+- אוטומציה מבוססת תבניות למבנה גליון מאודם
+- זרימות עבודה לשילוב נתונים ברמה הארגונית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

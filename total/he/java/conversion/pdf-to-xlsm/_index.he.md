@@ -102,7 +102,27 @@ otherformats: DIF ODS SXC FODS XLSB EXCEL MD XLT CSV XLTM XLAM TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-XLSM** מאפשרת לארגונים ליצור גיליונות אלקסל עם מאקרוים ישירות מנתוני PDF. כלים ואוטומציה להמרת PDF ל-XLSM מאפשרים לעסקים לשלב חישובים מתקדמים, סקריפטים ותהליכי עבודה בקבצי אקסל.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- דגמי תחזיות פיננסיות אוטומטיים
+- סט נתונים למחקר עם סקריפטים ניתנים לשימוש חוזר
+- בדיקות תאימות עם מאקרוים מוטבעים
+- לוחות מחקר עסקיים
+- אוטומציה של גיליונות אלקסל ברמה הארגונית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות עבודה אוטומטיים מ-PDF ל-XLSM לצורך דיווחים
+- יצירת XLSM בצורת סדר עם מאקרוים
+- המרת דגמים פיננסיים מדוחות PDF
+- אוטומציה של תהליכי עבודה עם אקסל עם מאקרוים
+- אינטגרציה של מאקרוים ברמה הארגונית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PDF в DOTM** позволяет организациям создавать **шаблоны Word с поддержкой макросов**, объединяя повторно используемые макеты с функциями автоматизации. С помощью онлайн конвертеров PDF в DOTM и корпоративных рабочих процессов компании могут оптимизировать отчетность и обеспечить согласованность в динамических процессах документооборота.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Автоматизированные шаблоны отчетов с макросами
+- Генерация документов на корпоративном уровне
+- Формулы для автоматизации финансовой отчетности
+- Документация по соответствию с встроенными проверками
+- Шаблонирование документов крупных предприятий
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Конвейеры PDF в DOTM для масштабируемой отчетности
+- Массовое преобразование PDF в шаблоны DOTM
+- Автоматизированное создание повторно используемых шаблонов с макросами
+- Генерация отчетов на основе рабочего процесса из PDF
+- Интеллектуальное сборка документов с использованием DOTM
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

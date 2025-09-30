@@ -129,7 +129,27 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Att konvertera **PDF till WORDML** är viktigt för att producera **WordprocessingML (XML-baserade Word-dokument)** från PDF-filer. Onlineverktyg för att konvertera PDF till WordML och automation säkerställer strukturerade, XML-kompatibla dokument som är redo för arkivering, publicering och företagsarbetsflöden.
+{{% blocks/products/pf/agp/feature-section-col title="Viktiga användningsfall" %}}
+- Dataväxling mellan system
+- Företagsdokumentlagring
+- Generering av dokument baserade på mallar
+- Digitala arkiv för regeringen
+- Strukturerad akademisk publicering
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- Automatiserade PDF-till-WordML-pipelines för strukturerad rapportering
+- Generering av XML-dokument från PDF-filer
+- Batch WordML-arbetsflöden för företag
+- Integration av digitala arkiv med XML-format
+- Strukturerad rapportering av företagsklass
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ otherformats: SXC XLTX XLAM XLS FODS XLT XLSM TSV DIF EXCEL ODS XLSX XLTM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε SXC** επιτρέπει τη μετατροπή περιεχομένου Word σε αρχεία **StarOffice Calc (SXC)**, επιτρέποντας συμβατότητα με παλαιότερες μορφές υπολογιστικών φύλλων του OpenOffice/StarOffice για επιχειρησιακή ή αρχειακή χρήση.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Εξαγωγή πινάκων Word σε παλαιότερες μορφές υπολογιστικών φύλλων
+- Συμβατότητα με παλαιότερα γραφεία
+- Επιχειρησιακή και αρχειακή αποθήκευση δομημένου περιεχομένου
+- Μεταφορά δεδομένων πινάκων από ακαδημαϊκές πηγές
+- Προετοιμασία φύλλων υπολογιστών με βάση πρότυπα από έγγραφα Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Ροές εργασίας μαζικής μετατροπής Word σε SXC
+- Αυτοματισμός εγγράφων-προς-υπολογιστικά φύλλα σε επιχειρησιακή κλίμακα
+- Ολοκλήρωση παλαιών συστημάτων σε συστήματα παραγωγής
+- Αυτοματισμός αναφορών με βάση πρότυπα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC TSV XLSX DIF XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **WORD เป็น TSV** ช่วยให้สามารถสกัดข้อมูลตารางจาก Word เป็นรูปแบบ **Tab-Separated Values (TSV)** ซึ่งรองรับการใช้งานร่วมกับ analytics, ระบบฐานข้อมูล และแอปพลิเคชันข้อมูลโครงสร้างอื่น ๆ
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- ส่งออกตาราง Word สำหรับการประมวลผลข้อมูล
+- การผสมผสานกับ analytics และระบบฐานข้อมูล
+- รายงานขององค์กรและการเก็บถาวรโครงสร้าง
+- การย้ายข้อมูลตารางทางวิชาการหรือวิจัย
+- การสกัดข้อมูลตารางตามแม่แบบ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- ท่อ Word-to-TSV อัตโนมัติ
+- การสกัดข้อมูลเป็นชุดสำหรับ analytics และรายงาน
+- การทำงานเอกสารโครงสร้าง
+- การอัตโนมัติข้อมูลตารางขนาดใหญ่ขององค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

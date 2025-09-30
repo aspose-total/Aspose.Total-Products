@@ -121,7 +121,27 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+A **PDF átalakítása SWF-re (Flash)** hasznos lehet interaktív, webre kész tartalom létrehozásához PDF dokumentumokból. Ez a formátum alkalmas prezentációkhoz, eLearning modulokhoz és online marketing anyagokhoz.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- eLearning és online tananyagok
+- Interaktív PDF prezentációk webre
+- Marketing diafilmek és promóciók
+- PDF alapú multimédiás tartalmak archiválása webes lejátszáshoz
+- Digitális brosúrák és interaktív kézikönyvek
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált **PDF-SWF csővezetékek**
+- Tömeges átalakítás online képzési modulokhoz
+- Integráció LMS platformokkal eLearninghez
+- Webes kiadási munkafolyamatok SWF kimenettel
+- Skálázható interaktív PDF tartalom automatizálása
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

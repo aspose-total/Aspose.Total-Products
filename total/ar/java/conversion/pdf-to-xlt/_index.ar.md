@@ -47,7 +47,27 @@ otherformats: XLSB MD TXT XLTX XLAM FODS TSV XLT DIF EXCEL SXC XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ملفات PDF إلى XLT** يساعد الشركات في بناء **ملفات قوالب Excel** يمكن إعادة استخدامها في عمليات التقارير وإدخال البيانات. تدعم خطوط الأنابيب التلقائية من PDF إلى XLT التماسك في العلامة التجارية وتنسيقات البيانات الموحدة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- قوالب التقارير الشركاتية
+- نماذج البحوث الأكاديمية
+- قوالب مالية حكومية
+- جداول إدارة المخزون
+- لوحات تحكم المؤسسات الموحدة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+- خطوط أنابيب القوالب من PDF إلى XLT للشركات
+- تحويل تلقائي للنماذج إلى قوالب Excel
+- إنشاء قوالب دفعي من أرشيفات PDF
+- أتمتة سير العمل لجداول الشركات
+- إعادة استخدام القوالب على مستوى المؤسسة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

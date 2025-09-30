@@ -57,7 +57,27 @@ Med hjälp av API:t kan du också rotera den utgående DXF-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Att konvertera **PDF till DXF** är avgörande för ingenjörer, arkitekter och designers som behöver omvandla statiska dokument till **AutoCAD-kompatibla ritningar**. Detta möjliggör sömlös återanvändning av **PDF-ritningar** i CAD-arbetsflöden för konstruktion, tillverkning och 3D-design.
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga Användningsfall" %}}
+- Konvertering av arkitektoniska ritningar från PDF till DXF
+- Återanvändning av ingenjörsritningar i CAD-programvara
+- Tillverkningsarbetsflöden som kräver CAD-kompatibel inmatning
+- Migration av PDF-scheman till DXF-format
+- Samarbetsinriktad design delning över team
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+- Automatiserade **PDF-till-DXF CAD-pipelines**
+- Batchkonvertering av PDF-ritningar för byggprojekt
+- Automatisering av PDF till DXF för tillverkningsritningar
+- DXF-exportarbetsflöden för företagets ingenjörssystem
+- Skalbar CAD-automatisering som integrerar PDF-inmatningar
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

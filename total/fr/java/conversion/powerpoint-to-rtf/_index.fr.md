@@ -53,7 +53,24 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PowerPoint en RTF** permet aux diapositives de devenir des documents au format **Rich Text**, les rendant largement compatibles avec divers éditeurs de texte et systèmes hérités.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Partage de documents multiplateformes
+- Édition dans des éditeurs légers ou hérités
+- Archivage du contenu textuel de la présentation
+- Préparation de rapports simplifiés ou de documents distribués
+- Compatibilité avec plusieurs suites bureautiques
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Conversion en masse de diapositives en RTF
+- Workflows d'archivage automatisés
+- Pipelines d'extraction de contenu pour les rapports
+- Intégration dans des systèmes de documents multi-formats
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

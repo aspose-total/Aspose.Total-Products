@@ -47,7 +47,27 @@ Při převodu souboru PDF na ODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na ODS** umožňuje transformaci **PDF souborů do formátu OpenDocument Spreadsheet**, což zajišťuje přístupnost a flexibilitu pro analýzu dat, finanční zprávy a vědecká data.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Finanční výkazy a účetní záznamy
+- Systémy pro podnikové reportování
+- Iniciativy sdílení dat veřejnou správou
+- Datové soubory pro akademický výzkum
+- Dlouhodobé strukturované ukládání dat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Toky extrakce dat z PDF do ODS
+- Automatizované konverzní toky pro finance a výzkum
+- Vytváření tabulek řízené JSON/XML
+- Automatizace podnikového reportování
+- Škálovatelná digitální transformace dat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,27 @@ Usando a API, você também pode girar a imagem DICOM de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para DICOM** é vital para o setor de saúde, onde imagens médicas e documentação clínica devem ser integradas. Isso garante que **relatórios médicos em PDF** possam ser transformados em **formato DICOM para servidores PACS**, fluxos de trabalho de radiologia e arquivamento hospitalar a longo prazo.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Integração de relatórios médicos em sistemas de imagem DICOM
+- Conversão de PDF para DICOM para relatórios de **radiologia e cardiologia**
+- Arquivamento e conformidade do servidor PACS do hospital
+- Compartilhamento de dados médicos estruturados entre sistemas
+- Gerenciamento padronizado de registros de pacientes
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines automatizados para **imagens médicas PDF para DICOM**
+- Conversão em lote de digitalizações em PDF para arquivos DICOM
+- Integração de EMR/EHR do hospital com fluxos de trabalho de PDF para DICOM
+- Automação de imagens médicas empresariais para conformidade
+- Transferência segura e automatizada de dados clínicos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

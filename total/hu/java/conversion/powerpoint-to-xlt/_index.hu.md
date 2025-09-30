@@ -61,7 +61,26 @@ A POWERPOINT fájl XLT formátumba konvertálásakor vízjelet is hozzáadhat a 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to XLT** konvertálása lehetővé teszi a diafilmek exportálását **örökölt Excel sablonokként**, lehetővé téve a prezentációs adatokból származó újrafelhasználható sablonokat az egységesített jelentésekhez.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Újrafelhasználható Excel sablonok létrehozása prezentációkból
+- Vállalati vagy oktatási jelentések egységesítése
+- Dialejek archiválása sablon munkafüzetekként
+- Strukturált projekt- vagy jelentéssablonok előkészítése
+- Örökölt sablon létrehozása régebbi Excel verziókhoz
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált dialej-XLT sablon generálás
+- Munkafolyamat integráció vállalati sablonkönyvtárakhoz
+- Több prezentációból történő tömeges sablon létrehozás
+- Sablonvezérelt jelentésautomatizálás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

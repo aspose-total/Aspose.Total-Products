@@ -53,7 +53,26 @@ Az API segítségével POWERPOINT fájlból DOC-ba konvertálhat vízjellel. Ha 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PowerPoint to DOC** konvertálása lehetővé teszi a prezentációs tartalom zökkenőmentes átalakítását **szerkeszthető Word dokumentummá**, így könnyebbé válik a diaanyag újrahasznosítása jelentésekhez, dokumentációhoz vagy együttműködéses szerkesztéshez.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Prezentációs diaanyagok átértelmezése szöveges jelentésekké
+- Együttműködéses szerkesztés és megjegyzések a Wordben
+- Hivatalos értekezleti jegyzőkönyvek vagy jelentések előkészítése
+- Prezentációk archiválása Word dokumentumként
+- Oktatási segédanyagok származtatása a diákból
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Prezentációk automatizált tömeges konvertálása Wordbe
+- Integráció jelentési csövekbe
+- PowerPoint-alapú dokumentum munkafolyamatok
+- Tartalom újrahasznosítása vállalati szinten több csapat számára
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

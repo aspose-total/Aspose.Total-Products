@@ -130,7 +130,25 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PDF a Markdown (MD)** hace posible extraer contenido limpio, ligero y portable de los PDF para **desarrolladores, escritores y flujos de trabajo de documentación**. Esto garantiza que informes o artículos en PDF puedan ser reutilizados en plataformas basadas en **Markdown como GitHub, generadores de sitios estáticos o sistemas de gestión de contenido**.
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+- Publicar artículos en PDF como **entradas de blog en Markdown**
+- Migrar documentos técnicos de PDF a MD para GitHub
+- Flujos de trabajo de documentación para desarrolladores y proyectos de código abierto
+- Convertir PDFs de investigación académica en formato Markdown ligero
+- Almacenar contenido en PDF para **generadores de sitios estáticos (Hugo, Jekyll, etc.)**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+- **Tuberías automatizadas de PDF a Markdown**
+- Conversión por lotes de informes a MD para reutilización de contenido
+- Flujos de trabajo de CI/CD que transforman PDFs en documentos Markdown
+- Conversión basada en API para plataformas de bases de conocimiento
+- Migración automatizada de PDFs heredados a repositorios Markdown
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,26 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น EXCEL** ช่วยให้สไลด์สามารถถูกส่งออกเป็น **สเปรดชีต Excel**, ทำให้ง่ายต่อการวิเคราะห์, รายงาน, และแบ่งปันข้อมูลจากสไลด์ในรูปแบบสเปรดชีต
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การแปลงตารางและแผนภูมิในงานนำเสนอเป็นสเปรดชีต  
+- รายงานและการวิเคราะห์ขององค์กร  
+- เก็บข้อมูลจากสไลด์เพื่อใช้โครงสร้าง  
+- การแก้ไขข้อมูลร่วมกัน  
+- เตรียมรายงานตัวเลขหรือข้อความจากสไลด์
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- การสร้างท่อการแปลงสไลด์เป็น Excel อัตโนมัติ  
+- การประมวลผลเป็นชุดของงานนำเสนอเป็นสเปรดชีต  
+- การผสมผสานกับระบบวิเคราะห์และรายงานขององค์กร  
+- การอัตโนมัติของกระบวนการทำงานจากสไลด์
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

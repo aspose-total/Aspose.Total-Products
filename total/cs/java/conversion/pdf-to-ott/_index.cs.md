@@ -130,7 +130,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PDF na OTT** umožňuje generování souborů **OpenDocument Text Template**, což zajišťuje standardizaci v podnikových, akademických a vládních dokumentačních procesech.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Standardizované obchodní dokumenty šablony
+- Právní a vládní šablony politiky
+- Rámcové dokumenty pro akademické publikování
+- Šablony pro komunikaci nevládních organizací
+- Strukturované vytváření firemního obsahu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizované pracovní postupy šablon PDF na OTT
+- Dokumentační potrubí pro podnikové použití
+- Automatizace vládních a právních dokumentů
+- Automatizace velkých akademických publikací
+- Škálovatelné zpracování šablon ve velkém množství
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

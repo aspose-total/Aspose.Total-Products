@@ -49,7 +49,27 @@ otherformats: XLSM XLTM DIF SXC FODS MD TSV TXT XLAM XLT EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **PDF 转换为 TSV** 对于生成保持清晰、基于列的数据集的 **制表符分隔值** 非常有价值。通过 PDF 转 TSV 转换工具和自动化，组织可以确保与数据库、电子表格和研究工具兼容。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 学术研究数据集
+- 生物信息学和科学数据表
+- 市场研究调查结果
+- 政府统计档案
+- 跨系统结构化数据交换
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 研究实验室的自动化 PDF 到 TSV 工作流程
+- 用于结构化报告的批量 TSV 生成
+- 与数据库摄入管道集成
+- 为分析平台准备数据
+- 高容量表格数据自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

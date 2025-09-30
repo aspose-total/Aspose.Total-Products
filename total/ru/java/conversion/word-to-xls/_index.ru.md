@@ -61,7 +61,26 @@ otherformats: SXC XLS ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в XLS** позволяет экспортировать таблицы Word в устаревший формат **Excel Spreadsheet (XLS)**, сохраняя структуру для корпоративной отчетности и анализа таблиц.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Миграция таблиц Word в устаревшие форматы Excel
+- Корпоративная отчетность и финансовый анализ
+- Подготовка данных для академических и исследовательских целей
+- Интеграция государственных документов
+- Генерация структурированных таблиц на основе шаблонов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные пакетные конвейеры Word-to-XLS
+- Создание шаблонов для Excel
+- Автоматизация отчетности корпоративного уровня
+- Рабочие процессы интеграции устаревших систем
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,26 @@ APIを使用して、透かしを使用してPOWERPOINTファイルからODTへ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをODTに変換**することで、スライドを**OpenDocument Textドキュメント**として保存し、プレゼンテーションから編集可能なクロスプラットフォームのテキストコンテンツをサポートします。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- スライドを編集可能なOpenDocumentテキストファイルに変換する
+- 異なるオフィススイート間での共同編集
+- 広くサポートされている形式でプレゼンテーションをアーカイブする
+- 教育用配布資料および企業レポート
+- ドキュメント化のためにプレゼンテーションコンテンツを再利用する
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- PowerPointからODTへの一括変換
+- ドキュメント管理ワークフローへの統合
+- スライドからのレポートの自動生成
+- エンタープライズコンテンツの再利用パイプライン
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

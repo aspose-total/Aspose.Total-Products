@@ -61,7 +61,24 @@ Ao converter o arquivo POWERPOINT para XLS, você também pode adicionar marca d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PowerPoint para XLS** permite que os slides sejam exportados como **pastas de trabalho do Excel 97-2003 legadas**, oferecendo suporte à compatibilidade com sistemas de planilhas mais antigos.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Compatibilidade com planilhas antigas  
+- Arquivamento de tabelas e gráficos de apresentação  
+- Relatórios empresariais em formatos mais antigos do Excel  
+- Compartilhamento de dados entre plataformas  
+- Preparação de relatórios estruturados para sistemas mais antigos
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Conversão em lote de slides para XLS  
+- Integração com fluxos de trabalho de relatórios legados  
+- Extração automatizada de tabelas de apresentação  
+- Arquivamento de dados estruturados
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

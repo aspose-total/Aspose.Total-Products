@@ -54,7 +54,24 @@ L'API vous permet également de convertir des documents WORD protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **WORD en PPTM** permet au contenu Word de devenir des fichiers **PowerPoint Macro-Activé (PPTM)**, permettant l'automatisation et les fonctionnalités de présentation interactive.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Présentations d'entreprise et d'entreprise activées par macro
+- Diapositives académiques et de formation interactives
+- Flux de travail de présentation activé par macro basé sur des modèles
+- Automatisation des briefings gouvernementaux et organisationnels
+- Modèles de présentation réutilisables activés par macro
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines de diapositives Word vers PPTM automatisées
+- Création en lot de decks de présentation activés par macro
+- Automatisation interactive basée sur des modèles de diapositives
+- Flux de travail de présentation activé par macro de qualité entreprise
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

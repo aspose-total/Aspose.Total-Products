@@ -61,7 +61,24 @@ Ao converter o arquivo POWERPOINT para XLAM, você também pode adicionar marca 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PowerPoint para XLAM** permite exportar slides para **suplementos do Excel habilitados para macro**, possibilitando automação e funções reutilizáveis derivadas de dados de apresentação.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Criar suplementos do Excel com macros baseadas em apresentações
+- Automatizar funções de relatórios com base em slides
+- Integração de fluxo de trabalho empresarial com automação do Excel
+- Bibliotecas de macros reutilizáveis a partir de dados de apresentação
+- Otimizar tarefas repetitivas de planilhas
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Geração automatizada de suplementos XLAM a partir de apresentações
+- Fluxos de trabalho em lote de slides para macros do Excel
+- Integração com pipelines de relatórios empresariais
+- Automação baseada em slides no Excel
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

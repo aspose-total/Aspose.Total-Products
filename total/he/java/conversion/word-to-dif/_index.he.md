@@ -102,7 +102,26 @@ otherformats: CSV XLTX XLS XLAM XLT XLSX FODS EXCEL TSV SXC ODS XLSM XLTM XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל־DIF** חיונית להמרת מסמכי Word לקבצי **Data Interchange Format (DIF)**, שמאפשרת שילוב נתונים חלקיים בכלים לניתוח גליונות נתונים ושמירה על תוכן טבלאי מאורגן.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- ייצוא טבלאות מ־Word ליישומי גליונות נתונים
+- שילוב של דוחות מבוססי Word במערכות נתונים מורשות
+- תמיכה בתהליכי תחלופת נתונים פיננסיים או טבלאיים מאורגנים בין עסקים
+- הכנת נתונים אקדמיים לניתוח סטטיסטי
+- העברת נתונים היסטוריים מבוססי Word לפלטפורמות ניתוח מודרניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות חילוץ טבלאות מ־Word ל־DIF אוטומטיים
+- המרה צפונית של דוחות Word לצורך ניתוח
+- זרימות עבודה לשילוב נתונים מבוססי Word
+- אוטומציה לדיווחים ברמה עסקית ולארכיון
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

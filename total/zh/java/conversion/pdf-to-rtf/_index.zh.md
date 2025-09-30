@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PDF转换为RTF**允许企业生成兼容各平台的**富文本格式文档**。通过在线PDF转RTF工具和自动化，企业可以确保平稳编辑、共享，并与全球遗留系统集成。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 跨平台文档共享
+- 遗留系统兼容性
+- 法律文件可携性
+- 标准格式的学术提交
+- 长期可访问性的存档
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 用于文档交换的自动化PDF到RTF管道
+- 从PDF存档中批量生成RTF
+- 企业范围的RTF工作流程
+- 与RTF集成的遗留应用程序
+- 跨系统互操作性自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,26 @@ Menggunakan API, Anda juga dapat melakukan konversi file POWERPOINT ke DOT denga
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PowerPoint ke DOT** memungkinkan penyimpanan presentasi sebagai **template Word**, memungkinkan penggunaan ulang konten presentasi secara berulang dalam format dokumen yang terstandar.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Membuat template Word yang dapat digunakan kembali dari slide
+- Standarisasi dokumentasi perusahaan
+- Pelaporan dan proposal berbasis template
+- Mengarsipkan struktur presentasi untuk penggunaan di kemudian hari
+- Pembuatan template pendidikan
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pembuatan template otomatis dari slide decks
+- Integrasi alur kerja untuk perpustakaan template perusahaan
+- Menghasilkan variasi dokumen dari satu PPT
+- Otomatisasi laporan berbasis template
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

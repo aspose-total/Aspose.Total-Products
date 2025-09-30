@@ -144,7 +144,27 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Proces konverze **PDF na GIF** je široce využíván k vytváření **animovaných nebo statických GIFů** z dokumentů PDF. Umožňuje rychlé sdílení stránek PDF jako lehkých GIFů, ideálních pro **sociální média, e-learning a digitální marketingové postupy**.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Konverze prezentací PDF na animované GIFy  
+- Sdílení obsahu PDF na **platformách sociálních médií**  
+- Vytváření vzdělávacích GIFů z diagramů PDF  
+- Marketingové kampaně s **lehkým obsahem GIFů**  
+- Rychlé generování náhledů stránek PDF  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizovaná **dávková konverze PDF na GIF**  
+- Pipeliny PDF na GIF pro plánování sociálních médií  
+- Vzdělávací postupy generující GIFy z učebnic  
+- Integrace s marketingovými platformami pro GIF kampaně  
+- Podniková automatizace pro náhled PDF jako GIF  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

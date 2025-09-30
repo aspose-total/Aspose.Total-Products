@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 MHTML로 변환** (웹 아카이브 형식)은 문서를 **임베드된 리소스를 포함한 단일 파일 HTML 페이지로 변환**하는 데 필수적입니다. 이를 통해 PDF를 **아카이빙, 디지털 게시 및 브라우저 기반 뷰잉**을 위한 웹용 파일로 쉽게 배포할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 단일 파일 웹 아카이빌을 위한 PDF를 MHTML로 변환
+- 보고서를 브라우저에서 볼 수 있는 **웹 아카이브**로 변환
+- 기업 워크플로우를 위한 **HTML 기반 문서 배포**
+- MHTML로 법적 및 규정 준수 문서 저장
+- PDF를 **웹용 형식**으로 변환하는 디지털 게시 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-MHTML 파이프라인**
+- PDF 일괄 처리를 통한 웹 아카이브 생성
+- MHTML 출력을 위한 기업 CMS 통합
+- PDF-to-MHTML 변환을 통한 자동 게시 워크플로우
+- **자체 포함 HTML 아카이브**로의 브라우저 기반 PDF 변환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

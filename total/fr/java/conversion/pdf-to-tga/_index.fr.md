@@ -57,7 +57,25 @@ L'API vous permet également d'exporter le fichier PDF vers TGA dans un seul fic
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en TGA (Targa)** est idéale pour créer des **images matricielles de haute qualité** à partir des pages PDF pour l'art numérique, les jeux vidéo et la production multimédia.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Extraction d'art numérique et d'illustrations
+- Génération d'actifs de jeu à partir du contenu PDF
+- Graphiques matriciels de haute qualité pour des projets multimédias
+- Archivage des graphiques PDF en tant qu'images TGA
+- Conversion pour les flux de travail d'animation et d'effets visuels
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Conversion par lot automatisée de PDF en TGA**
+- Intégration avec les pipelines de médias numériques et de jeux
+- Rastérisation des graphiques PDF pour les effets visuels
+- Automatisation des flux de travail pour la production multimédia
+- Exportation d'images PDF évolutives en TGA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

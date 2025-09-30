@@ -61,7 +61,26 @@ otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT XLTX TSV XLAM MHTML FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**PowerPoint转换为XLTX**可将幻灯片导出为**现代Excel模板**，创建可重复使用的模板，无需宏，用于标准化企业或学术报告。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 现代可重复使用的Excel模板
+- 标准化企业或学术报告
+- 将演示文稿存档为模板工作簿
+- 准备项目或报告模板
+- 协作模板共享和编辑
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 从幻灯片自动生成XLTX模板
+- 批量模板创建工作流程
+- 与企业模板库集成
+- 基于模板的报告自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

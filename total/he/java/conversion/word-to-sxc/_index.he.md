@@ -102,7 +102,26 @@ otherformats: CSV XLTX XLAM XLS FODS XLT XLSM TSV DIF EXCEL ODS XLSX XLTM XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-SXC** מאפשרת המרת תוכן Word לקבצי **StarOffice Calc (SXC)**, מאפשרת תאימות עם פורמטי גיליון נתונים ישנים של OpenOffice/StarOffice לשימוש עסקי או ארכיוני.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- ייצוא טבלאות Word לפורמטים ישנים של גיליונות נתונים
+- תאימות עם חבילות משרד ישנות
+- ארכיון עסקי וממשלתי של תוכן מובנה
+- העברת נתוני טבלאות אקדמיים
+- הכנת גיליונות נתונים בהתבסס על תבניות ממסמכי Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- זרימות עבודה מספריות להמרת Word ל-SXC
+- אוטומציה של מסמכים לגיליונות נתונים בטווח הארגוני
+- צינורות אינטגרציה למערכות ישנות
+- אוטומציה של דיווחים בהתבסס על תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

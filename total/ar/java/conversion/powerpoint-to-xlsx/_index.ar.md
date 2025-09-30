@@ -61,7 +61,26 @@ otherformats: XLSB ODS XLSX XLS XLTX EXCEL TSV DIF XLAM MARKDOWN XLTM XLSM SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى XLSX** يسمح بتصدير الشرائح ك**جداول عمل Excel حديثة**, داعمة للميزات المتقدمة والتعاون وتقارير المؤسسات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل جداول الشرائح والرسوم البيانية إلى جداول بيانات حديثة
+- تقارير البيانات والتحليلات للمؤسسات
+- التحرير التعاوني باستخدام ميزات Excel 2007+
+- أرشفة محتوى العروض التقديمية المهيكلة
+- إعداد تقارير رقمية أو نصية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+- خطوط أنابيب تحويل الشرائح إلى XLSX تلقائيًا
+- إنشاء دفعة من جداول البيانات من العروض التقديمية
+- التكامل مع أنظمة الأعمال الذكية وأنظمة التقارير
+- أتمتة سير العمل بناءً على الشرائح
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

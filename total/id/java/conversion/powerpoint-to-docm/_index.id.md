@@ -53,7 +53,26 @@ Menggunakan API, Anda juga dapat melakukan konversi file POWERPOINT ke DOCM deng
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PowerPoint ke DOCM** memungkinkan untuk mengekspor slide ke dokumen Word yang mendukung makro, menjaga otomatisasi dan interaktivitas dalam lingkungan dokumen.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Menyimpan makro saat mentransfer data presentasi
+- Membuat laporan interaktif dengan skrip otomatisasi
+- Template perusahaan dengan fungsi tersemat
+- Pelaporan kepatuhan dengan makro pre-defined
+- Dokumen akademis atau perusahaan yang membutuhkan konten dinamis
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- Pipa konversi otomatis yang menjaga makro
+- Generasi dokumen makro berbasis JSON/slide
+- Alur kerja perusahaan dengan template yang mendukung makro
+- Pembuatan laporan otomatis yang efisien dari slide
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

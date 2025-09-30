@@ -129,7 +129,27 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF**'yi **DOTM'ye** dönüştürmek, tekrar kullanılabilir düzenlerle otomasyon özelliklerini birleştiren **makro özellikli Word şablonları** oluşturmak için kuruluşlara olanak tanır. Çevrimiçi PDF'ten DOTM'ye dönüştürücüler ve kurumsal iş akışları ile işletmeler raporlamayı optimize edebilir ve dinamik belge süreçlerinde tutarlılık sağlayabilir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+- Makrolarla otomatik rapor şablonları  
+- Kurumsal düzeyde belge oluşturma  
+- Formül otomasyonu gerektiren finansal tablolar  
+- Dahili kontrollerle uyumluluk belgeleri  
+- Kurumsallar için büyük ölçekli belge şablonlaması
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Ölçeklenebilir raporlama için PDF'den DOTM'ye boru hatları  
+- Toplu PDF'ten DOTM şablon dönüşümü  
+- Makrolarla tekrar kullanılabilir şablonların otomatik oluşturulması  
+- PDF'den iş akışıyla desteklenen rapor oluşturma  
+- DOTM kullanarak akıllı belge montajı
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

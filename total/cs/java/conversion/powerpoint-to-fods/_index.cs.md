@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na FODS můžete také přidat vodoznak do výs
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **PowerPointu na FODS** umožňuje export tabulek prezentace do **Flat OpenDocument Spreadsheet**, což je užitečné pro analýzu, výměnu dat a reporting.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Extrahování dat tabulek ze snímků do tabulek
+- Sdílení dat mezi platformami s nástroji OpenDocument
+- Analýza a reporting podnikových dat
+- Archivace strukturovaných dat ze snímků
+- Příprava numerických nebo tabulkových reportů z prezentací
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatizovaná extrakce tabulek do formátu FODS
+- Integrace s analytickými potrubími
+- Hromadná konverze snímků na tabulky
+- Automatizace pracovního postupu řízeného daty
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

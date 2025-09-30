@@ -54,7 +54,26 @@ otherformats: POTX PPTM POT POWERPOINT PPTX PPT PPSX PPS POTM PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى ODP** يمكن أن يمكن تحويل مستندات Word إلى ملفات **OpenDocument Presentation (ODP)**، مما يسد الفجوة بين التقارير القائمة على النصوص وتنسيقات العروض التقديمية للبيئات التعاونية والقياسية المفتوحة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل التقارير النصية إلى عروض تقديمية
+- عروض تقديمية قياسية مفتوحة للتعاون في المؤسسات
+- إعداد العروض التقديمية الأكاديمية والبحثية
+- أرشيف العروض التقديمية الحكومية والشركات
+- إعداد التقارير الشركاتية والموجزات بناءً على القوالب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- سير العمل المؤتمتة لتحويل Word إلى ODP
+- تحويل الدُفعات من التقارير الشركاتية إلى عروض تقديمية
+- إنشاء عروض تقديمية مدعومة بالقوالب
+- أتمتة التقارير المنظمة والموجزات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

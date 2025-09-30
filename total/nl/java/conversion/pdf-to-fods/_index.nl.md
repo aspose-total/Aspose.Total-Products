@@ -47,7 +47,27 @@ Tijdens het converteren van het PDF-bestand naar FODS, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **PDF naar FODS (Flat ODF Spreadsheet)** helpt bij het extraheren van gestructureerde gegevens uit PDF naar **LibreOffice Calc en OpenDocument-compatibele spreadsheets**. Dit stelt organisaties in staat om **PDF-tabellen te hergebruiken in op XML gebaseerde FODS** voor rapportage, analyse en naleving.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- PDF naar FODS voor open-source spreadsheet-workflows
+- Het omzetten van academische tabellen naar ODF-spreadsheets
+- Gegevenshergebruik in LibreOffice en OpenOffice-omgevingen
+- Gestructureerde rapportage met op XML gebaseerde spreadsheetformaten
+- Langetermijnarchivering van tabulaire PDF-inhoud
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde **PDF naar FODS-pijplijnen**
+- Batchverwerking van PDF-tabellen naar ODF-spreadsheets
+- Door JSON aangestuurde workflows die FODS genereren vanuit PDF
+- Automatisering van ondernemingsrapportage met FODS-export
+- Integratie van open-source systemen met PDF-naar-FODS-tools
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

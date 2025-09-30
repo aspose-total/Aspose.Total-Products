@@ -57,7 +57,25 @@ Usando a API, você também pode girar a imagem TGA de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PDF para TGA (Targa)** é ideal para criar **imagens raster de alta qualidade** a partir de páginas PDF para arte digital, jogos e produção multimídia.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Extração de arte digital e ilustração
+- Geração de ativos de jogo a partir de conteúdo PDF
+- Gráficos raster de alta qualidade para projetos multimídia
+- Arquivamento de gráficos PDF como imagens TGA
+- Conversão para fluxos de trabalho de animação e efeitos visuais
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- **Conversão em lote automatizada de PDF para TGA**
+- Integração com pipelines de mídia digital e jogos
+- Rasterização de gráficos PDF para efeitos visuais
+- Automação de fluxo de trabalho para produção multimídia
+- Exportação escalável de imagens PDF para TGA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

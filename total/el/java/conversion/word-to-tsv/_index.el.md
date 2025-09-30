@@ -61,7 +61,26 @@ otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC TSV XLSX DIF XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε TSV** επιτρέπει την εξαγωγή πίνακα δεδομένων από το Word σε μορφή **Tab-Separated Values (TSV)**, εξασφαλίζοντας συμβατότητα με αναλυτικά, συστήματα βάσεων δεδομένων και άλλες εφαρμογές δομημένων δεδομένων.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Εξαγωγή πινάκων Word για επεξεργασία δεδομένων
+- Ενσωμάτωση με αναλυτικά και συστήματα βάσεων δεδομένων
+- Επιχειρησιακή αναφορά και δομημένη αρχειοθέτηση
+- Μετακίνηση δεδομένων πινάκων ακαδημαϊκών ή έρευνας
+- Εξαγωγή δεδομένων πινάκων με βάση πρότυπα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες διαδικασίες Word-to-TSV
+- Παρτίδες εξαγωγής για αναλύσεις και αναφορές
+- Δομημένες ροές εγγράφων
+- Αυτοματοποίηση δεδομένων πινάκων με επιχειρησιακή κλίμακα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

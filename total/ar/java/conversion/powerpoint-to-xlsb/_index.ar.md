@@ -61,7 +61,26 @@ otherformats: FODS SXC DIF XLS XLT MARKDOWN TSV XLAM EXCEL MHTML ODS XLTX XLSM X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PowerPoint إلى XLSB** يسمح بتصدير الشرائح كمصنفات Excel ثنائية، مما يحسن الأداء وحجم الملف لعروض البيانات الكبيرة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- التعامل مع مجموعات بيانات كبيرة من العروض
+- تقارير وتحليلات المؤسسات
+- أرشفة الشرائح بتنسيق ثنائي فعال
+- تحميل جداول بيانات بسرعة للتحليل
+- سير عمل بيانات المؤسسات التعاوني
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- أنابيب تحويل الشرائح إلى XLSB تلقائيًا
+- معالجة دفعية للعروض الكبيرة
+- التكامل مع أنظمة التقارير عالية الأداء
+- سير عمل استخراج بيانات المؤسسات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

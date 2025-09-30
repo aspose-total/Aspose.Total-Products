@@ -47,7 +47,27 @@ Trong khi chuyển đổi tệp PDF sang FODS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang FODS (Bảng tính ODF phẳng)** giúp trích xuất dữ liệu có cấu trúc từ PDF vào **LibreOffice Calc và các bảng tính tương thích với OpenDocument**. Điều này cho phép tổ chức tái sử dụng **bảng PDF trong FODS dựa trên XML** cho báo cáo, phân tích và tuân thủ.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Chuyển đổi PDF sang FODS cho quy trình làm việc bảng tính mã nguồn mở
+- Chuyển đổi bảng học thuật thành bảng tính ODF
+- Tái sử dụng dữ liệu trong môi trường LibreOffice và OpenOffice
+- Báo cáo có cấu trúc với định dạng bảng tính dựa trên XML
+- Lưu trữ dài hạn nội dung PDF dạng bảng
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- **Các đường ống chuyển đổi tự động từ PDF sang FODS**
+- Xử lý hàng loạt bảng PDF thành bảng tính ODF
+- Các quy trình làm việc dựa trên JSON tạo ra FODS từ PDF
+- Tự động hóa báo cáo doanh nghiệp với xuất FODS
+- Tích hợp hệ thống mã nguồn mở với các công cụ PDF-to-FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

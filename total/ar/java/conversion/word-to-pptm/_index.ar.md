@@ -54,7 +54,26 @@ otherformats: PPS PPTM POTM PPTX PPT PPSM POT POTX POWERPOINT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى PPTM** يمكن أن يجعل محتوى Word يصبح ملفات **PowerPoint (PPTM) ذات الوظائف الماكرو**, مما يسمح بالتأتير والميزات التفاعلية في العروض.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- عروض شركات ومؤسسات مع وظائف ماكرو
+- شرائح تفاعلية أكاديمية وتدريبية
+- سير عمل العروض القائمة على القوالب مع وظائف ماكرو
+- تأتير الجهات الحكومية والمنظمات
+- قوالب عروض قابلة لإعادة الاستخدام مع وظائف ماكرو
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير التلقائي" %}}
+- أنابيب عمل تلقائية لتحويل Word إلى PPTM
+- إنشاء دفعي لمجموعات عروض تقديمية مع وظائف ماكرو
+- تأتير شرائح تفاعلية مع سير العمل القائم على القوالب
+- سير عمل عروض تقديمية مع وظائف ماكرو عالية المستوى
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

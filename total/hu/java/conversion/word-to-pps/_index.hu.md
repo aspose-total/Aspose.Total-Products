@@ -54,7 +54,24 @@ Az API azt is lehetővé teszi, hogy jelszóval védett WORD dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Az **WORD to PPS** konvertálása lehetővé teszi a Word tartalom átalakítását **PowerPoint Show (PPS) fájlokká**, kész azonnali bemutatáshoz anélkül, hogy kézzel kellene diát beállítani.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Word jelentések átalakítása kész bemutatókká
+- Vállalati és cégértekezleti diák
+- Akadémiai és képzési anyagok előkészítése
+- Sablon alapú tájékoztató és jelentési bemutatók
+- Kormányzati és szervezeti bemutatóra kész prezentációk
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Word-to-PPS automatizált prezentációs csatornák
+- Kész bemutatódiák tömeges generálása
+- Sablonvezérelt automatizált prezentációs folyamatok
+- Vállalati szintű PowerPoint automatizálás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

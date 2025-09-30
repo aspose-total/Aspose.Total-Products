@@ -49,7 +49,26 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ΛΕΞΗ σε JSON** είναι κρίσιμη για την εξαγωγή δομημένου περιεχομένου από εγγραφα Word σε μορφή **JSON**, διευκολύνοντας εφαρμογές με δεδομένα, ολοκλήρωση API και σύγχρονες ροές εργασίας στο web ή σε επιχειρηματικό περιβάλλον.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Ανταλλαγή δεδομένων μεταξύ συστημάτων εγγράφων και εφαρμογών
+- Ενσωμάτωση περιεχομένου Word σε πλατφόρμες web και κινητά
+- Εξαγωγή περιεχομένου εγγράφου με βάση πρότυπα
+- Αρχειοθέτηση δομημένου περιεχομένου για τον δημόσιο και τον ερευνητικό τομέα
+- Δομημένη ακαδημαϊκή ή εταιρική δημοσίευση
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Σωληνώσεις εξαγωγής από Word σε JSON
+- Αυτοματοποιημένη δημιουργία περιεχομένου εγγράφου έτοιμου για API
+- Αυτοματισμός ροών εργασίας με βάση το JSON
+- Δομημένη αναφορά εγγράφου σε επιχειρησιακή κλίμακα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

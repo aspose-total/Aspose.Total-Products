@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett WORD dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **WORD to ODP** konvertálása lehetővé teszi, hogy a Word dokumentumok átalakuljanak **OpenDocument Presentation (ODP) fájlokká**, áthidalva a szövegalapú jelentések és a prezentációs formátumok közötti szakadékot a közös, nyílt szabványú környezetekben.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Szöveges jelentések átalakítása diavetítésekké
+- Nyílt szabványú prezentációk vállalati együttműködéshez
+- Akadémiai és kutatási prezentációk előkészítése
+- Kormányzati és vállalati prezentációs archívumok
+- Sablonalapú vállalati jelentések és tájékoztatók
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált Word-to-ODP generálási munkafolyamatok
+- Vállalati jelentések batch konvertálása prezentációkká
+- Sablonvezérelt diavetítés készítés
+- Strukturált jelentés- és tájékoztató automatizálás
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

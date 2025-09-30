@@ -61,7 +61,26 @@ Při převodu souboru POWERPOINT na ODS můžete také přidat vodoznak do výst
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **PowerPointu do ODS** umožňuje export tabulek prezentace do formátu **OpenDocument Spreadsheet**, což umožňuje strukturovanou analýzu dat a kompatibilitu mezi platformami.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Extrahování tabulek snímků pro analýzu v tabulkách
+- Podnikové hlášení a analýzy
+- Sdílení dat mezi platformami s nástroji OpenDocument
+- Archivace strukturovaných dat snímků
+- Příprava číselných nebo tabulkových zpráv z prezentací
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+- Automatická extrakce tabulek do formátu ODS
+- Integrace s analytickými potrubími
+- Hromadné konverze snímků na tabulky
+- Datově řízené pracovní postupy pro hlášení
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke Markdown (MD)** memungkinkan untuk mengekstrak konten yang bersih, ringan, dan portabel dari PDF untuk **pengembang, penulis, dan alur kerja dokumentasi**. Hal ini memastikan laporan atau artikel PDF dapat digunakan kembali di **platform berbasis Markdown seperti GitHub, generator situs statis, atau sistem manajemen konten**.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Menerbitkan artikel PDF sebagai **pos blog Markdown**  
+- Migrasi dokumen teknis dari PDF ke MD untuk GitHub  
+- Alur kerja dokumentasi untuk pengembang dan proyek sumber terbuka  
+- Mengonversi riset akademis PDF ke format Markdown yang ringan  
+- Menyimpan konten PDF untuk **generator situs statis (Hugo, Jekyll, dll.)**  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja otomatis PDF ke Markdown**  
+- Konversi batch laporan ke MD untuk penggunaan konten kembali  
+- Alur kerja CI/CD mengubah PDF menjadi dokumen Markdown  
+- Konversi berbasis API untuk platform basis pengetahuan  
+- Migrasi otomatis dari PDF warisan ke repositori Markdown  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

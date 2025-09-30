@@ -130,7 +130,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konversi **PDF ke PCL (Printer Command Language)** sangat umum digunakan dalam alur kerja pencetakan di mana PDF harus diterjemahkan menjadi **perintah PCL untuk printer perusahaan**. Hal ini memastikan kompatibilitas dengan **pencetakan kantor bervolume tinggi, dokumentasi pemerintah, dan pekerjaan cetak batch perusahaan**.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- Alur kerja pencetakan perusahaan yang mengonversi PDF ke PCL
+- Kantor pemerintah yang menggunakan PCL untuk pencetakan yang aman
+- Lingkungan pencetakan korporat bervolume tinggi
+- Pekerjaan cetak batch yang memerlukan **input yang kompatibel dengan PCL**
+- Alur kerja PDF ke PCL untuk kepatuhan dan audit
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa cetak PDF ke PCL otomatis**
+- Pencetakan PDF batch dengan output PCL
+- Integrasi server pencetakan perusahaan dengan alat PDF ke PCL
+- Otomatisasi alur kerja untuk pencetakan pemerintah dan korporat
+- Pencetakan otomatis bervolume tinggi dari arsip PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

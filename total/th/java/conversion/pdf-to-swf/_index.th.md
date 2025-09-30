@@ -121,7 +121,27 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น SWF (Flash)** เป็นประโยชน์สำหรับสร้างเนื้อหา **แบบโต้ตอบที่พร้อมใช้งานบนเว็บ** จากเอกสาร PDF รูปแบบนี้เหมาะสำหรับงานนำเสนอ โมดูล eLearning และวัสดุการตลาดออนไลน์
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+- เนื้อหา eLearning และคอร์สออนไลน์
+- การนำเสนอ PDF แบบโต้ตอบสำหรับเว็บ
+- สไลด์การตลาดและโปรโมชั่น
+- การเก็บข้อมูลมัลติมีเดียที่มี PDF สำหรับการเล่นบนเว็บ
+- โบรชัวร์ดิจิตัลและคู่มือแบบโต้ตอบ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- **การสร้างกระแสงาน PDF เป็น SWF อัตโนมัติ**
+- การแปลงเป็นชุดสำหรับโมดูลการอบรมออนไลน์
+- การผสานกับแพลตฟอร์ม LMS สำหรับ eLearning
+- การทำงานของเว็บที่มีผลลัพธ์ SWF
+- การอัตโนมัติเนื้อหา PDF แบบโต้ตอบที่มีขนาดย่อย
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

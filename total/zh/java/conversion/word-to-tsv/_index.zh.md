@@ -61,7 +61,26 @@ otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC TSV XLSX DIF XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将**WORD转换为TSV**允许从Word中提取表格数据到**制表符分隔值（TSV）**格式，确保与分析、数据库系统和其他结构化数据应用的兼容性。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+- 导出Word表格进行数据处理
+- 与分析和数据库系统集成
+- 企业报告和结构化归档
+- 学术或研究表格数据迁移
+- 模板驱动的表格数据提取
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+- 自动化的Word到TSV管道
+- 批量提取用于分析和报告
+- 结构化文档工作流程
+- 企业规模的表格数据自动化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

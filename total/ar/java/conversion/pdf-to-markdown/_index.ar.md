@@ -130,7 +130,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ملفات PDF إلى Markdown (MD)** يجعل من الممكن استخراج محتوى نظيف وخفيف الوزن ومحمول من ملفات PDF لـ **المطورين والكتاب وسير العمل الوثائقية**. وهذا يضمن إمكانية إعادة استخدام تقارير PDF أو مقالات في **منصات تعتمد على Markdown مثل GitHub أو مولدات المواقع الثابتة أو أنظمة إدارة المحتوى**.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- نشر مقالات PDF كمدونات **Markdown**  
+- تحويل المستندات التقنية من PDF إلى MD لـ GitHub  
+- سير العمل الوثائقية للمطورين ومشاريع مفتوحة المصدر  
+- تحويل أبحاث أكاديمية من PDF إلى تنسيق Markdown خفيف الوزن  
+- تخزين محتوى PDF لـ **مولدات المواقع الثابتة (Hugo، Jekyll، إلخ)**  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **أنابيب عملية تحويل PDF إلى Markdown** آليّة  
+- تحويل تقارير بشكل دفعي إلى MD لإعادة استخدام المحتوى  
+- سير العمل CI/CD لتحويل PDFs إلى مستندات Markdown  
+- تحويل مدفوع بواسطة واجهة برمجة التطبيقات لمنصات قواعد المعرفة  
+- ترحيل آلي من PDFs التقليدية إلى مستودعات Markdown  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

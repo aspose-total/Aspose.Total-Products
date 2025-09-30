@@ -57,7 +57,27 @@ Pomocí API můžete také otočit výstupní obrázek JPEG2000 podle svých pot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Proces konverze **PDF na JPEG2000** je důležitý pro vytváření **vysoce kvalitních, komprimovaných obrázků** z stránek PDF. JPEG2000 je široce používán v **digitálních knihovnách, lékařském zobrazování a archivaci**, kde je vyžadována efektivní komprese a bezchybné ukládání.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+- Uchování digitální knihovny pomocí formátu JPEG2000
+- Konverze PDF pro **archivy lékařských zobrazení**
+- Ukládání dokumentů vysokého rozlišení s redukovanou velikostí
+- Státní archivy využívající standardy JPEG2000
+- Akademické repozitáře vyžadující **dlouhodobé uchování obrázků**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+- Automatizované **potrubí PDF na JPEG2000**
+- Hromadné archivace PDF do formátu JPEG2000
+- Integrace s digitálními knihovními systémy
+- Pracovní postupy lékařského zobrazování s převodem PDF na JPEG2000
+- Podniková automatizace pro ukládání vysoce kvalitních komprimovaných dat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

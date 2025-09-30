@@ -135,7 +135,27 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF**'yi **XAML**'e dönüştürmek, geliştiricilere ve işletmelere belge düzenlerinden **Genişletilebilir Uygulama İşaretleme Dili dosyaları** oluşturmalarına yardımcı olur. Çevrimiçi PDF'ten XAML dönüştürücüler ve otomatik boru hatları kullanılarak işletmeler, PDF'leri WPF uygulamaları ve dijital yayıncılık için UI kaynaklarına dönüştürebilirler.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+- PDF düzenlerinden UI prototipleme  
+- Kurumsal uygulama tasarım belgeleri  
+- WPF uygulama kaynağı oluşturma  
+- Etkileşimli yazılım belgeleri  
+- Yapılandırılmış işaretleme ile dijital yayıncılık
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- UI çerçeveleri için otomatik PDF'den XAML boru hatları  
+- Kurumsal için toplu PDF'ten XAML dönüşümü  
+- Tasarım belgeleri için iş akışı entegrasyonu  
+- PDF arşivlerinden uygulama prototipleme  
+- Kurumsal yazılım belgeleri otomasyonu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

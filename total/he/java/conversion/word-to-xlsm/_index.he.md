@@ -102,7 +102,26 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-XLSM** מאפשרת להמיר מסמכי Word ל-**Excel Macro-Enabled Workbooks (XLSM)**, מאפשרת אוטומציה דרך מאקרוס VBA ושיפור זרימות עבודה בגיליון האלקטרוני.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- יצירת דוחות Excel עם מאקרוס מ-Word
+- זרימות עבודה לארגונים
+- סט נתונים למחקר אקדמי עם חישובים אוטומטיים
+- המרת מסמך לגיליון אלקטרוני באמצעות תבנית
+- דיווחים מובנים לממשלה ולחברות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- יצירת דוחות Excel מ-Word באופן אוטומטי
+- אוטומציה של זרימות עבודה עם מאקרוס
+- יצירת מאקרו ב-Excel באמצעות תבנית
+- צינורות אוטומציה למסמכים ברמה ארגונית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

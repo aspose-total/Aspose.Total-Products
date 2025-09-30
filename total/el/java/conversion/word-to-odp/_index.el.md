@@ -54,7 +54,26 @@ otherformats: POTX PPTM POT POWERPOINT PPTX PPT PPSX PPS POTM PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **WORD σε ODP** επιτρέπει στα έγγραφα Word να μετατραπούν σε αρχεία **OpenDocument Presentation (ODP)**, γεφυρώνοντας το χάσμα μεταξύ αναφορών βασισμένων σε κείμενο και μορφών παρουσιάσεων για συνεργατικά, ανοικτά πρότυπα περιβάλλοντα.
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+- Μετατροπή κειμενικών αναφορών σε διαφάνειες
+- Παρουσιάσεις με ανοικτά πρότυπα για επιχειρηματική συνεργασία
+- Προετοιμασία παρουσιάσεων για ακαδημαϊκές και ερευνητικές εργασίες
+- Αρχεία παρουσιάσεων για κυβερνητικούς και εταιρικούς οργανισμούς
+- Δημιουργία εταιρικών αναφορών και ενημερώσεων βασισμένη σε πρότυπα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες ροές εργασίας για μετατροπή Word σε ODP
+- Μαζική μετατροπή εταιρικών αναφορών σε παρουσιάσεις
+- Δημιουργία διαφανειών με βάση πρότυπα
+- Αυτοματοποίηση δομημένων αναφορών και ενημερώσεων
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

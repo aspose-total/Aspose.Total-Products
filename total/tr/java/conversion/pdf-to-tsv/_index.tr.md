@@ -47,7 +47,27 @@ PDF dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF'yi TSV'ye** dönüştürmek, temiz, sütun tabanlı veri kümelerini koruyan **sekmeyle ayrılmış değerleri** oluşturmak için değerlidir. PDF'ten TSV'ye dönüştürücüler ve otomasyon ile organizasyonlar, veritabanları, elektronik tablolar ve araştırma araçları ile uyumluluğu sağlar.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+- Akademik araştırma veri kümeleri  
+- Biyoinformatik ve bilimsel veri tabloları  
+- Pazar araştırması anket sonuçları  
+- Hükümet istatistik arşivleri  
+- Çapraz sistem yapılandırılmış veri değişimi
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+- Araştırma laboratuvarları için otomatik PDF'den TSV'ye iş akışları  
+- Yapılandırılmış raporlama için toplu TSV oluşturma  
+- Veritabanı alım borularıyla entegrasyon  
+- Analitik platformlar için veri hazırlığı  
+- Yüksek hacimli tablo veri otomasyonu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

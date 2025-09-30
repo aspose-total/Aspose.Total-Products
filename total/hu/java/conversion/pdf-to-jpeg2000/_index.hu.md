@@ -57,7 +57,27 @@ Az API használatával igény szerint elforgathatja a kimeneti JPEG2000-képet i
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+A **PDF to JPEG2000** konverziós folyamat fontos a PDF oldalakból **magas minőségű, tömörített képek** előállításához. A JPEG2000 széles körben használatos **digitális könyvtárakban, orvosi képalkotásban és archiválásban**, ahol hatékony tömörítés és veszteségmentes tárolás szükséges.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Digitális könyvtár megőrzése JPEG2000 használatával
+- PDF konverzió **orvosi képarchívumokhoz**
+- Nagy felbontású dokumentumtárolás csökkentett méretben
+- Kormányzati archívumok JPEG2000 szabványokkal
+- Olyan akadémiai tárhelyek, amelyek hosszú távú képmegőrzést igényelnek
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált **PDF to JPEG2000 csővezetékek**
+- PDF-ek batch archiválása JPEG2000 formátumba
+- Integráció digitális könyvtári rendszerekkel
+- Orvosi képalkotási munkafolyamatok PDF-ről JPEG2000-ra
+- Vállalati automatizálás magas minőségű tömörített tároláshoz
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

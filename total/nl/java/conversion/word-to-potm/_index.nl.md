@@ -54,7 +54,24 @@ Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar POTM co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **WORD naar POTM** maakt het mogelijk om **Macro-Enabled PowerPoint Template (POTM) bestanden** te maken van Word inhoud, waardoor herbruikbare sjablonen met macro's voor geavanceerde automatisering mogelijk zijn.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Genereren van macro-enabled presentatiesjablonen vanuit Word
+- Automatisering op ondernemingsniveau bij het maken van presentaties
+- Academische en onderzoekssjablonen met interactieve elementen
+- Herbruikbare bedrijfspresentaties
+- Sjabloon-gedreven workflow voor geautomatiseerde dia's
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Word-naar-POTM geautomatiseerde sjabloonpijplijnen
+- Batchcreatie van macro-enabled presentatiesjablonen
+- Sjabloon-gedreven automatisering van dia's
+- Presentatieworkflows op ondernemingsniveau
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

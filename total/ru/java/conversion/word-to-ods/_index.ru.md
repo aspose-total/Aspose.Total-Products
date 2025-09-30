@@ -61,7 +61,24 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **WORD в ODS** позволяет экспортировать содержимое Word в формат **OpenDocument Spreadsheet (ODS)**, что делает структурированные табличные данные доступными для анализа в электронных таблицах и совместной работы.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Экспорт таблиц Word в ODS для аналитики
+- Взаимодействие в отчетах в форматах OpenDocument
+- Рабочие процессы с электронными таблицами в корпоративной и государственной сферах
+- Обработка и архивирование академических данных
+- Миграция структурированных табличных данных в современные системы электронных таблиц
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры преобразования Word в ODS
+- Структурированная отчетность корпоративного уровня
+- Автоматизация рабочих процессов на основе электронных таблиц
+- Генерация таблиц на основе документов с использованием шаблонов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

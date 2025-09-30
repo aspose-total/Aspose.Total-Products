@@ -61,7 +61,26 @@ otherformats: FODS XLAM TSV ODS XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+## Μετατροπή **PowerPoint σε ODS** επιτρέπει την εξαγωγή πινάκων παρουσίασης σε μορφή **OpenDocument Spreadsheet**, επιτρέποντας τη δομημένη ανάλυση δεδομένων και τη συμβατότητα με διαφορετικές πλατφόρμες.
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+- Εξαγωγή πινάκων διαφανειών για ανάλυση σε φύλλο υπολογιστή  
+- Επιχειρησιακή αναφορά και αναλυτική ανάλυση  
+- Διαμοιρασμός δεδομένων με εργαλεία OpenDocument σε διαφορετικές πλατφόρμες  
+- Αρχειοθέτηση δομημένων δεδομένων διαφανειών  
+- Προετοιμασία αριθμητικών ή πίνακα αναφορών από παρουσιάσεις
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+- Αυτόματη εξαγωγή πινάκων σε μορφή ODS  
+- Ενσωμάτωση με αναλυτικές διαδικασίες  
+- Μαζικές μετατροπές διαφανειών σε φύλλα υπολογιστή  
+- Ροές εργασίας αναφοράς με βάση τα δεδομένα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

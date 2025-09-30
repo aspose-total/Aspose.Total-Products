@@ -61,7 +61,26 @@ otherformats: SXC FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в SXC** позволяет экспортировать таблицы и структурированные данные слайдов в формат **таблиц StarOffice Calc Spreadsheet**, обеспечивая совместимость с устаревшими версиями и анализ данных.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Извлечение данных таблиц слайдов для электронных таблиц  
+- Совместимость с устаревшими офисными пакетами для электронных таблиц  
+- Отчетность на основе данных и анализ  
+- Архивирование структурированного контента из презентаций  
+- Подготовка числовых отчетов на основе слайдов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматическое преобразование слайдов в таблицы SXC  
+- Пакетные процессы извлечения для аналитики  
+- Интеграция с системами корпоративной отчетности  
+- Автоматизация рабочего процесса для создания устаревших электронных таблиц
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

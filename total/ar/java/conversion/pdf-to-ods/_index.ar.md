@@ -47,7 +47,27 @@ otherformats: SXC TSV DIF EXCEL XLT XLTX XLSM MD FODS XLSB TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى ODS** يمكن أن يسمح بتحويل **تقارير PDF إلى تنسيق جدول بيانات OpenDocument**، مما يضمن الوصول إلى البيانات والمرونة لتحليل البيانات، وتقارير المالية، ومجموعات البيانات العلمية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- البيانات المالية وسجلات المحاسبة
+- أنظمة تقارير عالية المستوى للشركات
+- مبادرات مشاركة البيانات الحكومية
+- مجموعات بيانات البحوث الأكاديمية
+- تخزين البيانات المهيكلة على المدى الطويل
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+- سير العمل لاستخراج البيانات من PDF إلى ODS
+- خطوط أنابيب التحويل التلقائي للمالية والبحوث
+- إنشاء جداول بيانات مدعومة بـ JSON/XML
+- التأتير الآلي لتقارير الشركات
+- تحويل البيانات الرقمية بشكل قابل للتوسيع
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

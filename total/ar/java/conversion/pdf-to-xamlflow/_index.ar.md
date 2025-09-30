@@ -144,7 +144,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى XAMLFLOW** مثالي للمطورين الذين يقومون ببناء **ملفات XAML مستندة إلى FlowDocument** في تطبيقات .NET و WPF. باستخدام محولات دفعة PDF إلى XAMLFlow وأنابيب العمل المؤتمتة، يمكن تحويل المحتوى الثابت إلى موارد برمجية تفاعلية ومنظمة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تكامل النصوص الغنية في تطبيقات WPF
+- النشر الرقمي بتنسيق FlowDocument
+- دلائل البرامج وأنظمة المساعدة
+- تكامل قاعدة المعرفة الشركاتية
+- سير العمل من المستند إلى التطبيق
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+- أنابيب عمل تحويل PDF إلى XAMLFLOW تلقائية لتطوير التطبيقات
+- تحويل دفعة لتطبيقات WPF الشركاتية
+- تكامل سير العمل في أنظمة النشر
+- إنشاء محتوى FlowDocument بشكل مقياسي
+- أتمتة وثائق البرمجيات التفاعلية
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

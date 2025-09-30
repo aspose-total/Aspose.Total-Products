@@ -47,7 +47,27 @@ PDFファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをXLTに変換**することで、企業は**Excelテンプレートファイル**を作成し、レポーティングやデータ入力プロセス全体で再利用できます。自動化されたPDFからXLTへのパイプラインは、ブランディングの一貫性と標準化されたデータ形式をサポートします。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 企業向けレポーティングテンプレート
+- 学術研究用フォーム
+- 政府の財務テンプレート
+- 在庫管理スプレッドシート
+- 標準化された企業ダッシュボード
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 企業向けPDFからXLTへのテンプレートパイプライン
+- フォームをExcelテンプレートに自動変換
+- PDFアーカイブからのバッチテンプレート生成
+- 企業向けスプレッドシートのワークフロー自動化
+- 企業全体でのテンプレート再利用
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,24 @@ Usando a API, você também pode realizar a conversão de arquivo POWERPOINT par
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PowerPoint para TEXTO** permite exportar slides para um formato **texto simples**, ideal para extração de dados, análise de texto ou compartilhamento de conteúdo leve.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Extração de texto para análise ou processamento de IA
+- Preparação de relatórios ou notas em texto simples
+- Arquivamento leve de conteúdo de slides
+- Reutilização de conteúdo para e-mails ou scripts
+- Documentação simplificada a partir de apresentações
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines de extração de slide para texto automatizado
+- Integração com sistemas de análise de NLP ou IA
+- Fluxos de trabalho de texto empresarial a partir de apresentações
+- Extração em lote de conteúdo para relatórios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

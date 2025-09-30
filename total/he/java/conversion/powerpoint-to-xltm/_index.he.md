@@ -102,7 +102,26 @@ otherformats: SXC XLS FODS MHTML MARKDOWN CSV XLSM XLT EXCEL DIF ODS XLAM XLSX T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-XLTM** מאפשרת לשקפים להפוך לתבניות Excel עם מאקרום, ששומרות על מאקרום לדיווחים אוטומטיים חוזרים ועל זרימות עבודה בארגון.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- תבניות Excel עם מאקרום שניתן להשתמש בהן שוב
+- דיווחים אוטומטיים עם אוטומציה מוטמעת
+- ארכיבת מצגות כתבניות עם מאקרום
+- תבניות פרויקט אינטראקטיביות לשימוש בארגון
+- יצירת תבניות לחינוך והדרכה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים משקפים ל-XLTM
+- יצירת ספריית תבניות לארגון עם מאקרום
+- יצירת תבניות מאקרום בצורה צפופה
+- דיווחים אוטומטיים המופעלים על ידי תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## PDFをPOWERPOINT/PPTに変換する
+
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをPOWERPOINT/PPTに変換**すると、PDFスライドを編集可能な**PowerPointプレゼンテーション**に変換し、それらを**ビジネス、学術、またはトレーニング目的**に再利用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+- 静的なPDFスライドを編集可能なPPTに変換する
+- 企業会議用にプレゼンテーションを再利用する
+- 学術講義スライドとセミナープレゼンテーション
+- マーケティングおよびセールスデッキ
+- ワークショップとウェビナーコンテンツの再利用
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからPPTへのパイプライン**
+- 複数のPDFデッキを一括変換してPPTに
+- Office 365/PowerPointとの統合によるワークフローの自動化
+- トレーニングやセミナー向けのコンテンツ再利用
+- 企業規模のプレゼンテーション処理
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

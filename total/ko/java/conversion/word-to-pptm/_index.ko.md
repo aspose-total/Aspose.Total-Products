@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 WORD 문서를 PPTM로 변환할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**WORD를 PPTM으로 변환**하면 Word 콘텐츠가 **매크로 활성화된 PowerPoint (PPTM) 파일**로 변환되어 자동화 및 대화식 프레젠테이션 기능을 제공합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 매크로 활성화된 기업 및 기관 프레젠테이션
+- 대화식 학술 및 교육 슬라이드
+- 템플릿 기반 매크로 활성화된 프레젠테이션 워크플로우
+- 정부 및 기관 브리핑 자동화
+- 재사용 가능한 매크로 활성화된 프레젠테이션 템플릿
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 Word-to-PPTM 슬라이드 파이프라인
+- 매크로 활성화된 프레젠테이션 덱 일괄 생성
+- 템플릿 기반 대화식 슬라이드 자동화
+- 기업용 매크로 활성화된 프레젠테이션 워크플로우
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

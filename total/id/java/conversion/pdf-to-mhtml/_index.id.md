@@ -130,7 +130,27 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **PDF ke MHTML** (format arsip web) penting untuk mengubah dokumen menjadi **halaman HTML satu file dengan sumber daya tertanam**. Ini memungkinkan distribusi PDF dengan mudah sebagai file yang siap web untuk **arsip, penerbitan digital, dan tampilan berbasis browser**.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+- PDF ke MHTML untuk pengarsipan web satu file
+- Mengonversi laporan menjadi **arsip web** yang dapat dilihat di browser
+- Alur kerja perusahaan untuk distribusi dokumen berbasis HTML
+- Menyimpan dokumen hukum dan kepatuhan sebagai MHTML
+- Alur kerja penerbitan digital mengonversi PDF ke **format siap web**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+- **Pipa kerja PDF ke MHTML otomatis**
+- Pengolahan batch PDF menjadi arsip web
+- Integrasi CMS perusahaan untuk output MHTML
+- Alur kerja penerbitan otomatis dengan konversi PDF ke MHTML
+- Konversi PDF berbasis browser menjadi **arsip HTML mandiri**
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

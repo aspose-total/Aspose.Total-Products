@@ -53,7 +53,26 @@ APIを使用して、透かしを使用してPOWERPOINTファイルからWORDへ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをWORDに変換**することで、スライドが**編集可能なWord文書**に変換され、レポート、共同編集、文書作成などで広く使用されます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+- プレゼンテーションから編集可能な文書を生成する
+- 企業レポートの作成
+- 学術およびトレーニング資料の準備
+- プレゼンテーションをWord形式でアーカイブする
+- 共同編集および注釈ワークフロー
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- プレゼンテーション用のバッチ変換パイプライン
+- 企業文書ワークフローへの統合
+- スライドからの自動レポート作成
+- チーム向けのスライド駆動型文書生成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

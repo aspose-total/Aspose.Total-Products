@@ -57,7 +57,27 @@ otherformats: WMZ PSD TGA JPEG2000 EMZ SVGZ IMAGE  WMF DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ملف PDF إلى ملف PSD** يتيح للمصممين تحويل الرسومات **PDF إلى تنسيق Adobe Photoshop**، مما يمكن من تحرير الطبقات وتعزيز سير العمل الإبداعي.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحرير الرسوم التوضيحية في ملف PDF باستخدام Photoshop
+- تحويل الرسوم البيانية والأصول التسويقية
+- سير عمل التصميم الذي يحتفظ بالطبقات لفرق الإبداع
+- تحضير محتوى ملف PDF لحملات الوسائط الرقمية
+- أرشفة الرسومات في ملف PDF بتنسيق PSD قابل للتحرير
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- **تحويل دفعة من ملفات PDF إلى PSD تلقائيًا**
+- تكامل سير العمل التصميمي للاستوديوهات الإبداعية
+- معالجة ملفات PDF إلى Photoshop بواسطة واجهة برمجة التطبيقات
+- خطوط أنابيب الأتمتة الرسومية للشركات
+- استخراج الطبقات تلقائيًا من ملفات PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

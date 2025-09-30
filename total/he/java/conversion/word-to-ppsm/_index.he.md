@@ -103,7 +103,26 @@ otherformats: PPT PPSX POWERPOINT PPTM POT POTX ODP PPTX POTM PPS CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **WORD ל-PPSM** מאפשרת יצירת קבצי **Macro-Enabled PowerPoint Show (PPSM)** ממסמכי Word, מאפשרת הצגות אינטראקטיביות עם יכולות אוטומציה.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- הצגות מאפשרות מאקרו מתוך תוכן Word
+- הצגות אינטראקטיביות לחברות או ארגונים
+- מצגות שקולות למחקר אקדמי ולהדרכה
+- זרימות עבודה אינטראקטיביות המבוססות על תבניות
+- אוטומציה במצגות לארגונים ולממשל
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות המרה אוטומטיים מ-Word ל-PPSM
+- יצירת הצגות מאפשרות מאקרו בצורה צינורית
+- אוטומציה של מצגות אינטראקטיביות המבוססות על תבניות
+- זרימות עבודה אינטראקטיביות ברמה עסקית למצגות מאפשרות מאקרו
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

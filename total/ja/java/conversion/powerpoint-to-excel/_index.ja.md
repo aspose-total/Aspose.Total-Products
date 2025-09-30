@@ -61,7 +61,26 @@ POWERPOINTファイルをEXCELに変換するときに、出力EXCELファイル
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをEXCELに変換**すると、スライドを**Excelスプレッドシート**にエクスポートして、スプレッドシート形式でスライドデータを分析、レポート、共有することが容易になります。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- プレゼンテーションの表やグラフをスプレッドシートに変換する
+- 企業向けレポーティングおよび分析
+- 構造化された使用のためのスライドデータのアーカイブ
+- 共同データ編集
+- スライドから数値またはテキストのレポートを準備する
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化されたスライドからExcelへの変換パイプライン
+- プレゼンテーションのバッチ処理をスプレッドシートに
+- 企業向け分析およびレポーティングシステムとの統合
+- スライド駆動型のワークフロー自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

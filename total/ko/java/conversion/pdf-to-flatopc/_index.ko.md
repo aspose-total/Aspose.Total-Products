@@ -129,7 +129,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 Flat OPC(Open Packaging Convention)으로 변환하는 것은 Office 문서의 **단일 파일 XML 표현을 만드는 데 중요**합니다. 이는 기업 아카이빙, 데이터 교환 및 **PDF-to-OpenXML 통합을 포함한 원활한 워크플로우**를 지원합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- PDF를 Flat OPC로 기업 아카이빙
+- Office 상호 운용성을 위한 PDF에서 Flat OPC로
+- XML 기반 문서 교환 워크플로우
+- Flat OPC 구조에서 장기 보존
+- Office 자동화를 위한 템플릿 기반 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 자동화된 **PDF-to-Flat OPC 파이프라인**
+- PDF에서 변환된 XML 문서 워크플로우
+- Flat OPC 구조를 사용한 기업 보고서
+- PDF를 OpenXML 단일 파일 형식으로 일괄 처리
+- Microsoft Office 자동화와의 워크플로우 통합
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

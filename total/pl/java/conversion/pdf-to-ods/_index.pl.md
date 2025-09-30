@@ -47,7 +47,27 @@ Konwertując plik PDF na ODS, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PDF na ODS** umożliwia przekształcenie **raportów PDF w format OpenDocument Spreadsheet**, zapewniając dostępność i elastyczność do analizy danych, raportów finansowych i zbiorów danych naukowych.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Sprawozdania finansowe i dokumentacja księgowa
+- Systemy raportowania klasy enterprise
+- Inicjatywy udostępniania danych rządowych
+- Zbiory danych z badań akademickich
+- Długoterminowe przechowywanie danych strukturalnych
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Przepływy pracy ekstrakcji danych z PDF do ODS
+- Zautomatyzowane procesy konwersji dla finansów i badań
+- Tworzenie arkuszy kalkulacyjnych na podstawie JSON/XML
+- Automatyzacja raportowania przedsiębiorstwa
+- Skalowalna transformacja cyfrowych danych
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

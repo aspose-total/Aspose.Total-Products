@@ -130,7 +130,25 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **PDF en PS (PostScript)** est essentiel pour les flux de travail d'impression de haute qualité, permettant d'envoyer des PDF aux imprimantes compatibles avec PostScript pour la publication professionnelle, la conception graphique et les environnements d'impression d'entreprise.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Production d'impression professionnelle à partir de documents PDF
+- Sortie de conception graphique pour les imprimantes PostScript
+- Flux de travail d'impression d'entreprise et gouvernementaux
+- Flux de travail de prépresse dans les maisons d'édition
+- Archivage des PDF au format PostScript pour la conformité
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- **Pipelines d'impression PDF vers PS automatisés**
+- Conversion par lots de PDF pour des travaux d'impression à gros volume
+- Intégration avec des serveurs d'impression d'entreprise
+- Automatisation des flux de travail de prépresse pour la publication
+- Automatisation de l'impression évolutive avec sortie PS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

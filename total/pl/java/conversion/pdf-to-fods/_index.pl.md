@@ -47,7 +47,27 @@ Konwertując plik PDF na FODS, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PDF na FODS (Flat ODF Spreadsheet)** pomaga w wyodrębnianiu strukturalnych danych z PDF do **LibreOffice Calc i arkuszy kalkulacyjnych zgodnych z OpenDocument**. Pozwala to organizacjom na ponowne wykorzystanie **tabel PDF w formacie FODS opartym na XML** do celów raportowania, analizy i zgodności.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Konwersja PDF na FODS dla przepływów pracy arkusza kalkulacyjnego typu open-source
+- Konwertowanie tabel akademickich na arkusze ODF
+- Ponowne wykorzystanie danych w środowiskach LibreOffice i OpenOffice
+- Raportowanie strukturalne w formatach arkuszy kalkulacyjnych opartych na XML
+- Długoterminowe archiwizowanie treści tabelarycznych w formacie PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Zautomatyzowane **potoki PDF do FODS**
+- Przetwarzanie wsadowe tabel PDF na arkusze ODF
+- Przepływy pracy sterowane JSON generujące FODS z PDF
+- Automatyzacja raportowania w przedsiębiorstwie z eksportem FODS
+- Integracja systemów open-source z narzędziami do konwersji PDF na FODS
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

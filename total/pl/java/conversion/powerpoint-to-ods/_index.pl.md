@@ -61,7 +61,26 @@ Podczas konwertowania pliku POWERPOINT do ODS możesz również dodać znak wodn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **PowerPoint do ODS** pozwala na eksportowanie tabel prezentacji do formatu **Arkusz kalkulacyjny OpenDocument**, umożliwiając analizę danych i kompatybilność międzyplatformową.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+- Wyodrębnianie tabel slajdów do analizy arkusza kalkulacyjnego
+- Raportowanie i analizy przedsiębiorstw
+- Współdzielenie danych międzyplatformowych za pomocą narzędzi OpenDocument
+- Archiwizowanie strukturalnych danych slajdów
+- Przygotowywanie raportów liczbowych lub tabelarycznych z prezentacji
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+- Automatyczne wyodrębnianie tabel do formatu ODS
+- Integracja z potokami analitycznymi
+- Konwersje zbiorcze slajdów na arkusze kalkulacyjne
+- Przepływy pracy oparte na danych
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,26 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 OTT로 변
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPoint를 OTT로 변환**하면 슬라이드를 **OpenDocument Text Templates**로 내보낼 수 있어서 표준화된 문서용 재사용 가능한 템플릿을 만들 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 프레젠테이션에서 재사용 가능한 텍스트 템플릿 생성
+- 표준화된 기업 또는 학술 문서
+- 템플릿 기반의 보고서 및 프로젝트 제안
+- 템플릿으로 프레젠테이션 구조 보관
+- 교육 또는 훈련용 템플릿 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- OpenDocument 텍스트 템플릿의 자동 생성
+- 기업용 템플릿 라이브러리의 워크플로 통합
+- 슬라이드 일괄 변환을 통한 재사용 가능한 템플릿
+- 템플릿 기반의 문서 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ POWERPOINTファイルをTSVに変換するときに、出力TSVファイル形�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをTSVに変換**することで、スライドを**タブ区切り値**としてエクスポートし、構造化されたデータ処理やクロスプラットフォームのスプレッドシート互換性を実現します。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+- 分析用の表形式データの抽出
+- クロスプラットフォームでのデータ共有
+- 旧式および最新のスプレッドシートツールとの統合
+- プレゼンテーションからの構造化コンテンツのアーカイブ
+- 構造化されたレポートの作成
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動バッチスライドからTSVへのパイプライン
+- 企業向け分析ワークフローとの統合
+- データ駆動型レポートの自動化
+- 旧式システムのスプレッドシートの準備
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

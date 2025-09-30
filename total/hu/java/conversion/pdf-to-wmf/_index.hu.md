@@ -57,7 +57,27 @@ Az API használatával igény szerint elforgathatja a kimeneti WMF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF átalakítása WMF-re** vagy **PDF átalakítása WMZ-re** lehetővé teszi a PDF-ekből származó vektorgrafikák használatát **Windows-alapú alkalmazásokban**, prezentációkban és skálázható illusztrációkban vállalati, kormányzati és tervezési folyamatokhoz.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Vektor PDF grafikák beágyazása az Office alkalmazásokba
+- Prezentációs és marketing anyagok készítése
+- Skálázható diagramok és illusztrációk
+- Vállalati és kormányzati dokumentumgrafikák
+- Tömörített vektor formátum tárolása WMZ használatával
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált **PDF-WMF/WMZ átalakítási csatornák**
+- Vektor PDF grafikák tömeges feldolgozása
+- Integráció prezentációs és irodai folyamatokkal
+- Vállalati grafika automatizálása kiadványokhoz
+- Skálázható vektor tárolás és újrafelhasználás automatizálása
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

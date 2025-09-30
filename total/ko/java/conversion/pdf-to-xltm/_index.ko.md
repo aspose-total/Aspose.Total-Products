@@ -47,7 +47,27 @@ PDF 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 XLTM으로 변환**하면 **매크로가 활성화된 Excel 템플릿**을 만들 수 있어 반복 작업에 적합합니다. 자동화된 PDF를 XLTM으로 변환하는 도구는 정적 레이아웃과 포함된 자동화를 결합하여 재무, 연구 및 기업 시나리오에 이상적입니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 매크로가 활성화된 재무 템플릿
+- 자동화된 연구 보고서 작성
+- 기업 수준의 워크플로우 자동화
+- 규제 준수 보고
+- 데이터 기반 Excel 템플릿 재사용
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 확장 가능한 보고서용 PDF-to-XLTM 파이프라인
+- 자동화된 매크로가 활성화된 Excel 템플릿 생성
+- 기업을 위한 일괄 템플릿 변환
+- 워크플로우 중심의 Excel 자동화
+- AI 강화 XLTM 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ otherformats: SXC XLS ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **WORD إلى XLS** يسمح بتصدير جداول Word إلى تنسيق **جدول بيانات Excel (XLS)** القديم، محافظاً على الهيكل لتقارير المؤسسات وتحليل الجداول الإلكترونية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- تحويل جداول Word إلى تنسيقات Excel القديمة
+- تقارير المؤسسات وتحليل البيانات المالية
+- إعداد البيانات الأكاديمية والبحثية
+- تكامل وثائق الحكومة
+- إنشاء جداول بيانات هيكلية مستندة إلى القوالب
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+- خطوط أنابيب تحويل دُفعي من Word إلى XLS مُتلقى
+- إنشاء ورقة Excel بناءً على قوالب
+- أتمتة تقارير عالية المستوى
+- سير العمل لتكامل الأنظمة القديمة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

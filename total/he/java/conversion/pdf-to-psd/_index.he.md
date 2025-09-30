@@ -105,7 +105,27 @@ otherformats: WMZ APNG TGA JPEG2000 EMZ SVGZ IMAGE  WMF DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PDF ל-PSD** מאפשרת למעצבים להמיר **גרפיקה בפורמט PDF לפורמט Adobe Photoshop**, מאפשרת עריכה במבוך שכבות ושיפורי תהליך יצירתי.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- עריכת איורים בפורמט PDF ב-Photoshop
+- המרת אינפוגרפיקות ונכסים שיווקיים
+- תהליך עבודה עם שכבות שמורות לצוותים יצירתיים
+- הכנת תוכן בפורמט PDF לקמפיינים במדיה דיגיטלית
+- ארכיבה של גרפיקה בפורמט PDF בפורמט PSD שניתן לעריכה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- **המרת קובצים בפורמט PDF ל-PSD באופן רציף**
+- שילוב תהליך עבודה לסטודיואים יצירתיים
+- עיבוד PDF ל-Photoshop באמצעות API
+- צינורות אוטומציה לגרפיקה בארגונים
+- חילוץ שכבות באופן אוטומטי מקבצי PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

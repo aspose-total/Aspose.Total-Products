@@ -61,7 +61,26 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **PowerPoint в EXCEL** позволяет экспортировать слайды в **таблицы Excel**, что упрощает анализ, отчетность и обмен данными слайдов в формате таблицы.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+- Преобразование таблиц и графиков презентации в таблицы
+- Предприятий отчетность и аналитика
+- Архивирование данных слайдов для структурированного использования
+- Коллективное редактирование данных
+- Подготовка числовых или текстовых отчетов из слайдов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+- Автоматизированные конвейеры преобразования слайдов в Excel
+- Пакетная обработка презентаций в таблицы Excel
+- Интеграция с системами предприятий для аналитики и отчетности
+- Автоматизация рабочего процесса на основе слайдов
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

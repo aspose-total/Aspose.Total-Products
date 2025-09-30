@@ -53,7 +53,26 @@ Usando a API, você também pode realizar a conversão de arquivo POWERPOINT par
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **PowerPoint para DOCM** permite exportar slides para documentos do Word com macros, preservando a automação e interatividade dentro do ambiente do documento.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Manter macros ao transferir dados de apresentação
+- Criar relatórios interativos com scripts de automação
+- Modelos empresariais com funções incorporadas
+- Relatórios de conformidade com macros predefinidos
+- Documentos acadêmicos ou corporativos que requerem conteúdo dinâmico
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines de conversão automatizada preservando macros
+- Geração de documentos com macros impulsionados por JSON/slide
+- Fluxos de trabalho empresariais com modelos habilitados para macros
+- Criação automatizada simplificada de relatórios a partir de slides
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

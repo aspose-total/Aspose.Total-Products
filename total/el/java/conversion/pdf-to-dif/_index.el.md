@@ -47,7 +47,27 @@ otherformats: TXT XLAM XLSM XLTM TSV SXC MD DIF FODS XLTX XLT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **PDF σε DIF** είναι ουσιώδης για την εργασία με **παλαιότερες μορφές υπολογιστικών φύλλων** στους τομείς της στατιστικής, της οικονομικής και της επιστημονικής έρευνας. Η μετατροπή πινάκων από PDF σε **Μορφή Διακίνησης Δεδομένων** βοηθά στη διατήρηση της συμβατότητας με παλαιότερα συστήματα και δομημένη ανάλυση.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+- Μετανάστευση παλαιών υπολογιστικών φύλλων από PDF
+- Ανάλυση δεδομένων με στατιστικές εφαρμογές που υποστηρίζουν το DIF
+- Ροές εργασίας οικονομικής αναφοράς χρησιμοποιώντας αρχεία DIF
+- Μετατροπή πινάκων ακαδημαϊκής έρευνας σε μορφή DIF
+- Αρχειοθέτηση δομημένων δεδομένων σε διασυνδεόμενες μορφές
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+- Αυτοματοποιημένες **σωληνώσεις PDF σε DIF** για μετανάστευση δεδομένων
+- Εξαγωγή πινάκων PDF σε αρχεία φύλλων εργασίας DIF πακέτου
+- Ενσωμάτωση εξαγωγής DIF στις ροές εργασίας αναλυτικής επιχείρησης
+- Αυτοματοποιημένη δημιουργία DIF για οικονομικούς ελέγχους
+- Εργαλεία αναφοράς PDF σε DIF για ακαδημαϊκή δημοσίευση
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

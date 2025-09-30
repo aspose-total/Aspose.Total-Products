@@ -54,7 +54,24 @@ Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar PPSM co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **WORD naar PPSM** maakt het mogelijk om **Macro-Enabled PowerPoint Show (PPSM) bestanden** te maken van Word-documenten, waardoor interactieve presentaties met automatiseringsmogelijkheden mogelijk zijn.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+- Macro-ingeschakelde presentaties van Word-inhoud
+- Interactieve presentaties voor bedrijven of organisaties
+- Academische onderzoeks- en trainingspresentaties
+- Sjabloon-gestuurde interactieve presentatieworkflows
+- Automatisering van overheids- en organisatiebriefings
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+- Geautomatiseerde Word-naar-PPSM dia-pipelines
+- Batchcreatie van macro-ingeschakelde presentaties
+- Sjabloon-gestuurde interactieve dia-automatisering
+- Macro-ingeschakelde presentatieworkflows van bedrijfsniveau
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

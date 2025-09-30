@@ -61,7 +61,26 @@ POWERPOINTファイルをXLSXに変換するときに、出力XLSXファイル�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PowerPointをXLSXに変換**すると、**最新のExcelワークブック**としてスライドをエクスポートでき、高度な機能、共同作業、エンタープライズレポートをサポートします。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+- スライドの表やグラフをモダンなスプレッドシートに変換する
+- エンタープライズデータのレポートと分析
+- Excel 2007+の機能を使用した共同編集
+- 構造化されたプレゼンテーションコンテンツのアーカイブ
+- 数値またはテキストレポートの準備
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化されたスライドからXLSXへの変換パイプライン
+- プレゼンテーションからの一括スプレッドシート生成
+- エンタープライズBIおよびレポートシステムとの統合
+- スライド駆動型のワークフロー自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

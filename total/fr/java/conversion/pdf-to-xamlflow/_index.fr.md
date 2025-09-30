@@ -144,7 +144,25 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **PDF en XAMLFLOW** est idéale pour les développeurs qui créent des fichiers XAML basés sur FlowDocument dans les applications .NET et WPF. Avec des convertisseurs de PDF en XAMLFlow par lots et des pipelines automatisés, le contenu statique peut être transformé en ressources logicielles interactives et structurées.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+- Intégration de texte enrichi dans les applications WPF  
+- Publication numérique au format FlowDocument  
+- Manuels logiciels et systèmes d'aide  
+- Intégration de base de connaissances d'entreprise  
+- Workflows de document vers application
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+- Pipelines automatisés de PDF vers XAMLFLOW pour le développement d'applications  
+- Conversion par lots pour les applications WPF d'entreprise  
+- Intégration de workflow dans les systèmes de publication  
+- Génération de contenu FlowDocument à grande échelle  
+- Automatisation de la documentation logicielle interactive
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

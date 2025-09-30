@@ -121,7 +121,27 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 POTM으로 변환**하면 **매크로가 활성화된 PowerPoint 템플릿 파일**이 생성되어 조직이 **매크로가 포함된 상호작용 템플릿**을 교육, 자동화 또는 동적 프레젠테이션에 재사용할 수 있게 합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 재사용 가능한 매크로가 활성화된 프레젠테이션 템플릿
+- 상호작용형 교육 세션 슬라이드
+- 자동화된 기업 보고서 템플릿
+- 교육 프로그램용 동적 템플릿
+- 마케팅 및 영업 워크플로 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 일괄 **PDF를 POTM으로 변환하는 파이프라인**
+- 기업을 위한 자동화된 템플릿 배포
+- 매크로가 활성화된 PowerPoint 워크플로와의 통합
+- 재사용 가능한 템플릿을 사용한 교육 자료 자동화
+- 매크로가 활성화된 프레젠테이션의 중앙 집중 관리
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,24 @@ A API também permite converter documentos WORD protegidos por senha em PPT. Se 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **WORD para PPT** permite que documentos do Word sejam exportados para arquivos legados do **PowerPoint (PPT)**, tornando o conteúdo textual pronto para apresentações para uso empresarial, corporativo e acadêmico.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+- Criação de apresentações PPT legadas a partir de relatórios do Word
+- Slides de briefing corporativos e empresariais
+- Slides de pesquisa e ensino acadêmico
+- Apresentações governamentais e organizacionais
+- Geração de slides orientada por modelo a partir de conteúdo estruturado do Word
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+- Pipelines de slides automatizados de Word para PPT
+- Conversão em lote de relatórios do Word em apresentações
+- Automação de decks de slides orientada por modelo
+- Fluxos de trabalho de documentos para slides de nível empresarial
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

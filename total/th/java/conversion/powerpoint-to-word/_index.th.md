@@ -53,7 +53,26 @@ otherformats: OTT WORDM DOTM FLATOPC DOTX RTF ODT DOT WORDML WORDX TEXT WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PowerPoint เป็น WORD** ทำให้สไลด์เปลี่ยนเป็น **เอกสาร Word ที่สามารถแก้ไขได้**, สนับสนุนการใช้งานอย่างแพร่หลายในรายงาน การแก้ไขร่วม และเอกสาร
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- สร้างเอกสารที่สามารถแก้ไขได้จากการนำเสนอ
+- การสร้างรายงานของบริษัท
+- เตรียมเอกสารทางการและการฝึกอบรม
+- เก็บถาวรการนำเสนอในรูปแบบ Word
+- การทำงานร่วมกันในการแก้ไขและการประทับให้เอกสาร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+- ท่องไปร์การแปลงข้อมูลสำหรับการนำเสนอ
+- การผสานเข้ากับการทำงานของเอกสารในองค์กร
+- การสร้างรายงานโดยอัตโนมัติจากสไลด์
+- การสร้างเอกสารจากสไลด์สำหรับทีมงาน
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,27 @@ APIを使用すると、必要に応じて出力WMF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDFをWMF**または**PDFをWMZ**に変換することで、PDFからのベクターグラフィックスを**Windowsベースのアプリケーション**、プレゼンテーション、およびエンタープライズ、政府、デザインワークフロー向けのスケーラブルなイラストに使用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+- OfficeアプリケーションにベクターPDFグラフィックスを埋め込む
+- プレゼンテーションおよびマーケティング資料の作成
+- スケーラブルな図表とイラスト
+- エンタープライズおよび政府文書のグラフィックス
+- WMZを使用した圧縮ベクターフォーマットのストレージ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+- 自動化された**PDFからWMF/WMZへの変換パイプライン**
+- ベクターPDFグラフィックスのバッチ処理
+- プレゼンテーションおよびオフィスワークフローとの統合
+- 出版物向けのエンタープライズグラフィックスの自動化
+- スケーラブルなベクターストレージと再利用の自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

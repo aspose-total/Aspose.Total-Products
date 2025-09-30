@@ -57,7 +57,27 @@ Az API használatával igény szerint elforgathatja a kimeneti IMAGE-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **PDF átalakítása KÉPBE** az egyik leggyakoribb munkafolyamat, amely lehetővé teszi, hogy a dokumentumokat különböző képformátumokká, például PNG, JPG vagy TIFF formátummá alakítsák át. Ez megkönnyíti a PDF-ek használatát a **webes publikálásban, archiválásban és digitális bemutatók** környezetében.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- PDF dokumentumok archiválása képfájlként
+- PDF oldalak beágyazása webhelyekbe PNG vagy JPG formátumban
+- Bélyegképek és előnézetek készítése PDF-ekből
+- PDF-ek integrálása digitális diákba és bemutatókba
+- Képalapú tárolás a szabályozási és ellenőrzési célokra
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált **PDF-KÉP batch folyamatok**
+- PDF-PNG vagy JPG munkafolyamatok webes platformokhoz
+- Előnézetkép generálása dokumentumkezelő rendszerekhez
+- PDF többoldalas TIFF formátumba az üzleti archiváláshoz
+- Automatizált API-alapú PDF-KÉP konverzió
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

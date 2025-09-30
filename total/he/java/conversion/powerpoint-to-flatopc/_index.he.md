@@ -102,7 +102,26 @@ otherformats: WORD WORDML OTT DOCM DOTM RTF TEXT DOCX DOT DOTX DOC ODT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **PowerPoint ל-FLATOPC** מאפשרת לשמור שקופיות כ-**Flat OPC XML**, ומספקת תצוגת XML בקובץ יחיד של המצגת לעיבוד מובנה.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+- אחסון מידע מובנה עבור מצגות
+- תמיכה בתהליכי תקשורת בין מערכות באמצעות XML
+- ארכיבה של שקופיות בקובץ XML יחיד
+- תקן תוכן ברמה ארגונית
+- הפקת מסמכים בהתבסס על תבניות
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+- צינורות עבודה אוטומטיים משקופיות ל-FLATOPC
+- אוטומציה של תהליכי עבודה המופעלים על ידי XML
+- המרה צפונית של מצגות ל-XML מובנה
+- מערכות ארכיבה ודיווח ברמה ארגונית
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

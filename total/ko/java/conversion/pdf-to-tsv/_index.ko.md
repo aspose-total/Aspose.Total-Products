@@ -47,7 +47,27 @@ PDF 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**PDF를 TSV로 변환**하는 것은 깨끗하고 열 기반 데이터셋을 보존하는 **탭으로 구분된 값**을 생성하는 데 유용합니다. PDF를 TSV로 변환하고 자동화함으로써 조직은 데이터베이스, 스프레드시트 및 연구 도구와의 호환성을 보장합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+- 학술 연구 데이터셋
+- 생물정보학 및 과학적 데이터 테이블
+- 시장 조사 설문 결과
+- 정부 통계 자료 보관
+- 시스템 간 구조화된 데이터 교환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+- 연구소를 위한 자동화된 PDF-to-TSV 워크플로우
+- 구조화된 보고서를 위한 일괄 TSV 생성
+- 데이터베이스 투입 파이프라인과의 통합
+- 분석 플랫폼을 위한 데이터 준비
+- 대용량 탭형 데이터 자동화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,27 @@ otherformats: EXCEL XLT SXC XLTX TXT TSV DIF XLAM XLSB FODS XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **PDF إلى XLAM** يمكن من إنشاء ملفات **إضافة Excel** من ماكروهات جداول البيانات المستندة إلى PDF أو الوظائف المخصصة. هذا مفيد للغاية لـ **نماذج مالية مؤتمتة، وتقارير المؤسسات، وتعزيز سير العمل في Excel**.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- إنشاء ماكرو Excel وإضافة من البيانات الموجودة في ملف PDF
+- نماذج مالية مؤتمتة وأدوات تقارير
+- تعزيز سير العمل في جداول البيانات للمؤسسات
+- التلقائية أو البحث الأكاديمي لأتمتة Excel
+- توزيع قوالب إضافات Excel بمقياس كبير
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأليف التلقائي" %}}
+- **أنابيب عمليات التحويل من PDF إلى XLAM تلقائية**
+- معالجة دفعية لجداول بيانات مالية وللمؤسسات
+- التكامل مع أتمتة سير العمل في Excel
+- أنابيب تقارير ممكنة بالماكرو للمؤسسات
+- توزيع مقياسي لإضافات Excel من ملفات PDF
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett WORD dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+A **WORD to PPSX** konvertálása átalakítja a Word dokumentumokat **PowerPoint Show (PPSX) fájlokká**, kész, makrómentes prezentációkat kínálva vállalati, oktatási és üzleti közönségek számára.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+- Kész, lejátszásra kész prezentációk Word tartalomból
+- Makrómentes vállalati és üzleti diák
+- Oktatási és tréning prezentációk előkészítése
+- Sablon alapú jelentések és tájékoztatók
+- Kormányzati és szervezeti prezentációk lejátszásra kész formában
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+- Automatizált Word-to-PPSX tömeges csővezetékek
+- Sablonvezérelt, lejátszásra kész dia automatizálás
+- Vállalati szintű makrómentes prezentációs munkafolyamatok
+- Tömeges átalakítás Word jelentésekből diavetítésekké
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

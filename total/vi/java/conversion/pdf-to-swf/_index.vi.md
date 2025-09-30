@@ -121,7 +121,27 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **PDF sang SWF (Flash)** hữu ích để tạo nội dung **tương tác, sẵn sàng trên web** từ tài liệu PDF. Định dạng này phù hợp cho bài thuyết trình, các mô-đun học trực tuyến và tài liệu tiếp thị trực tuyến.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+- Học trực tuyến và nội dung khóa học trực tuyến
+- Bài thuyết trình PDF tương tác cho web
+- Slide tiếp thị và khuyến mãi
+- Lưu trữ đa phương tiện dựa trên PDF để phát lại trên web
+- Tờ rơi số và hướng dẫn tương tác
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+- **Luồng công việc PDF-sang-SWF tự động**
+- Chuyển đổi hàng loạt cho các mô-đun đào tạo trực tuyến
+- Tích hợp với các nền tảng LMS cho học trực tuyến
+- Luồng công việc xuất SWF trên web
+- Tự động hóa nội dung PDF tương tác có thể mở rộng
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **PDF เป็น WORDML** เป็นสิ่งสำคัญสำหรับการสร้างเอกสาร **WordprocessingML (เอกสาร Word ที่ใช้ XML)** จาก PDF  เครื่องมือออนไลน์ PDF เป็น WordML และการอัตโนมัติช่วยให้ได้เอกสารที่มีโครงสร้าง ปฏิบัติตามมาตรฐาน XML ที่พร้อมสำหรับการเก็บถาวร เผยแพร่ และการทำงานขององค์กร
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+- การแลกเปลี่ยนข้อมูลระหว่างระบบ  
+- การเก็บเอกสารขององค์กร  
+- การสร้างเอกสารตามแม่แบบ  
+- การเก็บถาวรข้อมูลดิจิทัลของรัฐบาล  
+- การเผยแพร่เอกสารทางวิชาการที่มีโครงสร้าง
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+- การสร้างท่อการทำงานอัตโนมัติ PDF เป็น WordML สำหรับรายงานที่มีโครงสร้าง  
+- การสร้างเอกสาร XML จาก PDF โดยอัตโนมัติ  
+- การทำงานกลุ่ม WordML จำนวนมากสำหรับองค์กร  
+- การรวมเข้ากับเอกสารดิจิทัลเพื่อสร้างรูปแบบ XML  
+- การรายงานที่มีโครงสร้างของระดับองค์กร
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
