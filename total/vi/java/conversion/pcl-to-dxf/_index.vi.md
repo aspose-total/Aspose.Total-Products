@@ -57,7 +57,30 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DXF đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành DXF** biến đổi đồ họa hoặc bố cục **Ngôn ngữ Lệnh Máy In** thành các tệp **Định dạng Trao đổi Bản vẽ (DXF)**, được sử dụng rộng rãi trong các ứng dụng thiết kế CAD và kỹ thuật.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Trích xuất đồ họa vector từ các báo cáo kỹ thuật được in
+* Chuyển đổi sơ đồ mạch từ đầu ra in thành các tệp có thể đọc được bởi CAD
+* Số hóa bố cục được tạo ra từ in để chỉnh sửa thiết kế tiếp theo
+* Kích hoạt khả năng tương tác giữa hệ thống in và các công cụ CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo tệp DXF tự động từ các bản vẽ kỹ thuật dựa trên in
+* Tích hợp chuyển đổi PCL thành DXF vào các đường ống làm việc kỹ thuật
+* Chuyển đổi hàng loạt đầu ra in lưu trữ thành các định dạng tương thích với CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

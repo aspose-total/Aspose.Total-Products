@@ -54,7 +54,27 @@ API cũng cho phép bạn chuyển đổi các tài liệu ODT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT sang PPS** cho phép tạo **trình diễn trực tiếp** từ tài liệu văn bản, làm cho nó hoàn hảo để cung cấp nội dung sẵn sàng trình bày mà không cần chỉnh sửa thêm.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo tập tin trình bày tức thì từ báo cáo hoặc tóm tắt
+* Cung cấp thông tin dựa trên văn bản dưới dạng trình diễn
+* Chuẩn bị trình diễn tự động cho cuộc họp hoặc sự kiện
+* Chuyển đổi tài liệu kiểu Word thành trình diễn tự chạy
+* Tối ưu hóa luồng công việc trình diễn giáo dục hoặc tiếp thị
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Tạo trình diễn tự động từ ODT sang PPS
+* Tích hợp với hệ thống xuất bản tài liệu
+* Xử lý hàng loạt các trình diễn dựa trên văn bản
+* Tạo các slide sẵn sàng trình diễn từ nội dung có cấu trúc
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

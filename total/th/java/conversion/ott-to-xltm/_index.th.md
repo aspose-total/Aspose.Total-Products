@@ -61,7 +61,30 @@ otherformats: SXC XLS EXCEL XLSM XLT DIF XLTM XLSX ODS XLTX FODS TSV XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **OTT เป็น XLTM** จะแปลง **OpenDocument Text Templates (.OTT)** เป็น **Excel Macro-Enabled Template (.XLTM)** เพื่อสร้างสเปรดชีทที่ใช้ซ้ำพร้อมกับการอัตโนมัติ
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การออกแบบเทมเพลตสเปรดชีทที่รองรับมาโครจากไฟล์ OTT
+* การอัตโนมัติกระบวนการข้อมูลที่ซ้ำซ้อนโดยใช้งานผ่านสมุดงานที่ใช้เทมเพลต
+* การสร้างเทมเพลต Excel ที่ใช้ซ้ำสำหรับการรายงานและการวิเคราะห์
+* มาตรฐานการทำงานด้วยรากฐานสเปรดชีทที่รองรับมาโคร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การแปลง OTT เป็น XLTM ตามกำหนดเวลาสำหรับการรายงานขององค์กร
+* การผสานรวมกับการอัตโนมัติของกระบวนการทำงานและการสร้างสเปรดชีท
+* การสร้างเทมเพลต Excel ที่รองรับมาโครจากเทมเพลตเอกสารเป็นชุด
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

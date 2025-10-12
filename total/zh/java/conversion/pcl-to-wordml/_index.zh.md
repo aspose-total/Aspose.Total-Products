@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转WORDML**转换将**打印命令语言**文档转换为**WordProcessingML（WordML）**格式，为高级数据操作和文档自动化提供基于XML的结构。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将打印布局转换为基于XML的Word格式
+* 通过WordML实现结构化文档操作
+* 将Word文档与基于XML的工作流集成
+* 促进基于元数据的文档自动化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从PCL打印文件自动生成WordML文档
+* 与文档管理和XML工作流集成
+* 批量转换以与Word处理API实现互操作性
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

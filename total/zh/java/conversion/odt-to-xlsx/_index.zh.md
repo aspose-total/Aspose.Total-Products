@@ -61,7 +61,27 @@ otherformats: XLS XLSB XLSM XLTM ODS XLT FODS EXCEL XLAM XLTX SXC XLSX DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 XLSX** 可以无缝地将 OpenDocument Text 内容转换为 **现代 Excel 工作簿**，确保兼容性和增强的数据处理。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将 ODT 表格和结构化数据迁移到 Excel
+* 从文档中准备可编辑的电子表格文件
+* 增强数据可视化和图表集成
+* 从基于文本的格式创建现代 Excel 文件
+* 提高在 Microsoft Office 生态系统中的可访问性
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 在报告系统中进行 ODT 到 XLSX 的自动化
+* 用于多部门工作流程的基于云的转换
+* 批量导出用于业务流程集成
+* 从内容管理系统自动生成 Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

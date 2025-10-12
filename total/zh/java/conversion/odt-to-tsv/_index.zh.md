@@ -61,7 +61,27 @@ otherformats: XLTM ODS XLSM TSV XLS XLSX EXCEL SXC XLSB XLT XLAM XLTX DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 TSV** 可将文档数据转换为 **制表符分隔值**，在处理结构化或基于文本的数据集时保持清晰和一致性。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将格式化的 ODT 表格转换为制表符分隔的数据集
+* 将文档内容导入文本处理或脚本工具
+* 在支持 TSV 的平台之间共享结构化数据
+* 为研究或分析准备一致的数据结构
+* 将基于文档的表格迁移到期望 TSV 格式的系统
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 在自动化数据提取系统中进行 ODT 到 TSV 的转换
+* 批量导出文本文档以进行后端集成
+* 将 TSV 输出整合到数据清洗管道中
+* 在企业工具之间简化文本数据集的传输
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в DOTX** преобразует файлы **языка управления принтером** в формат **Шаблона Word (.DOTX)**, идеально подходит для поддержания согласованности дизайна в многоразовых шаблонах без макросов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание стандартизированных шаблонов документов из макетов для печати
+* Оптимизация брендинга компании с помощью шаблонов Word
+* Создание редактируемых и многоразовых шаблонов для будущих отчетов
+* Преобразование статического печатного контента в гибкие дизайны документов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое преобразование шаблонов из печатных отчетов в DOTX
+* Интеграция в системы генерации документов для однородного вывода
+* Создание брендовых шаблонов отчетов на корпоративном уровне
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

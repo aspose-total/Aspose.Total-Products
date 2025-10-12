@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в PS** позволяет преобразовывать файлы **языка управления принтером** в формат **PostScript (.PS)**, сохраняя точность печати и обеспечивая совместимость с высококачественными системами публикации и печати.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование готовых к печати файлов в PostScript для профессиональной печати
+* Архивирование печатных заданий PCL в виде файлов PS для систем публикации
+* Обеспечение согласованности вывода печати между платформами
+* Подготовка рабочих процессов на основе PostScript для коммерческой печати
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование больших объемов файлов PCL в PS для использования в печати
+* Интеграция в предпечатные и публикационные автоматизированные конвейеры
+* Оптимизация вывода документов для систем производства печати
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

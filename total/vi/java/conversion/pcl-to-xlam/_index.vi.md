@@ -47,7 +47,30 @@ Trong khi chuyển đổi tệp PCL sang XLAM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành XLAM** biến đổi đầu ra **Ngôn ngữ Lệnh Máy In** thành các tệp **Excel Add-In (.XLAM)**, cho phép tự động hóa, macro, và mở rộng chức năng bảng tính.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo các tiện ích Excel từ các mẫu dữ liệu được tạo từ máy in
+* Nhúng logic tự động hóa vào quy trình làm việc của bảng tính
+* Chuyển đổi báo cáo PCL thành các công cụ tự động hóa Excel có thể tái sử dụng
+* Mở rộng chức năng của nội dung số hoặc bảng được in
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo tệp XLAM tự động từ đầu ra PCL định kỳ
+* Tích hợp với các đường ống báo cáo và phân tích doanh nghiệp
+* Tạo hàng loạt các tiện ích Excel cho các nhiệm vụ kinh doanh lặp đi lặp lại
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,33 @@ Depois de converter OTT para XLSB, o [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **OTT para XLSB** produz **arquivos de Pasta de Trabalho Binária do Excel**, permitindo um carregamento mais rápido, tamanho de arquivo reduzido e melhor desempenho para modelos de planilhas derivados de Modelos de Texto de Documento Aberto.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Otimização de planilhas grandes derivadas de modelos
+* Melhoria de desempenho para modelos complexos do Excel
+* Arquivamento de dados de modelo em formato binário
+* Distribuição eficiente de conteúdo de modelo no Excel
+* Suporte à automação de planilhas e análises
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote de OTT para XLSB para fluxos de trabalho de alto desempenho
+* Integração com pipelines de processamento automatizado do Excel
+* Arquivo binário centralizado de planilhas derivadas de modelos
+* Pré-processamento de modelos para análises em larga escala do Excel
+* Automação de planilhas baseada em modelos
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

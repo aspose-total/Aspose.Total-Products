@@ -47,7 +47,30 @@ otherformats: TSV XLSM XLSB FODS TXT ODS XLTX XLT DIF XLAM SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**การแปลง PCL เป็น FODS** ช่วยให้ข้อมูลที่สร้างจากการพิมพ์เปลี่ยนเป็นรูปแบบ **Flat OpenDocument Spreadsheet (FODS)** ที่ให้สามารถแก้ไขได้ และเป็นสเปรดชีตที่ใช้ XML ที่เข้ากันได้กับ LibreOffice และ OpenOffice
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การเปลี่ยนรายงานหรือใบแจ้งหนี้ที่พิมพ์เป็นข้อมูลสเปรดชีตที่สามารถแก้ไขได้
+* สามารถใช้งานสเปรดชีตได้บนหลายแพลตฟอร์ม
+* การรวมข้อมูลตารางที่ใช้ PCL เข้ากับเครื่องมือสำนักงานโอเพนซอร์ส
+* การเก็บข้อมูลการพิมพ์โครงสร้างเป็นสเปรดชีต XML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงรายงานการเงินหรือรายงานสินค้าคงคลังที่พิมพ์อัตโนมัติเป็น FODS
+* การรวมเข้ากับกระบวนการรายงานโอเพนซอร์ส
+* การแปลงข้อมูลการพิมพ์ในมาตรฐานใหญ่เพื่อการวิเคราะห์และบันทึก
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

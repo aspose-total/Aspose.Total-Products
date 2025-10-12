@@ -135,7 +135,30 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в XAML** преобразует файлы **Языка команд принтера** в **XAML (расширяемый язык разметки приложений)** для векторной графики и элементов пользовательского интерфейса в приложениях Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Повторное использование графики PCL в приложениях WPF или UWP
+* Преобразование макетов печати в интерактивные компоненты пользовательского интерфейса
+* Встраивание масштабируемой векторной графики в программное обеспечение Windows
+* Сохранение дизайна печати для интеграции в цифровые приложения
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PCL в XAML для разработки приложений
+* Интеграция в дизайн пользовательского интерфейса и автоматизацию рабочих процессов
+* Пакетное преобразование архивов PCL в векторные ресурсы XAML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

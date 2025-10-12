@@ -54,7 +54,33 @@ otherformats: POT PPTM PPTX PPSM PPS POTX PPSX POTM POWERPOINT PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为PPS**会生成**PowerPoint Show文件**，从而可以直接以幻灯片放映的方式展示从模板中衍生的内容，而无需在编辑模式下打开。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 从模板创建即时展示幻灯片
+* 将模板存档为仅展示的演示文稿
+* 共享演示文稿供外部查看
+* 以展示格式准备营销或培训材料
+* 确保演示期间幻灯片布局的一致性
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将OTT转换为PPS以用于演示库
+* 与演示文稿分发系统集成
+* 从模板自动创建仅展示幻灯片
+* 用于培训和营销内容准备的流程
+* 企业范围内的幻灯片放映标准化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

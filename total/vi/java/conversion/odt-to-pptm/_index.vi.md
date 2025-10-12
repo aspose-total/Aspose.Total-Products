@@ -54,7 +54,27 @@ API cũng cho phép bạn chuyển đổi các tài liệu ODT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT sang PPTM** cho phép tạo ra **bài thuyết trình PowerPoint hỗ trợ macro** từ tài liệu văn bản, kết hợp nội dung tĩnh với hành vi trượt tương tác hoặc tự động.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Thiết kế bài thuyết trình tương tác từ tài liệu văn bản có cấu trúc
+* Tạo báo cáo tự động với macro nhúng
+* Tạo ra bài thuyết trình kích hoạt chuyển đổi trang động
+* Chuẩn bị bộ bài thuyết trình thông minh cho doanh nghiệp hoặc đào tạo với chức năng VBA
+* Tối ưu hóa việc giao báo cáo bằng cách sử dụng bài thuyết trình hỗ trợ macro
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Quy trình tạo bài thuyết trình ODT-sang-PPTM tự động
+* Tích hợp với hệ thống báo cáo và tự động hóa doanh nghiệp
+* Tạo ra các trang trình bày hỗ trợ macro hàng loạt từ các tệp ODT
+* Tạo ra bài thuyết trình dữ liệu động cho báo cáo nội bộ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

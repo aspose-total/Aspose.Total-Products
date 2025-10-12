@@ -54,7 +54,30 @@ API также позволяет преобразовывать защищен�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **OTT в PPTX** преобразует **шаблоны текста OpenDocument (.OTT)** в **презентации PowerPoint Open XML (.PPTX)**, создавая современные, редактируемые слайды.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование текстовых шаблонов в слайды PPTX
+* Сохранение форматирования и макета из шаблонов OTT
+* Настройка презентаций для бизнеса, образования или обучения
+* Обмен редактируемыми, современными презентациями PowerPoint с командами
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование OTT в PPTX для корпоративного или образовательного использования
+* Интеграция с системами автоматизации контента
+* Запланированное создание современных слайдов из повторно используемых шаблонов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

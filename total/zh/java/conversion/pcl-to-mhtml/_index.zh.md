@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为MHTML**将**打印命令语言**内容封装到**Web存档格式（.MHTML）**中，保留布局、图像和文本，以便进行单个文件的Web分发。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PCL报告打包以供基于浏览器的查看
+* 保留打印布局作为独立的网页
+* 通过内部网络或电子邮件共享格式化的打印内容
+* 将传统的PCL打印作业存储为可访问的MHTML存档
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从PCL打印流自动生成MHTML
+* 与文档存档或基于Web的交付系统集成
+* 批量转换用于内部报告或在线文档
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

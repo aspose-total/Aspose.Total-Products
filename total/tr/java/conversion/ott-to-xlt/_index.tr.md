@@ -61,7 +61,30 @@ OTT'yi XLT'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi XLT'ye Dönüştürme**, **OpenDocument Metin Şablonlarını (.OTT)** **Excel Şablonu (.XLT)** haline getirerek elektronik tablo oluşturmanın yeniden kullanılabilir temelini sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* OTT belgelerinden standartlaştırılmış elektronik tablo şablonları oluşturma
+* Raporlama veya analiz için tutarlı biçimlendirme koruma
+* Tekrarlayan veri girişi görevleri için yeniden kullanılabilir şablonlar hazırlama
+* Metin şablonlarını Excel'e hazır yapılar haline getirme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Kurumsal kullanım için OTT şablonlarının XLT'ye toplu dönüşümü
+* Otomatik elektronik tablo oluşturma borularına entegrasyon
+* Belge şablonlarından Excel şablonlarının zamanlanmış oluşturulması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

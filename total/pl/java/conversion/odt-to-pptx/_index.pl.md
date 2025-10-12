@@ -54,7 +54,27 @@ Interfejs API umożliwia również konwersję dokumentów ODT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na PPTX** przekształca zawartość pisemną w **nowoczesne prezentacje PowerPoint**, idealne dla profesjonalistów potrzebujących edytowalnych, gotowych do projektowania slajdów pochodzących z ustrukturyzowanych dokumentów.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Przekształcanie raportów i podsumowań projektów w prezentacje
+* Konwertowanie treści biznesowych lub badawczych na wizualne slajdy
+* Dzielenie się pomysłami i dokumentacją jako edytowalne prezentacje PPTX
+* Tworzenie wizualnie spójnych slajdów z sformatowanej treści tekstowej
+* Przygotowywanie dynamicznych i współpracujących prezentacji z plików ODT
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+* Automatyczna konwersja ODT na PPTX dla komunikacji biznesowej
+* Integracja w potoki generowania treści do prezentacji
+* Partiowa konwersja plików ODT na nowoczesny format PowerPoint
+* Tworzenie dynamicznych slajdów do raportowania i spotkań przedsiębiorstwa
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

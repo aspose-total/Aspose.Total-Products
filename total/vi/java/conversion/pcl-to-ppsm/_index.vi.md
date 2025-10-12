@@ -121,7 +121,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL sang PPSM** thay đổi các tệp **Ngôn ngữ Lệnh Máy In** thành định dạng **PowerPoint Macro-Enabled Show (.PPSM)** để tạo ra bản trình diễn trình chiếu tương tác và tự động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi tệp PCL thành bản trình diễn trình chiếu được điều khiển bằng macro
+* Thêm tính tự động hóa và tương tác vào hình ảnh báo cáo in ấn
+* Tạo ra các slide phát lại tự động từ đầu ra in ấn tĩnh
+* Cung cấp các chương trình trình diễn động cho các bản trình bày doanh nghiệp
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo ra hàng loạt PPSM cho các bản trình bày dữ liệu
+* Kết hợp các slide được kích hoạt bằng macro vào quy trình làm việc báo cáo kinh doanh
+* Tự động hóa việc cung cấp nội dung trình diễn tương tác
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

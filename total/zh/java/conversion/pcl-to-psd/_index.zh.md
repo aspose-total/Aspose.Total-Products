@@ -57,7 +57,30 @@ otherformats: SVGZ WMF PSD WMZ EMZ TGA JPEG2000 DXF  IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为PSD**将**打印机命令语言**文件转换为**Adobe Photoshop文档（.PSD）**格式，使印刷材料以分层图像形式可编辑，用于图形设计和增强。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 在Adobe Photoshop中编辑PCL打印设计
+* 从PCL布局中提取视觉元素供图形设计使用
+* 在分层格式中修饰和定制印刷艺术品
+* 从打印文档创建营销视觉或创意资产
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将PCL文件转换为PSD以用于设计工作流程
+* 与创意自动化工具集成，实现从打印到数字的过渡
+* 用于品牌或广告内容创建的自动转换流水线
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,33 @@ otherformats: SXC TSV XLSM XLTX DIF EXCEL XLTM XLAM XLSX XLSB XLT ODS FODS XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为CSV**将**OpenDocument Text Template文件**转换为**逗号分隔值**，使模板数据可用于电子表格、分析和数据库导入。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 提取结构化模板数据以进行报告
+* 将模板内容导入电子表格或数据库
+* 准备基于数据的通信或邮件合并
+* 以通用可读格式共享文本数据
+* 存档模板内容以供分析目的
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将OTT文件转换为CSV以用于大型模板库
+* 与ERP或CRM系统集成，实现自动化数据使用
+* 从基于模板的数据集自动生成报告
+* 用于分析和数据处理的工作流程管道
+* 从多个模板中集中提取文本内容
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

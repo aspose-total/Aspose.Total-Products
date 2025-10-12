@@ -61,7 +61,33 @@ otherformats: FODS EXCEL XLS SXC XLTX XLSM ODS XLAM XLT XLTM XLSX TSV DIF XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为SXC**将OpenDocument文本模板转换为**StarOffice Calc电子表格文件**，使模板内容可以在诸如OpenOffice Calc或LibreOffice Calc之类的电子表格应用程序中使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将文本模板转换为电子表格
+* 在电子表格格式中存档模板数据
+* 准备从模板内容派生的报告或计算
+* 协作编辑基于模板的电子表格
+* 在各平台间共享结构化模板信息
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批处理的自动化OTT到SXC转换
+* 与电子表格工作流程和报告系统集成
+* 从多个模板生成可编辑的电子表格
+* 模板衍生的电子表格数据的集中存储库
+* 动态提取表格内容进行分析和计算
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

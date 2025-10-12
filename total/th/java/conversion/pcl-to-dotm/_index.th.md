@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **PCL เป็น DOTM** จะเปลี่ยนเลย์เอาต์ที่พิมพ์ไปเป็น **เทมเพลต Word ที่เปิดใช้งานแมโคร**, รวมการรักษาการจัดรูปแบบพร้อมกับความสามารถในการอัตโนมัติที่ฝังอยู่สำหรับการสร้างเอกสารขั้นสูง
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลตอัจฉริยะพร้อมแมโครจากเอกสาร PCL
+* อัตโนมัติการสร้างรายงานและงานที่ซ้ำซ้อน
+* รักษาความสม่ำเสมอของเลย์เอาต์พร้อมกับฟังก์ชันที่เปลี่ยนไป
+* ฝังสคริปต์สำหรับงานกรอกและงานตรวจสอบ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การสร้างเทมเพลตอัตโนมัติในทั่วบริษัทจากแหล่งพิมพ์
+* ประมวลผลเป็นชุดของไฟล์ PCL เป็นเทมเพลตที่เปิดใช้งานแมโคร
+* การผสานเข้ากับระบบอัตโนมัติ Word หรือระบบรายงาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,33 @@ otherformats: FODS EXCEL XLSM XLSX TSV DIF XLT XLAM XLTM SXC ODS XLS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为XLSB**会生成**Excel二进制工作簿文件**，从而加快加载速度，减小文件大小，并提高基于OpenDocument文本模板的电子表格模板的性能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 优化大型模板衍生的电子表格
+* 提升复杂Excel模型的性能
+* 存档二进制格式的模板数据
+* 在Excel中高效分发模板内容
+* 支持电子表格自动化和分析
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将OTT转换为XLSB，用于高性能工作流程
+* 与自动化Excel处理流程集成
+* 中央化的模板衍生电子表格二进制存档
+* 为大规模Excel分析预处理模板
+* 基于模板的电子表格自动化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

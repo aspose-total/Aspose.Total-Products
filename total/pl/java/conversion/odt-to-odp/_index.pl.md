@@ -54,7 +54,27 @@ Interfejs API umożliwia również konwersję dokumentów ODT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na ODP** pozwala na płynną transformację **dokumentów tekstowych w slajdy prezentacji**, idealne do wizualizacji raportów pisemnych, podsumowań lub materiałów edukacyjnych.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Zamiana strukturalnych dokumentów na prezentacje slajdów
+* Konwersja notatek z wykładów lub raportów w wizualne podsumowania
+* Przygotowywanie slajdów do prezentacji w sali lekcyjnej lub firmowej
+* Tworzenie atrakcyjnych formatów wizualnych z plików ODT
+* Ułatwienie konwersji tekstu na prezentację dla trenerów lub prelegentów
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+* Automatyczne tworzenie prezentacji ODT-to-ODP
+* Integracja z przepływami pracy w biurze
+* Partiowa transformacja dokumentów na prezentacje
+* Dynamiczne generowanie slajdów z zawartości strukturalnego dokumentu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

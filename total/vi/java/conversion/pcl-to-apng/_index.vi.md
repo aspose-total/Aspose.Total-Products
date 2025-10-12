@@ -57,7 +57,33 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh APNG đầu ra theo nhu 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành APNG** biến đổi tài liệu **Ngôn ngữ Lệnh Máy In (PCL)** thành **hình ảnh Animated PNG**, cho phép biểu diễn các tệp in nhiều trang dưới dạng hoạt hình dựa trên khung cho việc sử dụng trên web hoặc kỹ thuật số.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo xem trước hoạt hình của các tệp in nhiều trang
+* Chia sẻ đầu ra in hình ảnh theo định dạng thân thiện với web
+* Tạo tài liệu với hình ảnh hoạt hình
+* Lưu trữ các phiên bản động của dữ liệu in PCL
+* Hiển thị báo cáo dựa trên PCL dưới dạng hoạt hình APNG
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt tự động các tệp PCL thành chuỗi APNG
+* Tích hợp với hệ thống xem trước in và hình ảnh
+* Chuyển đổi thời gian thực từ PCL sang APNG cho bảng điều khiển in ấn kỹ thuật số
+* Chuyển đổi quy trình in thành định dạng hoạt hình web
+* Lưu trữ tự động các tài liệu PCL dưới dạng hình ảnh hoạt hình
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

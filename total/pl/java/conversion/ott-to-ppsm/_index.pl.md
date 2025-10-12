@@ -54,7 +54,30 @@ Interfejs API umożliwia również konwersję dokumentów OTT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na PPSM** przekształca **Szablony Tekstu OpenDocument (.OTT)** w **Pokazy PowerPoint z Makrami (.PPSM)**, umożliwiając automatyczne i interaktywne prezentacje na podstawie szablonów tekstowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+* Tworzenie prezentacji z makrami na podstawie szablonów tekstowych OTT
+* Automatyzacja treści prezentacji pochodzących z szablonów dokumentów
+* Ponowne wykorzystanie firmowych szablonów do dynamicznych prezentacji slajdów
+* Osadzanie interaktywności i makr do automatyzacji procesów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+* Zaplanowana konwersja szablonów dokumentów na slajdy PPSM
+* Integracja z potokami automatyzacji treści przedsiębiorstwa
+* Przetwarzanie zbiorcze plików OTT na interaktywne pokazy prezentacji
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

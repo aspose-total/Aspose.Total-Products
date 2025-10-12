@@ -54,7 +54,30 @@ API cũng cho phép bạn chuyển đổi các tài liệu OTT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **OTT thành PPT** biến đổi **Mẫu Văn bản OpenDocument (.OTT)** thành các tệp **Trình diễn PowerPoint (.PPT)** có thể chỉnh sửa, sẵn sàng để tạo và sửa slide.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tái sử dụng các mẫu văn bản thành các bộ slide có thể chỉnh sửa
+* Tạo ra các bài thuyết trình chuyên nghiệp từ cấu trúc dựa trên OTT
+* Tùy chỉnh nội dung tài liệu thành các slide sẵn sàng cho bài thuyết trình
+* Chuẩn bị các tệp PPT cho các cuộc họp nội bộ hoặc bài thuyết trình cho khách hàng
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt các mẫu OTT thành các bài thuyết trình PPT
+* Tích hợp với đường ống nội dung để tạo ra bài thuyết trình tự động
+* Lập lịch tạo ra các bộ slide có thể chỉnh sửa từ các mẫu tài liệu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

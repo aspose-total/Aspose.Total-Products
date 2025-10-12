@@ -102,7 +102,27 @@ otherformats: XLTM ODS XLSM CSV XLS XLSX EXCEL SXC XLSB XLT XLAM XLTX DIF FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **ODT в TSV** виводить дані документа у **значення, розділені табуляцією**, зберігаючи ясність та послідовність при роботі зі структурованими або текстовими наборами даних.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Перетворення форматованих таблиць ODT у набори даних, розділені табуляцією
+* Імпорт вмісту документа до інструментів обробки тексту або сценаріїв
+* Обмін структурованими даними між платформами, що підтримують TSV
+* Підготовка послідовних структур даних для досліджень або аналітики
+* Міграція таблиць на основі документів до систем, що очікують формат TSV
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+* Конвертація ODT в TSV у системах автоматизованого видобутку даних
+* Пакетна експорт текстових документів для інтеграцій на бекенді
+* Включення виводу TSV до конвеєрів очищення даних
+* Спрощений перенос текстових наборів даних між корпоративними інструментами
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

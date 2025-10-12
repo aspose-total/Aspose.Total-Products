@@ -61,7 +61,30 @@ otherformats: EXCEL XLT DIF XLSM XLTM FODS ODS XLSB XLTX XLSX XLAM SXC XLS TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为XLSX**可将**OpenDocument Text Templates (.OTT)**转换为**Excel Open XML Workbook (.XLSX)**，实现可编辑、现代化的电子表格功能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将文档模板转换为结构化电子表格
+* 分析和操作从OTT模板中提取的数据
+* 为商业或教育目的准备报告和表格
+* 在团队间共享可编辑的电子表格
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 自动批量将OTT模板转换为XLSX文件
+* 与报告和数据分析工作流程集成
+* 从文档模板中生成计划的电子表格
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

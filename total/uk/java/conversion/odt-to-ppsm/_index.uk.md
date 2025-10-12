@@ -100,7 +100,27 @@ otherformats: PPSX ODP PPTX PPS POTM POTX PPT POWERPOINT PPTM POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **ODT в PPSM** дозволяє створювати **слайдшоу з макросами** з текстових документів, ідеально підходить для створення інтерактивних та автоматизованих презентаційних вражень.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Створення автоматизованих презентацій з макрологікою
+* Конвертація структурованих даних Word у інтерактивні слайдшоу
+* Оптимізація автоматизації звітів у слайдшоу
+* Вбудовування динамічної поведінки презентацій у слайди
+* Підготовка бізнес-процесів, що виводять макро-активовані презентації
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+* Автоматизовані робочі процеси презентацій ODT-на-PPSM
+* Пакетне створення макро-активованих слайдшоу з файлів ODT
+* Інтеграція в корпоративні системи автоматизації та звітності
+* Генерація презентацій на основі динамічного контенту
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,30 @@ Trong khi chuyển đổi tệp PCL sang XLSB, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Chuyển đổi PCL sang XLSB** tạo ra **bảng tính Excel nhị phân** từ các tệp **PCL**, cung cấp hiệu suất nhanh hơn, kích thước tệp giảm, và khả năng tương thích cho các bộ dữ liệu lớn được tạo ra từ tài liệu in.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi hiệu suất cao của các báo cáo PCL lớn sang XLSB
+* Lưu trữ dữ liệu bảng tính nhị phân nén từ các tệp in
+* Giảm kích thước của các bộ lưu trữ Excel tải dữ liệu
+* Tự động hóa việc trích xuất cấu trúc từ định dạng PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi định kỳ của các tệp PCL hàng loạt sang định dạng XLSB
+* Tích hợp với hệ thống lưu trữ dữ liệu và phân tích
+* Chuyển đổi lưu trữ để duy trì dấu chân lưu trữ nhỏ hơn
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

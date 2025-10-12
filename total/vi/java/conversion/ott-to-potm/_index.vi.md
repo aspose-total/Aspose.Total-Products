@@ -54,7 +54,33 @@ API cũng cho phép bạn chuyển đổi các tài liệu OTT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **OTT thành POTM** tạo ra **tệp Mẫu PowerPoint có Macro-Enabled**, cho phép tự động hóa dựa trên mẫu trong các slide sử dụng các macro được tạo ra từ nội dung mẫu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo các mẫu trình bày có macro
+* Tự động hóa các nhiệm vụ tạo slide lặp đi lặp lại
+* Chuẩn hóa quy trình làm việc với các macro mẫu
+* Kết hợp logic dựa trên mẫu vào các bài thuyết trình
+* Tự động hóa slide deck cộng tác
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi Batch OTT thành POTM cho thư viện mẫu có macro
+* Tự động hóa doanh nghiệp tạo slide deck
+* Tích hợp với các công cụ quy trình làm việc trình bày
+* Tạo ra macro động từ nội dung mẫu
+* Các đường ống tự động hóa PowerPoint dựa trên mẫu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

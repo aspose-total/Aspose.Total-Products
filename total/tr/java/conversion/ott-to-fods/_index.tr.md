@@ -61,7 +61,33 @@ OTT'yi FODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi FODS'a Dönüştürme**, düzenlenebilir elektronik tablo içeriğini basit, taşınabilir bir XML yapısına dönüştürerek OpenDocument Metin Şablonlarını **Düz XML Elektronik Tablo formatına** dönüştürür.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Şablonlardan düzenlenebilir elektronik tablo içeriğini paylaşma
+* Taşınabilir XML tabanlı formatta verileri arşivleme
+* Açık kaynaklı elektronik tablo uygulamalarıyla şablon verilerini entegre etme
+* Mülkiyeti olan yazılım olmadan tablo içeriğini analiz etme
+* Yapılandırılmış şablon bilgilerinin hafifçe değiş tokuşu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Elektronik tablo boru hatları için Otomatik OTT'den FODS'a dönüşüm
+* Şablonların taşınabilir XML elektronik tablolara toplu işlem yapılması
+* Açık kaynaklı analiz ve raporlama araçlarıyla entegrasyon
+* Şablon-ile-elektronik tablo iş akışlarını optimize etme
+* Tekrar kullanılabilir şablon verileri için merkezi XML tabanlı arşiv
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

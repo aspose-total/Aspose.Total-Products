@@ -57,7 +57,30 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น PSD** จะเปลี่ยน **ไฟล์ Printer Command Language** เป็นรูปแบบ **Adobe Photoshop Document (.PSD)** ทำให้สามารถแก้ไขวัสดุพิมพ์ในรูปแบบภาพชั้นสำหรับการออกแบบและปรับปรุง
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแก้ไขการออกแบบพิมพ์ PCL ใน Adobe Photoshop
+* การสกัดองค์ประกอบทางสายตาจากเลย์เอาท์ PCL สำหรับการใช้ในการออกแบบ
+* การปรับแต่งและปรับแต่งงานศิลปะพิมพ์ในรูปแบบชั้น
+* การสร้างภาพลักษณ์ทางการตลาดหรือสินทรัพย์สร้างสรรค์จากเอกสารพิมพ์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงไฟล์ PCL เป็น PSD จำนวนมากสำหรับขั้นตอนการออกแบบ
+* การผสานกับเครื่องมืออัตโนมัติสร้างสรรค์สำหรับการเปลี่ยนจากพิมพ์เป็นดิจิทัล
+* ท่อการแปลงอัตโนมัติสำหรับการสร้างเนื้อหาแบรนด์หรือโฆษณา
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

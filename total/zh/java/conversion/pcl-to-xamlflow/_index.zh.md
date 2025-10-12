@@ -143,7 +143,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 XAMLFLOW** 可以将 **打印命令语言** 输出转换为 **XAMLFlow** 格式，用于面向工作流的 UI 应用程序和设计自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将 PCL 打印布局集成到基于工作流的应用程序中
+* 将静态打印视觉转换为交互式 XAMLFlow 元素
+* 在软件工作流程中重用打印生成的表单和图表
+* 为 UI 自动化标准化打印资产
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将 PCL 文件批量转换为 XAMLFlow 以用于应用程序流水线
+* 与工作流自动化和 UI 生成工具集成
+* 用于企业软件设计工作流的自动化转换
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

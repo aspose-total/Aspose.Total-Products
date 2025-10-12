@@ -57,7 +57,30 @@ API также позволяет экспортировать файл PCL в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в DXF** преобразует графику или макеты **языка управления принтером (PCL)** в файлы **Drawing Exchange Format (DXF)**, широко используемые в приложениях САПР и инженерном проектировании.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение векторной графики из напечатанных инженерных отчетов
+* Преобразование схематических диаграмм из печатного вывода в файлы, читаемые в САПР
+* Цифровизация макетов, созданных при печати, для последующих модификаций дизайна
+* Обеспечение взаимодействия между системами печати и инструментами САПР
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание файлов DXF из технических чертежей на основе печати
+* Интеграция преобразования PCL в DXF в рабочие процессы инженерии
+* Пакетное преобразование архивированных печатных выводов в форматы, совместимые с САПР
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

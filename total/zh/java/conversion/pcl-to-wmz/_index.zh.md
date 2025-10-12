@@ -57,7 +57,30 @@ otherformats: WMZ IMAGE PSD TGA WMF SVGZ  DXF JPEG2000 EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为WMZ**将**打印机命令语言**图形压缩为**压缩的Windows图元文件（.WMZ）**，以实现高效存储和更快分发。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PCL矢量图形压缩用于电子邮件或云存储
+* 在减小文件大小的同时保留图像质量
+* 在Windows Office文档中共享PCL视觉
+* 以紧凑格式存档生成的打印图形
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从PCL自动批量转换为WMZ
+* 与内容管理和分发系统集成
+* 为报告和演示文稿生成压缩图形
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

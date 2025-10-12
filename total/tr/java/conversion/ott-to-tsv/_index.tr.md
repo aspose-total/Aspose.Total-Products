@@ -61,7 +61,33 @@ OTT'yi TSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi TSV'ye Dönüştürme**, Yapılandırılmış veri içe aktarma, analiz ve elektronik tablo işleme için **Açık Belge Metin Şablonlarını Tablo Ayırıcılı Değerlere** dönüştürür.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Tablo raporlama için veri çıkarma
+* Elektronik tablo içe aktarma veya otomasyon için şablon hazırlama
+* Hafif tablo formatında şablon içeriğini paylaşma
+* Analiz veya günlükleme için yapılandırılmış metni arşivleme
+* Çapraz platform veri alışverişini destekleme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Kurumsal raporlama için Otomatik OTT'den TSV'ye boru hatları
+* Analiz ve belge iş akışları için toplu dışa aktarma
+* Şablon işleme için veri odaklı sistemlerle entegrasyon
+* Merkezi içerik depoları için TSV arşivleri oluşturma
+* Tablo içerik çıkarma için iş akışı otomasyonu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

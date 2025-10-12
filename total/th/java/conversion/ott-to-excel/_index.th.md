@@ -61,7 +61,33 @@ otherformats: EXCEL XLAM SXC DIF XLSB TSV XLTX XLTM FODS XLT XLSX ODS XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **OTT เป็น EXCEL** ช่วยให้เทมเพลตข้อความ OpenDocument Text สามารถแสดงในรูปแบบ **สมุดงาน Microsoft Excel** ซึ่งช่วยในการวิเคราะห์ข้อมูลที่ใช้สำหรับสร้างรายงานและจัดการข้อมูล
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases หลัก" %}}
+
+* สร้างรายงาน Excel จากเทมเพลตข้อความ
+* เตรียมการผสมจดหมายหรือการสื่อสารที่ขับเคลื่อนด้วยข้อมูล
+* วิเคราะห์สเปรดชีตของเนื้อหาเทมเพลต
+* แปลงข้อความและตารางเทมเพลตเป็นชีทที่มีโครงสร้าง
+* เก็บถาวรและจัดการเทมเพลตในรูปแบบ Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การแปลง OTT เป็น EXCEL โดยอัตโนมัติสำหรับการประมวลผลเป็นชุด
+* การผสมรวมกับระบบการเงิน ระบบ CRM หรือระบบ ERP
+* สร้างสเปรดชีตแบบไดนามิกจากเทมเพลตหลายรูปแบบ
+* การประมวลผลข้อมูลเบื้องต้นสำหรับรายงานหรือวางท่อนัยสำหรับการวิเคราะห์
+* คลังข้อมูล Excel ที่ใช้เป็นศูนย์กลางจากไลบรารีเทมเพลต
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

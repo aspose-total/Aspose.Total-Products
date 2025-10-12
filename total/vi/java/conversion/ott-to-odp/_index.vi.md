@@ -54,7 +54,33 @@ API cũng cho phép bạn chuyển đổi các tài liệu OTT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **OTT thành ODP** biến các Mẫu Văn bản OpenDocument thành các tệp **Trình bày OpenDocument**, cho phép tái sử dụng nội dung mẫu email cho slide và bài thuyết trình.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi mẫu văn bản thành slide trình bày
+* Lưu trữ mẫu như nội dung trình bày có thể chỉnh sửa
+* Tái sử dụng nội dung cho bộ slide đào tạo hoặc tiếp thị
+* Tạo bài thuyết trình từ dữ liệu mẫu một cách cộng tác
+* Duy trì nhãn hiệu nhất quán trong các bài thuyết trình
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi OTT thành ODP tự động cho xử lý hàng loạt
+* Tích hợp với quy trình quản lý bài thuyết trình
+* Tạo slide từ thư viện mẫu cho đào tạo
+* Chèn nội dung mẫu động vào bài thuyết trình
+* Tự động hóa từ mẫu đến bài thuyết trình trên toàn doanh nghiệp
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

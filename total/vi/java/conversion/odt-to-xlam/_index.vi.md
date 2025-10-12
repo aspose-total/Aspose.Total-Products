@@ -61,7 +61,27 @@ Sau khi chuyển đổi ODT sang XLAM, [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT sang XLAM** cho phép biến đổi nội dung tài liệu thành **tiện ích thêm Excel hỗ trợ macro**, lý tưởng cho việc tự động hóa các nhiệm vụ bảng tính dựa trên dữ liệu văn bản có cấu trúc.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo tiện ích thêm Excel từ các mẫu có cấu trúc kiểu Word
+* Tự động hóa luồng công việc Excel dựa trên logic tài liệu
+* Nhúng công thức hoặc macro dựa trên định nghĩa văn bản
+* Tạo công cụ macro có thể tái sử dụng từ các tệp ODT
+* Nâng cao năng suất bằng cách liên kết dữ liệu Word với tự động hóa Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Tự động hóa việc tạo tiện ích thêm macro ODT-sang-XLAM
+* Tích hợp với các hệ thống tự động hóa Excel doanh nghiệp
+* Tạo hàng loạt công cụ hỗ trợ macro từ nội dung ODT có cấu trúc
+* Tối ưu hóa luồng phát triển macro từ tài liệu đến Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

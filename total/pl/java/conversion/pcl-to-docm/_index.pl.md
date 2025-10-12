@@ -129,7 +129,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na DOCM** umożliwia transformację wyników **Printer Command Language** na **makroaktywowane dokumenty programu Word**, umożliwiając automatyzację, dynamiczne aktualizacje i zaawansowane możliwości formatowania bezpośrednio z plików opartych na druku.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Osadzanie makr w przekonwertowanych dokumentach Word w celu automatyzacji
+* Ponowne wykorzystywanie danych wydrukowanych w edytowalnych i programowalnych raportach
+* Tworzenie interaktywnych szablonów biznesowych na podstawie wydruków PCL
+* Zwiększanie wydajności procesów roboczych za pomocą dokumentów z makrami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Partiowa konwersja archiwów PCL na DOCM dla dynamicznego raportowania
+* Integracja wyników druku w zautomatyzowane przepływy pracy oparte na Wordzie
+* Generowanie dokumentów z makrami z przepływów drukarki w czasie rzeczywistym
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

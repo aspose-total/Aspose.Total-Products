@@ -54,7 +54,27 @@ otherformats: PPTX POTM POWERPOINT PPT PPTM POTX PPS PPSX POT PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 POTM** 可以将基于文本的文档转换为 **宏启用的 PowerPoint 模板**，有助于自动化幻灯片创建和嵌入演示逻辑。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从详细报告生成宏启用的模板
+* 根据文本结构自动填充幻灯片
+* 创建带有嵌入式 VBA 逻辑的智能演示模板
+* 为定期演示准备动态模板
+* 简化业务报告演示
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 自动化 ODT 到 POTM 模板创建工作流程
+* 集成到企业演示自动化系统中
+* 批量创建基于宏的 PowerPoint 模板
+* 动态生成交互式幻灯片模板
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

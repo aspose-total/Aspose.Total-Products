@@ -129,7 +129,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành OTT** chuyển đổi đầu ra **Ngôn ngữ Lệnh Máy In** thành định dạng **Mẫu Văn bản OpenDocument (.OTT)** cho các mẫu văn bản chuẩn trong **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Xây dựng các mẫu văn bản có thể tái sử dụng từ các biểu mẫu PCL
+* Tạo bố cục kinh doanh chuẩn cho thư từ
+* Chuyển đổi các bức thư hoặc báo cáo PCL thành các mẫu có thể chỉnh sửa
+* Hỗ trợ quy trình làm việc với văn bản mở có định dạng nhất quán
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo ra OTT từ các hệ thống thiết kế in ấn
+* Tích hợp với quy trình tạo nội dung doanh nghiệp
+* Chuyển đổi hàng loạt các mẫu in thành OTT để tái sử dụng văn bản
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

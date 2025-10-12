@@ -102,7 +102,33 @@ otherformats: CSV XLAM SXC DIF XLSB TSV XLTX XLTM FODS XLT XLSX ODS XLS XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT у EXCEL** дозволяє представляти шаблони тексту OpenDocument у вигляді **робочих зошитів Microsoft Excel**, що дозволяє аналізувати дані, складати звіти та маніпулювати даними на основі електронних таблиць.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+* Генерація звітів Excel з текстових шаблонів
+* Підготовка розсилки пошти або кореспонденції на основі даних
+* Аналіз вмісту шаблону у вигляді електронних таблиць
+* Перетворення тексту та таблиць шаблону у структуровані аркуші
+* Архівування та управління шаблонами у форматі Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизоване перетворення OTT у EXCEL для пакетної обробки
+* Інтеграція з фінансовими, CRM або ERP системами
+* Динамічне створення електронних таблиць з кількох шаблонів
+* Попередня обробка даних для звітів або аналітичних потоків
+* Централізоване сховище Excel з бібліотеками шаблонів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

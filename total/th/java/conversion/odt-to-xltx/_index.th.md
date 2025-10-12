@@ -61,7 +61,27 @@ otherformats: XLTX TSV XLT XLS EXCEL XLSB FODS SXC XLSM DIF XLSX ODS XLAM XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น XLTX** ช่วยให้เกิดการเปลี่ยนแปลงของเอกสารข้อความเป็น **ไฟล์เทมเพลต Excel**, เพื่อสนับสนุนความสม่ำเสมอและมาตรฐานในการทำงานที่ใช้สเปรดชีต
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลต Excel โครงสร้างจากเนื้อหา ODT
+* รักษาการจัดรูปแบบอย่างสม่ำเสมอในรายงานและไฟล์ข้อมูล
+* อัตโนมัติสร้างเทมเพลตสำหรับการป้อนข้อมูลหรือการวิเคราะห์
+* เตรียมโครงสร้าง Excel ที่ใช้ซ้ำได้สำหรับแผนกต่าง ๆ
+* สนับสนุนการสร้างไฟล์รายงานที่ใช้ข้อมูลอย่างมีเหตุผล
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+* การแปลง ODT เป็น XLTX ในระบบรายงานอัตโนมัติ
+* กระแสการแปลงเอกสารตามเทมเพลต
+* การสร้างเทมเพลต Excel สำหรับแผนกหลาย ๆ แผนก
+* การสร้างโครงสร้าง Excel อย่างเรียบง่ายสำหรับการใช้ซ้ำ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

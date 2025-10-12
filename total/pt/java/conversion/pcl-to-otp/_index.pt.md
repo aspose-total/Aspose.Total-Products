@@ -121,7 +121,28 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para OTP** transforma arquivos de **Linguagem de Comando de Impressora** em formato de **Modelo de Apresentação OpenDocument (.OTP)** para criar modelos de slides reutilizáveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Design de modelos de apresentação a partir de layouts PCL
+* Criação de modelos de slides personalizados para uso empresarial
+* Conversão de visuais corporativos impressos em modelos OTP editáveis
+* Simplificação da reutilização de design entre departamentos
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Criação automatizada de modelos a partir de materiais de impressão padrão
+* Integração com fluxos de trabalho de construção de apresentações
+* Geração de mestres de slides reutilizáveis a partir de documentos corporativos impressos
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

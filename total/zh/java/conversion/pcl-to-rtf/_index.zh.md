@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转RTF**转换使将**打印机命令语言**输出转换为**富文本格式（RTF）**文档成为可能，以实现广泛兼容性、易编辑性和跨平台使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将打印文档转换为可编辑的富文本文件
+* 保留基本格式同时确保可移植性
+* 在多个文字处理软件之间共享打印生成的报告
+* 为归档使用准备轻量级文档版本
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将PCL打印文件转换为RTF以进行分发
+* 在企业系统中集成PCL到RTF的流水线
+* 从打印数据自动生成格式化文本报告
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

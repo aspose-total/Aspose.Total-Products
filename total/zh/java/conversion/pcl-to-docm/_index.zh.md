@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 DOCM** 可以将 **打印机命令语言** 输出转换为 **支持宏的 Word 文档**，从而实现自动化、动态更新和直接从基于打印的文件进行高级格式设置。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将宏嵌入转换后的 Word 文档以实现自动化
+* 在可编辑和可编程报告中重复使用打印数据
+* 从 PCL 打印输出中创建交互式业务模板
+* 利用支持宏的文档增强生产工作流程
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将 PCL 存档转换为 DOCM 以进行动态报告
+* 将打印输出集成到自动化的基于 Word 的工作流程中
+* 实时从打印流生成支持宏的文档
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

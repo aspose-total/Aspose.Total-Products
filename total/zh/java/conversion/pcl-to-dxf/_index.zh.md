@@ -57,7 +57,30 @@ otherformats: DXF JPEG2000 WMF PSD WMZ IMAGE EMZ  SVGZ TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 DXF** 可将 **打印命令语言** 图形或布局转换为广泛用于 CAD 和工程设计应用的 **绘图交换格式 (DXF)** 文件。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从打印的工程报告中提取矢量图形
+* 将打印输出的原理图转换为 CAD 可读文件
+* 将打印生成的布局数字化，以进行进一步的设计修改
+* 实现打印系统与 CAD 工具之间的互操作性
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从基于打印的技术图纸自动生成 DXF 文件
+* 将 PCL 转换为 DXF 集成到工程工作流程管道中
+* 批量将存档的打印输出转换为 CAD 兼容格式
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

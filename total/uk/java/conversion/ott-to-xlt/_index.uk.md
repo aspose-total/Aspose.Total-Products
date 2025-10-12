@@ -102,7 +102,30 @@ otherformats: EXCEL CSV XLSM XLSX SXC XLS ODS TSV XLAM FODS XLTM DIF XLTX XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT на XLT** перетворює **шаблони тексту OpenDocument (.OTT)** у **Шаблон Excel (.XLT)**, надаючи повторне використання для створення електронних таблиц.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+* Створення стандартизованих шаблонів електронних таблиц з документів OTT
+* Збереження однорідного форматування для звітів або аналізу
+* Підготовка повторно використовуваних шаблонів для повторюваних завдань з введення даних
+* Перетворення текстових шаблонів у готові для Excel структури
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Пакетне перетворення шаблонів OTT на XLT для корпоративного використання
+* Інтеграція в автоматизовані конвеєри генерації електронних таблиц
+* Запланована створення шаблонів Excel з документальних шаблонів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

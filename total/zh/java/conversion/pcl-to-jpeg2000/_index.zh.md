@@ -57,7 +57,33 @@ otherformats: JPEG2000 WMF WMZ IMAGE DXF SVGZ PSD EMZ TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 JPEG2000** 可以从打印机命令语言文件中提供 **高质量、压缩的图像输出**，非常适合用于存档、数字成像或安全分发打印内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 存档高保真打印布局的渲染
+* 使用无损压缩与他人共享准备好的打印视觉效果
+* 为客户审查准备数字校样副本
+* 将 PCL 内容嵌入成像系统
+* 将打印数据转换为长期存储
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于存档流程的自动化 PCL 到 JPEG2000 转换
+* 与文档管理和成像系统集成
+* 批量将企业打印作业转换为高质量格式
+* 用于数字分发的压缩优化工作流
+* 从 PCL 源生成集中式图像存储库
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

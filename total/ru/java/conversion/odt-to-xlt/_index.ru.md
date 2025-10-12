@@ -61,7 +61,27 @@ otherformats: XLSM SXC EXCEL XLTM FODS XLS XLAM ODS DIF XLTX TSV XLSB XLT XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в XLT** преобразует данные документа в **формат шаблона Excel**, обеспечивая стандартизированное создание электронных таблиц и согласованные макеты отчетов.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов Excel из текстовых документов
+* Повторное использование данных документа для повторяющихся задач по составлению отчетов
+* Преобразование стандартизированных форм документов в шаблоны Excel
+* Поддержание единообразного форматирования электронных таблиц в командах
+* Оптимизация рабочих процессов от документа к шаблону
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Автоматизированное создание шаблонов ODT в XLT
+* Интеграция в системы управления шаблонами предприятия
+* Пакетная выгрузка отформатированных данных для повторного использования в отчетах
+* Создание шаблонов Excel на основе документов
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

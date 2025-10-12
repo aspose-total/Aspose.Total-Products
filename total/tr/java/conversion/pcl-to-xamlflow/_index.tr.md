@@ -143,7 +143,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi XAMLFLOW'a dönüştürmek**, iş akışı odaklı UI uygulamaları ve tasarım otomasyonu için **Yazıcı Komut Dili** çıktılarını **XAMLFlow** formatına dönüştürmeyi sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* PCL yazdırma düzenlerini iş akışı odaklı uygulamalara entegre etme
+* Statik yazdırma görsellerini etkileşimli XAMLFlow öğelerine dönüştürme
+* Yazdırma tarafından oluşturulan formları ve diyagramları yazılım iş akışlarında yeniden kullanma
+* UI otomasyonu için yazdırma varlıklarını standartlaştırma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Uygulama boru hatları için PCL dosyalarının XAMLFlow'a toplu dönüşümü
+* İş akışı otomasyonu ve UI oluşturma araçlarıyla entegrasyon
+* Kurumsal yazılım tasarım iş akışları için otomatik dönüşüm
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL sang XAML** biến đổi các tệp **Printer Command Language** thành **XAML (Ngôn ngữ đánh dấu ứng dụng mở rộng)** cho đồ họa dựa trên vector và các yếu tố giao diện người dùng trong ứng dụng Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tái sử dụng đồ họa PCL trong ứng dụng WPF hoặc UWP
+* Chuyển đổi bố cục in thành các thành phần giao diện người dùng tương tác
+* Nhúng đồ họa vector có thể co giãn vào phần mềm Windows
+* Bảo tồn thiết kế in cho tích hợp ứng dụng kỹ thuật số
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ PCL sang XAML cho việc phát triển ứng dụng
+* Tích hợp vào thiết kế giao diện người dùng và tự động hóa quy trình làm việc
+* Chuyển đổi hàng loạt các bản ghi PCL thành tài sản XAML dựa trên vector
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

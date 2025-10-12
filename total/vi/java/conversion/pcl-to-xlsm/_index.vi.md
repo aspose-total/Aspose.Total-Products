@@ -47,7 +47,30 @@ Trong khi chuyển đổi tệp PCL sang XLSM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành XLSM** biến đổi tài liệu dựa trên in thành **bảng tính Excel hỗ trợ macro**, cho phép tự động hóa và xử lý dữ liệu trong môi trường Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tự động hóa các công việc lặp đi lặp lại trên dữ liệu được trích xuất từ tệp PCL
+* Nhúng macro để tạo báo cáo hoặc xác nhận
+* Tăng cường quy trình làm việc thông qua kịch bản Excel
+* Tích hợp dữ liệu in với hệ thống tự động hóa dựa trên Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo báo cáo tài chính hoặc phân tích hỗ trợ macro
+* Tự động cập nhật bảng điều khiển Excel từ nguồn in PCL
+* Đường ống biến đổi động cho xử lý dữ liệu từ in sang dữ liệu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

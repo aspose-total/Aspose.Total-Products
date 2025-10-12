@@ -47,7 +47,28 @@ Ao converter o arquivo PCL para XLAM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para XLAM** transforma a saída da **Linguagem de Comando da Impressora** em arquivos de **Suplemento do Excel (.XLAM)**, possibilitando automação, macros e funcionalidades estendidas de planilha.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Criar suplementos do Excel a partir de modelos de dados gerados para impressão
+* Incorporar lógica de automação em fluxos de trabalho de planilhas
+* Converter relatórios PCL em ferramentas de automação do Excel reutilizáveis
+* Ampliar a funcionalidade de conteúdo numérico ou tabular impresso
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automatizada de arquivos XLAM a partir de saídas PCL recorrentes
+* Integração com pipelines de relatórios e análises empresariais
+* Criação em lote de suplementos do Excel para tarefas comerciais repetitivas
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

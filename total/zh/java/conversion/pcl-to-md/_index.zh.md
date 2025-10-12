@@ -49,7 +49,30 @@ otherformats: XLTX XLAM FODS TSV MD ODS XLT DIF XLTM SXC XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转MD**转换将**打印机命令语言**文档转换为**Markdown (.MD)**文件，为文档或存档提供了清晰、易读且适合网络的格式。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PCL打印输出导出为Markdown以进行网站集成
+* 从打印报告中准备轻量级文档
+* 为开发人员和技术团队构建基于打印的数据
+* 将文本丰富的PCL文件存档为开源友好格式
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从大量PCL报告自动生成MD文档
+* 将Markdown输出与基于Git的内容系统集成
+* 为在线发布工作流程自动化PCL文本提取
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

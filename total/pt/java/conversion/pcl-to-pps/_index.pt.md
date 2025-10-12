@@ -121,7 +121,30 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para PPS** converte a saída de **Linguagem de Comando da Impressora** para o formato **Apresentação do PowerPoint (.PPS)**, tornando a apresentação pronta para reprodução direta.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Transformar documentos baseados em PCL em apresentações de slides prontas para apresentar
+* Gerar automaticamente apresentações de relatórios para visualização
+* Entregar conteúdo PCL como apresentações em tela cheia
+* Preservar layouts PCL para uso em apresentações não editáveis
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Criação automatizada de arquivos .PPS a partir de relatórios PCL recorrentes
+* Integração com publicação de apresentações agendadas
+* Conversão de conteúdo de impressão em arquivos de apresentação prontos para exibição
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,30 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para XAMLFLOW** permite a transformação de saídas de **Linguagem de Comando de Impressora** para o formato **XAMLFlow** para aplicações de interface de usuário orientadas por fluxo de trabalho e automação de design.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Integrar layouts de impressão PCL em aplicações orientadas por fluxo de trabalho
+* Converter visuais de impressão estáticos em elementos interativos XAMLFlow
+* Reutilizar formulários e diagramas gerados por impressão em fluxos de trabalho de software
+* Padronizar ativos de impressão para automação de interface de usuário
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote de arquivos PCL em XAMLFlow para pipelines de aplicativos
+* Integração com ferramentas de automação de fluxo de trabalho e geração de interface de usuário
+* Transformação automatizada para fluxos de trabalho de design de software empresarial
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

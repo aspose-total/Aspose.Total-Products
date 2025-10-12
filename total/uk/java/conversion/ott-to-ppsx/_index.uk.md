@@ -100,7 +100,30 @@ otherformats: PPS POT PPTX POTM ODP PPT PPSM PPTM POWERPOINT POTX CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT у PPSX** перетворює **Шаблони тексту OpenDocument (.OTT)** у **Показ PowerPoint Open XML (.PPSX)** для готових до відтворення презентацій.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+* Подання текстових шаблонів у вигляді повноекранних презентацій
+* Перетворення корпоративних шаблонів OTT у формат слайд-шоу
+* Обмін вмістом у вигляді нередагованих показів PowerPoint
+* Збереження дизайну та форматування з шаблонів документів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Пакетне перетворення OTT у PPSX для звітності або навчання
+* Інтеграція з робочими процесами розподілу презентацій
+* Заплановане створення готових до відтворення слайдів з шаблонів документів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành XAMLFLOW** cho phép biến đổi đầu ra **Ngôn ngữ Lệnh Máy In** thành định dạng **XAMLFlow** cho các ứng dụng giao diện người dùng dựa trên quy trình và tự động hóa thiết kế.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tích hợp bố cục in PCL vào các ứng dụng dựa trên quy trình
+* Chuyển đổi hình ảnh in tĩnh thành các yếu tố tương tác XAMLFlow
+* Tái sử dụng các biểu mẫu và sơ đồ được tạo từ in trong các quy trình phần mềm
+* Chuẩn hóa tài sản in cho tự động hóa giao diện người dùng
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt các tệp PCL thành XAMLFlow cho các đường ống ứng dụng
+* Tích hợp với các công cụ tự động hóa quy trình và tạo giao diện người dùng
+* Biến đổi tự động cho các quy trình thiết kế phần mềm doanh nghiệp
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành PPS** chuyển đổi đầu ra **Ngôn ngữ Lệnh Máy In** thành định dạng **PowerPoint Show (.PPS)**, làm cho bản trình bày sẵn sàng để phát trực tiếp.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi tài liệu dựa trên PCL thành bản trình diễn trình chiếu sẵn sàng
+* Tự động tạo bản trình bày báo cáo để xem
+* Cung cấp nội dung PCL dưới dạng bản trình bày toàn màn hình
+* Bảo tồn bố cục PCL cho việc sử dụng bản trình bày không thể chỉnh sửa
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo tệp .PPS tự động từ các báo cáo PCL định kỳ
+* Tích hợp với việc xuất bản bản trình bày theo lịch trình
+* Chuyển đổi nội dung in thành tệp bản trình bày sẵn sàng hiển thị
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

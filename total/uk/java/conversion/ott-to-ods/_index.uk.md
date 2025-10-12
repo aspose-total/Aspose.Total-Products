@@ -102,7 +102,33 @@ otherformats: XLTX XLT XLS SXC XLTM XLSX XLSB XLAM TSV EXCEL XLSM CSV DIF FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертація **OTT в ODS** дозволяє представляти шаблони тексту OpenDocument як файли **OpenDocument Spreadsheet**, що дозволяє використовувати структуровані дані, аналізувати їх та редагувати таблиці на різних платформах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Перетворення таблиць шаблонів у редаговані таблиці
+* Архівування шаблонів, що містять дані, у відкритому форматі
+* Підготовка звітів та аналізу на основі вмісту шаблонів
+* Колаборативне редагування таблиць, що походять від шаблонів
+* Поширення структурованої інформації з шаблонів на різних платформах
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизована конвертація OTT в ODS для корпоративних робочих процесів
+* Пакетна експорт таблиць шаблонів у таблиці
+* Інтеграція з системами звітності та аналітики
+* Динамічне створення таблиць зі шаблонних бібліотек
+* Централізоване управління даними таблиць, що походять від шаблонів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

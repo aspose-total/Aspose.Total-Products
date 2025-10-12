@@ -30,7 +30,35 @@ otherformats: PDF TIFF RTF EMF JPEG PCL XPS DOTX DOT TEXT PNG MD OTT DOCM EPUB W
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง OFT เป็น GIF
+
+การแปลง **OFT เป็น GIF** จะแปลงเทมเพลต Outlook เป็น **Graphics Interchange Format** ที่มีประโยชน์สำหรับภาพที่เบา ที่เหมาะสำหรับเว็บหรือการแสดงภาพเคลื่อนไหวของเลย์เอาท์อีเมล
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างภาพนิ่งของอีเมลที่เข้ากันได้กับเว็บ
+* แบ่งปันตัวอย่าง GIF ที่เคลื่อนไหวหรือนิ่งของเทมเพลต
+* การเก็บถาวรเบาสำหรับเอกสารออนไลน์
+* ฝังภาพอีเมลในเนื้อหาดิจิตอล
+* การสร้างตัวอย่างเพื่อการอนุมัติการออกแบบอย่างรวดเร็ว
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง OFT เป็น GIF แบบกลุ่มสำหรับตัวอย่างการตลาด
+* การรวมระบบการจัดการเทมเพลตบนเว็บ
+* การสร้างลำดับการเปลี่ยนแปลงของเทมเพลตเป็นภาพเคลื่อนไหว
+* การสร้างเอกสารถาวรเบาโดยอัตโนมัติ
+* การแปลงการออกแบบอีเมลเป็น GIF ที่สามารถแบ่งปันได้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

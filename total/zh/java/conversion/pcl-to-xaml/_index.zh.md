@@ -135,7 +135,30 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 XAML** 将 **打印机命令语言** 文件转换为 **XAML（可扩展应用标记语言）**，用于 Windows 应用程序中基于矢量的图形和 UI 元素。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 在 WPF 或 UWP 应用程序中重用 PCL 图形
+* 将打印布局转换为交互式 UI 组件
+* 在 Windows 软件中嵌入可缩放的矢量图形
+* 保留打印设计以用于数字应用集成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于应用程序开发的自动化 PCL 到 XAML 转换
+* 集成到 UI 设计和工作流自动化中
+* 批量将 PCL 存档转换为基于矢量的 XAML 资源
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

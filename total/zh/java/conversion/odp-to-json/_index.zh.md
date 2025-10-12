@@ -49,7 +49,27 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODP 转换为 JSON** 可以将演示内容结构化提取为 **机器可读格式**，实现与现代 Web 或自动化系统的无缝数据交换、分析和集成。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将演示数据转换为用于 API 的结构化格式
+* 提取幻灯片、文本和元数据以进行分析或索引
+* 将演示内容迁移至基于 Web 的应用程序
+* 将演示数据存储在数据库中以进行搜索和检索
+* 促进基于 AI 的内容理解和分类
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 用于内容管理系统的自动化 ODP 到 JSON 转换
+* 集成到 ETL（提取、转换、加载）流水线中
+* 在 Web 或移动应用程序中动态渲染演示数据
+* 用于数字资产存储库或 API 的批量转换
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

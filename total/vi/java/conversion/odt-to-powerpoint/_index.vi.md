@@ -54,7 +54,25 @@ API cũng cho phép bạn chuyển đổi các tài liệu ODT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT thành PowerPoint** chuyển đổi tài liệu chứa nhiều văn bản thành **các slide trình bày hấp dẫn**, giúp truyền đạt hiệu quả các ý tưởng chính trong cuộc họp, lớp học và các báo cáo doanh nghiệp.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi báo cáo viết thành các bài thuyết trình tương tác
+* Hình dung nội dung dựa trên văn bản cho việc giao tiếp với các bên liên quan
+* Tạo slide chuyên nghiệp từ tài liệu chính sách hoặc dự án
+* Chuẩn bị bài thuyết trình giáo dục từ ghi chú bài giảng
+* Biến đổi nội dung kiểu Word thành hình ảnh trình bày
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Chuyển đổi ODT thành PowerPoint tự động cho quy trình làm việc kinh doanh
+* Tích hợp vào các hệ thống tự động trình bày tài liệu
+* Tạo slide theo lô cho đào tạo hoặc báo cáo
+* Biến đổi nội dung thành slide để chia sẻ kiến thức doanh nghiệp
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

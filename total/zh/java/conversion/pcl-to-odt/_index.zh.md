@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 ODT** 将 **打印机命令语言** 输出转换为 **OpenDocument Text (.ODT)** 格式，以便在 **LibreOffice Writer** 或其他ODF编辑器中进行可编辑的文字处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将打印报告重新创建为可编辑文档
+* 准备文本密集的 PCL 输出以便发布或协作
+* 将基于 PCL 的模板转换为可编辑的 ODT 文件
+* 在开源系统中保持文档一致性
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从打印作业自动生成 ODT 文档
+* 与文档管理和编辑系统集成
+* 批量将存档的 PCL 文档转换为开放文本格式
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

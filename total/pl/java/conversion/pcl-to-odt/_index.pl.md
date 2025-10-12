@@ -130,7 +130,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na ODT** przekształca wyjście w **Printer Command Language** w format **OpenDocument Text (.ODT)** umożliwiający edycję w **LibreOffice Writer** lub innych edytorach ODF.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Odtwarzanie raportów drukowanych jako edytowalne dokumenty
+* Przygotowywanie tekstowo-zorientowanego wyjścia PCL do publikacji lub współpracy
+* Konwertowanie szablonów opartych na PCL na edytowalne pliki ODT
+* Utrzymywanie spójności dokumentów w systemach open-source
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie dokumentów ODT z zadań drukowania
+* Integracja z systemami zarządzania dokumentami i edycji
+* Konwersja wsadowa zarchiwizowanych dokumentów PCL na formaty tekstowe
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

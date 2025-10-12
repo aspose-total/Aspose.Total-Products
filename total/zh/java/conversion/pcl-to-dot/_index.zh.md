@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转DOT**转换允许从**打印机命令语言**文件中的打印模板和报告重新用于**Microsoft Word模板（.DOT）**文档，以实现一致的格式和重复使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从基于PCL的报告或布局构建Word模板
+* 在部门间标准化文档外观
+* 从打印文件创建可重用的表单和报告模板
+* 简化文档准备流程
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从打印报告自动生成公司模板
+* 基于模板的业务运营文档工作流程
+* 将常规PCL报告转换为可立即使用的DOT模板
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

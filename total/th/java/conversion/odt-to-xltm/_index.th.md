@@ -61,7 +61,27 @@ otherformats: XLT XLSX FODS XLSM XLTX DIF XLS ODS EXCEL XLTM TSV SXC XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น XLTM** สามารถส่งออกเนื้อหา OpenDocument Text เป็น **เทมเพลต Excel ที่เปิดใช้งานมาโคร**, รวมการอัตโนมัติและความสอดคล้องในการออกแบบในเวิร์กโฟลว์เดียวกัน
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* สร้างเทมเพลต Excel ที่ใช้มาโครได้ซ้ำได้จากเอกสาร
+* อัตโนมัติการสร้างรายงานโดยใช้เทมเพลตที่สร้างไว้ล่วงหน้า
+* ปรับปรุงการทำงานที่ซ้ำซ้อนระหว่างเอกสารและสเปรดชีต
+* สนับสนุนการติดตั้งการอัตโนมัติ Excel ในระดับองค์กร
+* รักษาโครงสร้างสเปรดชีตที่มีมาตรฐานและอัตโนมัติ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+* การแปลง ODT เป็น XLTM ตามรอบการรายงานที่กำหนด
+* การสร้างเทมเพลตมาโครจำนวนมากจากข้อมูลข้อความ
+* การรวมระบบการอัตโนมัติ Excel VBA
+* การส่งออกเอกสารไปยังเทมเพลตอย่างไดนามิกในระบบองค์กร
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

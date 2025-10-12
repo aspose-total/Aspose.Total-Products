@@ -54,7 +54,27 @@ otherformats: PPTX POTX POWERPOINT PPSM POT PPS PPTM PPSX POTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 ODP** 可以将 **文档转换为演示文稿幻灯片**，非常适合将书面报告、摘要或教育材料可视化。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将结构化文档转换为幻灯片演示
+* 将讲座笔记或报告转换为视觉摘要
+* 为课堂或企业演示准备幻灯片
+* 从 ODT 文件创建引人入胜的视觉格式
+* 为培训师或演讲者简化文本到演示文稿的转换
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 自动化 ODT 到 ODP 演示文稿创建
+* 与办公生产力工作流集成
+* 批量文档到演示文稿的转换
+* 从结构化文档内容动态生成幻灯片
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

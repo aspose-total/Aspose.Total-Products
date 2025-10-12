@@ -61,7 +61,27 @@ otherformats: XLTM XLSX XLT FODS EXCEL TSV XLTX XLSM XLSB XLS SXC ODS XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 XLSM** 可以将文档数据导出为 **支持宏的 Excel 文件**，支持自动化和高级电子表格操作。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将 ODT 表格导出以在基于 VBA 的 Excel 表中使用
+* 从文档数据启用基于宏的自动化
+* 将公式和自定义脚本嵌入导出文件
+* 基于文本输入准备交互式报告
+* 将文档数据与基于 Excel 的自动化工作流程相连接
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 自动化文档到宏 Excel 转换
+* 将 ODT 导出集成到高级 Excel 自动化系统中
+* 批量生成 XLSM 以生成动态业务报告
+* 将文本内容连接到电子表格驱动的任务自动化
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,30 @@ PCL dosyasını XLAM'ye dönüştürürken, çıktı XLAM dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi XLAM'e Dönüştürme**, **Yazıcı Komut Dili** çıktısını **Excel Eklentisi (.XLAM)** dosyalarına dönüştürerek otomasyonu, makroları ve genişletilmiş elektronik tablo işlevselliğini etkinleştirir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Yazdırılan veri şablonlarından Excel eklentileri oluşturma
+* Otomasyon mantığını elektronik tablo iş akışlarına gömme
+* PCL raporlarını yeniden kullanılabilir Excel otomasyon araçlarına dönüştürme
+* Basılı sayısal veya tablo içeriğinin işlevselliğini genişletme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tekrarlayan PCL çıktılarından XLAM dosyalarının otomatik oluşturulması
+* Kurumsal raporlama ve analitik borularla entegrasyon
+* Tekrarlayan iş görevleri için Excel eklentilerinin toplu oluşturulması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

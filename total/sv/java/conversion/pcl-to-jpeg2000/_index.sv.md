@@ -57,7 +57,33 @@ Med hjälp av API:t kan du också rotera den utgående JPEG2000-bilden enligt di
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Konvertera **PCL till JPEG2000**
+
+Ger **högkvalitativa, komprimerade bildutgångar** från filer i skrivarkommandospråket, perfekt för arkivering, digital bildbehandling eller säker distribution av utskriftsinnehåll.
+
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga användningsfall" %}}
+
+* Arkivering av högkvalitativa renderingar av utskriftslayouter
+* Dela utskriftsredo visuellt material med förlustfri komprimering
+* Förbereda digitala beviskopior för kundgranskningar
+* Bädda in PCL-innehåll i bildsystem
+* Konvertera utskriftsdata för långtidsförvaring
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+* Automatisk konvertering av PCL till JPEG2000 för arkiveringspipeliner
+* Integration med dokumenthantering och bildsystem
+* Batchkonvertering av företagsutskriftsjobb till högkvalitativa format
+* Komprimeringsoptimerade arbetsflöden för digital distribution
+* Generering av centraliserat bildarkiv från PCL-källor
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

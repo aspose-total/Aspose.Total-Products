@@ -129,7 +129,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Chuyển đổi PCL sang RTF** giúp chuyển đổi đầu ra **Ngôn ngữ Lệnh Máy In (PCL)** thành tài liệu **Định dạng Văn bản Rich (RTF)** để tương thích rộng rãi, dễ dàng chỉnh sửa và sử dụng trên nhiều nền tảng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi tài liệu in thành tập tin văn bản rich có thể chỉnh sửa
+* Bảo tồn định dạng cơ bản đồng thời đảm bảo tính di động
+* Chia sẻ báo cáo được tạo từ máy in trên nhiều trình xử lý văn bản
+* Chuẩn bị phiên bản tài liệu nhẹ cho việc lưu trữ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt tập tin in PCL sang RTF để phân phối
+* Tích hợp các đường ống PCL-sang-RTF vào hệ thống doanh nghiệp
+* Tạo ra tự động báo cáo văn bản được định dạng từ dữ liệu in
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

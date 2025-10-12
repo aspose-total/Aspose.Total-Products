@@ -121,7 +121,30 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Att konvertera **PCL till OTP** omvandlar **Printer Command Language**-filer till **OpenDocument Presentation Template (.OTP)**-format för att skapa återanvändbara bildspelsmallar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+* Design av presentationsmallar från PCL-layouter
+* Skapa varumärkta bildspelsmallar för affärsändamål
+* Konvertera tryckta företagsvisuella element till redigerbara OTP-mallar
+* Effektivisera designåteranvändning över avdelningar
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+* Automatisk skapande av mallar från standardutskriftsmaterial
+* Integration med presentationsbyggnadsflöden
+* Generera återanvändbara bildmästare från företagstryckta dokument
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

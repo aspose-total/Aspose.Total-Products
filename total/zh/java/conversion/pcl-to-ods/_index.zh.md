@@ -49,7 +49,30 @@ otherformats: MD SXC TXT XLT XLAM XLSB XLTM XLSM TSV XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为ODS**从**打印命令语言**文件中提取数据，转换为**OpenDocument电子表格(.ODS)**格式，以便在**LibreOffice Calc**等工具中进行结构化分析。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将表格打印报告转换为电子表格
+* 在PCL生成的表格上进行数据分析
+* 将结构化的PCL内容导入会计或分析工作流程
+* 从打印数据创建可编辑、基于公式的表格
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将PCL报告定期转换为ODS工作簿
+* 数据提取管道将打印输出转换为电子表格格式
+* 与ERP或财务系统集成，实现自动数据摄入
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

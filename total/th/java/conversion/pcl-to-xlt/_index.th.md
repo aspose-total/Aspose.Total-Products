@@ -47,7 +47,30 @@ otherformats: MD DIF XLTM EXCEL ODS XLT XLSM XLSB TSV XLAM FODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**การแปลง PCL เป็น XLT** ช่วยสร้างไฟล์ **Excel Template** จากเอกสาร **Printer Command Language** เพื่อให้สามารถนำเค้าโครงการพิมพ์ที่มีโครงสร้างมาใช้ซ้ำเพื่อสร้างรายงานที่เป็นระเบียบใน Excel
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ออกแบบ Excel templates จากรูปแบบรายงานที่พิมพ์ออกมา
+* รักษาเค้าโครงและสไตล์เดียวกันสำหรับรายงาน
+* มาตรฐานรูปแบบเอกสารธุรกิจ
+* สร้างรายงานโดยใช้เทมเพลตที่กำหนดไว้ล่วงหน้า
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างเทมเพลตโดยอัตโนมัติจากเอกสาร PCL ที่เกิดซ้ำ
+* สร้างเทมเพลตที่ใช้ซ้ำสำหรับการเติมรายงานโดยอัตโนมัติ
+* การรวมเวิร์กโฟลว์การพิมพ์เป็นเทมเพลตสำหรับองค์กร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

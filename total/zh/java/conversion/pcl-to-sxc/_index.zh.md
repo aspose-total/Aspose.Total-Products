@@ -49,7 +49,30 @@ otherformats: XLTX FODS EXCEL XLSM TSV DIF XLAM ODS XLSB XLTM TXT MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 SXC** 可以将 **打印机命令语言** 输出转换为 **StarOffice Calc (.SXC)** 电子表格，实现可编辑的表格数据以进行计算和分析。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 PCL 报告中提取表格到可编辑的电子表格中
+* 使用 StarOffice Calc 分析基于打印的数字数据
+* 将存档的打印表单转换为电子表格格式
+* 为计算或报告准备结构化数据
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 自动从 PCL 文件中提取表格数据到 SXC
+* 与财务或分析工作流程集成
+* 批量将存档的打印电子表格转换为可重用格式
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

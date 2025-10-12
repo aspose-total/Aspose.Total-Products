@@ -61,7 +61,27 @@ otherformats: SXC XLS XLTM TSV XLT XLSB XLTX ODS DIF FODS XLSX XLAM XLSM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в EXCEL** позволяет преобразовать данные в формате OpenDocument Text в **таблицы Microsoft Excel**, что упрощает анализ, визуализацию и организацию информации.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт таблиц из файлов ODT в Excel для редактирования
+* Подготовка данных документа для расширенных вычислений
+* Интеграция текстовых данных в панели управления Excel
+* Переформатирование текстовых данных для отчетности или построения диаграмм
+* Улучшение взаимодействия между ODT и инструментами Microsoft Office
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Автоматизированное преобразование для смешанных рабочих процессов с документами и таблицами
+* Обработка ODT в Excel в отчетных или аналитических конвейерах
+* Запланированные преобразования документов для корпоративных систем обработки данных
+* Экспорт в несколько форматов для хранилищ документов или облачных инструментов
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

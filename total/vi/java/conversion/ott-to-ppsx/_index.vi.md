@@ -54,7 +54,30 @@ API cũng cho phép bạn chuyển đổi các tài liệu OTT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **OTT thành PPSX** chuyển đổi **Mẫu Văn bản OpenDocument (.OTT)** thành **PowerPoint Open XML Show (.PPSX)** để tạo ra bài thuyết trình sẵn sàng phát lại.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Gửi các mẫu văn bản dưới dạng bài thuyết trình toàn màn hình
+* Chuyển đổi các mẫu OTT doanh nghiệp thành định dạng trình diễn trình chiếu
+* Chia sẻ nội dung dưới dạng bài thuyết trình PowerPoint không thể chỉnh sửa
+* Bảo tồn thiết kế và định dạng từ các mẫu văn bản
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt từ OTT sang PPSX cho báo cáo hoặc đào tạo
+* Tích hợp với quy trình phân phối bài thuyết trình
+* Tạo lịch trình tạo ra các slide sẵn sàng phát lại từ các mẫu văn bản
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

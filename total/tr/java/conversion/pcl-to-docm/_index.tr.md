@@ -129,7 +129,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi DOCM'ye dönüştürmek**, **Yazıcı Komut Dili** çıktılarını **makro etkin Word belgelerine** dönüştürmeyi sağlar, otomasyon, dinamik güncellemeler ve gelişmiş biçimlendirme yeteneklerini doğrudan yazdırma tabanlı dosyalardan sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Otomasyon için dönüştürülen Word belgelerine makrolar gömme
+* Düzenlenebilir ve programlanabilir raporlar için yazdırılan verileri yeniden kullanma
+* PCL çıktılarından etkileşimli iş şablonları oluşturma
+* Makro etkin belgeler kullanarak üretkenlik iş akışlarını artırma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* PCL arşivlerinin DOCM'ye toplu dönüşümü dinamik raporlama için
+* Yazdırma çıktılarını otomatikleştirilmiş Word tabanlı iş akışlarına entegre etme
+* Yazıcı akışlarından gerçek zamanlı makro etkin belgeler oluşturma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

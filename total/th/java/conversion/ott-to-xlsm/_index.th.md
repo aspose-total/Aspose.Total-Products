@@ -61,7 +61,32 @@ otherformats: EXCEL XLT XLSX TSV XLTX SXC XLSB ODS XLSM XLS XLTM FODS XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **OTT เป็น XLSM**
+
+การแปลง **OpenDocument Text Templates (.OTT)** เป็น **Excel Macro-Enabled Workbook (.XLSM)** ช่วยให้สามารถใช้การอัตโนมัติและฟังก์ชันที่ใช้แมโครในสเปรดชีตได้
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* สร้างสมุดงาน Excel พร้อมแมโครจากเทมเพลต OTT
+* อัตโนมัติการประมวลผลข้อมูลหรือสร้างรายงาน
+* การนำเทมเพลตเอกสารมาใช้ในการแก้ไขสเปรดชีตแบบโต้ตอบ
+* ฝังการคำนวณหรืองานอัตโนมัติในสมุดงานที่สร้างขึ้น
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* แปลงเทมเพลต OTT เป็นสมุดงาน XLSM แบบกลุ่ม
+* การรวมระบบรายงานและวาดกราฟขององค์กร
+* สร้างสเปรดชีตที่ใช้แมโครอัตโนมัติจากเทมเพลต
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

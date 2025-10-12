@@ -102,7 +102,30 @@ otherformats: XLTX XLAM FODS TSV CSV ODS XLT DIF XLTM SXC XLSB EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to MD** конвертація перетворює документи **Printer Command Language** у файли **Markdown (.MD)**, надаючи чистий, легкочитаємий та дружній для веб-формат для документування або архівування.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Експорт PCL виводів у Markdown для інтеграції на веб-сайт
+* Підготовка легкої документації з виведених звітів
+* Структурування даних на основі друку для розробників та технічних команд
+* Архівування текстових файлів PCL у форматах, які підтримуються відкритим кодом
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматичне створення документації MD з великої кількості звітів PCL
+* Інтеграція виведених Markdown з Git-системами управління контентом
+* Автоматизація видобування тексту з PCL для онлайн-публікаційних процесів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

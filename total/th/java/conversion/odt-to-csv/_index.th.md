@@ -61,7 +61,27 @@ otherformats: XLTM XLSM XLSX XLT XLS DIF EXCEL SXC ODS XLSB FODS XLAM TSV XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น CSV** จะเปลี่ยนตารางเอกสารที่เป็นข้อความเป็น **ค่าที่คั่นด้วยเครื่องหมายจุลภาค**, เพื่อให้สามารถแสดงข้อมูลโครงสร้างสำหรับสเปรดชีต ฐานข้อมูล หรือเครื่องมืออัตโนมัติ
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การสกัดข้อมูลตารางจากเอกสารข้อความเพื่อวิเคราะห์
+* การนำข้อมูลจากเอกสารเข้าสู่สเปรดชีตหรือเครื่องมือ BI
+* การแปลงข้อความที่จัดรูปแบบเป็นแถวข้อมูลและคอลัมน์ง่ายๆ
+* เตรียมชุดข้อมูลสำหรับการเรียนรู้ของเครื่องหรือกระบวนการอัตโนมัติ
+* ปรับปรุงกระบวนการรายงานที่เกี่ยวกับเอกสาร
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+* การแปลง ODT เป็น CSV โดยอัตโนมัติสำหรับท่อข้อมูล
+* การสกัดตารางเอกสารเป็นกลุ่มสำหรับระบบวิเคราะห์
+* การผสานเข้ากับกระบวนการนำเข้าฐานข้อมูลโดยไม่มีรอยต่อ
+* การซิงโครไนซ์ข้อมูลระดับองค์กรจากเอกสารไปยังสเปรดชีต
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

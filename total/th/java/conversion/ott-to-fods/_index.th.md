@@ -61,7 +61,33 @@ otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC FODS XLTM XLAM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **OTT เป็น FODS** จะแปลงเทมเพลตข้อความ OpenDocument เป็นรูปแบบ **Flat XML Spreadsheet** ที่ช่วยให้สามารถแก้ไขเนื้อหาสเปรดชีทในโครงสร้าง XML ที่เรียบง่ายและพกพาได้
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* แบ่งปันเนื้อหาสเปรดชีทที่สามารถแก้ไขจากเทมเพลต
+* เก็บข้อมูลเป็นรูปแบบ XML พกพาได้
+* ผสานข้อมูลเทมเพลตกับแอปพลิเคชันสเปรดชีทโอเพนซอร์ส
+* วิเคราะห์เนื้อหาตารางโดยไม่ต้องใช้ซอฟต์แวร์เฉพาะ
+* แลกเปลี่ยนข้อมูลเทมเพลตโครงสร้างอย่างเบา
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง OTT เป็น FODS โดยอัตโนมัติสำหรับไปไลน์สเปรดชีท
+* ประมวลผลเทมเพลตเป็นสเปรดชีท XML พกพาได้เป็นกลุ่ม
+* ผสานกับเครื่องมือวิเคราะข้อมูลและรายงานโอเพนซอร์ส
+* ปรับปรุงกระบวนการทำงานจากเทมเพลตเป็นสเปรดชีท
+* คลังข้อมูล XML ในศูนย์สำหรับข้อมูลเทมเพลตที่ใช้ซ้ำ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

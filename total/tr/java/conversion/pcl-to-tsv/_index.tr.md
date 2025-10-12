@@ -47,7 +47,30 @@ PCL dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'den TSV'ye dönüşüm**, **Yazıcı Komut Dili** çıktılarını **Sekmeyle Ayrılmış Değerler** dosyalarına dönüştürür. Bu format, elektronik tablolara veya sekmeyle ayrılmış verilere dayanan yazılım sistemlerine temiz, yapılandırılmış veri aktarımları için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Yazdırılmış verilerden tablo içeriği çıkarma
+* PCL faturalarından veya kayıtlardan TSV veri kümeleri oluşturma
+* TSV çıktılarını veri göçü veya ETL sistemlerine besleme
+* Kurumsal sistemler arasında yapılandırılmış yazdırılmış verileri paylaşma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Yazdırılmış arşivlerin TSV'ye zamanlanmış çıkartılması
+* Raporlama panoları için veri akışlarıyla entegrasyon
+* Yazdırmadan yapılandırılmış analiz için otomatik dönüşüm
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

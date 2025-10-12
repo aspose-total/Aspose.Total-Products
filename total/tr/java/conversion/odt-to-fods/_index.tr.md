@@ -61,7 +61,27 @@ ODT'yi FODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi FODS'ye** dönüştürmek, metin belgelerini **Yapılandırılmış verileri koruyan, açık ve kolayca ayrıştırılabilir bir formata sahip Düz XML elektronik tablo dosyalarına** dönüştürmeyi sağlar.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Metinsel tabloları yapılandırılmış elektronik tablo dosyalarına dönüştürme
+* XML tabanlı sistemler için belge tabanlı verileri hazırlama
+* Raporları açık elektronik tablo formatında arşivleme
+* Kelime işlemcileri ile elektronik tablolar arasında etkileşimi kolaylaştırma
+* Veri yoğun belgeleri hafif FODS dosyaları olarak paylaşma
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Veri işleme iş akışlarında Otomatik ODT'den FODS'ye dönüşüm
+* Açık belge yönetim sistemlerine entegrasyon
+* Metin tabanlı verilerin elektronik tablo uyumlu formatlara toplu dönüşümü
+* Hükümet veya kurumsal raporlama için XML tabanlı veri ihracatı
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

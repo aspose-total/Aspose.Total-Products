@@ -57,7 +57,30 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz WMF z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na WMF** przekształca grafikę w języku **Printer Command Language** w format **Windows Metafile (.WMF)**, odpowiedni do edycji wektorowej i skalowalnego wykorzystania obrazów w aplikacjach systemu Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Wyodrębnianie skalowalnej grafiki z układów druku PCL
+* Edycja diagramów wektorowych w aplikacjach systemu Windows
+* Osadzanie wizualizacji PCL w dokumentach pakietu Office
+* Zachowanie precyzji druku w projektach publikacji na pulpicie
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja plików PCL na obrazy WMF
+* Integracja z publikacją dokumentów i procesami projektowania
+* Przetwarzanie wsadowe dla archiwów graficznych druku z przeszłości
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

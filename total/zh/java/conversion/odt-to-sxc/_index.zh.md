@@ -61,7 +61,27 @@ otherformats: XLSB XLSM XLSX TSV EXCEL ODS FODS DIF XLT XLAM SXC XLTX XLTM XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 SXC** 可以实现与传统 StarOffice 和早期 OpenOffice 电子表格格式的兼容性，保持表格完整性和结构化数据。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于文档的表格转换为在传统办公系统中使用
+* 在旧电子表格环境中共享数据
+* 保持与历史数据格式的兼容性
+* 为了归档目的转换结构化文档
+* 将基于文本的报告导出为与电子表格兼容的文件
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 用于向后兼容的自动化 ODT 到 SXC 批量转换
+* 与传统软件支持工作流程集成
+* 在文档和电子表格系统之间进行数据迁移
+* 为旧版 OpenOffice 进行归档文档处理
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

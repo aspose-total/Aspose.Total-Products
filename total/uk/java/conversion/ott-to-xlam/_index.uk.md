@@ -102,7 +102,33 @@ otherformats: CSV ODS SXC XLSX DIF XLTX XLT XLS XLSB EXCEL FODS TSV XLTM XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT на XLAM** створює **файли додатків Excel**, що походять від вмісту шаблону, що дозволяє автоматизацію, макроси та покращені робочі процеси з таблицями на основі даних шаблону.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Створення макро-дозволених додатків Excel з шаблонів
+* Автоматизація повторюваних завдань за допомогою макросів, що походять від шаблонів
+* Покращення функціональності таблиць за допомогою логіки шаблону
+* Розгортання стандартизованих автоматизованих робочих процесів
+* Централізація засобів Excel, що працюють на основі шаблонів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Пакетне перетворення OTT на XLAM для автоматизації Excel у підприємствах
+* Інтеграція з робочими процесами або конвеєрами звітності
+* Генерація повторно використовуваних макро-дозволених засобів для таблиць
+* Розгортання автоматизації на основі шаблонів
+* Динамічне оновлення макросів змістом шаблону
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

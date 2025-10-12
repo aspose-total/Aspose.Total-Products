@@ -135,7 +135,30 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para XAML** transforma arquivos de **Linguagem de Comando de Impressora** em **XAML (Linguagem de Marcação de Aplicativo Extensível)** para gráficos baseados em vetor e elementos de interface do usuário em aplicativos do Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Reutilização de gráficos PCL em aplicativos WPF ou UWP
+* Conversão de layouts de impressão em componentes de interface do usuário interativos
+* Incorporação de gráficos vetoriais escaláveis em software Windows
+* Preservação do design de impressão para integração em aplicativos digitais
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automatizada de PCL para XAML para desenvolvimento de aplicativos
+* Integração no design de IU e automação de fluxo de trabalho
+* Transformação em lote de arquivos PCL em ativos XAML baseados em vetor
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

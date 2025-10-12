@@ -54,7 +54,27 @@ API cũng cho phép bạn chuyển đổi các tài liệu ODT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT sang POT** cho phép biến đổi tài liệu văn bản thành **các tệp mẫu PowerPoint**, cho phép người dùng thiết kế các chủ đề và cấu trúc trình bày nhất quán dựa trên nội dung viết.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo các mẫu PowerPoint từ tài liệu văn bản có cấu trúc
+* Thiết kế khung trình bày để đảm bảo nhất quán cho toàn đội
+* Chuyển đổi nội dung doanh nghiệp thành các mẫu trình bày có thể chỉnh sửa
+* Xây dựng các mẫu slide có thể tái sử dụng từ tài liệu
+* Biến đổi các đề cương kinh doanh thành các chủ đề sẵn sàng trình bày
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Tự động tạo ra các mẫu PowerPoint từ nội dung Word
+* Tích hợp vào các hệ thống thiết kế nội dung hoặc thương hiệu
+* Chuyển đổi hàng loạt các mẫu dựa trên văn bản thành các tệp POT
+* Tạo chủ đề động từ cấu trúc dựa trên tài liệu
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

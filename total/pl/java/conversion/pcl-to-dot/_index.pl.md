@@ -129,7 +129,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konwersja PCL na DOT** umożliwia przekształcenie wydrukowanych szablonów i raportów z plików **Printer Command Language** na dokumenty **Microsoft Word Template (.DOT)** dla spójnego formatowania i ponownego wykorzystania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie szablonów Word na podstawie raportów lub układów opartych na PCL
+* Standaryzacja wyglądu dokumentów między działami
+* Tworzenie formularzy i szablonów raportów z plików drukowanych
+* Usprawnianie procesów przygotowywania dokumentów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie firmowych szablonów na podstawie wydrukowanych raportów
+* Przepływy dokumentów oparte na szablonach dla operacji biznesowych
+* Konwersja rutynowych raportów PCL na gotowe do użycia szablony DOT
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

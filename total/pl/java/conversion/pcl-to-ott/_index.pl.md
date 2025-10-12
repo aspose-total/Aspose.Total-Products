@@ -130,7 +130,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **PCL na OTT** przekształca wyjście w języku **Printer Command Language** na format **OpenDocument Text Template (.OTT)** dla standaryzowanych szablonów dokumentów w **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie wielokrotnie używanych szablonów dokumentów na podstawie formularzy PCL
+* Tworzenie standaryzowanych układów biznesowych do korespondencji
+* Konwertowanie nagłówków listów lub raportów PCL na edytowalne szablony
+* Wspieranie otwartych przepływów dokumentów z jednolitym formatowaniem
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna generacja plików OTT z systemów projektowania druku
+* Integracja z przepływami pracy w tworzeniu treści przedsiębiorstwa
+* Konwersja zbiorcza wydrukowanych szablonów na pliki OTT w celu ponownego wykorzystania dokumentów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

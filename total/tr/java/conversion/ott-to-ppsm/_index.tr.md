@@ -54,7 +54,30 @@ API ayrıca parola korumalı OTT belgelerini PPSM'ye dönüştürmenize olanak t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi PPSM'ye Dönüştürme**, **OpenDocument Metin Şablonlarını (.OTT)** **PowerPoint Makro Etkin Sunumlar (.PPSM)** haline getirerek metin şablonlarından otomatik ve etkileşimli sunumlar yapmayı mümkün kılar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* OTT tabanlı metin şablonlarından makro etkin slayt gösterileri oluşturma
+* Belge şablonlarından türetilen sunum içeriğini otomatikleştirme
+* Dinamik slayt sunumları için kurumsal şablonları yeniden kullanma
+* İş akışı otomasyonu için etkileşim ve makroları gömme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Belge şablonlarının zamanlanmış olarak PPSM slaytlarına dönüştürülmesi
+* Kurumsal içerik otomasyon boru hatlarıyla entegrasyon
+* OTT dosyalarının etkileşimli sunum gösterilerine toplu işlem yapılması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

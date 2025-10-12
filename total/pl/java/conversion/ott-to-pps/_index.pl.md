@@ -54,7 +54,33 @@ Interfejs API umożliwia również konwersję dokumentów OTT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na PPS** generuje pliki **PowerPoint Show**, umożliwiając bezpośrednie prezentowanie treści pochodzących z szablonów w formie pokazu slajdów bez konieczności otwierania ich w trybie edycji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie gotowych pokazów slajdów z szablonów
+* Archiwizowanie szablonów jako prezentacje tylko do pokazu
+* Udostępnianie prezentacji do zewnętrznego przeglądania
+* Przygotowywanie materiałów marketingowych lub szkoleniowych w formacie pokazu
+* Zapewnienie spójnego układu slajdów podczas prezentacji
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja wsadowa OTT na PPS dla bibliotek prezentacji
+* Integracja z systemami dystrybucji prezentacji
+* Automatyczne tworzenie slajdów tylko do pokazu ze szablonów
+* Potok do przygotowywania treści szkoleniowych i marketingowych w formacie pokazu
+* Standaryzacja pokazów slajdów na poziomie przedsiębiorstwa
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

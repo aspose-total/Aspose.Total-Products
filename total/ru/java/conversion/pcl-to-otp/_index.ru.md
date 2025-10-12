@@ -121,7 +121,30 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в OTP** преобразует файлы **языка управления принтером** в формат **шаблона презентации OpenDocument (.OTP)** для создания многократно используемых шаблонов слайдов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов презентаций на основе макетов PCL
+* Создание брендированных шаблонов слайдов для бизнеса
+* Преобразование напечатанных корпоративных визуалов в редактируемые шаблоны OTP
+* Оптимизация повторного использования дизайна между отделами
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное создание шаблонов из стандартных печатных материалов
+* Интеграция с рабочими процессами по созданию презентаций
+* Генерация многократно используемых мастер-слайдов из корпоративных печатных документов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

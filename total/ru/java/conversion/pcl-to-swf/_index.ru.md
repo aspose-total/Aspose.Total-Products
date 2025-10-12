@@ -121,7 +121,30 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в SWF** превращает документы **языка управления принтером** в файлы **Adobe Flash (.SWF)**, обеспечивая интерактивные мультимедийные презентации и доставку контента через веб.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание интерактивных презентаций на основе макетов печати PCL
+* Встраивание контента на основе печати на веб-страницы и платформы электронного обучения
+* Преобразование статических печатных отчетов в слайды с мультимедийными возможностями
+* Обмен визуальным печатным контентом в виде веб-дружественных интерактивных файлов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетная генерация файлов SWF из архивов печати PCL
+* Интеграция с веб-публикациями и платформами электронного обучения
+* Автоматизированное преобразование для цифровых интерактивных рабочих процессов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

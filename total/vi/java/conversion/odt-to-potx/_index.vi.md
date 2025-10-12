@@ -54,7 +54,27 @@ API cũng cho phép bạn chuyển đổi các tài liệu ODT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT thành POTX** giúp chuyển đổi tài liệu văn bản thành **các tệp mẫu PowerPoint hiện đại**, lý tưởng để duy trì thương hiệu doanh nghiệp và tính nhất quán trong trình bày.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Xây dựng mẫu trình bày từ tài liệu viết
+* Chuyển đổi cấu trúc của kế hoạch kinh doanh thành các slide có thương hiệu
+* Chuẩn bị tiêu chuẩn trình bày cho việc hợp tác nhóm
+* Tạo ra các khung trình bày toàn công ty
+* Tạo ra các mẫu PowerPoint sẵn sàng thiết kế từ nội dung Word
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Chuyển đổi tự động tài liệu ODT thành các mẫu PPTX
+* Tích hợp vào các luồng công việc từ tài liệu thành trình bày của doanh nghiệp
+* Tạo ra hàng loạt các chủ đề PowerPoint từ tài liệu kinh doanh
+* Tạo ra các mẫu PowerPoint dựa trên nội dung để duy trì tính nhất quán về thương hiệu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

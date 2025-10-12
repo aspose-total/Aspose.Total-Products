@@ -47,7 +47,30 @@ otherformats: MD XLSB TXT XLTX DIF FODS SXC XLSM XLAM ODS XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**การแปลง PCL เป็น TSV** แปลงเอาเอาท์พุตของ **Printer Command Language** เป็นไฟล์ **Tab-Separated Values** รูปแบบนี้เหมาะสำหรับการนำเข้าข้อมูลที่สะอาดและมีโครงสร้างเข้าสู่สเปรดชีตหรือระบบซอฟต์แวร์ที่พึงพอใจของข้อมูลที่แบ่งแยกด้วยแท็บ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สกัดเนื้อหาตารางจากข้อมูลรูปแบบพิมพ์
+* สร้างชุดข้อมูล TSV จากใบแจ้งหนี้หรือบันทึก PCL
+* นำเอาเอาท์พุต TSV เข้าสู่ระบบการย้ายข้อมูลหรือ ETL
+* แบ่งปันข้อมูลการพิมพ์โครงสร้างระหว่างระบบองค์กร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสกัดข้อมูลจากเก็บถาวรพิมพ์ตามกำหนดเวลาเป็น TSV
+* การผสานรวมกับท่อข้อมูลสำหรับแดชบอร์ดรายงาน
+* การแปลงจากการพิมพ์เป็นข้อมูลที่พร้อมใช้งานในการวิเคราะห์โครงสร้างโดยอัตโนมัติ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

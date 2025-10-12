@@ -121,7 +121,30 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为PPTM**会将**打印机命令语言**文档转换为**PowerPoint启用宏的演示文稿（.PPTM）**格式，允许在转换后的幻灯片中进行自动化操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将宏嵌入基于PCL的PowerPoint演示文稿
+* 在业务幻灯片中启用自动化工作流程
+* 将准备好的模板转换为启用宏的演示文稿
+* 从PCL内容构建交互式或数据驱动的幻灯片
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 为报告和分析自动生成PPTM文件
+* 在企业系统中集成启用宏的演示文稿生成
+* 从打印文件简化交互式演示文稿的创建
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

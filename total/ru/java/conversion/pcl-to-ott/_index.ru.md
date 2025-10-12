@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в OTT** преобразует вывод **языка управления принтером** в формат **шаблона текста OpenDocument (.OTT)** для стандартизированных шаблонов документов в **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание многоразовых шаблонов документов из форм PCL
+* Создание стандартизированных бизнес-макетов для деловой переписки
+* Преобразование бланков или отчетов PCL в редактируемые шаблоны
+* Поддержка рабочих процессов с открытыми документами с согласованным форматированием
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание OTT из систем дизайна печати
+* Интеграция с рабочими процессами создания контента предприятия
+* Пакетное преобразование печатных шаблонов в OTT для повторного использования документов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

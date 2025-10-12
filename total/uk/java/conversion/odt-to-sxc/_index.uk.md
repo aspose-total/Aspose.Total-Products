@@ -102,7 +102,27 @@ otherformats: XLSB XLSM XLSX TSV EXCEL ODS FODS DIF XLT XLAM CSV XLTX XLTM XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **ODT в SXC** дозволяє **сумісність зі старими форматами електронних таблиць StarOffice та ранніми версіями OpenOffice**, зберігаючи цілісність таблиць і структуровані дані.
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+* Перетворення таблиць на основі документів для використання в старих офісних системах
+* Обмін даними між старими середовищами електронних таблиць
+* Збереження сумісності з історичними форматами даних
+* Трансформація структурованих документів для архівування
+* Експорт текстових звітів у файли, сумісні з електронними таблицями
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+* Автоматизоване пакетне перетворення ODT в SXC для забезпечення сумісності з попередніми версіями
+* Інтеграція з робочими процесами підтримки старих програмних засобів
+* Міграція даних між документами та системами електронних таблиць
+* Обробка архівних документів для старих версій OpenOffice
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

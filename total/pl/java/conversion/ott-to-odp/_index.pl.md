@@ -54,7 +54,33 @@ Interfejs API umożliwia również konwersję dokumentów OTT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na ODP** przekształca szablony OpenDocument Text w pliki **OpenDocument Presentation**, umożliwiając ponowne wykorzystanie treści szablonów e-maili do prezentacji i pokazów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwersja szablonów tekstowych na slajdy prezentacji
+* Archiwizowanie szablonów jako edytowalne treści prezentacji
+* Ponowne wykorzystanie treści do pokazów szkoleniowych lub marketingowych
+* Wspólne tworzenie prezentacji na podstawie danych szablonów
+* Utrzymywanie spójnego brandingu w prezentacjach
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja OTT na ODP do przetwarzania wsadowego
+* Integracja z przepływami pracy zarządzania prezentacjami
+* Generowanie slajdów z bibliotek szablonów do celów szkoleniowych
+* Dynamiczne wstawianie treści szablonu do prezentacji
+* Automatyzacja konwersji szablonu na prezentację na poziomie przedsiębiorstwa
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

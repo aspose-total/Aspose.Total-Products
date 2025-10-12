@@ -30,7 +30,33 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OFT'yi OTT'ye dönüştürmek**, açık kaynak ofis ortamları için Outlook e-postalarından yeniden kullanılabilir, standartlaştırılmış şablon oluşturmayı sağlayan **OpenDocument Text Template dosyaları** oluşturur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* OFT içeriğinden yeniden kullanılabilir metin şablonları oluşturma
+* Belgeler için marka ve tutarlı düzenleri koruma
+* Açık kaynak ofis paketleri için kurumsal yazışmaları standartlaştırma
+* Tek bir e-posta şablonundan birden fazla belge oluşturma
+* Açık formatlarda işbirlikçi şablon tasarımı
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Otomatik OFT'den OTT'ye dönüşüm boru hatları
+* Açık kaynak ortamlarda şablon yönetim sistemleriyle entegrasyon
+* Standartlaştırılmış belge şablonlarının toplu oluşturulması
+* Harici verilerden OTT şablonlarına dinamik içerik ekleme
+* Kurumsal genişlikte şablon kütüphane güncellemeleri
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

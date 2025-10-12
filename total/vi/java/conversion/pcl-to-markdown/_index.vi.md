@@ -129,7 +129,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL sang MARKDOWN** trích xuất nội dung văn bản từ các tệp **Ngôn ngữ Lệnh Máy In** và định dạng thành **Markdown (.MD)** để xuất bản trên web hoặc tài liệu nhẹ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi báo cáo in thành tài liệu Markdown
+* Tạo văn bản có cấu trúc cho trang web, blog hoặc tệp README
+* Đơn giản hóa nội dung định dạng cho việc viết kỹ thuật và cộng tác
+* Tạo ra đầu ra văn bản nhẹ, được kiểm soát bằng phiên bản từ dữ liệu in
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo ra Markdown tự động từ các luồng in PCL
+* Tích hợp với các trình tạo trang tĩnh và hệ thống tài liệu
+* Chuyển đổi các bản in lớn thành Markdown cho cơ sở kiến thức
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

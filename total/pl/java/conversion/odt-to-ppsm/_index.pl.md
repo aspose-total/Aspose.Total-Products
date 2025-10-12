@@ -54,7 +54,27 @@ Interfejs API umożliwia również konwersję dokumentów ODT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na PPSM** pozwala na generowanie **slajdów z makrami** z dokumentów tekstowych, idealne do tworzenia interaktywnych i zautomatyzowanych prezentacji.
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+* Tworzenie zautomatyzowanych prezentacji z logiką makr
+* Konwertowanie strukturalnych danych z Worda na interaktywne pokazy slajdów
+* Usprawnianie automatyzacji raportów na prezentacje
+* Osadzanie dynamicznego zachowania prezentacji wewnątrz slajdów
+* Przygotowywanie procesów biznesowych generujących prezentacje z makrami
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+* Zautomatyzowane przepływy pracy prezentacji ODT-do-PPSM
+* Generowanie wsadowe makroaktywowanych pokazów slajdów z plików ODT
+* Integracja z systemami automatyzacji i raportowania przedsiębiorstw
+* Generowanie prezentacji na podstawie dynamicznej zawartości
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -129,7 +129,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi OTT'ye Dönüştürme**, **Yazıcı Komut Dili** çıktısını **OpenDocument Metin Şablonu (.OTT)** formatına dönüştürerek **LibreOffice Writer**'da standart belge şablonları oluşturur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* PCL formlarından yeniden kullanılabilir belge şablonları oluşturma
+* Yazışmalar için standart iş düzenleri oluşturma
+* PCL kağıt başlıklarını veya raporlarını düzenlenebilir şablonlara dönüştürme
+* Tutarsız biçimlendirme olmadan açık belge iş akışlarını destekleme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Baskı tasarım sistemlerinden otomatik OTT oluşturma
+* Kurumsal içerik oluşturma iş akışlarıyla entegrasyon
+* Basılı şablonların belge yeniden kullanımı için OTT'ye toplu dönüşümü
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,30 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para MHTML** encapsula o conteúdo da **Linguagem de Comando da Impressora (PCL)** em um **formato de arquivo da web (.MHTML)**, preservando layout, imagens e texto para distribuição web em um único arquivo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Empacotando relatórios PCL para visualização baseada em navegador
+* Preservando layouts de impressão como páginas da web autocontidas
+* Compartilhando conteúdo de impressão formatado via intranet ou e-mail
+* Armazenando trabalhos de impressão PCL legados como arquivos MHTML acessíveis
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automática de MHTML a partir de fluxos de impressão PCL
+* Integração com sistemas de arquivamento de documentos ou entrega baseada na web
+* Conversão em lote para relatórios internos ou documentação online
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

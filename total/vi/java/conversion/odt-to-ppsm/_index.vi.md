@@ -54,7 +54,25 @@ API cũng cho phép bạn chuyển đổi các tài liệu ODT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT sang PPSM** cho phép tạo ra **bản trình diễn kích hoạt macro** từ tài liệu văn bản, lý tưởng cho việc tạo ra trải nghiệm trình bày tương tác và tự động.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo bản trình bày tự động với logic macro
+* Chuyển đổi dữ liệu Word có cấu trúc thành bản trình diễn tương tác
+* Tối ưu hóa quy trình tự động từ báo cáo sang bản trình diễn
+* Nhúng hành vi trình bày động vào các slide
+* Chuẩn bị luồng công việc kinh doanh tạo ra bản trình diễn kích hoạt macro
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Luồng công việc tự động từ ODT sang PPSM
+* Tạo ra hàng loạt bản trình diễn kích hoạt macro từ tệp ODT
+* Tích hợp vào hệ thống tự động hóa và báo cáo doanh nghiệp
+* Tạo ra bản trình diễn dựa trên nội dung động
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

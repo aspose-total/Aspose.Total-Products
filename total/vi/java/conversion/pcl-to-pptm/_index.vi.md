@@ -121,7 +121,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành PPTM** thay đổi tài liệu **Ngôn ngữ Lệnh Máy In** thành định dạng **PowerPoint Macro-Enabled Presentation (.PPTM)**, cho phép tự động hóa trong các slide đã chuyển đổi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng macros vào các bài thuyết trình PowerPoint dựa trên PCL
+* Kích hoạt quy trình làm việc tự động trong các bộ slide doanh nghiệp
+* Chuyển đổi các mẫu sẵn sàng in thành các bài thuyết trình hỗ trợ macros
+* Xây dựng các slide tương tác hoặc dữ liệu từ nội dung PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo các tệp PPTM cho báo cáo và phân tích
+* Tích hợp việc tạo bài thuyết trình hỗ trợ macros vào hệ thống doanh nghiệp
+* Tối ưu hóa quy trình tạo bài thuyết trình tương tác từ các tệp in
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

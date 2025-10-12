@@ -102,7 +102,27 @@ otherformats: XLTM XLSM XLSX XLT XLS DIF EXCEL SXC ODS XLSB FODS XLAM TSV XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **ODT в CSV** перетворює таблиці текстових документів в **значення, розділені комами**, що дозволяє структуроване представлення даних для електронних таблиць, баз даних або засобів автоматизації.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Вилучення табличних даних з текстових документів для аналізу
+* Імпорт даних документу в електронну таблицю або BI-інструменти
+* Перетворення форматованого тексту на прості рядки та стовпці даних
+* Підготовка наборів даних для машинного навчання або робочих процесів автоматизації
+* Оптимізація процесів звітності на основі документів
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+* Автоматичне перетворення ODT в CSV для потоків даних
+* Масове вилучення табличних даних з документів для аналітичних систем
+* Безшовна інтеграція в процеси імпорту в базу даних
+* Синхронізація даних на рівні підприємства з документів в електронні таблиці
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

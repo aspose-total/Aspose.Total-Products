@@ -129,7 +129,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to DOT** dönüşümü, **Yazıcı Komut Dili** dosyalarından yazdırılan şablonların ve raporların **Microsoft Word Şablonu (.DOT)** belgelerine tutarlı biçimlendirme ve yeniden kullanım için dönüştürülmesine olanak tanır.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* PCL tabanlı raporlardan veya düzenlerden Word şablonları oluşturma
+* Bölümler arasında belge görünümünü standartlaştırma
+* Yazdırma dosyalarından yeniden kullanılabilir formlar ve rapor şablonları oluşturma
+* Belge hazırlama süreçlerini kolaylaştırma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Yazdırılan raporlardan kurumsal şablonların otomatik oluşturulması
+* İşletme operasyonları için şablon tabanlı belge iş akışları
+* Rutin PCL raporlarının kullanıma hazır DOT şablonlarına dönüştürülmesi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

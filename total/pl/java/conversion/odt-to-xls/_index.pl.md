@@ -61,7 +61,27 @@ Po przekonwertowaniu ODT na XLS [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwersja **ODT na XLS** umożliwia bezpośrednią transformację danych tekstowych OpenDocument na format **Excel 97–2003**, zapewniającą kompatybilność z systemami i przepływami pracy z poprzednich lat.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Eksportowanie tabel dokumentów do formatu XLS w starszych wersjach Excela
+* Utrzymywanie kompatybilności w środowiskach korporacyjnych
+* Przygotowanie danych do archiwizacji lub formatów regulowanych
+* Integracja treści ODT w historyczne przepływy pracy arkuszy kalkulacyjnych
+* Ułatwienie migracji z ODT do systemów raportowania opartych na Excelu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+* Masowe konwersje ODT na XLS dla baz danych z poprzednich lat
+* Automatyczne generowanie raportów w formacie XLS
+* Integracja z makrami Excela i systemami VBA
+* Zaplanowane transformacje danych w środowiskach z mieszanych formatów
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

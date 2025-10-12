@@ -102,7 +102,33 @@ otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC CSV XLTM XLAM XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертування **OTT у FODS** перетворює шаблони тексту OpenDocument у **плоский формат XML електронної таблиці**, що дозволяє редагування вмісту таблиці в простій, переносній XML-структурі.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Поширення редагованого вмісту електронних таблиць з шаблонів
+* Архівування даних у переносному XML-форматі
+* Інтеграція даних шаблону з додатками електронних таблиць з відкритим вихідним кодом
+* Аналіз табличного вмісту без пропрієтарного програмного забезпечення
+* Легка обмін структурованою інформацією шаблону
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизоване перетворення OTT у FODS для потоків електронних таблиць
+* Пакетна обробка шаблонів у переносні XML-електронні таблиці
+* Інтеграція з аналітичними та звітними засобами з відкритим вихідним кодом
+* Оптимізація робочих процесів від шаблону до електронної таблиці
+* Централізований архів на основі XML для повторно використовуваних даних шаблону
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

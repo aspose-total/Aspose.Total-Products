@@ -54,7 +54,30 @@ API cũng cho phép bạn chuyển đổi các tài liệu OTT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **OTT thành PPTM** biến đổi **Mẫu Văn bản OpenDocument (.OTT)** thành **Bản trình bày Kích hoạt Macro PowerPoint (.PPTM)** cho các bộ trình chiếu tương tác, tự động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng macro và tự động hóa vào các bộ trình chiếu tạo từ OTT
+* Chuyển đổi mẫu thành các bộ trình chiếu tương tác, động
+* Tối ưu hóa quy trình tạo nội dung lặp đi lặp lại cho cuộc họp hoặc báo cáo
+* Nâng cao quy trình làm việc với chức năng bản trình bày kích hoạt macro
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo bộ trình chiếu PPTM theo lịch từ mẫu tài liệu
+* Chuyển đổi hàng loạt từ OTT sang PPTM cho báo cáo doanh nghiệp
+* Tích hợp vào quy trình làm việc tự động với bản trình chiếu và nội dung
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

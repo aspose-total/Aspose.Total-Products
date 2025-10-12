@@ -121,7 +121,30 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в ODP** преобразует вывод **языка управления принтером** в слайды **OpenDocument Presentation (.ODP)** для использования в **LibreOffice Impress** или других средствах, совместимых с ODP.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование сводок на основе печати в слайды
+* Повторное использование отчетов PCL в качестве материала для презентаций
+* Визуализация печатных данных для совещаний или внутренней коммуникации
+* Стандартизация визуальных элементов на основе PCL в редактируемые форматы ODP
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное создание ODP из систем отчетности
+* Интеграция с процессами создания презентаций
+* Преобразование архивов PCL в повторно используемые слайды презентаций
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

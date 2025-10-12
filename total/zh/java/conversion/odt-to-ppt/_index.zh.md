@@ -54,7 +54,27 @@ otherformats: PPT PPSX PPSM PPS POTM POTX PPTM PPTX POT POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 PPT** 提供了一种直接的方式，将 **OpenDocument 文本文件转换为经典的 PowerPoint 演示文稿**，保持文本结构和布局以便立即使用。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将文本内容转换为可编辑的演示文稿幻灯片
+* 从 Word 样式文件准备旧版 PowerPoint 格式演示文稿
+* 以传统 PPT 格式分享报告或提案
+* 为旧系统提供与 PowerPoint 兼容的演示文稿
+* 从 ODT 文档创建会议或培训材料
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 将 ODT 文档自动转换为 PPT 格式
+* 批量导出以与旧版 PowerPoint 系统兼容
+* 集成到业务演示文稿创建工具中
+* 从 Word 样式数据动态生成可编辑幻灯片
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

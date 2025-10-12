@@ -47,7 +47,30 @@ Trong khi chuyển đổi tệp PCL sang XLTX, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Chuyển đổi PCL sang XLTX** biến đổi tài liệu **Ngôn ngữ Lệnh Máy In (PCL)** thành các tệp **Mẫu Excel (XLTX)**, cho phép định dạng nhất quán và khả năng tái sử dụng cho các bảng tính trong tương lai.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi bố cục in thành các mẫu Excel có thể tái sử dụng
+* Tối ưu hóa việc tạo báo cáo bằng cách sử dụng các kiểu đã được xác định trước
+* Bảo tồn tính nhất quán của tài liệu qua các bộ phận
+* Tự động hóa việc tạo mẫu cho báo cáo chuẩn hóa
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động hóa dựa trên mẫu cho báo cáo kinh doanh
+* Chuyển đổi các báo cáo in định kỳ thành các mẫu chuẩn hóa
+* Tạo các thiết kế sẵn sàng cho Excel từ đầu ra PCL một cách tự động
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

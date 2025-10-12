@@ -61,7 +61,33 @@ otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC FODS XLTM XLAM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **OTT 转换为 FODS** 可将OpenDocument文本模板转换为 **平面XML电子表格格式**，从而在简单、便携的XML结构中实现可编辑的电子表格内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从模板共享可编辑的电子表格内容
+* 在便携的基于XML的格式中存档数据
+* 将模板数据与开源电子表格应用集成
+* 在没有专有软件的情况下分析表格内容
+* 轻量级交换结构化模板信息
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于电子表格流水线的自动化OTT到FODS转换
+* 将模板批量处理为便携的XML电子表格
+* 与开源分析和报告工具集成
+* 简化模板到电子表格的工作流程
+* 集中的基于XML的存档，用于可重复使用的模板数据
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

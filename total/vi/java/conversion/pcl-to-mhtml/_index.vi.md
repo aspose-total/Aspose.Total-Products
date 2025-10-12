@@ -129,7 +129,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL sang MHTML** bao gồm nội dung **Ngôn ngữ Lệnh Máy in** vào định dạng **lưu trữ web (.MHTML)**, bảo tồn bố cục, hình ảnh và văn bản cho việc phân phối web dưới dạng tệp duy nhất.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Đóng gói báo cáo PCL để xem trên trình duyệt
+* Bảo tồn bố cục in như các trang web tự chứa
+* Chia sẻ nội dung in được định dạng qua mạng nội bộ hoặc email
+* Lưu trữ công việc in PCL cũ dưới dạng lưu trữ MHTML có thể truy cập
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo MHTML từ luồng in PCL
+* Tích hợp với hệ thống lưu trữ tài liệu hoặc giao diện web
+* Chuyển đổi hàng loạt cho báo cáo nội bộ hoặc tài liệu trực tuyến
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

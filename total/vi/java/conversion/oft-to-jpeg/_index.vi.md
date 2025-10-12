@@ -30,7 +30,33 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **OFT thành JPEG** xuất các mẫu Outlook dưới dạng **hình ảnh JPEG**, cung cấp một định dạng nén được hỗ trợ rộng rãi, lý tưởng cho việc sử dụng trên web và lưu trữ hiệu quả.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chia sẻ ảnh chụp email trực tuyến
+* Nhúng mẫu vào báo cáo và bài thuyết trình
+* Lưu trữ nội dung email dưới dạng nén
+* Xem trước nhanh chóng cho việc duyệt và phê duyệt thiết kế và tiếp thị
+* Khả năng truy cập hình ảnh trên nhiều nền tảng
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt từ OFT sang JPEG để phân phối trên web
+* Tích hợp với các nền tảng tự động hóa tiếp thị
+* Tự động tạo bộ sưu tập xem trước mẫu
+* Tối ưu hóa lưu trữ cho các bộ sưu tập mẫu lớn
+* Quy trình xuất khẩu tự động cho hình ảnh chiến dịch email
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

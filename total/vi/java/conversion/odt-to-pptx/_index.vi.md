@@ -54,7 +54,27 @@ API cũng cho phép bạn chuyển đổi các tài liệu ODT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT thành PPTX** chuyển nội dung viết thành **bài thuyết trình PowerPoint hiện đại**, hoàn hảo cho các chuyên gia cần các slide có thể chỉnh sửa, sẵn sàng thiết kế từ tài liệu có cấu trúc.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi báo cáo dự án và tóm tắt thành bộ slide trình bày
+* Chuyển đổi nội dung kinh doanh hoặc nghiên cứu thành slide hình ảnh
+* Chia sẻ ý tưởng và tài liệu dưới dạng bài thuyết trình PPTX có thể chỉnh sửa
+* Tạo ra các slide một cách nhất quán về mặt hình ảnh từ nội dung văn bản được định dạng
+* Chuẩn bị bài thuyết trình động và cộng tác từ các tệp ODT
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+* Chuyển đổi ODT thành PPTX tự động cho giao tiếp kinh doanh
+* Tích hợp vào các luồng tạo ra nội dung thành bài thuyết trình
+* Chuyển đổi hàng loạt các tệp ODT thành định dạng PowerPoint hiện đại
+* Tạo ra các slide động cho báo cáo doanh nghiệp và cuộc họp
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

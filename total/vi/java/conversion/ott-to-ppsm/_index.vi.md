@@ -54,7 +54,30 @@ API cũng cho phép bạn chuyển đổi các tài liệu OTT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **OTT thành PPSM** biến đổi **Mẫu Văn bản OpenDocument (.OTT)** thành **Trình diễn Kích hoạt Macro PowerPoint (.PPSM)**, cho phép tạo ra các bài thuyết trình tự động và tương tác từ các mẫu văn bản.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo bài thuyết trình kích hoạt macro từ các mẫu văn bản dựa trên OTT
+* Tự động hóa nội dung bài thuyết trình dựa trên các mẫu tài liệu
+* Tái sử dụng các mẫu doanh nghiệp cho bài thuyết trình trượt động
+* Nhúng tương tác và macro để tự động hóa quy trình làm việc
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi định kỳ các mẫu tài liệu thành các trang trình diễn PPSM
+* Tích hợp với các đường ống tự động hóa nội dung doanh nghiệp
+* Xử lý hàng loạt các tệp OTT thành các bài thuyết trình tương tác
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

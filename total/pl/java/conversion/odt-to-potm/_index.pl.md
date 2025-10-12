@@ -54,7 +54,27 @@ Interfejs API umożliwia również konwersję dokumentów ODT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na POTM** umożliwia przekształcenie dokumentów opartych na tekście w **szablony PowerPoint z obsługą makr**, przydatne do automatyzacji tworzenia slajdów i osadzania logiki prezentacji.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Generowanie szablonów z obsługą makr na podstawie szczegółowych raportów
+* Automatyzacja wypełniania slajdów na podstawie struktur tekstowych
+* Tworzenie inteligentnych szablonów prezentacji z osadzoną logiką VBA
+* Przygotowywanie dynamicznych szablonów do powtarzających się prezentacji
+* Usprawnianie prezentacji biznesowych
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+* Zautomatyzowane procesy tworzenia szablonów ODT-to-POTM
+* Integracja z systemami automatyzacji prezentacji w przedsiębiorstwach
+* Tworzenie zbiorcze szablonów PowerPoint z obsługą makr
+* Dynamiczne generowanie interaktywnych szablonów slajdów
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

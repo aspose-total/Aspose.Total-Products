@@ -47,7 +47,30 @@ Ao converter o arquivo PCL para XLTM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter **PCL para XLTM** permite a criação de **modelos do Excel habilitados para macro** a partir de documentos impressos, combinando a preservação do layout com a capacidade de incorporar lógica de automação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Projetar modelos do Excel habilitados para macro a partir de layouts impressos
+* Incorporar automação reutilizável em modelos de relatório
+* Possibilitar a geração de documentos dinâmicos baseados em modelos
+* Padronizar a criação inteligente de planilhas
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Gerar modelos inteligentes a partir de relatórios PCL de rotina
+* Automatizar a produção de relatórios do Excel com lógica de macro
+* Conversão em lote de dados de impressão em modelos de negócios reutilizáveis
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

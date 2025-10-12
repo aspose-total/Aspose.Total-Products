@@ -54,7 +54,33 @@ A API também permite converter documentos OTT protegidos por senha em POTX. Se 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **OTT para POTX** produz **arquivos de modelo do PowerPoint sem macros**, permitindo modelos de slides seguros e padronizados derivados de modelos textuais.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Modelos de apresentação reutilizáveis e sem macros
+* Padronização de designs de slides corporativos
+* Preparação de decks de treinamento ou marketing baseados em modelos
+* Arquivamento de layouts de slides para equipes colaborativas
+* Garantia de segurança evitando macros
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote automatizada de OTT para POTX
+* Integração com sistemas de gerenciamento de modelos de apresentação
+* Geração dinâmica de decks de slides a partir de bibliotecas de modelos
+* Distribuição em toda a empresa de modelos sem macros
+* Automação de pipeline para atualizações de modelos de slides
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

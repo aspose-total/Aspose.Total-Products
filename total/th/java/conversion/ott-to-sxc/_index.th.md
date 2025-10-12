@@ -61,7 +61,33 @@ otherformats: FODS EXCEL XLS SXC XLTX XLSM ODS XLAM XLT XLTM XLSX TSV DIF XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **OTT เป็น SXC** จะเปลี่ยนรูปแบบไฟล์เทมเพลตข้อความ OpenDocument เป็น **ไฟล์สเปรดชีต StarOffice Calc** ทำให้เนื้อหาของเทมเพลตสามารถใช้งานในแอปพลิเคชันสเปรดชีตเช่น OpenOffice Calc หรือ LibreOffice Calc
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การแปลงเทมเพลตข้อความเป็นตารางสเปรดชีต
+* เก็บข้อมูลเทมเพลตในรูปแบบสเปรดชีต
+* เตรียมรายงานหรือการคำนวณที่ได้จากเนื้อหาเทมเพลต
+* การแก้ไขร่วมกันของสเปรดชีตที่มีเทมเพลตเป็นพื้นฐาน
+* แบ่งปันข้อมูลเทมเพลตโครงสร้างข้ามแพลตฟอร์ม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง OTT เป็น SXC โดยอัตโนมัติสำหรับการประมวลผลเป็นชุด
+* การผสานกับไดนามิกของสเปรดชีตและระบบรายงาน
+* การสร้างสเปรดชีตที่สามารถแก้ไขได้จากเทมเพลตหลายรูปแบบ
+* คลังสารสำคัญสำหรับข้อมูลสเปรดชีตที่ได้จากเทมเพลต
+* การสกัดเอาเนื้อหาตารางไดนามิกสำหรับการวิเคราะห์และการคำนวณ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,33 @@ Po przekonwertowaniu OTT na ODS [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **OTT na ODS** pozwala reprezentować szablony tekstu OpenDocument jako pliki **arkusza kalkulacyjnego OpenDocument**, umożliwiając użycie, analizę i edycję arkusza kalkulacyjnego na różnych platformach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Przekształcanie tabel szablonów w edytowalne arkusze kalkulacyjne
+* Archiwizacja szablonów opartych na danych w otwartym formacie
+* Przygotowywanie raportów i analizy na podstawie treści szablonu
+* Wspólne edytowanie arkuszy kalkulacyjnych pochodzących ze szablonów
+* Udostępnianie strukturalnych informacji szablonu na różnych platformach
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja OTT na ODS dla przepływów pracy w przedsiębiorstwie
+* Partiowe eksportowanie tabel szablonów do arkuszy kalkulacyjnych
+* Integracja z raportowaniem i analizą danych
+* Dynamiczne generowanie arkuszy kalkulacyjnych z bibliotek szablonów
+* Centralne zarządzanie danymi arkuszy kalkulacyjnych pochodzących ze szablonów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

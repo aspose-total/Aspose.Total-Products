@@ -54,7 +54,33 @@ Interfejs API umożliwia również konwersję dokumentów OTT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **OTT na POTX** generuje pliki **szablonów PowerPoint bez makr**, umożliwiając bezpieczne, standaryzowane szablony slajdów pochodzące z szablonów tekstowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Wielokrotnie używane, pozbawione makr szablony prezentacji
+* Standaryzacja projektów slajdów korporacyjnych
+* Przygotowywanie szablonów do szkoleń lub prezentacji marketingowych
+* Archiwizowanie układów slajdów dla zespołów współpracujących
+* Zapewnienie bezpieczeństwa poprzez unikanie makr
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja zbiorcza OTT na POTX
+* Integracja z systemami zarządzania szablonami prezentacji
+* Dynamiczne generowanie zestawów slajdów z bibliotek szablonów
+* Rozpowszechnianie w całej firmie szablonów pozbawionych makr
+* Automatyzacja procesu aktualizacji szablonów slajdów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

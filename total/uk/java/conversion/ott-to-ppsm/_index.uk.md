@@ -100,7 +100,30 @@ otherformats: POTM PPTM PPT POTX POWERPOINT ODP PPSX PPTX PPS POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT у PPSM** перетворює **Шаблони тексту OpenDocument (.OTT)** у **Показ слайдів з підтримкою макросів PowerPoint (.PPSM)**, що дозволяє автоматизовані та інтерактивні презентації з текстових шаблонів.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Створення презентацій з підтримкою макросів на основі текстових шаблонів OTT
+* Автоматизація контенту презентацій, отриманих з документальних шаблонів
+* Повторне використання корпоративних шаблонів для динамічних слайд-презентацій
+* Вбудовання інтерактивності та макросів для автоматизації робочих процесів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Планове перетворення документальних шаблонів у слайди PPSM
+* Інтеграція з потоками автоматизації контенту підприємства
+* Пакетна обробка файлів OTT у інтерактивні слайд-презентації
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

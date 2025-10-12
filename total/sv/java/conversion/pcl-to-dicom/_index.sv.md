@@ -57,7 +57,30 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Att konvertera **PCL till DICOM** möjliggör omvandling av utdata i **Printer Command Language** till **Digital Imaging and Communications in Medicine (DICOM)**-filer. Detta är särskilt användbart för medicinska miljöer som behöver arkivera eller visualisera diagnostiska data i bildsystem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga användningsfall" %}}
+
+* Konvertera utskrivna diagnostiska rapporter till DICOM-bildformat
+* Bädda in skannade utskriftsdata i medicinska bildarkiv
+* Integrera PCL-baserade medicinska dokument i PACS-system
+* Standardisera medicinska journalformat för hälso- och sjukvårdens efterlevnad
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+* Automatisk konvertering av utskrivna medicinska rapporter till DICOM för sjukhusjournaler
+* Integrera omvandling från utskrift till DICOM i hälso- och sjukvårdsarbetsflöden
+* Batch-omvandling av PCL-arkiv för medicinska bildlagringssystem
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

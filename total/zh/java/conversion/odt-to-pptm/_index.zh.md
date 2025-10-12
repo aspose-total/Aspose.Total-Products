@@ -54,7 +54,27 @@ otherformats: PPSM PPSX PPS POWERPOINT PPT POTM POTX PPTM PPTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 PPTM** 可以从文本文档中创建 **带宏的 PowerPoint 演示文稿**，将静态内容与交互式或自动化幻灯片行为相结合。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从结构化文本文档设计交互式演示文稿
+* 创建带嵌入宏的自动化报告
+* 生成触发动态幻灯片转换的演示文稿
+* 准备具有 VBA 功能的智能商业或培训幻灯片
+* 使用带宏的演示文稿简化报告交付
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 自动化的 ODT 到 PPTM 演示文稿生成工作流程
+* 与企业报告和自动化系统集成
+* 从 ODT 文件批量创建带宏的幻灯片
+* 为内部报告生成动态数据驱动的演示文稿
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

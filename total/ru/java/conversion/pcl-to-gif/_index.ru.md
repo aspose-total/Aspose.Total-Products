@@ -129,7 +129,33 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в GIF** позволяет преобразовать файлы языка описания принтера в изображения **формата Graphics Interchange Format**, идеально подходит для легких, совместимых с вебом предварительных просмотров печатного контента.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Генерация статических или анимированных предварительных просмотров макетов печати
+* Обмен низкоскоростными визуальными данными печати в Интернете
+* Архивирование документов PCL в виде легких изображений
+* Встраивание содержимого PCL в документацию или отчеты
+* Поддержка визуальной проверки вывода на печать
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PCL в GIF для автоматизации предварительного просмотра печати
+* Интеграция с системами мониторинга печати или отслеживания заданий
+* Генерация миниатюрных предварительных просмотров для инструментов управления документами
+* Автоматизация публикации печати в Интернет
+* Преобразование рабочего процесса для визуального контроля качества печатных заданий
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

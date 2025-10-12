@@ -129,7 +129,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Chuyển đổi PCL sang DOT** cho phép các mẫu in và báo cáo từ các tệp **Ngôn ngữ Lệnh Máy In** được tái sử dụng thành tài liệu **Mẫu Microsoft Word (.DOT)** để định dạng và sử dụng một cách nhất quán.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Xây dựng mẫu Word từ các báo cáo hoặc bố cục dựa trên PCL
+* Chuẩn hóa diện mạo tài liệu trên các bộ phận
+* Tạo các biểu mẫu và mẫu báo cáo có thể tái sử dụng từ các tệp in
+* Tối ưu hóa quy trình chuẩn bị tài liệu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo ra các mẫu doanh nghiệp từ các báo cáo in
+* Luồng làm việc tài liệu dựa trên mẫu cho các hoạt động kinh doanh
+* Chuyển đổi các báo cáo PCL thường xuyên thành các mẫu DOT sẵn sàng sử dụng
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

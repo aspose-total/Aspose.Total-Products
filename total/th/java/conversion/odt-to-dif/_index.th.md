@@ -61,7 +61,27 @@ otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB DIF XLT EXCEL XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น DIF** จะแปลงเนื้อหาที่เป็นข้อความเป็นไฟล์รูปแบบการแลกเปลี่ยนข้อมูล (DIF) ซึ่งช่วยให้เกิดการแลกเปลี่ยนข้อมูลโครงสร้างระหว่างเอกสารและสเปรดชีท
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การส่งออกข้อมูลตารางจากเอกสารเข้าสู่ระบบข้อมูล
+* การรวมรายงานที่เป็นข้อความกับซอฟต์แวร์สเปรดชีท
+* เตรียมชุดข้อมูลสำหรับนำเข้าเครื่องมือวิเคราะห์
+* แบ่งปันข้อมูลเอกสารโครงสร้างระหว่างแอปพลิเคชัน
+* การแปลงตารางเอกสารสำหรับการย้ายข้อมูลหรือประมวลผล
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+* การส่งออก ODT เป็น DIF โดยอัตโนมัติสำหรับเวิร์กโฟลว์ข้อมูลขององค์กร
+* การผสานกับท่อ ETL และเครื่องมือรายงาน
+* การแปลงรายงานเป็นรูปแบบการแลกเปลี่ยนข้อมูลเป็นชุด
+* การแปลงเอกสารเป็นชุดข้อมูลสำหรับแพลตฟอร์มการวิเคราะห์และธุรกิจอย่างมีประสิทธิภาพ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

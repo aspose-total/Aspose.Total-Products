@@ -121,7 +121,30 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в POTX** преобразует вывод **языка управления принтером** в формат **PowerPoint Open XML Template (.POTX)** для создания многоразовых и редактируемых шаблонов презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание стандартизированных шаблонов PowerPoint на основе дизайнов PCL
+* Создание многоразовых макетов для бизнес-презентаций
+* Преобразование готовых к печати корпоративных визуальных материалов в современные шаблоны .POTX
+* Поддержание единообразия в презентациях PowerPoint
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование макетов для печати в шаблоны POTX
+* Интеграция с системами генерации слайдов или автоматизации дизайна
+* Упрощенное создание шаблонов для средств корпоративной коммуникации
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

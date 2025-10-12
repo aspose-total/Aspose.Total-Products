@@ -102,7 +102,27 @@ otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB CSV XLT EXCEL XLAM SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **ODT в DIF** перетворює текстовий контент у файли **Data Interchange Format (DIF)**, що дозволяє обмін структурованими даними між документами та електронними таблицями.
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Експорт табличної інформації з документів у системи обробки даних
+* Інтеграція текстових звітів з програмним забезпеченням електронних таблиць
+* Підготовка наборів даних для імпорту в аналітичні інструменти
+* Обмін структурованими даними документів між додатками
+* Конвертація таблиць документів для міграції або обробки даних
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+* Автоматизований експорт ODT в DIF для корпоративних робочих процесів з даними
+* Інтеграція з потоками ETL та засобами звітності
+* Пакетна конвертація звітів у формати обміну даними
+* Конвертація документів у набори даних для аналітичних та BI платформ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

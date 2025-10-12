@@ -121,7 +121,30 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 PPS** 将 **打印机命令语言** 输出转换为 **PowerPoint 演示 (.PPS)** 格式，使演示准备好直接播放。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于 PCL 的文档转换为准备好展示的幻灯片
+* 自动生成用于查看的报告演示
+* 将 PCL 内容传递为全屏演示
+* 保留 PCL 布局以供不可编辑的演示使用
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从定期 PCL 报告自动创建 .PPS 文件
+* 与定时演示发布集成
+* 将打印内容转换为可展示的演示文件
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

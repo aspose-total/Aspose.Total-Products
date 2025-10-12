@@ -61,7 +61,27 @@ Po przekonwertowaniu ODT na XLAM [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na XLAM** pozwala na przekształcenie zawartości dokumentu w **makro-włączane dodatki Excela**, idealne do automatyzacji zadań arkusza kalkulacyjnego wynikających z danych tekstowych o strukturyzowanym charakterze.
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+* Generowanie dodatków Excela z szablonów w stylu Worda
+* Automatyzacja prac arkuszowych w Excelu opartych na logice dokumentu
+* Osadzanie formuł lub makr na podstawie definicji tekstowych
+* Tworzenie wielokrotnego użytku narzędzi makr z plików ODT
+* Zwiększanie produktywności poprzez łączenie danych z Worda z automatyzacją w Excelu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+* Automatyczna generacja dodatku makro ODT do XLAM
+* Integracja z systemami automatyzacji Excela w przedsiębiorstwie
+* Tworzenie wsadowe narzędzi z makrami z treści strukturalnych ODT
+* Usprawnianie procesów rozwoju makr od dokumentu do Excela
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

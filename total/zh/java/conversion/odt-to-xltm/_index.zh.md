@@ -61,7 +61,27 @@ otherformats: XLT XLSX FODS XLSM XLTX DIF XLS ODS EXCEL XLTM TSV SXC XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 XLTM** 将OpenDocument Text内容转换为 **支持宏的Excel模板**，在单个工作流中结合自动化和设计一致性。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从文档创建可重用的宏驱动Excel模板
+* 使用预构建模板自动化报告生成
+* 简化重复的文档到电子表格工作流程
+* 支持企业级Excel自动化设置
+* 维护标准化、自动化的电子表格结构
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 针对报告周期安排的ODT到XLTM转换
+* 从文本输入批量生成宏模板
+* 与Excel VBA自动化工作流程集成
+* 企业系统中的动态文档到模板导出
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

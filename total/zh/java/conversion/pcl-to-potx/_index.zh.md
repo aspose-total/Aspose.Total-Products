@@ -121,7 +121,30 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为POTX**将**打印机命令语言**输出转换为**PowerPoint开放XML模板（.POTX）**格式，用于创建可重复使用和可编辑的演示文稿模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从PCL设计构建标准化的PowerPoint模板
+* 为业务演示文稿创建可重复使用的布局
+* 将准备打印的公司视觉转换为现代的.POTX模板
+* 在PowerPoint演示文稿中保持一致性
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将打印布局自动转换为POTX模板
+* 与幻灯片生成或设计自动化系统集成
+* 为企业通信工具简化模板创建
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

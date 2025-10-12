@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Преобразование PCL в RTF** позволяет превратить выводы **языка управления принтером (Printer Command Language)** в документы **формата Rich Text (RTF)** для широкой совместимости, удобного редактирования и использования на различных платформах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование напечатанных документов в редактируемые файлы формата rich text
+* Сохранение базового форматирования с обеспечением портативности
+* Обмен отчетами, созданными при печати, между несколькими текстовыми процессорами
+* Подготовка легких версий документов для архивного использования
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование файлов печати PCL в RTF для распространения
+* Интеграция конвейеров PCL в RTF в корпоративные системы
+* Автоматизированное создание форматированных текстовых отчетов из данных печати
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

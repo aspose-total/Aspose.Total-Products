@@ -100,7 +100,27 @@ otherformats: PPSM PPSX PPS POWERPOINT PPT POTM POTX ODP PPTX POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **ODT в PPTM** дозволяє створювати **презентації PowerPoint з макросами** з текстових документів, поєднуючи статичний вміст з інтерактивними або автоматизованими поведінками слайдів.
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+* Створення інтерактивних презентацій зі структурованих текстових документів
+* Створення автоматизованих звітів з вбудованими макросами
+* Генерація презентацій, що викликають динамічні переходи слайдів
+* Підготовка розумних бізнес-або навчальних слайдів з функціоналом VBA
+* Оптимізація доставки звітів за допомогою презентацій з макросами
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+* Автоматизовані робочі процеси генерації презентацій ODT в PPTM
+* Інтеграція з системами підприємницької звітності та автоматизації
+* Пакетне створення слайдів з макросами з файлів ODT
+* Генерація динамічних презентацій на основі даних для внутрішньої звітності
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

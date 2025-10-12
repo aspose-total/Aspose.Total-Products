@@ -135,7 +135,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi XAML'e Dönüştürme**, Windows uygulamalarında vektör tabanlı grafikler ve UI öğeleri için **Yazıcı Komut Dili** dosyalarını **XAML (Genişletilebilir Uygulama İşaretleme Dili)**'ne dönüştürür.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* PCL grafiklerini WPF veya UWP uygulamalarında yeniden kullanma
+* Baskı düzenlerini etkileşimli UI bileşenlerine dönüştürme
+* Windows yazılımlarına ölçeklenebilir vektör grafikler gömme
+* Baskı tasarımını dijital uygulama entegrasyonu için koruma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Uygulama geliştirme için Otomatik PCL'den XAML'e dönüşüm
+* UI tasarımına ve iş akışı otomasyonuna entegrasyon
+* PCL arşivlerinin vektör tabanlı XAML varlıklarına toplu dönüşümü
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

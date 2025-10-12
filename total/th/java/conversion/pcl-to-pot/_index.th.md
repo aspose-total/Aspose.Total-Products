@@ -121,7 +121,30 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น POT** จะแปลงไฟล์ **Printer Command Language** เป็นรูปแบบ **PowerPoint Template (.POT)** ซึ่งช่วยให้สามารถนำเลเอาเค้าโครงการพิมพ์เป็นเทมเพลตสไลด์ที่สามารถแก้ไขได้ใน Microsoft PowerPoint
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลต PowerPoint จากรายงานหรือแบบฟอร์มที่ถูกพิมพ์
+* นำเลเอาเค้าโครง PCL เป็นการออกแบบสไลด์ที่มีแบรนด์
+* แปลงเอกสารบน PCL ขององค์กรเป็นเทมเพลตการนำเสนอ
+* รักษาความสม่ำเสมอในการนำเสนอ PowerPoint
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* สร้าง POT โดยอัตโนมัติจากงานพิมพ์ PCL ที่เกิดซ้ำ
+* การผสานรวมกับกระบวนการทำงานอัตโนมัติในการนำเสนอขององค์กร
+* ท่อการแปลงเทมเพลตสำหรับภาพประกอบการตลาดหรือรายงาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

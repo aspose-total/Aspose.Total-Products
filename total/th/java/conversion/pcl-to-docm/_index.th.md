@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น DOCM** ช่วยให้สามารถแปลงผลลัพธ์ **Printer Command Language** เป็นเอกสาร Word ที่เปิดใช้งานแมโคร ทำให้สามารถอัตโนมัติ อัพเดตไดนามิก และมีความสามารถในการจัดรูปแบบขั้นสูงโดยตรงจากไฟล์ที่พิมพ์
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ฝังแมโครลงในเอกสาร Word ที่แปลงเพื่อการอัตโนมัติ
+* นำข้อมูลที่พิมพ์มาใช้ในรายงานที่สามารถแก้ไขและโปรแกรมได้
+* สร้างเทมเพลตธุรกิจที่สามารถแก้ไขได้จากการพิมพ์ PCL
+* เพิ่มประสิทธิภาพในการทำงานด้วยเอกสารที่เปิดใช้งานแมโคร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* แปลงเป็นกลุ่มเอกสาร PCL เป็น DOCM เพื่อรายงานไดนามิก
+* รวมผลลัพธ์การพิมพ์เข้ากับการทำงานอัตโนมัติใน Word
+* สร้างเอกสารที่เปิดใช้งานแมโครจากกระแสการพิมพ์ในเวลาจริง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi PPS'ye** dönüştürmek, **Yazıcı Komut Dili** çıktısını **PowerPoint Gösterisi (.PPS)** formatına dönüştürerek sunumun doğrudan oynatılmaya hazır hale gelmesini sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* PCL tabanlı belgeleri sunuma hazır slaytlara dönüştürme
+* Görüntüleme için otomatik rapor sunumları oluşturma
+* PCL içeriğini tam ekran sunumlar olarak sunma
+* Düzenlenemeyen sunum kullanımı için PCL düzenlerini koruma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tekrarlayan PCL raporlarından .PPS dosyalarının otomatik oluşturulması
+* Zamanlanmış sunum yayınlama ile entegrasyon
+* Baskı içeriğini görüntüye hazır sunum dosyalarına dönüştürme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

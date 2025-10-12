@@ -57,7 +57,30 @@ Usando a API, você também pode girar a imagem DXF de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para DXF** transforma gráficos ou layouts em **Printer Command Language** em arquivos **Drawing Exchange Format (DXF)**, amplamente utilizados em aplicações de CAD e design de engenharia.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Extrair gráficos vetoriais de relatórios de engenharia impressos
+* Converter diagramas esquemáticos da saída de impressão em arquivos legíveis por CAD
+* Digitalizar layouts gerados por impressão para modificações de design posteriores
+* Possibilitar a interoperabilidade entre sistemas de impressão e ferramentas de CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automatizada de arquivos DXF a partir de desenhos técnicos baseados em impressão
+* Integrar a conversão de PCL para DXF nos pipelines de fluxo de trabalho de engenharia
+* Transformação em lote de saídas de impressão arquivadas em formatos compatíveis com CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

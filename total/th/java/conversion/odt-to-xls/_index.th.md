@@ -61,7 +61,27 @@ otherformats: ODS DIF EXCEL XLSB XLTM FODS XLAM TSV XLSX XLS XLSM SXC XLTX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น XLS** ช่วยให้สามารถแปลงข้อมูลจาก OpenDocument Text เป็นรูปแบบ **Excel 97–2003** โดยตรง ทำให้เข้ากันได้กับระบบและขั้นตอนการทำงานเดิม
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ส่งออกตารางเอกสารไปยัง XLS เพื่อใช้ใน Excel เวอร์ชันเก่า
+* รักษาความเข้ากันได้ย้อนหลังในสภาพแวดล้อมขององค์กร
+* เตรียมข้อมูลสำหรับรูปแบบการเก็บถาวรหรือที่ต้องการประกอบกฎหมาย
+* ผสานเนื้อหา ODT เข้ากับขั้นตอนการทำงานของสเปรดชีทในอดีต
+* การทำให้ง่ายขึ้นในการย้ายจาก ODT ไปสู่ระบบรายงานที่ใช้ Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+* การแปลงจำนวนมากของ ODT เป็น XLS สำหรับฐานข้อมูลเวอร์ชันเก่า
+* การสร้างรายงานโดยอัตโนมัติในรูปแบบ XLS
+* การผสานกับแมโคร Excel และระบบ VBA
+* การแปลงข้อมูลตามกำหนดเวลาในสภาพแวดล้อมที่มีรูปแบบผสม
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

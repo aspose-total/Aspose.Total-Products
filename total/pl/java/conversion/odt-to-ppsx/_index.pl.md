@@ -54,7 +54,27 @@ Interfejs API umożliwia również konwersję dokumentów ODT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na PPSX** zamienia dokumenty oparte na tekście w **nowoczesne pliki prezentacji slajdów**, zachowując formatowanie, strukturę i wizualizacje do natychmiastowego odtwarzania.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie końcowych slajdów prezentacji bezpośrednio z treści tekstowej
+* Dostarczanie opracowanych raportów jako gotowych do uruchomienia zestawów slajdów
+* Dzielenie się treścią prezentacji bez edytowalnych źródeł
+* Przygotowywanie prezentacji konferencyjnych lub spotkań na podstawie dokumentów
+* Dystrybuowanie zfinalizowanych wersji prezentacji slajdów raportów
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+* Automatyczna generacja prezentacji ODT-na-PPSX
+* Konwersja wsadowa do masowego publikowania prezentacji
+* Integracja z systemami raportowania korporacyjnego
+* Automatyzacja przekształcania dokumentów w prezentacje slajdów dla organizacji
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

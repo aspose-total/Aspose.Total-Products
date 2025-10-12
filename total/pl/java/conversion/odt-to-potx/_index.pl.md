@@ -54,7 +54,27 @@ Interfejs API umożliwia również konwersję dokumentów ODT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na POTX** pozwala przekształcić dokumenty tekstowe w **nowoczesne pliki szablonów PowerPoint**, idealne do zachowania spójności marki korporacyjnej i prezentacji.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie szablonów prezentacji na podstawie dokumentacji pisemnej
+* Konwertowanie strukturalnych zarysów biznesowych na markowe slajdy
+* Przygotowywanie standardów prezentacji do współpracy zespołowej
+* Tworzenie firmowych ram prezentacji
+* Generowanie gotowych do projektowania szablonów PowerPoint z treści Worda
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+* Automatyczna konwersja dokumentów ODT na szablony PPTX
+* Integracja w przedsiębiorcze potoki dokument-do-prezentacji
+* Partiowa generacja motywów PowerPoint z dokumentów biznesowych
+* Tworzenie szablonów PowerPoint napędzanych treścią dla spójnego brandingu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

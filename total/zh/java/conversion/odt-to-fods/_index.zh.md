@@ -61,7 +61,27 @@ otherformats: TSV XLSM XLSB XLSX ODS XLT XLTX FODS SXC XLS XLTM EXCEL DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 FODS** 可以将文本文档转换为 **平面 XML 电子表格文件**，保留结构化数据以开放、易解析的格式。
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将文本表格转换为结构化电子表格文件
+* 为基于 XML 的系统准备基于文档的数据
+* 将报告存档为开放的电子表格格式
+* 促进文字处理器和电子表格之间的互操作性
+* 将数据丰富的文档共享为轻量级的 FODS 文件
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 在数据处理工作流程中自动进行 ODT 到 FODS 的转换
+* 集成到开放文档管理系统中
+* 批量将基于文本的数据转换为电子表格兼容格式
+* 为政府或企业报告导出基于 XML 的数据
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

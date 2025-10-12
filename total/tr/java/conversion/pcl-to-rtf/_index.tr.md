@@ -129,7 +129,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to RTF** dönüştürme, **Yazıcı Komut Dili** çıktılarını **Zengin Metin Biçimi (RTF)** belgelerine dönüştürerek geniş uyumluluk, kolay düzenleme ve platformlar arası kullanım olanağı sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Basılı belgeleri düzenlenebilir zengin metin dosyalarına dönüştürme
+* Taşınabilirliği sağlarken temel biçimlendirmeyi koruma
+* Birden fazla kelime işlemcisinde paylaşılan yazdırma üretilen raporlar
+* Arşiv kullanımı için hafif belge sürümleri hazırlama
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* PCL yazdırma dosyalarının RTF'ye toplu dönüştürülmesi dağıtım için
+* Kurumsal sistemlere PCL'den RTF'ye boru hatlarının entegrasyonu
+* Yazdırma verilerinden biçimlendirilmiş metin raporlarının otomatik oluşturulması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

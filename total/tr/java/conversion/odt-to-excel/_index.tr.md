@@ -61,7 +61,27 @@ ODT'yi EXCEL'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi EXCEL'e** dönüştürmek, OpenDocument Text verilerini **Microsoft Excel elektronik tablolarına** dönüştürmeyi sağlar, bilgileri analiz etmeyi, görselleştirmeyi ve düzenlemeyi kolaylaştırır.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* ODT dosyalarından tabloları Excel'e aktarma ve düzenleme
+* İleri düzey hesaplamalar için belge verilerini hazırlama
+* Metin verilerini Excel tabanlı panolara entegre etme
+* Raporlama veya grafik çizme için metin tabanlı verileri yeniden biçimlendirme
+* ODT ve Microsoft Office araçları arasındaki etkileşimi artırma
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Karma belge ve elektronik tablo iş akışları için otomatik dönüşüm
+* Raporlama veya analitik akışlarında ODT'den Excel'e işleme
+* Kurumsal veri sistemleri için zamanlanmış belge dönüşümleri
+* Belge havuzları veya bulut araçları için çoklu format dışa aktarma
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,30 @@ otherformats: EXCEL XLT XLSX TSV XLTX SXC XLSB ODS XLSM XLS XLTM FODS XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为XLSM**将**OpenDocument Text Templates (.OTT)**转换为**Excel Macro-Enabled Workbook (.XLSM)**，实现电子表格中的自动化和基于宏的功能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从OTT模板创建带有宏的Excel工作簿
+* 自动化数据处理或报告生成工作流程
+* 重复使用文档模板以进行交互式电子表格解决方案
+* 在生成的工作簿中嵌入计算或自动化任务
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将OTT模板转换为XLSM工作簿
+* 与企业报告和分析管道集成
+* 从模板自动生成带有宏的电子表格
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,33 @@ otherformats: WMZ WMF  JPEG2000 DXF IMAGE EMZ PSD TGA SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为APNG**将**打印命令语言（PCL）**文档转换为**动态PNG图像**，从而可以将多页打印文件表示为基于帧的动画，用于网络或数字用途。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 创建多页打印文件的动画预览
+* 以网络友好格式共享视觉打印输出
+* 生成带动画视觉效果的文档
+* 存档PCL打印数据的动态渲染
+* 将基于PCL的报告显示为APNG动画
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将PCL文件自动批量转换为APNG序列
+* 与打印预览和可视化系统集成
+* 用于数字打印仪表板的实时PCL到APNG渲染
+* 将打印工作流程转换为网络动画格式
+* 自动将PCL文档存档为动画视觉效果
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น MHTML**
+
+การแปลง **Printer Command Language** เป็น **รูปแบบเว็บอาร์กีฟ (.MHTML)** ช่วยในการรักษาเลยเอาท์ รูปภาพ และข้อความสำหรับการกระจายเว็บในรูปแบบไฟล์เดียว
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การจัดแพ็ครายงาน PCL เพื่อดูผ่านเบราว์เซอร์
+* การรักษาเลยเอาท์การพิมพ์เป็นหน้าเว็บที่มีอยู่เอง
+* การแบ่งปันเนื้อหาการพิมพ์ที่จัดรูปแบบผ่านอินทราเน็ตหรืออีเมล
+* การเก็บรักษางานพิมพ์ PCL เก่าเป็นเอกสารเก็บถาวร MHTML ที่สามารถเข้าถึงได้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง MHTML โดยอัตโนมัติจากกระแสการพิมพ์ PCL
+* การผสานกับระบบเก็บเอกสารหรือระบบส่งมอบผ่านเว็บ
+* การแปลงเป็นชุดสำหรับรายงานภายในหรือเอกสารออนไลน์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

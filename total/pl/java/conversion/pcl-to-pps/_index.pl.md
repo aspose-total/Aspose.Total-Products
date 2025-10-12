@@ -121,7 +121,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na PPS** przekształca wyjście w języku **Printer Command Language** na format **PowerPoint Show (.PPS)**, przygotowując prezentację do bezpośredniego odtwarzania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Zamiana dokumentów opartych na PCL na gotowe do prezentacji pokazy slajdów
+* Automatyczne generowanie prezentacji raportów do przeglądania
+* Dostarczanie treści PCL jako prezentacje na pełnym ekranie
+* Zachowanie układów PCL do użytku prezentacji nieedytowalnych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne tworzenie plików .PPS z powtarzających się raportów PCL
+* Integracja z planowanym publikowaniem prezentacji
+* Konwertowanie treści drukowanej na pliki prezentacji gotowe do wyświetlenia
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

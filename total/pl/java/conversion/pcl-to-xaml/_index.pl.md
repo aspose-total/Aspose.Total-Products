@@ -135,7 +135,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **PCL na XAML** przekształca pliki **Printer Command Language** na **XAML (Extensible Application Markup Language)** dla grafiki wektorowej i elementów interfejsu użytkownika w aplikacjach systemu Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Ponowne wykorzystanie grafiki PCL w aplikacjach WPF lub UWP
+* Konwersja układów drukowania na interaktywne komponenty interfejsu użytkownika
+* Osadzanie skalowalnej grafiki wektorowej w oprogramowaniu Windows
+* Zachowanie projektu drukowania do integracji z aplikacjami cyfrowymi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja PCL na XAML do rozwoju aplikacji
+* Integracja z projektowaniem interfejsu użytkownika i automatyzacją procesów
+* Partiowa transformacja archiwów PCL na wektorowe zasoby XAML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

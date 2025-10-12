@@ -57,7 +57,30 @@ API также позволяет экспортировать файл PCL в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в DICOM** позволяет преобразовывать выводы **языка управления принтером (PCL)** в файлы **цифрового изображения и связи в медицине (DICOM)**. Это особенно полезно для медицинских сред, которым необходимо архивировать или визуализировать данные диагностических печатей в системах изображений.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование напечатанных диагностических отчетов в формат изображения DICOM
+* Встраивание отсканированных печатных данных в медицинские архивы изображений
+* Интеграция медицинских документов на основе PCL в системы PACS
+* Стандартизация форматов медицинских записей для соответствия требованиям здравоохранения
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое преобразование напечатанных медицинских отчетов в DICOM для больничных записей
+* Интеграция преобразования печати в DICOM в рабочие процессы здравоохранения
+* Пакетное преобразование архивов PCL для систем хранения медицинских изображений
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

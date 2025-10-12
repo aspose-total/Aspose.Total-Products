@@ -121,7 +121,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành POTM** biến đổi đầu ra **Ngôn ngữ Lệnh Máy In** thành các tệp **Mẫu Kích hoạt Macro PowerPoint (.POTM)** cho quy trình làm việc trình bày động, tự động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi bố cục in thành các mẫu trình bày có kích hoạt macro
+* Nhúng tự động hóa tương tác vào các mẫu trang trình bày đã chuyển đổi
+* Tái sử dụng các biểu mẫu PCL cho tự động hóa PowerPoint tiên tiến
+* Tạo các mẫu động với macro để tạo báo cáo
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo các mẫu POTM từ báo cáo hệ thống
+* Kết hợp các trang trình bày được điều khiển bởi macro vào các công cụ trình bày doanh nghiệp
+* Tối ưu hóa quá trình chuyển đổi các tệp PCL tĩnh thành các mẫu tương tác
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

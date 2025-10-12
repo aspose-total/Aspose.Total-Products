@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi ODP'ye** dönüştürmek, **Yazıcı Komut Dili** çıktısını **OpenDocument Presentation (.ODP)** slaytlarına dönüştürerek **LibreOffice Impress** veya diğer ODP uyumlu araçlarda kullanmak için kullanılır.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Baskı tabanlı özetleri slayt sunumlarına dönüştürme
+* PCL raporlarını sunum malzemesi olarak yeniden kullanma
+* Toplantılar veya iç iletişim için baskı verilerini görselleştirme
+* Düzenlenebilir ODP formatlarına PCL tabanlı görselleri standart hale getirme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Raporlama sistemlerinden otomatik ODP oluşturma
+* Sunum oluşturma akışlarıyla entegrasyon
+* PCL arşivlerini yeniden kullanılabilir sunum slaytlarına dönüştürme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

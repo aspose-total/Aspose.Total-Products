@@ -121,7 +121,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành PPSX** biến đổi các tệp **Ngôn ngữ Lệnh Máy in** thành định dạng **PowerPoint Open XML Show (.PPSX)**, phù hợp cho việc phát lại trình diễn mượt mà.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Biến đổi báo cáo PCL tĩnh thành bài thuyết trình trình chiếu
+* Cung cấp dữ liệu doanh nghiệp và hình ảnh dưới dạng bài thuyết trình không thể chỉnh sửa
+* Chia sẻ nội dung dựa trên in ấn dưới dạng tệp phát lại sẵn sàng trên PowerPoint
+* Bảo tồn độ chính xác bố cục cho việc xem trình diễn
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi định kỳ tài liệu PCL thành bài thuyết trình .PPSX
+* Tích hợp với quy trình phân phối bài thuyết trình doanh nghiệp
+* Tạo hàng loạt tệp PPSX cho việc sử dụng đào tạo hoặc báo cáo
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

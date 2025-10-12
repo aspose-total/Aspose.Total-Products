@@ -61,7 +61,27 @@ otherformats: XLS XLSB XLSM XLTM ODS XLT FODS EXCEL XLAM XLTX SXC XLSX DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в XLSX** обеспечивает беспрепятственное преобразование содержимого документов в формате OpenDocument Text в **современные книги Excel**, обеспечивая совместимость и улучшенную обработку данных.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Миграция таблиц и структурированных данных из ODT в Excel
+* Подготовка редактируемых файлов электронных таблиц из документов
+* Улучшение визуализации данных и интеграция диаграмм
+* Создание современных файлов Excel из текстовых форматов
+* Улучшение доступности в экосистемах Microsoft Office
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Автоматизация преобразования ODT в XLSX в системах отчетности
+* Облачные преобразования для многоотделочных рабочих процессов
+* Пакетная выгрузка для интеграции в бизнес-процессы
+* Автоматическое создание Excel из систем управления контентом
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

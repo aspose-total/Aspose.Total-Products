@@ -57,7 +57,30 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **PCL เป็น DICOM** ช่วยให้สามารถแปลงผลลัพธ์ของ **Printer Command Language** เป็นไฟล์ **Digital Imaging and Communications in Medicine (DICOM)** ได้ ซึ่งมีประโยชน์อย่างมากสำหรับสภาพแวดล้อมทางการแพทย์ที่ต้องการเก็บถาพหรือแสดงข้อมูลการวินิจฉัยที่พิมพ์ในระบบภาพถ่าย
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การแปลงรายงานการวินิจฉัยที่พิมพ์เป็นรูปแบบไฟล์ DICOM
+* ฝังข้อมูลการพิมพ์ที่สแกนเข้าสู่คลังข้อมูลภาพการแพทย์
+* การรวมเอกสารทางการแพทย์ที่ใช้ PCL เข้าสู่ระบบ PACS
+* มาตรฐานรูปแบบบันทึกข้อมูลการแพทย์สำหรับการปฏิบัติตามกฎระเบียบด้านสุขภาพ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การแปลงรายงานการแพทย์ที่พิมพ์เป็นรูปแบบ DICOM อัตโนมัติสำหรับบันทึกข้อมูลโรงพยาบาล
+* การรวมการแปลงจากพิมพ์เป็น DICOM ในกระบวนการทำงานด้านสุขภาพ
+* การแปลงข้อมูล PCL จำนวนมากเป็นชุดสำหรับระบบจัดเก็บภาพการแพทย์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

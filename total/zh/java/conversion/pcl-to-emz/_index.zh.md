@@ -57,7 +57,30 @@ otherformats: PSD TGA WMF IMAGE JPEG2000 WMZ  SVGZ DXF EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转EMZ**转换将**打印机命令语言**图形压缩并转换为**增强型图元文件（压缩）- EMZ**格式，优化图像以用于可伸缩图形应用程序和Microsoft Office使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 在办公室或设计软件中嵌入基于矢量的打印图形
+* 减小打印图像在文档系统中的文件大小
+* 保留PCL图形的可伸缩性和质量
+* 为文档自动化或模板准备压缩资产
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将打印生成的图表批量转换为EMZ图像
+* 与内容管理系统集成，以优化图像存储
+* 为文档发布自动生成压缩图形
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,30 @@ PCL dosyasını DIF'ye dönüştürürken, çıktı DIF dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi DIF'ye Dönüştürme**, **Yazıcı Komut Dili** dosyalarını **Veri Değişim Formatı (DIF)** dosyalarına dönüştürerek, uygulamalar arasında yapılandırılmış veri alışverişi ve elektronik tablo uyumluluğu sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Basılı raporlardan tablo verilerini DIF formatına çıkarma
+* Yazılım eski elektronik tablo sistemlerine yazdırma verilerini aktarma
+* Analitik araçlar arasında sorunsuz veri göçü sağlama
+* Arşivlenmiş PCL çıktılarından yeniden kullanılabilir veri kümeleri oluşturma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* PCL raporlarını DIF'e otomatik dönüştürme veri alışverişi için
+* Yapılandırılmış veri alışverişi için ETL borularına entegrasyon
+* Yazdırılan arşivlerin toplu olarak DIF uyumlu analitik kaynaklara dönüştürülmesi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành OTP** biến đổi các tệp ngôn ngữ lệnh máy in **Printer Command Language** thành định dạng **OpenDocument Presentation Template (.OTP)** để tạo các mẫu slide có thể tái sử dụng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Thiết kế mẫu trình bày từ bố cục PCL
+* Tạo mẫu slide mang thương hiệu cho việc kinh doanh
+* Chuyển đổi hình ảnh doanh nghiệp in thành các mẫu OTP có thể chỉnh sửa
+* Tối ưu hóa việc tái sử dụng thiết kế qua các bộ phận
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* Tạo mẫu tự động từ tài liệu in tiêu chuẩn
+* Tích hợp với quy trình xây dựng bài thuyết trình
+* Tạo các bản thảo slide có thể tái sử dụng từ tài liệu in doanh nghiệp
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

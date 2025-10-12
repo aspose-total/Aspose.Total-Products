@@ -105,7 +105,30 @@ otherformats: APNG JPEG2000 WMF PSD WMZ IMAGE EMZ  SVGZ TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертація **PCL в DXF** перетворює графіку або макети **Мови команд друкування (PCL)** у файли **Формату обміну малюнками (DXF)**, широко використовувані у CAD та інженерному проектуванні.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+* Вилучення векторної графіки з друкуваних інженерних звітів
+* Конвертація схематичних діаграм з виводу на друк у файли, які можна читати в CAD
+* Цифрування макетів, створених для друку, для подальших модифікацій дизайну
+* Забезпечення взаємодії між системами друку та CAD-інструментами
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизоване створення файлів DXF з технічних малюнків на основі друку
+* Інтеграція конвертації PCL в DXF у потоки роботи інженерії
+* Пакетне перетворення архівованих виведених на друк результатів у формати, сумісні з CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,33 @@ otherformats: XLTM CSV XLSB SXC XLT XLS EXCEL ODS XLTX FODS DIF XLSM XLAM XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT у TSV** дозволяє експортувати шаблони тексту OpenDocument у **значення, розділені табуляцією**, що корисно для імпорту структурованих даних, аналізу та обробки у таблицях.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Видобуток даних для табличної звітності
+* Підготовка шаблонів для імпорту у таблиці або автоматизації
+* Обмін вмістом шаблону у легкому табличному форматі
+* Архівування структурованого тексту для аналітики або журналювання
+* Підтримка обміну даними між платформами
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизовані конвеєри OTT-у-TSV для корпоративної звітності
+* Пакетний експорт для аналітики та робочих процесів з документами
+* Інтеграція з системами на основі даних для обробки шаблонів
+* Генерація архівів TSV для централізованих сховищ вмісту
+* Автоматизація робочого процесу для видобутку табличного вмісту
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

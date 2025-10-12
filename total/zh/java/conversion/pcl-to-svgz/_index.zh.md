@@ -57,7 +57,33 @@ otherformats: SVGZ  EMZ DXF TGA IMAGE JPEG2000 WMF WMZ PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 SVGZ** 可将打印命令语言文件转换为 **压缩可伸缩矢量图形**，确保适用于网络、打印和文档嵌入的分辨率无关视觉效果。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将 PCL 布局转换为可伸缩、适用于网络的图形
+* 以紧凑形式存档基于矢量的打印数据
+* 将打印视觉效果集成到网络或移动应用程序中
+* 为文档准备响应式打印视觉效果
+* 共享用于发布的可伸缩、压缩图形
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量进行 PCL 到 SVGZ 的转换，用于网络发布工作流程
+* 与内容管理和图形流程集成
+* 为打印预览自动创建可伸缩图像
+* 高效地压缩和存档打印视觉效果
+* 用于企业打印数据的简化矢量转换
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

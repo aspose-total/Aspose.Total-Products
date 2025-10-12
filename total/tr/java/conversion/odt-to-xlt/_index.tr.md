@@ -61,7 +61,27 @@ ODT'yi XLT'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi XLT'ye** dönüştürmek, belge verilerini **Excel şablon formatına** dönüştürerek standart tablo oluşturma ve tutarlı rapor düzenleri sağlar.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Metin belgelerinden Excel şablonları tasarlama
+* Tekrarlanan rapor görevleri için belge verilerini yeniden kullanma
+* Standart belge formlarını Excel şablonlarına dönüştürme
+* Takımlar arasında birlikte tablo biçimlendirme koruma
+* Belgeden şablona iş akışlarını optimize etme
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Otomatik ODT'den XLT'ye şablon oluşturma
+* Kurumsal şablon yönetim sistemlerine entegrasyon
+* Biçimlendirilmiş verilerin raporlarda yeniden kullanımı için toplu veri dışa aktarımı
+* Belge odaklı Excel şablonu oluşturma süreçleri
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

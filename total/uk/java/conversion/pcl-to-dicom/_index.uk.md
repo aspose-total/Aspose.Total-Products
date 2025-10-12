@@ -105,7 +105,30 @@ otherformats: APNG DXF WMF TGA IMAGE WMZ PSD JPEG2000 EMZ SVGZ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертація **PCL в DICOM** дозволяє перетворювати виходи **Мови команд друкування** в файли **Цифрового зображення та зв'язків у медицині (DICOM)**. Це особливо корисно для медичних середовищ, які потребують архівування або візуалізації друкованих діагностичних даних у системах зображення.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Конвертація друкованих діагностичних звітів у формат зображення DICOM
+* Вбудовування отсканованих даних друку в медичні архіви зображень
+* Інтеграція медичних документів на основі PCL у системи PACS
+* Стандартизація форматів медичних записів для відповідності в галузі охорони здоров'я
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизована конвертація друкованих медичних звітів у DICOM для лікарських записів у лікарнях
+* Інтеграція конвертації друку в DICOM у медичні робочі процеси
+* Пакетне перетворення архівів PCL для систем зберігання медичних зображень
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

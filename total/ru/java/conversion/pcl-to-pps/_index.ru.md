@@ -121,7 +121,30 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в PPS** преобразует вывод **языка управления принтером** в формат **PowerPoint Show (.PPS)**, делая презентацию готовой к прямому воспроизведению.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование документов на основе PCL в готовые слайд-шоу для презентации
+* Автоматическое создание презентаций отчетов для просмотра
+* Предоставление содержимого PCL в виде полноэкранных презентаций
+* Сохранение макетов PCL для использования презентации без возможности редактирования
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание файлов .PPS из повторяющихся отчетов PCL
+* Интеграция с планированием публикации презентаций
+* Преобразование печатного контента в файлы презентаций, готовые к отображению
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

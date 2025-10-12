@@ -102,7 +102,27 @@ otherformats: XLS FODS XLAM XLT XLSM EXCEL XLSB XLSX SXC XLTX TSV DIF XLTM CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Конвертація **ODT в ODS** перетворює дані документа в **таблиці OpenDocument**, ідеальні для аналізу таблиць, обчислень та структурованого тексту в програмах електронних таблиць.
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+* Видобуток табличного вмісту з документів ODT у таблиці
+* Управління числовими даними, вбудованими у звіти
+* Конвертація структурованого тексту в аналітичну форму електронної таблиці
+* Підготовка наборів даних для бізнесового або фінансового аналізу
+* Створення редагованих таблиць з форматованих документів
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+* Автоматизована конвертація ODT в ODS для корпоративних звітів
+* Інтеграція з аналітикою даних та рахунковими робочими процесами
+* Пакетна обробка даних на основі документів для електронних таблиць
+* Динамічне перетворення звіту в таблицю
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

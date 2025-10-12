@@ -49,7 +49,30 @@ otherformats: MD DIF XLTM EXCEL ODS XLT XLSM XLSB TSV XLAM FODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转XLT**转换将从**打印机命令语言**文档创建**Excel模板**文件，允许重复使用结构化打印布局以便在Excel中进行一致的报告创建。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 根据打印报告格式设计Excel模板
+* 保持报告的一致布局和样式
+* 标准化业务文档模板
+* 使用预定义的基于打印的模板加速报告设置
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从重复的PCL输出自动生成模板
+* 为自动填充报告创建可重用模板
+* 为组织集成打印到模板工作流程
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konwersja PCL do WORDML** przekształca dokumenty w języku **Printer Command Language** na format **WordProcessingML (WordML)**, zapewniając strukturę opartą na XML do zaawansowanej manipulacji danych i automatyzacji dokumentów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie układów drukowania na formaty Word oparte na XML
+* Umożliwianie strukturalnej manipulacji dokumentami za pomocą WordML
+* Integracja dokumentów Word z przepływami pracy opartymi na XML
+* Ułatwianie automatyzacji dokumentów opartych na metadanych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie dokumentów WordML z plików drukowania PCL
+* Integracja z zarządzaniem dokumentami i przepływami pracy opartymi na XML
+* Konwersja masowa dla interoperacyjności z interfejsami API przetwarzania tekstu w Wordzie
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

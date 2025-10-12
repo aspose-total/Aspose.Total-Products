@@ -47,7 +47,30 @@ otherformats: MD SXC TXT XLT XLAM XLSB XLTM XLSM TSV XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **PCL เป็น ODS** สามารถสกัดข้อมูลจากไฟล์ **Printer Command Language** เป็นรูปแบบ **OpenDocument Spreadsheet (.ODS)** เพื่อการวิเคราะห์โครงสร้างในเครื่องมือเช่น **LibreOffice Calc**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การแปลงรายงานการพิมพ์แบบตารางเป็นสเปรดชีต
+* การให้ข้อมูลสำรวจบนตารางที่สร้างจาก PCL
+* การนำเนื้อหา PCL โครงสร้างเข้าสู่กระบวนการทำงานทางบัญชีหรือการวิเคราะห์
+* การสร้างแผ่นงานที่สามารถแก้ไขและใช้สูตรจากข้อมูลการพิมพ์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การแปลงรายงาน PCL เป็นสมุดงาน ODS ตามกำหนดเวลา
+* ท่อการสกัดข้อมูลที่แปลงผลลัพธ์การพิมพ์เป็นรูปแบบสเปรดชีต
+* การรวมระบบ ERP หรือระบบการเงินเพื่อการนำเข้าข้อมูลโดยอัตโนมัติ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

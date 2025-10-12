@@ -47,7 +47,30 @@ PCL dosyasını XLT'ye dönüştürürken, çıktı XLT dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'den XLT'ye** dönüştürme, **Yazıcı Komut Dili** belgelerinden **Excel Şablonu** dosyaları oluşturarak yapılandırılmış baskı düzenlerinin Excel'de tutarlı rapor oluşturma için yeniden kullanılmasını sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Basılı rapor formatlarına dayalı Excel şablonları tasarlama
+* Raporlar için tutarlı düzen ve stilin korunması
+* İş belgeleri şablonlarının standartlaştırılması
+* Önceden tanımlanmış baskı tabanlı şablonlarla rapor kurulumunun hızlandırılması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tekrarlanan PCL çıktılarından şablon oluşturmanın otomatikleştirilmesi
+* Otomatik rapor doldurma için yeniden kullanılabilir şablonlar oluşturma
+* Organizasyonlar için baskıdan şablona iş akışlarının entegrasyonu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

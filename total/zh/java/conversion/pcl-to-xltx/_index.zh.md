@@ -49,7 +49,30 @@ otherformats: EXCEL ODS TXT XLSM DIF TSV XLTM FODS XLTX XLAM MD XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转XLTX**转换将**打印命令语言（PCL）**文档转换为**Excel模板（XLTX）**文件，从而实现未来电子表格的一致格式和可重复使用性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将打印布局转换为可重复使用的Excel模板
+* 使用预定义样式简化报告创建
+* 在部门间保持文档一致性
+* 为标准化报告自动化模板创建
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于业务报告的基于模板的自动化
+* 将定期打印报告转换为标准化模板
+* 从PCL输出自动创建适用于Excel的设计
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,33 @@ OTT'yi ODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi ODS'ye dönüştürmek**, Yapılandırılmış veri kullanımını, analizini ve çok platformlu elektronik tablo düzenlemesini sağlayan **OpenDocument Text Şablonlarını** **OpenDocument Elektronik Tablo dosyaları** olarak temsil etmeyi mümkün kılar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Şablon tablolarını düzenlenebilir elektronik tablolara dönüştürme
+* Veri odaklı şablonları açık bir formatta arşivleme
+* Şablon içeriğinden raporlar ve analizler hazırlama
+* Şablon kökenli elektronik tabloların işbirlikçi düzenlenmesi
+* Platformlar arası yapılandırılmış şablon bilgilerini paylaşma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Kurumsal iş akışları için Otomatik OTT'den ODS'ye dönüşüm
+* Şablon tablolarının toplu olarak elektronik tablolara dışa aktarılması
+* Raporlama ve analitik boru hatlarıyla entegrasyon
+* Şablon kütüphanelerinden dinamik elektronik tablo oluşturma
+* Şablon kökenli elektronik tablo verilerinin merkezi yönetimi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

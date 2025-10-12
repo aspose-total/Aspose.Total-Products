@@ -102,7 +102,30 @@ otherformats: EXCEL XLT DIF XLSM XLTM FODS ODS XLSB XLTX CSV XLAM SXC XLS TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертація **OTT в XLSX** перетворює **шаблони тексту OpenDocument (.OTT)** в **Excel Open XML Workbook (.XLSX)** для редагованої, сучасної функціональності електронних таблиць.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Перетворення шаблонів документів у структуровані електронні таблиці
+* Аналіз та маніпулювання даними, витягнутими з шаблонів OTT
+* Підготовка звітів та таблиць для бізнесу або освітніх цілей
+* Обмін редагованими електронними таблицями між командами
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизована пакетна конвертація шаблонів OTT в файли XLSX
+* Інтеграція з звітами та робочими процесами аналізу даних
+* Заплановане створення електронних таблиць з шаблонів документів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

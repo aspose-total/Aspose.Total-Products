@@ -47,7 +47,30 @@ otherformats: TSV XLSM XLSB FODS TXT ODS XLTX XLT DIF XLAM SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Преобразование PCL в FODS** преобразует данные, сгенерированные при печати, в формат **Flat OpenDocument Spreadsheet (FODS)**, обеспечивая редактируемые электронные таблицы на основе XML, совместимые с LibreOffice и OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование печатных отчетов или счетов в редактируемые данные электронных таблиц
+* Обеспечение совместимости электронных таблиц между различными платформами
+* Интеграция табличных данных на основе PCL в офисные инструменты с открытым исходным кодом
+* Архивирование структурированных данных печати в виде XML электронных таблиц
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование печатных финансовых или инвентарных отчетов в FODS
+* Интеграция в отчетные конвейеры с открытым исходным кодом
+* Масштабное преобразование данных печати для аналитики и хранения
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

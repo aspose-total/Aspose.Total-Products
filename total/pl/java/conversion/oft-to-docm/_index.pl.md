@@ -30,7 +30,33 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comt
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OFT na DOCM** pozwala przekształcić szablony Outlooka w **makroaktywowane dokumenty programu Word**, umożliwiając skrypty automatyzacji lub osadzone działania w celu przetwarzania, personalizacji lub dynamicznego dystrybuowania treści.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Dodawanie makr automatyzacji do dokumentów pochodzących z e-maili
+* Umożliwianie przepływów pracy opartych na szablonach do automatyzacji korespondencji
+* Przekształcanie firmowych szablonów OFT w interaktywne formularze DOCM
+* Dynamiczne wypełnianie danych z systemów CRM lub baz danych
+* Usprawnione generowanie powtarzających się raportów lub powiadomień
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja OFT na DOCM z osadzonymi makrami VBA
+* Systemy przepływów pracy, które uruchamiają makra programu Word po konwersji
+* Potoki montażu dokumentów sterowane e-mailem
+* Walidacja treści oparta na makrach dla standaryzowanej komunikacji
+* Automatyczne tworzenie raportów z powtarzających się szablonów e-mail
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

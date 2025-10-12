@@ -47,7 +47,30 @@ otherformats: MD XLSB TXT XLTX DIF FODS SXC XLSM XLAM ODS XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Преобразование PCL в TSV** преобразует вывод **языка управления принтером** в файлы **значений, разделенных табуляцией**. Этот формат идеально подходит для чистого, структурированного импорта в электронные таблицы или программные системы, которые зависят от данных, разделенных табуляцией.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение табличного содержимого из данных в формате печати
+* Создание наборов данных TSV из счетов или записей в формате PCL
+* Подача выводов TSV в системы миграции данных или ETL
+* Обмен структурированными данными печати между корпоративными системами
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое извлечение данных из архивов печати в формате TSV
+* Интеграция с конвейерами данных для отчетных панелей
+* Автоматическое преобразование из печати в структурированные данные, готовые для аналитики
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

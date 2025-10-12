@@ -100,7 +100,33 @@ otherformats: PPTX PPTM PPS POTM POTX PPSX POWERPOINT POT PPT PPSM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT у ODP** перетворює шаблони тексту OpenDocument у **файли презентацій OpenDocument**, що дозволяє повторне використання вмісту шаблонів електронної пошти для слайд-дек та презентацій.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Перетворення текстових шаблонів у слайди презентацій
+* Архівування шаблонів як редагованого вмісту презентацій
+* Переробка вмісту для навчальних або маркетингових дек
+* Колаборативне створення презентацій на основі даних шаблонів
+* Збереження послідовного брендування в презентаціях
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизоване перетворення OTT у ODP для пакетної обробки
+* Інтеграція з робочими процесами управління презентаціями
+* Генерація слайдів з бібліотек шаблонів для навчання
+* Динамічне вставлення вмісту шаблону в презентації
+* Автоматизація перетворення шаблону на презентацію на рівні підприємства
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

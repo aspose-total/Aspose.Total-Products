@@ -61,7 +61,33 @@ Depois de converter OTT para XLAM, o [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **OTT para XLAM** produz **arquivos de suplemento do Excel** derivados do conteúdo do modelo, permitindo automação, macros e fluxos de trabalho aprimorados com base nos dados do modelo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Criar suplementos do Excel com macros a partir de modelos
+* Automatizar tarefas repetitivas usando macros derivadas de modelos
+* Aprimorar a funcionalidade da planilha com lógica de modelo
+* Implementar fluxos de trabalho de automação padronizados
+* Centralizar ferramentas do Excel orientadas por modelos
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote de OTT para XLAM para automação do Excel empresarial
+* Integração com pipelines de fluxo de trabalho ou relatórios
+* Gerar ferramentas de planilha reutilizáveis com macros
+* Implantação de automação baseada em modelo
+* Atualizações dinâmicas de macros a partir do conteúdo do modelo
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

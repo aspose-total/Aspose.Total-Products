@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Преобразование PCL в DOT** позволяет использовать напечатанные шаблоны и отчеты из файлов **языка управления принтером (Printer Command Language)** для создания документов **шаблона Microsoft Word (.DOT)** с согласованным форматированием и возможностью повторного использования.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов Word на основе отчетов или макетов на основе PCL
+* Стандартизация внешнего вида документов в различных отделах
+* Создание многоразовых форм и шаблонов отчетов из файлов печати
+* Оптимизация процессов подготовки документов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание корпоративных шаблонов из напечатанных отчетов
+* Рабочие процессы с документами на основе шаблонов для бизнес-операций
+* Преобразование регулярных отчетов PCL в готовые к использованию шаблоны DOT
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

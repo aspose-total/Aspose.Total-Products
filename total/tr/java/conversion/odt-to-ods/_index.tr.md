@@ -61,7 +61,25 @@ ODT'yi ODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi ODS'ye** dönüştürmek, belge verilerini **OpenDocument elektronik tablolarına** dönüştürür, tabloları, hesaplamaları ve yapılandırılmış metni elektronik tablo yazılımlarında analiz etmek için idealdir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* ODT belgelerinden tablo içeriğini elektronik tablolara çıkarma
+* Raporlara gömülü sayısal verileri yönetme
+* Yapılandırılmış metni analitik elektronik tablo formuna dönüştürme
+* İş veya finansal analiz için veri kümeleri hazırlama
+* Biçimlendirilmiş belgelerden düzenlenebilir elektronik tablolar oluşturma
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Kurumsal raporlar için otomatik ODT'den ODS'ye dönüşüm
+* Veri analitiği ve muhasebe iş akışlarıyla entegrasyon
+* Belge tabanlı verilerin elektronik tablolar için toplu işlenmesi
+* Dinamik rapordan elektronik tabloya dönüşüm
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

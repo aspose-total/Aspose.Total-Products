@@ -129,7 +129,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to WORDML** dönüşümü, **Yazıcı Komut Dili** belgelerini **WordProcessingML (WordML)** biçimine dönüştürerek, gelişmiş veri işleme ve belge otomasyonu için XML tabanlı yapı sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Baskı düzenlerini XML tabanlı Word biçimlerine dönüştürme
+* WordML aracılığıyla yapılandırılmış belge işleme imkanı sağlama
+* Word belgelerini XML tabanlı iş akışlarıyla entegre etme
+* Meta veri tabanlı belge otomasyonunu kolaylaştırma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* PCL baskı dosyalarından WordML belgelerinin otomatik oluşturulması
+* Belge yönetimi ve XML iş akışlarıyla entegrasyon
+* Word işleme API'leriyle uyumluluk için toplu dönüşüm
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

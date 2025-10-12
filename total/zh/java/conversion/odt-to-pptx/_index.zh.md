@@ -54,7 +54,27 @@ otherformats: POT PPSX POWERPOINT PPTX PPS PPSM POTM PPTM PPT POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 PPTX** 可将书面内容转换为 **现代 PowerPoint 演示文稿**，非常适合需要从结构化文档中提取可编辑、设计就绪幻灯片的专业人士。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将项目报告和摘要转换为演示文稿
+* 将业务或研究内容转换为视觉幻灯片
+* 将想法和文档分享为可编辑的 PPTX 演示文稿
+* 从格式化文本内容创建视觉一致的幻灯片
+* 从 ODT 文件准备动态和协作演示文稿
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 用于业务沟通的自动化 ODT 到 PPTX 转换
+* 集成到内容转换为演示文稿生成管道中
+* 批量将 ODT 文件转换为现代 PowerPoint 格式
+* 为企业报告和会议准备动态幻灯片
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

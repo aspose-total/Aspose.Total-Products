@@ -54,7 +54,33 @@ API ayrıca parola korumalı OTT belgelerini ODP'ye dönüştürmenize olanak ta
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi ODP'ye dönüştürmek**, e-posta şablon içeriğinin slayt dosyaları ve sunumlar için yeniden kullanılmasını sağlayan **OpenDocument Text Şablonlarını OpenDocument Presentation dosyalarına** dönüştürür.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Metin şablonlarını sunum slaytlarına dönüştürme
+* Şablonları düzenlenebilir sunum içeriği olarak arşivleme
+* İçeriği eğitim veya pazarlama slaytları için yeniden kullanma
+* Şablon verilerinden sunumların işbirlikçi oluşturulması
+* Sunumlarda tutarlı marka kimliğini koruma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Toplu işlem için Otomatik OTT'den ODP'ye dönüştürme
+* Sunum yönetimi iş akışlarıyla entegrasyon
+* Eğitim için şablon kütüphanelerinden slaytlar oluşturma
+* Dinamik şablon içeriğinin sunumlara eklenmesi
+* Kurum genelinde şablonun sunuma otomasyonu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

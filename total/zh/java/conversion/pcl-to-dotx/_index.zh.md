@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 DOTX** 可将 **打印命令语言** 文件转换为 **Word 模板 (.DOTX)** 格式，非常适合在可重复使用的非宏模板中保持设计一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从打印布局设计标准化文档模板
+* 通过 Word 模板简化公司品牌
+* 为未来报告创建可编辑和可重复使用的模板
+* 将静态打印内容转换为灵活的文档设计
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从打印报告自动转换为 DOTX 模板
+* 集成到文档生成系统中以获得一致的输出
+* 企业级创建品牌报告模板
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

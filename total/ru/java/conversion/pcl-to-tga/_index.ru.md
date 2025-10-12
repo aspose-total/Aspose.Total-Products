@@ -57,7 +57,30 @@ API также позволяет экспортировать файл PCL в T
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в TGA** преобразует графику **языка управления принтером (Printer Command Language)** в изображение формата **Truevision TGA (.TGA)**, сохраняя высококачественную растровую графику для дизайна, визуализации или архивирования.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение изображений высокого качества из графики печати PCL
+* Подготовка визуального контента для дизайна и иллюстраций
+* Архивирование графики печати в формате изображения без потерь
+* Преобразование диаграмм и макетов для мультимедийных приложений
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование графики PCL в TGA
+* Интеграция с обработкой изображений и мультимедийными конвейерами
+* Упрощенное архивирование печатных визуалов для будущего использования
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

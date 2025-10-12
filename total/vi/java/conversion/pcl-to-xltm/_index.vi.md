@@ -47,7 +47,30 @@ Trong khi chuyển đổi tệp PCL sang XLTM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành XLTM** cho phép tạo **mẫu Excel hỗ trợ macro** từ tài liệu in, kết hợp bảo tồn bố cục với khả năng nhúng logic tự động hóa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Thiết kế mẫu Excel hỗ trợ macro từ bố cục in sẵn
+* Nhúng tự động hóa có thể tái sử dụng vào mẫu báo cáo
+* Kích hoạt tạo tài liệu dựa trên mẫu động
+* Tiêu chuẩn hóa việc tạo bảng tính thông minh
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* Tạo mẫu thông minh từ các báo cáo PCL thường xuyên
+* Tự động hóa sản xuất báo cáo Excel với logic macro
+* Chuyển đổi hàng loạt dữ liệu in thành các mẫu kinh doanh có thể tái sử dụng
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

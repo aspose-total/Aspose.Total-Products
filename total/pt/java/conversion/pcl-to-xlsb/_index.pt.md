@@ -47,7 +47,30 @@ Ao converter o arquivo PCL para XLSB, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversão de PCL para XLSB** cria **pastas de trabalho do Excel binárias** a partir de arquivos **PCL**, oferecendo desempenho mais rápido, tamanho de arquivo reduzido e compatibilidade para grandes conjuntos de dados derivados de materiais impressos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Conversão de alto desempenho de grandes relatórios PCL para XLSB
+* Armazenamento de dados de planilhas binárias comprimidas de arquivos de impressão
+* Redução do tamanho de arquivos Excel intensivos em dados
+* Automação da extração estruturada de formatos PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão agendada de arquivos PCL em massa para o formato XLSB
+* Integração com sistemas de armazenamento de dados e análise
+* Conversão de arquivamento para manter pegadas de armazenamento menores
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

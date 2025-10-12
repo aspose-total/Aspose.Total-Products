@@ -57,7 +57,30 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz PSD z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na PSD** przekształca pliki **Printer Command Language** w format **Adobe Photoshop Document (.PSD)**, umożliwiając edycję materiałów drukowanych w postaci warstw obrazu do projektowania graficznego i ulepszania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Edycja projektów druku PCL w programie Adobe Photoshop
+* Wyodrębnianie elementów wizualnych z układów PCL do użytku w projektowaniu graficznym
+* Retuszowanie i dostosowywanie drukowanych dzieł w formacie warstwowym
+* Tworzenie wizualizacji marketingowych lub aktywów kreatywnych z dokumentów drukowanych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Partiowa konwersja plików PCL na PSD do przepływów pracy projektowej
+* Integracja z narzędziami automatyzacji kreatywnej dla przejścia z druku na cyfrowe
+* Zautomatyzowane rurociągi konwersji do tworzenia treści związanych z marką lub reklamą
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

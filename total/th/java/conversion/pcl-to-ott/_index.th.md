@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น OTT** จะแปลงเอาเอาท์พุตของ **Printer Command Language** เป็นรูปแบบ **OpenDocument Text Template (.OTT)** เพื่อใช้เป็นเทมเพลตเอกสารมาตรฐานใน **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลตเอกสารที่ใช้ซ้ำจากแบบฟอร์ม PCL
+* สร้างเลย์เอาต์ธุรกิจมาตรฐานสำหรับการสื่อสาร
+* แปลงหัวกระจกหรือรายงาน PCL เป็นเทมเพลตที่สามารถแก้ไขได้
+* รองรับเวิร์กโฟลว์เอกสารเปิดด้วยการจัดรูปแบบอย่างสม่ำเสมอ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง OTT โดยอัตโนมัติจากระบบออกแบบการพิมพ์
+* การผสานกับเวิร์กโฟลว์สร้างเนื้อหาขององค์กร
+* การแปลงเป็นชุดเอกสาร OTT จากเทมเพลตที่พิมพ์เป็นชุดเอกสารเพื่อการใช้ซ้ำ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,30 @@ otherformats: MD DIF XLTM EXCEL ODS CSV XLSM XLSB TSV XLAM FODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Конвертація PCL в XLT** створює файли **Шаблону Excel** з документів **Мовою друкованої команди**, що дозволяє повторно використовувати структуровані макети друку для створення послідовних звітів в Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Розробка шаблонів Excel на основі форматів друкуваних звітів
+* Збереження послідовного макету та стилю для звітів
+* Стандартизація шаблонів документації бізнесу
+* Прискорення налаштування звітів за допомогою попередньо визначених шаблонів друку
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизація генерації шаблонів з повторюваних виходів PCL
+* Створення повторно використовуваних шаблонів для автоматизованого заповнення звітів
+* Інтеграція робочих процесів від друку до шаблону для організацій
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

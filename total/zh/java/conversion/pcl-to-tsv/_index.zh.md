@@ -49,7 +49,30 @@ otherformats: MD XLSB TXT XLTX DIF FODS SXC XLSM XLAM ODS XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转TSV转换** 将**打印命令语言**输出转换为**制表符分隔值**文件。这种格式非常适合用于将数据结构化地导入电子表格或依赖制表符分隔数据的软件系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 从打印格式数据中提取表格内容
+* 从PCL发票或记录生成TSV数据集
+* 将TSV输出馈送到数据迁移或ETL系统
+* 在企业系统之间共享结构化打印数据
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定期从打印存档中提取TSV
+* 与报告仪表板的数据管道集成
+* 从打印自动转换为结构化的分析就绪数据
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

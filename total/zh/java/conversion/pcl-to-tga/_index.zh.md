@@ -57,7 +57,30 @@ otherformats: TGA IMAGE PSD SVGZ EMZ WMZ WMF  JPEG2000 DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## 将 **PCL 转换为 TGA** 将 **打印命令语言** 图形转换为 **Truevision TGA (.TGA)** 图像格式，保留高质量的光栅图形，用于设计、可视化或存档目的。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 PCL 打印图形中提取高质量图像
+* 为设计和插图工作流程准备视觉内容
+* 以无损图像格式存档打印图形
+* 将图表和布局转换为多媒体应用程序
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将 PCL 图形批量自动转换为 TGA
+* 与图像处理和多媒体流程集成
+* 简化打印视觉内容的存档以备将来使用
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

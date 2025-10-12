@@ -143,7 +143,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na XAMLFLOW** umożliwia transformację wyjść w języku **Printer Command Language** na format **XAMLFlow** do zastosowań interfejsu użytkownika zorientowanych na przepływ pracy i automatyzację projektowania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Integracja układów druku PCL w aplikacje zorientowane na przepływ pracy
+* Konwertowanie statycznych wizualizacji druku na interaktywne elementy XAMLFlow
+* Ponowne wykorzystanie formularzy i diagramów generowanych podczas drukowania w przepływach pracy oprogramowania
+* Standaryzacja zasobów drukowanych do automatyzacji interfejsu użytkownika
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Partiowa konwersja plików PCL na XAMLFlow dla potoków aplikacji
+* Integracja z narzędziami automatyzacji przepływu pracy i generowania interfejsu użytkownika
+* Automatyczna transformacja dla przepływów pracy projektowania oprogramowania dla przedsiębiorstw
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

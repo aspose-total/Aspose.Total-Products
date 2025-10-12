@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в MARKDOWN** извлекает текстовое содержимое из файлов **языка управления принтером** и форматирует его в **Markdown (.MD)** для публикации в Интернете или создания легкой документации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование печатных отчетов в документацию Markdown
+* Создание структурированного текста для веб-сайтов, блогов или файлов README
+* Упрощение форматированного контента для технического письма и совместной работы
+* Генерация легкого текстового вывода с контролем версий из печатных данных
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание Markdown из потоков печати PCL
+* Интеграция с генераторами статических сайтов и системами документации
+* Преобразование больших архивов печати в Markdown для баз знаний
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,33 @@ otherformats: SXC TSV XLSM XLTX DIF EXCEL XLTM XLAM XLSX XLSB XLT ODS FODS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT в CSV** перетворює **файли шаблонів тексту OpenDocument** у **значення, розділені комами**, роблячи дані шаблону доступними для електронних таблиць, аналітики та імпорту в базу даних.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Видобуток структурованих даних шаблону для звітності
+* Імпорт вмісту шаблону до електронних таблиць або баз даних
+* Підготовка даних для кореспонденції на основі даних або об'єднання листів
+* Обмін текстовими даними у всезагально читабельному форматі
+* Архівування вмісту шаблону для аналітичних цілей
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Пакетне перетворення файлів OTT в CSV для великих бібліотек шаблонів
+* Інтеграція з системами ERP або CRM для автоматизованого використання даних
+* Автоматизація генерації звітів на основі наборів даних шаблону
+* Робочі конвеєри для аналітики та обробки даних
+* Централізований видобуток текстового вмісту з кількох шаблонів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

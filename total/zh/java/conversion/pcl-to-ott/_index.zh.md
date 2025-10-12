@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 OTT** 将 **打印机命令语言** 输出转换为 **OpenDocument 文本模板 (.OTT)** 格式，用于 **LibreOffice Writer** 中的标准化文档模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 从 PCL 表单构建可重用文档模板
+* 为通信创建标准化的业务布局
+* 将 PCL 页眉或报告转换为可编辑模板
+* 支持具有一致格式的开放文档工作流程
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从打印设计系统自动生成 OTT
+* 与企业内容创建工作流程集成
+* 批量将打印模板转换为 OTT 以便重复使用文档
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

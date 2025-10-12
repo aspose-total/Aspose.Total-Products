@@ -129,7 +129,30 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Konvertera **PCL till OTT**
+
+Konvertering av **PCL till OTT** omvandlar utdata i **Printer Command Language** till formatet **OpenDocument Text Template (.OTT)** för standardiserade dokumentmallar i **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga användningsfall" %}}
+
+* Bygga återanvändbara dokumentmallar från PCL-formulär
+* Skapa standardiserade affärslayouter för korrespondens
+* Konvertera PCL-brevhuvuden eller rapporter till redigerbara mallar
+* Stödja öppna dokumentarbetsflöden med konsekvent formatering
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* Automatisk OTT-generering från utskriftsdesignsystem
+* Integration med företagets innehållsskapande arbetsflöden
+* Batchkonvertering av utskrivna mallar till OTT för dokumentåteranvändning
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

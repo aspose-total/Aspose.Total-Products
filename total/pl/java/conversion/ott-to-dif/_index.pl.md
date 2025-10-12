@@ -61,7 +61,33 @@ Po przekonwertowaniu OTT na DIF [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na DIF** przekształca szablony tekstu OpenDocument w pliki **formatu wymiany danych**, umożliwiając import strukturalnych danych z szablonów do arkuszy kalkulacyjnych i baz danych w celu analizy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Wyodrębnianie tabel szablonów do analizy danych
+* Przygotowywanie treści szablonów do aplikacji arkuszy kalkulacyjnych z poprzednich lat
+* Udostępnianie danych szablonów w prostym, standaryzowanym formacie
+* Archiwizowanie strukturalnych informacji do raportowania
+* Integracja danych szablonów w przepływy pracy związane z inteligencją biznesową
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja wsadowa OTT na DIF dla raportowania przedsiębiorstwa
+* Integracja z importem bazy danych i potokami analitycznymi
+* Zautomatyzowane wyodrębnianie danych tabelarycznych z wielu szablonów
+* Zoptymalizowane przetwarzanie danych historycznych lub z poprzednich lat
+* Skentralizowane archiwum DIF do użytku między systemami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,30 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL till RTF** konvertering gör det möjligt att omvandla utmatningar från **Printer Command Language** till **Rich Text Format (RTF)** dokument för bred kompatibilitet, enkel redigering och användning på olika plattformar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga användningsfall" %}}
+
+* Konvertera utskrivna dokument till redigerbara rika textfiler
+* Bevara grundläggande formatering samtidigt som portabilitet säkerställs
+* Dela utskriftsgenererade rapporter över flera ordbehandlare
+* Förbereda lätta dokumentversioner för arkivändamål
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* Batchkonvertering av PCL-utskriftsfiler till RTF för distribution
+* Integrering av PCL-till-RTF-pipelines i företagssystem
+* Automatisk generering av formaterade textrapporter från utskriftsdata
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

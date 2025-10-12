@@ -61,7 +61,27 @@ otherformats: XLTM XLSM XLSX XLT XLS DIF EXCEL SXC ODS XLSB FODS XLAM TSV XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 CSV** 将基于文本的文档表转换为 **逗号分隔值**，为电子表格、数据库或自动化工具提供结构化数据表示。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从文本文档中提取表格数据进行分析
+* 将文档数据导入电子表格或 BI 工具
+* 将格式化文本转换为简单的数据行和列
+* 为机器学习或自动化工作流程准备数据集
+* 简化基于文档的报告流程
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 用于数据管道的自动 ODT 到 CSV 转换
+* 用于分析系统的批量文档表提取
+* 无缝集成到数据库导入流程中
+* 从文档到电子表格的企业级数据同步
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

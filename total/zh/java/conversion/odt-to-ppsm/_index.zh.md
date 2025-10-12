@@ -54,7 +54,27 @@ otherformats: PPSX PPSM PPTX PPS POTM POTX PPT POWERPOINT PPTM POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 PPSM** 可以从文本文档生成 **宏启用的幻灯片放映**，非常适合创建交互式和自动化的演示体验。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 使用宏逻辑生成自动化演示
+* 将结构化的 Word 数据转换为交互式幻灯片放映
+* 简化报告到幻灯片放映的自动化流程
+* 在幻灯片中嵌入动态演示行为
+* 准备输出宏启用的演示的业务工作流程
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 从 ODT 文件批量生成宏启用的幻灯片放映
+* 自动化 ODT 到 PPSM 演示工作流程
+* 集成到企业自动化和报告系统中
+* 动态内容驱动的演示生成
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

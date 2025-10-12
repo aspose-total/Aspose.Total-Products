@@ -47,7 +47,31 @@ otherformats: XLSB SXC XLT EXCEL TXT ODS TSV XLAM FODS XLTM MD XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **PCL เป็น EXCEL** ช่วยให้เอกสารที่สร้างจากการพิมพ์สามารถแปลงเป็นสเปรดชีต **Microsoft Excel** ซึ่งมอบให้รูปแบบที่มีโครงสร้าง สามารถแก้ไข และวิเคราะห์ได้สำหรับรายงาน ใบแจ้งหนี้ และแผ่นข้อมูล
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การเปลี่ยนเอกสารที่พิมพ์บน PCL เป็นไฟล์ Excel ที่สามารถแก้ไขได้
+* การแปลงรายงานและงบการเงินจากการพิมพ์เป็นรูปแบบข้อมูล
+* การนำข้อมูลที่พิมพ์มาใช้สำหรับการคำนวณ กราฟ และการวิเคราะห์
+* การปรับปรุงกระบวนการดิจิทัลของเอกสาร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การอัตโนมัติชุดข้อมูลของการแปลง PCL เป็น Excel
+* การผสานรวมกับระบบ ERP หรือระบบบัญชีเพื่อรายงาน
+* การสร้างไฟล์ Excel โดยอัตโนมัติจากเอกสารที่พิมพ์ไว้
+* การสร้างข้อมูล PCL เข้าสู่ XLS/XLSX ตามขั้นตอนการทำงาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

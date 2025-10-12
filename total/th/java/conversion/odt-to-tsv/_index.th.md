@@ -61,7 +61,27 @@ otherformats: XLTM ODS XLSM TSV XLS XLSX EXCEL SXC XLSB XLT XLAM XLTX DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น TSV** จะเอาข้อมูลเอกสารมาเป็น **ค่าที่แยกด้วยแท็บ**, รักษาความชัดเจนและความสอดคล้องเมื่อทำงานกับชุดข้อมูลที่มีโครงสร้างหรือข้อความ
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงตาราง ODT ที่จัดรูปแบบเป็นชุดข้อมูลที่แยกด้วยแท็บ
+* นำเนื้อหาเอกสารเข้าสู่เครื่องมือประมวลผลข้อความหรือสคริปต์
+* แบ่งปันข้อมูลโครงสร้างข้ามแพลตฟอร์มที่รองรับ TSV
+* เตรียมโครงสร้างข้อมูลที่สม่ำเสมอสำหรับการวิจัยหรือการวิเคราะห์
+* ย้ายตารางที่มีเอกสารไปยังระบบที่คาดหวังรูปแบบ TSV
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+* การแปลง ODT เป็น TSV ในระบบสกัดข้อมูลอัตโนมัติ
+* ส่งออกชุดเอกสารข้อความเป็นกลุ่มสำหรับการผสานข้อมูลด้านหลัง
+* รวม TSV output เข้าสู่ท่อการทำควาวข้อมูล
+* การถ่ายโอนชุดข้อมูลข้อความระหว่างเครื่องมือขององค์กรอย่างง่าย
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

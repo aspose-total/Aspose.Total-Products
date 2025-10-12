@@ -129,7 +129,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Chuyển đổi PCL sang WORDML** biến đổi tài liệu **Ngôn ngữ Lệnh Máy In** thành định dạng **WordProcessingML (WordML)**, cung cấp cấu trúc dựa trên XML cho việc xử lý dữ liệu tiên tiến và tự động hóa tài liệu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi bố cục in thành định dạng Word dựa trên XML
+* Cho phép xử lý tài liệu có cấu trúc thông qua WordML
+* Tích hợp tài liệu Word với quy trình làm việc dựa trên XML
+* Hỗ trợ tự động hóa tài liệu dựa trên siêu dữ liệu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo tài liệu WordML tự động từ các tệp in PCL
+* Tích hợp với quản lý tài liệu và quy trình làm việc XML
+* Chuyển đổi hàng loạt để tương thích với các API xử lý Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

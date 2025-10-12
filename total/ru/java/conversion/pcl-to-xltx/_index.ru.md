@@ -47,7 +47,30 @@ otherformats: EXCEL ODS TXT XLSM DIF TSV XLTM FODS XLTX XLAM MD XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Преобразование PCL в XLTX** преобразует документы на языке принтера (PCL) в файлы шаблонов Excel (XLTX), обеспечивая согласованный формат и возможность повторного использования для будущих электронных таблиц.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование макетов печати в повторно используемые шаблоны Excel
+* Оптимизация создания отчетов с использованием предопределенных стилей
+* Сохранение согласованности документов между отделами
+* Автоматизация создания шаблонов для стандартизированной отчетности
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизация на основе шаблонов для бизнес-отчетности
+* Преобразование периодических печатных отчетов в стандартизированные шаблоны
+* Автоматическое создание дизайнов, готовых к использованию в Excel, из вывода PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,30 @@ PCL dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL**'yi **SXC'ye** dönüştürmek, **Yazıcı Komut Dili** çıktılarını **StarOffice Calc (.SXC)** elektronik tablolarına dönüştürerek düzenlenebilir tablo verilerini hesaplama ve analiz için olanaklı hale getirir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* PCL raporlarından tabloların düzenlenebilir elektronik tablolara çıkarılması
+* StarOffice Calc kullanarak yazdırma tabanlı sayısal verilerin analizi
+* Arşivlenmiş yazdırma formlarının elektronik tablo formatına dönüştürülmesi
+* Hesaplama veya raporlama için yapılandırılmış verilerin hazırlanması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* PCL dosyalarından SXC'ye tablo verilerinin otomatik olarak çıkarılması
+* Finansal veya analitik iş akışlarıyla entegrasyon
+* Arşivlenmiş yazdırma elektronik tablolarının yeniden kullanımı için toplu dönüşüm
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

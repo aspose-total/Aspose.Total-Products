@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**การแปลง PCL เป็น RTF** ทำให้เป็นไปได้ที่จะเปลี่ยน **Printer Command Language** เป็นเอกสารรูปแบบ Rich Text Format (RTF) เพื่อความเข้ากันได้กว้าง การแก้ไขง่าย และการใช้งานได้บนหลายแพลตฟอร์ม
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การแปลงเอกสารที่พิมพ์เป็นไฟล์ rich text ที่สามารถแก้ไขได้
+* การรักษาการจัดรูปแบบพื้นฐานในขณะที่ให้ความสามารถในการเคลื่อนย้าย
+* การแชร์รายงานที่สร้างจากการพิมพ์ในโปรแกรมประมวลผลคำข้างหลายๆ
+* เตรียมเอกสารรุ่นเบาเพื่อใช้งานเก็บถาวร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การแปลงไฟล์พิมพ์ PCL เป็น RTF ในรูปแบบกลุ่มสำหรับการกระจาย
+* การรวมท่อนทาง PCL เป็น RTF ในระบบองค์กร
+* การสร้างรายงานข้อความที่จัดรูปแบบโดยอัตโนมัติจากข้อมูลการพิมพ์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

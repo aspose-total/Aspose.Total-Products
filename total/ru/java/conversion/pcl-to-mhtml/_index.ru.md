@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в MHTML** инкапсулирует содержимое **языка управления принтером (PCL)** в формат **веб-архива (.MHTML)**, сохраняя макет, изображения и текст для распространения в Интернете в виде одного файла.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Упаковка отчетов PCL для просмотра в браузере
+* Сохранение макетов печати как автономных веб-страниц
+* Обмен отформатированным печатным контентом через интранет или по электронной почте
+* Хранение устаревших печатных заданий PCL в виде доступных архивов MHTML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание MHTML из потоков печати PCL
+* Интеграция с системами архивирования документов или доставки через Интернет
+* Пакетное преобразование для внутренней отчетности или онлайн-документации
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

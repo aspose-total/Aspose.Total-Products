@@ -47,7 +47,30 @@ Ao converter o arquivo PCL para FODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversão de PCL para FODS** transforma dados gerados por impressão no formato **Flat OpenDocument Spreadsheet (FODS)**, fornecendo planilhas editáveis baseadas em XML compatíveis com o LibreOffice e o OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Transformar relatórios impressos ou faturas em dados de planilha editáveis
+* Possibilitar compatibilidade de planilhas entre plataformas
+* Integrar dados tabulares baseados em PCL em ferramentas de escritório de código aberto
+* Arquivar dados estruturados de impressão como planilhas XML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automatizada de relatórios financeiros ou de inventário impressos para FODS
+* Integração em pipelines de relatórios de código aberto
+* Transformação em larga escala de dados de impressão para análises e registros
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

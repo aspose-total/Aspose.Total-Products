@@ -54,7 +54,30 @@ Interfejs API umożliwia również konwersję dokumentów OTT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na PPTX** przekształca **Szablony Tekstu OpenDocument (.OTT)** w prezentacje **PowerPoint Open XML (.PPTX)**, tworząc nowoczesne, edytowalne zestawy slajdów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+* Przekształcanie szablonów tekstu w zestawy slajdów PPTX
+* Zachowywanie formatowania i układu z szablonów OTT
+* Dostosowywanie prezentacji do celów biznesowych, edukacyjnych lub szkoleniowych
+* Dzielenie się edytowalnymi, nowoczesnymi prezentacjami PowerPoint z zespołami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+* Konwersja wsadowa z OTT na PPTX do użytku korporacyjnego lub edukacyjnego
+* Integracja z systemami automatyzacji treści
+* Zaplanowane tworzenie nowoczesnych zestawów slajdów z wielokrotnie używanych szablonów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

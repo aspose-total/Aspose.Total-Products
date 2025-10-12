@@ -129,7 +129,30 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL till DOT** konvertering gör det möjligt att återanvända tryckta mallar och rapporter från **Printer Command Language** filer till **Microsoft Word-mallar (.DOT)** för enhetlig formatering och återanvändning.
+
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga användningsfall" %}}
+
+* Skapa Word-mallar från PCL-baserade rapporter eller layouter
+* Standardisera dokumentets utseende över avdelningar
+* Skapa återanvändbara formulär och rapportmallar från utskriftsfiler
+* Effektivisera dokumentförberedelseprocesser
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+* Automatisk generering av företagsmallar från utskrivna rapporter
+* Mallbaserade dokumentflöden för affärsverksamhet
+* Konvertering av rutinmässiga PCL-rapporter till färdiga DOT-mallar
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

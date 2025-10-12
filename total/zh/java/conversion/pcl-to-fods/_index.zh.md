@@ -49,7 +49,30 @@ otherformats: TSV XLSM XLSB FODS TXT ODS XLTX XLT DIF XLAM SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转FODS**转换将打印生成的数据转换为**Flat OpenDocument Spreadsheet (FODS)**格式，提供与LibreOffice和OpenOffice兼容的可编辑的基于XML的电子表格。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将打印报告或发票转换为可编辑的电子表格数据
+* 实现跨平台电子表格兼容性
+* 将基于PCL的表格数据集成到开源办公工具中
+* 将结构化打印数据存档为XML电子表格
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将打印的财务或库存报告自动转换为FODS
+* 集成到开源报告流水线中
+* 大规模转换打印数据以进行分析和记录
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -30,7 +30,33 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OFT'yi XPS'e dönüştürmek**, Outlook şablonlarının platformdan bağımsız, sabit düzenli belge temsili için XML Kağıt Belge belgeleri oluşturur; görüntüleme, paylaşma ve yazdırma imkanı sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Şablon düzenini ve biçimlendirmeyi cihazlar arasında koruma
+* E-posta şablonlarını sabit düzenli belgeler olarak paylaşma
+* OFT içeriğini uyumluluk ve kayıt tutma amacıyla arşivleme
+* Tutarsız görünüme sahip şablonların yazdırılması
+* Microsoft Outlook veya Word olmadan şablonları görüntüleme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Kurumsal dağıtım için otomatik OFT'den XPS'e dönüşüm
+* Belge yönetim sistemleriyle entegrasyon
+* E-posta şablonlarından sabit düzenli arşivlerin toplu oluşturulması
+* Şablonların güvenli paylaşımı ve yazdırılması için pipeline
+* Outlook şablon tasarımlarının uzun vadeli arşivlenmesi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

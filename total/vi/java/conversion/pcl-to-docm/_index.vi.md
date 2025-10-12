@@ -129,7 +129,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành DOCM** cho phép biến đổi các đầu ra **Ngôn ngữ Lệnh Máy In** thành **tài liệu Word hỗ trợ macro**, cho phép tự động hóa, cập nhật động, và khả năng định dạng nâng cao trực tiếp từ các tệp dựa trên in ấn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng các macro vào tài liệu Word đã chuyển đổi để tự động hóa
+* Tái sử dụng dữ liệu đã in trong các báo cáo có thể chỉnh sửa và lập trình
+* Tạo các mẫu doanh nghiệp tương tác từ các bản in PCL
+* Nâng cao quy trình làm việc hiệu quả bằng cách sử dụng tài liệu hỗ trợ macro
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt các bản lưu trữ PCL thành DOCM để báo cáo động
+* Tích hợp đầu ra in vào các quy trình làm việc dựa trên Word tự động
+* Tạo tài liệu hỗ trợ macro từ luồng in của máy in trong thời gian thực
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

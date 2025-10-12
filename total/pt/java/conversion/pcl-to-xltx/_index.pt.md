@@ -47,7 +47,30 @@ Ao converter o arquivo PCL para XLTX, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversão de PCL para XLTX** transforma documentos em **Linguagem de Comando de Impressora (PCL)** em arquivos de **Modelo do Excel (XLTX)**, permitindo formatação consistente e reutilização para planilhas futuras.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Convertendo layouts de impressão em modelos de Excel reutilizáveis
+* Agilizando a criação de relatórios usando estilos predefinidos
+* Preservando a consistência de documentos entre departamentos
+* Automatizando a criação de modelos para relatórios padronizados
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Automação baseada em modelos para relatórios empresariais
+* Convertendo relatórios de impressão periódicos em modelos padronizados
+* Criando designs prontos para Excel a partir da saída PCL automaticamente
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

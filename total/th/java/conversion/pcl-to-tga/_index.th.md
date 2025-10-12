@@ -57,7 +57,30 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น TGA** จะแปลงกราฟิก **Printer Command Language** เป็นรูปแบบภาพ **Truevision TGA (.TGA)** เพื่อรักษากราฟิกเรสเตอร์คุณภาพสูงสำหรับการออกแบบ การแสดงผล หรือเก็บถาวร.
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สกัดภาพคุณภาพสูงจากกราฟิกการพิมพ์ PCL
+* เตรียมเนื้อหาทางสื่อสำหรับการออกแบบและวาดภาพ
+* เก็บถาวรกราฟิกการพิมพ์ในรูปแบบภาพที่ไม่สูญเสีย
+* แปลงแผนภาพและเค้าโครงสำหรับแอปพลิเคชันมัลติมีเดีย
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงกลุ่ม PCL ให้เป็น TGA โดยอัตโนมัติ
+* การรวมระบบกับการประมวลผลภาพและท่อสื่อมัลติมีเดีย
+* การเก็บถาวรภาพการพิมพ์อย่างเรียบง่ายสำหรับการใช้งานในอนาคต
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

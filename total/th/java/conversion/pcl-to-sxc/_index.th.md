@@ -47,7 +47,30 @@ otherformats: XLTX FODS EXCEL XLSM TSV DIF XLAM ODS XLSB XLTM TXT MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น SXC** ช่วยให้ผลลัพธ์ของ **Printer Command Language** ถูกแปลงเป็นสเปรดชีต **StarOffice Calc (.SXC)** ทำให้ข้อมูลตารางที่สามารถแก้ไขสำหรับการคำนวณและการวิเคราะห์
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การสกัดตารางจากรายงาน PCL เพื่อแปลงเป็นสเปรดชีตที่สามารถแก้ไขได้
+* การวิเคราะห์ข้อมูลตัวเลขที่พิมพ์ออกมาโดยใช้ StarOffice Calc
+* การแปลงแบบฟอร์มการพิมพ์เก่าเป็นรูปแบบสเปรดชีต
+* เตรียมข้อมูลโครงสร้างสำหรับการคำนวณหรือรายงาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสกัดข้อมูลตารางจากไฟล์ PCL ไปยัง SXC โดยอัตโนมัติ
+* การผสานกับกระบวนการทำงานทางการเงินหรือการวิเคราะห์
+* การแปลงสเปรดชีตการพิมพ์เก่าเป็นชุดข้อมูลสำหรับการใช้ซ้ำ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

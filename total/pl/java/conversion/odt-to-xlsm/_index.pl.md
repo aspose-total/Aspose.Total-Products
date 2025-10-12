@@ -61,7 +61,27 @@ Po przekonwertowaniu ODT na XLSM [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na XLSM** pozwala na eksport danych dokumentu do plików Excel z obsługą makr, umożliwiając automatyzację i zaawansowane operacje arkusza kalkulacyjnego.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Eksportowanie tabel ODT do arkuszy Excel z obsługą VBA
+* Umożliwianie automatyzacji opartej na makrach z danych dokumentu
+* Osadzanie formuł i niestandardowych skryptów w eksportowanych plikach
+* Przygotowywanie interaktywnych raportów na podstawie danych tekstowych
+* Łączenie danych dokumentu z automatyzacją zadań w Excelu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+* Automatyczne transformacje dokumentu na makro w Excelu
+* Integracja eksportów ODT z zaawansowanymi systemami automatyzacji w Excelu
+* Generowanie wsadowe plików XLSM dla dynamicznych raportów biznesowych
+* Łączenie treści tekstowej z automatyzacją zadań opartych na arkuszu kalkulacyjnym
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

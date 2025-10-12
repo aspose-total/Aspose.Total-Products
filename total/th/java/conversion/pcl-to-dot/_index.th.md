@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**การแปลง PCL เป็น DOT** ช่วยให้เทมเพลตและรายงานที่พิมพ์จากไฟล์ Printer Command Language สามารถนำมาใช้ใหม่ในเอกสาร **Microsoft Word Template (.DOT)** เพื่อการจัดรูปแบบและการใช้ซ้ำที่เหมือนกัน
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลต Word จากรายงานหรือเลย์เอาท์ที่ใช้ PCL
+* มาตรฐานการแสดงผลเอกสารในแผนกต่าง ๆ ให้เหมือนกัน
+* สร้างแบบฟอร์มและเทมเพลตรายงานที่ใช้ซ้ำจากไฟล์พิมพ์
+* ปรับปรุงกระบวนการเตรียมเอกสารอย่างมีประสิทธิภาพ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างเทมเพลตบริษัทโดยอัตโนมัติจากรายงานที่พิมพ์
+* การทำงานของเอกสารที่ใช้เทมเพลตสำหรับกิจกรรมธุรกิจ
+* แปลงรายงาน PCL ประจำเป็นเทมเพลต DOT ที่พร้อมใช้งาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,30 @@ otherformats: EXCEL MD XLSM ODS XLTX XLTM TSV XLT XLAM FODS DIF TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น XLSM** ช่วยให้เอกสารที่พิมพ์เป็น **สมุดงาน Excel ที่เปิดใช้งานแมโคร** ทำให้สามารถอัตโนมัติและประมวลผลข้อมูลใน Excel environments
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การอัตโนมัติงานที่ซ้ำซากบนข้อมูลที่ถูกสกัดออกจากไฟล์ PCL
+* ฝังแมโครสำหรับการสร้างรายงานหรือการตรวจสอบ
+* ปรับปรุงการทำงานผ่านสคริปต์ Excel
+* การรวมข้อมูลการพิมพ์กับระบบอัตโนมัติที่ใช้ Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การสร้างรายงานทางการเงินหรือการวิเคราะห์ที่เปิดใช้งานแมโคร
+* อัพเดทอัตโนมัติแดชบอร์ด Excel จากแหล่งข้อมูลการพิมพ์ PCL
+* ท่อการเปลี่ยนแปลงไดนามิกสำหรับการประมวลผลข้อมูลจากการพิมพ์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

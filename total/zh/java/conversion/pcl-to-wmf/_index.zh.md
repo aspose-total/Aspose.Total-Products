@@ -57,7 +57,30 @@ otherformats: PSD WMZ TGA JPEG2000 DXF  WMF SVGZ EMZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 WMF** 将 **打印机命令语言** 图形转换为 **Windows 图元文件 (.WMF)** 格式，适用于矢量编辑和在 Windows 应用程序中可伸缩使用的图像。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 PCL 打印布局中提取可伸缩图形
+* 在 Windows 应用程序中编辑基于矢量的图表
+* 将 PCL 视觉内容嵌入 Office 文档
+* 为桌面出版项目保留打印精度
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将 PCL 文件自动转换为 WMF 图像
+* 与文档发布和设计流程集成
+* 批处理处理传统打印图形存档
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

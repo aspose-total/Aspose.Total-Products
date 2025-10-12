@@ -61,7 +61,30 @@ OTT'yi XLTM'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi XLTM'ye dönüştürme**, tekrar kullanılabilir otomasyonlu elektronik tablolar için **OpenDocument Metin Şablonları (.OTT)**'yi **Excel Makro Etkin Şablonu (.XLTM)**'ye dönüştürür.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* OTT dosyalarından makro etkin elektronik tablo şablonları tasarlama
+* Şablon tabanlı çalışma kitapları kullanarak tekrarlayan veri işlemlerini otomatikleştirme
+* Raporlama ve analiz için tekrar kullanılabilir Excel şablonları oluşturma
+* Makro etkin elektronik tablo temelleriyle iş akışlarını standartlaştırma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Kurumsal raporlama için zamanlanmış OTT'den XLTM'ye dönüştürme
+* İş akışı otomasyonu ve elektronik tablo oluşturma boru hatlarıyla entegrasyon
+* Belge şablonlarından makro etkin Excel şablonlarının toplu oluşturulması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

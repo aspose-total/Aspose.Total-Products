@@ -61,7 +61,27 @@ otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB DIF XLT EXCEL XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 DIF** 可以将基于文本的内容转换为 **数据交换格式 (DIF)** 文件，实现文档和电子表格环境之间的结构化数据交换。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将文档中的表格信息导出到数据系统
+* 将基于文本的报告与电子表格软件集成
+* 为导入分析工具准备数据集
+* 在应用程序之间共享结构化文档数据
+* 将文档表格转换为数据迁移或处理
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 用于企业数据工作流程的自动化 ODT 到 DIF 导出
+* 与 ETL 管道和报告工具集成
+* 批量将报告转换为数据交换格式
+* 用于分析和商业智能平台的文档到数据集转换
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

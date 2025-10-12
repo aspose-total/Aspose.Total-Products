@@ -61,7 +61,25 @@ ODT'yi XLSM'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi XLSM'ye dönüştürmek**, belge verilerinin **makro destekli Excel dosyalarına** aktarılmasına olanak tanır, otomasyonu ve gelişmiş elektronik tablo işlemlerini destekler.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* VBA destekli Excel tablolarında kullanmak için ODT tablolarını dışa aktarma
+* Belge verilerinden makro tabanlı otomasyonu etkinleştirme
+* İhracat dosyalarına formüller ve özel komut dosyaları gömme
+* Metin girişlerine dayalı etkileşimli raporlar hazırlama
+* Belge verilerini Excel tabanlı otomasyon iş akışlarıyla bağlama
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Otomatik belge-makro Excel dönüşümleri
+* ODT dışa aktarmalarını gelişmiş Excel otomasyon sistemlerine entegre etme
+* Dinamik iş raporları için toplu XLSM oluşturma
+* Metin içeriğini elektronik tablo tabanlı görev otomasyonuna bağlama
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

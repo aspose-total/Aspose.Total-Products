@@ -47,7 +47,30 @@ otherformats: XLTX XLSB SXC DIF TSV TXT XLSM XLT EXCEL XLTM MD FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **PCL เป็น XLTM** ช่วยในการสร้าง **เทมเพลต Excel ที่เปิดใช้งานแมโคร** จากเอกสารพิมพ์ โดยรวมเลเอาท์ที่ถูกสงวนไว้พร้อมกับความสามารถในการฝังตัวตรรกะอัตโนมัติ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การออกแบบเทมเพลต Excel ที่เปิดใช้งานแมโครจากเลเอาท์ที่ถูกพิมพ์
+* การฝังตัวตรรกะที่สามารถใช้ซ้ำเข้าไปในเทมเพลตรายงาน
+* การเปิดใช้งานการสร้างเอกสารตามเทมเพลตอย่างไดนามิก
+* มาตรฐานการสร้างสเปรดชีตอัจฉริยะ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างเทมเพลตอัจฉริยะจากรายงาน PCL ที่เป็นเรื่องประจำ
+* การอัตโนมัติการผลิตรายงาน Excel ด้วยตรรกะแมโคร
+* การแปลงข้อมูลการพิมพ์เป็นเทมเพลตธุรกิจที่สามารถใช้ซ้ำได้เป็นชุด
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

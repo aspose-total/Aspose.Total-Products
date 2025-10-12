@@ -54,7 +54,27 @@ A API também permite converter documentos ODT protegidos por senha em POTX. Se 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **ODT para POTX** torna possível transformar documentos de texto em **arquivos de modelo do PowerPoint moderno**, ideais para manter a identidade visual corporativa e a consistência nas apresentações.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Criar modelos de apresentação a partir de documentação escrita
+* Converter esboços de negócios estruturados em slides com marca
+* Preparar padrões de apresentação para colaboração em equipe
+* Criar estruturas de apresentação para toda a empresa
+* Gerar modelos do PowerPoint prontos para design a partir de conteúdo do Word
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+* Conversão automatizada de documentos ODT em modelos PPTX
+* Integração em pipelines de documentos para apresentações empresariais
+* Geração em lote de temas do PowerPoint a partir de documentos comerciais
+* Criação de modelos do PowerPoint orientada por conteúdo para uma identidade visual consistente
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

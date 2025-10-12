@@ -143,7 +143,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в XAMLFLOW** позволяет преобразовывать выводы **языка управления принтером** в формат **XAMLFlow** для ориентированных на рабочий процесс пользовательских интерфейсов и автоматизации дизайна.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Интеграция макетов печати PCL в приложения, управляемые рабочим процессом
+* Преобразование статических визуальных элементов печати в интерактивные элементы XAMLFlow
+* Повторное использование созданных при печати форм и диаграмм в программных рабочих процессах
+* Стандартизация активов печати для автоматизации пользовательского интерфейса
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование файлов PCL в XAMLFlow для конвейеров приложений
+* Интеграция с инструментами автоматизации рабочего процесса и генерации пользовательского интерфейса
+* Автоматизированное преобразование для рабочих процессов проектирования корпоративного программного обеспечения
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

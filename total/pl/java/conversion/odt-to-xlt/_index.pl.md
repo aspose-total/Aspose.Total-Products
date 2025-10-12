@@ -61,7 +61,27 @@ Po przekonwertowaniu ODT na XLT [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na XLT** przekształca dane dokumentu w **format szablonu Excela**, umożliwiając standardowe tworzenie arkuszy kalkulacyjnych i spójne układy raportów.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Projektowanie szablonów Excela z dokumentów tekstowych
+* Ponowne wykorzystywanie danych dokumentów do powtarzających się zadań raportowych
+* Konwertowanie standardowych formularzy dokumentów na szablony Excela
+* Utrzymywanie jednolitego formatowania arkuszy kalkulacyjnych w zespołach
+* Usprawnianie przepływów pracy od dokumentu do szablonu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+* Automatyczna generacja szablonów ODT-to-XLT
+* Integracja z systemami zarządzania szablonami przedsiębiorstwa
+* Partiowe eksportowanie sformatowanych danych do ponownego wykorzystania w raportach
+* Tworzenie szablonów Excela sterowanych dokumentami
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

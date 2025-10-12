@@ -121,7 +121,30 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в PPSX** превращает файлы **языка управления принтером** в формат **PowerPoint Open XML Show (.PPSX)**, подходящий для беспрепятственного воспроизведения презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование статических отчетов PCL в слайд-презентации
+* Предоставление корпоративных данных и визуальных материалов в виде неизменяемых слайд-шоу
+* Обмен контентом на основе печати в виде файлов для воспроизведения в PowerPoint
+* Сохранение точности макета для просмотра презентаций
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое преобразование документов PCL в презентации .PPSX
+* Интеграция с рабочими процессами предоставления презентаций в предприятии
+* Пакетное создание файлов PPSX для обучения или отчетности
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

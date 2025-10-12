@@ -49,7 +49,30 @@ otherformats: XLSB ODS XLT TSV SXC FODS TXT XLTX XLSM MD EXCEL XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## 将 **PCL 转换为 DIF** 可将 **Printer Command Language** 文件转换为 **Data Interchange Format (DIF)** 文件，实现跨应用程序的结构化数据交换和电子表格互操作性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从打印报告中提取表格数据到 DIF 格式
+* 促进将打印数据导入传统电子表格系统
+* 在分析工具之间实现平稳的数据迁移
+* 从存档的 PCL 打印输出中创建可重复使用的数据集
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将 PCL 报告自动转换为 DIF 以进行数据交换
+* 集成到 ETL 管道中进行结构化数据交换
+* 批量将打印存档转换为与 DIF 兼容的分析数据源
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

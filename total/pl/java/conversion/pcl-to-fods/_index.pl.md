@@ -47,7 +47,30 @@ Konwertując plik PCL na FODS, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konwersja PCL na FODS** przekształca dane generowane do druku w format **Flat OpenDocument Spreadsheet (FODS)**, dostarczając edytowalne arkusze kalkulacyjne oparte na XML, kompatybilne z LibreOffice i OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Przekształcanie raportów drukowanych lub faktur w edytowalne dane arkusza kalkulacyjnego
+* Umożliwianie kompatybilności arkuszy kalkulacyjnych między platformami
+* Integracja danych tabelarycznych opartych na PCL z narzędziami biurowymi typu open-source
+* Archiwizowanie strukturalnych danych drukowanych jako arkusze kalkulacyjne XML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja wydrukowanych raportów finansowych lub inwentaryzacyjnych na FODS
+* Integracja z potokami raportowania typu open-source
+* Przekształcenie danych drukowanych na dużą skalę do celów analizy i archiwizacji
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

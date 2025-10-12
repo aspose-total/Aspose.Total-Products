@@ -47,7 +47,30 @@ Ao converter o arquivo PCL para XLSM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para XLSM** transforma documentos baseados em impressão em **pastas de trabalho do Excel habilitadas para macro**, permitindo automação e processamento de dados dentro de ambientes do Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Automatização de tarefas repetitivas em dados extraídos de arquivos PCL
+* Incorporação de macros para geração ou validação de relatórios
+* Aprimoramento de fluxos de trabalho por meio de scripts do Excel
+* Integração de dados de impressão com sistemas de automação baseados no Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração de relatórios financeiros ou analíticos habilitados para macro
+* Atualização automática de painéis do Excel a partir de fontes de impressão PCL
+* Pipelines de transformação dinâmica para processamento de dados de impressão
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

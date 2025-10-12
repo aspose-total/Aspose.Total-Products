@@ -57,7 +57,30 @@ API также позволяет экспортировать файл PCL в P
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в PSD** преобразует файлы **языка описания принтера (PCL)** в формат **Adobe Photoshop Document (.PSD)**, делая напечатанные материалы редактируемыми в виде слоев для графического дизайна и улучшения.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Редактирование дизайнов печати PCL в Adobe Photoshop
+* Извлечение визуальных элементов из макетов PCL для использования в графическом дизайне
+* Ретуширование и настройка напечатанных произведений в слоистом формате
+* Создание маркетинговых визуалов или творческих ресурсов из печатных документов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование файлов PCL в PSD для рабочих процессов дизайна
+* Интеграция с инструментами креативной автоматизации для перехода от печати к цифровому формату
+* Автоматизированные конвейеры преобразования для создания брендового или рекламного контента
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

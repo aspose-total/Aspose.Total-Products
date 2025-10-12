@@ -100,7 +100,30 @@ otherformats: POT PPSM PPSX POWERPOINT ODP POTM PPS POTX PPTM PPTX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертація **OTT в PPT** перетворює **шаблони тексту OpenDocument (.OTT)** в редаговані файли **презентацій PowerPoint (.PPT)**, готові для створення та змін.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+* Перетворення текстових шаблонів в редаговані слайди
+* Створення професійних презентацій на основі макетів OTT
+* Налаштування вмісту документа в готові до презентації слайди
+* Підготовка PPT для внутрішніх зустрічей або презентацій клієнтам
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Пакетне перетворення шаблонів OTT в презентації PPT
+* Інтеграція з потоками вмісту для автоматизованого створення презентацій
+* Запланована генерація редагованих слайдів з документальних шаблонів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

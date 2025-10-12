@@ -129,7 +129,28 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konvertering av **PCL till DOTX** omvandlar **Printer Command Language**-filer till **Word-mall (.DOTX)**-format, idealiskt för att bibehålla designkonsistens i återanvändbara, icke-makro mallar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+* Design av standardiserade dokumentmallar från utskriftslayouter
+* Effektivisering av företagsomfattande varumärkesbyggande med Word-mallar
+* Skapande av redigerbara och återanvändbara mallar för framtida rapporter
+* Konvertering av statiskt utskriftsinnehåll till flexibla dokumentdesigner
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+* Automatisk mallkonvertering från utskriftsrapporter till DOTX
+* Integration i dokumentgenereringssystem för konsekvent resultat
+* Skapande av varumärkesrapportmallar på företagsnivå
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

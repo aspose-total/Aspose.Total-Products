@@ -100,7 +100,27 @@ otherformats: PPSX PPSM POTX PPTM POWERPOINT ODP POTM PPS PPTX PPT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Перетворення **ODT у POT** дозволяє перетворити текстові документи у файли **шаблонів PowerPoint**, що дозволяє користувачам створювати послідовні теми та структури презентацій на основі письмового контенту.
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Створення шаблонів PowerPoint зі структурованих текстових документів
+* Розробка рамок презентацій для однорідності в команді
+* Перетворення корпоративного контенту у редаговані шаблони презентацій
+* Створення повторно використовуваних шаблонів слайдів з документації
+* Перетворення бізнес-структур у готові до презентації теми
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+* Автоматизоване створення шаблонів PowerPoint з вмісту Word
+* Інтеграція в системи дизайну вмісту або брендінгу
+* Пакетне перетворення текстових шаблонів у файли POT
+* Динамічне створення теми з макетів на основі документів
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

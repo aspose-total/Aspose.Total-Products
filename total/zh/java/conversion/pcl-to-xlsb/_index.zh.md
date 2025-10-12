@@ -49,7 +49,30 @@ otherformats: XLTX MD FODS TXT XLSB XLT SXC ODS EXCEL DIF XLSM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL转XLSB**转换可将**PCL**文件转换为**二进制Excel工作簿**，提供更快的性能、减小的文件大小，并兼容从印刷材料中提取的大型数据集。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 高性能将大型PCL报告转换为XLSB
+* 存储来自打印文件的压缩的二进制电子表格数据
+* 减小数据密集型Excel存档的大小
+* 自动化从PCL格式中提取结构化数据
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定时将大量PCL文件转换为XLSB格式
+* 与数据仓库和分析系统集成
+* 存档转换以保持较小的存储占用空间
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

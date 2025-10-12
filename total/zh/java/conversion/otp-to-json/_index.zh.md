@@ -49,7 +49,27 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## 将OTP转换为JSON
+
+将**OTP转换为JSON**可有效地从**OpenDocument演示文稿模板**中提取结构化数据，转换为可机器读取的格式。这种转换支持开发人员、分析师和自动化系统，帮助将演示内容集成到数据管道、API或内容管理系统中。
+
+## 主要用例
+
+* 将演示模板转换为结构化JSON数据
+* 提取元数据、幻灯片布局和文本内容以进行分析
+* 支持基于API的演示数据消费
+* 将传统OTP模板迁移到现代Web应用程序
+* 在JSON数据库中集中存储演示内容
+
+## 自动化场景
+
+* 批量将OTP文件转换为标准化的JSON模式
+* 与CMS或DAM系统集成，实现动态内容重用
+* 自动分析大型数据集中的幻灯片元素
+* 用于以编程方式更新演示模板的工作流自动化
+* 从基于演示的输入中进行AI和ML数据预处理
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

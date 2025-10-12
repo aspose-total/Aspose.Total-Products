@@ -129,7 +129,30 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversão de PCL para RTF** torna possível transformar saídas de **Linguagem de Comando de Impressora** em documentos de **Formato de Texto Rico (RTF)** para ampla compatibilidade, edição fácil e uso multiplataforma.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Converter documentos impressos em arquivos de texto rico editáveis
+* Preservar formatação básica garantindo portabilidade
+* Compartilhar relatórios gerados por impressão em vários processadores de texto
+* Preparar versões leves de documentos para uso arquivístico
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote de arquivos de impressão PCL em RTF para distribuição
+* Integrar pipelines de PCL para RTF em sistemas corporativos
+* Geração automatizada de relatórios de texto formatado a partir de dados de impressão
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

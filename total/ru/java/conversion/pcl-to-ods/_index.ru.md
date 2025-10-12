@@ -47,7 +47,30 @@ otherformats: MD SXC TXT XLT XLAM XLSB XLTM XLSM TSV XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в ODS** извлекает данные из файлов **языка управления принтером (Printer Command Language)** в формат **OpenDocument Spreadsheet (.ODS)** для структурированного анализа в инструментах, таких как **LibreOffice Calc**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование табличных печатных отчетов в электронные таблицы
+* Возможность анализа данных на созданных из PCL таблицах
+* Импорт структурированного содержимого PCL в бухгалтерские или аналитические рабочие процессы
+* Создание редактируемых таблиц на основе данных печати с использованием формул
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое преобразование отчетов PCL в рабочие книги ODS
+* Потоки извлечения данных, преобразующие печатный вывод в форматы электронных таблиц
+* Интеграция с ERP-системами или финансовыми системами для автоматического внесения данных
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

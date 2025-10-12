@@ -57,7 +57,31 @@ API также позволяет экспортировать файл PCL в I
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в изображение** создает **растровые изображения** (PNG, JPEG, TIFF и т. д.) из документов на языке описания принтера, делая файлы, готовые к печати, просматриваемыми и общедоступными как стандартные изображения.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Визуализация печатных заданий PCL в виде изображений
+* Встраивание вывода печати в документацию или отчеты
+* Архивирование файлов PCL в репозиториях на основе изображений
+* Преобразование печати в изображения для обеспечения доступности на различных платформах
+* Обмен макетами печати между устройствами без поддержки PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PCL в изображение в системах обработки печати
+* Пакетная генерация изображений для предварительного просмотра документов
+* Интеграция с облачным мониторингом печати или системами управления документами
+* Архивирование предприятий данных печати на основе изображений
+* Визуализация печатных заданий в реальном времени для контроля качества и проверки
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

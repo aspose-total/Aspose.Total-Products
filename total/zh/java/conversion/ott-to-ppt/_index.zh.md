@@ -54,7 +54,30 @@ otherformats: POT PPSM PPSX POWERPOINT PPT POTM PPS POTX PPTM PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **OTT 转换为 PPT** 可将 **OpenDocument 文本模板 (.OTT)** 转换为可编辑的 **PowerPoint 演示文稿 (.PPT)** 文件，方便制作和修改幻灯片。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将文本模板重新用于可编辑的幻灯片
+* 从基于OTT的布局创建专业演示文稿
+* 将文档内容定制为适用于演示的幻灯片
+* 为内部会议或客户演示准备PPT
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将OTT模板转换为PPT演示文稿
+* 与内容管道集成，实现自动化演示文稿创建
+* 从文档模板定期生成可编辑的幻灯片
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

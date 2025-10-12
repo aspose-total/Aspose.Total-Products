@@ -61,7 +61,27 @@ otherformats: DIF XLSM XLSX EXCEL SXC TSV FODS XLAM ODS XLSB XLTM XLT XLS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น XLAM** ช่วยให้เกิดการเปลี่ยนแปลงเนื้อหาเอกสารเป็น **Excel add-ins ที่รองรับแมโคร**, เหมาะสำหรับการอัตโนมัติงานกระดานงานของสเปรดชีทที่มาจากข้อมูลข้อความที่มีโครงสร้าง
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้าง Excel add-ins จากเทมเพลตที่มีโครงสร้างเหมือน Word
+* อัตโนมัติงานกระดานงาน Excel ที่ใช้ตรรกะเอกสาร
+* ฝังสูตรหรือโมโครตามคำนิยามข้อความ
+* สร้างเครื่องมือโมโครที่ใช้ซ้ำจากไฟล์ ODT
+* เพิ่มประสิทธิภาพโดยการเชื่อมโยงข้อมูลจาก Word กับการอัตโนมัติงาน Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+* การสร้างเมโคร add-in จาก ODT ไปยัง XLAM โดยอัตโนมัติ
+* การผสานรวมกับระบบอัตโนมัติ Excel ขององค์กร
+* การสร้างเครื่องมือที่รองรับแมโครจากเนื้อหา ODT ที่มีโครงสร้าง
+* การปรับปรุงกระบวนการพัฒนาโมโครจากเอกสารไปสู่ Excel อย่างเรียบง่าย
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

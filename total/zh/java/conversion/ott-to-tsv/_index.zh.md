@@ -61,7 +61,33 @@ otherformats: XLTM TSV XLSB SXC XLT XLS EXCEL ODS XLTX FODS DIF XLSM XLAM XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为TSV**将OpenDocument文本模板转换为**制表符分隔值**，适用于结构化数据导入、分析和电子表格处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 用于表格报告的数据提取
+* 为电子表格导入或自动化准备模板
+* 以轻量级表格格式共享模板内容
+* 用于分析或日志记录的结构化文本存档
+* 支持跨平台数据交换
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业报告的自动化OTT到TSV管道
+* 用于分析和文档工作流程的批量导出
+* 与数据驱动系统集成以进行模板处理
+* 生成用于集中内容存储库的TSV存档
+* 用于表格内容提取的工作流自动化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,33 @@ otherformats: PPTX PPTM PPS POTM POTX PPSX POWERPOINT POT PPT PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **OTT 转换为 ODP** 可将 OpenDocument 文本模板转换为 **OpenDocument 演示文件**，从而实现在幻灯片和演示文稿中重复使用电子邮件模板内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将文本模板转换为演示幻灯片
+* 将模板存档为可编辑的演示内容
+* 将内容重新用于培训或营销幻灯片
+* 从模板数据协作创建演示文稿
+* 在演示中保持一致的品牌形象
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量处理的自动化 OTT 到 ODP 转换
+* 与演示管理工作流程集成
+* 从模板库生成用于培训的幻灯片
+* 将动态模板内容插入演示文稿
+* 企业范围的模板到演示自动化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

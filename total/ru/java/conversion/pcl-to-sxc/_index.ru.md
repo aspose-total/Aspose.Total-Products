@@ -47,7 +47,30 @@ otherformats: XLTX FODS EXCEL XLSM TSV DIF XLAM ODS XLSB XLTM TXT MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в SXC** позволяет преобразовывать выводы **языка управления принтером** в таблицы **StarOffice Calc (.SXC)**, обеспечивая возможность редактирования табличных данных для расчетов и анализа.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение таблиц из отчетов PCL в редактируемые электронные таблицы
+* Анализ числовых данных, полученных из печати, с использованием StarOffice Calc
+* Преобразование архивированных печатных форм в формат электронных таблиц
+* Подготовка структурированных данных для расчетов или отчетности
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное извлечение табличных данных из файлов PCL в формат SXC
+* Интеграция с финансовыми или аналитическими рабочими процессами
+* Пакетное преобразование архивированных печатных электронных таблиц для повторного использования
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

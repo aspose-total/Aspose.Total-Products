@@ -61,7 +61,33 @@ OTT'yi XLS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi XLS'ye dönüştürmek**, OpenDocument Metin Şablonlarını **Excel 97-2003 Çalışma Kitabı formatına** dönüştürerek geriye dönük uyumlu elektronik tablo kullanımı ve raporlama sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Eski uyumlu Excel raporları oluşturma
+* Şablon içeriğini eski elektronik tablo ortamlarına taşıma
+* Şablonlardan yapılandırılmış verileri analiz için hazırlama
+* İçeriği geniş desteklenen formatlarda arşivleme
+* Posta birleştirme veya elektronik tablo destekli yazışmaları destekleme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Otomatik toplu OTT'den XLS'ye dönüşüm
+* Eski kurumsal sistemlerle entegrasyon
+* Birden fazla şablondan elektronik tablo oluşturma boruları
+* Şablon odaklı raporlama iş akışları
+* Tarihsel veri arşivleme XLS formatında
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

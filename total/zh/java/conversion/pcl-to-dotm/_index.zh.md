@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 DOTM** 将打印布局转换为 **带宏的 Word 模板**，结合格式保留和嵌入式自动化功能，实现高级文档生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 PCL 文档创建带宏的智能模板
+* 自动化报告生成和重复任务
+* 通过动态功能保持布局一致性
+* 嵌入脚本进行表单填充和验证任务
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从打印源全企业范围创建自动化模板
+* 批处理将 PCL 文件转换为带宏的模板
+* 集成到 Word 自动化或报告系统中
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

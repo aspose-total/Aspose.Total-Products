@@ -49,7 +49,30 @@ otherformats: TXT DIF MD XLSB FODS XLSM XLT SXC ODS XLAM TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 TXT** 从 **打印机命令语言** 文件中提取纯文本内容，非常适合分析、存档或进一步数据处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 从打印格式报告中提取可读文本
+* 创建轻量级、可搜索的打印数据存档
+* 将提取的文本输入文本挖掘或自然语言处理系统
+* 简化打印输出以进行自动化分析
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从 PCL 存档中批量提取文本
+* 从基于打印的文件自动生成日志
+* 集成到人工智能、分析或索引工作流程中
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

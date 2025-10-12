@@ -102,7 +102,30 @@ otherformats: EXCEL XLT XLSX TSV XLTX SXC XLSB ODS CSV XLS XLTM FODS XLAM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT у XLSM** перетворює **Шаблони тексту OpenDocument (.OTT)** у **Робочу книгу Excel з підтримкою макросів (.XLSM)**, що дозволяє автоматизацію та функціональність на основі макросів у електронних таблицях.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Створення робочих книг Excel з макросами з шаблонів OTT
+* Автоматизація обробки даних або генерація звітів
+* Повторне використання шаблонів документів для інтерактивних рішень у таблицях
+* Вбудовання обчислень або автоматизованих завдань у створені робочі книги
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Пакетне перетворення шаблонів OTT у робочі книги XLSM
+* Інтеграція з підприємницькими системами звітності та аналітики
+* Автоматизована генерація макро-дозволених таблиць з шаблонів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

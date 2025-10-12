@@ -129,7 +129,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi MHTML'ye Dönüştürme**, **Yazıcı Komut Dili** içeriğini **web arşivi formatına (.MHTML)** kapsüller, düzeni, görüntüleri ve metni koruyarak tek dosya web dağıtımı için.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Tarayıcı tabanlı görüntüleme için PCL raporlarını paketleme
+* Basılı düzenleri kendi içindeki web sayfaları olarak koruma
+* Biçimlendirilmiş baskı içeriğini intranet veya e-posta aracılığıyla paylaşma
+* Erişilebilir MHTML arşivleri olarak eski PCL baskı işlerini saklama
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* PCL baskı akışlarından otomatik MHTML oluşturma
+* Belge arşivleme veya web tabanlı teslim sistemleriyle entegrasyon
+* İç raporlama veya çevrimiçi belgelendirme için toplu dönüşüm
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

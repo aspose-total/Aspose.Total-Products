@@ -129,7 +129,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi ODT'ye** dönüştürmek, **Yazıcı Komut Dili** çıktısını **Açık Belge Metni (.ODT)** biçimine dönüştürerek **LibreOffice Writer** veya diğer ODF düzenleyicilerinde düzenlenebilir kelime işleme için kullanılmasını sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Yazdırılan raporları düzenlenebilir belgelere yeniden oluşturma
+* Metin ağırlıklı PCL çıktısını yayınlama veya işbirliği için hazırlama
+* PCL tabanlı şablonları düzenlenebilir ODT dosyalarına dönüştürme
+* Açık kaynak sistemler arasında belge tutarlılığını koruma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Yazdırma işlerinden ODT belgeleri otomatik oluşturma
+* Belge yönetimi ve düzenleme sistemleriyle entegrasyon
+* Arşivlenmiş PCL belgelerinin toplu olarak açık metin biçimlerine dönüştürülmesi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

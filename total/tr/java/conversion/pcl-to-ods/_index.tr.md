@@ -47,7 +47,30 @@ PCL dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi ODS'ye** dönüştürme, verileri **Yapılandırılmış analiz için LibreOffice Calc gibi araçlarda kullanılmak üzere** **Açık Belge Hesap Tablosu (.ODS)** biçimine dönüştürür.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Tablo şeklindeki yazdırılan raporları elektronik tablolara dönüştürme
+* PCL tarafından oluşturulan tablolar üzerinde veri analizi yapma
+* Yapılandırılmış PCL içeriğini muhasebe veya analiz iş akışlarına aktarma
+* Yazdırılan verilerden düzenlenebilir, formül tabanlı tablolar oluşturma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* PCL raporlarının zamanlanmış olarak ODS çalışma kitaplarına dönüştürülmesi
+* Veri çıkarma boruları, yazdırılan çıktıyı elektronik tablo biçimlerine dönüştürme
+* ERP veya finansal sistemlerle entegrasyon, otomatik veri alımı için
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

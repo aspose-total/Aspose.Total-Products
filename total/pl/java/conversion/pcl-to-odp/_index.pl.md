@@ -121,7 +121,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na ODP** przekształca wyniki **Printer Command Language** w slajdy **OpenDocument Presentation (.ODP)** do użytku w **LibreOffice Impress** lub innych narzędziach kompatybilnych z ODP.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Zamiana podsumowań w formie wydruków na prezentacje
+* Ponowne wykorzystanie raportów PCL jako materiału prezentacyjnego
+* Wizualizacja danych drukowanych na potrzeby spotkań lub komunikacji wewnętrznej
+* Standaryzacja wizualizacji opartych na PCL w edytowalne formaty ODP
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie plików ODP z systemów raportowych
+* Integracja z procesami tworzenia prezentacji
+* Konwertowanie archiwów PCL na wielokrotnie używalne slajdy prezentacji
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

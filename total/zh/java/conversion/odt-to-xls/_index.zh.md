@@ -61,7 +61,27 @@ otherformats: ODS DIF EXCEL XLSB XLTM FODS XLAM TSV XLSX XLS XLSM SXC XLTX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 XLS** 可直接将 OpenDocument Text 数据转换为 **Excel 97–2003 格式**，确保与传统系统和工作流程兼容。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将文档表导出为 XLS 以在旧版 Excel 中使用
+* 在企业环境中保持向后兼容性
+* 为归档或受监管格式准备数据
+* 将 ODT 内容集成到历史电子表格工作流程中
+* 简化从 ODT 到基于 Excel 的报告系统的迁移
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 大规模将 ODT 转换为 XLS 以用于传统数据库
+* 在 XLS 格式中自动生成报告
+* 与 Excel 宏和 VBA 系统集成
+* 在混合格式环境中进行定期数据转换
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

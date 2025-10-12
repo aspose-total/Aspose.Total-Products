@@ -49,7 +49,27 @@ Trong khi chuyển đổi ODP sang JSON, bạn cũng có thể đặt dải ô t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODP thành JSON** cho phép trích xuất cấu trúc nội dung trình bày vào định dạng **đọc được bởi máy**, cho phép trao đổi dữ liệu mượt mà, phân tích và tích hợp với các hệ thống web hiện đại hoặc tự động hóa.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi dữ liệu trình bày thành các định dạng cấu trúc cho APIs
+* Trích xuất slide, văn bản và siêu dữ liệu cho phân tích hoặc lập chỉ mục
+* Di dời nội dung trình bày sang các ứng dụng dựa trên web
+* Lưu trữ dữ liệu trình bày trong cơ sở dữ liệu để tìm kiếm và truy xuất
+* Hỗ trợ việc hiểu và phân loại nội dung dựa trên trí tuệ nhân tạo
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Chuyển đổi ODP thành JSON tự động cho các hệ thống quản lý nội dung
+* Tích hợp vào các đường ống ETL (Extract, Transform, Load)
+* Hiển thị động dữ liệu trình bày trong ứng dụng web hoặc di động
+* Chuyển đổi theo lô cho kho lưu trữ tài sản số hoặc APIs
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

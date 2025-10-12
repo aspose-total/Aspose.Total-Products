@@ -54,7 +54,30 @@ A API também permite converter documentos OTT protegidos por senha em PPTM. Se 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter **OTT para PPTM** transforma **Modelos de Texto do OpenDocument (.OTT)** em **Apresentações com Macros do PowerPoint (.PPTM)** para decks de slides interativos e automatizados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Incorporar macros e automação em apresentações derivadas de OTT
+* Converter modelos em decks de slides dinâmicos e interativos
+* Agilizar a criação de conteúdo repetitivo para reuniões ou relatórios
+* Aprimorar o fluxo de trabalho com funcionalidades de apresentação com macros
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Criação agendada de apresentações PPTM a partir de modelos de documentos
+* Conversão em lote de OTT para PPTM para relatórios empresariais
+* Integração em fluxos de trabalho automatizados de apresentação e conteúdo
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

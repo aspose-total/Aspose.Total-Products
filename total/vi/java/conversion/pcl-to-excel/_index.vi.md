@@ -47,7 +47,31 @@ Trong khi chuyển đổi tệp PCL sang EXCEL, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành EXCEL** cho phép tài liệu được tạo ra từ máy in được chuyển đổi thành bảng tính **Microsoft Excel**, cung cấp định dạng có cấu trúc, có thể chỉnh sửa và phân tích cho báo cáo, hóa đơn và bảng dữ liệu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi các tài liệu in dựa trên PCL thành các tệp Excel có thể chỉnh sửa
+* Chuyển đổi báo cáo và báo cáo tài chính từ in sang định dạng dữ liệu
+* Tái sử dụng dữ liệu in cho các phép tính, biểu đồ và phân tích
+* Tối ưu hóa quy trình số hóa tài liệu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động hóa hàng loạt chuyển đổi PCL thành Excel
+* Tích hợp với hệ thống ERP hoặc hệ thống kế toán để báo cáo
+* Tự động tạo ra đầu ra Excel từ các lưu trữ in
+* Trích xuất dữ liệu PCL vào XLS/XLSX dựa trên quy trình làm việc
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

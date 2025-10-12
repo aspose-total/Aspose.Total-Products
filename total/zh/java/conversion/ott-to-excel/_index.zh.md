@@ -61,7 +61,33 @@ otherformats: EXCEL XLAM SXC DIF XLSB TSV XLTX XLTM FODS XLT XLSX ODS XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为EXCEL**允许将OpenDocument文本模板表示为**Microsoft Excel工作簿**，从而实现基于电子表格的分析、报告和数据操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从文本模板生成Excel报告
+* 准备邮件合并或数据驱动的通信
+* 对模板内容进行电子表格分析
+* 将模板文本和表格转换为结构化表格
+* 在Excel格式中存档和管理模板
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批处理自动化OTT到EXCEL转换
+* 与财务、CRM或ERP系统集成
+* 从多个模板动态创建电子表格
+* 为报告或分析管道预处理数据
+* 从模板库创建集中式Excel存储库
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

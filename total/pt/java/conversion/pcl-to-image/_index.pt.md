@@ -57,7 +57,33 @@ Usando a API, você também pode girar a imagem IMAGE de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para IMAGEM** produz **saídas de imagem raster** (PNG, JPEG, TIFF, etc.) a partir de documentos em Linguagem de Comando de Impressora, tornando os arquivos prontos para impressão visualizáveis e compartilháveis como imagens padrão.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Visualização de trabalhos de impressão PCL como imagens
+* Incorporação de saída de impressão em documentação ou relatórios
+* Arquivamento de arquivos PCL em repositórios baseados em imagens
+* Fluxos de trabalho de impressão para imagens para acessibilidade multiplataforma
+* Compartilhamento de layouts de impressão em dispositivos não-PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automatizada de PCL para imagem em sistemas de processamento de impressão
+* Geração de imagens em lote para visualização de documentos
+* Integração com monitoramento de impressão em nuvem ou soluções de DMS
+* Arquivamento baseado em imagem de dados de impressão empresarial
+* Visualização em tempo real de trabalhos de impressão para controle de qualidade e validação
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

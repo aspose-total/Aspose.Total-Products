@@ -100,7 +100,33 @@ otherformats: POTM PPTX PPSM PPS ODP PPTM POTX PPT POWERPOINT PPSX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT у POT** перетворює шаблони тексту OpenDocument у файли **шаблонів PowerPoint**, що дозволяє створювати повторно використовувані макети слайдів з текстового вмісту шаблону.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Генерація повторно використовуваних шаблонів PowerPoint з текстового вмісту
+* Стандартизація форматів корпоративних презентацій
+* Архівування дизайнів слайдів на основі шаблонів
+* Забезпечення спільного створення слайдів
+* Підготовка навчальних або маркетингових презентацій
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизоване перетворення OTT у POT для корпоративних бібліотек шаблонів
+* Пакетне створення шаблонів презентацій з кількох файлів OTT
+* Інтеграція з робочими процесами управління презентаціями
+* Динамічне вставлення вмісту шаблону в слайди
+* Стандартизація шаблонів слайдів на рівні підприємства
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

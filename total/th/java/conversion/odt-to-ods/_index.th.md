@@ -61,7 +61,27 @@ otherformats: XLS FODS XLAM XLT XLSM EXCEL XLSB XLSX SXC XLTX TSV DIF XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น ODS** จะแปลงข้อมูลเอกสารเป็น **สเปรดชีต OpenDocument**, เหมาะสำหรับการวิเคราะห์ตาราง การคำนวณ และข้อความโครงสร้างในซอฟต์แวร์สเปรดชีต
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สกัดเนื้อหาตารางจากเอกสาร ODT เข้าสู่สเปรดชีต
+* จัดการข้อมูลตัวเลขที่ฝังอยู่ในรายงาน
+* แปลงข้อความโครงสร้างเป็นรูปแบบสเปรดชีตที่ใช้วิเคราะห์
+* เตรียมชุดข้อมูลสำหรับการวิเคราะห์ทางธุรกิจหรือการเงิน
+* สร้างสเปรดชีตที่สามารถแก้ไขจากเอกสารที่จัดรูปแบบ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+* การแปลง ODT เป็น ODS โดยอัตโนมัติสำหรับรายงานขององค์กร
+* การผสานรวมกับการวิเคราะข้อมูลและขั้นตอนการทำงานทางบัญชี
+* การประมวลผลเป็นชุดของข้อมูลที่เกี่ยวข้องกับเอกสารสำหรับสเปรดชีต
+* การแปลงรายงานไปสู่รูปแบบสเปรดชีตอย่างไดนามิก
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

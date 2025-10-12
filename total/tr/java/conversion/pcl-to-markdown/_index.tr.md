@@ -129,7 +129,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi MARKDOWN'a dönüştürme**, **Yazıcı Komut Dili** dosyalarından metinsel içerik çıkarır ve web yayıncılığı veya hafif belgelendirme için **Markdown (.MD)** biçimine dönüştürür.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Basılı raporları Markdown belgelendirmesine dönüştürme
+* Web siteleri, bloglar veya README dosyaları için yapılandırılmış metin oluşturma
+* Teknik yazım ve iş birliği için biçimlendirilmiş içeriği basitleştirme
+* Baskı verilerinden hafif, sürüm kontrollü metin çıktıları oluşturma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* PCL baskı akışlarından otomatik Markdown oluşturma
+* Statik site oluşturucuları ve belgelendirme sistemleriyle entegrasyon
+* Bilgi tabanları için büyük baskı arşivlerini Markdown'a dönüştürme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

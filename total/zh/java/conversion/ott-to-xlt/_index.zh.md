@@ -61,7 +61,30 @@ otherformats: EXCEL XLT XLSM XLSX SXC XLS ODS TSV XLAM FODS XLTM DIF XLTX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **OTT 转换为 XLT** 可将 **OpenDocument 文本模板 (.OTT)** 转换为 **Excel 模板 (.XLT)**，为电子表格创建提供可重复使用的基础。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 OTT 文档创建标准化电子表格模板
+* 保持报告或分析的一致格式
+* 为重复数据输入任务准备可重复使用的模板
+* 将文本模板转换为适用于 Excel 的结构
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将 OTT 模板转换为 XLT 以供企业使用
+* 集成到自动化电子表格生成流程中
+* 定期从文档模板创建 Excel 模板
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

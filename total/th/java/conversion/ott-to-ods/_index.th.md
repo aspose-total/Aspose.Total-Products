@@ -61,7 +61,33 @@ otherformats: XLTX XLT XLS SXC XLTM XLSX XLSB XLAM TSV EXCEL XLSM ODS DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **OTT เป็น ODS** ช่วยให้เทมเพลตของ OpenDocument Text สามารถแสดงในรูปแบบของ **ไฟล์ OpenDocument Spreadsheet** ซึ่งเป็นการเปิดใช้ข้อมูลโครงสร้าง การวิเคราะห์ และการแก้ไขสเปรดชีตได้บนแพลตฟอร์มต่าง ๆ
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การแปลงตารางเทมเพลตให้เป็นสเปรดชีตที่สามารถแก้ไขได้
+* เก็บข้อมูลในเทมเพลตที่มีข้อมูลเป็นหลักในรูปแบบเปิด
+* เตรียมรายงานและการวิเคราะห์จากเนื้อหาของเทมเพลต
+* การแก้ไขร่วมกันของสเปรดชีตที่ได้มาจากเทมเพลต
+* แชร์ข้อมูลเทมเพลตโครงสร้างข้ามแพลตฟอร์ม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การแปลง OTT เป็น ODS โดยอัตโนมัติสำหรับเวิร์กโฟลว์ขององค์กร
+* การส่งออกตารางเทมเพลตเป็นสเปรดชีตเป็นชุด
+* การผสานกับการรายงานและท่อการวิเคราะห์
+* การสร้างสเปรดชีตแบบไดนามิกจากไลบรารีเทมเพลต
+* การจัดการข้อมูลสเปรดชีตที่ได้มาจากเทมเพลตให้เป็นจุดศูนย์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

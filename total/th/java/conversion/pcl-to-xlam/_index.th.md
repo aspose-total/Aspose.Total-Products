@@ -47,7 +47,30 @@ otherformats: XLAM XLTX SXC DIF MD TXT XLTM FODS XLSB ODS EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น XLAM** จะเปลี่ยน **Printer Command Language** ให้กลายเป็นไฟล์ **Excel Add-In (.XLAM)** ซึ่งช่วยในการอัตโนมัติ แมโคร และการทำงานของสเปรดชีทที่ขยายตัว
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* สร้าง Excel add-ins จากเทมเพลตข้อมูลที่สร้างจากการพิมพ์
+* ฝังตัวตรรกะอัตโนมัติเข้าไปในการทำงานของสเปรดชีท
+* แปลงรายงาน PCL เป็นเครื่องมืออัตโนมัติ Excel ที่ใช้ซ้ำได้
+* ขยายฟังก์ชันของเนื้อหาตัวเลขหรือตารางที่พิมพ์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างไฟล์ XLAM โดยอัตโนมัติจากผลลัพธ์ PCL ที่เกิดซ้ำ
+* การผสานรวมกับการรายงานขององค์กรและท่อไซต์วิเคราะห์
+* การสร้าง Excel add-ins จำนวนมากสำหรับงานธุรกิจที่ซ้ำซาก
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

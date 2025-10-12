@@ -57,7 +57,33 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na OBRAZ** generuje **wyjścia w postaci obrazów rastrowych** (PNG, JPEG, TIFF, itp.) z dokumentów w języku polecenia drukarki, co sprawia, że pliki gotowe do druku są widoczne i mogą być udostępniane jako standardowe obrazy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+* Wizualizacja zadań druku PCL jako obrazów
+* Osadzanie wyników druku w dokumentacji lub raportach
+* Archiwizacja plików PCL w repozytoriach opartych na obrazach
+* Przepływy pracy drukowania do obrazu dla dostępności międzyplatformowej
+* Udostępnianie układów druku na urządzeniach nieobsługujących PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+* Automatyczna konwersja PCL na obraz w systemach przetwarzania druku
+* Generowanie obrazów wsadowych do podglądu dokumentów
+* Integracja z monitorowaniem druku w chmurze lub rozwiązaniami DMS
+* Archiwizacja danych druku przedsiębiorstwa oparta na obrazach
+* Wizualizacja zadań druku w czasie rzeczywistym do kontroli jakości i walidacji
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

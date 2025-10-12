@@ -129,7 +129,30 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertendo **PCL para MARKDOWN** extrai conteúdo textual de arquivos de **Linguagem de Comando de Impressora** e o formata em **Markdown (.MD)** para publicação na web ou documentação leve.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Transformar relatórios impressos em documentação Markdown
+* Criar texto estruturado para sites, blogs ou arquivos README
+* Simplificar conteúdo formatado para escrita técnica e colaboração
+* Gerar saídas de texto leves e controladas por versão a partir de dados de impressão
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automatizada de Markdown a partir de pipelines de impressão PCL
+* Integração com geradores de sites estáticos e sistemas de documentação
+* Converter grandes arquivos de impressão em Markdown para bases de conhecimento
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,33 @@ otherformats: XLTM XLSB XLAM XLSX ODS XLTX FODS XLT SXC XLS CSV EXCEL TSV XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертація **OTT в DIF** перетворює шаблони тексту OpenDocument у файли **формату обміну даними**, що дозволяє імпортувати структуровані дані з шаблонів до електронних таблиць та баз даних для аналізу.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Видобуток таблиць з шаблонів для аналізу даних
+* Підготовка вмісту шаблону для застарілих програм електронних таблиць
+* Обмін даними шаблону у простому, стандартизованому форматі
+* Архівування структурованої інформації для звітності
+* Інтеграція даних шаблону у робочі потоки бізнес-аналітики
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Пакетна конвертація OTT в DIF для корпоративної звітності
+* Інтеграція з імпортом даних бази даних та аналітичними конвеєрами
+* Автоматизований видобуток табличних даних з кількох шаблонів
+* Оптимізована обробка для історичних або застарілих наборів даних
+* Централізований архів DIF для використання в різних системах
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

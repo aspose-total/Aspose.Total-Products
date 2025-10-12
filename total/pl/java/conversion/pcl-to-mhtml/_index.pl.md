@@ -130,7 +130,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na MHTML** polega na zamknięciu treści w języku **Printer Command Language** w formacie **archiwum internetowym (.MHTML)**, zachowując układ, obrazy i tekst w celu dystrybucji w postaci jednego pliku internetowego.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Pakowanie raportów PCL do przeglądania w przeglądarce
+* Zachowywanie układów druku jako samodzielne strony internetowe
+* Udostępnianie sformatowanych treści drukowanych za pośrednictwem sieci wewnętrznej lub e-mail
+* Przechowywanie archiwów MHTML jako dostępne archiwa drukowanych zadań PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna generacja MHTML z przepływów druku PCL
+* Integracja z systemami archiwizacji dokumentów lub dostarczania opartych na sieci
+* Konwersja wsadowa do wewnętrznego raportowania lub dokumentacji online
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

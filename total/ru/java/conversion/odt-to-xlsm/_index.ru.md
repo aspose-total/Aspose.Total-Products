@@ -61,7 +61,27 @@ otherformats: XLTM XLSX XLT FODS EXCEL TSV XLTX XLSM XLSB XLS SXC ODS XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в XLSM** позволяет экспортировать данные документа в **файлы Excel с поддержкой макросов**, обеспечивая автоматизацию и расширенные операции со таблицами.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт таблиц ODT для использования в таблицах Excel с поддержкой VBA
+* Включение автоматизации на основе макросов из данных документа
+* Встраивание формул и пользовательских сценариев в экспортированные файлы
+* Подготовка интерактивных отчетов на основе текстовых вводов
+* Связывание данных документа с автоматизированными рабочими процессами Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Автоматизированные преобразования документов в макро-таблицы Excel
+* Интеграция экспорта ODT в продвинутые системы автоматизации Excel
+* Пакетная генерация файлов XLSM для динамических бизнес-отчетов
+* Связь текстового контента с задачами автоматизации, управляемыми таблицами
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

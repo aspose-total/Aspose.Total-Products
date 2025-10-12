@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**การแปลง PCL เป็น WORDML** ช่วยให้เอกสาร **Printer Command Language** ถูกแปลงเป็นรูปแบบ **WordProcessingML (WordML)** ซึ่งมีโครงสร้างที่ใช้ XML เพื่อการจัดการข้อมูลขั้นสูงและอัตโนมัติเอกสาร
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงเลยเลเอาท์การพิมพ์เป็นรูปแบบ Word ที่ใช้ XML
+* เปิดให้เอกสารถูกจัดการโครงสร้างผ่าน WordML
+* การรวมเอกสาร Word กับการทำงานที่ใช้ XML
+* การอำนวยความสะดวกในการอัตโนมัติเอกสารที่ใช้ข้อมูลเมตาดาต้า
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การสร้างเอกสาร WordML โดยอัตโนมัติจากไฟล์พิมพ์ PCL
+* การรวมกับการจัดการเอกสารและการทำงานที่ใช้ XML
+* การแปลงเป็นกลุ่มสำหรับความสามารถในการใช้งานร่วมกับ API การประมวลผล Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

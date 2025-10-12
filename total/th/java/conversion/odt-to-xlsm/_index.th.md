@@ -61,7 +61,27 @@ otherformats: XLTM XLSX XLT FODS EXCEL TSV XLTX XLSM XLSB XLS SXC ODS XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น XLSM** ช่วยให้ข้อมูลในเอกสารสามารถส่งออกเป็น **ไฟล์ Excel ที่เปิดใช้งานมาโคร**, รองรับการอัตโนมัติและการดำเนินการกับสเปรดชีทขั้นสูง
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ส่งออกตาราง ODT เพื่อใช้ในแผ่น Excel ที่ใช้ VBA
+* เปิดใช้งานการอัตโนมัติที่ใช้มาโครจากข้อมูลในเอกสาร
+* ฝังสูตรและสคริปต์ที่กำหนดเองลงในไฟล์ที่ส่งออก
+* เตรียมรายงานแบบโต้ตอบตามข้อมูลข้อความที่ป้อน
+* เชื่อมโยงข้อมูลเอกสารกับการดำเนินการอัตโนมัติของ Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+* การแปลงเอกสารเป็น Excel ที่ใช้มาโครโดยอัตโนมัติ
+* การรวมการส่งออก ODT เข้ากับระบบอัตโนมัติ Excel ขั้นสูง
+* การสร้าง XLSM จำนวนมากสำหรับรายงานธุรกิจที่เปลี่ยนแปลงได้
+* เชื่อมโยงเนื้อหาข้อความกับการดำเนินการอัตโนมัติงานที่ใช้สเปรดชีท
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

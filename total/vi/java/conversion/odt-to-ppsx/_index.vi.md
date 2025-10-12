@@ -54,7 +54,27 @@ API cũng cho phép bạn chuyển đổi các tài liệu ODT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT thành PPSX** chuyển đổi tài liệu dựa trên văn bản thành **tệp trình chiếu hiện đại**, bảo tồn định dạng, cấu trúc và hình ảnh để phát ngay lập tức.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo trực tiếp các slide trình bày cuối cùng từ nội dung văn bản
+* Gửi báo cáo hoàn chỉnh dưới dạng bộ slide sẵn sàng chạy
+* Chia sẻ nội dung trình bày mà không có nguồn có thể chỉnh sửa
+* Chuẩn bị bài thuyết trình cho hội nghị hoặc cuộc họp từ tài liệu
+* Phân phối các phiên bản trình chiếu cuối cùng của báo cáo
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Tạo ra trình chiếu ODT-to-PPSX tự động
+* Chuyển đổi hàng loạt để xuất bản trình chiếu hàng loạt
+* Tích hợp vào hệ thống báo cáo doanh nghiệp
+* Tự động hóa từ tài liệu sang trình chiếu cho tổ chức
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

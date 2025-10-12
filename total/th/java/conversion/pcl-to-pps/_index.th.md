@@ -121,7 +121,30 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น PPS** จะแปลงเอาเอกสารที่ใช้ **Printer Command Language** มาเป็นรูปแบบ **PowerPoint Show (.PPS)** ซึ่งทำให้งานนำเสนอพร้อมสำหรับการเล่นโดยตรง
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การเปลี่ยนเอกสารที่ใช้ PCL เป็นสไลด์โชว์พร้อมใช้งาน
+* การสร้างงานนำเสนอรายงานโดยอัตโนมัติเพื่อดู
+* การนำเสนอเนื้อหา PCL เป็นงานนำเสนอเต็มหน้าจอ
+* การรักษาเลย์เอาต์ PCL สำหรับการใช้งานงานนำเสนอที่ไม่สามารถแก้ไขได้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างไฟล์ .PPS โดยอัตโนมัติจากรายงาน PCL ที่เกิดซ้ำ
+* การผสานกับการเผยแพร่งานนำเสนอตามกำหนดเวลา
+* การแปลงเนื้อหาการพิมพ์เป็นไฟล์งานนำเสนอพร้อมแสดง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

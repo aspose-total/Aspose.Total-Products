@@ -57,7 +57,30 @@ API также позволяет экспортировать файл PCL в E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Преобразование PCL в EMZ** сжимает и преобразует графику **языка управления принтером** в формат **Улучшенного метафайла (сжатого) – EMZ**, оптимизируя изображения для масштабируемых графических приложений и использования в Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Встраивание векторной печатной графики в Office или программное обеспечение для дизайна
+* Сокращение размера файла отпечатанных изображений для систем документации
+* Сохранение масштабируемости и качества графики PCL
+* Подготовка сжатых ресурсов для автоматизации документов или шаблонов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Массовое преобразование диаграмм, созданных для печати, в изображения EMZ
+* Интеграция с системами управления контентом для оптимизированного хранения изображений
+* Автоматическое создание сжатой графики для публикации документов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

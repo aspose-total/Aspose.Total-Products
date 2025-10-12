@@ -100,7 +100,33 @@ otherformats: PPSX PPTM PPSM POWERPOINT PPTX PPT PPS POTX ODP POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT у POTM** генерує **файли шаблонів PowerPoint з підтримкою макросів**, що дозволяє автоматизувати роботу зі слайдами за допомогою макросів, отриманих з вмісту шаблону.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Створення шаблонів презентацій з підтримкою макросів
+* Автоматизація повторюваних завдань з створення слайдів
+* Стандартизація робочих процесів за допомогою макросів шаблонів
+* Інтеграція логіки, заснованої на шаблонах, у презентації
+* Колаборативна автоматизація слайдів у презентаціях
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Пакетне перетворення OTT у POTM для бібліотек шаблонів з макросами
+* Корпоративна автоматизація створення слайдів у презентаціях
+* Інтеграція з інструментами робочого процесу презентацій
+* Динамічне створення макросів з вмісту шаблону
+* Автоматизація PowerPoint на основі шаблонів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

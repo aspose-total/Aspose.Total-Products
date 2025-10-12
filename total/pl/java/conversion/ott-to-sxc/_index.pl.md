@@ -61,7 +61,33 @@ Po przekonwertowaniu OTT na SXC [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na SXC** przekształca szablony tekstu OpenDocument Text w pliki **arkusza kalkulacyjnego StarOffice Calc**, umożliwiając wykorzystanie zawartości szablonu w aplikacjach arkusza kalkulacyjnego, takich jak OpenOffice Calc lub LibreOffice Calc.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie szablonów tekstowych na tabele arkusza kalkulacyjnego
+* Archiwizacja danych szablonu w formacie arkusza kalkulacyjnego
+* Przygotowywanie raportów lub obliczeń pochodzących z treści szablonu
+* Wspólne edytowanie arkuszy opartych na szablonach
+* Udostępnianie strukturyzowanych informacji z szablonu między platformami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja OTT na SXC do przetwarzania wsadowego
+* Integracja z przepływami pracy arkusza kalkulacyjnego i systemami raportowania
+* Generowanie edytowalnych arkuszy kalkulacyjnych z wielu szablonów
+* Zcentralizowany repozytorium danych arkusza kalkulacyjnego pochodzącego z szablonu
+* Dynamiczne wyodrębnianie treści tabelarycznych do analiz i obliczeń
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

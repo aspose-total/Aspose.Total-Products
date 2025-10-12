@@ -121,7 +121,30 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น SWF** จะเปลี่ยนเอกสาร **Printer Command Language** เป็นไฟล์ **Adobe Flash (.SWF)** เพื่อให้สามารถนำมาใช้ในการนำเสนอมัลติมีเดียแบบโต้ตอบและการส่งเนื้อหาผ่านเว็บไซต์
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างการนำเสนอแบบโต้ตอบจากเลย์เอาท์การพิมพ์ PCL
+* ฝังเนื้อหาที่พิมพ์ลงในหน้าเว็บและแพลตฟอร์มการเรียนออนไลน์
+* แปลงรายงานการพิมพ์แบบสถิตเป็นสไลด์ที่สามารถใช้มัลติมีเดียได้
+* แบ่งปันเนื้อหาการพิมพ์ที่มีลักษณะภาพเป็นไฟล์แบบโต้ตอบที่เหมาะกับเว็บ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* สร้างไฟล์ SWF จากเอกสารการพิมพ์ PCL แบบกลุ่ม
+* ผสานกับการเผยแพร่ผ่านเว็บและแพลตฟอร์มการเรียนออนไลน์
+* การแปลงอัตโนมัติสำหรับกระบวนการทำงานของเนื้อหามัลติมีเดียแบบดิจิทัล
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

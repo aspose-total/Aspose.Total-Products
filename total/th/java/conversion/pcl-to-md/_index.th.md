@@ -47,7 +47,30 @@ otherformats: XLTX XLAM FODS TSV MD ODS XLT DIF XLTM SXC XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**การแปลง PCL เป็น MD** ช่วยในการแปลงเอกสารรูปแบบ **Printer Command Language** เป็นไฟล์ **Markdown (.MD)** ซึ่งจะให้รูปแบบที่สะอาด อ่านง่าย และเหมาะสำหรับเว็บในการเก็บเกี่ยวหรือเผยแพร่เอกสาร
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ส่งออกผลลัพธ์การพิมพ์ PCL เข้าสู่ Markdown เพื่อใช้รวมกับเว็บไซต์
+* เตรียมเอกสารเบาๆ จากรายงานการพิมพ์
+* จัดโครงสร้างข้อมูลที่เกี่ยวข้องกับการพิมพ์สำหรับนักพัฒนาและทีมเทคนิค
+* เก็บเกี่ยวเอกสาร PCL ที่มีข้อความเป็นหลักเข้าสู่รูปแบบที่เปิดเป็น Open Source
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* สร้างเอกสาร MD โดยอัตโนมัติจากรายงาน PCL จำนวนมาก
+* รวมผลลัพธ์ Markdown กับระบบเนื้อหาที่ใช้ Git
+* อัตโนมัติการสกัดข้อความจาก PCL เพื่อการทำงานออนไลน์ในการเผยแพร่
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,30 @@ Trong khi chuyển đổi tệp PCL sang FODS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Chuyển đổi PCL sang FODS** biến đổi dữ liệu được tạo ra từ máy in thành định dạng **Flat OpenDocument Spreadsheet (FODS)**, cung cấp bảng tính dựa trên XML có thể chỉnh sửa tương thích với LibreOffice và OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi báo cáo in hoặc hóa đơn thành dữ liệu bảng tính có thể chỉnh sửa
+* Hỗ trợ tính tương thích bảng tính đa nền tảng
+* Tích hợp dữ liệu bảng dựa trên PCL vào các công cụ văn phòng mã nguồn mở
+* Lưu trữ dữ liệu in có cấu trúc dưới dạng bảng tính XML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động các báo cáo tài chính hoặc hóa đơn in thành FODS
+* Tích hợp vào các đường ống báo cáo mã nguồn mở
+* Chuyển đổi quy mô lớn dữ liệu in cho phân tích và lưu trữ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,30 @@ Interfejs API umożliwia również konwersję dokumentów OTT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **OTT na PPSX** przekształca **Szablony Tekstu OpenDocument (.OTT)** w **Pokazy PowerPoint w formacie Open XML (.PPSX)** gotowe do odtworzenia.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+* Dostarczanie szablonów tekstowych jako prezentacji na pełnym ekranie
+* Konwertowanie firmowych szablonów OTT na format pokazu slajdów
+* Udostępnianie treści jako nieedytowalne pokazy PowerPoint
+* Zachowanie projektu i formatowania z szablonów dokumentów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+* Konwersja wsadowa OTT na PPSX do raportowania lub szkoleń
+* Integracja z przepływami pracy dystrybucji prezentacji
+* Zaplanowane tworzenie gotowych do odtworzenia slajdów z szablonów dokumentów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

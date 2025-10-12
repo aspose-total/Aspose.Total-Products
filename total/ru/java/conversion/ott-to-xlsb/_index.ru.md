@@ -61,7 +61,33 @@ otherformats: FODS EXCEL XLSM XLSX TSV DIF XLT XLAM XLTM SXC ODS XLS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **OTT в XLSB** создает файлы **Excel Binary Workbook**, обеспечивая более быструю загрузку, уменьшенный размер файла и улучшенную производительность для шаблонов электронных таблиц, полученных из шаблонов текстов OpenDocument.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Оптимизация больших электронных таблиц, полученных из шаблонов
+* Улучшение производительности для сложных моделей Excel
+* Архивирование данных шаблонов в бинарном формате
+* Эффективное распространение содержимого шаблона в Excel
+* Поддержка автоматизации электронных таблиц и аналитики
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование OTT в XLSB для высокопроизводительных рабочих процессов
+* Интеграция с автоматизированными конвейерами обработки Excel
+* Централизованный бинарный архив электронных таблиц, полученных из шаблонов
+* Предварительная обработка шаблонов для масштабной аналитики Excel
+* Автоматизация электронных таблиц на основе шаблонов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

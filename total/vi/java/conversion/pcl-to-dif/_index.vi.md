@@ -47,7 +47,30 @@ Trong khi chuyển đổi tệp PCL sang DIF, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL sang DIF** biến đổi các tệp **Ngôn ngữ Lệnh Máy in** thành các tệp **Định dạng Trao đổi Dữ liệu (DIF)**, cho phép trao đổi dữ liệu có cấu trúc và tương thích bảng tính qua các ứng dụng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Trích xuất dữ liệu bảng từ báo cáo in thành định dạng DIF
+* Hỗ trợ nhập dữ liệu in vào hệ thống bảng tính cũ
+* Cho phép di chuyển dữ liệu mượt mà giữa các công cụ phân tích
+* Tạo bộ dữ liệu có thể tái sử dụng từ các bản in PCL được lưu trữ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động các báo cáo PCL sang DIF để trao đổi dữ liệu
+* Tích hợp vào các đường ống ETL để trao đổi dữ liệu có cấu trúc
+* Chuyển đổi hàng loạt các bản in lưu trữ thành nguồn phân tích tương thích với DIF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

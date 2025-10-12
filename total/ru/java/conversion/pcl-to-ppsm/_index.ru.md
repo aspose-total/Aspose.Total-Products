@@ -121,7 +121,30 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в PPSM** изменяет файлы **Языка команд принтера** в формат **PowerPoint Macro-Enabled Show (.PPSM)** для интерактивных автоматизированных слайд-шоу презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование файлов PCL в макросодержащие слайд-шоу презентации
+* Добавление автоматизации и интерактивности к визуальным отчетам для печати
+* Создание автоматизированных слайдов для воспроизведения из статического печатного вывода
+* Предоставление динамичных шоу для корпоративных презентаций
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетная генерация PPSM для презентаций на основе данных
+* Интеграция макросодержащих слайдов в рабочие процессы по бизнес-отчетности
+* Автоматизация предоставления интерактивного контента презентаций
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

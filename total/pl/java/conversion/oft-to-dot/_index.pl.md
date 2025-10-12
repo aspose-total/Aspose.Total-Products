@@ -30,7 +30,33 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comt
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **OFT na DOT** zamienia szablony programu Outlook w pliki szablonów programu Word, zachowując układy i formatowanie do powtarzalnego tworzenia dokumentów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie wielokrotnie używanych szablonów Word z e-maili programu Outlook
+* Utrzymywanie spójności marki i projektowania w dokumentach
+* Usprawnianie korespondencji korporacyjnej za pomocą szablonów DOT
+* Generowanie standaryzowanych listów czy propozycji
+* Umożliwianie tworzenia dokumentów opartych na szablonach w programie Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie szablonów DOT z plików OFT
+* Integracja z systemami zarządzania szablonami przedsiębiorstwa
+* Konwersja wsadowa dla szablonów komunikacji HR, sprzedaży lub prawnej
+* Centralne zarządzanie wielokrotnie używanymi formatami Word
+* Konwertowanie przestarzałych plików OFT na nowoczesne biblioteki szablonów DOT
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,27 @@ otherformats: ODS DIF EXCEL XLSB XLTM FODS XLAM TSV XLSX XLS XLSM SXC XLTX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в XLS** позволяет непосредственно преобразовывать данные в формате OpenDocument Text в формат **Excel 97–2003**, обеспечивая совместимость с устаревшими системами и рабочими процессами.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт таблиц документов в формате XLS для использования в старых версиях Excel
+* Поддержание обратной совместимости в корпоративных средах
+* Подготовка данных для архивирования или регулируемых форматов
+* Интеграция содержимого ODT в исторические рабочие процессы с электронными таблицами
+* Упрощение миграции с ODT на системы отчетности на основе Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Массовые преобразования ODT в XLS для устаревших баз данных
+* Автоматизированная генерация отчетов в формате XLS
+* Интеграция с макросами Excel и системами VBA
+* Планирование преобразований данных в средах смешанных форматов
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

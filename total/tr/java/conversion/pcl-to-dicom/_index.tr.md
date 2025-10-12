@@ -57,7 +57,30 @@ API'yi kullanarak, çıktı DICOM görüntüsünü ihtiyaçlarınıza göre de d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi DICOM'a** dönüştürmek, **Yazıcı Komut Dili** çıktılarını **Dijital Görüntüleme ve İletişim Tıbbında (DICOM)** dosyalarına dönüştürmeyi sağlar. Bu özellikle, görüntüleme sistemlerinde yazılı verilere arşivleme veya görselleştirme ihtiyacı olan tıbbi ortamlar için faydalıdır.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Yazılı teşhis raporlarını DICOM görüntü formatına dönüştürme
+* Tarama yapılmış yazılı verileri tıbbi görüntüleme arşivlerine gömme
+* PCL tabanlı tıbbi belgeleri PACS sistemlerine entegre etme
+* Sağlık uyumluluğu için tıbbi kayıt formatlarını standartlaştırma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Hastane kayıtları için yazılı tıbbi raporların otomatik olarak DICOM'a dönüştürülmesi
+* Sağlık iş akışları içinde yazıdan DICOM'a dönüştürme entegrasyonu
+* Tıbbi görüntü depolama sistemleri için PCL arşivlerinin toplu dönüşümü
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

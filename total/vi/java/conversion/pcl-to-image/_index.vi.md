@@ -57,7 +57,33 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh IMAGE đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành ẢNH** tạo ra **đầu ra hình ảnh raster** (PNG, JPEG, TIFF, v.v.) từ tài liệu Ngôn ngữ Lệnh Máy in, tạo các tệp sẵn sàng in có thể xem và chia sẻ dưới dạng hình ảnh tiêu chuẩn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Hiển thị công việc in PCL dưới dạng hình ảnh
+* Nhúng đầu ra in vào tài liệu hoặc báo cáo
+* Lưu trữ tệp PCL trong các kho lưu trữ dựa trên hình ảnh
+* Luồng công việc in thành hình ảnh để truy cập đa nền tảng
+* Chia sẻ bố cục in trên các thiết bị không phải PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ PCL sang hình ảnh trong các hệ thống xử lý in tự động
+* Tạo hình ảnh hàng loạt để xem trước tài liệu
+* Tích hợp với giám sát in đám mây hoặc các giải pháp quản lý tài liệu số
+* Lưu trữ dữ liệu in doanh nghiệp dựa trên hình ảnh
+* Hiển thị công việc in thời gian thực cho QA và xác nhận
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

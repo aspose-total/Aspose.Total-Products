@@ -47,7 +47,30 @@ otherformats: XLTX XLSB SXC DIF TSV TXT XLSM XLT EXCEL XLTM MD FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в XLTM** позволяет создавать **макро-включенные шаблоны Excel** из печатных документов, объединяя сохранение макета с возможностью встраивания логики автоматизации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание макро-включенных шаблонов Excel из печатных макетов
+* Встраивание повторно используемой автоматизации в шаблоны отчетов
+* Обеспечение динамической генерации документов на основе шаблонов
+* Стандартизация создания умных электронных таблиц
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Создание умных шаблонов из регулярных отчетов PCL
+* Автоматизация производства отчетов Excel с помощью макро-логики
+* Пакетное преобразование печатных данных в повторно используемые бизнес-шаблоны
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,33 @@ OTT'yi SXC'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi SXC'ye dönüştürmek**, OpenDocument Metin Şablonlarını **StarOffice Calc Elektronik Tablo dosyalarına** dönüştürerek şablon içeriğinin OpenOffice Calc veya LibreOffice Calc gibi elektronik tablo uygulamalarında kullanılmasını sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Metin şablonlarını elektronik tablo tablolarına dönüştürme
+* Şablon verilerini elektronik tablo formatında arşivleme
+* Şablon içeriğinden türetilmiş rapor veya hesaplamaları hazırlama
+* Şablon tabanlı elektronik tabloların işbirlikçi düzenlenmesi
+* Platformlar arasında yapılandırılmış şablon bilgilerini paylaşma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Toplu işleme için Otomatik OTT'den SXC'ye dönüşüm
+* Elektronik tablo iş akışları ve raporlama sistemleriyle entegrasyon
+* Birden fazla şablondan düzenlenebilir elektronik tablolar oluşturma
+* Şablondan türetilmiş elektronik tablo verileri için merkezi depo
+* Analizler ve hesaplamalar için tablo içeriğinin dinamik çıkarılması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

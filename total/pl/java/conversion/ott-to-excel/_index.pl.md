@@ -61,7 +61,33 @@ Po przekonwertowaniu OTT na EXCEL [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na EXCEL** pozwala na reprezentowanie szablonów tekstu OpenDocument jako **arkusze kalkulacyjne Microsoft Excel**, umożliwiając analizę, raportowanie i manipulację danymi opartymi na arkuszach kalkulacyjnych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Generowanie raportów Excel z szablonów tekstowych
+* Przygotowywanie korespondencji seryjnej lub opartej na danych
+* Analiza treści szablonu w arkuszu kalkulacyjnym
+* Konwertowanie tekstu i tabel szablonu na strukturalne arkusze
+* Archiwizowanie i zarządzanie szablonami w formacie Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja OTT na EXCEL do przetwarzania wsadowego
+* Integracja z systemami finansowymi, CRM lub ERP
+* Dynamiczne tworzenie arkuszy kalkulacyjnych z wielu szablonów
+* Przetwarzanie wstępne danych do raportowania lub analiz
+* Centralne repozytorium Excel z bibliotekami szablonów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

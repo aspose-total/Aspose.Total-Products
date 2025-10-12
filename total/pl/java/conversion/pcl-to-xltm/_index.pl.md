@@ -47,7 +47,30 @@ Konwertując plik PCL na XLTM, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na XLTM** pozwala na tworzenie **szablonów Excel z obsługą makr** z dokumentów drukowanych, łącząc zachowanie układu z możliwością osadzenia logiki automatyzacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Projektowanie szablonów Excel z obsługą makr na podstawie układów drukowanych
+* Osadzanie wielokrotnie używanej automatyzacji w szablonach raportów
+* Umożliwianie generowania dynamicznych dokumentów na podstawie szablonów
+* Standaryzacja tworzenia inteligentnych arkuszy kalkulacyjnych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Generowanie inteligentnych szablonów z rutynowych raportów PCL
+* Automatyzacja produkcji raportów Excel z logiką makr
+* Konwersja wsadowa danych drukowanych na wielokrotnie używane szablony biznesowe
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

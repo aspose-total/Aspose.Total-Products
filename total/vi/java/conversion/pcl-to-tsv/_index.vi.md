@@ -47,7 +47,30 @@ Trong khi chuyển đổi tệp PCL sang TSV, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Chuyển đổi PCL sang TSV** biến đổi đầu ra **Ngôn ngữ Lệnh Máy In** thành các tệp **Dữ liệu Phân Tách bằng Tab**. Định dạng này lý tưởng cho việc nhập dữ liệu sạch, có cấu trúc vào bảng tính hoặc hệ thống phần mềm phụ thuộc vào dữ liệu phân tách bằng tab.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Trích xuất nội dung bảng từ dữ liệu được định dạng in
+* Tạo bộ dữ liệu TSV từ hóa đơn hoặc hồ sơ PCL
+* Cung cấp đầu ra TSV vào hệ thống di truyền dữ liệu hoặc ETL
+* Chia sẻ dữ liệu in có cấu trúc giữa các hệ thống doanh nghiệp
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* Trích xuất định kỳ từ lưu trữ in sang TSV
+* Tích hợp với đường ống dữ liệu cho bảng điều khiển báo cáo
+* Chuyển đổi tự động từ in sang dữ liệu sẵn sàng phân tích có cấu trúc
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

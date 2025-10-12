@@ -61,7 +61,33 @@ otherformats: XLTM XLSB XLAM XLSX ODS XLTX FODS XLT SXC XLS DIF EXCEL TSV XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为DIF**将OpenDocument文本模板转换为**数据交换格式文件**，允许从模板中提取结构化数据以便导入电子表格和数据库进行分析。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 提取模板表格以进行数据分析
+* 为传统电子表格应用程序准备模板内容
+* 以简单、标准化格式共享模板数据
+* 存档结构化信息以供报告
+* 将模板数据集成到业务智能工作流程中
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业报告的批量OTT到DIF转换
+* 与数据库导入和分析流水线集成
+* 从多个模板自动提取表格数据
+* 用于历史或传统数据集的简化处理
+* 用于跨系统使用的集中式DIF存档
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

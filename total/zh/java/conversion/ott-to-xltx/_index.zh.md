@@ -61,7 +61,30 @@ otherformats: XLTM DIF XLAM FODS XLT TSV SXC EXCEL XLSX ODS XLTX XLS XLSB XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **OTT 转换为 XLTX** 可将 **OpenDocument 文本模板 (.OTT)** 转换为 **Excel 开放 XML 模板 (.XLTX)**，创建可重复使用且现代化的电子表格模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 为业务和报告标准化电子表格模板
+* 将文档模板转换为现代、可编辑的 Excel 结构
+* 为团队广泛使用准备可重复使用的 XLTX 文件
+* 在项目中保持一致的数据格式
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从 OTT 模板自动批量转换为 XLTX
+* 集成到企业电子表格自动化流程中
+* 定期创建可重复使用的报告和分析模板
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

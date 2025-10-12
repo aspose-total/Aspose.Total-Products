@@ -54,7 +54,27 @@ otherformats: PPTX PPTM POTM PPSX PPSM PPS POTX POWERPOINT PPT POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 POTX** 可以将文本文档转换为 **现代 PowerPoint 模板文件**，非常适合保持企业品牌和演示一致性。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 从书面文件构建演示模板
+* 将结构化的业务大纲转换为品牌幻灯片
+* 为团队协作准备演示标准
+* 创建公司范围的演示框架
+* 从 Word 内容生成设计就绪的 PowerPoint 模板
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 将 ODT 文档自动转换为 PPTX 模板
+* 集成到企业文档到演示的流程中
+* 批量从业务文档生成 PowerPoint 主题
+* 基于内容驱动的 PowerPoint 模板创建，以保持品牌一致性
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

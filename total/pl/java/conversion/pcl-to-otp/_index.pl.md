@@ -121,7 +121,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **PCL na OTP** przekształca pliki **Printer Command Language** w formacie **OpenDocument Presentation Template (.OTP)** w celu tworzenia szablonów slajdów do wielokrotnego użytku.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Projektowanie szablonów prezentacji na podstawie układów PCL
+* Tworzenie spersonalizowanych szablonów slajdów do użytku biznesowego
+* Konwertowanie wydrukowanych wizualizacji korporacyjnych na edytowalne szablony OTP
+* Usprawnianie ponownego wykorzystywania projektów między działami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne tworzenie szablonów na podstawie standardowych materiałów drukowanych
+* Integracja z procesami tworzenia prezentacji
+* Generowanie wielokrotnie używanych wzorców slajdów z dokumentów drukowanych przez firmę
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

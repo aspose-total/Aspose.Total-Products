@@ -57,7 +57,33 @@ API также позволяет экспортировать файл PCL в A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в APNG** превращает документы **Языка команд принтера (PCL)** в **анимированные изображения PNG**, что позволяет представлять многостраничные печатные файлы в виде анимаций на основе кадров для использования в Интернете или цифровых носителях.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание анимированных предварительных просмотров многостраничных печатных файлов
+* Обмен визуальным выводом печати в форматах, удобных для Интернета
+* Генерация документации с анимированными визуальными элементами
+* Архивирование динамических изображений данных печати PCL
+* Отображение отчетов на основе PCL в виде анимаций APNG
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование файлов PCL в последовательности APNG
+* Интеграция с системами предварительного просмотра и визуализации печати
+* Построение в реальном времени анимаций PCL в APNG для цифровых печатных панелей управления
+* Преобразование рабочих процессов печати в веб-форматы анимации
+* Автоматизированное архивирование документов PCL в виде анимированных визуалов
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

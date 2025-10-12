@@ -57,7 +57,30 @@ API также позволяет экспортировать файл PCL в W
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в WMF** преобразует графику **языка управления принтером** в формат **Windows Metafile (.WMF)**, подходящий для векторного редактирования и масштабирования изображений в приложениях Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение масштабируемой графики из макетов печати PCL
+* Редактирование векторных диаграмм в приложениях Windows
+* Встраивание визуальных элементов PCL в документы Office
+* Сохранение точности печати для проектов издательской деятельности
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование файлов PCL в изображения WMF
+* Интеграция с процессами публикации документов и дизайна
+* Пакетная обработка для архивов графики печати старых версий
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

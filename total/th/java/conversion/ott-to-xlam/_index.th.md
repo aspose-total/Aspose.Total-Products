@@ -61,7 +61,33 @@ otherformats: XLAM ODS SXC XLSX DIF XLTX XLT XLS XLSB EXCEL FODS TSV XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **OTT เป็น XLAM** จะสร้าง **ไฟล์ Excel Add-in** ที่ได้มาจากเนื้อหาของเทมเพลต ทำให้สามารถใช้การอัตโนมัติ แมโคร และการทำงานในสเปรดชีทที่ปรับปรุงขึ้นตามข้อมูลของเทมเพลต
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้าง Excel add-ins ที่เปิดใช้งานแมโครจากเทมเพลต
+* อัตโนมัติงานที่ซ้ำซากโดยใช้แมโครที่ได้มาจากเทมเพลต
+* เพิ่มฟังก์ชันของสเปรดชีทด้วยตรรกะของเทมเพลต
+* การใช้งานการทำงานอัตโนมัติที่มีมาตรฐาน
+* การรวมเครื่องมือ Excel ที่ใช้เทมเพลตไว้กลาง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การแปลง OTT เป็น XLAM แบบกลุ่มสำหรับการอัตโนมัติ Excel ขององค์กร
+* การผสานรวมกับกระบวนการหรือท่อรายงาน
+* การสร้างเครื่องมือสเปรดชีทที่ใช้แมโครได้ซ้ำใช้งานได้
+* การใช้งานการทำงานอัตโนมัติที่ใช้เทมเพลต
+* การอัพเดตแมโครได้ดีและเปลี่ยนได้ตามเนื้อหาของเทมเพลต
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

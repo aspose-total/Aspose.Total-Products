@@ -61,7 +61,33 @@ otherformats: EXCEL DIF XLAM SXC XLT XLSM ODS XLTX XLTM XLS TSV XLSX XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **OTT в XLS** преобразует шаблоны текста OpenDocument в формат **рабочей книги Excel 97-2003**, обеспечивая обратную совместимость использования электронных таблиц и отчетов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Генерация отчетов Excel, совместимых с устаревшими версиями
+* Миграция содержимого шаблонов в старые среды электронных таблиц
+* Подготовка структурированных данных из шаблонов для аналитики
+* Архивирование контента в широко поддерживаемых форматах
+* Поддержка слияния почты или корреспонденции на основе электронных таблиц
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование OTT в XLS
+* Интеграция с устаревшими корпоративными системами
+* Создание конвейеров генерации электронных таблиц из нескольких шаблонов
+* Рабочие процессы отчетности на основе шаблонов
+* Архивирование исторических данных в формате XLS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

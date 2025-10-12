@@ -129,7 +129,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL thành DOTM** biến các bố cục in thành **mẫu Word hỗ trợ macro**, kết hợp việc bảo tồn định dạng với khả năng tự động hóa nhúng để tạo ra tài liệu tiên tiến.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo các mẫu thông minh với macro từ tài liệu PCL
+* Tự động hóa việc tạo báo cáo và các nhiệm vụ lặp đi lặp lại
+* Duy trì tính nhất quán về bố cục với chức năng động
+* Nhúng script để điền biểu mẫu và thực hiện nhiệm vụ xác thực
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo mẫu tự động trên toàn doanh nghiệp từ nguồn in
+* Xử lý hàng loạt các tệp PCL thành mẫu hỗ trợ macro
+* Tích hợp vào hệ thống tự động hóa hoặc báo cáo của Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

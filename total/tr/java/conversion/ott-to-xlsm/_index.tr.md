@@ -61,7 +61,30 @@ OTT'yi XLSM'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi XLSM'ye dönüştürmek**, **OpenDocument Metin Şablonlarını (.OTT)** **Excel Makro Etkinli Çalışma Kitabı (.XLSM)**'ye dönüştürerek elektronik tablolarda otomasyon ve makro tabanlı işlevselliği sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* OTT şablonlarından makrolu Excel çalışma kitapları oluşturma
+* Veri işleme veya rapor oluşturma iş akışlarını otomatikleştirme
+* Etkileşimli elektronik tablo çözümleri için belge şablonlarını yeniden kullanma
+* Oluşturulan çalışma kitaplarına hesaplamaları veya otomatik görevleri gömmek
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* OTT şablonlarının XLSM çalışma kitaplarına toplu dönüşümü
+* Kurumsal raporlama ve analitik boru hatlarıyla entegrasyon
+* Şablonlardan makro etkinli elektronik tabloların otomatik oluşturulması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

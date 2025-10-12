@@ -57,7 +57,30 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi TGA'ya dönüştürmek**, yüksek kaliteli raster grafikleri koruyarak **Yazıcı Komut Dili** grafiklerini **Truevision TGA (.TGA)** görüntü formatına dönüştürür, tasarım, görselleştirme veya arşivleme amaçları için.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* PCL baskı grafiklerinden yüksek kaliteli görüntüler çıkarma
+* Tasarım ve illüstrasyon iş akışları için görsel içerik hazırlama
+* Kayıpsız bir görüntü formatında baskı grafiklerini arşivleme
+* Çizimleri ve düzenleri çoklu ortam uygulamalarına dönüştürme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* PCL grafiklerinin TGA'ya otomatik toplu dönüşümü
+* Görüntü işleme ve çoklu ortam akışlarıyla entegrasyon
+* Gelecekteki kullanım için baskı görsellerinin düzenli arşivlenmesi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

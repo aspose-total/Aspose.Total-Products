@@ -49,7 +49,31 @@ otherformats: XLSB SXC XLT EXCEL TXT ODS TSV XLAM FODS XLTM MD XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 EXCEL** 可以将打印生成的文档转换为 **Microsoft Excel** 电子表格，为报告、发票和数据表提供结构化、可编辑和可分析的格式。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于 PCL 的打印输出转换为可编辑的 Excel 文件
+* 将报告和财务报表从打印格式转换为数据格式
+* 重复使用打印数据进行计算、图表和分析
+* 简化文档数字化流程
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量自动化 PCL 到 Excel 的转换
+* 与 ERP 或会计系统集成以进行报告
+* 从打印存档自动生成 Excel 输出
+* 基于工作流的将 PCL 数据提取到 XLS/XLSX
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

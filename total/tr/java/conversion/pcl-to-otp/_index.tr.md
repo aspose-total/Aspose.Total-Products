@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi OTP'ye dönüştürme**, **Yazıcı Komut Dili** dosyalarını **OpenDocument Sunum Şablonu (.OTP)** biçimine dönüştürerek yeniden kullanılabilir slayt şablonları oluşturur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* PCL düzenlerinden sunum şablonları tasarlama
+* İş için markalı slayt şablonları oluşturma
+* Basılı kurumsal görselleri düzenlenebilir OTP şablonlarına dönüştürme
+* Bölümler arasında tasarımın tekrar kullanımını kolaylaştırma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Standart baskı malzemelerinden otomatik şablon oluşturma
+* Sunum oluşturma iş akışlarıyla entegrasyon
+* Kurumsal baskı belgelerinden yeniden kullanılabilir slayt ana şablonları oluşturma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,33 @@ API cũng cho phép bạn chuyển đổi các tài liệu OTT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **OTT thành PPS** tạo ra các tệp **PowerPoint Show**, cho phép trình chiếu trực tiếp nội dung được tạo từ các mẫu mà không cần mở ở chế độ chỉnh sửa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo trình chiếu từ các mẫu sẵn sàng trình bày
+* Lưu trữ các mẫu dưới dạng trình bày chỉ xem
+* Chia sẻ bài thuyết trình để xem bên ngoài
+* Chuẩn bị tài liệu tiếp thị hoặc đào tạo dưới dạng trình bày
+* Đảm bảo bố cục slide nhất quán trong quá trình trình chiếu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt từ OTT sang PPS cho thư viện trình bày
+* Tích hợp với hệ thống phân phối bài thuyết trình
+* Tự động tạo slide chỉ xem từ các mẫu
+* Quy trình chuẩn bị nội dung đào tạo và tiếp thị tự động
+* Chuẩn hóa trình chiếu slide trên toàn doanh nghiệp
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -129,7 +129,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi DOTM'ye** dönüştürmek, **makro özellikli Word şablonlarına** basılı düzenleri dönüştürerek, biçimlendirme korumasını, gelişmiş belge oluşturma için gömülü otomasyon yetenekleri ile birleştirir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* PCL belgelerinden makrolarla akıllı şablonlar oluşturma
+* Rapor oluşturma ve tekrarlayan görevleri otomatikleştirme
+* Dinamik işlevsellikle düzen tutarlılığını koruma
+* Form doldurma ve doğrulama görevleri için betikler gömme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Yazdırılan kaynaklardan otomatik şablonların kurumsal genişlikte oluşturulması
+* PCL dosyalarının makro özellikli şablonlara toplu işlenmesi
+* Word otomasyonu veya raporlama sistemlerine entegrasyon
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

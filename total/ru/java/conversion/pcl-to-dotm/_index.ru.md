@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в DOTM** превращает печатные макеты в **шаблоны Word с поддержкой макросов**, объединяя сохранение форматирования с встроенными возможностями автоматизации для продвинутой генерации документов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание умных шаблонов с макросами из документов PCL
+* Автоматизация генерации отчетов и повторяющихся задач
+* Поддержание согласованности макета с динамической функциональностью
+* Встраивание скриптов для заполнения форм и задач проверки
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Создание автоматизированных шаблонов для предприятия из источников печати
+* Пакетная обработка файлов PCL в шаблоны с поддержкой макросов
+* Интеграция в системы автоматизации Word или отчетности
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,27 @@ otherformats: DIF XLSM XLSX EXCEL SXC TSV FODS XLAM ODS XLSB XLTM XLT XLS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 XLAM** 可以将文档内容转换为 **启用宏的 Excel 加载项**，非常适合用于自结构化文本数据衍生的电子表格任务自动化。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从结构化的类 Word 模板生成 Excel 加载项
+* 使用文档逻辑自动化数据驱动的 Excel 工作流程
+* 基于文本定义嵌入公式或宏
+* 从 ODT 文件创建可重用的宏工具
+* 通过将 Word 数据与 Excel 自动化进行关联来提高生产力
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 自动化 ODT 到 XLAM 宏加载项生成
+* 与企业 Excel 自动化系统集成
+* 从结构化 ODT 内容批量创建启用宏的工具
+* 简化文档到 Excel 宏开发流程
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

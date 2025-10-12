@@ -30,7 +30,33 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OFT'yi EPUB'a** dönüştürmek, **Outlook Şablonlarını** **e-kitap formatına** dönüştürerek biçimlendirilmiş e-posta içeriğinin e-okuyucularda, tabletlerde veya dijital kütüphanelerde dağıtılmasını ve okunmasını sağlar. Bilgi paylaşımı veya iç iletişimin arşivlenmesi için ideal bir dönüştürmedir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Kurumsal bültenlerin veya kampanyaların e-kitap olarak yayınlanması
+* E-posta şablonlarının taşınabilir okuma formatlarında arşivlenmesi
+* Eğitim veya eğitim materyali dağıtımı
+* Biçimlendirilmiş iletişim içeriğinin çevrimdışı okunması
+* Markalı e-posta düzenlerinin dijital yayınlarda yeniden kullanılması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Bilgi tabanları için Otomatik OFT'den EPUB'a dönüşüm
+* Dijital yayıncılık akışlarına entegrasyon
+* E-posta şablonlarından toplu e-kitap oluşturma
+* Şablonların mobil veya e-okuyucu dağıtımı için yeniden kullanılması
+* EPUB kütüphanelerinde iletişim şablonlarının merkezi arşivlenmesi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,25 @@ A API também permite converter documentos ODT protegidos por senha em PPSM. Se 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Converter **ODT para PPSM** permite a geração de apresentações **com macros habilitadas** a partir de documentos de texto, ideal para criar experiências de apresentação interativas e automatizadas.
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Produzir apresentações automatizadas com lógica de macro
+* Converter dados estruturados do Word em apresentações de slides interativas
+* Automatizar a transformação de relatórios em apresentações de slides
+* Incorporar comportamento de apresentação dinâmica nos slides
+* Preparar fluxos de trabalho empresariais que geram apresentações com macros habilitadas
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+* Fluxos de trabalho automatizados de ODT para PPSM
+* Geração em lote de apresentações com macros habilitadas a partir de arquivos ODT
+* Integração em sistemas de automação e relatórios empresariais
+* Geração de apresentações impulsionada por conteúdo dinâmico
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

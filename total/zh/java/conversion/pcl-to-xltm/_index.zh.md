@@ -49,7 +49,30 @@ otherformats: XLTX XLSB SXC DIF TSV TXT XLSM XLT EXCEL XLTM MD FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 XLTM** 可以从打印文档中创建 **带宏的 Excel 模板**，结合布局保留和嵌入自动化逻辑的能力。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从打印布局设计带宏的 Excel 模板
+* 将可重复使用的自动化嵌入报告模板
+* 实现基于动态模板的文档生成
+* 标准化智能电子表格的创建
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从常规 PCL 报告生成智能模板
+* 使用宏逻辑自动化 Excel 报告生成
+* 批量将打印数据转换为可重复使用的业务模板
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

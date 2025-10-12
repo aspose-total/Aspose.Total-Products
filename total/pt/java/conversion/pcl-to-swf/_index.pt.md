@@ -121,7 +121,30 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter **PCL para SWF** transforma documentos em **Linguagem de Comando de Impressora** em arquivos **Adobe Flash (.SWF)**, permitindo apresentações multimídia interativas e entrega de conteúdo baseado na web.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Criar apresentações interativas a partir de layouts de impressão PCL
+* Incorporar conteúdo baseado em impressão em páginas da web e plataformas de e-learning
+* Converter relatórios de impressão estáticos em slides habilitados para multimídia
+* Compartilhar conteúdo visual de impressão como arquivos interativos amigáveis para a web
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração em lote de arquivos SWF a partir de arquivos de impressão PCL
+* Integração com publicação na web e plataformas de e-learning
+* Conversão automatizada para fluxos de trabalho de conteúdo interativo digital
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,33 @@ Po przekonwertowaniu OTT na TSV [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na TSV** eksportuje szablony tekstu OpenDocument do **Wartości Rozdzielonych Tabulatorem**, co jest przydatne do importu danych strukturalnych, analizy i przetwarzania arkuszy kalkulacyjnych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+* Wyodrębnianie danych do raportowania tabelarycznego
+* Przygotowywanie szablonów do importu do arkuszy kalkulacyjnych lub automatyzacji
+* Dzielenie zawartości szablonu w lekkim formacie tabelarycznym
+* Archiwizowanie strukturalnego tekstu do analizy lub logowania
+* Wsparcie dla wymiany danych między platformami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+* Automatyczne potoki OTT-do-TSV dla raportowania przedsiębiorstwa
+* Partie eksportu dla analiz i przepływów dokumentów
+* Integracja z systemami opartymi na danych do przetwarzania szablonów
+* Generowanie archiwów TSV dla scentralizowanych repozytoriów zawartości
+* Automatyzacja przepływu pracy dla wyodrębniania treści tabelarycznych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

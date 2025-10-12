@@ -47,7 +47,30 @@ Konwertując plik PCL na XLAM, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **PCL na XLAM** przekształca wyjście w języku **Printer Command Language** na pliki **Excel Add-In (.XLAM)**, umożliwiając automatyzację, makra i rozszerzoną funkcjonalność arkusza kalkulacyjnego.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie dodatków Excel z szablonów danych generowanych do druku
+* Osadzanie logiki automatyzacji w przepływach pracy arkusza kalkulacyjnego
+* Konwertowanie raportów PCL na wielokrotnie użyteczne narzędzia automatyzacji w Excelu
+* Rozszerzanie funkcjonalności drukowanych treści numerycznych lub tabelarycznych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie plików XLAM z powtarzających się wyjść PCL
+* Integracja z przedsiębiorczymi procesami raportowania i analizy
+* Tworzenie zbiorcze dodatków Excel do powtarzalnych zadań biznesowych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

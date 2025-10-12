@@ -47,7 +47,32 @@ otherformats: XLTX XLAM FODS TSV MD ODS XLT DIF XLTM SXC XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Преобразование PCL в MD
+
+Преобразование **языка управления принтером (PCL)** в **файлы Markdown (.MD)** обеспечивает чистый, удобочитаемый и удобный для веба формат для документации или архивирования.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт выводов печати в формате PCL в Markdown для интеграции на веб-сайты
+* Подготовка легкой документации на основе печатных отчетов
+* Структурирование данных на основе печати для разработчиков и технических команд
+* Архивирование текстовых файлов PCL в форматах, дружественных к открытому исходному коду
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание документации MD из массовых отчетов PCL
+* Интеграция выводов Markdown с системами контента на основе Git
+* Автоматизация извлечения текста PCL для онлайн-публикаций
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

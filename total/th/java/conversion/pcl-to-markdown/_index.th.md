@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น MARKDOWN** สกัดเนื้อหาข้อความจากไฟล์ **Printer Command Language** และจัดรูปแบบเป็น **Markdown (.MD)** สำหรับการเผยแพร่บนเว็บหรือเอกสารเบาๆ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การเปลี่ยนรายงานที่พิมพ์เป็นเอกสาร Markdown
+* สร้างข้อความโครงสร้างสำหรับเว็บไซต์ บล็อก หรือไฟล์ README
+* การทำให้เนื้อหาที่จัดรูปแบบสำหรับเขียนเทคนิคและการทำงานร่วมกันเป็นเรื่องง่าย
+* สร้างเอกสารข้อความที่มีน้ำหนักเบาและควบคุมเวอร์ชันจากข้อมูลการพิมพ์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง Markdown โดยอัตโนมัติจากกระแสการพิมพ์ PCL
+* การผสานรวมกับเครื่องมือสร้างเว็บไซต์แบบคงที่และระบบเอกสาร
+* การแปลงเอกสารพิมพ์ขนาดใหญ่เป็น Markdown สำหรับฐานความรู้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,30 @@ otherformats: XLAM XLTX SXC DIF MD TXT XLTM FODS XLSB ODS EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в XLAM** преобразует вывод **языка управления принтером (Printer Command Language)** в файлы **дополнений Excel (.XLAM)**, обеспечивая автоматизацию, макросы и расширенную функциональность электронных таблиц.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание дополнений Excel из шаблонов данных, сгенерированных при печати
+* Встраивание логики автоматизации в рабочие процессы электронных таблиц
+* Преобразование отчетов PCL в многоразовые средства автоматизации Excel
+* Расширение функциональности напечатанных числовых или табличных данных
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированная генерация файлов XLAM из повторяющихся выводов PCL
+* Интеграция с корпоративными отчетами и аналитическими конвейерами
+* Пакетное создание дополнений Excel для повторяющихся бизнес-задач
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

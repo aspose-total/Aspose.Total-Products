@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น ODT** จะแปลงเอาเอาท์พุตของ **Printer Command Language** เป็นรูปแบบ **OpenDocument Text (.ODT)** สำหรับการประมวลผลคำใน **LibreOffice Writer** หรือโปรแกรมแก้ไข ODF อื่น ๆ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างรายงานการพิมพ์ใหม่เป็นเอกสารที่สามารถแก้ไขได้
+* เตรียมข้อมูล PCL ที่มีข้อความเป็นหลักสำหรับการเผยแพร่หรือร่วมมือ
+* แปลงเทมเพลตที่ใช้ PCL เป็นไฟล์ ODT ที่สามารถแก้ไขได้
+* รักษาความสอดคล้องของเอกสารในระบบโอเพนซอร์ส
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* สร้างเอกสาร ODT โดยอัตโนมัติจากงานพิมพ์
+* การผสมผสานกับระบบจัดการเอกสารและระบบแก้ไข
+* แปลงไฟล์ PCL ที่เก็บถาวรเป็นรูปแบบข้อความเปิด
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

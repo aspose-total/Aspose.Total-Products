@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в ODT** преобразует вывод **языка управления принтером** в формат **OpenDocument Text (.ODT)** для редактирования текста в **LibreOffice Writer** или других редакторах ODF.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Повторное создание печатных отчетов в виде редактируемых документов
+* Подготовка текстового вывода PCL к публикации или совместной работе
+* Преобразование шаблонов на основе PCL в редактируемые файлы ODT
+* Поддержание согласованности документов в системах с открытым исходным кодом
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание документов ODT из печатных заданий
+* Интеграция с системами управления документами и редактирования
+* Пакетное преобразование архивированных документов PCL в форматы с открытым текстом
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

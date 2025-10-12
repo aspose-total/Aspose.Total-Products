@@ -61,7 +61,27 @@ otherformats: XLTM XLSM XLSX XLT XLS DIF EXCEL SXC ODS XLSB FODS XLAM TSV XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в CSV** преобразует таблицы текстовых документов в **значения, разделенные запятыми**, обеспечивая структурированное представление данных для электронных таблиц, баз данных или средств автоматизации.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение табличных данных из текстовых документов для анализа
+* Импорт данных документа в электронную таблицу или BI-инструменты
+* Преобразование форматированного текста в простые строки и столбцы данных
+* Подготовка наборов данных для машинного обучения или рабочих процессов автоматизации
+* Оптимизация процессов отчетности на основе документов
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Автоматическое преобразование ODT в CSV для потоков данных
+* Массовое извлечение табличных данных из документов для аналитических систем
+* Бесшовная интеграция в процессы импорта в базу данных
+* Синхронизация данных на корпоративном уровне из документов в электронные таблицы
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

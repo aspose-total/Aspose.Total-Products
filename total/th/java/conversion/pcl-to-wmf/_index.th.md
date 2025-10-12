@@ -57,7 +57,32 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น WMF**
+
+การแปลง **Printer Command Language** กราฟิกเป็นรูปแบบ **Windows Metafile (.WMF)** เหมาะสำหรับการแก้ไขแบบเวกเตอร์และการใช้รูปภาพที่สามารถปรับขนาดได้ในแอปพลิเคชัน Windows
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การสกัดกราฟิกที่สามารถปรับขนาดได้จากเลยเอาท์ PCL
+* การแก้ไขไดอะแกรมที่เป็นเวกเตอร์ในแอปพลิเคชัน Windows
+* การฝังภาพ PCL เข้าในเอกสาร Office
+* การรักษาความแม่นยำในการพิมพ์สำหรับโครงการดีสก์ท็อป
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงไฟล์ PCL เป็นรูปภาพ WMF โดยอัตโนมัติ
+* การผสานกับการเผยแพร่เอกสารและการออกแบบท่อ
+* การประมวลผลเป็นชุดสำหรับคลังเก็บข้อมูลกราฟิกพิมพ์เก่า
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,33 @@ otherformats: XLAM ODS SXC XLSX DIF XLTX XLT XLS XLSB EXCEL FODS TSV XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为XLAM**会生成源自模板内容的**Excel加载项文件**，从而实现基于模板数据的自动化、宏以及增强的电子表格工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从模板创建启用宏的Excel加载项
+* 使用基于模板的宏自动化重复任务
+* 利用模板逻辑增强电子表格功能
+* 部署标准化的自动化工作流程
+* 集中化基于模板的Excel工具
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业Excel自动化的批量OTT转换为XLAM
+* 与工作流程或报告管道集成
+* 生成可重复使用的启用宏的电子表格工具
+* 基于模板的自动化部署
+* 从模板内容动态更新宏
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

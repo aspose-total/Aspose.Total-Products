@@ -54,7 +54,33 @@ API ayrıca parola korumalı OTT belgelerini PPS'ye dönüştürmenize olanak ta
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi PPS'ye dönüştürmek**, **PowerPoint Gösteri dosyalarını** üretir ve şablonlardan türetilen içeriğin düzenleme modunda açılmadan doğrudan slayt gösterisi sunumunu sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Şablonlardan hazır sunum slaytları oluşturma
+* Şablonları yalnızca gösteri sunumları olarak arşivleme
+* Dış görüntüleme için sunumları paylaşma
+* Pazarlama veya eğitim materyallerini gösteri formatında hazırlama
+* Sunumlar sırasında tutarlı slayt düzeni sağlama
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Sunum kütüphaneleri için toplu OTT'den PPS'ye dönüşüm
+* Sunum dağıtım sistemleriyle entegrasyon
+* Şablonlardan yalnızca gösteri slaytlarının otomatik oluşturulması
+* Eğitim ve pazarlama içeriği hazırlığı için boru hattı
+* Kurumsal genişlikte slayt gösterisi standartlaştırma
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

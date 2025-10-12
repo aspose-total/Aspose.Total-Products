@@ -129,7 +129,30 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL sang ODT** chuyển đổi đầu ra **Ngôn ngữ Lệnh Máy In** thành định dạng **Văn bản OpenDocument (.ODT)** để chỉnh sửa trong **LibreOffice Writer** hoặc các trình soạn thảo ODF khác.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo lại báo cáo in thành tài liệu có thể chỉnh sửa
+* Chuẩn bị đầu ra PCL chứa nhiều văn bản cho việc xuất bản hoặc hợp tác
+* Chuyển đổi các mẫu dựa trên PCL thành các tệp ODT có thể chỉnh sửa
+* Duy trì tính nhất quán của tài liệu trên các hệ thống mã nguồn mở
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo tài liệu ODT từ công việc in
+* Tích hợp với hệ thống quản lý và chỉnh sửa tài liệu
+* Chuyển đổi hàng loạt các tài liệu PCL lưu trữ sang định dạng văn bản mở
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,27 @@ ODT'yi TSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi TSV'ye** dönüştürmek, yapılandırılmış veya metin tabanlı veri kümeleriyle çalışırken netlik ve tutarlılığı koruyarak belge verilerini **sekmeyle ayrılmış değerler** haline getirir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Biçimlendirilmiş ODT tablolarını sekmeyle ayrılmış veri kümelerine dönüştürme
+* Belge içeriğini metin işleme veya komut dosyası araçlarına aktarma
+* TSV'yi destekleyen platformlar arasında yapılandırılmış veri paylaşımı
+* Araştırma veya analiz için tutarlı veri yapıları hazırlama
+* TSV formatını bekleyen sistemlere belge tablolarını taşıma
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Otomatik veri çıkarma sistemlerinde ODT'den TSV'ye dönüşüm
+* Metin belgelerinin toplu olarak dışa aktarılması için
+* TSV çıktısının veri temizleme borularına entegre edilmesi
+* Kurumsal araçlar arasında metin veri kümelerinin basitleştirilmiş transferi
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

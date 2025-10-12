@@ -54,7 +54,30 @@ otherformats: POTM PPTM PPT POTX POWERPOINT PPSM PPSX PPTX PPS POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **OTT 转换为 PPSM** 可以将 **OpenDocument 文本模板 (.OTT)** 转换为 **PowerPoint 启用宏的放映 (.PPSM)**，从文本模板生成自动化和交互式演示文稿。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从基于 OTT 的文本模板创建启用宏的幻灯片演示
+* 自动化从文档模板衍生的演示内容
+* 重复使用公司模板制作动态幻灯片演示
+* 嵌入互动性和宏以进行工作流自动化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将文档模板定期转换为 PPSM 幻灯片
+* 与企业内容自动化管道集成
+* 批量处理 OTT 文件以生成交互式演示文稿
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

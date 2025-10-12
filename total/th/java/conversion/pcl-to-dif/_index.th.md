@@ -47,7 +47,30 @@ otherformats: XLSB ODS XLT TSV SXC FODS TXT XLTX XLSM MD EXCEL XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **PCL เป็น DIF** จะแปลงไฟล์ **Printer Command Language** เป็นไฟล์ **Data Interchange Format (DIF)** ซึ่งช่วยให้มีการแลกเปลี่ยนข้อมูลโครงสร้างและสามารถใช้งานร่วมกันในสเปรดชีตระหว่างแอปพลิเคชัน
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การสกัดข้อมูลตารางจากรายงานที่พิมพ์เป็นรูปแบบ DIF
+* การอำนวยความสะดวกในการนำเข้าข้อมูลการพิมพ์เข้าสู่ระบบสเปรดชีตรุ่นเก่า
+* การทำให้การย้ายข้อมูลระหว่างเครื่องมือวิเคราะห์เป็นไปอย่างราบรื่น
+* การสร้างชุดข้อมูลที่ใช้ซ้ำจากการพิมพ์ PCL ที่ถูกเก็บถาวร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงรายงาน PCL เป็น DIF โดยอัตโนมัติสำหรับการแลกเปลี่ยนข้อมูล
+* การรวมเข้ากับท่อ ETL สำหรับการแลกเปลี่ยนข้อมูลโครงสร้าง
+* การแปลงข้อมูลจำนวนมากจากการเก็บถาวรพิมพ์ให้เป็นแหล่งข้อมูลวิเคราะห์ที่เข้ากันได้กับ DIF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

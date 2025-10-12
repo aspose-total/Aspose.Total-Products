@@ -61,7 +61,30 @@ otherformats: EXCEL XLT XLSM XLSX SXC XLS ODS TSV XLAM FODS XLTM DIF XLTX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **OTT เป็น XLT** จะเปลี่ยน **OpenDocument Text Templates (.OTT)** เป็น **Excel Template (.XLT)** ซึ่งจะให้พื้นฐานที่ใช้ซ้ำสำหรับการสร้างสเปรดชีต
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การสร้างเทมเพลตสเปรดชีตมาตรฐานจากเอกสาร OTT
+* การรักษาการจัดรูปแบบอย่างสม่ำเสมอสำหรับการรายงานหรือการวิเคราะห์
+* เตรียมเทมเพลตที่ใช้ซ้ำสำหรับงานกรอกข้อมูลที่ซ้ำซาก
+* การแปลงเทมเพลตข้อความเป็นโครงสร้างที่พร้อมใช้งานใน Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การแปลงเป็นกลุ่มของเทมเพลต OTT เป็น XLT สำหรับการใช้งานในองค์กร
+* การรวมเข้ากับกระบวนการสร้างสเปรดชีตโดยอัตโนมัติ
+* การสร้างเทมเพลต Excel จากเทมเพลตเอกสารตามกำหนดเวลา
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

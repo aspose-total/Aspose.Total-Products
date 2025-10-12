@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Преобразование PCL в WORDML** преобразует документы на языке **Printer Command Language** в формат **WordProcessingML (WordML)**, обеспечивая структуру на основе XML для продвинутой манипуляции данными и автоматизации документов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование макетов печати в форматы Word на основе XML
+* Обеспечение структурированной манипуляции документами через WordML
+* Интеграция документов Word с рабочими процессами на основе XML
+* Облегчение автоматизации документов на основе метаданных
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание документов WordML из файлов печати PCL
+* Интеграция с управлением документами и рабочими процессами на основе XML
+* Массовое преобразование для совместимости с API обработки Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

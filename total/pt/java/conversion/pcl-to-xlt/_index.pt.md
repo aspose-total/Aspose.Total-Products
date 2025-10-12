@@ -47,7 +47,30 @@ Ao converter o arquivo PCL para XLT, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversão de PCL para XLT** cria arquivos de **Modelo do Excel** a partir de documentos em **Linguagem de Comando de Impressora**, permitindo que layouts de impressão estruturados sejam reutilizados para a criação consistente de relatórios no Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Projetar modelos do Excel com base em formatos de relatórios impressos
+* Manter layout e estilo consistentes para relatórios
+* Padronizar modelos de documentação empresarial
+* Acelerar a configuração de relatórios com modelos pré-definidos baseados em impressão
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Automatizar a geração de modelos a partir de saídas PCL recorrentes
+* Criar modelos reutilizáveis para preenchimento automático de relatórios
+* Integrar fluxos de trabalho de impressão para modelos de organizações
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

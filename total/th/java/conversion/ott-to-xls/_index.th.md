@@ -61,7 +61,33 @@ otherformats: EXCEL DIF XLAM SXC XLT XLSM ODS XLTX XLTM XLS TSV XLSX XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **OTT เป็น XLS** จะเปลี่ยนรูปแบบเทมเพลตข้อความ OpenDocument เป็น **รูปแบบ Excel 97-2003 Workbook** ซึ่งช่วยให้สามารถใช้งานสเปรดชีตที่เข้ากันได้ย้อนหลังและรายงานได้
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* สร้างรายงาน Excel ที่เข้ากันได้กับรุ่นเก่า
+* ย้ายเนื้อหาเทมเพลตเข้าสู่สภาพแวดล้อมสเปรดชีตเก่า
+* เตรียมข้อมูลโครงสร้างจากเทมเพลตสำหรับการวิเคราะห์
+* เก็บถาวรเนื้อหาในรูปแบบที่รองรับอย่างกว้างขวาง
+* สนับสนุนการผสานจดหมายหรือการสื่อสารที่ใช้สเปรดชีต
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง OTT เป็น XLS แบบชุดอัตโนมัติ
+* การผสานกับระบบองค์กรเก่า
+* ท่อไปรับสเปรดชีตจากเทมเพลตหลายรูปแบบ
+* การไหลของรายงานที่ใช้เทมเพลต
+* การเก็บถาวรข้อมูลประวัติในรูปแบบ XLS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

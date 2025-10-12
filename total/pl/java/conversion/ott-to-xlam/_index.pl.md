@@ -61,7 +61,33 @@ Po przekonwertowaniu OTT na XLAM [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na XLAM** generuje pliki **dodatków Excel**, pochodzące z treści szablonu, umożliwiając automatyzację, makra i ulepszone przepływy pracy arkusza kalkulacyjnego oparte na danych szablonu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie dodatków Excel z makrami na podstawie szablonów
+* Automatyzacja powtarzalnych zadań za pomocą makr pochodzących ze szablonów
+* Wzmacnianie funkcjonalności arkusza kalkulacyjnego za pomocą logiki szablonu
+* Wdrażanie standaryzowanych przepływów pracy z automatyzacją
+* Centralizacja narzędzi Excel opartych na szablonach
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja wsadowa OTT na XLAM dla przedsiębiorczej automatyzacji Excela
+* Integracja z przepływami pracy lub raportowania
+* Generowanie wielokrotnego użytku narzędzi arkusza kalkulacyjnego z makrami
+* Wdrażanie automatyzacji opartej na szablonach
+* Dynamiczne aktualizacje makr na podstawie treści szablonu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

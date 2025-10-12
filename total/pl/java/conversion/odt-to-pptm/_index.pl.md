@@ -54,7 +54,27 @@ Interfejs API umożliwia również konwersję dokumentów ODT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na PPTM** umożliwia tworzenie **prezentacji PowerPoint z obsługą makr** z dokumentów tekstowych, łącząc treści statyczne z interaktywnymi lub zautomatyzowanymi zachowaniami slajdów.
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+* Projektowanie interaktywnych prezentacji z ustrukturyzowanych dokumentów tekstowych
+* Tworzenie zautomatyzowanych raportów z wbudowanymi makrami
+* Generowanie prezentacji wywołujących dynamiczne przejścia slajdów
+* Przygotowywanie inteligentnych prezentacji biznesowych lub szkoleniowych z funkcjonalnością VBA
+* Usprawnianie dostarczania raportów za pomocą prezentacji z obsługą makr
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+* Zautomatyzowane przepływy pracy generowania prezentacji ODT do PPTM
+* Integracja z systemami raportowania i automatyzacji przedsiębiorstwa
+* Tworzenie zbiorcze slajdów z obsługą makr z plików ODT
+* Generowanie prezentacji z dynamicznymi danymi do wewnętrznego raportowania
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

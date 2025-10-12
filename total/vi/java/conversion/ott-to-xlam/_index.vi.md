@@ -61,7 +61,33 @@ Sau khi chuyển đổi OTT sang XLAM, [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **OTT thành XLAM** tạo ra **tệp Excel Add-in** được tạo từ nội dung mẫu, cho phép tự động hóa, macro, và tăng cường quy trình làm việc trên bảng tính dựa trên dữ liệu mẫu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo các Add-in Excel hỗ trợ macro từ các mẫu
+* Tự động hóa các công việc lặp đi lặp lại bằng cách sử dụng macro tạo từ mẫu
+* Nâng cao chức năng bảng tính với logic mẫu
+* Triển khai quy trình tự động hóa chuẩn hóa
+* Tập trung các công cụ Excel dựa trên mẫu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt từ OTT sang XLAM cho tự động hóa Excel doanh nghiệp
+* Tích hợp với quy trình hoặc đường ống báo cáo
+* Tạo ra các công cụ bảng tính hỗ trợ macro có thể tái sử dụng
+* Triển khai tự động hóa dựa trên mẫu
+* Cập nhật macro động từ nội dung mẫu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -47,7 +47,30 @@ Trong khi chuyển đổi tệp PCL sang XLT, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Chuyển đổi PCL sang XLT** tạo ra các tệp **Mẫu Excel** từ tài liệu **Ngôn ngữ Lệnh Máy In**, cho phép bố cục in cấu trúc được tái sử dụng để tạo báo cáo nhất quán trong Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Thiết kế các mẫu Excel dựa trên định dạng báo cáo in
+* Duy trì bố cục và kiểu dáng nhất quán cho các báo cáo
+* Chuẩn hóa các mẫu tài liệu kinh doanh
+* Tăng tốc thiết lập báo cáo với các mẫu dựa trên in được xác định trước
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động hóa việc tạo mẫu từ đầu ra PCL định kỳ
+* Tạo các mẫu có thể tái sử dụng cho việc điền báo cáo tự động
+* Tích hợp luồng làm việc từ in sang mẫu cho các tổ chức
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

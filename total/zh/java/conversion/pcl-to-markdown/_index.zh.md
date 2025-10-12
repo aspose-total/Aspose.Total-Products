@@ -129,7 +129,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为MARKDOWN**从**打印命令语言**文件中提取文本内容，并将其格式化为**Markdown (.MD)** 以用于网络发布或轻量级文档。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将打印报告转换为Markdown文档
+* 为网站、博客或README文件创建结构化文本
+* 简化技术写作和协作的格式化内容
+* 从打印数据生成轻量级、版本控制的文本输出
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从PCL打印管道自动生成Markdown
+* 与静态站点生成器和文档系统集成
+* 将大型打印存档转换为Markdown以用于知识库
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

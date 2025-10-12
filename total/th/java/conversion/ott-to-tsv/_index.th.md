@@ -61,7 +61,33 @@ otherformats: XLTM TSV XLSB SXC XLT XLS EXCEL ODS XLTX FODS DIF XLSM XLAM XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **OTT เป็น TSV** สามารถส่งออกเทมเพลตข้อความ OpenDocument เป็น **ค่าที่แยกด้วยแท็บ**, เพื่อใช้สำหรับการนำเข้าข้อมูลโครงสร้าง การวิเคราะห์ และการประมวลผลสเปรดชีต
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การสกัดข้อมูลสำหรับรายงานแบบตาราง
+* เตรียมเทมเพลตสำหรับการนำเข้าสเปรดชีตหรือการอัตโนมัติ
+* แบ่งปันเนื้อหาเทมเพลตในรูปแบบตารางที่เบา
+* เก็บข้อมูลข้อความโครงสร้างสำหรับการวิเคราะห์หรือการเข้าสู่ระบบ
+* สนับสนุนการแลกเปลี่ยนข้อมูลระหว่างแพลตฟอร์ม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* ท่อส่ง OTT-to-TSV อัตโนมัติสำหรับการรายงานขององค์กร
+* ส่งออกเป็นชุดสำหรับการวิเคราะห์และการทำงานของเอกสาร
+* การรวมระบบที่ใช้ข้อมูลสำหรับการประมวลผลเทมเพลต
+* สร้างเอกสาร TSV สำหรับคลังข้อมูลเนื้อหาที่ใช้รวมกัน
+* การอัตโนมัติของขั้นตอนการทำงานสำหรับการสกัดเนื้อหาแบบตาราง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

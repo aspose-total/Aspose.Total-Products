@@ -49,7 +49,30 @@ otherformats: EXCEL MD XLSM ODS XLTX XLTM TSV XLT XLAM FODS DIF TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 XLSM** 可将基于打印的文档转换为 **支持宏的 Excel 工作簿**，在 Excel 环境中实现自动化和数据处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 自动化从 PCL 文件中提取的数据的重复任务
+* 嵌入宏以生成或验证报告
+* 通过 Excel 脚本增强工作流程
+* 将打印数据与基于 Excel 的自动化系统集成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 生成支持宏的财务或分析报告
+* 从 PCL 打印源自动更新 Excel 仪表板
+* 用于打印到数据处理的动态转换管道
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

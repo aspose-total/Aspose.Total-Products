@@ -61,7 +61,27 @@ Po przekonwertowaniu ODT na CSV [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwertowanie **ODT na CSV** przekształca tabele dokumentów opartych na tekście w **wartości oddzielone przecinkami**, umożliwiając strukturalne reprezentowanie danych do arkuszy kalkulacyjnych, baz danych lub narzędzi automatyzacji.
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+* Wyodrębnianie danych tabelarycznych z dokumentów tekstowych do analizy
+* Importowanie danych dokumentów do arkusza kalkulacyjnego lub narzędzi BI
+* Konwertowanie sformatowanego tekstu na proste wiersze i kolumny danych
+* Przygotowywanie zbiorów danych do uczenia maszynowego lub procesów automatyzacji
+* Usprawnianie procesów raportowania opartych na dokumentach
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+* Automatyczna transformacja ODT na CSV dla potoków danych
+* Wydobywanie tabel dokumentów masowych dla systemów analitycznych
+* Bezproblemowa integracja z procesami importu do bazy danych
+* Synchronizacja danych na poziomie przedsiębiorstwa z dokumentów do arkuszy kalkulacyjnych
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

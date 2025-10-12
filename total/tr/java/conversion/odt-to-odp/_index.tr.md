@@ -54,7 +54,27 @@ API ayrıca parola korumalı ODT belgelerini ODP'ye dönüştürmenize olanak ta
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi ODP'ye dönüştürmek**, metin belgelerini sunum slaytlarına sorunsuz bir şekilde dönüştürmeyi sağlar, yazılı raporları, özetleri veya eğitim materyallerini görselleştirmek için idealdir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Yapılandırılmış belgeleri slayt sunumlarına dönüştürme
+* Ders notlarını veya raporları görsel özetlere dönüştürme
+* Sınıf veya kurumsal sunumlar için slaytlar hazırlama
+* ODT dosyalarından etkileyici görsel formatlar oluşturma
+* Eğitmenler veya konuşmacılar için metinden sunuma dönüşümü basitleştirme
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Otomatik ODT'den ODP'ye sunum oluşturma
+* Ofis üretkenlik iş akışlarıyla entegrasyon
+* Toplu belge-sunum dönüşümleri
+* Yapılandırılmış belge içeriğinden dinamik slayt oluşturma
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

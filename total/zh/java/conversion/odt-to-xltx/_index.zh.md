@@ -61,7 +61,27 @@ otherformats: XLTX TSV XLT XLS EXCEL XLSB FODS SXC XLSM DIF XLSX ODS XLAM XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 XLTX** 可以将文本文档转换为 **Excel 模板文件**，从而实现电子表格工作流程的一致性和标准化。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 ODT 内容构建结构化的 Excel 模板
+* 在报告和数据文件中保持一致的格式
+* 为数据输入或分析自动创建模板
+* 为各部门准备可重复使用的 Excel 结构
+* 支持基于数据的报告生成工作流程
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 在自动化报告系统中进行 ODT 到 XLTX 的转换
+* 基于模板的文档转换流水线
+* 多部门 Excel 模板生成
+* 为重复使用案例简化 Excel 结构创建
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

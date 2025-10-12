@@ -61,7 +61,33 @@ otherformats: XLAM ODS SXC XLSX DIF XLTX XLT XLS XLSB EXCEL FODS TSV XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **OTT в XLAM** создает **файлы надстроек Excel**, происходящие от содержимого шаблона, обеспечивая автоматизацию, макросы и улучшенные рабочие процессы электронных таблиц на основе данных шаблона.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание макро-возможных надстроек Excel из шаблонов
+* Автоматизация повторяющихся задач с использованием макросов, происходящих от шаблонов
+* Улучшение функциональности электронных таблиц с помощью логики шаблона
+* Развертывание стандартизированных рабочих процессов автоматизации
+* Централизация инструментов Excel, основанных на шаблонах
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование OTT в XLAM для корпоративной автоматизации Excel
+* Интеграция с рабочими процессами или конвейерами отчетности
+* Создание многоразовых макро-возможных инструментов электронных таблиц
+* Развертывание автоматизации на основе шаблонов
+* Динамическое обновление макросов на основе содержимого шаблона
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

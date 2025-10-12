@@ -47,7 +47,30 @@ PCL dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to FODS** dönüşümü, düzenlenebilir, XML tabanlı LibreOffice ve OpenOffice ile uyumlu olan **Flat OpenDocument Spreadsheet (FODS)** formatına dönüştürür, yazdırma ile oluşturulan verileri.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Yazdırılan raporları veya faturaları düzenlenebilir elektronik tablo verilerine dönüştürme
+* Çapraz platform elektronik tablo uyumluluğunu sağlama
+* PCL tabanlı tablo verilerini açık kaynak ofis araçlarına entegre etme
+* Yapılandırılmış yazdırma verilerini XML elektronik tablolar olarak arşivleme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Yazdırılan finansal veya envanter raporlarının otomatik olarak FODS'a dönüştürülmesi
+* Açık kaynak raporlama borularına entegrasyon
+* Analiz ve kayıtlar için büyük ölçekli yazdırma verilerinin dönüştürülmesi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

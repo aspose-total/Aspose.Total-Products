@@ -54,7 +54,27 @@ API ayrıca parola korumalı ODT belgelerini PPS'ye dönüştürmenize olanak ta
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi PPS'ye dönüştürmek**, metin belgelerinden doğrudan slayt gösterisi oluşturmayı sağlar, ek düzenleme olmadan hazır sunum içeriği sunmak için mükemmeldir.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* Raporlardan veya özetlerden anında sunum dosyaları oluşturma
+* Metin tabanlı bilgileri slayt formatında sunma
+* Toplantılar veya etkinlikler için otomatik sunumlar hazırlama
+* Word tarzı belgeleri otomatik çalışan slayt gösterilerine dönüştürme
+* Eğitim veya pazarlama sunumu iş akışlarını optimize etme
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Otomatik ODT'den PPS'ye slayt gösterisi oluşturma
+* Belge yayınlama sistemleriyle entegrasyon
+* Metin tabanlı sunumların toplu işlenmesi
+* Yapılandırılmış içerikten sunuma hazır slaytlar oluşturma
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

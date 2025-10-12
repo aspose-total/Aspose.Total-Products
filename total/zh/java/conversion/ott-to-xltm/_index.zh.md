@@ -61,7 +61,30 @@ otherformats: SXC XLS EXCEL XLSM XLT DIF XLTM XLSX ODS XLTX FODS TSV XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **OTT 转换为 XLTM** 将 **OpenDocument 文本模板 (.OTT)** 转换为 **Excel 启用宏模板 (.XLTM)**，用于具有自动化功能的可重复使用的电子表格。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 OTT 文件设计启用宏的电子表格模板
+* 使用基于模板的工作簿自动化重复数据处理
+* 为报告和分析创建可重复使用的 Excel 模板
+* 使用启用宏的电子表格基础标准化工作流程
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业报告的定时 OTT 到 XLTM 转换
+* 与工作流自动化和电子表格生成管道集成
+* 从文档模板批量创建启用宏的 Excel 模板
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

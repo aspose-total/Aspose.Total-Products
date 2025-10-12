@@ -130,7 +130,30 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konwersja PCL na RTF** umożliwia przekształcenie wyjść w języku **Printer Command Language** w dokumenty w formacie **Rich Text Format (RTF)** dla szerokiej kompatybilności, łatwej edycji i użycia na różnych platformach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie wydrukowanych dokumentów na edytowalne pliki tekstowe w formacie RTF
+* Zachowanie podstawowego formatowania zapewniając przenośność
+* Udostępnianie raportów wygenerowanych z drukarki w różnych edytorach tekstu
+* Przygotowywanie lekkich wersji dokumentów do celów archiwalnych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Partiowa konwersja plików drukowanych w formacie PCL na RTF do dystrybucji
+* Integracja potoków PCL-na-RTF w systemach przedsiębiorstw
+* Automatyczne generowanie sformatowanych raportów tekstowych na podstawie danych drukowanych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

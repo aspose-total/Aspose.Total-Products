@@ -54,7 +54,27 @@ API ayrıca parola korumalı ODT belgelerini PPSX'ye dönüştürmenize olanak t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi PPSX'e dönüştürmek**, biçimlendirme, yapı ve görselleri koruyarak metin tabanlı belgeleri **modern sunum slayt dosyalarına** dönüştürür, hemen oynatma için.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Metin içeriğinden doğrudan son sunum slaytları oluşturma
+* Hazır çalıştırılabilir slayt destekleri olarak cilalı raporları sunma
+* Düzenlenebilir kaynak olmadan sunum içeriğini paylaşma
+* Belgelerden konferans veya toplantı sunumları hazırlama
+* Raporların son slayt sürümlerini dağıtma
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Otomatik ODT'den PPSX'e sunum oluşturma
+* Toplu dönüşüm için kitle sunum yayınlama
+* Kurumsal raporlama sistemlerine entegrasyon
+* Organizasyonlar için belgeden slayt gösterisine otomasyon
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

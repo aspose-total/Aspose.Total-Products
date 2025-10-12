@@ -61,7 +61,33 @@ Po przekonwertowaniu OTT na XLS [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na XLS** przekształca szablony tekstu OpenDocument na format **Arkusz Excel 97-2003**, umożliwiając korzystanie z arkuszy kalkulacyjnych zgodnych wstecz oraz raportowanie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Generowanie raportów Excel zgodnych z poprzednimi wersjami
+* Migracja zawartości szablonu do starszych środowisk arkuszy kalkulacyjnych
+* Przygotowywanie danych strukturalnych z szablonów do analiz
+* Archiwizacja zawartości w powszechnie obsługiwanych formatach
+* Wsparcie dla korespondencji za pomocą korespondencji seryjnej lub arkuszy kalkulacyjnych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja wsadowa OTT na XLS
+* Integracja z systemami przedsiębiorstwa zgodnymi z poprzednimi wersjami
+* Generowanie potoków arkuszy kalkulacyjnych z wielu szablonów
+* Przepływy pracy oparte na szablonach raportów
+* Archiwizacja danych historycznych w formacie XLS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

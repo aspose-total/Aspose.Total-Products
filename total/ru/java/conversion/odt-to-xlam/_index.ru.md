@@ -61,7 +61,27 @@ otherformats: DIF XLSM XLSX EXCEL SXC TSV FODS XLAM ODS XLSB XLTM XLT XLS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в XLAM** позволяет преобразовать содержимое документа в **макро-включения Excel**, идеально подходит для автоматизации задач таблиц Excel, происходящих от структурированных текстовых данных.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание макро-включений Excel из структурированных шаблонов в стиле Word
+* Автоматизация рабочих процессов Excel, основанных на данных из документов
+* Встраивание формул или макросов на основе текстовых определений
+* Создание повторно используемых макро-инструментов из файлов ODT
+* Повышение производительности путем связывания данных Word с автоматизацией Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Автоматическое создание макро-включений ODT в XLAM
+* Интеграция с системами автоматизации Excel предприятия
+* Пакетное создание макро-инструментов из структурированного содержимого ODT
+* Оптимизация процесса разработки макросов из документов в Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

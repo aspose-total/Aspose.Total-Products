@@ -57,7 +57,33 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง **PCL เป็นรูปภาพ** จะสร้าง **ผลลัพธ์รูปภาพแบบเราส์เตอร์** (PNG, JPEG, TIFF, เป็นต้น) จากเอกสาร Printer Command Language ซึ่งทำให้ไฟล์พร้อมสำหรับการพิมพ์เป็นรูปภาพมาตรฐานที่สามารถดูและแชร์ได้
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแสดง PCL print jobs เป็นรูปภาพ
+* ฝังผลลัพธ์การพิมพ์ในเอกสารหรือรายงาน
+* เก็บ PCL files ในคลังข้อมูลที่เป็นรูปภาพ
+* การพิมพ์ไปยังการทำงานของรูปภาพสำหรับความสะดวกในการเข้าถึงข้ามแพลตฟอร์ม
+* แบ่งปันเลยเอกสารการจัดวางการพิมพ์ในอุปกรณ์ที่ไม่ใช่ PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PCL เป็นรูปภาพโดยอัตโนมัติในระบบประมวลผลการพิมพ์
+* การสร้างรูปภาพเป็นชุดสำหรับการดูตัวอย่างเอกสาร
+* การผสานกับการตรวจสอบการพิมพ์ในคลาวด์หรือโซลูชัน DMS
+* การเก็บข้อมูลการพิมพ์ขององค์กรในรูปภาพ
+* การแสดงผลงานการพิมพ์แบบเรียลไทม์สำหรับ QA และการตรวจสอบ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

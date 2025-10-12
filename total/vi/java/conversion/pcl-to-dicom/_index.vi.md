@@ -57,7 +57,30 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi **PCL sang DICOM** cho phép chuyển đổi đầu ra **Ngôn ngữ Lệnh Máy in** thành các tệp **Hình ảnh Kỹ thuật số và Liên lạc trong Y học (DICOM)**. Điều này đặc biệt hữu ích cho môi trường y tế cần lưu trữ hoặc hiển thị dữ liệu chẩn đoán dựa trên in trong các hệ thống hình ảnh.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi báo cáo chẩn đoán in thành định dạng hình ảnh DICOM
+* Nhúng dữ liệu in quét vào các lưu trữ hình ảnh y tế
+* Tích hợp tài liệu y tế dựa trên PCL vào hệ thống PACS
+* Chuẩn hóa định dạng hồ sơ y tế cho việc tuân thủ y tế
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động các báo cáo y tế in thành DICOM cho hồ sơ bệnh viện
+* Tích hợp chuyển đổi in-sang-DICOM vào các quy trình làm việc y tế
+* Chuyển đổi hàng loạt các bản lưu trữ PCL cho hệ thống lưu trữ hình ảnh y tế
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

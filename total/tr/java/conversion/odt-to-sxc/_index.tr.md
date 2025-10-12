@@ -61,7 +61,25 @@ ODT'yi SXC'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT'yi SXC'ye dönüştürmek**, tablo bütünlüğünü ve yapılandırılmış veriyi koruyarak **geçmiş StarOffice ve erken OpenOffice elektronik tablo formatlarıyla uyumluluğu** sağlar.
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Belge tabanlı tabloları eski ofis sistemlerinde kullanmak için dönüştürme
+* Verileri eski elektronik tablo ortamları arasında paylaşma
+* Tarihsel veri formatlarıyla uyumluluğu koruma
+* Yapılandırılmış belgeleri arşivleme amaçlarıyla dönüştürme
+* Metin tabanlı raporları elektronik tablo uyumlu dosyalara dışa aktarma
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+* Geriye dönük uyumluluk için Otomatik ODT'den SXC'ye toplu dönüşüm
+* Eski yazılım desteği iş akışlarıyla entegrasyon
+* Belge ve elektronik tablo sistemleri arasında veri göçü
+* Eski OpenOffice sürümleri için arşiv belge işleme
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,30 @@ otherformats: XLAM XLTX SXC DIF MD TXT XLTM FODS XLSB ODS EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为XLAM**可将**打印机命令语言**输出转换为**Excel加载项（.XLAM）**文件，实现自动化、宏和扩展的电子表格功能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从打印生成的数据模板创建Excel加载项
+* 将自动化逻辑嵌入电子表格工作流程
+* 将PCL报告转换为可重复使用的Excel自动化工具
+* 扩展打印的数字或表格内容的功能
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从定期的PCL输出自动生成XLAM文件
+* 与企业报告和分析管道集成
+* 批量创建用于重复业务任务的Excel加载项
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

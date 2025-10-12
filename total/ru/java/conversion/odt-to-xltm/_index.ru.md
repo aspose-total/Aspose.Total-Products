@@ -61,7 +61,27 @@ otherformats: XLT XLSX FODS XLSM XLTX DIF XLS ODS EXCEL XLTM TSV SXC XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в XLTM** экспортирует содержимое документов OpenDocument Text в **макро-включенные шаблоны Excel**, объединяя автоматизацию и согласованность дизайна в едином рабочем процессе.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание макро-управляемых шаблонов Excel из документов
+* Автоматизация генерации отчетов с использованием готовых шаблонов
+* Оптимизация повторяющихся рабочих процессов от документов к таблицам
+* Поддержка автоматизированных настроек Excel на корпоративном уровне
+* Поддержание стандартизированных, автоматизированных структур таблиц
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Плановое преобразование ODT в XLTM для циклов отчетности
+* Массовая генерация макро-шаблонов из текстовых входных данных
+* Интеграция с рабочими процессами автоматизации Excel VBA
+* Динамический экспорт документов в шаблоны в корпоративных системах
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

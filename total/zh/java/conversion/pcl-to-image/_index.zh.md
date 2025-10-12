@@ -57,7 +57,33 @@ otherformats: EMZ  SVGZ PSD JPEG2000 WMF WMZ IMAGE DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为图像** 会从打印机命令语言文档生成 **光栅图像输出** (PNG、JPEG、TIFF 等)，使打印就绪文件可视化并可共享为标准图像。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将 PCL 打印作业可视化为图像
+* 将打印输出嵌入文档或报告中
+* 在基于图像的存储库中存档 PCL 文件
+* 用于跨平台可访问性的图像打印工作流程
+* 在非 PCL 设备之间共享打印布局
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在打印处理系统中自动化 PCL 到图像的转换
+* 为文档预览批量生成图像
+* 与云打印监控或文档管理系统解决方案集成
+* 用于企业打印数据的基于图像的归档
+* 用于质量保证和验证的实时打印作业可视化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,30 @@ Konwertując plik PCL na XLTX, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konwersja PCL na XLTX** przekształca dokumenty w języku **Printer Command Language (PCL)** w pliki **Excel Template (XLTX)**, umożliwiając zachowanie spójnego formatowania i ponowne wykorzystanie w przyszłych arkuszach kalkulacyjnych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie układów druku na wielokrotnie używane szablony Excela
+* Ułatwianie tworzenia raportów za pomocą predefiniowanych stylów
+* Zachowanie spójności dokumentów między działami
+* Automatyzacja tworzenia szablonów do standaryzowanych raportów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyzacja oparta na szablonach do raportowania biznesowego
+* Konwertowanie okresowych raportów drukowanych na standaryzowane szablony
+* Tworzenie automatycznie projektów gotowych do użycia w Excelu z wyjścia PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

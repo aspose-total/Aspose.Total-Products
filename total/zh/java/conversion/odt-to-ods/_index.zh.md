@@ -61,7 +61,27 @@ otherformats: XLS FODS XLAM XLT XLSM EXCEL XLSB XLSX SXC XLTX TSV DIF XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 ODS** 可将文档数据转换为 **OpenDocument 电子表格**，非常适合在电子表格软件中分析表格、计算和结构化文本。
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 从 ODT 文档中提取表格内容到电子表格
+* 管理嵌入在报告中的数值数据
+* 将结构化文本转换为分析型电子表格形式
+* 为业务或财务分析准备数据集
+* 从格式化文档创建可编辑的电子表格
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 用于企业报告的自动化 ODT 到 ODS 转换
+* 与数据分析和会计工作流程集成
+* 批量处理基于文档的数据以生成电子表格
+* 动态报告到电子表格的转换
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

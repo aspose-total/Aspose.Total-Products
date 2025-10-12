@@ -61,7 +61,27 @@ Po przekonwertowaniu ODT na DIF [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konwersja **ODT do DIF** przekształca treści oparte na tekście w pliki formatu **Data Interchange Format (DIF)**, umożliwiając wymianę strukturalnych danych między dokumentami a arkuszami kalkulacyjnymi.
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Eksportowanie informacji tabelarycznych z dokumentów do systemów danych
+* Integracja raportów opartych na tekście z oprogramowaniem arkuszowym
+* Przygotowywanie zbiorów danych do importu do narzędzi analitycznych
+* Udostępnianie strukturalnych danych dokumentów między aplikacjami
+* Konwertowanie tabel dokumentów do migracji lub przetwarzania danych
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+* Automatyczny eksport ODT do DIF dla przepływów pracy danych w przedsiębiorstwie
+* Integracja z potokami ETL i narzędziami raportowania
+* Konwersja wsadowa raportów na formaty wymiany danych
+* Konwersja dokumentu na zbiór danych dla platform analitycznych i BI
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

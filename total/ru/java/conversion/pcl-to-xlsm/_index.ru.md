@@ -47,7 +47,30 @@ otherformats: EXCEL MD XLSM ODS XLTX XLTM TSV XLT XLAM FODS DIF TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование **PCL в XLSM** превращает документы на бумаге в **рабочие книги Excel с поддержкой макросов**, обеспечивая автоматизацию и обработку данных в среде Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Автоматизация повторяющихся задач по данным, извлеченным из файлов PCL
+* Встраивание макросов для генерации отчетов или проверки
+* Улучшение рабочих процессов с помощью сценариев Excel
+* Интеграция печатных данных с системами автоматизации на основе Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Генерация макро-отчетов по финансам или аналитике
+* Автообновление панелей инструментов Excel из источников печати PCL
+* Динамические конвейеры преобразования для обработки печатных данных в данные
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

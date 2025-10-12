@@ -102,7 +102,30 @@ otherformats: SXC XLS EXCEL XLSM XLT DIF CSV XLSX ODS XLTX FODS TSV XLSB XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертація **OTT в XLTM** перетворює **Шаблони тексту OpenDocument (.OTT)** у **Шаблон Excel з підтримкою макросів (.XLTM)** для повторного використання таблиць з автоматизацією.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Розробка шаблонів таблиць з макросами з файлів OTT
+* Автоматизація повторюваних процесів обробки даних за допомогою робочих зошитів на основі шаблонів
+* Створення повторно використовуваних шаблонів Excel для звітності та аналітики
+* Стандартизація робочих процесів за допомогою макросами підтримуваних основ таблиць
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Запланована конвертація OTT в XLTM для корпоративної звітності
+* Інтеграція з автоматизацією робочих процесів та генерацією таблиць
+* Пакетне створення шаблонів Excel з макросами з шаблонів документів
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

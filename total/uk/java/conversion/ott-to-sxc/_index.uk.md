@@ -102,7 +102,33 @@ otherformats: FODS EXCEL XLS CSV XLTX XLSM ODS XLAM XLT XLTM XLSX TSV DIF XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення **OTT у SXC** перетворює шаблони тексту OpenDocument у файли **StarOffice Calc Spreadsheet**, що дозволяє використовувати вміст шаблону в програмах для електронних таблиць, таких як OpenOffice Calc або LibreOffice Calc.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+* Перетворення текстових шаблонів у таблиці електронних таблиць
+* Архівування даних шаблону у форматі електронної таблиці
+* Підготовка звітів або розрахунків, отриманих з вмісту шаблону
+* Колаборативне редагування електронних таблиць на основі шаблону
+* Обмін структурованою інформацією шаблону між платформами
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизоване перетворення OTT у SXC для пакетної обробки
+* Інтеграція з робочими процесами електронних таблиць та системами звітності
+* Генерація редагованих електронних таблиць з декількох шаблонів
+* Централізоване сховище для даних електронних таблиць, походящих від шаблонів
+* Динамічний вилучення табличного вмісту для аналізу та розрахунків
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

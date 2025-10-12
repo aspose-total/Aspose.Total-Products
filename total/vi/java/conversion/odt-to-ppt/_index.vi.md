@@ -54,7 +54,27 @@ API cũng cho phép bạn chuyển đổi các tài liệu ODT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Chuyển đổi **ODT sang PPT** cung cấp một cách đơn giản để biến đổi **các tệp văn bản OpenDocument thành các bài thuyết trình PowerPoint cổ điển**, duy trì cấu trúc văn bản và bố cục để sử dụng ngay.
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển nội dung văn bản thành các slide trình bày có thể chỉnh sửa
+* Chuẩn bị các bộ slide định dạng PowerPoint cũ từ các tệp kiểu Word
+* Chia sẻ báo cáo hoặc đề xuất trong định dạng PPT cũ
+* Trình bày các bài thuyết trình tương thích với PowerPoint cho các hệ thống cũ
+* Tạo tài liệu họp hoặc đào tạo từ các tài liệu ODT
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+* Chuyển đổi tự động tài liệu ODT sang định dạng PPT
+* Xuất hàng loạt để tương thích với các hệ thống PowerPoint cũ
+* Tích hợp vào các công cụ tạo bài thuyết trình doanh nghiệp
+* Tạo ra các slide có thể chỉnh sửa một cách động từ dữ liệu kiểu Word
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

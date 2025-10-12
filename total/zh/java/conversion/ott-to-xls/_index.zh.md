@@ -61,7 +61,33 @@ otherformats: EXCEL DIF XLAM SXC XLT XLSM ODS XLTX XLTM XLS TSV XLSX XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为XLS**将OpenDocument文本模板转换为**Excel 97-2003工作簿格式**，实现向后兼容的电子表格使用和报告生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 生成与旧版兼容的Excel报告
+* 将模板内容迁移至旧版电子表格环境
+* 为分析准备来自模板的结构化数据
+* 将内容存档为广泛支持的格式
+* 支持邮件合并或电子表格驱动的通信
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 自动批量OTT转换为XLS
+* 与旧版企业系统集成
+* 从多个模板生成电子表格管道
+* 基于模板的报告工作流程
+* 以XLS格式存档历史数据
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

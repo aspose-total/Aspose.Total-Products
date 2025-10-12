@@ -54,7 +54,33 @@ Interfejs API umożliwia również konwersję dokumentów OTT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie **OTT na POTM** generuje pliki szablonów PowerPoint z obsługą makr, umożliwiając automatyzację opartą na szablonach w prezentacjach za pomocą makr pochodzących z treści szablonu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie szablonów prezentacji obsługujących makra
+* Automatyzacja powtarzalnych zadań tworzenia slajdów
+* Standaryzacja prac z makrami szablonów
+* Integracja logiczna oparta na szablonach w prezentacjach
+* Automatyzacja wspólnego tworzenia slajdów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja zbiorcza OTT na POTM dla bibliotek szablonów obsługujących makra
+* Automatyzacja tworzenia slajdów na poziomie przedsiębiorstwa
+* Integracja z narzędziami do zarządzania pracą z prezentacjami
+* Dynamiczne generowanie makr na podstawie treści szablonu
+* Potoki automatyzacji PowerPoint oparte na szablonach
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

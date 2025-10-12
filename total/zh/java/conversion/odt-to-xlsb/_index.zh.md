@@ -61,7 +61,27 @@ otherformats: XLSB TSV XLS EXCEL DIF XLSX FODS SXC XLT XLAM ODS XLSM XLTX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+将 **ODT 转换为 XLSB** 将基于文档的数据转换为 **二进制 Excel 格式**，优化存储和速度，适用于大规模电子表格操作。
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 处理从文本文档中提取的大型数据集
+* 加快 Excel 文件的加载和处理时间
+* 为企业数据交换准备二进制电子表格
+* 高效保留数字和文本数据
+* 支持业务智能和报告自动化
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+* 用于快速数据处理的自动化 ODT 到 XLSB 批量转换
+* 集成到基于 Excel 的分析系统中
+* 用于后端处理的实时文档到二进制导出
+* 在数据仓库或财务报告中进行大规模自动化
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

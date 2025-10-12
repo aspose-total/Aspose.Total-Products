@@ -54,7 +54,33 @@ Interfejs API umożliwia również konwersję dokumentów OTT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na POT** przekształca szablony tekstu OpenDocument Text w pliki **szablonów programu PowerPoint**, umożliwiając tworzenie wielokrotnie używanych układów slajdów z treści szablonów tekstowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Generowanie wielokrotnie używanych szablonów PowerPoint z treści tekstowej
+* Standaryzacja formatów prezentacji korporacyjnych
+* Archiwizowanie projektów slajdów opartych na szablonach
+* Ułatwianie wspólnej twórczości slajdów
+* Przygotowywanie prezentacji szkoleniowych lub marketingowych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja OTT na POT dla bibliotek szablonów przedsiębiorstw
+* Tworzenie zbiorcze szablonów prezentacji z wielu plików OTT
+* Integracja z procesami zarządzania prezentacjami
+* Dynamiczne wstawianie treści szablonu do prezentacji
+* Standaryzacja szablonów slajdów na poziomie przedsiębiorstwa
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

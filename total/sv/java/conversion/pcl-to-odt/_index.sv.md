@@ -129,7 +129,28 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Konvertera **PCL till ODT** konverterar utdata från **Printer Command Language** till **OpenDocument Text (.ODT)**-format för redigerbar ordbehandling i **LibreOffice Writer** eller andra ODF-redigerare.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+* Återskapa utskriftsrapporter som redigerbara dokument
+* Förbereda texttunga PCL-utskrifter för publicering eller samarbete
+* Konvertera PCL-baserade mallar till redigerbara ODT-filer
+* Bibehålla dokumentkonsistens över öppen källkods-system
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+* Automatisk generering av ODT-dokument från utskriftsuppgifter
+* Integration med dokumenthanterings- och redigeringssystem
+* Batchkonvertering av arkiverade PCL-dokument till öppna textformat
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

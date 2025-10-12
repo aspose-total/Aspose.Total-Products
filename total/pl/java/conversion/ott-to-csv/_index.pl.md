@@ -61,7 +61,33 @@ Po przekonwertowaniu OTT na CSV [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja **OTT na CSV** przekształca pliki **OpenDocument Text Template** na **wartości rozdzielone przecinkami**, umożliwiając dostęp do danych szablonu w arkuszach kalkulacyjnych, analizach i importowaniu do bazy danych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Wyodrębnianie strukturalnych danych szablonu do raportowania
+* Importowanie treści szablonu do arkuszy kalkulacyjnych lub baz danych
+* Przygotowywanie korespondencji opartej na danych lub łączenie korespondencji
+* Udostępnianie danych tekstowych w uniwersalnym formacie do odczytu
+* Archiwizowanie treści szablonu w celach analitycznych
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Partiowa konwersja plików OTT na CSV dla dużych bibliotek szablonów
+* Integracja z systemami ERP lub CRM dla zautomatyzowanego wykorzystania danych
+* Automatyzacja generowania raportów na podstawie zestawów danych opartych na szablonach
+* Potoki pracy dla analiz i przetwarzania danych
+* Centralne wyodrębnianie treści tekstowych z wielu szablonów
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

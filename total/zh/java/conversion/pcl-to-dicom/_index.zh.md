@@ -57,7 +57,30 @@ otherformats: DICOM DXF WMF TGA IMAGE WMZ PSD JPEG2000 EMZ SVGZ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**PCL转换为DICOM**可将**打印机命令语言**输出转换为**医学数字成像和通信标准(DICOM)**文件。这对需要在成像系统中存档或可视化基于打印的诊断数据的医疗环境特别有用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将打印的诊断报告转换为DICOM图像格式
+* 将扫描的打印数据嵌入医学成像档案
+* 将基于PCL的医疗文档集成到PACS系统中
+* 为医疗合规性标准化医疗记录格式
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 自动将打印的医疗报告转换为DICOM以用于医院记录
+* 将打印转换为DICOM的过程集成到医疗工作流程中
+* 批量转换PCL存档以用于医学图像存储系统
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

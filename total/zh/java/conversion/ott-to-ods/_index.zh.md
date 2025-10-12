@@ -61,7 +61,33 @@ otherformats: XLTX XLT XLS SXC XLTM XLSX XLSB XLAM TSV EXCEL XLSM ODS DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将**OTT转换为ODS**允许将OpenDocument文本模板表示为**OpenDocument电子表格文件**，实现结构化数据使用、分析和跨平台电子表格编辑。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将模板表转换为可编辑的电子表格
+* 在开放格式中存档数据驱动的模板
+* 从模板内容准备报告和分析
+* 协作编辑基于模板的电子表格
+* 在各个平台共享结构化模板信息
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业工作流程的自动化OTT到ODS转换
+* 批量将模板表导出为电子表格
+* 与报告和分析流水线集成
+* 从模板库动态生成电子表格
+* 集中管理基于模板的电子表格数据
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

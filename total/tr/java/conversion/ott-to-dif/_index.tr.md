@@ -61,7 +61,33 @@ OTT'yi DIF'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT'yi DIF'ye dönüştürmek**, Yapılandırılmış verilerin şablonlardan elektronik tablolara ve veritabanlarına analiz için aktarılmasını sağlayan **Data Interchange Format dosyalarına** OpenDocument Metin Şablonlarını dönüştürür.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Veri analizi için şablon tablolarının çıkarılması
+* Şablon içeriğinin eski elektronik tablo uygulamaları için hazırlanması
+* Şablon verilerinin basit, standart bir formatta paylaşılması
+* Raporlama için yapılandırılmış bilgilerin arşivlenmesi
+* İş zekası iş akışlarına şablon verilerinin entegre edilmesi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Kurumsal raporlama için toplu OTT'den DIF'ye dönüşüm
+* Veritabanı içe aktarma ve analiz akışlarıyla entegrasyon
+* Birden fazla şablondan tablo verilerinin otomatik çıkarılması
+* Tarihsel veya eski veri kümeleri için akıllı işleme
+* Çapraz sistem kullanımı için merkezi DIF arşivi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

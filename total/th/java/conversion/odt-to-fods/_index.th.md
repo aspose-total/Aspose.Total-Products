@@ -61,7 +61,27 @@ otherformats: TSV XLSM XLSB XLSX ODS XLT XLTX FODS SXC XLS XLTM EXCEL DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น FODS** ช่วยให้เอกสารข้อความสามารถแปลงเป็น **ไฟล์สเปรดชีต XML แบบแบน**, รักษาข้อมูลโครงสร้างในรูปแบบที่เปิดเป็นไฟล์ที่สามารถแยกวิเคราะห์ได้อย่างง่าย
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การแปลงตารางข้อความเป็นไฟล์สเปรดชีตโครงสร้าง
+* เตรียมข้อมูลที่เกี่ยวข้องกับเอกสารสำหรับระบบที่ใช้ XML
+* เก็บถาวรรายงานในรูปแบบไฟล์สเปรดชีตที่เปิด
+* สะดวกในการใช้ร่วมกันระหว่างโปรแกรมประมวลผลคำและสเปรดชีต
+* แบ่งปันเอกสารที่มีข้อมูลมากในรูปแบบไฟล์ FODS ที่เบา
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+* การแปลง ODT เป็น FODS โดยอัตโนมัติในขั้นตอนการประมวลผลข้อมูล
+* การรวมเข้ากับระบบจัดการเอกสารเปิด
+* การแปลงข้อมูลที่เป็นข้อความเป็นรูปแบบที่เหมาะสมกับสเปรดชีตเป็นชุด
+* การส่งออกข้อมูลที่ใช้ XML สำหรับรายงานของรัฐหรือองค์กร
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

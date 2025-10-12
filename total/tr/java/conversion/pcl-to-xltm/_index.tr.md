@@ -47,7 +47,30 @@ PCL dosyasını XLTM'ye dönüştürürken, çıktı XLTM dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi XLTM'ye dönüştürmek**, basılı belgelerden **makro etkin Excel şablonları** oluşturmayı sağlar, düzen korumasını bir araya getirerek otomasyon mantığını gömmek mümkün olur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Basılı düzenlerden makro etkin Excel şablonları tasarımı
+* Rapor şablonlarına tekrar kullanılabilir otomasyon gömmek
+* Dinamik şablon tabanlı belge oluşturmaya olanak tanımak
+* Akıllı elektronik tablo oluşturmayı standartlaştırmak
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Rutin PCL raporlarından akıllı şablonlar oluşturma
+* Makro mantığıyla Excel rapor üretimini otomatikleştirme
+* Basılı verilerin yeniden kullanılabilir iş şablonlarına toplu dönüşümü
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

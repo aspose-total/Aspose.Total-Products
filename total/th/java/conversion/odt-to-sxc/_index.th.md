@@ -61,7 +61,27 @@ otherformats: XLSB XLSM XLSX TSV EXCEL ODS FODS DIF XLT XLAM SXC XLTX XLTM XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+การแปลง **ODT เป็น SXC** ช่วยให้ **เข้ากันได้กับรูปแบบสเปรดชีตของ StarOffice เวอร์ชันเก่าและ OpenOffice เวอร์ชันแรกๆ** โดยรักษาความสมบูรณ์ของตารางและข้อมูลโครงสร้าง
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงตารางที่อยู่ในเอกสารสำหรับการใช้ในระบบสำนักงานเวอร์ชันเก่า
+* แบ่งปันข้อมูลในระบบสเปรดชีตเวอร์ชันเก่า
+* รักษาความเข้ากันได้กับรูปแบบข้อมูลที่เก่า
+* การแปลงเอกสารโครงสร้างเพื่อวัตถุประสงค์การเก็บถาวร
+* ส่งออกรายงานที่เป็นข้อความเป็นไฟล์ที่เข้ากันได้กับสเปรดชีต
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+* การแปลงจำนวนมากของ ODT เป็น SXC อัตโนมัติสำหรับความเข้ากันได้ย้อนหลัง
+* การรวมระบบการสนับสนุนซอฟต์แวร์เวอร์ชันเก่า
+* การย้ายข้อมูลระหว่างระบบเอกสารและสเปรดชีต
+* การประมวลผลเอกสารเพื่อการเก็บถาวรสำหรับเวอร์ชัน OpenOffice เก่า
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

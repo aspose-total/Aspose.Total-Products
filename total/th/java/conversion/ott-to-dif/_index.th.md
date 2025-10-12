@@ -61,7 +61,33 @@ otherformats: XLTM XLSB XLAM XLSX ODS XLTX FODS XLT SXC XLS DIF EXCEL TSV XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## การแปลง **OTT เป็น DIF** จะแปลงเทมเพลตข้อความ OpenDocument เป็นไฟล์ **Data Interchange Format** ทำให้ข้อมูลโครงสร้างจากเทมเพลตสามารถนำเข้าสู่สเปรดชีตและฐานข้อมูลสำหรับการวิเคราะห์
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การสกัดตารางเทมเพลตสำหรับการวิเคราะห์ข้อมูล
+* เตรียมเนื้อหาเทมเพลตสำหรับแอปพลิเคชันสเปรดชีตเก่า
+* แบ่งปันข้อมูลเทมเพลตในรูปแบบที่เรียบง่ายและมาตรฐาน
+* เก็บข้อมูลโครงสร้างสำหรับรายงาน
+* การรวมข้อมูลจากเทมเพลตเข้าสู่กระบวนการทำงานด้านธุรกิจ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง OTT เป็น DIF จำนวนมากสำหรับการรายงานขององค์กร
+* การผสานรวมกับการนำเข้าฐานข้อมูลและกระบวนการวิเคราะห์
+* การสกัดข้อมูลตารางจากเทมเพลตหลายรูปแบบโดยอัตโนมัติ
+* การประมวลผลอย่างราบรื่นสำหรับชุดข้อมูลประวัติหรือเก่า
+* การเก็บข้อมูล DIF ในที่เดียวสำหรับการใช้งานระหว่างระบบ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

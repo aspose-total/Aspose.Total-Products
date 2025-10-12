@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL'yi PPTM'ye** dönüştürmek, **Yazıcı Komut Dili** belgelerini **PowerPoint Makro Etkin Sunum (.PPTM)** formatına dönüştürerek dönüştürülen slaytlar içinde otomasyon sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Makroların PCL tabanlı PowerPoint sunumlarına gömülmesi
+* İş slayt desteklerinde otomatik iş akışlarının etkinleştirilmesi
+* Baskıya hazır şablonların makro etkin sunumlara dönüştürülmesi
+* PCL içeriğinden etkileşimli veya veri odaklı slaytlar oluşturulması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Raporlama ve analiz için PPTM dosyalarının otomatik oluşturulması
+* Kurumsal sistemlere makro etkin sunum oluşturma entegrasyonu
+* Baskı dosyalarından etkileşimli sunum oluşturmanın kolaylaştırılması
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

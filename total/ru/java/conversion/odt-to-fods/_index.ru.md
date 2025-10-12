@@ -61,7 +61,27 @@ otherformats: TSV XLSM XLSB XLSX ODS XLT XLTX FODS SXC XLS XLTM EXCEL DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в FODS** позволяет преобразовать текстовые документы в **плоские XML-файлы электронных таблиц**, сохраняя структурированные данные в открытом, легко разбираемом формате.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование текстовых таблиц в структурированные файлы электронных таблиц
+* Подготовка данных на основе документов для систем на основе XML
+* Архивирование отчетов в открытом формате электронных таблиц
+* Облегчение взаимодействия между текстовыми процессорами и электронными таблицами
+* Обмен данными-богатыми документами в виде легких файлов FODS
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Автоматизированное преобразование ODT в FODS в рабочих процессах обработки данных
+* Интеграция в системы управления открытыми документами
+* Пакетное преобразование данных на основе текста в совместимые с электронными таблицами форматы
+* Экспорт данных на основе XML для государственной или корпоративной отчетности
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

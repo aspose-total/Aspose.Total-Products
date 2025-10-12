@@ -61,7 +61,27 @@ otherformats: XLS FODS XLAM XLT XLSM EXCEL XLSB XLSX SXC XLTX TSV DIF XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Преобразование **ODT в ODS** преобразует данные документа в **таблицы OpenDocument**, идеальные для анализа таблиц, расчетов и структурированного текста в программном обеспечении для таблиц.
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение табличного содержимого из документов ODT в таблицы
+* Управление числовыми данными, встроенными в отчеты
+* Преобразование структурированного текста в аналитическую форму таблицы
+* Подготовка наборов данных для бизнес- или финансового анализа
+* Создание редактируемых таблиц из форматированных документов
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+* Автоматизированное преобразование ODT в ODS для корпоративных отчетов
+* Интеграция с аналитикой данных и бухгалтерскими рабочими процессами
+* Пакетная обработка данных на основе документов для таблиц
+* Динамическое преобразование отчетов в таблицы
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

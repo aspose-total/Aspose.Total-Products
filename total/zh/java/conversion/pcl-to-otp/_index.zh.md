@@ -121,7 +121,30 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 **PCL 转换为 OTP** 将 **打印机命令语言** 文件转换为 **OpenDocument Presentation Template (.OTP)** 格式，用于创建可重复使用的幻灯片模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 PCL 布局设计演示文稿模板
+* 为业务使用创建品牌幻灯片模板
+* 将打印的公司视觉资料转换为可编辑的 OTP 模板
+* 在部门间简化设计重用
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从标准打印材料自动创建模板
+* 与演示文稿构建工作流程集成
+* 从公司打印文档生成可重复使用的幻灯片母版
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
