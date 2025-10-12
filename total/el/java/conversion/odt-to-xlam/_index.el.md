@@ -61,7 +61,27 @@ otherformats: DIF XLSM XLSX EXCEL SXC TSV FODS XLAM ODS XLSB XLTM XLT XLS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε XLAM** επιτρέπει τη μετατροπή περιεχομένου εγγράφου σε **πρόσθετα Excel με δυνατότητες μακροενεργοποίησης**, ιδανικά για την αυτοματοποίηση εργασιών φύλλου εργασίας που προέρχονται από δομημένα δεδομένα κειμένου.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία προσθέτων Excel από δομημένα πρότυπα στυλ Word
+* Αυτοματοποίηση ροών εργασίας Excel με βάση τη λογική εγγράφου
+* Ενσωμάτωση τύπων ή μακροεντολών βασισμένων σε κειμενικούς ορισμούς
+* Δημιουργία επαναχρησιμοποιήσιμων εργαλείων μακροενεργοποίησης από αρχεία ODT
+* Ενίσχυση της παραγωγικότητας συνδέοντας δεδομένα Word με την αυτοματοποίηση Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+* Αυτόματη δημιουργία πρόσθετου μακροενεργοποίησης ODT σε XLAM
+* Ενσωμάτωση με επιχειρησιακά συστήματα αυτοματοποίησης Excel
+* Δημιουργία πακέτων με εργαλεία με δυνατότητες μακροενεργοποίησης από δομημένο περιεχόμενο ODT
+* Βελτίωση της ανάπτυξης μακροεργαλείων από έγγραφο σε Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

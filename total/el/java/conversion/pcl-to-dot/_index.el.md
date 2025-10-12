@@ -130,7 +130,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Μετατροπή από PCL σε DOT** επιτρέπει τη μετατροπή τυπωμένων προτύπων και αναφορών από αρχεία **Printer Command Language** σε έγγραφα **Microsoft Word Template (.DOT)** για συνεπή μορφοποίηση και επαναχρησιμοποίηση.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία προτύπων Word από αναφορές ή διατάξεις βασισμένες σε PCL
+* Τυποποίηση της εμφάνισης εγγράφων σε όλα τα τμήματα
+* Δημιουργία επαναχρησιμοποιήσιμων φορμών και προτύπων αναφορών από αρχεία εκτύπωσης
+* Βελτίωση των διαδικασιών προετοιμασίας εγγράφων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτοματοποιημένη δημιουργία εταιρικών προτύπων από τυπωμένες αναφορές
+* Ροές εργασίας εγγράφων βασισμένες σε πρότυπα προτύπων
+* Μετατροπή τυπικών αναφορών PCL σε έτοιμα πρότυπα DOT για χρήση
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,30 @@ Při převodu souboru PCL na FODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konverze PCL na FODS** transformuje tiskem generovaná data do formátu **Flat OpenDocument Spreadsheet (FODS)**, poskytující upravitelné, na XML založené tabulky kompatibilní s LibreOffice a OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna tiskových zpráv nebo faktur na upravitelná tabulková data
+* Zajištění kompatibility tabulek napříč platformami
+* Integrování tabulkových dat založených na PCL do nástrojů kancelářských balíků s otevřeným zdrojovým kódem
+* Archivace strukturovaných tiskových dat jako XML tabulek
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná konverze tištěných finančních nebo inventárních zpráv do formátu FODS
+* Integrace do potrubí pro otevřené zprávy
+* Transformace tiskových dat ve velkém měřítku pro analytiku a záznamy
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

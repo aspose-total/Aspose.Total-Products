@@ -102,7 +102,33 @@ otherformats: FODS EXCEL XLS CSV XLTX XLSM ODS XLAM XLT XLTM XLSX TSV DIF XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-SXC** ממירה תבניות טקסט של OpenDocument לקבצי גליון ב-**StarOffice Calc**, מאפשרת לתוכן התבנית לשמש ביישומי גליון כמו OpenOffice Calc או LibreOffice Calc.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת תבניות טקסטואליות לטבלאות גליון
+* ארכיבת נתוני תבנית בפורמט של גליון
+* הכנת דוחות או חישובים המפורטים מתוך תוכן התבנית
+* עריכה שיתופית של גליונות גליון המבוססים על תבנית
+* שיתוף מידע מובנה בתבנית בין פלטפורמות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-SXC באופן אוטומטי לצורך עיבוד בצורת סדרה
+* שילוב עם זרימות עבודה של גליונות גליון ומערכות דיווח
+* יצירת גליונות גליון שניתן לעריכה מתוך מספר תבניות
+* מאגר מרכזי לנתוני גליון המקוריים מתוך תבנית
+* חילוץ תוכן טבלאי דינמי לצורך ניתוחים וחישובים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

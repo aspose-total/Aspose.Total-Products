@@ -61,7 +61,27 @@ otherformats: SXC XLS XLTM TSV XLT XLSB XLTX ODS DIF FODS XLSX XLAM XLSM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε EXCEL** επιτρέπει τη μετατροπή δεδομένων από αρχεία OpenDocument Text σε φύλλα εργασίας **Microsoft Excel**, κάνοντας ευκολότερη την ανάλυση, οπτικοποίηση και οργάνωση πληροφοριών.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή πινάκων από αρχεία ODT σε Excel για επεξεργασία
+* Προετοιμασία δεδομένων εγγράφου για προηγμένους υπολογισμούς
+* Ενσωμάτωση κειμενικών δεδομένων σε πίνακες ελέγχου που τροφοδοτούνται από Excel
+* Αναδιαμόρφωση κειμενικών δεδομένων για αναφορές ή γραφικές παραστάσεις
+* Βελτίωση της διαλειτουργικότητας μεταξύ ODT και εργαλείων του Microsoft Office
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτοματοποιημένη μετατροπή για μεικτά ροές εγγράφων και φύλλων εργασίας
+* Επεξεργασία ODT σε Excel σε ροές αναφορών ή αναλυτικών διαδικασιών
+* Προγραμματισμένες μετατροπές εγγράφων για επιχειρησιακά συστήματα δεδομένων
+* Πολυμορφική εξαγωγή για αποθετήρια εγγράφων ή εργαλεία στο cloud
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,33 @@ otherformats: FODS EXCEL XLSM XLSX TSV DIF XLT XLAM XLTM SXC ODS XLS CSV XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-XLSB** יוצרת קבצי **Excel Binary Workbook**, שמאפשרים טעינה מהירה יותר, גודל קובץ קטן יותר, וביצועים משופרים עבור תבניות גיליון האלקטרוני המקורפות מתבניות של מסמך טקסט של OpenDocument.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* אופטימיזציה של גיליונות אלקטרוניים מתבניות גדולות
+* שיפור בביצועים עבור מודלים מורכבים ב-Excel
+* ארכיבת נתוני תבניות בפורמט בינארי
+* חלוקה יעילה של תוכן תבנית ב-Excel
+* תמיכה באוטומציה של גיליונות אלקטרוניים וניתוחים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-XLSB בצורה רציפה לזרימות עבודה ביצועיות גבוהה
+* שילוב עם צינורות עיבוד אוטומטיים של Excel
+* ארכיון בינארי מרכזי של גיליונות אלקטרוניים מתבניות
+* עיבוד מראש של תבניות לניתוחי Excel בגדלים גדולים
+* אוטומציה של גיליונות אלקטרוניים בהתבסס על תבניות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

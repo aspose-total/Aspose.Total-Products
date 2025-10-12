@@ -61,7 +61,25 @@ ODTをXLSMに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+**ODTをXLSMに変換**することで、文書データを**マクロ有効なExcelファイル**にエクスポートし、自動化および高度なスプレッドシート操作をサポートします。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* VBAパワードExcelシートでのODTテーブルのエクスポート
+* 文書データからのマクロベースの自動化の有効化
+* エクスポートファイルへの数式やカスタムスクリプトの埋め込み
+* テキスト入力に基づくインタラクティブレポートの作成
+* 文書データをExcelによる自動化ワークフローにリンクさせる
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+* ドキュメントからマクロExcelへの自動変換
+* ODTエクスポートの高度なExcel自動化システムへの統合
+* 動的なビジネスレポートのためのバッチXLSM生成
+* テキストコンテンツをスプレッドシート駆動のタスク自動化に接続
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -100,7 +100,33 @@ otherformats: PPTX PPTM PPS POTM POTX PPSX POWERPOINT POT PPT PPSM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-ODP** מעבירה תבניות טקסט של OpenDocument לקבצי מצגת של **OpenDocument**, מאפשרת שימוש חוזר בתוכן תבניות דוא"ל למצגות ולהצגות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת תבניות טקסטואליות לשקפים במצגת
+* ארכיבה של תבניות כתוכן עריכה במצגת
+* שימוש מחודש בתוכן למצגות אימון או שיווק
+* יצירה שיתופית של מצגות מנתוני תבנית
+* שמירה על זהות חזותית עקבית במצגות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-ODP באופן אוטומטי לעיבוד צפיפות
+* שילוב עם זרימות עבודה לניהול מצגות
+* יצירת שקפים מספריות תבניות לאימון
+* הכנסת תוכן תבנית דינמי למצגות
+* אוטומציה של תבנית-למצגת ברמה ארגונית
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

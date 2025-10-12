@@ -121,7 +121,30 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertire **PCL in PPTM** cambia i documenti **Printer Command Language** nel formato **PowerPoint Macro-Enabled Presentation (.PPTM)**, consentendo l'automazione all'interno delle diapositive convertite.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Incorporare macro nelle presentazioni PowerPoint basate su PCL
+* Abilitare flussi di lavoro automatizzati all'interno delle presentazioni aziendali
+* Convertire modelli pronti per la stampa in presentazioni abilitate per le macro
+* Creare diapositive interattive o basate su dati dal contenuto PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Generare automaticamente file PPTM per report e analisi
+* Integrare la generazione di presentazioni abilitate per le macro nei sistemi aziendali
+* Ottimizzare la creazione di presentazioni interattive da file di stampa
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

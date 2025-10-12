@@ -105,7 +105,30 @@ otherformats: SVGZ WMF APNG WMZ EMZ TGA JPEG2000 DXF  IMAGE DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## המרת **PCL** ל-**PSD** ממירה קבצי **שפת פקודות המדפסת** לתבנית **מסמך פוטושופ של אדובי (.PSD)**, מאפשרת עריכת חומרים מודפסים בצורת תמונה בשכבות לצורך עיצוב גרפי ושיפור.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* עריכת עיצובי הדפס PCL ב-Adobe Photoshop
+* חילוץ אלמנטים חזותיים מתצורות PCL לשימוש בעיצוב גרפי
+* עיבוד והתאמה אישית של אמנות מודפסת בפורמט בשכבות
+* יצירת חומרי חזות לשיווק או נכסים יצירתיים ממסמכים מודפסים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה רציפה של קבצי PCL ל-PSD לצורך זרימות עבודה בעיצוב
+* שילוב עם כלים לאוטומציה יצירתיים למעבר מהדפסה לדיגיטל
+* צינורות המרה אוטומטיים ליצירת תוכן למיתוג או פרסום
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

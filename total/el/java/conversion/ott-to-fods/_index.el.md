@@ -61,7 +61,33 @@ otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC FODS XLTM XLAM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε FODS** μετατρέπει τα πρότυπα κειμένου OpenDocument σε **Flat XML Spreadsheet μορφή**, επιτρέποντας επεξεργάσιμο περιεχόμενο υπολογιστικού φύλλου σε μια απλή, φορητή δομή XML.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Διαμοιρασμός επεξεργάσιμου περιεχομένου υπολογιστικού φύλλου από πρότυπα
+* Αρχειοθέτηση δεδομένων σε φορητή μορφή βασισμένη σε XML
+* Ενσωμάτωση δεδομένων προτύπου με εφαρμογές υπολογιστικών φύλλων ανοικτού κώδικα
+* Ανάλυση πίνακα περιεχομένου χωρίς προγράμματα προικισμένα με πνευματικά δικαιώματα
+* Ελαφριά ανταλλαγή δομημένων πληροφοριών προτύπου
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή OTT σε FODS για ροές εργασιών υπολογιστικών φύλλων
+* Παρτίδες επεξεργασίας προτύπων σε φορητά XML υπολογιστικά φύλλα
+* Ενσωμάτωση με εργαλεία ανάλυσης και αναφοράς ανοικτού κώδικα
+* Ροή εργασιών από πρότυπο σε υπολογιστικό φύλλο
+* Κεντρικό αρχείο βασισμένο σε XML για επαναχρησιμοποιήσιμα δεδομένα προτύπου
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

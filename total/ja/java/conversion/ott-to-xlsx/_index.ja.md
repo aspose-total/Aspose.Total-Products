@@ -61,7 +61,30 @@ OTTをXLSXに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをXLSXに変換**は、**OpenDocument Text Templates (.OTT)** を編集可能でモダンなスプレッドシート機能を持つ**Excel Open XML Workbook (.XLSX)** に変換します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* ドキュメントテンプレートを構造化されたスプレッドシートに変換する
+* OTTテンプレートから抽出されたデータを分析および操作する
+* ビジネスや教育目的のためのレポートや表を準備する
+* チーム間で編集可能なスプレッドシートを共有する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* OTTテンプレートをXLSXファイルに自動バッチ変換する
+* レポーティングおよびデータ分析ワークフローとの統合
+* ドキュメントテンプレートからのスケジュールされたスプレッドシート生成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

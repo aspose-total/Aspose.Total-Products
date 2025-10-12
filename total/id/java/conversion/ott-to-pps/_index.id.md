@@ -54,7 +54,33 @@ API juga memungkinkan Anda untuk mengonversi dokumen OTT yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OTT ke PPS** menghasilkan file **PowerPoint Show**, memungkinkan presentasi tayangan slide langsung dari konten yang berasal dari template tanpa membuka dalam mode edit.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat tayangan slide siap disajikan dari template
+* Mengarsipkan template sebagai presentasi hanya tayangan
+* Berbagi presentasi untuk ditonton secara eksternal
+* Menyiapkan materi pemasaran atau pelatihan dalam format tayangan
+* Memastikan tata letak slide konsisten selama presentasi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi OTT-ke-PPS secara batch untuk perpustakaan presentasi
+* Integrasi dengan sistem distribusi presentasi
+* Pembuatan otomatis slide hanya tayangan dari template
+* Pipa untuk persiapan konten pelatihan dan pemasaran
+* Standarisasi tayangan slide di seluruh perusahaan
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

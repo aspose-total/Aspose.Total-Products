@@ -47,7 +47,30 @@ otherformats: MD SXC TXT XLT XLAM XLSB XLTM XLSM TSV XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε ODS** εξάγει δεδομένα από αρχεία **Printer Command Language** σε μορφή **OpenDocument Spreadsheet (.ODS)** για δομημένη ανάλυση σε εργαλεία όπως **LibreOffice Calc**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή πινάκων εκτύπωσης σε φύλλα εργασίας
+* Δυνατότητα ανάλυσης δεδομένων σε πίνακες που δημιουργήθηκαν από PCL
+* Εισαγωγή δομημένου περιεχομένου PCL σε ροές εργασίας λογιστικής ή αναλυτικής
+* Δημιουργία επεξεργάσιμων φύλλων με βάση τύπους από εκτυπώσεις δεδομένων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη μετατροπή αναφορών PCL σε βιβλία εργασίας ODS
+* Αγωγοί εξαγωγής δεδομένων που μετατρέπουν την εκτύπωση σε μορφές φύλλων εργασίας
+* Ενσωμάτωση με συστήματα ERP ή οικονομικά συστήματα για αυτόματη εισαγωγή δεδομένων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

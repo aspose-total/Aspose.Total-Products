@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konverze PCL na WORDML** převádí dokumenty ve formátu **Printer Command Language** do formátu **WordProcessingML (WordML)**, poskytující strukturu založenou na XML pro pokročilou manipulaci s daty a automatizaci dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění tiskových rozvržení do formátů Word založených na XML
+* Umožnění strukturované manipulace s dokumenty pomocí WordML
+* Integrace dokumentů Word s pracovními postupy založenými na XML
+* Umožnění automatizace dokumentů řízené metadaty
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované generování dokumentů WordML z tiskových souborů PCL
+* Integrace s řízením dokumentů a pracovními postupy založenými na XML
+* Hromadná konverze pro interoperabilitu s rozhraními pro zpracování Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

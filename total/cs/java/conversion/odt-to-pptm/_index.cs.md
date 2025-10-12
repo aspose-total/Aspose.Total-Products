@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na PPTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na PPTM** umožňuje vytváření **makro-povolených prezentací PowerPoint** z textových dokumentů, kombinující statický obsah s interaktivními nebo automatizovanými chováními snímků.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Návrh interaktivních prezentací ze strukturovaných textových dokumentů
+* Vytváření automatizovaných zpráv s vestavěnými makry
+* Generování prezentací, které spouští dynamické přechody snímků
+* Příprava chytrých obchodních nebo školicích sad s funkcionalitou VBA
+* Zefektivnění doručování zpráv pomocí makro-povolených prezentací
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatizované pracovní postupy generování prezentací ODT na PPTM
+* Integrace s podnikovými systémy pro reportování a automatizaci
+* Hromadné vytváření snímků s makry z ODT souborů
+* Generování dynamických daty řízených prezentací pro interní reportování
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

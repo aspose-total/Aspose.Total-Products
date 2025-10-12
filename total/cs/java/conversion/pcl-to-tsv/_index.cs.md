@@ -47,7 +47,30 @@ Při převodu souboru PCL na TSV můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Převod PCL na TSV** transformuje výstupy **Printer Command Language** do souborů **Tab-Separated Values**. Tento formát je ideální pro čisté, strukturované importy do tabulek nebo softwarových systémů, které spoléhají na data oddělená tabulátory.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Extrahování tabulkového obsahu z dat ve formátu tisku
+* Generování souborů TSV z faktur nebo záznamů v PCL
+* Zásobování výstupů TSV do migračních systémů dat nebo ETL
+* Sdílení strukturovaných tiskových dat mezi podnikovými systémy
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánované extrakce z archivů tisku do TSV
+* Integrace s datovými potrubími pro reportingové dashboardy
+* Automatický převod z tisku na strukturovaná data připravená pro analýzu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε MHTML**
+
+Η μετατροπή **Printer Command Language (PCL)** σε **web archive format (.MHTML)** ενθυλακώνει το περιεχόμενο, διατηρώντας τη διάταξη, τις εικόνες και το κείμενο για διανομή σε μορφή ενός αρχείου.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Συσκευασία αναφορών PCL για προβολή μέσω προγράμματος περιήγησης
+* Διατήρηση διατάξεων εκτύπωσης ως αυτό-επαρκής ιστοσελίδες
+* Κοινοποίηση μορφοποιημένου περιεχομένου εκτύπωσης μέσω εσωτερικού δικτύου ή email
+* Αποθήκευση παλαιών εργασιών εκτύπωσης PCL ως προσβάσιμα αρχεία MHTML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτόματη δημιουργία MHTML από ροές εκτύπωσης PCL
+* Ενσωμάτωση με συστήματα αρχειοθέτησης εγγράφων ή παράδοσης μέσω ιστού
+* Μαζική μετατροπή για εσωτερική αναφορά ή online τεκμηρίωση
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,28 @@ APIを使用すると、パスワードで保護されたOTTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをPPTXに変換**すると、**OpenDocument Text Templates (.OTT)** を**PowerPoint Open XML Presentation (.PPTX)** に変換し、現代的で編集可能なスライドデッキを作成します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* テキストテンプレートをPPTXスライドデッキに変換する
+* OTTテンプレートからの書式とレイアウトの保持
+* ビジネス、教育、またはトレーニング向けのプレゼンテーションのカスタマイズ
+* チームと共有可能な編集可能な、現代的なPowerPointプレゼンテーションの作成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 法人または教育用のバッチOTTO-PPTX変換
+* コンテンツ自動化システムとの統合
+* 再利用可能なテンプレートからの現代的なスライドデッキの定期的な作成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,27 @@ otherformats: PPSX PPSM PPTX PPS POTM POTX PPT POWERPOINT PPTM POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى PPSM** يسمح بإنشاء **عروض تقديمية مع ماكرو ممكّنة** من مستندات نصية، مثالية لإنشاء تجارب عرض تفاعلية وآلية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنتاج عروض تقديمية آلية بمنطق الماكرو
+* تحويل بيانات Word المهيكلة إلى عروض شرائح تفاعلية
+* تبسيط عملية تحويل التقارير إلى عروض تقديمية
+* تضمين سلوك العرض التقديمي الديناميكي داخل الشرائح
+* إعداد سير العمل التجاري الذي ينتج عروض تقديمية ممكّنة بالماكرو
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الآلية" %}}
+* سير العمل الآلي لتحويل ODT إلى PPSM
+* إنتاج عروض تقديمية ماكرو دفعة واحدة من ملفات ODT
+* دمجه في أنظمة الآلية والتقارير الشركية
+* إنتاج عروض تقديمية مدفوعة بالمحتوى الديناميكي
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

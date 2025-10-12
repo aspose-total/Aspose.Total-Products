@@ -100,7 +100,27 @@ otherformats: PPTX PPTM POTM PPSX PPSM PPS ODP POWERPOINT PPT POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל־POTX** מאפשרת להמיר מסמכי טקסט ל־**קבצי תבניות PowerPoint עכשוויות**, אידיאליות לשמירה על זהות חברתית ועל עקביות במצגות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* בניית תבניות מצגות מתיעוד כתוב
+* המרת תכניות עסקיות מובנות לשקופיות מקובעות
+* הכנת תקני מצגת לשיתוף צוותי
+* יצירת מתישהו מצגות עבור כל החברה
+* יצירת תבניות PowerPoint מוכנות לעיצוב מתוכן מתוך Word
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרה אוטומטית של מסמכי ODT ל־תבניות PPTX
+* שילוב בצינורות עבודה עסקיים להמרת מסמך למצגת
+* יצירת ערכות עיצוב PowerPoint בצורה צפופה ממסמכים עסקיים
+* יצירת תבניות PowerPoint מובנות בתוכן לשמירה על עקביות בזיהוי המותג
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

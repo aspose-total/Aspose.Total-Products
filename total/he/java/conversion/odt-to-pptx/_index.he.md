@@ -100,7 +100,27 @@ otherformats: POT PPSX POWERPOINT ODP PPS PPSM POTM PPTM PPT POTX CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל־PPTX** ממירה תוכן כתוב למצגות **PowerPoint מודרניות**, מושלמות למקצוענים שזקוקים לשקפים ניתנים לעריכה ומוכנים לעיצוב המגיעים ממסמכים מובנים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת דוחות פרויקט וסיכומים למצגות
+* המרת תוכן עסקי או מחקרי לשקפים חזותיים
+* שיתוף רעיונות ותיעוד כמצגות PPTX ניתנות לעריכה
+* יצירת שקפים עם עיצוב עקבי מתוך תוכן טקסט מעוצב
+* הכנת מצגות דינמיות ושיתופיות מקבצי ODT
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרת ODT ל־PPTX אוטומטית לצורכי תקשורת עסקית
+* שילוב בצינורות יצור תוכן למצגות
+* המרה בצורת סדרתית של קבצי ODT לפורמט PowerPoint מודרני
+* יצירת שקפים דינמיים לדיווחים ופגישות עסקיות
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

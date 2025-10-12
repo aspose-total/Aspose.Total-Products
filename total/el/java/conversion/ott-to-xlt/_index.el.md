@@ -61,7 +61,30 @@ otherformats: EXCEL XLT XLSM XLSX SXC XLS ODS TSV XLAM FODS XLTM DIF XLTX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε XLT** μετατρέπει τα **Πρότυπα Κειμένου OpenDocument (.OTT)** σε **Πρότυπο Excel (.XLT)**, παρέχοντας μια επαναχρησιμοποιήσιμη βάση για τη δημιουργία φύλλων εργασίας.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Δημιουργία τυποποιημένων προτύπων φύλλων εργασίας από έγγραφα OTT
+* Διατήρηση συνεπούς μορφοποίησης για αναφορές ή αναλύσεις
+* Προετοιμασία επαναχρησιμοποιήσιμων προτύπων για εργασίες εισαγωγής επαναλαμβανόμενων δεδομένων
+* Μετατροπή προτύπων κειμένου σε δομές έτοιμες για Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή προτύπων OTT σε XLT για επιχειρησιακή χρήση
+* Ενσωμάτωση σε αυτοματοποιημένες διαδικασίες δημιουργίας φύλλων εργασίας
+* Προγραμματισμένη δημιουργία προτύπων Excel από πρότυπα εγγράφων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

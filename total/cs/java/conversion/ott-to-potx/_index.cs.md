@@ -54,7 +54,33 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na POTX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OTT na POTX** produkuje **soubory šablon PowerPointu bez maker**, umožňující bezpečné, standardizované šablony snímků odvozené z textových šablon.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Opakovaně použitelné prezentace bez maker
+* Standardizace firemních návrhů snímků
+* Příprava šablon založených na školení nebo marketingových balíčcích
+* Archivace rozložení snímků pro spolupracující týmy
+* Zajištění bezpečnosti tím, že se vyhnete maker
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný hromadný převod OTT na POTX
+* Integrace s systémy správy šablon prezentací
+* Dynamické generování snímkových balíčků z knihoven šablon
+* Distribuce firemně široce bez maker
+* Automatizace potrubí pro aktualizace šablon snímků
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

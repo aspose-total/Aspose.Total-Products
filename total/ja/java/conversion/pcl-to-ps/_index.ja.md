@@ -130,7 +130,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをPSに変換**することで、**プリンターコマンド言語**ファイルを**PostScript (.PS)**形式に変換し、印刷精度を保ち、高品質な出版および印刷システムとの互換性を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* プロフェッショナルな印刷用に印刷可能なファイルをPostScriptに変換する
+* 出版システム用にPCL印刷ジョブをPSファイルとしてアーカイブする
+* クロスプラットフォームの印刷出力の一貫性を確保する
+* 商業印刷用のPostScriptベースのワークフローを準備する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 大量のPCLファイルをプレス用にPSに自動変換する
+* プリプレスおよび出版自動化パイプラインに統合する
+* 印刷生産システム向けに文書出力を効率化する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

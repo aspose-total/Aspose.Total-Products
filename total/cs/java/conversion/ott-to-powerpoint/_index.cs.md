@@ -54,7 +54,33 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na POWERPOINT.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OTT na POWERPOINT** přeměňuje šablony OpenDocument Text na **upravitelné prezentace PowerPointu**, umožňující přímé využití obsahu šablony ve snímcích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření prezentací ze textových šablon
+* Archivace obsahu šablony jako upravitelných prezentací
+* Spolupracovní úpravy snímků
+* Předělání obsahu šablony pro marketing nebo školení
+* Udržování konzistentního brandingu v prezentacích
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod OTT na PowerPoint pro firemní použití
+* Integrace s systémy pracovního postupu prezentací
+* Automatické generování prezentací ze šablonových knihoven
+* Dynamické vložení obsahu do prezentací
+* Centralizované úložiště snímků založených na šablonách
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

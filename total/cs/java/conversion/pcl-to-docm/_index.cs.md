@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na DOCM** umožňuje transformaci výstupů **Printer Command Language** do **makro-povolených dokumentů Word**, což umožňuje automatizaci, dynamické aktualizace a pokročilé formátovací schopnosti přímo z tiskových souborů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání maker do převedených dokumentů Word pro automatizaci
+* Opětovné využití tištěných dat v upravitelných a programovatelných zprávách
+* Vytváření interaktivních obchodních šablon z tiskových výstupů PCL
+* Zvyšování produktivity pomocí makro-povolených dokumentů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod archivů PCL na DOCM pro dynamické hlášení
+* Integrování tiskových výstupů do automatizovaných pracovních postupů založených na Wordu
+* Generování makro-povolených dokumentů z proudů tiskárny v reálném čase
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

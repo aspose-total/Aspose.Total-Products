@@ -130,7 +130,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε ODT** μετατρέπει την έξοδο **Printer Command Language** σε μορφή **OpenDocument Text (.ODT)** για επεξεργάσιμη επεξεργασία κειμένου στο **LibreOffice Writer** ή άλλους επεξεργαστές ODF.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Αναπαραγωγή εκτυπώσεων ως επεξεργάσιμα έγγραφα
+* Προετοιμασία κειμενοκεντρικής έξοδου PCL για δημοσίευση ή συνεργασία
+* Μετατροπή προτύπων βασισμένων σε PCL σε επεξεργάσιμα αρχεία ODT
+* Διατήρηση συνοχής εγγράφων σε συστήματα ανοικτού κώδικα
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτόματη δημιουργία εγγράφων ODT από εργασίες εκτύπωσης
+* Ενσωμάτωση με συστήματα διαχείρισης εγγράφων και επεξεργασίας
+* Μαζική μετατροπή αρχείων PCL που έχουν αρχειοθετηθεί σε μορφές ανοικτού κειμένου
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

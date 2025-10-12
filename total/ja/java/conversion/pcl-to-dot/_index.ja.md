@@ -130,7 +130,24 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## PCLをDOTに変換
+
+PCLからDOTへの変換により、**プリンターコマンド言語**ファイルから**Microsoft Wordテンプレート（.DOT）**ドキュメントに一貫した書式設定と再利用が可能となります。
+
+## 主な使用事例
+
+* PCLベースのレポートやレイアウトからWordテンプレートの構築
+* 部署間で文書の外観を標準化
+* 印刷ファイルから再利用可能なフォームやレポートテンプレートの作成
+* 文書準備プロセスの効率化
+
+## 自動化シナリオ
+
+* 印刷されたレポートから企業テンプレートの自動生成
+* ビジネス運用のためのテンプレートベースの文書ワークフロー
+* 通常のPCLレポートを使用可能なDOTテンプレートに変換
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 XAML로 변환**은 **프린터 명령어 언어** 파일을 **XAML (확장 가능한 응용 프로그램 마크업 언어)**로 변환하여 Windows 애플리케이션에서 벡터 기반 그래픽 및 UI 요소로 사용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* WPF 또는 UWP 애플리케이션에서 PCL 그래픽 재사용
+* 인쇄 레이아웃을 대화형 UI 구성 요소로 변환
+* Windows 소프트웨어에 확장 가능한 벡터 그래픽 삽입
+* 디지털 애플리케이션 통합을 위한 인쇄 디자인 보존
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 응용 프로그램 개발을 위한 자동화된 PCL-to-XAML 변환
+* UI 디자인 및 워크플로 자동화에 통합
+* PCL 아카이브의 일괄 변환을 통한 벡터 기반 XAML 자산 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,33 @@ API를 사용하면 암호로 보호된 OTT 문서를 PPS로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 PPS로 변환**하면 **PowerPoint Show 파일**이 생성되어, 템플릿에서 파생된 콘텐츠를 편집 모드에서 열지 않고 직접 슬라이드 쇼로 제시할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 템플릿에서 준비된 슬라이드 쇼 생성
+* 템플릿을 쇼 전용 프레젠테이션으로 아카이빙
+* 외부에서 볼 수 있도록 프레젠테이션 공유
+* 쇼 형식으로 마케팅 또는 교육 자료 준비
+* 발표 중 일관된 슬라이드 레이아웃 보장
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 프레젠테이션 라이브러리를 위한 일괄 OTT-to-PPS 변환
+* 프레젠테이션 배포 시스템과 통합
+* 템플릿에서 쇼 전용 슬라이드 자동 생성
+* 교육 및 마케팅 콘텐츠 준비를 위한 파이프라인
+* 기업 전체적인 슬라이드 쇼 표준화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

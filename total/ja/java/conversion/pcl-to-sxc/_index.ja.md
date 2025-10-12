@@ -47,7 +47,30 @@ PCLファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをSXCに変換する**ことで、**Printer Command Language**の出力を**StarOffice Calc (.SXC)**のスプレッドシートに変換し、計算や分析のための編集可能な表形式データに変換できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PCLレポートから表を抽出して編集可能なスプレッドシートに
+* StarOffice Calcを使用して印刷ベースの数値データを分析
+* アーカイブされた印刷フォームをスプレッドシート形式に変換
+* 計算やレポート作成のための構造化されたデータを準備
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCLファイルからSXCへの表データの自動抽出
+* 財務や分析ワークフローとの統合
+* アーカイブされた印刷スプレッドシートの一括変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,30 @@ Az API használatával igény szerint elforgathatja a kimeneti WMZ-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A **PCL átalakítása WMZ-re** összecsomagolja a **Nyomtatóparancs-nyelv** grafikáit **Tömörített Windows Metafile (.WMZ)** fájlokká hatékony tárolás és gyorsabb terjesztés érdekében.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PCL vektorgrafikák tömörítése e-mailhez vagy felhőtároláshoz
+* Képminőség megőrzése a fájlméret csökkentése mellett
+* PCL vizuális elemek megosztása Windows Office dokumentumokban
+* Nyomtatásból származó grafikák archiválása kompakt formátumban
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált tömeges átalakítás PCL-ről WMZ-re
+* Integráció tartalomkezelési és terjesztési rendszerekkel
+* Tömörített grafikák generálása jelentésekhez és prezentációkhoz
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

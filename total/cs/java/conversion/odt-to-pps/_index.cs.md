@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na PPS. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na PPS** umožňuje **přímé vytváření prezentací** z textových dokumentů, což je ideální pro dodání obsahu připraveného k prezentaci bez další úpravy.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření okamžitých prezentací z reportů nebo shrnutí
+* Dodávání textových informací ve formátu prezentace
+* Příprava automatizovaných prezentací pro schůzky nebo události
+* Převod dokumentů ve stylu Word do samostatně běžících prezentací
+* Zefektivnění pracovních postupů pro vzdělávací nebo marketingové prezentace
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatizované generování prezentací ODT na PPS
+* Integrace s systémy pro publikování dokumentů
+* Hromadné zpracování textových prezentací
+* Generování připravených snímků pro prezentaci ze strukturovaného obsahu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

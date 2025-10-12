@@ -54,7 +54,27 @@ Az API azt is lehetővé teszi, hogy jelszóval védett ODT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **ODT to PPTX** konvertálása átalakítja a írott tartalmat **modern PowerPoint prezentációvá**, tökéletes megoldás szakemberek számára, akik szerkeszthető, designra kész diaanyagokat szeretnének strukturált dokumentumokból.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Projektjelentések és összefoglalók prezentációs csomagokká alakítása
+* Üzleti vagy kutatási tartalom átalakítása vizuális diákká
+* Ötletek és dokumentáció megosztása szerkeszthető PPTX prezentációként
+* Vizuálisan összhangban lévő diák létrehozása formázott szöveges tartalomból
+* Dinamikus és együttműködésre alkalmas prezentációk készítése ODT fájlokból
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+* Üzleti kommunikációhoz automatizált ODT-to-PPTX konverzió
+* Integráció tartalom-prezentáció generáló csövekbe
+* Tömeges konverzió ODT fájlokból modern PowerPoint formátumba
+* Dinamikus diák létrehozása vállalati jelentésekhez és értekezletekhez
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

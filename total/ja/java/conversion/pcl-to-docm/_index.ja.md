@@ -130,7 +130,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをDOCMに変換**することで、**プリンターコマンド言語**の出力を**マクロ有効なWord文書**に変換し、印刷ベースのファイルからの自動化、動的更新、高度な書式設定機能を直接利用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* マクロを変換されたWord文書に埋め込んで自動化する
+* 編集可能でプログラム可能なレポートで印刷されたデータを再利用する
+* PCLの印刷物からインタラクティブなビジネステンプレートを作成する
+* マクロ有効な文書を使用して生産性ワークフローを強化する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 動的レポート作成のためのPCLアーカイブのバッチ変換を行う
+* Wordベースの自動化ワークフローに印刷出力を統合する
+* プリンターストリームからのマクロ有効な文書のリアルタイム生成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

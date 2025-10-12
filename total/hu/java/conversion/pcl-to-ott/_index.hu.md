@@ -130,7 +130,30 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to OTT** konvertálása átalakítja a **Printer Command Language** kimenetét **OpenDocument Text Template (.OTT)** formátummá az **LibreOffice Writer** szabványos dokumentumsablonjaihoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Újrafelhasználható dokumentumsablonok létrehozása PCL űrlapokból
+* Szabványosított üzleti elrendezések létrehozása levelezéshez
+* PCL fejlécek vagy jelentések átalakítása szerkeszthető sablonokká
+* Nyílt dokumentum munkafolyamatok támogatása következetes formázással
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatikus OTT generálás nyomtatási tervezési rendszerekből
+* Integráció vállalati tartalom létrehozási munkafolyamatokkal
+* Nyomtatott sablonok tömeges átalakítása OTT formátummá dokumentumújrafelhasználás céljából
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

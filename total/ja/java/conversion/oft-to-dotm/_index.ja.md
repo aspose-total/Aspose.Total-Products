@@ -30,7 +30,33 @@ otherformats: MD DOCM PS GIF XPS DOC DOT ODT DOTM EMF OTT DOTX SVG TEXT WORDML D
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OFTをDOTMに変換**すると、**マクロ有効なWordテンプレート**が生成され、変換されたOutlookテンプレートから新しいドキュメントを生成する際に自動化および動的フィールド更新が可能となります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* 企業コミュニケーションテンプレートへのマクロの埋め込み
+* 繰り返しのドキュメント生成タスクの自動化
+* メールベースのテンプレートからの手紙やフォームの個別化
+* Wordテンプレート生成時のワークフロールールの強制
+* VBAスクリプトを使用した高度なカスタマイズ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 事前定義されたマクロを使用したOFTからDOTMへの自動変換
+* CRMやERPシステムとの統合によるドキュメント自動化
+* 外部データソースからの動的フィールド挿入
+* マクロロジックによるワークフロー起動ドキュメントの作成
+* 標準化されたドキュメントセットの企業自動化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

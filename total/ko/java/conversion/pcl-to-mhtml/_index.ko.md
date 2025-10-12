@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 MHTML로 변환**은 **프린터 명령어 언어** 콘텐츠를 **웹 아카이브 형식 (.MHTML)**으로 캡슐화하여 레이아웃, 이미지 및 텍스트를 보존하여 단일 파일 웹 배포에 사용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 브라우저 기반 뷰잉을 위한 PCL 보고서 패키징
+* 자체 포함 웹 페이지로 인쇄 레이아웃 보존
+* 인트라넷이나 이메일을 통해 서식이 있는 인쇄 콘텐츠 공유
+* 접근 가능한 MHTML 아카이브로 기존 PCL 인쇄 작업 저장
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PCL 프린트 스트림에서 자동 MHTML 생성
+* 문서 아카이빙이나 웹 기반 배송 시스템과 통합
+* 내부 보고서나 온라인 문서 작성을 위한 일괄 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

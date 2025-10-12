@@ -130,7 +130,30 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PCL en OTT** convertit la sortie du **Langage de Commande d'Imprimante** en format **Modèle de Texte OpenDocument (.OTT)** pour des modèles de documents standardisés dans **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Création de modèles de documents réutilisables à partir de formulaires PCL
+* Création de mises en page commerciales standardisées pour la correspondance
+* Conversion d'en-têtes de lettres ou de rapports PCL en modèles modifiables
+* Soutien aux flux de travail de documents ouverts avec une mise en forme cohérente
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatique d'OTT à partir de systèmes de conception d'impression
+* Intégration avec les flux de travail de création de contenu d'entreprise
+* Conversion en lot de modèles imprimés en OTT pour la réutilisation de documents
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

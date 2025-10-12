@@ -57,7 +57,33 @@ Az API használatával igény szerint elforgathatja a kimeneti IMAGE-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to IMAGE** konvertálása **rádiókép kimeneteket** (PNG, JPEG, TIFF stb.) eredményez a nyomtatóparancs-nyelv dokumentumokból, amelyek nyomtatásra kész fájlokká válnak, és megoszthatók standard képek formájában.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PCL nyomtatási feladatok megjelenítése képek formájában
+* Nyomtatott kimenet beágyazása dokumentációkba vagy jelentésekbe
+* PCL fájlok archiválása képalapú adattárolókban
+* Nyomtatás képekbe történő átalakítása a platformfüggetlen hozzáférhetőség érdekében
+* Nyomtatási elrendezések megosztása nem-PCL eszközök között
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált PCL-to-image konverzió nyomtatási feldolgozási rendszerekben
+* Tömeges kép létrehozás dokumentumelőnézetekhez
+* Integráció felhőnyomtatási monitorozó vagy DMS megoldásokkal
+* Vállalati nyomtatási adatok képalapú archiválása
+* Valós idejű nyomtatási feladatok megjelenítése minőségellenőrzéshez és validáláshoz
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

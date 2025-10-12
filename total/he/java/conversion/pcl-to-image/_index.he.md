@@ -105,7 +105,33 @@ otherformats: EMZ  SVGZ PSD JPEG2000 WMF WMZ APNG DXF TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## המרת **PCL לתמונה** מייצרת **פלטי תמונה רסטר** (PNG, JPEG, TIFF, וכו') ממסמכי שפת פקודות ההדפסה, מה שהופך קבצים מוכני הדפסה לנצפים וניתנים לשיתוף כתמונות סטנדרטיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* ויזואליזציה של עבודות הדפסה בפורמט PCL כתמונות
+* הטמעת פלט ההדפסה במסמכים או דוחות
+* ארכיבת קבצי PCL במאגרי תמונות
+* זרימות עבודה של הדפסה לתמונה לנגישות צלחת-פלטפורמה
+* שיתוף פריסות הדפסה במכשירים שאינם מוכיחי PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PCL לתמונה באופן אוטומטי במערכות עיבוד הדפסה
+* יצירת תמונות בצורה צפה לתיקיית המסמכים
+* שילוב עם מעקב הדפסה בענן או פתרונות DMS
+* ארכיבה מבוססת תמונה של נתוני הדפסה עסקיים
+* ויזואליזציה בזמן אמת של עבודות הדפסה לצורך בקרת איכות ואימות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

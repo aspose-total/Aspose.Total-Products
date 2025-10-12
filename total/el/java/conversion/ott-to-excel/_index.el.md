@@ -61,7 +61,35 @@ otherformats: EXCEL XLAM SXC DIF XLSB TSV XLTX XLTM FODS XLT XLSX ODS XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε EXCEL**
+
+Η μετατροπή **OTT σε EXCEL** επιτρέπει στα πρότυπα κειμένου OpenDocument Text να αναπαρίστανται ως **φύλλα εργασίας Microsoft Excel**, επιτρέποντας την ανάλυση βασισμένη σε φύλλα εργασίας, την αναφορά και τη διαχείριση δεδομένων.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία αναφορών Excel από κειμενικά πρότυπα
+* Προετοιμασία συγχώνευσης αλληλογραφίας ή δεδομένων
+* Ανάλυση φύλλων εργασίας περιεχομένου προτύπου
+* Μετατροπή κειμενικών προτύπων και πινάκων σε δομημένα φύλλα
+* Αρχειοθέτηση και διαχείριση προτύπων σε μορφή Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή OTT σε EXCEL για παρτίδες επεξεργασίας
+* Ενσωμάτωση με οικονομικά, CRM ή συστήματα ERP
+* Δυναμική δημιουργία φύλλων εργασίας από πολλαπλά πρότυπα
+* Προεπεξεργασία δεδομένων για αναφορές ή αναλυτικές διαδικασίες
+* Κεντρικό αποθετήριο Excel από βιβλιοθήκες προτύπων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

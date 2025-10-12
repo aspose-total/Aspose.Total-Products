@@ -54,7 +54,27 @@ API juga memungkinkan Anda untuk mengonversi dokumen ODT yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **ODT ke PPS** memungkinkan **pembuatan slideshow langsung** dari dokumen teks, sehingga sempurna untuk menyampaikan konten siap saji tanpa pengeditan tambahan.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat file presentasi instan dari laporan atau ringkasan
+* Menyampaikan informasi berbasis teks dalam format slideshow
+* Menyiapkan presentasi otomatis untuk rapat atau acara
+* Mengonversi dokumen gaya Word menjadi tayangan slide yang berjalan sendiri
+* Memperlancar alur kerja presentasi pendidikan atau pemasaran
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+* Generasi slideshow ODT ke PPS otomatis
+* Integrasi dengan sistem penerbitan dokumen
+* Pengolahan batch presentasi berbasis teks
+* Menghasilkan slide siap presentasi dari konten terstruktur
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

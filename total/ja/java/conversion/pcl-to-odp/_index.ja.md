@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをODPに変換**すると、**プリンターコマンド言語**の出力を**OpenDocument Presentation (.ODP)** スライドに変換して、**LibreOffice Impress** や他のODP互換ツールで使用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 印刷ベースの要約をスライドデッキに変換する
+* PCLレポートをプレゼンテーション資料として再利用する
+* 会議や社内コミュニケーションのために印刷データを可視化する
+* 編集可能なODP形式に基づくPCLベースの視覚データを標準化する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レポートシステムからの自動ODP生成
+* プレゼンテーション作成パイプラインとの統合
+* PCLアーカイブを再利用可能なプレゼンテーションスライドに変換する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,33 @@ otherformats: XLTM CSV XLSB SXC XLT XLS EXCEL ODS XLTX FODS DIF XLSM XLAM XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל־TSV** ממירה תבניות טקסט של OpenDocument ל־**ערכים מופרדים בטבלה**, שימושי עבור ייבוא נתונים מובנים, ניתוח, ועיבוד גליונות אלקטרוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ נתונים לדיווח טבלאי
+* הכנת תבניות ליבוא או אוטומציה של גליונות אלקטרוניים
+* שיתוף תוכן תבנית בפורמט טבלאי קל
+* ארכוב טקסט מובנה לצורך ניתוח או לוגינג
+* תמיכה בתהליכי תמיכה בנתונים צלביים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* צינורות עבודה OTT-to-TSV אוטומטיים לדיווח עסקי
+* ייצוא צפיפותי לניתוח ותהליכי מסמכים
+* שילוב עם מערכות מבוססות נתונים לעיבוד תבניות
+* יצירת ארכיונים TSV למאגרי תוכן מרכזיים
+* אוטומציה של תהליכי עבודה לחילוץ תוכן טבלאי
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

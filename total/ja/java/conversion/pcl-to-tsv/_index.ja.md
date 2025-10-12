@@ -47,7 +47,30 @@ PCLファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLからTSVへの変換**は**Printer Command Language**の出力を**Tab-Separated Values**ファイルに変換します。この形式は、表形式のデータをスプレッドシートやタブ区切りデータを利用するソフトウェアシステムにクリーンで構造化されたインポートを行うのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 印刷形式のデータから表形式のコンテンツを抽出する
+* PCLの請求書やレコードからTSVデータセットを生成する
+* TSV出力をデータ移行やETLシステムに供給する
+* 企業システム間で構造化された印刷データを共有する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 印刷アーカイブから定期的にTSVへの抽出
+* レポートダッシュボード用のデータパイプラインとの統合
+* 印刷から構造化された分析用データへの自動変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

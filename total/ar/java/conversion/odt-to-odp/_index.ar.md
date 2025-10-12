@@ -54,7 +54,27 @@ otherformats: PPTX POTX POWERPOINT PPSM POT PPS PPTM PPSX POTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى ODP** يسمح بتحويل سلس للمستندات النصية إلى شرائح العرض، مثالي لتصور التقارير الكتابية، أو الخلاصات، أو المواد التعليمية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل المستندات المهيكلة إلى عروض تقديمية
+* تحويل ملاحظات المحاضرات أو التقارير إلى ملخصات بصرية
+* إعداد الشرائح للعروض التقديمية في الفصول الدراسية أو الشركات
+* إنشاء تنسيقات بصرية جذابة من ملفات ODT
+* تبسيط تحويل النص إلى عروض تقديمية للمدربين أو المتحدثين
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* إنشاء عروض تقديمية آلية من ODT إلى ODP
+* التكامل مع سير العمل في مكاتب الإنتاجية
+* تحويل المستندات إلى عروض تقديمية بشكل دفعي
+* إنشاء شرائح ديناميكية من محتوى المستند المهيكل
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

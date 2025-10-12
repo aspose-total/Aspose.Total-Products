@@ -30,7 +30,35 @@ otherformats: WORDML DOTX SVG DOCM RTF MD TIFF TEXT XPS GIF PDF OTT DOT DOCX EMF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OFT إلى نص
+
+يستخرج **النصوص من OFT** المحتوى النصي العادي من **قوالب Outlook**، مما يزيل جميع التنسيقات لتحليل المحتوى الخام، أو تسجيله، أو استيعابه في قواعد البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج المحتوى لتحليل النصوص في البريد الإلكتروني
+* إعداد قوالب النص العادي لنصوص السكربتات التلقائية
+* تخزين محتوى الاتصال في قواعد بيانات النص
+* تحضير محتوى القوالب لمعالجة تحسين محركات البحث والمعالجة اللغوية الطبيعية
+* تنظيف البيانات أو فهرسة من ملفات OFT بالجملة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقين التلقائي" %}}
+
+* استخراج النص بالجملة من مستودعات OFT
+* التكامل مع أنابيب نصوص التعلم الآلي
+* التحليل التلقائي وتحويل المحتوى
+* تكامل سير العمل للأرشيفات القابلة للبحث
+* إنشاء مستودعات محتوى النص فقط
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

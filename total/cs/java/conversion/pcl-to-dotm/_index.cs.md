@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na DOTM** transformuje tištěné rozložení do **makro-povolených šablon Wordu**, kombinujíc formátování s vestavěnými automatizačními schopnostmi pro pokročilou generaci dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření chytrých šablon s makry z dokumentů PCL
+* Automatizace generování zpráv a opakujících se úkolů
+* Udržování konzistence rozložení s dynamickou funkcionalitou
+* Vkládání skriptů pro vyplňování formulářů a úlohy ověřování
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* Podnikové vytváření automatizovaných šablon z tištěných zdrojů
+* Hromadné zpracování souborů PCL do makro-povolených šablon
+* Integrace do automatizačního systému Wordu nebo systémů pro generování zpráv
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

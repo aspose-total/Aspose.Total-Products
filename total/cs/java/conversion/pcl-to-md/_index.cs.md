@@ -47,7 +47,30 @@ Při převodu souboru PCL na MD můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL na MD** konverze převádí dokumenty ve formátu **Printer Command Language** do souborů ve formátu **Markdown (.MD)**, poskytujíc čistý, lidsky čitelný a webu přívětivý formát pro dokumentaci nebo archivaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Exportování tiskových výstupů ve formátu PCL do Markdownu pro integraci na webové stránky
+* Příprava lehké dokumentace z tiskových zpráv
+* Strukturování dat založených na tisku pro vývojáře a technické týmy
+* Archivace textově bohatých souborů ve formátu PCL do formátů přátelských k open-source
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování dokumentace ve formátu MD z hromadných tiskových zpráv ve formátu PCL
+* Integrace výstupů ve formátu Markdown s obsahovými systémy založenými na Gitu
+* Automatizace extrakce textu ve formátu PCL pro online publikování pracovních postupů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

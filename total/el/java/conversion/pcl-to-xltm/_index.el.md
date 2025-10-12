@@ -47,7 +47,30 @@ otherformats: XLTX XLSB SXC DIF TSV TXT XLSM XLT EXCEL XLTM MD FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή **PCL σε XLTM** επιτρέπει τη δημιουργία **προτύπων Excel με δυνατότητα μακροενεργοποίησης** από εκτυπώσιμα έγγραφα, συνδυάζοντας τη διατήρηση της διάταξης με τη δυνατότητα ενσωμάτωσης λογικής αυτοματισμού.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Σχεδιασμός προτύπων Excel με δυνατότητα μακροενεργοποίησης από εκτυπώσιμες διατάξεις
+* Ενσωμάτωση επαναχρησιμοποιήσιμου αυτοματισμού σε πρότυπα αναφορών
+* Δυνατότητα δημιουργίας εγγράφων με δυναμικά πρότυπα βασισμένα σε πρότυπα
+* Κανονικοποίηση δημιουργίας έξυπνων υπολογιστικών φύλλων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Δημιουργία έξυπνων προτύπων από καθημερινές αναφορές PCL
+* Αυτοματοποίηση παραγωγής αναφορών Excel με λογική μακροενεργοποίησης
+* Μαζική μετατροπή δεδομένων εκτύπωσης σε επαναχρησιμοποιήσιμα επιχειρηματικά πρότυπα
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

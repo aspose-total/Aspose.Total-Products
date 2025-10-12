@@ -47,7 +47,30 @@ Durante la conversione del file PCL in XLT, puoi anche aggiungere una filigrana 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversione da PCL a XLT** crea file di **modello Excel** da documenti in **Linguaggio di Comando della Stampante**, consentendo di riutilizzare layout di stampa strutturati per la creazione coerente di report in Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Progettare modelli Excel basati su formati di report stampati
+* Mantenere un layout e uno stile coerenti per i report
+* Standardizzare modelli di documentazione aziendale
+* Accelerare la configurazione dei report con modelli predefiniti basati sulla stampa
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Automatizzare la generazione di modelli da output PCL ricorrenti
+* Creare modelli riutilizzabili per il riempimento automatico dei report
+* Integrare flussi di lavoro dalla stampa al modello per le organizzazioni
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

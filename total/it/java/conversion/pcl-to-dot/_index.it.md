@@ -130,7 +130,30 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversione da PCL a DOT** consente di riutilizzare modelli e report stampati da file **Printer Command Language** in documenti **Microsoft Word Template (.DOT)** per una formattazione coerente e riutilizzabile.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Creazione di modelli Word da report o layout basati su PCL
+* Standardizzazione dell'aspetto dei documenti tra i dipartimenti
+* Creazione di modelli di moduli e report riutilizzabili da file di stampa
+* Ottimizzazione dei processi di preparazione dei documenti
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Generazione automatica di modelli aziendali da report stampati
+* Flussi di lavoro documentali basati su modelli per le operazioni aziendali
+* Conversione di report PCL di routine in modelli DOT pronti all'uso
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

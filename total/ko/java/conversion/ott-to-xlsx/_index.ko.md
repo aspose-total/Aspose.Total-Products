@@ -61,7 +61,30 @@ OTT를 XLSX로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 XLSX로 변환**은 **OpenDocument Text Templates (.OTT)**을 **Excel Open XML Workbook (.XLSX)**으로 변환하여 편집 가능한 현대적인 스프레드시트 기능을 제공합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 문서 템플릿을 구조화된 스프레드시트로 변환
+* OTT 템플릿에서 추출된 데이터 분석 및 조작
+* 비즈니스 또는 교육 목적을 위한 보고서 및 표 작성
+* 팀간 편집 가능한 스프레드시트 공유
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* OTT 템플릿을 XLSX 파일로 자동 일괄 변환
+* 보고 및 데이터 분석 워크플로우 통합
+* 문서 템플릿에서 스케줄된 스프레드시트 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,27 @@ otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB DIF XLT EXCEL XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε DIF** μετατρέπει περιεχόμενο βασισμένο σε κείμενο σε αρχεία **Data Interchange Format (DIF)**, επιτρέποντας τη δομημένη ανταλλαγή δεδομένων μεταξύ εγγράφου και περιβάλλοντος υπολογιστικού φύλλου.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Εξαγωγή πίνακα πληροφοριών από έγγραφα σε συστήματα δεδομένων
+* Ενσωμάτωση αναφορών βασισμένων σε κείμενο με λογισμικό υπολογιστικών φύλλων
+* Προετοιμασία συνόλων δεδομένων για εισαγωγή σε αναλυτικά εργαλεία
+* Κοινή χρήση δομημένων δεδομένων εγγράφου σε εφαρμογές
+* Μετατροπή πινάκων εγγράφων για μετανάστευση ή επεξεργασία δεδομένων
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτοματοποιημένη εξαγωγή ODT σε DIF για επιχειρηματικές ροές δεδομένων
+* Ενσωμάτωση με αγωγούς ETL και εργαλεία αναφορών
+* Μαζική μετατροπή αναφορών σε μορφές ανταλλαγής δεδομένων
+* Μετατροπή εγγράφου σε σύνολο δεδομένων για πλατφόρμες αναλυτικής και BI
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

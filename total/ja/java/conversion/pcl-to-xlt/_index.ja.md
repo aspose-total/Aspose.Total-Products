@@ -47,7 +47,30 @@ PCLファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをXLTに変換**すると、**プリンターコマンド言語**ドキュメントから**Excelテンプレート**ファイルが作成され、構造化された印刷レイアウトをExcelで一貫したレポート作成に再利用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* 印刷されたレポート形式に基づいたExcelテンプレートの設計
+* レポートの一貫したレイアウトとスタイルの維持
+* ビジネス文書テンプレートの標準化
+* 事前定義された印刷ベースのテンプレートを使用したレポートのセットアップの加速
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なPCL出力からのテンプレート生成の自動化
+* 自動化されたレポートの作成に再利用可能なテンプレートの作成
+* 組織向けの印刷からテンプレートへのワークフローの統合
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,28 @@ L'API vous permet également de convertir des documents OTT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **OTT en PPSX** convertit les **Modèles de texte OpenDocument (.OTT)** en **Diaporamas PowerPoint Open XML (.PPSX)** pour des présentations prêtes à être lues.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Livraison de modèles de texte sous forme de présentations en plein écran
+* Conversion de modèles OTT d'entreprise en format diaporama
+* Partage de contenu sous forme de diaporamas PowerPoint non modifiables
+* Préservation de la conception et de la mise en forme des modèles de documents
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en lot d'OTT en PPSX pour des rapports ou des formations
+* Intégration avec les flux de distribution de présentations
+* Création planifiée de diapositives prêtes à être lues à partir de modèles de documents
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,35 @@ otherformats: XLAM ODS SXC XLSX DIF XLTX XLT XLS XLSB EXCEL FODS TSV XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى XLAM
+
+ينتج ملفات **إضافة Excel** من النموذج الأساسي، مما يمكن من التحكم التلقائي، والماكروهات، وتعزيز سير العمل على جداول البيانات بناءً على بيانات النموذج.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء إضافات Excel مع ماكروهات من النماذج
+* تلقائية المهام المتكررة باستخدام الماكروهات المستمدة من النماذج
+* تعزيز وظائف جداول البيانات بمنطق النموذج
+* نشر سير العمل الموحدة للتحكم التلقائي
+* تركيز أدوات Excel المدفوعة بالنماذج
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التحكم التلقائي" %}}
+
+* تحويل دُفعي من OTT إلى XLAM لتحكم Excel المؤسسي
+* التكامل مع سير العمل أو خطوط الإبلاغ
+* إنشاء أدوات جداول بيانات مع ماكروهات قابلة لإعادة الاستخدام
+* نشر التحكم التلقائي بناءً على النماذج
+* تحديثات ماكرو ديناميكية من محتوى النموذج
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

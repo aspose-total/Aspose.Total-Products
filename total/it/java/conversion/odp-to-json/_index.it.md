@@ -49,7 +49,25 @@ Durante la conversione da ODP a JSON, puoi anche impostare l'intervallo sul form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **ODP in JSON** consente l'estrazione strutturata dei contenuti della presentazione in un **formato leggibile dalle macchine**, consentendo lo scambio di dati senza soluzione di continuità, l'analisi e l'integrazione con i moderni sistemi web o di automazione.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Trasformare i dati della presentazione in formati strutturati per le API
+* Estrarre diapositive, testo e metadati per analisi o indicizzazione
+* Migrazione dei contenuti della presentazione in applicazioni basate sul web
+* Archiviare i dati della presentazione nei database per la ricerca e il recupero
+* Agevolare la comprensione e la classificazione dei contenuti basati sull'IA
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+* Conversione automatizzata da ODP a JSON per i sistemi di gestione dei contenuti
+* Integrazione nei pipeline ETL (Estrai, Trasforma, Carica)
+* Rendering dinamico dei dati della presentazione in app web o mobili
+* Conversione batch per i repository di risorse digitali o le API
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

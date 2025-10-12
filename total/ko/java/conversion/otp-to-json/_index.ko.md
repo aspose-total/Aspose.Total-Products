@@ -49,7 +49,33 @@ OTP를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 설정�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTP를 JSON으로 변환**하면 **OpenDocument Presentation 템플릿**에서 구조화된 데이터를 효율적으로 추출하여 기계가 읽을 수 있는 형식으로 변환할 수 있습니다. 이 변환은 개발자, 분석가 및 자동화 시스템이 프레젠테이션 콘텐츠를 데이터 파이프라인, API 또는 콘텐츠 관리 시스템에 통합하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 프레젠테이션 템플릿을 구조화된 JSON 데이터로 변환
+* 분석을 위한 메타데이터, 슬라이드 레이아웃 및 텍스트 콘텐츠 추출
+* 프레젠테이션 데이터의 API 기반 소비 가능
+* 레거시 OTP 템플릿을 현대적인 웹 애플리케이션으로 이관
+* JSON 데이터베이스에 프레젠테이션 콘텐츠 중앙 저장
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* OTP 파일을 표준화된 JSON 스키마로 대량 변환
+* 동적 콘텐츠 재사용을 위한 CMS 또는 DAM 시스템 통합
+* 대규모 데이터셋에서 슬라이드 요소의 자동 분석
+* 프레젠테이션 템플릿을 프로그래밍 방식으로 업데이트하는 워크플로 자동화
+* 프레젠테이션 기반 입력으로부터 AI 및 ML 데이터 전처리
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

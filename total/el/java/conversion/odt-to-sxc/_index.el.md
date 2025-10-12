@@ -61,7 +61,27 @@ otherformats: XLSB XLSM XLSX TSV EXCEL ODS FODS DIF XLT XLAM SXC XLTX XLTM XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή από **ODT σε SXC** επιτρέπει **συμβατότητα με τα παλαιά StarOffice και τα πρώιμα μορφές υπολογιστικών φύλλων του OpenOffice**, διατηρώντας την πίνακα ακεραιότητα και τα δομημένα δεδομένα.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή πινάκων βασισμένων σε έγγραφα για χρήση σε παλαιά συστήματα γραφείου
+* Κοινή χρήση δεδομένων σε παλαιότερα περιβάλλοντα υπολογιστικών φύλλων
+* Διατήρηση συμβατότητας με ιστορικές μορφές δεδομένων
+* Μετασχηματισμός δομημένων εγγράφων για αρχειοθετικούς σκοπούς
+* Εξαγωγή αναφορών βασισμένων σε κείμενο σε αρχεία συμβατά με υπολογιστικά φύλλα
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτοματοποιημένη μαζική μετατροπή από ODT σε SXC για αντιστοιχία προς τα πίσω
+* Ενσωμάτωση με ροές εργασίας υποστήριξης παλαιού λογισμικού
+* Μεταφορά δεδομένων μεταξύ εγγράφου και συστημάτων υπολογιστικών φύλλων
+* Επεξεργασία αρχειοθετικών εγγράφων για παλαιότερες εκδόσεις του OpenOffice
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

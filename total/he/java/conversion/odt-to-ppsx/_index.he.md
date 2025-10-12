@@ -100,7 +100,27 @@ otherformats: PPSM POTM PPS PPTX POWERPOINT ODP PPT PPTM POT POTX CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-PPSX** ממירה מסמכי טקסט לקבצי מצגת מודרניים, שומרת על העיצוב, המבנה והויזואלים להפעלה מיידית.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת שקופיות מצגת סופיות ישירות מתוך תוכן טקסט
+* מסירת דוחות מטופלים כמצגות מוכנות להפעלה
+* שיתוף תוכן מצגת ללא מקורות ניתנים לעריכה
+* הכנת מצגות לכנסים או פגישות ממסמכים
+* הפצת גרסאות מצגת סופיות של דוחות
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* יצירת מצגת ODT-ל-PPSX אוטומטית
+* המרה בצורת סדרה לפרסום מסמכי מצגת בכמות גדולה
+* שילוב במערכות דיווח תאגידיות
+* אוטומציה של מסמך למצגת לארגונים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

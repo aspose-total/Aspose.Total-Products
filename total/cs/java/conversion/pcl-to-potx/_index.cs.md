@@ -121,7 +121,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na POTX** převádí výstup **Printer Command Language** do formátu **PowerPoint Open XML Template (.POTX)** pro vytváření opakovaně použitelných a upravitelných šablon prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření standardizovaných šablon PowerPointu z návrhů PCL
+* Vytváření opakovaně použitelných rozvržení pro firemní prezentace
+* Převádění tiskově připravených firemních vizuálů do moderních šablon .POTX
+* Udržování konzistence mezi prezentacemi v PowerPointu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické převádění tiskových rozvržení do šablon POTX
+* Integrace s generací snímků nebo systémy pro automatizaci designu
+* Zjednodušené vytváření šablon pro firemní komunikační nástroje
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

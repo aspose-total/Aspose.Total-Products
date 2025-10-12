@@ -54,7 +54,30 @@ API juga memungkinkan Anda untuk mengonversi dokumen OTT yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OTT ke PPTM** mengubah **Template Teks OpenDocument (.OTT)** menjadi **Presentasi PowerPoint yang Diaktifkan Makro (.PPTM)** untuk slide deck interaktif dan otomatis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menanamkan makro dan otomatisasi ke dalam presentasi yang berasal dari OTT
+* Mengonversi template menjadi slide deck dinamis dan interaktif
+* Mempermudah penciptaan konten yang berulang untuk pertemuan atau laporan
+* Meningkatkan alur kerja dengan fungsionalitas presentasi yang diaktifkan makro
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Pembuatan presentasi PPTM terjadwal dari template dokumen
+* Konversi OTT ke PPTM secara batch untuk pelaporan perusahaan
+* Integrasi ke dalam alur kerja presentasi dan konten otomatis
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -100,7 +100,30 @@ otherformats: PPS POT PPTX POTM ODP PPT PPSM PPTM POWERPOINT POTX CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-PPSX** ממירה **תבניות טקסט של OpenDocument (.OTT)** לתוך **מצגות PowerPoint Open XML (.PPSX)** למצגות מוכנות לניגון.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* מסירת תבניות טקסט כמצגות במסך מלא
+* המרת תבניות OTT תאגידיות לתבנית מצגת
+* שיתוף תוכן כמצגות PowerPoint שאינן ניתנות לעריכה
+* שמירה על עיצוב ועיצוב מתבניות מסמכים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-PPSX בצורה צפופה לדיווחים או הכשרה
+* שילוב עם זרימות עבודה להפצת מצגות
+* יצירה מתוזמנת של שקופיות מוכנות לניגון מתבניות מסמכים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

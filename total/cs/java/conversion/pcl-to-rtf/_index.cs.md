@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konverze PCL na RTF** umožňuje převést výstupy v jazyce **Printer Command Language** do dokumentů ve formátu **Rich Text Format (RTF)** pro širokou kompatibilitu, snadné úpravy a použití na různých platformách.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění tištěných dokumentů do editovatelných souborů s bohatým textem
+* Uchování základního formátování zároveň s zajištěním přenositelnosti
+* Sdílení tiskem generovaných zpráv napříč různými textovými procesory
+* Příprava lehkých verzí dokumentů pro archivační účely
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze tiskových souborů PCL do RTF pro distribuci
+* Integrace potrubí PCL-na-RTF do podnikových systémů
+* Automatické generování formátovaných textových zpráv z tiskových dat
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

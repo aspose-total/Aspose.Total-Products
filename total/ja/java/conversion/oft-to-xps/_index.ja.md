@@ -30,7 +30,33 @@ otherformats: PNG TEXT PDF ODT PS DOT TIFF XPS MD FLATOPC RTF EMF PCL JPEG GIF O
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OFTをXPSに変換**すると、**XML Paper Specificationファイル**が作成され、Outlookテンプレートのプラットフォームに依存しない、固定レイアウトの文書表現が可能になり、表示、共有、印刷ができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* テンプレートのレイアウトと書式をデバイス間で維持する
+* Eメールテンプレートを固定レイアウトの文書として共有する
+* コンプライアンスと記録保持のためのOFTコンテンツのアーカイブ
+* 一貫した外観でテンプレートを印刷する
+* Microsoft OutlookやWordなしでテンプレートを表示する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業配布のための自動化されたOFTからXPSへの変換
+* 文書管理システムとの統合
+* Eメールテンプレートから固定レイアウトアーカイブの一括生成
+* テンプレートの安全な共有と印刷のためのパイプライン
+* Outlookテンプレートデザインの長期アーカイブ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

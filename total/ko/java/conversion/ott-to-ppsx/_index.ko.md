@@ -54,7 +54,30 @@ API를 사용하면 암호로 보호된 OTT 문서를 PPSX로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 PPSX로 변환**은 **OpenDocument Text Templates (.OTT)**을 **PowerPoint Open XML Show (.PPSX)**로 변환하여 재생 준비된 프레젠테이션으로 만듭니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 텍스트 템플릿을 전체 화면 프레젠테이션으로 제공
+* 기업용 OTT 템플릿을 슬라이드쇼 형식으로 변환
+* 편집할 수 없는 PowerPoint 쇼로 콘텐츠 공유
+* 문서 템플릿에서 디자인과 서식 보존
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 보고서 또는 교육용 일괄 OTT-to-PPSX 변환
+* 프레젠테이션 배포 워크플로우 통합
+* 문서 템플릿에서 재생 준비된 슬라이드의 예약 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

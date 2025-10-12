@@ -47,7 +47,30 @@ PCL 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 XLTM으로 변환**하면 인쇄 문서에서 **매크로가 활성화된 Excel 템플릿**을 만들 수 있어 레이아웃 보존과 자동화 논리를 포함시킬 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 인쇄된 레이아웃에서 매크로가 활성화된 Excel 템플릿 디자인
+* 보고서 템플릿에 재사용 가능한 자동화 포함
+* 동적 템플릿 기반 문서 생성 가능
+* 스마트 스프레드시트 생성 표준화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 루틴 PCL 보고서에서 스마트 템플릿 생성
+* 매크로 논리를 사용하여 Excel 보고서 제작 자동화
+* 인쇄 데이터 일괄 변환을 통한 재사용 가능한 비즈니스 템플릿 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

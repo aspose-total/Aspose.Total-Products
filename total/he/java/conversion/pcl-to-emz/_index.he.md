@@ -105,7 +105,30 @@ otherformats: PSD TGA WMF IMAGE JPEG2000 WMZ  SVGZ DXF APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**המרת PCL ל-EMZ** מדחסת וממירה גרפיקה בשפת הפקודות של מדפסת לתבנית **Enhanced Metafile (Compressed) – EMZ**, ממטבע ומשפרת תמונות עבור יישומים של גרפיקה ניתנת להתאם ושימוש ב-Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* הטמעת גרפיקה מבוססת וקטורית במשרד או תוכנות עיצוב
+* הפחתת גודל קובץ של תמונות מודפסות למערכות תיעוד
+* שמירה על היכולת להתאמה ואיכות של גרפיקה ב-PCL
+* הכנת נכסים מדוחסים לאוטומציה של מסמכים או תבניות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה בצורת צמיחה של דיאגרמות שנוצרו בהדפסה לתמונות EMZ
+* שילוב עם מערכות לניהול תוכן לאחסון תמונות מותקנות
+* יצירה אוטומטית של גרפיקה מדוחסת לפרסום מסמכים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

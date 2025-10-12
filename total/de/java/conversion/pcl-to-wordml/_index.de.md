@@ -130,7 +130,30 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL zu WORDML** Konvertierung wandelt **Printer Command Language** Dokumente in das **WordProcessingML (WordML)** Format um, das eine auf XML basierende Struktur für fortgeschrittene Datenmanipulation und Dokumentenautomatisierung bietet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Umwandlung von Drucklayouts in XML-basierte Word-Formate
+* Ermöglichen strukturierter Dokumentenmanipulation über WordML
+* Integration von Word-Dokumenten in XML-basierte Workflows
+* Erleichterung der metadatengesteuerten Dokumentenautomatisierung
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatische Generierung von WordML-Dokumenten aus PCL-Druckdateien
+* Integration in Dokumentenverwaltung und XML-Workflows
+* Massenkonvertierung zur Interoperabilität mit Word-Verarbeitungs-APIs
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

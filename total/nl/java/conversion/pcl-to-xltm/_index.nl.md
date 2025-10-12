@@ -47,7 +47,30 @@ Tijdens het converteren van het PCL-bestand naar XLTM, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **PCL naar XLTM** maakt het mogelijk om **macro-ingeschakelde Excel-sjablonen** te maken van afdrukdocumenten, waarbij lay-outbehoud wordt gecombineerd met de mogelijkheid om automatiseringslogica in te sluiten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Ontwerpen van macro-ingeschakelde Excel-sjablonen van gedrukte lay-outs
+* Insluiten van herbruikbare automatisering in rapport-sjablonen
+* Mogelijk maken van dynamische sjabloon-gebaseerde documentgeneratie
+* Standaardiseren van slimme spreadsheet-creatie
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Genereren van slimme sjablonen van routinematige PCL-rapporten
+* Automatiseren van Excel-rapportproductie met macrologica
+* Batchconversie van afdrukgegevens naar herbruikbare zakelijke sjablonen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

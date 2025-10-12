@@ -61,7 +61,33 @@ otherformats: EXCEL DIF XLAM SXC XLT XLSM ODS XLTX XLTM XLS TSV XLSX XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل **OTT إلى XLS** يحول قوالب OpenDocument Text إلى تنسيق **Excel 97-2003 Workbook**، مما يسمح باستخدام جداول البيانات والتقارير المتوافقة مع الإصدارات السابقة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء تقارير Excel متوافقة مع الإصدارات السابقة
+* نقل محتوى القوالب إلى بيئات جداول بيانات أقدم
+* تحضير البيانات المهيكلة من القوالب للتحليلات
+* أرشفة المحتوى في تنسيقات مدعومة على نطاق واسع
+* دعم دمج البريد أو المراسلات المدفوعة بواسطة جداول البيانات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل OTT إلى XLS بدفعات تلقائية
+* دمج مع أنظمة المؤسسات القديمة
+* خطوط أنابيب إنشاء جداول بيانات من قوالب متعددة
+* سير عمل تقارير مدفوع بالقوالب
+* أرشفة البيانات التاريخية في تنسيق XLS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

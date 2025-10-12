@@ -54,7 +54,27 @@ Az API azt is lehetővé teszi, hogy jelszóval védett ODT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **ODT to PPSM konvertálása** lehetővé teszi a **makróval ellátott diavetítés generálását** szöveges dokumentumokból, ideális interaktív és automatizált prezentációs élmények létrehozásához.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Automatizált prezentációk létrehozása makró logikával
+* Strukturált Word adatok átalakítása interaktív diavetítésekké
+* Jelentések-diavetítések automatizálása
+* Dinamikus prezentációs viselkedés beágyazása a diákba
+* Üzleti folyamatok előkészítése makróval ellátott prezentációk kimeneteléhez
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+* Automatizált ODT-to-PPSM prezentációs folyamatok
+* Tömeges makróval ellátott diavetítés generálása ODT fájlokból
+* Integráció vállalati automatizálási és jelentési rendszerekbe
+* Dinamikus tartalomvezérelt prezentáció generálása
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

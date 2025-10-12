@@ -54,7 +54,30 @@ Az API azt is lehetővé teszi, hogy jelszóval védett OTT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **OTT to PPTM** átalakítása átalakítja az **OpenDocument Text sablonokat (.OTT)** **PowerPoint makróval engedélyezett bemutatókká (.PPTM)** interaktív, automatizált diákcsomagokká.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcs felhasználási esetek" %}}
+
+* Makrók és automatizálás beágyazása az OTT-ból származó prezentációkba
+* Sablonok átalakítása dinamikus, interaktív diákcsomagokká
+* Ismétlődő tartalom létrehozásának egyszerűsítése értekezletek vagy jelentések számára
+* Munkafolyamat javítása a makróval engedélyezett bemutató funkcióval
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ütemezett PPTM prezentációk létrehozása dokumentumsablonokból
+* Tömeges OTT-to-PPTM konverzió vállalati jelentésekhez
+* Integráció automatizált bemutató- és tartalomfolyamatokba
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

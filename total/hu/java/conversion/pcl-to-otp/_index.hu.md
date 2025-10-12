@@ -121,7 +121,30 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to OTP** átalakítása átalakítja a **Printer Command Language** fájlokat **OpenDocument Presentation Template (.OTP)** formátummá újrafelhasználható diavetítés sablonok létrehozásához.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Prezentációs sablonok tervezése PCL elrendezésekből
+* Márkás diavetítés sablonok létrehozása üzleti célokra
+* Nyomtatott vállalati vizuális elemek átalakítása szerkeszthető OTP sablonokká
+* Tervezési újrafelhasználás egyszerűsítése az osztályok között
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált sablon létrehozás a standard nyomtatott anyagokból
+* Integráció a prezentáció-építési munkafolyamatokkal
+* Újrafelhasználható diamester generálása vállalati nyomtatott dokumentumokból
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

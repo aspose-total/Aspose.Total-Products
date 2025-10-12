@@ -102,7 +102,30 @@ otherformats: MD DIF XLTM EXCEL ODS CSV XLSM XLSB TSV XLAM FODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**המרת PCL ל-XLT** יוצרת קבצי **תבנית Excel** ממסמכי **שפת פקודות המדפסת**, מאפשרת להשתמש שוב בפריסות הדפס מובנות ליצירת דוחות עקביים ב-Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* עיצוב תבניות Excel בהתבסס על פורמטי דוחות מודפסים
+* שמירה על פריסה ועיצוב עקביים לדוחות
+* תקנות תבניות תיעוד עסקי
+* האצת הגדרת דוח עם תבניות מוגדרות מראש המבוססות על הדפס
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* אוטומציה של יצירת תבניות מפלטי PCL חוזרים
+* יצירת תבניות ניתנות לשימוש למילוי דוחות אוטומטי
+* שילוב זרימות עבודה מההדפסה לתבנית לארגונים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

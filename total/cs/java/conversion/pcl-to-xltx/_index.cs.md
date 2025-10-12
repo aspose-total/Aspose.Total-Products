@@ -47,7 +47,30 @@ Při převodu souboru PCL na XLTX můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konverze PCL na XLTX** transformuje dokumenty ve formátu **Printer Command Language (PCL)** do souborů ve formátu **Excel Template (XLTX)**, což umožňuje konzistentní formátování a opakovatelnost pro budoucí tabulky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění tiskových rozvržení do opakovaně použitelných Excel šablon
+* Zjednodušení tvorby zpráv pomocí předdefinovaných stylů
+* Zachování konzistence dokumentů napříč odděleními
+* Automatizace tvorby šablon pro standardizované reportování
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizace na základě šablon pro obchodní reportování
+* Převádění pravidelných tiskových zpráv do standardizovaných šablon
+* Automatické vytváření návrhů připravených pro Excel z výstupu PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

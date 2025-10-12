@@ -54,7 +54,33 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar POTX con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **OTT naar POTX** produceert **PowerPoint-sjabloonbestanden zonder macro's**, waardoor beveiligde, gestandaardiseerde dia-sjablonen worden afgeleid van tekstuele sjablonen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Herbruikbare, macrovrije presentatiesjablonen
+* Standaardiseren van bedrijfsspecifieke dia-ontwerpen
+* Voorbereiden van op sjablonen gebaseerde trainings- of marketingdecks
+* Archiveren van dia-indelingen voor samenwerkende teams
+* Beveiliging garanderen door het vermijden van macro's
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde OTT-naar-POTX batchconversie
+* Integratie met systemen voor het beheer van presentatiesjablonen
+* Dynamische generatie van dia-decks uit sjabloonbibliotheken
+* Bedrijfsbrede distributie van macrovrije sjablonen
+* Pipeline-automatisering voor updates van dia-sjablonen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

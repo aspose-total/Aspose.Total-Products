@@ -100,7 +100,30 @@ otherformats: PPT POTM POT PPSX ODP POWERPOINT PPSM PPS POTX PPTX CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-PPTM** ממירה **תבניות טקסט של OpenDocument (.OTT)** ל-**מצגת בעלת אפשרויות מאקרו שמופעלות (.PPTM)** למצגות שקופות ואינטראקטיביות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* הטמעת מאקרוס ואוטומציה במצגות שנוצרו מ-OTT
+* המרת תבניות למצגות דינמיות ואינטראקטיביות
+* עיבוד תוכן חוזר לפגישות או דוחות
+* שיפור זרימת העבודה עם פונקציונליות של מצגות עם מאקרו
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירה מתוזמנת של מצגות PPTM מתבניות מסמכים
+* המרת OTT ל-PPTM בצורה גורמתית לדיווחי עסקי
+* שילוב בזרימות עבודה אוטומטיות של מצגות ותוכן
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

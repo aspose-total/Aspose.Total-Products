@@ -61,7 +61,27 @@ Po převodu ODT do SXC vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na SXC** umožňuje **kompatibilitu s dědictvím formátů tabulek StarOffice a raných formátů tabulek OpenOffice**, zachovává tabulkovou integritu a strukturovaná data.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění tabulek z dokumentů pro použití v dědictví kancelářských systémů
+* Sdílení dat mezi staršími prostředími tabulek
+* Zachování kompatibility s historickými formáty dat
+* Transformace strukturovaných dokumentů pro archivační účely
+* Export textových zpráv do souborů kompatibilních se tabulkami
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatizovaný hromadný převod ODT na SXC pro zpětnou kompatibilitu
+* Integrace s pracovními postupy podpory dědictví softwaru
+* Migrace dat mezi dokumenty a tabulkovými systémy
+* Zpracování archivačních dokumentů pro starší verze OpenOffice
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

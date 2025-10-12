@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **PCL naar FLATOPC** maakt de transformatie van **Printer Command Language**-documenten naar het **Flat OPC XML**-formaat mogelijk, waarbij Microsoft Word-, Excel- of PowerPoint-documenten worden weergegeven als enkele, verenigde XML-bestanden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van afgedrukte inhoud naar open, op XML gebaseerde documentstructuren
+* Het mogelijk maken van diepe gegevensextractie en -wijziging uit PCL gegenereerde bestanden
+* Integratie van afdrukinhoud in enterprise XML-workflows
+* Het waarborgen van transparantie en traceerbaarheid bij documenttransformatie
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde PCL-naar-FLATOPC-conversie in documentbeheersystemen
+* Integratie van afdrukworkflows met op XML gebaseerde archiverings- en analysetools
+* Batchconversie van PCL-bestanden voor langetermijndigitale preservering
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

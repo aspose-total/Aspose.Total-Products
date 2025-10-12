@@ -57,7 +57,33 @@ APIを使用すると、必要に応じて出力IMAGE画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLを画像に変換**すると、プリンターコマンド言語文書から**ラスター画像出力**（PNG、JPEG、TIFFなど）が生成され、印刷用のファイルが標準画像として表示および共有可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PCL印刷ジョブを画像として視覚化
+* 印刷出力を文書やレポートに埋め込む
+* 画像ベースのリポジトリにPCLファイルをアーカイブ
+* クロスプラットフォームアクセシビリティのための画像への印刷ワークフロー
+* PCL以外のデバイス間で印刷レイアウトを共有
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 印刷処理システムでの自動PCLから画像への変換
+* ドキュメントプレビューのためのバッチ画像生成
+* クラウド印刷監視やDMSソリューションとの統合
+* 企業印刷データの画像ベースのアーカイブ
+* QAおよび検証のためのリアルタイム印刷ジョブの視覚化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

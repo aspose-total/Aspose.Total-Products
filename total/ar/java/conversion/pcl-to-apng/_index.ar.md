@@ -57,7 +57,35 @@ otherformats: WMZ WMF  JPEG2000 DXF IMAGE EMZ PSD TGA SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى APNG
+
+تحويل **لغة أوامر الطابعة (PCL)** إلى **صور APNG المتحركة** يجعل من الممكن تمثيل ملفات الطباعة متعددة الصفحات كرسوم متحركة قائمة على الإطارات للاستخدام على الويب أو الرقمي.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء معاينات متحركة لملفات الطباعة متعددة الصفحات
+* مشاركة الناتج البصري للطباعة بتنسيقات صديقة للويب
+* إنشاء وثائق برسوم متحركة
+* أرشفة العروض الديناميكية لبيانات الطباعة بتنسيق PCL
+* عرض تقارير قائمة على PCL كرسوم متحركة APNG
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعة تلقائية لملفات PCL إلى سلاسل APNG
+* دمج مع أنظمة معاينة الطباعة والتصور
+* تقديم PCL إلى APNG في الوقت الحقيقي للوحات القيادة الرقمية
+* تحويل سير العمل الطباعي إلى تنسيقات رسوم متحركة على الويب
+* أرشفة تلقائية لمستندات PCL كرسوم متحركة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

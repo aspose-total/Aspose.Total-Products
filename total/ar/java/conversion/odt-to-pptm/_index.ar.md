@@ -54,7 +54,27 @@ otherformats: PPSM PPSX PPS POWERPOINT PPT POTM POTX PPTM PPTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى PPTM** يمكن أن يسمح بإنشاء **عروض تقديمية في بوربوينت مع ماكروهات ممكّنة** من مستندات نصية، مجمعة بين محتوى ثابت وسلوكيات الشرائح التفاعلية أو التلقائية.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصميم عروض تقديمية تفاعلية من مستندات نصية منظمة
+* إنشاء تقارير آلية مع ماكروهات مضمنة
+* إنشاء عروض تقديمية تُشغّل انتقالات الشرائح الديناميكية
+* إعداد عروض أعمال ذكية أو تدريبية بوظائف VBA
+* تبسيط تسليم التقارير باستخدام العروض التقديمية مع ماكروهات ممكّنة
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* سير عمل توليد العروض التقديمية من ODT إلى PPTM تلقائيًا
+* دمج مع أنظمة تقارير الشركات والأتمتة
+* إنشاء شرائح ذات ماكروهات بالدُفعة من ملفات ODT
+* توليد عروض تقديمية مدفوعة بالبيانات الديناميكية للتقارير الداخلية
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

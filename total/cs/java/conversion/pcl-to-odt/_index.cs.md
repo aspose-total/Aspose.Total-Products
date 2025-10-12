@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na ODT** převádí výstup **Printer Command Language** do formátu **OpenDocument Text (.ODT)** pro úpravy textu v **LibreOffice Writer** nebo jiných editorů ODF.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření editovatelných dokumentů z tiskových zpráv
+* Příprava textově náročného výstupu PCL pro publikaci nebo spolupráci
+* Převod šablon založených na PCL do editovatelných souborů ODT
+* Udržování konzistence dokumentů napříč open-source systémy
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování dokumentů ODT z tiskových úloh
+* Integrace s systémy pro správu a úpravu dokumentů
+* Hromadný převod archivovaných dokumentů PCL do formátů s otevřeným textem
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

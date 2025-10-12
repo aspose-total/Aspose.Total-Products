@@ -54,7 +54,30 @@ API juga memungkinkan Anda untuk mengonversi dokumen OTT yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OTT ke PPSX** mengubah **OpenDocument Text Templates (.OTT)** menjadi **PowerPoint Open XML Show (.PPSX)** untuk presentasi siap putar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+* Mengirimkan template teks sebagai presentasi layar penuh
+* Mengonversi template OTT perusahaan menjadi format tayangan slide
+* Berbagi konten sebagai tayangan PowerPoint yang tidak dapat diedit
+* Menjaga desain dan format dari template dokumen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch OTT ke PPSX untuk pelaporan atau pelatihan
+* Integrasi dengan alur kerja distribusi presentasi
+* Pembuatan jadwal slide siap putar dari template dokumen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

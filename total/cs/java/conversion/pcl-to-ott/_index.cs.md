@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na OTT** převádí výstup z **Printer Command Language** do formátu **OpenDocument Text Template (.OTT)** pro standardizované dokumentové šablony v **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření opakovaně použitelných šablon dokumentů z formulářů PCL
+* Vytváření standardizovaných obchodních rozvržení pro korespondenci
+* Převádění záhlaví nebo zpráv PCL do upravitelných šablon
+* Podpora otevřených dokumentových pracovních postupů s konzistentním formátováním
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování OTT z návrhových systémů tisku
+* Integrace s pracovními postupy tvorby obsahu podniku
+* Hromadná konverze tištěných šablon do formátu OTT pro opakované použití dokumentů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

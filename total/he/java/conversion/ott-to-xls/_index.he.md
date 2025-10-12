@@ -102,7 +102,33 @@ otherformats: EXCEL DIF XLAM SXC XLT XLSM ODS XLTX XLTM CSV TSV XLSX XLSB FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-XLS** ממירה תבניות טקסט של OpenDocument לתבנית חוברת **Excel 97-2003**, מאפשרת שימוש חזרה עם גיליון נתונים ודיווחים תואמים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת דוחות Excel תואמים לגרסאות ישנות
+* העברת תוכן תבנית לסביבות גיליון נתונים ישנות
+* הכנת נתונים מובנים מתבניות לצורך ניתוח
+* ארכיבת תוכן בפורמטים נתמכים בצורה רחבה
+* תמיכה במיזוג דואר או תכתובת תקשורת מבוססת גיליון נתונים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-XLS בצורה אוטומטית באצוות
+* שילוב עם מערכות עסקיות מורשות
+* צינורות יצירת גיליונות נתונים ממספר תבניות
+* זרימות עבודה לדיווחים המופעלים על ידי תבניות
+* ארכיבת נתונים היסטוריים בפורמט XLS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

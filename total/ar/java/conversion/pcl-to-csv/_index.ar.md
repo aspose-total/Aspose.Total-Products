@@ -47,7 +47,33 @@ otherformats: XLTM XLSB MD ODS TSV EXCEL XLTX FODS DIF SXC XLT XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى CSV
+
+تسمح تحويل **PCL إلى CSV** بتحويل البيانات الجدولية أو المنظمة المطبوعة عبر **لغة أمر الطابعة (PCL)** إلى ملفات **قيم مفصولة بفواصل**. وهذا يجعل من السهل إعادة استخدام أو تحليل المعلومات في تطبيقات جداول البيانات أو قواعد البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج البيانات الجدولية من التقارير المطبوعة أو الفواتير
+* استيراد المعلومات المطبوعة إلى قواعد بيانات أو جداول بيانات
+* تلقائي تحويل سجلات PCL أو ملخصات إلى جداول بيانات
+* أرشفة النواتج المطبوعة كمجموعات بيانات CSV منظمة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* أنابيب تحويل دفعي لتقارير تم إنشاؤها بالطباعة
+* استخراج PCL إلى CSV في الوقت الحقيقي لأنظمة المراقبة
+* دمجه في أدوات الذكاء التجاري وتحليل البيانات
+* تصدير البيانات المطبوعة تلقائيًا لغرض التدقيق أو الامتثال
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

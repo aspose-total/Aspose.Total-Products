@@ -61,7 +61,33 @@ OTTをXLSに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをXLSに変換**すると、OpenDocument Text Templatesを**Excel 97-2003 Workbook形式**に変換して、後方互換性のあるスプレッドシートの使用とレポート作成が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 旧バージョンと互換性のあるExcelレポートの生成
+* テンプレートコンテンツを古いスプレッドシート環境に移行
+* テンプレートから構造化されたデータを分析用に準備
+* 広くサポートされている形式でコンテンツをアーカイブ
+* メールマージやスプレッドシートに基づく通信のサポート
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 自動バッチOTTからXLSへの変換
+* 旧来のエンタープライズシステムとの統合
+* 複数のテンプレートからのスプレッドシート生成パイプライン
+* テンプレート駆動型のレポート作業フロー
+* XLS形式での歴史データのアーカイブ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

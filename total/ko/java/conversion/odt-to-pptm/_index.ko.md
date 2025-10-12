@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 ODT 문서를 PPTM로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 PPTM으로 변환**하면 텍스트 문서에서 **매크로가 활성화된 PowerPoint 프레젠테이션**을 만들 수 있어 정적 콘텐츠와 상호작용 또는 자동화된 슬라이드 동작을 결합할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 구조화된 텍스트 문서에서 대화식 프레젠테이션 디자인
+* 매크로가 포함된 자동 보고서 생성
+* 동적 슬라이드 전환을 유발하는 프레젠테이션 생성
+* VBA 기능을 활용한 스마트 비즈니스 또는 교육 덱 준비
+* 매크로가 활성화된 프레젠테이션을 활용한 보고서 전달 최적화
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* 자동화된 ODT에서 PPTM 프레젠테이션 생성 워크플로우
+* 기업 보고 및 자동화 시스템과의 통합
+* ODT 파일에서 일괄 매크로가 활성화된 슬라이드 생성
+* 내부 보고를 위한 동적 데이터 기반 프레젠테이션 생성
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

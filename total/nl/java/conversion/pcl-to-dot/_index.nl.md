@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL naar DOT** conversie maakt het mogelijk om afgedrukte sjablonen en rapporten van **Printer Command Language** bestanden om te zetten naar **Microsoft Word Template (.DOT)** documenten voor consistente opmaak en hergebruik.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Opbouwen van Word-sjablonen vanuit op PCL gebaseerde rapporten of lay-outs
+* Standaardiseren van het uiterlijk van documenten over afdelingen heen
+* Creëren van herbruikbare formulieren en rapport-sjablonen van afdrukbestanden
+* Stroomlijnen van documentvoorbereidingsprocessen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde generatie van bedrijfssjablonen van afgedrukte rapporten
+* Sjabloon-gebaseerde documentworkflows voor bedrijfsactiviteiten
+* Omzetten van routinematige PCL-rapporten naar direct te gebruiken DOT-sjablonen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

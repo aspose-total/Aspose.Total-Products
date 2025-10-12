@@ -47,7 +47,30 @@ A PCL-fájl XLT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to XLT** konverzió létrehozza az **Excel sablon** fájlokat a **Nyomtatóparancs-nyelv** dokumentumokból, lehetővé téve a strukturált nyomtatási elrendezések újrafelhasználását az Excelben történő következetes jelentéskészítéshez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Excel sablonok tervezése nyomtatott jelentésformátumok alapján
+* Következetes elrendezés és stílus fenntartása a jelentésekhez
+* Üzleti dokumentációs sablonok szabványosítása
+* Jelentések gyors beállításának felgyorsítása előre meghatározott nyomtatási alapú sablonokkal
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Sablon generálás automatizálása ismétlődő PCL kimenetekből
+* Újrafelhasználható sablonok létrehozása automatikus jelenték kitöltéshez
+* Nyomtatás-sablon munkafolyamatok integrálása szervezetek számára
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

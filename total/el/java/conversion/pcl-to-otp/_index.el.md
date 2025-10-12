@@ -121,7 +121,30 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή **PCL σε OTP** μετατρέπει αρχεία **Printer Command Language** σε μορφή **OpenDocument Presentation Template (.OTP)** για τη δημιουργία επαναχρησιμοποιήσιμων προτύπων διαφανιών.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Σχεδιασμός προτύπων παρουσιάσεων από διατάξεις PCL
+* Δημιουργία εξατομικευμένων προτύπων διαφανιών για επαγγελματική χρήση
+* Μετατροπή εκτυπωμένων εταιρικών οπτικοακουστικών σε επεξεργάσιμα πρότυπα OTP
+* Βελτίωση της επαναχρησιμοποίησης σχεδιασμού σε όλα τα τμήματα
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτοματοποιημένη δημιουργία προτύπων από τυποποιημένα εκτυπώσιμα υλικά
+* Ενσωμάτωση με ροές εργασίας δημιουργίας παρουσιάσεων
+* Δημιουργία επαναχρησιμοποιήσιμων κύριων διαφανειών από εταιρικά εκτυπώσιμα έγγραφα
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

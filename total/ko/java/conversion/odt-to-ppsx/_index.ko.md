@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 ODT 문서를 PPSX로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 PPSX로 변환**하면 텍스트 기반 문서를 **현대적인 프레젠테이션 슬라이드 파일**로 변환하여 형식, 구조 및 시각적 요소를 보존하여 즉시 재생할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 텍스트 콘텐츠에서 직접 최종 프레젠테이션 슬라이드 생성
+* 완성된 보고서를 실행 가능한 슬라이드 덱으로 제공
+* 편집할 수 없는 소스 없이 프레젠테이션 콘텐츠 공유
+* 문서에서 회의나 미팅 프레젠테이션 준비
+* 보고서의 최종 슬라이드쇼 버전 배포
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* 자동화된 ODT-to-PPSX 프레젠테이션 생성
+* 대량 프레젠테이션 게시를 위한 일괄 변환
+* 기업 보고 시스템 통합
+* 조직을 위한 문서에서 슬라이드쇼 자동화
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

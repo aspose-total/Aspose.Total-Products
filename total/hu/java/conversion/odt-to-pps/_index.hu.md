@@ -54,7 +54,27 @@ Az API azt is lehetővé teszi, hogy jelszóval védett ODT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **ODT to PPS** konvertálása lehetővé teszi a **közvetlen diavetítés készítését** szöveges dokumentumokból, így tökéletesen alkalmas az előre elkészített tartalom prezentálására további szerkesztés nélkül.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Azonnali prezentációs fájlok létrehozása jelentések vagy összefoglalók alapján
+* Szöveges információk szlides formátumban történő bemutatása
+* Automatizált prezentációk előkészítése meetingekre vagy eseményekre
+* Word-stílusú dokumentumok átalakítása önállóan futó diavetítéssé
+* Oktatási vagy marketing prezentációs folyamatok optimalizálása
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+* Automatizált ODT-to-PPS diavetítés generálás
+* Integráció dokumentumközzétételi rendszerekkel
+* Szöveges prezentációk tömeges feldolgozása
+* Prezentációra kész slide-ok generálása strukturált tartalomból
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

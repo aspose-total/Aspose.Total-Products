@@ -54,7 +54,27 @@ otherformats: POTX POTM PPT POT PPTM PPTX PPSX PPS PPSM POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى PPS** يمكن أن يسمح بـ **إنشاء عروض تقديمية مباشرة** من وثائق النصوص، مما يجعله مثاليًا لتقديم محتوى جاهز للعرض دون الحاجة إلى تحرير إضافي.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء ملفات عروض تقديمية فورية من التقارير أو الملخصات
+* تقديم المعلومات القائمة على النصوص بتنسيق عرض تقديمي
+* إعداد عروض تقديمية آلية للاجتماعات أو الفعاليات
+* تحويل وثائق بنمط Word إلى عروض شرائح تعمل ذاتيًا
+* تبسيط سير العمل في العروض التعليمية أو التسويقية
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* توليد عروض تقديمية آلية من ODT إلى PPS
+* التكامل مع أنظمة نشر الوثائق
+* معالجة دفعية للعروض التقديمية القائمة على النصوص
+* إنشاء شرائح جاهزة للعرض من المحتوى المنظم
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

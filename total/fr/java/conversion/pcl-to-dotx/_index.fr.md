@@ -130,7 +130,28 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PCL en DOTX** convertit les fichiers **Printer Command Language** en format **Modèle Word (.DOTX)**, idéal pour maintenir la cohérence de conception dans des modèles réutilisables sans macro.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conception de modèles de documents normalisés à partir de mises en page d'impression
+* Rationalisation de l'identité visuelle de l'entreprise avec des modèles Word
+* Création de modèles éditables et réutilisables pour les futurs rapports
+* Conversion de contenu d'impression statique en conceptions de documents flexibles
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de modèles à partir de rapports d'impression en DOTX
+* Intégration dans les systèmes de génération de documents pour une sortie cohérente
+* Création au niveau de l'entreprise de modèles de rapports personnalisés
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

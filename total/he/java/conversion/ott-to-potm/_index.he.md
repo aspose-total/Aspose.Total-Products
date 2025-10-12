@@ -100,7 +100,33 @@ otherformats: PPSX PPTM PPSM POWERPOINT PPTX PPT PPS POTX ODP POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-POTM** יוצרת **קבצי תבנית של PowerPoint המופעלים במקרו**, שמאפשרים אוטומציה בהתבסס על תבניות במצגות באמצעות מקרוים שנגזרים מתוכן התבנית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות מצגת המופעלות במקרו
+* אוטומציה של משימות יצירת השקפים החוזרות
+* תהליכי עבודה אחידים עם מקרוי תבנית
+* שילוב של לוגיקה המופעלת על ידי תבניות למצגות
+* אוטומציה של מצגות באמצעות שיתוף פעולה
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-POTM בצורה רצפית לספריות תבניות המופעלות במקרו
+* אוטומציה עסקית של יצירת מצגות
+* שילוב עם כלים לניהול זרימת המצגות
+* יצירת מקרוים דינמיים מתוכן התבנית
+* צינורות אוטומציה של PowerPoint המופעלים על ידי תבניות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

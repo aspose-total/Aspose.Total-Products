@@ -54,7 +54,33 @@ API juga memungkinkan Anda untuk mengonversi dokumen OTT yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OTT ke POT** mengubah Templat Teks OpenDocument menjadi **berkas Templat PowerPoint**, memungkinkan penciptaan tata letak slide yang dapat digunakan kembali dari konten templat teks.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menghasilkan templat PowerPoint yang dapat digunakan kembali dari konten teks
+* Standarisasi format presentasi perusahaan
+* Mengarsipkan desain slide berbasis templat
+* Memfasilitasi penciptaan slide kolaboratif
+* Menyiapkan dek pelatihan atau pemasaran
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi OTT-ke-POT otomatis untuk perpustakaan templat perusahaan
+* Pembuatan templat presentasi secara batch dari beberapa file OTT
+* Integrasi dengan alur kerja manajemen presentasi
+* Penyisipan dinamis konten templat ke dalam dek slide
+* Standarisasi templat slide di seluruh perusahaan
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

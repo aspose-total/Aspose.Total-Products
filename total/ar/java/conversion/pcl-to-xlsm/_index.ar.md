@@ -47,7 +47,32 @@ otherformats: EXCEL MD XLSM ODS XLTX XLTM TSV XLT XLAM FODS DIF TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى XLSM
+
+يحول تحويل **PCL إلى XLSM** الوثائق القائمة على الطباعة إلى **سجلات عمل Excel ممكنة للتشغيل التلقائي بالماكرو**, مما يمكن من الأتمتة ومعالجة البيانات داخل بيئات Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* أتمتة المهام المتكررة على البيانات المستخرجة من ملفات PCL
+* تضمين الماكرو لإنشاء تقارير أو التحقق
+* تعزيز سير العمل من خلال برمجة Excel
+* دمج بيانات الطباعة مع أنظمة الأتمتة المعتمدة على Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء تقارير مالية أو تحليلية ممكنة للتشغيل التلقائي بالماكرو
+* تحديث لوحات تحكم Excel تلقائيًا من مصادر الطباعة PCL
+* أنابيب تحويل ديناميكية لمعالجة البيانات من الطباعة إلى البيانات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

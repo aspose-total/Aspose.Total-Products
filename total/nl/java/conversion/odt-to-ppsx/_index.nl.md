@@ -54,7 +54,25 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar PPSX con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **ODT naar PPSX** zet op tekst gebaseerde documenten om in **moderne presentatieslideshow-bestanden**, met behoud van opmaak, structuur en visuals voor directe weergave.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het direct maken van eindpresentatieslides vanuit tekstinhoud
+* Het leveren van gepolijste rapporten als direct te gebruiken dia-decks
+* Het delen van presentatie-inhoud zonder bewerkbare bronnen
+* Het voorbereiden van conferentie- of vergaderpresentaties vanuit documenten
+* Het verspreiden van definitieve versies van slideshows van rapporten
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde generatie van ODT-naar-PPSX-presentaties
+* Batchconversie voor massale publicatie van presentaties
+* Integratie in bedrijfsrapportagesystemen
+* Document-naar-slideshow automatisering voor organisaties
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

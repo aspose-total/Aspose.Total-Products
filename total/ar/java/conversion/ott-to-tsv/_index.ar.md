@@ -61,7 +61,33 @@ otherformats: XLTM TSV XLSB SXC XLT XLS EXCEL ODS XLTX FODS DIF XLSM XLAM XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل **OTT إلى TSV** يقوم بتصدير قوالب OpenDocument Text إلى **قيم مفصولة بواسطة علامة التبويب**, مفيد لاستيراد البيانات المهيكلة وتحليلها ومعالجتها في جداول بيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج البيانات لتقارير جدولية
+* إعداد القوالب لاستيرادها إلى جداول بيانات أو التلقائية
+* مشاركة محتوى القالب في شكل جدولي خفيف
+* أرشفة النصوص المهيكلة للتحليلات أو تسجيل البيانات
+* دعم تبادل البيانات بين المنصات المختلفة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+* أنابيب عملية OTT-to-TSV التلقائية لتقارير المؤسسات
+* تصدير دفعي للتحليلات وأنظمة الوثائق
+* التكامل مع أنظمة تعتمد على البيانات لمعالجة القوالب
+* إنشاء أرشيفات TSV لمستودعات المحتوى المركزية
+* تلقين العمليات لاستخراج المحتوى الجدولي
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,28 @@ Po převodu ODT do XLSM vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na XLSM** umožňuje export dat dokumentu do **souborů Excel s makry**, podporující automatizaci a pokročilé operace se sešity.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Exportování tabulek ODT pro použití ve VBA-řízených sešitech Excelu
+* Umístit automatizaci založenou na makrech z dat dokumentu
+* Vložení vzorců a vlastních skriptů do exportovaných souborů
+* Příprava interaktivních zpráv na základě textových vstupů
+* Propojení dat dokumentu s automatizačními pracovními postupy řízenými Excelem
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované transformace dokumentu na makro Excelu
+* Integrace exportů ODT do pokročilých systémů automatizace Excelu
+* Generování hromadných XLSM pro dynamické obchodní zprávy
+* Propojení textového obsahu s automatizací úkolů řízených tabulkami
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

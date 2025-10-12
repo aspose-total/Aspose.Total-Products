@@ -47,7 +47,25 @@ PCLファイルをEXCELに変換するときに、出力EXCELファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## PCLをEXCELに変換する
+
+**PCLをEXCELに変換**することで、印刷生成された文書を**Microsoft Excel**スプレッドシートに変換し、レポート、請求書、データシートなどの構造化された、編集可能で分析可能な形式を提供します。
+
+## 主な使用事例
+
+* PCLベースの印刷物を編集可能なExcelファイルに変換する
+* 印刷からデータ形式へのレポートや財務諸表の変換
+* 計算、チャート、分析のために印刷データを再利用する
+* ドキュメントのデジタル化プロセスを効率化する
+
+## 自動化シナリオ
+
+* PCLからExcelへのバッチ自動化変換
+* レポート作成のためのERPや会計システムとの統合
+* 印刷アーカイブからのExcel出力の自動生成
+* ワークフローに基づいたPCLデータのXLS/XLSXへの抽出
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

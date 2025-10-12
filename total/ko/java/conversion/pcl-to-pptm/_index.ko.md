@@ -121,7 +121,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 PPTM으로 변환**하면 **프린터 명령어 언어** 문서를 **파워포인트 매크로 활성화 프레젠테이션(.PPTM)** 형식으로 변환하여 변환된 슬라이드 내에서 자동화를 허용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PCL 기반 파워포인트 프레젠테이션에 매크로 임베딩
+* 비즈니스 슬라이드 덱 내 자동화된 워크플로우 활성화
+* 인쇄 준비 템플릿을 매크로 활성화 프레젠테이션으로 변환
+* PCL 콘텐츠로부터 대화식 또는 데이터 기반 슬라이드 작성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 보고 및 분석을 위한 PPTM 파일 자동 생성
+* 기업 시스템에 매크로 활성화 프레젠테이션 생성 통합
+* 인쇄 파일로부터 대화식 프레젠테이션 작성을 간소화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

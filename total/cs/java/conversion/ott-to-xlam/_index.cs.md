@@ -61,7 +61,33 @@ Po převodu OTT do XLAM vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **OTT na XLAM** produkuje **soubory Excel Add-in** odvozené z obsahu šablony, umožňující automatizaci, makra a zlepšené pracovní postupy se sešity založené na datech šablony.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření makro-povolených Excel doplňků z šablon
+* Automatizace opakujících se úkolů pomocí maker odvozených ze šablony
+* Zlepšení funkcionality sešitu s logikou šablony
+* Nasazení standardizovaných automatizačních pracovních postupů
+* Centralizace nástrojů pro Excel řízené šablonou
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze OTT na XLAM pro automatizaci Excelu ve firmě
+* Integrace s pracovními postupy nebo sestavovacími linkami
+* Generování opakovaně použitelných makro-povolených nástrojů pro sešity
+* Nasazení automatizace založené na šabloně
+* Dynamické aktualizace maker z obsahu šablony
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

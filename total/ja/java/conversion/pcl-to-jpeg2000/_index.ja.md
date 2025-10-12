@@ -57,7 +57,33 @@ APIを使用すると、必要に応じて出力JPEG2000画像を回転させる
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをJPEG2000に変換**することで、プリンターコマンド言語ファイルから**高品質で圧縮された画像出力**を提供し、アーカイブ、デジタル画像処理、または印刷コンテンツの安全な配布に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 印刷レイアウトの高精細なレンダリングをアーカイブする
+* ロスレス圧縮で印刷用のビジュアルを共有する
+* クライアントレビュー用のデジタル校正コピーを準備する
+* 画像システムにPCLコンテンツを埋め込む
+* 長期保存用に印刷データを変換する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* アーカイブパイプライン用の自動PCLからJPEG2000への変換
+* 文書管理および画像システムとの統合
+* エンタープライズ印刷ジョブのバッチ変換を高品質フォーマットに
+* デジタル配布用の圧縮最適化ワークフロー
+* PCLソースからの集中画像リポジトリ生成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

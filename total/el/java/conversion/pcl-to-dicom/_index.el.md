@@ -57,7 +57,30 @@ otherformats: DICOM DXF WMF TGA IMAGE WMZ PSD JPEG2000 EMZ SVGZ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε DICOM** επιτρέπει τη μετατροπή των εξόδων **Printer Command Language** σε αρχεία **Digital Imaging and Communications in Medicine (DICOM)**. Αυτό είναι ιδιαίτερα χρήσιμο για ιατρικά περιβάλλοντα που χρειάζονται να αρχειοθετήσουν ή να οπτικοποιήσουν δεδομένα διάγνωσης βασισμένα σε εκτυπώσεις σε συστήματα εικονοληψίας.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή εκτυπωμένων διαγνωστικών αναφορών σε μορφή εικόνας DICOM
+* Ενσωμάτωση σαρωμένων δεδομένων εκτύπωσης σε αρχεία εικόνας ιατρικής εικονοληψίας
+* Ενσωμάτωση ιατρικών εγγράφων βασισμένων σε PCL σε συστήματα PACS
+* Κανονικοποίηση μορφών ιατρικών εγγράφων για συμμόρφωση με τη νομοθεσία στον τομέα της υγείας
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτοματοποιημένη μετατροπή εκτυπωμένων ιατρικών αναφορών σε DICOM για ιατρικές εγγραφές στο νοσοκομείο
+* Ενσωμάτωση μετατροπής εκτύπωσης σε DICOM στις ροές εργασίας της υγείας
+* Μαζική μετατροπή αρχείων PCL για συστήματα αποθήκευσης ιατρικών εικόνων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

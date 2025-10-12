@@ -130,7 +130,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLからRTFへの変換**により、**プリンターコマンド言語**の出力を**リッチテキスト形式（RTF）**のドキュメントに変換して、広範な互換性、簡単な編集、クロスプラットフォームの利用が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 印刷された文書を編集可能なリッチテキストファイルに変換する
+* 基本的な書式を保持しながら携帯性を確保する
+* 印刷生成されたレポートを複数のワープロソフトで共有する
+* アーカイブ用の軽量なドキュメントバージョンを準備する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCL印刷ファイルをRTFにバッチ変換して配布する
+* 企業システムにPCLからRTFへのパイプラインを統合する
+* 印刷データからフォーマットされたテキストレポートを自動生成する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

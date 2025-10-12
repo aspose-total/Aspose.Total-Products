@@ -54,7 +54,35 @@ otherformats: POTM PPTX PPSM PPS POT PPTM POTX PPT POWERPOINT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى POT
+
+يُحول تحويل OTT إلى POT قوالب مستندات OpenDocument Text إلى ملفات قوالب PowerPoint، مما يمكّن إنشاء تخطيطات شرائح قابلة لإعادة الاستخدام من محتوى القوالب النصية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء قوالب PowerPoint قابلة لإعادة الاستخدام من المحتوى النصي
+* توحيد تنسيقات العروض التقديمية الشركات
+* أرشفة تصميمات الشرائح القائمة على القوالب
+* تسهيل إنشاء الشرائح بشكل تعاوني
+* إعداد عروض تدريبية أو تسويقية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل OTT إلى POT تلقائيًا لمكتبات القوالب الشركات
+* إنشاء دفعة من قوالب العروض التقديمية من ملفات OTT متعددة
+* دمج مع سير العمل لإدارة العروض التقديمية
+* إدراج ديناميكي لمحتوى القوالب في عروض الشرائح
+* توحيد تنسيقات الشرائح على مستوى الشركة بأسرها
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

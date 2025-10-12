@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na MHTML** zahrnuje obsah **Printer Command Language** do formátu **webové archivy (.MHTML)**, který zachovává rozvržení, obrázky a text pro distribuci na jediném souboru na webu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Balení PCL zpráv pro prohlížení v prohlížeči
+* Uchování tiskových rozvržení jako samostatných webových stránek
+* Sdílení formátovaného tiskového obsahu prostřednictvím intranetu nebo e-mailu
+* Ukládání starých tiskových úloh PCL jako přístupných archivů MHTML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování MHTML z tiskových proudů PCL
+* Integrace s archivací dokumentů nebo systémy dodávek založenými na webu
+* Hromadná konverze pro interní reporting nebo online dokumentaci
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

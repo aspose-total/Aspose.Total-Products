@@ -102,7 +102,30 @@ otherformats: XLTM DIF XLAM FODS XLT TSV SXC EXCEL XLSX ODS CSV XLS XLSB XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-XLTX** ממירה **תבניות טקסט של OpenDocument (.OTT)** ל-**תבנית Excel Open XML (.XLTX)**, יוצרת תבניות גיליון עבודה ניתנות לשימוש ומודרניות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* תקנון תבניות גיליון עבודה לעסקים ולדיווחים
+* המרת תבניות מסמכים למבנים עריכתיים ומודרניים של Excel
+* הכנת קבצי XLTX ניתנים לשימוש נרחב בצוות
+* שמירה על עיצוב נתונים עקבי בפרויקטים שונים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת קובצים באצווה מתוך תבניות OTT ל-XLTX
+* שילוב בצינורות אוטומציה לגיליונות עבודה עסקיים
+* יצירה מתוזמנת של תבניות ניתנות לשימוש לדיווחים ולניתוחים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

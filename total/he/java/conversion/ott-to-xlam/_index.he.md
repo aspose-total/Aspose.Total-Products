@@ -102,7 +102,33 @@ otherformats: CSV ODS SXC XLSX DIF XLTX XLT XLS XLSB EXCEL FODS TSV XLTM XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-XLAM** מייצרת **קבצי הרחבה של Excel** המקורם בתוכן של תבנית, מאפשרת אוטומציה, מאקרוס, וזרימות עבודה משופרות בעזרת נתוני התבנית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת הרחבות Excel עם מאקרוס מתבניות
+* אוטומציה של משימות חוזרות באמצעות מאקרוס מתובננים
+* שיפור פונקציונליות של גיליון האלקטרוני עם לוגיקת תבנית
+* הטמעת זרימות עבודה אוטומטיות תקניות
+* מרכז כלים לגיליון אלקטרוני מובנים בתבנית
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT-ל-XLAM בצורה רציפה לאוטומציה מותאמת לעסקים ב-Excel
+* שילוב עם צינורות עבודה או דיווחים
+* יצירת כלים לגיליון אלקטרוני עם מאקרוס שניתן להשתמש בהם
+* הטמעת אוטומציה מבוססת תבנית
+* עדכוני מאקרו דינמיים מתוך תוכן התבנית
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -130,7 +130,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**تحويل PCL إلى WORDML** يقوم بتحويل مستندات **لغة أمر الطابعة (PCL)** إلى تنسيق **WordProcessingML (WordML)**، مما يوفر هيكلًا قائمًا على XML لعمليات معالجة البيانات المتقدمة وتلقائية الوثائق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل تخطيطات الطباعة إلى تنسيقات Word قائمة على XML
+* تمكين التلاعب بالوثائق المهيكلة عبر WordML
+* دمج وثائق Word مع سير العمل القائمة على XML
+* تيسير التلقائية في تشغيل الوثائق بناءً على البيانات الوصفية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+* إنشاء تلقائي لوثائق WordML من ملفات الطباعة بتنسيق PCL
+* دمج مع إدارة الوثائق وسير العمل القائمة على XML
+* تحويل جماعي للتوافق مع واجهات برمجة تطبيقات معالجة الكلمات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

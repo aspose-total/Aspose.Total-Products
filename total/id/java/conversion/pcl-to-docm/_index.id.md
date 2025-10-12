@@ -130,7 +130,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **PCL ke DOCM** memungkinkan transformasi keluaran **Printer Command Language** menjadi **dokumen Word yang mendukung makro**, memungkinkan otomatisasi, pembaruan dinamis, dan kemampuan pemformatan canggih langsung dari file berbasis cetak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menanamkan makro ke dalam dokumen Word yang telah dikonversi untuk otomatisasi
+* Menggunakan kembali data yang dicetak dalam laporan yang dapat diedit dan diprogram
+* Membuat template bisnis interaktif dari hasil cetak PCL
+* Meningkatkan alur kerja produktivitas dengan dokumen yang mendukung makro
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch arsip PCL ke DOCM untuk pelaporan dinamis
+* Mengintegrasikan keluaran cetak ke dalam alur kerja berbasis Word yang terotomatisasi
+* Menghasilkan dokumen yang mendukung makro dari aliran printer secara real time
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,32 @@ otherformats: SVGZ WMF PSD WMZ EMZ TGA JPEG2000 DXF  IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى PSD
+
+يُحول **PCL إلى PSD** ملفات لغة أمر الطابعة إلى تنسيق **مستند Adobe Photoshop (.PSD)**، مما يجعل المواد المطبوعة قابلة للتحرير في شكل صورة متعددة الطبقات للتصميم الجرافيكي والتحسين.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحرير تصاميم الطباعة PCL في Adobe Photoshop
+* استخراج العناصر البصرية من تخطيطات PCL للاستخدام في التصميم الجرافيكي
+* تنقيح وتخصيص الأعمال الفنية المطبوعة في تنسيق متعدد الطبقات
+* إنشاء مواد تسويقية أو أصول إبداعية من وثائق الطباعة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي لملفات PCL إلى PSD لأنماط العمل التصميمية
+* دمج مع أدوات الأتمتة الإبداعية للانتقال من الطباعة إلى الرقمية
+* خطوط أنابيب التحويل التلقائي لإنشاء محتوى العلامة التجارية أو الإعلان
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

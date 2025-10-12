@@ -30,7 +30,33 @@ otherformats: TIFF RTF PCL FLATOPC DOCX DOCM DOTM XPS PNG EPUB SVG DOT TEXT GIF 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OFT를 PDF로 변환**하면 Outlook 템플릿을 **포터블 문서 형식 파일**로 변환하여 Microsoft Outlook를 필요로하지 않고 이메일 디자인을 안전하게 고정 레이아웃으로 공유, 인쇄 및 보관할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 이메일 템플릿을 보편적으로 볼 수 있는 PDF 파일로 배포
+* 규정 준수 및 기록 보관을 위한 Outlook 템플릿 아카이빙
+* 일관된 서식으로 표준화된 이메일 레이아웃 인쇄
+* 외부 파트너와의 기업 커뮤니케이션 공유
+* OFT 템플릿에서 파생된 보고서 또는 문서 작성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 배포를 위한 자동화된 OFT-to-PDF 변환
+* 문서 관리 및 아카이브 시스템 통합
+* 인쇄 또는 보고를 위한 템플릿 일괄 처리
+* 기업 이메일 디자인의 안전한 읽기 전용 공유
+* OFT 템플릿에서 PDF 라이브러리 생성하여 쉬운 액세스
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

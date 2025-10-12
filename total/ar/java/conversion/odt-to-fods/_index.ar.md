@@ -61,7 +61,27 @@ otherformats: TSV XLSM XLSB XLSX ODS XLT XLTX FODS SXC XLS XLTM EXCEL DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى FODS** يمكن أن يسمح بتحويل مستندات النص إلى ملفات جداول بيانات XML مسطحة، محافظاً على البيانات المهيكلة في تنسيق مفتوح وسهل التحليل.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل الجداول النصية إلى ملفات جداول بيانات منظمة
+* تحضير البيانات المعتمدة على المستندات لأنظمة تعتمد على XML
+* أرشفة التقارير في تنسيق جداول بيانات مفتوح
+* تيسير التشغيل المشترك بين معالجات النصوص وجداول البيانات
+* مشاركة المستندات الغنية بالبيانات كملفات FODS خفيفة الوزن
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* تحويل ODT إلى FODS تلقائيًا في سير العمل لمعالجة البيانات
+* دمجه في أنظمة إدارة المستندات المفتوحة
+* تحويل دفعي للبيانات القائمة على النصوص إلى تنسيقات متوافقة مع جداول البيانات
+* تصدير البيانات المعتمدة على XML لتقارير الحكومة أو الشركات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

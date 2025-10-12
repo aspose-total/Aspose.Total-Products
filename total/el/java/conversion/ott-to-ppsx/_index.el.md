@@ -54,7 +54,30 @@ otherformats: PPS POT PPTX POTM PPSX PPT PPSM PPTM POWERPOINT POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή **OTT σε PPSX** μετατρέπει τα **Πρότυπα Κειμένου OpenDocument (.OTT)** σε **Παρουσιάσεις PowerPoint Open XML (.PPSX)** για παρουσιάσεις έτοιμες για αναπαραγωγή.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Παράδοση προτύπων κειμένου ως παρουσιάσεις πλήρους οθόνης
+* Μετατροπή εταιρικών προτύπων OTT σε μορφή παρουσίασης διαφανειών
+* Κοινοποίηση περιεχομένου ως μη-επεξεργάσιμες παρουσιάσεις PowerPoint
+* Διατήρηση σχεδιασμού και μορφοποίησης από πρότυπα εγγράφων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή OTT σε PPSX για αναφορές ή εκπαίδευση
+* Ενσωμάτωση με ροές διανομής παρουσιάσεων
+* Προγραμματισμένη δημιουργία διαφανειών έτοιμων για αναπαραγωγή από πρότυπα εγγράφων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

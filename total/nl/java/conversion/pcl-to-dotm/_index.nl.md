@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **PCL naar DOTM** transformeert gedrukte lay-outs in **macro-ingeschakelde Word-sjablonen**, waarbij opmaakbehoud wordt gecombineerd met ingebedde automatiseringsmogelijkheden voor geavanceerde documentgeneratie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Slimme sjablonen maken met macro's van PCL-documenten
+* Rapportgeneratie en repetitieve taken automatiseren
+* Lay-outconsistentie handhaven met dynamische functionaliteit
+* Scripts insluiten voor taken zoals invullen van formulieren en validatie
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Bedrijfsbrede creatie van geautomatiseerde sjablonen van printbronnen
+* Batchverwerking van PCL-bestanden naar macro-ingeschakelde sjablonen
+* Integratie in Word-automatisering of rapportagesystemen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

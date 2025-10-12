@@ -57,7 +57,30 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 DICOM으로 변환**하면 **프린터 명령어 언어** 출력물을 **의료용 디지턕 이미징 및 통신(DICOM)** 파일로 변환할 수 있습니다. 이는 진단 데이터를 이미징 시스템에서 아카이빙하거나 시각화해야 하는 의료 환경에 특히 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 인쇄된 진단 보고서를 DICOM 이미지 형식으로 변환
+* 스캔된 인쇄 데이터를 의료 이미징 아카이브에 포함
+* PCL 기반 의료 문서를 PACS 시스템에 통합
+* 의료 기록 형식을 표준화하여 의료 규정 준수
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 병원 기록을 위해 인쇄된 의료 보고서를 DICOM으로 자동 변환
+* 의료 업무 흐름 내에서 인쇄에서 DICOM으로 변환 통합
+* 의료 이미지 저장 시스템을 위한 PCL 아카이브의 일괄 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

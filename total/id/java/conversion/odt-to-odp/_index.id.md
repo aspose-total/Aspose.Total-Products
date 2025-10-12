@@ -54,7 +54,27 @@ API juga memungkinkan Anda untuk mengonversi dokumen ODT yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **ODT ke ODP** memungkinkan transformasi lancar dari **dokumen teks menjadi slide presentasi**, ideal untuk memvisualisasikan laporan tertulis, ringkasan, atau materi edukasi.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah dokumen terstruktur menjadi presentasi slide
+* Mengonversi catatan kuliah atau laporan menjadi ringkasan visual
+* Menyiapkan slide untuk presentasi di kelas atau perusahaan
+* Membuat format visual menarik dari file ODT
+* Menyederhanakan konversi teks ke presentasi untuk pelatih atau pembicara
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+* Pembuatan presentasi ODT-to-ODP otomatis
+* Integrasi dengan alur kerja produktivitas kantor
+* Transformasi dokumen ke presentasi secara batch
+* Generasi slide dinamis dari konten dokumen terstruktur
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

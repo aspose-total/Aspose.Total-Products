@@ -130,7 +130,33 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na GIF** umožňuje transformaci souborů jazyka tiskárny na obrázky ve formátu **Graphics Interchange Format**, ideální pro lehké, webové náhledy obrázků tiskového obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Generování statických nebo animovaných náhledů tiskových rozvržení
+* Sdílení vizuálních náhledů tiskového obsahu online s nízkým šířkou pásma
+* Archivace dokumentů ve formátu PCL jako lehkých obrázkových souborů
+* Vkládání obsahu ve formátu PCL do dokumentace nebo zpráv
+* Podpora vizuální validace tiskového výstupu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod PCL na GIF pro automatizaci náhledů tisku
+* Integrace s monitorováním tisku nebo sledováním úloh
+* Generování náhledů miniatur pro nástroje pro správu dokumentů
+* Automatizace publikování tisku na web
+* Konverze pracovního postupu pro vizuální kontrolu kvality tiskových úloh
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

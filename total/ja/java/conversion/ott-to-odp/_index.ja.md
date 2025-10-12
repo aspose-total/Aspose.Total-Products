@@ -54,7 +54,33 @@ APIを使用すると、パスワードで保護されたOTTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをODPに変換**すると、OpenDocument Textテンプレートを**OpenDocument Presentationファイル**に変換し、電子メールテンプレートのコンテンツをスライドデッキやプレゼンテーションで再利用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* テキストテンプレートをプレゼンテーションスライドに変換する
+* テンプレートを編集可能なプレゼンテーションコンテンツとしてアーカイブする
+* トレーニングやマーケティングデッキ向けにコンテンツを再利用する
+* テンプレートデータからプレゼンテーションを共同作成する
+* プレゼンテーションで一貫したブランディングを維持する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* バッチ処理用の自動OTTからODPへの変換
+* プレゼンテーション管理ワークフローとの統合
+* トレーニング用のテンプレートライブラリからスライドを生成する
+* ダイナミックなテンプレートコンテンツをプレゼンテーションに挿入する
+* 企業全体でのテンプレートからプレゼンテーションへの自動化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

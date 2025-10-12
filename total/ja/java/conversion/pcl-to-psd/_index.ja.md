@@ -57,7 +57,30 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをPSDに変換**すると、**プリンターコマンド言語**ファイルを**Adobe Photoshop Document (.PSD)**形式に変換し、グラフィックデザインや強化のために印刷物を編集可能なレイヤー画像形式にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* Adobe PhotoshopでPCL印刷デザインを編集する
+* PCLレイアウトから視覚要素を抽出してグラフィックデザインに使用する
+* レイヤー形式で印刷されたアートワークを修正およびカスタマイズする
+* 印刷文書からマーケティングビジュアルやクリエイティブアセットを作成する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* デザインワークフロー向けのPCLファイルをPSDにバッチ変換
+* 印刷からデジタルへの移行のためのクリエイティブ自動化ツールとの統合
+* ブランディングや広告コンテンツ作成のための自動変換パイプライン
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

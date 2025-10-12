@@ -57,7 +57,30 @@ API를 사용하여 필요에 따라 출력 PSD 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 PSD로 변환**은 **프린터 명령어 언어** 파일을 **Adobe Photoshop 문서 (.PSD)** 형식으로 변환하여 그래픽 디자인 및 향상을 위해 인쇄물을 편집 가능한 계층 이미지 형식으로 만듭니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* Adobe Photoshop에서 PCL 인쇄 디자인 편집
+* 그래픽 디자인에 사용하기 위해 PCL 레이아웃에서 시각적 요소 추출
+* 계층 형식으로 인쇄된 아트워크를 수정 및 사용자 정의
+* 인쇄 문서로부터 마케팅 비주얼 또는 창의적 자산 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 디자인 워크플로에 대한 PCL 파일의 일괄 변환
+* 인쇄물에서 디지털로의 전환을 위한 창의적 자동화 도구 통합
+* 브랜딩 또는 광고 콘텐츠 생성을 위한 자동화된 변환 파이프라인
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

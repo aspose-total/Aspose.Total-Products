@@ -30,7 +30,33 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OFT na XPS** vytváří soubory **XML Paper Specification**, umožňující platformně nezávislé, pevně dané zobrazení dokumentů šablon Outlooku pro prohlížení, sdílení a tisk.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Uchování rozložení a formátování šablony napříč zařízeními
+* Sdílení e-mailových šablon jako pevně daných dokumentů
+* Archivace obsahu OFT pro dodržování předpisů a uchovávání záznamů
+* Tisk šablon s konzistentním vzhledem
+* Prohlížení šablon bez Microsoft Outlooku nebo Wordu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod OFT na XPS pro podnikové distribuce
+* Integrace s systémy pro správu dokumentů
+* Hromadná generace archivů pevného rozložení z e-mailových šablon
+* Pipeline pro bezpečné sdílení a tisk šablon
+* Dlouhodobé uchování návrhů šablon Outlooku
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

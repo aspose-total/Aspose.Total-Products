@@ -105,7 +105,35 @@ otherformats: WMZ WMF  JPEG2000 DXF IMAGE EMZ PSD TGA SVGZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## המרת **PCL ל-APNG**
+
+המרת **שפת פקודות המדפסת (PCL)** ל-**תמונות Animated PNG** מאפשרת לייצג קבצי הדפסה מרובי-עמודים כאנימציות מבוססות מסגרות לשימוש ברשת או בסביבה דיגיטלית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תצוגות מונפשות של קבצי הדפסה מרובי-עמודים
+* שיתוף פלט חזותי של הדפסה בפורמטים ידידותיים לרשת
+* יצירת תיעוד עם תמונות מונפשות
+* ארכיבת תצוגות דינמיות של נתוני הדפסה של PCL
+* הצגת דוחות מבוססי PCL כאנימציות APNG
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה אוטומטית של קבצי PCL לרצפי APNG
+* שילוב עם מערכות תצוגה מקדימה וחזותיות להדפסה
+* עיבוד PCL-ל-APNG בזמן אמת עבור לוחות בקרה להדפסה דיגיטלית
+* המרת זרימות עבודה של הדפסה לפורמטי אנימציה ברשת
+* ארכיבה אוטומטית של מסמכי PCL כתמונות מונפשות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

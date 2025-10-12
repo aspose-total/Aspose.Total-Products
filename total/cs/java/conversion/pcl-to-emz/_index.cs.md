@@ -57,7 +57,30 @@ Pomocí API můžete také otočit výstupní obrázek EMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Převod PCL na EMZ** komprimuje a transformuje grafiku v jazyce **Printer Command Language** do formátu **Enhanced Metafile (Compressed) – EMZ**, optimalizuje obrázky pro škálovatelné grafické aplikace a použití v Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání vektorové grafiky pro tisk do kancelářských nebo grafických programů
+* Snížení velikosti souboru tištěných obrázků pro systémy dokumentace
+* Zachování škálovatelnosti a kvality grafiky v PCL
+* Příprava komprimovaných prostředků pro automatizaci dokumentů nebo šablon
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod diagramů generovaných pro tisk na obrázky EMZ
+* Integrace s systémy pro správu obsahu pro optimalizované ukládání obrázků
+* Automatické generování komprimované grafiky pro publikování dokumentů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,33 @@ otherformats: POTM PPTX PPSM PPS POT PPTM POTX PPT POWERPOINT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε POT** μετατρέπει τα πρότυπα κειμένου του OpenDocument Text σε **αρχεία προτύπων PowerPoint**, επιτρέποντας τη δημιουργία επαναχρησιμοποιήσιμων διατάξεων διαφανειών από περιεχόμενο κειμενικού προτύπου.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Δημιουργία επαναχρησιμοποιήσιμων προτύπων PowerPoint από κειμενικό περιεχόμενο
+* Καθιέρωση εταιρικών μορφών παρουσιάσεων
+* Αρχειοθέτηση σχεδίων διαφανειών βασισμένων σε πρότυπα
+* Ευκολία στη συλλογική δημιουργία διαφανειών
+* Προετοιμασία εκπαιδευτικών ή μάρκετινγκ πακέτων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή OTT σε POT για βιβλιοθήκες επιχειρησιακών προτύπων
+* Μαζική δημιουργία προτύπων παρουσιάσεων από πολλαπλά αρχεία OTT
+* Ενσωμάτωση με ροές διαχείρισης παρουσιάσεων
+* Δυναμική εισαγωγή περιεχομένου προτύπου στις διαφάνειες
+* Καθιέρωση εταιρικής προτύπων διαφανειών σε επίπεδο επιχείρησης
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

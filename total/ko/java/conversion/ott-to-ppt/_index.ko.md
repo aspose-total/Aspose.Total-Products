@@ -54,7 +54,30 @@ API를 사용하면 암호로 보호된 OTT 문서를 PPT로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 PPT로 변환**은 **OpenDocument Text Templates (.OTT)**을 편집 가능한 **PowerPoint Presentation (.PPT)** 파일로 변환하여 슬라이드 생성 및 수정에 사용할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 텍스트 템플릿을 편집 가능한 슬라이드 덱으로 재활용
+* OTT 기반 레이아웃에서 전문적인 프레젠테이션 생성
+* 문서 콘텐츠를 프레젠테이션용 슬라이드로 사용자 정의
+* 내부 회의나 고객 프레젠테이션을 위한 PPT 준비
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* OTT 템플릿을 PPT 프레젠테이션으로 일괄 변환
+* 자동화된 프레젠테이션 생성을 위한 콘텐츠 파이프라인 통합
+* 문서 템플릿에서 편집 가능한 슬라이드 덱 일정 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

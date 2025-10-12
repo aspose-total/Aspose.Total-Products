@@ -47,7 +47,30 @@ Während Sie eine PCL-Datei in XLTM konvertieren, können Sie Ihrem Ausgabe-XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von **PCL in XLTM** ermöglicht die Erstellung von **makrofähigen Excel-Vorlagen** aus Druckdokumenten, wodurch Layouterhaltung mit der Möglichkeit zur Einbettung von Automatisierungslogik kombiniert wird.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Entwurf von makrofähigen Excel-Vorlagen aus gedruckten Layouts
+* Einbetten von wiederverwendbarer Automatisierung in Berichtsvorlagen
+* Ermöglichen der dynamischen dokumentbasierten Generierung von Vorlagen
+* Standardisierung der intelligenten Tabellenerstellung
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Generierung intelligenter Vorlagen aus routinemäßigen PCL-Berichten
+* Automatisierung der Excel-Berichterstellung mit Makrologik
+* Stapelkonvertierung von Druckdaten in wiederverwendbare Geschäftsvorlagen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

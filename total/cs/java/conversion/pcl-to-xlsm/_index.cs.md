@@ -47,7 +47,30 @@ Při převodu souboru PCL na XLSM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na XLSM** transformuje dokumenty založené na tisku do **makro-povolených sešitů Excelu**, umožňující automatizaci a zpracování dat v prostředí Excelu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Automatizace opakujících se úkolů na datech extrahovaných z PCL souborů
+* Vkládání maker pro generování nebo ověřování zpráv
+* Zlepšení pracovních postupů pomocí skriptování v Excelu
+* Integrace tiskových dat s automatizačními systémy založenými na Excelu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Generování makro-povolených finančních nebo analytických zpráv
+* Automatická aktualizace Excelových přehledů z tiskových zdrojů PCL
+* Dynamické transformační potrubí pro zpracování tisku na data
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

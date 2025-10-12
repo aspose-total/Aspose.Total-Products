@@ -57,7 +57,30 @@ API를 사용하여 필요에 따라 출력 WMF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 WMF으로 변환**은 **프린터 명령어 언어** 그래픽을 **Windows Metafile (.WMF)** 형식으로 변환하여 Windows 애플리케이션에서 벡터 기반 편집 및 크기 조정 이미지 사용에 적합하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PCL 프린트 레이아웃에서 크기 조정 가능한 그래픽 추출
+* Windows 애플리케이션에서 벡터 기반 다이어그램 편집
+* Office 문서에 PCL 시각 자료 포함
+* 데스크톱 퍼블리싱 프로젝트에 대한 인쇄 정밀도 보존
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PCL 파일을 WMF 이미지로 자동 변환
+* 문서 게시 및 디자인 파이프라인 통합
+* 레거시 인쇄 그래픽 아카이브를 위한 일괄 처리
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

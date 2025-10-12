@@ -102,7 +102,27 @@ otherformats: XLSB XLSM XLSX TSV EXCEL ODS FODS DIF XLT XLAM CSV XLTX XLTM XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-SXC** מאפשרת **תאימות עם פורמטי גיליון עבודה של StarOffice הישנים ושל OpenOffice המוקדמים**, שומרת על שלמות הטבלאות והנתונים המובנים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת טבלאות מבוססות מסמכים לשימוש במערכות משרד ישנות
+* שיתוף נתונים בין סביבות גיליון עבודה ישנות
+* שמירה על תאימות עם פורמטים היסטוריים של נתונים
+* המרת מסמכים מובנים לצורך ארכיבה
+* ייצוא דוחות מבוססי טקסט לקבצים המתאימים לגיליון עבודה
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרת קובצים בצורת עצם מסמך מוגדרת מראש לתאימות לאחור
+* שילוב עם זרימות עבודה לתמיכה בתוכנה ישנה
+* העברת נתונים בין מערכות מסמך וגיליון עבודה
+* עיבוד מסמכים לארכיון עבור גרסאות ישנות של OpenOffice
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

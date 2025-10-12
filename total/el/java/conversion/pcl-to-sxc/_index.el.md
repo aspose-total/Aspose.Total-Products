@@ -47,7 +47,30 @@ otherformats: XLTX FODS EXCEL XLSM TSV DIF XLAM ODS XLSB XLTM TXT MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε SXC** επιτρέπει στα αποτελέσματα της **Γλώσσας Εντολών Εκτυπωτή** να μετατραπούν σε φύλλα εργασίας **StarOffice Calc (.SXC)**, επιτρέποντας την επεξεργασία επεξεργάσιμων δεδομένων για υπολογισμό και ανάλυση.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή πινάκων από αναφορές PCL σε επεξεργάσιμα φύλλα εργασίας
+* Ανάλυση αριθμητικών δεδομένων βασισμένων σε εκτυπώσεις χρησιμοποιώντας το StarOffice Calc
+* Μετατροπή αρχειοθετημένων εκτυπώσεων σε μορφή φύλλου εργασίας
+* Προετοιμασία δομημένων δεδομένων για υπολογισμούς ή αναφορές
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη εξαγωγή πινάκων δεδομένων από αρχεία PCL σε SXC
+* Ενσωμάτωση με οικονομικές ή αναλυτικές ροές εργασίας
+* Μαζική μετατροπή αρχειοθετημένων εκτυπώσεων φύλλων εργασίας για επαναχρησιμοποίηση
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

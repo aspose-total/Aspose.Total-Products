@@ -57,7 +57,33 @@ L'API vous permet également d'exporter le fichier PCL vers IMAGE dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PCL en IMAGE** produit des **sorties d'images raster** (PNG, JPEG, TIFF, etc.) à partir de documents en langage d'imprimante, rendant les fichiers prêts à l'impression visibles et partageables sous forme d'images standard.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Visualiser les travaux d'impression PCL sous forme d'images
+* Intégrer la sortie d'impression dans la documentation ou les rapports
+* Archiver des fichiers PCL dans des référentiels basés sur des images
+* Workflows d'impression vers des images pour une accessibilité multiplateforme
+* Partager des mises en page d'impression sur des appareils non-PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de PCL en image dans les systèmes de traitement d'impression
+* Génération d'images en lot pour l'aperçu de documents
+* Intégration avec la surveillance d'impression cloud ou les solutions de GED
+* Archivage basé sur des images des données d'impression d'entreprise
+* Visualisation en temps réel des travaux d'impression pour le contrôle qualité et la validation
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

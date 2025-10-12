@@ -61,7 +61,27 @@ otherformats: XLS XLSB XLSM XLTM ODS XLT FODS EXCEL XLAM XLTX SXC XLSX DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى XLSX** يمكنه تحويل محتوى OpenDocument Text بسلاسة إلى **سجلات عمل Excel الحديثة**, مما يضمن التوافقية وتحسين معالجة البيانات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* نقل الجداول والبيانات المهيكلة من ODT إلى Excel
+* إعداد ملفات جداول بيانات قابلة للتحرير من المستندات
+* تعزيز تصور البيانات ودمج الرسوم البيانية
+* إنشاء ملفات Excel الحديثة من تنسيقات قائمة على النص
+* تحسين قابلية الوصول عبر بيئات Microsoft Office
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* أتمتة تحويل ODT إلى XLSX في أنظمة التقارير
+* تحويلات قائمة على السحابة لسير العمل متعدد الإدارات
+* تصدير دفعي لتكامل عمليات الأعمال
+* إنشاء Excel بشكل آلي من أنظمة إدارة المحتوى
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

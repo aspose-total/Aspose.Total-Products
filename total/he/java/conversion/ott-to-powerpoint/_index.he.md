@@ -100,7 +100,33 @@ otherformats: PPTX PPT POTX PPS PPSX POTM ODP PPTM POT PPSM CSV DIF FODS ODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-POWERPOINT** ממירה תבניות טקסט של OpenDocument ל-**מצגות של PowerPoint שניתנות לעריכה**, מאפשרת שימוש ישיר בתוכן התבנית בשקופיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת מצגות מתבניות טקסטואליות
+* ארכיבת תוכן תבנית כמצגות שניתנות לעריכה
+* עריכת שקופיות בשיתוף פעולה
+* שימוש מחדש בתוכן תבנית לצורכי שיווק או הכשרה
+* שמירה על זהות חזותית עקבית במצגות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-POWERPOINT בצורה רציפה לשימוש בארגונים
+* שילוב עם מערכות זרימת עבודה של מצגות
+* יצירת מצגות באופן אוטומטי מספריות של תבניות
+* הכנסת תוכן דינמי למצגות
+* מאגר מרכזי של שקופיות מבוססות תבניות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

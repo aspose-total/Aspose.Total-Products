@@ -54,7 +54,27 @@ Mit der API können Sie auch passwortgeschützte ODT-Dokumente in PPSM konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Konvertierung von **ODT zu PPSM** ermöglicht die **Erstellung von makrofähigen Diashows** aus Textdokumenten, ideal für die Erstellung interaktiver und automatisierter Präsentationserlebnisse.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Automatisierte Präsentationen mit Makrologik erstellen
+* Strukturierte Word-Daten in interaktive Diashows umwandeln
+* Automatisierung von Berichten zu Diashows vereinfachen
+* Einbetten dynamischen Präsentationsverhaltens in Folien
+* Geschäftsabläufe vorbereiten, die makrofähige Präsentationen ausgeben
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+* Automatisierte ODT-zu-PPSM-Präsentationsworkflows
+* Stapelverarbeitung zur Erstellung von makrofähigen Diashows aus ODT-Dateien
+* Integration in Unternehmensautomatisierungs- und Berichtssysteme
+* Generierung von Präsentationen auf Grundlage dynamischer Inhalte
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

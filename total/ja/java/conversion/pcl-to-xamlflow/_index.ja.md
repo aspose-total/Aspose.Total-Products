@@ -144,7 +144,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをXAMLFLOWに変換**することで、**プリンターコマンド言語**の出力を**XAMLFlow**形式に変換し、ワークフロー指向のUIアプリケーションや設計自動化に活用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PCLプリントレイアウトをワークフロー駆動型アプリケーションに統合
+* 静的プリントビジュアルをインタラクティブなXAMLFlow要素に変換
+* ソフトウェアワークフローで生成されたフォームや図を再利用
+* UI自動化のためのプリントアセットの標準化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCLファイルをXAMLFlowにバッチ変換してアプリケーションパイプラインに統合
+* ワークフロー自動化およびUI生成ツールとの統合
+* 企業向けソフトウェア設計ワークフローのための自動変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,30 @@ Pomocí API můžete také otočit výstupní obrázek TGA podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na TGA** převádí grafiku v jazyce **Printer Command Language** do formátu obrázku **Truevision TGA (.TGA)**, zachovávající vysoce kvalitní rastrovou grafiku pro účely designu, vizualizace nebo archivace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Extrahování vysoce kvalitních obrázků z tiskové grafiky PCL
+* Příprava vizuálního obsahu pro pracovní postupy designu a ilustrací
+* Archivace tiskové grafiky ve ztrátovém formátu obrázku
+* Převod diagramů a rozvržení pro multimediální aplikace
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická hromadná konverze grafiky PCL do formátu TGA
+* Integrace s zpracováním obrázků a multimediálními potrubími
+* Zjednodušená archivace tiskových vizuálů pro budoucí použití
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,27 @@ OTPをJSONに変換しているときに、範囲を出力JSON形式に設定す
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## JSONへのOTP変換
+
+**OTPをJSONに変換**することで、**OpenDocument Presentationテンプレート**から構造化データを効率的に抽出し、機械可読形式に変換することが可能となります。この変換により、開発者、アナリスト、自動化システムがプレゼンテーションコンテンツをデータパイプライン、API、コンテンツ管理システムに統合するのをサポートします。
+
+## 主なユースケース
+
+* プレゼンテーションテンプレートを構造化されたJSONデータに変換する
+* メタデータ、スライドレイアウト、テキストコンテンツを分析用に抽出する
+* プレゼンテーションデータのAPIベースの利用を可能にする
+* 旧式のOTPテンプレートをモダンなWebアプリケーションに移行する
+* JSONデータベースでのプレゼンテーションコンテンツの集中管理
+
+## 自動化シナリオ
+
+* OTPファイルの一括変換を標準化されたJSONスキーマに
+* 動的コンテンツ再利用のためのCMSやDAMシステムとの統合
+* 大規模データセット全体でのスライド要素の自動分析
+* プログラムによるプレゼンテーションテンプレートの自動更新のためのワークフロー自動化
+* プレゼンテーションベースの入力からのAIおよびMLデータ前処理
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

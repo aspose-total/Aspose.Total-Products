@@ -130,7 +130,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**تحويل PCL إلى RTF** يجعل من الممكن تحويل مخرجات لغة أوامر الطابعة إلى مستندات Rich Text Format (RTF) لضمان التوافق الواسع والتحرير السهل والاستخدام عبر منصات متعددة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل المستندات المطبوعة إلى ملفات نص غنية قابلة للتحرير
+* الحفاظ على التنسيق الأساسي مع ضمان النقل
+* مشاركة التقارير التي تم إنشاؤها بالطباعة عبر عدة معالجات نصوص
+* إعداد إصدارات وثيقة خفيفة للاستخدام الأرشيفي
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي لملفات الطباعة PCL إلى RTF للتوزيع
+* دمج أنابيب PCL-to-RTF في أنظمة المؤسسات
+* إنشاء تقارير نصية مهيأة تلقائيًا من بيانات الطباعة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,33 @@ L'API vous permet également de convertir des documents OTT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de **OTT en POT** transforme les modèles de texte OpenDocument en **fichiers de modèle PowerPoint**, permettant la création de mises en page de diapositives réutilisables à partir de contenu de modèle textuel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Génération de modèles PowerPoint réutilisables à partir de contenu textuel
+* Normalisation des formats de présentation d'entreprise
+* Archivage de conceptions de diapositives basées sur des modèles
+* Facilitation de la création collaborative de diapositives
+* Préparation de présentations de formation ou de marketing
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée d'OTT en POT pour les bibliothèques de modèles d'entreprise
+* Création en lot de modèles de présentation à partir de plusieurs fichiers OTT
+* Intégration avec les flux de travail de gestion de présentations
+* Insertion dynamique du contenu du modèle dans les decks de diapositives
+* Normalisation à l'échelle de l'entreprise des modèles de diapositives
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

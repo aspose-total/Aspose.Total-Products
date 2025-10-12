@@ -54,7 +54,27 @@ Mit der API können Sie auch passwortgeschützte ODT-Dokumente in PPTM konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Konvertierung von **ODT in PPTM** ermöglicht die Erstellung von **makrofähigen PowerPoint-Präsentationen** aus Textdokumenten, die statische Inhalte mit interaktiven oder automatisierten Folienverhalten kombinieren.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Interaktive Präsentationen aus strukturierten Textdokumenten entwerfen
+* Automatisierte Berichte mit eingebetteten Makros erstellen
+* Präsentationen generieren, die dynamische Folienübergänge auslösen
+* Intelligente Geschäfts- oder Schulungsdecks mit VBA-Funktionalität vorbereiten
+* Berichtszustellung durch die Verwendung von makrofähigen Präsentationen optimieren
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+* Automatisierte Workflows zur Generierung von ODT-zu-PPTM-Präsentationen
+* Integration in unternehmensweite Berichterstattungs- und Automatisierungssysteme
+* Stapelverarbeitung von makrofähigen Folien aus ODT-Dateien
+* Generierung von dynamischen datengesteuerten Präsentationen für interne Berichterstattung
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

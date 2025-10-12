@@ -47,7 +47,32 @@ otherformats: XLSB ODS XLT TSV SXC FODS TXT XLTX XLSM MD EXCEL XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε DIF**
+
+Η μετατροπή **Printer Command Language (PCL)** σε αρχεία **Data Interchange Format (DIF)** επιτρέπει τη διαδοχική ανταλλαγή δομημένων δεδομένων και τη συμβατότητα φύλλων εργασίας μεταξύ εφαρμογών.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή πίνακα δεδομένων από εκτυπωμένες αναφορές σε μορφή DIF
+* Ευκολία εισαγωγής δεδομένων εκτύπωσης σε παλαιά συστήματα φύλλων εργασίας
+* Δυνατότητα ομαλής μεταφοράς δεδομένων μεταξύ εργαλείων ανάλυσης
+* Δημιουργία επαναχρησιμοποιήσιμων συνόλων δεδομένων από αρχεία εκτύπωσης PCL που έχουν αρχειοθετηθεί
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή αναφορών PCL σε DIF για ανταλλαγή δεδομένων
+* Ενσωμάτωση σε αγωγούς ETL για δομημένη ανταλλαγή δεδομένων
+* Μαζική μετατροπή αρχείων εκτύπωσης σε πηγές αναλυτικών δεδομένων συμβατές με το DIF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

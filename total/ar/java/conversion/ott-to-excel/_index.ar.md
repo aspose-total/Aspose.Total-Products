@@ -61,7 +61,35 @@ otherformats: EXCEL XLAM SXC DIF XLSB TSV XLTX XLTM FODS XLT XLSX ODS XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى EXCEL
+
+يتيح تحويل نماذج النصوص بتنسيق OpenDocument Text إلى **أوراق عمل Microsoft Excel**، مما يمكن من تحليل البيانات، وإعداد التقارير، وتلاعب البيانات بناءً على جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء تقارير Excel من قوالب نصوصية
+* إعداد دمج البريد أو المراسلات القائمة على البيانات
+* تحليل البيانات في النماذج
+* تحويل نصوص النماذج والجداول إلى أوراق بيانات منظمة
+* أرشفة وإدارة النماذج بتنسيق Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل OTT إلى EXCEL تلقائيًا لمعالجة الدفعات
+* التكامل مع الأنظمة المالية، أنظمة إدارة العلاقات مع العملاء، أو أنظمة تخطيط موارد المؤسسات
+* إنشاء جداول بيانات ديناميكية من عدة قوالب
+* معالجة البيانات مسبقًا لتقارير أو أنابيب البيانات التحليلية
+* مستودع Excel مركزي من مكتبات النماذج
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

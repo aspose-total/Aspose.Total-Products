@@ -47,7 +47,30 @@ PCLファイルをTXTに変換するときに、出力TXTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをTXTに変換**すると、**Printer Command Language**ファイルから平文テキストコンテンツを抽出でき、分析、アーカイブ、またはさらなるデータ処理に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 印刷形式のレポートから読み取れるテキストを抽出する
+* 印刷されたデータの軽量で検索可能なアーカイブを作成する
+* 抽出されたテキストをテキストマイニングやNLPシステムに供給する
+* 自動分析用に印刷出力を簡素化する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCLアーカイブからの大量テキスト抽出
+* 印刷ベースのファイルからの自動生成ログ
+* AI、分析、または索引付けワークフローへの統合
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

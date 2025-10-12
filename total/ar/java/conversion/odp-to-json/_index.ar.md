@@ -49,7 +49,27 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODP إلى JSON** يمكن ترتيب استخراج محتوى العرض بنية معينة إلى **تنسيق قابل للقراءة من قبل الآلة**, مما يسمح بتبادل البيانات بسلاسة والتحليل والاندماج مع أنظمة الويب الحديثة أو الأتمتة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل بيانات العرض إلى تنسيقات منظمة لواجهات برمجة التطبيقات
+* استخراج الشرائح والنصوص والبيانات الوصفية للتحليل أو الفهرسة
+* نقل محتوى العرض إلى تطبيقات الويب
+* تخزين بيانات العرض في قواعد البيانات للبحث والاسترجاع
+* تيسير فهم المحتوى وتصنيفه بواسطة الذكاء الاصطناعي
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* تحويل ODP إلى JSON تلقائيًا لأنظمة إدارة المحتوى
+* دمجه في أنابيب ETL (استخراج، تحويل، تحميل)
+* عرض ديناميكي لبيانات العرض في تطبيقات الويب أو التطبيقات المحمولة
+* تحويل دفعي لمستودعات الأصول الرقمية أو واجهات برمجة التطبيقات
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

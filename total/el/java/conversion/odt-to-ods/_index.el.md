@@ -61,7 +61,27 @@ otherformats: XLS FODS XLAM XLT XLSM EXCEL XLSB XLSX SXC XLTX TSV DIF XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε ODS** μετατρέπει τα δεδομένα του εγγράφου σε **φύλλα εργασίας OpenDocument**, ιδανικά για ανάλυση πινάκων, υπολογισμών και δομημένου κειμένου σε λογισμικό φύλλων εργασίας.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή περιεχομένου πίνακα από έγγραφα ODT σε φύλλα εργασίας
+* Διαχείριση αριθμητικών δεδομένων που ενσωματώνονται σε αναφορές
+* Μετατροπή δομημένου κειμένου σε αναλυτική μορφή φύλλου εργασίας
+* Προετοιμασία συνόλων δεδομένων για επιχειρηματική ή οικονομική ανάλυση
+* Δημιουργία επεξεργάσιμων φύλλων εργασίας από μορφοποιημένα έγγραφα
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτοματοποιημένη μετατροπή ODT σε ODS για επιχειρηματικές αναφορές
+* Ενσωμάτωση με αναλυτικές διαδικασίες δεδομένων και λογιστικών ροών
+* Παρτίδες επεξεργασίας δεδομένων βασισμένων σε έγγραφα για φύλλα εργασίας
+* Δυναμική μετατροπή αναφοράς σε φύλλο εργασίας
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

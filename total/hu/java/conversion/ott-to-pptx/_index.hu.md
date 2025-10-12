@@ -54,7 +54,30 @@ Az API azt is lehetővé teszi, hogy jelszóval védett OTT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **OTT to PPTX** konvertálja az **OpenDocument Text sablonokat (.OTT)** **PowerPoint Open XML Presentation (.PPTX)** formátummá, létrehozva modern, szerkeszthető diákészleteket.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Szövegsablonok átalakítása PPTX diákészletekké
+* Formázás és elrendezés megőrzése az OTT sablonokból
+* Prezentációk testreszabása üzleti, oktatási vagy tréning célokra
+* Szerkeszthető, modern PowerPoint prezentációk megosztása csapatokkal
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges OTT-to-PPTX konverzió vállalati vagy oktatási célokra
+* Integráció tartalomautomatizálási rendszerekkel
+* Ütemezett modern diákészletek létrehozása újrafelhasználható sablonokból
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

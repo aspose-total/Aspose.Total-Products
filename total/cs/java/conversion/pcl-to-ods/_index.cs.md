@@ -47,7 +47,30 @@ Při převodu souboru PCL na ODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na ODS** extrahuje data z souborů ve formátu **Printer Command Language** do formátu **OpenDocument Spreadsheet (.ODS)** pro strukturovanou analýzu v nástrojích jako je **LibreOffice Calc**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace tabulkových tiskových zpráv do tabulek
+* Umožnění analýzy dat na tabulkách generovaných pomocí PCL
+* Import strukturovaného obsahu PCL do účetních nebo analytických pracovních postupů
+* Vytváření editovatelných tabulek z tiskových dat na základě vzorců
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánovaná konverze tiskových zpráv ve formátu PCL do pracovních sešitů ODS
+* Datové extrakční potrubí převádějící tiskový výstup do formátů tabulek
+* Integrace s ERP nebo finančními systémy pro automatické zpracování dat
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

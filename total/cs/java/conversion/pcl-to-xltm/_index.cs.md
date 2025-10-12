@@ -47,7 +47,30 @@ Při převodu souboru PCL na XLTM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na XLTM** umožňuje vytváření **šablon Excel s makry** z tiskových dokumentů, kombinující zachování rozvržení s možností vložení automatizační logiky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Návrh šablon Excel s makry z tištěných rozvržení
+* Vkládání opakovaně použitelné automatizace do šablon zpráv
+* Umění dynamické generace dokumentů založených na šabloně
+* Standardizace tvorby chytrých tabulek
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Generování chytrých šablon z rutinních PCL reportů
+* Automatizace produkce Excel reportů s makrovou logikou
+* Hromadný převod tiskových dat do opakovaně použitelných obchodních šablon
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

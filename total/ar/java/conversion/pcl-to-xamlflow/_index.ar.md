@@ -144,7 +144,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى XAMLFLOW
+
+يمكن لتحويل **PCL إلى XAMLFLOW** تمكين تحويل مخرجات **لغة أمر الطابعة** إلى تنسيق **XAMLFlow** لتطبيقات واجهة مستخدم موجهة نحو سير العمل وتصميم الأتمتة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* دمج تخطيطات الطباعة PCL في تطبيقات تعتمد على سير العمل
+* تحويل الرسوم البيانية الثابتة إلى عناصر XAMLFlow تفاعلية
+* إعادة استخدام النماذج والرسوم البيانية التي تم إنشاؤها بواسطة الطباعة في سير العمل البرمجي
+* توحيد الأصول المطبوعة لأتمتة واجهة المستخدم
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي لملفات PCL إلى XAMLFlow لأنابيب التطبيق
+* الاندماج مع أدوات أتمتة السير العمل وتوليد واجهة المستخدم
+* تحويل آلي لسيناريوهات تصميم البرمجيات الشركية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

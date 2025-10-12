@@ -135,7 +135,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na XAML** transformuje soubory **Printer Command Language** do **XAML (Extensible Application Markup Language)** pro vektorovou grafiku a uživatelské rozhraní v aplikacích pro Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Opětovné použití grafiky PCL ve WPF nebo UWP aplikacích
+* Převod tiskových rozvržení na interaktivní UI komponenty
+* Vložení škálovatelné vektorové grafiky do softwaru pro Windows
+* Zachování tiskového designu pro digitální integraci aplikací
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod PCL na XAML pro vývoj aplikací
+* Integrace do návrhu uživatelského rozhraní a automatizace pracovního postupu
+* Hromadná transformace archivů PCL na vektorové XAML prostředky
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

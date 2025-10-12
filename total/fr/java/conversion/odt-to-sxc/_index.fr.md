@@ -61,7 +61,25 @@ Après avoir converti ODT en SXC, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion de **ODT en SXC** permet une **compatibilité avec les anciens formats de feuilles de calcul StarOffice et les premiers formats de feuilles de calcul OpenOffice**, en maintenant l'intégrité tabulaire et les données structurées.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conversion de tables basées sur des documents pour une utilisation dans des systèmes de bureau anciens
+* Partage de données entre des environnements de feuilles de calcul plus anciens
+* Préservation de la compatibilité avec les formats de données historiques
+* Transformation de documents structurés à des fins d'archivage
+* Exportation de rapports basés sur du texte dans des fichiers compatibles avec les feuilles de calcul
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+* Conversion automatisée par lot de ODT en SXC pour la compatibilité ascendante
+* Intégration avec les flux de travail de support logiciel hérité
+* Migration de données entre les systèmes de documents et de feuilles de calcul
+* Traitement de documents d'archivage pour les anciennes versions d'OpenOffice
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

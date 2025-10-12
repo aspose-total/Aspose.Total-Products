@@ -54,7 +54,27 @@ L'API consente inoltre di convertire documenti ODT protetti da password in POTM.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+La conversione da **ODT a POTM** consente la trasformazione di documenti basati su testo in **modelli di presentazione abilitati alle macro**, utili per automatizzare la creazione di diapositive e incorporare la logica di presentazione.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Generazione di modelli abilitati alle macro da report dettagliati
+* Automatizzazione del popolamento delle diapositive in base alle strutture di testo
+* Creazione di modelli di presentazione intelligenti con logica VBA incorporata
+* Preparazione di modelli dinamici per presentazioni ricorrenti
+* Ottimizzazione delle presentazioni per la segnalazione aziendale
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+* Flussi di lavoro automatizzati per la creazione di modelli da ODT a POTM
+* Integrazione nei sistemi di automazione delle presentazioni aziendali
+* Creazione batch di modelli di presentazione basati su macro
+* Generazione dinamica di modelli di diapositive interattive
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konversi PCL ke RTF** memungkinkan untuk mengubah output **Printer Command Language** menjadi dokumen **Rich Text Format (RTF)** untuk kompatibilitas yang luas, pengeditan yang mudah, dan penggunaan lintas platform.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengonversi dokumen cetak menjadi file teks kaya yang dapat diedit
+* Menjaga format dasar sambil memastikan portabilitas
+* Berbagi laporan yang dihasilkan dari cetakan di berbagai pengolah kata
+* Menyiapkan versi dokumen ringan untuk penggunaan arsip
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch file cetak PCL menjadi RTF untuk distribusi
+* Mengintegrasikan alur kerja PCL-ke-RTF dalam sistem perusahaan
+* Generasi otomatis laporan teks yang diformat dari data cetak
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

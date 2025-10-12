@@ -54,7 +54,35 @@ otherformats: POT PPTM PPTX PPSM PPS POTX PPSX POTM POWERPOINT PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى PPS
+
+ينتج ملفات PowerPoint Show، مما يتيح عرض الشرائح مباشرة للمحتوى المستمد من القوالب دون فتحه في وضع التحرير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء عروض شرائح جاهزة للعرض من القوالب
+* أرشفة القوالب كعروض تقديمية فقط
+* مشاركة العروض التقديمية للعرض الخارجي
+* إعداد مواد تسويقية أو تدريبية بتنسيق العرض
+* ضمان تنسيق الشرائح المتسق خلال العروض
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعة من OTT إلى PPS لمكتبات العروض التقديمية
+* التكامل مع أنظمة توزيع العروض التقديمية
+* إنشاء تلقائي لشرائح العرض فقط من القوالب
+* خط أنابيب لإعداد محتوى التدريب والتسويق بتنسيق العرض
+* توحيد عروض الشرائح على مستوى الشركة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

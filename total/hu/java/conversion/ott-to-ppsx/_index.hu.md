@@ -54,7 +54,30 @@ Az API azt is lehetővé teszi, hogy jelszóval védett OTT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **OTT to PPSX** konvertálja az **OpenDocument Text Templates (.OTT)** fájlokat **PowerPoint Open XML Show (.PPSX)** formátummá lejátszásra kész prezentációkhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Szövegsablonok szállítása teljes képernyős prezentációként
+* Vállalati OTT sablonok konvertálása diavetítés formátumba
+* Tartalom megosztása nem szerkeszthető PowerPoint bemutatóként
+* A tervezés és formázás megőrzése a dokumentumsablonokból
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges OTT-to-PPSX konverzió jelentéskészítéshez vagy képzéshez
+* Integráció prezentáció terjesztési folyamatokkal
+* Ütemezett létrehozása lejátszásra kész diákat dokumentumsablonokból
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

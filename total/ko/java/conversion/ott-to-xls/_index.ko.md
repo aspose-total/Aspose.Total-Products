@@ -61,7 +61,33 @@ OTT를 XLS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 XLS로 변환**하면 OpenDocument Text Templates를 **Excel 97-2003 Workbook 형식**으로 변환하여 역호환 스프레드시트 사용 및 보고가 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 레거시 호환 Excel 보고서 생성
+* 템플릿 콘텐츠를 이전 스프레드시트 환경으로 이관
+* 템플릿에서 구조화된 데이터를 분석을 위해 준비
+* 널리 지원되는 형식으로 콘텐츠 보관
+* 메일 병합 또는 스프레드시트 기반 통신 지원
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 자동 일괄 OTT-to-XLS 변환
+* 레거시 기업 시스템과의 통합
+* 여러 템플릿에서 스프레드시트 생성 파이프라인
+* 템플릿 기반 보고서 워크플로우
+* XLS 형식의 기존 데이터 아카이빙
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

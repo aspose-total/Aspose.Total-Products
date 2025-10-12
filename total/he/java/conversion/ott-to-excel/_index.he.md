@@ -102,7 +102,33 @@ otherformats: CSV XLAM SXC DIF XLSB TSV XLTX XLTM FODS XLT XLSX ODS XLS XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-EXCEL** מאפשרת לתבניות טקסט של OpenDocument להיות מיוצגות כ**חוברות עבודה של Microsoft Excel**, מאפשרת ניתוח במערכת גיליון, דיווחים ועיבוד נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת דוחות Excel מתבניות טקסטואליות
+* הכנת מיזוג דואר או תקשורת מבוססת נתונים
+* ניתוח של תוכן תבנית בגיליון אלקטרוני
+* המרת טקסט תבנית וטבלאות לגיליונות מובנים
+* ארכוב וניהול תבניות בפורמט Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-EXCEL אוטומטית לעיבוד בצט
+* שילוב עם מערכות פיננסיות, CRM או ERP
+* יצירת גיליון דינמי ממספר תבניות
+* עיבוד מראש של נתונים לדוחות או צינורות אנליטיים
+* מאגר Excel מרכזי מספרי תבניות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

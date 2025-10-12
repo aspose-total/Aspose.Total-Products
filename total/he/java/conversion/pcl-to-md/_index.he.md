@@ -102,7 +102,30 @@ otherformats: XLTX XLAM FODS TSV CSV ODS XLT DIF XLTM SXC XLSB EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**המרת PCL ל־MD** ממירה מסמכי **שפת פקודות המדפסת (PCL)** לקבצי **Markdown (.MD)**, מספקת פורמט נקי, קריא על ידי אדם, וידידותי לרשת לצורך תיעוד או ארכיבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא של הדפסות PCL ל־Markdown לשילוב באתר
+* הכנת תיעוד קל ממסמכי הדפסה
+* מידול נתונים מבוססי הדפסה עבור מפתחים וצוותים טכניים
+* ארכיבת קבצי PCL עשירי טקסט בפורמטים ידידותיים לקוד פתוח
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת תיעוד MD באופן אוטומטי מדוחות PCL בכמויות גדולות
+* שילוב של פלטי Markdown עם מערכות תוכן מבוססות Git
+* אוטומציה של חילוץ טקסט PCL לצורך זרימות עבודה מקוונות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

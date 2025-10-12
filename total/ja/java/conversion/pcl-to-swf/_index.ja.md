@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをSWFに変換**すると、**プリンターコマンド言語**ドキュメントを**Adobe Flash (.SWF)**ファイルに変換し、インタラクティブなマルチメディアプレゼンテーションやウェブベースのコンテンツ配信が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PCL印刷レイアウトからインタラクティブプレゼンテーションの作成
+* ウェブページやeラーニングプラットフォームに印刷ベースのコンテンツを埋め込む
+* 静的な印刷レポートをマルチメディア対応のスライドに変換する
+* ウェブフレンドリーなインタラクティブファイルとして視覚的な印刷コンテンツを共有する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCL印刷アーカイブからSWFファイルの一括生成
+* ウェブパブリッシングやeラーニングプラットフォームとの統合
+* デジタルインタラクティブコンテンツワークフロー向けの自動変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

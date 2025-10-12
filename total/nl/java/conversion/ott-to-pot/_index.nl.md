@@ -54,7 +54,33 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar POT conv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **OTT naar POT** transformeert OpenDocument-tekstsjablonen in **PowerPoint-sjabloonbestanden**, waardoor het mogelijk wordt om herbruikbare dia-indelingen te maken van tekstuele sjablooninhoud.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Genereren van herbruikbare PowerPoint-sjablonen uit tekstuele inhoud
+* Standaardiseren van bedrijfspresentatieformaten
+* Archiveren van op sjablonen gebaseerde dia-ontwerpen
+* Faciliteren van samenwerking bij het maken van dia's
+* Voorbereiden van trainings- of marketingdecks
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde OTT-naar-POT-conversie voor bedrijfssjablonenbibliotheken
+* Batchcreatie van presentatiesjablonen uit meerdere OTT-bestanden
+* Integratie met presentatiebeheerworkflows
+* Dynamische invoeging van sjablooninhoud in dia-decks
+* Bedrijfsbrede standaardisatie van dia-sjablonen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

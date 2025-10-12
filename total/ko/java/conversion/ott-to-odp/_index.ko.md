@@ -54,7 +54,33 @@ API를 사용하면 암호로 보호된 OTT 문서를 ODP로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 ODP로 변환**하면 OpenDocument 텍스트 템플릿을 **OpenDocument 프레젠테이션 파일**로 변환하여 이메일 템플릿 콘텐츠를 슬라이드 덱 및 프레젠테이션에 재사용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 텍스트 템플릿을 프레젠테이션 슬라이드로 변환
+* 수정 가능한 프레젠테이션 콘텐츠로 템플릿 보관
+* 교육이나 마케팅 덱을 위해 콘텐츠 재활용
+* 템플릿 데이터로부터 프레젠테이션 공동 작성
+* 프레젠테이션에서 일관된 브랜딩 유지
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 일괄 처리를 위한 자동화된 OTT-to-ODP 변환
+* 프레젠테이션 관리 워크플로우와의 통합
+* 교육을 위해 템플릿 라이브러리에서 슬라이드 생성
+* 동적 템플릿 콘텐츠를 프레젠테이션에 삽입
+* 기업 전반에 걸친 템플릿에서 프레젠테이션으로의 자동화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

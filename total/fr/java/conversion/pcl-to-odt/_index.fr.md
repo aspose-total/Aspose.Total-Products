@@ -130,7 +130,30 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PCL en ODT** convertit la sortie du **Langage de Commande d'Imprimante** en format **OpenDocument Text (.ODT)** pour un traitement de texte modifiable dans **LibreOffice Writer** ou d'autres éditeurs ODF.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Recréer des rapports d'impression sous forme de documents modifiables
+* Préparer une sortie PCL riche en texte pour la publication ou la collaboration
+* Convertir des modèles basés sur PCL en fichiers ODT modifiables
+* Maintenir la cohérence des documents sur des systèmes open source
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatique de documents ODT à partir de travaux d'impression
+* Intégration avec des systèmes de gestion et d'édition de documents
+* Conversion en lot de documents PCL archivés en formats de texte ouverts
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

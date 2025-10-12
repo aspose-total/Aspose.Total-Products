@@ -61,7 +61,33 @@ OTTをSXCに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをSXCに変換**すると、OpenDocument Text Templatesが**StarOffice Calc Spreadsheetファイル**に変換され、テンプレートコンテンツがOpenOffice CalcやLibreOffice Calcなどのスプレッドシートアプリケーションで使用できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* テキストテンプレートをスプレッドシートテーブルに変換する
+* スプレッドシート形式でテンプレートデータをアーカイブする
+* テンプレートコンテンツから派生したレポートや計算を準備する
+* テンプレートベースのスプレッドシートの共同編集
+* プラットフォーム間で構造化されたテンプレート情報を共有する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* バッチ処理用の自動OTTからSXCへの変換
+* スプレッドシートワークフローおよびレポーティングシステムとの統合
+* 複数のテンプレートから編集可能なスプレッドシートを生成する
+* テンプレートから派生したスプレッドシートデータの中央リポジトリ
+* 分析と計算のための表形式コンテンツの動的抽出
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,24 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## PCLをPOTに変換する
+
+**PCLをPOTに変換**すると、**Printer Command Language**ファイルを**PowerPointテンプレート（.POT）**形式に変換し、印刷レイアウトをMicrosoft PowerPointで編集可能なスライドテンプレートとして再利用できます。
+
+## 主な使用事例
+
+* 印刷されたレポートやフォームからPowerPointテンプレートを作成する
+* PCLレイアウトをブランド付きスライドデザインとして再利用する
+* 企業のPCLベースのドキュメントをプレゼンテーションテンプレートに変換する
+* PowerPointプレゼンテーション全体で視覚的な一貫性を維持する
+
+## 自動化シナリオ
+
+* 定期的なPCL印刷ジョブからの自動POT作成
+* 企業のプレゼンテーション自動化ワークフローとの統合
+* マーケティングやレポートのビジュアル用のテンプレート変換パイプライン
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

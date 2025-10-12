@@ -130,7 +130,30 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to RTF** konverzió lehetővé teszi a **Printer Command Language** kimenetek átalakítását **Rich Text Format (RTF)** dokumentumokká széles körű kompatibilitás, könnyű szerkeszthetőség és platformfüggetlen használat érdekében.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Nyomtatott dokumentumok átalakítása szerkeszthető gazdag szöveges fájlokká
+* Alapvető formázás megőrzése, miközben biztosítja a hordozhatóságot
+* Nyomtatásból származó jelentések megosztása több szövegszerkesztő között
+* Könnyű dokumentumverziók előkészítése archiválási célokra
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* PCL nyomtatási fájlok tömeges átalakítása RTF formátumba terjesztés céljából
+* PCL-to-RTF csővezetékek integrálása vállalati rendszerekbe
+* Formázott szöveges jelentések automatizált generálása nyomtatott adatokból
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **PCL naar MHTML** omhult de inhoud van **Printer Command Language** in een **webarchiefindeling (.MHTML)**, waarbij lay-out, afbeeldingen en tekst worden behouden voor distributie als één bestand op het web.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Verpakken van PCL-rapporten voor weergave in de browser
+* Behouden van afdruklay-outs als op zichzelf staande webpagina's
+* Delen van opgemaakte afdrukinhoud via intranet of e-mail
+* Opslaan van legacy PCL-afdrukopdrachten als toegankelijke MHTML-archieven
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Automatische generatie van MHTML van PCL-afdrukstreams
+* Integratie met documentarchivering of op web gebaseerde leveringssystemen
+* Batchconversie voor interne rapportage of online documentatie
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

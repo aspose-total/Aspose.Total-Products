@@ -61,7 +61,27 @@ otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB DIF XLT EXCEL XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى DIF** يقوم بتحويل المحتوى القائم على النص إلى ملفات **Data Interchange Format (DIF)**، مما يمكن من تبادل البيانات المنظمة بين بيئات الوثائق وجداول البيانات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير المعلومات الجدولية من الوثائق إلى أنظمة البيانات
+* دمج التقارير القائمة على النصوص مع برامج جداول البيانات
+* إعداد مجموعات البيانات للاستيراد إلى أدوات التحليل
+* مشاركة البيانات المنظمة في الوثائق عبر التطبيقات
+* تحويل جداول الوثائق لهجرة البيانات أو المعالجة
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* تصدير ODT إلى DIF تلقائي لسير العمل للبيانات في المؤسسات
+* دمج مع أنابيب ETL وأدوات التقارير
+* تحويل تقارير دفعي إلى تنسيقات تبادل البيانات
+* تحويل الوثيقة إلى مجموعة بيانات لمنصات التحليل وBI
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

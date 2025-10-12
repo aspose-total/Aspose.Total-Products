@@ -61,7 +61,27 @@ otherformats: XLT XLSX FODS XLSM XLTX DIF XLS ODS EXCEL XLTM TSV SXC XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε XLTM** εξάγει το περιεχόμενο του OpenDocument Text σε **πρότυπα Excel με macros**, συνδυάζοντας αυτοματισμό και συνέπεια σχεδίασης σε ένα μόνο ροή εργασίας.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία επαναχρησιμοποιήσιμων προτύπων Excel με macros από έγγραφα
+* Αυτοματοποίηση της δημιουργίας αναφορών χρησιμοποιώντας προεπιλεγμένα πρότυπα
+* Ροή εργασίας επανάληψης από έγγραφα σε υπολογιστικά φύλλα
+* Υποστήριξη εγκαταστάσεων αυτοματισμού Excel σε επίπεδο επιχείρησης
+* Διατήρηση τυποποιημένων, αυτοματοποιημένων δομών υπολογιστικών φύλλων
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Προγραμματισμένη μετατροπή από ODT σε XLTM για κύκλους αναφοράς
+* Μαζική δημιουργία προτύπων με macros από κειμενικές εισόδους
+* Ενσωμάτωση με ροές εργασίας αυτοματισμού Excel VBA
+* Δυναμική εξαγωγή εγγράφου σε πρότυπο σε συστήματα επιχείρησης
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

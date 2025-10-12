@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 ODT 문서를 ODP로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 ODP로 변환**하는 것은 **텍스트 문서를 프레젠테이션 슬라이드로 부드럽게 변환**할 수 있어서, 서술된 보고서, 요약 또는 교육 자료를 시각화하는 데 이상적입니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 구조화된 문서를 슬라이드 프레젠테이션으로 변환
+* 강의 노트나 보고서를 시각적 요약으로 변환
+* 교실이나 기업 프레젠테이션용 슬라이드 준비
+* ODT 파일로부터 매력적인 시각적 형식 생성
+* 트레이너나 연설자를 위한 텍스트에서 프레젠테이션으로의 간단한 변환 단순화
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* 자동화된 ODT-to-ODP 프레젠테이션 생성
+* 오피스 생산성 워크플로와의 통합
+* 일괄 문서-프레젠테이션 변환
+* 구조화된 문서 콘텐츠로부터 동적 슬라이드 생성
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

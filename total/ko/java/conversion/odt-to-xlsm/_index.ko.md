@@ -61,7 +61,27 @@ ODT를 XLSM로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 XLSM으로 변환**하면 문서 데이터를 **매크로가 활성화된 Excel 파일**로 내보낼 수 있어 자동화 및 고급 스프레드시트 작업을 지원합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* VBA 기반 Excel 시트에 ODT 테이블 내보내기
+* 문서 데이터로부터 매크로 기반 자동화 활성화
+* 내보낸 파일에 수식 및 사용자 정의 스크립트 삽입
+* 텍스트 입력을 기반으로 대화형 보고서 준비
+* 문서 데이터를 Excel 기반 자동화 워크플로에 연결
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* 문서를 매크로 Excel로 자동 변환
+* ODT 내보내기를 고급 Excel 자동화 시스템에 통합
+* 동적 비즈니스 보고서를 위한 일괄 XLSM 생성
+* 스프레드시트 기반 작업 자동화를 위한 텍스트 내용 연결
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,27 @@ Po převodu ODT do XLT vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na XLT** transformuje data dokumentu do formátu **Excel šablony**, umožňující standardizované vytváření tabulek a konzistentní rozložení zpráv.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Navrhování Excel šablon z textových dokumentů
+* Opakované využití dat dokumentu pro opakované úkoly v reportech
+* Převod standardizovaných formulářů dokumentů do Excel šablon
+* Udržování jednotného formátování tabulek napříč týmy
+* Zefektivnění pracovních postupů od dokumentu k šabloně
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatické generování šablon ODT na XLT
+* Integrace do systémů správy firemních šablon
+* Hromadný export formátovaných dat pro opětovné využití v reportech
+* Vytváření Excel šablon řízených dokumenty
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

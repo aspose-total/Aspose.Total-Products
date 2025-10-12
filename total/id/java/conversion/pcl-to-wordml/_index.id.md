@@ -130,7 +130,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konversi PCL ke WORDML** mengubah dokumen **Printer Command Language** menjadi format **WordProcessingML (WordML)**, menyediakan struktur berbasis XML untuk manipulasi data lanjutan dan otomatisasi dokumen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengonversi tata letak cetak ke format Word berbasis XML
+* Memungkinkan manipulasi dokumen terstruktur melalui WordML
+* Mengintegrasikan dokumen Word dengan alur kerja berbasis XML
+* Memfasilitasi otomatisasi dokumen yang didorong metadata
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi otomatis dokumen WordML dari file cetak PCL
+* Integrasi dengan manajemen dokumen dan alur kerja XML
+* Konversi massal untuk interoperabilitas dengan API pemrosesan Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

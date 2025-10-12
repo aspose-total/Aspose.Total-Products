@@ -54,7 +54,33 @@ otherformats: POT PPTM PPTX PPSM PPS POTX PPSX POTM POWERPOINT PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε PPS** παράγει αρχεία **PowerPoint Show**, επιτρέποντας την άμεση παρουσίαση διαφανειών που προέρχονται από πρότυπα χωρίς την ανοιχτή λειτουργία επεξεργασίας.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία έτοιμων παρουσιάσεων διαφανειών από πρότυπα
+* Αρχειοθέτηση προτύπων ως παρουσιάσεις μόνο για προβολή
+* Διαμοιρασμός παρουσιάσεων για εξωτερική προβολή
+* Προετοιμασία υλικού μάρκετινγκ ή εκπαίδευσης σε μορφή παρουσίασης
+* Εξασφάλιση συνεπούς διάταξης διαφανειών κατά τη διάρκεια των παρουσιάσεων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή OTT σε PPS για βιβλιοθήκες παρουσιάσεων
+* Ενσωμάτωση με συστήματα διανομής παρουσιάσεων
+* Αυτοματοποιημένη δημιουργία διαφανειών μόνο για προβολή από πρότυπα
+* Παραγωγή περιεχομένου εκπαίδευσης και μάρκετινγκ σε μορφή παρουσίασης
+* Καθιέρωση προτύπου παρουσίασης διαφανειών σε όλη την επιχείρηση
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

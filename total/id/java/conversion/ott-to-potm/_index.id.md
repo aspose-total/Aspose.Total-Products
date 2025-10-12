@@ -54,7 +54,33 @@ API juga memungkinkan Anda untuk mengonversi dokumen OTT yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OTT ke POTM** menghasilkan **file Template PowerPoint yang Mendukung Makro**, memungkinkan otomatisasi berbasis template dalam slide deck menggunakan makro yang berasal dari konten template.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat template presentasi yang mendukung makro
+* Mengotomatisasi tugas pembuatan slide yang berulang
+* Menstandarisasi alur kerja dengan makro template
+* Mengintegrasikan logika yang didorong oleh template ke dalam presentasi
+* Otomatisasi slide deck kolaboratif
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi OTT ke POTM secara batch untuk perpustakaan template yang mendukung makro
+* Otomatisasi perusahaan dalam pembuatan slide deck
+* Integrasi dengan alat alur kerja presentasi
+* Generasi makro dinamis dari konten template
+* Pipa otomatisasi PowerPoint yang didorong oleh template
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

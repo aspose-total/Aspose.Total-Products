@@ -130,7 +130,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε OTT** μετατρέπει την έξοδο **Printer Command Language** σε μορφή **OpenDocument Text Template (.OTT)** για τυποποιημένα πρότυπα εγγράφων στο **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία επαναχρησιμοποιήσιμων προτύπων εγγράφων από φόρμες PCL
+* Δημιουργία τυποποιημένων επαγγελματικών διατάξεων για αλληλογραφία
+* Μετατροπή επιστολόχαρτων ή αναφορών PCL σε επεξεργάσιμα πρότυπα
+* Υποστήριξη ροών εργασίας ανοικτών εγγράφων με συνεπή μορφοποίηση
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτόματη δημιουργία OTT από συστήματα σχεδιασμού εκτύπωσης
+* Ενσωμάτωση με ροές δημιουργίας περιεχομένου επιχείρησης
+* Μαζική μετατροπή εκτυπωμένων προτύπων σε OTT για επαναχρησιμοποίηση εγγράφων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

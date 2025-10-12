@@ -30,7 +30,33 @@ otherformats: TIFF RTF PCL FLATOPC DOCX DOCM DOTM XPS PNG EPUB SVG DOT TEXT GIF 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OFTをPDFに変換**すると、Outlookテンプレートを**ポータブルドキュメント形式のファイル**に変換し、Microsoft Outlookを必要とせずにメールデザインを安全に固定レイアウトで共有、印刷、アーカイブ化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* メールテンプレートを普遍的に表示可能なPDFファイルとして配布
+* コンプライアンスおよび記録保持のためのOutlookテンプレートのアーカイブ
+* 一貫したフォーマットで標準化されたメールレイアウトを印刷
+* 外部パートナーとの企業間コミュニケーションの共有
+* OFTテンプレートから派生したレポートや文書の作成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業配布のための自動化されたOFTからPDFへの変換
+* 文書管理およびアーカイブシステムとの統合
+* 印刷やレポーティングのためのテンプレートのバッチ処理
+* 企業のメールデザインの安全な読み取り専用共有
+* OFTテンプレートからPDFライブラリの生成、簡単なアクセス
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,30 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar PPSM con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **OTT naar PPSM** transformeert **OpenDocument-tekstsjablonen (.OTT)** naar **PowerPoint Macro-Enabled Show (.PPSM)**, waardoor geautomatiseerde en interactieve presentaties mogelijk zijn vanuit tekstuele sjablonen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het maken van met macro's ingeschakelde diavoorstellingen van OTT-gebaseerde tekstsjablonen
+* Automatiseren van presentatie-inhoud afgeleid van document-sjablonen
+* Hergebruik van bedrijfssjablonen voor dynamische diapresentaties
+* Inbedden van interactiviteit en macro's voor workflowautomatisering
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geplande conversie van document-sjablonen naar PPSM-dia's
+* Integratie met bedrijfscontentautomatiseringspijplijnen
+* Batchverwerking van OTT-bestanden tot interactieve presentatieshows
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

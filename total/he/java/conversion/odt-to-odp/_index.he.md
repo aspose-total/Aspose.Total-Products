@@ -100,7 +100,27 @@ otherformats: PPTX POTX POWERPOINT PPSM POT PPS PPTM PPSX POTM PPT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-ODP** מאפשרת המרה חלקה של **מסמכי טקסט לשקפי מצגת**, אידיאלי להמחשת דוחות כתובים, סיכומים או חומרי למידה.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת מסמכים מובנים למצגות סליידים
+* המרת פתקי הרצאה או דוחות לסיכומים חזותיים
+* הכנת שקפים למצגות בכיתה או בחברה
+* יצירת פורמטים חזותיים מרתקים מקבצי ODT
+* פשוט המרת טקסט למצגת עבור מאמנים או דוברים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* יצירת מצגת ODT-ל-ODP אוטומטית
+* שילוב עם זרימות עבודה במשרד
+* המרות מסמכים למצגת בצורה צמודה
+* יצירת שקפים דינמיים מתוכן מסמך מובנה
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

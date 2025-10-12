@@ -61,7 +61,35 @@ otherformats: SXC TSV XLSM XLTX DIF EXCEL XLTM XLAM XLSX XLSB XLT ODS FODS XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى CSV
+
+يحول تحويل **OTT إلى CSV** ملفات **قالب نصوص OpenDocument** إلى **قيم مفصولة بفواصل**, مما يجعل بيانات القالب متاحة لجداول البيانات والتحليلات واستيراد قواعد البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج بيانات القالب المهيكلة للتقارير
+* استيراد محتوى القالب إلى جداول بيانات أو قواعد بيانات
+* إعداد المراسلات المستندة إلى البيانات أو دمج البريد
+* مشاركة البيانات النصية في تنسيق قابل للقراءة على نطاق عالمي
+* أرشفة محتوى القالب لأغراض التحليل
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعة من ملفات OTT إلى CSV لمكتبات القوالب الكبيرة
+* التكامل مع أنظمة ERP أو CRM لاستخدام البيانات بشكل آلي
+* أتمتة إنشاء التقارير من مجموعات بيانات قائمة على القوالب
+* أنابيب العمل للتحليلات ومعالجة البيانات
+* استخراج مركزي للمحتوى النصي من القوالب المتعددة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

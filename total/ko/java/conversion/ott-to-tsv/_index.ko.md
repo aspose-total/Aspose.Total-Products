@@ -61,7 +61,35 @@ OTT를 TSV로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 TSV로 변환**
+
+OpenDocument Text Templates을 **Tab-Separated Values**로 변환하여 구조화된 데이터 가져오기, 분석 및 스프레드시트 처리에 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 테이블 보고서용 데이터 추출
+* 스프레드시트 가져오기 또는 자동화를 위한 템플릿 준비
+* 가벼운 테이블 형식으로 템플릿 콘텐츠 공유
+* 분석이나 로깅을 위한 구조화된 텍스트 아카이빙
+* 크로스 플랫폼 데이터 교환 지원
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 보고를 위한 자동화된 OTT-to-TSV 파이프라인
+* 분석 및 문서 워크플로를 위한 일괄 익스포트
+* 템플릿 처리를 위한 데이터 주도형 시스템 통합
+* 중앙 집중식 콘텐츠 저장소를 위한 TSV 아카이브 생성
+* 테이블 콘텐츠 추출을 위한 워크플로 자동화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

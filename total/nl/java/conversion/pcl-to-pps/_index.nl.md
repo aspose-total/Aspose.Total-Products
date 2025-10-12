@@ -121,7 +121,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **PCL naar PPS** zet de uitvoer van **Printer Command Language** om in het formaat van **PowerPoint Show (.PPS)**, waardoor de presentatie klaar is voor directe weergave.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van op PCL gebaseerde documenten in diavoorstellingen die klaar zijn om te presenteren
+* Automatisch genereren van rapportpresentaties voor weergave
+* Leveren van PCL-inhoud als presentaties op volledig scherm
+* Behouden van PCL-indelingen voor niet-bewerkbaar gebruik van presentaties
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerd maken van .PPS-bestanden van terugkerende PCL-rapporten
+* Integratie met geplande publicatie van presentaties
+* Het omzetten van printfuncties in presentatiebestanden die gereed zijn voor weergave
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na POWERPOINT.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **ODT do PowerPointu** přeměňuje textově bohaté dokumenty na **zajímavé prezentace**, umožňující efektivní komunikaci klíčových myšlenek na schůzkách, ve třídách a firemních prezentacích.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna psaných zpráv na interaktivní prezentace
+* Vizualizace textového obsahu pro komunikaci se zúčastněnými stranami
+* Vytváření profesionálních prezentací z politických nebo projektových dokumentů
+* Příprava vzdělávacích prezentací z poznámek z přednášek
+* Transformace obsahu ve stylu Wordu na prezentční vizuály
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatizovaná konverze ODT do PowerPointu pro firemní pracovní postupy
+* Integrace do systémů automatizace prezentací dokumentů
+* Hromadná generace snímků pro školení nebo reporting
+* Transformace obsahu na snímky pro sdílení znalostí ve firmě
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,33 @@ OTTをTSVに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをTSVに変換**すると、OpenDocument Text Templatesが**Tab-Separated Values**にエクスポートされ、構造化されたデータのインポート、分析、およびスプレッドシート処理に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 表形式レポート用のデータ抽出
+* スプレッドシートのインポートや自動化のためのテンプレートの準備
+* 軽量な表形式でテンプレートコンテンツを共有
+* 分析やログ記録のための構造化テキストのアーカイブ
+* クロスプラットフォームのデータ交換のサポート
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業レポート用の自動化されたOTT-to-TSVパイプライン
+* 分析およびドキュメントワークフロー用のバッチエクスポート
+* テンプレート処理のためのデータ駆動システムとの統合
+* 中央集権化されたコンテンツリポジトリ用のTSVアーカイブの生成
+* 表形式コンテンツの抽出のためのワークフロー自動化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

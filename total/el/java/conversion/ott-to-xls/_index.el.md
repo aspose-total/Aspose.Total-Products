@@ -61,7 +61,33 @@ otherformats: EXCEL DIF XLAM SXC XLT XLSM ODS XLTX XLTM XLS TSV XLSX XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή **OTT σε XLS** μετατρέπει τα πρότυπα κειμένου OpenDocument σε **μορφή Excel 97-2003 Workbook**, επιτρέποντας την χρήση και αναφορά σε συμβατικά υπολογιστικά φύλλα.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία αναφορών Excel συμβατών με παλαιότερες εκδόσεις
+* Μεταφορά περιεχομένου προτύπων σε παλαιότερα περιβάλλοντα φύλλων εργασίας
+* Προετοιμασία δομημένων δεδομένων από πρότυπα για αναλύσεις
+* Αρχειοθέτηση περιεχομένου σε ευρέως υποστηριζόμενες μορφές
+* Υποστήριξη συγχώνευσης αλληλογραφίας ή αλληλογραφίας με χρήση φύλλων εργασίας
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μαζική μετατροπή OTT σε XLS
+* Ενσωμάτωση με παλαιά επιχειρηματικά συστήματα
+* Παραγωγή φύλλων εργασίας από πολλαπλά πρότυπα
+* Ροές εργασίας αναφορών με βάση πρότυπα
+* Αρχειοθέτηση ιστορικών δεδομένων σε μορφή XLS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

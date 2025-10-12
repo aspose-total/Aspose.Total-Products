@@ -121,7 +121,24 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## PCLをPOTXに変換するとは
+
+**PCLをPOTXに変換**すると、**プリンターコマンド言語**の出力を再利用可能で編集可能なプレゼンテーションテンプレート用の**PowerPoint Open XMLテンプレート（.POTX）**形式に変換します。
+
+## 主な使用シナリオ
+
+* PCLデザインから標準化されたPowerPointテンプレートの構築
+* ビジネスプレゼンテーション用の再利用可能なレイアウトの作成
+* 印刷可能な企業ビジュアルをモダンな.POTXテンプレートに変換
+* PowerPointデッキ全体での一貫性の維持
+
+## 自動化シナリオ
+
+* 印刷レイアウトをPOTXテンプレートに自動変換
+* スライド生成やデザイン自動化システムとの統合
+* 企業コミュニケーションツール向けの効率的なテンプレート作成
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

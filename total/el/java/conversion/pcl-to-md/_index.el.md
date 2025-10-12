@@ -47,7 +47,30 @@ otherformats: XLTX XLAM FODS TSV MD ODS XLT DIF XLTM SXC XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL σε MD** μετατροπή μετατρέπει τα έγγραφα **Printer Command Language** σε αρχεία **Markdown (.MD)**, παρέχοντας ένα καθαρό, ευανάγνωστο και φιλικό προς τον ιστό μορφότυπο για την τεκμηρίωση ή την αρχειοθέτηση.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή εκτυπώσεων PCL σε Markdown για ολοκλήρωση στην ιστοσελίδα
+* Προετοιμασία ελαφριών τεκμηρίωσεων από εκτυπωμένες αναφορές
+* Δομημένη παρουσίαση δεδομένων βασισμένων σε εκτυπώσεις για προγραμματιστές και τεχνικές ομάδες
+* Αρχειοθέτηση κειμενοπλούσιων αρχείων PCL σε μορφές φιλικές προς την ανοικτή πηγή
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτόματη δημιουργία τεκμηρίωσης MD από μαζικές εκτυπώσεις PCL
+* Ολοκλήρωση των εξόδων Markdown με συστήματα περιεχομένου βασισμένα σε Git
+* Αυτοματοποίηση εξαγωγής κειμένου PCL για ροές δημοσίευσης στο διαδίκτυο
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

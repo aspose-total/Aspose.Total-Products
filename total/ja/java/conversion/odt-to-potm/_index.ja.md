@@ -54,7 +54,27 @@ APIを使用すると、パスワードで保護されたODTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODTをPOTMに変換**することで、**マクロ有効なPowerPointテンプレート**にテキストベースのドキュメントを変換でき、スライド作成の自動化やプレゼンテーションロジックの埋め込みに役立ちます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 詳細なレポートからマクロ有効なテンプレートを生成する
+* テキスト構造に基づいてスライドの自動生成を行う
+* VBAロジックを埋め込んだスマートなプレゼンテーションテンプレートを作成する
+* 定期的なプレゼンテーション用のダイナミックなテンプレートを準備する
+* ビジネスレポートプレゼンテーションの効率化
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+* ODTからPOTMへの自動テンプレート作成ワークフロー
+* 企業プレゼンテーション自動化システムへの統合
+* マクロベースのPowerPointテンプレートの一括作成
+* インタラクティブなスライドテンプレートの動的生成
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

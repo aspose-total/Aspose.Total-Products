@@ -61,7 +61,27 @@ otherformats: XLS FODS XLAM XLT XLSM EXCEL XLSB XLSX SXC XLTX TSV DIF XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى ODS** يحول بيانات المستند إلى **جداول OpenDocument**، مثالي لتحليل الجداول والحسابات والنصوص المنظمة في برامج جداول البيانات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج محتوى جدولي من مستندات ODT إلى جداول بيانات
+* إدارة البيانات العددية المضمنة في التقارير
+* تحويل النصوص المنظمة إلى شكل جدول بيانات تحليلي
+* إعداد مجموعات البيانات لتحليل الأعمال أو المالية
+* إنشاء جداول بيانات قابلة للتحرير من المستندات المنسقة
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* تحويل ODT إلى ODS تلقائيًا لتقارير المؤسسات
+* التكامل مع تحليلات البيانات وسير العمل المحاسبي
+* معالجة دفعية للبيانات المعتمدة على المستندات لجداول البيانات
+* تحويل تقرير ديناميكي إلى جدول بيانات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

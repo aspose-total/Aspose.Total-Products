@@ -61,7 +61,27 @@ ODT를 TSV로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 TSV로 변환**하면 문서 데이터를 **탭으로 구분된 값**으로 출력하여 구조화된 또는 텍스트 기반 데이터셋을 다룰 때 명확성과 일관성을 유지합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 서식이 있는 ODT 테이블을 탭으로 구분된 데이터셋으로 변환
+* 문서 내용을 텍스트 처리 또는 스크립팅 도구로 가져오기
+* TSV를 지원하는 플랫폼 간 구조화된 데이터 공유
+* 연구 또는 분석을 위한 일관된 데이터 구조 준비
+* TSV 형식을 예상하는 시스템으로 문서 기반 테이블 이전
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* 자동 데이터 추출 시스템에서 ODT를 TSV로 변환
+* 백엔드 통합을 위한 텍스트 문서의 일괄 내보내기
+* TSV 출력을 데이터 정리 파이프라인에 통합
+* 기업 도구 간 텍스트 데이터셋 간의 간단한 전송
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

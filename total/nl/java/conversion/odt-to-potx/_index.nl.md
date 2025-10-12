@@ -54,7 +54,27 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar POTX con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **ODT naar POTX** maakt het mogelijk om tekstbestanden om te zetten in **moderne PowerPoint-sjabloonbestanden**, ideaal voor het behouden van de bedrijfsidentiteit en presentatieconsistentie.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het bouwen van presentatiesjablonen van geschreven documentatie
+* Het omzetten van gestructureerde zakelijke overzichten in gebrandmerkte dia's
+* Het voorbereiden van presentatiestandaarden voor team samenwerking
+* Het creëren van bedrijfsbrede presentatiekaders
+* Het genereren van ontwerpklare PowerPoint-sjablonen van Word-inhoud
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde conversie van ODT-documenten naar PPTX-sjablonen
+* Integratie in bedrijfsdocument-naar-presentatiepijplijnen
+* Batchgeneratie van PowerPoint-thema's uit zakelijke documenten
+* Inhoudsgestuurde PowerPoint-sjablooncreatie voor consistente branding
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

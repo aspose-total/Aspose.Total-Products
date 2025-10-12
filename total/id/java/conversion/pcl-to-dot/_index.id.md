@@ -130,7 +130,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konversi PCL ke DOT** memungkinkan template cetak dan laporan dari file **Printer Command Language** untuk diubah menjadi dokumen **Microsoft Word Template (.DOT)** untuk format yang konsisten dan dapat digunakan kembali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+* Membangun template Word dari laporan atau tata letak berbasis PCL
+* Standarisasi tampilan dokumen di seluruh departemen
+* Membuat formulir yang dapat digunakan kembali dan template laporan dari file cetak
+* Memperlancar proses persiapan dokumen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi otomatis template perusahaan dari laporan cetak
+* Alur kerja dokumen berbasis template untuk operasi bisnis
+* Mengonversi laporan rutin PCL menjadi template DOT siap pakai
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

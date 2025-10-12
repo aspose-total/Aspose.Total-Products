@@ -61,7 +61,30 @@ OTTをXLSMに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをXLSMに変換**すると、**OpenDocument Text Templates (.OTT)** を**Excel Macro-Enabled Workbook (.XLSM)** に変換し、スプレッドシートでの自動化やマクロベースの機能を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* OTTテンプレートからマクロを含むExcelワークブックを作成する
+* データ処理やレポート生成ワークフローを自動化する
+* 対話型スプレッドシートソリューションのために文書テンプレートを再利用する
+* 生成されたワークブックに計算や自動化されたタスクを埋め込む
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* OTTテンプレートをXLSMワークブックに一括変換する
+* 企業のレポーティングや分析パイプラインと統合する
+* テンプレートからマクロを含むスプレッドシートを自動生成する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

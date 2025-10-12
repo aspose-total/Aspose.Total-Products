@@ -130,7 +130,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى DOTX
+
+يحول تحويل **PCL إلى DOTX** ملفات **لغة أمر الطابعة** إلى تنسيق **قالب Word (.DOTX)**، مثالي للحفاظ على توحيد التصميم في القوالب القابلة لإعادة الاستخدام والتي لا تحتوي على ماكرو.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصميم قوالب وثائق موحدة من تخطيطات الطباعة
+* تبسيط توحيد العلامة التجارية على مستوى الشركة باستخدام قوالب Word
+* إنشاء قوالب قابلة للتحرير وإعادة الاستخدام للتقارير المستقبلية
+* تحويل محتوى الطباعة الثابت إلى تصاميم وثائق مرنة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل القوالب تلقائيًا من تقارير الطباعة إلى DOTX
+* دمجها في أنظمة إنشاء الوثائق للحصول على نتائج متسقة
+* إنشاء قوالب تقارير ماركة على مستوى المؤسسة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

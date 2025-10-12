@@ -54,7 +54,33 @@ Mit der API können Sie auch passwortgeschützte OTT-Dokumente in POWERPOINT kon
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Funktionen
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von **OTT in POWERPOINT** verwandelt OpenDocument-Textvorlagen in **bearbeitbare PowerPoint-Präsentationen** und ermöglicht die direkte Verwendung von Vorlageninhalten in Folien.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Erstellung von Folienpräsentationen aus Textvorlagen
+* Archivierung von Vorlageninhalten als bearbeitbare Präsentationen
+* Kollaborative Bearbeitung von Folien
+* Wiederverwendung von Vorlageninhalten für Marketing oder Schulungen
+* Aufrechterhaltung einer konsistenten Markenführung in Präsentationen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Stapelverarbeitung von OTT-zu-PowerPoint für den Unternehmenseinsatz
+* Integration in Präsentations-Workflow-Systeme
+* Automatische Generierung von Folienpräsentationen aus Vorlagenbibliotheken
+* Dynamische Inhalts-Einfügung in Präsentationen
+* Zentrales Repository von Vorlagen-basierten Folien
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

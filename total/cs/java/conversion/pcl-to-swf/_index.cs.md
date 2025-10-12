@@ -121,7 +121,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na SWF** transformuje dokumenty ve formátu **Printer Command Language** do souborů **Adobe Flash (.SWF)**, umožňujíc interaktivní multimediální prezentace a dodávání obsahu prostřednictvím webu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření interaktivních prezentací z PCL tiskových rozvržení
+* Vkládání obsahu založeného na tisku do webových stránek a e-learningových platforem
+* Převádění statických tiskových zpráv na multimediálně podporované snímky
+* Sdílení vizuálního tiskového obsahu jako webově přívětivých interaktivních souborů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná generace souborů SWF z archivů tisku ve formátu PCL
+* Integrace s webovým publikováním a e-learningovými platformami
+* Automatizovaná konverze pro digitální interaktivní pracovní postupy
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

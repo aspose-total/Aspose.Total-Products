@@ -61,7 +61,27 @@ ODTをFODSに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODTをFODSに変換**することで、テキスト文書を**フラットXMLスプレッドシートファイル**に変換し、構造化されたデータをオープンで簡単に解析可能な形式で保存します。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* テキスト表を構造化されたスプレッドシートファイルに変換する
+* XMLベースのシステム向けのドキュメントベースのデータの準備
+* オープンなスプレッドシート形式でのレポートのアーカイブ
+* ワードプロセッサとスプレッドシート間の相互運用性の促進
+* データ豊富なドキュメントを軽量なFODSファイルとして共有する
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+* データ処理ワークフローでの自動化されたODTからFODSへの変換
+* オープンドキュメント管理システムへの統合
+* テキストベースのデータのバッチ変換をスプレッドシート互換形式に
+* 政府や企業向けのXMLベースのデータエクスポート
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

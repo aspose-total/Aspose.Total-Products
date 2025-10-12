@@ -130,7 +130,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى OTT
+
+يحول **PCL إلى OTT** إخراج **لغة أوامر الطابعة** إلى تنسيق **قالب نص OpenDocument (.OTT)** لقوالب المستندات الموحدة في **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* بناء قوالب مستند قابلة لإعادة الاستخدام من أشكال PCL
+* إنشاء تخطيطات أعمال موحدة للمراسلات
+* تحويل رؤوس الرسائل أو التقارير PCL إلى قوالب قابلة للتحرير
+* دعم سير العمل للمستندات المفتوحة بتنسيق متسق
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد OTT تلقائيًا من أنظمة تصميم الطباعة
+* التكامل مع سير العمل لإنشاء المحتوى في المؤسسات
+* تحويل دفعي للقوالب المطبوعة إلى OTT لإعادة استخدام المستندات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

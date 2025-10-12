@@ -61,7 +61,33 @@ Setelah mengonversi OTT ke TSV, [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OTT ke TSV** mengekspor Templat Teks OpenDocument ke **Nilai yang Dipisahkan Tab**, berguna untuk impor data terstruktur, analisis, dan pemrosesan spreadsheet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Ekstraksi data untuk pelaporan tabular
+* Menyiapkan templat untuk impor spreadsheet atau otomatisasi
+* Berbagi konten templat dalam format tabular ringan
+* Mengarsipkan teks terstruktur untuk analitika atau logging
+* Mendukung pertukaran data lintas platform
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Pipa OTT-ke-TSV otomatis untuk pelaporan perusahaan
+* Ekspor batch untuk analitika dan alur kerja dokumen
+* Integrasi dengan sistem berbasis data untuk pemrosesan templat
+* Menghasilkan arsip TSV untuk repositori konten terpusat
+* Otomatisasi alur kerja untuk ekstraksi konten tabular
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

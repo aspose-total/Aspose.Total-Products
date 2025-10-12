@@ -47,7 +47,30 @@ PCL 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 ODS로 변환**은 **프린터 명령어 언어** 파일에서 데이터를 추출하여 **OpenDocument 스프레드시트 (.ODS)** 형식으로 변환하여 **LibreOffice Calc**과 같은 도구에서 구조화된 분석을 수행합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 표 형식의 인쇄 보고서를 스프레드시트로 변환
+* PCL로 생성된 테이블에서 데이터 분석 가능
+* 구조화된 PCL 콘텐츠를 회계 또는 분석 워크플로에 가져오기
+* 인쇄 데이터로부터 편집 가능한 공식 기반 시트 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PCL 보고서를 ODS 워크북으로 예약된 변환
+* 데이터 추출 파이프라인을 통해 인쇄 출력물을 스프레드시트 형식으로 변환
+* ERP 또는 금융 시스템과 통합하여 자동 데이터 흡수
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

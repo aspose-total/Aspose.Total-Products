@@ -54,7 +54,33 @@ L'API consente inoltre di convertire documenti OTT protetti da password in ODP. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da **OTT a ODP** trasforma i modelli di testo OpenDocument in file **OpenDocument Presentation**, consentendo il riutilizzo dei contenuti dei modelli di posta elettronica per presentazioni e slide.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Conversione di modelli di testo in diapositive di presentazione
+* Archiviazione dei modelli come contenuto di presentazione modificabile
+* Riutilizzo dei contenuti per presentazioni o slide di marketing
+* Creazione collaborativa di presentazioni dai dati del modello
+* Mantenimento di un branding coerente nelle presentazioni
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Conversione automatizzata da OTT a ODP per l'elaborazione batch
+* Integrazione con flussi di lavoro di gestione delle presentazioni
+* Generazione di diapositive da librerie di modelli per la formazione
+* Inserimento dinamico di contenuti del modello nelle presentazioni
+* Automazione aziendale della conversione da modello a presentazione
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

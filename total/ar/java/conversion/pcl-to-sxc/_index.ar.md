@@ -47,7 +47,32 @@ otherformats: XLTX FODS EXCEL XLSM TSV DIF XLAM ODS XLSB XLTM TXT MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى SXC
+
+يتيح تحويل **PCL إلى SXC** تحويل مخرجات **لغة أوامر الطابعة** إلى جداول **StarOffice Calc (.SXC)**، مما يمكن من الحصول على بيانات جدولية قابلة للتحرير للحسابات والتحليل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج الجداول من تقارير PCL إلى جداول بيانات قابلة للتحرير
+* تحليل البيانات الرقمية المعتمدة على الطباعة باستخدام StarOffice Calc
+* تحويل النماذج المطبوعة المؤرشفة إلى تنسيق جدول بيانات
+* إعداد بيانات منظمة للحسابات أو التقارير
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* استخراج البيانات الجدولية تلقائيًا من ملفات PCL إلى SXC
+* التكامل مع سير العمل المالي أو التحليلي
+* تحويل الجداول المطبوعة المؤرشفة بشكل دفعي لإعادة الاستخدام
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

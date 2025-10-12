@@ -54,7 +54,30 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar PPT conv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **OTT naar PPT** transformeert **OpenDocument-tekstsjablonen (.OTT)** in bewerkbare **PowerPoint-presentatie (.PPT)**-bestanden, klaar voor het maken en aanpassen van dia's.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Hergebruik van tekstsjablonen in bewerkbare presentaties
+* Maken van professionele presentaties op basis van OTT-indelingen
+* Aanpassen van documentinhoud naar presentatieklare dia's
+* Voorbereiden van PPT's voor interne vergaderingen of klantpresentaties
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batchconversie van OTT-sjablonen naar PPT-presentaties
+* Integratie met inhoudspipelines voor geautomatiseerde presentatiecreatie
+* Geplande generatie van bewerkbare presentaties vanuit documentensjablonen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

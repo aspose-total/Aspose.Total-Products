@@ -61,7 +61,33 @@ OTT를 DIF로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 DIF로 변환**하면 OpenDocument Text 템플릿을 **데이터 교환 형식 파일**로 변환하여 템플릿에서의 구조화된 데이터를 스프레드시트 및 데이터베이스로 가져와 분석할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 데이터 분석을 위한 템플릿 테이블 추출
+* 레거시 스프레드시트 애플리케이션용 템플릿 콘텐츠 준비
+* 템플릿 데이터를 간단하고 표준화된 형식으로 공유
+* 보고를 위한 구조화된 정보 보관
+* 비즈니스 인텔리전스 워크플로에 템플릿 데이터 통합
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 보고용 일괄 OTT에서 DIF로 변환
+* 데이터베이스 가져오기 및 분석 파이프라인과 통합
+* 여러 템플릿에서 표 데이터 자동 추출
+* 역사적이거나 레거시 데이터 세트에 대한 간소화된 처리
+* 시스템 간 사용을 위한 중앙 집중식 DIF 아카이브
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

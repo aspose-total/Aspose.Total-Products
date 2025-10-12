@@ -121,7 +121,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **PCL naar ODP** transformeert de uitvoer van **Printer Command Language** naar **OpenDocument Presentation (.ODP)** dia's voor gebruik in **LibreOffice Impress** of andere ODP-compatibele tools.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van op print gebaseerde samenvattingen naar diavoorstellingen
+* Hergebruik van PCL-rapporten als presentatiemateriaal
+* Visualiseren van printgegevens voor vergaderingen of interne communicatie
+* Standaardiseren van op PCL gebaseerde visuals in bewerkbare ODP-formaten
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde ODP-generatie vanuit rapportagesystemen
+* Integratie met presentatiecreatiepijplijnen
+* Het omzetten van PCL-archieven in herbruikbare presentatiedia's
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

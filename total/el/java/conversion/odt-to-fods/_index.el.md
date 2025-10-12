@@ -61,7 +61,27 @@ otherformats: TSV XLSM XLSB XLSX ODS XLT XLTX FODS SXC XLS XLTM EXCEL DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε FODS** επιτρέπει τη μετατροπή εγγράφων κειμένου σε **επίπεδα αρχεία υπολογιστικού φύλλου XML**, διατηρώντας δομημένα δεδομένα σε ένα ανοιχτό, εύκολα αναλύσιμο μορφότυπο.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Μετατροπή κειμενικών πινάκων σε δομημένα αρχεία υπολογιστικού φύλλου
+* Προετοιμασία δεδομένων βασισμένων σε έγγραφα για συστήματα βασισμένα σε XML
+* Αρχειοθέτηση αναφορών σε ανοιχτή μορφή υπολογιστικού φύλλου
+* Ευκολία αλληλεπιδραστικότητας μεταξύ επεξεργαστών κειμένου και υπολογιστικών φύλλων
+* Διαμοιρασμός εγγράφων με πλούσια δεδομένα ως ελαφριά αρχεία FODS
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτοματοποιημένη μετατροπή ODT σε FODS σε ροές επεξεργασίας δεδομένων
+* Ενσωμάτωση σε συστήματα διαχείρισης ανοιχτών εγγράφων
+* Μαζική μετατροπή δεδομένων βασισμένων σε κείμενο σε μορφές συμβατές με υπολογιστικά φύλλα
+* Εξαγωγή δεδομένων βασισμένων σε XML για αναφορές κυβερνήσεων ή επιχειρήσεων
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

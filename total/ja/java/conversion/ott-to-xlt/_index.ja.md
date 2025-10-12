@@ -61,7 +61,30 @@ OTTをXLTに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをXLTに変換**すると、**OpenDocument Text Templates (.OTT)** を**Excel Template (.XLT)** に変換し、スプレッドシート作成の再利用可能な基盤を提供します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* OTTドキュメントから標準化されたスプレッドシートテンプレートを作成する
+* レポートや分析のための一貫した書式を維持する
+* 繰り返しのデータ入力タスク用の再利用可能なテンプレートを準備する
+* テキストテンプレートをExcel用の構造に変換する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業でのOTTテンプレートをXLTに一括変換
+* 自動化されたスプレッドシート生成パイプラインへの統合
+* ドキュメントテンプレートからのExcelテンプレートの定期的な作成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

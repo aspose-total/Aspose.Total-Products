@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na ODP. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na ODP** umožňuje hladkou transformaci **textových dokumentů do prezentací**, ideální pro vizualizaci psaných zpráv, souhrnů nebo vzdělávacích materiálů.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna strukturovaných dokumentů na prezentace ve slidech
+* Převod poznámek z přednášek nebo zpráv na vizuální souhrny
+* Příprava slideů pro prezentace ve třídě nebo v korporátním prostředí
+* Vytváření atraktivních vizuálních formátů z ODT souborů
+* Zjednodušení konverze textu na prezentaci pro trenéry nebo řečníky
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatické vytváření prezentací ODT na ODP
+* Integrace s pracovními postupy kancelářských aplikací
+* Dávkové transformace dokumentů na prezentace
+* Dynamické generování slideů z obsahu strukturovaného dokumentu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

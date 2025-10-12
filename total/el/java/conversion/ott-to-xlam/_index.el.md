@@ -61,7 +61,33 @@ otherformats: XLAM ODS SXC XLSX DIF XLTX XLT XLS XLSB EXCEL FODS TSV XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή **OTT σε XLAM** παράγει **αρχεία Excel Add-in** που προέρχονται από το περιεχόμενο του προτύπου, επιτρέποντας την αυτοματοποίηση, τα macros και τη βελτιωμένη ροή εργασίας υπολογιστικού φύλλου βασισμένη στα δεδομένα του προτύπου.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία πρόσθετων Excel με macros από πρότυπα
+* Αυτοματοποίηση επαναλαμβανόμενων εργασιών χρησιμοποιώντας macros που προέρχονται από πρότυπα
+* Ενίσχυση της λειτουργικότητας του υπολογιστικού φύλλου με λογική προτύπου
+* Ανάπτυξη τυποποιημένων ροών αυτοματοποίησης
+* Κεντρική διαχείριση εργαλείων Excel που βασίζονται σε πρότυπα
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Μαζική μετατροπή OTT σε XLAM για επιχειρησιακή αυτοματοποίηση στο Excel
+* Ενσωμάτωση με ροές εργασίας ή αναφορές
+* Δημιουργία επαναχρησιμοποιήσιμων εργαλείων υπολογιστικών φύλλων με macros
+* Ανάπτυξη αυτοματοποίησης βασισμένη σε πρότυπα
+* Δυναμικές ενημερώσεις macros από το περιεχόμενο του προτύπου
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

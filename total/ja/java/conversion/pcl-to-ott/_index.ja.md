@@ -130,7 +130,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをOTTに変換**すると、**Printer Command Language**の出力を**OpenDocument Text Template (.OTT)**形式に変換して、**LibreOffice Writer**で標準化された文書テンプレートを作成します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PCLフォームから再利用可能な文書テンプレートを作成する
+* 対応状況のための標準化されたビジネスレイアウトを作成する
+* PCLのヘッダーやレポートを編集可能なテンプレートに変換する
+* 一貫した書式設定でオープンドキュメントワークフローをサポートする
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* プリントデザインシステムからの自動OTT生成
+* 企業向けコンテンツ作成ワークフローとの統合
+* 印刷されたテンプレートの一括変換を行い、文書の再利用のためにOTTに変換する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

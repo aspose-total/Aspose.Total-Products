@@ -54,7 +54,32 @@ otherformats: PPS POT PPTX POTM PPSX PPT PPSM PPTM POWERPOINT POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى PPSX
+
+يحول **OTT إلى PPSX** **قوالب نصوص OpenDocument (.OTT)** إلى **عروض PowerPoint Open XML (.PPSX)** لعروض جاهزة للتشغيل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تقديم قوالب النصوص كعروض بشاشة كاملة
+* تحويل قوالب OTT الشركية إلى تنسيق عرض الشرائح
+* مشاركة المحتوى كعروض PowerPoint غير قابلة للتحرير
+* الحفاظ على التصميم والتنسيق من قوالب المستندات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دُفعي من OTT إلى PPSX للتقارير أو التدريب
+* التكامل مع سير العمل لتوزيع العروض
+* إنشاء مجدول للشرائح الجاهزة للتشغيل من قوالب المستندات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

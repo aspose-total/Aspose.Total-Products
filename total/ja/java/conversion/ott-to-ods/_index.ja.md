@@ -61,7 +61,33 @@ OTTをODSに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをODSに変換**することで、OpenDocument Text Templatesを**OpenDocument Spreadsheetファイル**として表現でき、構造化されたデータの使用、分析、クロスプラットフォームのスプレッドシート編集が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* テンプレートテーブルを編集可能なスプレッドシートに変換する
+* データ駆動型テンプレートをオープンフォーマットでアーカイブする
+* テンプレートコンテンツからのレポートと分析の準備
+* テンプレートから派生したスプレッドシートの共同編集
+* プラットフォーム間で構造化されたテンプレート情報を共有する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業ワークフロー向けの自動OTTからODSへの変換
+* テンプレートテーブルの一括エクスポート
+* レポートと分析パイプラインとの統合
+* テンプレートライブラリからの動的スプレッドシート生成
+* テンプレートから派生したスプレッドシートデータの中央集中管理
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

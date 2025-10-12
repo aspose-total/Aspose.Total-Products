@@ -54,7 +54,27 @@ otherformats: PPTX POTX POWERPOINT PPSM POT PPS PPTM PPSX POTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε ODP** επιτρέπει την ομαλή μετατροπή **κειμενικών εγγράφων σε διαφάνειες παρουσίασης**, ιδανική για την οπτικοποίηση γραπτών αναφορών, περιλήψεων ή εκπαιδευτικού υλικού.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή δομημένων εγγράφων σε παρουσιάσεις διαφανειών
+* Μετατροπή σημειώσεων διαλέξεων ή αναφορών σε οπτικές περιλήψεις
+* Δημιουργία διαφανειών για τις ανάγκες τάξης ή εταιρικών παρουσιάσεων
+* Δημιουργία ελκυστικών οπτικών μορφών από αρχεία ODT
+* Απλοποίηση της μετατροπής κειμένου σε παρουσίαση για εκπαιδευτές ή ομιλητές
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτοματοποιημένη δημιουργία παρουσιάσεων ODT σε ODP
+* Ενσωμάτωση με ροές εργασίας γραφείου παραγωγικότητας
+* Μαζικές μετατροπές εγγράφων σε παρουσιάσεις
+* Δυναμική δημιουργία διαφανειών από το περιεχόμενο δομημένου εγγράφου
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -144,7 +144,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **PCL ke XAMLFLOW** memungkinkan transformasi output **Printer Command Language** menjadi format **XAMLFlow** untuk aplikasi antarmuka pengguna berorientasi alur kerja dan otomatisasi desain.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengintegrasikan tata letak cetak PCL ke dalam aplikasi yang didorong alur kerja
+* Mengonversi visual cetak statis menjadi elemen XAMLFlow interaktif
+* Menggunakan kembali formulir dan diagram yang dihasilkan cetak dalam alur kerja perangkat lunak
+* Standarisasi aset cetak untuk otomatisasi antarmuka pengguna
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch file PCL menjadi XAMLFlow untuk jalur aplikasi
+* Integrasi dengan alat otomatisasi alur kerja dan generasi antarmuka pengguna
+* Transformasi otomatis untuk alur kerja desain perangkat lunak perusahaan
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

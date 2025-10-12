@@ -61,7 +61,35 @@ otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC FODS XLTM XLAM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى FODS
+
+يحول تحويل **OTT إلى FODS** قوالب OpenDocument Text إلى تنسيق **جدول بيانات XML مسطح**, مما يسمح بتحرير محتوى جداول البيانات في هيكل XML بسيط وقابل للنقل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* مشاركة محتوى جداول البيانات القابل للتحرير من القوالب
+* أرشفة البيانات في تنسيق قائم على XML قابل للنقل
+* دمج بيانات القوالب مع تطبيقات جداول البيانات مفتوحة المصدر
+* تحليل المحتوى الجدولي بدون استخدام برامج مملوكة
+* تبادل خفيف لمعلومات القوالب المهيكلة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل OTT إلى FODS تلقائيًا لأنابيب جداول البيانات
+* معالجة دفعية للقوالب إلى جداول بيانات XML قابلة للنقل
+* دمج مع أدوات التحليل والتقارير مفتوحة المصدر
+* تبسيط سير العمل من القالب إلى جدول بيانات
+* أرشيف مركزي قائم على XML لبيانات القوالب القابلة لإعادة الاستخدام
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

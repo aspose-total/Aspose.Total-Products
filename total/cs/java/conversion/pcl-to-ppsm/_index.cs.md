@@ -121,7 +121,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na PPSM** mění soubory **Printer Command Language** do formátu **PowerPoint Macro-Enabled Show (.PPSM)** pro interaktivní, automatizované prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění souborů PCL do prezentací řízených makry
+* Přidání automatizace a interaktivity k vizuálům tištěných zpráv
+* Vytváření automatického přehrávání snímků ze statického tiskového výstupu
+* Dodávání dynamických show pro firemní prezentace
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná generace PPSM pro prezentace řízené daty
+* Integrování snímků s makry do pracovních postupů podnikového hlášení
+* Automatizace dodávání interaktivního obsahu prezentace
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

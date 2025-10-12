@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **PCL naar DOCM** maakt de transformatie van **Printer Command Language**-uitvoer naar **macro-enabled Word-documenten** mogelijk, waardoor automatisering, dynamische updates en geavanceerde opmaakmogelijkheden rechtstreeks vanuit op print gebaseerde bestanden kunnen worden uitgevoerd.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Insluiten van macro's in geconverteerde Word-documenten voor automatisering
+* Hergebruik van afgedrukte gegevens in bewerkbare en programmeerbare rapporten
+* Creëren van interactieve zakelijke sjablonen van PCL-afdrukken
+* Verbeteren van productiviteitsworkflows met behulp van macro-enabled documenten
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batchconversie van PCL-archieven naar DOCM voor dynamische rapportage
+* Integratie van afdrukuitvoer in geautomatiseerde op Word gebaseerde workflows
+* Genereren van macro-enabled documenten uit printerstreams in realtime
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

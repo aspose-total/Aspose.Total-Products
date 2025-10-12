@@ -47,7 +47,30 @@ PCL 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 TSV로 변환**은 **프린터 명령어 언어** 출력을 **탭으로 구분된 값** 파일로 변환합니다. 이 형식은 스프레드시트나 탭으로 구분된 데이터에 의존하는 소프트웨어 시스템으로의 깔끔하고 구조화된 가져오기에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 프린트 형식 데이터에서 표 형식 콘텐츠 추출
+* PCL 송장이나 레코드에서 TSV 데이터 세트 생성
+* TSV 출력을 데이터 이관이나 ETL 시스템에 공급
+* 기업 시스템 간에 구조화된 프린트 데이터 공유
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* TSV로 프린트 아카이브를 예약된 추출
+* 보고 대시보드를 위한 데이터 파이프라인 통합
+* 프린트에서 구조화된 분석 준비 데이터로의 자동 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

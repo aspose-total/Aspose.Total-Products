@@ -47,7 +47,33 @@ otherformats: XLSB SXC XLT EXCEL TXT ODS TSV XLAM FODS XLTM MD XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى EXCEL
+
+يمكن تحويل المستندات التي تم إنشاؤها بالطباعة إلى جداول بيانات Microsoft Excel، مما يوفر تنسيقات منظمة وقابلة للتحرير والتحليل للتقارير والفواتير وورقة البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل الطباعات القائمة على PCL إلى ملفات Excel قابلة للتحرير
+* تحويل التقارير والبيانات المالية من الطباعة إلى تنسيق البيانات
+* إعادة استخدام بيانات الطباعة للحسابات والرسوم البيانية والتحليلات
+* تبسيط عمليات ترقيم الوثائق
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* أتمتة دفعة تحويل PCL إلى Excel
+* التكامل مع أنظمة ERP أو الحسابات لأغراض التقارير
+* إنشاء تلقائي لمخرجات Excel من الأرشيف المطبوع
+* استخراج بيانات PCL إلى XLS/XLSX بناءً على سير العمل
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

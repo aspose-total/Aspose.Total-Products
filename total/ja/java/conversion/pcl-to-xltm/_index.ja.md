@@ -47,7 +47,30 @@ PCLファイルをXLTMに変換するときに、出力XLTMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをXLTMに変換**することで、**マクロ有効なExcelテンプレート**を印刷文書から作成し、レイアウトの保存と自動化ロジックの埋め込みを組み合わせることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 印刷されたレイアウトからマクロ有効なExcelテンプレートを設計する
+* レポートテンプレートに再利用可能な自動化を埋め込む
+* テンプレートベースの動的ドキュメント生成を可能にする
+* スマートなスプレッドシート作成の標準化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ルーチンのPCLレポートからスマートテンプレートを生成する
+* マクロロジックを使用してExcelレポートの自動化
+* 印刷データを再利用可能なビジネステンプレートにバッチ変換する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

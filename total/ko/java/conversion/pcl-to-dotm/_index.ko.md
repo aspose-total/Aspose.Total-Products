@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 DOTM으로 변환**하면 인쇄된 레이아웃을 **매크로가 활성화된 워드 템플릿**으로 변환하여 서식 보존과 포함된 자동화 기능을 결합하여 고급 문서 생성이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PCL 문서에서 매크로를 사용한 스마트 템플릿 생성
+* 보고서 생성 및 반복 작업 자동화
+* 동적 기능으로 레이아웃 일관성 유지
+* 양식 작성 및 유효성 검사 작업을 위한 스크립트 포함
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 인쇄 소스에서 자동화된 템플릿의 기업 전체 생성
+* PCL 파일을 매크로가 활성화된 템플릿으로 일괄 처리
+* 워드 자동화 또는 보고 시스템 통합
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

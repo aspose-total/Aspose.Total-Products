@@ -121,7 +121,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na PPTM** mění dokumenty ve formátu **Printer Command Language** na formát **PowerPoint Macro-Enabled Presentation (.PPTM)**, což umožňuje automatizaci v převedených snímcích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání maker do prezentací vytvořených v PCL
+* Umožnění automatizovaných pracovních postupů v podnikových prezentacích
+* Převádění tiskově připravených šablon na makro-povolené prezentace
+* Vytváření interaktivních nebo daty řízených snímků z obsahu v PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování souborů PPTM pro reporting a analýzy
+* Integrace generování makro-povolených prezentací do podnikových systémů
+* Zefektivnění tvorby interaktivních prezentací z tiskových souborů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

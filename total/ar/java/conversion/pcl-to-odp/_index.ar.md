@@ -121,7 +121,32 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى ODP
+
+يُحول **PCL إلى ODP** إخراج **لغة أوامر الطابعة** إلى شرائح **OpenDocument Presentation (.ODP)** للاستخدام في **LibreOffice Impress** أو أدوات أخرى متوافقة مع ODP.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل ملخصات قائمة الطباعة إلى عروض شرائح
+* إعادة استخدام تقارير PCL كمواد عرض
+* تصوير البيانات المطبوعة للاجتماعات أو الاتصالات الداخلية
+* توحيد الرسوم البيانية القائمة على PCL في تنسيقات ODP قابلة للتحرير
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد ODP تلقائيًا من أنظمة التقارير
+* دمج مع خطوط إنتاج إنشاء العروض التقديمية
+* تحويل أرشيفات PCL إلى شرائح عرض قابلة لإعادة الاستخدام
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

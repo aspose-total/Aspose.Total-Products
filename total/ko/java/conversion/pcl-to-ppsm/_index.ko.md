@@ -121,7 +121,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 PPSM으로 변환**하면 **프린터 명령어 언어** 파일이 **파워포인트 매크로 활성화 쇼 (.PPSM)** 형식으로 변환되어 상호 작용 및 자동화된 슬라이드 쇼 프레젠테이션으로 변경됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PCL 파일을 매크로로 구동되는 슬라이드쇼 프레젠테이션으로 변환
+* 인쇄된 보고서 시각 자료에 자동화 및 상호 작용 추가
+* 정적 인쇄 출력물에서 자동 재생 슬라이드 생성
+* 기업 프레젠테이션을 위한 동적 쇼 제공
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 데이터 기반 프레젠테이션을 위한 일괄 PPSM 생성
+* 비즈니스 보고서 워크플로에 매크로 활성화된 슬라이드 통합
+* 상호 작용 프레젠테이션 콘텐츠의 자동 전달 자동화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,33 @@ A OTT XLS-vé konvertálása után az [Aspose.Cells for Java](https://products.a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **OTT to XLS** átalakítása lehetővé teszi az OpenDocument Text sablonok átalakítását **Excel 97-2003 munkafüzet formátumába**, így visszafelé kompatibilis táblázatkezelő használat és jelentéskészítés valósulhat meg.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Örökségkompatibilis Excel jelentések generálása
+* Sablon tartalmának migrálása régebbi táblázatkezelő környezetekbe
+* Strukturált adatok előkészítése sablonokból analitikához
+* Tartalom archiválása széles körben támogatott formátumokban
+* Levélsorozat vagy táblázatvezérelt levelezés támogatása
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált tétel OTT-to-XLS konverzió
+* Integráció örökségű vállalati rendszerekkel
+* Táblázat generálási csővezetékek több sablonból
+* Sablonvezérelt jelentési folyamatok
+* Történeti adatok archiválása XLS formátumban
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

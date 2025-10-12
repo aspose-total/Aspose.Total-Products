@@ -54,7 +54,25 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar PPSM con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **ODT naar PPSM** maakt **macro-ingeschakelde diavoorstellinggeneratie** mogelijk van tekstdocumenten, ideaal voor het creëren van interactieve en geautomatiseerde presentatie-ervaringen.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het produceren van geautomatiseerde presentaties met macrologica
+* Het omzetten van gestructureerde Word-gegevens in interactieve diavoorstellingen
+* Het stroomlijnen van rapport-naar-diavoorstelling automatisering
+* Het insluiten van dynamisch presentatiegedrag binnen dia's
+* Het voorbereiden van bedrijfsworkflows die macro-ingeschakelde presentaties produceren
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde ODT-naar-PPSM presentatieworkflows
+* Batch macro-ingeschakelde diavoorstellinggeneratie van ODT-bestanden
+* Integratie in bedrijfsautomatiserings- en rapportagesystemen
+* Dynamische inhoudsgestuurde presentatiegeneratie
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

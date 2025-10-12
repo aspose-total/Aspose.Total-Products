@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na POTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na POTM** umožňuje transformaci textových dokumentů do **makro-povolených šablon PowerPointu**, užitečných pro automatizaci vytváření snímků a vkládání logiky prezentace.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Generování makro-povolených šablon z podrobných zpráv
+* Automatizace naplňování snímků na základě textových struktur
+* Vytváření chytrých prezentačních šablon s vestavěnou logikou VBA
+* Příprava dynamických šablon pro opakující se prezentace
+* Zefektivnění prezentací firemních zpráv
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatizované pracovní postupy pro vytváření šablon ODT na POTM
+* Integrace do systémů automatizace firemních prezentací
+* Hromadné vytváření makro-povolených šablon PowerPointu
+* Dynamické generování interaktivních šablon snímků
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

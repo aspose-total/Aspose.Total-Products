@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 MARKDOWN으로 변환하기**는 **프린터 명령어 언어** 파일에서 텍스트 내용을 추출하여 웹 게시나 가벼운 문서 작성을 위해 **Markdown (.MD)** 형식으로 서식을 지정합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 인쇄된 보고서를 Markdown 문서로 변환하기
+* 웹사이트, 블로그 또는 README 파일용 구조화된 텍스트 생성
+* 기술 문서 작성과 협업을 위해 서식이 있는 콘텐츠 간소화
+* 인쇄 데이터로부터 가벼운, 버전 관리되는 텍스트 출력 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PCL 프린트 파이프라인에서 자동화된 Markdown 생성
+* 정적 사이트 생성기 및 문서 시스템과 통합
+* 지식 베이스를 위해 대규모 인쇄 아카이브를 Markdown으로 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

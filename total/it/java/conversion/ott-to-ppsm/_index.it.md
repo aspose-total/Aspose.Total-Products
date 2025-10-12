@@ -54,7 +54,30 @@ L'API consente inoltre di convertire documenti OTT protetti da password in PPSM.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da **OTT a PPSM** trasforma i **Modelli di Testo OpenDocument (.OTT)** in **Presentazioni Macro abilitate di PowerPoint (.PPSM)**, consentendo la creazione di presentazioni automatizzate e interattive da modelli di testo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Creazione di presentazioni con macro da modelli di testo basati su OTT
+* Automatizzazione dei contenuti della presentazione derivati dai modelli di documento
+* Riutilizzo di modelli aziendali per presentazioni dinamiche
+* Incorporazione di interattività e macro per l'automazione dei flussi di lavoro
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Conversione programmata di modelli di documento in presentazioni PPSM
+* Integrazione con i flussi di automazione dei contenuti aziendali
+* Elaborazione batch di file OTT in presentazioni interattive
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

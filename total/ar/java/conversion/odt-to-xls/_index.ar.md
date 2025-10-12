@@ -61,7 +61,27 @@ otherformats: ODS DIF EXCEL XLSB XLTM FODS XLAM TSV XLSX XLS XLSM SXC XLTX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى XLS** يسمح بتحويل مباشر لبيانات OpenDocument Text إلى **تنسيق Excel 97-2003**، مما يضمن التوافق مع الأنظمة القديمة وسير العمل.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير جداول المستند إلى XLS للاستخدام في إصدارات Excel القديمة
+* الحفاظ على التوافق مع الوراء في بيئات الشركات
+* تحضير البيانات للأشكال الأرشيفية أو المنظمة
+* دمج محتوى ODT في سير العمل التاريخية لجداول البيانات
+* تبسيط الهجرة من ODT إلى أنظمة تقارير مبنية على Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* تحويلات ODT إلى XLS بالجملة لقواعد بيانات قديمة
+* إنشاء تقارير آلياً بتنسيق XLS
+* دمج مع ماكروهات Excel وأنظمة VBA
+* تحويلات بيانات مجدولة في بيئات تحتوي على تنسيقات مختلفة
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

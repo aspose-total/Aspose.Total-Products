@@ -61,7 +61,27 @@ Po převodu ODT do TSV vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **ODT na TSV** výstupy dokumentu do **hodnot oddělených tabulátorem**, zachovává jasnost a konzistenci při práci se strukturovanými nebo textovými datovými sadami.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění formátovaných tabulek ODT na datové sady oddělené tabulátorem
+* Importování obsahu dokumentu do nástrojů pro zpracování textu nebo skriptování
+* Sdílení strukturovaných dat mezi platformami podporujícími TSV
+* Příprava konzistentních datových struktur pro výzkum nebo analytiku
+* Migrace tabulek založených na dokumentech do systémů očekávajících formát TSV
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Převod ODT na TSV v automatizovaných systémech pro extrakci dat
+* Hromadný export textových dokumentů pro integrační účely na pozadí
+* Začlenění výstupu TSV do potrubí pro čištění dat
+* Zjednodušený přenos textových datových sad mezi podnikovými nástroji
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

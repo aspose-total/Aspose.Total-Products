@@ -61,7 +61,27 @@ otherformats: XLTX TSV XLT XLS EXCEL XLSB FODS SXC XLSM DIF XLSX ODS XLAM XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε XLTX** επιτρέπει τη μετατροπή εγγράφων κειμένου σε **αρχεία προτύπων Excel**, επιτρέποντας τη συνοχή και τυποποίηση σε ροές εργασίας βασισμένες σε υπολογιστικού φύλλου.
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Δημιουργία δομημένων προτύπων Excel από περιεχόμενο ODT
+* Διατήρηση συνεπούς μορφοποίησης σε αναφορές και αρχεία δεδομένων
+* Αυτοματοποίηση δημιουργίας προτύπων για εισαγωγή δεδομένων ή αναλύσεις
+* Προετοιμασία επαναχρησιμοποιήσιμων δομών Excel για διάφορα τμήματα
+* Υποστήριξη ροών εργασίας γεννήτριας αναφορών βασισμένες σε δεδομένα
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+* Μετατροπή ODT σε XLTX σε αυτοματοποιημένα συστήματα αναφορών
+* Σωληνώσεις μετατροπής εγγράφων βασισμένες σε πρότυπα
+* Δημιουργία προτύπων Excel για πολυτμηματικά τμήματα
+* Απλοποιημένη δημιουργία δομής Excel για επαναλαμβανόμενες περιπτώσεις χρήσης
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

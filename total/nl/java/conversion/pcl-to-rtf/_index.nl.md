@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL naar RTF** conversie maakt het mogelijk om **Printer Command Language** uitvoer om te zetten in **Rich Text Format (RTF)** documenten voor brede compatibiliteit, eenvoudige bewerking en gebruik op verschillende platforms.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van afgedrukte documenten naar bewerkbare rich text-bestanden
+* Behoud van basisopmaak met behoud van draagbaarheid
+* Het delen van met de printer gegenereerde rapporten over meerdere tekstverwerkers
+* Het voorbereiden van lichte documentversies voor archiefgebruik
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batchconversie van PCL-printfbestanden naar RTF voor distributie
+* Integratie van PCL-naar-RTF-pipelines in bedrijfssystemen
+* Geautomatiseerde generatie van opgemaakte tekstrapporten uit printfgevens
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

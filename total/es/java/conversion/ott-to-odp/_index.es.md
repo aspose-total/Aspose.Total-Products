@@ -54,7 +54,31 @@ La API también le permite convertir documentos OTT protegidos con contraseña a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **OTT a ODP** transforma las Plantillas de Texto de OpenDocument en archivos de **Presentación de OpenDocument**, permitiendo reutilizar el contenido de plantillas de correo electrónico para presentaciones y diapositivas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* Convertir plantillas de texto en diapositivas de presentación
+* Archivar plantillas como contenido de presentación editable
+* Reutilizar contenido para presentaciones de capacitación o marketing
+* Creación colaborativa de presentaciones a partir de datos de plantillas
+* Mantener una marca consistente en presentaciones
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* Conversión automatizada de OTT a ODP para procesamiento por lotes
+* Integración con flujos de trabajo de gestión de presentaciones
+* Generación de diapositivas a partir de bibliotecas de plantillas para capacitación
+* Inserción dinámica de contenido de plantilla en presentaciones
+* Automatización de plantilla a presentación a nivel empresarial
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをPPTMに変換**すると、**プリンターコマンド言語**のドキュメントが**PowerPoint マクロ有効プレゼンテーション (.PPTM)**形式に変換され、変換されたスライド内での自動化が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PCLベースのPowerPointプレゼンテーションにマクロを埋め込む
+* ビジネススライドデッキ内での自動化ワークフローの有効化
+* 印刷可能なテンプレートをマクロ有効プレゼンテーションに変換する
+* PCLコンテンツからインタラクティブまたはデータ駆動型スライドを作成する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レポートや分析のためのPPTMファイルの自動生成
+* 企業システムにマクロ有効プレゼンテーション生成を統合
+* 印刷ファイルからのインタラクティブプレゼンテーション作成の効率化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

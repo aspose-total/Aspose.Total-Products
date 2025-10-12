@@ -54,7 +54,27 @@ otherformats: PPSM PPSX PPS POWERPOINT PPT POTM POTX PPTM PPTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε PPTM** επιτρέπει τη δημιουργία **παρουσιάσεων PowerPoint με macros** από κείμενα εγγράφων, συνδυάζοντας στατικό περιεχόμενο με διαδραστικές ή αυτοματοποιημένες συμπεριφορές διαφανιών.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Σχεδιασμός διαδραστικών παρουσιάσεων από δομημένα κείμενα εγγράφων
+* Δημιουργία αυτοματοποιημένων αναφορών με ενσωματωμένα macros
+* Δημιουργία παρουσιάσεων που ενεργοποιούν δυναμικές μεταβάσεις διαφανιών
+* Προετοιμασία έξυπνων επαγγελματικών ή εκπαιδευτικών στοίβων με λειτουργικότητα VBA
+* Βελτίωση της παράδοσης αναφορών χρησιμοποιώντας παρουσιάσεις με macros
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+* Αυτοματοποιημένες ροές εργασίας για τη δημιουργία παρουσιάσεων ODT σε PPTM
+* Ενσωμάτωση με συστήματα επιχειρησιακής αναφοράς και αυτοματοποίησης
+* Δημιουργία πολλαπλών διαφανιών με macros από αρχεία ODT
+* Δημιουργία δυναμικών παρουσιάσεων με δεδομένα για εσωτερική αναφορά
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

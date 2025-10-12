@@ -130,7 +130,30 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to WORDML** konverzió átalakítja a **Printer Command Language** dokumentumokat **WordProcessingML (WordML)** formátummá, XML-alapú struktúrát biztosítva a fejlett adatmanipulációhoz és dokumentumautomatizáláshoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Nyomtatási elrendezések átalakítása XML-alapú Word formátumokká
+* Strukturált dokumentummanipuláció lehetővé tétele WordML segítségével
+* Word dokumentumok integrálása XML-alapú munkafolyamatokkal
+* Metaadatvezérelt dokumentumautomatizálás elősegítése
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* WordML dokumentumok automatikus generálása PCL nyomtatási fájlokból
+* Integráció dokumentumkezeléssel és XML munkafolyamatokkal
+* Tömeges átalakítás az interoperabilitás érdekében Word feldolgozási API-kkal
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,27 @@ otherformats: CSV TSV XLS EXCEL DIF XLSX FODS SXC XLT XLAM ODS XLSM XLTX XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-XLSB** ממירה נתוני מסמך לתבנית **Excel בינארית**, מיטיבת את אחסון הנתונים ומהירות העיבוד עבור פעולות גליון נתונים בגדלים גדולים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* טיפול בקבצי נתונים גדולים שיוצאים ממסמכי טקסט
+* האצת טעינת קבצי Excel וזמני עיבוד
+* הכנת גליונות נתונים בינאריים להחלפת נתונים עסקיים
+* שמירה יעילה על נתונים מספריים וטקסטואליים
+* תמיכה באינטליגנציה עסקית ואוטומציה של דיווחים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרות קובצים רבים מ-ODT ל-XLSB באופן אוטומטי לטיפול מהיר בנתונים
+* שילוב במערכות ניתוח מבוססות Excel
+* ייצוא מסמכים בזמן אמת לבינארי לעיבוד בצד השרת
+* אוטומציה בגדלים גדולים במחסון נתונים או בדיווחים פיננסיים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

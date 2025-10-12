@@ -61,7 +61,27 @@ otherformats: DIF XLSM XLSX EXCEL SXC TSV FODS XLAM ODS XLSB XLTM XLT XLS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى XLAM** يسمح بتحويل محتوى المستند إلى **إضافات Excel ممكّنة للماكرو**, مثالية لتلقين مهام جداول البيانات المشتقة من بيانات النص المهيكلة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء إضافات Excel من قوالب بنية Word المهيكلة
+* تلقين سير العمل في Excel المدفوع بالبيانات باستخدام منطق المستند
+* تضمين الصيغ أو الماكروهات بناءً على تعريفات نصية
+* إنشاء أدوات ماكرو قابلة لإعادة الاستخدام من ملفات ODT
+* تعزيز الإنتاجية من خلال ربط بيانات Word بتلقين Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقين التلقائي" %}}
+* إنشاء إضافات ماكرو XLAM من ODT تلقائيًا
+* التكامل مع أنظمة التلقين التلقائي في Excel للشركات
+* إنشاء أدوات ممكّنة للماكرو بشكل دفعي من محتوى ODT المهيكل
+* تبسيط خطوط تطوير الماكرو من المستند إلى Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

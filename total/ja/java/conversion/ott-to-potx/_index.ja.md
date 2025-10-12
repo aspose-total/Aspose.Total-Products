@@ -54,7 +54,33 @@ APIを使用すると、パスワードで保護されたOTTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをPOTXに変換**すると、**マクロがないPowerPointテンプレートファイル**が生成され、テキストテンプレートから派生した安全で標準化されたスライドテンプレートが作成されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 再利用可能な、マクロがないプレゼンテーションテンプレート
+* 企業のスライドデザインの標準化
+* テンプレートベースのトレーニングやマーケティングデッキの準備
+* 共同作業チーム向けのスライドレイアウトのアーカイブ
+* マクロを回避してセキュリティを確保
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* OTTからPOTXへの自動バッチ変換
+* プレゼンテーションテンプレート管理システムとの統合
+* テンプレートライブラリからのスライドデッキの動的生成
+* マクロがないテンプレートの企業全体への配布
+* スライドテンプレートの更新のためのパイプライン自動化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

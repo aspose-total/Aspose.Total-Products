@@ -47,7 +47,30 @@ PCLファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをODSに変換**は、**Printer Command Language**ファイルからデータを**OpenDocument Spreadsheet (.ODS)**形式に変換し、**LibreOffice Calc**などのツールで構造化された分析を行うためのものです。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 表形式の印刷レポートをスプレッドシートに変換する
+* PCLで生成されたテーブルでのデータ分析を可能にする
+* 構造化されたPCLコンテンツを会計や分析ワークフローに取り込む
+* 印刷データから編集可能な、数式ベースのシートを作成する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCLレポートをODSワークブックに定期的に変換する
+* データ抽出パイプラインによる印刷出力からスプレッドシート形式への変換
+* ERPや財務システムとの統合による自動データ取り込み
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

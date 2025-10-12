@@ -54,7 +54,25 @@ L'API consente inoltre di convertire documenti ODT protetti da password in POT. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **ODT in POT** consente di trasformare documenti di testo in **file di modello di PowerPoint**, consentendo agli utenti di progettare temi e strutture di presentazione coerenti basati sui contenuti scritti.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Creazione di modelli di PowerPoint da documenti di testo strutturati
+* Progettazione di strutture di presentazione per una coerenza a livello di team
+* Conversione di contenuti aziendali in modelli di presentazione modificabili
+* Creazione di modelli di diapositive riutilizzabili da documentazione
+* Trasformazione di schemi aziendali in temi pronti per la presentazione
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+* Generazione automatizzata di modelli di PowerPoint da contenuti Word
+* Integrazione nei sistemi di progettazione dei contenuti o del marchio
+* Conversione batch di modelli basati su testo in file POT
+* Creazione dinamica di temi da layout basati su documenti
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

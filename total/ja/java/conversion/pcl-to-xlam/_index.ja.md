@@ -47,7 +47,30 @@ PCLファイルをXLAMに変換するときに、出力XLAMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをXLAMに変換**すると、**Printer Command Language**の出力を**Excel Add-In (.XLAM)**ファイルに変換し、自動化、マクロ、および拡張されたスプレッドシート機能を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 印刷生成データテンプレートからExcelアドインを作成する
+* スプレッドシートワークフローに自動化ロジックを埋め込む
+* PCLレポートを再利用可能なExcel自動化ツールに変換する
+* 印刷された数値または表形式コンテンツの機能拡張
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なPCL出力からXLAMファイルの自動生成
+* 企業のレポーティングおよび分析パイプラインとの統合
+* 繰り返しのビジネスタスクのためのExcelアドインの一括作成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

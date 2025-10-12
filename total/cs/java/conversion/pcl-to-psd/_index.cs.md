@@ -57,7 +57,30 @@ Pomocí API můžete také otočit výstupní obrázek PSD podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na PSD** transformuje soubory **Printer Command Language** do formátu **Adobe Photoshop Document (.PSD)**, čímž umožňuje úpravy tištěných materiálů ve formě vrstevnatého obrazu pro grafický design a vylepšení.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Úprava PCL tiskových návrhů v programu Adobe Photoshop
+* Extrahování vizuálních prvků z PCL rozvržení pro použití v grafickém designu
+* Retušování a přizpůsobování tištěného umění ve vrstevnatém formátu
+* Vytváření marketingových vizuálů nebo kreativních prostředků z tištěných dokumentů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze souborů PCL do formátu PSD pro pracovní postupy designu
+* Integrace s nástroji pro kreativní automatizaci pro přechod z tisku na digitál
+* Automatizované konverzní toky pro vytváření značkovacího nebo reklamního obsahu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

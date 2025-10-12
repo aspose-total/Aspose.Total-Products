@@ -130,7 +130,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى MARKDOWN
+
+يستخرج المحتوى النصي من ملفات لغة أوامر الطابعة (PCL) ويقوم بتنسيقه إلى Markdown (.MD) لنشره على الويب أو لإنشاء وثائق خفيفة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل التقارير المطبوعة إلى وثائق Markdown
+* إنشاء نصوص منظمة لمواقع الويب أو المدونات أو ملفات README
+* تبسيط المحتوى المنسق للكتابة التقنية والتعاون
+* إنشاء مخرجات نصية خفيفة ومراقبة الإصدار من بيانات الطباعة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد Markdown تلقائي من أنابيب الطباعة بتنسيق PCL
+* التكامل مع مولدات مواقع ثابتة وأنظمة الوثائق
+* تحويل أرشيفات الطباعة الكبيرة إلى Markdown لقواعد المعرفة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

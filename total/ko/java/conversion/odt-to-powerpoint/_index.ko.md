@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 ODT 문서를 POWERPOINT로 변환할 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 PowerPoint로 변환**은 텍스트가 풍부한 문서를 **매력적인 프레젠테이션 슬라이드**로 변환하여 회의, 강의실 및 기업 브리핑에서 주요 아이디어를 효율적으로 전달할 수 있게 합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 서면 보고서를 대화식 프레젠테이션으로 변환
+* 이해관계자 커뮤니케이션을 위한 텍스트 기반 콘텐츠 시각화
+* 정책이나 프로젝트 문서로부터 전문적인 슬라이드 덱 생성
+* 강의 노트로부터 교육용 프레젠테이션 준비
+* 워드 스타일 콘텐츠를 프레젠테이션 비주얼로 변환
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* 비즈니스 워크플로에 대한 자동화된 ODT-to-PowerPoint 변환
+* 문서 프레젠테이션 자동화 시스템 통합
+* 교육이나 보고를 위한 일괄 슬라이드 생성
+* 기업 지식 공유를 위한 콘텐츠-슬라이드 변환
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

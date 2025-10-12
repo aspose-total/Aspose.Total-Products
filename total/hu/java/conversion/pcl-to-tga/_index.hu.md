@@ -57,7 +57,32 @@ Az API használatával igény szerint elforgathatja a kimeneti TGA-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## **PCL átalakítása TGA formátumba**
+
+A **PCL to TGA** átalakítás során a **Printer Command Language** grafikákat **Truevision TGA (.TGA)** képformátummá alakítja át, megőrizve a magas minőségű rácsgrafikát tervezéshez, vizualizációhoz vagy archiváláshoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Magas minőségű képek kinyerése PCL nyomtatott grafikákból
+* Vizuális tartalom előkészítése tervezési és illusztrációs munkafolyamatokhoz
+* Nyomtatott grafikák archiválása veszteségmentes képformátumban
+* Diagramok és elrendezések átalakítása multimédiás alkalmazásokhoz
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* PCL grafikák automatizált tömeges átalakítása TGA formátumba
+* Integráció képfeldolgozási és multimédia csővezetékekkel
+* Nyomtatott vizuális elemek egyszerűsített archiválása a későbbi felhasználás érdekében
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

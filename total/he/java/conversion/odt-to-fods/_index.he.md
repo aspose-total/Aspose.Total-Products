@@ -102,7 +102,27 @@ otherformats: TSV XLSM XLSB XLSX ODS XLT XLTX CSV SXC XLS XLTM EXCEL DIF XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Converting **ODT to FODS** enables transformation of text documents into **Flat XML spreadsheet files**, preserving structured data in an open, easily parseable format.
+{{% blocks/products/pf/agp/feature-section-col title="שימושים מרכזיים" %}}
+
+* המרת טבלאות טקסטואליות לקבצי גיליון מאוחסנים
+* הכנת נתוני מסמכים למערכות מבוססות XML
+* ארכיבת דוחות בפורמט גיליון פתוח
+* קידום התאמה בין עורכי תמליל וגיליונות אלקטרוניים
+* שיתוף מסמכים עשירי נתונים כקבצי FODS קלים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרת ODT ל-FODS באופן אוטומטי בתהליכי עיבוד נתונים
+* שילוב במערכות ניהול מסמכים פתוחות
+* המרת קבצי טקסט לפורמטים תואמי גיליון באופן צפוי
+* ייצוא נתונים מבוססי XML לדיווחים של ממשל או עסקים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,33 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na POTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **OTT na POTM** generuje **Makro-povolené šablony PowerPoint souborů**, umožňující automatizaci založenou na šablonách ve snímcích pomocí maker odvozených z obsahu šablony.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření makro-povolených prezentací
+* Automatizace opakujících se úkolů vytváření snímků
+* Standardizace pracovních postupů pomocí makro šablon
+* Integrace logiky řízené šablonami do prezentací
+* Spolupracující automatizace snímkových sad
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Dávková konverze OTT na POTM pro knihovny makro-povolených šablon
+* Firemní automatizace vytváření snímkových sad
+* Integrace s nástroji pro pracovní postupy prezentací
+* Dynamické generování maker z obsahu šablony
+* Šablonami řízené automatizační potrubí PowerPointu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

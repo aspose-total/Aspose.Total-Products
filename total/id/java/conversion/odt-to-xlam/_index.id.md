@@ -61,7 +61,27 @@ Setelah mengonversi ODT ke XLAM, [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **ODT ke XLAM** memungkinkan transformasi konten dokumen menjadi **add-in Excel yang mendukung makro**, ideal untuk mengotomatisasi tugas spreadsheet yang berasal dari data teks terstruktur.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menghasilkan add-in Excel dari templat berstruktur gaya Word
+* Mengotomatisasi alur kerja Excel yang didorong oleh data menggunakan logika dokumen
+* Menanamkan rumus atau makro berdasarkan definisi tekstual
+* Membuat alat makro yang dapat digunakan kembali dari file ODT
+* Meningkatkan produktivitas dengan menghubungkan data Word dengan otomatisasi Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+* Generasi add-in makro ODT-to-XLAM yang otomatis
+* Integrasi dengan sistem otomatisasi Excel perusahaan
+* Pembuatan batch alat yang mendukung makro dari konten ODT berstruktur
+* Menyederhanakan pipa pengembangan makro dari dokumen ke Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

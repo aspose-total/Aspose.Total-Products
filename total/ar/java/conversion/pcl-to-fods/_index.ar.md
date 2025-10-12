@@ -47,7 +47,30 @@ otherformats: TSV XLSM XLSB FODS TXT ODS XLTX XLT DIF XLAM SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**تحويل PCL إلى FODS** يحول البيانات التي تم إنشاؤها بالطباعة إلى تنسيق **جدول بيانات OpenDocument المسطح (FODS)**، مما يوفر جداول بيانات قابلة للتحرير بناءً على XML ومتوافقة مع LibreOffice وOpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل تقارير الطباعة أو الفواتير إلى بيانات جدول قابلة للتحرير
+* تمكين التوافق بين جداول البيانات عبر المنصات
+* دمج البيانات الجدولية القائمة على PCL في أدوات المكتب مفتوحة المصدر
+* أرشفة البيانات المطبوعة المهيكلة كجداول بيانات XML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل آلي لتقارير المالية أو التقارير عن المخزون المطبوعة إلى FODS
+* الدمج في خطوط الإنتاج للتقارير مفتوحة المصدر
+* تحويل البيانات المطبوعة على نطاق واسع للاستخدام في التحليلات والسجلات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

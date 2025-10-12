@@ -54,7 +54,31 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar POTM con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **OTT naar POTM** genereert **Macro-Enabled PowerPoint Template-bestanden**, waardoor template-gebaseerde automatisering binnen dia-decks mogelijk is met behulp van macro's afgeleid van de template-inhoud.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het maken van macro-ingeschakelde presentatiesjablonen
+* Automatiseren van repetitieve dia-creatie taken
+* Standaardiseren van workflows met templates-macro's
+* Integreren van op templates gebaseerde logica in presentaties
+* Samenwerkende automatisering van dia-decks
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batchconversie van OTT naar POTM voor macro-ingeschakelde templatesbibliotheken
+* Ondernemingsautomatisering van dia-deckcreatie
+* Integratie met presentatiewerkstroomtools
+* Dynamische macrogeneratie vanuit template-inhoud
+* Op templates gebaseerde PowerPoint-automatiseringspijplijnen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

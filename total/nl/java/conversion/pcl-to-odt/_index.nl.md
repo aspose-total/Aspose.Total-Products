@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **PCL naar ODT** zet de uitvoer van **Printer Command Language** om in het formaat van **OpenDocument Text (.ODT)** voor bewerkbare tekstverwerking in **LibreOffice Writer** of andere ODF-editors.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het opnieuw maken van afdrukrapporten als bewerkbare documenten
+* Het voorbereiden van tekstzware PCL-uitvoer voor publicatie of samenwerking
+* Het omzetten van op PCL gebaseerde sjablonen naar bewerkbare ODT-bestanden
+* Het handhaven van documentconsistentie over open-source systemen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Het automatisch genereren van ODT-documenten van afdrukopdrachten
+* Integratie met documentbeheer- en bewerkingssystemen
+* Batchconversie van gearchiveerde PCL-documenten naar opentekstformaten
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

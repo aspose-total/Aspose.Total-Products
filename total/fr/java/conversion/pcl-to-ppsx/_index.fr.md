@@ -121,7 +121,28 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PCL en PPSX** transforme les fichiers **Printer Command Language** en format **PowerPoint Open XML Show (.PPSX)**, adapté pour une lecture de présentation fluide.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Transformer des rapports PCL statiques en présentations diaporama
+* Livrer des données et des visuels d'entreprise sous forme de diaporamas non modifiables
+* Partager du contenu basé sur l'impression sous forme de fichiers de lecture prêts pour PowerPoint
+* Préservation de la précision de la mise en page pour la visualisation de présentations
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion planifiée de documents PCL en présentations .PPSX
+* Intégration avec les flux de distribution de présentations d'entreprise
+* Création en lot de fichiers PPSX pour une utilisation en formation ou en reporting
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,32 @@ otherformats: POT PPSM PPSX POWERPOINT PPT POTM PPS POTX PPTM PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى PPT
+
+يحول **OTT إلى PPT** قوالب **OpenDocument Text (.OTT)** إلى ملفات **PowerPoint Presentation (.PPT)** قابلة للتحرير، جاهزة لإنشاء الشرائح والتعديل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إعادة استخدام قوالب النصوص في عروض الشرائح القابلة للتحرير
+* إنشاء عروض تقديمية احترافية من تخطيطات OTT
+* تخصيص محتوى المستند إلى شرائح جاهزة للعرض
+* إعداد ملفات PPT للاجتماعات الداخلية أو عروض العملاء
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعة من قوالب OTT إلى عروض PPT
+* دمج مع خطوط الإنتاج لإنشاء عروض تقديمية آلياً
+* إنشاء جدول زمني لإنشاء عروض شرائح قابلة للتحرير من قوالب المستندات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

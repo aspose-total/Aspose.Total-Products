@@ -54,7 +54,25 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar POT conv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **ODT naar POT** maakt het mogelijk om tekstbestanden om te zetten in **PowerPoint-sjabloonbestanden**, waardoor gebruikers consistente presentatiethema's en structuren kunnen ontwerpen op basis van geschreven inhoud.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het maken van PowerPoint-sjablonen van gestructureerde tekstbestanden
+* Het ontwerpen van presentatiekaders voor consistente teambrede uniformiteit
+* Het omzetten van bedrijfsinhoud naar bewerkbare presentatiesjablonen
+* Het bouwen van herbruikbare dia-sjablonen uit documentatie
+* Het omzetten van zakelijke overzichten in presentatieklare thema's
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde generatie van PowerPoint-sjablonen uit Word-inhoud
+* Integratie in contentontwerp- of brandingssystemen
+* Batchconversie van op tekst gebaseerde sjablonen naar POT-bestanden
+* Dynamische thema-creatie van op document gebaseerde lay-outs
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

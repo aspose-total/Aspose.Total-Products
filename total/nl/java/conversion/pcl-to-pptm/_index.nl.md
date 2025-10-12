@@ -121,7 +121,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **PCL naar PPTM** verandert **Printer Command Language** documenten in het formaat van **PowerPoint Macro-Enabled Presentation (.PPTM)**, waardoor automatisering mogelijk is binnen geconverteerde dia's.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Insluiten van macro's in op PCL gebaseerde PowerPoint-presentaties
+* Mogelijk maken van geautomatiseerde workflows binnen zakelijke dia-decks
+* Omzetten van drukklare sjablonen in macro-ingeschakelde presentaties
+* Opbouwen van interactieve of op gegevens gebaseerde dia's vanuit PCL-inhoud
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Automatisch genereren van PPTM-bestanden voor rapportage en analyses
+* Integratie van de generatie van macro-ingeschakelde presentaties in bedrijfssystemen
+* Stroomlijnen van de creatie van interactieve presentaties vanuit drukbestanden
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

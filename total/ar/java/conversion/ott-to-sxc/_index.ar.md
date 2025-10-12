@@ -61,7 +61,35 @@ otherformats: FODS EXCEL XLS SXC XLTX XLSM ODS XLAM XLT XLTM XLSX TSV DIF XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى SXC
+
+يحول تحويل **OTT إلى SXC** قوالب OpenDocument Text إلى **ملفات جداول برنامج StarOffice Calc**، مما يتيح استخدام محتوى القالب في تطبيقات الجداول مثل OpenOffice Calc أو LibreOffice Calc.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل القوالب النصية إلى جداول جدولية
+* أرشفة بيانات القالب بتنسيق جدول
+* إعداد تقارير أو حسابات مستمدة من محتوى القالب
+* التحرير التعاوني لجداول البيانات المستندة إلى القالب
+* مشاركة معلومات القالب المهيكلة عبر المنصات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل OTT إلى SXC تلقائيًا لمعالجة الدفعات
+* التكامل مع سير العمل وأنظمة التقارير الجدولية
+* إنشاء جداول بيانات قابلة للتحرير من عدة قوالب
+* مستودع مركزي لبيانات الجداول المستمدة من القوالب
+* استخراج ديناميكي للمحتوى الجدولي للتحليلات والحسابات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

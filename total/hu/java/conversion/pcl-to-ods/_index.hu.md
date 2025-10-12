@@ -47,7 +47,30 @@ A PCL-fájl ODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti ODS-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to ODS** konvertálása adatokat nyer ki a **Printer Command Language** fájlokból az **OpenDocument Spreadsheet (.ODS)** formátumba strukturált elemzéshez olyan eszközökben, mint a **LibreOffice Calc**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Táblázatos nyomtatott jelentések átalakítása táblázatokká
+* Adatelemzés lehetővé tétele PCL által generált táblázatokon
+* Strukturált PCL tartalom importálása könyvelési vagy elemző munkafolyamatokba
+* Szerkeszthető, képletalapú lapok létrehozása nyomtatott adatokból
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ütemezett átalakítás PCL jelentésekből ODS munkafüzetekbe
+* Adatkinyerési csatornák, amelyek nyomtatott kimenetet alakítanak táblázatformátumokká
+* Integráció ERP vagy pénzügyi rendszerekkel az automatikus adatbevitel érdekében
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

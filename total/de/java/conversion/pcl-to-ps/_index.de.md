@@ -130,7 +130,30 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von **PCL in PS** ermöglicht die Transformation von Dateien im **Printer Command Language**-Format in das **PostScript (.PS)**-Format, wodurch die Druckgenauigkeit erhalten bleibt und die Kompatibilität mit hochwertigen Verlags- und Drucksystemen sichergestellt wird.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Konvertierung druckfertiger Dateien in PostScript für professionellen Druck
+* Archivierung von PCL-Druckaufträgen als PS-Dateien für Verlagssysteme
+* Sicherstellung der Konsistenz der plattformübergreifenden Druckausgabe
+* Vorbereitung von PostScript-basierten Workflows für den kommerziellen Druck
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Konvertierung großer PCL-Dateien in PS für den Druckgebrauch
+* Integration in Vorstufen- und Verlagsautomatisierungspipelines
+* Optimierung der Dokumentenausgabe für Druckproduktionssysteme
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

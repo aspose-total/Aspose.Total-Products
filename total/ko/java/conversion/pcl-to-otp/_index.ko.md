@@ -121,7 +121,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 OTP로 변환**은 **프린터 명령어 언어** 파일을 **OpenDocument 프레젠테이션 템플릿 (.OTP)** 형식으로 변환하여 재사용 가능한 슬라이드 템플릿을 만드는 기능입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PCL 레이아웃에서 프레젠테이션 템플릿 디자인
+* 비즈니스용 브랜드 슬라이드 템플릿 생성
+* 인쇄된 기업 시각 자료를 편집 가능한 OTP 템플릿으로 변환
+* 부서 간 디자인 재사용 간소화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 표준 인쇄 자료에서 자동 템플릿 생성
+* 프레젠테이션 작성 워크플로우 통합
+* 기업 인쇄 자료에서 재사용 가능한 슬라이드 마스터 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

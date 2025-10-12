@@ -130,7 +130,30 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to ODT** konvertálása átalakítja a **Printer Command Language** kimenetét **OpenDocument Text (.ODT)** formátummá szerkeszthető szövegszerkesztéshez a **LibreOffice Writer** vagy más ODF szerkesztőkben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Nyomtatott jelentések újrateremtése szerkeszthető dokumentumokká
+* Szöveges PCL kimenet előkészítése publikáláshoz vagy együttműködéshez
+* PCL alapú sablonok átalakítása szerkeszthető ODT fájlokká
+* Dokumentumegység fenntartása az open-source rendszerek között
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* ODT dokumentumok automatikus generálása nyomtatási feladatokból
+* Integráció dokumentumkezelési és szerkesztési rendszerekkel
+* Tárolt PCL dokumentumok tömeges átalakítása nyílt szöveges formátumokba
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

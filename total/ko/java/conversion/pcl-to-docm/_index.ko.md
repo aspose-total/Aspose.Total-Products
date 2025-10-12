@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 DOCM으로 변환**하면 **프린터 명령어 언어** 출력물을 **매크로 활성화된 워드 문서**로 변환할 수 있어 자동화, 동적 업데이트 및 고급 서식 기능을 인쇄 기반 파일에서 직접 사용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 자동화를 위해 변환된 워드 문서에 매크로 삽입
+* 편집 가능하고 프로그래밍 가능한 보고서에서 인쇄된 데이터 재사용
+* PCL 출력물에서 대화식 비즈니스 템플릿 생성
+* 매크로 활성화된 문서를 사용하여 생산성 워크플로 향상
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 동적 보고를 위해 PCL 아카이브를 DOCM으로 일괄 변환
+* 자동화된 워드 기반 워크플로에 인쇄 출력물 통합
+* 프린터 스트림에서 실시간으로 매크로 활성화된 문서 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

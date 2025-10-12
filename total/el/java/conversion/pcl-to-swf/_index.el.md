@@ -121,7 +121,32 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε SWF**
+
+Η μετατροπή **Printer Command Language** εγγράφων σε αρχεία **Adobe Flash (.SWF)** επιτρέπει διαδραστικές παρουσιάσεις πολυμέσων και παράδοση περιεχομένου μέσω του web.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία διαδραστικών παρουσιάσεων από διατάξεις εκτύπωσης PCL
+* Ενσωμάτωση περιεχομένου βασισμένου σε εκτυπώσεις σε ιστοσελίδες και πλατφόρμες e-learning
+* Μετατροπή στατικών εκτυπώσεων σε πολυμεσικές διαφάνειες
+* Διαμοιρασμός οπτικού περιεχομένου εκτύπωσης ως διαδραστικά αρχεία φιλικά προς το web
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Παραγωγή πακέτων αρχείων SWF από αρχεία εκτύπωσης PCL
+* Ενσωμάτωση με εκδόσεις στο web και πλατφόρμες e-learning
+* Αυτοματοποιημένη μετατροπή για ψηφιακά διαδραστικά ροές περιεχομένου
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

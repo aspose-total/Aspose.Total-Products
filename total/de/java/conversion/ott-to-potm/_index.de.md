@@ -54,7 +54,33 @@ Mit der API können Sie auch passwortgeschützte OTT-Dokumente in POTM konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von **OTT zu POTM** generiert **makrofähige PowerPoint-Vorlagendateien**, die eine automatisierte Vorlagenverwendung innerhalb von Präsentationen ermöglichen, indem Makros aus dem Vorlageninhalt abgeleitet werden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Erstellung von makrofähigen Präsentationsvorlagen
+* Automatisierung wiederkehrender Folien-Erstellungsaufgaben
+* Standardisierung von Workflows mit Vorlagen-Makros
+* Integration von vorlagenbasierten Logiken in Präsentationen
+* Kollaborative Automatisierung von Präsentationsfolien
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Stapelkonvertierung von OTT zu POTM für makrofähige Vorlagensammlungen
+* Unternehmensweite Automatisierung der Präsentationsfolienerstellung
+* Integration mit Präsentations-Workflow-Tools
+* Dynamische Makroerstellung aus Vorlageninhalten
+* Vorlagenbasierte PowerPoint-Automatisierungspipelines
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

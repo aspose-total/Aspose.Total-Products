@@ -102,7 +102,33 @@ otherformats: XLTX XLT XLS SXC XLTM XLSX XLSB XLAM TSV EXCEL XLSM CSV DIF FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-ODS** מאפשרת לתבניות טקסט של OpenDocument להיות מיוצגות כקבצי גיליון של OpenDocument, מאפשרת שימוש בנתונים מובנים, ניתוח ועריכת גיליונות נתונים צלולה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת טבלאות תבנית לגיליונות נתונים ניתנים לעריכה
+* ארכיבת תבניות מבוססות נתונים בפורמט פתוח
+* הכנת דוחות וניתוח מתוכן של תבנית
+* עריכה שיתופית של גיליונות נתונים שנוצרו מתבנית
+* שיתוף מידע מובנה בתבנית בין פלטפורמות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-ODS באופן אוטומטי עבור תהליכי עבודה בארגונים
+* ייצוא רצפי שולחן תבנית לגיליונות נתונים
+* שילוב עם צינורות דיווח וניתוח
+* יצירת גיליונות נתונים דינמיים מספריות תבניות
+* ניהול מרכזי של נתוני גיליון הנתונים שנוצרו מתבנית
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

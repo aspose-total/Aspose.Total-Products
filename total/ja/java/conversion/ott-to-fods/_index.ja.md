@@ -61,7 +61,33 @@ OTTをFODSに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをFODSに変換**すると、OpenDocument Text Templatesを**Flat XML Spreadsheet形式**に変換して、編集可能なスプレッドシートコンテンツをシンプルでポータブルなXML構造で提供します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* テンプレートから編集可能なスプレッドシートコンテンツを共有
+* ポータブルなXMLベースの形式でデータをアーカイブ
+* オープンソースのスプレッドシートアプリケーションとテンプレートデータを統合
+* プロプライエタリソフトウェアなしで表形式のコンテンツを分析
+* 構造化されたテンプレート情報の軽量な交換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* スプレッドシートパイプライン用の自動OTTからFODSへの変換
+* テンプレートのバッチ処理をポータブルなXMLスプレッドシートに統合
+* オープンソースの分析およびレポーティングツールとの統合
+* テンプレートからスプレッドシートへのワークフローの合理化
+* 再利用可能なテンプレートデータの中央集権化されたXMLベースのアーカイブ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

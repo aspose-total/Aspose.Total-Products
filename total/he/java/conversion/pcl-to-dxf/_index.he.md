@@ -105,7 +105,30 @@ otherformats: APNG JPEG2000 WMF PSD WMZ IMAGE EMZ  SVGZ TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **PCL ל־DXF** ממירה גרפיקות או תכניות בשפת הפקודות של מדפסת (**Printer Command Language**) לקבצי **Drawing Exchange Format (DXF)**, המשמשים בצורה נרחבת ביישומים של CAD ועיצוב הנדסי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ של גרפיקות וקטוריות מדוחות הנדסיים מודפסים
+* המרת תרשימי סכמה מפלט הדפסה לקבצים שניתנים לקריאה ב־CAD
+* דיגיטציה של תכניות הנדסיות שנוצרו בהדפסה לצורך שינויים עיצוביים נוספים
+* אפשרות להתאמה בין מערכות הדפסה וכלים של CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירה אוטומטית של קבצי DXF מתרשימי טכניים המבוססים על הדפסה
+* שילוב של המרת PCL ל־DXF בתהליכי עבודה הנדסיים
+* המרה רצופה של פלטי הדפסה מאוחסנים לתקנים התואמים ל־CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

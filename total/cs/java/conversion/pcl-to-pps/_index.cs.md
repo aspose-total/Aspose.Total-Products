@@ -121,7 +121,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na PPS** převádí výstup z **Printer Command Language** do formátu **PowerPoint Show (.PPS)**, čímž připravuje prezentaci k přímému přehrávání.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna dokumentů založených na PCL na připravené prezentace
+* Automatické generování prezentací zpráv k prohlížení
+* Dodání obsahu PCL jako prezentací na celou obrazovku
+* Uchování rozložení PCL pro použití prezentace nelze upravit
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické vytváření souborů .PPS z opakujících se PCL zpráv
+* Integrace se plánovaným publikováním prezentací
+* Převod tiskového obsahu do souborů prezentací připravených k zobrazení
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

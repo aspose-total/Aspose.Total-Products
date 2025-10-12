@@ -47,7 +47,30 @@ A PCL-fájl XLTM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLTM-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to XLTM** konvertálása lehetővé teszi **makróval ellátott Excel sablonok** létrehozását nyomtatott dokumentumokból, összekapcsolva a diagrammegőrzést az automatizálási logika beágyazásának képességével.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Makróval ellátott Excel sablonok tervezése nyomtatott elrendezésekből
+* Újrafelhasználható automatizálás beágyazása jelentéssablonokba
+* Dinamikus sablonalapú dokumentumgenerálás lehetővé tétele
+* Okos táblázatok létrehozásának szabványosítása
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Okos sablonok generálása rutin PCL jelentésekből
+* Excel jelentések automatizálása makrólogikával
+* Nyomtatott adatok tömeges átalakítása újrafelhasználható üzleti sablonokká
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

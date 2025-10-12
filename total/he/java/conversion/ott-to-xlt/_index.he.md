@@ -102,7 +102,30 @@ otherformats: EXCEL CSV XLSM XLSX SXC XLS ODS TSV XLAM FODS XLTM DIF XLTX XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-XLT** ממירה **תבניות טקסט של OpenDocument (.OTT)** ל-**תבנית Excel (.XLT)**, מספקת בסיס שימושי ליצירת גיליונות אלקטרוניים חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות גליונות אלקטרוניים תקניות ממסמכי OTT
+* שמירה על עיצוב עקבי לצורכי דיווחים או ניתוח
+* הכנת תבניות חוזרות למשימות קלט נתונים חוזרות
+* המרת תבניות טקסט למבנים מוכנים ל-Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה רציפה של תבניות OTT ל-XLT לשימוש עסקי
+* שילוב לתוך צינורות יצור גליונות אלקטרוניים אוטומטיים
+* יצירה מתוזמנת של תבניות Excel מתבניות מסמכים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

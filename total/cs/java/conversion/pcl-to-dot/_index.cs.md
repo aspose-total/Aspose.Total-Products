@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Převod PCL na DOT** umožňuje přetvořit tištěné šablony a zprávy z souborů **Printer Command Language** do dokumentů **Microsoft Word Template (.DOT)** pro konzistentní formátování a opakované použití.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření Word šablon z PCL založených zpráv nebo rozvržení
+* Standardizace vzhledu dokumentů napříč odděleními
+* Vytváření opakovaně použitelných formulářů a šablon z tištěných souborů
+* Zefektivnění procesů přípravy dokumentů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované generování firemních šablon z tištěných zpráv
+* Pracovní postupy s dokumenty založené na šablonách pro obchodní operace
+* Převod rutinních PCL zpráv do připravených šablon DOT k okamžitému použití
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

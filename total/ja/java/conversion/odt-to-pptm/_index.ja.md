@@ -54,7 +54,27 @@ APIを使用すると、パスワードで保護されたODTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODTをPPTMに変換**することで、**マクロを有効にしたPowerPointプレゼンテーション**をテキスト文書から作成し、静的コンテンツとインタラクティブまたは自動化されたスライドの動作を組み合わせることができます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 構造化されたテキスト文書からインタラクティブなプレゼンテーションのデザイン
+* 埋め込みマクロを使用した自動レポートの作成
+* 動的なスライド遷移をトリガーするプレゼンテーションの生成
+* VBA機能を備えたスマートなビジネスやトレーニングデッキの準備
+* マクロを有効にしたプレゼンテーションを使用したレポート配信の効率化
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+* ODTからPPTMへの自動プレゼンテーション生成ワークフロー
+* 企業向けレポーティングおよび自動化システムとの統合
+* ODTファイルからのバッチマクロ有効スライド作成
+* 内部レポート用の動的なデータ駆動型プレゼンテーション生成
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

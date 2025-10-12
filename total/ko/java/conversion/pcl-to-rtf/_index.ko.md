@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 RTF로** 변환하면 **프린터 명령어 언어** 출력물을 **리치 텍스트 형식 (RTF)** 문서로 변환하여 넓은 호환성, 쉬운 편집 및 크로스 플랫폼 사용이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 인쇄된 문서를 편집 가능한 리치 텍스트 파일로 변환
+* 이동성을 보장하면서 기본 서식 유지
+* 여러 워드 프로세서 간에 인쇄 생성 보고서 공유
+* 보관용으로 가벼운 문서 버전 준비
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PCL 인쇄 파일을 RTF로 일괄 변환하여 배포
+* 기업 시스템에 PCL-to-RTF 파이프라인 통합
+* 인쇄 데이터로부터 서식이 있는 텍스트 보고서 자동 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL naar WORDML** conversie transformeert **Printer Command Language** documenten naar het **WordProcessingML (WordML)** formaat, waardoor een op XML gebaseerde structuur wordt geboden voor geavanceerde gegevensmanipulatie en documentautomatisering.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Omzetten van afdruklay-outs naar op XML gebaseerde Word formaten
+* Mogelijk maken van gestructureerde documentmanipulatie via WordML
+* Integratie van Word documenten met op XML gebaseerde workflows
+* Faciliteren van metagegevensgestuurde documentautomatisering
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde generatie van WordML documenten vanuit PCL afdrukbestanden
+* Integratie met documentbeheer en XML-workflows
+* Bulkconversie voor interoperabiliteit met Word verwerkings-API's
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

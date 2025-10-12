@@ -61,7 +61,32 @@ otherformats: SXC XLS EXCEL XLSM XLT DIF XLTM XLSX ODS XLTX FODS TSV XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى XLTM
+
+يحول **OTT إلى XLTM** **قوالب نصوص OpenDocument (.OTT)** إلى **قالب ممكن للتشغيل الماكرو (.XLTM)** لجداول بيانات قابلة لإعادة الاستخدام مع الأتمتة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصميم قوالب جداول بيانات ممكنة للتشغيل الماكرو من ملفات OTT
+* أتمتة عمليات البيانات المتكررة باستخدام دفاتر العمل القائمة على القوالب
+* إنشاء قوالب Excel قابلة لإعادة الاستخدام للتقارير والتحليلات
+* توحيد سير العمل باستخدام أسس جداول البيانات الممكنة للتشغيل الماكرو
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل مجدول لـ OTT-إلى-XLTM لتقارير المؤسسات
+* دمج مع أتمتة سير العمل وأنابيب إنشاء جداول البيانات
+* إنشاء دفاتر جدول Excel ممكنة للتشغيل الماكرو بشكل دفعي من قوالب المستندات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

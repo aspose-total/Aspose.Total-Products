@@ -47,7 +47,30 @@ otherformats: MD XLSB TXT XLTX DIF FODS SXC XLSM XLAM ODS XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Μετατροπή PCL σε TSV** μετατρέπει τις εξόδους **Printer Command Language** σε αρχεία **Tab-Separated Values**. Αυτή η μορφή είναι ιδανική για καθαρές, δομημένες εισαγωγές σε υπολογιστικά φύλλα ή λογισμικά που βασίζονται σε δεδομένα με διαχωριστικό χαρακτήρα tab.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή πίνακα περιεχομένων από δεδομένα μορφοποιημένα για εκτύπωση
+* Δημιουργία συνόλων δεδομένων TSV από τιμολόγια ή εγγραφές PCL
+* Τροφοδοσία εξόδων TSV σε συστήματα μετανάστευσης δεδομένων ή ETL
+* Διαμοιρασμός δομημένων δεδομένων εκτύπωσης μεταξύ επιχειρησιακών συστημάτων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη εξαγωγή αρχείων εκτύπωσης σε TSV
+* Ενσωμάτωση με αγωγούς δεδομένων για πίνακες ελέγχου αναφορών
+* Αυτόματη μετατροπή από εκτύπωση σε δομημένα δεδομένα έτοιμα για ανάλυση
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

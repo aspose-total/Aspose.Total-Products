@@ -54,7 +54,33 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na ODP. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OTT na ODP** transformuje šablony OpenDocument Text na soubory **OpenDocument Presentation**, umožňující opětovné využití obsahu e-mailových šablon pro prezentace a prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění textových šablon na prezentace
+* Archivace šablon jako upravitelného prezentace obsahu
+* Předělání obsahu pro školení nebo marketingové prezentace
+* Společné vytváření prezentací z dat šablony
+* Udržování konzistentního brandingu v prezentacích
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický převod OTT na ODP pro hromadné zpracování
+* Integrace s pracovními postupy správy prezentací
+* Generování snímků z knihoven šablon pro školení
+* Dynamické vložení obsahu šablony do prezentací
+* Automatizace převodu šablony na prezentaci pro celou firmu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

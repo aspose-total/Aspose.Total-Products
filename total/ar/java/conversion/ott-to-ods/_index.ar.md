@@ -61,7 +61,33 @@ otherformats: XLTX XLT XLS SXC XLTM XLSX XLSB XLAM TSV EXCEL XLSM ODS DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل **OTT إلى ODS** يسمح بتمثيل قوالب OpenDocument Text كملفات **جداول بيانات OpenDocument**، مما يتيح استخدام البيانات المنظمة والتحليل وتحرير جداول البيانات عبر المنصات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل جداول القوالب إلى جداول بيانات قابلة للتحرير
+* أرشفة القوالب القائمة على البيانات في تنسيق مفتوح
+* إعداد التقارير والتحليل من محتوى القوالب
+* تحرير التعاوني لجداول البيانات المستمدة من القوالب
+* مشاركة معلومات القوالب المنظمة عبر المنصات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل OTT إلى ODS تلقائيًا لسير العمل في المؤسسات
+* تصدير دفعي لجداول القوالب إلى جداول بيانات
+* التكامل مع أنابيب التقارير والتحليل
+* إنشاء جداول بيانات ديناميكية من مكتبات القوالب
+* إدارة مركزية لبيانات جداول البيانات المستمدة من القوالب
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

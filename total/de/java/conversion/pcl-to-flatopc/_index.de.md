@@ -130,7 +130,30 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von **PCL in FLATOPC** ermöglicht die Transformation von Dokumenten in **Printer Command Language** in das **Flat OPC XML**-Format, das Microsoft Word-, Excel- oder PowerPoint-Dokumente als einzelne, vereinheitlichte XML-Dateien darstellt.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Umwandlung gedruckter Inhalte in offene, XML-basierte Dokumentenstrukturen
+* Ermöglicht die tiefe Datenextraktion und -modifikation aus PCL-generierten Dateien
+* Integration von Druckinhalten in unternehmensweite XML-Workflows
+* Gewährleistung von Transparenz und Rückverfolgbarkeit bei der Dokumententransformation
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte PCL-zu-FLATOPC-Umwandlung in Dokumentenverwaltungssystemen
+* Integration von Druck-Workflows mit XML-basierten Archivierungs- und Analysetools
+* Stapelkonvertierung von PCL-Dateien zur langfristigen digitalen Archivierung
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

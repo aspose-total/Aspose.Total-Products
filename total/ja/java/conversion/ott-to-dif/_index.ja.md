@@ -61,7 +61,33 @@ OTTをDIFに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをDIFに変換**すると、OpenDocument Text Templatesを**Data Interchange Formatファイル**に変換して、テンプレートからの構造化データをスプレッドシートやデータベースにインポートして分析できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* テンプレートテーブルの抽出によるデータ分析
+* 旧式のスプレッドシートアプリケーション向けのテンプレートコンテンツの準備
+* シンプルで標準化された形式でのテンプレートデータの共有
+* 報告用に構造化情報をアーカイブ
+* ビジネスインテリジェンスワークフローへのテンプレートデータの統合
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業報告のためのバッチOTTからDIFへの変換
+* データベースインポートおよび分析パイプラインとの統合
+* 複数のテンプレートからの表形式データの自動抽出
+* 過去のデータセットや旧式データのための効率化された処理
+* システム間での利用のための中央集権化されたDIFアーカイブ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,32 @@ otherformats: DICOM DXF WMF TGA IMAGE WMZ PSD JPEG2000 EMZ SVGZ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى DICOM
+
+يمكن تحويل **لغة أوامر الطابعة (PCL)** إلى ملفات **التصوير الرقمي والاتصالات في الطب (DICOM)**. يعد هذا مفيدًا بشكل خاص في البيئات الطبية التي تحتاج إلى أرشفة أو تصور البيانات التشخيصية المعتمدة على الطباعة في أنظمة الصور.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل التقارير التشخيصية المطبوعة إلى تنسيق صور DICOM
+* تضمين بيانات الطباعة الممسوحة ضمن أرشيفات الصور الطبية
+* دمج المستندات الطبية القائمة على PCL في أنظمة PACS
+* توحيد تنسيقات السجلات الطبية لامتثال الرعاية الصحية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل تقارير الطب الطباعية تلقائيًا إلى DICOM لسجلات المستشفى
+* دمج تحويل الطباعة إلى DICOM ضمن سير العمل الصحي
+* تحويل الأرشيفات PCL بشكل دفعي لأنظمة تخزين الصور الطبية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

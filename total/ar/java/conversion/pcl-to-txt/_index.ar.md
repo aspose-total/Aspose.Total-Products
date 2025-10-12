@@ -47,7 +47,32 @@ otherformats: TXT DIF MD XLSB FODS XLSM XLT SXC ODS XLAM TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى TXT
+
+يستخرج محتوى النص العادي من ملفات لغة أمر الطابعة (PCL)، مما يجعله مثاليًا للتحليل، التأريش، أو معالجة البيانات الإضافية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج نص قابل للقراءة من تقارير بتنسيق الطباعة
+* إنشاء أرشيفات خفيفة الوزن وقابلة للبحث للبيانات المطبوعة
+* تغذية النص المستخرج إلى أنظمة التنقيب عن النصوص أو معالجة اللغة الطبيعية (NLP)
+* تبسيط إخراج الطباعة لتحليل آلي
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+
+* استخراج نص بالجملة من أرشيفات PCL
+* إنشاء سجلات آلية من الملفات المعتمدة على الطباعة
+* دمجه في سيناريوهات الذكاء الاصطناعي، والتحليل، أو سير العمل للفهرسة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,30 @@ APIを使用すると、必要に応じて出力TGA画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをTGAに変換**すると、**プリンターコマンド言語**のグラフィックスを**Truevision TGA (.TGA)** 画像形式に変換し、高品質のラスターグラフィックスをデザイン、視覚化、またはアーカイブ目的で保存します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PCLプリントグラフィックスから高品質の画像を抽出する
+* デザインやイラストレーションワークフローのための視覚コンテンツの準備
+* ロスレス画像形式でプリントグラフィックスをアーカイブする
+* マルチメディアアプリケーション向けに図やレイアウトを変換する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCLグラフィックスをTGAに自動バッチ変換
+* 画像処理やマルチメディアパイプラインとの統合
+* 将来の利用のためにプリントビジュアルを効率的にアーカイブ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

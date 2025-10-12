@@ -121,7 +121,30 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von **PCL in OTP** wandelt **Printer Command Language**-Dateien in das Format **OpenDocument Presentation Template (.OTP)** um, um wiederverwendbare Folienvorlagen zu erstellen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Entwurf von Präsentationsvorlagen aus PCL-Layouts
+* Erstellung von gebrandeten Folienvorlagen für geschäftliche Zwecke
+* Umwandlung gedruckter Unternehmensgrafiken in bearbeitbare OTP-Vorlagen
+* Vereinfachung der Design-Wiederverwendung über Abteilungen hinweg
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatische Erstellung von Vorlagen aus Standarddruckmaterialien
+* Integration in Präsentationsaufbau-Workflows
+* Generierung wiederverwendbarer Folienmaster aus Unternehmensdruckdokumenten
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

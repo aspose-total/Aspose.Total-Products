@@ -135,7 +135,32 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى XAML
+
+يُحول **لغة أوامر الطابعة (PCL)** ملفات **XAML (لغة ترميز تطبيقات قابلة للتوسيع)** للرسومات القائمة على الناقل وعناصر واجهة المستخدم في تطبيقات Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إعادة استخدام الرسومات PCL في تطبيقات WPF أو UWP
+* تحويل تخطيطات الطباعة إلى مكونات واجهة مستخدم تفاعلية
+* تضمين رسومات ناقلة قابلة للتوسيع في برامج Windows
+* الحفاظ على تصميم الطباعة للتكامل مع التطبيقات الرقمية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل PCL إلى XAML تلقائيًا لتطوير التطبيقات
+* الدمج في تصميم واجهة المستخدم وأتمتة سير العمل
+* تحويل دفعي لأرشيفات PCL إلى أصول XAML قائمة على الناقل
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

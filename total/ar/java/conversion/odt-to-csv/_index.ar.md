@@ -61,7 +61,27 @@ otherformats: XLTM XLSM XLSX XLT XLS DIF EXCEL SXC ODS XLSB FODS XLAM TSV XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى CSV** يحول جداول المستندات النصية إلى **قيم مفصولة بفواصل**, مما يمكن تمثيل البيانات المنظمة لجداول البيانات أو قواعد البيانات أو أدوات الأتمتة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج البيانات الجدولية من المستندات النصية للتحليل
+* استيراد بيانات المستند إلى جدول بيانات أو أدوات BI
+* تحويل النص المنسق إلى صفوف بيانات بسيطة وأعمدة
+* إعداد مجموعات البيانات لتقنيات التعلم الآلي أو سير العمل الآلي
+* تبسيط عمليات تقارير المستندات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* تحويل ODT إلى CSV تلقائيًا لأنابيب البيانات
+* استخراج جداول المستندات بالجملة لأنظمة التحليل
+* دمج سلس في عمليات استيراد قواعد البيانات
+* مزامنة بيانات على مستوى المؤسسة من المستندات إلى جداول البيانات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

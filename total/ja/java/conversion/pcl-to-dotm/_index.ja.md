@@ -130,7 +130,28 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをDOTMに変換**すると、**マクロが有効化されたWordテンプレート**に印刷されたレイアウトが変換され、フォーマットの保存と高度な文書生成のための埋め込み自動化機能が組み合わされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* PCLドキュメントからマクロを使用したスマートテンプレートの作成
+* レポート生成と繰り返しタスクの自動化
+* 動的機能を備えたレイアウトの一貫性の維持
+* フォーム入力および検証タスクのためのスクリプトの埋め込み
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 印刷ソースからの自動化されたテンプレートの企業全体への作成
+* PCLファイルのバッチ処理をマクロが有効化されたテンプレートに変換
+* Wordの自動化やレポートシステムへの統合
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

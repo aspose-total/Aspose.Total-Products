@@ -130,7 +130,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى MHTML
+
+يقوم تحويل **PCL إلى MHTML** بتجميع محتوى **لغة أمر الطابعة** في شكل **ويب أرشيف (.MHTML)**، محافظًا على التخطيط والصور والنص لتوزيع صفحات الويب في ملف واحد.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تغليف تقارير PCL لعرضها على المتصفح
+* الحفاظ على تخطيطات الطباعة كصفحات ويب مستقلة
+* مشاركة محتوى الطباعة المنسق عبر الشبكة الداخلية أو البريد الإلكتروني
+* تخزين وظائف الطباعة PCL التقليدية كأرشيفات MHTML قابلة للوصول
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد MHTML تلقائيًا من تدفقات الطباعة PCL
+* التكامل مع أنظمة أرشفة المستندات أو تسليم الويب
+* تحويل دفعي للإبلاغ الداخلي أو الوثائق على الإنترنت
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

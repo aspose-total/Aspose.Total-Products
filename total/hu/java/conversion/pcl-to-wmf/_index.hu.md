@@ -57,7 +57,30 @@ Az API használatával igény szerint elforgathatja a kimeneti WMF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to WMF** konvertálása átalakítja a **Printer Command Language** grafikákat **Windows Metafile (.WMF)** formátummá, amely alkalmas vektor alapú szerkesztésre és skálázható képek használatára Windows alkalmazásokban.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Skálázható grafikák kinyerése PCL nyomtatási elrendezésekből
+* Vektor alapú diagramok szerkesztése Windows alkalmazásokban
+* PCL vizuális elemek beágyazása Office dokumentumokba
+* Nyomtatási pontosság megőrzése asztali kiadványszerkesztési projektekhez
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* PCL fájlok automatizált átalakítása WMF képekbe
+* Integráció dokumentumkiadási és tervezési csővezetékekkel
+* Tömeges feldolgozás örökölt nyomtatott grafikai archívumokhoz
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

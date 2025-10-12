@@ -102,7 +102,27 @@ otherformats: XLSM SXC EXCEL XLTM FODS XLS XLAM ODS DIF XLTX TSV XLSB CSV XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-XLT** ממירה נתוני מסמך לתבנית **Excel**, מאפשרת יצירת גיליון עבודה אחיד ופריסת דוחות עקביים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* עיצוב תבניות Excel ממסמכי טקסט
+* השתמשות מחדש בנתוני מסמך למשימות דיווח חוזרות
+* המרת טפסים תיקניים של מסמכים לתבניות Excel
+* שמירה על עיצוב גיליון אחיד בקרב צוותים
+* זרימת עבודה מסמך-לתבנית
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* יצירת תבנית ODT-to-XLT אוטומטית
+* שילוב במערכות ניהול תבניות עסקיות
+* ייצוא צפון של נתונים מעוצבים לשימוש חוזר בדוחות
+* צינורות יצירת תבניות Excel מופעלים על ידי מסמך
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

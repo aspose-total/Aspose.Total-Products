@@ -54,7 +54,33 @@ API를 사용하면 암호로 보호된 OTT 문서를 POTM로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 POTM으로 변환**하면 **매크로가 활성화된 PowerPoint 템플릿 파일**이 생성되어, 템플릿 기반 자동화를 통해 템플릿 콘텐츠에서 파생된 매크로를 사용하여 슬라이드 덱 내에서 작업할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 매크로가 활성화된 프레젠테이션 템플릿 생성
+* 반복적인 슬라이드 생성 작업 자동화
+* 템플릿 매크로를 사용하여 워크플로우 표준화
+* 프레젠테이션에 템플릿 기반 로직 통합
+* 협업 슬라이드 덱 자동화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 매크로가 활성화된 템플릿 라이브러리를 위한 일괄 OTT에서 POTM으로 변환
+* 슬라이드 덱 생성의 기업 자동화
+* 프레젠테이션 워크플로우 도구 통합
+* 템플릿 콘텐츠에서 동적 매크로 생성
+* 템플릿 기반 PowerPoint 자동화 파이프라인
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

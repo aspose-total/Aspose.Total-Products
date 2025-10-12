@@ -61,7 +61,32 @@ otherformats: EXCEL XLT XLSX TSV XLTX SXC XLSB ODS XLSM XLS XLTM FODS XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε XLSM**
+
+Η μετατροπή **Προτύπων Κειμένου OpenDocument (.OTT)** σε **Βιβλίο Εργασιών με Ενεργοποιημένα Μακρό (.XLSM)** επιτρέπει την αυτοματοποίηση και τη λειτουργικότητα βασισμένη σε μακρό στις υπολογιστικές φύλλα.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Δημιουργία βιβλίων εργασιών Excel με μακρό από πρότυπα OTT
+* Αυτοματοποίηση επεξεργασίας δεδομένων ή δημιουργίας αναφορών
+* Επαναχρησιμοποίηση προτύπων εγγράφων για διαδραστικές λύσεις φύλλων εργασίας
+* Ενσωμάτωση υπολογισμών ή αυτοματοποιημένων εργασιών σε δημιουργημένα βιβλία εργασιών
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Μαζική μετατροπή προτύπων OTT σε βιβλία εργασιών XLSM
+* Ενσωμάτωση με αναφορές επιχειρηματικής εκθέτησης και αναλυτικές διαδικασίες
+* Αυτοματοποιημένη δημιουργία ενεργοποιημένων μακρό φύλλων εργασίας από πρότυπα
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

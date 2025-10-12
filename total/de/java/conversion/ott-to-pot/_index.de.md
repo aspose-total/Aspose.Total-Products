@@ -54,7 +54,33 @@ Mit der API können Sie auch passwortgeschützte OTT-Dokumente in POT konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von **OTT in POT** verwandelt OpenDocument-Textvorlagen in **PowerPoint-Vorlagendateien** und ermöglicht die Erstellung wiederverwendbarer Folienlayouts aus textuellen Vorlageninhalten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Generierung wiederverwendbarer PowerPoint-Vorlagen aus textuellen Inhalten
+* Standardisierung von Unternehmenspräsentationsformaten
+* Archivierung von Vorlagen-basierten Folienlayouts
+* Unterstützung bei der gemeinsamen Erstellung von Folien
+* Vorbereitung von Schulungs- oder Marketingpräsentationen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte OTT-zu-POT-Konvertierung für Unternehmensvorlagenbibliotheken
+* Stapelweise Erstellung von Präsentationsvorlagen aus mehreren OTT-Dateien
+* Integration in Präsentationsmanagement-Workflows
+* Dynamische Einfügung von Vorlageninhalten in Folienpräsentationen
+* Unternehmensweite Standardisierung von Folienvorlagen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

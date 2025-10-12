@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na POT. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na POT** umožňuje transformaci textových dokumentů do souborů s **PowerPoint šablonami**, což uživatelům umožňuje navrhovat konzistentní prezentace na základě psaného obsahu.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření PowerPoint šablon ze strukturovaných textových dokumentů
+* Navrhování prezentčních rámců pro konzistenci v týmu
+* Převod firemního obsahu do upravitelných prezentčních šablon
+* Vytváření opakovaně použitelných šablon snímků z dokumentace
+* Transformace obchodních nástinů do připravených témat pro prezentace
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatizované generování PowerPoint šablon z obsahu Wordu
+* Integrace do systémů návrhu obsahu nebo brandingu
+* Hromadný převod textových šablon do souborů POT
+* Dynamické vytváření témat z rozložení založených na dokumentech
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

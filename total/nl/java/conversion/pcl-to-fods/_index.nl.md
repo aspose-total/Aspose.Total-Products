@@ -47,7 +47,30 @@ Tijdens het converteren van het PCL-bestand naar FODS, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL naar FODS** conversie transformeert door print gegenereerde gegevens naar het **Flat OpenDocument Spreadsheet (FODS)** formaat, waardoor bewerkbare, op XML gebaseerde spreadsheets worden geleverd die compatibel zijn met LibreOffice en OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van print rapporten of facturen naar bewerkbare spreadsheetgegevens
+* Het mogelijk maken van compatibiliteit van spreadsheets tussen verschillende platforms
+* Het integreren van op PCL gebaseerde tabulaire gegevens in open-source kantoortools
+* Gestructureerde printgegevens archiveren als XML-spreadsheets
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde conversie van gedrukte financiële of voorraadrapporten naar FODS
+* Integratie in open-source rapportagepijplijnen
+* Grootschalige transformatie van printgegevens voor analyse en archivering
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

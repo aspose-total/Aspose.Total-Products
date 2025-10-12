@@ -47,7 +47,30 @@ PCLファイルをDIFに変換するときに、出力DIFファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをDIFに変換**すると、**Printer Command Language**ファイルを**Data Interchange Format (DIF)**ファイルに変換し、アプリケーション間での構造化されたデータ交換とスプレッドシートの相互運用性を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* 印刷されたレポートから表形式のデータをDIF形式に抽出する
+* レガシースプレッドシートシステムへの印刷データのインポートを容易にする
+* 分析ツール間でのスムーズなデータ移行を可能にする
+* アーカイブされたPCLの印刷物から再利用可能なデータセットを作成する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCLレポートをDIFに自動変換してデータ交換を行う
+* 構造化されたデータ交換のためのETLパイプラインへの統合
+* DIF互換の分析ソースへの印刷アーカイブの一括変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

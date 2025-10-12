@@ -57,7 +57,33 @@ Pomocí API můžete také otočit výstupní obrázek IMAGE podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na OBRÁZEK** produkuje **rastrové obrazové výstupy** (PNG, JPEG, TIFF atd.) z dokumentů v jazyce Printer Command Language, čímž se soubory připravené k tisku stávají zobrazitelnými a sdílitelnými jako standardní obrázky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vizualizace tiskových úloh PCL jako obrázků
+* Vložení tiskového výstupu do dokumentace nebo zpráv
+* Archivace souborů PCL v repozitářích založených na obrazech
+* Tisk do obrázkových pracovních postupů pro přístupnost napříč platformami
+* Sdílení tiskových rozvrhů napříč zařízeními nepodporujícími PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod PCL na obrázek v systémech zpracování tisku
+* Hromadná generace obrázků pro náhled dokumentů
+* Integrace s cloudovým monitorováním tisku nebo řešeními DMS
+* Archivace podnikových tiskových dat založená na obrazech
+* Vizualizace tiskových úloh v reálném čase pro kontrolu kvality a validaci
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

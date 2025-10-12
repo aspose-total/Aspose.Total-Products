@@ -61,7 +61,27 @@ otherformats: XLSM SXC EXCEL XLTM FODS XLS XLAM ODS DIF XLTX TSV XLSB XLT XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε XLT** μετατρέπει τα δεδομένα του εγγράφου σε **μορφή προτύπου Excel**, επιτρέποντας την τυποποίηση της δημιουργίας φύλλων εργασίας και τη συνεπή διάταξη των αναφορών.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Σχεδιασμός προτύπων Excel από κείμενα εγγράφων
+* Επαναχρησιμοποίηση δεδομένων εγγράφου για επαναλαμβανόμενες εργασίες αναφοράς
+* Μετατροπή τυποποιημένων φορμών εγγράφων σε πρότυπα Excel
+* Διατήρηση ομοιόμορφης μορφοποίησης φύλλων εργασίας σε ομάδες
+* Ροή εργασιών από εγγράφο σε πρότυπο
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτόματη δημιουργία προτύπων ODT σε XLT
+* Ενσωμάτωση σε συστήματα διαχείρισης προτύπων επιχειρήσεων
+* Παρτίδα εξαγωγής μορφοποιημένων δεδομένων για επαναχρησιμοποίηση σε αναφορές
+* Δημιουργία προτύπων Excel με βάση τα έγγραφα
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

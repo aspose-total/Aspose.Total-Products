@@ -130,7 +130,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをDOTXに変換**すると、**プリンターコマンド言語**ファイルを**Wordテンプレート（.DOTX）**形式に変換し、再利用可能でマクロのないテンプレートでデザインの一貫性を保つのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 印刷レイアウトから標準化されたドキュメントテンプレートを設計する
+* Wordテンプレートで企業全体のブランディングを効率化する
+* 将来のレポート用に編集可能で再利用可能なテンプレートを作成する
+* 静的な印刷コンテンツを柔軟なドキュメントデザインに変換する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 印刷レポートからDOTXへの自動テンプレート変換
+* 一貫した出力のための文書生成システムへの統合
+* ブランド付きレポートテンプレートのエンタープライズレベルでの作成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

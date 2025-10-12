@@ -54,7 +54,27 @@ otherformats: POT PPSX POWERPOINT PPTX PPS PPSM POTM PPTM PPT POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε PPTX** μετατρέπει το γραπτό περιεχόμενο σε **σύγχρονες παρουσιάσεις PowerPoint**, ιδανικές για επαγγελματίες που χρειάζονται επεξεργάσιμες, έτοιμες για σχεδίαση διαφάνειες που προέρχονται από δομημένα έγγραφα.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή αναφορών και περιλήψεων έργων σε παρουσιάσεις
+* Μετατροπή επιχειρηματικού ή ερευνητικού περιεχομένου σε οπτικές διαφάνειες
+* Κοινοποίηση ιδεών και τεκμηρίωση ως επεξεργάσιμες παρουσιάσεις PPTX
+* Δημιουργία οπτικά συνεπών διαφανειών από μορφοποιημένο περιεχόμενο κειμένου
+* Προετοιμασία δυναμικών και συνεργατικών παρουσιάσεων από αρχεία ODT
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτοματοποιημένη μετατροπή ODT σε PPTX για επικοινωνία επιχειρήσεων
+* Ενσωμάτωση σε αγωγούς δημιουργίας περιεχομένου προς παρουσίαση
+* Μαζική μετατροπή αρχείων ODT σε σύγχρονη μορφή PowerPoint
+* Δημιουργία δυναμικών διαφανειών για επιχειρηματική αναφορά και συναντήσεις
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

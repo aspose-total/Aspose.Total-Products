@@ -54,7 +54,33 @@ otherformats: PPTX PPTM PPS POTM POTX PPSX POWERPOINT POT PPT PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε ODP** μετατρέπει τα πρότυπα κειμένου OpenDocument σε **αρχεία παρουσίασης OpenDocument**, επιτρέποντας την επαναχρησιμοποίηση περιεχομένου προτύπων email για διαφάνειες και παρουσιάσεις.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή κειμενικών προτύπων σε διαφάνειες παρουσίασης
+* Αρχειοθέτηση προτύπων ως επεξεργάσιμο περιεχόμενο παρουσίασης
+* Επαναχρησιμοποίηση περιεχομένου για εκπαιδευτικά ή μάρκετινγκ decks
+* Συνεργατική δημιουργία παρουσιάσεων από δεδομένα προτύπου
+* Διατήρηση συνεπούς επωνυμίας στις παρουσιάσεις
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή OTT σε ODP για παρτίδες επεξεργασίας
+* Ενσωμάτωση με ροές διαχείρισης παρουσιάσεων
+* Δημιουργία διαφανειών από βιβλιοθήκες προτύπων για εκπαίδευση
+* Δυναμική εισαγωγή περιεχομένου προτύπου στις παρουσιάσεις
+* Αυτοματισμός μετατροπής προτύπου σε παρουσίαση σε όλη την επιχείρηση
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

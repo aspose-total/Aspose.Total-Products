@@ -47,7 +47,24 @@ PCLファイルをXLTXに変換するときに、出力XLTXファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## PCLからXLTXへの変換
+
+**PCLからXLTXへの**変換は、**Printer Command Language (PCL)** ドキュメントを**Excel Template (XLTX)** ファイルに変換し、将来のスプレッドシートでの一貫した書式設定と再利用を可能にします。
+
+## 主な使用事例
+
+* 印刷レイアウトを再利用可能なExcelテンプレートに変換する
+* 事前定義されたスタイルを使用してレポート作成を効率化する
+* 部門間で文書の一貫性を保つ
+* 標準化されたレポート作成のためのテンプレート作成を自動化する
+
+## 自動化シナリオ
+
+* ビジネスレポートのためのテンプレートベースの自動化
+* 定期的な印刷レポートを標準化されたテンプレートに変換する
+* PCL出力からExcel用のデザインを自動的に作成する
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

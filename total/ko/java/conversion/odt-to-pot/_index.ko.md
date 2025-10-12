@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 ODT 문서를 POT로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 POT로 변환**하면 텍스트 문서를 **PowerPoint 템플릿 파일**로 변환할 수 있어 사용자가 쓰인 콘텐츠를 기반으로 일관된 프레젠테이션 테마와 구조를 디자인할 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 구조화된 텍스트 문서로부터 PowerPoint 템플릿 생성
+* 팀 전체의 일관성을 위한 프레젠테이션 프레임워크 디자인
+* 기업 콘텐츠를 편집 가능한 프레젠테이션 템플릿으로 변환
+* 문서에서 재사용 가능한 슬라이드 템플릿 작성
+* 비즈니스 아웃라인을 프레젠테이션용 테마로 변환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* 워드 콘텐츠로부터 PowerPoint 템플릿의 자동 생성
+* 콘텐츠 디자인이나 브랜딩 시스템 통합
+* 텍스트 기반 템플릿의 일괄 변환을 POT 파일로
+* 문서 기반 레이아웃으로 동적 테마 생성
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

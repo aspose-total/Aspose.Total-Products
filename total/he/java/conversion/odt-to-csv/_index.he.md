@@ -102,7 +102,27 @@ otherformats: XLTM XLSM XLSX XLT XLS DIF EXCEL SXC ODS XLSB FODS XLAM TSV XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל־CSV** ממירה טבלאות מסמכים במבנה טקסט ל־**ערכים מופרדים בפסיקים**, מאפשרת ייצוג נתונים מובנים עבור גיליונות נתונים, מסדי נתונים או כלי אוטומציה.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ נתוני טבלה ממסמכי טקסט לצורך ניתוח
+* ייבוא נתוני מסמך לכלי גיליון אלקטרוני או BI
+* המרת טקסט מעוצב לשורות ועמודות נתונים פשוטים
+* הכנת סטים נתונים ללמידת מכונה או זרימות עבודה לאוטומציה
+* עיבוד תהליכי דיווח מבוססי מסמך
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרת ODT ל־CSV אוטומטית לצורך צינורות נתונים
+* חילוץ טבלאות מסמכים בכמות גדולה למערכות ניתוח
+* שילוב חלקי לתהליכי ייבוא למסדי נתונים
+* סנכרון נתונים ברמה הארגונית ממסמכים לגיליונות נתונים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,25 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar POTM con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **ODT naar POTM** maakt de transformatie van op tekst gebaseerde documenten naar **macro-enabled PowerPoint-sjablonen** mogelijk, handig voor het automatiseren van dia-creatie en het insluiten van presentatielogica.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Genereren van macro-enabled sjablonen van gedetailleerde rapporten
+* Automatiseren van dia-populatie op basis van tekststructuren
+* Maken van slimme presentatiesjablonen met ingebedde VBA-logica
+* Voorbereiden van dynamische sjablonen voor terugkerende presentaties
+* Stroomlijnen van zakelijke rapportagepresentaties
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde ODT-naar-POTM-sjablooncreatie-workflows
+* Integratie in enterprise presentatie-automatiseringssystemen
+* Batchcreatie van op macro's gebaseerde PowerPoint-sjablonen
+* Dynamische generatie van interactieve dia-sjablonen
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

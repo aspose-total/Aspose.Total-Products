@@ -61,7 +61,32 @@ otherformats: EXCEL XLT XLSM XLSX SXC XLS ODS TSV XLAM FODS XLTM DIF XLTX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى XLT
+
+يحول **OTT إلى XLT** **قوالب OpenDocument Text (.OTT)** إلى **قالب Excel (.XLT)**، مما يوفر أساسًا قابلاً لإعادة الاستخدام لإنشاء جداول بيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء قوالب جداول بيانات قياسية من مستندات OTT
+* الحفاظ على تنسيق متسق للتقارير أو التحليل
+* إعداد قوالب قابلة لإعادة الاستخدام لمهام إدخال البيانات المتكررة
+* تحويل قوالب النصوص إلى هياكل جاهزة لإكسل
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعة من قوالب OTT إلى XLT للاستخدام في المؤسسات
+* دمجها في خطوط إنتاج جداول البيانات الآلية
+* إنشاء مجدول لقوالب Excel من قوالب المستندات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

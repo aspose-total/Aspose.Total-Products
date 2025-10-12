@@ -49,7 +49,25 @@ Terwijl u ODP naar JSON converteert, kunt u het bereik ook instellen op uw outpu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **ODP naar JSON** maakt gestructureerde extractie van presentatie-inhoud mogelijk in een **machine-leesbaar formaat**, waardoor naadloze gegevensuitwisseling, analyse en integratie met moderne web- of automatiseringssystemen mogelijk is.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Omzetten van presentatiegegevens naar gestructureerde formaten voor API's
+* Extraheren van dia's, tekst en metadata voor analyse of indexering
+* Migreren van presentatie-inhoud naar webgebaseerde toepassingen
+* Opslaan van presentatiegegevens in databases voor zoeken en ophalen
+* Faciliteren van door AI gedreven inhoudsbegrip en classificatie
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde ODP-naar-JSON-conversie voor contentmanagementsystemen
+* Integratie in ETL (Extract, Transform, Load) pipelines
+* Dynamische weergave van presentatiegegevens in web- of mobiele apps
+* Batchconversie voor digitale activarepositories of API's
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

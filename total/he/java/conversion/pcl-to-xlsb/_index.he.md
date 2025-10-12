@@ -102,7 +102,30 @@ otherformats: XLTX MD FODS TXT CSV XLT SXC ODS EXCEL DIF XLSM TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**המרת PCL ל-XLSB** יוצרת **חוברות עבודה בינאריות של Excel** מקבצי **PCL**, מציעה ביצועים מהירים יותר, גודל קובץ קטן יותר, ותאימות לקבוצות נתונים גדולות המקורם בחומרים מודפסים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת ביצועים גבוהים של דוחות PCL גדולים ל-XLSB
+* אחסון נתוני גיליון בינאריים דחוסים מקבצי הדפסה
+* הפחתת גודל של ארכיונים של Excel המכילים נתונים רבי-עומס
+* אוטומציה של חילוץ מובנה מפורמטים של PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת קבצי PCL בכמויות גדולות לתבנית XLSB במתוזמנת
+* שילוב עם מערכות אחסון נתונים וניתוח
+* המרת ארכיון לשמירה על ריווחי אחסון קטנים יותר
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -130,7 +130,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **PCL ke DOTM** mengubah tata letak cetak menjadi **template Word yang mendukung makro**, menggabungkan pelestarian format dengan kemampuan otomatisasi tertanam untuk generasi dokumen yang canggih.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat template pintar dengan makro dari dokumen PCL
+* Mengotomatisasi pembuatan laporan dan tugas-tugas berulang
+* Menjaga konsistensi tata letak dengan fungsionalitas dinamis
+* Menanamkan skrip untuk tugas pengisian formulir dan validasi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Pembuatan template otomatis secara enterprise-wide dari sumber cetak
+* Pengolahan batch file PCL menjadi template yang mendukung makro
+* Integrasi ke dalam otomatisasi Word atau sistem pelaporan
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -49,7 +49,33 @@ Saat Anda mengonversi OTP ke JSON, Anda juga dapat mengatur rentang ke format JS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OTP ke JSON** memungkinkan ekstraksi data terstruktur dari template **OpenDocument Presentation** ke dalam format yang dapat dibaca mesin. Transformasi ini mendukung pengembang, analis, dan sistem otomatisasi dalam mengintegrasikan konten presentasi ke dalam pipa data, API, atau sistem manajemen konten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah template presentasi menjadi data JSON terstruktur
+* Mengekstrak metadata, tata letak slide, dan konten teks untuk analitika
+* Memungkinkan konsumsi data presentasi berbasis API
+* Migrasi template OTP lama ke aplikasi web modern
+* Penyimpanan terpusat konten presentasi dalam basis data JSON
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi massal file OTP ke skema JSON yang terstandar
+* Integrasi dengan sistem CMS atau DAM untuk penggunaan konten dinamis
+* Analisis otomatis elemen slide di seluruh kumpulan data besar
+* Otomatisasi alur kerja untuk memperbarui template presentasi secara programatis
+* Pra-pemrosesan data AI dan ML dari input berbasis presentasi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

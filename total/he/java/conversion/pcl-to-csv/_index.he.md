@@ -102,7 +102,31 @@ otherformats: XLTM XLSB MD ODS TSV EXCEL XLTX FODS DIF SXC XLT XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## המרת **PCL ל־CSV** מאפשרת לנתונים טבלאיים או מובנים המודפסים באמצעות **שפת פקודות המדפסת (PCL)** להיות מומרים לקבצי **ערכים מופרדים בפסיקים**. זה עושה את המידע קל לשימוש מחדש או לניתוח ביישומי גיליון אלקטרוני או בסיסי נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ נתונים טבלאיים מדוחות או חשבוניות מודפסות
+* ייבוא מידע מודפס לבסיסי נתונים או גליונות אלקטרוניים
+* אוטומציה של המרת יומני PCL או סיכומים לטבלאות נתונים
+* ארכיבה של פלטי הדפסה כמערכות נתונים מובנות ב־CSV
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* צינורות המרה בצפיפות גבוהה עבור דוחות שנוצרו מההדפסה
+* חילוץ PCL ל־CSV בזמן אמת עבור מערכות מעקב
+* שילוב בכלי עסקיים לאינטליגנציה עסקית וניתוח נתונים
+* ייצוא אוטומטי של נתוני הדפסה לצורך ביקורת או עמיתות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

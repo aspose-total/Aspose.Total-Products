@@ -54,7 +54,33 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar POWERPOI
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **OTT naar POWERPOINT** transformeert OpenDocument-tekstsjablonen in **bewerkbare PowerPoint-presentaties**, waardoor direct gebruik van sjablooninhoud in dia's mogelijk is.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het maken van presentaties van tekstuele sjablonen
+* Archiveren van sjablooninhoud als bewerkbare presentaties
+* Samenwerking bij het bewerken van dia's
+* Hergebruik van sjablooninhoud voor marketing of training
+* Handhaven van consistente branding in presentaties
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batchconversie van OTT naar PowerPoint voor bedrijfsmatig gebruik
+* Integratie met presentatieworkflowsystemen
+* Geautomatiseerde generatie van dia's uit sjabloonbibliotheken
+* Dynamische inhoudsinvoeging in presentaties
+* Gecentraliseerd repository van op sjablonen gebaseerde dia's
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -100,7 +100,33 @@ otherformats: PPS POTM ODP PPTX PPSX PPT POWERPOINT PPSM POT PPTM CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל־POTX** יוצרת **קבצי תבניות של PowerPoint בלי מקרו**, מאפשרת תבניות שקופיות ומאובטחות המגיעות מתבניות טקסטואליות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* תבניות מצגות חוזרות וללא מקרו
+* תקנון עיצובי שקופות לחברות
+* הכנת מצגות או קרוסלות שיווקיות בהתבסס על תבניות
+* ארכיבת פריסות שקופות לצוותים של עבודה משותפת
+* הבטחת אבטחה על ידי חילוץ ממקרו
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה אוטומטית של OTT ל־POTX בצורת צמיחה
+* שילוב עם מערכות ניהול תבניות מצגת
+* יצירה דינמית של קרוסלות מצגות מספריות תבניות
+* הפצה ברחבי העסקה של תבניות ללא מקרו
+* אוטומציה של צינור לעדכונים בתבניות שקופות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,27 @@ otherformats: XLTM ODS XLSM CSV XLS XLSX EXCEL SXC XLSB XLT XLAM XLTX DIF FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל־TSV** ממירה נתוני מסמך ל־**ערכים מופרדים בטאב**, שומרת על בהירות ועקביות בעת עבודה עם קבצי נתונים מובנים או מבוססי טקסט.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת טבלאות ODT מעוצבות למערכות נתונים מופרדות בטאב
+* ייבוא תוכן מסמך לכלים לעיבוד טקסט או סקריפטים
+* שיתוף נתונים מובנים בין פלטפורמות התומכות ב־TSV
+* הכנת מבני נתונים עקביים למחקר או ניתוחים
+* העברת טבלאות מבוססות מסמך למערכות המצפות לפורמט TSV
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרת ODT ל־TSV במערכות חילוץ נתונים אוטומטיות
+* ייצוא צפיפות של מסמכי טקסט לאינטגרציות בצד האחורי
+* שילוב פלט TSV לתוך צינורות ניקוי נתונים
+* העברה פשוטה של קבצי נתונים טקסטואליים בין כלים עסקיים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

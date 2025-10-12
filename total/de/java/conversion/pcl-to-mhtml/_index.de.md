@@ -130,7 +130,30 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Funktionen
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von **PCL in MHTML** kapselt den Inhalt der **Printer Command Language** in ein **Webarchivformat (.MHTML)** ein, um Layout, Bilder und Text für die Verteilung als einzelne Webdatei zu erhalten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Verpacken von PCL-Berichten für die Anzeige im Browser
+* Erhaltung von Drucklayouts als eigenständige Webseiten
+* Teilen formatierten Druckinhalts über Intranet oder E-Mail
+* Speichern von Legacy-PCL-Druckaufträgen als zugängliche MHTML-Archive
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatische MHTML-Erstellung aus PCL-Druckdatenströmen
+* Integration in Dokumentenarchivierungs- oder webbasierte Zustellsysteme
+* Stapelkonvertierung für interne Berichterstellung oder Online-Dokumentation
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

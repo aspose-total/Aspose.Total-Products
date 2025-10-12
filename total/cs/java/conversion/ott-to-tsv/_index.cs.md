@@ -61,7 +61,33 @@ Po převodu OTT do TSV vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **OTT na TSV** exportuje šablony OpenDocument Text do **hodnot oddělených tabulátorem**, což je užitečné pro import strukturovaných dat, analýzu a zpracování tabulek.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Extrahování dat pro tabulkové reporty
+* Příprava šablon pro import do tabulek nebo automatizaci
+* Sdílení obsahu šablony ve formátu lehké tabulky
+* Archivace strukturovaného textu pro analýzu nebo záznamování
+* Podpora výměny dat mezi platformami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované potrubí OTT-to-TSV pro podnikové reportování
+* Hromadný export pro analytiku a pracovní postupy s dokumenty
+* Integrace s datově řízenými systémy pro zpracování šablon
+* Generování archivů TSV pro centralizované repozitáře obsahu
+* Automatizace pracovního postupu pro extrakci tabulkového obsahu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

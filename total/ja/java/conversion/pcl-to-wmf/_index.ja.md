@@ -57,7 +57,24 @@ APIを使用すると、必要に応じて出力WMF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## PCLをWMFに変換
+
+**PCLをWMFに変換**は、**プリンターコマンド言語**のグラフィックを**Windowsメタファイル（.WMF）**形式に変換し、Windowsアプリケーションでのベクターベースの編集やスケーラブルな画像利用に適しています。
+
+## 主な使用事例
+
+* PCL印刷レイアウトからスケーラブルなグラフィックの抽出
+* Windowsアプリケーションでのベクターベースの図表の編集
+* Office文書にPCLビジュアルを埋め込む
+* デスクトップパブリッシングプロジェクトの印刷精度を保持する
+
+## 自動化シナリオ
+
+* PCLファイルをWMF画像に自動変換
+* 文書公開およびデザインパイプラインとの統合
+* 旧式の印刷グラフィックアーカイブのバッチ処理
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,32 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## PCL átalakítása MARKDOWN formátumba
+
+A **PCL to MARKDOWN** konvertáló szöveges tartalmat nyer ki a **Printer Command Language** fájlokból, és formázza **Markdown (.MD)** formátumba webes közzétételhez vagy könnyű dokumentációhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Nyomtatott jelentések átalakítása Markdown dokumentációvá
+* Strukturált szövegek létrehozása webhelyekhez, blogokhoz vagy README fájlokhoz
+* Formázott tartalom egyszerűsítése technikai írásokhoz és együttműködéshez
+* Könnyű, verziókezelt szövegkimenetek generálása nyomtatott adatokból
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált Markdown generálás PCL nyomtatási csövekből
+* Integráció statikus webhelygenerátorokkal és dokumentációs rendszerekkel
+* Nagy nyomtatott archívumok átalakítása Markdown formátumba tudásbázisokhoz
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

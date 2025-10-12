@@ -54,7 +54,27 @@ L'API consente inoltre di convertire documenti ODT protetti da password in PPS. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **ODT in PPS** consente la **creazione diretta di presentazioni** da documenti di testo, rendendolo perfetto per la consegna di contenuti pronti per la presentazione senza ulteriori modifiche.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Creare file di presentazione istantanei da report o riassunti
+* Consegnare informazioni basate su testo in formato presentazione
+* Preparare presentazioni automatizzate per riunioni o eventi
+* Convertire documenti in stile Word in presentazioni autoeseguibili
+* Ottimizzare i flussi di lavoro delle presentazioni educative o di marketing
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+* Generazione automatica di presentazioni ODT-to-PPS
+* Integrazione con sistemi di pubblicazione documenti
+* Elaborazione batch di presentazioni basate su testo
+* Generare diapositive pronte per la presentazione da contenuti strutturati
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

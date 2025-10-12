@@ -130,7 +130,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **PCL ke DOTX** mengubah file **Printer Command Language** menjadi format **Template Word (.DOTX)**, ideal untuk menjaga konsistensi desain dalam template yang dapat digunakan ulang, non-makro.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mendesain template dokumen standar dari tata letak cetak
+* Mempermudah branding perusahaan secara menyeluruh dengan template Word
+* Membuat template yang dapat diedit dan digunakan kembali untuk laporan-laporan masa depan
+* Mengonversi konten cetak statis menjadi desain dokumen yang fleksibel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi template otomatis dari laporan cetak ke DOTX
+* Integrasi ke sistem generasi dokumen untuk output yang konsisten
+* Pembuatan template laporan bermerk pada tingkat perusahaan
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

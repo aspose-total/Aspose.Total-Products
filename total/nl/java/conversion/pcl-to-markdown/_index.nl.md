@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **PCL naar MARKDOWN** haalt tekstuele inhoud uit **Printer Command Language**-bestanden en formatteert deze tot **Markdown (.MD)** voor webpublicatie of lichte documentatie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van afgedrukte rapporten naar Markdown-documentatie
+* Het creëren van gestructureerde tekst voor websites, blogs of README-bestanden
+* Het vereenvoudigen van opgemaakte inhoud voor technisch schrijven en samenwerking
+* Het genereren van lichte, versiegecontroleerde tekstuitvoer van printgegevens
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde Markdown-generatie van PCL-printpijplijnen
+* Integratie met statische sitegeneratoren en documentatiesystemen
+* Het omzetten van grote printarchieven naar Markdown voor kennisbanken
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

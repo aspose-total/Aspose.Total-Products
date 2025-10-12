@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをOTPに変換**すると、**Printer Command Language**ファイルを**OpenDocument Presentation Template (.OTP)**形式に変換して再利用可能なスライドテンプレートを作成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PCLレイアウトからプレゼンテーションテンプレートをデザインする
+* ビジネス利用向けのブランド付きスライドテンプレートを作成する
+* 印刷された企業のビジュアルを編集可能なOTPテンプレートに変換する
+* 部門間でデザインの再利用を効率化する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 標準印刷資料からの自動テンプレート作成
+* プレゼンテーション構築ワークフローとの統合
+* 企業の印刷資料から再利用可能なスライドマスターを生成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,27 @@ otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB CSV XLT EXCEL XLAM SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל־DIF** ממירה תוכן מבוסס טקסט לקבצי **Data Interchange Format (DIF)**, מאפשרת תיקון מבנה של נתונים בין מסמך וסביבות גיליון.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא מידע טבלאי ממסמכים למערכות נתונים
+* שילוב של דוחות מבוססי טקסט עם תוכנות גיליון
+* הכנת סטים נתונים לייבוא לכלים אנליטיים
+* שיתוף נתוני מסמך מובנים בין יישומים
+* המרת טבלאות מסמך למגרש או עיבוד נתונים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* ייצוא אוטומטי של ODT ל־DIF עבור זרימות נתונים של עסקים
+* שילוב עם צינורות ETL וכלים לדיווח
+* המרה צפונית של דוחות לפורמטי תיקון נתונים
+* המרת מסמך לסט נתונים עבור פלטפורמות אנליטיות וBI
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,32 @@ otherformats: XLSB ODS XLT TSV SXC FODS TXT XLTX XLSM MD EXCEL XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى DIF
+
+يُحول تحويل PCL إلى DIF ملفات لغة أمر الطابعة إلى ملفات تنسيق تبادل البيانات (DIF)، مما يمكن من تبادل البيانات المنظمة والتوافق بين جداول البيانات عبر التطبيقات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج البيانات الجدولية من التقارير المطبوعة إلى تنسيق DIF
+* تيسير استيراد بيانات الطباعة إلى أنظمة جداول البيانات التقليدية
+* تمكين هجرة البيانات بسلاسة بين الأدوات التحليلية
+* إنشاء مجموعات بيانات قابلة لإعادة الاستخدام من طباعات PCL المؤرشفة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل تقارير PCL تلقائيًا إلى DIF لتبادل البيانات
+* دمجه في أنابيب ETL لتبادل البيانات المنظمة
+* تحويل الأرشيفات الطباعية بالجملة إلى مصادر تحليلية متوافقة مع DIF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

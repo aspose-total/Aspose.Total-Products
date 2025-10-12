@@ -61,7 +61,27 @@ otherformats: XLT XLSX FODS XLSM XLTX DIF XLS ODS EXCEL XLTM TSV SXC XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى XLTM** يقوم بتصدير محتوى OpenDocument Text إلى **قوالب Excel ممكّنة للماكرو**, مجمعًا بين التّلقائية واستمرارية التّصميم في سير عمل واحد.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء قوالب Excel تعتمد على الماكرو القابلة لإعادة الاستخدام من المستندات
+* توطين توليفة التقارير باستخدام قوالب مُعدة مسبقًا
+* تبسيط سير العمل المكرر من المستندات إلى جداول البيانات
+* دعم إعدادات التّلقائية لمستوى الشركات في Excel
+* الحفاظ على هياكل الجداول البيانية الموحّدة والمُعتمدة تلقائيًا
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التّلقيح" %}}
+* تحويل ODT إلى XLTM المجدول لدورات التقارير
+* إنتاج كتلي لقوالب الماكرو من المدخلات النصية
+* دمجه مع سير العمل التّلقائي في Excel VBA
+* تصدير المستند الديناميكي إلى القالب في أنظمة الشركات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

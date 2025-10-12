@@ -121,7 +121,32 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى PPSX
+
+يحول تحويل **PCL إلى PPSX** ملفات **لغة أمر الطابعة** إلى تنسيق **PowerPoint Open XML Show (.PPSX)**، المناسب لتشغيل العروض بسلاسة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل التقارير الثابتة بتنسيق PCL إلى عروض شرائح
+* تقديم البيانات والرسومات الشركية كعروض شرائح غير قابلة للتحرير
+* مشاركة المحتوى القائم على الطباعة كملفات تشغيل جاهزة لبرنامج PowerPoint
+* الحفاظ على دقة التخطيط لعرض العروض
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل مجدول للمستندات بتنسيق PCL إلى عروض .PPSX
+* التكامل مع سير العمل لتوزيع العروض داخل المؤسسة
+* إنشاء دفعة من ملفات PPSX للاستخدام في التدريب أو التقارير
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

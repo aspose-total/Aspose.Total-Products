@@ -121,7 +121,30 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to PPS** konvertálása átalakítja a **Printer Command Language** kimenetet **PowerPoint Show (.PPS)** formátummá, így a bemutató készen áll a közvetlen lejátszásra.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PCL-alapú dokumentumok átalakítása bemutatókész diavetítésekké
+* Jelentések automatikus generálása prezentációként történő megtekintéshez
+* PCL tartalom szállítása teljes képernyős prezentációként
+* PCL elrendezések megőrzése nem szerkeszthető prezentációkhoz
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ismétlődő PCL jelentésekből .PPS fájlok automatizált létrehozása
+* Integráció ütemezett prezentáció közzétételével
+* Nyomtatott tartalom átalakítása kijelzőre kész prezentációs fájlokká
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

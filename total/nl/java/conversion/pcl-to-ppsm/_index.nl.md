@@ -121,7 +121,28 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **PCL naar PPSM** verandert **Printer Command Language** bestanden in het formaat **PowerPoint Macro-Enabled Show (.PPSM)** voor interactieve, geautomatiseerde diavoorstellingen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van PCL-bestanden in door macro's aangestuurde diavoorstellingen
+* Het toevoegen van automatisering en interactiviteit aan visuele rapporten
+* Het creëren van geautomatiseerde afspeeldia's van statische printoutput
+* Het leveren van dynamische shows voor bedrijfspresentaties
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batch PPSM-generatie voor op gegevens gebaseerde presentaties
+* Integratie van macro-enabled dia's in bedrijfsrapportageworkflows
+* Automatiseren van de levering van interactieve presentatie-inhoud
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

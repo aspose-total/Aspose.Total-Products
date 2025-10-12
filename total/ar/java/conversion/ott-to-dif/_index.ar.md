@@ -61,7 +61,35 @@ otherformats: XLTM XLSB XLAM XLSX ODS XLTX FODS XLT SXC XLS DIF EXCEL TSV XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى DIF
+
+يُحول تحويل OTT إلى DIF قوالب OpenDocument Text إلى ملفات Data Interchange Format، مما يسمح بنقل البيانات المهيكلة من القوالب إلى جداول البيانات وقواعد البيانات للتحليل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج جداول القوالب لتحليل البيانات
+* تحضير محتوى القالب لتطبيقات جداول البيانات التقليدية
+* مشاركة بيانات القالب بتنسيق بسيط وموحد
+* أرشفة المعلومات المهيكلة للتقارير
+* دمج بيانات القالب في سير العمل الذكي للأعمال
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل OTT إلى DIF دفعي لتقارير المؤسسات
+* دمج مع استيراد قواعد البيانات وأنابيب التحليل
+* استخراج آلي للبيانات الجدولية من عدة قوالب
+* معالجة مبسطة للبيانات التاريخية أو التقليدية
+* أرشيف DIF مركزي للاستخدام عبر الأنظمة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

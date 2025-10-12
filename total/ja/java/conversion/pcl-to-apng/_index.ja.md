@@ -57,7 +57,33 @@ APIを使用すると、必要に応じて出力APNG画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをAPNGに変換**すると、**Printer Command Language (PCL)** ドキュメントを**Animated PNG画像**に変換し、複数ページの印刷ファイルをフレームベースのアニメーションとしてWebやデジタルで表現できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 複数ページの印刷ファイルのアニメーションプレビューの作成
+* Web向けのビジュアル印刷出力の共有
+* アニメーションビジュアルを使用したドキュメントの生成
+* PCL印刷データのダイナミックなレンダリングのアーカイブ
+* PCLベースのレポートをAPNGアニメーションとして表示
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCLファイルをAPNGシーケンスに自動バッチ変換
+* 印刷プレビューおよび可視化システムとの統合
+* デジタル印刷ダッシュボード向けのリアルタイムPCLからAPNGへの変換
+* 印刷ワークフローをWebアニメーション形式に変換
+* PCLドキュメントの自動アーカイブをアニメーションビジュアルとして
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

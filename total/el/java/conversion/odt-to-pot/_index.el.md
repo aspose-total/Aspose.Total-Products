@@ -54,7 +54,27 @@ otherformats: PPSX PPSM POTX PPTM POWERPOINT POT POTM PPS PPTX PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε POT** επιτρέπει τη μετατροπή κειμενικών εγγράφων σε **αρχεία προτύπων PowerPoint**, επιτρέποντας στους χρήστες να σχεδιάσουν συνεπείς θέματα και δομές παρουσιάσεων με βάση το γραπτό περιεχόμενο.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία προτύπων PowerPoint από δομημένα κειμενικά έγγραφα
+* Σχεδιασμός πλαισίων παρουσίασης για συνέπεια σε ομάδες
+* Μετατροπή εταιρικού περιεχομένου σε επεξεργάσιμα πρότυπα παρουσίασης
+* Δημιουργία επαναχρησιμοποιήσιμων προτύπων διαφανιών από τεκμηρίωση
+* Μετατροπή επιχειρηματικών περιγραφών σε θέματα έτοιμα για παρουσίαση
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+* Αυτόματη δημιουργία προτύπων PowerPoint από περιεχόμενο Word
+* Ενσωμάτωση σε συστήματα σχεδιασμού περιεχομένου ή εταιρικής ταυτότητας
+* Μαζική μετατροπή προτύπων βασισμένων σε κείμενο σε αρχεία POT
+* Δημιουργία δυναμικών θεμάτων από δομές βασισμένες σε έγγραφα
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

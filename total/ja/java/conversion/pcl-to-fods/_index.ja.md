@@ -47,7 +47,30 @@ PCLファイルをFODSに変換するときに、出力FODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLからFODSへの変換**は、印刷生成データを**Flat OpenDocument Spreadsheet (FODS)**形式に変換し、編集可能なXMLベースのスプレッドシートを提供し、LibreOfficeやOpenOfficeと互換性があります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 印刷されたレポートや請求書を編集可能なスプレッドシートデータに変換する
+* クロスプラットフォームのスプレッドシート互換性を実現する
+* PCLベースの表形式データをオープンソースオフィスツールに統合する
+* 構造化された印刷データをXMLスプレッドシートとしてアーカイブする
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 印刷された財務または在庫レポートをFODSに自動変換
+* オープンソースレポートパイプラインへの統合
+* 分析および記録のための印刷データの大規模変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,30 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversion de PCL en WORDML** transforme les documents en **Langage de Commande d'Imprimante (PCL)** en format **WordProcessingML (WordML)**, fournissant une structure basée sur XML pour une manipulation avancée des données et l'automatisation des documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conversion de mises en page d'impression en formats Word basés sur XML
+* Permettant la manipulation structurée de documents via WordML
+* Intégration de documents Word avec des flux de travail basés sur XML
+* Facilitation de l'automatisation de documents basée sur les métadonnées
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatisée de documents WordML à partir de fichiers d'impression PCL
+* Intégration avec la gestion de documents et les flux de travail XML
+* Conversion en masse pour l'interopérabilité avec les API de traitement de texte Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

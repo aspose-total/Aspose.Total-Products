@@ -54,7 +54,27 @@ otherformats: PPSM POTM PPS PPTX POWERPOINT PPSX PPT PPTM POT POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى PPSX** يحول المستندات النصية إلى **ملفات عروض تقديمية حديثة**, محافظًا على التنسيق والهيكل والرسوم البيانية للتشغيل الفوري.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء شرائح العرض النهائية مباشرة من محتوى النص
+* تقديم تقارير مصقولة كعروض شرائح جاهزة للتشغيل
+* مشاركة محتوى العرض التقديمي بدون مصادر قابلة للتحرير
+* إعداد عروض تقديمية للمؤتمرات أو الاجتماعات من المستندات
+* توزيع إصدارات العروض التقديمية النهائية للتقارير
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* إنشاء عروض تقديمية آليًا من ODT إلى PPSX
+* تحويل دفعي لنشر العروض التقديمية بكميات كبيرة
+* دمجه في أنظمة الإبلاغ الشركية
+* أتمتة تحويل المستندات إلى عروض تقديمية للمؤسسات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

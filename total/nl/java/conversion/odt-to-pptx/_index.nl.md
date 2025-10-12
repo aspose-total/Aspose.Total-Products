@@ -54,7 +54,25 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar PPTX con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **ODT naar PPTX** zet geschreven inhoud om in **moderne PowerPoint-presentaties**, perfect voor professionals die bewerkbare, opmaakklare dia's nodig hebben die zijn afgeleid van gestructureerde documenten.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Projectrapporten en samenvattingen omzetten in presentatiedecks
+* Bedrijfs- of onderzoekscontent omzetten in visuele dia's
+* Ideeën en documentatie delen als bewerkbare PPTX-presentaties
+* Visueel consistente dia's maken van opgemaakte tekstinhoud
+* Dynamische en collaboratieve presentaties voorbereiden vanuit ODT-bestanden
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde ODT-naar-PPTX-conversie voor zakelijke communicatie
+* Integratie in pipelines voor het genereren van content naar presentaties
+* Batchconversie van ODT-bestanden naar moderne PowerPoint-indeling
+* Dynamische dia-creatie voor bedrijfsrapportage en vergaderingen
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,30 @@ API를 사용하면 암호로 보호된 OTT 문서를 PPTM로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 PPTM으로 변환**은 **OpenDocument Text Templates (.OTT)**을 **PowerPoint Macro-Enabled Presentation (.PPTM)**으로 변환하여 상호 작용 및 자동화된 슬라이드 덱을 만듭니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* OTT에서 파생된 프레젠테이션에 매크로 및 자동화 삽입
+* 템플릿을 동적이고 상호 작용적인 슬라이드 덱으로 변환
+* 회의나 보고서를 위한 반복적 콘텐츠 작성 간소화
+* 매크로가 활성화된 프레젠테이션 기능으로 업무 흐름 향상
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 템플릿에서 PPTM 프레젠테이션의 예약 생성
+* 기업 보고서를 위한 일괄 OTT에서 PPTM으로 변환
+* 자동화된 프레젠테이션 및 콘텐츠 워크플로에 통합
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

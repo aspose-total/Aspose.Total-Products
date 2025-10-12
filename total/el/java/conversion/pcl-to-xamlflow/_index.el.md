@@ -144,7 +144,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε XAMLFLOW**
+
+Η μετατροπή **Printer Command Language** επιτρέπει τη μετατροπή των εξόδων σε μορφή **XAMLFlow** για εφαρμογές χρήστη με στόχο τη ροή εργασιών και την αυτοματοποίηση σχεδίασης.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Ενσωμάτωση διατάξεων εκτύπωσης PCL σε εφαρμογές με ροή εργασιών
+* Μετατροπή στατικών εκτυπώσεων σε διαδραστικά στοιχεία XAMLFlow
+* Επαναχρησιμοποίηση φορμών και διαγραμμάτων που δημιουργήθηκαν από εκτυπώσεις σε ροές εργασιών λογισμικού
+* Κανονικοποίηση περιουσιακών στοιχείων εκτύπωσης για αυτοματισμό διεπαφής χρήστη
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή αρχείων PCL σε XAMLFlow για αγωγούς εφαρμογών
+* Ενσωμάτωση με εργαλεία αυτοματισμού ροών εργασιών και δημιουργίας διεπαφών χρήστη
+* Αυτοματοποιημένη μετατροπή για ροές εργασιών σχεδιασμού λογισμικού επιχειρήσεων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

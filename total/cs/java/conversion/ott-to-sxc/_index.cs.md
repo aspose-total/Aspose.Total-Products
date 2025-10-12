@@ -61,7 +61,33 @@ Po převodu OTT do SXC vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OTT na SXC** transformuje šablony OpenDocument Text na soubory tabulek StarOffice Calc, umožňující použití obsahu šablony v tabulkových aplikacích jako OpenOffice Calc nebo LibreOffice Calc.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převod textových šablon na tabulky v tabulkách
+* Archivace dat šablony ve formátu tabulky
+* Příprava zpráv nebo výpočtů odvozených z obsahu šablony
+* Spolupracovní úpravy tabulkových sešitů založených na šabloně
+* Sdílení strukturovaných informací ze šablony napříč platformami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický převod OTT na SXC pro hromadné zpracování
+* Integrace s pracovními postupy tabulek a systémy pro generování zpráv
+* Generování upravitelných tabulek z více šablon
+* Centralizované úložiště pro data tabulek odvozených ze šablony
+* Dynamické extrakce tabulkového obsahu pro analýzy a výpočty
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

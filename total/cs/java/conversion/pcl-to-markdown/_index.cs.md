@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na MARKDOWN** extrahuje textový obsah z souborů ve formátu **Printer Command Language** a formátuje ho do formátu **Markdown (.MD)** pro publikování na webu nebo lehkou dokumentaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění tištěných zpráv do dokumentace ve formátu Markdown
+* Vytváření strukturovaného textu pro webové stránky, blogy nebo soubory README
+* Zjednodušení formátovaného obsahu pro technické psaní a spolupráci
+* Generování lehkých textových výstupů s verzováním z tiskových dat
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované generování Markdownu z tiskových potrubí PCL
+* Integrace se statickými generátory stránek a dokumentačními systémy
+* Převádění rozsáhlých tiskových archivů do formátu Markdown pro znalostní báze
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

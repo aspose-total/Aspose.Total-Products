@@ -47,7 +47,30 @@ PCLファイルをMDに変換するときに、出力MDファイル形式に透�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLからMDへ**の変換は、**プリンターコマンド言語**文書を**Markdown (.MD)**ファイルに変換し、ドキュメントやアーカイブ用にクリーンで読みやすく、ウェブフレンドリーな形式を提供します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PCLの印刷物をMarkdownにエクスポートしてウェブサイトに統合する
+* 印刷レポートから軽量なドキュメントを準備する
+* 開発者や技術チーム向けに印刷ベースのデータを構造化する
+* テキスト豊かなPCLファイルをオープンソースフレンドリーな形式にアーカイブする
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 大量のPCLレポートからMDドキュメントを自動生成する
+* Markdown出力をGitベースのコンテンツシステムと統合する
+* オンラインパブリッシングワークフローのためにPCLテキストの抽出を自動化する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

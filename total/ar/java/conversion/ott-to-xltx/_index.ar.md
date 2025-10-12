@@ -61,7 +61,32 @@ otherformats: XLTM DIF XLAM FODS XLT TSV SXC EXCEL XLSX ODS XLTX XLS XLSB XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى XLTX
+
+يحول **OTT إلى XLTX** **قوالب نصوص OpenDocument (.OTT)** إلى **قالب Excel Open XML (.XLTX)**، مما يخلق قوالب جداول بيانات قابلة لإعادة الاستخدام وحديثة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* توحيد قوالب جداول البيانات للأعمال والتقارير
+* تحويل قوالب المستندات إلى هياكل Excel الحديثة والقابلة للتحرير
+* إعداد ملفات XLTX قابلة لإعادة الاستخدام للاستخدام على مستوى الفريق
+* الحفاظ على تنسيق البيانات المتسق عبر المشاريع
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل دفعي آلي من قوالب OTT إلى XLTX
+* دمجه في خطوط أنابيب الأتمتة لجداول البيانات في المؤسسات
+* إنشاء مجدول لقوالب قابلة لإعادة الاستخدام للتقارير والتحليلات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

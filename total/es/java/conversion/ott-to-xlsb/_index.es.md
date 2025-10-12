@@ -61,7 +61,31 @@ Después de convertir OTT a XLSB, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **OTT a XLSB** produce archivos de **Libro binario de Excel**, lo que permite una carga más rápida, un tamaño de archivo reducido y un mejor rendimiento para plantillas de hojas de cálculo derivadas de plantillas de texto de OpenDocument.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Optimización de hojas de cálculo derivadas de plantillas grandes
+* Mejora del rendimiento para modelos de Excel complejos
+* Archivo de datos de plantillas en formato binario
+* Distribución eficiente de contenido de plantillas en Excel
+* Soporte para automatización y análisis de hojas de cálculo
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión por lotes de OTT a XLSB para flujos de trabajo de alto rendimiento
+* Integración con tuberías de procesamiento automatizado de Excel
+* Archivo binario centralizado de hojas de cálculo derivadas de plantillas
+* Preprocesamiento de plantillas para análisis de Excel a gran escala
+* Automatización de hojas de cálculo basada en plantillas
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

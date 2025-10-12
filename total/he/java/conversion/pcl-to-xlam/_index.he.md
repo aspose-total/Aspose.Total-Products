@@ -102,7 +102,30 @@ otherformats: CSV XLTX SXC DIF MD TXT XLTM FODS XLSB ODS EXCEL TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **PCL ל-XLAM** ממירה את פלט שפת הפקודות של המדפסת (**Printer Command Language**) לקבצי **Excel Add-In (.XLAM)**, מאפשרת אוטומציה, מאקרוס ותכונות מורחבות של גיליון האלקטרוני.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת הרחבות Excel מתבניות נתונים שנוצרו מהדפסה
+* הטמעת לוגיקת אוטומציה בזרימי עבודה בגיליונות האלקטרוניים
+* המרת דוחות PCL לכלים לאוטומציה שניתן להשתמש בהם ב-Excel
+* הרחבת הפונקציונליות של תוכן מספרי או טבלאי שהודפס
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירה אוטומטית של קבצי XLAM מפלטי PCL חוזרים
+* שילוב עם צינורות דיווח וניתוח עסקיים בארגונים
+* יצירת הרחבות Excel בצורה צפופה למשימות עסקיות חוזרות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

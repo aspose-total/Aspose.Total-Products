@@ -61,7 +61,35 @@ otherformats: FODS EXCEL XLSM XLSX TSV DIF XLT XLAM XLTM SXC ODS XLS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى XLSB
+
+ينتج تحويل OTT إلى XLSB ملفات **Excel Binary Workbook**، مما يتيح التحميل الأسرع، وتقليل حجم الملف، وتحسين الأداء لقوالب جداول البيانات المستمدة من قوالب OpenDocument Text.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحسين الأداء لجداول بيانات مشتقة من قوالب كبيرة
+* تعزيز الأداء لنماذج Excel المعقدة
+* أرشفة البيانات القالبية بتنسيق ثنائي
+* توزيع فعال لمحتوى القوالب في Excel
+* دعم التلقائية والتحليلات لجداول البيانات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دُفعي من OTT إلى XLSB لسير العمل عالية الأداء
+* دمج مع خطوط إنتاج Excel التلقائية
+* أرشيف ثنائي مركزي لجداول البيانات المشتقة من القوالب
+* تحضير القوالب لتحليلات Excel على نطاق واسع
+* أتمتة جداول البيانات بناءً على القوالب
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

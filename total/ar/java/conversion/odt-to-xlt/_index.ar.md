@@ -61,7 +61,27 @@ otherformats: XLSM SXC EXCEL XLTM FODS XLS XLAM ODS DIF XLTX TSV XLSB XLT XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى XLT** يحول بيانات المستند إلى تنسيق **قالب Excel**، مما يمكن من إنشاء جداول بيانات موحدة وتخطيطات تقريرية متسقة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصميم قوالب Excel من مستندات نصية
+* إعادة استخدام بيانات المستند لمهام التقارير المتكررة
+* تحويل النماذج المستندية الموحدة إلى قوالب Excel
+* الحفاظ على تنسيق الجداول البيانية الموحد عبر الفرق
+* تبسيط سير العمل من المستند إلى القالب
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* إنشاء قوالب ODT-to-XLT تلقائيًا
+* دمجها في أنظمة إدارة القوالب الشركية
+* تصدير البيانات المنسقة بالدُفعات لإعادة الاستخدام في التقارير
+* خطوط إنتاج قوالب Excel مدفوعة بالمستندات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

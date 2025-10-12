@@ -61,7 +61,33 @@ otherformats: XLTM TSV XLSB SXC XLT XLS EXCEL ODS XLTX FODS DIF XLSM XLAM XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή **OTT σε TSV** εξάγει Πρότυπα Κειμένου OpenDocument σε **Ανακεκριμένες Τιμές**, χρήσιμες για την εισαγωγή δομημένων δεδομένων, ανάλυση και επεξεργασία φύλλων εργασίας.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή δεδομένων για πίνακες αναφοράς
+* Προετοιμασία προτύπων για εισαγωγή σε φύλλα εργασίας ή αυτοματισμό
+* Κοινοποίηση περιεχομένου προτύπου σε μορφή πίνακα
+* Αρχειοθέτηση δομημένου κειμένου για αναλύσεις ή καταγραφή
+* Υποστήριξη ανταλλαγής δεδομένων μεταξύ πλατφορμών
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένες διαδικασίες OTT-σε-TSV για επιχειρησιακές αναφορές
+* Μαζική εξαγωγή για αναλύσεις και ροές εγγράφων
+* Ενσωμάτωση με συστήματα που βασίζονται σε δεδομένα για την επεξεργασία προτύπων
+* Δημιουργία αρχείων TSV για κεντρικά αποθετήρια περιεχομένου
+* Αυτοματισμός ροών εργασίας για την εξαγωγή περιεχομένου πινάκων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,30 @@ otherformats: XLTX XLSB SXC DIF TSV TXT XLSM XLT EXCEL XLTM MD FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل **PCL إلى XLTM** يسمح بإنشاء **قوالب إكسل محملة بالماكرو** من المستندات المطبوعة، مجمعًا بين الحفاظ على التخطيط والقدرة على تضمين منطق الأتمتة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصميم قوالب إكسل محملة بالماكرو من تخطيطات مطبوعة
+* تضمين أتمتة قابلة لإعادة الاستخدام في قوالب التقارير
+* تمكين إنشاء وثائق مستندة على القوالب بشكل ديناميكي
+* توحيد إنشاء جداول بيانات ذكية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء قوالب ذكية من تقارير PCL الروتينية
+* أتمتة إنتاج تقارير إكسل بمنطق الماكرو
+* تحويل البيانات المطبوعة بالدفعة إلى قوالب عمل قابلة لإعادة الاستخدام
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

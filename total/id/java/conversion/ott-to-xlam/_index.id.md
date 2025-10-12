@@ -61,7 +61,33 @@ Setelah mengonversi OTT ke XLAM, [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OTT ke XLAM** menghasilkan **file Excel Add-in** yang berasal dari konten template, memungkinkan otomatisasi, makro, dan alur kerja spreadsheet yang ditingkatkan berdasarkan data template.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat Excel add-in yang mendukung makro dari template
+* Mengotomatisasi tugas-tugas yang berulang menggunakan makro yang berasal dari template
+* Meningkatkan fungsionalitas spreadsheet dengan logika template
+* Mendeploy alur kerja otomatisasi yang terstandarisasi
+* Mendentralisasi alat-alat Excel yang didorong oleh template
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi Batch OTT-to-XLAM untuk otomatisasi Excel perusahaan
+* Integrasi dengan alur kerja atau pipa pelaporan
+* Menghasilkan alat-alat spreadsheet yang mendukung makro yang dapat digunakan kembali
+* Implementasi otomatisasi berbasis template
+* Pembaruan makro dinamis dari konten template
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

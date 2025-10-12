@@ -54,7 +54,27 @@ Mit der API können Sie auch passwortgeschützte ODT-Dokumente in PPS konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Konvertierung von **ODT zu PPS** ermöglicht die **direkte Erstellung von Diashows** aus Textdokumenten, was perfekt ist, um sofort präsentationsfertige Inhalte ohne zusätzliche Bearbeitung bereitzustellen.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Sofortige Erstellung von Präsentationsdateien aus Berichten oder Zusammenfassungen
+* Bereitstellung von textbasierten Informationen im Diashow-Format
+* Vorbereitung automatisierter Präsentationen für Besprechungen oder Veranstaltungen
+* Konvertierung von Word-Dokumenten in selbstablaufende Diashows
+* Optimierung von Bildungs- oder Marketingpräsentations-Workflows
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+* Automatisierte ODT-zu-PPS-Diashow-Erstellung
+* Integration in Dokumentenveröffentlichungssysteme
+* Stapelverarbeitung von textbasierten Präsentationen
+* Generierung von präsentationsfertigen Folien aus strukturierten Inhalten
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

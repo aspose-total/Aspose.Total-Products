@@ -54,7 +54,27 @@ Mit der API können Sie auch passwortgeschützte ODT-Dokumente in POTX konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Die Umwandlung von **ODT in POTX** ermöglicht es, Textdokumente in **moderne PowerPoint-Vorlagendateien** umzuwandeln, die ideal sind, um die Unternehmensmarke und die Präsentationskonsistenz zu wahren.
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Erstellung von Präsentationsvorlagen aus schriftlichen Dokumenten
+* Umwandlung strukturierter Geschäftsgliederungen in gebrandete Folien
+* Vorbereitung von Präsentationsstandards für die Teamzusammenarbeit
+* Erstellung unternehmensweiter Präsentationsrahmen
+* Generierung von designfertigen PowerPoint-Vorlagen aus Word-Inhalten
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+* Automatisierte Umwandlung von ODT-Dokumenten in PPTX-Vorlagen
+* Integration in unternehmensweite Dokument-zu-Präsentation-Pipelines
+* Stapelgenerierung von PowerPoint-Themen aus Geschäftsdokumenten
+* Inhaltsgetriebene Erstellung von PowerPoint-Vorlagen für konsistente Markenführung
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

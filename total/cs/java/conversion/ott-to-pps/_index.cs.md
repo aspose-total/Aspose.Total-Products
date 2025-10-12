@@ -54,7 +54,33 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na PPS. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OTT na PPS** produkuje soubory **PowerPoint Show**, umožňující přímé prezentování obsahu odvozeného z šablon bez otevírání v režimu úprav.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření připravených prezentací ze šablon
+* Archivace šablon jako prezentací pouze pro zobrazení
+* Sdílení prezentací pro externí zobrazení
+* Příprava marketingových nebo školicích materiálů ve formátu prezentace
+* Zajištění konzistentního rozložení snímků během prezentací
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Dávkový převod OTT na PPS pro knihovny prezentací
+* Integrace s distribučními systémy prezentací
+* Automatické vytváření snímků pouze pro zobrazení ze šablon
+* Tvorba potrubí pro přípravu školicího a marketingového obsahu
+* Standardizace prezentace snímků v celé firmě
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

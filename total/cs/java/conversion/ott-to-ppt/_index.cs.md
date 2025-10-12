@@ -54,7 +54,30 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na PPT. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **OTT na PPT** transformuje šablony **OpenDocument Text (.OTT)** do editovatelných souborů **PowerPoint Presentation (.PPT)**, připravených pro vytváření a úpravy snímků.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přetváření textových šablon do editovatelných prezentací
+* Vytváření profesionálních prezentací z rozložení založených na OTT
+* Přizpůsobení obsahu dokumentu do snímků připravených k prezentaci
+* Příprava prezentací pro interní schůzky nebo klienty
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze OTT šablon do prezentací PPT
+* Integrace s obsahovými potrubími pro automatizované vytváření prezentací
+* Plánovaná generace editovatelných prezentací ze šablon dokumentů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

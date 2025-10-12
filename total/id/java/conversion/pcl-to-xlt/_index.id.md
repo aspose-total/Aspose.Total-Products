@@ -47,7 +47,30 @@ Saat mengonversi file PCL ke XLT, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Konversi PCL ke XLT** membuat file **Template Excel** dari dokumen **Printer Command Language**, memungkinkan tata letak cetak terstruktur untuk digunakan kembali dalam pembuatan laporan yang konsisten di Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mendesain template Excel berdasarkan format laporan cetak
+* Menjaga tata letak dan gaya yang konsisten untuk laporan
+* Standarisasi template dokumentasi bisnis
+* Mempercepat pengaturan laporan dengan template berbasis cetak yang telah ditentukan
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Mengotomatisasi generasi template dari output PCL yang berulang
+* Membuat template yang dapat digunakan kembali untuk pengisian laporan otomatis
+* Mengintegrasikan alur kerja cetak-ke-template untuk organisasi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

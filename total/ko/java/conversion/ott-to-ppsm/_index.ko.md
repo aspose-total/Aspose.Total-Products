@@ -54,7 +54,30 @@ API를 사용하면 암호로 보호된 OTT 문서를 PPSM로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 PPSM으로 변환**하면 **OpenDocument Text Templates (.OTT)**을 **PowerPoint Macro-Enabled Show (.PPSM)**으로 변환하여 텍스트 템플릿에서 자동화 및 대화식 프레젠테이션을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* OTT 기반 텍스트 템플릿에서 매크로가 포함된 슬라이드 쇼 생성
+* 문서 템플릿에서 파생된 프레젠테이션 콘텐츠 자동화
+* 동적 슬라이드 프레젠테이션을 위해 기업 템플릿 재사용
+* 워크플로 자동화를 위해 상호 작용 및 매크로 삽입
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 템플릿을 PPSM 슬라이드로 예약된 변환
+* 기업 콘텐츠 자동화 파이프라인과의 통합
+* OTT 파일을 대화식 프레젠테이션 쇼로 일괄 처리
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

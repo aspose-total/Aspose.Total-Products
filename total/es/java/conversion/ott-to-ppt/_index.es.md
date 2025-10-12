@@ -54,7 +54,28 @@ La API también le permite convertir documentos OTT protegidos con contraseña a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **OTT a PPT** transforma las **Plantillas de Texto de OpenDocument (.OTT)** en archivos editables de **Presentación de PowerPoint (.PPT)**, listos para la creación y modificación de diapositivas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* Reutilizar plantillas de texto en presentaciones editables
+* Crear presentaciones profesionales a partir de diseños basados en OTT
+* Personalizar el contenido del documento en diapositivas listas para presentaciones
+* Preparar PPT para reuniones internas o presentaciones a clientes
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* Conversión por lotes de plantillas OTT en presentaciones PPT
+* Integración con canalizaciones de contenido para la creación automatizada de presentaciones
+* Generación programada de presentaciones editables a partir de plantillas de documentos
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

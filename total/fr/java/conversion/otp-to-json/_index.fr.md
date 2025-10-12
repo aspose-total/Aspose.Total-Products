@@ -49,7 +49,31 @@ Pendant que vous convertissez OTP en JSON, vous pouvez également définir la pl
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion **OTP en JSON** permet d'extraire efficacement des données structurées à partir de modèles de **présentation OpenDocument** dans un format lisible par machine. Cette transformation aide les développeurs, les analystes et les systèmes d'automatisation à intégrer le contenu de présentation dans des pipelines de données, des API ou des systèmes de gestion de contenu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Transformation de modèles de présentation en données JSON structurées
+* Extraction de métadonnées, de mises en page de diapositives et de contenu textuel pour l'analyse
+* Permet la consommation basée sur API des données de présentation
+* Migration de modèles OTP hérités vers des applications web modernes
+* Stockage centralisé du contenu de présentation dans des bases de données JSON
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en masse de fichiers OTP en schémas JSON normalisés
+* Intégration avec des systèmes de CMS ou DAM pour la réutilisation dynamique du contenu
+* Analyse automatisée des éléments de diapositives à travers de grands ensembles de données
+* Automatisation des workflows pour la mise à jour programmable des modèles de présentation
+* Prétraitement des données AI et ML à partir d'entrées basées sur des présentations
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

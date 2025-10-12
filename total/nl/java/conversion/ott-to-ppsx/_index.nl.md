@@ -54,7 +54,30 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar PPSX con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **OTT naar PPSX** zet **OpenDocument-tekstsjablonen (.OTT)** om in **PowerPoint Open XML Show (.PPSX)** voor presentaties die klaar zijn voor weergave.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Leveren van tekstsjablonen als volledig scherm presentaties
+* Omzetten van bedrijfs-OTT-sjablonen naar diavoorstellingsformaat
+* Inhoud delen als niet-bewerkbare PowerPoint-presentaties
+* Behoud van ontwerp en opmaak van document-sjablonen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batchconversie van OTT naar PPSX voor rapportage of training
+* Integratie met workflows voor presentatiedistributie
+* Geplande creatie van presentatieklare dia's vanuit document-sjablonen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

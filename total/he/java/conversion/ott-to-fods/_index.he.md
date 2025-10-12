@@ -102,7 +102,33 @@ otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC CSV XLTM XLAM XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל־FODS** ממירה תבניות טקסט של OpenDocument ל־**פורמט גליון נתונים XML שטוח**, מאפשרת תוכן גליון נתונים שניתן לעריכה במבנה XML פשוט ונייד.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* שיתוף תוכן גליון נתונים שניתן לעריכה מתבניות
+* ארכיבת נתונים בפורמט מבוסס XML נייד
+* שילוב נתוני תבנית עם יישומי גליון נתונים מקור פתוח
+* ניתוח תוכן טבלאי ללא תוכנה פטנטית
+* תחלופת נתוני תבנית מובנית
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל־FODS אוטומטית עבור צינורות גליון נתונים
+* עיבוד צפיפי של תבניות לגליונות נתונים XML ניידים
+* שילוב עם כלים לניתוח ודיווח מקור פתוח
+* קידום זרימת עבודה מתבנית לגליון נתונים
+* ארכיון מרכזי במבוסס XML לנתוני תבנית שניתן לשימוש חוזר
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

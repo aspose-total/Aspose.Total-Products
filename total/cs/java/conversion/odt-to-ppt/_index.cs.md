@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na PPT. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na PPT** poskytuje jednoduchý způsob, jak transformovat **OpenDocument textové soubory do klasických prezentací PowerPointu**, zachovávající strukturu textu a rozložení pro okamžité použití.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění textového obsahu do editovatelných prezentací
+* Příprava starších formátů prezentací PowerPointu z Wordových souborů
+* Sdílení zpráv nebo návrhů ve starším formátu PPT
+* Dodávání prezentací kompatibilních s PowerPointem pro starší systémy
+* Vytváření materiálů pro schůzky nebo školení z dokumentů ODT
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatický převod dokumentů ODT do formátu PPT
+* Hromadný export pro kompatibilitu se staršími systémy PowerPointu
+* Integrace do nástrojů pro tvorbu firemních prezentací
+* Dynamické generování editovatelných snímků z dat ve stylu Wordu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

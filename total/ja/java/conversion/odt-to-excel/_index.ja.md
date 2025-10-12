@@ -61,7 +61,27 @@ ODTをEXCELに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODTをEXCELに変換**することで、OpenDocument Textデータを**Microsoft Excelスプレッドシート**に変換し、情報を分析、視覚化、整理しやすくなります。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* ODTファイルから表をExcelにエクスポートして編集する
+* 高度な計算のための文書データの準備
+* テキストデータをExcelベースのダッシュボードに統合する
+* レポート作成やチャート作成のためのテキストベースのデータの再フォーマット
+* ODTとMicrosoft Officeツール間の相互運用性の向上
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+* ドキュメントとスプレッドシートのワークフローの自動変換
+* レポートや分析パイプラインでのODTからExcelへの処理
+* 企業データシステム向けの定期的なドキュメント変換
+* ドキュメントリポジトリやクラウドツール向けの多形式エクスポート
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

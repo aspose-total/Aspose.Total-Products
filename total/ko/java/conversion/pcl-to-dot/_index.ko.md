@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 DOT으로** 변환하면 **프린터 명령어 언어** 파일에서 인쇄된 템플릿과 보고서를 **Microsoft Word 템플릿 (.DOT)** 문서로 재활용하여 일관된 서식과 재사용이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PCL 기반 보고서나 레이아웃에서 Word 템플릿 작성
+* 부서 간 문서 외관 표준화
+* 인쇄 파일에서 재사용 가능한 양식 및 보고서 템플릿 작성
+* 문서 준비 프로세스 간소화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 인쇄된 보고서로부터 기업 템플릿 자동 생성
+* 비즈니스 운영을 위한 템플릿 기반 문서 워크플로우
+* 루틴 PCL 보고서를 사용 가능한 DOT 템플릿으로 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

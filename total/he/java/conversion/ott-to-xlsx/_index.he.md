@@ -102,7 +102,30 @@ otherformats: EXCEL XLT DIF XLSM XLTM FODS ODS XLSB XLTX CSV XLAM SXC XLS TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-XLSX** ממירה **תבניות טקסט של OpenDocument (.OTT)** ל-**גיליון אלקטרוני של Excel Open XML (.XLSX)** לפונקציונליות של גיליון אלקטרוני עכשווי ניתן לעריכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת תבניות מסמכים לגיליונות מובנים
+* ניתוח ועיבוד נתונים שיוצאים מתבניות OTT
+* הכנת דוחות וטבלאות לצורכי עסקים או חינוך
+* שיתוף גיליונות אלקטרוניים ניתנים לעריכה בין צוותים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה אוטומטית של תבניות OTT לקבצי XLSX
+* שילוב עם זרימות עבודה של דיווחים וניתוח נתונים
+* יצירת גיליונות אלקטרוניים מתבניות מסמכים במתוזמנת
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,32 @@ otherformats: DXF JPEG2000 WMF PSD WMZ IMAGE EMZ  SVGZ TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε DXF**
+
+Η μετατροπή **Printer Command Language (PCL)** σε αρχεία **Drawing Exchange Format (DXF)** μετατρέπει γραφικά ή διατάξεις από τη γλώσσα εντολών εκτύπωσης σε αρχεία που χρησιμοποιούνται ευρέως σε εφαρμογές σχεδιασμού CAD και μηχανικής.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Εξαγωγή διανυσματικών γραφικών από εκτυπωμένες μηχανικές αναφορές
+* Μετατροπή σχηματικών διαγραμμάτων από εκτυπωμένα αποτελέσματα σε αρχεία που μπορούν να διαβαστούν από CAD
+* Ψηφιοποίηση διατάξεων που παράγονται από εκτυπώσεις για περαιτέρω τροποποιήσεις σχεδιασμού
+* Δυνατότητα αλληλεπίδρασης μεταξύ συστημάτων εκτύπωσης και εργαλείων CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτόματη δημιουργία αρχείων DXF από τεχνικά σχέδια βασισμένα σε εκτυπώσεις
+* Ενσωμάτωση μετατροπής PCL σε DXF στις ροές εργασίας μηχανικής
+* Μαζική μετατροπή αρχείων εκτυπώσεων που έχουν αποθηκευτεί σε μορφές συμβατές με CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,30 @@ otherformats: SXC XLS EXCEL XLSM XLT DIF CSV XLSX ODS XLTX FODS TSV XLSB XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-XLTM** ממירה **תבניות טקסט של OpenDocument (.OTT)** ל-**תבנית מאקרו של Excel (.XLTM)** לרשתות גליוני עבודה חוזרים עם אוטומציה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* עיצוב תבניות גליוני עבודה עם מאקרו מתוך קבצי OTT
+* אוטומציה של תהליכי נתונים חוזרים באמצעות גליונות עבודה מבוססי תבניות
+* יצירת תבניות Excel חוזרות לדיווחים ולניתוחים
+* תקנות זרימות עבודה עם יסודות גליוני עבודה מאקרו
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-XLTM מתוזמנת לדיווחים עסקיים
+* שילוב עם אוטומציה של תהליכי עבודה ויצירת גליונות עבודה
+* יצירת תבניות Excel מאקרו מתוך תבניות מסמכים בצורה צפופה
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,30 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to DICOM** konvertálása lehetővé teszi a **Printer Command Language** kimeneteinek átalakítását **Digital Imaging and Communications in Medicine (DICOM)** fájlokká. Ez különösen hasznos azokban az orvosi környezetekben, ahol szükség van a nyomtatott alapú diagnosztikai adatok archiválására vagy megjelenítésére képalkotó rendszerekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Nyomtatott diagnosztikai jelentések konvertálása DICOM képformátumba
+* Beágyazott szkennelt nyomtatott adatok az orvosi képarchívumokba
+* PCL-alapú orvosi dokumentumok integrálása PACS rendszerekbe
+* Orvosi nyilvántartási formátumok szabványosítása az egészségügyi szabályozásoknak megfelelően
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Az orvosi jelentések automatikus konvertálása DICOM formátumba kórházi nyilvántartásokhoz
+* Nyomtatás-DICOM konverzió integrálása az egészségügyi munkafolyamatokba
+* PCL archívumok tömeges átalakítása orvosi képtároló rendszerekhez
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

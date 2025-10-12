@@ -102,7 +102,27 @@ otherformats: ODS DIF EXCEL XLSB XLTM FODS XLAM TSV XLSX CSV XLSM SXC XLTX XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-XLS** מאפשרת המרה ישירה של נתוני OpenDocument Text לתבנית **Excel 97-2003**, מבטיחה תאימות עם מערכות ישנות ותהליכי עבודה מוכרים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא טבלאות מסמכים ל-XLS לשימוש בגרסאות ישנות יותר של Excel
+* שמירה על תאימות לאחור בסביבות עסקיות
+* הכנת נתונים לפורמטים ארכיוניים או רגולטוריים
+* שילוב של תוכן ODT בתהליכי עבודה היסטוריים בגיליון אלקטרוני
+* פשוט תהליך המעבר מ-ODT למערכות דיווח מבוססות Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרות גורם ODT-ל-XLS בצורה גורמת לבסיסי נתונים ישנים
+* יצירת דוחות אוטומטיים בפורמט XLS
+* שילוב עם מאקרוס Excel ומערכות VBA
+* המרות נתונים מתוזמנות בסביבות מערכות בפורמטים מעורבים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,28 @@ L'API vous permet également d'exporter le fichier PCL vers DICOM dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PCL en DICOM** permet de transformer les sorties du **Printer Command Language** en fichiers **Digital Imaging and Communications in Medicine (DICOM)**. Cela est particulièrement utile pour les environnements médicaux qui ont besoin d'archiver ou de visualiser des données de diagnostic basées sur l'impression dans des systèmes d'imagerie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conversion de rapports de diagnostic imprimés au format d'image DICOM
+* Intégration de données d'impression scannées dans des archives d'imagerie médicale
+* Intégration de documents médicaux basés sur PCL dans des systèmes PACS
+* Normalisation des formats d'enregistrement médical pour la conformité en matière de santé
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de rapports médicaux imprimés en DICOM pour les dossiers hospitaliers
+* Intégration de la conversion d'impression en DICOM dans les flux de travail de santé
+* Transformation par lots d'archives PCL pour les systèmes de stockage d'images médicales
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

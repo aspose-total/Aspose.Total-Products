@@ -121,7 +121,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na POTM** transformuje výstup **Printer Command Language** do souborů **PowerPoint Macro-Enabled Template (.POTM)** pro dynamické, automatizované pracovní postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna tiskových rozvržení na makro-povolené šablony prezentací
+* Vložení interaktivní automatizace do převedených šablon snímků
+* Opětovné použití formulářů PCL pro pokročilou automatizaci PowerPointu
+* Vytváření dynamických šablon s makry pro generování zpráv
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování šablon POTM ze systémových zpráv
+* Integrování makro-řízených snímků do firemních nástrojů pro prezentace
+* Zjednodušení konverze statických souborů PCL do interaktivních šablon
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

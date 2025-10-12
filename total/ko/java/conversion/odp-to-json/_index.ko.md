@@ -49,7 +49,27 @@ ODP를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 설정�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODP를 JSON으로 변환**하면 프레젠테이션 콘텐츠를 **기계가 읽을 수 있는 형식**으로 구조화하여 현대 웹이나 자동화 시스템과의 원활한 데이터 교환, 분석, 통합이 가능해집니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* API를 위한 구조화된 형식으로 프레젠테이션 데이터 변환
+* 분석이나 색인을 위한 슬라이드, 텍스트, 메타데이터 추출
+* 웹 기반 애플리케이션으로 프레젠테이션 콘텐츠 이관
+* 검색 및 검색을 위한 데이터베이스에 프레젠테이션 데이터 저장
+* AI 기반 콘텐츠 이해 및 분류 용이화
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* 콘텐츠 관리 시스템을 위한 자동화된 ODP-to-JSON 변환
+* ETL (추출, 변환, 적재) 파이프라인 통합
+* 웹이나 모바일 앱에서 프레젠테이션 데이터의 동적 렌더링
+* 디지털 자산 저장소나 API를 위한 일괄 변환
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

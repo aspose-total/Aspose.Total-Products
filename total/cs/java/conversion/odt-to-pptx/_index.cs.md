@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na PPTX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **ODT na PPTX** převádí psaný obsah do **moderních prezentací PowerPointu**, ideální pro profesionály, kteří potřebují upravitelné, připravené k použití snímky odvozené ze strukturovaných dokumentů.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna zpráv a souhrnů projektů na prezentace
+* Převádění obchodního nebo výzkumného obsahu na vizuální snímky
+* Sdílení nápadů a dokumentace jako upravitelných prezentací PPTX
+* Vytváření vizuálně konzistentních snímků z formátovaného textového obsahu
+* Příprava dynamických a spolupracujících prezentací z ODT souborů
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatizovaná konverze ODT na PPTX pro obchodní komunikaci
+* Integrace do potrubí pro generování obsahu do prezentací
+* Hromadná konverze ODT souborů do moderního formátu PowerPointu
+* Dynamické vytváření snímků pro podnikové reporty a schůzky
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

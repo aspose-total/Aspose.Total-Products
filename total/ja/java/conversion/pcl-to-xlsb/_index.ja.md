@@ -47,7 +47,30 @@ PCLファイルをXLSBに変換するときに、出力XLSBファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをXLSBに変換**することで、**PCL**ファイルから**バイナリExcelワークブック**を作成し、印刷物から得られた大規模なデータセットに対する高速なパフォーマンス、ファイルサイズの削減、および互換性を提供します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 大規模なPCLレポートをXLSBに高性能変換
+* 印刷ファイルからの圧縮されたバイナリスプレッドシートデータの保存
+* データ集約型のExcelアーカイブのサイズ削減
+* PCL形式からの構造化抽出の自動化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 大量のPCLファイルをXLSB形式に定期的に変換
+* データウェアハウスおよび分析システムとの統合
+* より小さなストレージフットプリントを維持するためのアーカイブ変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

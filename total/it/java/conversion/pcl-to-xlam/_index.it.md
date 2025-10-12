@@ -47,7 +47,28 @@ Durante la conversione del file PCL in XLAM, puoi anche aggiungere una filigrana
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertire **PCL in XLAM** trasforma l'output del **Printer Command Language** in file **Excel Add-In (.XLAM)**, consentendo l'automazione, le macro e funzionalità estese del foglio di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Creazione di componenti aggiuntivi di Excel da modelli di dati generati dalla stampa
+* Incorporare logica di automazione nei flussi di lavoro del foglio di calcolo
+* Convertire report PCL in strumenti di automazione di Excel riutilizzabili
+* Estendere la funzionalità di contenuti numerici o tabellari stampati
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Generazione automatizzata di file XLAM da output PCL ricorrenti
+* Integrazione con i flussi di reporting e analisi aziendali
+* Creazione batch di componenti aggiuntivi di Excel per compiti aziendali ripetitivi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

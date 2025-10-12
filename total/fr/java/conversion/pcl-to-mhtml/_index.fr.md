@@ -130,7 +130,30 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PCL en MHTML** encapsule le contenu du **Langage de Commande d'Imprimante** dans un format d'archive web (.MHTML), préservant la mise en page, les images et le texte pour une distribution web en un seul fichier.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Emballage de rapports PCL pour une visualisation basée sur le navigateur
+* Préservation des mises en page d'impression en tant que pages web autonomes
+* Partage de contenu d'impression formaté via un intranet ou un e-mail
+* Stockage des travaux d'impression PCL hérités sous forme d'archives MHTML accessibles
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatique de MHTML à partir de flux d'impression PCL
+* Intégration avec des systèmes d'archivage de documents ou de livraison basés sur le web
+* Conversion par lot pour des rapports internes ou de la documentation en ligne
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,32 @@ otherformats: PSD WMZ TGA JPEG2000 DXF  WMF SVGZ EMZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε WMF**
+
+Η μετατροπή **Printer Command Language** γραφικών σε μορφή **Windows Metafile (.WMF)** είναι κατάλληλη για επεξεργασία βασισμένη σε διανύσματα και χρήση εικόνων που κλιμακώνονται σε εφαρμογές Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Εξαγωγή κλιμακούμενων γραφικών από διατάξεις εκτύπωσης PCL
+* Επεξεργασία διαγραμμάτων βασισμένων σε διανύσματα σε εφαρμογές Windows
+* Ενσωμάτωση οπτικών PCL σε έγγραφα Office
+* Διατήρηση ακρίβειας εκτύπωσης για έργα εκδόσεων γραφικών στον υπολογιστή
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτοματοποιημένη μετατροπή αρχείων PCL σε εικόνες WMF
+* Ενσωμάτωση σε διαδικασίες δημοσίευσης εγγράφων και σχεδιασμού
+* Παρτίδες επεξεργασίας για αρχεία γραφικών εκτύπωσης παλαιότερων εκδόσεων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

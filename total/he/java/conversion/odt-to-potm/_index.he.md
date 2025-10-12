@@ -100,7 +100,27 @@ otherformats: PPTX ODP POWERPOINT PPT PPTM POTX PPS PPSX POT PPSM CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל־POTM** מאפשרת את ההמרה של מסמכי מבוססי טקסט ל־**תבניות PowerPoint המאופשרות מקרו**, שימושיות לאוטומציה של יצירת שקופיות והטמעת לוגיקת ההצגה.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות מאופשרות מדוחות מפורטים
+* אוטומציה של מילוי השקופיות בהתבסס על מבני טקסט
+* יצירת תבניות מצגת חכמות עם לוגיקת VBA מוטמעת
+* הכנת תבניות דינמיות למצגות חוזרות
+* עיצוב תבניות דינמיות למצגות עסקיות
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* זרימות עבודה אוטומטיות ליצירת תבניות ODT ל־POTM
+* שילוב במערכות אוטומציה למצגות עסקיות
+* יצירת תבניות PowerPoint מבוססות מקרו באופן צפון
+* יצירה דינמית של תבניות שקופיות אינטראקטיביות
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

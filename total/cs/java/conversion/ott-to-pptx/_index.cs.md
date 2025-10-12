@@ -54,7 +54,30 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na PPTX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **OTT na PPTX** převádí **OpenDocument Text Templates (.OTT)** do formátu **PowerPoint Open XML Presentation (.PPTX)** a vytváří moderní editovatelné prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace textových šablon na prezentace ve formátu PPTX
+* Uchování formátování a rozvržení z OTT šablon
+* Přizpůsobení prezentací pro podnikání, vzdělávání nebo školení
+* Sdílení editovatelných, moderních prezentací v PowerPointu s týmy
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze z OTT do PPTX pro firemní nebo vzdělávací účely
+* Integrace s systémy pro automatizaci obsahu
+* Plánované vytváření moderních prezentací z opakovaně použitelných šablon
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

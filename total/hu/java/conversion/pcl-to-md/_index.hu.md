@@ -47,7 +47,30 @@ A PCL-fájl MD-vé konvertálásakor vízjelet is hozzáadhat a kimeneti MD-fáj
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to MD** konverzió átalakítja a **Printer Command Language** dokumentumokat **Markdown (.MD)** fájlokká, egy tiszta, ember által olvasható és webbarát formátumot biztosítva dokumentációhoz vagy archiváláshoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PCL nyomtatások exportálása Markdown formátumba weboldal integrációhoz
+* Könnyű dokumentáció készítése nyomtatott jelentésekből
+* Nyomtatáson alapuló adatok strukturálása fejlesztők és technikai csapatok számára
+* Szövegben gazdag PCL fájlok archiválása nyílt forráskódú barátságos formátumokba
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatikus MD dokumentáció generálása tömeges PCL jelentésekből
+* Markdown kimenetek integrálása Git alapú tartalomrendszerekkel
+* PCL szöveg kinyerésének automatizálása online publikációs folyamatokhoz
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

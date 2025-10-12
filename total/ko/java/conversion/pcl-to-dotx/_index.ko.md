@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 DOTX로 변환**은 **프린터 명령어 언어** 파일을 **Word 템플릿 (.DOTX)** 형식으로 변환하여 재사용 가능한 비매크로 템플릿에서 디자인 일관성을 유지하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 인쇄 레이아웃에서 표준화된 문서 템플릿 디자인
+* Word 템플릿을 사용하여 회사 전반에 걸친 브랜딩 강화
+* 향후 보고서용으로 편집 가능하고 재사용 가능한 템플릿 생성
+* 정적 프린트 콘텐츠를 유연한 문서 디자인으로 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 인쇄 보고서를 DOTX로 자동 변환하는 템플릿 자동화
+* 일관된 출력을 위해 문서 생성 시스템에 통합
+* 브랜드화된 보고서 템플릿의 기업 수준 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

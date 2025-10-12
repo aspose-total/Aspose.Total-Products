@@ -57,7 +57,30 @@ Az API használatával igény szerint elforgathatja a kimeneti PSD-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to PSD** konvertálása átalakítja a **Printer Command Language** fájlokat **Adobe Photoshop Document (.PSD)** formátummá, lehetővé téve a nyomtatott anyagok szerkesztését réteges kép formájában grafikai tervezéshez és javításhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PCL nyomtatási tervek szerkesztése Adobe Photoshopban
+* Vizuális elemek kinyerése PCL elrendezésekből grafikai tervezéshez
+* Nyomtatott műalkotások retusálása és testreszabása réteges formátumban
+* Marketing vizuálisok vagy kreatív eszközök létrehozása nyomtatott dokumentumokból
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* PCL fájlok tömeges konvertálása PSD formátumba tervezési folyamatokhoz
+* Integráció kreatív automatizálási eszközökkel a nyomtatott-digitális átmenethez
+* Automatizált konverziós csatornák a márkaépítéshez vagy reklámtartalmak létrehozásához
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

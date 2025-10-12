@@ -102,7 +102,30 @@ otherformats: MD XLSB TXT XLTX DIF FODS SXC XLSM XLAM ODS XLTM EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**המרת PCL ל־TSV** ממירה פלטים ב־**שפת פקודות המדפסת** לקבצי **ערכים מופרדים בטאב**. פורמט זה אידיאלי לייבואים נקיים ומובנים לתוך גיליונות אלקטרוניים או מערכות תוכנה שמתירות נתונים המופרדים בטאב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ תוכן טבלאי מנתוני פורמט הדפסה
+* יצירת קבצי נתונים בפורמט TSV מחשבוני PCL או רשומות
+* הזנת פלטים בפורמט TSV לתוך מערכות העברת נתונים או ETL
+* שיתוף נתוני הדפסה מובנים בין מערכות עסקיות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* חילוץ מתוזמן של ארכיונים המודפסים ל־TSV
+* שילוב עם צינורות נתונים לדשבורדי דיווח
+* המרה אוטומטית מהדפסה לנתונים מובנים מוכנים לניתוח
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

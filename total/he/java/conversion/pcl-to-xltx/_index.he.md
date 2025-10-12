@@ -102,7 +102,30 @@ otherformats: EXCEL ODS TXT XLSM DIF TSV XLTM FODS CSV XLAM MD XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**המרת PCL ל-XLTX** ממירה מסמכי **שפת פקודות המדפסת (PCL)** לקבצי **תבנית Excel (XLTX)**, מאפשרת עיצוב עקבי ושימושיות לגירסאות עתידיות של גיליונות אלקטרוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת פריסות הדפסה לתבניות Excel הניתנות לשימוש חוזר
+* קיצור זמן ביצירת דוחות באמצעות סגנונות מוגדרים מראש
+* שמירה על עקביות המסמך בין מחלקות
+* אוטומציה של יצירת תבניות לדיווחים תקניים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* אוטומציה בהתבסס על תבניות לדיווחים עסקיים
+* המרת דוחות הדפסה תקופתיים לתבניות תקניות
+* יצירת עיצובים מוכנים ל-Excel מפלט PCL באופן אוטומטי
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

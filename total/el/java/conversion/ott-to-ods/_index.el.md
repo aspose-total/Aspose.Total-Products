@@ -61,7 +61,33 @@ otherformats: XLTX XLT XLS SXC XLTM XLSX XLSB XLAM TSV EXCEL XLSM ODS DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε ODS** επιτρέπει στα Πρότυπα Κειμένου OpenDocument να αναπαρίστανται ως **αρχεία Φύλλου Καταγραφής OpenDocument**, επιτρέποντας τη χρήση δομημένων δεδομένων, ανάλυση και επεξεργασία φύλλων καταγραφής σε διαφορετικές πλατφόρμες.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Μετατροπή πινάκων προτύπων σε επεξεργάσιμα φύλλα καταγραφής
+* Αρχειοθέτηση προτύπων με δεδομένα σε ένα ανοιχτό μορφότυπο
+* Προετοιμασία αναφορών και αναλύσεων από το περιεχόμενο του προτύπου
+* Συνεργατική επεξεργασία φύλλων καταγραφής που προέρχονται από πρότυπα
+* Διαμοιρασμός δομημένων πληροφοριών προτύπου σε διάφορες πλατφόρμες
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή OTT σε ODS για επιχειρηματικές ροές εργασίας
+* Μαζική εξαγωγή πινάκων προτύπων σε φύλλα καταγραφής
+* Ενσωμάτωση με συστήματα αναφοράς και αναλυτικών διαδικασιών
+* Δυναμική δημιουργία φύλλων καταγραφής από βιβλιοθήκες προτύπων
+* Κεντρική διαχείριση δεδομένων φύλλων καταγραφής που προέρχονται από πρότυπα
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

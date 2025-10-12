@@ -47,7 +47,30 @@ Lors de la conversion du fichier PCL en MD, vous pouvez également ajouter un fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversion de PCL en MD** transforme les documents **Printer Command Language** en fichiers **Markdown (.MD)**, offrant un format propre, lisible par l'homme et adapté au web pour la documentation ou l'archivage.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Exportation des impressions PCL en Markdown pour l'intégration sur un site web
+* Préparation d'une documentation légère à partir de rapports d'impression
+* Structuration des données basées sur l'impression pour les développeurs et les équipes techniques
+* Archivage de fichiers PCL riches en texte dans des formats conviviaux pour les logiciels open-source
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatique de documentation MD à partir de rapports PCL en masse
+* Intégration des sorties Markdown avec des systèmes de contenu basés sur Git
+* Automatisation de l'extraction de texte PCL pour les flux de publication en ligne
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

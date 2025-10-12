@@ -54,7 +54,25 @@ L'API vous permet également de convertir des documents ODT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **ODT en PowerPoint** transforme les documents riches en texte en **diapositives de présentation captivantes**, permettant une communication efficace des idées clés lors de réunions, en classe et lors de présentations d'entreprise.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Transformer des rapports écrits en présentations interactives
+* Visualiser du contenu basé sur du texte pour la communication avec les parties prenantes
+* Créer des diaporamas professionnels à partir de documents de politique ou de projet
+* Préparer des présentations éducatives à partir de notes de cours
+* Transformer du contenu de style Word en visuels de présentation
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+* Conversion automatisée d'ODT en PowerPoint pour les flux de travail commerciaux
+* Intégration dans les systèmes d'automatisation de présentation de documents
+* Génération en lot de diapositives pour la formation ou les rapports
+* Transformation de contenu en diapositives pour le partage des connaissances en entreprise
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

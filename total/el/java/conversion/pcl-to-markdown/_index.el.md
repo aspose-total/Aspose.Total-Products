@@ -130,7 +130,30 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε MARKDOWN** εξάγει περιεχόμενο από αρχεία **Printer Command Language** και το μορφοποιεί σε **Markdown (.MD)** για δημοσίευση στον ιστό ή ελαφριά τεκμηρίωση.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή εκτυπωμένων αναφορών σε τεκμηρίωση Markdown
+* Δημιουργία δομημένου κειμένου για ιστότοπους, blogs, ή αρχεία README
+* Απλοποίηση μορφοποιημένου περιεχομένου για τεχνική γραφή και συνεργασία
+* Δημιουργία ελαφρών, ελεγχόμενων με εκδόσεις εξόδων κειμένου από δεδομένα εκτύπωσης
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτόματη δημιουργία Markdown από αγωγούς εκτύπωσης PCL
+* Ενσωμάτωση με γεννήτριες στατικών ιστοτόπων και συστήματα τεκμηρίωσης
+* Μετατροπή μεγάλων αρχείων εκτύπωσης σε Markdown για βάσεις γνώσεων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,33 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar ODP conv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **OTT naar ODP** transformeert OpenDocument-tekstsjablonen in **OpenDocument Presentatiebestanden**, waardoor hergebruik van e-mailsjablooninhoud voor diavoorstellingen en presentaties mogelijk is.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van tekstsjablonen in presentatieslides
+* Archiveren van sjablonen als bewerkbare presentatie-inhoud
+* Hergebruik van inhoud voor trainings- of marketingpresentaties
+* Samenwerking bij het maken van presentaties op basis van sjabloongegevens
+* Handhaven van consistente branding in presentaties
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde conversie van OTT naar ODP voor batchverwerking
+* Integratie met workflows voor presentatiebeheer
+* Genereren van slides uit sjabloonbibliotheken voor training
+* Dynamische invoeging van sjablooninhoud in presentaties
+* Automatisering van sjabloon-naar-presentatie op ondernemingsniveau
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

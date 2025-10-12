@@ -102,7 +102,27 @@ otherformats: XLT XLSX FODS XLSM XLTX DIF XLS ODS EXCEL CSV TSV SXC XLSB XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-XLTM** מייצאת תוכן בפורמט OpenDocument Text לתבניות אקסל עם מאקרוים, משלבת אוטומציה ועיצוב עקביות בזרימת עבודה אחת.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות אקסל עם מאקרוים שניתנות לשימוש ממסמכים
+* אוטומציה של יצירת דוחות באמצעות תבניות מוכנות
+* סידור זרימות עבודה חוזרות ממסמך לגיליון אלקטרוני
+* תמיכה בהגדרות אוטומציה של אקסל ברמה הארגונית
+* שמירה על מבני גיליון אלקטרוני אוטומטיים ותקניים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרת ODT ל-XLTM מתוזמנת למחזורי דיווח
+* יצירת תבניות מאקרו בכמויות גדולות מקלטים טקסטואליים
+* שילוב עם זרימות עבודה של VBA ב-Excel
+* ייצוא דינמי של מסמך לתבנית במערכות ארגוניות
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

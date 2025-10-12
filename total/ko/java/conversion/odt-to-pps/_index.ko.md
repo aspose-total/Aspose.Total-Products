@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 ODT 문서를 PPS로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 PPS로 변환**하면 텍스트 문서에서 **직접 슬라이드쇼를 만들 수 있어**, 추가 편집 없이 준비된 콘텐츠를 제공하기에 완벽합니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 보고서나 요약에서 즉시 프레젠테이션 파일 생성
+* 텍스트 기반 정보를 슬라이드쇼 형식으로 제공
+* 회의나 이벤트용 자동화된 프레젠테이션 준비
+* 워드 스타일 문서를 자체 실행 슬라이드쇼로 변환
+* 교육이나 마케팅 프레젠테이션 워크플로우 간소화
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* 자동화된 ODT-to-PPS 슬라이드쇼 생성
+* 문서 게시 시스템과 통합
+* 텍스트 기반 프레젠테이션 일괄 처리
+* 구조화된 콘텐츠에서 프레젠테이션용 슬라이드 생성
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

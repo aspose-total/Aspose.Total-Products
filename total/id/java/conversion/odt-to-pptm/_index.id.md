@@ -54,7 +54,27 @@ API juga memungkinkan Anda untuk mengonversi dokumen ODT yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **ODT ke PPTM** memungkinkan pembuatan **presentasi PowerPoint yang mendukung makro** dari dokumen teks, menggabungkan konten statis dengan perilaku slide interaktif atau otomatis.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mendesain presentasi interaktif dari dokumen teks terstruktur
+* Membuat laporan otomatis dengan makro tersemat
+* Menghasilkan presentasi yang memicu transisi slide dinamis
+* Menyiapkan tumpukan bisnis atau pelatihan cerdas dengan fungsionalitas VBA
+* Memperlancar pengiriman laporan menggunakan presentasi yang mendukung makro
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+* Alur kerja generasi presentasi ODT-to-PPTM otomatis
+* Integrasi dengan sistem pelaporan dan otomatisasi perusahaan
+* Pembuatan slide makro secara massal dari file ODT
+* Generasi presentasi berbasis data dinamis untuk pelaporan internal
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

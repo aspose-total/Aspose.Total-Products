@@ -102,7 +102,30 @@ otherformats: EXCEL XLT XLSX TSV XLTX SXC XLSB ODS CSV XLS XLTM FODS XLAM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-XLSM** ממירה **תבניות טקסט של OpenDocument (.OTT)** ל-**חוברת מיקרוסופט אקסל עם מקרו (.XLSM)**, מאפשרת אוטומציה ופונקציונליות מבוססת מקרו בגיליונות אלקסל.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים שימוש מרכזיים" %}}
+
+* יצירת חוברות אקסל עם מקרוס מתוך תבניות OTT
+* אוטומציה של עיבוד נתונים או יצירת דוחות
+* שימוש מחדש בתבניות מסמכים לפתרונות גיליון אלקסל אינטראקטיביים
+* הטמעת חישובים או משימות אוטומטיות בחוברות שנוצרו
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה רציפה של תבניות OTT לחוברות XLSM
+* שילוב עם צינורות דיווח וניתוח עסקיים
+* יצירה אוטומטית של גיליונות אלקסל עם מקרו מתוך תבניות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

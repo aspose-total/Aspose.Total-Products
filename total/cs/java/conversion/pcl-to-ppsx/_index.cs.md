@@ -121,7 +121,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na PPSX** transformuje soubory **Printer Command Language** do formátu **PowerPoint Open XML Show (.PPSX)**, který je vhodný pro plynulé přehrávání prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace statických PCL reportů na prezentace ve formě diaprezentací
+* Dodávání firemních dat a vizuálů jako neupravitelných diaprezentací
+* Sdílení obsahu založeného na tisku jako souborů připravených k přehrávání v PowerPointu
+* Zachování přesného rozložení pro prohlížení prezentace
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánovaný převod dokumentů PCL do prezentací .PPSX
+* Integrace s pracovními postupy distribuce firemních prezentací
+* Hromadné vytváření souborů PPSX pro školení nebo reporting
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

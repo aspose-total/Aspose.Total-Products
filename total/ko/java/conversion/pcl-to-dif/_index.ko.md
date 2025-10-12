@@ -47,7 +47,30 @@ PCL 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 DIF로 변환**은 **프린터 명령어 언어(PCL)** 파일을 **데이터 교환 형식(DIF)** 파일로 변환하여 응용 프로그램 간의 구조화된 데이터 교환과 스프레드시트 상호 운용성을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 인쇄된 보고서에서 표 형식 데이터를 DIF 형식으로 추출
+* 인쇄 데이터를 레거시 스프레드시트 시스템으로 가져오기 용이
+* 분석 도구 간의 원활한 데이터 이관 가능
+* 아카이브된 PCL 출력물에서 재사용 가능한 데이터 세트 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 데이터 교환을 위해 PCL 보고서를 DIF로 자동 변환
+* 구조화된 데이터 교환을 위한 ETL 파이프라인 통합
+* 인쇄 아카이브를 DIF 호환 분석 소스로 대량 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

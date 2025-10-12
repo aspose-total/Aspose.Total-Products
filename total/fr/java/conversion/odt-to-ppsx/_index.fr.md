@@ -54,7 +54,25 @@ L'API vous permet également de convertir des documents ODT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion d'**ODT en PPSX** transforme les documents basés sur du texte en **fichiers de diaporama de présentation modernes**, préservant la mise en forme, la structure et les visuels pour une lecture immédiate.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Créer des diapositives de présentation finales directement à partir du contenu textuel
+* Livrer des rapports élaborés sous forme de diaporamas prêts à l'emploi
+* Partager du contenu de présentation sans sources modifiables
+* Préparer des présentations de conférence ou de réunion à partir de documents
+* Distribuer des versions finalisées de diaporamas de rapports
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+* Génération automatisée de présentations ODT en PPSX
+* Conversion par lot pour une publication de présentations en masse
+* Intégration dans les systèmes de reporting d'entreprise
+* Automatisation du document au diaporama pour les organisations
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

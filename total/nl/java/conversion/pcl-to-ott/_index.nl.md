@@ -129,7 +129,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **PCL naar OTT** zet de uitvoer van **Printer Command Language** om in het formaat van **OpenDocument Text Template (.OTT)** voor gestandaardiseerde documenttemplates in **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het bouwen van herbruikbare documenttemplates van PCL-formulieren
+* Het creëren van gestandaardiseerde zakelijke lay-outs voor correspondentie
+* Het omzetten van PCL-briefhoofden of rapporten naar bewerkbare templates
+* Het ondersteunen van open documentworkflows met consistente opmaak
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Automatische OTT-generatie vanuit printontwerpsystemen
+* Integratie met workflows voor het maken van bedrijfsinhoud
+* Batchconversie van afgedrukte templates naar OTT voor hergebruik van documenten
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

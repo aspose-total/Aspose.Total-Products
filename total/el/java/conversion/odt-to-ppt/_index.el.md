@@ -54,7 +54,27 @@ otherformats: PPT PPSX PPSM PPS POTM POTX PPTM PPTX POT POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε PPT** παρέχει έναν απλό τρόπο για τη μετατροπή **αρχείων κειμένου OpenDocument σε κλασικές παρουσιάσεις PowerPoint**, διατηρώντας τη δομή και τη διάταξη του κειμένου για άμεση χρήση.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή περιεχομένου κειμένου σε επεξεργάσιμες διαφάνειες παρουσίασης
+* Προετοιμασία παλαιότερων διαφανειών μορφής PowerPoint από αρχεία τύπου Word
+* Κοινοποίηση αναφορών ή προτάσεων σε παλαιότερη μορφή PPT
+* Παρουσίαση συμβατών με PowerPoint για παλαιότερα συστήματα
+* Δημιουργία υλικού για συναντήσεις ή εκπαιδευτικό υλικό από έγγραφα ODT
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+* Αυτόματη μετατροπή εγγράφων ODT σε μορφή PPT
+* Μαζική εξαγωγή για συμβατότητα με παλαιότερα συστήματα PowerPoint
+* Ενσωμάτωση σε εργαλεία δημιουργίας επιχειρηματικών παρουσιάσεων
+* Δυναμική δημιουργία επεξεργάσιμων διαφανειών από δεδομένα τύπου Word
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

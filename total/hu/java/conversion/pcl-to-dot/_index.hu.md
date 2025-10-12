@@ -130,7 +130,30 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to DOT** konverzió lehetővé teszi a nyomtatott sablonokat és jelentéseket **Nyomtatóparancs-nyelv** fájlokból **Microsoft Word sablon (.DOT)** dokumentumokká alakítani az egységes formázás és újrafelhasználás érdekében.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Word sablonok létrehozása PCL-alapú jelentésekből vagy elrendezésekből
+* Dokumentum megjelenésének egységesítése osztályok között
+* Újrafelhasználható űrlapok és jelentéssablonok létrehozása nyomtatott fájlokból
+* Dokumentum előkészítési folyamatok egyszerűsítése
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Vállalati sablonok automatizált generálása nyomtatott jelentésekből
+* Sablonalapú dokumentummenetek üzleti műveletekhez
+* Rutin PCL jelentések átalakítása azonnal használható DOT sablonokká
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

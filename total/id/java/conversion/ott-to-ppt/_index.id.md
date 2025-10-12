@@ -54,7 +54,30 @@ API juga memungkinkan Anda untuk mengonversi dokumen OTT yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OTT ke PPT** mengubah **OpenDocument Text Templates (.OTT)** menjadi file **PowerPoint Presentation (.PPT)** yang dapat diedit, siap untuk pembuatan dan modifikasi slide.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah template teks menjadi slide deck yang dapat diedit
+* Membuat presentasi profesional dari tata letak berbasis OTT
+* Menyesuaikan konten dokumen menjadi slide yang siap dipresentasikan
+* Menyiapkan PPT untuk pertemuan internal atau presentasi klien
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch template OTT menjadi presentasi PPT
+* Integrasi dengan saluran konten untuk pembuatan presentasi otomatis
+* Generasi terjadwal dari slide deck yang dapat diedit dari template dokumen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,33 @@ OTTをXLAMに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをXLAMに変換**すると、**テンプレートコンテンツから派生したExcel Add-inファイル**が生成され、テンプレートデータに基づいて自動化、マクロ、および強化されたスプレッドシートワークフローが可能となります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* テンプレートからマクロを有効にしたExcel Add-inの作成
+* テンプレートから派生したマクロを使用した繰り返しタスクの自動化
+* テンプレートロジックでスプレッドシート機能を強化
+* 標準化された自動化ワークフローの展開
+* テンプレート駆動のExcelツールの集約
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業向けExcel自動化のためのバッチOTT-to-XLAM変換
+* ワークフローやレポートパイプラインとの統合
+* 再利用可能なマクロを有効にしたスプレッドシートツールの生成
+* テンプレートベースの自動化展開
+* テンプレートコンテンツからの動的なマクロ更新
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

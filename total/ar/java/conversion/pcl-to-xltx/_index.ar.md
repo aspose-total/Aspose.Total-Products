@@ -47,7 +47,30 @@ otherformats: EXCEL ODS TXT XLSM DIF TSV XLTM FODS XLTX XLAM MD XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**تحويل PCL إلى XLTX** يحول وثائق **لغة أوامر الطابعة (PCL)** إلى ملفات **قالب Excel (XLTX)**، مما يسمح بتنسيق متسق وإعادة استخدام لجداول البيانات المستقبلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل تخطيطات الطباعة إلى قوالب Excel قابلة لإعادة الاستخدام
+* تبسيط إنشاء التقارير باستخدام أنماط محددة مسبقًا
+* الحفاظ على توحيد الوثائق عبر الأقسام
+* أتمتة إنشاء القوالب لتقارير موحدة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+
+* أتمتة قائمة على القوالب لتقارير الأعمال
+* تحويل التقارير الدورية المطبوعة إلى قوالب موحدة
+* إنشاء تصاميم جاهزة للإكسل من إخراج PCL تلقائيًا
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

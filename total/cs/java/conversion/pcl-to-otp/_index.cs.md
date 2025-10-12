@@ -121,7 +121,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na OTP** transformuje soubory ve formátu **Printer Command Language** do formátu **OpenDocument Presentation Template (.OTP)** pro vytváření opakovaně použitelných šablon snímků.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Návrh šablon prezentací z rozložení PCL
+* Vytváření značkových šablon snímků pro firemní použití
+* Převádění tištěných firemních vizuálů do editovatelných šablon OTP
+* Zjednodušení opakovaného využití designu napříč odděleními
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické vytváření šablon ze standardních tiskových materiálů
+* Integrace s pracovními postupy tvorby prezentací
+* Generování opakovaně použitelných hlavních snímků z firemních tiskových dokumentů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

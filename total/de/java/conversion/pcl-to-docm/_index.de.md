@@ -130,7 +130,30 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von **PCL in DOCM** ermöglicht die Umwandlung von Ausgaben in **Druckerbefehlssprache** in **makrofähige Word-Dokumente**, was Automatisierung, dynamische Updates und erweiterte Formatierungsmöglichkeiten direkt aus druckbasierten Dateien ermöglicht.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Einbetten von Makros in konvertierte Word-Dokumente zur Automatisierung
+* Wiederverwendung gedruckter Daten in bearbeitbaren und programmierbaren Berichten
+* Erstellen interaktiver Geschäftsvorlagen aus PCL-Ausdrucken
+* Verbesserung von Produktivitätsabläufen mit makrofähigen Dokumenten
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Stapelkonvertierung von PCL-Archiven in DOCM für dynamische Berichterstellung
+* Integration von Druckausgaben in automatisierte Word-basierte Workflows
+* Generierung von makrofähigen Dokumenten aus Druckerströmen in Echtzeit
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

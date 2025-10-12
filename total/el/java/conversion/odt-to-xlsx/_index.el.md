@@ -61,7 +61,27 @@ otherformats: XLS XLSB XLSM XLTM ODS XLT FODS EXCEL XLAM XLTX SXC XLSX DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε XLSX** επιτρέπει την άνετη μετατροπή περιεχομένου αρχείων κειμένου OpenDocument σε **σύγχρονα βιβλία εργασίας Excel**, εξασφαλίζοντας συμβατότητα και βελτιωμένη διαχείριση δεδομένων.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μεταφορά πινάκων ODT και δομημένων δεδομένων σε Excel
+* Δημιουργία επεξεργάσιμων αρχείων υπολογιστικού φύλλου από έγγραφα
+* Βελτίωση οπτικοποίησης δεδομένων και ολοκλήρωση διαγραμμάτων
+* Δημιουργία σύγχρονων αρχείων Excel από μορφές βασισμένες σε κείμενο
+* Βελτίωση προσβασιμότητας σε οικοσυστήματα της Microsoft Office
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτοματισμός ODT σε XLSX σε συστήματα αναφοράς
+* Μετατροπές βασισμένες στο cloud για πολυτμηματικές ροές εργασίας
+* Παρτίδες εξαγωγών για την ενσωμάτωση επιχειρηματικών διαδικασιών
+* Αυτοματοποιημένη δημιουργία Excel από συστήματα διαχείρισης περιεχομένου
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

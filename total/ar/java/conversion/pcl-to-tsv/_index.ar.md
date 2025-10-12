@@ -47,7 +47,30 @@ otherformats: MD XLSB TXT XLTX DIF FODS SXC XLSM XLAM ODS XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**تحويل PCL إلى TSV** يحول مخرجات **لغة أوامر الطابعة** إلى ملفات **قيم مفصولة بواسطة علامات التبويب**. هذا التنسيق مثالي للاستيرادات النظيفة والمنظمة إلى جداول بيانات أو أنظمة برمجيات تعتمد على البيانات المفصولة بواسطة علامات التبويب.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج المحتوى الجدولي من البيانات المنسقة للطباعة
+* إنشاء مجموعات بيانات TSV من فواتير PCL أو سجلات
+* تغذية النواتج TSV إلى أنظمة هجرة البيانات أو ETL
+* مشاركة البيانات المنسقة للطباعة بين أنظمة المؤسسة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* استخراج مجدول لأرشيفات الطباعة إلى TSV
+* دمج مع خطوط أنابيب البيانات للوحات التقارير
+* التحويل التلقائي من الطباعة إلى بيانات جاهزة للتحليل المنظم
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

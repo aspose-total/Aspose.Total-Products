@@ -61,7 +61,32 @@ otherformats: EXCEL XLT XLSX TSV XLTX SXC XLSB ODS XLSM XLS XLTM FODS XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى XLSM
+
+يحول **قوالب OpenDocument Text (.OTT)** إلى **جدول عمل ممكّن بالماكرو (.XLSM)**، مما يمكّن الأتمتة والوظائف المعتمدة على الماكرو في جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء جداول عمل في إكسل مع ماكروهات من قوالب OTT
+* أتمتة معالجة البيانات أو إنشاء تقارير العمليات
+* إعادة استخدام قوالب المستندات لحلول جداول بيانات تفاعلية
+* تضمين حسابات أو مهام آلية في الجداول التي تم إنشاؤها
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي لقوالب OTT إلى جداول عمل XLSM
+* دمج مع أنابيب التقارير والتحليلات في المؤسسات
+* إنشاء تلقائي لجداول بيانات ممكّنة بالماكرو من القوالب
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

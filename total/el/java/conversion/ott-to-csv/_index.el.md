@@ -61,7 +61,35 @@ otherformats: SXC TSV XLSM XLTX DIF EXCEL XLTM XLAM XLSX XLSB XLT ODS FODS XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε CSV**
+
+Η μετατροπή **αρχείων προτύπου κειμένου OpenDocument** σε **τιμές που διαχωρίζονται με κόμμα** μετατρέπει τα δεδομένα προτύπου σε μορφή που είναι προσβάσιμη για υπολογιστικούς πίνακες, αναλύσεις και εισαγωγή σε βάσεις δεδομένων.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή δομημένων δεδομένων προτύπου για αναφορές
+* Εισαγωγή περιεχομένου προτύπου σε υπολογιστικούς πίνακες ή βάσεις δεδομένων
+* Προετοιμασία επιστολών ή συγχώνευσης αλληλογραφίας βασισμένη σε δεδομένα
+* Διαμοιρασμός κειμενικών δεδομένων σε μια παντού αναγνώσιμη μορφή
+* Αρχειοθέτηση περιεχομένου προτύπου για σκοπούς αναλύσεων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή αρχείων OTT σε CSV για μεγάλες βιβλιοθήκες προτύπων
+* Ενσωμάτωση με συστήματα ERP ή CRM για αυτόματη χρήση δεδομένων
+* Αυτοματοποίηση παραγωγής αναφορών από σύνολα δεδομένων βασισμένα σε πρότυπα
+* Ροές εργασίας για αναλύσεις και επεξεργασία δεδομένων
+* Κεντρική εξαγωγή κειμενικού περιεχομένου από πολλαπλά πρότυπα
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

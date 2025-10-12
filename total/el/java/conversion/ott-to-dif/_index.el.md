@@ -61,7 +61,33 @@ otherformats: XLTM XLSB XLAM XLSX ODS XLTX FODS XLT SXC XLS DIF EXCEL TSV XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε DIF** μετατρέπει τα Πρότυπα Κειμένου OpenDocument σε **αρχεία Data Interchange Format**, επιτρέποντας την εισαγωγή δομημένων δεδομένων από πρότυπα σε υπολογιστικά φύλλα και βάσεις δεδομένων για ανάλυση.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Εξαγωγή πινάκων προτύπων για ανάλυση δεδομένων
+* Προετοιμασία περιεχομένου προτύπων για εφαρμογές παλαιών υπολογιστικών φύλλων
+* Διαμοιρασμός δεδομένων προτύπου σε ένα απλό, τυποποιημένο μορφή
+* Αρχειοθέτηση δομημένων πληροφοριών για αναφορές
+* Ενσωμάτωση δεδομένων προτύπου σε ροές εργασίας επιχειρηματικής νοημοσύνης
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή OTT σε DIF για εταιρική αναφορά
+* Ενσωμάτωση με εισαγωγή βάσης δεδομένων και αναλυτικές αγωγές
+* Αυτοματοποιημένη εξαγωγή πίνακα δεδομένων από πολλαπλά πρότυπα
+* Ομαλή επεξεργασία για ιστορικά ή παλαιά σύνολα δεδομένων
+* Κεντρικό αρχείο DIF για διασυστημική χρήση
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

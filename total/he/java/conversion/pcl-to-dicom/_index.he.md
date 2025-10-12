@@ -105,7 +105,30 @@ otherformats: APNG DXF WMF TGA IMAGE WMZ PSD JPEG2000 EMZ SVGZ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **PCL ל-DICOM** מאפשרת המרת פלטי **שפת פקודה של מדפסת** לקבצי **תקשורת דיגיטלית ברפואה (DICOM)**. זה מאוד שימושי בסביבות רפואיות שצריכות לארכב או להציג נתוני אבחון מבוססי הדפסה במערכות תמונה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת דוחות אבחון מודפסים לתבנית תמונת DICOM
+* הטמעת נתוני הדפס סרוקים בארכיונים של תמונות רפואיות
+* שילוב מסמכים רפואיים מבוססי PCL במערכות PACS
+* תקנות פורמטי רשומות רפואיות להתאמה לתקני בריאות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה אוטומטית של דוחות רפואיים מודפסים ל-DICOM לרשומות בית חולים
+* שילוב המרת הדפס ל-DICOM בתהליכי עבודה בתחום הבריאות
+* המרה בצורת צמיחה של ארכיונים של PCL למערכות אחסון תמונות רפואיות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

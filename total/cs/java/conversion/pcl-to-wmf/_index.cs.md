@@ -57,7 +57,30 @@ Pomocí API můžete také otočit výstupní obrázek WMF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na WMF** transformuje grafiku v jazyce **Printer Command Language** do formátu **Windows Metafile (.WMF)**, vhodného pro úpravy založené na vektorech a použití škálovatelných obrázků v aplikacích Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Extrahování škálovatelné grafiky z rozvržení tisku PCL
+* Úprava diagramů založených na vektorech v aplikacích Windows
+* Vkládání vizuálů PCL do dokumentů aplikací Office
+* Zachování tiskové přesnosti pro projekty desktopového publikování
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná konverze souborů PCL na obrázky WMF
+* Integrace s publikováním dokumentů a návrhovými potrubími
+* Hromadné zpracování pro archivy grafiky tisku z minulosti
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,30 @@ A PCL-fájl FODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti FODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to FODS** konverzió átalakítja a nyomtatásból származó adatokat **Flat OpenDocument Spreadsheet (FODS)** formátumba, szerkeszthető, XML-alapú táblázatokat biztosítva, melyek kompatibilisek a LibreOffice és az OpenOffice szoftverekkel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Nyomtatott jelentések vagy számlák átalakítása szerkeszthető táblázatadattá
+* Keresztplatformos táblázatkompatibilitás lehetővé tétele
+* PCL-alapú táblázatadatok integrálása nyílt forráskódú irodai eszközökbe
+* Strukturált nyomtatott adatok archiválása XML táblázatként
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Nyomtatott pénzügyi vagy készletjelentések automatizált átalakítása FODS formátumba
+* Integráció nyílt forráskódú jelentési csövekbe
+* Nagyméretű átalakítás nyomtatott adatokhoz analitikához és rekordokhoz
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

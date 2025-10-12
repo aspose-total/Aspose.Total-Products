@@ -61,7 +61,27 @@ ODTをCSVに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODTをCSVに変換**すると、テキストベースの文書テーブルが**コンマ区切り値**に変換され、スプレッドシート、データベース、または自動化ツール向けの構造化されたデータ表現が可能になります。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 分析用にテキスト文書から表形式データを抽出する
+* ドキュメントデータをスプレッドシートやBIツールにインポートする
+* フォーマットされたテキストを単純なデータの行と列に変換する
+* 機械学習や自動化ワークフローのためのデータセットを準備する
+* ドキュメントベースのレポートプロセスを効率化する
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+* データパイプライン用の自動ODTからCSVへの変換
+* 分析システム向けの大量ドキュメントテーブル抽出
+* データベースインポートプロセスへのシームレスな統合
+* ドキュメントからスプレッドシートへのエンタープライズレベルのデータ同期
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

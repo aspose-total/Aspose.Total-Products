@@ -57,7 +57,30 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをDXFに変換**すると、**プリンターコマンド言語**のグラフィックスやレイアウトが、CADやエンジニアリング設計アプリケーションで広く使用されている**Drawing Exchange Format（DXF）**ファイルに変換されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 印刷されたエンジニアリングレポートからベクターグラフィックスを抽出する
+* 印刷出力から回路図をCADで読み取れるファイルに変換する
+* 印刷生成のレイアウトをデザイン修正のためにデジタル化する
+* 印刷システムとCADツールの間での相互運用性を実現する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 印刷ベースの技術図面からDXFファイルの自動生成
+* エンジニアリングワークフローパイプライン内でのPCLからDXFへの変換の統合
+* アーカイブされた印刷出力の一括変換をCAD互換形式に
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

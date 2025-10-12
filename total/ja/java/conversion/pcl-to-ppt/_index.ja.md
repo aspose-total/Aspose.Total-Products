@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをPPTに変換**すると、**プリンターコマンド言語**のコンテンツを編集可能な**PowerPointプレゼンテーション（.PPT）**形式に変換し、ビジネスビジュアルを作成、変更、提示できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 印刷されたレポートを編集可能なPowerPointスライドに変換する
+* PCLコンテンツをビジュアルビジネスプレゼンテーション用に再利用する
+* アーカイブされた印刷ファイルからプロフェッショナルなスライドショーを作成する
+* 会議やマーケティングのためにPCLコンテンツを編集および再設計する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCL出力を編集可能な.PPTスライドに一括変換する
+* 企業のレポーティングやコミュニケーションツールとの統合
+* 印刷データパイプラインからの自動化されたPowerPoint作成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

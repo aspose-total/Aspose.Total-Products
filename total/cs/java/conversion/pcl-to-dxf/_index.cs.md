@@ -57,7 +57,30 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na DXF** transformuje grafiku nebo rozložení v jazyce **Printer Command Language** do souborů ve formátu **Drawing Exchange Format (DXF)**, které jsou široce používány v aplikacích pro CAD a inženýrský návrh.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Extrahování vektorové grafiky z tištěných inženýrských zpráv
+* Převádění schématických diagramů z tištěného výstupu do souborů čitelných pro CAD
+* Digitalizace tištěných rozložení pro další úpravy návrhu
+* Zajištění interoperability mezi tiskovými systémy a nástroji pro CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované generování souborů DXF z technických výkresů založených na tisku
+* Integrace převodu PCL na DXF do pracovních postupů inženýrského toku
+* Hromadná transformace archivovaných tištěných výstupů do formátů kompatibilních s CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

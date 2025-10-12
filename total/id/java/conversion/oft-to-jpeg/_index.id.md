@@ -30,7 +30,33 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **OFT ke JPEG** mengekspor template Outlook sebagai **gambar JPEG**, memberikan format yang didukung secara luas, kompresi yang ideal untuk penggunaan web dan penyimpanan yang efisien.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Berbagi cuplikan email secara online
+* Menyisipkan template dalam laporan dan presentasi
+* Mengarsipkan konten email dalam format yang terkompresi
+* Pratinjau visual cepat untuk persetujuan pemasaran dan desain
+* Aksesibilitas gambar lintas platform
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi Batch OFT ke JPEG untuk distribusi web
+* Integrasi dengan platform otomatisasi pemasaran
+* Pembuatan galeri pratinjau template secara otomatis
+* Optimisasi penyimpanan untuk koleksi template besar
+* Alur kerja ekspor otomatis untuk visual kampanye email
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

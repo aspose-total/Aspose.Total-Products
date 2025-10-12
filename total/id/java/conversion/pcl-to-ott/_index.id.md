@@ -130,7 +130,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **PCL ke OTT** mengubah output **Printer Command Language** menjadi format **OpenDocument Text Template (.OTT)** untuk template dokumen standar di **LibreOffice Writer**.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membangun template dokumen yang dapat digunakan kembali dari formulir PCL
+* Membuat tata letak bisnis standar untuk korespondensi
+* Mengonversi kop surat atau laporan PCL menjadi template yang dapat diedit
+* Mendukung alur kerja dokumen terbuka dengan format yang konsisten
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi OTT otomatis dari sistem desain cetak
+* Integrasi dengan alur kerja pembuatan konten perusahaan
+* Konversi batch template cetak menjadi OTT untuk penggunaan dokumen ulang
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

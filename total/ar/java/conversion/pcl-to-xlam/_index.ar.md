@@ -47,7 +47,32 @@ otherformats: XLAM XLTX SXC DIF MD TXT XLTM FODS XLSB ODS EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى XLAM
+
+يُحول تحويل **PCL إلى XLAM** إخراج **لغة أوامر الطابعة** إلى ملفات **إضافة إلى Excel (.XLAM)**، مما يمكن من التحكم التلقائي والماكروهات وزيادة وظائف جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء إضافات Excel من قوالب البيانات التي تم إنشاؤها من الطباعة
+* تضمين منطق التحكم التلقائي في سير العمل في جداول البيانات
+* تحويل تقارير PCL إلى أدوات تحكم تلقائي في Excel قابلة لإعادة الاستخدام
+* توسيع وظائف المحتوى الرقمي أو الجدولي المطبوع
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التحكم التلقائي" %}}
+
+* إنشاء ملفات XLAM تلقائيًا من الإخراجات المتكررة لـ PCL
+* التكامل مع أنابيب تقارير الشركات وتحليلاتها
+* إنشاء دفعة من إضافات Excel لمهام العمل المتكررة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

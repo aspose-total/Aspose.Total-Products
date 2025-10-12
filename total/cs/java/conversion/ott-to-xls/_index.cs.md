@@ -61,7 +61,33 @@ Po převodu OTT do XLS vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OTT na XLS** transformuje šablony OpenDocument Text do formátu **Excel 97-2003 Workbook**, což umožňuje zpětně kompatibilní použití tabulek a reportingu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Generování kompatibilních s legacy Excel reportů
+* Migrace obsahu šablony do starších prostředí tabulek
+* Příprava strukturovaných dat z šablon pro analytiku
+* Archivace obsahu ve široce podporovaných formátech
+* Podpora slučování pošty nebo korespondence řízené tabulkou
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný hromadný převod OTT na XLS
+* Integrace s legacy podnikovými systémy
+* Generování tabulek z více šablon
+* Workflowy pro reportování řízené šablonami
+* Archivace historických dat ve formátu XLS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

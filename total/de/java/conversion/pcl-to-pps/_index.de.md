@@ -121,7 +121,30 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von **PCL in PPS** wandelt die Ausgabe der **Druckerbefehlssprache** in das Format **PowerPoint Show (.PPS)** um, sodass die Präsentation direkt wiedergegeben werden kann.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Umwandlung von auf PCL basierenden Dokumenten in sofort präsentierbare Diashows
+* Automatische Generierung von Berichtspräsentationen zur Ansicht
+* Bereitstellung von PCL-Inhalten als Vollbildpräsentationen
+* Beibehaltung von PCL-Layouts für die nicht editierbare Präsentationsverwendung
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Erstellung von .PPS-Dateien aus wiederkehrenden PCL-Berichten
+* Integration in die geplante Veröffentlichung von Präsentationen
+* Umwandlung von Druckinhalten in präsentationsfertige Dateien
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

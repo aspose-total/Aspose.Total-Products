@@ -54,7 +54,31 @@ L'API vous permet également de convertir des documents OTT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de **OTT en POWERPOINT** transforme les modèles de texte OpenDocument en **présentations PowerPoint modifiables**, permettant une utilisation directe du contenu du modèle dans les diapositives.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Création de présentations à partir de modèles textuels
+* Archivage du contenu du modèle sous forme de présentations modifiables
+* Édition collaborative de diapositives
+* Réutilisation du contenu du modèle à des fins marketing ou de formation
+* Maintien d'une identité visuelle cohérente dans les présentations
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en lot d'OTT en PowerPoint pour une utilisation en entreprise
+* Intégration avec des systèmes de flux de travail de présentation
+* Génération automatisée de présentations à partir de bibliothèques de modèles
+* Insertion de contenu dynamique dans les présentations
+* Répertoire centralisé de diapositives basées sur des modèles
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

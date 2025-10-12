@@ -61,7 +61,27 @@ otherformats: XLTM ODS XLSM TSV XLS XLSX EXCEL SXC XLSB XLT XLAM XLTX DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε TSV** μετατρέπει τα δεδομένα εγγράφου σε **τιμές χωρισμένες με καρτελάκια**, διατηρώντας τη σαφήνεια και τη συνοχή κατά την εργασία με δομημένα ή κειμενικά σύνολα δεδομένων.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Μετατροπή μορφοποιημένων πινάκων ODT σε σύνολα δεδομένων με καρτελάκια
+* Εισαγωγή περιεχομένου εγγράφου σε εργαλεία επεξεργασίας κειμένου ή σεναρίων
+* Κοινοποίηση δομημένων δεδομένων σε πλατφόρμες που υποστηρίζουν TSV
+* Προετοιμασία συνεπών δομών δεδομένων για έρευνα ή αναλύσεις
+* Μεταφορά πινάκων βασισμένων σε έγγραφα σε συστήματα που περιμένουν μορφή TSV
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Μετατροπή ODT σε TSV σε συστήματα αυτόματης εξαγωγής δεδομένων
+* Παρτίδα εξαγωγής κειμενικών εγγράφων για ολοκληρώσεις στο πίσω μέρος
+* Ενσωμάτωση της έξοδου TSV σε αγωγούς καθαρισμού δεδομένων
+* Απλοποιημένη μεταφορά κειμενικών συνόλων δεδομένων μεταξύ εργαλείων επιχείρησης
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

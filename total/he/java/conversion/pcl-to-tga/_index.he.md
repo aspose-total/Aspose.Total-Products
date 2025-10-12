@@ -105,7 +105,30 @@ otherformats: APNG IMAGE PSD SVGZ EMZ WMZ WMF  JPEG2000 DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## המרת **PCL ל-TGA** ממירה גרפיקה בשפת הפקודות של מדפסת (**Printer Command Language**) לתמונת **Truevision TGA (.TGA)**, ששומרת על גרפיקה רסטרית באיכות גבוהה לצורכי עיצוב, ויזואליזציה או ארכיבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ תמונות באיכות גבוהה מגרפיקה שנדפסה ב-PCL
+* הכנת תוכן ויזואלי לעבודות עיצוב והדמיית תהליכים
+* ארכיבת גרפיקה שנדפסה באמצעות פורמט תמונה ללא אובדן
+* המרת תרשימים ופריסות ליישומים מולטימדיים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת גרפיקה ב-PCL ל-TGA באופן אוטומטי בצורת סדרה
+* שילוב עם עיבוד תמונות וצינורות מולטימדיה
+* ארכיבה מיושמת של תמונות מודפסות לשימוש עתידי
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

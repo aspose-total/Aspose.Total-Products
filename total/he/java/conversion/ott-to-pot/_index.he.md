@@ -100,7 +100,33 @@ otherformats: POTM PPTX PPSM PPS ODP PPTM POTX PPT POWERPOINT PPSX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-POT** ממירה תבניות טקסט של OpenDocument לקבצי תבניות של PowerPoint, מאפשרת יצירת פריסות שקולות לשימוש מתוך תוכן תבנית טקסטואלי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות PowerPoint שניתן להשתמש בהן מתוך תוכן טקסטואלי
+* תקנות פורמטים למצגות תדמית עסקית
+* ארכיבת עיצובי שקול מבוססי תבניות
+* קידום יצירת שקולים בצורה שיתופית
+* הכנת מצגות להדרכה או שיווק
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-POT אוטומטית לספריות תבניות עסקיות
+* יצירת תבניות למצגות בצורה צפופה ממספר קבצי OTT
+* שילוב עם זרימות עבודה לניהול מצגות
+* הכנסת תוכן תבניתי למצגות
+* תקנות ברמה הארגונית של תבניות שקולות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

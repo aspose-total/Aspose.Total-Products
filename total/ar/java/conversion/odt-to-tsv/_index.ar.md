@@ -61,7 +61,31 @@ otherformats: XLTM ODS XLSM TSV XLS XLSX EXCEL SXC XLSB XLT XLAM XLTX DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى TSV** يقوم بتحويل بيانات المستند إلى **قيم مفصولة بواسطة علامات تبويب**, مع الحفاظ على الوضوح والاتساق عند العمل مع مجموعات بيانات منظمة أو معتمدة على النص.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل جداول ODT المنسقة إلى مجموعات بيانات مفصولة بواسطة علامات تبويب
+* استيراد محتوى المستند إلى أدوات معالجة النصوص أو البرمجة النصية
+* مشاركة البيانات المنظمة عبر الأنظمة التي تدعم TSV
+* إعداد هياكل بيانات متسقة للأبحاث أو التحليلات
+* نقل جداول المستندات إلى الأنظمة التي تتوقع تنسيق TSV
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل ODT إلى TSV في أنظمة استخراج البيانات المؤتمتة
+* تصدير دفعي لمستندات النص للتكامل مع النظم الخلفية
+* دمج الإخراج TSV في خطوط أنابيب تنظيف البيانات
+* نقل مجموعات البيانات النصية بين أدوات الشركات بسهولة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

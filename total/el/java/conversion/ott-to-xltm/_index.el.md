@@ -61,7 +61,30 @@ otherformats: SXC XLS EXCEL XLSM XLT DIF XLTM XLSX ODS XLTX FODS TSV XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε XLTM** μετατρέπει τα **Πρότυπα Κειμένου OpenDocument (.OTT)** σε **Πρότυπα Excel με Ενεργοποιημένα Μακροεντολές (.XLTM)** για επαναχρησιμοποιήσιμες υπολογιστικές πλατφόρμες με αυτοματισμό.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Σχεδιασμός προτύπων υπολογιστικών φύλλων με ενεργοποιημένες μακροεντολές από αρχεία OTT
+* Αυτοματοποίηση επαναλαμβανόμενων διεργασιών δεδομένων χρησιμοποιώντας φυλλάδια εργασίας βασισμένα σε πρότυπα
+* Δημιουργία επαναχρησιμοποιήσιμων προτύπων Excel για αναφορές και αναλύσεις
+* Κανονικοποίηση ροών εργασίας με βάσεις υπολογιστικών φύλλων με ενεργοποιημένες μακροεντολές
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη μετατροπή OTT σε XLTM για επιχειρησιακές αναφορές
+* Ενσωμάτωση με αυτοματισμό ροών εργασίας και δημιουργία φύλλων εργασίας
+* Δημιουργία πακέτου προτύπων Excel με ενεργοποιημένες μακροεντολές από πρότυπα εγγράφων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

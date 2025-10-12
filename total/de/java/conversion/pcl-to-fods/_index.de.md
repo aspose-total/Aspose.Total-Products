@@ -47,7 +47,30 @@ Während Sie eine PCL-Datei in FODS konvertieren, können Sie Ihrem Ausgabe-FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL zu FODS** Konvertierung wandelt druckgenerierte Daten in das Format **Flat OpenDocument Spreadsheet (FODS)** um, wodurch bearbeitbare, auf XML basierende Tabellenkalkulationen erstellt werden, die mit LibreOffice und OpenOffice kompatibel sind.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Umwandlung von gedruckten Berichten oder Rechnungen in bearbeitbare Tabellendaten
+* Ermöglichen der plattformübergreifenden Tabellenkalkulation-Kompatibilität
+* Integration von PCL-basierten tabellarischen Daten in Open-Source-Büroanwendungen
+* Archivierung strukturierter Druckdaten als XML-Tabellenkalkulationen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Konvertierung gedruckter Finanz- oder Lagerberichte in FODS
+* Integration in Open-Source-Berichtspipelines
+* Groß angelegte Transformation von Druckdaten für Analysen und Aufzeichnungen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

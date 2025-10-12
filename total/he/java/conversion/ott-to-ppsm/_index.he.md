@@ -100,7 +100,30 @@ otherformats: POTM PPTM PPT POTX POWERPOINT ODP PPSX PPTX PPS POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## המרת **OTT ל-PPSM** ממירה **תבניות טקסט של OpenDocument (.OTT)** ל-**מצגת המופעלת במקרו של PowerPoint (.PPSM)**, מאפשרת מצגות ממוחשבות ואינטראקטיביות מתבניות טקסט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת מצגות מופעלות במקרו מתבניות טקסט מבוססות OTT
+* אוטומציה של תוכן המצגת המקורי מתבניות מסמכים
+* השימוש מחדש בתבניות תבניות עסקיות למצגות דינמיות
+* הטמעת אינטראקטיביות ומקרואים לאוטומציה של תהליכי עבודה
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת מתוזמנת של תבניות מסמכים למצגות PPSM
+* שילוב עם צינורות אוטומציה של תוכן עסקי
+* עיבוד קבוצתי של קבצי OTT למצגות אינטראקטיביות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

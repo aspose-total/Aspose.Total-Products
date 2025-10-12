@@ -100,7 +100,33 @@ otherformats: POT PPTM PPTX PPSM ODP POTX PPSX POTM POWERPOINT PPT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-PPS** מייצרת קבצי **PowerPoint Show**, שמאפשרים הצגת מצגות ישירה של תוכן שנוצר מתבניות בלי לפתוח במצב עריכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת מצגות מוכנות להצגה מתבניות
+* ארכיבה של תבניות כמצגות לצפייה בלבד
+* שיתוף מצגות לצפייה חיצונית
+* הכנת חומרי שיווק או הכשרה בפורמט מצגת
+* הבטחת פריסה קבועה של השקופיות במהלכי ההצגה
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-PPS בצורה צפונית עבור ספריות ההצגות
+* שילוב עם מערכות חלוקת ההצגות
+* יצירה אוטומטית של שקופיות לצפייה בלבד מתבניות
+* צינור להכנת תוכן הכשרה ושיווק
+* תקן לפריסת מצגות ברמה הארגונית
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

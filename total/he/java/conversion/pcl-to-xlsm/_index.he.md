@@ -102,7 +102,30 @@ otherformats: EXCEL MD CSV ODS XLTX XLTM TSV XLT XLAM FODS DIF TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **PCL ל-XLSM** ממירה מסמכים מבוססי הדפסה לחיבורי עבודה של Excel המאפשרים אוטומציה ועיבוד נתונים בסביבת Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* אוטומציה של משימות חוזרות על נתונים שנמצאים בקבצי PCL
+* הטמעת מאקרוס ליצירת דוחות או אימות
+* שיפור זרימות עבודה דרך סקריפטים ב-Excel
+* שילוב נתוני הדפסה עם מערכות אוטומציה במבוססות Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת דוחות פיננסיים או אנליטיים עם מאקרוס
+* עדכון אוטומטי של לוחות בקרה ב-Excel ממקורות הדפסה של PCL
+* צינורות המרה דינמיים לעיבוד מידע מהדפסה
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

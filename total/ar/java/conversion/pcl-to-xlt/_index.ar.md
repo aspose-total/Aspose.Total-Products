@@ -47,7 +47,30 @@ otherformats: MD DIF XLTM EXCEL ODS XLT XLSM XLSB TSV XLAM FODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**تحويل PCL إلى XLT** يُنشئ ملفات **قالب Excel** من مستندات **لغة أمر الطابعة**، مما يسمح باستخدام تخطيطات الطباعة المُنظمة لإعادة استخدامها لإنشاء تقارير متسقة في Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصميم قوالب Excel استنادًا إلى تنسيقات التقارير المطبوعة
+* الحفاظ على تخطيط وتنسيق متسق للتقارير
+* توحيد قوالب الوثائق التجارية
+* تسريع إعداد التقرير باستخدام قوالب محددة مبنية على الطباعة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* أتمتة إنشاء القوالب من الإخراج المتكرر لـ PCL
+* إنشاء قوالب قابلة لإعادة الاستخدام لملء التقارير تلقائيًا
+* دمج سير العمل من الطباعة إلى القوالب للمؤسسات
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

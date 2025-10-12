@@ -102,7 +102,27 @@ otherformats: SXC XLS XLTM TSV XLT XLSB XLTX ODS DIF FODS XLSX XLAM XLSM CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-EXCEL** מאפשרת להמיר נתוני OpenDocument Text לגיליונות **Microsoft Excel**, מה שהופך את הנתונים לקלים יותר לניתוח, ויזואליזציה וארגון.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא טבלאות מקבצי ODT ל-Excel לצורך עריכה
+* הכנת נתוני מסמך לחישובים מתקדמים
+* שילוב נתונים טקסטואליים בלוחות בקרה שמופעלים על ידי Excel
+* שינוי עיצוב של נתונים מבוססי טקסט לדיווחים או תרשימים
+* שיפור האינטרואפרביליטי בין ODT וכלי Microsoft Office
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרה אוטומטית לזרימות עבודה מעורבות של מסמכים וגיליונות אלקטרוניים
+* עיבוד של ODT ל-Excel בצינורות דיווחים או ניתוחים
+* המרות מסמכים מתוזמנות למערכות נתונים עסקיות
+* ייצוא מרובה פורמטים למאגרי מסמכים או כלים בענן
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

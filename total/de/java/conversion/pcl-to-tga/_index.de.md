@@ -57,7 +57,30 @@ Mit der API können Sie das ausgegebene TGA-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von **PCL in TGA** wandelt Grafiken im **Printer Command Language** in das Bildformat **Truevision TGA (.TGA)** um und bewahrt hochwertige Rastergrafiken für Design, Visualisierung oder Archivierung.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Extrahieren von hochwertigen Bildern aus PCL-Druckgrafiken
+* Vorbereitung visueller Inhalte für Design- und Illustrations-Workflows
+* Archivierung von Druckgrafiken in einem verlustfreien Bildformat
+* Konvertierung von Diagrammen und Layouts für Multimedia-Anwendungen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Stapelkonvertierung von PCL-Grafiken in TGA
+* Integration in Bildverarbeitungs- und Multimedia-Pipelines
+* Vereinfachte Archivierung von Druckgrafiken für zukünftige Verwendung
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

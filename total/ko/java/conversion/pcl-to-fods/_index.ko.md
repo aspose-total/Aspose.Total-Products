@@ -47,7 +47,30 @@ PCL 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to FODS** 변환은 인쇄로 생성된 데이터를 **Flat OpenDocument Spreadsheet (FODS)** 형식으로 변환하여 LibreOffice 및 OpenOffice와 호환되는 편집 가능한 XML 기반 스프레드시트를 제공합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 인쇄 보고서 또는 송장을 편집 가능한 스프레드시트 데이터로 변환
+* 크로스 플랫폼 스프레드시트 호환성 제공
+* PCL 기반의 표 형식 데이터를 오픈 소스 오피스 도구에 통합
+* 구조화된 인쇄 데이터를 XML 스프레드시트로 아카이빙
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 인쇄된 재무 또는 재고 보고서를 FODS로 자동 변환
+* 오픈 소스 보고 파이프라인에 통합
+* 분석 및 기록을 위한 대규모 인쇄 데이터 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

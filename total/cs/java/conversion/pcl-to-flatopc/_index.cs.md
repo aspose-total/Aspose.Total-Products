@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na FLATOPC** umožňuje transformaci dokumentů ve formátu **Printer Command Language** do formátu **Flat OPC XML**, který reprezentuje dokumenty vytvořené v aplikacích Microsoft Word, Excel nebo PowerPoint jako jednotné XML soubory.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převod tištěného obsahu do otevřených, XML založených struktur dokumentů
+* Umí možnost hluboké extrakce dat a modifikace z PCL generovaných souborů
+* Integrace tiskového obsahu do podnikových XML pracovních postupů
+* Zajištění transparentnosti a stopovatelnosti při transformaci dokumentů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod PCL na FLATOPC v systémech pro správu dokumentů
+* Integrace tiskových postupů s nástroji pro archivaci a analýzu založenými na XML
+* Hromadný převod souborů PCL pro dlouhodobé digitální uchování
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

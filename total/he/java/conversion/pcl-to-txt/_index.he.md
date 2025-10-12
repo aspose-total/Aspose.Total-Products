@@ -102,7 +102,30 @@ otherformats: CSV DIF MD XLSB FODS XLSM XLT SXC ODS XLAM TSV XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **PCL ל-TXT** מחלץ תוכן טקסט פשוט מקבצי שפת פקודה של מדפסת, אידיאלי לניתוח, ארכיבה או עיבוד נתונים נוסף.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ טקסט קריא מדוחות בפורמט הדפסה
+* יצירת ארכיונים קלים וחיפושיים של נתונים מודפסים
+* הזנת הטקסט המחולץ למערכות טקסט-בינה אוטומטיות או NLP
+* פשוט פלט הדפסה לניתוח אוטומטי
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* חילוץ טקסט בכמות גדולה מארכיונים של PCL
+* יצירת לוגים אוטומטיים מקבצים מבוססי הדפסה
+* שילוב לתהליכי AI, ניתוח נתונים או זרימות עבודה של אינדקסים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

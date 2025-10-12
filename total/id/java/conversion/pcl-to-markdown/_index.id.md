@@ -130,7 +130,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **PCL ke MARKDOWN** mengekstrak konten teks dari file **Printer Command Language** dan memformatnya ke dalam **Markdown (.MD)** untuk publikasi web atau dokumentasi ringan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah laporan yang dicetak menjadi dokumentasi Markdown
+* Membuat teks terstruktur untuk situs web, blog, atau file README
+* Menyederhanakan konten yang diformat untuk penulisan teknis dan kolaborasi
+* Menghasilkan output teks yang ringan dan terkontrol versi dari data cetak
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi Markdown otomatis dari jalur cetak PCL
+* Integrasi dengan generator situs statis dan sistem dokumentasi
+* Mengonversi arsip cetak besar menjadi Markdown untuk basis pengetahuan
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

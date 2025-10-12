@@ -54,7 +54,25 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar PPTM con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **ODT naar PPTM** maakt het mogelijk om **macro-ingeschakelde PowerPoint-presentaties** te maken van tekstdocumenten, waarbij statische inhoud wordt gecombineerd met interactieve of geautomatiseerde diafuncties.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Interactieve presentaties ontwerpen vanuit gestructureerde tekstdocumenten
+* Geautomatiseerde rapporten maken met ingebedde macro's
+* Presentaties genereren die dynamische dia-overgangen activeren
+* Slimme zakelijke of trainingsdecks voorbereiden met VBA-functionaliteit
+* Rapportlevering stroomlijnen met behulp van macro-ingeschakelde presentaties
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde ODT-naar-PPTM presentatiegeneratieworkflows
+* Integratie met bedrijfsrapportage- en automatiseringssystemen
+* Batchgewijze creatie van macro-ingeschakelde dia's vanuit ODT-bestanden
+* Dynamische op gegevens gebaseerde presentatiegeneratie voor interne rapportage
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,30 @@ otherformats: XLSB ODS XLT TSV SXC FODS TXT XLTX XLSM MD EXCEL XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## המרת **PCL ל־DIF** ממירה קבצי **שפת פקודות המדפסת (PCL)** לקבצי **פורמט התערובת של נתונים (DIF)**, מאפשרת תמיכה בתהליכי תחלופת נתונים מובנים ואינטרופרביליות של גיליונות אלקטרוניים בין יישומים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ נתוני טבלה מדוחות מודפסים לפורמט DIF
+* קידום ייבוא של נתוני הדפסה למערכות גיליון אלקטרוניות מורשות
+* אפשרות העברת נתונים חלקה בין כלי ניתוח
+* יצירת סטים נתונים חוזרים מהדפסות PCL שאוחסנו
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת דוחות PCL ל־DIF באופן אוטומטי לתחלופת נתונים
+* שילוב לצינורות ETL לתחלופת נתונים מובנים
+* המרה בצורת גורמי עובדה של ארכיונים מודפסים למקורות נתונים לאנליטיקה תואמים ל־DIF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

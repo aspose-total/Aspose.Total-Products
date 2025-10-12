@@ -54,7 +54,33 @@ API를 사용하면 암호로 보호된 OTT 문서를 POWERPOINT로 변환할 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 POWERPOINT로 변환**하면 OpenDocument 텍스트 템플릿을 **편집 가능한 PowerPoint 프레젠테이션**으로 변환하여 슬라이드에서 템플릿 콘텐츠를 직접 사용할 수 있게 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 텍스트 템플릿에서 슬라이드 덱 생성
+* 편집 가능한 프레젠테이션으로 템플릿 콘텐츠 보관
+* 협업 슬라이드 편집
+* 마케팅이나 교육용으로 템플릿 콘텐츠 재활용
+* 프레젠테이션에서 일관된 브랜딩 유지
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업용 일괄 OTT-to-PowerPoint 변환
+* 프레젠테이션 워크플로 시스템 통합
+* 템플릿 라이브러리에서 자동 슬라이드 덱 생성
+* 프레젠테이션에 동적 콘텐츠 삽입
+* 템플릿 기반 슬라이드의 중앙 저장소
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

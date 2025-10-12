@@ -47,7 +47,30 @@ PCL 파일을 MD로 변환하는 동안 출력 MD 파일 형식에 워터마크�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 MD로** 변환은 **프린터 명령어 언어** 문서를 **Markdown (.MD)** 파일로 변환하여 문서 작성이나 아카이빙을 위한 깨끗하고 가독성이 좋고 웹 친화적인 형식을 제공합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 웹 사이트 통합을 위해 PCL 출력물을 Markdown으로 내보내기
+* 인쇄 보고서에서 가벼운 문서 작성
+* 개발자 및 기술 팀을 위한 인쇄 기반 데이터 구조화
+* 풍부한 텍스트를 포함한 PCL 파일을 오픈 소스 친화적인 형식으로 아카이빙
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 대량의 PCL 보고서로부터 자동으로 MD 문서 생성
+* Git 기반 콘텐츠 시스템과 Markdown 출력물 통합
+* 온라인 게시 워크플로우를 위한 PCL 텍스트 추출 자동화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,33 @@ APIを使用すると、パスワードで保護されたOTTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをPOTMに変換**すると、**マクロ有効なPowerPointテンプレートファイル**が生成され、テンプレートベースの自動化がスライドデッキ内で可能となり、テンプレートコンテンツから派生したマクロを使用します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* マクロ有効なプレゼンテーションテンプレートの作成
+* 繰り返しのスライド作成タスクの自動化
+* テンプレートマクロでのワークフローの標準化
+* プレゼンテーションにテンプレート駆動のロジックを統合
+* 共同作業型スライドデッキの自動化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* マクロ有効なテンプレートライブラリのための一括OTTからPOTMへの変換
+* スライドデッキ作成の企業向け自動化
+* プレゼンテーションワークフローツールとの統合
+* テンプレートコンテンツからの動的マクロ生成
+* テンプレート駆動のPowerPoint自動化パイプライン
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

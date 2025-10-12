@@ -130,7 +130,30 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Conversion de PCL en RTF** permet de transformer les sorties du **Langage de Commande d'Imprimante** en documents au format **Rich Text Format (RTF)** pour une compatibilité étendue, une édition facile et une utilisation multiplateforme.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conversion de documents imprimés en fichiers texte enrichi modifiables
+* Préservation de la mise en forme de base tout en assurant la portabilité
+* Partage de rapports générés par impression sur plusieurs traitements de texte
+* Préparation de versions de documents légères pour une utilisation archivistique
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion par lot de fichiers d'impression PCL en RTF pour distribution
+* Intégration de pipelines PCL-en-RTF dans les systèmes d'entreprise
+* Génération automatisée de rapports textuels formatés à partir de données d'impression
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

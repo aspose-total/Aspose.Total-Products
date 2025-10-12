@@ -54,7 +54,30 @@ Mit der API können Sie auch passwortgeschützte OTT-Dokumente in PPT konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von **OTT in PPT** verwandelt **OpenDocument Text Templates (.OTT)** in bearbeitbare **PowerPoint-Präsentationen (.PPT)**, die für die Erstellung und Bearbeitung von Folien bereit sind.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Umnutzung von Textvorlagen in bearbeitbare Folienpräsentationen
+* Erstellung professioneller Präsentationen auf Basis von OTT-Layouts
+* Anpassung von Dokumentinhalten zu Präsentationsfolien
+* Vorbereitung von PPTs für interne Besprechungen oder Kundenpräsentationen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Stapelkonvertierung von OTT-Vorlagen in PPT-Präsentationen
+* Integration in Inhalts-Pipelines zur automatisierten Präsentationserstellung
+* Zeitgesteuerte Generierung von bearbeitbaren Folienpräsentationen aus Dokumentenvorlagen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

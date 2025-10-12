@@ -57,7 +57,35 @@ otherformats: EMZ  SVGZ PSD JPEG2000 WMF WMZ IMAGE DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى صورة
+
+ينتج تحويل **PCL إلى صورة** مخرجات صور نقطية (PNG، JPEG، TIFF، إلخ) من مستندات لغة أمر الطابعة، مما يجعل الملفات جاهزة للطباعة قابلة للعرض والمشاركة كصور قياسية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصور وظائف الطباعة PCL كصور
+* تضمين الإخراج الطباعي في الوثائق أو التقارير
+* أرشفة ملفات PCL في مستودعات قائمة على الصور
+* سير العمل لتحويل الطباعة إلى صور لضمان إمكانية الوصول عبر منصات متعددة
+* مشاركة تخطيطات الطباعة عبر أجهزة غير PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل PCL إلى صورة تلقائيًا في أنظمة معالجة الطباعة
+* توليد صور دفعيًا لمعاينة المستندات
+* التكامل مع مراقبة الطباعة السحابية أو حلول إدارة نظم المستندات
+* أرشفة البيانات الطباعية للشركات بناءً على الصور
+* تصور وظائف الطباعة في الوقت الحقيقي لضمان الجودة والتحقق
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

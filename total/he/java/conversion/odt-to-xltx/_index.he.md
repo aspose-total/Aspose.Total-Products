@@ -102,7 +102,27 @@ otherformats: CSV TSV XLT XLS EXCEL XLSB FODS SXC XLSM DIF XLSX ODS XLAM XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-XLTX** מאפשרת להמיר מסמכי טקסט לקבצי תבניות של **Excel**, מאפשרת עקביות ותקנה בזרימות עבודה המבוססות על גיליונות אלקטרוניים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* בניית תבניות מובנות של Excel מתוך תוכן ODT
+* שמירה על עיצוב עקבי בדוחות וקבצי נתונים
+* אוטומציה של יצירת תבניות להזנת נתונים או ניתוח
+* הכנת מבנים חוזרים של Excel למחלקות שונות
+* תמיכה בזרימות עבודה ליצירת דוחות המבוססות על נתונים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרת ODT ל-XLTX במערכות דיווח אוטומטיות
+* צינורות המרת מסמכים בהתבסס על תבניות
+* יצירת תבניות של Excel מרובות מחלקות
+* יצירת מבני Excel מיושרים לשימושים חוזרים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

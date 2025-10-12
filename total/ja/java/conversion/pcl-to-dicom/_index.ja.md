@@ -57,7 +57,30 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをDICOMに変換**することで、**プリンターコマンド言語**の出力を**医用画像情報通信**ファイルに変換できます。これは、印刷ベースの診断データを画像システムでアーカイブしたり視覚化する必要がある医療環境に特に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 印刷された診断レポートをDICOM画像形式に変換する
+* スキャンされた印刷データを医用画像アーカイブに埋め込む
+* PCLベースの医療文書をPACSシステムに統合する
+* 医療記録形式を標準化して医療規制に準拠する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 病院記録のために印刷された医療レポートをDICOMに自動変換する
+* 医療ワークフロー内での印刷からDICOMへの変換を統合する
+* 医用画像保存システムのためのPCLアーカイブの一括変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

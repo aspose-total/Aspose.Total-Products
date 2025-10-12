@@ -54,7 +54,33 @@ L'API vous permet également de convertir des documents OTT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de **OTT en POTM** génère des **fichiers de modèle PowerPoint avec macros activées**, permettant l'automatisation basée sur des modèles au sein des diapositives à l'aide de macros dérivées du contenu du modèle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Création de modèles de présentation avec macros activées
+* Automatisation des tâches de création de diapositives répétitives
+* Normalisation des flux de travail avec des macros de modèle
+* Intégration de la logique pilotée par modèle dans les présentations
+* Automatisation collaborative des diaporamas
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en lot d'OTT en POTM pour les bibliothèques de modèles avec macros activées
+* Automatisation d'entreprise de la création de diaporamas
+* Intégration avec des outils de flux de travail de présentation
+* Génération dynamique de macros à partir du contenu du modèle
+* Pipelines d'automatisation PowerPoint pilotés par modèle
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

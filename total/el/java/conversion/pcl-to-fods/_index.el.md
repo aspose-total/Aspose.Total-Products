@@ -47,7 +47,30 @@ otherformats: TSV XLSM XLSB FODS TXT ODS XLTX XLT DIF XLAM SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Μετατροπή από PCL σε FODS** μετατρέπει τα δεδομένα που παράγονται από εκτυπώσεις σε μορφή **Flat OpenDocument Spreadsheet (FODS)**, παρέχοντας επεξεργάσιμες, βασισμένες σε XML υπολογιστικές προδιαγραφές συμβατές με το LibreOffice και το OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή εκτυπώσεων ή τιμολογίων σε επεξεργάσιμα δεδομένα υπολογιστικού φύλλου
+* Δυνατότητα συμβατότητας υπολογιστικών φύλλων σε διαφορετικές πλατφόρμες
+* Ενσωμάτωση δεδομένων πίνακα βασισμένων σε PCL σε εργαλεία γραφείου ανοικτού κώδικα
+* Αρχειοθέτηση δομημένων δεδομένων εκτύπωσης ως XML υπολογιστικά φύλλα
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτοματοποιημένη μετατροπή εκτυπωμένων οικονομικών ή αποθεματικών αναφορών σε FODS
+* Ενσωμάτωση σε ανοικτές αναφορικές διαδικασίες
+* Μετατροπή μεγάλης κλίμακας δεδομένων εκτύπωσης για αναλύσεις και εγγραφές
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

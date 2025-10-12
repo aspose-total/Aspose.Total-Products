@@ -47,7 +47,30 @@ otherformats: MD DIF XLTM EXCEL ODS XLT XLSM XLSB TSV XLAM FODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Μετατροπή PCL σε XLT** δημιουργεί αρχεία **Προτύπου Excel** από έγγραφα **Γλώσσας Εντολών Εκτύπωσης**, επιτρέποντας την επαναχρησιμοποίηση δομημένων διατάξεων εκτύπωσης για συνεπή δημιουργία αναφορών στο Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Σχεδιασμός προτύπων Excel βασισμένων σε μορφές εκτυπωμένων αναφορών
+* Διατήρηση συνεπούς διάταξης και στυλ για αναφορές
+* Κανονικοποίηση προτύπων εγγράφων επιχειρήσεων
+* Επιτάχυνση εγκατάστασης αναφορών με προκαθορισμένα πρότυπα βασισμένα στην εκτύπωση
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποίηση δημιουργίας προτύπων από επαναλαμβανόμενες εξόδους PCL
+* Δημιουργία επαναχρησιμοποιήσιμων προτύπων για αυτόματη συμπλήρωση αναφορών
+* Ενσωμάτωση ροών εργασίας από εκτύπωση σε πρότυπα για οργανισμούς
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

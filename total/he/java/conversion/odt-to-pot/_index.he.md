@@ -100,7 +100,27 @@ otherformats: PPSX PPSM POTX PPTM POWERPOINT ODP POTM PPS PPTX PPT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-POT** מאפשרת להמיר מסמכי טקסט לקבצי תבניות של PowerPoint, מאפשרת למשתמשים לעצב ערכות הצגה עקביות ומבנים בהתבסס על תוכן כתוב.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות של PowerPoint ממסמכי טקסט מובנים
+* עיצוב מסגרות הצגה לעקביות בצוות
+* המרת תוכן תאגידי לתבניות הצגה שניתן לערוך
+* בניית תבניות דיור ניתנות לשימוש מתוך תיעוד
+* המרת תכני עסקי לערכות מוכנות להצגה
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* יצירה אוטומטית של תבניות של PowerPoint מתוכן ב-Word
+* שילוב למערכות עיצוב תוכן או מיתוג
+* המרה צפונית של תבניות מבוססות טקסט לקבצי POT
+* יצירת ערכת נושא דינמית מתצורות מבוססות מסמך
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

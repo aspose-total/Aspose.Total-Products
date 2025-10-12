@@ -130,7 +130,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى DOCM
+
+يمكن تحويل **PCL إلى DOCM** لتمكين تحويل مخرجات **لغة أوامر الطابعة** إلى **مستندات Word ممكنة للماكرو**, مما يسمح بالتأتير، والتحديثات الديناميكية، وإمكانيات التنسيق المتقدمة مباشرة من الملفات المعتمدة على الطباعة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين الماكروهات في مستندات Word المحولة للتأتير
+* إعادة استخدام البيانات المطبوعة في تقارير قابلة للتحرير والبرمجة
+* إنشاء قوالب تفاعلية للأعمال من طباعات PCL
+* تعزيز سير العمل الإنتاجي باستخدام المستندات الممكنة للماكرو
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+* تحويل دفعي لأرشيفات PCL إلى DOCM لتقارير ديناميكية
+* دمج مخرجات الطباعة في سير العمل الآلي المعتمد على Word
+* إنشاء مستندات ممكنة للماكرو من تيارات الطباعة في الوقت الحقيقي
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

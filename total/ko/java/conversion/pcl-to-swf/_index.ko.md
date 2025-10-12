@@ -121,7 +121,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 SWF로 변환**은 **프린터 명령어 언어** 문서를 **Adobe Flash (.SWF)** 파일로 변환하여 대화형 멀티미디어 프레젠테이션 및 웹 기반 콘텐츠 전달을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PCL 프린트 레이아웃에서 대화형 프레젠테이션 생성
+* 웹 페이지 및 e-러닝 플랫폼에 프린트 기반 콘텐츠 임베딩
+* 정적 프린트 보고서를 멀티미디어 기능이 활성화된 슬라이드로 변환
+* 시각적 프린트 콘텐츠를 웹 친화적 대화형 파일로 공유
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PCL 프린트 아카이브에서 SWF 파일 일괄 생성
+* 웹 퍼블리싱 및 e-러닝 플랫폼과 통합
+* 디지털 대화형 콘텐츠 워크플로우를 위한 자동 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,33 @@ Az API azt is lehetővé teszi, hogy jelszóval védett OTT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **OTT to POWERPOINT** átalakítása lehetővé teszi az OpenDocument Text sablonok **szerkeszthető PowerPoint prezentációkká** alakítását, lehetővé téve a sablon tartalmának közvetlen használatát a diákokban.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Diavetítések létrehozása szöveges sablonokból
+* Sablon tartalmának archiválása szerkeszthető prezentációkként
+* Együttműködés a diák szerkesztésében
+* Sablon tartalom újrahasznosítása marketing vagy képzés céljából
+* Állandó arculat fenntartása a prezentációkban
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges OTT-to-PowerPoint átalakítás vállalati felhasználásra
+* Integráció prezentációs munkafolyamatrendszerekkel
+* Automatizált diavetítés generálása sablonkönyvtárakból
+* Dinamikus tartalom beillesztése a prezentációkba
+* Központosított tárhely sablon alapú diákok számára
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

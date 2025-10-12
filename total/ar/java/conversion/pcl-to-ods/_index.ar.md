@@ -47,7 +47,32 @@ otherformats: MD SXC TXT XLT XLAM XLSB XLTM XLSM TSV XLTX FODS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى ODS
+
+يستخرج البيانات من ملفات لغة أمر الطابعة (PCL) إلى تنسيق جداول بيانات OpenDocument Spreadsheet (.ODS) للتحليل الهيكلي في أدوات مثل LibreOffice Calc.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل تقارير الطباعة الجدولية إلى جداول بيانات
+* تمكين تحليل البيانات على جداول تم إنشاؤها بواسطة PCL
+* استيراد محتوى PCL المهيكل إلى سير العمل المحاسبية أو التحليلية
+* إنشاء أوراق قابلة للتحرير والتي تعتمد على الصيغ من بيانات الطباعة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل مجدول لتقارير PCL إلى دفاتر عمل ODS
+* خطوط أنابيب استخراج البيانات تحويل الإخراج الطباعي إلى تنسيقات جداول بيانات
+* التكامل مع أنظمة ERP أو النظم المالية لاستيعاب البيانات تلقائيًا
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

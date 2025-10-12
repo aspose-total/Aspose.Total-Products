@@ -61,7 +61,27 @@ Po převodu ODT do XLAM vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **ODT na XLAM** umožňuje transformaci obsahu dokumentu do **makro-povolených doplňků pro Excel**, ideálních pro automatizaci úkolů se se strukturovanými textovými daty.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Generování doplňků pro Excel ze strukturovaných šablon ve stylu Word
+* Automatizace pracovních postupů v Excelu řízených daty pomocí logiky dokumentu
+* Vkládání vzorců nebo maker založených na textových definicích
+* Vytváření opakovaně použitelných makro nástrojů z ODT souborů
+* Zvyšování produktivity propojením dat z Wordu s automatizací v Excelu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatická generace makro doplňků ODT-to-XLAM
+* Integrace s podnikovými systémy pro automatizaci Excelu
+* Hromadné vytváření makro-povolených nástrojů ze strukturovaného obsahu ODT
+* Zefektivnění vývoje dokumentu-do-Excel makro potrubí
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

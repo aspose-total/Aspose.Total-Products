@@ -57,7 +57,30 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na DICOM** umožňuje transformaci výstupů **Printer Command Language** do souborů **Digital Imaging and Communications in Medicine (DICOM)**. To je zvláště užitečné pro lékařská prostředí, která potřebují archivovat nebo vizualizovat diagnostická data založená na tisku v obrazových systémech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převod tištěných diagnostických zpráv do formátu obrazu DICOM
+* Vložení naskenovaných tiskových dat do archivů lékařských obrazů
+* Integrace lékařských dokumentů založených na PCL do systémů PACS
+* Standardizace formátů lékařských záznamů pro dodržování zdravotnických předpisů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod tištěných lékařských zpráv do DICOM pro nemocniční záznamy
+* Integrace převodu tisku na DICOM do pracovních postupů ve zdravotnictví
+* Hromadná transformace archivů PCL pro systémy ukládání lékařských obrazů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,28 @@ L'API vous permet également de convertir des documents OTT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de **OTT en PPTM** transforme les **modèles de texte OpenDocument (.OTT)** en **Présentations activées par macro PowerPoint (.PPTM)** pour des diapositives interactives et automatisées.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Intégration de macros et d'automatisation dans les présentations dérivées de OTT
+* Conversion de modèles en diapositives dynamiques et interactives
+* Rationalisation de la création de contenu répétitif pour les réunions ou les rapports
+* Amélioration du flux de travail avec la fonctionnalité de présentation activée par macro
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Création planifiée de présentations PPTM à partir de modèles de documents
+* Conversion en lot de OTT en PPTM pour les rapports d'entreprise
+* Intégration dans des flux de travail automatisés de présentation et de contenu
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

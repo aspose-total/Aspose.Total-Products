@@ -54,7 +54,27 @@ Az API azt is lehetővé teszi, hogy jelszóval védett ODT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Az **ODT to PPT** konvertálása egy egyszerű módja annak, hogy az **OpenDocument szövegfájlokat klasszikus PowerPoint prezentációvá alakítsuk át**, megőrizve a szövegstruktúrát és elrendezést az azonnali használathoz.
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Szöveges tartalom átalakítása szerkeszthető prezentációs diafilmekké
+* Régebbi PowerPoint formátumú csomagok előkészítése Word-stílusú fájlokból
+* Jelentések vagy javaslatok megosztása örökölt PPT formátumban
+* PowerPoint-kompatibilis prezentációk szállítása régebbi rendszerekhez
+* Értekezletek vagy képzési anyagok létrehozása ODT dokumentumokból
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+* Az ODT dokumentumok automatizált átalakítása PPT formátummá
+* Tömeges exportálás az örökölt PowerPoint rendszerekkel való kompatibilitás érdekében
+* Integráció üzleti prezentációkészítő eszközökbe
+* Szerkeszthető diafilmek dinamikus generálása Word-stílusú adatokból
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

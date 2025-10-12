@@ -54,7 +54,31 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar PPS conv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **OTT naar PPS** produceert **PowerPoint Show-bestanden**, waardoor directe diavoorstellingen van inhoud mogelijk zijn die is afgeleid van sjablonen zonder deze te openen in de bewerkingsmodus.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het maken van kant-en-klare diavoorstellingen van sjablonen
+* Archiveren van sjablonen als alleen-lezen presentaties
+* Delen van presentaties voor externe weergave
+* Voorbereiden van marketing- of trainingsmateriaal in diavoorstellingsformaat
+* Zorgen voor consistente dia-indeling tijdens presentaties
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batchconversie van OTT naar PPS voor presentatiebibliotheken
+* Integratie met presentatiedistributiesystemen
+* Geautomatiseerde creatie van alleen-lezen dia's van sjablonen
+* Pipeline voor het voorbereiden van trainings- en marketingmateriaal
+* Standaardisatie van diavoorstellingen in de hele onderneming
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

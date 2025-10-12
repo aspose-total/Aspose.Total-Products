@@ -47,7 +47,30 @@ PCL 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 XLTX로 변환**은 **프린터 명령어 언어 (PCL)** 문서를 **Excel 템플릿 (XLTX)** 파일로 변환하여 향후 스프레드시트에 일관된 서식과 재사용성을 제공합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 인쇄 레이아웃을 재사용 가능한 Excel 템플릿으로 변환
+* 미리 정의된 스타일을 사용하여 보고서 작성을 간소화
+* 부서 간 문서 일관성 유지
+* 표준화된 보고서 작성을 위한 템플릿 자동 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 비즈니스 보고서를 위한 템플릿 기반 자동화
+* 주기적으로 발생하는 인쇄 보고서를 표준화된 템플릿으로 변환
+* PCL 출력에서 Excel용 디자인 자동으로 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

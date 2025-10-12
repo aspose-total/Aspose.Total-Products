@@ -102,7 +102,27 @@ otherformats: DIF XLSM XLSX EXCEL SXC TSV FODS CSV ODS XLSB XLTM XLT XLS XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-XLAM** מאפשרת להמיר תוכן מסמך ל-**תוסף Excel המאפשר מקרו**, אידיאלי לאוטומציה של משימות גיליון האלקטרוני המקורסות מנתוני טקסט מובנים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תוספי Excel מתבניות מובנות בסגנון Word
+* אוטומציה של זרימות עבודה ב-Excel המופעלות על ידי לוגיקת מסמך
+* הטמעת נוסחאות או מקרוים על סמך הגדרות טקסטואליות
+* יצירת כלים מקרו הניתנים לשימוש מקבצי ODT
+* שיפור היציבות על ידי קישור נתוני Word עם אוטומציה של Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* הפעלת תהליכי יצירת תוסף מקרו ODT-ל-XLAM מאוטומטית
+* שילוב עם מערכות אוטומציה ל-Excel בארגונים
+* יצירת כלים מאפשרי מקרו מתוקן מתוכן מסמך מובנה ODT
+* עיבוד זרימת העבודה לפיתוח מקרו ממסמך ל-Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

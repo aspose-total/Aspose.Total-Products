@@ -121,7 +121,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **PCL ke PPS** mengubah output **Printer Command Language** ke format **PowerPoint Show (.PPS)**, sehingga presentasi siap diputar secara langsung.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah dokumen berbasis PCL menjadi tayangan slide siap disajikan
+* Secara otomatis menghasilkan presentasi laporan untuk ditampilkan
+* Mengirimkan konten PCL sebagai presentasi layar penuh
+* Menjaga tata letak PCL untuk penggunaan presentasi yang tidak dapat diedit
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Pembuatan file .PPS secara otomatis dari laporan PCL berulang
+* Integrasi dengan penjadwalan penerbitan presentasi
+* Mengonversi konten cetak menjadi file presentasi siap tampil
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,27 @@ Setelah mengonversi ODT ke XLT, [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Mengonversi **ODT ke XLT** mengubah data dokumen ke format **template Excel**, memungkinkan pembuatan spreadsheet standar dan tata letak laporan yang konsisten.
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mendesain template Excel dari dokumen teks
+* Menggunakan kembali data dokumen untuk tugas pelaporan berulang
+* Mengonversi formulir dokumen standar menjadi template Excel
+* Menjaga format spreadsheet yang seragam di seluruh tim
+* Memperlancar alur kerja dokumen-ke-template
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+* Generasi template ODT-ke-XLT otomatis
+* Integrasi ke dalam sistem manajemen template perusahaan
+* Ekspor batch data yang diformat untuk digunakan kembali dalam laporan
+* Pipa pembuatan template Excel yang didorong oleh dokumen
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

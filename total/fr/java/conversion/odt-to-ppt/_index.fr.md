@@ -54,7 +54,25 @@ L'API vous permet également de convertir des documents ODT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **ODT en PPT** offre un moyen simple de transformer **les fichiers texte OpenDocument en présentations PowerPoint classiques**, en conservant la structure du texte et la mise en page pour une utilisation immédiate.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Transformer le contenu textuel en diapositives de présentation modifiables
+* Préparer des anciens decks au format PowerPoint à partir de fichiers de style Word
+* Partager des rapports ou des propositions au format PPT hérité
+* Livrer des présentations compatibles avec PowerPoint pour les anciens systèmes
+* Créer des supports de réunion ou de formation à partir de documents ODT
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+* Conversion automatisée de documents ODT au format PPT
+* Exportation par lot pour la compatibilité avec les anciens systèmes PowerPoint
+* Intégration dans les outils de création de présentations commerciales
+* Génération dynamique de diapositives modifiables à partir de données de style Word
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

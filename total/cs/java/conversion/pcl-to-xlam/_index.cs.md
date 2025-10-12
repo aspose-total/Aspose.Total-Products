@@ -47,7 +47,30 @@ Při převodu souboru PCL na XLAM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na XLAM** transformuje výstup z **Printer Command Language** do souborů **Excel Add-In (.XLAM)**, umožňující automatizaci, makra a rozšířenou funkcionalitu tabulek.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření Excel doplňků z šablon dat generovaných tiskem
+* Vkládání automatizační logiky do toků práce se sešity
+* Převádění PCL reportů na opětovně použitelné nástroje pro automatizaci v Excelu
+* Rozšiřování funkcionality tištěných numerických nebo tabulkových obsahů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované generování souborů XLAM z opakujících se výstupů PCL
+* Integrace s podnikovými reportingovými a analytickými potrubími
+* Hromadné vytváření Excel doplňků pro opakující se obchodní úkoly
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

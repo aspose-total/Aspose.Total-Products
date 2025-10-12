@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをPPSMに変換**すると、**プリンターコマンド言語**ファイルが**PowerPointマクロ有効ショー（.PPSM）**形式に変換され、インタラクティブで自動化されたスライドショープレゼンテーションになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PCLファイルをマクロ駆動のスライドショープレゼンテーションに変換する
+* 印刷されたレポートの視覚的な自動化と相互作用の追加
+* 静的な印刷出力から自動再生スライドを作成する
+* 企業プレゼンテーション用のダイナミックなショーを提供する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* データ駆動型プレゼンテーションのためのバッチPPSM生成
+* マクロ有効スライドをビジネスレポートワークフローに統合する
+* インタラクティブなプレゼンテーションコンテンツの自動配信
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

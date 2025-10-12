@@ -102,7 +102,30 @@ otherformats: XLTX XLSB SXC DIF TSV TXT XLSM XLT EXCEL CSV MD FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **PCL ל-XLTM** מאפשרת יצירת **תבניות Excel המופעלות במקרו** ממסמכים מודפסים, שילוב שמירת הפריסה עם היכולת להטמעת לוגיקת אוטומציה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* עיצוב תבניות Excel המופעלות במקרו מתבניות מודפסות
+* הטמעת אוטומציה ניתנת לשימוש בתבניות דוחות
+* הפעלת יצירת מסמכים דינמיים על בסיס תבניות
+* תקנון יצירת גיליונות אלקטרוניים חכמים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת תבניות חכמות מדוחות PCL רגילים
+* אוטומציה של יצור דוחות Excel עם לוגיקת מקרו
+* המרה צפונית של נתוני הדפסה לתבניות עסקיות ניתנות לשימוש מחדש
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,30 @@ API를 사용하면 암호로 보호된 OTT 문서를 PPTX로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 PPTX로 변환**은 **OpenDocument Text Templates (.OTT)**을 **PowerPoint Open XML Presentation (.PPTX)**으로 변환하여 현대적이고 편집 가능한 슬라이드 덱을 만듭니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 텍스트 템플릿을 PPTX 슬라이드 덱으로 변환
+* OTT 템플릿에서 서식과 레이아웃 보존
+* 비즈니스, 교육 또는 교육을 위한 프레젠테이션 사용자 정의
+* 팀과 공유할 수 있는 편집 가능한 현대적인 PowerPoint 프레젠테이션 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 또는 교육용 일괄 OTT-to-PPTX 변환
+* 콘텐츠 자동화 시스템 통합
+* 재사용 가능한 템플릿에서 현대적인 슬라이드 덱의 예약 생성
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

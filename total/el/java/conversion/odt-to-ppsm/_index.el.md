@@ -54,7 +54,27 @@ otherformats: PPSX PPSM PPTX PPS POTM POTX PPT POWERPOINT PPTM POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε PPSM** επιτρέπει τη δημιουργία **παρουσιάσεων με δυνατότητα μακροενεργοποίησης** από εγγράφα κειμένου, ιδανική για τη δημιουργία διαδραστικών και αυτοματοποιημένων εμπειριών παρουσίασης.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Δημιουργία αυτοματοποιημένων παρουσιάσεων με λογική μακροενέργειας
+* Μετατροπή δομημένων δεδομένων Word σε διαδραστικές παρουσιάσεις
+* Επιτάχυνση της αυτοματοποίησης από αναφορά σε παρουσίαση
+* Ενσωμάτωση δυναμικής συμπεριφοράς παρουσίασης μέσα στις διαφάνειες
+* Προετοιμασία επαγγελματικών ροών εργασίας που παράγουν παρουσιάσεις με δυνατότητα μακροενεργοποίησης
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+* Αυτοματοποιημένες ροές εργασίας παρουσιάσεων ODT σε PPSM
+* Μαζική δημιουργία παρουσιάσεων με δυνατότητα μακροενέργειας από αρχεία ODT
+* Ενσωμάτωση σε επιχειρησιακά συστήματα αυτοματοποίησης και αναφοράς
+* Δημιουργία παρουσιάσεων με δυναμικό περιεχόμενο
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

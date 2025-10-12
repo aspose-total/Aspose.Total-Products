@@ -54,7 +54,27 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar PPT conv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Het omzetten van **ODT naar PPT** biedt een eenvoudige manier om **OpenDocument-tekstbestanden om te zetten in klassieke PowerPoint-presentaties**, met behoud van tekststructuur en lay-out voor direct gebruik.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Tekstuele inhoud omzetten in bewerkbare presentatieslides
+* Oude PowerPoint-indelingen voorbereiden vanuit Word-stijl bestanden
+* Rapporten of voorstellen delen in een verouderd PPT-formaat
+* PowerPoint-compatibele presentaties leveren voor oudere systemen
+* Vergader- of trainingsmateriaal maken vanuit ODT-documenten
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde conversie van ODT-documenten naar PPT-formaat
+* Batchexport voor compatibiliteit met verouderde PowerPoint-systemen
+* Integratie in tools voor het maken van zakelijke presentaties
+* Dynamische generatie van bewerkbare slides uit Word-stijl data
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

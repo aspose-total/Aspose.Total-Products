@@ -57,7 +57,24 @@ APIを使用すると、必要に応じて出力EMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## PCLをEMZに変換
+
+**PCL to EMZ**変換は、**プリンターコマンド言語**グラフィックスを**Enhanced Metafile (Compressed) – EMZ**形式に圧縮して変換し、スケーラブルなグラフィックスアプリケーションやMicrosoft Officeでの画像を最適化します。
+
+## 主な使用事例
+
+* Officeやデザインソフトウェアにベクターベースの印刷グラフィックスを埋め込む
+* ドキュメントシステム用に印刷された画像のファイルサイズを削減する
+* PCLグラフィックスのスケーラビリティと品質を保持する
+* ドキュメント自動化やテンプレート用の圧縮アセットを準備する
+
+## 自動化シナリオ
+
+* 印刷生成された図をEMZ画像に一括変換
+* 最適化された画像ストレージのためのコンテンツ管理システムとの統合
+* ドキュメント公開のための圧縮グラフィックスの自動生成
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

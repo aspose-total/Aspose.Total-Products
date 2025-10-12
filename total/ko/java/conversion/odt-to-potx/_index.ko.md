@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 ODT 문서를 POTX로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 POTX로 변환**하면 텍스트 문서를 **현대적인 PowerPoint 템플릿 파일**로 변환할 수 있어서 기업 브랜딩과 프레젠테이션 일관성을 유지하는 데 이상적입니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 문서에서 프레젠테이션 템플릿 작성
+* 구조화된 비즈니스 아웃라인을 브랜드화된 슬라이드로 변환
+* 팀 협업을 위한 프레젠테이션 표준 준비
+* 회사 전체적인 프레젠테이션 프레임워크 작성
+* 워드 콘텐츠로부터 디자인 준비된 PowerPoint 템플릿 생성
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* ODT 문서를 PPTX 템플릿으로 자동 변환
+* 기업 문서-프레젠테이션 파이프라인 통합
+* 비즈니스 문서로부터 PowerPoint 테마 일괄 생성
+* 일관된 브랜딩을 위한 콘텐츠 중심 PowerPoint 템플릿 작성
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى DOTM
+
+يُحوّل تحويل **PCL إلى DOTM** التخطيطات المطبوعة إلى **قوالب Word ممكّنة للماكرو**, مجمعًا بين الحفاظ على التنسيق مع إمكانيات التشغيل التلقائي المضمنة لتوليد المستندات المتقدمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء قوالب ذكية مع ماكروهات من مستندات PCL
+* تلقائي توليد التقارير والمهام المتكررة
+* الحفاظ على توحيد التخطيط مع الوظائف الديناميكية
+* تضمين النصوص لمهام ملء النماذج والتحقق
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* إنشاء قوالب مؤتمتة على مستوى المؤسسة من مصادر الطباعة
+* معالجة دفعية لملفات PCL إلى قوالب ممكّنة للماكرو
+* دمجها في أنظمة التشغيل التلقائي لـ Word أو أنظمة التقارير
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

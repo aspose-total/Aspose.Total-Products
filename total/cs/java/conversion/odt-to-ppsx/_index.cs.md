@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na PPSX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převádění **ODT na PPSX** převádí textové dokumenty do **moderních prezentací ve formátu slideshow**, zachovává formátování, strukturu a vizuální prvky pro okamžité přehrávání.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření finálních prezentací přímo z textového obsahu
+* Dodávání upravených zpráv jako připravených prezentací
+* Sdílení obsahu prezentace bez editovatelných zdrojů
+* Příprava konferenčních nebo pracovních prezentací z dokumentů
+* Distribuce finálních verzí prezentací zpráv
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatizovaná generace prezentací ODT na PPSX
+* Hromadná konverze pro masové publikování prezentací
+* Integrace do firemních systémů pro reportování
+* Automatizace převodu dokumentů na prezentace pro organizace
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

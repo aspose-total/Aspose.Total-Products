@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 ODT 문서를 PPSM로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODT를 PPSM으로 변환**하면 텍스트 문서에서 **매크로가 활성화된 슬라이드쇼 생성**이 가능해져 상호작용적이고 자동화된 프레젠테이션 경험을 만들 수 있습니다.
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 매크로 논리를 활용한 자동화된 프레젠테이션 제작
+* 구조화된 워드 데이터를 상호작용적인 슬라이드쇼로 변환
+* 보고서를 슬라이드쇼로 자동화하는 프로세스 간소화
+* 슬라이드 내에서 동적 프레젠테이션 동작 삽입
+* 매크로가 활성화된 프레젠테이션을 출력하는 비즈니스 워크플로우 준비
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+* ODT를 PPSM으로 자동화된 프레젠테이션 워크플로우로 변환
+* ODT 파일에서 일괄 매크로가 활성화된 슬라이드쇼 생성
+* 기업 자동화 및 보고 시스템 통합
+* 동적 콘텐츠 중심의 프레젠테이션 생성
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

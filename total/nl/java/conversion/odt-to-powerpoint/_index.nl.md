@@ -54,7 +54,25 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar POWERPOI
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **ODT naar PowerPoint** zet tekstrijke documenten om in **boeiende presentatieslides**, waardoor efficiënte communicatie van belangrijke ideeën mogelijk is tijdens vergaderingen, in klaslokalen en bij bedrijfspresentaties.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van geschreven rapporten in interactieve presentaties
+* Visualiseren van op tekst gebaseerde inhoud voor belanghebbendencommunicatie
+* Het maken van professionele dia-decks van beleids- of projectdocumenten
+* Voorbereiden van educatieve presentaties op basis van colleges
+* Het omzetten van Word-stijl inhoud in presentatie visuals
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde ODT-naar-PowerPoint conversie voor bedrijfsworkflows
+* Integratie in systemen voor geautomatiseerde documentpresentaties
+* Batch dia-generatie voor training of rapportage
+* Inhoud-naar-dia-transformatie voor kennisdeling binnen bedrijven
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

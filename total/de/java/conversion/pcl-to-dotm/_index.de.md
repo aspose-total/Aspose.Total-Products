@@ -130,7 +130,24 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Funktionen
+
+Konvertierung von **PCL in DOTM** wandelt gedruckte Layouts in **makrofähige Word-Vorlagen** um, die Formatierung beibehalten und automatisierte Funktionen für die erweiterte Dokumentenerstellung bieten.
+
+## Schlüsselanwendungsfälle
+
+* Erstellung intelligenter Vorlagen mit Makros aus PCL-Dokumenten
+* Automatisierung der Berichterstellung und wiederkehrender Aufgaben
+* Aufrechterhaltung der Layoutkonsistenz mit dynamischer Funktionalität
+* Einbetten von Skripten für Formularausfüll- und Validierungsaufgaben
+
+## Automatisierungsszenarien
+
+* Unternehmensweite Erstellung automatisierter Vorlagen aus Druckquellen
+* Stapelverarbeitung von PCL-Dateien in makrofähige Vorlagen
+* Integration in Word-Automatisierungs- oder Berichtssysteme
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

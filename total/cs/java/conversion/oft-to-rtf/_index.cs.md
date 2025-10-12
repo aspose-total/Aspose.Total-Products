@@ -30,7 +30,33 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **OFT na RTF** exportuje šablony Outlooku do formátu **Rich Text Format**, zachovává základní formátování a rozložení a zajišťuje širokou kompatibilitu mezi textovými procesory.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření lehkých, univerzálně čitelných dokumentů
+* Archivace e-mailových šablon ve formátu, který lze upravovat
+* Extrahování textu pro dokumentaci a analýzu
+* Kompatibilita mezi platformami pro obsah šablony
+* Rychlé úpravy v libovolném textovém nebo textovém procesoru
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná konverze OFT na RTF pro jednoduché opětovné použití textu
+* Integrace s archivačními systémy dokumentů
+* Lehké distribuční kanály obsahu
+* Hromadný export komunikačních šablon do formátu RTF
+* Migrace e-mailových šablon pro zastaralé aplikace
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,30 @@ Während Sie eine PCL-Datei in XLT konvertieren, können Sie Ihrem Ausgabe-XLT-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL zu XLT** Konvertierung erstellt **Excel-Template**-Dateien aus **Printer Command Language**-Dokumenten, sodass strukturierte Drucklayouts für die konsistente Erstellung von Berichten in Excel wiederverwendet werden können.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Entwurf von Excel-Vorlagen basierend auf gedruckten Berichtsformaten
+* Aufrechterhaltung konsistenter Layouts und Stylings für Berichte
+* Standardisierung von Geschäftsdokumentationsvorlagen
+* Beschleunigung der Berichtseinrichtung mit vordefinierten druckbasierten Vorlagen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierung der Vorlagenerstellung aus wiederkehrenden PCL-Ausgaben
+* Erstellung wiederverwendbarer Vorlagen für die automatisierte Berichtserstellung
+* Integration von Druck-zu-Vorlagen-Workflows für Organisationen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

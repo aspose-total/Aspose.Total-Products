@@ -61,7 +61,27 @@ otherformats: XLTM XLSM XLSX XLT XLS DIF EXCEL SXC ODS XLSB FODS XLAM TSV XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε CSV** μετατρέπει πίνακες κειμένου εγγράφων σε **τιμές χωρισμένες με κόμμα**, επιτρέποντας τη δομημένη αναπαράσταση δεδομένων για υπολογιστικούς πίνακες, βάσεις δεδομένων ή εργαλεία αυτοματισμού.
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Εξαγωγή πίνακα δεδομένων από κείμενα εγγράφων για ανάλυση
+* Εισαγωγή δεδομένων εγγράφου σε υπολογιστικούς πίνακες ή εργαλεία BI
+* Μετατροπή μορφοποιημένου κειμένου σε απλές γραμμές και στήλες δεδομένων
+* Προετοιμασία συνόλων δεδομένων για μηχανική μάθηση ή ροές αυτοματισμού
+* Βελτίωση των διαδικασιών αναφοράς βασισμένων σε έγγραφα
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτόματη μετατροπή ODT σε CSV για αγωγούς δεδομένων
+* Εξαγωγή πίνακα εγγράφου μαζικά για συστήματα αναλυτικής επεξεργασίας
+* Απρόσκοπτη ενσωμάτωση στις διαδικασίες εισαγωγής στη βάση δεδομένων
+* Συγχρονισμός δεδομένων επιπέδου επιχείρησης από έγγραφα σε υπολογιστικούς πίνακες
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

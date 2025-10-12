@@ -61,7 +61,33 @@ OTT를 EXCEL로 변환한 후 [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 EXCEL로 변환**하면 OpenDocument Text Templates를 **Microsoft Excel 워크북**으로 표현할 수 있어 스프레드시트 기반의 분석, 보고 및 데이터 조작이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 텍스트 템플릿에서 Excel 보고서 생성
+* 메일 병합 또는 데이터 기반 통신 작성
+* 템플릿 콘텐츠의 스프레드시트 분석
+* 템플릿 텍스트 및 테이블을 구조화된 시트로 변환
+* Excel 형식의 템플릿 아카이빙 및 관리
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 일괄 처리용 자동 OTT-to-EXCEL 변환
+* 금융, CRM 또는 ERP 시스템과의 통합
+* 여러 템플릿에서 동적 스프레드시트 생성
+* 보고서 또는 분석 파이프라인을 위한 데이터 전처리
+* 템플릿 라이브러리로부터의 중앙 집중화된 Excel 저장소
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

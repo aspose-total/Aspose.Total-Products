@@ -61,7 +61,33 @@ OTTをXLSBに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをXLSBに変換**すると、**Excel Binary Workbookファイル**が生成され、OpenDocument Text Templatesから派生したスプレッドシートテンプレートの読み込みが高速化され、ファイルサイズが削減され、パフォーマンスが向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 大規模なテンプレートから派生したスプレッドシートの最適化
+* 複雑なExcelモデルのパフォーマンス向上
+* バイナリ形式のテンプレートデータのアーカイブ
+* Excelでのテンプレートコンテンツの効率的な配布
+* スプレッドシートの自動化と分析のサポート
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 高性能ワークフロー向けのバッチOTTからXLSBへの変換
+* Excel処理パイプラインの自動化との統合
+* テンプレートから派生したスプレッドシートの中央集中型バイナリアーカイブ
+* 大規模なExcel分析のためのテンプレートの前処理
+* テンプレートベースのスプレッドシート自動化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

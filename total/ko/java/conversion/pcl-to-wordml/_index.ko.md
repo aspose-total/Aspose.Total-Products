@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 WORDML로** 변환은 **프린터 명령어 언어** 문서를 **WordProcessingML (WordML)** 형식으로 변환하여 고급 데이터 조작 및 문서 자동화를 위한 XML 기반 구조를 제공합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 프린트 레이아웃을 XML 기반 Word 형식으로 변환
+* WordML을 통한 구조화된 문서 조작 가능하게 함
+* XML 기반 워크플로우와 Word 문서 통합
+* 메타데이터 기반 문서 자동화 용이화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PCL 프린트 파일에서 WordML 문서의 자동 생성
+* 문서 관리 및 XML 워크플로우 통합
+* Word 처리 API와의 상호 운용성을 위한 대량 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

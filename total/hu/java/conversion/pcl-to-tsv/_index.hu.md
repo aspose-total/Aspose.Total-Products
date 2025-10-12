@@ -47,7 +47,30 @@ A PCL-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL to TSV konverzió** átalakítja a **Printer Command Language** kimeneteit **Tabulátorral Elválasztott Értékek** fájlokká. Ez a formátum ideális tiszta, strukturált importáláshoz táblázatkezelőkbe vagy olyan szoftverrendszerekbe, amelyek tabulátorral elválasztott adatokra támaszkodnak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+* Táblázatos tartalom kinyerése nyomtatott formátumú adatokból
+* TSV adatkészletek generálása PCL számlákból vagy rekordokból
+* TSV kimenetek táplálása adatmigrációs vagy ETL rendszerekbe
+* Strukturált nyomtatott adatok megosztása vállalati rendszerek között
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+* Nyomtatott archívumok ütemezett kinyerése TSV formátumba
+* Integráció adatcsatornákkal riportáló műszerfalakhoz
+* Automatikus átalakítás nyomtatásról strukturált, analitikára kész adatokká
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

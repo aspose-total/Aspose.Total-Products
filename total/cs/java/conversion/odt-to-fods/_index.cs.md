@@ -61,7 +61,27 @@ Po převodu ODT do FODS vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na FODS** umožňuje transformaci textových dokumentů do **souborů se strukturovanými daty ve formátu Flat XML tabulky**, zachovávající strukturovaná data v otevřeném a snadno zpracovatelném formátu.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění textových tabulek do strukturovaných souborů sešitů
+* Příprava dat založených na dokumentech pro systémy založené na XML
+* Archivace zpráv ve formátu otevřené tabulky
+* Umožnění interoperability mezi textovými procesory a sešity
+* Sdílení datově bohatých dokumentů jako lehkých souborů FODS
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatický převod ODT na FODS v pracovních postupech zpracování dat
+* Integrace do systémů správy otevřených dokumentů
+* Hromadný převod dat založených na textu do formátů kompatibilních se sešity
+* Export dat založených na XML pro státní nebo podnikové hlášení
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

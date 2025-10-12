@@ -102,7 +102,27 @@ otherformats: XLS FODS XLAM XLT XLSM EXCEL XLSB XLSX SXC XLTX TSV DIF XLTM CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-ODS** ממירה נתוני מסמך לגיליונות OpenDocument, אידיאליים לניתוח טבלאות, חישובים וטקסט מובנה בתוך גיליונות נתונים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ תוכן טבלאי ממסמכי ODT לתוך גיליונות נתונים
+* ניהול נתונים מספריים מוטבעים בדוחות
+* המרת טקסט מובנה לצורת גיליון נתונים אנליטי
+* הכנת סטים של נתונים לניתוח עסקי או פיננסי
+* יצירת גיליונות נתונים ניתנים לעריכה ממסמכים מעוצבים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרת ODT ל-ODS אוטומטית לדוחות עסקיים
+* שילוב עם ניתוחי נתונים ותהליכי חשבונאות
+* עיבוד רצפי של נתונים מבוססי מסמך לגיליונות נתונים
+* המרת דוח דינמי לגיליון נתונים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

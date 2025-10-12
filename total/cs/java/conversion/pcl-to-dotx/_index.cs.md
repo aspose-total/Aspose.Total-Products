@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **PCL na DOTX** převádí soubory **Printer Command Language** do formátu **Šablona Wordu (.DOTX)**, ideální pro udržení konzistence designu v opakovaně použitelných šablonách bez maker.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Návrh standardizovaných dokumentových šablon z tiskových rozvržení
+* Zjednodušení firemního brandingu pomocí šablon Wordu
+* Vytváření upravitelných a opakovaně použitelných šablon pro budoucí zprávy
+* Převádění statického tiskového obsahu do flexibilních návrhů dokumentů
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická konverze šablon z tiskových zpráv do formátu DOTX
+* Integrace do systémů generování dokumentů pro konzistentní výstup
+* Vytváření firemních šablon pro zprávy na úrovni podniku
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

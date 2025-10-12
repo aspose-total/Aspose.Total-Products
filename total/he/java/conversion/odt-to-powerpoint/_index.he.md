@@ -100,7 +100,27 @@ otherformats: PPSM POTM PPT POT PPS PPTM PPSX PPTX ODP POTX CSV DIF FODS ODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-PowerPoint** ממירה מסמכים עשירי-טקסט ל **שקפי מצגת מרתקים**, מאפשרת תקשורת יעילה של רעיונות מרכזיים בפגישות, חדרי שיעור והצגות תדמית בחברות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת דוחות כתובים למצגות אינטראקטיביות
+* ויזואליזציה של תוכן מבוסס טקסט לתקשורת עם צדדים על כוונות
+* יצירת מצגות מקצועיות ממסמכי מדיניות או פרויקטים
+* הכנת מצגות לימודיות מהערות הרצאה
+* המרת תוכן בסגנון Word לויזואלים של מצגת
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרת ODT ל-PowerPoint אוטומטית לזרימות עבודה עסקיות
+* שילוב במערכות אוטומציה להצגת מסמכים
+* יצירת שקפיות בצורה צמודה לאוטומציה לאימונים או דיווחים
+* המרת תוכן לויזואלים לשיתוף ידע בארגון
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

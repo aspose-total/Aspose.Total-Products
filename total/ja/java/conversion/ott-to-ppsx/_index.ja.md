@@ -54,7 +54,28 @@ APIを使用すると、パスワードで保護されたOTTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをPPSXに変換**すると、**OpenDocument Text Templates (.OTT)** を再生可能なプレゼンテーション用の**PowerPoint Open XML Show (.PPSX)** に変換します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* テキストテンプレートをフルスクリーンプレゼンテーションとして配信
+* 企業のOTTテンプレートをスライドショー形式に変換
+* コンテンツを編集できないPowerPointスライドとして共有
+* ドキュメントテンプレートからデザインとフォーマットを保持
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レポートやトレーニングのためのバッチOTTからPPSXへの変換
+* プレゼンテーション配信ワークフローとの統合
+* ドキュメントテンプレートから再生可能なスライドの定期的な作成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

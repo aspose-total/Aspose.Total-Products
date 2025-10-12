@@ -121,7 +121,32 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى PPSM
+
+يُحول تحويل **PCL إلى PPSM** ملفات **لغة أوامر الطابعة** إلى تنسيق **PowerPoint Macro-Enabled Show (.PPSM)** لعروض تقديمية تفاعلية ومُتلقِّنة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل ملفات PCL إلى عروض تقديمية تعتمد على الماكرو
+* إضافة الأتمتة والتفاعلية إلى الرسوم البيانية في التقارير المطبوعة
+* إنشاء شرائح تشغيل آلي من الإخراج الطباعي الثابت
+* تقديم عروض ديناميكية للعروض التقديمية الشركية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد PPSM بالدُفعات لعروض تقديمية تعتمد على البيانات
+* دمج الشرائح التي تدعم الماكرو في سير العمل الخاص بتقارير الأعمال
+* أتمتة تقديم محتوى العروض التقديمية التفاعلية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,30 @@ otherformats: MD SXC TXT XLT XLAM XLSB XLTM XLSM TSV XLTX FODS CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **PCL ל-ODS** משלבת נתונים מקבצי **שפת פקודות המדפסת (PCL)** לתבנית **גיליון נתונים של OpenDocument (.ODS)** לניתוח מובנה בכלים כמו **LibreOffice Calc**.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת דוחות הדפסה טבלאיים לגיליונות אלקטרוניים
+* אפשרות לניתוח נתונים על טבלאות שנוצרו ב-PCL
+* ייבוא של תוכן מובנה ב-PCL לתהליכי חשבונאות או ניתוח
+* יצירת גיליונות עריכים, מבוססי נוסחאות, מנתוני הדפסה
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה מתוזמנת של דוחות PCL לחוברות עבודה בפורמט ODS
+* צינורות חילוץ נתונים הממירים פלט הדפסה לפורמטי גיליון אלקטרוני
+* שילוב עם מערכות ERP או פיננסיות לצורך קליטת נתונים אוטומטית
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

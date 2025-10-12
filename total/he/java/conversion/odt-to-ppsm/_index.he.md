@@ -100,7 +100,27 @@ otherformats: PPSX ODP PPTX PPS POTM POTX PPT POWERPOINT PPTM POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-PPSM** מאפשרת **יצירת מצגות מרובות מאקרו** ממסמכי טקסט, אידיאלי ליצירת חוויות מצגת אינטראקטיביות ואוטומטיות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת מצגות אוטומטיות עם לוגיקת מאקרו
+* המרת נתוני Word מובנים למצגות אינטראקטיביות
+* קיצור דרך באוטומציה של דוחות למצגות
+* הטמעת התנהגות מצגת דינמית בתוך השקפים
+* הכנת זרימות עבודה עסקיות שמייצאות מצגות מרובות מאקרו
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* זרימי עבודה אוטומטיים מ-ODT ל-PPSM
+* יצירת מצגות מרובות מאקרו בצורה צפופה מקבצי ODT
+* שילוב במערכות אוטומציה ודיווח עסקיות
+* יצירת מצגות עם תוכן דינמי
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

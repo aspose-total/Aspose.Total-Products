@@ -121,7 +121,28 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PCL a PPSM** cambia los archivos de **Lenguaje de Comando de Impresora** a formato de **Presentación Habilitada para Macros de PowerPoint (.PPSM)** para presentaciones interactivas y automatizadas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* Convertir archivos PCL en presentaciones de diapositivas con macros
+* Agregar automatización e interactividad a visuales de informes impresos
+* Crear diapositivas de reproducción automatizada a partir de salidas de impresión estáticas
+* Entregar shows dinámicos para presentaciones corporativas
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* Generación por lotes de PPSM para presentaciones basadas en datos
+* Integración de diapositivas habilitadas para macros en flujos de trabajo de informes comerciales
+* Automatización de la entrega de contenido de presentación interactivo
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

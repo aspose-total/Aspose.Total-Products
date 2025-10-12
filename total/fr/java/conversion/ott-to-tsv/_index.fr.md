@@ -61,7 +61,31 @@ Après avoir converti OTT en TSV, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversion d'**OTT en TSV** exporte des modèles de texte OpenDocument en **valeurs séparées par des tabulations**, utile pour l'importation de données structurées, l'analyse et le traitement de feuilles de calcul.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Extraction de données pour des rapports tabulaires
+* Préparation de modèles pour l'importation ou l'automatisation de feuilles de calcul
+* Partage de contenu de modèle dans un format tabulaire léger
+* Archivage de texte structuré pour l'analyse ou la journalisation
+* Prise en charge de l'échange de données interplateformes
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Pipelines OTT-vers-TSV automatisés pour les rapports d'entreprise
+* Exportation par lot pour l'analyse et les flux de documents
+* Intégration avec des systèmes pilotés par les données pour le traitement de modèles
+* Génération d'archives TSV pour les référentiels de contenu centralisés
+* Automatisation des flux de travail pour l'extraction de contenu tabulaire
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

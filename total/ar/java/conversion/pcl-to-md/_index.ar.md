@@ -47,7 +47,30 @@ otherformats: XLTX XLAM FODS TSV MD ODS XLT DIF XLTM SXC XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**تحويل PCL إلى MD** يقوم بتحويل مستندات **لغة أوامر الطابعة** إلى ملفات **Markdown (.MD)**، مما يوفر تنسيقًا نظيفًا وقابلًا للقراءة من قبل البشر وصديقًا للويب للتوثيق أو التأريش.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير النتائج المطبوعة بتنسيق PCL إلى Markdown لتكاملها في مواقع الويب
+* إعداد وثائق خفيفة من تقارير الطباعة
+* تنظيم البيانات المعتمدة على الطباعة للمطورين والفرق التقنية
+* أرشفة ملفات PCL الغنية بالنصوص في تنسيقات صديقة للمصادر المفتوحة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد تلقائي لوثائق MD من تقارير PCL بالجملة
+* دمج النتائج بتنسيق Markdown مع أنظمة المحتوى المعتمدة على Git
+* أتمتة استخراج النصوص من ملفات PCL لسير العمل للنشر على الإنترنت
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

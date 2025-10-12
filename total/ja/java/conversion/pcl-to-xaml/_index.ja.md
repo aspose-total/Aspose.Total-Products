@@ -135,7 +135,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをXAMLに変換**は、**プリンターコマンド言語**ファイルを**XAML（拡張可能なアプリケーションマークアップ言語）**に変換し、WindowsアプリケーションでのベクターベースのグラフィックスやUI要素を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* WPFやUWPアプリケーションでのPCLグラフィックスの再利用
+* 印刷レイアウトをインタラクティブなUIコンポーネントに変換
+* Windowsソフトウェアにスケーラブルなベクターグラフィックスを埋め込む
+* デジタルアプリケーション統合のための印刷デザインの保存
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* アプリケーション開発のための自動PCLからXAMLへの変換
+* UIデザインとワークフロー自動化への統合
+* PCLアーカイブのベクターベースXAMLアセットへのバッチ変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,33 @@ APIを使用すると、パスワードで保護されたOTTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをPOTに変換**すると、OpenDocument Text Templatesを**PowerPointテンプレートファイル**に変換して、テキストテンプレートコンテンツから再利用可能なスライドレイアウトを作成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* テキストコンテンツから再利用可能なPowerPointテンプレートを生成する
+* 企業プレゼンテーション形式の標準化
+* テンプレートベースのスライドデザインのアーカイブ
+* 共同作業によるスライド作成の容易化
+* トレーニングやマーケティング用のデッキの準備
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業向けテンプレートライブラリの自動OTTからPOTへの変換
+* 複数のOTTファイルからのプレゼンテーションテンプレートの一括作成
+* プレゼンテーション管理ワークフローとの統合
+* テンプレートコンテンツのスライドデッキへの動的挿入
+* 企業全体でのスライドテンプレートの標準化
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

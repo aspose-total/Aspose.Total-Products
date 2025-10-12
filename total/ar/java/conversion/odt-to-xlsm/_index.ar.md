@@ -61,7 +61,27 @@ otherformats: XLTM XLSX XLT FODS EXCEL TSV XLTX XLSM XLSB XLS SXC ODS XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى XLSM** يسمح بتصدير بيانات المستند إلى ملفات Excel مع ماكرو، داعمة للتشغيل التلقائي والعمليات المتقدمة في جداول البيانات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير جداول ODT للاستخدام في أوراق Excel مدعومة بـ VBA
+* تمكين التشغيل التلقائي القائم على الماكرو من بيانات المستند
+* تضمين الصيغ والنصوص المخصصة في الملفات المصدرة
+* إعداد تقارير تفاعلية استنادًا إلى المدخلات النصية
+* ربط بيانات المستند بأنظمة التشغيل التلقائي في Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+* تحويل المستندات تلقائيًا إلى تحويلات Excel قائمة على الماكرو
+* دمج تصديرات ODT في أنظمة تشغيل Excel المتقدمة
+* توليفة توليف XLSM لتقارير الأعمال الديناميكية
+* ربط المحتوى النصي بأنظمة تشغيل المهام القائمة على جداول البيانات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,27 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na POTX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Převod **ODT na POTX** umožňuje transformaci textových dokumentů do **moderních šablon PowerPointu**, ideálních pro udržení firemního brandingu a konzistence prezentací.
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření šablon prezentací z písemné dokumentace
+* Převádění strukturovaných obchodních nástinů do značkových snímků
+* Příprava standardů prezentací pro týmovou spolupráci
+* Vytváření firemních prezentčních rámců
+* Generování připravených designových šablon PowerPointu z obsahu Wordu
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+* Automatizovaný převod dokumentů ODT do šablon PPTX
+* Integrace do podnikových potrubí dokumentace k prezentacím
+* Hromadná generace témat PowerPointu z obchodních dokumentů
+* Vytváření obsahem řízených šablon PowerPointu pro konzistentní branding
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 OTT로 변환**은 **프린터 명령어 언어** 출력을 **OpenDocument Text Template (.OTT)** 형식으로 변환하여 **LibreOffice Writer**에서 표준 문서 템플릿을 만드는 것입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PCL 양식에서 재사용 가능한 문서 템플릿 작성
+* 서신용 표준 비즈니스 레이아웃 생성
+* PCL 헤더나 보고서를 편집 가능한 템플릿으로 변환
+* 일관된 서식으로 오픈 문서 워크플로 지원
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 인쇄 디자인 시스템에서의 자동 OTT 생성
+* 기업 콘텐츠 작성 워크플로 통합
+* 문서 재사용을 위해 인쇄된 템플릿 일괄 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

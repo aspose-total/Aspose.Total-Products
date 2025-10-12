@@ -47,7 +47,30 @@ Při převodu souboru PCL na XLT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Převod PCL na XLT** vytváří soubory **šablon Excelu** z dokumentů ve formátu **Printer Command Language**, což umožňuje znovupoužití strukturovaných tiskových rozvržení pro konzistentní tvorbu zpráv v Excelu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Návrh šablon Excelu na základě formátů tištěných zpráv
+* Udržování konzistentního rozložení a stylu pro zprávy
+* Standardizace šablon obchodní dokumentace
+* Zrychlení nastavení zpráv s předdefinovanými tiskovými šablonami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizace generování šablon z opakujících se výstupů PCL
+* Vytváření opakovaně použitelných šablon pro automatické vyplňování zpráv
+* Integrování pracovních postupů tisku do šablon pro organizace
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

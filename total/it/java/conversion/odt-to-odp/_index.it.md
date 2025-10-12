@@ -54,7 +54,27 @@ L'API consente inoltre di convertire documenti ODT protetti da password in ODP. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertire **ODT in ODP** consente una trasformazione fluida dei **documenti di testo in diapositive di presentazione**, ideale per visualizzare report scritti, riassunti o materiali educativi.
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Trasformare documenti strutturati in presentazioni di diapositive
+* Convertire appunti delle lezioni o report in riassunti visivi
+* Preparare diapositive per presentazioni in aula o aziendali
+* Creare formati visivi accattivanti da file ODT
+* Semplificare la conversione da testo a presentazione per formatori o relatori
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+* Creazione automatizzata di presentazioni ODT-to-ODP
+* Integrazione con flussi di lavoro di produttività office
+* Trasformazioni batch da documento a presentazione
+* Generazione dinamica di diapositive dal contenuto strutturato del documento
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

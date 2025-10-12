@@ -121,7 +121,30 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل **PCL إلى OTP** يحول ملفات **لغة أوامر الطابعة** إلى تنسيق **قالب عرض OpenDocument (.OTP)** لإنشاء قوالب شرائح قابلة لإعادة الاستخدام.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصميم قوالب العروض التقديمية من تخطيطات PCL
+* إنشاء قوالب شرائح مميزة للاستخدام التجاري
+* تحويل الرسوم البيانية الشركية المطبوعة إلى قوالب OTP قابلة للتحرير
+* تبسيط إعادة استخدام التصميم عبر الأقسام
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء قوالب آليًا من المواد الطباعية القياسية
+* دمجها مع سير العمل لإنشاء العروض التقديمية
+* إنشاء قوالب شرائح قابلة لإعادة الاستخدام من وثائق الطباعة الشركية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

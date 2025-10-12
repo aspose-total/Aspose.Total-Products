@@ -54,7 +54,35 @@ otherformats: PPTX PPTM PPS POTM POTX PPSX POWERPOINT POT PPT PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى ODP
+
+يُحول تحويل **OTT إلى ODP** قوالب OpenDocument Text إلى **ملفات عرض OpenDocument**، مما يمكن من إعادة استخدام محتوى قوالب البريد الإلكتروني لعروض الشرائح والعروض التقديمية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل القوالب النصية إلى شرائح عرض
+* أرشفة القوالب كمحتوى عرض قابل للتحرير
+* إعادة استخدام المحتوى لعروض التدريب أو التسويق
+* إنشاء عروض تقديمية بالتعاون من بيانات القالب
+* الحفاظ على العلامة التجارية المتسقة في العروض التقديمية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل OTT إلى ODP تلقائيًا لمعالجة الدفعة
+* دمجه مع سير العمل لإدارة العروض التقديمية
+* إنشاء شرائح من مكتبات القوالب للتدريب
+* إدراج محتوى القالب الديناميكي في العروض التقديمية
+* أتمتة تحويل القالب إلى عرض تقديمي على مستوى المؤسسة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

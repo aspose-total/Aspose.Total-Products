@@ -100,7 +100,27 @@ otherformats: POTX POTM PPT POT PPTM PPTX PPSX ODP PPSM POWERPOINT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-PPS** מאפשרת **יצירת מצגות ישירות** ממסמכי טקסט, ומתאימה במיוחד למסירת תוכן מוכן להצגה ללא עריכה נוספת.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת קבצי מצגות מיידיים מדוחות או סיכומים
+* מסירת מידע מבוסס טקסט בפורמט מצגת
+* הכנת מצגות אוטומטיות לפגישות או אירועים
+* המרת מסמכי סגנון Word למצגות רצות עצמית
+* עיצוב זריז של תהליכי הצגה חינוכית או שיווקית
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* יצירת מצגות יצירתיות ODT-ל-PPS
+* שילוב עם מערכות פרסום מסמכים
+* עיבוד צורת עצמית של מצגות מבוססות טקסט
+* יצירת שקופיות מוכנות להצגה מתוך תוכן מובנה
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,30 @@ L'API vous permet également de convertir des documents OTT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **OTT en PPTX** convertit les **modèles de texte OpenDocument (.OTT)** en **Présentation PowerPoint Open XML (.PPTX)**, créant des diapositives modernes et modifiables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Transformer des modèles de texte en diapositives PPTX
+* Préserver la mise en forme et la mise en page des modèles OTT
+* Personnaliser les présentations pour les affaires, l'éducation ou la formation
+* Partager des présentations PowerPoint modernes et modifiables avec des équipes
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en masse d'OTT en PPTX pour un usage professionnel ou éducatif
+* Intégration avec des systèmes d'automatisation de contenu
+* Création planifiée de diapositives modernes à partir de modèles réutilisables
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

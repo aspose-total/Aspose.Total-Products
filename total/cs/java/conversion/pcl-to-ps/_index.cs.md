@@ -130,7 +130,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na PS** umožňuje transformaci souborů ve formátu **Printer Command Language** do formátu **PostScript (.PS)**, zachovává tiskovou přesnost a zajišťuje kompatibilitu s vysokokvalitními publikačními a tiskovými systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převod souborů připravených k tisku do formátu PostScript pro profesionální tisk
+* Archivace tiskových úloh ve formátu PS pro publikační systémy
+* Zajištění konzistence tiskového výstupu napříč platformami
+* Příprava pracovních postupů založených na PostScriptu pro komerční tisk
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod velkého množství souborů PCL do formátu PS pro tiskové účely
+* Integrace do předtiskových a publikačních automatizačních linek
+* Zjednodušení výstupu dokumentů pro tiskové výrobní systémy
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

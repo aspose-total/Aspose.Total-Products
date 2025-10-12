@@ -61,7 +61,27 @@ otherformats: XLTX TSV XLT XLS EXCEL XLSB FODS SXC XLSM DIF XLSX ODS XLAM XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى XLTX** يسمح بتحويل مستندات النص إلى ملفات قوالب Excel، مما يتيح التوحيد والتوحيد عبر سير العمل القائمة على جداول البيانات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* بناء قوالب Excel منظمة من محتوى ODT
+* الحفاظ على التنسيق المتسق عبر التقارير وملفات البيانات
+* تلقائي إنشاء قوالب لإدخال البيانات أو التحليل
+* إعداد هياكل Excel قابلة لإعادة الاستخدام للإدارات المختلفة
+* دعم سير العمل لإنشاء التقارير القائمة على البيانات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* تحويل ODT إلى XLTX في أنظمة التقارير التلقائية
+* أنابيب تحويل المستندات بناءً على القوالب
+* إنشاء قوالب Excel متعددة الإدارات
+* إنشاء هياكل Excel مبسطة للاستخدام المتكرر
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

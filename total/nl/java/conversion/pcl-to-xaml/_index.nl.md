@@ -135,7 +135,30 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van **PCL naar XAML** transformeert **Printer Command Language**-bestanden naar **XAML (Extensible Application Markup Language)** voor op vector gebaseerde graphics en UI-elementen in Windows-toepassingen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Hergebruik van PCL-graphics in WPF- of UWP-toepassingen
+* Het omzetten van afdruklay-outs naar interactieve UI-componenten
+* Het insluiten van schaalbare vectorgraphics in Windows-software
+* Behoud van afdrukontwerp voor integratie in digitale toepassingen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde PCL-naar-XAML-conversie voor applicatieontwikkeling
+* Integratie in UI-ontwerp en workflowautomatisering
+* Batchtransformatie van PCL-archieven naar op vector gebaseerde XAML-middelen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

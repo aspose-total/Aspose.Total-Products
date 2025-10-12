@@ -61,7 +61,33 @@ otherformats: FODS EXCEL XLS SXC XLTX XLSM ODS XLAM XLT XLTM XLSX TSV DIF XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε SXC** μετατρέπει τα πρότυπα κειμένου OpenDocument Text σε **αρχεία υπολογιστικού φύλλου StarOffice Calc**, επιτρέποντας τη χρήση του περιεχομένου προτύπου σε εφαρμογές υπολογιστικών φύλλων όπως το OpenOffice Calc ή το LibreOffice Calc.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Μετατροπή κειμενικών προτύπων σε πίνακες υπολογιστικών φύλλων
+* Αρχειοθέτηση δεδομένων προτύπου σε μορφή υπολογιστικού φύλλου
+* Προετοιμασία αναφορών ή υπολογισμών που προέρχονται από το περιεχόμενο του προτύπου
+* Συνεργατική επεξεργασία υπολογιστικών φύλλων βασισμένη σε πρότυπα
+* Διαμοιρασμός δομημένων πληροφοριών προτύπου σε διαφορετικές πλατφόρμες
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή OTT σε SXC για παρτίδες επεξεργασίας
+* Ενσωμάτωση με ροές εργασίας υπολογιστικών φύλλων και συστήματα αναφορών
+* Δημιουργία επεξεργάσιμων υπολογιστικών φύλλων από πολλαπλά πρότυπα
+* Κεντρικό αποθετήριο για τα δεδομένα υπολογιστικών φύλλων που προέρχονται από πρότυπα
+* Δυναμική εξαγωγή πίνακα περιεχομένου για αναλύσεις και υπολογισμούς
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

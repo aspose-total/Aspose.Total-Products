@@ -57,7 +57,32 @@ otherformats: PSD WMZ TGA JPEG2000 DXF  WMF SVGZ EMZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى WMF
+
+يُحوّل تحويل **PCL إلى WMF** الرسومات بلغة **Printer Command Language** إلى تنسيق **Windows Metafile (.WMF)**، المناسب للتحرير على أساس الناقلات واستخدام الصور قابلة للتوسيع في تطبيقات Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج الرسومات القابلة للتوسيع من تخطيطات الطباعة بتنسيق PCL
+* تحرير الرسوم التخطيطية على أساس الناقلات في تطبيقات Windows
+* تضمين الرسوم البصرية بتنسيق PCL في مستندات Office
+* الحفاظ على دقة الطباعة لمشاريع النشر على سطح المكتب
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل ملفات PCL تلقائيًا إلى صور WMF
+* التكامل مع أنابيب نشر المستندات والتصميم
+* معالجة دفعية لأرشيف الرسوم البيانية الطباعية القديمة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

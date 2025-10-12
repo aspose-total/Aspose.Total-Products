@@ -130,7 +130,32 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى ODT
+
+يحول **PCL إلى ODT** الناتج من **لغة أوامر الطابعة** إلى تنسيق **OpenDocument Text (.ODT)** لمعالجة النصوص القابلة للتحرير في **LibreOffice Writer** أو محررات ODF الأخرى.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إعادة إنشاء تقارير الطباعة كمستندات قابلة للتحرير
+* تحضير الناتج الثقيل من PCL للنشر أو التعاون
+* تحويل القوالب القائمة على PCL إلى ملفات ODT قابلة للتحرير
+* الحفاظ على توحيد الوثائق عبر أنظمة مفتوحة المصدر
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء مستندات ODT تلقائيًا من وظائف الطباعة
+* التكامل مع أنظمة إدارة الوثائق والتحرير
+* تحويل الدُفعات من وثائق PCL المؤرشفة إلى تنسيقات نصية مفتوحة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

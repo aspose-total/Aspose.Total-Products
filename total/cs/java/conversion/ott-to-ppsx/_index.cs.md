@@ -54,7 +54,30 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na PPSX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **OTT na PPSX** převádí **OpenDocument Text Templates (.OTT)** do formátu **PowerPoint Open XML Show (.PPSX)** pro přehrávatelné prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Dodávání textových šablon jako prezentací na celou obrazovku
+* Převádění firemních OTT šablon do formátu prezentace
+* Sdílení obsahu jako neupravitelných prezentací PowerPoint
+* Zachování designu a formátování z dokumentových šablon
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod OTT na PPSX pro reporting nebo školení
+* Integrace s pracovními postupy distribuce prezentací
+* Plánované vytváření přehrávatelných snímků z dokumentových šablon
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

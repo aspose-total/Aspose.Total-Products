@@ -102,7 +102,30 @@ otherformats: TSV XLSM XLSB CSV TXT ODS XLTX XLT DIF XLAM SXC EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**המרת PCL ל־FODS** ממירה נתוני הדפסה לתבנית **Flat OpenDocument Spreadsheet (FODS)**, מספקת גישה לגיליונות עריכה בפורמט XML המתאימים ל־LibreOffice ו־OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת דוחות הדפסה או חשבוניות לנתוני גיליון עריכה
+* אפשרות לתאימות גיליונות בין פלטפורמות
+* שילוב של נתוני טבלה ב־PCL לכלים למשרד קוד פתוח
+* ארכיבת נתוני הדפסה מובנים כגיליונות XML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה אוטומטית של דוחות פיננסיים או דו"חות מלאי מודפסים ל־FODS
+* שילוב בצינורות דיווח קוד פתוח
+* המרה בקנה מידה גדול לנתוני הדפסה לצורך ניתוח ורישומים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

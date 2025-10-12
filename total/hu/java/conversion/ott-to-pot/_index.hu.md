@@ -54,7 +54,33 @@ Az API azt is lehetővé teszi, hogy jelszóval védett OTT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **OTT to POT** átalakítása átalakítja az OpenDocument Text sablonokat **PowerPoint sablonfájlokká**, lehetővé téve a használható dia elrendezések létrehozását szöveges sablon tartalomból.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Használható PowerPoint sablonok generálása szöveges tartalomból
+* Vállalati prezentációs formátumok szabványosítása
+* Sablon alapú dia tervezetek archiválása
+* Együttműködés elősegítése a dia készítés során
+* Képzési vagy marketing prezentációk előkészítése
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált OTT-to-POT átalakítás vállalati sablonkönyvtárakhoz
+* Több OTT fájlból prezentációs sablonok tömeges létrehozása
+* Integráció prezentációkezelési munkafolyamatokkal
+* Sablon tartalom dinamikus beillesztése a dia tervezetekbe
+* Vállalaton belüli dia sablonok szabványosítása
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

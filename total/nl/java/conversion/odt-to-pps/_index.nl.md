@@ -54,7 +54,25 @@ Met de API kunt u ook met een wachtwoord beveiligde ODT-documenten naar PPS conv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+Het converteren van **ODT naar PPS** maakt **directe diavoorstelling creatie** mogelijk vanuit tekst documenten, waardoor het perfect is voor het leveren van kant-en-klare inhoud voor presentaties zonder extra bewerking.
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Directe presentatiebestanden maken vanuit rapporten of samenvattingen
+* Tekstuele informatie leveren in diavoorstellingsformaat
+* Geautomatiseerde presentaties voorbereiden voor vergaderingen of evenementen
+* Word-stijl documenten omzetten naar zelfstandig draaiende diavoorstellingen
+* Stroomlijnen van educatieve of marketing presentatie workflows
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+* Geautomatiseerde ODT-naar-PPS diavoorstelling generatie
+* Integratie met document publicatiesystemen
+* Batchverwerking van tekstuele presentaties
+* Genereren van presentatieklare dia's uit gestructureerde inhoud
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

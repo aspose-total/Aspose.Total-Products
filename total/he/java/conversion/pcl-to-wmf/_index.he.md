@@ -105,7 +105,30 @@ otherformats: PSD WMZ TGA JPEG2000 DXF  APNG SVGZ EMZ IMAGE DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **PCL ל־WMF** ממירה גרפיקה ב־**שפת פקודות המדפסת (PCL)** לתבנית **Windows Metafile (.WMF)**, המתאימה לעריכה מבוססת ושימוש בתמונה ניתנת להתמדה ביישומים של Windows.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ גרפיקה ניתנת להתמדה מפריסות הדפסה של PCL
+* עריכת תרשימים מבוססי וקטור ביישומי Windows
+* הטמעת תצוגות PCL במסמכי Office
+* שמירת דיוק ההדפסה לפרויקטי פרסום לשולחן עבודה
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה אוטומטית של קבצי PCL לתמונות WMF
+* שילוב עם צינורות עיבוד מסמכים ועיצוב
+* עיבוד צ׳אנקים לארכיונים גרפיים של הדפסה מורשים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

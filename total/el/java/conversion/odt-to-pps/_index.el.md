@@ -54,7 +54,27 @@ otherformats: POTX POTM PPT POT PPTM PPTX PPSX PPS PPSM POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε PPS** επιτρέπει τη **άμεση δημιουργία παρουσιάσεων** από κείμενα εγγράφων, κάνοντάς το ιδανικό για την παράδοση περιεχομένου έτοιμο για παρουσίαση χωρίς πρόσθετη επεξεργασία.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία αμέσων αρχείων παρουσιάσεων από αναφορές ή περιλήψεις
+* Παράδοση πληροφοριών βασισμένων σε κείμενο σε μορφή παρουσίασης
+* Προετοιμασία αυτοματοποιημένων παρουσιάσεων για συναντήσεις ή εκδηλώσεις
+* Μετατροπή εγγράφων τύπου Word σε παρουσιάσεις που τρέχουν αυτόνομα
+* Βελτίωση ροών εργασίας εκπαιδευτικών ή μάρκετινγκ παρουσιάσεων
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+* Αυτόματη δημιουργία παρουσιάσεων ODT σε PPS
+* Ενσωμάτωση με συστήματα δημοσίευσης εγγράφων
+* Παρτίδα επεξεργασίας παρουσιάσεων βασισμένων σε κείμενο
+* Δημιουργία έτοιμων για παρουσίαση διαφανειών από δομημένο περιεχόμενο
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

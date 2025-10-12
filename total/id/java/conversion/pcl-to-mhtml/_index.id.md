@@ -130,7 +130,30 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **PCL ke MHTML** mengemas konten **Printer Command Language** ke dalam format **arsip web (.MHTML)**, mempertahankan tata letak, gambar, dan teks untuk distribusi web dalam satu file.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengemas laporan PCL untuk dilihat melalui browser
+* Menyimpan tata letak cetak sebagai halaman web mandiri
+* Berbagi konten cetak yang diformat melalui intranet atau email
+* Menyimpan pekerjaan cetak PCL lama sebagai arsip MHTML yang dapat diakses
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi MHTML otomatis dari aliran cetak PCL
+* Integrasi dengan sistem arsip dokumen atau pengiriman berbasis web
+* Konversi batch untuk pelaporan internal atau dokumentasi online
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

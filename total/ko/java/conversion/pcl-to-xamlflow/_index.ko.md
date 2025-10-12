@@ -143,7 +143,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 XAMLFLOW로 변환**하면 **프린터 명령어 언어** 출력물을 **XAMLFlow** 형식으로 변환하여 워크플로 중심의 UI 응용 프로그램 및 디자인 자동화를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PCL 프린트 레이아웃을 워크플로 중심의 응용 프로그램에 통합
+* 정적 프린트 시각물을 대화형 XAMLFlow 요소로 변환
+* 소프트웨어 워크플로에서 프린트 생성 양식 및 다이어그램 재사용
+* UI 자동화를 위한 프린트 자산 표준화
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PCL 파일을 XAMLFlow로 일괄 변환하여 응용 프로그램 파이프라인에 사용
+* 워크플로 자동화 및 UI 생성 도구 통합
+* 기업용 소프트웨어 디자인 워크플로를 위한 자동화된 변환
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

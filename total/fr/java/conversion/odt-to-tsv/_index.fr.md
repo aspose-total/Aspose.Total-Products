@@ -61,7 +61,25 @@ Après avoir converti ODT en TSV, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+La conversion d'**ODT en TSV** permet de transformer les données du document en **valeurs séparées par des tabulations**, en maintenant la clarté et la cohérence lors de travaux avec des ensembles de données structurées ou basées sur du texte.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conversion de tableaux ODT formatés en ensembles de données délimités par des tabulations
+* Importation du contenu du document dans des outils de traitement de texte ou de script
+* Partage de données structurées entre des plateformes prenant en charge le TSV
+* Préparation de structures de données cohérentes pour la recherche ou l'analyse
+* Migration de tableaux basés sur des documents vers des systèmes attendants le format TSV
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+* Conversion ODT en TSV dans des systèmes d'extraction de données automatisés
+* Exportation en lot de documents texte pour des intégrations en back-end
+* Intégration de la sortie TSV dans des pipelines de nettoyage de données
+* Transfert simplifié d'ensembles de données textuelles entre des outils d'entreprise
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

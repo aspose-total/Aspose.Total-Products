@@ -47,7 +47,30 @@ A PCL-fájl SXC-vé konvertálásakor vízjelet is hozzáadhat a kimeneti SXC-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to SXC** konvertálása lehetővé teszi, hogy a **Printer Command Language** kimeneteit átalakítsuk **StarOffice Calc (.SXC)** táblázatokká, lehetővé téve a szerkeszthető táblázatos adatokat számításokhoz és elemzésekhez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Táblázatok kinyerése PCL jelentésekből szerkeszthető táblázatokba
+* Nyomtatott numerikus adatok elemzése a StarOffice Calc segítségével
+* Archivált nyomtatott formák átalakítása táblázatformátumba
+* Strukturált adatok előkészítése számításokhoz vagy jelentésekhez
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Táblázatos adatok automatizált kinyerése PCL fájlokból SXC formátumba
+* Integráció pénzügyi vagy elemzői munkafolyamatokkal
+* Archivált nyomtatott táblázatok tömeges átalakítása újrafelhasználás céljából
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

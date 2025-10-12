@@ -54,7 +54,30 @@ APIを使用すると、パスワードで保護されたOTTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTTをPPTMに変換**すると、**OpenDocument Text Templates (.OTT)** がインタラクティブで自動化された**PowerPoint Macro-Enabled Presentation (.PPTM)** に変換されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* OTTから派生したプレゼンテーションにマクロと自動化を埋め込む
+* テンプレートを動的でインタラクティブなスライドデッキに変換する
+* 会議やレポートのための反復的なコンテンツ作成を効率化する
+* マクロが有効なプレゼンテーション機能でワークフローを強化する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ドキュメントテンプレートからのPPTMプレゼンテーションの定期的な作成
+* 企業向けレポートのための一括OTTからPPTMへの変換
+* 自動化されたプレゼンテーションとコンテンツワークフローへの統合
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,33 @@ Pomocí API můžete také otočit výstupní obrázek JPEG2000 podle svých pot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na JPEG2000** poskytuje **vysokou kvalitu, komprimované výstupy obrázků** z souborů jazyka tiskárny, ideální pro archivaci, digitální zobrazování nebo bezpečné distribuce tiskového obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Archivace vysokofidelitních zobrazení tiskových rozvržení
+* Sdílení tiskově připravených vizuálů s bezztrátovou kompresí
+* Příprava digitálních důkazních kopií pro recenze klientů
+* Vložení obsahu PCL do obrazových systémů
+* Převod tiskových dat pro dlouhodobé uložení
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický převod PCL na JPEG2000 pro archivační potrubí
+* Integrace s dokumentačními a obrazovými systémy
+* Hromadný převod firemních tiskových úloh do formátů vysoké kvality
+* Optimalizované kompresní pracovní postupy pro digitální distribuci
+* Generování centralizovaného repozitáře obrázků ze zdrojů PCL
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

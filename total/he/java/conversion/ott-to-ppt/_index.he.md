@@ -100,7 +100,30 @@ otherformats: POT PPSM PPSX POWERPOINT ODP POTM PPS POTX PPTM PPTX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל-PPT** ממירה **תבניות טקסט של OpenDocument (.OTT)** לקבצי **מצגת PowerPoint (.PPT)** ניתנים לעריכה, מוכנים ליצירת שקופיות ושינוי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* שימוש מחודש בתבניות טקסט לשקופיות ניתנות לעריכה
+* יצירת מצגות מקצועיות מתבניות המבוססות על OTT
+* התאמת תוכן מסמכים לשקופיות מוכנות למצגת
+* הכנת PPTים לפגישות פנים או מצגות ללקוחות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה רציפה של תבניות OTT למצגות PPT
+* שילוב עם צינורות תוכן ליצירת מצגות אוטומטיות
+* יצירה מתוזמנת של שקופיות ניתנות לעריכה מתבניות מסמכים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

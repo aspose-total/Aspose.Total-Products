@@ -61,7 +61,27 @@ otherformats: XLTM XLSX XLT FODS EXCEL TSV XLTX XLSM XLSB XLS SXC ODS XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Η μετατροπή **ODT σε XLSM** επιτρέπει την εξαγωγή δεδομένων εγγράφου σε **αρχεία Excel με δυνατότητα μακροενεργοποίησης**, υποστηρίζοντας την αυτοματοποίηση και τις προηγμένες λειτουργίες φύλλου εργασίας.
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή πινάκων ODT για χρήση σε φύλλα εργασίας Excel με VBA
+* Δυνατοποίηση αυτοματοποίησης βασισμένης σε μακρό από δεδομένα εγγράφου
+* Ενσωμάτωση τύπων και προσαρμοσμένων σεναρίων σε εξαγόμενα αρχεία
+* Προετοιμασία διαδραστικών αναφορών βασισμένων σε κειμενικές εισόδους
+* Σύνδεση δεδομένων εγγράφου με ροές αυτοματοποίησης εργασιών που οδηγούνται από το Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+* Αυτοματοποιημένες μετατροπές εγγράφου σε μακρό Excel
+* Ενσωμάτωση εξαγωγών ODT σε προηγμένα συστήματα αυτοματοποίησης Excel
+* Δημιουργία παρτίδων XLSM για δυναμικές επιχειρηματικές αναφορές
+* Σύνδεση περιεχομένου κειμένου με αυτοματοποιημένες εργασίες που οδηγούνται από φύλλα εργασίας
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

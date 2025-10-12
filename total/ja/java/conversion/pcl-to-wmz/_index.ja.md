@@ -57,7 +57,30 @@ APIを使用すると、必要に応じて出力WMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをWMZに変換**すると、**プリンターコマンド言語**のグラフィックスを**圧縮されたWindowsメタファイル（.WMZ）**ファイルに変換して効率的な保存と高速な配布が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* メールやクラウドストレージ用にPCLベクターグラフィックスを圧縮する
+* ファイルサイズを削減しながら画質を保持する
+* Windows OfficeドキュメントでPCLビジュアルを共有する
+* コンパクトな形式で印刷生成されたグラフィックスをアーカイブする
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCLからWMZへの自動バッチ変換
+* コンテンツ管理および配布システムとの統合
+* レポートやプレゼンテーション用に圧縮されたグラフィックスを生成する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

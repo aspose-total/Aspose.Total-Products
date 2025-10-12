@@ -100,7 +100,27 @@ otherformats: PPSM PPSX PPS POWERPOINT PPT POTM POTX ODP PPTX POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל־PPTM** מאפשרת ליצור **מצגות PowerPoint עם מאקרוים מופעלים** ממסמכי טקסט, שמשלבות תוכן סטטי עם התנהגויות שקופות או אוטומטיות בשקפים.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* עיצוב מצגות אינטראקטיביות ממסמכי טקסט מובנים
+* יצירת דוחות אוטומטיים עם מאקרוים מוטמעים
+* יצירת מצגות שמפעילות מעברי שקפים דינמיים
+* הכנת מצגות עסקיות או הדרכה חכמות עם פונקציונליות VBA
+* עיבוד משלוחי דוחות באמצעות מצגות עם מאקרוים מופעלים
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* זרימות עבודה אוטומטיות ליצירת מצגות ODT ל־PPTM
+* שילוב עם מערכות דיווח ואוטומציה עסקיות
+* יצירת שקפים אוטומטיים עם מאקרו ממומשים מקבצי ODT
+* יצירת מצגות דינמיות המופעלות על ידי נתונים פנימיים לדיווח פנימי
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

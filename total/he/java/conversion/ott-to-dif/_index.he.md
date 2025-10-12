@@ -102,7 +102,33 @@ otherformats: XLTM XLSB XLAM XLSX ODS XLTX FODS XLT SXC XLS CSV EXCEL TSV XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **OTT ל־DIF** ממירה תבניות טקסט של OpenDocument לקבצי **פורמט החלפת נתונים**, מאפשרת ייבוא של נתונים מובנים מתבניות לגיליונות אלקטרוניים ומסדי נתונים לצורך ניתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ טבלאות מתבנית לצורך ניתוח נתונים
+* הכנת תוכן תבנית ליישומי גיליון אלקטרוני מורשים
+* שיתוף נתוני תבנית בפורמט פשוט ומתוקן
+* ארכיבת מידע מובנה לצורך דיווחים
+* שילוב נתוני תבנית לתהליכי עבודה באינטליגנציה עסקית
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל־DIF בצורה צפונית לדיווח עסקי
+* שילוב עם ייבוא מסד נתונים וצינורות אנליטיים
+* חילוץ אוטומטי של נתוני טבלה ממספר תבניות
+* עיבוד מיוחד למערכות נתונים היסטוריות או מורשות
+* ארכיון DIF מרכזי לשימוש במערכות צולבות
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

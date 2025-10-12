@@ -121,7 +121,30 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az **PCL to ODP** konvertálása átalakítja a **Printer Command Language** kimenetét **OpenDocument Presentation (.ODP)** diákká, hogy használható legyen a **LibreOffice Impress** vagy más ODP-kompatibilis eszközökben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Nyomtatott összefoglalók diavetítéssé alakítása
+* PCL jelentések újrafelhasználása bemutató anyagként
+* Nyomtatott adatok megjelenítése értekezleteken vagy belső kommunikációkhoz
+* PCL alapú vizuális elemek standardizálása szerkeszthető ODP formátumokká
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált ODP generálás riportrendszerből
+* Integráció bemutató létrehozási csövekkel
+* PCL archívumok átalakítása újrafelhasználható bemutató diákká
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

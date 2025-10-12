@@ -49,7 +49,33 @@ Zatímco převádíte OTP na JSON, můžete také nastavit rozsah výstupního f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OTP na JSON** umožňuje efektivní extrakci strukturovaných dat z šablon **OpenDocument Presentation** do strojově čitelného formátu. Tato transformace podporuje vývojáře, analytiky a automatizační systémy při integrování obsahu prezentace do datových toků, API nebo systémů pro správu obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace šablon prezentací na strukturovaná JSON data
+* Extrahování metadat, rozložení snímků a textového obsahu pro analýzu
+* Umí možnost API-based konzumace dat prezentace
+* Migrace zastaralých šablon OTP do moderních webových aplikací
+* Centralizované ukládání obsahu prezentace v databázích JSON
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod souborů OTP do standardizovaných JSON schémat
+* Integrace s CMS nebo DAM systémy pro dynamické opětovné použití obsahu
+* Automatizovaná analýza prvků snímků napříč velkými datovými sadami
+* Automatizace pracovního postupu pro programové aktualizace šablon prezentací
+* Předzpracování dat AI a ML z vstupů založených na prezentaci
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,30 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na PPTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění **OTT na PPTM** transformuje **OpenDocument Text Templates (.OTT)** do formátu **PowerPoint Macro-Enabled Presentation (.PPTM)** pro interaktivní, automatizované prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání maker a automatizace do prezentací odvozených z OTT
+* Převádění šablon na dynamické, interaktivní prezentace
+* Zefektivnění opakované tvorby obsahu pro schůzky nebo zprávy
+* Zlepšení pracovního postupu pomocí funkcionality prezentací s makry
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánované vytváření prezentací PPTM z dokumentových šablon
+* Hromadná konverze OTT na PPTM pro podnikové reportování
+* Integrace do automatizovaných prezentací a pracovních postupů s obsahem
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

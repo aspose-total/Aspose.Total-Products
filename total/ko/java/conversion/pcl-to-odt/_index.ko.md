@@ -129,7 +129,30 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCL을 ODT로 변환**은 **프린터 명령어 언어** 출력을 **편집 가능한 워드 프로세싱**을 위한 **OpenDocument Text (.ODT)** 형식으로 변환하여 **LibreOffice Writer**나 다른 ODF 편집기에서 사용할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 인쇄 보고서를 편집 가능한 문서로 재생성
+* 텍스트가 많은 PCL 출력을 게시하거나 협업용으로 준비
+* PCL 기반 템플릿을 편집 가능한 ODT 파일로 변환
+* 오픈 소스 시스템 간 문서 일관성 유지
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 인쇄 작업에서 ODT 문서 자동 생성
+* 문서 관리 및 편집 시스템 통합
+* 보관된 PCL 문서 일괄 변환하여 오픈 텍스트 형식으로
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

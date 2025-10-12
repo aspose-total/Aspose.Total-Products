@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをPOTMに変換**すると、**Printer Command Language**の出力を**PowerPoint Macro-Enabled Template (.POTM)**ファイルに変換して、動的で自動化されたプレゼンテーションワークフローを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 印刷レイアウトをマクロ有効なプレゼンテーションテンプレートに変換する
+* 変換されたスライドテンプレートにインタラクティブな自動化を埋め込む
+* PowerPointの高度な自動化のためにPCLフォームを再利用する
+* レポート生成用のマクロ付きダイナミックテンプレートを作成する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* システムレポートから自動的にPOTMテンプレートを生成する
+* マクロ駆動型スライドを企業プレゼンテーションツールに統合する
+* 静的なPCLファイルをインタラクティブなテンプレートに効率的に変換する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

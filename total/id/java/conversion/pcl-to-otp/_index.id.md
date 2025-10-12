@@ -121,7 +121,28 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi **PCL ke OTP** mengubah file **Printer Command Language** menjadi format **OpenDocument Presentation Template (.OTP)** untuk membuat template slide yang dapat digunakan kembali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mendesain template presentasi dari tata letak PCL
+* Membuat template slide bermerk untuk keperluan bisnis
+* Mengonversi visual perusahaan yang dicetak menjadi template OTP yang dapat diedit
+* Mempermudah penggunaan desain secara lintas departemen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Pembuatan template otomatis dari material cetak standar
+* Integrasi dengan alur kerja pembuatan presentasi
+* Menghasilkan slide master yang dapat digunakan kembali dari dokumen cetak perusahaan
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,33 @@ Po převodu OTT do ODS vám [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OTT na ODS** umožňuje reprezentovat šablony OpenDocument Text jako soubory **OpenDocument Spreadsheet**, což umožňuje strukturované využití dat, analýzu a úpravu tabulek napříč platformami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace tabulek šablon na editovatelné tabulky
+* Archivace šablon řízených daty ve formátu otevřeného dokumentu
+* Příprava zpráv a analýz z obsahu šablon
+* Spolupracovní úpravy tabulek odvozených ze šablon
+* Sdílení strukturovaných informací ze šablon napříč platformami
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický převod OTT na ODS pro podnikové pracovní postupy
+* Hromadný export tabulek šablon do tabulek
+* Integrace s reportingovými a analytickými potrubími
+* Dynamické generování tabulek z knihoven šablon
+* Centralizovaná správa dat tabulek odvozených ze šablon
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,33 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをSVGZに変換**すると、プリンターコマンド言語ファイルを**圧縮されたスケーラブルベクターグラフィックス**に変換し、解像度に依存しない視覚データをWeb、印刷、および文書埋め込みに最適化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* PCLレイアウトをスケーラブルでWebに適したグラフィックスに変換
+* ベクターベースの印刷データをコンパクトな形式でアーカイブ
+* Webやモバイルアプリケーションに印刷ビジュアルを統合
+* ドキュメント用にレスポンシブな印刷ビジュアルを準備
+* 出版用にスケーラブルで圧縮されたグラフィックスを共有
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* Web公開ワークフロー向けのバッチPCLからSVGZへの変換
+* コンテンツ管理とグラフィックスパイプラインとの統合
+* 印刷プレビュー用のスケーラブル画像作成の自動化
+* 印刷ビジュアルの効率的な圧縮とアーカイブ
+* 企業向け印刷データの効率的なベクター変換
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

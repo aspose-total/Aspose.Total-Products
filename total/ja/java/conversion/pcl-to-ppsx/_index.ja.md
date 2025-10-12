@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをPPSXに変換**すると、**Printer Command Language**ファイルが**PowerPoint Open XML Show (.PPSX)**形式に変換され、シームレスなプレゼンテーション再生に適しています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 静的なPCLレポートをスライドショーに変換する
+* 企業データとビジュアルを編集できないスライドショーとして配信する
+* 印刷ベースのコンテンツをPowerPoint用の再生ファイルとして共有する
+* プレゼンテーションの閲覧時のレイアウトの正確性を保持する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PCLドキュメントを定期的に.PPSXプレゼンテーションに変換する
+* 企業プレゼンテーション配信ワークフローとの統合
+* トレーニングやレポート作成用のPPSXファイルの一括作成
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,33 @@ L'API consente inoltre di convertire documenti OTT protetti da password in PPS. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione di **OTT in PPS** produce file **PowerPoint Show**, consentendo la presentazione diretta di diapositive derivate da modelli senza aprirle in modalità di modifica.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Creazione di presentazioni di diapositive pronte all'uso da modelli
+* Archiviazione di modelli come presentazioni solo per la visualizzazione
+* Condivisione di presentazioni per la visualizzazione esterna
+* Preparazione di materiali di marketing o di formazione in formato di presentazione
+* Garanzia di uniformità del layout delle diapositive durante le presentazioni
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Conversione batch di OTT in PPS per librerie di presentazioni
+* Integrazione con sistemi di distribuzione di presentazioni
+* Creazione automatica di diapositive solo per la visualizzazione da modelli
+* Pipeline per la preparazione di contenuti di formazione e marketing
+* Standardizzazione delle presentazioni di diapositive su scala aziendale
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

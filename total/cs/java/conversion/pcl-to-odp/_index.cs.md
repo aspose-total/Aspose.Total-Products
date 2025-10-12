@@ -121,7 +121,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na ODP** transformuje výstup **Printer Command Language** do snímků **OpenDocument Presentation (.ODP)** pro použití v **LibreOffice Impress** nebo jiných nástrojích kompatibilních s ODP.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna tiskových shrnutí na prezentace
+* Opětovné využití PCL zpráv jako prezentčního materiálu
+* Vizualizace tiskových dat pro schůzky nebo interní komunikaci
+* Standardizace vizuálních prvků založených na PCL do editovatelných formátů ODP
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování ODP z reportovacích systémů
+* Integrace s vytvářením prezentací
+* Převod archivů PCL na opětovně použitelné prezentční snímky
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

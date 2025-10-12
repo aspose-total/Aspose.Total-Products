@@ -121,7 +121,30 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von **PCL in ODP** wandelt die Ausgabe der **Druckerbefehlssprache** in **OpenDocument Presentation (.ODP)**-Folien um, die in **LibreOffice Impress** oder anderen ODP-kompatiblen Tools verwendet werden können.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Umwandlung von druckbasierten Zusammenfassungen in Präsentationsfolien
+* Wiederverwendung von PCL-Berichten als Präsentationsmaterial
+* Visualisierung von Druckdaten für Besprechungen oder interne Kommunikation
+* Standardisierung von PCL-basierten Visuals in bearbeitbare ODP-Formate
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatische ODP-Erstellung aus Berichtssystemen
+* Integration in Präsentationserstellungs-Pipelines
+* Konvertierung von PCL-Archiven in wiederverwendbare Präsentationsfolien
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,30 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**PCLをPPSに変換**すると、**Printer Command Language**の出力を**PowerPoint Show (.PPS)**形式に変換し、プレゼンテーションを直接再生可能な状態にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PCLベースのドキュメントをプレゼンテーション用のスライドショーに変換する
+* 閲覧用に自動的にレポートプレゼンテーションを生成する
+* PCLコンテンツをフルスクリーンプレゼンテーションとして提供する
+* 編集不可のプレゼンテーション用にPCLのレイアウトを保存する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なPCLレポートから.PPSファイルの自動作成
+* 予定されたプレゼンテーション公開との統合
+* 印刷コンテンツを表示用のプレゼンテーションファイルに変換する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

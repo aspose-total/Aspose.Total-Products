@@ -47,7 +47,30 @@ Während Sie eine PCL-Datei in SXC konvertieren, können Sie Ihrem Ausgabe-SXC-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von **PCL in SXC** ermöglicht es, Ausgaben in **Printer Command Language** in **StarOffice Calc (.SXC)** Tabellenkalkulationen zu transformieren, wodurch editierbare tabellarische Daten für Berechnungen und Analysen entstehen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Extrahieren von Tabellen aus PCL-Berichten in editierbare Tabellenkalkulationen
+* Analyse von druckbasierten numerischen Daten mit StarOffice Calc
+* Umwandlung archivierter Druckformulare in Tabellenkalkulationsformat
+* Vorbereitung strukturierter Daten für Berechnungen oder Berichterstattung
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Extraktion tabellarischer Daten aus PCL-Dateien in SXC
+* Integration in finanzielle oder analytische Workflows
+* Stapelkonvertierung archivierter Drucktabellenkalkulationen zur Wiederverwendung
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

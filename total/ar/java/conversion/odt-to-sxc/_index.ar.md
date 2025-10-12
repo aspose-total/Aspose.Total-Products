@@ -61,7 +61,27 @@ otherformats: XLSB XLSM XLSX TSV EXCEL ODS FODS DIF XLT XLAM SXC XLTX XLTM XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى SXC** يمكن **التوافق مع تنسيقات جدولية تقليدية لـ StarOffice وأوبن أوفيس الأولية**, مع الحفاظ على سلامة البيانات الجدولية والبيانات المنظمة.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل الجداول المعتمدة على المستندات للاستخدام في أنظمة المكتب التقليدية
+* مشاركة البيانات عبر بيئات جداول البيانات القديمة
+* الحفاظ على التوافق مع تنسيقات البيانات التاريخية
+* تحويل المستندات المنظمة لأغراض الأرشفة
+* تصدير التقارير المعتمدة على النصوص إلى ملفات قابلة للتوافق مع جداول البيانات
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* تحويل دفعي آلي من ODT إلى SXC للتوافق الخلفي
+* التكامل مع سير العمل الداعمة للبرمجيات التقليدية
+* هجرة البيانات بين أنظمة المستندات وجداول البيانات
+* معالجة المستندات الأرشيفية لإصدارات أوبن أوفيس القديمة
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

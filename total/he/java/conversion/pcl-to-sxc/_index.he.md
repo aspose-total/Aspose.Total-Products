@@ -102,7 +102,30 @@ otherformats: XLTX FODS EXCEL XLSM TSV DIF XLAM ODS XLSB XLTM TXT MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת **PCL ל-SXC** מאפשרת להמרת פלטי **שפת פקודות המדפסת (PCL)** לגיליונות **StarOffice Calc (.SXC)**, מאפשרת נתוני טבלה ניתנים לעריכה לצורך חישובים וניתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ טבלאות מדווחי PCL לגיליונות עריכה
+* ניתוח נתונים נומריים מבוססי הדפסה באמצעות StarOffice Calc
+* המרת טפסים מודפסים מאורכבים לתבנית גיליון
+* הכנת נתונים מובנים לצורך חישובים או דיווחים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* חילוץ אוטומטי של נתוני טבלה מקבצי PCL ל-SXC
+* שילוב עם זרימות עבודה פיננסיות או ניתוח
+* המרה בצורת עצמאית של גיליונות טבלה מודפסים לשימוש חוזר
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

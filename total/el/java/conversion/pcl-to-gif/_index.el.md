@@ -130,7 +130,35 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **PCL σε GIF**
+
+Η μετατροπή των αρχείων **Printer Command Language** σε εικόνες **Graphics Interchange Format** επιτρέπει τη μετατροπή του περιεχομένου εκτύπωσης σε ελαφριές, συμβατές με τον ιστό προεπισκοπήσεις εικόνων.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία στατικών ή κινούμενων προεπισκοπήσεων διατάξεων εκτύπωσης
+* Διαμοιρασμός χαμηλής εύρους ζώνης οπτικών εκτυπώσεων στο διαδίκτυο
+* Αρχειοθέτηση εγγράφων PCL ως ελαφριά αρχεία εικόνας
+* Ενσωμάτωση περιεχομένου PCL σε τεκμηρίωση ή αναφορές
+* Υποστήριξη οπτικής επαλήθευσης της έξοδου εκτύπωσης
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή PCL σε GIF για αυτοματισμό προεπισκόπησης εκτύπωσης
+* Ενσωμάτωση με συστήματα παρακολούθησης εκτυπώσεων ή παρακολούθησης εργασιών
+* Δημιουργία μικρογραφιών προεπισκοπήσεων για εργαλεία διαχείρισης εγγράφων
+* Αυτοματισμός διαδικασιών δημοσίευσης εκτύπωσης στον ιστό
+* Μετατροπή ροών εργασίας για οπτικό έλεγχο των εργασιών εκτύπωσης
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

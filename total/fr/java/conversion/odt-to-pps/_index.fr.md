@@ -54,7 +54,27 @@ L'API vous permet également de convertir des documents ODT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+Convertir **ODT en PPS** permet de créer **directement des diaporamas** à partir de documents texte, ce qui le rend parfait pour fournir du contenu prêt à être présenté sans nécessiter de modifications supplémentaires.
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Créer instantanément des fichiers de présentation à partir de rapports ou de résumés
+* Diffuser des informations textuelles sous forme de diaporama
+* Préparer des présentations automatisées pour des réunions ou des événements
+* Convertir des documents de style Word en diaporamas autonomes
+* Rationaliser les flux de travail de présentation éducative ou marketing
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+* Génération automatisée de diaporamas ODT en PPS
+* Intégration avec des systèmes de publication de documents
+* Traitement par lot de présentations basées sur du texte
+* Générer des diapositives prêtes pour la présentation à partir de contenu structuré
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

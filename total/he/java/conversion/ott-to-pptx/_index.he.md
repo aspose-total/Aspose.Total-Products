@@ -100,7 +100,32 @@ otherformats: PPSM ODP PPSX POWERPOINT PPT POTX PPTM POTM PPS POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## המרת OTT ל-PPTX
+
+המרת **OTT ל-PPTX** ממירה **תבניות טקסט של OpenDocument (.OTT)** ל-**מצגת Open XML של PowerPoint (.PPTX)**, יוצרת מצגות שקופות וניתנות לעריכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת תבניות טקסט למצגות PPTX
+* שמירה על העיצוב והפורמט מתוך תבניות OTT
+* התאמת מצגות לעסקים, לחינוך או להכשרה
+* שיתוף מצגות פורמט פתוח ומודרני עם צוותים
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת OTT ל-PPTX בצורה רציפה לשימוש עסקי או חינוכי
+* שילוב עם מערכות אוטומציה של תוכן
+* יצירה מתוזמנת של מצגות מודרניות מתבניות שניתן להשתמש בהן
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,30 @@ otherformats: POT PPSM PPSX POWERPOINT PPT POTM PPS POTX PPTM PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## Μετατροπή **OTT σε PPT** μετατρέπει τα **Πρότυπα Κειμένου OpenDocument (.OTT)** σε επεξεργάσιμα αρχεία **Παρουσίασης PowerPoint (.PPT)**, έτοιμα για δημιουργία και τροποποίηση διαφανειών.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Επαναχρησιμοποίηση προτύπων κειμένου σε επεξεργάσιμες σελίδες διαφανειών
+* Δημιουργία επαγγελματικών παρουσιάσεων με βάση τα OTT
+* Προσαρμογή περιεχομένου εγγράφου σε διαφάνειες έτοιμες για παρουσίαση
+* Προετοιμασία PPT για εσωτερικές συναντήσεις ή παρουσιάσεις σε πελάτες
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή προτύπων OTT σε παρουσιάσεις PPT
+* Ενσωμάτωση με αγωγούς περιεχομένου για αυτόματη δημιουργία παρουσιάσεων
+* Προγραμματισμένη δημιουργία επεξεργάσιμων σελίδων διαφανειών από πρότυπα εγγράφων
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

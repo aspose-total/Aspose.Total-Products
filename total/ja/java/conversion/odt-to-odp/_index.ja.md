@@ -54,7 +54,27 @@ APIを使用すると、パスワードで保護されたODTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODTをODPに変換**することで、**テキスト文書をプレゼンテーションスライドにスムーズに変換**でき、書面のレポート、要約、教材を視覚化するのに最適です。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* 構造化された文書をスライドプレゼンテーションに変換する
+* 講義ノートやレポートを視覚的な要約に変換する
+* クラスや企業のプレゼンテーション用のスライドを準備する
+* ODTファイルから魅力的なビジュアル形式を作成する
+* トレーナーやスピーカー向けにテキストからプレゼンテーションへの変換を簡素化する
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+* 自動化されたODTからODPへのプレゼンテーション作成
+* オフィス生産性ワークフローとの統合
+* バッチ処理による文書からプレゼンテーションへの変換
+* 構造化された文書コンテンツからのダイナミックなスライド生成
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

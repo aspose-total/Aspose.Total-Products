@@ -54,7 +54,30 @@ Met de API kunt u ook met een wachtwoord beveiligde OTT-documenten naar PPTX con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van **OTT naar PPTX** zet **OpenDocument-tekstsjablonen (.OTT)** om in **PowerPoint Open XML-presentaties (.PPTX)**, waardoor moderne, bewerkbare dia-decks worden gecreëerd.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van tekstsjablonen naar PPTX-dia-decks
+* Behoud van opmaak en lay-out van OTT-sjablonen
+* Aanpassen van presentaties voor zakelijk gebruik, onderwijs of training
+* Het delen van bewerkbare, moderne PowerPoint-presentaties met teams
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batchconversie van OTT naar PPTX voor zakelijk of educatief gebruik
+* Integratie met contentautomatiseringssystemen
+* Geplande creatie van moderne dia-decks van herbruikbare sjablonen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

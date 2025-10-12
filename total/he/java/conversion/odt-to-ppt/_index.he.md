@@ -100,7 +100,27 @@ otherformats: ODP PPSX PPSM PPS POTM POTX PPTM PPTX POT POWERPOINT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-PPT** מספקת דרך ישירה להמיר **קבצי טקסט של OpenDocument למצגות PowerPoint קלאסיות**, שומרת על מבנה הטקסט והפריסה לשימוש מיידי.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת תוכן טקסטואלי לשקפים ניתנים לעריכה במצגת
+* הכנת מצגות בפורמט הישן של PowerPoint מקבצי סגנון Word
+* שיתוף דו"חות או הצעות בפורמט הישן של PPT
+* מסירת מצגות המתאימות ל-PowerPoint למערכות ישנות יותר
+* יצירת חומרי עבודה או הדרכה ממסמכי ODT
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרה אוטומטית של מסמכי ODT לפורמט PPT
+* ייצוא בצורה צפופה לתאימות עם מערכות PowerPoint ישנות
+* שילוב לתוך כלי יצירת מצגות עסקיות
+* יצירה דינמית של שקפים ניתנים לעריכה מנתוני סגנון Word
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

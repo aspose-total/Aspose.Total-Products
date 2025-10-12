@@ -61,7 +61,33 @@ OTT를 SXC로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+**OTT를 SXC로 변환**하면 OpenDocument 텍스트 템플릿을 **StarOffice Calc 스프레드시트 파일**로 변환하여 템플릿 콘텐츠를 OpenOffice Calc 또는 LibreOffice Calc와 같은 스프레드시트 애플리케이션에서 사용할 수 있게 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 텍스트 템플릿을 스프레드시트 테이블로 변환
+* 스프레드시트 형식으로 템플릿 데이터 보관
+* 템플릿 콘텐츠에서 파생된 보고서 또는 계산 작성
+* 템플릿 기반 스프레드시트의 협업 편집
+* 플랫폼 간 구조화된 템플릿 정보 공유
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 일괄 처리를 위한 자동화된 OTT-to-SXC 변환
+* 스프레드시트 워크플로 및 보고 시스템과의 통합
+* 여러 템플릿에서 편집 가능한 스프레드시트 생성
+* 템플릿에서 파생된 스프레드시트 데이터를 위한 중앙 저장소
+* 분석 및 계산을 위한 표 형식 콘텐츠의 동적 추출
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

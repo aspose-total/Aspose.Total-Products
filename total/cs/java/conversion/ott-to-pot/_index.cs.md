@@ -54,7 +54,33 @@ API také umožňuje převádět dokumenty OTT chráněné heslem na POT. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **OTT na POT** transformuje šablony OpenDocument Text na soubory šablon PowerPointu, umožňující vytváření opakovaně použitelných rozvržení snímků z textového obsahu šablony.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Generování opakovaně použitelných šablon PowerPointu z textového obsahu
+* Standardizace firemních formátů prezentací
+* Archivace designů snímků založených na šabloně
+* Umožnění spolupracovní tvorby snímků
+* Příprava výukových nebo marketingových balíčků
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický převod OTT na POT pro firemní knihovny šablon
+* Hromadné vytváření šablon prezentací z více souborů OTT
+* Integrace s pracovními postupy správy prezentací
+* Dynamické vložení obsahu šablony do snímkových balíčků
+* Standardizace šablon snímků v celé firmě
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

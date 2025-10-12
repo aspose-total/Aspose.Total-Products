@@ -102,7 +102,27 @@ otherformats: XLTM XLSX XLT FODS EXCEL TSV XLTX CSV XLSB XLS SXC ODS XLAM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+המרת **ODT ל-XLSM** מאפשרת ייצוא של נתוני מסמך לקבצי Excel המאופשרים למקרו, תומכים באוטומציה ובפעולות גיוס גיליון מתקדמות.
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא טבלאות ODT לשימוש בגיליונות Excel המופעלים על ידי VBA
+* אפשרות לאוטומציה מבוססת מקרו מנתוני מסמך
+* הטמעת נוסחאות ותסריטים מותאמים אישית בקבצים שיוצאו
+* הכנת דוחות אינטראקטיביים המבוססים על קלטים טקסטואליים
+* קישור נתוני מסמך עם זרימות עבודה מבוססות Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+* המרות מסמך למקרו באופן אוטומטי ב-Excel
+* שילוב ייצואי ODT למערכות אוטומציה מתקדמות של Excel
+* יצירת XLSM בצורה צפה לדוחות עסקיים דינמיים
+* חיבור תוכן טקסטואלי למשימות אוטומציה המופעלות על ידי גיליונות עבודה
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

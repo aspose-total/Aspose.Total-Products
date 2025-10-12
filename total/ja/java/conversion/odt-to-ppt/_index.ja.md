@@ -54,7 +54,27 @@ APIを使用すると、パスワードで保護されたODTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODTをPPTに変換**することは、**OpenDocumentテキストファイルをクラシックなPowerPointプレゼンテーションに変換**する簡単な方法を提供し、テキストの構造とレイアウトを保持してすぐに使用できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* テキストコンテンツを編集可能なプレゼンテーションスライドに変換する
+* 古いPowerPoint形式のデッキをWordスタイルのファイルから準備する
+* レガシーPPT形式でレポートや提案を共有する
+* 古いシステム向けのPowerPoint互換のプレゼンテーションを提供する
+* ODTドキュメントから会議やトレーニング資料を作成する
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+* ODTドキュメントをPPT形式に自動変換する
+* レガシーPowerPointシステムとの互換性のためのバッチエクスポート
+* ビジネスプレゼンテーション作成ツールへの統合
+* Wordスタイルのデータから編集可能なスライドの動的生成
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,28 @@ APIを使用すると、パスワードで保護されたODTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+**ODTをPPSXに変換**すると、**現代のプレゼンテーションスライドファイル**にテキストベースのドキュメントが変換され、フォーマット、構造、視覚を保持して即座に再生できます。
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* テキストコンテンツから直接最終プレゼンテーションスライドを作成する
+* 完成したレポートを実行可能なスライドデッキとして配信する
+* 編集可能なソースなしでプレゼンテーションコンテンツを共有する
+* 文書から会議やミーティングのプレゼンテーションを準備する
+* レポートの最終版のスライドショーを配布する
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ODTからPPSXへの自動プレゼンテーション生成
+* 大量のプレゼンテーションを一括変換する
+* 企業のレポートシステムへの統合
+* 組織向けの文書からスライドショーへの自動化
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

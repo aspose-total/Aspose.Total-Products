@@ -57,7 +57,32 @@ otherformats: PSD TGA WMF IMAGE JPEG2000 WMZ  SVGZ DXF EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى EMZ
+
+يقوم تحويل PCL إلى EMZ بضغط وتحويل رسوميات لغة أمر الطابعة إلى تنسيق Enhanced Metafile (Compressed) - EMZ، مما يحسن الصور لتطبيقات الرسومات قابلة للتوسيع واستخدام Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين الرسوم البيانية القائمة على النواة في Office أو برامج التصميم
+* تقليل حجم الملف للصور المطبوعة لأنظمة الوثائق
+* الحفاظ على القابلية للتوسيع وجودة رسوميات PCL
+* إعداد الأصول المضغوطة لأتمتة الوثائق أو القوالب
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل السائل الضخم للمخططات التي تم إنشاؤها بالطباعة إلى صور EMZ
+* التكامل مع أنظمة إدارة المحتوى لتخزين الصور المحسنة
+* إنشاء تلقائي للرسوم البيانية المضغوطة لنشر الوثائق
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

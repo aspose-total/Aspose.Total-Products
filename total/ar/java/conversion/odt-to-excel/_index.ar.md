@@ -61,7 +61,27 @@ otherformats: SXC XLS XLTM TSV XLT XLSB XLTX ODS DIF FODS XLSX XLAM XLSM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+تحويل **ODT إلى EXCEL** يمكن أن يسمح بتحويل بيانات مستند OpenDocument Text إلى جداول **Microsoft Excel**، مما يجعل من السهل تحليل وتصور وتنظيم المعلومات.
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير الجداول من ملفات ODT إلى Excel للتحرير
+* تحضير بيانات المستند للحسابات المتقدمة
+* دمج البيانات النصية في لوحات تحكم Excel
+* إعادة تنسيق البيانات النصية للتقارير أو الرسوم البيانية
+* تعزيز التوافق بين ODT وأدوات Microsoft Office
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+* تحويل آلي لسير العمل المختلطة بين المستندات والجداول الإلكترونية
+* معالجة ODT إلى Excel في خطوط الإنتاج للتقارير أو التحليلات
+* تحويل المستندات المجدولة لأنظمة بيانات المؤسسات
+* تصدير متعدد الصيغ لمستودعات المستندات أو أدوات السحابة
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+  {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

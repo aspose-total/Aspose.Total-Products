@@ -57,7 +57,32 @@ otherformats: DXF JPEG2000 WMF PSD WMZ IMAGE EMZ  SVGZ TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى DXF
+
+يُحوّل تحويل **PCL إلى DXF** رسومات أو تخطيطات **لغة أمر الطابعة (PCL)** إلى ملفات **تنسيق تبادل الرسومات (DXF)** المستخدمة على نطاق واسع في تطبيقات CAD وتصميم الهندسة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج الرسومات الناقلة من تقارير الهندسة المطبوعة
+* تحويل الخطط التخطيطية من الإخراج المطبوع إلى ملفات يمكن قراءتها بواسطة CAD
+* رقمنة تخطيطات تم إنشاؤها بالطباعة لإجراء تعديلات تصميمية إضافية
+* تمكين التشغيل المشترك بين أنظمة الطباعة وأدوات CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد ملفات DXF بشكل آلي من رسومات فنية معتمدة على الطباعة
+* دمج تحويل PCL إلى DXF ضمن خطوط العمل الهندسية بشكل آلي
+* تحويل دفعي للإخراجات المطبوعة المؤرشفة إلى تنسيقات متوافقة مع CAD
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

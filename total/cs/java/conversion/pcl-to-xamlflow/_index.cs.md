@@ -144,7 +144,30 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod **PCL na XAMLFLOW** umožňuje transformaci výstupů **Printer Command Language** do formátu **XAMLFlow** pro aplikace uživatelského rozhraní orientované na pracovní postupy a automatizaci designu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Integrování PCL tiskových rozvržení do aplikací řízených pracovními postupy
+* Převod statických tiskových vizuálů na interaktivní prvky XAMLFlow
+* Opakované využití tiskem generovaných formulářů a diagramů ve softwarových pracovních postupech
+* Standardizace tiskových prostředků pro automatizaci uživatelského rozhraní
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod souborů PCL do formátu XAMLFlow pro aplikační potrubí
+* Integrace s nástroji pro automatizaci pracovních postupů a generování uživatelského rozhraní
+* Automatizovaná transformace pro pracovní postupy návrhu podnikového softwaru
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

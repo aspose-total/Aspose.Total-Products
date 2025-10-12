@@ -54,7 +54,32 @@ otherformats: PPT POTM POT PPSX PPTM POWERPOINT PPSM PPS POTX PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل OTT إلى PPTM
+
+يحول تحويل **OTT إلى PPTM** **قوالب نصوص OpenDocument (.OTT)** إلى **عروض تقديمية متاحة للماكرو (.PPTM)** لعروض شرائح تفاعلية وآلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين الماكروهات والآليات في العروض المستمدة من OTT
+* تحويل القوالب إلى عروض شرائح ديناميكية وتفاعلية
+* تبسيط إنشاء المحتوى المتكرر للاجتماعات أو التقارير
+* تعزيز سير العمل باستخدام وظائف العروض التقديمية الممكنة للماكرو
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الآليات" %}}
+
+* إنشاء عروض PPTM مجدولة من قوالب المستندات
+* تحويل دُفعي من OTT إلى PPTM لتقارير المؤسسات
+* دمجه في سير العروض التقديمية ومحتوى العمليات التلقائية
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

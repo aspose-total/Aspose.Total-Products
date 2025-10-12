@@ -57,7 +57,32 @@ otherformats: TGA IMAGE PSD SVGZ EMZ WMZ WMF  JPEG2000 DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+## تحويل PCL إلى TGA
+
+يحول تحويل **PCL إلى TGA** رسومات **لغة أمر الطابعة** إلى تنسيق صور **Truevision TGA (.TGA)**، محافظًا على رسومات البكسل عالية الجودة لأغراض التصميم والتصور أو الأرشفة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج صور عالية الجودة من رسومات الطباعة بتنسيق PCL
+* إعداد محتوى بصري لسير العمل في التصميم والرسم
+* أرشفة رسومات الطباعة في تنسيق صورة غير مضغوطة
+* تحويل الرسوم التخطيطية والتخطيطات لتطبيقات الوسائط المتعددة
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي آلي لرسومات PCL إلى TGA
+* دمج مع معالجة الصور وأنابيب الوسائط المتعددة
+* تبسيط عملية أرشفة الرؤى البصرية للطباعة للاستخدام المستقبلي
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

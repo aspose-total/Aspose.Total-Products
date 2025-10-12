@@ -130,7 +130,28 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PCL a ODT** convierte la salida de **Printer Command Language** en formato **OpenDocument Text (.ODT)** para procesamiento de texto editable en **LibreOffice Writer** u otros editores ODF.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Recrear informes de impresión como documentos editables
+* Preparar la salida PCL con mucho texto para publicación o colaboración
+* Convertir plantillas basadas en PCL en archivos ODT editables
+* Mantener la consistencia del documento en sistemas de código abierto
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Generación automática de documentos ODT a partir de trabajos de impresión
+* Integración con sistemas de gestión y edición de documentos
+* Conversión por lotes de documentos PCL archivados a formatos de texto abierto
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
