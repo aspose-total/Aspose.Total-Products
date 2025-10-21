@@ -125,7 +125,29 @@ Any Operating System that can run the Java Runtime Environment (JRE) can run Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converting SVG to DOT (Word 97-2003 Template) allows creating reusable document templates with embedded vector diagrams compatible with older Word versions. DOT ensures consistent formatting across legacy systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* Standardized report templates with SVG diagrams for legacy Word documents.
+* Project proposal templates incorporating visual dashboards.
+* Reusable academic or instructional templates using SVG visuals.
+* Historical document templates for business or engineering workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* Automated batch SVG-to-DOT template generation for legacy Word workflows.
+* Scheduled updates of templates with new SVG visuals.
+* Integration into document management systems requiring backward-compatible templates.
+* Triggered conversion for recurring reports and reusable templates.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

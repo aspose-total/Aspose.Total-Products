@@ -55,9 +55,31 @@ While converting SVG file to TXT, you can also add watermark to your output TXT 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converting SVG to TXT (Plain Text) extracts textual content from vector graphics for analysis, indexing, or lightweight documentation. TXT is ideal for simple, scriptable workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* Extracting labels and annotations from SVG diagrams for documentation.
+* Creating searchable plain text versions of technical illustrations.
+* Generating lightweight SVG metadata reports for data analysis.
+* Quick sharing of textual SVG content without images.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* Automated extraction of SVG text into TXT for reporting pipelines.
+* Scheduled generation of plain-text documentation from vector diagrams.
+* Integration with indexing and search systems.
+* Triggered conversion for analytics and lightweight content workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

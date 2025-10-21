@@ -125,7 +125,29 @@ Any Operating System that can run the Java Runtime Environment (JRE) can run Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converting SVG to DOTM (Macro-Enabled Word Template) enables reusable templates that combine scalable vector graphics with macros. Ideal for interactive reports, forms, and workflow documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* Macro-enabled project tracking templates with embedded SVG visuals.
+* Reusable financial or operational templates for enterprise workflows.
+* Academic or research templates integrating dynamic diagrams and automation.
+* Interactive e-learning materials using macro-enhanced SVG diagrams.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* Automated SVG-to-DOTM conversion for recurring macro-enabled templates.
+* Scheduled updates of templates with new SVG data and macros.
+* Integration into workflow automation systems requiring reusable templates.
+* Triggered conversion pipelines for interactive reporting dashboards.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
