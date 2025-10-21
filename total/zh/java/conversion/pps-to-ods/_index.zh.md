@@ -61,7 +61,31 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB ODS XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片演示）文件转换为ODS（OpenDocument电子表格）提供了一种无缝的方式，将演示数据重新用于结构化的电子表格格式。这种转换有助于专业人士将总结的幻灯片转换为可编辑、可分析的表格，与LibreOffice Calc和OpenOffice兼容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从演示幻灯片中提取财务数据，生成结构化的ODS报告。
+* 将教育幻灯片转换为基于电子表格的课程分析。
+* 将营销演示文稿转换为销售绩效电子表格。
+* 从PPS业务摘要准备可编辑的项目跟踪表。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将会议室演示定期转换为季度ODS绩效文件。
+* 集成到报告管道中，自动将幻灯片转换为可共享的电子表格数据。
+* 将会议产出实时转换为集中的分析表。
+* 针对同时维护演示文稿和电子表格记录的团队进行批量转换。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

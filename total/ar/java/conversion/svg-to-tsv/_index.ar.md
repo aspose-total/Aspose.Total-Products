@@ -47,7 +47,31 @@ otherformats: TSV XLT EXCEL XLTM XLTX SXC MD TXT ODS XLSM DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات SVG إلى TSV (قيم مفصولة بواسطة علامة التبويب) يمكن تصدير الرسوم البيانية الناقلة إلى تنسيق محسن لجداول البيانات والتحليل الإحصائي والمجموعات البيانية الكبيرة. يضمن TSV بقاء البيانات منظمة وسهلة الفحص.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل الرسوم البيانية التفاعلية SVG إلى TSV للتحليل الإحصائي.
+* تصدير الرسوم الهندسية للتحرير التعاوني في جداول البيانات.
+* مشاركة الرسوم البيانية التعليمية القائمة على SVG بتنسيق TSV لفرق البحث.
+* تحويل الرسوم البيانية لأداء المنتجات إلى بيانات جدولية منظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* خطوط أنابيب آلية تحويل الرسوم البيانية SVG إلى TSV لمنصات التحليل.
+* تصدير TSV المجدول للرسوم البيانية الناقلة للوحات التقارير.
+* التكامل مع البرمجيات الإحصائية التي تتطلب إدخال TSV.
+* تحويل مُشغّل للرسوم البيانية الناقلة القائمة على النوافذ المحدثة ديناميكيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

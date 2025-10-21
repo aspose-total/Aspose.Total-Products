@@ -61,7 +61,31 @@ otherformats: XLSM EXCEL XLTX TSV SXC MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в SXC (таблицы StarOffice Calc) помогает организациям, работающим с устаревшими или открытыми офисными пакетами, повторно использовать данные презентаций в форме таблиц. Это обеспечивает структурированный анализ и отчетность без необходимости использования собственного программного обеспечения.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование бизнес-презентаций в анализируемые данные таблиц.
+* Экспорт сводок по продажам или финансовых слайдов в формат SXC.
+* Подготовка листов, совместимых с OpenOffice, из отчетов PPS.
+* Преобразование учебных презентаций в структурированные таблицы для совместного использования.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание SXC для рабочих процессов на основе LibreOffice.
+* Интеграция в системы управления открытыми документами.
+* Пакетное преобразование слайдов в SXC для архивов аналитики.
+* Запланированные экспорты для команд, использующих среды с открытым исходным кодом.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

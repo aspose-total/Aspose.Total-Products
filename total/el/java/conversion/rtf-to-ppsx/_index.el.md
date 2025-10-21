@@ -54,7 +54,31 @@ otherformats: POWERPOINT PPT POTM PPTM PPSX PPTX PPS PPSM POTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή του RTF σε PPSX (PowerPoint Show Open XML) προσφέρει ένα μοντέρνο τρόπο προβολής πληροφοριών που βασίζονται σε έγγραφα ως οπτικά ελκυστικές παρουσιάσεις. Τα αρχεία PPSX ανοίγουν απευθείας σε λειτουργία προβολής διαφανιών, κάνοντάς τα ιδανικά για την τελική προβολή ή κοινοποίηση.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Μετατροπή ενημερώσεων εταιρικού RTF σε παρουσιάσεις έτοιμες για παρουσίαση.
+* Δημιουργία τελικών παρουσιάσεων από δομημένα αρχεία κειμένου.
+* Προετοιμασία διαφανειών για εκδηλώσεις ή συνέδρια απευθείας από πηγές RTF.
+* Κοινοποίηση περιεχομένου RTF ως παρουσιάσεις PowerPoint προβολής μόνο.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Μετατροπή RTF σε PPSX σε αυτοματοποιημένες διαδικασίες δημοσίευσης παρουσιάσεων.
+* Ενσωμάτωση με ροές εργασίας παρουσιάσεων του Office 365.
+* Μαζική δημιουργία διαφανειών PPSX από τυποποιημένες αναφορές RTF.
+* Προγραμματισμένη δημιουργία ετοιμών για προβολή συνοπτικών εταιρικών παρουσιάσεων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

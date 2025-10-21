@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG na OTT (OpenDocument Text Template) vytváří opakovaně použitelné šablony textových dokumentů s vestavěnými vektorovými diagramy. OTT zajišťuje konzistenci napříč projekty a pracovními postupy týmu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Standardizované šablony zpráv s vizuálními prvky SVG pro obchodní týmy.
+* Akademické nebo výukové šablony dokumentů s vestavěnými diagramy.
+* Marketingové nebo dokumentační šablony projektů pro konzistentní formátování.
+* Opakovaně použitelné průvodce a manuály využívající škálovatelné grafiky SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná hromadná konverze diagramů SVG do šablon OTT.
+* Plánované aktualizace opakovaně použitelných šablon dokumentů s čerstvými vizuály.
+* Integrace s obsahovými systémy pro pracovní postupy řízené šablonami.
+* Spouštěná generace interaktivních textových šablon pro týmovou spolupráci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

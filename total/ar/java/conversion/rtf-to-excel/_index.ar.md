@@ -61,7 +61,31 @@ otherformats: XLS EXCEL XLSM XLT ODS XLSX XLTX SXC TSV DIF XLAM XLTM XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل مستندات RTF إلى Excel يتيح نقل البيانات المنسقة بسلاسة إلى بيئة جداول بيانات مألوفة. يدعم هذا التحويل الحفاظ على الشكل البصري والهيكلي، مما يجعله مثاليًا لسير العمل في المكاتب والتعليم والتقارير التجارية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل ملخصات مالية RTF إلى أوراق عمل Excel قابلة للتحرير.
+* استيراد جداول RTF المنسقة للتحليل وإنشاء رسوم بيانية محورية.
+* تحويل تقارير الطلاب القائمة على RTF إلى متتبعي درجات Excel.
+* تبسيط تحويل المستند إلى جدول بيانات لمستخدمي المؤسسات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+* دمجه في أنظمة أتمتة تقارير الأعمال.
+* تصدير RTF إلى Excel بشكل مجدول للتقارير اليومية أو الأسبوعية.
+* دعم خط أنابيب ETL لتحليل مستندات المكتب.
+* توليد تلقائي للوحات معلومات Excel من قوالب RTF منظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

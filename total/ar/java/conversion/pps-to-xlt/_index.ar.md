@@ -61,7 +61,31 @@ otherformats: SXC EXCEL XLT XLSX XLS XLSM TSV XLTX XLAM FODS MHTML XLTM ODS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى XLT (قالب Excel) يساعد الشركات على إنشاء قوالب جداول بيانات قابلة لإعادة الاستخدام من بيانات العروض التقديمية. تضمن هذه القوالب التوازن في التقارير والتنسيق والتحليل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* بناء قوالب ميزانيات قياسية من العروض المالية.
+* تصميم قوالب تقارير من العروض التقديمية التنفيذية.
+* إنشاء قوالب تنبؤات مبيعات قابلة لإعادة الاستخدام.
+* إنشاء تخطيطات تحليلية موحدة من الرسوم البيانية في الشرائح.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+* إنشاء تلقائي لقوالب XLT من التقارير المتكررة في PowerPoint.
+* دمجها في أنظمة إدارة القوالب الشركية.
+* تحويل الشرائح إلى قوالب بشكل مجدول لتحقيق التوازن في الإدارة القسمية.
+* إنشاء كتلة من القوالب المعتمدة في Excel من العروض التقديمية الموافق عليها.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,31 @@ otherformats: POWERPOINT PPSM PPT PPS POT POTM POTX PPTM PPTX PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 RTF 文件转换为 PPTM（PowerPoint Macro-Enabled Presentation）可将结构化文档内容与交互式宏合并。它支持自动幻灯片生成，数据交互性和多媒体集成，适用于专业用途。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 RTF 商业报告创建交互式演示文稿。
+* 使用嵌入式宏自动更新演示文稿。
+* 制作能够根据用户输入做出反应的智能培训材料。
+* 将 RTF 文档转换为动态、数据链接的幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于基于宏驱动的演示文稿工作流的 RTF 到 PPTM 转换。
+* 与自动化平台集成，用于商业智能可视化。
+* 定时创建带宏的 PowerPoint 演示文稿。
+* 从 RTF 来源自动生成交互式企业简报。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

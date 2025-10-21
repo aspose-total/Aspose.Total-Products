@@ -121,7 +121,31 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων SVG σε SWF (Shockwave Flash) επιτρέπει την ενσωμάτωση διαδραστικών διανυσματικών γραφικών σε web animations και παλαιές εφαρμογές Flash. Το SWF υποστηρίζει δυναμικές οπτικές και ελαφριές διανυσματικές animations.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Διαδραστικά εκπαιδευτικά modules βασισμένα στο web χρησιμοποιώντας διανυσματικές ανιμέισον SVG-to-SWF.
+* Μπάνερ μάρκετινγκ και προωθητικό υλικό με διανυσματική διαδραστικότητα.
+* Εκπαιδευτικά animations και περιεχόμενο e-learning με κλιμακούμενα διαγράμματα.
+* Διαδραστικά infographics εμφανιζόμενα σε πλατφόρμες Flash παλαιάς τεχνολογίας.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μαζική μετατροπή διαγραμμάτων SVG σε ανιμέισον SWF.
+* Προγραμματισμένες ενημερώσεις διαδραστικού περιεχομένου βασισμένου στο web από ζωντανά αρχεία SVG.
+* Ενσωμάτωση με παλαιές web πλατφόρμες που υποστηρίζουν οπτικά βασισμένα σε Flash.
+* Ενεργοποιημένες διαδικασίες μετατροπής για δυναμικό online περιεχόμενο SVG-to-SWF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

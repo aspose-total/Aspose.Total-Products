@@ -61,7 +61,31 @@ otherformats: SXC FODS XLSB XLSM ODS XLT XLS XLSX XLTX XLTM XLAM EXCEL TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование RTF в TSV (значения, разделенные табуляцией) идеально подходит для сохранения чистых, структурированных наборов данных из форматированных документов. Это обеспечивает совместимость с программным обеспечением для аналитики, импорта баз данных и систем публикации открытых данных, требующих точного форматирования с табуляцией.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Преобразование журналов данных на основе RTF в TSV для инструментов аналитики на основе текста.
+* Подготовка академических исследовательских документов RTF для статистической обработки.
+* Экспорт таблиц RTF в структурированные файлы TSV для открытого обмена данными.
+* Миграция отформатированных списков RTF в форматы, готовые к использованию в базе данных.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое преобразование RTF в TSV для повторяющихся задач отчетности.
+* Интеграция в системы сбора данных на основе API.
+* Автоматическое создание файлов TSV в репозиториях открытых данных.
+* Пакетное преобразование документов в крупномасштабных рабочих процессах публикации.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

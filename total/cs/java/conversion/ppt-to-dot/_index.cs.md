@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPT souboru na DOT s vodoznakem. Chc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod prezentací PPT (PowerPoint) do formátu DOT (šablona Wordu) umožňuje vytváření opakovaně použitelných šablon Wordu založených na rozložení prezentace. To je ideální pro zajištění konzistentního formátování a brandingů ve všech vygenerovaných dokumentech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření šablon Wordu z firemních snímků PowerPointu.
+* Navrhování opakovaně použitelných šablon zpráv pro firemní dokumentaci.
+* Standardizace stylu a struktury přes projektové zprávy.
+* Převod designů firemní prezentace do interních dokumentových šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod PPT na DOT pro správu dokumentů značky.
+* Integrace s pracovními postupy HR, marketingu a komunikace.
+* Hromadné vytváření šablon specifických pro oddělení z prezentací.
+* Plánované exporty pro aktualizace knihovny šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

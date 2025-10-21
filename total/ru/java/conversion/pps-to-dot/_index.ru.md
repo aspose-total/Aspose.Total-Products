@@ -53,7 +53,31 @@ otherformats: WORD ODT WORDML DOTX DOT DOTM OTT RTF DOTX DOTM TEXT FLATOPC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в DOT (Шаблон Word 97–2003) помогает бизнесу создавать многоразовые шаблоны документов из содержимого презентаций, обеспечивая согласованный брендинг и структуру в устаревших средах Word.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание стандартизированных шаблонов отчетов из презентаций компании.
+* Генерация многоразовых шаблонов DOT для документации по кадровому и финансовому вопросам.
+* Создание совместимых с устаревшими системами шаблонов на основе визуальных слайдов.
+* Преобразование материалов PowerPoint в формализованные текстовые макеты.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое создание шаблонов на основе утвержденных презентаций PowerPoint.
+* Интеграция в системы управления документами для хранения файлов DOT.
+* Автоматизированное создание устаревших шаблонов DOT для обеспечения согласованного форматирования.
+* Пакетное преобразование для организаций, поддерживающих библиотеки шаблонов.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

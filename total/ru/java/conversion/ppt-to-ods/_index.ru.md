@@ -61,7 +61,31 @@ otherformats: XLTX XLS DIF XLSB EXCEL XLSM XLAM XLSX SXC MARKDOWN TSV XLTM XLT M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в формат ODS (OpenDocument Spreadsheet) преобразует визуальные слайды в структурированную форму электронных таблиц. Это идеально подходит для организаций, использующих офисные пакеты с открытым исходным кодом и нуждающихся в извлечении числовых или табличных данных из презентаций для аналитики и отчетности.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Экспорт таблиц слайдов в редактируемые электронные таблицы ODS для LibreOffice Calc.
+* Преобразование бизнес-метрик из панелей инструментов PowerPoint в данные электронных таблиц.
+* Архивирование финансовых и аналитических слайдов в открытом формате ODS.
+* Обеспечение совместной работы в средах электронных таблиц стандарта с открытым исходным кодом.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в ODS для отчетности государственных органов или НПО.
+* Интеграция с аналитическими конвейерами с открытым исходным кодом.
+* Плановое преобразование презентаций в электронные таблицы для аудита.
+* Обмен отчетами между отделами с использованием шаблонов на основе ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

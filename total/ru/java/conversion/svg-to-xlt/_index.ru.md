@@ -47,7 +47,31 @@ otherformats: DIF FODS XLAM XLT XLSM SXC MD ODS TSV EXCEL TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG (масштабируемая векторная графика) в XLT (Шаблон Excel) позволяет создавать многоразовые шаблоны электронных таблиц с встроенными векторными диаграммами. Шаблоны XLT идеально подходят для стандартизации форматов отчетности, сохраняя при этом масштабируемость и возможность редактирования диаграмм.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание стандартных шаблонов отчетов о продажах и финансовых отчетов с панелями инструментов на основе SVG.
+* Многоразовые шаблоны отслеживания проектов для инженерных и строительных рабочих процессов.
+* Создание образовательных шаблонов с диаграммами SVG для академических учреждений.
+* Стандартизированные шаблоны анализа маркетинга с использованием интерактивных векторных изображений.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование диаграмм SVG в шаблоны XLT для корпоративной отчетности.
+* Планирование генерации шаблонов для повторяющихся проектов или финансовых отчетов.
+* Интеграция с системами автоматизации рабочих процессов для поддержания актуальности шаблонов.
+* Автоматическое преобразование динамически обновляемых панелей инструментов в многоразовые шаблоны.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,31 @@ Při převodu souboru SVG na FODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění SVG na FODS (Flat OpenDocument Spreadsheet) umožňuje vkládání vektorových grafů do souborů se standardem otevřené tabulky. FODS je ideální pro pracovní postupy a automatizaci tabulek napříč platformami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání SVG diagramů do šablon tabulek s otevřeným zdrojovým kódem.
+* Sdílení výzkumu nebo finančních údajů s vektorovými vizuály ve formátu FODS.
+* Akademická a inženýrská data exportovaná jako upravitelné, platformně nezávislé tabulky.
+* Standardizované projekční nástěnky ve formátu otevřeného dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický převod SVG na FODS pro sestavy reportů.
+* Plánované aktualizace pro výzkumné nebo provozní šablony tabulek.
+* Integrace s kancelářskými balíky napříč platformami vyžadujícími otevřené formáty.
+* Spouštění generování nástěnek tabulek založených na SVG pro týmovou spolupráci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

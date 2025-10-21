@@ -47,7 +47,31 @@ Während Sie eine SVG-Datei in TXT konvertieren, können Sie Ihrem Ausgabe-TXT-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von SVG in TXT (Klartext) extrahiert den Textinhalt aus Vektorgrafiken zur Analyse, Indizierung oder für eine leichte Dokumentation. TXT eignet sich ideal für einfache, skriptfähige Workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Extrahieren von Beschriftungen und Anmerkungen aus SVG-Diagrammen für die Dokumentation.
+* Erstellen von durchsuchbaren Klartextversionen technischer Illustrationen.
+* Generieren von leichten SVG-Metadatenberichten für die Datenanalyse.
+* Schnelles Teilen von textuellem SVG-Inhalt ohne Bilder.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Extraktion von SVG-Text in TXT für Berichtspipelines.
+* Geplante Erstellung von Klartextdokumentationen aus Vektordiagrammen.
+* Integration in Indizierungs- und Suchsysteme.
+* Auslösen der Konvertierung für Analysen und leichte Content-Workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

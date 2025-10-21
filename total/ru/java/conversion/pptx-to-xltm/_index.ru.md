@@ -61,7 +61,31 @@ otherformats: TSV XLSM FODS MARKDOWN XLTM XLTX XLT DIF XLS EXCEL MHTML XLAM ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPTX в XLTM (Шаблон Excel с поддержкой макросов) помогает автоматизировать повторяющиеся задачи по обработке данных путем встраивания макросов в многократно используемые шаблоны электронных таблиц, полученные из презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание автоматизированных шаблонов отчетов на основе данных презентаций.
+* Создание многократно используемых макро-управляемых панелей инструментов Excel.
+* Стандартизация шаблонов бизнес-процессов на основе слайдов PowerPoint.
+* Упрощение повторяющейся отчетности по KPI с помощью макросов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PPTX в XLTM для ежемесячной отчетности.
+* Интеграция с автоматизированными рабочими процессами по генерации электронных таблиц.
+* Управление корпоративными шаблонами для аналитических команд.
+* Плановое обновление макро-шаблонов на основе данных из PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

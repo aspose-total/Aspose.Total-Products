@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPS souboru na DOTM s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod souborů PPS (PowerPoint Slide Show) na DOTM (Makro-povolená šablona Wordu) umožňuje vytváření dynamických šablon dokumentů řízených skripty. Firmy používají formát DOTM k automatizaci generování dokumentů a reportů na základě dat z prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Návrh makro-povolených šablon Wordu z prezentací PPS.
+* Automatizace opakujících se obchodních formulářů pomocí vestavěného VBA.
+* Generování opakovaně použitelných šablon pro reporty o souladu a kvalitě.
+* Vytváření inteligentních pracovních postupů dokumentů odvozených z prezentací PowerPointu.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování šablon DOTM pro podnikové použití.
+* Integrace s automatizačními rámci pro tvorbu dokumentů.
+* Plánované aktualizace šablon z nejnovějších prezentací.
+* Hromadný převod více souborů PPS do makro-povolených šablon.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

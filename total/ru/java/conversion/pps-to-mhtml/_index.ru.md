@@ -61,7 +61,31 @@ otherformats: TSV DIF ODS EXCEL XLT MARKDOWN XLS XLTM XLSM MHTML XLSB XLAM XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в MHTML (Web Archive) позволяет сохранить полные слайд-деки в виде одностраничных веб-архивов с встроенными медиафайлами. Это особенно ценно для обмена интерактивными презентациями по электронной почте или внутренним порталам.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание веб-архивированных версий слайдов PowerPoint для просмотра в браузере.
+* Упаковка презентаций в одиночные файлы MHTML для офлайн-обмена.
+* Преобразование слайдов для интеграции в системы электронного обучения.
+* Сохранение визуальных элементов и анимаций PowerPoint в файлы, совместимые с вебом.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое создание MHTML для цифровых образовательных платформ.
+* Интеграция во внутренние порталы для централизованного доступа к презентациям.
+* Автоматизированное преобразование веб-архивов для внутренней документации.
+* Пакетная выгрузка MHTML для маркетинга и хранилищ знаний.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

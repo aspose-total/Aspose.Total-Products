@@ -61,7 +61,31 @@ Při převodu souboru PPS na XLT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPS (PowerPoint Slide Show) na XLT (Excel Template) pomáhá podnikům vytvářet opakovaně použitelné šablony tabulek z dat prezentací. Tyto šablony zajistí konzistenci v reportingu, formátování a analýze.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření standardních rozpočtových šablon z finančních prezentací.
+* Navrhování reportovacích šablon z výkonných prezentací.
+* Generování opakovaně použitelných šablon pro predikci prodejů.
+* Vytváření standardizovaných rozvržení analýz z vizuálů prezentací.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické vytváření XLT šablon z opakujících se PowerPoint reportů.
+* Integrace do systémů správy firemních šablon.
+* Plánovaná konverze slidů na šablony pro oddělení.
+* Hromadná generace značkových Excel šablon z schválených prezentací.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

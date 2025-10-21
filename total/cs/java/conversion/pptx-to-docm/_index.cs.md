@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPTX souboru na DOCM s vodoznakem. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění prezentací PPTX na DOCM (Dokument Word s povolenými makry) umožňuje vkládání automatizačních skriptů a dynamických polí. Tato konverze přináší výhody podnikům automatizujícím generování zpráv nebo úkoly strukturované dokumentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace dat snímků do makro-povolených Wordových zpráv.
+* Vytváření interaktivních šablon s automatizovanými datovými poli.
+* Vytváření pracovních dokumentů, které automaticky vyplňují obsah.
+* Generování makro-řízených shrnutí z prezentací PowerPointu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické vytváření zpráv DOCM pro opakující se schůzky.
+* Integrace s VBA založenými systémy pro hlášení.
+* Naplánované spuštění maker pro aktualizace dokumentů.
+* Makra z PowerPointu do Wordu pro zefektivnění produktivity.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

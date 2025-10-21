@@ -61,7 +61,31 @@ Při převodu souboru PPS na MARKDOWN můžete také přidat vodoznak do výstup
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPS (PowerPoint Slide Show) na MARKDOWN (MD) umožňuje uživatelům přeměnit vizuální snímky na lehké, čitelné textové dokumenty ideální pro blogy, dokumentaci a správu obsahu založeného na Git. Most mezi prezentacemi a formáty přívětivými pro vývojáře.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění snímků z PowerPointu do dokumentace ve formátu Markdown.
+* Příprava poznámek k projektům s otevřeným zdrojovým kódem z prezentací.
+* Publikování vzdělávacího obsahu snímků na statické generátory webů.
+* Přeměna firemních prezentací na lehké soubory MD pro wiki na GitHubu.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánovaná generace Markdownu pro týmy obsahu s použitím verzovacího systému.
+* Integrace do dokumentačních potrubí (např. Hugo, Jekyll).
+* Automatická konverze PowerPointu na MD pro online publikování.
+* Hromadné zpracování více souborů PPS do strukturovaných souborů Markdown.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

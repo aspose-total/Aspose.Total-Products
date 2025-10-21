@@ -47,7 +47,31 @@ otherformats: XLSB MD FODS XLTX XLAM DIF XLSM XLT XLTM ODS SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων SVG σε ODS (OpenDocument Spreadsheet) επιτρέπει την ενσωμάτωση διανυσματικών γραφημάτων σε φύλλα εργασίας που χρησιμοποιούν ανοικτά πρότυπα. Το ODS είναι ιδανικό για ανάλυση δεδομένων, αναφορές και διαδραστικά πίνακες ελέγχου που λειτουργούν σε διαφορετικές πλατφόρμες.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Ενσωμάτωση οικονομικών πινάκων ελέγχου SVG σε φύλλα εργασίας ODS για ανάλυση.
+* Διαμοιρασμός ερευνητικών ή μηχανικών δεδομένων με διανυσματικές εικόνες σε ανοικτά μορφές.
+* Εξαγωγή ακαδημαϊκών και ερευνητικών δεδομένων ως επεξεργάσιμους πίνακες εργασίας ανεξάρτητους από την πλατφόρμα.
+* Πίνακες ελέγχου παρακολούθησης έργων που έχουν κανονικοποιηθεί σε μορφή ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή από SVG σε ODS για ανάλυση δεδομένων.
+* Προγραμματισμένες εξαγωγές ερευνητικών ή λειτουργικών δεδομένων με ενσωματωμένα διαγράμματα.
+* Ενσωμάτωση με σουίτες γραφείου ανοικτού κώδικα που απαιτούν συμβατότητα με φύλλα εργασίας.
+* Ενεργοποίηση της δημιουργίας διαγραμμάτων βασισμένων σε SVG για τη συνεργασία ομάδας.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

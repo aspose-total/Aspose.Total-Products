@@ -61,7 +61,31 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB ODS XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в ODS (OpenDocument Spreadsheet) предлагает безпрепятственный способ повторного использования данных презентации в структурированных таблицах. Это преобразование помогает специалистам превратить краткие слайды в редактируемые, анализируемые таблицы, совместимые с LibreOffice Calc и OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение финансовых данных из слайдов презентации в структурированные отчеты ODS.
+* Преобразование учебных слайд-дек в аналитику курсов на основе таблиц.
+* Преобразование маркетинговых презентаций в таблицы по результатам продаж.
+* Подготовка редактируемых таблиц отслеживания проектов на основе кратких бизнес-презентаций PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое преобразование презентаций для заседаний в квартальные файлы производительности ODS.
+* Интеграция в отчетные конвейеры для автоматического преобразования слайдов в долевые данные таблиц.
+* Мгновенное преобразование результатов совещаний в централизованные аналитические таблицы.
+* Пакетное преобразование для команд, ведущих как презентации, так и таблицы.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

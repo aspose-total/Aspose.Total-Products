@@ -53,7 +53,31 @@ otherformats: WORD TEXT WORDMLX WORDML WORDMLM DOTX DOT RTF ODT OTT DOTM FLATOPC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование PPTX в WORDML (WordprocessingML) превращает содержимое презентации в структуры Word на основе XML, идеально подходит для разработчиков и предприятий, нуждающихся в портативности данных и интеграции систем.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование содержимого PowerPoint для обработки на основе XML.
+* Интеграция данных презентации в системы управления контентом или ERP.
+* Архивирование файлов PowerPoint в структурированных форматах XML.
+* Облегчение автоматизированного создания документов Word из данных слайдов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизация рабочего процесса в предприятии в рамках документооборота.
+* Интеграция с системами генерации контента на основе WordML.
+* Пакетное преобразование для приложений, работающих на XML.
+* Автоматизированное архивирование файлов PowerPoint в структурированной разметке.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

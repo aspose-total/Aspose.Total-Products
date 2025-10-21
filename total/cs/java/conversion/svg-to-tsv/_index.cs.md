@@ -47,7 +47,31 @@ Při převodu souboru SVG na TSV můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG na TSV (hodnoty oddělené tabulátorem) umožňuje export vektorových diagramů do formátu optimalizovaného pro tabulky, statistickou analýzu a velké datové sady. TSV zajistí, že data zůstanou strukturovaná a snadno analyzovatelná.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace interaktivních grafů SVG do TSV pro statistickou analýzu.
+* Export inženýrských diagramů pro spolupracující úpravy tabulek.
+* Sdílení vzdělávacích grafů založených na SVG ve formátu TSV pro výzkumné týmy.
+* Převod vizuálních ukazatelů výkonu produktu do strukturovaných tabulkových dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované potrubí převádějící grafy SVG na TSV pro analytické platformy.
+* Plánované exporty TSV vektorových diagramů pro reportingové nástěnky.
+* Integrace se statistickým softwarem vyžadujícím vstup ve formátu TSV.
+* Spouštěný převod pro dynamicky aktualizované vizuální prvky založené na vektorech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

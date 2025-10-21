@@ -53,7 +53,31 @@ otherformats: DOT OTT RTF DOTM OTTX WORD DOTX WORDML OTTM TEXT ODT FLATOPC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPTX σε OTT (OpenDocument Text Template) επιτρέπει στους επαγγελματίες να δημιουργήσουν επαναχρησιμοποιήσιμα πρότυπα κειμένου από υλικό παρουσίασης. Είναι ένας εξαιρετικός τρόπος για τη δημιουργία τυποποιημένων αναφορών, εγγράφων με εταιρικό λογότυπο ή προτύπων περιλήψεων.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία προτύπων με εταιρικό λογότυπο βασισμένων στο περιεχόμενο της παρουσίασης.
+* Μετατροπή εταιρικών πακέτων σε επαναχρησιμοποιήσιμα πρότυπα ODT.
+* Δημιουργία προτύπων ακαδημαϊκών αναφορών από διαφάνειες PowerPoint.
+* Δημιουργία τυποποιημένων μορφών επικοινωνίας από σχέδια PPTX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτοματοποιημένη δημιουργία PPTX σε OTT για τυποποίηση περιεχομένου.
+* Ενσωμάτωση με συστήματα διαχείρισης προτύπων.
+* Δημιουργία πακέτων προτύπων σε παρτίδες για εταιρική χρήση.
+* Αυτοματισμός ροών εργασίας για τη διατήρηση συνοχής στον σχεδιασμό.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

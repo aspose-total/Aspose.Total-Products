@@ -61,7 +61,31 @@ otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTX إلى XLSX (دفتر عمل Excel الحديث) يوفر تنسيقات بيانات منظمة وقابلة للتحرير والمشاركة. إنه يسد الفجوة بين العروض التقديمية والجداول الإلكترونية، ويدعم التعاون والتصور والتحليلات المتقدمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل رسوم الشرائح إلى صور Excel قابلة للتحرير.
+* تصدير مؤشرات الأداء الرئيسية في PowerPoint إلى جداول بيانات منظمة.
+* إعداد تقارير العروض التقديمية للوحات تحكم معتمدة على Excel.
+* مشاركة بيانات العروض التقديمية المحدثة عبر الفرق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعة من PPTX إلى XLSX لتقارير الشركات.
+* خطوط أنابيب آلية تدمج PowerPoint مع تحليلات Excel.
+* تحويلات مجدولة للحصول على رؤى تجارية متكررة.
+* دمجه في أطقم الأتمتة الخاصة بسير العمل مثل Power Automate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

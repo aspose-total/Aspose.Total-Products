@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为OTT（OpenDocument Text Template）可创建具有嵌入式矢量图的可重用文本文档模板。OTT可确保项目和团队工作流程的一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 为业务团队提供具有SVG可视化效果的标准化报告模板。
+* 包含嵌入式图表的学术或教学文档模板。
+* 用于保持一致格式的营销或项目文档模板。
+* 利用可伸缩SVG图形创建可重用指南和手册。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG图表自动批量转换为OTT模板。
+* 为具有新鲜视觉效果的可重用文档模板安排定期更新。
+* 与内容系统集成，用于基于模板的工作流程。
+* 触发生成用于团队协作的交互式文本模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

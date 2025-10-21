@@ -61,7 +61,31 @@ otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM DIF XLTX MARKDOWN XLS XLSM FO
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint演示文稿）文件转换为DIF（数据交换格式），将视觉业务演示文稿转换为结构化的表格数据集。此转换非常适合将汇总的图表、分析和关键绩效指标转换为数据驱动平台，实现与商业智能工具和电子表格应用程序的无缝集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将演示文稿中的图表导出为DIF文件，用于Excel或LibreOffice分析。
+* 将销售或绩效幻灯片转换为与数据兼容的报告。
+* 在不同的BI环境之间共享汇总的分析数据。
+* 从季度PowerPoint报告中创建适用于电子表格的数据集。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在ETL流水线中从PowerPoint仪表板自动生成DIF。
+* 与企业分析平台集成，实现实时更新。
+* 定期将每周PPT摘要转换为DIF以供团队报告。
+* 为基于AI的趋势预测工具提取数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG в DOTX (шаблон Word Open XML) создает современные, многоразовые шаблоны документов с встроенными векторными диаграммами. DOTX легкий, поддерживает новые функции Word и идеально подходит для стандартизированной отчетности.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Многоразовые шаблоны бизнес-отчетности с графиками на основе SVG.
+* Стандартизированные учебные или инструктивные шаблоны с визуальными элементами SVG.
+* Создание маркетинговых и операционных шаблонов с использованием векторных диаграмм.
+* Шаблоны управления проектами для однородного форматирования и визуальной ясности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Запланированное создание шаблонов SVG в формате DOTX для повторяющихся отчетов.
+* Автоматизированный процесс обновления многоразовых шаблонов документов новыми визуальными элементами.
+* Интеграция с корпоративными системами документооборота для шаблонных рабочих процессов.
+* Триггерное преобразование для создания интерактивных и стандартизированных шаблонов на основе SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ otherformats: DIF XLSX XLSM XLTM XLS XLAM XLTX TSV SXC ODS XLSB FODS XLT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF转XLAM（Excel Add-In）转换允许开发人员和分析师将文本或表格RTF内容嵌入Excel自动化环境中。该格式支持宏和VBA，增强依赖于数据驱动文档输入的生产工具。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于RTF的模板嵌入Excel插件以进行自动报告。
+* 将格式化文档转换为可重用的Excel宏模块。
+* 创建由RTF数据输入驱动的Excel自动化解决方案。
+* 使用集成到XLAM插件中的RTF内容设计动态表单。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在自定义Excel宏部署流水线中进行RTF到XLAM的转换。
+* 集成到用于业务智能的文档自动化系统中。
+* 在基于VBA的报告解决方案中进行转换，用于财务建模。
+* 从集中的RTF数据存储中定期生成Excel插件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

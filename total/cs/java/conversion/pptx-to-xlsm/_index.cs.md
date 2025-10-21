@@ -61,7 +61,31 @@ Při převodu souboru PPTX na XLSM můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPTX do formátu XLSM (Excelová pracovní kniha s makry) přidává automatizační potenciál k datům prezentace. Firmy mohou vložit makra pro výpočty, formátování a analýzu do tabulek generovaných ze snímků.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace dat snímků do makrově řízených excelových zpráv.
+* Automatizace výpočtů KPI z metrik PowerPointu.
+* Vytváření dynamických informačních panelů pomocí VBA maker.
+* Zlepšení pracovních postupů s propojením prezentace a maker.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* Automatické generování souborů XLSM ze sestav pro prodej nebo rozpočet.
+* Integrace s nástroji a skripty pro automatizaci Excelu.
+* Hromadné vytváření maker pro opakující se zprávy PowerPointu.
+* Chytré spouštěče analýz pomocí vložených dat PowerPointu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

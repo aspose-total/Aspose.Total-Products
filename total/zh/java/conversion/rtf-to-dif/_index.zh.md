@@ -61,7 +61,31 @@ otherformats: XLAM ODS XLSM XLTX TSV EXCEL XLTM FODS XLT XLSB DIF XLS XLSX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将RTF（Rich Text Format）文件转换为DIF（Data Interchange Format）可将结构化报告和文档转换为适用于电子表格的数据集。这种转换对于处理最初以RTF格式编写但需要在电子表格工具或BI环境中进行分析的表格信息的组织特别有用。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将格式化的RTF财务报表转换为DIF，以便导入Excel或LibreOffice Calc。
+* 从基于RTF的报告中提取表格数据，以便进行机器可读形式的分析。
+* 为统计处理准备由RTF生成的研究摘要。
+* 将传统文档记录迁移至数据管理系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在文档数字化工作流中批量进行RTF到DIF的导出。
+* 集成到ETL流程中，用于结构化数据提取。
+* 从文字处理自动迁移数据至分析仪表板。
+* 支持政府或学术数据发布的转换管道。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG na MHTML (MIME HTML) umožňuje balení interaktivních grafik do jednoho webového archivního souboru. Toto je ideální pro offline dokumentaci, diagramy kompatibilní s e-maily a přenosné vektorové zprávy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Archivace interaktivních SVG nástěnek pro offline přístup.
+* Odesílání animovaných vektorových vizuálů vložených do e-mailů MHTML.
+* Přenosné technické manuály s vloženými vektorovými diagramy.
+* Vytváření webově kompatibilních zpráv, které lze distribuovat bez serverového hostování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze SVG na MHTML pro archivované dodávky projektů.
+* Plánované generování offline vektorových nástěnek pro firemní použití.
+* Integrace s systémy pro správu obsahu k exportu vektorových vizuálů.
+* Automatizace generování zpráv pro konzistentní formátování a přenositelnost.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

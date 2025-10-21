@@ -61,7 +61,31 @@ otherformats: XLSB XLAM SXC TSV MHTML EXCEL XLTM XLS XLSX XLSM FODS XLT MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل عروض PPTX إلى XLAM (إضافة إكسل للماكرو) يوفر نهجًا إبداعيًا للمطورين لتضمين منطق البيانات القائمة على الشرائح في حلول إكسل الآلية. يدعم هذا التحويل سير العمل القائمة على الماكرو والتقارير الديناميكية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين بيانات العرض كما ماكرو لأتمتة إكسل.
+* تحويل مقاييس PowerPoint إلى لوحات تحكم مدفوعة بإكسل.
+* إنشاء تقارير إكسل ممكّنة للماكرو من محتوى العرض.
+* إنشاء أدوات XLAM لمزامنة البيانات من الشرائح إلى جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء ماكرو PPTX-to-XLAM آلي لتحليل الأعمال.
+* التكامل مع أطر عمل الأتمتة المعتمدة على إكسل.
+* سير العمل ETL الذي يعزز توافق PowerPoint مع إكسل.
+* إنشاء إضافة مجدولة لنظم تقارير المؤسسات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

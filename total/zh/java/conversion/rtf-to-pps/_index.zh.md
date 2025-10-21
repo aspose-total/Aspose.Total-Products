@@ -54,7 +54,31 @@ otherformats: PPSX POWERPOINT PPT PPS POT PPSM PPTX POTM POTX PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 RTF 文档转换为 PPS（PowerPoint Show）可将静态文本转换为适合幻灯片展示的演示文稿，直接以全屏模式打开。非常适合自动化简报、教育展示或展会演示。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将 RTF 报告转换为即可呈现的幻灯片。
+* 从文本文档创建自动化的视觉简报。
+* 根据 RTF 营销材料设计数字标牌内容。
+* 为课堂或会议准备教育展示。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将 RTF 转换为 PPS 以进行定时演示。
+* 集成到亭台和自动化显示系统中。
+* 从存储的文档库创建自动化幻灯片。
+* 从结构化的 RTF 输入生成可视化仪表板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

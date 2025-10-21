@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PS (PostScript) в DOT (шаблон Word) позволяет компаниям стандартизировать форматирование документов и макеты. Шаблоны DOT могут быть повторно использованы для официальной переписки, отчетов и документов, предназначенных для клиентов, без необходимости создания дизайнов заново.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание повторно используемых шаблонов Word на основе отчетов на PostScript.
+* Стандартизация фирменных бланков, форм и внутренних документов.
+* Преобразование визуальных макетов, созданных в PS, в редактируемые шаблоны Word.
+* Поддержание согласованности дизайна в нескольких документах, созданных командой.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PS в DOT для систем управления шаблонами.
+* Интеграция с системами управления контентом для повторного использования документов.
+* Пакетная обработка для создания шаблонов, специфичных для отделов.
+* Плановое обновление шаблонов Word на основе брендовых активов на PostScript.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

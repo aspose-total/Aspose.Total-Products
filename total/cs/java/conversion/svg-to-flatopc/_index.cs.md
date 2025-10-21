@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na FLATOPC (Flat Open Packaging Conventions) produkuje jednu strukturu souboru založenou na XML obsahující veškerý obsah Wordu, včetně vektorových diagramů. Ideální pro programové zpracování dokumentů a interoperabilitu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Archivace SVG diagramů v rámci jednoho přenosného balíčku dokumentů Word.
+* Programaticky generování zpráv s vloženými vektorovými vizuály.
+* Standardizované šablony pro automatizované pracovní postupy s dokumenty.
+* Zajištění kompatibility mezi platformami pro interaktivní obsah Wordu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná hromadná konverze SVG do balíčků FLATOPC.
+* Plánované exporty pro archivaci dokumentů a správu verzí.
+* Integrace do systémů správy obsahu pro programový přístup.
+* Spouštěná generace pro dynamické automatizované toky dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ otherformats: TEXTM TEXT WORDML TEXTX OTT DOTX DOT ODT FLATOPC WORD RTF DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPTX إلى نص يستخرج كل المحتوى المكتوب من الشرائح إلى نص عادي، مما يتيح البحث السريع والفهرسة ومعالجة البيانات. هذا مثالي للمطورين والباحثين وأنظمة الأرشفة التي تتطلب إخراجًا نظيفًا وخفيفًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج محتوى الشرائح لفهرسة ومحركات البحث.
+* إعداد مجموعات بيانات نصية من عروض PowerPoint.
+* تحويل الشرائح التعليمية إلى مواد تدريبية.
+* تبسيط إنشاء مستندات نصية فقط من الشرائح.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* استخراج دفعي لتحويل PPTX إلى نص لنماذج الذكاء الاصطناعي ومعالجة اللغة الطبيعية.
+* دمجه في أنابيب المعرفة والأرشيف.
+* سير عمل تقارير نصية آلي.
+* تنقيب عن النص في PowerPoint لأنظمة تحليل المحتوى.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

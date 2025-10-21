@@ -47,7 +47,31 @@ otherformats: XLSM EXCEL XLTX TXT XLT DIF TSV XLSB XLTM ODS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PS (PostScript) в XLT (Excel Template) позволяет организациям создавать многократно используемые форматы электронных таблиц из статических макетов PostScript. Это обеспечивает согласованный стиль и структуру в повторяющихся отчетах, счетах и финансовых отчетах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов Excel на основе макетов отчетов на основе PS.
+* Создание многократно используемых бизнес-форм и таблиц данных.
+* Поддержание согласованных макетов бренда в предоставляемых Excel-документах.
+* Создание стандартных шаблонов компании на основе архивированных файлов PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PS в XLT для стандартизированных шаблонов отчетов.
+* Интеграция в системы управления контентом для многократно используемых дизайнерских ресурсов.
+* Пакетное создание шаблонов для нескольких отделов или филиалов.
+* Динамическое создание XLT для рабочих процессов документооборота предприятия.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

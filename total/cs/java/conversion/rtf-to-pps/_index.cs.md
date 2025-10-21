@@ -54,7 +54,31 @@ API také umožňuje převádět dokumenty RTF chráněné heslem na PPS. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění dokumentů ve formátu RTF na PPS (PowerPoint Show) transformuje statický text do prezentací připravených k projekci, které se otevírají přímo v režimu celé obrazovky. Je ideální pro automatizované briefinky, vzdělávací prezentace nebo prezentace na veletrzích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění RTF zpráv na připravené prezentace.
+* Vytváření automatizovaných vizuálních briefinků z textových dokumentů.
+* Návrh obsahu digitálních informačních tabulí na základě marketingových materiálů ve formátu RTF.
+* Příprava vzdělávacích představení pro použití ve třídě nebo na konferencích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze RTF na PPS pro naplánované prezentace.
+* Integrace do samoobslužných terminálů a automatizovaných zobrazovacích systémů.
+* Automatické vytváření prezentací ze uložených dokumentů.
+* Generování vizuálních nástěnek ze strukturovaného vstupu ve formátu RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

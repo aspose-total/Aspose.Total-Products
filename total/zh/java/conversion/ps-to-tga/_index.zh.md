@@ -57,7 +57,31 @@ otherformats: TGA DXF IMAGE PSD EMZ  JPEG2000 SVGZ WMF WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为TGA（Targa图像）可实现高质量的PostScript图形栅格化，用于视频、多媒体和游戏设计项目。TGA保持色彩深度，并支持透明通道，用于高级图像合成。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将PostScript插图转换为TGA图像，用于多媒体制作。
+* 将PS图表转换为用于3D渲染和动画流水线的图像。
+* 为游戏设计资产导出技术图形。
+* 为视频叠加或合成工作流程准备PS布局。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在多媒体制作流水线中自动化PS到TGA的转换。
+* 批量处理PS图像，用于视频和游戏项目。
+* 与图形引擎集成，用于动态渲染工作流程。
+* AI辅助优化PS视觉效果，以生成带有透明通道的TGA输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,31 @@ otherformats: XLTM MARKDOWN FODS XLSM XLAM XLTX XLS MHTML DIF XLSX EXCEL XLSB TS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片放映）文件转换为XLSM（启用宏的工作簿）可实现高级自动化和动态分析。这对于希望嵌入宏和VBA脚本以交互式数据衍生自演示内容的用户来说是理想的选择。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从PPS幻灯片创建宏驱动的仪表板。
+* 将重复出现的演示文稿转换为自更新的Excel模板。
+* 利用VBA宏更新的KPI跟踪器。
+* 嵌入从PowerPoint幻灯片提取的自动摘要计算。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 集成到Excel自动化工作流程中。
+* 将PPS幻灯片转换为用于项目报告的XLSM模板。
+* 从PowerPoint数据集中定期生成基于宏的Excel。
+* 用于定期业务更新的幻灯片到宏表格的自动转换。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ otherformats: WORDX TEXT FLATOPC WORD RTF ODT WORDM WORDML OTT DOT DOTX DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование PPTX в WORD предоставляет универсальное решение для преобразования презентаций в редактируемые текстовые документы. Это позволяет пользователям объединить визуальные элементы и описания в один читаемый формат, идеально подходящий для обмена, печати и публикации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание читаемых документов на основе слайдов презентации.
+* Преобразование слайдов совещаний в структурированные файлы Word.
+* Сочетание заметок и визуальных элементов в формат отчета.
+* Подготовка материалов и документации на основе слайдов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированные рабочие процессы для отчетов о совещаниях.
+* Преобразование PowerPoint в Word в корпоративных архивах.
+* Интеграция с инструментами документации проекта.
+* Пакетная обработка учебных и корпоративных материалов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

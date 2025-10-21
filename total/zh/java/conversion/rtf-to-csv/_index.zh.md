@@ -61,7 +61,31 @@ otherformats: ODS XLTM XLSX XLS XLAM FODS XLSM DIF SXC XLSB XLT XLTX EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 RTF（富文本格式）文档转换为 CSV（逗号分隔值）可简化提取结构化文本和表格数据，以供数据库或电子表格应用程序使用。这种转换被广泛用于将格式化报告转换为轻量级、数据中心的文件，用于分析或导入操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将基于 RTF 的发票和交易日志导出为 CSV，以供会计工具使用。
+* 将格式化的 RTF 表格转换为 BI 平台的 CSV 数据集。
+* 将 RTF 研究结果转换为 Excel 或 Google Sheets 的结构化数据。
+* 在 CRM 或 ERP 系统中简化文档到数据库的工作流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于报告仪表板的实时 RTF 到 CSV 转换。
+* 用于大规模数据提取的批处理文档处理。
+* 集成到 ETL 和数据迁移管道中。
+* 使用传统 RTF 记录自动生成 CSV 的 SaaS 平台自动化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,31 @@ otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS MARKDOWN XLSB MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX转换为Markdown将静态演示文稿转变为轻量级、适合网络的文本。Markdown提供了内容共享的简便性，便于在博客、文档平台和静态网站上进行发布。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PowerPoint演示文稿重新用于技术文档。
+* 在基于Git的wiki上发布幻灯片备注和内容。
+* 创建博客就绪的演示文稿摘要。
+* 将企业演示文稿转换为知识库文章。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从企业培训幻灯片自动导出Markdown。
+* 与Hugo或Jekyll等文档构建系统集成。
+* 批量处理，将内部演示文稿转换为Markdown文章。
+* 用于Markdown格式内容版本控制的持续集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,31 @@ Při převodu souboru SVG na MD můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na Markdown (MD) umožňuje vkládání vektorových diagramů přímo do dokumentace, souborů README a generátorů statických stránek. Tento přístup udržuje grafiku lehkou a plně škálovatelnou a zároveň zlepšuje čitelnost technického obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání architektonických diagramů do souborů README softwarových projektů.
+* Interaktivní organizační diagramy pro repozitáře dokumentace open-source projektů.
+* Markdownové e-knihy a návody s vektorovými ilustracemi.
+* Technické blogy s čistými, škálovatelnými vizuály bez dalších obrázkových souborů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický převod SVG na MD pro dokumentační pipeline.
+* Plánované generování vektorových diagramů pro aktualizace znalostní báze.
+* Integrace se statickými generátory stránek jako Hugo nebo Jekyll.
+* Nepřetržité synchronizování aktualizací designu do technických souborů Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

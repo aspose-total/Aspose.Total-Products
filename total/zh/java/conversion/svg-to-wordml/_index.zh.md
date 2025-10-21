@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为WORDML（WordprocessingML）会创建完全嵌入矢量图的基于XML的Word文档。WORDML非常适合用于程序化文档处理、模板化和自动化工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 使用嵌入的SVG可视化元素程序化生成Word报告。
+* 用于自动编辑的XML学术和研究模板。
+* 用于版本控制工作流程的标准化项目文档。
+* 将交互式SVG内容存档为结构化XML格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于报告系统的批量自动SVG转WORDML转换。
+* 将基于SVG的模板定期导出为XML以进行工作流自动化。
+* 与文档生成API和内容管理系统集成。
+* 用于动态、程序控制的Word文档的触发生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

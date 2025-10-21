@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى OTT (OpenDocument Text Template) يسمح للفرق بإنشاء قوالب نصية قياسية وقابلة لإعادة الاستخدام. تعتبر قوالب OTT مثالية للتقارير المتكررة، والرسائل، أو النماذج، مستفيدة من تخطيطات PostScript لتنسيق متسق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء قوالب نصية قابلة لإعادة الاستخدام من التقارير والمستندات المعتمدة على PS.
+* توحيد الرسائل، والنماذج، والتقارير الداخلية عبر الفرق.
+* تحويل الدلائل التي تم إنشاؤها بواسطة PS إلى قوالب OTT قابلة للتحرير.
+* إعداد تخطيطات PostScript للوثائق المتكررة في بيئات مفتوحة المصدر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل دفعة من PS إلى OTT لمكتبات القوالب في بيئات الشركات.
+* دمجها في أنظمة إدارة الوثائق لنشر القوالب قابلة لإعادة الاستخدام.
+* سير عمل آلي لتحويل ملفات PostScript إلى OTT للاستخدام المتكرر.
+* استخراج وتنسيق مدفوع بالذكاء الاصطناعي من تخطيطات PS إلى قوالب نصية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

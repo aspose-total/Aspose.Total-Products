@@ -61,7 +61,31 @@ otherformats: XLSB XLAM SXC TSV MHTML EXCEL XLTM XLS XLSX XLSM FODS XLT MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX演示文稿转换为XLAM（Excel Add-in Macro）为开发人员提供了一种创造性方法，可以将基于幻灯片的数据逻辑嵌入自动化的Excel解决方案中。此转换支持宏启用的工作流程和动态报告。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将演示文稿数据嵌入为Excel自动化的宏。
+* 将PowerPoint指标转换为Excel驱动的仪表板。
+* 从演示内容生成宏启用的Excel报告。
+* 为幻灯片到电子表格数据同步创建XLAM工具。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于业务分析的自动化PPTX到XLAM宏生成。
+* 与基于Excel的自动化框架集成。
+* 增强PowerPoint到Excel互操作性的ETL工作流程。
+* 为企业报告生态系统创建定期的插件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

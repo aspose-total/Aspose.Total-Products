@@ -53,7 +53,31 @@ otherformats: TEXT DOTM WORDML ODTM RTF FLATOPC DOT WORD ODT ODTX OTT DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή παρουσιάσεων PPT (PowerPoint) σε μορφή ODT (OpenDocument Text) επιτρέπει την εξαγωγή περιεχομένου διαφανειών σε επεξεργάσιμα εγγράφατεκμήνων κειμένου. Αυτό είναι ιδιαίτερα χρήσιμο για τη δημιουργία αναφορών, εκπαιδευτικού υλικού ή τεκμηρίωσης βασισμένης σε κείμενο από υπάρχουσες διαφάνειες παρουσιάσεων.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Μετατροπή παρουσιάσεων PowerPoint σε εγγράφα κειμένου για λεπτομερείς αναφορές.
+* Επαναχρησιμοποίηση περιεχομένου διαφανειών για επεξεργαστές κειμένου ανοικτού κώδικα όπως το LibreOffice Writer.
+* Δημιουργία επεξεργάσιμης τεκμηρίωσης από περιλήψεις έργων βασισμένες σε διαφάνειες.
+* Δημιουργία εγχειριδίων εκπαίδευσης και υλικού από αρχεία PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένες μετατροπές PowerPoint σε ODT σε συστήματα ακαδημαϊκής δημοσίευσης.
+* Ενσωμάτωση με ροές εργασίας δημιουργίας εγγράφων για χρήστες ανοικτού κώδικα.
+* Προγραμματισμένη εξαγωγή διαφανειών σε ODT για συμμόρφωση και αρχειοθέτηση.
+* Μετατροπή παρουσιάσεων μάρκετινγκ σε επεξεργάσιμα πρότυπα περιεχομένου.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

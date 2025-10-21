@@ -53,7 +53,31 @@ otherformats: RTFM RTFX DOTM FLATOPC OTT RTF ODT WORD TEXT DOT WORDML DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى RTF (تنسيق نص غني) يسمح للمستخدمين بإنشاء مستندات نصية مستقلة عن النظام مع الحفاظ على التنسيق. وهذا يضمن قراءة النص عبر معالجات النصوص المختلفة وأنظمة التشغيل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير نصوص PowerPoint إلى RTF للمشاركة عبر منصات متعددة.
+* تحويل الشرائح التعليمية إلى ملاحظات قابلة للطباعة بتنسيق.
+* إنشاء تقارير RTF خفيفة الوزن من عروض الأعمال PPS.
+* إنشاء وثائق قابلة للنقل لأغراض الأرشفة أو المراجعة.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل RTF تلقائي لتوزيع وثائق الامتثال.
+* دمجه في أنظمة إدارة المعرفة لتخزين الملفات الخفيفة.
+* جدولة تصدير الشرائح إلى RTF لملخصات قائمة على النص.
+* إنشاء دفعة من ملفات العروض لتوليد ملفات RTF.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

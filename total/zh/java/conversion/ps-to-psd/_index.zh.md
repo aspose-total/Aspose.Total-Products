@@ -57,7 +57,31 @@ otherformats: JPEG2000  WMZ EMZ PSD DXF TGA WMF SVGZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）转换为PSD（Photoshop文档）为图形设计师和创意团队提供了完全可编辑的图层，用于高级图像处理。这个过程允许对复杂的PostScript视觉元素进行重新制作、重新着色和合成，使用Adobe Photoshop或兼容软件。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 在Photoshop中编辑基于PS的标志和矢量图形。
+* 通过将PS布局转换为分层PSD文件，创建营销模板。
+* 将技术图表整合到设计工作流程中，以确保品牌一致性。
+* 将准备出版的PS文件转换为可编辑的设计项目。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于设计生产流程的自动化PS到PSD转换。
+* 跨创意团队进行品牌资产管理的批量处理。
+* 与Adobe自动化脚本集成，进行实时设计调整。
+* 基于AI的图层分离和增强，从PS原始文件中进行。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,29 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir SVG a DOTM (Plantilla de Word habilitada para macros) permite crear plantillas reutilizables que combinan gráficos vectoriales escalables con macros. Ideal para informes interactivos, formularios y documentos de flujo de trabajo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Plantillas de seguimiento de proyectos habilitadas para macros con gráficos SVG incrustados.
+* Plantillas financieras u operativas reutilizables para flujos de trabajo empresariales.
+* Plantillas académicas o de investigación que integran diagramas dinámicos y automatización.
+* Materiales de e-learning interactivos que utilizan diagramas SVG mejorados con macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión automatizada de SVG a DOTM para plantillas recurrentes habilitadas para macros.
+* Actualizaciones programadas de plantillas con nuevos datos SVG y macros.
+* Integración en sistemas de automatización de flujos de trabajo que requieren plantillas reutilizables.
+* Pipelines de conversión activados para paneles de informes interactivos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ otherformats: EXCEL XLSX XLSB FODS DIF ODS XLT MARKDOWN SXC XLTM XLTX XLAM MHTML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в формат MHTML (MIME HTML) создает одностраничную автономную версию вашей презентации. Это преобразование идеально подходит для распространения слайд-деков по электронной почте, встраивания презентаций в Интернете или создания архивов, совместимых с браузерами, без необходимости установки программы PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Публикация презентаций PowerPoint в виде веб-доступных страниц MHTML.
+* Обмен интерактивными слайдами в корпоративных интранетах и системах управления обучением.
+* Создание архивов HTML в одном файле для соблюдения требований или долгосрочного хранения.
+* Встраивание презентаций компании непосредственно на веб-сайты или внутренние панели управления.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в MHTML для доставки онлайн-курсов.
+* Интеграция с платформами управления контентом для встраивания презентаций.
+* Пакетная обработка для корпоративных порталов коммуникации.
+* Построение контента PowerPoint в реальном времени для просмотра в Интернете.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

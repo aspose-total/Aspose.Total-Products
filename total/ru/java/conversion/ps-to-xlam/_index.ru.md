@@ -47,7 +47,31 @@ otherformats: XLT EXCEL TXT SXC DIF TSV XLTM FODS XLSB XLTX ODS XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PS (PostScript) в XLAM (дополнение Excel) позволяет создавать дополнения Excel на основе логики, макросов или автоматизации, происходящих из PostScript. Это позволяет использовать расширенные функции Excel, основанные на визуальном или данных, извлеченных из файлов PS.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Встраивание расчетов или шаблонов на основе PostScript в дополнения Excel.
+* Создание многоразовых средств автоматизации на основе отчетов, сгенерированных из PS.
+* Преобразование графиков на основе PS в интерактивные панели управления Excel через XLAM.
+* Предоставление возможности корпоративным пользователям развертывать автоматизацию, основанную на PostScript, в Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PS в XLAM для внутренних инструментов Excel.
+* Интеграция в корпоративные потоки автоматизации рабочих процессов.
+* Генерация макросов Excel из данных PostScript с помощью искусственного интеллекта.
+* Планирование обновлений дополнений с содержимым, извлеченным из макетов PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

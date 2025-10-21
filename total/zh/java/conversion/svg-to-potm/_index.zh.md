@@ -121,7 +121,31 @@ presentation.save("output.potm", SaveFormat.Potm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为POTM（启用宏的PowerPoint模板）可创建具有宏的可重用模板，用于自动化，同时嵌入可缩放的矢量图形。非常适合交互式和自动化演示工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 嵌入SVG可视化效果的启用宏的企业演示模板。
+* 具有动态图表和图表的自动化报告幻灯片。
+* 使用宏驱动的互动式培训和指导幻灯片模板。
+* 利用SVG内容的互动式学术或研究模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定期将SVG转换为POTM以生成启用宏的演示文稿。
+* 将宏自动注入模板以生成动态幻灯片。
+* 与团队范围的模板使用的工作流自动化集成。
+* 为交互式仪表板和报告触发模板生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

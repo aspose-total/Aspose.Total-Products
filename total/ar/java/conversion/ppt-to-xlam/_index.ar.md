@@ -61,7 +61,31 @@ otherformats: TSV SXC ODS MARKDOWN XLS XLAM XLTM XLSB EXCEL XLSX FODS XLTX XLSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPT (باوربوينت) إلى تنسيق XLAM (إضافة إكسل) يمكن تضمين بيانات العرض التفاعلي مباشرة داخل ماكرو إكسل. يمكن للشركات أتمتة سير العمل التحليلي، وتعزيز لوحات المعلومات، وإنشاء أدوات أتمتة بصرية إلى بيانات قابلة لإعادة الاستخدام باستخدام هذا التحويل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين تقارير الباوربوينت البصرية داخل لوحات المعلومات في إكسل.
+* تحويل شرائح الأداء أو KPI إلى أدوات ديناميكية ممكّنة للماكرو.
+* بناء قوالب تحليلية قابلة لإعادة الاستخدام من بيانات العرض.
+* أتمتة تحديث نماذج مالية مدفوعة بالشرائح في إكسل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء ملفات XLAM تلقائيًا من تحليلات الباوربوينت لمستخدمي إكسل المتقدمين.
+* التكامل مع أتمتة VBA لتحليلات المؤسسات.
+* أتمتة ETL ربط مقاييس الباوربوينت بماكرو الجداول الإلكترونية.
+* تحويل مجدول من PPT إلى XLAM للإبلاغ المستمر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

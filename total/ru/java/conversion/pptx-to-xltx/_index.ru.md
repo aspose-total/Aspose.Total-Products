@@ -61,7 +61,31 @@ otherformats: EXCEL DIF ODS XLSM XLTX XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование PPTX в XLTX (шаблон Excel) позволяет бизнесу создавать структурированные и визуально согласованные шаблоны непосредственно из презентаций PowerPoint. Это упрощает создание отчетов и обеспечивает согласованность бренда.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов Excel, отражающих стандарты дизайна PowerPoint.
+* Создание отформатированных листов с KPI из слайдов.
+* Переиспользование презентаций в шаблоны отчетности отделов.
+* Создание единой структуры представления данных.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное создание XLTX для финансовых и маркетинговых команд.
+* Интеграция в системы предоставления шаблонов.
+* Запланированное создание шаблонов из PowerPoint в рамках корпоративных рабочих процессов.
+* Управление централизованными шаблонами Excel, полученными из презентаций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

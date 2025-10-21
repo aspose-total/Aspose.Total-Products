@@ -130,7 +130,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى RTF (تنسيق النص الغني) يمكن من تضمين الرسوم البيانية الناقلة في وثائق نصية مدعومة عالميًا. يحافظ RTF على التنسيق عبر معالجات النص المختلفة وأنظمة التشغيل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين الرسوم البيانية SVG في تقارير أو دليل متعدد المنصات.
+* وثائق تقنية أو تعليمية موحدة تحتوي على رسوم بيانية ناقلة.
+* قوالب مشاريع قابلة للنقل تضمن رسوم بيانية SVG.
+* وثائق أكاديمية أو عروض تقديمية تتطلب تنسيقات نص متوافقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي آلي لملفات SVG إلى RTF لتوزيع الوثائق.
+* تحديثات مجدولة للدلائل التقنية برسوم بيانية SVG جديدة.
+* دمج مع أنظمة إدارة المحتوى للوصول متعدد المنصات.
+* إنشاء وثائق RTF بشكل مفعل لسير العمل غير المتصل أو القابل للنقل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

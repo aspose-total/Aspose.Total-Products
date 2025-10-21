@@ -47,7 +47,29 @@ otherformats: XLTM EXCEL FODS TSV ODS XLT XLSB MD SXC XLSM XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PS (PostScript) إلى XLTM (Excel Macro-Enabled Template) يجمع بين التلقائية والاتساق. يمكنه إنشاء قوالب قابلة لإعادة الاستخدام ومدعومة بالماكرو من مستندات PS المهيكلة لتقارير مالية أو تشغيلية متكررة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل فواتير PS إلى قوالب تقارير مدعومة بالماكرو.
+* تطوير قوالب نماذج متكررة لإدخال البيانات والتحقق.
+* تبسيط تحليلات مبنية على PS إلى عمليات Excel قابلة للتكرار.
+* إعداد قوالب مالية أو للموارد البشرية مع ماكروهات Excel مضمنة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+* تحويل دفعي من PS إلى XLTM لأنظمة تقارير مدعومة بالماكرو.
+* التكامل مع أنظمة ERP لإنشاء قوالب مستندات تلقائية.
+* سير العمل للتحويل الدوري لتقارير الامتثال الشركية.
+* مساعدة الذكاء الاصطناعي في ملء القوالب من تخطيطات PostScript.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

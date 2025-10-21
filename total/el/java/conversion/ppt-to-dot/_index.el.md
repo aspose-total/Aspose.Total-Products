@@ -53,7 +53,31 @@ otherformats: WORDML DOTM RTF DOTM TEXT OTT DOTX FLATOPC WORD DOTX DOT ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή παρουσιάσεων PPT (PowerPoint) σε μορφή DOT (Πρότυπο Word) επιτρέπει τη δημιουργία επαναχρησιμοποιήσιμων προτύπων Word βασισμένων στις διατάξεις της παρουσίασης. Αυτό είναι ιδανικό για τη διασφάλιση συνεπούς μορφοποίησης και επικοινωνιακής ταυτότητας σε όλα τα δημιουργούμενα έγγραφα.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Δημιουργία προτύπων Word από επωνυμωμένες διαφάνειες PowerPoint.
+* Σχεδιασμός επαναχρησιμοποιήσιμων προτύπων αναφοράς για την τεκμηρίωση επιχειρήσεων.
+* Τυποποίηση στυλ και δομής σε αναφορές έργων.
+* Μετατροπή σχεδίων παρουσιάσεων εταιρείας σε εσωτερικά πρότυπα εγγράφων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή PPT σε DOT για τη διαχείριση εγγράφων εταιρικής ταυτότητας.
+* Ενσωμάτωση με ροές εργασίας ανθρώπινου δυναμικού, μάρκετινγκ και επικοινωνίας.
+* Μαζική δημιουργία τμηματικών προτύπων από παρουσιάσεις.
+* Προγραμματισμένες εξαγωγές για ενημερώσεις βιβλιοθήκης προτύπων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

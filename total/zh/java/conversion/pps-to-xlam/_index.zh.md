@@ -61,7 +61,31 @@ otherformats: XLSX XLT MARKDOWN FODS XLSM XLSB MHTML XLTM TSV XLTX DIF XLS SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 PPS（PowerPoint 幻灯片展示）文件转换为 XLAM（Excel 加载项）可以将幻灯片衍生数据嵌入到支持宏的加载项中。这种转换非常适合需要将 PowerPoint 数据集成到 Excel 扩展中的开发人员和分析师。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 使用基于幻灯片的指标构建 XLAM 加载项，用于自动报告。
+* 从 PPS 幻灯片数据创建宏驱动的仪表板。
+* 使用转换后的幻灯片数值生成用于实时 KPI 跟踪的加载项。
+* 将 PPS 内容集成到高级 Excel 自动化脚本中。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从部门演示文件自动生成 XLAM 加载项。
+* 集成到企业 Excel 自动化系统中。
+* 定时将 PowerPoint 转换为 XLAM，用于实时报告模块。
+* 批量创建加载项，用于动态数据可视化工作流程。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

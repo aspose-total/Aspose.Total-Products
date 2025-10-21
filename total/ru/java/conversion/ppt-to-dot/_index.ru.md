@@ -53,7 +53,31 @@ otherformats: WORDML DOTM RTF DOTM TEXT OTT DOTX FLATOPC WORD DOTX DOT ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в формат DOT (шаблон Word) позволяет создавать многоразовые шаблоны Word на основе макетов презентаций. Это идеально подходит для обеспечения согласованного форматирования и брендинга во всех создаваемых документах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов Word на основе брендированных слайдов PowerPoint.
+* Разработка многоразовых шаблонов отчетов для документации предприятия.
+* Стандартизация стиля и структуры в отчетах по проектам.
+* Преобразование дизайнов презентаций компании во внутренние шаблоны документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в DOT для управления документами бренда.
+* Интеграция с рабочими процессами HR, маркетинга и коммуникаций.
+* Пакетное создание отделоспецифических шаблонов из презентаций.
+* Планирование экспорта для обновления библиотеки шаблонов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

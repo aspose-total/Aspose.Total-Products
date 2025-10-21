@@ -61,7 +61,31 @@ otherformats: EXCEL DIF ODS XLSM XLTX XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX转换为XLTX（Excel模板）可以帮助企业直接从PowerPoint演示文稿生成结构化和视觉一致的模板。这简化了报告的创建并强化了品牌一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 构建与PowerPoint设计标准相符的Excel模板。
+* 从幻灯片创建格式化的KPI表。
+* 将演示文稿重新用于部门报告模板。
+* 建立统一的数据呈现框架。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 为财务和营销团队自动创建XLTX。
+* 集成到模板供应系统中。
+* 在企业工作流程中安排定期的从PowerPoint生成模板。
+* 管理从演示文稿衍生的集中式Excel模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

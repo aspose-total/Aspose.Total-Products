@@ -61,7 +61,31 @@ otherformats: ODS XLS TSV XLSM FODS SXC XLT XLAM XLSB XLTX EXCEL XLTM DIF XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов RTF в формат FODS (Flat XML ODF Spreadsheet) устраняет разрыв между стилизованным текстовым содержимым и средами электронных таблиц с открытым исходным кодом. Это преобразование сохраняет структуру, предлагая гибкость для пользователей LibreOffice и OpenOffice, предпочитающих не бинарные форматы на основе XML.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Преобразование отформатированных исследовательских таблиц в документах RTF в редактируемые листы FODS.
+* Архивирование офисных документов в открытом стандартном формате FODS для соответствия требованиям.
+* Подготовка отчетов о государственных данных для анализа на основе LibreOffice.
+* Создание шаблонов электронных таблиц из процедурных руководств RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Преобразование RTF в FODS в реальном времени в системах управления открытыми документами.
+* Автоматизированные архивные конвейеры, обеспечивающие стандартизацию формата.
+* Интеграция с инструментами ERP с открытым исходным кодом, требующими структурированные входные данные XML.
+* Запланированные преобразования для репозиториев документов, поддерживающих рабочие процессы ODF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

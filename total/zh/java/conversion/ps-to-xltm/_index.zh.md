@@ -49,7 +49,31 @@ otherformats: XLTM EXCEL FODS TSV ODS XLT XLSB MD SXC XLSM XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）转换为XLTM（Excel宏启用模板）将自动化和一致性结合在一起。它可以从结构化的PS文档中创建可重用的、带宏的模板，用于重复的财务或运营报告。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PS发票转换为带宏的报告模板。
+* 开发用于数据输入和验证的自动化表单模板。
+* 将基于PS的分析流程优化为可重复的Excel流程。
+* 准备带有嵌入式Excel宏的财务或人力资源模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将PS转换为XLTM，用于带宏驱动的报告系统。
+* 与ERP系统集成，用于自动化文档模板创建。
+* 用于公司合规报告的定期转换工作流程。
+* 从PostScript布局中辅助AI填充模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,31 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG в POTX (шаблон PowerPoint Open XML) создает современные, многоразовые шаблоны слайдов с векторной графикой. POTX идеален для стандартизации презентаций в командах с легкими шаблонами без макросов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Создание многоразовых шаблонов бизнес-отчетности с графиками SVG.
+* Образовательные слайды с встроенными векторными диаграммами.
+* Стандартизированные шаблоны маркетинговых кампаний для использования командой.
+* Академические или конференционные шаблоны презентаций с масштабируемыми визуальными элементами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное создание шаблонов SVG в POTX для повторяющихся потребностей в презентациях.
+* Плановое обновление шаблонов с новым содержимым SVG.
+* Интеграция с корпоративным автоматизированным рабочим процессом для однородного форматирования.
+* Запуск процессов создания шаблонов из живых панелей SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

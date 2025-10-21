@@ -61,7 +61,31 @@ otherformats: XLAM XLSM ODS FODS TSV DIF XLS XLT XLSB XLTM XLTX XLSX EXCEL SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов RTF в XLSM (Excel Macro-Enabled Workbook) расширяет функциональность документа, объединяя отформатированные данные с возможностями автоматизации Excel. Это идеально подходит для динамической отчетности, аналитики и принятия решений на основе данных.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Встраивание таблиц RTF в макросы Excel для автоматического обновления отчетов.
+* Автоматизация процессов преобразования данных с помощью сценариев VBA.
+* Преобразование процедурных документов RTF в макро-управляемые финансовые инструменты.
+* Создание интерактивных панелей управления на основе наборов данных RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Преобразование RTF в XLSM для развертывания автоматизации в Excel.
+* Интеграция с инструментами бизнес-аналитики и финансового моделирования.
+* Плановое создание макро-рабочих книг из хранилищ документов.
+* Автоматическое привязывание макросов во время рабочих процессов по преобразованию данных.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

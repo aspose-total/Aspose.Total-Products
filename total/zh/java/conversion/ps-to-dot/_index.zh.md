@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为DOT（Word模板）可以帮助企业标准化文档格式和布局。DOT模板可用于官方信函、报告和客户文件，无需重新设计即可重复使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从基于PostScript的报告创建可重复使用的Word模板。
+* 标准化商业抬头、表格和内部文件。
+* 将PS生成的视觉布局转换为可编辑的Word模板。
+* 在多个团队生成的文档中保持设计一致性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于模板管理系统的自动化PS到DOT转换。
+* 与内容管理系统集成，用于可重复使用的文档模板。
+* 批处理生成部门特定模板。
+* 从基于PostScript的品牌资产定期更新Word模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

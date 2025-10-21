@@ -47,7 +47,29 @@ Al convertir un archivo SVG a TXT, también puede agregar una marca de agua a su
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir SVG a TXT (Texto sin formato) extrae contenido textual de gráficos vectoriales para análisis, indexación o documentación ligera. TXT es ideal para flujos de trabajo simples y scriptables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Extracción de etiquetas y anotaciones de diagramas SVG para documentación.
+* Creación de versiones de texto sin formato buscables de ilustraciones técnicas.
+* Generación de informes de metadatos SVG ligeros para análisis de datos.
+* Compartir rápidamente contenido SVG textual sin imágenes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Extracción automatizada de texto SVG a TXT para tuberías de informes.
+* Generación programada de documentación de texto sin formato a partir de diagramas vectoriales.
+* Integración con sistemas de indexación y búsqueda.
+* Conversión activada para análisis y flujos de trabajo de contenido ligero.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

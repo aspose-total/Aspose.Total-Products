@@ -61,7 +61,31 @@ otherformats: ODS EXCEL XLTM XLT XLTX XLSX XLSM XLSB FODS TSV SXC XLAM DIF XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF转XLSB（Excel二进制工作簿）转换可提升大型数据集的性能，同时保持Excel功能完整。对于需要将RTF内容导入Excel时需要高效存储和更快加载时间的用户来说，这是理想选择。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于RTF的表格转换为优化的XLSB数据文件。
+* 处理大容量文档数据，提升Excel性能。
+* 将RTF报告数据嵌入宏驱动的Excel应用程序。
+* 在保留电子表格准确性的同时减小文件大小。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将RTF文档转换为XLSB，用于企业系统。
+* 与性能关键的财务仪表板集成。
+* 在报告流水线中自动生成XLSB。
+* 用于数据处理平台的实时RTF到XLSB转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

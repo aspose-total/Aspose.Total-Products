@@ -61,7 +61,31 @@ otherformats: XLTX XLAM XLSM XLT FODS XLSB XLS DIF XLSX TSV XLTM ODS SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将RTF转换为XLT（Excel模板）允许将格式化的文档数据转换为可重复使用的电子表格模板。这对于标准化报告布局或自动化文档创建的组织特别有用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将RTF业务表单转换为Excel报告模板。
+* 从RTF布局设计标准化的公司报告结构。
+* 从基于RTF的表格创建数据输入模板。
+* 将RTF清单转换为基于Excel的生产工具。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于报告标准化的自动化RTF到XLT模板生成。
+* 与Excel插件系统集成，用于可重复使用的业务表单。
+* 用于企业文档工作流程的定时转换。
+* 将RTF报告批量处理为Excel模板库。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,31 @@ otherformats: XLT SXC XLTM XLSB ODS MD EXCEL XLTX DIF TSV TXT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή SVG σε Markdown (MD) επιτρέπει την ενσωμάτωση διανυσματικών διαγραμμάτων απευθείας στην τεκμηρίωση, τα αρχεία README και τους γεννήτριες στατικών ιστότοπων. Αυτή η προσέγγιση διατηρεί τα γραφικά ελαφριά και πλήρως κλιμακούμενα, ενώ βελτιώνει την αναγνωσιμότητα του τεχνικού περιεχομένου.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Ενσωμάτωση αρχιτεκτονικών διαγραμμάτων στα αρχεία README έργων λογισμικού.
+* Διαδραστικά διαγράμματα ροής για αποθετήρια τεκμηρίωσης ανοικτού κώδικα.
+* Ηλεκτρονικά βιβλία και μαθήματα βασισμένα σε Markdown με ενσωματωμένες διανυσματικές εικόνες.
+* Τεχνικά blogs που χρησιμοποιούν καθαρές, κλιμακούμενες οπτικές χωρίς πρόσθετα αρχεία εικόνων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή SVG σε MD για αγωγούς τεκμηρίωσης.
+* Προγραμματισμένη δημιουργία διαγραμμάτων για ενημερώσεις βάσης γνώσης.
+* Ενσωμάτωση με γεννήτριες στατικών ιστότοπων όπως το Hugo ή το Jekyll.
+* Συνεχής συγχρονισμός ενημερώσεων σχεδιασμού στα τεχνικά αρχεία Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

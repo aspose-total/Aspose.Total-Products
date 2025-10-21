@@ -121,7 +121,31 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为PPT（PowerPoint 97-2003）可将矢量图形嵌入传统幻灯片中。PPT确保与旧版PowerPoint版本兼容，同时保持视觉质量。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 在嵌入SVG仪表板的公司演示中使用传统软件。
+* 使用旧版PowerPoint格式的学术或研究幻灯片。
+* 与旧系统兼容的培训和指导幻灯片。
+* 针对跨版本兼容性标准化的营销演示。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将SVG转换为适用于传统演示需求的PPT。
+* 将基于SVG的幻灯片定期导出到旧版PowerPoint格式。
+* 与报告管道集成，用于传统演示交付。
+* 触发转换以实现自动化幻灯片创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,31 @@ otherformats: PPT POTX PPTM PPS POWERPOINT POT PPTX POTM PPSX PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων RTF σε ODP (OpenDocument Presentation) μετατρέπει περιεχόμενο πλούσιο σε κείμενο σε εντυπωσιακές παρουσιάσεις συμβατές με το LibreOffice Impress και το Apache OpenOffice. Αυτή η ροή εργασίας ωφελεί εκπαιδευτικούς, εκπαιδευτές και επιχειρήσεις που επαναχρησιμοποιούν υλικό εγγράφου σε παρουσιάσεις.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή σημειώσεων διαλέξεων RTF σε δομημένες παρουσιάσεις ODP.
+* Μετατροπή εγχειριδίων εκπαίδευσης σε διαφάνειες για εργαστήρια επιχειρήσεων.
+* Δημιουργία decks ODP από προτάσεις RTF ή επιχειρηματικές περιλήψεις.
+* Επαναχρησιμοποίηση περιεχομένου κειμένου σε μορφές οπτικής αφήγησης.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη δημιουργία RTF σε ODP για αγωγούς περιεχομένου ηλεκτρονικής μάθησης.
+* Ενσωμάτωση με συστήματα διαχείρισης γνώσεων για δημιουργία παρουσιάσεων κατόπιν αιτήματος.
+* Μαζική μετατροπή εταιρικών εγγράφων RTF σε πρότυπα ODP.
+* Αυτοματοποιημένη δημιουργία διαφανειών από αποθετήρια εγγράφων για ομάδες μάρκετινγκ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

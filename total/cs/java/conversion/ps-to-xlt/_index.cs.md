@@ -47,7 +47,31 @@ Při převodu souboru PS na XLT můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PS (PostScript) na XLT (Excel Template) organizacím umožňuje vytvářet opakovaně použitelné formáty tabulek ze statických rozložení PostScriptu. To zajistí konzistentní styl a strukturu opakujících se zpráv, faktur a finančních výkazů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Generování Excelových šablon z návrhů zpráv založených na PS.
+* Vytváření opakovaně použitelných obchodních formulářů a datových listů.
+* Udržování konzistentních značkových rozložení v rámci dodávek v Excelu.
+* Vytváření firemních standardních šablon z archivovaných souborů PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná konverze PS na XLT pro standardizované šablony zpráv.
+* Integrace do systémů správy obsahu pro opakovaně použitelná designová aktiva.
+* Hromadné vytváření šablon pro více oddělení nebo poboček.
+* Dynamické generování XLT pro pracovní postupy dokumentace podniku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,31 @@ otherformats: TSV ODS EXCEL XLSB TXT XLSM DIF FODS MD XLTM XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为XLTM（Excel宏启用模板）可创建可重复使用的模板，结合矢量图形和VBA宏以实现自动化。非常适用于交互式报告、仪表板和工作流模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 带有嵌入式SVG图表的宏启用项目管理模板。
+* 具有交互式宏用于自动计算的可重复使用财务仪表板。
+* 使用SVG可视化和VBA增强的学术或研究报告模板。
+* 集成动态矢量图表和宏的运营工作流模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于定期宏启用报告模板的自动化SVG到XLTM转换。
+* 定期更新模板，包括新的SVG数据和嵌入式宏。
+* 集成到需要交互式模板的工作流自动化平台。
+* 用于交互式仪表板和运营报告的触发式转换流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

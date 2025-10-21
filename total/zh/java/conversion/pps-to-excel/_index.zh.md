@@ -61,7 +61,31 @@ otherformats: XLT ODS XLTX XLTM EXCEL SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 PPS（PowerPoint 幻灯片展示）文件转换为 Excel 格式，使用户能够将视觉展示数据转化为完全功能的电子表格。这种转换支持更好的数据操作、数据透视分析，并能够集成到业务工作流工具中。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将演示文稿中的表格转换为 Excel 以进行高级计算。
+* 从高管幻灯片报告生成绩效跟踪器。
+* 从摘要幻灯片创建可编辑的 Excel 仪表板。
+* 从演示文稿视觉内容准备财务模型和预测。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定期将 PPS 报告转换为基于 Excel 的分析模板。
+* 集成到云驱动器中进行共享数据协作。
+* 从会议或关键绩效指标演示幻灯片自动生成 Excel。
+* 批量转换以进行存档，并在报告周期间进行比较。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

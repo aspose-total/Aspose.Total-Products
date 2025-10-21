@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG（可缩放矢量图形）文件转换为DOCX（启用宏的Word文档）可在Word文档中嵌入交互式矢量图，并支持用于自动化的宏。 DOCX非常适用于动态报告、模板和教育材料。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 使用SVG图表和启用宏导航的交互式培训手册。
+* 结合动画或交互式矢量图表的商业报告。
+* 使用宏驱动的动态SVG可视化的学术研究论文。
+* 用于项目提案或企业工作流程的标准化模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG图表批量转换为DOCX以用于企业报告的自动化。
+* 从SVG可视化创建定时启用宏模板。
+* 与文档管理系统集成，用于交互式报告。
+* 用于动态教学内容的触发式SVG到DOCX转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

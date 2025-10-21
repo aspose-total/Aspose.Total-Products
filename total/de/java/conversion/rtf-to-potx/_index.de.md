@@ -54,7 +54,31 @@ Mit der API können Sie auch passwortgeschützte RTF-Dokumente in POTX konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von RTF-Dokumenten in POTX (PowerPoint Template Open XML) bietet ein sauberes, modernes und wiederverwendbares Folienlayout für Office 365 und PowerPoint 2019+. Es gewährleistet eine konsistente Layoutgestaltung bei Präsentationen, die auf RTF-basierten Inhalten basieren.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Umwandlung von RTF-Vorschlägen und Berichten in Unternehmens-PowerPoint-Vorlagen.
+* Gestaltung von Präsentationsthemen basierend auf formatierten Dokumentenstrukturen.
+* Konvertierung von RTF-basierten Styleguides in visuelle PowerPoint-Vorlagen.
+* Erstellung von Bildungsfolienvorlagen für eine konsistente akademische Verwendung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierung von RTF-zu-POTX für einheitliche Markenpräsentationen.
+* Integration mit Dokumentenmanagementsystemen zur Vorlagenerstellung.
+* Geplante Generierung moderner PowerPoint-Vorlagen aus RTF-Berichten.
+* Stapelkonvertierung von Inhaltsarchiven in wiederverwendbare POTX-Formate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

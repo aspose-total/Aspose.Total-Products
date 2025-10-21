@@ -61,7 +61,31 @@ otherformats: XLT ODS XLTX XLTM EXCEL SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в формат Excel позволяет пользователям превратить данные визуальной презентации в полнофункциональные электронные таблицы. Это преобразование поддерживает более удобную манипуляцию данными, анализ сводных таблиц и интеграцию в инструменты рабочего процесса бизнеса.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование таблиц презентации в Excel для расширенных вычислений.
+* Создание инструментов отслеживания производительности на основе отчетов руководства.
+* Создание редактируемых панелей управления Excel на основе сводных слайдов.
+* Подготовка финансовых моделей и прогнозов на основе визуальных материалов презентации.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое преобразование отчетов PPS в шаблоны аналитики на основе Excel.
+* Интеграция в облачные хранилища для совместной работы с данными.
+* Автоматическое создание Excel из слайдов совещаний или презентаций KPI.
+* Массовое преобразование для архивирования и сравнения данных за различные периоды отчетности.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,31 @@ API také umožňuje převádět dokumenty RTF chráněné heslem na PPTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů RTF na PPTM (prezentace s povolenými makry pro PowerPoint) slučuje strukturovaný obsah dokumentu s interaktivními makry. Podporuje automatizovanou generaci snímků, interaktivitu dat a multimediální integraci pro profesionální použití.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření interaktivních prezentací z obchodních zpráv ve formátu RTF.
+* Automatizace aktualizací prezentací pomocí vestavěných maker.
+* Vytváření chytrých výukových materiálů, které reagují na vstup uživatele.
+* Převádění dokumentace ve formátu RTF do dynamických, daty propojených snímků.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Konverze RTF na PPTM pro pracovní postupy prezentací řízených makry.
+* Integrace s automatizačními platformami pro vizualizace obchodních informací.
+* Plánované vytváření makro-povolených prezentací v PowerPointu.
+* Automatická generace interaktivních firemních briefinků ze zdrojů ve formátu RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

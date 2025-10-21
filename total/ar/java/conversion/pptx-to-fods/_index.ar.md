@@ -61,7 +61,31 @@ otherformats: DIF EXCEL XLSX XLS XLSM MARKDOWN XLAM MHTML XLTX TSV SXC ODS XLT F
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPTX إلى FODS (جدول بيانات OpenDocument المسطح) يمكن أن يسهل عملية هجرة البيانات بسلاسة من شرائح PowerPoint إلى تخطيطات جداول بيانات قابلة للتحرير. إنه مفيد بشكل خاص لتحويل التقارير الجدولية والرسوم البيانية والرؤى الرئيسية للأداء إلى بيانات منظمة لمستخدمي LibreOffice أو OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل شرائح تقرير PowerPoint إلى جداول بيانات قابلة للتحرير.
+* استخراج رسوم الأداء للتحليل في LibreOffice Calc.
+* إعادة استخدام بيانات العرض التقديمي في بيئات جداول البيانات مفتوحة المصدر.
+* إنشاء أوراق عمل KPI قابلة للتحرير من العروض التقديمية الشركية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعة من PPTX إلى FODS لبوابات الحكومة ذات البيانات المفتوحة.
+* تحويل آلي للتعاون في الفريق باستخدام FODS.
+* التكامل مع أنابيب إنشاء التقارير.
+* التزامن مع سير العمل لإدارة البيانات مفتوحة المصدر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

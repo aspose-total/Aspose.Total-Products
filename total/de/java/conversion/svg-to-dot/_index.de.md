@@ -130,7 +130,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG in DOT (Word 97-2003-Vorlage) ermöglicht die Erstellung wiederverwendbarer Dokumentenvorlagen mit eingebetteten Vektorgrafiken, die mit älteren Word-Versionen kompatibel sind. DOT gewährleistet eine konsistente Formatierung über Legacy-Systeme hinweg.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Standardisierte Berichtsvorlagen mit SVG-Diagrammen für Legacy-Word-Dokumente.
+* Projektvorschlagsvorlagen mit visuellen Dashboards.
+* Wiederverwendbare akademische oder instruktive Vorlagen mit SVG-Grafiken.
+* Historische Dokumentenvorlagen für Geschäfts- oder Ingenieurabläufe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Stapelgenerierung von SVG-zu-DOT-Vorlagen für Legacy-Word-Workflows.
+* Geplante Aktualisierungen von Vorlagen mit neuen SVG-Grafiken.
+* Integration in Dokumentenmanagementsysteme, die rückwärtskompatible Vorlagen erfordern.
+* Ausgelöste Konvertierung für wiederkehrende Berichte und wiederverwendbare Vorlagen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

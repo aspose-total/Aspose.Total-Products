@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG na POTX (PowerPoint Open XML Template) produkuje moderní, opakovaně použitelné šablony snímků s vektorovou grafikou. POTX je ideální pro standardizaci prezentací napříč týmy s lehkými šablonami bez maker.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření opakovaně použitelných obchodních šablon pro reportování s grafy ve formátu SVG.
+* Vzdělávací šablony snímků s vestavěnými vektorovými diagramy.
+* Standardizované šablony pro marketingové kampaně určené pro týmové použití.
+* Akademické nebo konferenční prezentace s škálovatelnými vizuály.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná generace šablony SVG do POTX pro opakující se potřeby prezentací.
+* Plánované aktualizace šablon s čerstvým obsahem ve formátu SVG.
+* Integrace s firemní automatizací pracovních postupů pro konzistentní formátování.
+* Spouštěné vytváření šablon z živých SVG nástěnek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

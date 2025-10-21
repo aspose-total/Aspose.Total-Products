@@ -61,7 +61,31 @@ Při převodu souboru PPTX na FODS můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPTX na FODS (Flat OpenDocument Spreadsheet) umožňuje bezproblémovou migraci dat z prezentací PowerPointu do editovatelných tabulkových rozložení. Je to zvláště užitečné pro převod tabulkových reportů, grafů a vizuálních ukazatelů KPI na strukturovaná data pro uživatele LibreOffice nebo OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna prezentací PowerPointu na editovatelné tabulkové tabulky.
+* Extrahování výkonnostních grafů pro analýzu v LibreOffice Calc.
+* Opětovné využití dat z prezentací v prostředí open-source tabulkových procesorů.
+* Vytváření editovatelných KPI tabulek z firemních prezentací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod PPTX na FODS pro portály otevřených datových vlád.
+* Automatizovaná transformace pro týmovou spolupráci pomocí FODS.
+* Integrace s potrubími pro generování reportů.
+* Synchronizace s pracovními postupy pro správu open-source dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

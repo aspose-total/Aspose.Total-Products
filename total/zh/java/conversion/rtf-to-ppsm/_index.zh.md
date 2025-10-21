@@ -54,7 +54,31 @@ otherformats: POT PPT POTX PPS POTM PPSX POWERPOINT PPTM PPTX PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF转PPSM（PowerPoint宏启用展示）转换为幻灯片演示引入了自动化。这种格式将RTF的文本丰富性与PowerPoint的动态宏功能结合，用于高级交互式叙事。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 使用从RTF数据中提取的宏自动化幻灯片演示。
+* 基于RTF手册构建交互式仪表板或教程。
+* 提供包含动态更新的自动化演示。
+* 将业务摘要转换为自运行、宏驱动的幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在电子学习内容流水线中进行RTF到PPSM的自动化。
+* 与宏启用的报告系统集成。
+* 为销售和培训团队定期生成演示文稿。
+* 从文本密集的文档集创建自动化的PowerPoint演示。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: SXC FODS XLSB XLSM ODS XLT XLS XLSX XLTX XLTM XLAM EXCEL TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF转TSV（制表符分隔值）转换非常适合保留格式化文档中的干净、结构化数据集。它确保与需要精确制表符分隔格式的分析软件、数据库导入和开放数据发布系统兼容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于RTF的数据日志转换为TSV，以供文本分析工具使用。
+* 为统计处理准备学术RTF研究文档。
+* 将RTF表格导出为结构化TSV文件，以供开放数据共享使用。
+* 将格式化的RTF列表迁移到数据库就绪格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定期报告任务的预定RTF到TSV转换。
+* 集成到基于API的数据收集系统中。
+* 在开放数据存储库中自动生成TSV文件。
+* 在大规模出版工作流程中进行批处理文档转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

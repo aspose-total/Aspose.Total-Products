@@ -54,7 +54,31 @@ API také umožňuje převádět dokumenty RTF chráněné heslem na POTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod RTF na POTM (šablona s povolenými makry pro PowerPoint) umožňuje vytváření dynamických, znovupoužitelných šablon obsahujících vestavěná makra a automatizační skripty. Je zvláště cenný v obchodních a školicích prostředích, která spoléhají na opakující se prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění RTF školicích manuálů na interaktivní šablony s makry.
+* Automatizace generování prezentací z RTF souhrnů produktů.
+* Vytváření chytrých nástrojů pro prezentace pro oddělení HR nebo financí.
+* Vkládání maker pro automatické vyplňování snímků z RTF zdrojových dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Převod RTF na POTM v automatizačních systémech firemní prezentace.
+* Integrace do nástrojů pro pracovní postupy, které automaticky vytvářejí prezentace v PowerPointu.
+* Plánované vytváření šablon s makry pro týmy firemní komunikace.
+* Hromadná transformace RTF dokumentů do standardizovaných snímků s povolenými makry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

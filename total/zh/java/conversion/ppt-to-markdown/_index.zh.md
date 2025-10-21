@@ -61,7 +61,31 @@ otherformats: DIF XLT FODS ODS XLS EXCEL TSV XLAM XLSB XLSM MHTML XLSX SXC XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）演示文稿转换为MARKDOWN（.md）格式，可以将视觉内容无缝转换为轻量级、适用于网络的文档。这种转换对于开发人员、内容管理人员和文档团队非常有益，他们希望将幻灯片重新用于博客、维基或技术手册。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PowerPoint演示文稿转换为GitHub或GitLab的Markdown文档。
+* 将培训或入职幻灯片重新用于README或维基内容。
+* 直接将技术演示文稿发布到静态站点生成器，如Hugo或Jekyll。
+* 将PowerPoint的笔记和大纲导出为结构化的Markdown文本。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 为开发人员文档流水线自动化PPT到Markdown的转换。
+* 集成到工程团队的内容自动化工作流程中。
+* 从PowerPoint演示文稿定期导出Markdown以用于变更日志。
+* 用于技术SEO博客或API文档的转换工作流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -110,6 +134,6 @@ otherformats: DIF XLT FODS ODS XLS EXCEL TSV XLAM XLSB XLSM MHTML XLSX SXC XLTX 
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

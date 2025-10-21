@@ -61,7 +61,31 @@ otherformats: XLSX XLT SXC FODS XLSM EXCEL XLSB XLS XLTM XLAM TSV ODS DIF XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى XLTM (Excel Macro-Enabled Template) يجمع بين محتوى المستند المنسق مع إطار العمل التلقائي في Excel، مما يجعله مثاليًا للشركات التي تبحث عن قوالب قابلة لإعادة الاستخدام تنفذ الوظائف البرمجية عند الإنشاء.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل تقارير RTF إلى قوالب Excel ديناميكية مع وظائف برمجية مضمنة.
+* أتمتة إنشاء فواتير أو عروض أسعار من بيانات نموذج RTF.
+* إنشاء أدوات معتمدة على Excel تقوم بتشغيل مهام تلقائية عند الفتح.
+* تبسيط وثائق إجرائية RTF إلى قوالب سير العمل في Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+* إنشاء جيل RTF-to-XLTM في أنظمة المستندات المالية أو البشرية.
+* دمجه في خطوط الأنابيب للأتمتة المعتمدة على VBA.
+* إنشاء جداول زمنية لإنشاء قوالب برمجية لتقارير الأعمال.
+* تحويل دفعي لسجلات RTF إلى قوالب Excel ذكية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

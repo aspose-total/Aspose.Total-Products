@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na PPSM (prezentace PowerPoint s makry) kombinuje vektorové diagramy s makry pro interaktivní, připravené prezentace. Ideální pro pracovní postupy s vysokým stupněm automatizace prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Makro-povolené interaktivní firemní prezentace s vizuály ve formátu SVG.
+* Automatizované reporty nebo instruktážní prezentace s vestavěnými makry.
+* Vzdělávací snímky s dynamickými grafy a interaktivními prvky.
+* Výzkumné nebo akademické prezentace s automatizovanou vizuální interaktivitou.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánovaná hromadná konverze SVG do PPSM pro opakující se prezentace.
+* Automatické vložení maker pro interaktivní prezentace.
+* Integrace s automatizací pracovního postupu pro dodání připravených prezentací.
+* Spouštěné konverzní toky pro dynamické informační panely ve formátu PPSM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

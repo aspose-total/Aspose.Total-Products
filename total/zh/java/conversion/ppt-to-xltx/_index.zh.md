@@ -61,7 +61,31 @@ otherformats: XLS DIF XLSM MARKDOWN EXCEL XLTM XLSX XLAM MHTML XLT TSV XLTX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）演示文稿转换为XLTX（Excel模板开放XML）可生成基于演示文稿数据的现代、无宏的Excel模板。这确保了设计、品牌和报告结构在部门和用户之间的一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从PowerPoint报告设计Excel模板以供重复使用。
+* 从基于幻灯片的内容创建品牌报告模板。
+* 将战略性演示文稿转换为结构化的电子表格模板。
+* 在团队之间共享标准化的报告格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于跨部门模板创建的自动化PPT到XLTX转换。
+* 集成到内容标准化和报告工作流程中。
+* 针对公司范围的Excel模板部署进行批量处理。
+* 将PowerPoint数据定期导出为可重复使用的Excel格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

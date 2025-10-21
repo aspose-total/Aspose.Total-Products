@@ -47,7 +47,31 @@ Při převodu souboru PS na FODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod souborů PS (PostScript) na FODS (Flat XML OpenDocument Spreadsheet) umožňuje použití strukturovaných dat z grafů a tabulek PostScriptu v open-source tabulkových aplikacích jako je LibreOffice. To zajišťuje přenositelnost, transparentnost a kompatibilitu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Extrahování finančních tabulek z PS reportů do tabulek LibreOffice.
+* Převod vědeckých nebo inženýrských dat z PostScript diagramů do formátu FODS.
+* Příprava dat pro analytiku a reporting napříč různými platformami.
+* Umístit open-source tabulkové aplikace bez omezení vlastnických práv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod PS na FODS pro více oddělení.
+* Integrace do ETL pipeline pro analýzu v otevřeném formátu.
+* Automatizovaná extrakce tabulkových dat z PS rozložení.
+* Konverze v cloudu pro spolupracující open-source prostředí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

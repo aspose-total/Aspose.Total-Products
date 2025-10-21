@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PS (PostScript) в DOTM (Шаблон Word с поддержкой макросов) сочетает в себе стандартизацию шаблонов с автоматизацией. Пользователи могут повторно использовать макеты, используя макросы для автоматизации заполнения документов, расчетов или форматирования.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование отчетов PS в повторно используемые шаблоны Word с поддержкой макросов.
+* Автоматизация создания контрактов или счетов с использованием макетов, полученных из PostScript.
+* Встраивание таблиц и диаграмм, созданных в PS, в шаблоны DOTM.
+* Создание интерактивных форм для HR, финансов или операционных процессов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PS в DOTM в рамках автоматизации рабочих процессов предприятия.
+* Интеграция с системами генерации документов для задач, управляемых макросами.
+* Помощь искусственного интеллекта в заполнении шаблонов содержимым, извлеченным из PS.
+* Планирование генерации шаблонов с поддержкой макросов для повторяющихся потребностей в отчетности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

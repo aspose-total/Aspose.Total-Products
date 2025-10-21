@@ -53,7 +53,31 @@ otherformats: DOT FLATOPC DOCM DOTM WORDML DOCMX RTF OTT DOTX WORD ODT TEXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε DOCM (Macro-Enabled Word Document) επιτρέπει τη δημιουργία αυτοματοποιημένων, διαδραστικών εγγράφων κειμένου. Αυτή η μετατροπή είναι ιδανική για ομάδες που χρειάζονται δυναμικό περιεχόμενο όπως αυτόματη συμπλήρωση αναφορών ή εγγράφων με ενσωματωμένα scripts.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία προτύπων με macros από περιεχόμενο παρουσιάσεων.
+* Αυτοματοποίηση της δημιουργίας περιλήψεων χρησιμοποιώντας ενσωματωμένα scripts VBA.
+* Δημιουργία δυναμικών επαγγελματικών εγγράφων με συνθήκες δεδομένων.
+* Σχεδιασμός αναφορών συμμόρφωσης βασισμένων σε DOCM από παρουσιάσεις PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη δημιουργία DOCM από παρουσιάσεις PowerPoint.
+* Ενσωμάτωση με ροές εργασίας Word που χρησιμοποιούν VBA για τον αυτοματισμό εγγράφων.
+* Μαζική μετατροπή για τμήματα που χρησιμοποιούν πρότυπα με macros.
+* Αυτοματοποιημένη μετατροπή σε αγωγούς δημιουργίας εγγράφων.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

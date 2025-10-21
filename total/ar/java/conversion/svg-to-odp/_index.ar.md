@@ -121,7 +121,31 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات SVG (رسومات نقطية قابلة للتوسيع) إلى ODP (عرض OpenDocument) يسمح بتضمين الرسومات النقطية في عروض الشرائح ذات المعايير المفتوحة. يدعم ODP التوسعية والتوافق مع مختلف الأنظمة لسير العمل الحديثة للعروض.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء عروض شرائح تفاعلية برسومات SVG للعروض التقديمية الشركات.
+* شرائح تعليمية تحتوي على رسومات ورسوم بيانية قائمة على النقاط.
+* عروض تسويق تعرض بيانات المنتج برسومات قابلة للتوسيع.
+* عروض مؤتمرات أكاديمية باستخدام رسوم SVG عالية الجودة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل دفعة من SVG إلى ODP لتحديثات العروض المتكررة.
+* إنشاء قوالب مجدولة للتدريب أو العروض التقديمية الشركات.
+* التكامل مع منصات العروض ذات المصدر المفتوح لسير العمل التلقائية.
+* خطوط أنابيب التحويل المُشغَّلة للمحتوى الشرائح الديناميكي المُولَّد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

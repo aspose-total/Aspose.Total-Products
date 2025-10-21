@@ -47,7 +47,31 @@ otherformats: TSV ODS EXCEL XLSB TXT XLSM DIF FODS MD XLTM XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى XLTM (Excel Macro-Enabled Template) يسمح بإنشاء قوالب قابلة لإعادة الاستخدام تجمع بين الرسوم البيانية الناقلة مع ماكرو VBA للتلقائية. مثالي للتقارير التفاعلية ولوحات المعلومات وقوالب سير العمل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* قوالب إدارة المشاريع ذات الماكرو الممكّنة مع الرسوم البيانية SVG المضمنة.
+* لوحات معلومات مالية قابلة لإعادة الاستخدام مع ماكروات تفاعلية للحسابات التلقائية.
+* قوالب تقارير أكاديمية أو بحثية تستخدم تصورات SVG مع تحسينات VBA.
+* قوالب سير العمل التشغيلية تدمج الرسوم البيانية الناقلة الديناميكية والماكروات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقين" %}}
+
+* تحويل SVG إلى XLTM تلقائي لقوالب التقارير ذات الماكروات المتكررة.
+* تحديثات مجدولة للقوالب ببيانات SVG جديدة وماكروات مضمنة.
+* دمج في منصات التلقين للسير العمل التي تتطلب قوالب تفاعلية.
+* خطوط أنابيب التحويل المُشغّلة للوحات المعلومات التفاعلية وتقارير العمليات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

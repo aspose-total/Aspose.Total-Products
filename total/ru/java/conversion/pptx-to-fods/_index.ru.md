@@ -61,7 +61,31 @@ otherformats: DIF EXCEL XLSX XLS XLSM MARKDOWN XLAM MHTML XLTX TSV SXC ODS XLT F
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPTX в FODS (Flat OpenDocument Spreadsheet) обеспечивает беспрепятственную миграцию данных с слайдов PowerPoint в редактируемые таблицы электронных таблиц. Особенно полезно для преобразования табличных отчетов, диаграмм и визуализаций KPI в структурированные данные для пользователей LibreOffice или OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование слайдов отчетов PowerPoint в редактируемые таблицы электронных таблиц.
+* Извлечение диаграмм производительности для анализа в LibreOffice Calc.
+* Повторное использование данных презентации в средах электронных таблиц с открытым исходным кодом.
+* Создание редактируемых листов KPI из корпоративных презентаций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PPTX в FODS для порталов открытых данных государства.
+* Автоматизированное преобразование для совместной работы команд с использованием FODS.
+* Интеграция с конвейерами генерации отчетов.
+* Синхронизация с рабочими процессами управления данными с открытым исходным кодом.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

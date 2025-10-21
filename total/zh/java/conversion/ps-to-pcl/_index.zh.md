@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）转换为PCL（打印机命令语言）可通过确保更快的呈现速度、减小的溢出大小以及与办公和企业打印机的广泛兼容性，优化打印工作流程。对于那些正在标准化PCL以实现一致的文档输出和设备无关性能的组织来说，这种转换是必不可少的。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将设计繁重的PS报告转换为轻量级的PCL以实现高速打印。
+* 在企业环境中为多功能打印机标准化文档格式。
+* 为基于PCL的打印机准备营销材料、发票和技术手册。
+* 支持PCL本地工作流程的按需打印服务。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 集成到打印管理系统中，实现自动PS到PCL的转换。
+* 在企业打印服务器中进行批处理，实现一致的输出格式。
+* 在ERP或CRM系统中进行动态文档呈现，然后再进行打印派发。
+* 为大规模出版环境生成自动化的打印准备。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

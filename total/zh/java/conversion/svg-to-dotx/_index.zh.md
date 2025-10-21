@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为DOTX（Word Open XML模板）可创建现代、可重复使用的文档模板，其中嵌入了矢量图。DOTX文件轻巧，支持新的Word功能，非常适合标准化报告。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 使用基于SVG的图表创建可重复使用的业务报告模板。
+* 包含SVG可视化内容的标准化学术或教学模板。
+* 利用矢量图创建营销和运营模板。
+* 为项目管理创建一致格式和视觉清晰度的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定期报告生成的计划SVG到DOTX模板转换。
+* 更新可重复使用文档模板的自动化流程，加入新的可视化内容。
+* 与企业文档系统集成，实现基于模板的工作流程。
+* 触发式转换，创建交互式和标准化的基于SVG的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

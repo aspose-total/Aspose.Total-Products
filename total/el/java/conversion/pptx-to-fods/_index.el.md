@@ -61,7 +61,31 @@ otherformats: DIF EXCEL XLSX XLS XLSM MARKDOWN XLAM MHTML XLTX TSV SXC ODS XLT F
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPTX σε FODS (Flat OpenDocument Spreadsheet) επιτρέπει απρόσκοπτη μεταφορά δεδομένων από διαφάνειες PowerPoint σε επεξεργάσιμες διατάξεις φύλλων. Είναι ιδιαίτερα χρήσιμη για τη μετατροπή πίνακων αναφορών, γραφημάτων και οπτικών ενδείξεων KPI σε δομημένα δεδομένα για τους χρήστες του LibreOffice ή του OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+* Μετατροπή διαφανειών αναφοράς PowerPoint σε επεξεργάσιμους πίνακες φύλλων.
+* Εξαγωγή γραφημάτων απόδοσης για ανάλυση στο LibreOffice Calc.
+* Επαναχρησιμοποίηση δεδομένων παρουσίασης σε περιβάλλοντα φύλλων εργασίας ανοικτού κώδικα.
+* Δημιουργία επεξεργάσιμων φύλλων KPI από εταιρικές παρουσιάσεις.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή PPTX σε FODS για διαδικτυακές πύλες δεδομένων ανοικτού κώδικα.
+* Αυτοματοποιημένη μετατροπή για συνεργασία ομάδας χρησιμοποιώντας FODS.
+* Ενσωμάτωση με αγωγούς δημιουργίας αναφορών.
+* Συγχρονισμός με ροές εργασίας διαχείρισης δεδομένων ανοικτού κώδικα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

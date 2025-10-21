@@ -53,7 +53,29 @@ otherformats: TEXT DOTM WORDML ODTM RTF FLATOPC DOT WORD ODT ODTX OTT DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в формат ODT (OpenDocument Text) позволяет извлекать содержимое слайдов в редактируемые текстовые документы. Это особенно полезно для создания отчетов, учебных материалов или текстовой документации на основе существующих слайдов презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование презентаций PowerPoint в текстовые документы для подробного отчета.
+* Переиспользование содержимого слайдов для текстовых процессоров с открытым исходным кодом, таких как LibreOffice Writer.
+* Создание редактируемой документации на основе кратких проектных резюме.
+* Создание учебных пособий и руководств по слайдам из файлов PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированные преобразования PowerPoint в ODT в системах академического издательства.
+* Интеграция с рабочими процессами генерации документов для пользователей с открытым исходным кодом.
+* Плановый экспорт слайдов в ODT для соблюдения требований и архивации.
+* Преобразование маркетинговых презентаций в редактируемые шаблоны контента.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

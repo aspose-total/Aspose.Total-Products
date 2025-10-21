@@ -61,7 +61,31 @@ otherformats: SXC XLSB XLAM DIF XLTX XLTM XLSX FODS XLT XLSM ODS MHTML MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى XLTM (قالب Excel ممكن التنفيذ) يسمح للمؤسسات بإنشاء قوالب ديناميكية مضمنة بسكربتات الأتمتة. هذا قيم للشركات التي تستخدم عمليات البيانات التكرارية المستمدة من تقارير الشرائح.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تطوير قوالب تقرير معتمدة على الماكرو من العروض التقديمية.
+* إنشاء قوالب تنبؤية آلية مع سكربتات VBA مضمنة.
+* إنشاء قوالب إدخال بيانات قابلة لإعادة الاستخدام من الشرائح التسويقية.
+* إعداد قوالب XLTM لتتبع مؤشرات الأداء الرئيسية بالأتمتة.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء قوالب XLTM توليدية تلقائيًا من ملفات PPS لتقارير المؤسسات.
+* التكامل مع خطوط أنابيب الأتمتة في Excel.
+* إنشاء قوالب ماكرو مجدولة من ملخصات قائمة الشرائح.
+* توزيع مركزي لقوالب XLTM للإدارات الداخلية.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

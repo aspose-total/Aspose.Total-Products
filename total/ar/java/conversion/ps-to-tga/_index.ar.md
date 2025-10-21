@@ -57,7 +57,31 @@ otherformats: TGA DXF IMAGE PSD EMZ  JPEG2000 SVGZ WMF WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى TGA (Targa Image) يسمح بتقنية التقسيم النقطي عالي الجودة للرسومات PostScript للاستخدام في مشاريع الفيديو والوسائط المتعددة وتصميم الألعاب. يحتفظ TGA بعمق الألوان ويدعم القنوات ألفا للتركيب المتقدم للصور.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل الرسوم التوضيحية PostScript إلى صور TGA لإنتاج الوسائط المتعددة.
+* تحويل الرسوم البيانية PS للاستخدام في أنابيب عمل الرسوم المتحركة ثلاثية الأبعاد.
+* تصدير الرسومات التقنية لأصول تصميم الألعاب.
+* إعداد تخطيطات PS للتراكب الفيديو أو سير العمل للتركيب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل PS إلى TGA بشكل تلقائي في أنابيب إنتاج الوسائط المتعددة.
+* معالجة دفعية لصور PS لمشاريع الفيديو والألعاب.
+* التكامل مع محركات الرسومات لسير العمل الديناميكي للتقسيم.
+* تحسين مساعد بالذكاء الاصطناعي للرسوم البصرية PS لإخراج TGA مع قنوات ألفا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

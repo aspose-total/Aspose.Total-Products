@@ -61,7 +61,31 @@ otherformats: XLTM XLSB XLSX FODS XLS XLAM MARKDOWN XLTX MHTML SXC XLT TSV ODS E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى MARKDOWN (MD) يسمح للمستخدمين بتحويل الشرائح البصرية إلى مستندات نصية خفيفة الوزن وقابلة للقراءة مثالية للمدونات والوثائق وأنظمة إدارة المحتوى المستندة إلى Git. إنه يسد الفجوة بين العروض التقديمية والتنسيقات الصديقة للمطورين.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل شرائح PowerPoint إلى وثائق Markdown.
+* إعداد ملاحظات مشروع مفتوح المصدر من عروض العرض.
+* نشر محتوى الشرائح التعليمية على مولدات المواقع الثابتة.
+* تحويل عروض الشركات إلى ملفات MD خفيفة الوزن لويكي GitHub.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد Markdown المجدول لفرق المحتوى باستخدام التحكم في الإصدارات.
+* الدمج في أنابيب الوثائق (على سبيل المثال Hugo، Jekyll).
+* تحويل PowerPoint إلى MD بشكل آلي للنشر عبر الإنترنت.
+* معالجة دفعية لعدة مجموعات شرائح PPS إلى ملفات Markdown منظمة.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

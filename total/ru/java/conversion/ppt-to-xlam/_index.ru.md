@@ -61,7 +61,31 @@ otherformats: TSV SXC ODS MARKDOWN XLS XLAM XLTM XLSB EXCEL XLSX FODS XLTX XLSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в формат XLAM (Excel Add-In) позволяет встраивать интерактивные данные презентаций непосредственно в макросы Excel. Благодаря этому преобразованию компании могут автоматизировать аналитические рабочие процессы, улучшить инструменты управления и создать многоразовые инструменты автоматизации визуализации данных.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Встраивание визуальных отчетов PowerPoint внутри панелей управления Excel.
+* Преобразование слайдов по производительности или KPI в динамичные инструменты с поддержкой макросов.
+* Создание многоразовых аналитических шаблонов на основе данных презентаций.
+* Автоматизация обновлений финансовых моделей, основанных на слайдах, в Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание файлов XLAM из аналитики PowerPoint для опытных пользователей Excel.
+* Интеграция с автоматизацией VBA для корпоративной аналитики.
+* Автоматизация ETL, связывающая метрики PowerPoint с макросами таблиц.
+* Планирование преобразования из PPT в XLAM для непрерывной отчетности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

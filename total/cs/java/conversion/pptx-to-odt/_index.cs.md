@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPTX souboru na ODT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění prezentací PPTX na ODT (OpenDocument Text) umožňuje znovupoužití snímků do editovatelných textových dokumentů. Je ideální pro generování písemných zpráv, souhrnů nebo editovatelné dokumentace na základě prezentací v PowerPointu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění poznámek ke snímkům do editovatelného textu pro zprávy.
+* Vytváření dokumentů ODT pro akademické nebo firemní souhrny.
+* Transformace projektových prezentací do sdílitelných textových souborů.
+* Znovupoužití obsahu snímků pro psaní politik a návrhů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované generování zpráv z prezentací v PowerPointu.
+* Integrace pracovního postupu s nástroji pro dokumenty s otevřeným zdrojovým kódem.
+* Převádění prezentací pro pitch do editovatelných dokumentů pro interní kontrolu.
+* Archivace poznámek v PowerPointu ve formátu ODT pro přístupnost.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

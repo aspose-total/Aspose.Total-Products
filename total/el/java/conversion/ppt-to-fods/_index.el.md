@@ -61,7 +61,31 @@ otherformats: EXCEL SXC XLSX XLTX XLSM ODS DIF XLSB XLAM TSV FODS XLS MARKDOWN X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή παρουσιάσεων PPT (PowerPoint) σε FODS (Flat OpenDocument Spreadsheet) επιτρέπει στις οργανώσεις να επαναχρησιμοποιήσουν δομημένο περιεχόμενο για εργαλεία γραφείου που υποστηρίζουν ανοιχτά πρότυπα. Η μορφή FODS είναι ιδιαίτερα χρήσιμη για ομάδες που βασίζονται στο LibreOffice ή το Apache OpenOffice για ασφαλείς, επεξεργάσιμες ροές εργασίας φύλλων υπολογιστή.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Μετατροπή πινάκων PowerPoint σε φύλλα εργασίας LibreOffice για ανάλυση.
+* Εξαγωγή δομημένων δεδομένων από διαφάνειες για συλλογική επεξεργασία.
+* Αρχειοθέτηση δεδομένων παρουσίασης σε ανοιχτές, βασισμένες σε XML μορφές φύλλων υπολογιστή.
+* Μετατροπή παρουσιάσεων εκπαίδευσης σε FODS για συστήματα εκπαιδευτικών εγγραφών.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη δημιουργία FODS από αναφορές PowerPoint για χρήση σε λογισμικό ανοιχτού κώδικα.
+* Μαζική επεξεργασία σε συστήματα εγγράφων κυβέρνησης ή εκπαιδευτικών.
+* Ενσωμάτωση μετατροπής PPT σε FODS σε ψηφιακές διαδικασίες μετασχηματισμού.
+* Προγραμματισμένες εξαγωγές για αναφορές και τεκμηρίωση διαφόρων τμημάτων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

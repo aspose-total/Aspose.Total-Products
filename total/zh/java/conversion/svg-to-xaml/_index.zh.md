@@ -135,7 +135,31 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 SVG（可缩放矢量图形）文件转换为 XAML（可扩展应用标记语言）可让开发人员直接将矢量图形集成到 Windows 应用程序中。XAML 保留了可伸缩性和分辨率独立性，非常适合现代 UI 设计。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 在 WPF 或 UWP 应用程序中嵌入基于 SVG 的图标和插图。
+* 为企业应用程序设计具有矢量图形的交互式仪表板。
+* 为桌面或移动应用程序创建可伸缩的 UI 组件。
+* 具有高保真度矢量图表的教育或科学可视化工具。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将 SVG 资源批量转换为 XAML 以用于应用程序开发的自动化处理。
+* 使用新的 SVG 设计定期更新 UI 库。
+* 与构建流水线集成，以便在 WPF 或 UWP 项目中实现无缝部署。
+* 触发转换以在应用程序中实时呈现动态 SVG 内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

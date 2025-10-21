@@ -121,7 +121,31 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG（可缩放矢量图形）文件转换为ODP（OpenDocument Presentation）可将矢量图形嵌入到开放标准幻灯片中。ODP支持现代演示文稿工作流程的可伸缩性和跨平台兼容性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 使用SVG图表创建交互式幻灯片，用于企业演示。
+* 使用基于矢量的插图和图表制作教育幻灯片。
+* 使用可伸缩图形展示产品数据的营销演示。
+* 在学术会议演示中使用高质量的SVG视觉元素。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将SVG转换为ODP，用于定期更新演示文稿。
+* 为培训或企业演示生成定时模板。
+* 与开源演示平台集成，实现自动化工作流程。
+* 用于动态生成幻灯片内容的触发式转换流水线。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

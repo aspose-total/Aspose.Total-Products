@@ -61,7 +61,31 @@ Při převodu souboru PPTX na ODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PPTX na ODS (OpenDocument Spreadsheet) propojuje data prezentace s analytikou tabulek. Tento převod přináší výhody organizacím přecházejícím na produktivní sady open-source, zatímco zachovává zásadní tabulkový obsah.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Extrahování finančních souhrnů z prezentací do formátu ODS.
+* Sdílení datově řízených snímků s uživateli OpenOffice nebo LibreOffice.
+* Umožnění analytikům editovat tabulky snímků v tabulkovém softwaru.
+* Příprava verzí prezentačních zpráv s otevřenými daty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánované konverze PPTX na ODS v dokumentačních tokách.
+* Integrace do ekosystémů kancelářských balíků open-source.
+* Automatizovaná transformace pro odevzdávání vládních dat.
+* Extrahování číselných dat ze snímků připravených pro ETL.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

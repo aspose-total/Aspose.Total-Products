@@ -61,7 +61,31 @@ otherformats: DIF XLS MARKDOWN SXC XLTX XLSB XLSX TSV XLAM EXCEL ODS XLSM FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）文件转换为XLTM（启用宏的Excel模板）可帮助组织设计智能、可重复使用的电子表格模板，这些模板源自演示文稿。XLTM模板可以自动化重复任务，简化报告的一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PowerPoint报告转换为启用宏的Excel模板。
+* 构建用于自动化分析的智能电子表格模板。
+* 标准化重复的财务报告模型。
+* 创建能够复制PowerPoint布局和逻辑的Excel模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将幻灯片自动转换为用于宏驱动报告模板的XLTM。
+* 集成到自动化数据输入和分析工作流程中。
+* 定时生成可重复使用的启用宏的电子表格。
+* 用于大规模模板标准化的批处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

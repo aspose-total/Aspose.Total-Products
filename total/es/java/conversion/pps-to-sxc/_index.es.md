@@ -61,7 +61,31 @@ Al convertir un archivo PPS a SXC, también puede agregar una marca de agua a su
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir archivos PPS (Presentación de diapositivas de PowerPoint) a SXC (Hoja de cálculo de StarOffice Calc) ayuda a las organizaciones que trabajan con suites de oficina heredadas o de código abierto a reutilizar datos de presentaciones en forma de hojas de cálculo. Permite realizar análisis estructurados e informes sin necesidad de software propietario.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Transformar presentaciones comerciales en datos de hojas de cálculo analizables.
+* Exportar resúmenes de diapositivas de ventas o financieros en formato SXC.
+* Preparar hojas compatibles con OpenOffice a partir de informes PPS.
+* Convertir presentaciones educativas en hojas de cálculo estructuradas y compartibles.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Generación automatizada de SXC para flujos de trabajo de informes basados en LibreOffice.
+* Integración en sistemas de gestión de documentos de código abierto.
+* Conversión por lotes de diapositivas a SXC para archivos de análisis.
+* Exportaciones programadas para equipos que utilizan entornos de oficina de código abierto.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

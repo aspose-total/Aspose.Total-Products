@@ -130,7 +130,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG-Dateien in MHTML (MIME HTML) ermöglicht das Verpacken interaktiver Grafiken in einer einzigen Webarchivdatei. Dies ist ideal für die Offline-Dokumentation, E-Mail-kompatible Diagramme und portable Vektorberichte.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Archivierung interaktiver SVG-Dashboards für den Offline-Zugriff.
+* Versenden von animierten Vektorgrafiken, die in MHTML-E-Mails eingebettet sind.
+* Tragbare technische Handbücher mit integrierten Vektordiagrammen.
+* Erstellung von webkompatiblen Berichten, die ohne Serverhosting verteilt werden können.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Stapelkonvertierung von SVG in MHTML für archivierte Projektunterlagen.
+* Geplante Erstellung von Offline-Vektordashboards für den Unternehmenseinsatz.
+* Integration in Content-Management-Systeme zur Exportierung von Vektorgrafiken.
+* Automatisierung bei der Berichterstellung für konsistente Formatierung und Portabilität.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

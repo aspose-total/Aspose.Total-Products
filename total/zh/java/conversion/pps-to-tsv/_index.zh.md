@@ -61,7 +61,31 @@ otherformats: XLAM XLS TSV MHTML DIF XLSX XLTX XLSB EXCEL XLTM MARKDOWN FODS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 PPS（PowerPoint 幻灯片展示）文件转换为 TSV（制表符分隔值）可使用制表符分隔符结构化导出演示数据，非常适合偏好更清晰、友好于代码的基于文本的格式的开发人员、分析师和数据科学家。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从 PowerPoint 导出表格到 TSV 以便在 Python 或 R 中进行数据分析。
+* 从商业演示文稿准备基于文本的数据集。
+* 将性能图表转换为易于解析的制表符分隔数据。
+* 将多语言内容幻灯片提取为 TSV 以用于本地化工作流程。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 集成到需要制表符分隔文本的 AI 数据管道中。
+* 批量将基于幻灯片的统计数据提取为 TSV 以进行建模和分析。
+* 定期将幻灯片转换为 TSV 以进行企业数据管理。
+* 为基于 Web 的仪表板后端摄入自动创建 TSV。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

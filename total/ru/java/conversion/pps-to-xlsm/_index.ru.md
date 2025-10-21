@@ -61,7 +61,31 @@ otherformats: XLTM MARKDOWN FODS XLSM XLAM XLTX XLS MHTML DIF XLSX EXCEL XLSB TS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в XLSM (Macro-Enabled Workbook) позволяет осуществлять расширенную автоматизацию и динамический анализ. Это идеально подходит для пользователей, которые хотят встраивать макросы и сценарии VBA для интерактивных данных, полученных из содержимого презентации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Создание дашбордов на основе макросов из слайдов PPS.
+* Преобразование повторяющихся презентаций в самообновляемые шаблоны Excel.
+* Разработка отслеживания KPI с использованием обновляемых макросов VBA.
+* Встраивание автоматических сводных расчетов, извлеченных из слайдов PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Интеграция в рабочие процессы автоматизации Excel.
+* Преобразование слайдов PPS в шаблоны XLSM для отчетности по проектам.
+* Запланированная генерация Excel на основе макросов из наборов данных PowerPoint.
+* Автоматическое преобразование слайдов в листы с макросами для повторяющихся бизнес-обновлений.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

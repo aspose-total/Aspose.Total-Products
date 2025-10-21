@@ -47,7 +47,31 @@ Při převodu souboru PS na XLTM můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PS (PostScript) na XLTM (Excel Macro-Enabled Template) spojuje automatizaci a konzistenci. Umožňuje vytváření opakovaně použitelných šablon s makry z strukturovaných dokumentů PS pro opakující se finanční nebo operační reportování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění faktur PS do šablon pro reportování s makry.
+* Vytváření automatizovaných formulářových šablon pro zadávání dat a validaci.
+* Zjednodušení analýz založených na PS do opakovatelných procesů v Excelu.
+* Příprava finančních nebo HR šablon s vestavěnými Excel makry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Dávkový převod PS na XLTM pro systémy reportování řízené makry.
+* Integrace s ERP systémy pro automatizované vytváření dokumentů.
+* Pravidelné pracovní postupy pro firemní reporty o souladu.
+* Naplnění šablon asistované AI z rozložení PostScriptu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

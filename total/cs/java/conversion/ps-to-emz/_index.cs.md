@@ -57,7 +57,31 @@ Pomocí API můžete také otočit výstupní obrázek EMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PS (PostScript) na EMZ (komprimovaný rozšířený metafile) umožňuje vytváření vysoce komprimovaných vektorových obrázků vhodných pro vkládání do aplikací Microsoft Office. EMZ zajišťuje menší velikost souborů při zachování grafiky vysoké kvality pro prezentace a zprávy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání PostScriptových grafů do prezentací PowerPoint nebo Word.
+* Převádění technických PS diagramů na komprimované EMZ pro reporting.
+* Příprava ilustrací generovaných PS pro firemní prezentace.
+* Optimalizace vektorové grafiky pro snadné sdílení pomocí e-mailu nebo cloudového úložiště.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná hromadná konverze PS na EMZ pro knihovny prezentací.
+* Integrace do pracovních postupů generování dokumentů v Office.
+* Cloudová komprese a konverze pro platformy spolupráce.
+* Spouštění renderování EMZ pro automatizovanou generaci zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

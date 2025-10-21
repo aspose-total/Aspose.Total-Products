@@ -61,7 +61,31 @@ Při převodu souboru PPS na XLTX můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod souborů PPS (PowerPoint Slide Show) na formát XLTX (Excel Template Open XML) usnadňuje vytváření strukturovaných, opakovaně použitelných šablon tabulek v moderních formátech Excelu. Ideální pro týmy, které standardizují pracovní postupy a udržují konzistenci designu dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření profesionálních šablon XLTX z obchodních prezentací v PowerPointu.
+* Vytváření formulářů pro zadávání dat inspirovaných rozložením snímků.
+* Vytváření standardizovaných šablon pro měsíční reporty.
+* Generování odděleními specifických šablon XLTX z schválených prezentací.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod souborů PPS do firemních šablon XLTX.
+* Plánované generování firemních šablon Excelu pro sledování projektů.
+* Integrace do systémů automatizace šablon pro správu verzí.
+* Automatické vytváření šablon XLTX z shrnutí dat v PowerPointu.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

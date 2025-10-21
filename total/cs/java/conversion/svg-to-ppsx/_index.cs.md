@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG na PPSX (PowerPoint Open XML Show) vytváří moderní, makrovolné prezentace, které se otevírají přímo v režimu prezentace s vestavěnou vektorovou grafikou.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Připravené obchodní prezentace s vysokým rozlišením grafů ve formátu SVG.
+* Vzdělávací prezentace pro přednášky nebo e-learningové moduly.
+* Marketingové a produktové ukázky balené pro okamžité zobrazení.
+* Akademické nebo konferenční prezentace s interaktivními vektorovými vizuály.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická hromadná konverze SVG do PPSX pro opakující se dodávky prezentací.
+* Plánované generování připravených snímků z živých nástěnek.
+* Integrace s systémy pro správu obsahu pro automatizované distribuce prezentací.
+* Spouštěné potrubí SVG-to-PPSX pro dynamické, v reálném čase zobrazované vizuály.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

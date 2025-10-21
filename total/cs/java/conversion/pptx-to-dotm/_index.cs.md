@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPTX souboru na DOTM s vodoznakem. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PPTX na DOTM (šablona pro Word s makry) umožňuje uživatelům vytvářet opakovaně použitelné šablony obsahující automatizační funkce. Je ideální pro generování interaktivních dokumentů s makry z obsahu prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Navrhování šablon s makry z prezentací.
+* Automatizace opakujících se úkolů generování zpráv.
+* Vytváření standardizovaných dynamických firemních šablon.
+* Vkládání datových maker do dokumentů odvozených z PowerPointu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadný převod prezentací PPTX do šablon DOTM.
+* Integrace s systémy pro automatizaci dokumentů.
+* Plánované generování makro šablon pro pravidelné zprávy.
+* Mapování maker z PowerPointu do Wordu pro efektivitu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

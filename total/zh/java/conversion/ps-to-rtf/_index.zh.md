@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）转换为RTF（Rich Text Format）可使文档在多个平台和文字处理软件之间使用，同时保留基本格式、字体和矢量图形。RTF转换非常适合共享报告，而无需担心兼容性问题。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将基于PostScript的报告转换为通用可读的RTF文件。
+* 与跨平台团队共享PS图表和图表。
+* 保留官方文件、信函和内部报告的格式。
+* 为不原生支持PS或DOCX的系统准备文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于遗留系统集成的自动化PS到RTF转换。
+* 批处理用于在多平台环境下分发文档。
+* 基于ETL的工作流，将PS存档转换为可编辑格式。
+* 从PS文档中提取和保留格式的AI辅助。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

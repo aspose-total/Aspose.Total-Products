@@ -61,7 +61,31 @@ Při převodu souboru PPT na SXC můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPT (PowerPoint) na SXC (tabulkový procesor StarOffice Calc) umožňuje organizacím používajícím zastaralé nebo open-source systémy znovu využít prezentace pro hloubkovou analýzu. Tato konverze překlenutím propasti mezi vizuálními souhrny a editovatelnými daty v tabulkách zvyšuje spolupráci v různorodých kancelářských prostředích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna obchodních prezentací na tabulkové procesory kompatibilní s OpenOffice.
+* Opětovné využití tabulek a grafů z PowerPointu ve finančních modelech založených na SXC.
+* Podpora vládních nebo firemních uživatelů spoléhajících se na OpenOffice nebo LibreOffice.
+* Migrace archivovaných firemních dat z PPT do otevřených formátů tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze PPT do SXC pro firemní archivační systémy.
+* Integrace do pracovních postupů digitalizace dokumentů.
+* Automatizované konverze pro hybridní open-source prostředí pro reportování.
+* Plánovaný export aktualizací PPT do nástrojů pro spolupráci v tabulkách.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: XLS FODS MHTML MARKDOWN SXC XLSX XLTM XLT XLTX ODS XLAM TSV DIF XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPTX в XLS (рабочая книга Excel 97-2003) обеспечивает обратную совместимость с устаревшими системами. Это позволяет организациям, использующим старое офисное программное обеспечение, эффективно получать доступ к данным табличных презентаций и их изменению.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Преобразование таблиц PowerPoint для анализа в устаревшем Excel.
+* Экспорт сводок презентаций для старых финансовых инструментов.
+* Повторное использование данных слайдов в обратно совместимых системах.
+* Обмен аналитическими данными с клиентами, использующими более ранние версии Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированный вывод XLS из PowerPoint для корпоративных архивов.
+* Интеграция с устаревшими бухгалтерскими или ERP-системами.
+* Конвертационные конвейеры, обеспечивающие совместимость между платформами.
+* Пакетное преобразование устаревших презентаций PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

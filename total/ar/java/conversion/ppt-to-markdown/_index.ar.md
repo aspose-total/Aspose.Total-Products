@@ -61,7 +61,31 @@ otherformats: DIF XLT FODS ODS XLS EXCEL TSV XLAM XLSB XLSM MHTML XLSX SXC XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل عروض الباوربوينت (PPT) إلى تنسيق MARKDOWN (.md) يمكن من تحويل المحتوى البرمجي إلى وثائق خفيفة جاهزة للويب بسهولة. يعتبر هذا التحويل مفيدًا للمطورين ومديري المحتوى وفرق الوثائق الذين يبحثون عن إعادة استخدام الشرائح في المدونات أو الويكي أو الدلائل التقنية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل عروض الباوربوينت إلى وثائق Markdown لـGitHub أو GitLab.
+* إعادة استخدام شرائح التدريب أو التعريف في محتوى README أو ويكي.
+* نشر العروض التقنية مباشرة على مولدات المواقع الثابتة مثل Hugo أو Jekyll.
+* تصدير ملاحظات الباوربوينت والخطط كنص Markdown منظم.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل PPT إلى Markdown بشكل آلي لأنابيب وثائق المطورين.
+* دمجه في سير العمل الآلي لفرق الهندسة.
+* تصدير مجدول من عروض الباوربوينت إلى Markdown لسجلات التغيير.
+* سير العمل للمدونات التقنية لتحسين محركات البحث أو وثائق واجهة برمجة التطبيقات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

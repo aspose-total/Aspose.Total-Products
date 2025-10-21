@@ -61,7 +61,31 @@ otherformats: FODS XLAM XLTM XLSM SXC MARKDOWN XLSX XLS TSV ODS EXCEL MHTML DIF 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в XLS (Excel 97–2003 Workbook) обеспечивает совместимость с устаревшими системами, позволяя редактировать и хранить данные на основе электронных таблиц. Это преобразование идеально подходит для сред, использующих более старые версии Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение данных из слайдов PPS для совместимости с более старыми форматами Excel.
+* Подготовка отчетов XLS для государственных и образовательных организаций.
+* Преобразование маркетинговых визуалов в обратносовместимые отчеты в виде электронных таблиц.
+* Создание редактируемых оценочных листов XLS на основе суммарных данных в PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование для соблюдения формата XLS.
+* Интеграция в рабочие процессы устаревших бухгалтерских или MIS программ.
+* Создание архивов XLS из повторяющихся наборов данных презентаций.
+* Плановое извлечение слайдов для обмена данными в формате XLS между отделами.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

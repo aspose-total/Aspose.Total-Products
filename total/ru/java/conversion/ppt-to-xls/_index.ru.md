@@ -61,7 +61,31 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS XLS XLTX XLSX MARKDOWN DIF SXC ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в XLS (Excel 97–2003 Workbook) обеспечивает совместимость с устаревшими системами и сохраняет целостность табличных и числовых данных. Это преобразование поддерживает организации, использующие более старые версии Microsoft Office или нуждающиеся в обратной совместимости отчетов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт данных слайдов для использования в устаревших системах Excel.
+* Создание обратно совместимых электронных таблиц из отчетов PowerPoint.
+* Обмен данными, готовыми к анализу, с командами, использующими более старые версии Microsoft Office.
+* Архивирование результатов презентации в формате XLS, поддерживаемом всеми.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в XLS для корпоративных архивных систем.
+* Интеграция в рабочие процессы, требующие выходных файлов в устаревшем формате Excel.
+* Пакетная обработка для обеспечения совместимости данных между отделами.
+* Запланированные преобразования отчетов PowerPoint для взаимодействия систем.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

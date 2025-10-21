@@ -61,7 +61,31 @@ otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DI
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX（PowerPoint演示文稿）文件转换为CSV（逗号分隔值）可从幻灯片中提取表格和数值数据，转换为轻量级电子表格形式。这种转换支持数据分析、报告自动化以及跨多个平台的仪表板集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将PowerPoint幻灯片表格导出为CSV以供分析工具使用。
+* 将演示指标转换为CSV以供BI仪表板使用。
+* 为Excel和数据库导入准备销售数据幻灯片。
+* 将PowerPoint数据迁移至ERP或CRM集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将PPTX转换为CSV，用于季度绩效报告。
+* 在ETL和分析管道中自动化CSV导出。
+* PowerPoint与报告系统之间的数据同步。
+* 集成到基于API的数据摄入工作流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

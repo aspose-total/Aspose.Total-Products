@@ -54,7 +54,31 @@ API také umožňuje převádět dokumenty RTF chráněné heslem na ODP. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů RTF na ODP (OpenDocument Presentation) transformuje obsah bohatý na text do vizuálně atraktivních prezentací kompatibilních s LibreOffice Impress a Apache OpenOffice. Tento pracovní postup přináší výhody pedagogům, trenérům a firmám, které přetvářejí dokumentační materiál do prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna poznámek z přednášek ve formátu RTF na strukturované prezentace ODP.
+* Převod školicích manuálů na snímky pro firemní workshopy.
+* Vytváření souborů ODP z návrhů ve formátu RTF nebo firemních shrnutí.
+* Přetváření textového obsahu do formátů vizuálního vyprávění.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná generace RTF do ODP pro obsah e-learningových potrubí.
+* Integrace s systémy pro správu znalostí pro vytváření prezentací na vyžádání.
+* Hromadný převod firemních dokumentů ve formátu RTF do šablon ODP.
+* Automatizovaná generace snímků z repozitářů dokumentů pro marketingové týmy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

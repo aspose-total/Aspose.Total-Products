@@ -54,7 +54,31 @@ API také umožňuje převádět dokumenty RTF chráněné heslem na POTX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění dokumentů RTF na POTX (PowerPoint Template Open XML) poskytuje čistý, moderní a opakovaně použitelný design snímků pro Office 365 a PowerPoint 2019+. Zajišťuje konzistenci rozložení přes prezentace vytvořené z obsahu založeného na formátu RTF.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna návrhů a zpráv ve formátu RTF na firemní šablony pro PowerPoint.
+* Navrhování témat prezentací na základě strukturovaných dokumentů.
+* Převádění style guide založených na formátu RTF na vizuální šablony pro PowerPoint.
+* Příprava vzdělávacích šablon snímků pro konzistentní akademické použití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizace převodu RTF na POTX pro jednotný firemní vzhled prezentací.
+* Integrace s systémy pro správu dokumentů pro tvorbu šablon.
+* Plánované generování moderních šablon PowerPointu z RTF zpráv.
+* Hromadný převod archivů obsahu do opakovaně použitelných formátů POTX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

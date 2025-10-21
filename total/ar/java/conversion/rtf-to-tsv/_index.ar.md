@@ -61,7 +61,31 @@ otherformats: SXC FODS XLSB XLSM ODS XLT XLS XLSX XLTX XLTM XLAM EXCEL TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى TSV (قيم مفصولة بواسطة علامات تبويب) هو مثالي للحفاظ على مجموعات بيانات نظيفة ومنظمة من المستندات المُنسقة. يضمن التوافق مع برامج التحليلات واستيراد قواعد البيانات وأنظمة نشر البيانات المفتوحة التي تتطلب تنسيق دقيق مفصول بواسطة علامات تبويب.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل سجلات البيانات القائمة على RTF إلى TSV لأدوات التحليل النصي.
+* إعداد وثائق البحث الأكاديمية بتنسيق RTF للمعالجة الإحصائية.
+* تصدير جداول RTF إلى ملفات TSV منظمة لمشاركة البيانات المفتوحة.
+* نقل قوائم RTF المنسقة إلى تنسيقات جاهزة لقواعد البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل RTF إلى TSV مجدول لمهام التقارير المتكررة.
+* دمجه في أنظمة جمع البيانات القائمة على واجهة برمجة التطبيقات.
+* إنشاء ملفات TSV تلقائيًا في مستودعات البيانات المفتوحة.
+* تحويل الوثائق بالدُفعات في سياقات النشر بمقياس كبير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

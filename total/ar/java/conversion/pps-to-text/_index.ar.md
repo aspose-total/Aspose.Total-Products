@@ -53,7 +53,31 @@ otherformats: WORDML OTT TEXTM RTF WORD FLATOPC ODT TEXT DOT TEXTX DOTX DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى نص (نص عادي) يسمح للمستخدمين باستخراج المحتوى النصي فقط من الشرائح، مما يعتبر مثاليًا للتحليل والفهرسة والترجمة أو الاستخدام في خطوط الأنابيب الخاصة التي تتطلب تنسيقات نصية نظيفة فقط.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج النص الخام للشرائح لاستخدامه في تنقيب البيانات أو معالجة اللغة الطبيعية.
+* إنشاء ملخصات نصية عادية للاجتماعات من شرائح العرض.
+* إعداد نص نظيف لأنظمة الترجمة أو التعريب.
+* تخزين أرشيفات خفيفة لمحتوى العروض التقديمية.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* استخراج النص تلقائيًا لفهرسة البحث أو تدريب الذكاء الاصطناعي.
+* تحويل الشرائح إلى نص بشكل دفعي لأرشفة المؤسسات.
+* دمجه في خطوط أنابيب تحليل المحتوى للتحليل الدلالي.
+* تصدير النص العادي بشكل مجدول لأنظمة سير العمل الوثائقية.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

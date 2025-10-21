@@ -61,7 +61,31 @@ otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DI
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPTX (عرض تقديمي في PowerPoint) إلى CSV (قيم منفصلة بفواصل) يمكن استخراج البيانات الجدولية والرقمية من الشرائح إلى شكل جدول بيانات خفيف. تدعم هذه التحويلات تحليل البيانات وتلقائية التقارير ودمج لوحات المعلومات عبر منصات متعددة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير جداول الشرائح في PowerPoint إلى CSV لأدوات التحليل.
+* تحويل مقاييس العرض التقديمي إلى CSV لوحوش الأعمال التحليلية.
+* إعداد شرائح بيانات المبيعات للاستيراد في Excel وقواعد البيانات.
+* ترحيل بيانات PowerPoint لدمجها مع أنظمة تخطيط موارد المؤسسات أو إدارة علاقات العملاء.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+* تحويل دُفعي من PPTX إلى CSV لتقارير الأداء الفصلية.
+* تلقين تصديرات CSV في أنابيب ETL وتحليلات البيانات تلقائيًا.
+* تزامن البيانات بين PowerPoint وأنظمة التقارير.
+* دمجها في سير العمل لاستيعاب البيانات المدفوعة بواسطة واجهة برمجة التطبيقات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB ODS XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε ODS (OpenDocument Spreadsheet) προσφέρει ένα ομαλό τρόπο επαναχρησιμοποίησης δεδομένων παρουσίασης σε δομημένες μορφές υπολογιστικών φύλλων. Αυτή η μετατροπή βοηθά τους επαγγελματίες να μετατρέψουν συνοπτικές διαφάνειες σε επεξεργάσιμους, αναλύσιμους πίνακες συμβατούς με το LibreOffice Calc και το OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Εξαγωγή οικονομικών δεδομένων από διαφάνειες παρουσίασης σε δομημένες αναφορές ODS.
+* Μετατροπή εκπαιδευτικών διαφανειών σε αναλυτικά μαθήματα βασισμένα σε υπολογιστικά φύλλα.
+* Μετατροπή παρουσιάσεων μάρκετινγκ σε πίνακες απόδοσης πωλήσεων.
+* Δημιουργία επεξεργάσιμων φύλλων παρακολούθησης έργων από συνοπτικές επιχειρηματικές αναφορές PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη μετατροπή παρουσιάσεων αιθουσών συνεδριάσεων σε τριμηνιαία αρχεία απόδοσης ODS.
+* Ενσωμάτωση σε αγωγούς αναφορών για αυτόματη μετατροπή διαφανειών σε δεδομένα κοινοποιήσιμων υπολογιστικών φύλλων.
+* Πραγματική μετατροπή εξόδων συναντήσεων σε κεντρικοποιημένους αναλυτικούς πίνακες.
+* Μαζική μετατροπή για ομάδες που διατηρούν ταυτόχρονα αρχεία παρουσιάσεων και υπολογιστικών φύλλων.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

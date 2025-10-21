@@ -61,7 +61,31 @@ otherformats: DIF EXCEL XLSX XLS XLSM MARKDOWN XLAM MHTML XLTX TSV SXC ODS XLT F
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX文件转换为FODS（Flat OpenDocument Spreadsheet）可实现将PowerPoint幻灯片无缝迁移至可编辑的电子表格布局。这对于将表格报告、图表和关键绩效指标可视化内容转换为结构化数据供LibreOffice或OpenOffice用户使用特别有用。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将PowerPoint报告幻灯片转换为可编辑的电子表格表格。
+* 提取性能图表以在LibreOffice Calc中进行分析。
+* 在开源电子表格环境中重复使用演示数据。
+* 从企业演示文稿创建可编辑的KPI表格。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将PPTX转换为FODS，用于开放数据政府门户网站。
+* 用于团队协作的自动化转换使用FODS。
+* 与报告生成管道集成。
+* 与开源数据管理工作流同步。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

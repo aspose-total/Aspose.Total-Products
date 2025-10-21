@@ -53,7 +53,31 @@ otherformats: FLATOPC DOT DOTM WORDML WORD TEXT RTFM RTFX ODT OTT DOTX RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в формат RTF (Rich Text Format) позволяет извлекать текстовое содержимое, сохраняя основное форматирование. RTF обеспечивает совместимость с различными платформами и текстовыми процессорами, что делает его отличным для создания простых редактируемых отчетов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Экспорт текста из PowerPoint для редактирования на разных платформах.
+* Создание отформатированных текстовых отчетов на основе слайдов.
+* Обмен редактируемыми сводками без зависимости от PowerPoint.
+* Преобразование учебных презентаций в учебные материалы на основе RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в RTF для рабочих процессов распространения отчетов.
+* Интеграция в системы обработки текста и архивации.
+* Пакетное преобразование для создания легких редактируемых документов.
+* Запланированный экспорт в формате RTF для регуляторных и академических целей.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

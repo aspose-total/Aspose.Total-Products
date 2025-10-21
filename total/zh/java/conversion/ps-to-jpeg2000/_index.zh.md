@@ -57,7 +57,31 @@ otherformats: TGA WMZ SVGZ WMF PSD IMAGE DXF  EMZ JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）转换为JPEG2000可增强图像压缩和质量保留，使其非常适合大规模存档、发布和医学成像。JPEG2000的先进压缩算法可以从PS文件中生成高分辨率的视觉效果，文件大小更小，清晰度更高。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将技术PS渲染转换为高质量的JPEG2000图像。
+* 优化数字图书馆和档案的文档存储。
+* 为期刊和研究出版物准备科学插图。
+* 将基于PS的产品目录转换为高效的网页就绪图像。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 图像管理系统中的自动化压缩管道。
+* 与数字资产管理（DAM）工作流程集成。
+* 将PS艺术品批量处理为JPEG2000以供出版社使用。
+* 面向基于人工智能的图像分析工具的基于云的优化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

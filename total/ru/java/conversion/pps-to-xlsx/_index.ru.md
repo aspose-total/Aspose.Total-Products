@@ -61,7 +61,31 @@ otherformats: XLSM XLAM SXC MARKDOWN XLSB ODS FODS DIF TSV MHTML EXCEL XLS XLTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в формат XLSX (Excel Open XML Workbook) обеспечивает современный, гибкий и полностью совместимый формат электронных таблиц для анализа и совместной работы. Идеально подходит для облачного обмена и операций с данными в реальном времени.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование метрик на основе PowerPoint в совместные рабочие книги Excel.
+* Создание панелей управления XLSX на основе исполнительных презентаций.
+* Извлечение данных слайдов для интеграции в аналитику Microsoft 365.
+* Генерация редактируемых финансовых таблиц на основе визуальных материалов презентации.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановый экспорт корпоративных презентаций в отчеты аналитики XLSX.
+* Интеграция в рабочие процессы Microsoft Teams или SharePoint.
+* Автоматическое создание файлов XLSX для распределенных команд.
+* Массовое преобразование для архивирования и синхронизации данных в облаке.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: XLSX XLT SXC FODS XLSM EXCEL XLSB XLS XLTM XLAM TSV ODS DIF XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование RTF в XLTM (Шаблон Excel с включенной макросовой поддержкой) объединяет отформатированное содержимое документа с автоматизированной средой Excel, идеально подходит для компаний, ищущих повторно используемые шаблоны, выполняющие макросы при создании.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование отчетов RTF в динамические шаблоны Excel с встроенными макросами.
+* Автоматизация создания счетов или коммерческих предложений на основе данных формата RTF.
+* Создание инструментов на основе Excel, выполняющих автоматизированные задачи при открытии.
+* Упрощение процедурных документов RTF в шаблоны рабочего процесса Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Генерация XLTM из RTF в финансовых или кадровых документационных системах.
+* Интеграция в автоматизированные конвейеры на основе VBA.
+* Плановое создание макро-шаблонов для отчетности компании.
+* Пакетное преобразование записей RTF в интеллектуальные шаблоны Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

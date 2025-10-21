@@ -49,7 +49,31 @@ otherformats: FODS ODS EXCEL XLSB TXT DIF XLSM TSV XLAM SXC MD XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为TSV（制表符分隔值）有助于标准化商业智能、统计和工程系统之间的数据交换。TSV提供了一种结构化但易于阅读的格式，非常适合将从PS布局中提取的数据迁移到分析管道中。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将PS表单中的结构化文本和数据转换为TSV以进行处理。
+* 为统计工具导出科学或实验结果。
+* 将基于PostScript的文档中的表格内容转移到开放数据格式中。
+* 准备数据集以与R、Python或MATLAB环境兼容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在数据仓库系统中自动进行PS到TSV的转换。
+* 与ETL工具集成，用于结构化数据迁移。
+* 从基于PS的报告引擎中定期提取工作流程。
+* 用于大数据分析的基于云的PS文档处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

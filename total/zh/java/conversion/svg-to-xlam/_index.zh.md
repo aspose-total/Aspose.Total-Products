@@ -49,7 +49,31 @@ otherformats: MD SXC DIF XLSB TSV EXCEL XLAM XLT ODS XLSM XLTX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为XLAM（Excel插件宏）允许开发人员将基于矢量的图表和交互式图表嵌入到支持宏的Excel插件中。XLAM非常适合具有丰富视觉内容的自定义Excel自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 为业务分析创建具有交互式SVG仪表板的Excel插件。
+* 将SVG图表嵌入到支持宏的财务或运营工具中。
+* 具有自动化SVG可视化的学术或研究Excel模板。
+* 在插件中使用动态矢量图表增强报告工具。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于定期更新Excel插件的自动化SVG到XLAM转换。
+* 定期生成具有更新的矢量视觉效果的支持宏的插件。
+* 与企业工作流自动化集成，提供交互式Excel工具。
+* 用于动态仪表板插件的触发式转换流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

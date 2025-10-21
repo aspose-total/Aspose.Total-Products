@@ -61,7 +61,31 @@ otherformats: XLS XLAM SXC XLT XLTM ODS XLSM FODS TSV XLTX DIF MHTML EXCEL XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）演示文稿转换为XLT（Excel模板）格式，将幻灯片转换为可重复使用的电子表格模板，以实现团队间一致的报告和格式化。这对于标准化数据呈现工作流程的组织非常理想。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 从PowerPoint仪表板创建Excel模板。
+* 使用品牌化XLT格式标准化团队报告。
+* 将幻灯片转换为可立即使用的电子表格结构。
+* 为定期业务报告构建基于模板的模型。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 自动化的PPT到XLT转换，以实现一致的报告模板。
+* 集成到企业内容标准化工作流程中。
+* 批量处理以生成与品牌一致的电子表格模板。
+* 从演示文稿定期生成可重复使用的Excel布局。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

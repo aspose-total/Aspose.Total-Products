@@ -61,7 +61,31 @@ otherformats: TSV DIF ODS EXCEL XLT MARKDOWN XLS XLTM XLSM MHTML XLSB XLAM XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片展示）文件转换为MHTML（Web存档）可将完整幻灯片组保存为包含嵌入式媒体的单页Web存档，特别适用于通过电子邮件或内部门户网站共享交互式演示文稿。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 为浏览器查看创建幻灯片的Web存档版本。
+* 将演示文稿打包成单个MHTML文件进行离线共享。
+* 将幻灯片转换为集成到电子学习系统中。
+* 在Web兼容文件中保留PowerPoint的视觉效果和动画。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 为数字学习平台安排定期生成MHTML。
+* 集成到内部门户网站以实现演示文稿的集中访问。
+* 用于内部文档的自动Web存档转换。
+* 用于营销和知识库的批量MHTML导出。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

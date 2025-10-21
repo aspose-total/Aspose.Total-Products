@@ -61,7 +61,31 @@ otherformats: TSV DIF XLAM XLS SXC ODS XLTM XLSM FODS XLTX EXCEL MARKDOWN MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片展示）文件转换为FODS（平面XML ODF电子表格）会将演示内容转换为与电子表格兼容的XML格式。这对于使用LibreOffice或Apache OpenOffice生态系统的开源用户特别有价值。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将PowerPoint中的数值数据导出到FODS电子表格中。
+* 为教育或商业用途创建结构化的XML电子表格。
+* 将幻灯片中的图表转换为可编辑的OpenDocument电子表格数据。
+* 为在LibreOffice Calc中进行分析和共享准备开放标准文件。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定期演示更新生成FODS。
+* 集成到开源报告系统中。
+* 批量将幻灯片转换为FODS，用于分析仪表板。
+* 为跨平台工作流程自动创建基于XML的电子表格。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

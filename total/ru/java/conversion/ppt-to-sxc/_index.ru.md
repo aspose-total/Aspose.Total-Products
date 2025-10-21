@@ -61,7 +61,31 @@ otherformats: SXC TSV XLTM XLSX XLS XLSB DIF FODS XLT XLTX EXCEL MHTML ODS MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в SXC (таблицы StarOffice Calc) позволяет организациям, использующим устаревшие или открытые системы, повторно использовать данные презентаций для более глубокого анализа. Это преобразование устраняет разрыв между визуальными сводками и редактируемыми данными таблиц, улучшая сотрудничество в различных офисных средах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование бизнес-презентаций в совместимые с OpenOffice таблицы.
+* Повторное использование таблиц и диаграмм PowerPoint в финансовых моделях на основе SXC.
+* Поддержка государственных или корпоративных пользователей, полагающихся на OpenOffice или LibreOffice.
+* Миграция архивных корпоративных данных из PPT в открытые форматы таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PPT в SXC для корпоративных архивных систем.
+* Интеграция в рабочие процессы цифровизации документов.
+* Автоматизированные преобразования для гибридных отчетных сред с открытым исходным кодом.
+* Плановый экспорт обновлений PPT в совместные инструменты для работы с таблицами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

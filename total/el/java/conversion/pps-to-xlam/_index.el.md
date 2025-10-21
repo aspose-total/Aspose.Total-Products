@@ -61,7 +61,31 @@ otherformats: XLSX XLT MARKDOWN FODS XLSM XLSB MHTML XLTM TSV XLTX DIF XLS SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε XLAM (Excel Add-In) επιτρέπει την ενσωμάτωση δεδομένων παράγωγα από παρουσιάσεις σε πρόσθετα με δυνατότητα μακροενεργοποίησης. Αυτή η μετατροπή είναι ιδανική για προγραμματιστές και αναλυτές που αυτοματοποιούν την αναφορά βασισμένη σε Excel και χρειάζονται την ένταξη δεδομένων από PowerPoint σε επεκτάσεις Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία πρόσθετων XLAM με μετρήσεις βασισμένες σε διαφάνειες για αυτόματες αναφορές.
+* Δημιουργία πίνακων ελέγχου με μακροενεργοποίηση που προέρχονται από δεδομένα παρουσίασης PPS.
+* Δημιουργία προσθέτων για ζωντανή παρακολούθηση KPI χρησιμοποιώντας μετατραπείσεις τιμών παρουσίασης.
+* Ένταξη περιεχομένου PPS σε προηγμένα σενάρια αυτοματισμού Excel.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτόματη δημιουργία XLAM από αρχεία παρουσιάσεων τμήματος.
+* Ενσωμάτωση σε συστήματα επιχειρησιακού αυτοματισμού Excel.
+* Προγραμματισμένη μετατροπή από PowerPoint σε XLAM για ενότητες ζωντανής αναφοράς.
+* Δημιουργία προσθέτων σε πακέτα για ροές οπτικοποίησης δυναμικών δεδομένων.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

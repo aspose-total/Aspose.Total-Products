@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为WordML（WordprocessingML）提供了基于XML的PostScript文档表示，实现了与应用程序、数据交换和自定义Word处理工作流的深度集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PS报告转换为WordML以进行程序化编辑和生成。
+* 将基于PostScript的布局集成到基于XML驱动的发布工作流中。
+* 使用WordML模板自动填充和格式化文档。
+* 为基于Web或企业的Word处理系统准备内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定时PS到WORDML转换以进行自动发布。
+* 与企业内容和文档管理系统集成。
+* 辅助AI布局到XML转换，用于结构化Word工作流程。
+* 批量将PostScript文件转换为可读取的WordML。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

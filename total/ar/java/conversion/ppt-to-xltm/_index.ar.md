@@ -61,7 +61,31 @@ otherformats: DIF XLS MARKDOWN SXC XLTX XLSB XLSX TSV XLAM EXCEL ODS XLSM FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPT (باوربوينت) إلى XLTM (نموذج Excel مع ماكرو) يمكن للمؤسسات تصميم قوالب جداول بيانات ذكية وقابلة لإعادة الاستخدام مستمدة من العروض التقديمية. تقوم قوالب XLTM بتلقين المهام المتكررة تلقائيًا وتبسيط توحيد التقارير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل تقارير PowerPoint إلى قوالب Excel مع ماكرو.
+* بناء قوالب جداول بيانات ذكية للتحليلات التلقائية.
+* توحيد نماذج التقارير المالية المتكررة.
+* إنشاء قوالب Excel تقلد تخطيط PowerPoint ومنطقه.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقين التلقائي" %}}
+
+* تحويل تلقائي للشرائح إلى XLTM لقوالب تقارير مع ماكرو.
+* دمجها في سير العمل التلقائي لإدخال البيانات والتحليلات.
+* إنشاء جداول بيانات قابلة لإعادة الاستخدام مع ماكرو بشكل مجدول.
+* معالجة دفعية لتوحيد القوالب على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,31 @@ Při převodu souboru SVG na XLTM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na XLTM (Excel Macro-Enabled Template) umožňuje vytváření opakovaně použitelných šablon, které kombinují vektorovou grafiku s VBA makry pro automatizaci. Ideální pro interaktivní zprávy, dashboardy a šablony pracovních postupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Makro-povolené šablony pro řízení projektů s vestavěnými SVG diagramy.
+* Opakovaně použitelné finanční dashboardy s interaktivními makry pro automatizované výpočty.
+* Akademické nebo výzkumné šablony pro reportování s využitím SVG vizualizací s VBA vylepšeními.
+* Operační pracovní postupy integrující dynamické vektorové grafy a makra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický převod SVG na XLTM pro opakující se makro-povolené šablony reportů.
+* Plánované aktualizace šablon s novými daty ve formátu SVG a vestavěnými makry.
+* Integrace do platforem pro automatizaci pracovních postupů vyžadující interaktivní šablony.
+* Spouštěné konverzní procesy pro interaktivní dashboardy a operační reporty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

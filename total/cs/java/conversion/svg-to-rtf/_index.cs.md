@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na RTF (Rich Text Format) umožňuje vkládání vektorových diagramů do univerzálně podporovaných textových dokumentů. RTF udržuje formátování napříč různými procesory textu a operačními systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání vizuálních prvků SVG do reportů nebo manuálů na různých platformách.
+* Standardizované technické nebo vzdělávací dokumenty s vektorovými grafy.
+* Přenosné šablony projektů s vloženými diagramy SVG.
+* Akademické práce nebo prezentace vyžadující kompatibilní textové formáty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická hromadná konverze SVG na RTF pro distribuci dokumentů.
+* Plánované aktualizace technických manuálů s novými vizuálními prvky SVG.
+* Integrace s systémy pro správu obsahu pro přístup z různých platforem.
+* Spouštěná generace dokumentů RTF pro offline nebo přenosné pracovní postupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

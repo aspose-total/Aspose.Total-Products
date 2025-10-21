@@ -54,7 +54,31 @@ otherformats: POT PPT POWERPOINT PPTX PPS POTM POTX PPTM PPSX PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή RTF σε PPT (Παλαιά παρουσίαση PowerPoint) γεφυρώνει τις παραδοσιακές ροές εγγράφων με παλαιότερα περιβάλλοντα PowerPoint. Αυτό είναι πολύτιμο για οργανισμούς που διατηρούν συμβατότητα με προηγούμενες εκδόσεις του Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Μετατροπή αναφορών RTF σε συμβατά αρχεία PowerPoint 97–2003.
+* Επαναχρησιμοποίηση μορφοποιημένων εγγράφων κειμένου για παρουσιάσεις εκπαίδευσης.
+* Σχεδιασμός διαφανειών για συστήματα παλαιάς παρουσίασης.
+* Προετοιμασία συνοπτικών εκθέσεων βασισμένων σε RTF για παραδοσιακές εμφανίσεις PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζικές μετατροπές RTF σε PPT για παλαιές ροές εργασίας Office.
+* Ενσωμάτωση σε συστήματα παρουσίασης αρχειοθέτησης και συμμόρφωσης.
+* Προγραμματισμένες μετατροπές για υποστήριξη αντιστροφής συμβατότητας.
+* Αυτοματοποιημένη δημιουργία PowerPoint από πρότυπα RTF για παλαιά συστήματα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

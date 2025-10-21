@@ -49,7 +49,31 @@ otherformats: XLSB XLTM XLT FODS SXC XLSM TXT TSV MD XLTX XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG（可缩放矢量图形）文件转换为CSV（逗号分隔值）可将视觉图表和图表转换为结构化表格数据。这种转换对于分析、报告和无缝集成到数据驱动工作流程中至关重要。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从SVG仪表板中导出销售业绩图表到CSV文件。
+* 将调查和研究图表转换为结构化的CSV数据集。
+* 通过电子表格友好的CSV文件在团队间共享交互式SVG分析。
+* 将财务和工程图表转换为用于建模的原始数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG仪表板批量自动转换为CSV以供BI平台使用。
+* 集成到财务、运营或营销报告的ETL工作流程中。
+* 定期分析更新的计划SVG到CSV导出。
+* 应用程序中动态生成的矢量图表的触发转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

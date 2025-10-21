@@ -61,7 +61,31 @@ otherformats: ODS XLS TSV XLSM FODS SXC XLT XLAM XLSB XLTX EXCEL XLTM DIF XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将RTF文件转换为FODS（Flat XML ODF Spreadsheet）格式，弥合了样式化文本内容和开源电子表格环境之间的差距。这种转换保持了结构，同时为偏好非二进制、基于XML的格式的LibreOffice和OpenOffice用户提供了灵活性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将RTF文档中格式化的研究表转换为可编辑的FODS表格。
+* 将办公文档存档为符合开放标准的FODS格式以符合合规要求。
+* 为基于LibreOffice的分析准备政府数据报告。
+* 从RTF程序手册生成电子表格模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在开放文档管理系统内实时进行RTF到FODS的转换。
+* 自动化存档流程确保格式标准化。
+* 与需要XML结构化输入的开源ERP工具集成。
+* 为支持ODF工作流程的文档存储库安排定期转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

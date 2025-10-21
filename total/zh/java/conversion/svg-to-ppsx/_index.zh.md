@@ -121,7 +121,31 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为PPSX（PowerPoint Open XML Show）可创建现代、无宏的幻灯片展示，在其中嵌入矢量图形，直接以演示模式打开。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 准备好的高分辨率SVG图表的商业演示文稿。
+* 用于讲座或电子学习模块的教育幻灯片展示。
+* 打包成立即查看的营销和产品演示。
+* 具有交互式矢量视觉的学术或会议演示。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG自动批量转换为PPSX，用于定期演示交付。
+* 从实时仪表板生成准备好的幻灯片的定时安排。
+* 与内容管理系统集成，用于自动化演示分发。
+* 触发的SVG到PPSX管道，用于动态、实时视觉效果。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

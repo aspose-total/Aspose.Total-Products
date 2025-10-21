@@ -54,7 +54,31 @@ API také umožňuje převádět dokumenty RTF chráněné heslem na PPTX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění RTF na PPTX (PowerPoint Open XML Presentation) proměňuje statický text do moderních, upravitelných a sdílitelných prezentací. Tento široce podporovaný formát je ideální pro firemní zprávy, přednášky, návrhy a marketingový obsah.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění zápisů z jednání založených na RTF do propracovaných prezentací v PowerPointu.
+* Vytváření dynamických prezentací z formátovaných textových zpráv.
+* Přetváření dat společnosti z formátu RTF do vizuálně vylepšených snímků.
+* Transformace písemné dokumentace do prezentací řízených vyprávěním.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Dávkový export RTF do PPTX pro firemní dokumentační systémy.
+* Integrace s online tvůrci prezentací a cloudovými platformami.
+* Automatizované generování prezentací pro interní komunikaci a prezentace klientům.
+* Plánované aktualizace prezentací z repozitářů dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

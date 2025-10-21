@@ -47,7 +47,31 @@ otherformats: MD SXC DIF XLSB TSV EXCEL XLAM XLT ODS XLSM XLTX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى XLAM (إضافة Excel Macro) يسمح للمطورين بتضمين الرسوم البيانية القائمة على الناقل والمخططات التفاعلية في إضافات Excel التي تحتوي على ماكرو. XLAM مثالي لأتمتة Excel المخصصة مع محتوى بصري غني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء إضافات Excel مع لوحات قيادية SVG تفاعلية لتحليلات الأعمال.
+* تضمين مخططات SVG في أدوات مالية أو تشغيلية تحتوي على ماكرو.
+* قوالب Excel أكاديمية أو بحثية مع تصور SVG ملتقط تلقائيًا.
+* تعزيز أدوات التقارير بمخططات ناقلة ديناميكية في الإضافات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأمين" %}}
+
+* تحويل SVG إلى XLAM تلقائي لتحديثات إضافة Excel المتكررة.
+* إنشاء إضافات محدثة بصريًا بانتظام مع مخططات ناقلة محدثة.
+* دمج مع أتمتة سير العمل في المؤسسة لتقديم أدوات Excel تفاعلية.
+* خطوط تحويل مُشغّلة لإضافات لوحات القيادة الديناميكية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

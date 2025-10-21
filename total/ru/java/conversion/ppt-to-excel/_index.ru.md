@@ -61,7 +61,29 @@ otherformats: XLS XLSM FODS ODS XLT XLAM XLTM XLSB XLSX MARKDOWN MHTML XLTX EXCE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в формат EXCEL (.xls или .xlsx) соединяет визуальное повествование с аналитической глубиной. Это позволяет пользователям преобразовывать диаграммы, графики и сводки по производительности в полностью редактируемые электронные таблицы для более глубокого анализа и обработки бизнес-интеллекта.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт таблиц PowerPoint в Excel для расширенных вычислений.
+* Преобразование слайдов по производительности проекта в редактируемые финансовые модели.
+* Создание панелей инструментов Excel на основе визуально насыщенных презентаций.
+* Генерация готовых к предоставлению клиенту электронных таблиц Excel из презентаций на совещаниях.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в Excel в корпоративных системах отчетности.
+* Интеграция в потоки данных для аналитических отделов.
+* Плановое обновление данных PowerPoint в панелях инструментов на основе Excel.
+* Синхронизация в реальном времени между метриками презентации и электронными таблицами Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

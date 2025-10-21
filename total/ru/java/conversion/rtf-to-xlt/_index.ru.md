@@ -61,7 +61,31 @@ otherformats: XLTX XLAM XLSM XLT FODS XLSB XLS DIF XLSX TSV XLTM ODS SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование RTF в XLT (Шаблон Excel) позволяет преобразовывать отформатированные данные документа в многоразовые шаблоны электронных таблиц. Это особенно полезно для организаций, стандартизирующих макеты отчетов или автоматизирующих создание документов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование бизнес-форматов RTF в шаблоны отчетов Excel.
+* Создание стандартизированных структур отчетов компании на основе макетов RTF.
+* Создание шаблонов для ввода данных на основе таблиц RTF.
+* Преобразование чеклистов RTF в инструменты продуктивности на основе Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание шаблонов RTF в XLT для стандартизации отчетов.
+* Интеграция с системами дополнений Excel для многоразовых бизнес-форм.
+* Планирование преобразования для рабочих процессов предприятия.
+* Пакетная обработка отчетов RTF в библиотеки шаблонов Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

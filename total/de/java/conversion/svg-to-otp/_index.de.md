@@ -121,7 +121,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG in OTP (OpenDocument Presentation Template) ermöglicht die Erstellung wiederverwendbarer Folienvorlagen mit Vektorgrafiken. OTP eignet sich ideal zur Standardisierung von Präsentationen in Teams und Projekten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Unternehmenspräsentationsvorlagen mit SVG-Dashboards und Illustrationen.
+* Bildungsfolienvorlagen mit eingebetteten Vektorgrafiken.
+* Wiederverwendbare Marketingvorlagen zur Präsentation von Produktinformationen.
+* Akademische oder Konferenzpräsentationsvorlagen für skalierbare Visuals.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Stapelgenerierung von SVG-zu-OTP-Vorlagen für konsistente Folien.
+* Geplante Aktualisierungen für Schulungs- oder Unternehmenspräsentationen.
+* Integration in die Workflow-Automatisierung zur teamweiten Vorlagenverteilung.
+* Ausgelöste Erstellung interaktiver Folienvorlagen aus Live-SVG-Daten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

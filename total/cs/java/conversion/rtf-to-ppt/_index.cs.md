@@ -54,7 +54,31 @@ API také umožňuje převádět dokumenty RTF chráněné heslem na PPT. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod RTF na PPT (prezentace Legacy PowerPoint) spojuje tradiční pracovní postupy s staršími prostředími PowerPointu. Toto je cenné pro organizace, které udržují kompatibilitu s dřívějšími verzemi Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění RTF zpráv do souborů kompatibilních s PowerPointem 97–2003.
+* Opakované použití formátovaných textových dokumentů pro školení.
+* Navrhování snímků pro systémy starých prezentací.
+* Příprava RTF založených shrnutí výzkumů pro tradiční zobrazení v PowerPointu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadné transformace RTF na PPT pro pracovní postupy starších kancelářských aplikací.
+* Integrace do archivačních a dodržovacích systémů prezentací.
+* Plánované konverze pro podporu zpětné kompatibility.
+* Automatizované generování prezentací v PowerPointu z RTF šablon pro starší systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: SXC EXCEL XLT XLSX XLS XLSM TSV XLTX XLAM FODS MHTML XLTM ODS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в XLT (Excel Template) помогает бизнесу создавать многоразовые шаблоны электронных таблиц на основе данных презентаций. Эти шаблоны обеспечивают согласованность в отчетности, форматировании и анализе.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание стандартных бюджетных шаблонов на основе финансовых презентаций.
+* Разработка шаблонов отчетов на основе исполнительных слайд-шоу.
+* Генерация многоразовых шаблонов прогнозов продаж.
+* Создание стандартизированных макетов аналитики на основе визуальных слайдов.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание шаблонов XLT из повторяющихся отчетов PowerPoint.
+* Интеграция в системы управления шаблонами предприятия.
+* Плановое преобразование слайдов в шаблоны для обеспечения согласованности в отделах.
+* Массовое создание брендированных шаблонов Excel на основе утвержденных слайд-дек.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

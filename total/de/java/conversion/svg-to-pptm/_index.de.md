@@ -121,7 +121,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG in PPTM (Macro-Enabled PowerPoint) kombiniert skalierbare Vektorgrafiken mit Makros für interaktive, automatisierungsfähige Folienpräsentationen. Ideal für dynamische Unternehmens- oder Schulungspräsentationen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Makrofähige Unternehmenspräsentationen mit SVG-Dashboards.
+* Interaktive Bildungs- oder Forschungsfolien unter Verwendung von eingebetteten Makros.
+* Marketingpräsentationen mit automatisierten Diagrammen und interaktiven Visuals.
+* Schulungsmodule, die SVG-Diagramme mit makrogesteuerter Interaktivität kombinieren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte SVG-zu-PPTM-Konvertierung für wiederkehrende makrofähige Folienpräsentationen.
+* Geplante Aktualisierungen für interaktive Präsentationen mit Live-Datenvisualisierungen.
+* Integration in Workflow-Automatisierung für dynamische, sofort einsatzbereite Folien.
+* Ausgelöste Pipelines zur Erzeugung interaktiver Dashboards im PPTM-Format.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

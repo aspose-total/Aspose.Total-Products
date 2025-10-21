@@ -61,7 +61,31 @@ otherformats: TSV DIF XLAM XLS SXC ODS XLTM XLSM FODS XLTX EXCEL MARKDOWN MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в FODS (Flat XML ODF Spreadsheet) преобразует содержимое презентации в форматы XML, совместимые со таблицами. Это особенно ценно для пользователей открытого исходного кода, работающих в экосистемах LibreOffice или Apache OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт числовых данных из PowerPoint в таблицы FODS.
+* Создание структурированных XML-таблиц для образовательных или бизнес-целей.
+* Преобразование диаграмм из слайдов в редактируемые данные электронных таблиц формата OpenDocument.
+* Подготовка файлов стандарта открытых данных для анализа и обмена в LibreOffice Calc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое создание FODS из обновлений презентаций.
+* Интеграция в системы отчетности с открытым исходным кодом.
+* Пакетное преобразование слайдов в FODS для аналитических панелей управления.
+* Автоматизированное создание XML-таблиц для перекрестных платформенных рабочих процессов.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

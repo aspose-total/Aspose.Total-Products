@@ -47,7 +47,31 @@ otherformats: XLSB TSV ODS XLTM XLSM SXC TXT MD DIF EXCEL XLAM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى ملفات TXT (نص عادي) يستخرج المحتوى النصي من التخطيطات المعقدة، مما يتيح تنسيقات خفيفة الوزن وقابلة للبحث والتحرير. يعتبر الإخراج بتنسيق TXT مثاليًا لتحليل النصوص بسرعة والبرمجة النصية ومعالجة المستندات الخفيفة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج النص الخام من التقارير والرسوم البيانية المعتمدة على PS.
+* تحضير المحتوى لتحليل النصوص والمعالجة اللغوية الحاسوبية أو فهرسة البحث.
+* تحويل النماذج أو التقارير المعتمدة على PostScript إلى ملفات نصية خفيفة الوزن.
+* تمكين أنظمة الأتمتة القائمة على النصوص وسيناريوهات البرمجة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دُفعي من PS إلى TXT لفهرسة ومعالجة البيانات.
+* دمجه في أنابيب تحليل النصوص الذكية الاصطناعية.
+* استخراج آلي لأنظمة التقارير والأرشفة.
+* تحويل قائم على السحاب لجعل النصوص متاحة بشكل موسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

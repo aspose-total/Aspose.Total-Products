@@ -130,7 +130,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات SVG إلى MHTML (MIME HTML) يسمح بتعبئة الرسومات التفاعلية في ملف واحد للأرشفة على الويب. هذا مثالي للوثائق غير المتصلة بالإنترنت، والرسوم التخطيطية المتوافقة مع البريد الإلكتروني، والتقارير الناقلة للرسوم البيانية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* أرشفة لوحات تحكم SVG التفاعلية للوصول غير المتصل بالإنترنت.
+* إرسال رسوم بيانية ناقلة متحركة مضمنة في رسائل MHTML.
+* دلائل فنية نقلية مع مخططات ناقلة مضمنة.
+* إنشاء تقارير متوافقة مع الويب يمكن توزيعها بدون استضافة الخادم.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دُفعي من SVG إلى MHTML لتسليمات المشروع المؤرشفة.
+* إنشاء لوحات تحكم ناقلة غير متصلة بانتظام للاستخدام الشركي.
+* دمج مع أنظمة إدارة المحتوى لتصدير الرسوم البيانية الناقلة.
+* أتمتة في إنشاء التقارير لتنسيق متسق وقابلية النقل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

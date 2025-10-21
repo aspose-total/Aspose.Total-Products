@@ -47,7 +47,29 @@ otherformats: XLT SXC XLTM XLSB ODS MD EXCEL XLTX DIF TSV TXT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в Markdown (MD) позволяет встраивать векторные диаграммы непосредственно в документацию, файлы README и генераторы статических сайтов. Этот подход сохраняет легкость графики и полную масштабируемость, улучшая читаемость технического контента.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Встраивание архитектурных диаграмм в файлы README программных проектов.
+* Интерактивные блок-схемы для репозиториев документации с открытым исходным кодом.
+* Электронные книги и учебники на основе Markdown с встроенными векторными иллюстрациями.
+* Технические блоги с использованием чистых, масштабируемых визуальных материалов без дополнительных файлов изображений.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование SVG в MD для конвейеров документации.
+* Плановая генерация векторных диаграмм для обновлений базы знаний.
+* Интеграция с генераторами статических сайтов, такими как Hugo или Jekyll.
+* Постоянная синхронизация обновлений дизайна в технические файлы Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

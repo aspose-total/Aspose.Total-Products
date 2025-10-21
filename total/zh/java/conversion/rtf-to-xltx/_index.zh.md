@@ -61,7 +61,31 @@ otherformats: XLTM ODS XLAM XLS XLSB FODS XLT XLTX TSV XLSM XLSX SXC EXCEL DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将RTF转换为XLTX（Excel模板开放XML格式）使组织能够在现代Excel环境中无需宏重复使用文档布局。它被广泛用于报告、数据输入和专业文档格式设置。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将基于RTF的财务摘要转换为可重复使用的XLTX模板。
+* 为报告和表单构建标准化的Excel布局。
+* 将公司文档转换为现代电子表格格式。
+* 从RTF数据文件准备部门模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业报告工作流程的自动化RTF到XLTX生成。
+* 与文档自动化系统集成，用于标准化表单。
+* 从存档的RTF文档定期创建Excel模板。
+* 支持现代Excel和Office 365兼容性的批量转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

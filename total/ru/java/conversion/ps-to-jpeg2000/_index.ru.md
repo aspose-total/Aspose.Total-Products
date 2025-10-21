@@ -57,7 +57,31 @@ API также позволяет экспортировать файл PS в JP
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование PS (PostScript) в JPEG2000 улучшает сжатие изображений и сохранение качества, что делает его идеальным для архивирования в большом масштабе, публикаций и медицинского изображения. Продвинутые алгоритмы сжатия JPEG2000 обеспечивают высококачественные визуальные из PS-файлов с более низкими размерами файлов и превосходной четкостью.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные области применения" %}}
+
+* Преобразование технических PS-изображений в изображения JPEG2000 высокого качества.
+* Оптимизация хранения документов для цифровых библиотек и архивов.
+* Подготовка научных иллюстраций для журналов и научных публикаций.
+* Преобразование каталогов продуктов на основе PS в эффективные изображения для веб-сайтов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированные конвейеры сжатия в системах управления изображениями.
+* Интеграция с рабочими процессами управления цифровыми активами (DAM).
+* Пакетная обработка PS-графики в формате JPEG2000 для издательств.
+* Оптимизация на основе облака для инструментов анализа изображений, управляемых искусственным интеллектом.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

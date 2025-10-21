@@ -61,7 +61,31 @@ Beim Konvertieren der PPS-Datei in XLT können Sie Ihrem Ausgabe-XLT-Dateiformat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von PPS (PowerPoint Slide Show) Dateien in XLT (Excel Template) hilft Unternehmen dabei, wiederverwendbare Tabellenvorlagen aus Präsentationsdaten zu erstellen. Diese Vorlagen gewährleisten Konsistenz in Berichterstattung, Formatierung und Analyse.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Erstellung standardisierter Budgetvorlagen aus Finanzpräsentationen.
+* Design von Berichtsvorlagen aus leitenden Präsentationen.
+* Generierung wiederverwendbarer Umsatzprognosevorlagen.
+* Erstellung standardisierter Analyselayouts aus Präsentationsgrafiken.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatische Erstellung von XLT-Vorlagen aus wiederkehrenden PowerPoint-Berichten.
+* Integration in unternehmensweite Vorlagenverwaltungssysteme.
+* Geplante Umwandlung von Folien in Vorlagen zur Abteilungskonsistenz.
+* Massenerzeugung von gebrandeten Excel-Vorlagen aus genehmigten Präsentationsfolien.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

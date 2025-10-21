@@ -47,7 +47,31 @@ Při převodu souboru SVG na SXC můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na SXC (StarOffice/LibreOffice Spreadsheet) umožňuje vkládání vektorových grafů do tabulkových formátů open-source. SXC je ideální pro spolupracovní pracovní postupy a kompatibilitu tabulek napříč platformami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Importování finančních nebo projektových nástěnek ve formátu SVG do tabulek LibreOffice.
+* Sdílení výzkumných nebo akademických dat s vektorovými grafy ve souborech SXC.
+* Spolupracovní sledování projektů pomocí vložených vizuálních prvků SVG.
+* Standardizované šablony tabulek open-source s interaktivními diagramy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická hromadná konverze SVG na SXC pro reportingové potrubí.
+* Naplánovaný export nástěnek založených na SVG do tabulek open-source.
+* Integrace s kancelářskými balíky pro týmový přístup.
+* Spouštění generování tabulek SXC z dynamických dat ve formátu SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

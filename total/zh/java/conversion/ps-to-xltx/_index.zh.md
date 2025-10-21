@@ -49,7 +49,31 @@ otherformats: XLSB TSV TXT XLSM FODS XLTX XLTM XLT SXC ODS EXCEL XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为XLTX（Excel模板文件）可创建结构化、可重复使用的模板，无需使用宏。此转换支持在业务部门和分析团队之间实现一致的报告格式和布局复制。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于PS的报告可视化内容转换为Excel模板以供重复使用。
+* 在多个Excel用户之间标准化报告格式。
+* 为干净和安全的报告开发非宏模板。
+* 为企业文档构建格式化的工作簿设计。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在企业报告流程中自动化PS到XLTX的生成。
+* 在基于云的Excel处理系统中创建模板。
+* 定期转换为品牌文档格式。
+* 基于人工智能从PS布局复制样式到Excel模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

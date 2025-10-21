@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为MARKDOWN（.md）可使文本和图形的PostScript内容以轻量级、适合网络的格式使用。Markdown非常适合用于文档、知识库、博客和基于Git的项目存储库。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将PS手册和报告转换为适用于网络的Markdown文档。
+* 将图表转换为Markdown支持的格式，用于文档编制。
+* 在GitHub或内部维基上发布基于PS的技术内容。
+* 从PS文件中准备教程、指南或学术笔记，转换为Markdown格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在文档流程中自动进行PS到Markdown的转换。
+* 集成到静态站点生成器中，用于技术博客和知识门户。
+* 批处理将PS存档转换为Markdown存储库。
+* 从PS中辅助AI提取内容，以获得Markdown准备的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

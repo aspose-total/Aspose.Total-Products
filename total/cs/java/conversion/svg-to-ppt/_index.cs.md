@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG do formátu PPT (PowerPoint 97-2003) umožňuje vložení vektorové grafiky do starších prezentací. PPT zajistí kompatibilitu s staršími verzemi PowerPointu a zachování vizuální kvality.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Firemní prezentace s vloženými SVG dashboardy pro starší software.
+* Akademické nebo výzkumné snímky využívající starší formáty PowerPointu.
+* Výukové a instruktážní prezentace kompatibilní se staršími systémy.
+* Marketingové prezentace standardizované pro kompatibilitu napříč verzemi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze SVG do PPT pro potřeby starších prezentací.
+* Plánované exporty snímků založených na SVG do starších formátů PowerPointu.
+* Integrace s reportovacími potrubími pro doručení prezentací ve starším formátu.
+* Spouštěná konverze pro automatizované vytváření prezentací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

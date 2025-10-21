@@ -121,7 +121,31 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为OTP（OpenDocument Presentation Template）可创建具有矢量图表的可重用幻灯片模板。OTP非常适合在团队和项目之间标准化演示文稿。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 使用SVG仪表板和插图创建企业演示文稿模板。
+* 带有嵌入式矢量图形的教育幻灯片模板。
+* 展示产品数据的可重用营销模板。
+* 用于可伸缩视觉的学术或会议演示文稿模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量生成SVG到OTP模板，确保幻灯片一致性。
+* 定期更新培训或企业演示文稿。
+* 与工作流自动化集成，实现团队范围的模板分发。
+* 从实时SVG数据触发创建交互式幻灯片模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

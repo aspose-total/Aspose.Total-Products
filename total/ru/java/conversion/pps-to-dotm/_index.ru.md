@@ -53,7 +53,31 @@ otherformats: DOTM RTF ODT FLATOPC DOTMX WORDML TEXT DOTMM DOTX WORD DOT OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в DOTM (Шаблон Word с поддержкой макросов) позволяет создавать динамические шаблоны документов, управляемые сценариями. Предприятия используют DOTM для автоматизации создания документов и отчетов на основе данных презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов Word с макросами на основе презентаций PPS.
+* Автоматизация повторяющихся бизнес-форм с использованием встроенного VBA.
+* Генерация многоразовых шаблонов для отчетов о соответствии и качестве.
+* Создание интеллектуальных рабочих процессов документов на основе презентаций.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание шаблонов DOTM для предприятий.
+* Интеграция с средствами автоматизации для создания документов.
+* Плановое обновление шаблонов на основе последних презентаций.
+* Пакетное преобразование нескольких файлов PPS в шаблоны с поддержкой макросов.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

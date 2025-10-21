@@ -53,7 +53,31 @@ otherformats: ODTX OTT TEXT ODT DOT DOTX ODTM WORD FLATOPC WORDML RTF DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή παρουσιάσεων PPTX σε ODT (OpenDocument Text) επιτρέπει την επαναχρησιμοποίηση διαφανειών σε επεξεργάσιμα εγγράφατεκμήνου κειμένου. Είναι ιδανικό για τη δημιουργία γραπτών αναφορών, περιλήψεων ή επεξεργάσιμης τεκμηρίωσης βασισμένης σε παρουσιάσεις PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Μετατροπή σημειώσεων διαφανειών σε επεξεργάσιμο κείμενο για αναφορές.
+* Δημιουργία εγγράφων ODT για ακαδημαϊκές ή εταιρικές περιλήψεις.
+* Μετατροπή παρουσιάσεων έργων σε κοινόχρηστα αρχεία κειμένου.
+* Επαναχρησιμοποίηση περιεχομένου διαφανειών για τη σύνταξη πολιτικών και προτάσεων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη δημιουργία αναφορών από παρουσιάσεις PowerPoint.
+* Ενσωμάτωση ροών εργασίας με εργαλεία εγγράφου γραφείου ανοικτού κώδικα.
+* Μετατροπή παρουσιάσεων πώλησης σε επεξεργάσιμα έγγραφα για εσωτερική αναθεώρηση.
+* Αρχειοθέτηση σημειώσεων PowerPoint σε μορφή ODT για προσβασιμότητα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,31 @@ otherformats: EXCEL TSV SXC XLTX XLT TXT ODS MD XLSB DIF XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в TXT (обычный текст) извлекает текстовое содержимое из векторной графики для анализа, индексации или создания легкой документации. TXT идеален для простых, скриптовых рабочих процессов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение меток и аннотаций из диаграмм SVG для документации.
+* Создание поисковых версий технических иллюстраций в виде обычного текста.
+* Генерация легких отчетов метаданных SVG для анализа данных.
+* Быстрое обмен текстовым содержимым SVG без изображений.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное извлечение текста из SVG в TXT для отчетных конвейеров.
+* Плановое создание документации в виде обычного текста из векторных диаграмм.
+* Интеграция с системами индексации и поиска.
+* Запуск преобразования для аналитики и легких рабочих процессов с контентом.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

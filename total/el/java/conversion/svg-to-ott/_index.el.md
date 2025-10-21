@@ -130,7 +130,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων SVG σε OTT (OpenDocument Text Template) δημιουργεί επαναχρησιμοποιήσιμα πρότυπα εγγράφων κειμένου με ενσωματωμένα διανύσματα διαγραμμάτων. Το OTT εξασφαλίζει συνέπεια σε διάφορα έργα και ροές εργασίας ομάδας.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Πρότυπα αναφορών με SVG γραφικά για επιχειρηματικές ομάδες.
+* Πρότυπα εγγράφων για ακαδημαϊκή ή εκπαιδευτική χρήση με ενσωματωμένα διαγράμματα.
+* Πρότυπα τεκμηρίωσης μάρκετινγκ ή έργων για συνεπή μορφοποίηση.
+* Επαναχρησιμοποιήσιμοι οδηγοί και εγχειρίδια που εκμεταλλεύονται κλιμακούμενα γραφικά SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μαζική μετατροπή διαγραμμάτων SVG σε πρότυπα OTT.
+* Προγραμματισμένες ενημερώσεις για επαναχρησιμοποιήσιμα πρότυπα εγγράφων με φρέσκα γραφικά.
+* Ενσωμάτωση με συστήματα περιεχομένου για ροές εργασίας βασισμένες σε πρότυπα.
+* Ενεργοποιημένη δημιουργία διαδραστικών προτύπων κειμένου για συνεργασία ομάδας.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

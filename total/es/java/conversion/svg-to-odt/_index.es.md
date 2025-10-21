@@ -130,7 +130,31 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir archivos SVG a ODT (OpenDocument Text) permite incrustar gráficos vectoriales en documentos de texto multiplataforma. ODT garantiza la fidelidad visual al mismo tiempo que es compatible con LibreOffice, OpenOffice y otras suites.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Manuales técnicos e informes de proyectos que incorporan diagramas SVG.
+* Documentos académicos con ilustraciones vectoriales incrustadas.
+* Documentación de marketing o empresarial que utiliza visuales escalables SVG.
+* Manuales y guías multiplataforma distribuidos sin problemas de formato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión automatizada por lotes de SVG a ODT para documentación recurrente.
+* Actualizaciones programadas de plantillas con nuevos visuales SVG.
+* Integración con sistemas de gestión de contenido para distribución multiplataforma.
+* Generación activada para materiales instructivos o de capacitación.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

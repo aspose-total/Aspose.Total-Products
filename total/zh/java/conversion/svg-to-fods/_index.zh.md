@@ -49,7 +49,31 @@ otherformats: XLTX XLSM EXCEL TXT SXC XLT ODS DIF FODS TSV XLAM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为FODS（Flat OpenDocument Spreadsheet）可将矢量图表嵌入到开放标准电子表格文件中。FODS非常适合跨平台工作流程和电子表格自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将SVG图表嵌入开源电子表格模板中。
+* 以FODS格式共享带有矢量视觉的研究或财务数据。
+* 将学术和工程数据导出为可编辑的、平台无关的电子表格。
+* 以开放文档格式标准化项目仪表板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于报告流水线的自动化SVG到FODS转换。
+* 定期更新研究或运营电子表格模板。
+* 与需要开放格式的跨平台办公套件集成。
+* 触发基于SVG的电子表格仪表板生成，用于团队协作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为RTF（Rich Text Format）可在通用支持的文本文档中嵌入矢量图。RTF在不同的文字处理软件和操作系统中保持格式不变。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 在跨平台报告或手册中嵌入SVG视觉元素。
+* 使用矢量图表制作标准化的技术或教育文档。
+* 包含SVG图表的便携项目模板。
+* 需要兼容文本格式的学术论文或演示文稿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量自动将SVG转换为RTF以进行文档分发。
+* 定期更新技术手册，添加新的SVG视觉元素。
+* 与内容管理系统集成，实现多平台访问。
+* 触发生成离线或便携式工作流程的RTF文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

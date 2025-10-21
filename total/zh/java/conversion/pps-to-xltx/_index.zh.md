@@ -61,7 +61,31 @@ otherformats: XLTX XLAM XLSM TSV EXCEL MHTML XLSB FODS SXC XLTM ODS XLT MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 PPS（PowerPoint 幻灯片展示）文件转换为 XLTX（Excel 模板开放 XML）有助于在现代 Excel 格式中创建结构化、可重复使用的电子表格模板。非常适合团队标准化工作流程，并在文档间保持设计一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 从 PowerPoint 商业幻灯片创建专业的 XLTX 模板。
+* 开发受幻灯片布局启发的数据输入表单。
+* 构建标准化的月度报告模板。
+* 从已批准的演示文稿生成特定部门的 XLTX 模板。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将 PPS 文件转换为公司 XLTX 模板。
+* 定时生成用于项目跟踪的品牌化 Excel 模板。
+* 集成到模板自动化系统中进行版本控制。
+* 从 PowerPoint 数据摘要自动创建 XLTX 模板。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

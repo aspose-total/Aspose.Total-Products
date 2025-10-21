@@ -61,7 +61,31 @@ otherformats: DIF MARKDOWN XLAM XLSM TSV XLTX XLTM ODS MHTML XLSX FODS XLSB SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX文件转换为TSV（制表符分隔值）可提供演示文稿表格的结构化纯文本表示。这种格式非常适合需要将数据轻松导入代码或分析环境的开发人员和数据科学家。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将PowerPoint幻灯片数据转换为统计建模用途。
+* 为脚本和API准备表格信息。
+* 从PowerPoint演示文稿中导出关键绩效指标和度量到TSV。
+* 为研究和学术目的共享干净的数据集。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在数据管道中安排定期的PPTX到TSV转换。
+* 为机器学习训练集自动化TSV导出。
+* 与科学数据存储库集成。
+* 用于工程工作流程的PowerPoint到代码数据桥接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

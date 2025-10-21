@@ -61,7 +61,31 @@ otherformats: XLAM ODS XLSM XLTX TSV EXCEL XLTM FODS XLT XLSB DIF XLS XLSX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων RTF (Rich Text Format) σε DIF (Data Interchange Format) επιτρέπει τη μετατροπή δομημένων αναφορών και εγγράφων σε σύνολα δεδομένων έτοιμα για υπολογιστικού φύλλου. Αυτή η μετατροπή είναι ιδιαίτερα χρήσιμη για οργανισμούς που χειρίζονται πληροφορίες σε πίνακες που αρχικά δημιουργήθηκαν σε μορφή RTF αλλά απαιτούν ανάλυση σε εργαλεία υπολογιστικών φύλλων ή περιβάλλοντα BI.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+* Μετατροπή μορφοποιημένων οικονομικών καταστάσεων RTF σε DIF για εισαγωγή σε Excel ή LibreOffice Calc.
+* Εξαγωγή πίνακα δεδομένων από αναφορές βασισμένες σε RTF σε μορφή αναγνώσιμη από μηχανή για ανάλυση.
+* Προετοιμασία συνοπτικών έρευνας που δημιουργήθηκαν σε μορφή RTF για στατιστική επεξεργασία.
+* Μεταφορά αρχείων εγγράφων κληρονομιάς σε συστήματα διαχείρισης δεδομένων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική εξαγωγή RTF σε DIF σε ροέ εργασιών ψηφιοποίησης εγγράφων.
+* Ενσωμάτωση σε διαδικασίες ETL για εξαγωγή δομημένων δεδομένων.
+* Αυτοματοποιημένη μεταφορά δεδομένων από επεξεργασία κειμένου σε πίνακες ελέγχου αναλυτικών.
+* Αγωγοί μετατροπής που υποστηρίζουν τη δημοσίευση δεδομένων κυβέρνησης ή ακαδημαϊκών.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

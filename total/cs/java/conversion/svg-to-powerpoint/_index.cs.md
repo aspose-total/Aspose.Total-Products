@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG přímo do aplikace PowerPoint (.ppt nebo .pptx) umožňuje vkládání škálovatelných vektorových diagramů do běžných prezentací, zvyšuje vizuální jasnost a interaktivitu prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Obchodní prezentace s vysokým rozlišením SVG přehledů.
+* Vzdělávací přednášky a online prezentace kurzů s vektorovými diagramy.
+* Marketingové a produktové prezentace s interaktivními grafy.
+* Akademické nebo výzkumné prezentace s detailními vizuály.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze SVG do PowerPointu pro pravidelné aktualizace prezentací.
+* Plánované exporty dynamických přehledů do prezentací.
+* Integrace s automatizovanými reportingovými toky pro generování prezentací.
+* Spouštění generování interaktivních snímků z živých vizuálů SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -144,7 +144,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod souborů SVG (škálovatelné vektorové grafiky) do formátu GIF odemyká dynamické vizuální vyprávění pro webové a sociální mediální platformy. GIFy zachovávají vektorovou jasnost a zároveň umožňují animaci, což je činí ideálními pro instruktážní grafiku, marketingové vizuály a lehké webové animace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Animované infografiky pro digitální marketingové kampaně.
+* Vzdělávací diagramy pro online kurzy a e-learningové portály.
+* Interaktivní zvýraznění produktových funkcí na webových stránkách e-commerce.
+* Sociální mediální bannery a propagační vizuály s plynulými přechody.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadné vykreslování SVG do GIF pro nástroje pro automatizaci marketingu.
+* Plánovaná tvorba GIF tutoriálů pro systémy správy učení.
+* Automatický převod pro webové aplikace zobrazující interaktivní diagramy.
+* Integrace do CI/CD potrubí pro pravidelně aktualizovaný vizuální obsah.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

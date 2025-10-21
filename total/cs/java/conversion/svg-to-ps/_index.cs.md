@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG (škálovatelné vektorové grafiky) na PS (PostScript) umožňuje tisk ve vysoké kvalitě a škálovatelný výstup pro profesionální publikování. PS udržuje integritu vektorů a zajišťuje ostré grafiky na různých tiskových médiích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Tisk vysokého rozlišení technických diagramů a inženýrských vizuálů.
+* Marketingové brožury nebo plakáty s škálovatelnými SVG grafikami.
+* Akademické grafy a ilustrace pro publikaci v časopisech.
+* Profesionální zprávy a manuály vyžadující jasnost založenou na vektorech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická hromadná konverze souborů SVG na PS pro tiskové pracovní postupy.
+* Plánované exporty diagramů pro opakující se úkoly publikace.
+* Integrace s desktopovým publikovacím softwarem pro vysokou kvalitu výstupu.
+* Spouštěná generace tiskových materiálů založených na vektorech z SVG nástěnek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

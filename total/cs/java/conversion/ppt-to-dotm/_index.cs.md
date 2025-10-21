@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPT souboru na DOTM s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPT (PowerPoint) do formátu DOTM (Šablona Wordu s makry) spojuje vizuální prvky PowerPointu s možnostmi automatizace Wordu. Šablony DOTM jsou ideální pro automatizaci opakujících se úkolů, jako je vytváření zpráv, vyplňování obsahu a vkládání dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření šablon s makry pro Word z prezentací v PowerPointu.
+* Automatizace opakujících se struktur zpráv pomocí vestavěných maker.
+* Vytváření značkových, chytrých šablon pro opakující se firemní dokumentaci.
+* Zefektivnění přípravy zpráv na základě rozložení prezentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická konverze PPT do DOTM pro chytré šablony dokumentů.
+* Integrace do podnikových automatizačních systémů s logikou VBA.
+* Plánované generování šablon s makry pro týmy dokumentace.
+* Hromadná konverze pro správu šablon řízenou dodržováním předpisů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

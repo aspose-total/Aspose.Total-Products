@@ -121,7 +121,31 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为PPTM（启用宏的PowerPoint）结合了可伸缩矢量图形和互动、自动化准备的幻灯片。非常适合动态的企业或培训演示文稿。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 带有SVG仪表板的启用宏的企业演示文稿。
+* 使用嵌入式宏的互动教育或研究幻灯片。
+* 具有自动化图表和互动视觉的营销演示文稿。
+* 将SVG图表与宏驱动的互动性相结合的培训模块。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于定期启用宏的幻灯片演示文稿的自动化SVG到PPTM转换。
+* 为具有实时数据可视化的互动演示文稿安排更新。
+* 与工作流自动化集成，以获得动态、即时可运行的幻灯片。
+* 触发式流水线生成PPTM格式的互动仪表板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

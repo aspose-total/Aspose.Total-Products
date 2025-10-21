@@ -49,7 +49,31 @@ otherformats: FODS XLT SXC XLAM TXT XLTX XLSM XLTM MD EXCEL DIF ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为SXC（StarOffice/Calc电子表格）可使结构化的PostScript表格和图表在传统的OpenOffice或StarOffice应用程序中使用。这确保了在较旧的开源电子表格环境中实现数据可移植性。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 从PS报告中提取财务或运营表格到SXC电子表格中。
+* 将工程或实验数据从PostScript图表转换为分析用途。
+* 从PS布局准备与传统版本兼容的电子表格文件。
+* 将PS文档转换为可在开源工具中重复使用的电子表格模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量进行PS到SXC的转换，用于存档或传统系统使用。
+* 集成到ETL管道中，用于结构化电子表格分析。
+* 从PS布局中自动提取表格和图表。
+* 用于协作电子表格环境的基于云的转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

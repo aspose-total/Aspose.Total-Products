@@ -61,7 +61,31 @@ otherformats: ODS XLTM XLSX XLS XLAM FODS XLSM DIF SXC XLSB XLT XLTX EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل مستندات RTF (تنسيق النصوص الغني) إلى CSV (قيم مفصولة بفواصل) يبسط استخراج النصوص المنظمة والبيانات الجدولية لتطبيقات قواعد البيانات أو جداول البيانات. يُستخدم هذا التحويل على نطاق واسع لتحويل التقارير المنسقة إلى ملفات خفيفة تركز على البيانات لعمليات التحليل أو الاستيراد.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير فواتير وسجلات المعاملات القائمة على RTF إلى CSV لأدوات المحاسبة.
+* تحويل جداول RTF المنسقة إلى مجموعات بيانات CSV لمنصات BI.
+* تحويل نتائج البحوث RTF إلى بيانات منظمة لبرنامج Excel أو Google Sheets.
+* تبسيط سير العمل من المستند إلى قواعد البيانات في أنظمة CRM أو ERP.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل RTF إلى CSV في الوقت الحقيقي للوحات التقارير.
+* معالجة المستندات بالدُفعات لاستخراج البيانات على نطاق واسع.
+* دمجه في أنابيب ETL والهجرة البيانية.
+* إنشاء CSV تلقائيًا لمنصات SaaS باستخدام سجلات RTF التقليدية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

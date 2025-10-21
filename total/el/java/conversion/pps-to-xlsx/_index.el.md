@@ -61,7 +61,31 @@ otherformats: XLSM XLAM SXC MARKDOWN XLSB ODS FODS DIF TSV MHTML EXCEL XLS XLTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε XLSX (Excel Open XML Workbook) παρέχει ένα μοντέρνο, ευέλικτο και πλήρως συμβατό μορφότυπο υπολογιστικού φύλλου για ανάλυση και συνεργασία. Ιδανικό για κοινή χρήση στο cloud και λειτουργίες δεδομένων σε πραγματικό χρόνο.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή μετρήσεων βασισμένων σε PowerPoint σε συνεργατικά Excel φύλλα εργασίας.
+* Δημιουργία πινάκων ελέγχου XLSX από εκτελεστικές παρουσιάσεις.
+* Εξαγωγή δεδομένων διαφανειών για ολοκλήρωση στην ανάλυση του Microsoft 365.
+* Δημιουργία επεξεργάσιμων οικονομικών φύλλων από οπτικά στοιχεία παρουσίασης.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη εξαγωγή εταιρικών παρουσιάσεων σε αναφορές ανάλυσης XLSX.
+* Ενσωμάτωση σε ροές εργασίας του Microsoft Teams ή του SharePoint.
+* Αυτοματοποιημένη δημιουργία αρχείων XLSX για κατανεμημένες ομάδες.
+* Μαζική μετατροπή για αρχειοθέτηση και συγχρονισμό δεδομένων στο cloud.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

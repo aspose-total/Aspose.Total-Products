@@ -61,7 +61,31 @@ otherformats: SXC XLSB XLAM DIF XLTX XLTM XLSX FODS XLT XLSM ODS MHTML MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片展示）文件转换为XLTM（启用宏的Excel模板）可以帮助组织创建嵌入自动化脚本的动态模板。对于使用幻灯片报告衍生的重复数据操作的企业而言，这非常有价值。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从演示文稿中开发基于宏的报告模板。
+* 利用嵌入的VBA脚本生成自动化预测模板。
+* 从营销幻灯片创建可重复使用的数据输入模板。
+* 为具有自动化功能的KPI跟踪准备XLTM模板。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从PPS文件自动生成XLTM模板以用于企业报告。
+* 与Excel自动化流水线集成。
+* 从基于幻灯片的摘要定期生成宏模板。
+* 将XLTM模板集中分发给内部部门。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为DOTM（启用宏的Word模板）可创建可重复使用的模板，将可缩放矢量图形与宏结合在一起。非常适用于交互式报告、表单和工作流文档。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 嵌入SVG可视化的启用宏的项目跟踪模板。
+* 用于企业工作流程的可重复使用的财务或运营模板。
+* 整合动态图表和自动化的学术或研究模板。
+* 使用启用宏的SVG图表制作互动式电子学习材料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于定期启用宏的模板的自动化SVG到DOTM转换。
+* 使用新的SVG数据和宏定期更新模板。
+* 集成到需要可重复使用模板的工作流自动化系统中。
+* 用于交互式报告仪表板的触发式转换流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

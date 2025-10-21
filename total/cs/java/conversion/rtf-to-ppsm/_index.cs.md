@@ -54,7 +54,31 @@ API také umožňuje převádět dokumenty RTF chráněné heslem na PPSM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod RTF na PPSM (PowerPoint Macro-Enabled Show) přináší automatizaci do prezentací ve formě diashow. Tento formát kombinuje textovou bohatost RTF s dynamickými makry programu PowerPoint pro pokročilé interaktivní vyprávění.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Automatizace prezentací ve formě diashow pomocí maker získaných z dat ve formátu RTF.
+* Vytváření interaktivních nástěnek nebo tutoriálů na základě manuálů ve formátu RTF.
+* Dodávání automatizovaných prezentací obsahujících dynamické aktualizace.
+* Transformace obchodních shrnutí do samočinně běžících diaprezentací řízených makry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizace RTF na PPSM v obsahových potrubích pro vzdělávání.
+* Integrace s makroaktivovanými systémy pro reportování.
+* Plánované generování prezentací pro prodejní a školicí týmy.
+* Automatické vytváření prezentací ve formátu PowerPoint z dokumentů s velkým množstvím textu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

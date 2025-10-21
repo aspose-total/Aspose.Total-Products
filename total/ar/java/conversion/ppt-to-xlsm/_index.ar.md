@@ -61,7 +61,31 @@ otherformats: SXC XLS XLSX XLSM DIF MARKDOWN FODS ODS MHTML XLTX TSV EXCEL XLT X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPT (PowerPoint) إلى XLSM (مصنف إكسل ممكّن بالماكرو) يسمح بدمج البيانات الديناميكية من العروض التقديمية مع الماكرو في إكسل. هذا التنسيق مثالي لتأتير الحسابات تلقائيًا، وإنشاء لوحات تحكم تفاعلية، وربط الشرائح بعمليات بيانات ذكية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل مؤشرات قائمة الشرائح إلى تقارير إكسل ممكّنة بالماكرو.
+* بناء لوحات تحكم آلية لمؤشرات الأداء الرئيسية من العروض التقديمية.
+* دمج بيانات العرض مع أدوات الأعمال المدفوعة بلغة VBA.
+* إنشاء ملخصات بيانات تفاعلية للمديرين التنفيذيين.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+* تحويل تلقائي لشرائح PowerPoint إلى مصنف XLSM للإبلاغ الحي.
+* الاندماج مع ماكرو النموذج المالي للتحليل الزمني الحقيقي.
+* إنشاء تقارير ممكّنة بالماكرو بشكل مجدول من بيانات الشرائح.
+* إنشاء مصنف إكسل آلي لمؤسسات تعتمد على البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ Beim Konvertieren der PPS-Datei in FODS können Sie Ihrem Ausgabe-FODS-Dateiform
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von PPS (PowerPoint Slide Show)-Dateien in FODS (Flat XML ODF Spreadsheet) wandelt Präsentationsinhalte in XML-Formate um, die mit Tabellenkalkulationen kompatibel sind. Dies ist besonders wertvoll für Open-Source-Benutzer, die mit den Ökosystemen von LibreOffice oder Apache OpenOffice arbeiten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Export von numerischen Daten aus PowerPoint in FODS-Tabellenkalkulationen.
+* Erstellung strukturierter XML-Tabellenkalkulationen für den Bildungs- oder Geschäftsgebrauch.
+* Umwandlung von Diagrammen aus Folien in editierbare OpenDocument-Tabellendaten.
+* Vorbereitung von Dateien im offenen Standard für Analyse und gemeinsame Nutzung in LibreOffice Calc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Geplante FODS-Erstellung bei wiederkehrenden Präsentationsaktualisierungen.
+* Integration in Open-Source-Berichtssysteme.
+* Stapelkonvertierung von Folien in FODS für analytische Dashboards.
+* Automatisierte Erstellung von XML-basierten Tabellenkalkulationen für plattformübergreifende Workflows.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

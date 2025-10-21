@@ -61,7 +61,31 @@ otherformats: XLSM XLAM SXC MARKDOWN XLSB ODS FODS DIF TSV MHTML EXCEL XLS XLTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片展示）文件转换为XLSX（Excel开放XML工作簿）为分析和协作提供了现代、灵活和完全兼容的电子表格格式。非常适合云共享和实时数据操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于PowerPoint的指标转化为协作的Excel工作簿。
+* 从高管演示文稿创建XLSX仪表板。
+* 提取幻灯片数据以集成到Microsoft 365分析中。
+* 从演示文稿可视化内容生成可编辑的财务表。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将企业演示文稿定期导出为XLSX分析报告。
+* 集成到Microsoft Teams或SharePoint工作流程中。
+* 为分布式团队自动生成XLSX文件。
+* 批量转换以进行存档和基于云的数据同步。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

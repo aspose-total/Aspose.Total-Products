@@ -47,7 +47,31 @@ otherformats: XLT SXC XLTM XLSB ODS MD EXCEL XLTX DIF TSV TXT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى Markdown (MD) يمكن تضمين الرسوم البيانية الناقلة مباشرة في الوثائق، ملفات README، ومولدات المواقع الثابتة. يحافظ هذا النهج على خفة الرسوم البيانية وقابليتها للتوسيع بالكامل مع تعزيز قابلية قراءة المحتوى التقني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين الرسوم المعمارية في ملفات README لمشاريع البرمجيات.
+* مخططات تدفق تفاعلية لمستودعات وثائق مفتوحة المصدر.
+* كتب إلكترونية ودروس تعليمية مستندة إلى Markdown مع رسوم توضيحية ناقلة مضمنة.
+* مدونات تقنية تستخدم رسومًا بصرية نظيفة وقابلة للتوسيع بدون ملفات صور إضافية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+* تحويل SVG إلى MD تلقائيًا لأنابيب الوثائق.
+* توليد مجدول للرسوم البيانية الناقلة لتحديثات قاعدة المعرفة.
+* دمج مع مولدات المواقع الثابتة مثل Hugo أو Jekyll.
+* مزامنة مستمرة لتحديثات التصميم في ملفات Markdown التقنية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

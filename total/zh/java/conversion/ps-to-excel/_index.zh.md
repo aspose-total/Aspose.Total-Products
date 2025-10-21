@@ -49,7 +49,31 @@ otherformats: MD XLAM EXCEL DIF XLSM TSV TXT SXC XLT XLTM XLTX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）转换为Excel格式可通过将可视化信息转换为交互式电子表格来增强数据的可用性。这使企业能够重复使用最初存储在PS报告中的数据，用于财务规划、预测和在Microsoft Excel中进行运营分析。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从基于PS的发票和财务报表中提取表格数据。
+* 将工程报告的可视化内容转换为可编辑的Excel表格。
+* 将PS格式的分析集成到Excel仪表板中。
+* 实现交互式数据操作，用于性能跟踪。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在会计工作流程中安排的PS到Excel转换。
+* 通过数据集成服务（ETL）进行自动转换。
+* 从PS文档中识别数字和文本字段的AI动力识别。
+* 将商业智能报告自动导出到Excel工作簿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

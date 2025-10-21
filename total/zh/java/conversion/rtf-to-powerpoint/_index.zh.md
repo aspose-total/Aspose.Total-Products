@@ -54,7 +54,31 @@ otherformats: PPSM PPSX PPT POTX POWERPOINT PPTX PPTM POTM PPS POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将RTF文件直接转换为PowerPoint演示文稿，可以快速将结构化文本转化为引人入胜的视觉幻灯片。这种转换支持教育工作者、营销人员和企业专业人士，他们希望以动态方式呈现文档内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将RTF讲座笔记转换为基于幻灯片的教育材料。
+* 将业务报告转化为引人入胜的PowerPoint演示文稿。
+* 为客户展示准备RTF营销内容的演示文稿。
+* 从RTF文件自动创建提案和策略演示。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在内容创建平台中实时将RTF转换为PowerPoint。
+* 与生成幻灯片的AI工具集成，从RTF报告生成幻灯片。
+* 为企业文档批量创建演示文稿。
+* 为电子学习和业务分析自动生成幻灯片组。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

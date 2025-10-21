@@ -61,7 +61,31 @@ otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPTX в EXCEL (рабочая книга Microsoft Excel) превращает статические данные слайдов в полностью редактируемые электронные таблицы. Это преобразование важно для команд, которые анализируют и расширяют данные PowerPoint в среде электронных таблиц.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение диаграмм, таблиц и фигур из слайдов PowerPoint.
+* Превращение идей презентации в действенные отчеты Excel.
+* Создание редактируемых листов данных из конференционных или деловых презентаций.
+* Улучшение аналитики PowerPoint с помощью возможностей формул Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPTX в EXCEL для панелей управления производительностью.
+* Интеграция в системы генерации финансовых отчетов.
+* Планирование рабочего процесса для миграции данных PowerPoint.
+* Преобразование ETL для автоматизации аналитики на уровне всей компании.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

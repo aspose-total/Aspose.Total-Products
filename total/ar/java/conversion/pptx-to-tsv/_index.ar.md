@@ -61,7 +61,31 @@ otherformats: DIF MARKDOWN XLAM XLSM TSV XLTX XLTM ODS MHTML XLSX FODS XLSB SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPTX إلى TSV (قيم مفصولة بواسطة علامات تبويب) يوفر تمثيلًا منظمًا ونصًا عاديًا لجداول العرض. هذا التنسيق مثالي للمطورين وعلماء البيانات الذين يحتاجون إلى استيراد سهل في بيئات الشفرة أو التحليل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل بيانات شرائح PowerPoint للنمذجة الإحصائية.
+* إعداد المعلومات الجدولية للنصوص وواجهات برمجة التطبيقات.
+* تصدير مؤشرات الأداء الرئيسية والمقاييس من شرائح PowerPoint إلى TSV.
+* مشاركة مجموعات بيانات نظيفة لأغراض البحث والأكاديمية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+* تحويل PPTX إلى TSV مجدول في خطوط البيانات.
+* تصدير TSV بشكل تلقائي لمجموعات بيانات تدريب التعلم الآلي.
+* التكامل مع مستودعات البيانات العلمية.
+* جسر بيانات PowerPoint-to-code لسير العمل الهندسي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

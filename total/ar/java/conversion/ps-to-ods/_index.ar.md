@@ -47,7 +47,31 @@ otherformats: ODS EXCEL XLTM XLTX TXT DIF XLSB XLSM XLT MD FODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى ODS (OpenDocument Spreadsheet) يسمح باستيراد البيانات الجدولية والرسوم البيانية والمحتوى المنظم من مستندات PS إلى LibreOffice Calc أو منصات جداول بيانات أخرى. يضمن هذا نقل البيانات والتوافق عبر بيئات مفتوحة المصدر.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج الجداول المالية أو التشغيلية من تقارير PS إلى جداول بيانات ODS.
+* تحويل الرسوم البيانية الهندسية أو العلمية PS لتحليل مفتوح المصدر.
+* إعداد مجموعات البيانات لإدارة المشاريع التعاونية باستخدام LibreOffice.
+* تحويل تخطيطات PS إلى قوالب جداول بيانات للتقارير المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل PS إلى ODS تلقائيًا في خطوط معالجة البيانات.
+* تحويل دفعة من التقارير التي تم إنشاؤها بواسطة PostScript لتحليل الجداول.
+* الدمج في حلول جداول البيانات مفتوحة المصدر المستندة إلى السحابة.
+* استخراج الرسوم البيانية والجداول من PS بمساعدة الذكاء الاصطناعي إلى تنسيق ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

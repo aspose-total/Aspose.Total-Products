@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG (škálovatelné vektorové grafiky) do formátu POT (šablona PowerPoint 97-2003) umožňuje vytváření opakovaně použitelných šablon snímků s vektorovými diagramy pro starší verze PowerPointu. POT zajišťuje konzistentní design prezentace napříč staršími prostředími.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Standardizované firemní šablony prezentací s vestavěnými SVG dashboardy.
+* Vzdělávací šablony snímků pro školení a e-learningový obsah.
+* Šablony marketingových kampaní ukazující interaktivní vektorové grafy.
+* Akademické prezentace pro konference a přednášky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná hromadná konverze diagramů SVG do šablon POT.
+* Plánované aktualizace opakovaně použitelných šablon prezentací.
+* Integrace s legacy systémy prezentací pro konzistentní formátování.
+* Spuštění generování šablon z živých SVG dashboardů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

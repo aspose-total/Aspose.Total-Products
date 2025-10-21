@@ -53,7 +53,31 @@ otherformats: DOCXM TEXT DOCX RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в DOCX (Microsoft Word Open XML Document) превращает содержимое презентации в современные, редактируемые текстовые документы, совместимые с Microsoft 365 и облачными инструментами совместной работы.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Превращение слайд-деков в бизнес-отчеты или краткие записи совещаний.
+* Создание редактируемого маркетингового контента на основе визуальных презентаций.
+* Генерация оформленных руководств DOCX или учебных пособий.
+* Создание документации для клиентов непосредственно из файлов PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное создание DOCX для корпоративных систем отчетности.
+* Интеграция с Microsoft Teams или SharePoint для совместных рабочих процессов.
+* Пакетное преобразование для управления и распространения контента.
+* Запланированное преобразование слайдов в DOCX для обновлений проекта.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

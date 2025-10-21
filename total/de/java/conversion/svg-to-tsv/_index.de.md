@@ -47,7 +47,31 @@ Während Sie eine SVG-Datei in TSV konvertieren, können Sie Ihrem Ausgabe-TSV-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG-Dateien in TSV (Tab-separated Values) ermöglicht das Exportieren von Vektor-Diagrammen in ein Format, das für Tabellenkalkulationen, statistische Analysen und große Datensätze optimiert ist. TSV gewährleistet, dass die Daten strukturiert bleiben und einfach zu analysieren sind.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Umwandlung interaktiver SVG-Diagramme in TSV für statistische Analysen.
+* Export von Ingenieursdiagrammen zur gemeinsamen Bearbeitung in Tabellenkalkulationen.
+* Teilen von auf SVG basierenden Bildungsgrafiken im TSV-Format für Forschungsteams.
+* Konvertierung von Leistungsvisualisierungen von Produkten in strukturierte tabellarische Daten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Pipelines zur Konvertierung von SVG-Diagrammen in TSV für Analyseplattformen.
+* Geplante TSV-Exporte von Vektordiagrammen für Berichts-Dashboards.
+* Integration mit statistischer Software, die TSV-Eingaben erfordert.
+* Ausgelöste Konvertierung für dynamisch aktualisierte vektorbasierte Visualisierungen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

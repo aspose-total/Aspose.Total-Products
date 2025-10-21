@@ -61,7 +61,31 @@ otherformats: ODS XLS TSV XLSM FODS SXC XLT XLAM XLSB XLTX EXCEL XLTM DIF XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات RTF إلى تنسيق FODS (شيت بيانات ODF بتنسيق XML مسطح) يسد الفجوة بين المحتوى النصي المنسق وبيئات جداول البيانات مفتوحة المصدر. يحافظ هذا التحويل على الهيكل بينما يوفر مرونة لمستخدمي LibreOffice وOpenOffice الذين يفضلون التنسيقات غير الثنائية، المعتمدة على XML.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل جداول البحوث المنسقة في مستندات RTF إلى أوراق عمل FODS قابلة للتحرير.
+* أرشفة المستندات المكتبية بتنسيق FODS القياسي المفتوح للامتثال.
+* إعداد تقارير البيانات الحكومية لتحليلها باستخدام LibreOffice.
+* إنشاء قوالب جداول بيانات من الدلائل الإجرائية RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل RTF إلى FODS في الوقت الحقيقي ضمن أنظمة إدارة المستندات المفتوحة.
+* خطوط أنابيب الأرشفة التلقائية التي تضمن توحيد التنسيق.
+* دمج مع أدوات ERP مفتوحة المصدر تحتاج إلى مدخلات منظمة بتنسيق XML.
+* تحويلات مجدولة لمستودعات المستندات التي تدعم سير العمل ODF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

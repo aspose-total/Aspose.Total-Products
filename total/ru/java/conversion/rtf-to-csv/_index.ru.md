@@ -61,7 +61,31 @@ otherformats: ODS XLTM XLSX XLS XLAM FODS XLSM DIF SXC XLSB XLT XLTX EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документов RTF (Rich Text Format) в CSV (Comma-Separated Values) упрощает извлечение структурированного текста и табличных данных для баз данных или электронных таблиц. Это преобразование широко используется для преобразования форматированных отчетов в легкие файлы, ориентированные на данные, для аналитики или операций импорта.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт счетов и журналов транзакций на основе RTF в CSV для бухгалтерских инструментов.
+* Преобразование форматированных таблиц RTF в наборы данных CSV для платформ BI.
+* Преобразование результатов исследований RTF в структурированные данные для Excel или Google Sheets.
+* Оптимизация рабочих процессов от документа к базе данных в системах CRM или ERP.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Преобразование RTF в CSV в реальном времени для панелей отчетности.
+* Пакетная обработка документов для извлечения данных в крупномасштабном режиме.
+* Интеграция в ETL и конвейеры миграции данных.
+* Автоматическое создание CSV для платформ SaaS с использованием устаревших записей RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

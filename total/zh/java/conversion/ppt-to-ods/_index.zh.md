@@ -61,7 +61,31 @@ otherformats: XLTX XLS DIF XLSB EXCEL XLSM XLAM XLSX SXC MARKDOWN TSV XLTM XLT M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）演示文稿转换为ODS（OpenDocument Spreadsheet）格式，将视觉幻灯片数据转换为结构化的电子表格形式。这对于使用开源办公套件的组织非常理想，需要从演示文稿中提取数字或表格数据进行分析和报告。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将幻灯片表格导出为可编辑的LibreOffice Calc ODS电子表格。
+* 将PowerPoint仪表板中的业务指标转换为电子表格数据。
+* 以开放的ODS格式存档财务和分析幻灯片。
+* 在开放标准的电子表格环境中实现协作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于政府或非政府组织报告的自动化PPT到ODS转换。
+* 与开源分析流水线集成。
+* 定期将演示文稿转换为电子表格进行审计。
+* 使用基于ODS的模板进行跨部门报告共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

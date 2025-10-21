@@ -53,7 +53,31 @@ otherformats: WORDML OTT TEXTM RTF WORD FLATOPC ODT TEXT DOT TEXTX DOTX DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε κείμενο (Plain Text) επιτρέπει στους χρήστες να εξάγουν μόνο το κειμενικό περιεχόμενο από τις διαφάνειες, ιδανικό για ανάλυση, ευρετήριαση, μετάφραση ή χρήση σε αγωγούς περιεχομένου που απαιτούν καθαρές μορφές μόνο κειμένου.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή ωμού κειμένου διαφανειών για εξόρυξη δεδομένων ή επεξεργασία φυσικής γλώσσας.
+* Δημιουργία περιλήψεων συναντήσεων σε μορφή απλού κειμένου από διαφάνειες παρουσιάσεων.
+* Προετοιμασία καθαρού κειμένου για συστήματα μετάφρασης ή τοπικοποίησης.
+* Αποθήκευση ελαφρών αρχείων αποθήκευσης περιεχομένου παρουσιάσεων.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη εξαγωγή κειμένου για ευρετήριαση αναζήτησης ή εκπαίδευση ΤΝ.
+* Μαζική μετατροπή διαφανειών σε κείμενο για αρχειοθέτηση επιχειρήσεων.
+* Ενσωμάτωση σε αγωγούς αναλυτικών περιεχομένου για σημασιολογική ανάλυση.
+* Προγραμματισμένη εξαγωγή απλού κειμένου για ροές εργασίας τεκμηρίωσης.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

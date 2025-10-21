@@ -61,7 +61,31 @@ Při převodu souboru PPTX na XLTM můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPTX na XLTM (šablonu Excelu s makry) pomáhá automatizovat opakující se úlohy s daty vložením maker do opakovaně použitelných šablon tabulek odvozených z prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Návrh automatizovaných šablon pro reporty z dat prezentací.
+* Vytváření opakovaně použitelných Excelových nástěnek řízených makry.
+* Standardizace obchodních procesních šablon z diapozitivů PowerPointu.
+* Zjednodušení opakovaného hlášení KPI pomocí maker.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadné konverze PPTX na XLTM pro měsíční cykly reportování.
+* Integrace s automatizovanými pracovními postupy generování tabulek.
+* Správa firemních šablon pro analytické týmy.
+* Plánované aktualizace maker v šablonách z dat PowerPointu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

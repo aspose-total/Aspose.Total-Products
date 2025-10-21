@@ -49,8 +49,32 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）文件转换为JSON（JavaScript对象表示法）可将复杂的演示数据转换为结构化、轻量级和可机器读取的格式。这种格式非常适合开发人员将演示元数据、幻灯片或视觉内容集成到Web应用程序和AI驱动的平台中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 为Web或移动应用程序提取PowerPoint幻灯片元数据。
+* 将演示数据集成到仪表板或数据可视化系统中。
+* 为动态幻灯片渲染构建基于JSON的API。
+* 支持以上下文方式解释PowerPoint内容的AI系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将PPT实时转换为JSON以进行自动化内容解析。
+* 与无头CMS或文档索引系统集成。
+* 批量处理结构化演示数据的需要分析平台。
+* 对PowerPoint内容进行AI驱动的摘要和标记。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

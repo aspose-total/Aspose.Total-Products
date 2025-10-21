@@ -61,7 +61,31 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB ODS XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى ملفات ODS (جدول بيانات OpenDocument) يوفر طريقة سلسة لإعادة استخدام بيانات العرض التقديمي في صيغ جداول بيانات منظمة. يساعد هذا التحويل المحترفين على تحويل الشرائح الملخصة إلى جداول قابلة للتحرير والتحليل والتوافق مع LibreOffice Calc و OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج البيانات المالية من شرائح العرض إلى تقارير ODS منظمة.
+* تحويل عروض الشرائح التعليمية إلى تحليلات دورات قائمة على جداول بيانات.
+* تحويل العروض التسويقية إلى جداول أداء المبيعات.
+* إعداد أوراق تتبع المشروع قابلة للتحرير من ملخصات الأعمال PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل مجدول لعروض القاعة الرئيسية إلى ملفات أداء ربعية ODS.
+* دمجه في خطوط الأنابيب للإبلاغ لتحويل الشرائح تلقائيًا إلى بيانات جداول بيانات قابلة للمشاركة.
+* تحويل النواتج الاجتماعية في الوقت الحقيقي إلى أوراق تحليل مركزية.
+* تحويل دفعة للفرق الذين يحتفظون بسجلات العروض التقديمية والجداول.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

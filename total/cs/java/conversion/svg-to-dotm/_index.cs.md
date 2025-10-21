@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na DOTM (šablona pro Word s makry) umožňuje vytváření opakovaně použitelných šablon, které kombinují škálovatelnou vektorovou grafiku s makry. Ideální pro interaktivní zprávy, formuláře a pracovní postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Makro-povolené šablony pro sledování projektů s vestavěnými vizuálními SVG prvky.
+* Opakovaně použitelné finanční nebo provozní šablony pro podnikové pracovní postupy.
+* Akademické nebo výzkumné šablony integrující dynamické diagramy a automatizaci.
+* Interaktivní vzdělávací materiály s makry obohacenými SVG diagramy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický převod SVG na DOTM pro opakovaně používané makro-povolené šablony.
+* Plánované aktualizace šablon s novými daty SVG a makry.
+* Integrace do systémů automatizace pracovních postupů vyžadujících opakovaně použitelné šablony.
+* Spouštěné konverzní toky pro interaktivní reportingové dashboardy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

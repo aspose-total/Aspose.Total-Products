@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为DOTX（不带宏的Word模板）可让用户创建可重复使用的干净模板，同时保持PostScript的视觉保真度。DOTX模板非常适合在组织间安全、无宏地重复使用文档。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将标准化的PS报告布局转换为可重复使用的Word模板。
+* 安全地准备信头、表格和面向客户的文档。
+* 将PostScript图表和图形转换为可编辑的静态Word模板。
+* 确保文档一致性，避免宏安全风险。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于模板库的自动化PS到DOTX转换。
+* 集成到CMS或工作流平台，实现一致的文档生成。
+* 批量处理PS布局，转换为供多个部门使用的DOTX。
+* 基于AI的提取视觉元素用于模板创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

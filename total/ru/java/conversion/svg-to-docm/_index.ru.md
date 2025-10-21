@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG (масштабируемая векторная графика) в DOCM (документ Word с поддержкой макросов) позволяет встраивать интерактивные векторные диаграммы в документы Word, поддерживая макросы для автоматизации. DOCM идеален для динамических отчетов, шаблонов и учебных материалов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные области применения" %}}
+
+* Интерактивные обучающие пособия с диаграммами SVG и навигацией с поддержкой макросов.
+* Бизнес-отчеты с анимированными или интерактивными векторными графиками.
+* Научные исследования с использованием динамических визуальных элементов SVG с поддержкой макросов.
+* Стандартизированные шаблоны для проектных предложений или корпоративных рабочих процессов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование диаграмм SVG в DOCM для корпоративной отчетности.
+* Плановое создание шаблонов с поддержкой макросов на основе визуальных элементов SVG.
+* Интеграция с системами управления документами для интерактивной отчетности.
+* Автоматическое преобразование SVG в DOCM для динамического обучающего контента.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

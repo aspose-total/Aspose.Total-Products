@@ -49,7 +49,31 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 PPS（PowerPoint 幻灯片展示）文件转换为 JSON（JavaScript 对象表示法）可以将演示数据表示为结构化、可机器读取的对象。这对于利用结构化数据格式的网络开发人员、数据工程师和人工智能系统非常理想。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将 PowerPoint 元数据和文本内容导出为 JSON 以供 API 使用。
+* 将幻灯片数据转换为结构化对象以用于网络仪表板。
+* 从教育或研究幻灯片创建 JSON 数据集。
+* 将 PowerPoint 分析集成到数据可视化框架中。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将幻灯片自动解析为 JSON 以用于知识管理系统。
+* 定时将 JSON 导出用于基于网络的数据报告。
+* 将集成到存储结构化演示内容的 NoSQL 数据库中。
+* 批量将 PPS 转换为 JSON 用于人工智能训练和自然语言处理流水线。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

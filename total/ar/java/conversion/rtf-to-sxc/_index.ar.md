@@ -61,7 +61,31 @@ otherformats: FODS XLAM ODS TSV XLSB XLSM XLTX EXCEL XLS XLTM DIF SXC XLSX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل مستندات RTF إلى SXC (جدول بيانات StarOffice Calc) يمكن أن يجعلها متوافقة مع بيئات OpenOffice و StarOffice القديمة. إنه مثالي للشركات التي تحافظ على البنية التحتية القديمة حيث تحتاج التقارير أو البيانات المخزنة بتنسيق RTF إلى إعادة استخدامها في شكل جداول بيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل تقارير الأعمال التاريخية المعتمدة على RTF إلى أرشيفات SXC.
+* إعادة استخدام بيانات RTF للتحليل داخل أنظمة متوافقة مع StarOffice.
+* تصدير المعلومات الجدولية من النماذج المعالجة بواسطة الكلمات إلى نماذج جداول بيانات.
+* تحديث محتوى RTF الأرشيفي لتتبع البيانات الداخلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل RTF إلى SXC بشكل مجدول لدعم الأنظمة القديمة.
+* تحويل دفعي أثناء ترقيات نظام الوثائق.
+* دمجه في أدوات هجرة الشركات التي تدعم مجموعات بيانات StarOffice.
+* إعادة إنتاج الأرشيف تلقائيًا للامتثال أو أنظمة النسخ الاحتياطي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

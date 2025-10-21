@@ -121,7 +121,31 @@ presentation.save("output.potm", SaveFormat.Potm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в POTM (Шаблон PowerPoint с поддержкой макросов) позволяет создавать многоразовые шаблоны с макросами для автоматизации при встраивании масштабируемой векторной графики. Идеально подходит для интерактивных и автоматизированных рабочих процессов презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Корпоративные презентационные шаблоны с встроенными SVG-визуализациями, поддерживающие макросы.
+* Автоматизированные отчетные презентации с динамическими диаграммами и графиками.
+* Шаблоны слайдов для обучения и инструктажа с использованием макросов для интерактивности.
+* Интерактивные академические или исследовательские шаблоны с использованием содержимого SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановое преобразование SVG в POTM для регулярных макро-презентаций.
+* Автоматическое внедрение макросов в шаблоны для динамических слайд-деков.
+* Интеграция с автоматизацией рабочего процесса для использования шаблонов всей командой.
+* Генерация шаблонов по запросу для интерактивных панелей и отчетов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

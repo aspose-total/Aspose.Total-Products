@@ -61,7 +61,31 @@ Při převodu souboru PPS na FODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPS (PowerPoint Slide Show) na FODS (Flat XML ODF Spreadsheet) transformuje obsah prezentace do formátů XML kompatibilních se sešity. Je to zejména cenné pro uživatele open-source pracující s ekosystémy LibreOffice nebo Apache OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Exportování číselných dat z PowerPointu do sešitů FODS.
+* Vytváření strukturovaných XML sešitů pro vzdělávací nebo obchodní účely.
+* Transformace grafů ze snímků do editovatelných datových sešitů OpenDocument.
+* Příprava otevřených standardních souborů pro analýzu a sdílení v LibreOffice Calc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánovaná generace FODS z opakujících se aktualizací prezentací.
+* Integrace do open-source systémů pro reportování.
+* Hromadná konverze snímků na FODS pro analytické dashboardy.
+* Automatizované vytváření XML založených sešitů pro práci na různých platformách.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

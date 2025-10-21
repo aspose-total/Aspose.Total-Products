@@ -57,7 +57,31 @@ otherformats: TGA DICOM JPEG2000 IMAGE WMF PSD WMZ DXF EMZ SVGZ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى تنسيق DICOM (Digital Imaging and Communications in Medicine) يمكن تكامل سلسلة للتقارير القائمة على الناقلات، والرسوم البيانية التشخيصية، والتعليقات الإشعاعية داخل سير العمل الموحد للصور الطبية. توافق DICOM يضمن أن يمكن عرض هذه التقارير البصرية بشكل آمن وتحليلها على منصات PACS (Picture Archiving and Communication System) المستخدمة في المستشفيات والعيادات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين الرسوم التخطيطية التشخيصية القائمة على الناقلات في أرشيف الصور للمرضى.
+* تحويل رسومات PS في مجال القلبية أو الأورام إلى سلاسل صور متوافقة مع DICOM.
+* دمج الرؤى التخطيطية للجراحة داخل أنظمة الصور في المستشفيات.
+* إنشاء ملخصات تشخيصية كتراكبات DICOM لتقارير الأشعة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل PS إلى DICOM تلقائيًا ضمن سير العمل الإلكتروني للسجل الطبي الإلكتروني.
+* تكامل بيانات ETL في أنابيب تحليل الصحة لتقارير قائمة على الصور.
+* تحويل دفعي مساعد بواسطة الذكاء الاصطناعي للتصور التشخيصي في أنظمة الذكاء الاصطناعي الطبية.
+* تصدير DICOM المُشغَّل لتوثيق الصور السريرية التي تم إنشاؤها تلقائيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

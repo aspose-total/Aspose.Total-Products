@@ -61,7 +61,31 @@ otherformats: XLTM DIF TSV XLSB XLTX XLAM FODS XLSM XLS EXCEL XLSX SXC ODS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى ODS (جدول بيانات مستند مفتوح) يوفر طريقة فعالة لتحويل محتوى المستند المهيكل إلى بيانات جاهزة لجداول البيانات متوافقة مع LibreOffice Calc ومنصات أخرى متوافقة مع ODF. يُستخدم على نطاق واسع في المؤسسات التي تعتمد على المعايير المفتوحة وسير العمل لمعالجة البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج بيانات RTF الجدولية للتحليل في جداول بيانات ODS.
+* إعداد تقارير حكومية أو منظمات غير حكومية في تنسيقات جداول البيانات المفتوحة المعتمدة.
+* إدارة نواتج استطلاع RTF في أوراق بيانات ODS تعتمد على البيانات.
+* تحويل القوائم والجداول المنسقة إلى جداول بيانات قابلة للتحرير والمشاركة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل RTF إلى ODS بشكل آلي ضمن أطقم البرامج المكتبية الرقمية.
+* خطوط أنابيب هجرة البيانات التي تدعم المعايير المفتوحة للمستندات.
+* وحدات تحويل مضمنة في أدوات تقارير مبنية على الويب.
+* تحويلات أرشيفية مجدولة تضمن التوافق بين الأنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

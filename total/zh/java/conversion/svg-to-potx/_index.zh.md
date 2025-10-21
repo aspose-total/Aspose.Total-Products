@@ -121,7 +121,31 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为POTX（PowerPoint Open XML模板）可生成现代、可重复使用的带矢量图形的幻灯片模板。POTX非常适合使用轻量级、无宏的模板来标准化团队间的演示文稿。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 使用SVG图表创建可重复使用的业务报告模板。
+* 带有嵌入式矢量图的教育幻灯片模板。
+* 针对团队使用标准化的营销活动模板。
+* 具有可伸缩视觉元素的学术或会议演示文稿模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 为重复性演示需求自动生成SVG到POTX模板。
+* 定期更新模板，使用新鲜的SVG内容。
+* 与企业工作流自动化集成，实现一致的格式。
+* 从实时SVG仪表板触发模板创建流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

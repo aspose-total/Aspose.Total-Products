@@ -53,7 +53,29 @@ Mit der API können Sie auch eine PPT-Datei in eine OTT-Konvertierung mit Wasser
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von PPT (PowerPoint)-Präsentationen in das OTT (OpenDocument Text Template)-Format ermöglicht es Unternehmen und Pädagogen, standardisierte, wiederverwendbare Vorlagen basierend auf dem Folieninhalt zu erstellen. OTT-Dateien gewährleisten Konsistenz in der Dokumentgestaltung, im Branding und in der Struktur von organisatorischen Berichten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Erstellung editierbarer Textvorlagen aus PowerPoint-Layouts für Unternehmensdokumentationen.
+* Standardisierung von Unternehmensberichten und -vorschlägen mithilfe von OTT-Vorlagen.
+* Erstellung wiederverwendbarer Bildungsvorlagen aus Schulungspräsentationen.
+* Wiederverwendung von Folienstrukturen für Open-Format-Publishing-Workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte PPT-zu-OTT-Konvertierung zur Generierung von Markenvorlagen.
+* Integration in Open-Source-Content-Produktionssysteme.
+* Stapelverarbeitung von Unternehmensfolien in standardisierte Dokumentenvorlagen.
+* Geplante Konvertierung zur Aufrechterhaltung der Konsistenz in der Kommunikation zwischen verschiedenen Abteilungen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

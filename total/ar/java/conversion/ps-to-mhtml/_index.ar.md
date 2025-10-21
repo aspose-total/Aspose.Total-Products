@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى MHTML (MIME HTML) يمكن أن يتيح تحويل المستندات الكاملة التي تحتوي على نصوص ورسومات وصور PS إلى صفحات ويب محمولة واحدة. MHTML مثالي للأرشفة والمشاركة وعرض محتوى PostScript على الويب.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* أرشفة تقارير PS ودليل المستخدم كصفحات ويب مستقلة.
+* تحويل وثائق PostScript للوصول عبر المتصفح دون اتصال.
+* مشاركة الرسوم البيانية والتخطيطات الكبيرة في ملف واحد.
+* الحفاظ على تنسيق PS الأصلي في أرشيفات HTML متوافقة مع الويب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي من PS إلى MHTML للأرشفة والحفظ.
+* دمجه في أنظمة إدارة المستندات لتوزيعه على الويب.
+* إنشاء HTML يمكن عرضه دون اتصال من ملفات PS في السحابة.
+* تحويل آلي لتقارير جاهزة للبريد الإلكتروني ومحتوى بصري.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

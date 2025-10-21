@@ -53,7 +53,31 @@ otherformats: OTT DOTM WORDML RTF ODT ODTX FLATOPC ODTM TEXT DOT WORD DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى ODT (مستند نصي مفتوح) يمكن للمحترفين من تحويل محتوى الشرائح البصرية إلى مستندات نصية قابلة للتحرير. هذه العملية مثالية لتحويل العروض التقديمية إلى تقارير رسمية، ودلائل تدريبية، ووثائق مكتوبة يمكن الوصول إليها في LibreOffice Writer أو OpenOffice Writer.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل عروض الشركات إلى تقارير مشروع مهيكلة.
+* إنشاء محاضر اجتماع أو وثائق سياسية من الشرائح البصرية.
+* تحويل شرائح الصف الدراسي إلى ملاحظات محاضر مفصلة أو دلائل دراسية.
+* إنشاء أرشيف للمحتوى قابل للتحرير من عروض الشرائح النهائية في PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+* إنشاء تقارير مؤتمتة من شرائح العروض التقديمية الداخلية.
+* دمجها في أنظمة إدارة الوثائق للأرشفة بناءً على ODT.
+* تحويل العروض التسويقية إلى محتوى قائم على النص للنشر الداخلي.
+* تحويل عروض الشرائح التدريبية بالجملة إلى دلائل قابلة للتحرير لوثائق إدارة الموارد البشرية.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

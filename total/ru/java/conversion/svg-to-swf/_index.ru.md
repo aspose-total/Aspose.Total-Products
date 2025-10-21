@@ -121,7 +121,31 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG в SWF (Shockwave Flash) позволяет встраивать интерактивную векторную графику в веб-анимации и устаревшие приложения Flash. SWF поддерживает динамические визуальные эффекты и легкие векторные анимации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Интерактивные веб-модули обучения с использованием анимаций SVG-to-SWF.
+* Маркетинговые баннеры и рекламные материалы с векторной интерактивностью.
+* Образовательные анимации и контент для обучения с масштабируемыми диаграммами.
+* Интерактивные инфографики, отображаемые на платформах устаревшего Flash.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование диаграмм SVG в анимации SWF.
+* Плановые обновления интерактивного веб-контента из живых файлов SVG.
+* Интеграция с устаревшими веб-платформами, поддерживающими визуальные эффекты на основе Flash.
+* Запуск конвейеров преобразования для динамического онлайн-контента SVG-to-SWF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

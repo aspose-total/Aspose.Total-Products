@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na WORDML (WordprocessingML) vytváří XML založené dokumenty Word s plně vloženými vektorovými diagramy. WORDML je ideální pro programové zpracování dokumentů, šablonování a automatizované pracovní postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Programaticky generování Word reportů s vloženými SVG vizuály.
+* Akademické a výzkumné šablony v XML pro automatizovanou úpravu.
+* Standardizovaná dokumentace projektu pro verzí řízené pracovní postupy.
+* Archivace interaktivního obsahu SVG ve strukturovaném formátu XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná dávková konverze SVG na WORDML pro systémy reportování.
+* Plánovaný export šablon založených na SVG do XML pro automatizaci pracovních postupů.
+* Integrace s API pro generování dokumentů a systémy pro správu obsahu.
+* Spouštěná generace pro dynamické, programově řízené dokumenty Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

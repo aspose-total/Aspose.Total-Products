@@ -54,7 +54,31 @@ otherformats: PPT POTX PPTM PPS POWERPOINT POT PPTX POTM PPSX PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将RTF文件转换为ODP（OpenDocument Presentation）可将文本丰富的内容转化为与LibreOffice Impress和Apache OpenOffice兼容的视觉吸引力幻灯片，有利于教育工作者、培训师和企业将文档材料重新制作成演示文稿。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将RTF讲座笔记转换为结构化的ODP演示文稿。
+* 将培训手册转换为企业研讨会的幻灯片。
+* 从RTF提案或业务摘要创建ODP演示文稿。
+* 将文本内容重新制作为视觉叙事格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于电子学习内容流水线的自动化RTF到ODP生成。
+* 与知识管理系统集成，实现按需创建演示文稿。
+* 批量将RTF企业文档转换为ODP模板。
+* 从文档存储库自动生成幻灯片，供营销团队使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

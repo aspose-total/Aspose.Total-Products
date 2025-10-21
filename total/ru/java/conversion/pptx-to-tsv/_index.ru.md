@@ -61,7 +61,31 @@ otherformats: DIF MARKDOWN XLAM XLSM TSV XLTX XLTM ODS MHTML XLSX FODS XLSB SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPTX в TSV (значения, разделенные табуляцией) предлагает структурированное текстовое представление таблиц презентации. Этот формат идеален для разработчиков и специалистов по данным, которым нужен простой импорт в код или аналитические среды.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование данных слайдов PowerPoint для статистического моделирования.
+* Подготовка табличной информации для скриптов и API.
+* Экспорт КПЭ и метрик из презентаций PowerPoint в TSV.
+* Обмен чистыми наборами данных для исследований и академических целей.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Запланированные преобразования PPTX в TSV в потоках данных.
+* Автоматизация экспорта TSV для наборов данных для обучения машинного обучения.
+* Интеграция с научными репозиториями данных.
+* Мост между данными PowerPoint и кодом для инженерных рабочих процессов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: TSV DIF XLAM XLS SXC ODS XLTM XLSM FODS XLTX EXCEL MARKDOWN MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى FODS (جدول بيانات ODF بتنسيق XML مسطح) يحول محتوى العرض إلى تنسيقات XML متوافقة مع جداول البيانات. إنه مفيد بشكل خاص لمستخدمي البرامج مفتوحة المصدر الذين يعملون مع بيئات LibreOffice أو Apache OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير البيانات الرقمية من PowerPoint إلى جداول FODS.
+* إنشاء جداول بيانات XML منظمة للاستخدام التعليمي أو التجاري.
+* تحويل الرسوم البيانية من الشرائح إلى بيانات جدولية قابلة للتحرير في مستند OpenDocument.
+* إعداد ملفات مفتوحة المعايير للتحليل والمشاركة في LibreOffice Calc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء FODS بشكل مجدول من تحديثات العروض المتكررة.
+* دمجه في أنظمة الإبلاغ مفتوحة المصدر.
+* تحويل الشرائح إلى FODS بشكل دفعي للوحات القيادية التحليلية.
+* إنشاء جداول بيانات XML بشكل تلقائي لسير العمل عبر الأنظمة المتعددة.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

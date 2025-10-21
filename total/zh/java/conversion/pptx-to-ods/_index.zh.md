@@ -61,7 +61,31 @@ otherformats: XLS XLTX XLSX XLSM EXCEL XLSB MARKDOWN ODS XLTM TSV XLT DIF FODS M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX转换为ODS（OpenDocument Spreadsheet）可将演示数据与电子表格分析相结合。这种转换有利于那些正在转向开源生产力套件的组织，同时保留了重要的表格内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将财务摘要从演示文稿提取到ODS格式中。
+* 与OpenOffice或LibreOffice用户共享数据驱动的幻灯片。
+* 使分析师能够在电子表格软件中编辑幻灯片表格。
+* 准备演示报告的开放数据版本。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在文档工作流程中安排定期的PPTX到ODS的转换。
+* 集成到开源办公软件生态系统中。
+* 用于政府数据提交的自动化转换。
+* 准备好进行ETL的数字幻灯片数据提取。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

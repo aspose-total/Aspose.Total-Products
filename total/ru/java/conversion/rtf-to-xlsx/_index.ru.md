@@ -61,7 +61,31 @@ otherformats: XLSX XLTX XLSB SXC XLTM XLSM XLS XLAM DIF EXCEL ODS FODS TSV XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование RTF в XLSX (Microsoft Excel Open XML Workbook) - наиболее распространенный подход для преобразования форматированных документов в современные редактируемые электронные таблицы. Это обеспечивает полную совместимость с Microsoft Excel, Google Sheets и другими офисными пакетами.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование инвентарных таблиц на основе RTF в структурированные файлы XLSX.
+* Импорт отчетов RTF в Excel для визуализации данных и фильтрации.
+* Создание аналитических электронных таблиц из форматированных бизнес-документов.
+* Обмен данными в формате RTF в совместимых с облаком форматах Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетный экспорт RTF в XLSX для корпоративных систем документооборота.
+* Автоматизированная интеграция с облачными сервисами для Excel Online и OneDrive.
+* Модули конвертации для веб-отчетных инструментов.
+* Планирование генерации XLSX из систем управления документами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

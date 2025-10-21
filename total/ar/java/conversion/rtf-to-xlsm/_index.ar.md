@@ -61,7 +61,31 @@ otherformats: XLAM XLSM ODS FODS TSV DIF XLS XLT XLSB XLTM XLTX XLSX EXCEL SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات RTF إلى XLSM (Excel Macro-Enabled Workbook) يوسع فائدة الوثيقة من خلال دمج البيانات المنسقة مع قدرات التشغيل التلقائي في Excel. إنه مثالي للتقارير الديناميكية والتحليلات واتخاذ القرارات القائمة على البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين جداول RTF في ماكرو Excel لتحديث التقارير تلقائيًا.
+* أتمتة عمليات تحويل البيانات عبر سكربتات VBA.
+* تحويل وثائق RTF إجرائية إلى أدوات مالية تعتمد على الماكرو.
+* تمكين لوحات تحكم تفاعلية مصدرها مجموعات بيانات معتمدة على RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل RTF إلى XLSM لنشر التشغيل التلقائي في Excel.
+* التكامل مع أدوات الذكاء التجاري ونمذجة البيانات المالية.
+* إنشاء ماكرو للتقارير بشكل دوري من مستودعات الوثائق.
+* ربط الماكرو تلقائيًا أثناء سير العمل لتحويل البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

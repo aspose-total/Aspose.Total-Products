@@ -47,7 +47,31 @@ Při převodu souboru SVG na ODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG do formátu ODS (OpenDocument Spreadsheet) umožňuje vkládání vektorových grafů do tabulek standardu otevřených formátů. ODS je ideální pro analýzu dat, tvorbu reportů a interaktivních nástěnek napříč různými platformami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání finančních nástěnek ve formátu SVG do tabulek ODS pro analýzu.
+* Sdílení výzkumných nebo inženýrských dat s vektorovými vizuály v otevřených formátech.
+* Export akademických a projektových dat jako editovatelných, platformně nezávislých tabulek.
+* Standardizované sledovací nástěnky projektů ve formátu ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická konverze SVG do ODS pro reportovací procesy.
+* Plánované exporty výzkumných nebo provozních dat s vloženými diagramy.
+* Integrace s kancelářskými balíky s otevřeným zdrojovým kódem vyžadující kompatibilitu s tabulkami.
+* Spouštění generování vektorových nástěnek pro týmovou spolupráci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG (škálovatelné vektorové grafiky) do XAML (rozšiřitelného aplikačního značkovacího jazyka) umožňuje vývojářům integrovat vektorovou grafiku přímo do aplikací pro Windows. XAML zachovává škálovatelnost a nezávislost na rozlišení, což je ideální pro moderní návrh uživatelského rozhraní.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání ikon a ilustrací založených na SVG do aplikací WPF nebo UWP.
+* Návrh interaktivních informačních panelů s vektorovou grafikou pro podnikové aplikace.
+* Vytváření škálovatelných prvků uživatelského rozhraní pro desktopové nebo mobilní aplikace.
+* Vzdělávací nebo vědecké vizualizační nástroje s vysokou věrností vektorových grafů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná hromadná konverze aktiv SVG do XAML pro vývoj aplikací.
+* Plánované aktualizace knihoven uživatelského rozhraní s novými návrhy SVG.
+* Integrace s sestavenými rourami pro bezproblémové nasazení ve WPF nebo UWP projektech.
+* Spuštěná konverze pro vykreslování dynamického obsahu SVG v reálném čase v aplikacích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

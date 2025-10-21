@@ -121,7 +121,31 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为PPS（PowerPoint Show）可创建幻灯片，直接以演示模式打开，内嵌矢量图形，非常适合无缝查看。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 作为PowerPoint演示文稿交付的互动企业演示。
+* 具有SVG图表的教育幻灯片，可直接显示。
+* 作为准备好的演示文稿打包的营销或产品演示。
+* 用于立即演示而无需编辑的学术讲座幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于演示交付的批量自动SVG到PPS转换。
+* 将基于SVG的幻灯片定期导出为PPS格式。
+* 与内容分发系统集成，以准备好查看的幻灯片堆栈。
+* 用于培训或营销活动的触发幻灯片生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

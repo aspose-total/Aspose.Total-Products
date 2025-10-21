@@ -61,7 +61,31 @@ otherformats: XLT DIF MHTML XLSM XLTX XLSB XLAM XLTM FODS MARKDOWN SXC XLSX TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملف PPTX إلى XLT (قالب Excel) يمكن إنشاء قوالب جداول بيانات قابلة لإعادة الاستخدام من بيانات العرض. إنه مثالي للمؤسسات التي تقوم بتوحيد تقاريرها المالية أو ملخصات الأعمال المتكررة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء قوالب تقارير من شرائح PowerPoint.
+* إنشاء نماذج Excel استنادًا إلى مؤشرات الأداء الرئيسية في العرض.
+* إنشاء تنسيقات جداول بيانات مميزة للاستخدام الداخلي.
+* إعداد قوالب بيانات شهرية أو ربع سنوية قابلة للتكرار.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+* توليد XLT تلقائيًا من عروض الشركة التقديمية.
+* مزامنة القوالب عبر الأقسام.
+* إنشاء قوالب تقارير قابلة لإعادة الاستخدام بناءً على سير العمل.
+* التكامل مع مستودعات القوالب التي تخضع للتحكم في الإصدارات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

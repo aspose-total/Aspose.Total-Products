@@ -47,7 +47,31 @@ otherformats: FODS ODS EXCEL XLSB TXT DIF XLSM TSV XLAM SXC MD XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى TSV (Tab-Separated Values) يساعد في توحيد تبادل البيانات بين أنظمة الذكاء التجاري والإحصائي والهندسي. يوفر TSV تنسيقًا منظمًا وقابلًا للقراءة من قبل البشر، مما يجعله مثاليًا لنقل البيانات المستخرجة من تخطيطات PS إلى أنابيب التحليل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل النصوص المنظمة والبيانات من أشكال PS إلى TSV للمعالجة.
+* تصدير النتائج العلمية أو التجريبية لأدوات الإحصاء.
+* نقل المحتوى الجدولي من وثائق تعتمد على PostScript إلى تنسيقات بيانات مفتوحة.
+* إعداد مجموعات البيانات لتكون متوافقة مع بيئات R أو Python أو MATLAB.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل PS إلى TSV بشكل تلقائي في أنظمة تخزين البيانات.
+* دمج مع أدوات ETL لهجرة البيانات المنظمة.
+* سير العمل الدوري لاستخراج البيانات من محركات الإبلاغ المعتمدة على PS.
+* معالجة الوثائق PS في السحابة لتحليل البيانات الضخمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

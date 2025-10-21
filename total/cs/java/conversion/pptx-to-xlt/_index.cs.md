@@ -61,7 +61,31 @@ Při převodu souboru PPTX na XLT můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PPTX na XLT (Excel šablona) umožňuje vytváření opakovaně použitelných šablon tabulek ze dat prezentace. Je ideální pro organizace, které standardizují finanční zprávy nebo opakující se obchodní souhrny.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Generování šablon zpráv z diapozitivů PowerPointu.
+* Vytváření excelových modelů na základě KPI prezentace.
+* Vytváření značkových formátů tabulek pro interní použití.
+* Příprava opakovatelných měsíčních nebo čtvrtletních datových šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované generování XLT z prezentací firemních sad.
+* Synchronizace šablon napříč odděleními.
+* Pracovní postupy pro vytváření opakovaně použitelných šablon zpráv.
+* Integrace s repozitáři šablon s verzováním.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

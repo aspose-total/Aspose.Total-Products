@@ -61,7 +61,31 @@ Při převodu souboru PPTX na XLTX můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PPTX na XLTX (Excel šablona) umožňuje firmám generovat strukturované a vizuálně konzistentní šablony přímo z prezentací v PowerPointu. Zjednodušuje tvorbu zpráv a prosazuje konzistenci značky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření excelových šablon, které kopírují standardy designu v PowerPointu.
+* Vytváření formátovaných tabulek KPI ze snímků.
+* Přetváření prezentací do šablon pro oddělení reportingu.
+* Stanovení sjednoceného rámce pro prezentaci dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické vytváření XLTX pro finanční a marketingové týmy.
+* Integrace do systémů poskytování šablon.
+* Plánované generování šablon z PowerPointu v podnikových pracovních postupech.
+* Správa centralizovaných excelových šablon odvozených z prezentací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

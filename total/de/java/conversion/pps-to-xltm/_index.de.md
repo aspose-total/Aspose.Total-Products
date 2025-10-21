@@ -61,7 +61,31 @@ Beim Konvertieren der PPS-Datei in XLTM können Sie Ihrem Ausgabe-XLTM-Dateiform
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von PPS (PowerPoint Slide Show) Dateien in XLTM (Makrofähige Excel-Vorlage) ermöglicht es Organisationen, dynamische Vorlagen mit eingebetteten Automatisierungsskripten zu erstellen. Dies ist wertvoll für Unternehmen, die repetitive Datenoperationen aus Folienberichten verwenden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Entwicklung von makrobasierten Berichtsvorlagen aus Präsentationen.
+* Generierung automatisierter Prognosevorlagen mit eingebetteten VBA-Skripten.
+* Erstellung wiederverwendbarer Dateneingabevorlagen aus Marketingfolien.
+* Vorbereitung von XLTM-Vorlagen für die KPI-Verfolgung mit Automatisierung.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatische Generierung von XLTM-Vorlagen aus PPS-Dateien für Unternehmensberichte.
+* Integration in Excel-Automatisierungspipelines.
+* Geplante Erstellung von Makrovorlagen aus Folienzusammenfassungen.
+* Zentrale Verteilung von XLTM-Vorlagen für interne Abteilungen.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

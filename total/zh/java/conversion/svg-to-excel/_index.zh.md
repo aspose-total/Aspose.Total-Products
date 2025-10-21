@@ -49,7 +49,31 @@ otherformats: TXT MD TSV XLTX XLAM XLSB EXCEL DIF XLSM XLTM SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为Excel（XLS/XLSX）可使矢量图表和图表变成完全交互式的电子表格。Excel用户可以操纵数据，创建数据透视表，并将图表整合到报告中，而不会失去矢量清晰度。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于SVG的销售仪表板嵌入Excel工作簿。
+* 将技术和工程图表转换为Excel进行分析。
+* 将带有SVG可视化效果的学术数据集导出为交互式电子表格。
+* 将交互式项目管理图表直接整合到Excel报告中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将SVG仪表板转换为Excel以进行定期报告。
+* 与BI平台集成，实现自动化电子表格更新。
+* 将交互式设计和分析图表定期导出到Excel。
+* 将实时SVG数据持续同步到Excel工作簿中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

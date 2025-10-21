@@ -61,7 +61,31 @@ otherformats: XLSX XLT MARKDOWN FODS XLSM XLSB MHTML XLTM TSV XLTX DIF XLS SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى XLAM (إضافة Excel) يمكن أن يمكن تضمين البيانات المستمدة من العروض التقديمية في الإضافات التي تدعم البرامج النصية. يعتبر هذا التحويل مثاليًا للمطورين والمحللين الذين يقومون بتأتير التقارير المعتمدة على Excel ويحتاجون إلى دمج بيانات PowerPoint في توسيعات Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* بناء إضافات XLAM مع مقاييس معتمدة على الشرائح للتقارير التلقائية.
+* إنشاء لوحات معلومات مدعومة بالبرامج النصية تستمد بياناتها من عروض PPS.
+* إنشاء إضافات لتتبع KPIs بشكل مباشر باستخدام قيم العروض المحولة.
+* دمج محتوى PPS في النصوص المتقدمة للتلقين الآلي في Excel.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقين الآلي" %}}
+
+* إنشاء XLAM تلقائي من ملفات العروض التقديمية للإدارات.
+* دمجه في أنظمة التلقين الآلي في Excel للشركات.
+* تحويل PowerPoint إلى XLAM بشكل مجدول لوحدات التقارير الحية.
+* إنشاء إضافات دفعية لتصور البيانات الديناميكية.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

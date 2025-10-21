@@ -61,7 +61,31 @@ Při převodu souboru PPS na XLTM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPS (PowerPoint Slide Show) na XLTM (Šablona Excel s makry) umožňuje organizacím vytvářet dynamické šablony s vestavěnými automatizačními skripty. To je cenné pro podniky používající opakované operace s daty odvozenými ze slide reportů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření makro-založených šablon reportů z prezentací.
+* Generování automatizovaných šablon pro předpovídání s vestavěnými skripty VBA.
+* Vytváření opakovaně použitelných šablon pro zadávání dat z marketingových slidů.
+* Příprava XLTM šablon pro sledování KPI s automatizací.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování XLTM šablon ze souborů PPS pro podnikové reportování.
+* Integrace s automatizačními potrubími Excelu.
+* Plánované vytváření makro-šablon ze shrnutí založených na slajdech.
+* Centralizované distribuce XLTM šablon pro interní oddělení.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

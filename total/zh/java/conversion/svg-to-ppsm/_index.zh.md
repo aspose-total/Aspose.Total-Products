@@ -121,7 +121,31 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为PPSM（宏启用的PowerPoint演示文稿）结合了矢量图与宏，用于交互式、即时运行的幻灯片展示。非常适合自动化密集型演示工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 带有SVG视觉效果的宏启用交互式企业幻灯片展示。
+* 带有嵌入式宏的自动报告或教学演示。
+* 带有动态图表和交互元素的教育幻灯片。
+* 具有自动化视觉交互性的研究或学术幻灯片展示。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG定期转换为PPSM以用于定期演示的批量调度。
+* 为交互式幻灯片堆栈自动注入宏。
+* 与工作流自动化集成，以交付即时运行的演示文稿。
+* 触发式转换管道，用于PPSM格式的动态仪表板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

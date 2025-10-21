@@ -61,7 +61,31 @@ otherformats: XLS XLSM FODS ODS XLT XLAM XLTM XLSB XLSX MARKDOWN MHTML XLTX EXCE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）演示文稿转换为EXCEL（.xls或.xlsx）格式，将视觉叙事与分析深度相结合。它允许用户将图表、图形和绩效摘要转换为完全可编辑的电子表格，以获得更深入的洞察和业务智能处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PowerPoint表格导出到Excel进行扩展计算。
+* 将项目绩效幻灯片转换为可编辑的财务模型。
+* 从视觉丰富的演示文稿创建Excel仪表板。
+* 从会议演示文稿生成适用于客户的Excel表格。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在企业报告系统中自动进行PPT到Excel的转换。
+* 集成到分析部门的数据管道中。
+* 在基于Excel的绩效仪表板中定期更新PowerPoint数据。
+* 演示指标与Excel表格之间的实时同步。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

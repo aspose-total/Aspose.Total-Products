@@ -61,7 +61,31 @@ otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS XLSM MHTML ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPTX إلى XLSM (مصنف إكسل ممكّن بالماكرو) يضيف إمكانية الأتمتة إلى بيانات العروض التقديمية. يمكن للشركات تضمين الماكروهات للحسابات والتنسيق والتحليل ضمن جداول بيانات تم إنشاؤها من الشرائح.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل بيانات الشرائح إلى تقارير إكسل مدعومة بالماكرو.
+* أتمتة حسابات مؤشرات الأداء الرئيسية من مقاييس برنامج PowerPoint.
+* إنشاء لوحات تحكم ديناميكية باستخدام الماكروهات VBA.
+* تعزيز سير العمل للبيانات باستخدام الربط بين العروض التقديمية والماكرو.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد تلقائي لملفات XLSM من عروض مبيعات أو ميزانيات.
+* التكامل مع أدوات ونصوص الأتمتة في إكسل.
+* إنشاء ماكروهات دفعية لتقارير PowerPoint المتكررة.
+* تشغيل مؤشرات التحليل الذكي باستخدام بيانات PowerPoint المضمنة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

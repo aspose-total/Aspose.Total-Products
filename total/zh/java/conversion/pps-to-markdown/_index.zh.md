@@ -61,7 +61,31 @@ otherformats: XLTM XLSB XLSX FODS XLS XLAM MARKDOWN XLTX MHTML SXC XLT TSV ODS E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片展示）文件转换为MARKDOWN（MD）可让用户将视觉幻灯片转换为轻量级、易读的文本文档，非常适合用于博客、文档和基于Git的内容管理系统。它弥合了演示文稿与开发人员友好格式之间的差距。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将PowerPoint幻灯片转换为Markdown文档。
+* 从演示文稿准备开源项目笔记。
+* 将教育幻灯片内容发布到静态站点生成器。
+* 将公司演示文稿转换为轻量级MD文件，用于GitHub维基。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定期生成Markdown以供内容团队使用版本控制。
+* 集成到文档流水线中（例如Hugo、Jekyll）。
+* 用于在线发布的自动化PowerPoint到MD转换。
+* 批量处理多个PPS幻灯片组成结构化的Markdown文件。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

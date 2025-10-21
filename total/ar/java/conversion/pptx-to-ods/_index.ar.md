@@ -61,7 +61,31 @@ otherformats: XLS XLTX XLSX XLSM EXCEL XLSB MARKDOWN ODS XLTM TSV XLT DIF FODS M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملف PPTX إلى ODS (جدول بيانات OpenDocument) يربط بيانات العرض التقديمي بتحليلات جداول البيانات. يستفيد هذا التحويل المؤسسات التي تنتقل إلى حزم الإنتاجية مفتوحة المصدر مع الحفاظ على المحتوى الجدولي الأساسي.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج ملخصات مالية من العروض التقديمية إلى تنسيق ODS.
+* مشاركة الشرائح التي تعتمد على البيانات مع مستخدمي OpenOffice أو LibreOffice.
+* تمكين المحللين من تحرير جداول الشرائح داخل برامج جداول البيانات.
+* إعداد إصدارات بيانات مفتوحة من تقارير العروض التقديمية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل PPTX إلى ODS مجدول في سير العمل الوثائقي.
+* دمجه في بيئات مكاتب مفتوحة المصدر.
+* تحويل آلي لتقديم البيانات الحكومية.
+* استخراج بيانات الشرائح الرقمية بجاهزية لعمليات ETL.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

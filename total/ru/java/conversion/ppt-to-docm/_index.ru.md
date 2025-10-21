@@ -53,7 +53,31 @@ otherformats: FLATOPC DOCMX WORDML OTT WORD DOCM DOTM ODT RTF DOTX TEXT DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в DOCM (Документ Word с поддержкой макросов) добавляет возможности автоматизации в документы, полученные из презентаций. Это преобразование идеально подходит для организаций, которым требуются интерактивные отчеты на основе макросов и сводные данные.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание документов с поддержкой макросов на основе бизнес-презентаций PowerPoint.
+* Встраивание автоматизированных расчетов или скриптов в отчеты Word.
+* Оптимизация повторяющегося создания отчетов с помощью макросов.
+* Превращение презентаций в интеллектуальную, готовую к действиям документацию.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое преобразование PPT в DOCM для корпоративных отчетов на основе макросов.
+* Интеграция с рабочими процессами документов, поддерживаемыми VBA.
+* Запланированные экспорты презентаций в интерактивные файлы DOCM.
+* Пакетное преобразование для стандартизированных шаблонов с поддержкой макросов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

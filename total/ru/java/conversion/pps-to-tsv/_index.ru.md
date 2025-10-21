@@ -61,7 +61,31 @@ otherformats: XLAM XLS TSV MHTML DIF XLSX XLTX XLSB EXCEL XLTM MARKDOWN FODS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в TSV (Tab-Separated Values) позволяет структурированно экспортировать данные презентации с использованием табуляций - идеально подходит для разработчиков, аналитиков и специалистов по данным, предпочитающих более чистый, удобный для кода текстовый формат.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт таблиц из PowerPoint в TSV для анализа данных в Python или R.
+* Подготовка текстовых наборов данных из бизнес-презентаций.
+* Преобразование графиков производительности в легко анализируемые данные, разделенные табуляцией.
+* Извлечение слайдов с многоязычным контентом в TSV для локализации рабочих процессов.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Интеграция в искусственный интеллект для обработки данных, требующих текста, разделенного табуляцией.
+* Пакетное извлечение статистики на основе слайдов в TSV для моделирования и аналитики.
+* Плановое преобразование слайдов в TSV для управления данными предприятия.
+* Автоматическое создание TSV для внедрения на бэкенд в веб-приложениях.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

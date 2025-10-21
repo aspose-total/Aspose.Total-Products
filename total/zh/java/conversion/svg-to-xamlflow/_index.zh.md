@@ -143,7 +143,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为XAMLFLOW可将矢量图形集成到基于Flow的应用程序中，支持交互式UI工作流。XAMLFLOW非常适合快速原型设计和动态界面设计。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将SVG图表集成到基于Flow的仪表板中，用于交互式应用程序。
+* 使用可伸缩矢量图形快速原型设计企业UI。
+* 使用交互式SVG可视化元素创建教育或研究界面。
+* 嵌入SVG图表的工作流自动化仪表板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 自动化SVG到XAMLFLOW的转换，用于迭代式UI开发。
+* 定期更新应用程序组件，使用新的SVG图形。
+* 与开发流程管线集成，实现实时界面渲染。
+* 触发生成动态的基于矢量的UI元素，用于应用程序。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

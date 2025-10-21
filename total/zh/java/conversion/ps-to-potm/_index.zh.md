@@ -59,7 +59,31 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为POTM（PowerPoint Macro-Enabled Template）结合了模板标准化和宏功能。POTM使幻灯片模板内部实现自动化，例如动态图表更新或交互式内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从PS图表创建宏启用的PowerPoint模板。
+* 自动化幻灯片更新和数据驱动的可视化。
+* 将PostScript图表嵌入交互式模板。
+* 在部门间标准化动态演示工作流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业自动化工作流程的批量PS到POTM转换。
+* 与分析平台集成，自动更新幻灯片。
+* 定时生成模板，用于定期报告和演示文稿。
+* 用于动态PS衍生内容的AI辅助宏嵌入。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

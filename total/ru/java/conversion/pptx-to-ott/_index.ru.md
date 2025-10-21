@@ -53,7 +53,31 @@ otherformats: DOT OTT RTF DOTM OTTX WORD DOTX WORDML OTTM TEXT ODT FLATOPC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPTX в OTT (шаблон текста OpenDocument) позволяет профессионалам создавать многоразовые текстовые шаблоны из материалов презентаций. Это отличный способ создания стандартизированных отчетов, брендированной документации или шаблонных резюме.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание брендированных шаблонов на основе содержания презентаций.
+* Превращение корпоративных презентаций в многоразовые шаблоны ODT.
+* Разработка шаблонов академических отчетов на основе слайдов PowerPoint.
+* Генерация стандартных форматов коммуникации из дизайнов PPTX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное создание OTT из PPTX для стандартизации контента.
+* Интеграция с системами управления шаблонами.
+* Пакетное создание шаблонов для использования во всей компании.
+* Автоматизация рабочего процесса для поддержания единообразия дизайна.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

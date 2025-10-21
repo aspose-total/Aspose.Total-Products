@@ -130,7 +130,31 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir SVG a DOT (Plantilla de Word 97-2003) permite crear plantillas de documentos reutilizables con diagramas vectoriales incrustados compatibles con versiones antiguas de Word. DOT garantiza un formato consistente en sistemas heredados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Plantillas de informes estandarizadas con diagramas SVG para documentos de Word heredados.
+* Plantillas de propuestas de proyectos que incorporan paneles visuales.
+* Plantillas académicas o instructivas reutilizables que utilizan visuales SVG.
+* Plantillas de documentos históricos para flujos de trabajo empresariales o de ingeniería.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Generación automatizada de plantillas por lotes de SVG a DOT para flujos de trabajo de Word heredados.
+* Actualizaciones programadas de plantillas con nuevos visuales SVG.
+* Integración en sistemas de gestión de documentos que requieren plantillas compatibles con versiones anteriores.
+* Conversión desencadenada para informes recurrentes y plantillas reutilizables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

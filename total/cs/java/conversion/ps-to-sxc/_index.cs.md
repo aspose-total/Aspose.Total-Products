@@ -47,7 +47,31 @@ Při převodu souboru PS na SXC můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PS (PostScript) do formátu SXC (StarOffice/Calc Spreadsheet) umožňuje použití strukturovaných tabulek a grafů PostScriptu v dřívějších aplikacích OpenOffice nebo StarOffice. Tím se zajistí přenositelnost dat mezi staršími prostředími tabulkových procesorů s otevřeným zdrojovým kódem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Extrahování finančních nebo provozních tabulek ze souborů PS do tabulek SXC.
+* Převádění inženýrských nebo experimentálních dat z grafů PostScriptu pro analýzu.
+* Příprava souborů se starší kompatibilitou pro tabulkové procesory z rozložení PS.
+* Transformace dokumentů PS do opakovaně použitelných šablon tabulek pro nástroje s otevřeným zdrojovým kódem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze PS do SXC pro archivaci nebo použití v systémech s dřívější verzí.
+* Integrace do ETL potrubí pro strukturovanou analýzu tabulek.
+* Automatizovaná extrakce tabulek a grafů z rozložení PS.
+* Konverze v cloudu pro spolupracující prostředí tabulkových procesorů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

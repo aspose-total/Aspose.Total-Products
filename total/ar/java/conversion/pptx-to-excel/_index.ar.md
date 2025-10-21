@@ -61,7 +61,31 @@ otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل العروض التقديمية PPTX إلى EXCEL (مصنف Microsoft Excel) يحول بيانات الشرائح الثابتة إلى جداول بيانات قابلة للتحرير بالكامل. يعتبر هذا التحويل أمرًا حيويًا للفرق التي تحلل وتوسع بيانات PowerPoint في بيئات جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج الرسوم البيانية والجداول والأرقام من شرائح PowerPoint.
+* تحويل رؤى العرض التقديمي إلى تقارير Excel قابلة للتنفيذ.
+* إنشاء أوراق بيانات قابلة للتحرير من عروض مؤتمرات أو أعمال.
+* تعزيز تحليلات PowerPoint بقدرات صيغ Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+* تحويل PPTX-إلى-EXCEL آلي للوحات الأداء.
+* دمجه في أنظمة إنشاء تقارير مالية.
+* جدولة سير العمل لهجرة بيانات PowerPoint.
+* تحويل ETL لأتمتة تحليلات الشركة على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

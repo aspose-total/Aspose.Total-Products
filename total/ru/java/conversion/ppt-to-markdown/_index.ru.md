@@ -61,7 +61,31 @@ otherformats: DIF XLT FODS ODS XLS EXCEL TSV XLAM XLSB XLSM MHTML XLSX SXC XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в формат MARKDOWN (.md) обеспечивает плавное превращение визуального контента в легкую, готовую к веб-публикации документацию. Это преобразование чрезвычайно полезно для разработчиков, менеджеров контента и команд документации, которые хотят использовать слайды в блогах, вики или технических руководствах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование слайдов PowerPoint в документацию Markdown для GitHub или GitLab.
+* Переиспользование слайдов обучения или вводного курса в содержание README или вики.
+* Публикация технических презентаций непосредственно в статические генераторы сайтов, такие как Hugo или Jekyll.
+* Экспорт заметок и планов PowerPoint в структурированный текст Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в Markdown для конвейеров документации разработчиков.
+* Интеграция в рабочие процессы автоматизации контента для инженерных команд.
+* Плановые экспорты из презентаций PowerPoint в Markdown для журналов изменений.
+* Преобразование рабочих процессов для технических блогов SEO или документации API.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

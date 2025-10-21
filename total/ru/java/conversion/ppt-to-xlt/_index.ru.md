@@ -61,7 +61,31 @@ otherformats: XLS XLAM SXC XLT XLTM ODS XLSM FODS TSV XLTX DIF MHTML EXCEL XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в формат XLT (Excel Template) превращает слайды в многоразовые шаблоны электронных таблиц для однородного отчетности и форматирования в команде. Это идеально подходит для организаций, стандартизирующих рабочие процессы представления данных.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов Excel на основе панелей инструментов PowerPoint.
+* Стандартизация отчетности команды с использованием брендированных форматов XLT.
+* Преобразование слайдов в готовые к использованию структуры электронных таблиц.
+* Создание моделей на основе шаблонов для повторяющихся бизнес-отчетов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в XLT для создания согласованных шаблонов отчетов.
+* Интеграция в рабочие процессы стандартизации контента предприятия.
+* Пакетная обработка для создания шаблонов электронных таблиц, соответствующих бренду.
+* Плановое создание многоразовых макетов Excel из презентаций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

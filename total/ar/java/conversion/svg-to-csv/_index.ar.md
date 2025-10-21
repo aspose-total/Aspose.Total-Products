@@ -47,7 +47,31 @@ otherformats: XLSB XLTM XLT FODS SXC XLSM TXT TSV MD XLTX XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات SVG (رسومات نقطية قابلة للتوسيع) إلى ملفات CSV (قيم مفصولة بفواصل) يسمح بتحويل الرسوم البيانية والمخططات البصرية إلى بعض البيانات المهيكلة. هذا التحويل ضروري لأغراض التحليل، والتقارير، والاندماج السلس في سير العمل القائم على البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير مخططات أداء المبيعات من لوحات SVG إلى ملفات CSV.
+* تحويل مخططات الاستطلاع والأبحاث إلى مجموعات بيانات CSV مهيكلة.
+* مشاركة تحليلات SVG التفاعلية عبر الفرق عبر ملفات CSV سهلة الاستخدام.
+* تحويل مخططات مالية وهندسية إلى بيانات خام للنمذجة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل دفعي آلي لوحات SVG إلى ملفات CSV لمنصات BI.
+* الاندماج في سير العمل ETL للتقارير المالية، التشغيلية، أو التسويقية.
+* تصدير SVG إلى CSV مجدول لتحديثات التحليل المتكررة.
+* تحويل مشغل للرسوم البيانية النقطية التي تتم إنشاؤها ديناميكيًا في التطبيقات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

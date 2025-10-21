@@ -49,7 +49,31 @@ otherformats: XLT EXCEL TXT SXC DIF TSV XLTM FODS XLSB XLTX ODS XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为XLAM（Excel Add-in）可基于PostScript推导的逻辑、宏或自动化创建基于Excel的插件。这允许利用从PS文件中提取的视觉或数据内容的高级Excel功能。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将基于PostScript的计算或模板嵌入Excel插件。
+* 从PS生成的报告创建可重用的自动化工具。
+* 通过XLAM将基于PS的图表转换为交互式Excel仪表板。
+* 使企业用户能够在Excel中部署基于PostScript的自动化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于内部Excel工具的自动化PS到XLAM转换。
+* 集成到企业工作流自动化管道中。
+* 从PostScript数据生成Excel宏的AI辅助生成。
+* 定期更新插件，内容从PS布局中提取。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

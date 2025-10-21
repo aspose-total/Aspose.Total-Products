@@ -54,7 +54,31 @@ API také umožňuje převádět dokumenty RTF chráněné heslem na PPSX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod RTF na PPSX (PowerPoint Show Open XML) nabízí moderní způsob zobrazení informací založených na dokumentech jako vizuálně atraktivní prezentace. Soubory PPSX se otevírají přímo v režimu prezentace, což je ideální pro finální zobrazení nebo sdílení.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna RTF zpráv o firmě na prezentace připravené k prezentaci.
+* Generování finálních prezentací z strukturovaných textových souborů.
+* Příprava prezentací událostí nebo konferencí přímo ze zdrojů RTF.
+* Sdílení obsahu RTF jako prezentací ve formátu PowerPoint určených pouze k prohlížení.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Převod RTF na PPSX v automatizovaných potrubích pro publikaci prezentací.
+* Integrace s pracovními postupy prezentací v Office 365.
+* Hromadná generace snímků PPSX ze standardizovaných RTF zpráv.
+* Plánované vytváření firemních shrnutí připravených k prezentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

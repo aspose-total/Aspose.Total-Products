@@ -61,7 +61,31 @@ otherformats: XLTM XLSB XLSX FODS XLS XLAM MARKDOWN XLTX MHTML SXC XLT TSV ODS E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε MARKDOWN (MD) επιτρέπει στους χρήστες να μετατρέψουν οπτικές διαφάνειες σε ελαφριά, ευανάγνωστα κείμενα τέλεια για blogs, τεκμηρίωση και συστήματα διαχείρισης περιεχομένου βασισμένα σε Git. Συνδέει το χάσμα μεταξύ παρουσιάσεων και μορφών φιλικών προς τους προγραμματιστές.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Μετατροπή διαφανειών PowerPoint σε τεκμηρίωση Markdown.
+* Προετοιμασία σημειώσεων για έργα ανοικτού κώδικα από παρουσιάσεις.
+* Δημοσίευση εκπαιδευτικού περιεχομένου διαφανειών σε γεννητές στατικών ιστοσελίδων.
+* Μετατροπή παρουσιάσεων εταιρειών σε ελαφριά αρχεία MD για τα wikis του GitHub.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη δημιουργία Markdown για ομάδες περιεχομένου που χρησιμοποιούν έλεγχο εκδόσεων.
+* Ενσωμάτωση σε αγωγούς τεκμηρίωσης (π.χ., Hugo, Jekyll).
+* Αυτοματοποιημένη μετατροπή PowerPoint σε MD για online δημοσίευση.
+* Μαζική επεξεργασία πολλαπλών συστημάτων PPS σε δομημένα αρχεία Markdown.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

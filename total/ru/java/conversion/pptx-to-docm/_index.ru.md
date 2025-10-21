@@ -53,7 +53,31 @@ otherformats: WORDML TEXT RTF ODT DOTX FLATOPC DOCM DOT DOTM OTT DOCMX WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPTX в DOCM (документ Word с поддержкой макросов) позволяет встраивать сценарии автоматизации и динамические поля. Это преобразование полезно для предприятий, автоматизирующих генерацию отчетов или структурированную документацию.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование данных слайдов в отчеты Word с поддержкой макросов.
+* Создание интерактивных шаблонов с автоматизированными данными.
+* Разработка документов рабочего процесса, автоматически заполняющих контент.
+* Генерация сводных отчетов с использованием макросов из слайдов PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание отчетов DOCM для повторяющихся встреч.
+* Интеграция с системами отчетности на основе VBA.
+* Планирование выполнения макросов для обновления документов.
+* Макросы из PowerPoint в Word для повышения производительности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

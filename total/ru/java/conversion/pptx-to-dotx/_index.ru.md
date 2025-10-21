@@ -53,7 +53,31 @@ otherformats: RTF FLATOPC WORDML TEXT DOTXM OTT DOT DOTM DOTX ODT DOTXX WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPTX в формат DOTX (шаблон Word) помогает преобразовать слайды, созданные с учетом дизайна, в согласованные, редактируемые шаблоны Word. Это обеспечивает единообразие бренда и согласованность документов в команде.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Создание стандартизированных шаблонов на основе дизайна слайдов PowerPoint.
+* Создание многоразовых шаблонов DOTX для отчетов и справочников.
+* Преобразование форматов презентаций в брендированные шаблоны Word.
+* Поддержание согласованности стиля документов во всей компании.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание шаблонов DOTX для команд по кадровому делопроизводству или финансам.
+* Пакетное преобразование повторяющихся корпоративных презентаций.
+* Интеграция с инструментами управления стилями и автоматизации документов.
+* Синхронизация контроля версий для корпоративных шаблонов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

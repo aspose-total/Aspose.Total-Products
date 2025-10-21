@@ -47,7 +47,31 @@ otherformats: FODS XLT SXC XLAM TXT XLTX XLSM XLTM MD EXCEL DIF ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى SXC (جدول برنامج StarOffice/Calc) يسمح باستخدام الجداول والرسوم البيانية المنظمة في PostScript في تطبيقات OpenOffice أو StarOffice القديمة. يضمن هذا نقل البيانات عبر بيئات جداول البيانات مفتوحة المصدر القديمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج الجداول المالية أو التشغيلية من تقارير PS إلى جداول برنامج SXC.
+* تحويل البيانات الهندسية أو التجريبية من رسوم برنامج PostScript للتحليل.
+* إعداد ملفات جداول برنامج متوافقة مع الإرث من تخطيطات PS.
+* تحويل مستندات PS إلى قوالب جداول بيانات قابلة لإعادة الاستخدام لأدوات مفتوحة المصدر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل PS إلى SXC بشكل دفعي للاستخدام في الأرشيف أو النظام القديم.
+* دمجها في أنابيب ETL لتحليل جداول البيانات المنظمة.
+* استخراج الجداول والرسوم البيانية بشكل آلي من تخطيطات PS.
+* تحويل قائم على السحابة لبيئات جداول البيانات التعاونية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

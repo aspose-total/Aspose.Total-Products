@@ -47,7 +47,31 @@ otherformats: XLT EXCEL TXT SXC DIF TSV XLTM FODS XLSB XLTX ODS XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى XLAM (إضافة Excel) يمكن أن يمكّن من إنشاء إضافات Excel استنادًا إلى المنطق المستمد من PostScript أو الماكرو أو الأتمتة. يتيح ذلك استخدام وظائف Excel المتقدمة التي تستفيد من المحتوى البصري أو البيانات المستخرجة من ملفات PS.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين حسابات أو قوالب مبنية على PostScript في إضافات Excel.
+* إنشاء أدوات أتمتة قابلة لإعادة الاستخدام من تقارير تم إنشاؤها بواسطة PS.
+* تحويل الرسوم البيانية المعتمدة على PS إلى لوحات تحكم تفاعلية في Excel عبر XLAM.
+* تمكين مستخدمي المؤسسات من نشر الأتمتة المدفوعة بـ PostScript في Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل PS إلى XLAM تلقائيًا لأدوات Excel الداخلية.
+* دمجه في خطوط الأتمتة لتدفق العمل في الشركات.
+* توليد ماكرو Excel بمساعدة الذكاء الاصطناعي من بيانات PostScript.
+* تحديثات مجدولة للإضافات مع استخراج المحتوى من تخطيطات PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,31 @@ otherformats: SXC EXCEL XLT XLSX XLS XLSM TSV XLTX XLAM FODS MHTML XLTM ODS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片展示）文件转换为XLT（Excel模板）有助于企业从演示数据创建可重复使用的电子表格模板。这些模板确保报告、格式和分析的一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从财务演示文稿构建标准预算模板。
+* 从高管幻灯片展示设计报告模板。
+* 生成可重复使用的销售预测模板。
+* 从幻灯片视觉内容创建标准化的分析布局。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从定期的PowerPoint报告自动创建XLT模板。
+* 集成到企业模板管理系统中。
+* 部门一致性的定期幻灯片转模板转换。
+* 从已批准的幻灯片堆栈大规模生成品牌化的Excel模板。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

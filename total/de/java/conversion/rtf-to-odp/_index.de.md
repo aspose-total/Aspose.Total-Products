@@ -54,7 +54,29 @@ Mit der API können Sie auch passwortgeschützte RTF-Dokumente in ODP konvertier
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von RTF-Dateien in ODP (OpenDocument Presentation) verwandelt textreiches Material in visuell ansprechende Präsentationen, die mit LibreOffice Impress und Apache OpenOffice kompatibel sind. Dieser Workflow ist für Pädagogen, Trainer und Unternehmen vorteilhaft, die Dokumentenmaterial in Präsentationen umwandeln möchten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Umwandlung von RTF-Vorlesungsnotizen in strukturierte ODP-Präsentationen.
+* Konvertierung von Schulungsunterlagen in Folien für Unternehmensworkshops.
+* Erstellung von ODP-Decks aus RTF-Vorschlägen oder Geschäftszusammenfassungen.
+* Umnutzung von Textinhalten in visuelle Storytelling-Formate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte RTF-zu-ODP-Generierung für E-Learning-Inhalts-Pipelines.
+* Integration mit Wissensmanagement-Systemen zur bedarfsgesteuerten Präsentationserstellung.
+* Stapelkonvertierung von RTF-Unternehmensdokumenten in ODP-Vorlagen.
+* Automatisierte Folien-Erstellung aus Dokumenten-Repositories für Marketingteams.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

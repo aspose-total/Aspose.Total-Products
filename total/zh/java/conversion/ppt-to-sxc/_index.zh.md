@@ -61,7 +61,31 @@ otherformats: SXC TSV XLTM XLSX XLS XLSB DIF FODS XLT XLTX EXCEL MHTML ODS MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）文件转换为SXC（StarOffice Calc电子表格）使得使用传统或开源系统的组织能够重新利用演示数据进行深入分析。这种转换弥合了视觉摘要和可编辑电子表格数据之间的差距，增强了跨不同办公环境的协作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将业务演示文稿转换为兼容OpenOffice的电子表格。
+* 在基于SXC的财务模型中重复使用PowerPoint表格和图表。
+* 支持依赖于OpenOffice或LibreOffice的政府或企业用户。
+* 将存档的公司PPT数据迁移到开放的电子表格格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业存档系统的批量PPT到SXC转换。
+* 集成在文档数字化工作流程中。
+* 用于混合开源报告环境的自动转换。
+* 定期将PPT更新导出到协作电子表格工具。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

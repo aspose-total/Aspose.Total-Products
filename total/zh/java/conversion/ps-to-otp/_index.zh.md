@@ -59,7 +59,31 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为OTP（OpenDocument Presentation Template）可让组织从PS幻灯片或图表中创建可重复使用的演示文稿模板。OTP确保设计的一致性，同时使团队能够快速生成新的演示文稿。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PS幻灯片转换为可重复使用的演示文稿模板。
+* 为企业或教育演示文稿标准化视觉风格。
+* 从PS报告创建基于模板的培训模块。
+* 将基于PS的营销视觉准备为ODP模板以备将来使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于演示文稿模板库的自动化PS到OTP转换。
+* 集成到内容管理系统中以重复使用设计资产。
+* 从存档的PS幻灯片组生成批量模板。
+* 通过AI辅助设计优化，从PS文件创建模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

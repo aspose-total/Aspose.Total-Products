@@ -61,7 +61,31 @@ otherformats: XLS ODS XLT MARKDOWN FODS XLAM SXC MHTML XLSM XLTX XLTM XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPTX в SXC (таблицы StarOffice Calc) позволяет улучшить взаимодействие между данными презентации и устаревшими инструментами электронных таблиц. Идеально подходит для компаний, использующих StarOffice или аналогичные среды на основе OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение табличных данных из слайдов PowerPoint в электронные таблицы.
+* Обмен аналитическими данными презентаций с пользователями StarOffice.
+* Подготовка архивных таблиц из корпоративных слайдов.
+* Редактирование и анализ метрик презентаций в формате SXC.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PPTX в SXC для хранилищ документов.
+* Автоматизированные рабочие процессы извлечения для устаревших офисных пакетов.
+* Интеграция с системами предприятий для отчетности.
+* Запланированные преобразования для межплатформенного сотрудничества.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: MARKDOWN XLSB XLAM SXC TSV XLTX XLSX FODS XLT XLTM ODS MHTML EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в формат CSV (значения, разделенные запятыми) облегчает извлечение таблиц, графиков и числовых данных из презентаций в легкие структурированные наборы данных. Формат CSV обеспечивает совместимость практически со всеми инструментами аналитики данных и приложениями для работы с электронными таблицами.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт данных диаграмм PowerPoint в CSV для анализа данных.
+* Преобразование квартальных презентаций о продажах в структурированные отчеты CSV.
+* Создание легких табличных наборов данных из бизнес-слайдов.
+* Подготовка данных презентации для импорта в CRM или BI платформы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PPT в CSV для автоматизированных отчетных конвейеров.
+* Интеграция в рабочие процессы ETL для маркетинговой аналитики.
+* Плановое преобразование для синхронизации данных панелей управления.
+* Автоматизированное извлечение данных из слайдов для инструментов финансового прогнозирования.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

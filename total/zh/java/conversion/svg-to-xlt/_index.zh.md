@@ -49,7 +49,31 @@ otherformats: DIF FODS XLAM XLT XLSM SXC MD ODS TSV EXCEL TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG（可缩放矢量图形）文件转换为XLT（Excel模板）可创建具有嵌入式矢量图的可重用电子表格模板。XLT模板非常适合标准化报告格式，同时保持图表可缩放和可编辑。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 使用基于SVG的仪表板生成标准销售和财务报告模板。
+* 为工程和建筑工作流程提供可重用的项目跟踪模板。
+* 为学术机构创建带有SVG图表的教育模板。
+* 使用交互式矢量视觉创建标准化的营销分析模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG图表批量自动转换为XLT模板，用于企业报告。
+* 为重复项目或财务报告定期生成模板。
+* 与工作流自动化系统集成，保持模板更新。
+* 将动态更新的仪表板触发转换为可重用模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

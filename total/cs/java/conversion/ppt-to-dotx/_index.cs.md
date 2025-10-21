@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPT souboru na DOTX s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění prezentací PPT (PowerPoint) do formátu DOTX (Word Template Open XML) umožňuje vytváření opakovaně použitelných šablon bez maker, které zachovávají firemní branding a formátovací konzistenci. Je ideální pro standardizaci dokumentů v rámci velkých organizací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění firemních designů v PowerPointu do šablon ve Wordu ve formátu DOTX.
+* Udržování vizuální konzistence v obchodních zprávách a dopisech.
+* Vytváření opakovaně použitelných dokumentových šablon pro oddělení.
+* Generování knihoven šablon na základě firemních prezentací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod PPT do formátu DOTX pro nasazení šablon na úrovni celé firmy.
+* Integrace do procesů dodržování firemní identity a standardizace obsahu.
+* Plánované aktualizace šablon ve formátu DOTX na základě nových designů prezentací.
+* Hromadný převod pro konzistenci dokumentů v rámci týmu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

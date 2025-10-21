@@ -49,7 +49,31 @@ otherformats: XLSB TSV ODS XLTM XLSM SXC TXT MD DIF EXCEL XLAM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为TXT（纯文本）可以从复杂布局中提取文本内容，实现轻量级、可搜索和可编辑的格式。TXT 输出非常适合快速文本分析、脚本编写和轻量级文档处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 从基于PS的报告和图表中提取原始文本。
+* 为文本分析、自然语言处理或搜索索引准备内容。
+* 将PostScript表单或报告转换为轻量级文本文件。
+* 实现基于文本的自动化和脚本工作流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量进行PS到TXT的转换以进行索引和数据处理。
+* 集成到AI文本分析管道中。
+* 用于报告和档案系统的自动化提取。
+* 用于可扩展文本访问的基于云的转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

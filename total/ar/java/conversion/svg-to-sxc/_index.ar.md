@@ -47,7 +47,31 @@ otherformats: ODS XLTM EXCEL TXT XLSM SXC MD DIF XLSB XLAM XLT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى SXC (جدول بيانات StarOffice/LibreOffice) يمكن تضمين الرسوم البيانية الناقلة إلى صيغ جداول البيانات مفتوحة المصدر. SXC مثالي لسير العمل التعاونية وتوافق جداول البيانات عبر المنصات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استيراد لوحات القيادة المالية أو المشاريع SVG إلى جداول LibreOffice.
+* مشاركة البيانات البحثية أو الأكاديمية مع رسوم بيانية ناقلة في ملفات SXC.
+* تتبع مشاريع تعاونية باستخدام الجداول البيانية SVG المضمنة.
+* قوالب جداول بيانات مفتوحة المصدر موحدة مع مخططات تفاعلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل دفعي آلي لـ SVG إلى SXC لأنابيب التقارير.
+* تصدير مجدول لوحات القيادة المعتمدة على SVG إلى جداول بيانات مفتوحة المصدر.
+* التكامل مع حزم المكاتب التعاونية للوصول الفريقي.
+* توليد جداول SXC مُشغّلة من البيانات الديناميكية SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

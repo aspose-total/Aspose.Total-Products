@@ -61,7 +61,31 @@ otherformats: XLS ODS XLT MARKDOWN FODS XLAM SXC MHTML XLSM XLTX XLTM XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPTX إلى SXC (جدول بيانات StarOffice Calc) يسمح بتعزيز التوافق بين بيانات العرض وأدوات جداول البيانات التقليدية. مثالي للشركات التي تستخدم StarOffice أو بيئات مشابهة مبنية على OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج البيانات الجدولية من شرائح PowerPoint إلى جداول بيانات.
+* مشاركة تحليلات العروض التقديمية مع مستخدمي StarOffice.
+* إعداد جداول بيانات أرشيفية من الشرائح الشركات.
+* تحرير وتحليل مقاييس العروض التقديمية بتنسيق SXC.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعة من PPTX إلى SXC لمستودعات المستندات.
+* سير عمل استخراج آلي لحزم البرامج المكتبية التقليدية.
+* تكامل مع أنظمة تقارير المؤسسات.
+* تحويلات مجدولة للتعاون بين منصات متعددة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

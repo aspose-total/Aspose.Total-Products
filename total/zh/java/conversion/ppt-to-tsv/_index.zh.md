@@ -61,7 +61,31 @@ otherformats: DIF XLS TSV XLTX XLAM SXC EXCEL XLSX XLSB XLTM ODS XLSM FODS MHTML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）文件转换为TSV（制表符分隔值）格式，提供了干净、结构化的文本表示，非常适合数据迁移和脚本环境。在企业数据工作流程中，TSV因其精确性和可读性而备受青睐。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将表格幻灯片数据提取为TSV，用于分析脚本。
+* 导出基于PowerPoint的调查结果，供统计工具使用。
+* 与开发或研究团队共享演示数据。
+* 为自动化数据摄入创建结构化文本数据集。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量进行PPT到TSV的转换，以便与AI数据管道集成。
+* 后端系统自动提取处理文本数据。
+* 用于ETL自动化，用于商业智能平台。
+* 定时导出TSV，用于机器学习准备的数据集。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

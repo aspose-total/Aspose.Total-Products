@@ -61,7 +61,31 @@ otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX演示文稿转换为EXCEL（Microsoft Excel工作簿）可将静态幻灯片数据转换为完全可编辑的电子表格。这种转换对于分析和在电子表格环境中扩展PowerPoint数据的团队至关重要。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从PowerPoint幻灯片中提取图表、表格和图形。
+* 将演示文稿见解转化为可操作的Excel报告。
+* 从会议或商务幻灯片创建可编辑的数据表。
+* 利用Excel公式功能增强PowerPoint分析能力。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于性能仪表板的自动化PPTX到EXCEL转换。
+* 集成到财务报告生成系统中。
+* 用于PowerPoint数据迁移的工作流调度。
+* 公司范围分析自动化的ETL转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -49,7 +49,31 @@ otherformats: XLT SXC XLTM XLSB ODS MD EXCEL XLTX DIF TSV TXT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为Markdown（MD）可直接将矢量图形嵌入文档、README文件和静态站点生成器中。这种方法使图形保持轻量级且完全可伸缩，同时提高了技术内容的可读性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 在软件项目README文件中嵌入架构图。
+* 用于开源文档存储库的交互式流程图。
+* 使用内联矢量插图的基于Markdown的电子书和教程。
+* 使用干净、可伸缩的视觉效果撰写技术博客，无需额外的图像文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于文档流水线的自动化SVG到MD转换。
+* 为知识库更新定期生成矢量图。
+* 与Hugo或Jekyll等静态站点生成器集成。
+* 将设计更新持续同步到Markdown技术文件中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

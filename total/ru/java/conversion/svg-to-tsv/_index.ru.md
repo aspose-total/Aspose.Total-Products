@@ -47,7 +47,29 @@ otherformats: TSV XLT EXCEL XLTM XLTX SXC MD TXT ODS XLSM DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG в TSV (значения, разделенные табуляцией) позволяет экспортировать векторные диаграммы в формат, оптимизированный для электронных таблиц, статистического анализа и больших наборов данных. TSV обеспечивает структурирование данных и удобство их анализа.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Преобразование интерактивных графиков SVG в TSV для статистического анализа.
+* Экспорт инженерных диаграмм для совместного редактирования в электронных таблицах.
+* Обмен образовательными графиками на основе SVG в формате TSV для научных исследовательских групп.
+* Преобразование визуализаций производительности продукта в структурированные табличные данные.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированные конвейеры, преобразующие графики SVG в TSV для аналитических платформ.
+* Плановый экспорт векторных диаграмм в формате TSV для дашбордов отчетности.
+* Интеграция с программным обеспечением для статистического анализа, требующим ввода TSV.
+* Запуск преобразования для динамически обновляемых визуализаций на основе векторов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

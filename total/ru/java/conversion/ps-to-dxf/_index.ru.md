@@ -57,7 +57,31 @@ API также позволяет экспортировать файл PS в DX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PS (PostScript) в формат DXF (Drawing Exchange Format) позволяет импортировать точные векторные дизайны из документов PostScript в приложения САПР (Системы автоматизированного проектирования). Это преобразование идеально подходит для инженеров, архитекторов и дизайнеров, которым необходимы редактируемые технические чертежи.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование схем на основе PS в совместимые с CAD файлы DXF.
+* Преобразование архитектурных планов этажей из макетов PostScript для 3D-моделирования.
+* Импорт инженерных диаграмм в AutoCAD для дальнейшего уточнения дизайна.
+* Обмен техническими векторными дизайнами между платформами, поддерживающими формат DXF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PS в DXF в процессах проектирования и инженерии.
+* Интеграция с автоматизацией рабочего процесса CAD для быстрой итерации проекта.
+* Автоматизированное преобразование диаграмм, созданных в PS, в документацию по строительству.
+* Генерация файлов DXF в облаке для коллективных дизайнерских команд.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

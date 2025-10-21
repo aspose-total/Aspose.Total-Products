@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPTX souboru na DOTX s vodoznakem. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění prezentací PPTX do formátu DOTX (šablony Wordu) pomáhá převést designem řízené snímky do konzistentních, editovatelných šablon Wordu. Zajišťuje jednotný vzhled značky a konzistenci dokumentů napříč týmy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření standardizovaných šablon z návrhů snímků v PowerPointu.
+* Vytváření opakovaně použitelných šablon DOTX pro zprávy a příručky.
+* Převádění formátů prezentací do značkových šablon Wordu.
+* Udržování konzistence stylu dokumentů v celé společnosti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické vytváření šablon DOTX pro týmy HR nebo financí.
+* Hromadná konverze opakujících se firemních prezentací.
+* Integrace se správou stylů a nástroji pro automatizaci dokumentů.
+* Synchronizace verzí pro firemní šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: SXC FODS XLSB XLSM ODS XLT XLS XLSX XLTX XLTM XLAM EXCEL TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή από RTF σε TSV (Tab-Separated Values) είναι ιδανική για τη διατήρηση καθαρών, δομημένων συνόλων δεδομένων από μορφοποιημένα έγγραφα. Βεβαιώνει τη συμβατότητα με λογισμικά αναλυτικών, εισαγωγές βάσεων δεδομένων και συστήματα δημοσίευσης ανοιχτών δεδομένων που απαιτούν ακριβή μορφοποίηση με διαχωριστικά ταμπέλες.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+* Μετατροπή καταγραφών δεδομένων βασισμένων σε RTF σε TSV για εργαλεία αναλυτικών κειμένου.
+* Προετοιμασία ακαδημαϊκών ερευνητικών εγγράφων RTF για στατιστική επεξεργασία.
+* Εξαγωγή πινάκων RTF σε δομημένα αρχεία TSV για κοινή χρήση ανοιχτών δεδομένων.
+* Μετακίνηση μορφοποιημένων λιστών RTF σε μορφές έτοιμες για βάσεις δεδομένων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη μετατροπή από RTF σε TSV για επαναλαμβανόμενες εργασίες αναφοράς.
+* Ενσωμάτωση σε συστήματα συλλογής δεδομένων βασισμένα σε API.
+* Αυτόματη δημιουργία αρχείων TSV σε αποθετήρια ανοιχτών δεδομένων.
+* Μαζικές μετατροπές εγγράφων σε μορφές έτοιμες για δημοσίευση σε μεγάλη κλίμακα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

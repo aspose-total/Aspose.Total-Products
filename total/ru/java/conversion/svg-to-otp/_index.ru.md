@@ -121,7 +121,31 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в OTP (OpenDocument Presentation Template) позволяет создавать многоразовые шаблоны слайдов с векторными диаграммами. OTP идеально подходит для стандартизации презентаций в различных командах и проектах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Корпоративные шаблоны презентаций с использованием SVG-приборных панелей и иллюстраций.
+* Образовательные шаблоны слайдов с встроенной векторной графикой.
+* Многоразовые маркетинговые шаблоны, демонстрирующие данные о продукте.
+* Академические или конференционные шаблоны презентаций для масштабируемых визуалов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированная пакетная генерация шаблонов SVG в OTP для однородных слайд-дек.
+* Плановые обновления для тренингов или корпоративных презентаций.
+* Интеграция с автоматизацией рабочего процесса для распространения шаблонов по всей команде.
+* Запуск создания интерактивных шаблонов слайдов из живых данных SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPT souboru na DOCM s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod souborů PPT (PowerPoint) na DOCM (Dokument Word s makry) přináší do dokumentů odvozených z prezentací možnosti automatizace. Tento převod je ideální pro organizace, které potřebují interaktivní, makrem řízené zprávy a souhrny propojených dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření dokumentů s makry z obchodních prezentací v PowerPointu.
+* Vkládání automatizovaných výpočtů nebo skriptů do zpráv v Wordu.
+* Zefektivnění opakované generace zpráv pomocí maker.
+* Přeměna prezentací na inteligentní, připravenou k akci dokumentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod PPT na DOCM pro makrem řízené firemní zprávy.
+* Integrace s pracovními postupy dokumentů s povoleným VBA.
+* Plánované exporty prezentací do interaktivních souborů DOCM.
+* Hromadný převod pro standardizované šablony s makry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

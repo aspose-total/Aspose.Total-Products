@@ -121,7 +121,31 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в PPTM (PowerPoint с поддержкой макросов) объединяет масштабируемую векторную графику с макросами для интерактивных презентаций, готовых к автоматизации. Идеально подходит для динамичных корпоративных или обучающих презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Корпоративные презентации с макросами и панелями инструментов SVG.
+* Интерактивные образовательные или исследовательские презентации с встроенными макросами.
+* Маркетинговые презентации с автоматизированными диаграммами и интерактивными визуальными элементами.
+* Обучающие модули, объединяющие диаграммы SVG с макросами для интерактивности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование SVG в PPTM для регулярных презентаций с макросами.
+* Плановое обновление интерактивных презентаций с живыми визуальными данными.
+* Интеграция с автоматизацией бизнес-процессов для динамичных презентаций, готовых к использованию.
+* Запуск пайплайнов для создания интерактивных панелей инструментов в формате PPTM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

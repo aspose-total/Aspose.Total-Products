@@ -61,7 +61,31 @@ otherformats: XLSM EXCEL XLTX TSV SXC MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε SXC (StarOffice Calc Spreadsheet) βοηθά τις οργανώσεις που χρησιμοποιούν παλαιότερα ή ανοικτού κώδικα πακέτα γραφείου να επαναχρησιμοποιήσουν δεδομένα παρουσιάσεων σε μορφή υπολογιστικού φύλλου. Επιτρέπει τη δομημένη ανάλυση και αναφορά χωρίς την ανάγκη για προτεινόμενο λογισμικό.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Μετατροπή επιχειρηματικών παρουσιάσεων σε δεδομένα φύλλου που μπορούν να αναλυθούν.
+* Εξαγωγή περιλήψεων διαφανειών πωλήσεων ή οικονομικών σε μορφή SXC.
+* Προετοιμασία φύλλων συμβατών με το OpenOffice από αναφορές PPS.
+* Μετατροπή εκπαιδευτικών παρουσιάσεων σε δομημένα, κοινοποιήσιμα φύλλα δεδομένων.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη δημιουργία SXC για ροές εργασίας βασισμένες σε LibreOffice.
+* Ενσωμάτωση σε συστήματα διαχείρισης εγγράφων ανοικτού κώδικα.
+* Μαζική μετατροπή διαφανειών σε SXC για αρχεία αναλύσεων.
+* Προγραμματισμένες εξαγωγές για ομάδες που χρησιμοποιούν περιβάλλοντα γραφείου ανοικτού κώδικα.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

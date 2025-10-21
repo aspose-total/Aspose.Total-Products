@@ -121,7 +121,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG in POTM (makrofähige PowerPoint-Vorlage) ermöglicht die Erstellung wiederverwendbarer Vorlagen mit Makros zur Automatisierung und Einbettung skalierbarer Vektorgrafiken. Ideal für interaktive und automatisierte Präsentationsabläufe.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Makrofähige Unternehmenspräsentationsvorlagen mit eingebetteten SVG-Visuals.
+* Automatisierte Berichtsdecks mit dynamischen Diagrammen und Grafiken.
+* Schulungs- und Lehrvorlagen mit makrogesteuerter Interaktivität.
+* Interaktive akademische oder Forschungsvorlagen, die auf SVG-Inhalten basieren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Geplante SVG-zu-POTM-Konvertierung für wiederkehrende makrofähige Präsentationen.
+* Automatisierte Einbindung von Makros in Vorlagen für dynamische Folien-Decks.
+* Integration in die Workflow-Automatisierung für die teamweite Verwendung von Vorlagen.
+* Ausgelöste Vorlagenerstellung für interaktive Dashboards und Berichte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

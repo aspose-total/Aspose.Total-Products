@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPT souboru na OTT s vodoznakem. Chc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod prezentací PPT (PowerPoint) do formátu OTT (OpenDocument Text Template) umožňuje firmám a pedagogům vytvářet standardizované, opakovaně použitelné šablony založené na obsahu snímků. Soubory OTT zajistí konzistenci stylování dokumentů, firemní identity a struktury napříč organizačními zprávami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření editovatelných textových šablon z rozložení PowerPointu pro firemní dokumentaci.
+* Standardizace firemních zpráv a návrhů pomocí šablon OTT.
+* Vytváření opakovaně použitelných vzdělávacích šablon z výukových prezentací.
+* Přetváření struktur snímků pro pracovní postupy publikace ve volném formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod PPT do OTT pro generování značkových šablon.
+* Integrace do systémů produkce obsahu s otevřeným zdrojovým kódem.
+* Hromadné zpracování firemních snímků do standardizovaných dokumentních šablon.
+* Plánovaný převod pro udržení konzistence v komunikaci mezi odděleními.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

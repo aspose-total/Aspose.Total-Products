@@ -135,7 +135,31 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG (масштабируемая векторная графика) в XAML (расширяемый язык разметки приложений) позволяет разработчикам интегрировать векторную графику непосредственно в приложения Windows. XAML сохраняет масштабируемость и независимость разрешения, что идеально подходит для современного дизайна пользовательского интерфейса.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Встраивание иконок и иллюстраций на основе SVG в приложения WPF или UWP.
+* Создание интерактивных панелей управления с векторной графикой для корпоративных приложений.
+* Создание масштабируемых компонентов пользовательского интерфейса для настольных или мобильных приложений.
+* Образовательные или научные инструменты визуализации с высококачественными векторными диаграммами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование ресурсов SVG в XAML для разработки приложений.
+* Плановое обновление библиотек пользовательского интерфейса новыми дизайнами на основе SVG.
+* Интеграция с конвейерами сборки для бесшовного развертывания в проектах WPF или UWP.
+* Триггерное преобразование для мгновенного отображения динамического содержимого SVG в приложениях.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

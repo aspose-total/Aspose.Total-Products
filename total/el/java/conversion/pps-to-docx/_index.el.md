@@ -53,7 +53,31 @@ otherformats: DOCXM TEXT DOCX RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε DOCX (Microsoft Word Open XML Document) μετατρέπει το περιεχόμενο παρουσιάσεων σε μοντέρνα επεξεργάσιμα κείμενα εγγράφων συμβατά με το Microsoft 365 και εργαλεία συνεργασίας στο cloud.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή παρουσιάσεων σε επιχειρηματικές αναφορές ή περιλήψεις συναντήσεων.
+* Δημιουργία επεξεργάσιμου περιεχομένου μάρκετινγκ από οπτικές παρουσιάσεις.
+* Δημιουργία μορφοποιημένων εγχειριδίων DOCX ή οδηγών εκπαίδευσης.
+* Παραγωγή τεκμηρίωσης έτοιμης για πελάτες απευθείας από αρχεία PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη δημιουργία DOCX για εταιρικά συστήματα αναφοράς.
+* Ενσωμάτωση σε Microsoft Teams ή SharePoint για συνεργατικές ροές εργασίας.
+* Μαζική μετατροπή για διαχείριση και διανομή περιεχομένου.
+* Προγραμματισμένη μετατροπή από διαφάνειες σε DOCX για ενημερώσεις έργων.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

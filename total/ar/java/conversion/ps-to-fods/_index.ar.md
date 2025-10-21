@@ -47,7 +47,31 @@ otherformats: XLSM XLT MD XLAM XLSB XLTX XLTM TXT SXC ODS DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى FODS (Flat XML OpenDocument Spreadsheet) يسمح باستخدام البيانات المنظمة من الرسوم البيانية والجداول PostScript في تطبيقات جداول البيانات مفتوحة المصدر مثل LibreOffice. يضمن ذلك قابلية النقل والشفافية والتوافق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج الجداول المالية من تقارير PS إلى جداول بيانات LibreOffice.
+* تحويل البيانات العلمية أو الهندسية من الرسوم البيانية PostScript إلى FODS.
+* تحضير البيانات لتحليلات وتقارير متعددة المنصات.
+* تمكين استخدام جداول البيانات مفتوحة المصدر دون قيود ملكية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+
+* تحويل دُفعي من PS إلى FODS لسير العمل متعدد الإدارات.
+* دمجه في أنابيب ETL لتحليلات بتنسيق مفتوح.
+* استخراج البيانات الجدولية بشكل آلي من تخطيطات PS.
+* تحويل قائم على السحابة لبيئات العمل المشتركة مفتوحة المصدر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

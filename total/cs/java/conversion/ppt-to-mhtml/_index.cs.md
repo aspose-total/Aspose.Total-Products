@@ -61,7 +61,31 @@ Při převodu souboru PPT na MHTML můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPT (PowerPoint) do formátu MHTML (MIME HTML) vytváří jednu samostatnou webovou verzi vaší prezentace. Tato konverze je ideální pro distribuci prezentací pomocí e-mailu, vkládání prezentací online nebo udržování prohlížečem kompatibilních archivů bez nutnosti softwaru PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Publikování prezentací v PowerPointu jako webově přístupných stránek MHTML.
+* Sdílení interaktivních snímků v korporátních intranetech a systémech pro správu učení.
+* Vytváření jednoho souboru HTML archivů pro dodržování předpisů nebo dlouhodobé uchovávání.
+* Vkládání firemních prezentací přímo do webových stránek nebo interních nástěnek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická konverze PPT do MHTML pro dodávání online kurzů.
+* Integrace s platformami CMS pro vkládání prezentací.
+* Hromadné zpracování pro korporátní komunikační portály.
+* Okamžité zobrazování obsahu PowerPointu pro prohlížení na webu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

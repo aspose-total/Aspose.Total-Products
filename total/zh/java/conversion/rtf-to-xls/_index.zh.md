@@ -61,7 +61,31 @@ otherformats: TSV XLSM DIF XLTM SXC XLT XLS EXCEL FODS XLSB XLTX XLAM ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将RTF转换为XLS（Excel二进制文件格式）是将文档中的文本和表格数据重新用于广泛支持的电子表格格式的强大方法。对于使用Microsoft Excel 97-2003环境的组织来说尤为重要。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将RTF生成的报告转换为传统的Excel电子表格。
+* 将基于RTF的数据日志导出为XLS以用于会计系统。
+* 在Excel宏或公式中重用格式化的文档内容。
+* 为电子表格分析准备归档的业务数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将RTF转换为XLS，以用于向后兼容的工作流程。
+* 与使用旧版Excel的企业报告系统集成。
+* 在数据数字化项目中进行自动文档转换。
+* 为基于合规性的报告生成安排XLS输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

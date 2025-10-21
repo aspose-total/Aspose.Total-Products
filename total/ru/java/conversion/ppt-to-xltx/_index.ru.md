@@ -61,7 +61,31 @@ otherformats: XLS DIF XLSM MARKDOWN EXCEL XLTM XLSX XLAM MHTML XLT TSV XLTX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в XLTX (Excel Template Open XML) позволяет создавать современные шаблоны Excel без макросов на основе данных презентации. Это обеспечивает согласованность дизайна, брендинга и структуры отчетов между отделами и пользователями.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов Excel на основе отчетов PowerPoint для повторного использования.
+* Создание брендированных шаблонов отчетов на основе слайдов.
+* Преобразование стратегических презентаций в структурированные шаблоны таблиц.
+* Обмен стандартизированными форматами отчетов между командами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в XLTX для создания шаблонов между отделами.
+* Интеграция в процессы стандартизации контента и отчетности.
+* Пакетная обработка для развертывания шаблонов Excel на уровне компании.
+* Плановые экспорты данных из PowerPoint в многоразовые форматы Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

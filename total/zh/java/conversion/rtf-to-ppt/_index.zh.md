@@ -54,7 +54,31 @@ otherformats: POT PPT POWERPOINT PPTX PPS POTM POTX PPTM PPSX PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 RTF 转换为 PPT（传统 PowerPoint 演示文稿）可连接传统文档工作流程与较早的 PowerPoint 环境。这对于希望与早期 Microsoft Office 版本保持兼容性的组织非常有价值。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将 RTF 报告转换为 PowerPoint 97–2003 兼容文件。
+* 重复使用格式化的文本文档进行培训演示。
+* 为传统演示系统设计幻灯片。
+* 为传统 PowerPoint 显示准备基于 RTF 的研究摘要。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将 RTF 转换为 PPT，以适用于传统办公工作流程。
+* 集成到存档和合规性演示系统中。
+* 定期转换以支持向后兼容性。
+* 从 RTF 模板自动生成 PowerPoint，以适用于旧系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

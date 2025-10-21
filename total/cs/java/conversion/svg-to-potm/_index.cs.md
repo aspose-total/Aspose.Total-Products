@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na POTM (šablona PowerPointu s makry) umožňuje vytváření opakovaně použitelných šablon s makry pro automatizaci a zároveň vkládání škálovatelných vektorových grafik. Ideální pro interaktivní a automatizované pracovní postupy prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Makroaktivované firemní prezentace s vloženými vizuály ve formátu SVG.
+* Automatizované prezentace s dynamickými grafy a diagramy.
+* Šablony snímků pro školení a instruktáž s interaktivitou řízenou makry.
+* Interaktivní akademické nebo výzkumné šablony využívající obsah ve formátu SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánovaný převod SVG na POTM pro opakující se makroaktivované prezentace.
+* Automatizované vložení maker do šablon pro dynamické snímky.
+* Integrace s automatizací pracovního postupu pro široké využití šablon týmem.
+* Spouštěná generace šablony pro interaktivní přístrojové desky a zprávy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

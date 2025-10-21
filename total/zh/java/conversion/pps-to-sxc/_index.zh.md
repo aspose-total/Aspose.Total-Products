@@ -61,7 +61,31 @@ otherformats: XLSM EXCEL XLTX TSV SXC MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片演示）文件转换为SXC（StarOffice Calc电子表格）有助于与传统或开源办公套件合作的组织将演示数据重新用于电子表格形式。它实现了结构化分析和报告，无需专有软件。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将业务演示转换为可分析的电子表格数据。
+* 将销售或财务幻灯片摘要导出为SXC格式。
+* 从PPS报告准备OpenOffice兼容的表格。
+* 将教育演示转换为结构化、可共享的电子表格。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 为基于LibreOffice的报告工作流程自动生成SXC。
+* 集成到开放文档管理系统中。
+* 批量将幻灯片转换为SXC以进行分析存档。
+* 为使用开源办公环境的团队安排定期导出。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

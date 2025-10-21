@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPTX souboru na WORDML s vodoznakem.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění PPTX do WORDML (WordprocessingML) převádí obsah prezentace do struktur založených na XML, ideální pro vývojáře a podniky potřebující přenosnost dat a integraci do systému.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Převádění obsahu PowerPointu pro zpracování založené na XML.
+* Integrace dat prezentace do CMS nebo ERP systémů.
+* Archivace souborů PowerPointu ve strukturovaných formátech XML.
+* Umožnění automatizovaného vytváření dokumentů Word ze dat snímků.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizace pracovního postupu v podnikových dokumentačních potrubích.
+* Integrace s systémy generování obsahu založených na WordML.
+* Hromadná konverze pro aplikace řízené XML.
+* Automatizovaná archivace souborů PowerPointu ve strukturovaném značkování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

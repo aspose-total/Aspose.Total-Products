@@ -49,7 +49,31 @@ otherformats: ODS XLTM EXCEL TXT XLSM SXC MD DIF XLSB XLAM XLT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为SXC（StarOffice/LibreOffice电子表格）可将矢量图表嵌入开源电子表格格式中。SXC非常适合协作工作流程和跨平台电子表格兼容性。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将SVG财务或项目仪表板导入LibreOffice电子表格。
+* 在SXC文件中使用矢量图表共享研究或学术数据。
+* 使用嵌入式SVG可视化工具进行协作项目跟踪电子表格。
+* 具有交互式图表的标准化开源电子表格模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG批量转换为SXC以用于报告流水线。
+* 将基于SVG的仪表板定期导出到开源电子表格中。
+* 与协作办公套件集成，实现团队范围的访问。
+* 根据动态SVG数据触发生成SXC电子表格。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

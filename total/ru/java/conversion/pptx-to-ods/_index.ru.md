@@ -61,7 +61,31 @@ otherformats: XLS XLTX XLSX XLSM EXCEL XLSB MARKDOWN ODS XLTM TSV XLT DIF FODS M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование PPTX в ODS (OpenDocument Spreadsheet) соединяет данные презентации с аналитикой электронных таблиц. Это преобразование приносит пользу организациям, переходящим на программные пакеты с открытым исходным кодом, сохраняя при этом важное табличное содержимое.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение финансовых сводок из презентаций в формат ODS.
+* Обмен данными-слайдами с пользователями OpenOffice или LibreOffice.
+* Позволяет аналитикам редактировать таблицы слайдов в программах электронных таблиц.
+* Подготовка версий презентационных отчетов с открытыми данными.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Запланированные преобразования PPTX в ODS в документальных рабочих процессах.
+* Интеграция в экосистемы офисов с открытым исходным кодом.
+* Автоматизированное преобразование для представления государственных данных.
+* Извлечение числовых данных слайдов готовых для ETL.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

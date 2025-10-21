@@ -61,7 +61,31 @@ otherformats: XLT ODS XLTX XLTM EXCEL SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε μορφή Excel επιτρέπει στους χρήστες να μετατρέψουν τα δεδομένα παρουσίασης σε πλήρως λειτουργικούς πίνακες. Αυτή η μετατροπή υποστηρίζει καλύτερη διαχείριση δεδομένων, ανάλυση πίβοτ και ενσωμάτωση σε εργαλεία ροής εργασίας επιχείρησης.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+* Μετατροπή πινάκων παρουσίασης σε Excel για προχωρημένους υπολογισμούς.
+* Δημιουργία παρακολούθησης από εκτελεστικές αναφορές διαφανιών.
+* Δημιουργία επεξεργάσιμων πινάκων ελέγχου Excel από συνοπτικές διαφάνειες.
+* Προετοιμασία χρηματοοικονομικών μοντέλων και προβλέψεων από παρουσιαστικά δεδομένα.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη μετατροπή αναφορών PPS σε πρότυπα αναλυτικών Excel.
+* Ενσωμάτωση σε cloud drives για κοινή συνεργασία δεδομένων.
+* Αυτοματοποιημένη δημιουργία Excel από διαφάνειες συναντήσεων ή παρουσιάσεων KPI.
+* Μαζική μετατροπή για αρχειοθέτηση και σύγκριση σε διαφορετικές περιόδους αναφοράς.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

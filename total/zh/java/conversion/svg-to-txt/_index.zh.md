@@ -49,7 +49,31 @@ otherformats: EXCEL TSV SXC XLTX XLT TXT ODS MD XLSB DIF XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为TXT（纯文本）可从矢量图形中提取文本内容，用于分析、索引或轻量级文档编制。TXT非常适合简单的、可脚本化的工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 从SVG图表中提取标签和注释以用于文档编制。
+* 创建技术插图的可搜索纯文本版本。
+* 生成用于数据分析的轻量级SVG元数据报告。
+* 快速共享文本SVG内容而无需图像。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG文本自动提取为TXT以用于报告流水线。
+* 定期从矢量图表生成纯文本文档。
+* 与索引和搜索系统集成。
+* 触发转换以用于分析和轻量级内容工作流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

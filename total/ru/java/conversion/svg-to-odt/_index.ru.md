@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG в ODT (OpenDocument Text) позволяет встраивать векторную графику в документы текста, совместимые с LibreOffice, OpenOffice и другими пакетами. ODT обеспечивает сохранение визуальной точности при совместимости с различными платформами.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Технические руководства и отчеты о проектах с встроенными диаграммами SVG.
+* Научные статьи с встроенными векторными иллюстрациями.
+* Маркетинговая или деловая документация с использованием масштабируемых визуальных элементов SVG.
+* Многофункциональные руководства и инструкции, распространяемые без проблем с форматированием.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование SVG в ODT для повторяющейся документации.
+* Плановое обновление шаблонов с новыми визуальными элементами SVG.
+* Интеграция с системами управления контентом для многоплатформенного распространения.
+* Генерация по запросу для обучающих или тренировочных материалов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

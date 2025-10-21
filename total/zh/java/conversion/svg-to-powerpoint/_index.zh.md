@@ -121,7 +121,31 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件直接转换为PowerPoint（.ppt或.pptx）文件，可以将可缩放矢量图形嵌入标准幻灯片中，增强演示文稿的视觉清晰度和互动性。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 使用高分辨率SVG仪表板的商业演示文稿。
+* 利用矢量图形的教育讲座和在线课程幻灯片。
+* 具有交互式图表的营销和产品演示文稿。
+* 展示详细视觉内容的学术或研究幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将SVG转换为PowerPoint，用于定期更新演示文稿。
+* 将动态仪表板定期导出到幻灯片中。
+* 与自动化报告流水线集成，生成演示文稿。
+* 从实时SVG图形触发生成交互式幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

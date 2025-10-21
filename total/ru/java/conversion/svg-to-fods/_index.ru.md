@@ -47,7 +47,31 @@ otherformats: XLTX XLSM EXCEL TXT SXC XLT ODS DIF FODS TSV XLAM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в FODS (Flat OpenDocument Spreadsheet) позволяет встраивать векторные диаграммы в файлы электронных таблиц стандарта открытого доступа. FODS идеально подходит для межплатформенных рабочих процессов и автоматизации электронных таблиц.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Встраивание диаграмм SVG в шаблоны электронных таблиц с открытым исходным кодом.
+* Обмен исследовательскими или финансовыми данными с векторными визуальными элементами в формате FODS.
+* Экспорт академических и инженерных данных в виде редактируемых, платформенно-независимых электронных таблиц.
+* Стандартизация панелей управления проектами в формате открытого документа.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование SVG в FODS для отчетных конвейеров.
+* Плановое обновление шаблонов исследований или операционных электронных таблиц.
+* Интеграция с офисными пакетами межплатформенного использования, требующими открытые форматы.
+* Запуск генерации панелей управления электронными таблицами на основе SVG для совместной работы команды.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

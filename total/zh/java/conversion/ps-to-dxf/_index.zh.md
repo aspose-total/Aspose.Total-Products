@@ -57,7 +57,31 @@ otherformats: SVGZ EMZ PSD IMAGE TGA JPEG2000 WMZ  DXF WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为DXF（Drawing Exchange Format）可将基于矢量的精确设计从PostScript文档导入到CAD（计算机辅助设计）应用程序中。这种转换非常适合需要可编辑技术图纸的工程师、建筑师和设计师。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将基于PS的原理图转换为CAD兼容的DXF文件。
+* 将建筑平面图从PostScript布局转换为用于3D建模的文件。
+* 将工程图导入AutoCAD以进行进一步的设计优化。
+* 在支持DXF的平台间共享技术矢量设计。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在设计和工程流程中批量进行PS到DXF的转换。
+* 与CAD工作流自动化集成，实现快速项目迭代。
+* 自动将PS生成的图表转换为施工文档。
+* 为协作设计团队提供基于云的DXF生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

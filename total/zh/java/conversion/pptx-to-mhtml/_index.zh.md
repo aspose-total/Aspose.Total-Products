@@ -61,7 +61,31 @@ otherformats: DIF EXCEL FODS XLSX XLTM XLSB XLAM XLSM XLT TSV MHTML SXC MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX文件转换为MHTML（Web存档）可在浏览器中离线访问整个演示文稿，非常适合分发交互式内容，而无需PowerPoint或外部软件。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 创建适用于Web查看的PowerPoint演示文稿版本。
+* 通过电子邮件共享自包含的教育演示文稿。
+* 为离线企业培训存储交互式幻灯片。
+* 将产品演示文稿嵌入企业内部网页。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将PPTX转换为MHTML，用于电子学习知识库。
+* 将营销文宣自动发布为MHTML文件。
+* 为基于浏览器的播放存档公司演示文稿。
+* 与文档交付系统集成，实现安全离线访问。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

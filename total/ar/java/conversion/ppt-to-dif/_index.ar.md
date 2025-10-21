@@ -61,7 +61,31 @@ otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM DIF XLTX MARKDOWN XLS XLSM FO
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPT (عروض PowerPoint) إلى DIF (تنسيق تبادل البيانات) يحول العروض التجارية البصرية إلى مجموعات بيانات منظمة وجدولية. يعتبر هذا التحويل مثاليًا لنقل الرسوم البيانية الملخصة والتحليلات ومؤشرات الأداء إلى منصات تعتمد على البيانات، مما يتيح التكامل السلس مع أدوات الذكاء الاصطناعي التجاري وتطبيقات جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير رسوم العروض التقديمية إلى ملفات DIF لتحليلها في Excel أو LibreOffice.
+* تحويل شرائح المبيعات أو الأداء إلى تقارير متوافقة مع البيانات.
+* مشاركة التحليلات الملخصة بين بيئات BI مختلفة.
+* إنشاء مجموعات بيانات جاهزة لجداول البيانات من تقارير PowerPoint الفصلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+
+* إنشاء DIF تلقائي من لوحات القيادة في PowerPoint في أنابيب ETL.
+* التكامل مع منصات تحليلات الشركات للتحديثات في الوقت الحقيقي.
+* تحويل مجدول للملخصات الأسبوعية في PPT إلى DIF لتقارير الفريق.
+* استخراج البيانات لأدوات التنبؤ بالاتجاهات التي تعتمد على الذكاء الاصطناعي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

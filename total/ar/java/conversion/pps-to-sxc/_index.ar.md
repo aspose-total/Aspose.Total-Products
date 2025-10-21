@@ -61,7 +61,31 @@ otherformats: XLSM EXCEL XLTX TSV SXC MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى SXC (جدول بيانات StarOffice Calc) يساعد المؤسسات التي تعمل مع حزم البرامج المكتبية القديمة أو مفتوحة المصدر على إعادة استخدام بيانات العروض التقديمية في شكل جداول بيانات. يمكنه تمكين التحليل المنظم وإعداد التقارير دون الحاجة إلى برمجيات مملوكة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل العروض التقديمية التجارية إلى بيانات جداول يمكن تحليلها.
+* تصدير ملخصات الشرائح المتعلقة بالمبيعات أو المالية إلى تنسيق SXC.
+* إعداد أوراق عمل متوافقة مع OpenOffice من تقارير PPS.
+* تحويل العروض التعليمية إلى جداول بيانات منظمة وقابلة للمشاركة.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء SXC تلقائيًا لسير العمل القائمة على LibreOffice.
+* دمجه في أنظمة إدارة المستندات مفتوحة المصدر.
+* تحويل الشرائح إلى SXC بشكل دفعي لأرشيفات التحليل.
+* تصديرات مجدولة للفرق التي تستخدم بيئات مكتبية مفتوحة المصدر.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ otherformats: WORDML RTF OTT DOCXM DOTX DOTM DOT DOCX TEXT ODT WORD FLATOPC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в DOCX (документ Microsoft Word Open XML) обеспечивает современный, редактируемый и высоко совместимый формат для повторного использования содержимого презентации. Он идеально подходит для преобразования слайдов в профессиональные документы, используемые в бизнесе и академии.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт слайдов PowerPoint в отчеты DOCX для распространения.
+* Преобразование заметок к слайдам и маркеров в форматированную документацию.
+* Создание редактируемых маркетинговых или технических сводок.
+* Сочетание визуальных элементов и текста в отшлифованные документы Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PowerPoint в DOCX для ежедневной отчетности.
+* Интеграция с системами управления контентом или публикации документов.
+* Пакетное преобразование для академических и корпоративных репозиториев.
+* Плановый экспорт обновленных презентаций в сводки DOCX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

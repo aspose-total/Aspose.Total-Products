@@ -57,7 +57,31 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod souborů PS (PostScript) do formátu DICOM (Digital Imaging and Communications in Medicine) umožňuje bezproblémovou integraci vektorových zpráv, diagnostických grafů a radiografických poznámek do standardizovaných pracovních postupů v oblasti lékařského zobrazování. Kompatibilita s formátem DICOM zajišťuje, že tyto vizuální zprávy lze bezpečně zobrazovat a analyzovat na platformách PACS (Picture Archiving and Communication System), které se používají v nemocnicích a klinikách.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání vektorových diagnostických diagramů do archivů obrazů pacientů.
+* Převod kardiologických nebo onkologických grafů PS do DICOM kompatibilních obrazových řad.
+* Integrace vizuálního plánování chirurgických zákroků do systémů zobrazování v nemocnicích.
+* Generování diagnostických souhrnů jako překryvů DICOM pro radiologické zprávy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická transformace PS na DICOM v rámci pracovních postupů EMR (Electronic Medical Record).
+* Integrace dat ETL v analytických potrubích pro zdravotní analýzy založené na obrazech.
+* Dávková konverze asistovaná umělou inteligencí pro diagnostickou vizualizaci v systémech lékařské AI.
+* Spouštěný export DICOM pro automaticky generovanou klinickou dokumentaci zobrazování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

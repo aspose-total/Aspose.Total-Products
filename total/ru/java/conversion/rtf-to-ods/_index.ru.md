@@ -61,7 +61,31 @@ otherformats: XLTM DIF TSV XLSB XLTX XLAM FODS XLSM XLS EXCEL XLSX SXC ODS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование RTF в ODS (OpenDocument Spreadsheet) предлагает эффективный способ преобразования структурированного содержимого документа в данные, готовые к использованию в электронных таблицах, совместимых с LibreOffice Calc и другими платформами, поддерживающими ODF. Этот метод широко используется в организациях, ориентированных на открытые стандарты, и в рабочих процессах обработки данных.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение табличных данных из RTF для анализа в электронных таблицах ODS.
+* Подготовка отчетов правительства или НПО в форматах электронных таблиц, соответствующих открытым стандартам.
+* Управление результатами опросов в формате RTF в данных, ориентированных на электронные таблицы ODS.
+* Преобразование отформатированных списков и таблиц в редактируемые, общедоступные электронные таблицы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированные преобразования RTF в ODS в составе цифровых офисных пакетов.
+* Каналы миграции данных, поддерживающие открытые стандарты документов.
+* Модули преобразования, встроенные в веб-инструменты для создания отчетов.
+* Плановые архивные преобразования, обеспечивающие совместимость между системами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,31 @@ otherformats: XLTX XLSM EXCEL TXT SXC XLT ODS DIF FODS TSV XLAM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى FODS (جدول بيانات OpenDocument المسطح) يسمح بتضمين الرسوم البيانية الناقلة إلى ملفات جداول بيانات قياسية مفتوحة. FODS مثالي لسير العمل عبر المنصات وأتمتة الجداول البيانية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين الرسوم البيانية SVG في قوالب جداول البيانات مفتوحة المصدر.
+* مشاركة البعد البحثي أو البيانات المالية برسوم بيانية ناقلة بتنسيق FODS.
+* تصدير البيانات الأكاديمية والهندسية كجداول بيانات قابلة للتحرير ومستقلة عن المنصة.
+* توحيد لوحات المشاريع بتنسيق الوثيقة المفتوحة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأليف التلقائي" %}}
+
+* تحويل SVG إلى FODS تلقائيًا لأنابيب الإبلاغ.
+* تحديثات مجدولة لقوالب البيانات البحثية أو التشغيلية.
+* التكامل مع أطقم مكاتب متعددة المنصات تتطلب تنسيقات مفتوحة.
+* توليد مشتقات لوحات البيانات القائمة على SVG بشكل مفعل للتعاون في الفريق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

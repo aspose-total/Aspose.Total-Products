@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в WORDML (WordprocessingML) создает документы Word на основе XML с полностью встроенными векторными диаграммами. WORDML идеален для программной обработки документов, шаблонов и автоматизированных рабочих процессов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Программная генерация отчетов Word с встроенными визуальными элементами SVG.
+* Учебные и исследовательские шаблоны в XML для автоматизированного редактирования.
+* Стандартизированная документация проекта для рабочих процессов с контролем версий.
+* Архивирование интерактивного контента SVG в структурированном формате XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование SVG в WORDML для систем отчетности.
+* Плановый экспорт шаблонов на основе SVG в XML для автоматизации рабочего процесса.
+* Интеграция с API генерации документов и системами управления контентом.
+* Запуск генерации для динамических, программно управляемых документов Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

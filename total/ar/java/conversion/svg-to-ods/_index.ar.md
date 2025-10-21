@@ -47,7 +47,31 @@ otherformats: XLSB MD FODS XLTX XLAM DIF XLSM XLT XLTM ODS SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات SVG إلى ODS (جدول بيانات OpenDocument) يمكن تضمين الرسوم البيانية القائمة على النواة في جداول بيانات قياسية مفتوحة. ODS مثالي لتحليل البيانات عبر الأنظمة الأساسية، وإعداد التقارير، ولوحات التحكم التفاعلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين لوحات البيانات المالية القائمة على النواة في جداول بيانات ODS للتحليل.
+* مشاركة البيانات البحثية أو الهندسية مع رسوم بيانية قائمة على النواة في تنسيقات مفتوحة.
+* تصدير البيانات الأكاديمية والمشروعات كجداول بيانات قابلة للتحرير وغير معتمدة على النظام الأساسي.
+* توحيد لوحات تتبع المشروعات بتنسيق ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+* تحويل SVG إلى ODS تلقائيًا لأنابيب التقارير.
+* تصدير البيانات البحثية أو التشغيلية بانتظام مع الرسوم البيانية المضمنة.
+* التكامل مع حزم البرامج المكتبية مفتوحة المصدر التي تتطلب توافق الجداول.
+* توليد لوحات قائمة على النواة بناءً على SVG للتعاون في الفريق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

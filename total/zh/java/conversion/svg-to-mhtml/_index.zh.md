@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为MHTML（MIME HTML）可将交互式图形打包到单个Web存档文件中。这对于离线文档、与电子邮件兼容的图表和便携式矢量报告非常理想。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 为离线访问存档交互式SVG仪表板。
+* 发送嵌入MHTML电子邮件中的动态矢量可视化。
+* 内联矢量图解的便携式技术手册。
+* 创建可在无需服务器托管的情况下分发的与Web兼容的报告。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将SVG转换为MHTML，用于存档项目交付物。
+* 为企业使用定期生成离线矢量仪表板。
+* 与内容管理系统集成，以导出矢量可视化。
+* 在报告生成中实现自动化，确保格式一致性和可移植性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

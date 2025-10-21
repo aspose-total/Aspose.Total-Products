@@ -53,7 +53,31 @@ otherformats: ODTX OTT TEXT ODT DOT DOTX ODTM WORD FLATOPC WORDML RTF DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPTX в ODT (OpenDocument Text) позволяет использовать слайды для создания редактируемых текстовых документов. Это идеально подходит для создания письменных отчетов, резюме или редактируемой документации на основе слайдов PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование заметок слайдов в редактируемый текст для отчетов.
+* Создание документов ODT для академических или корпоративных резюме.
+* Преобразование презентаций проектов в общедоступные текстовые файлы.
+* Использование содержимого слайдов для написания политик и предложений.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированная генерация отчетов из презентаций PowerPoint.
+* Интеграция рабочего процесса с инструментами для работы с документами офисного пакета с открытым исходным кодом.
+* Преобразование презентаций продаж в редактируемые документы для внутреннего обзора.
+* Архивирование заметок PowerPoint в формате ODT для доступности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

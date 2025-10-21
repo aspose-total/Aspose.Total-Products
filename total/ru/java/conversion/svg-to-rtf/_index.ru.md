@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в RTF (Rich Text Format) позволяет встраивать векторные диаграммы в универсально поддерживаемые текстовые документы. RTF сохраняет форматирование в различных текстовых процессорах и операционных системах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Встраивание визуальных элементов SVG в кроссплатформенные отчеты или руководства.
+* Стандартизированные технические или образовательные документы с векторными диаграммами.
+* Переносимые шаблоны проектов с включенными диаграммами SVG.
+* Научные статьи или презентации, требующие совместимых текстовых форматов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование SVG в RTF для распространения документов.
+* Плановые обновления технических руководств с новыми визуальными элементами SVG.
+* Интеграция с системами управления контентом для доступа с различных платформ.
+* Вызываемая генерация документов RTF для офлайн или портативных рабочих процессов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

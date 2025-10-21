@@ -53,7 +53,31 @@ otherformats: DOTM RTF ODT FLATOPC DOTMX WORDML TEXT DOTMM DOTX WORD DOT OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى DOTM (قالب Word ممكّن للماكرو) يمكّن من إنشاء قوالب وثائق ديناميكية مدعومة بالسكربت. تستخدم الشركات DOTM لتأتيمن إنشاء الوثائق وتقارير الجيل استنادًا إلى بيانات العرض.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصميم قوالب Word قائمة على الماكرو من عروض PPS.
+* أتمتة النماذج التجارية المتكررة باستخدام VBA المضمن.
+* إنشاء قوالب قابلة لإعادة الاستخدام لتقارير الامتثال والجودة.
+* إنشاء سير العمل الذكي للوثائق مستمدة من عروض PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتيمن" %}}
+
+* إنشاء قوالب DOTM تولد تلقائيًا للاستخدام في المؤسسات.
+* التكامل مع أطر الأتمتة لإنشاء الوثائق.
+* تحديثات مجدولة للقوالب من آخر العروض.
+* تحويل دفعي لعدة ملفات PPS إلى قوالب ممكّنة للماكرو.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

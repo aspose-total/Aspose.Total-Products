@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na OTP (OpenDocument Presentation Template) umožňuje vytváření opakovaně použitelných šablon snímků s vektorovými diagramy. OTP je ideální pro standardizaci prezentací napříč týmy a projekty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Firemní šablony prezentací s využitím SVG dashboardů a ilustrací.
+* Vzdělávací šablony snímků s vestavěnou vektorovou grafikou.
+* Opakovaně použitelné marketingové šablony prezentující produkty.
+* Akademické nebo konferenční šablony prezentací pro škálovatelné vizuály.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná hromadná generace šablon SVG na OTP pro konzistentní snímky.
+* Naplánované aktualizace pro školení nebo firemní prezentace.
+* Integrace s automatizací pracovního postupu pro distribuci šablon napříč týmem.
+* Spouštěné vytváření interaktivních šablon snímků z živých dat SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

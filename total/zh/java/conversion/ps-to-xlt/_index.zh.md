@@ -49,7 +49,31 @@ otherformats: XLSM EXCEL XLTX TXT XLT DIF TSV XLSB XLTM ODS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为XLT（Excel模板）可让组织从静态的PostScript布局中创建可重复使用的电子表格格式。这确保了在重复报告、发票和财务报表中保持一致的样式和结构。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从基于PS的报告设计生成Excel模板。
+* 创建可重复使用的业务表单和数据表。
+* 在Excel交付内容中保持一致的品牌布局。
+* 从存档的PS文件构建公司标准模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于标准化报告模板的自动化PS到XLT转换。
+* 集成在内容管理系统中以便重复使用设计资产。
+* 批量为多个部门或分支创建模板。
+* 用于企业文档工作流程的动态XLT生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

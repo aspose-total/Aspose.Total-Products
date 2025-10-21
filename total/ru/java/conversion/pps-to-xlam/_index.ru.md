@@ -61,7 +61,31 @@ otherformats: XLSX XLT MARKDOWN FODS XLSM XLSB MHTML XLTM TSV XLTX DIF XLS SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в XLAM (Excel Add-In) позволяет встраивать данные, полученные из презентации, в макрос-возможные надстройки. Это преобразование идеально подходит для разработчиков и аналитиков, которые автоматизируют отчетность на основе Excel и нуждаются в интеграции данных из PowerPoint в расширения Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание надстроек XLAM с метриками на основе слайдов для автоматизированных отчетов.
+* Создание макро-панелей управления, получающих данные из презентации PPS.
+* Генерация надстроек для отслеживания живых KPI с использованием преобразованных значений презентации.
+* Интеграция содержимого PPS в продвинутые сценарии автоматизации Excel.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание XLAM из файлов презентаций отделов.
+* Интеграция в корпоративные системы автоматизации Excel.
+* Запланированное преобразование PowerPoint в XLAM для модулей живой отчетности.
+* Пакетное создание надстроек для динамических рабочих процессов визуализации данных.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

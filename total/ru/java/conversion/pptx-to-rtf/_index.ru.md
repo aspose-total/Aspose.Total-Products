@@ -53,7 +53,31 @@ otherformats: DOT TEXT DOTM WORD FLATOPC RTF RTFX RTFM ODT WORDML DOTX OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование PPTX в RTF (Rich Text Format) обеспечивает широкую совместимость для извлечения текста из презентации. Он широко используется для создания редактируемых документов, совместимых с различными платформами, сохраняя целостность форматирования.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение текста слайдов для редактирования в различных программах.
+* Обмен отформатированным содержимым PowerPoint между операционными системами.
+* Подготовка легких редактируемых версий презентаций.
+* Импорт заметок презентации в редакторы, поддерживающие RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPTX в RTF для библиотек документации.
+* Интеграция с инструментами управления контентом на основе RTF.
+* Пакетное извлечение текста из слайдов для рабочих процессов перевода.
+* Планирование архивирования презентаций PowerPoint в формате RTF для соблюдения требований.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

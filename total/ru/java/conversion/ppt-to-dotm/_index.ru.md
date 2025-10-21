@@ -53,7 +53,31 @@ otherformats: FLATOPC WORD DOTMM DOTMX WORDML DOTM RTF DOT ODT DOTX OTT TEXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в формат DOTM (Шаблон Word с поддержкой макросов) объединяет визуальные элементы PowerPoint с возможностями автоматизации Word. Шаблоны DOTM идеально подходят для автоматизации повторяющихся задач, таких как создание отчетов, заполнение контента и вставка данных.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Создание макросов в шаблонах Word на основе презентаций PowerPoint.
+* Автоматизация структур повторяющихся отчетов с использованием встроенных макросов.
+* Создание брендированных интеллектуальных шаблонов для повторяющейся корпоративной документации.
+* Оптимизация подготовки отчетов на основе макетов презентаций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое преобразование PPT в DOTM для интеллектуальных шаблонов документов.
+* Интеграция в корпоративные системы автоматизации с логикой VBA.
+* Плановое создание макросов в шаблонах для команд документации.
+* Пакетное преобразование для управления шаблонами в соответствии с требованиями соответствия.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

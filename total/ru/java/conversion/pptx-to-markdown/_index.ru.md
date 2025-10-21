@@ -61,7 +61,31 @@ otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS MARKDOWN XLSB MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование PPTX в Markdown превращает статические презентации в легкий текст, готовый к публикации в Интернете. Markdown предлагает простоту для обмена контентом, облегчая публикацию на блогах, платформах документации и статических веб-сайтах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Переиспользование слайдов PowerPoint в технической документации.
+* Публикация заметок к слайдам и контента на вики-страницах на основе Git.
+* Создание готовых к публикации в блоге резюме слайдов презентации.
+* Преобразование корпоративных презентаций в статьи базы знаний.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматический экспорт в Markdown из корпоративных учебных слайдов.
+* Интеграция с системами сборки документации, такими как Hugo или Jekyll.
+* Пакетная обработка для преобразования внутренних слайдов в посты Markdown.
+* Непрерывная интеграция для версионирования контента в формате Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

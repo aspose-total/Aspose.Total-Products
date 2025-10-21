@@ -61,7 +61,31 @@ otherformats: TSV XLSM DIF XLTM SXC XLT XLS EXCEL FODS XLSB XLTX XLAM ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملف RTF إلى XLS (تنسيق ملف بيانات Excel) يوفر وسيلة قوية لإعادة استخدام النصوص وبيانات الجداول من المستندات إلى تنسيق جدول بيانات مدعوم على نطاق واسع. إنه مفيد بشكل خاص للمؤسسات التي تستخدم بيئات Microsoft Excel 97-2003.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل تقارير تم إنشاؤها بتنسيق RTF إلى جداول بيانات Excel القديمة.
+* تصدير سجلات البيانات المعتمدة على RTF إلى XLS لأنظمة المحاسبة.
+* إعادة استخدام محتوى المستند المنسق في ماكروهات Excel أو صيغ.
+* إعداد بيانات الأعمال الأرشيفية لتحليلها في جداول بيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل دفعة من RTF إلى XLS لتيسير سير العمل القديمة.
+* دمج مع أنظمة تقارير المؤسسات باستخدام إصدارات Excel القديمة.
+* تحويل المستندات تلقائيًا في مشاريع ترقيم البيانات.
+* إنشاء إخراج XLS المجدول لتقارير الامتثال.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

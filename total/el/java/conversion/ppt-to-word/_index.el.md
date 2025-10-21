@@ -53,7 +53,31 @@ otherformats: DOT RTF DOTX FLATOPC WORDX ODT DOTM TEXT WORDML WORDM WORD OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPT (PowerPoint) σε WORD (Έγγραφο Microsoft Word) παρέχει ένα ομαλό τρόπο επαναχρησιμοποίησης διαφανειών σε πλήρως μορφοποιημένα, επεξεργάσιμα έγγραφα. Αυτή η μετατροπή είναι ιδανική για τη δημιουργία επαγγελματικών αναφορών, υλικών εκπαίδευσης ή περιλήψεων έργων απευθείας από παρουσιάσεις.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή διαφανειών PowerPoint σε επαγγελματικές αναφορές Word.
+* Δημιουργία λεπτομερών εγγράφων από συνοψισμένα σημεία παρουσίασης.
+* Δημιουργία επεξεργάσιμων εκδόσεων περιεχομένου διαφανειών για περαιτέρω τελειοποίηση.
+* Προετοιμασία υλικού εκ μέρους, προτάσεων και εγγράφων έτοιμων για πελάτες.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή PPT σε WORD σε συστήματα επιχειρηματικής νοημοσύνης.
+* Ενσωμάτωση με εργαλεία δημιουργίας εγγράφων για καθημερινές αναφορές.
+* Μαζική επεξεργασία αρχείων PowerPoint σε επεξεργάσιμες μορφές Word.
+* Προγραμματισμένες εξαγωγές για τεκμηρίωση έργων ή παραδοτέα προς πελάτες.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -102,6 +126,6 @@ otherformats: DOT RTF DOTX FLATOPC WORDX ODT DOTM TEXT WORDML WORDM WORD OTT
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

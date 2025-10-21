@@ -130,7 +130,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων SVG (Κλιμακούμενα Γραφικά Διανύσματα) σε DOCM (Έγγραφο Με Ενεργοποιημένο Μακρό του Word) επιτρέπει την ενσωμάτωση διαδραστικών διαγραμμάτων διανυσμάτων σε εγγράφα Word υποστηρίζοντας παράλληλα μακρό για αυτοματισμό. Το DOCM είναι ιδανικό για δυναμικές αναφορές, πρότυπα και εκπαιδευτικό υλικό.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Διαδραστικά εγχειρίδια εκπαίδευσης με διαγράμματα SVG και πλοήγηση με ενεργοποιημένα μακρό.
+* Επιχειρηματικές αναφορές που ενσωματώνουν κινούμενα ή διαδραστικά διανυσματικά γραφήματα.
+* Ακαδημαϊκές ερευνητικές εργασίες που χρησιμοποιούν δυναμικές οπτικές SVG με μακρό.
+* Πρότυπα για προτάσεις έργων ή εργασιακές ροές εταιρικών προτάσεων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μαζική μετατροπή διαγραμμάτων SVG σε DOCM για εταιρική αναφορά.
+* Προγραμματισμένη δημιουργία προτύπων με ενεργοποιημένα μακρό από οπτικά SVG.
+* Ενσωμάτωση με συστήματα διαχείρισης εγγράφων για διαδραστική αναφορά.
+* Ενεργοποιημένη μετατροπή SVG σε DOCM για δυναμικό περιεχόμενο εκπαίδευσης.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

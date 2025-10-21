@@ -61,7 +61,31 @@ otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX转换为XLSX（现代Excel工作簿）可提供结构化、可编辑和可共享的数据格式。它弥合了演示文稿和电子表格之间的差距，支持协作、可视化和高级分析。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将幻灯片图表转换为可编辑的Excel可视化内容。
+* 将PowerPoint关键绩效指标导出为结构化数据表。
+* 为基于Excel的仪表板准备演示文稿报告。
+* 在团队间共享更新后的演示文稿数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业报告的批量PPTX至XLSX转换。
+* 自动化流水线集成PowerPoint与Excel分析。
+* 定期业务洞察的计划转换。
+* 集成到Power Automate等工作流自动化套件中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

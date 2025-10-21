@@ -121,7 +121,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von SVG in PPS (PowerPoint Show) ermöglicht die Erstellung von Folienpräsentationen, die direkt im Präsentationsmodus mit eingebetteten Vektorgrafiken geöffnet werden, ideal für nahtlose Ansicht.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Interaktive Unternehmenspräsentationen als PowerPoint-Präsentationen.
+* Bildungsdiashows mit SVG-Diagrammen zur direkten Anzeige.
+* Marketing- oder Produktvorführungen als sofort einsatzbereite Präsentationen verpackt.
+* Akademische Vorlesungsfolien für sofortige Präsentation ohne Bearbeitung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Stapel-SVG-zu-PPS-Konvertierung für die Präsentationsauslieferung.
+* Geplante Exporte von SVG-basierten Folien im PPS-Format.
+* Integration mit Inhaltverteilungssystemen für sofort einsatzbereite Präsentationen.
+* Ausgelöste Foliengenerierung für Schulungs- oder Marketingkampagnen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

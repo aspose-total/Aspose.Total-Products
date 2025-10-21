@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为ODT（OpenDocument Text）可以将矢量图形嵌入跨平台文本文档中。ODT确保视觉保真度，同时与LibreOffice、OpenOffice和其他套件兼容。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 包含SVG图表的技术手册和项目报告。
+* 带有嵌入式矢量插图的学术论文。
+* 使用可伸缩SVG视觉元素的营销或商业文档。
+* 分发无格式问题的跨平台手册和指南。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于定期文档的批量SVG到ODT转换。
+* 使用新的SVG视觉元素进行定期模板更新。
+* 与内容管理系统集成，实现多平台分发。
+* 用于生成教学或培训材料的触发式生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

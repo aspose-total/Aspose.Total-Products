@@ -61,7 +61,31 @@ otherformats: XLT ODS XLTX XLTM EXCEL SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى تنسيق Excel يسمح للمستخدمين بتحويل بيانات العرض البصري إلى جداول بيانات قابلة للتحرير بالكامل. يدعم هذا التحويل تحسين التلاعب بالبيانات وتحليل الدوران والدمج في أدوات سير العمل الخاصة بالأعمال.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل جداول العروض التقديمية إلى Excel للحسابات المتقدمة.
+* إنشاء متتبعي الأداء من تقارير الشرائح التنفيذية.
+* إنشاء لوحات تحكم قابلة للتحرير في Excel من الشرائح الختامية.
+* إعداد النماذج المالية والتوقعات من البيانات البصرية للعروض التقديمية.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل مجدول لتقارير PPS إلى قوالب تحليلية معتمدة على Excel.
+* الدمج في محركات السحابة للتعاون على البيانات المشتركة.
+* إنشاء Excel بشكل آلي من شرائح الاجتماعات أو مؤشرات الأداء الرئيسية.
+* تحويل بالجملة للأرشفة والمقارنة عبر فترات التقرير.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

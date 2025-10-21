@@ -53,7 +53,31 @@ otherformats: DOCM FLATOPC WORDML ODT DOCX OTT TEXT WORD DOT RTF DOTM DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в DOC (Microsoft Word Document) помогает пользователям повторно использовать визуальные презентации в виде редактируемых текстовых документов. Это преобразование идеально подходит для создания подробных отчетов, проектных предложений или документации на основе содержимого PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование презентаций компании в формальные проектные отчеты.
+* Генерация подробной бизнес-документации на основе кратких слайдов.
+* Преобразование учебных слайдов в лекционные заметки или материалы для печати.
+* Подготовка руководств или гидов на основе визуальных презентаций.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированная генерация отчетов DOC из повторяющихся слайдов PowerPoint.
+* Интеграция в системы управления корпоративным контентом.
+* Запланированные преобразования PPS в DOC для публикации отчетов.
+* Пакетное преобразование для архивирования и ведения записей в текстовом формате.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

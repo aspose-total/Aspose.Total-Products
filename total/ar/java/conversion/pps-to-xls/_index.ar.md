@@ -61,7 +61,31 @@ otherformats: FODS XLAM XLTM XLSM SXC MARKDOWN XLSX XLS TSV ODS EXCEL MHTML DIF 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى XLS (جدول عمل Excel 97-2003) يضمن التوافق مع الأنظمة القديمة مع تمكين تحرير البيانات وتخزينها بناءً على جداول البيانات. يعتبر هذا التحويل مثاليًا للبيئات التي تستخدم الإصدارات القديمة من Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج البيانات من شرائح PPS للتوافق مع صيغ Excel القديمة.
+* إعداد تقارير XLS للجهات الحكومية والتعليمية.
+* تحويل الرسوم التسويقية إلى تقارير جدولية متوافقة مع الإصدارات السابقة.
+* إنشاء بطاقات درجات XLS قابلة للتحرير من ملخصات مبنية على PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي آلي للامتثال لصيغة XLS.
+* دمجه في سير العمل للبرامج المحاسبية أو نظم معلومات الإدارة القديمة.
+* إنشاء أرشيفات XLS من مجموعات العروض التقديمية المتكررة.
+* استخراج الشرائح المجدول لمشاركة البيانات XLS عبر الإدارات.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

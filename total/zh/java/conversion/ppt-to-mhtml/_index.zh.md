@@ -61,7 +61,31 @@ otherformats: EXCEL XLSX XLSB FODS DIF ODS XLT MARKDOWN SXC XLTM XLTX XLAM MHTML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）文件转换为MHTML（MIME HTML）格式会创建您演示文稿的单个、自包含的网页版本。这种转换非常适合通过电子邮件分发幻灯片，将演示文稿嵌入在线展示，或者在不需要PowerPoint软件的情况下维护与浏览器兼容的存档。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将PowerPoint演示文稿发布为可在Web上访问的MHTML页面。
+* 在企业内部网和学习管理系统中共享交互式幻灯片。
+* 为合规性或长期存储创建单个HTML存档文件。
+* 将公司演示文稿直接嵌入网站或内部仪表板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于在线课程交付的自动化PPT到MHTML转换。
+* 与CMS平台集成以嵌入演示文稿。
+* 用于企业通信门户的批处理。
+* 实时呈现PowerPoint内容以供基于Web的查看。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

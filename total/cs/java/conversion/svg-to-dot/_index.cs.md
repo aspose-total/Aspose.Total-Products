@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na DOT (šablona Word 97-2003) umožňuje vytváření opakovaně použitelných dokumentů s vloženými vektorovými diagramy kompatibilními s staršími verzemi Wordu. DOT zajišťuje konzistentní formátování napříč starými systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Standardizované šablony zpráv s SVG diagramy pro staré dokumenty ve Wordu.
+* Šablony návrhů projektů s vizuálními informačními paneli.
+* Opakovaně použitelné akademické nebo výukové šablony s využitím SVG vizuálů.
+* Šablony historických dokumentů pro obchodní nebo inženýrské pracovní postupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická hromadná generace šablon SVG na DOT pro staré pracovní postupy ve Wordu.
+* Plánované aktualizace šablon s novými SVG vizuály.
+* Integrace do systémů pro správu dokumentů vyžadujících zpětně kompatibilní šablony.
+* Spouštěný převod pro opakující se zprávy a opakovaně použitelné šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

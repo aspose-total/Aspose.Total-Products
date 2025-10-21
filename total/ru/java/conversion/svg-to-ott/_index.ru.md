@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG в OTT (шаблон текстового документа OpenDocument) создает многоразовые шаблоны текстовых документов с встроенными векторными диаграммами. OTT обеспечивает согласованность между проектами и рабочими процессами команды.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Стандартизированные шаблоны отчетов с визуальными элементами SVG для бизнес-команд.
+* Шаблоны академических или учебных документов с встроенными диаграммами.
+* Шаблоны маркетинговых или проектных документаций для обеспечения согласованного форматирования.
+* Многоразовые руководства и инструкции, использующие масштабируемую графику SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование диаграмм SVG в шаблоны OTT.
+* Плановое обновление многоразовых шаблонов документов с новыми визуальными элементами.
+* Интеграция с системами контента для рабочих процессов на основе шаблонов.
+* Автоматическое создание интерактивных текстовых шаблонов для совместной работы команды.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

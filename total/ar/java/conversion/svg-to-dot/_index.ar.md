@@ -130,7 +130,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى DOT (قالب Word 97-2003) يسمح بإنشاء قوالب مستند قابلة لإعادة الاستخدام مع رسوم بيانية متجهة مضمنة متوافقة مع إصدارات Word القديمة. يضمن DOT تنسيقًا متسقًا عبر الأنظمة القديمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* قوالب تقارير موحدة مع رسوم SVG لمستندات Word القديمة.
+* قوالب اقتراح مشروع تضم لوحات تحكم بصرية.
+* قوالب أكاديمية أو تعليمية قابلة لإعادة الاستخدام باستخدام رسوم SVG.
+* قوالب مستندات تاريخية لسير العمل في المجال التجاري أو الهندسي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+* توليد قوالب دفعة SVG-to-DOT تلقائيًا لسير العمل في Word القديمة.
+* تحديثات مجدولة للقوالب برسوم SVG جديدة.
+* دمجها في أنظمة إدارة المستندات التي تتطلب قوالب متوافقة مع الإصدارات القديمة.
+* تحويل مُشغّل لتقارير متكررة وقوالب قابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ otherformats: DOTM TEXT WORDX OTT WORDML FLATOPC WORD DOT DOTX WORDM ODT RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى تنسيق Word يمكن المستخدمين من تحويل العروض البصرية إلى وثائق Word شاملة. يدعم هذا العملية إعادة استخدام المحتوى لإعداد التقارير والوثائق والتحرير التعاوني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء تقارير تجارية رسمية من شرائح العرض.
+* تحويل عروض العرض إلى مقترحات قابلة للمشاركة بناءً على Word.
+* إنشاء وثائق من عروض تحديث المشروع.
+* إنتاج ملفات Word قابلة للتحرير للتواصل مع العملاء.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+* تحويل الشرائح إلى Word بشكل آلي لأنظمة التقارير الداخلية.
+* دمجه في سير العمل لنشر المحتوى.
+* تصدير Word المجدول لعروض المشروع أو المبيعات.
+* معالجة دفعية لعدة ملفات PPS إلى وثائق قابلة للتحرير.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

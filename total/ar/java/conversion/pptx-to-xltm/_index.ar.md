@@ -61,7 +61,31 @@ otherformats: TSV XLSM FODS MARKDOWN XLTM XLTX XLT DIF XLS EXCEL MHTML XLAM ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPTX إلى XLTM (قالب إكسل يدعم التشغيل الماكرو) يساعد في أتمتة المهام البيانية المتكررة عن طريق تضمين الماكروهات في قوالب جداول بيانات قابلة لإعادة الاستخدام مستمدة من العروض التقديمية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصميم قوالب تقارير مُتمتة من بيانات العروض التقديمية.
+* إنشاء لوحات تحكم إكسل قابلة لإعادة الاستخدام تعمل بالماكرو.
+* توحيد قوالب عمليات الأعمال من شرائح بوربوينت.
+* تبسيط تقارير الأداء الرئيسية المتكررة من خلال الماكروهات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دُفعي من PPTX إلى XLTM لدورات التقارير الشهرية.
+* دمج مع سير العمل الآلي لإنشاء جداول بيانات تلقائية.
+* إدارة القوالب الشركية لفرق التحليل.
+* تحديثات مجدولة لقوالب الماكرو من بيانات بوربوينت.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

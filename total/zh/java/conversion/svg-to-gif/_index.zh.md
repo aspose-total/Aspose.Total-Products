@@ -143,7 +143,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG（可缩放矢量图形）文件转换为GIF格式，为网络和社交媒体平台解锁动态视觉叙事。 GIF保留矢量清晰度，同时实现动画效果，使其非常适合用于说明图形，营销视觉和轻量级网络动画。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 用于数字营销活动的动画信息图表。
+* 用于在线课程和电子学习门户的教育图表。
+* 电子商务网站上互动产品功能亮点展示。
+* 具有流畅过渡效果的社交媒体横幅和促销视觉。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于营销自动化工具的批量SVG到GIF渲染。
+* 为学习管理系统定期生成GIF教程。
+* 用于显示交互式图表的Web应用程序的自动转换。
+* 集成到持续集成/持续部署流水线中，定期更新视觉内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

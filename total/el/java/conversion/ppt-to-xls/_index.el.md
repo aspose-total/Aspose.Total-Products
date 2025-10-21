@@ -61,7 +61,31 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS XLS XLTX XLSX MARKDOWN DIF SXC ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPT (PowerPoint) σε XLS (Excel 97–2003 Workbook) επιτρέπει τη συμβατότητα με συστήματα παλαιότερης έκδοσης διατηρώντας την ακεραιότητα των δεδομένων σε πίνακες και αριθμούς. Αυτή η μετατροπή υποστηρίζει οργανισμούς που χρησιμοποιούν παλαιότερες εκδόσεις του Microsoft Office ή χρειάζονται αντιστρόφως συμβατές αναφορές.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+* Εξαγωγή δεδομένων διαφανειών για χρήση σε παλαιά συστήματα Excel.
+* Δημιουργία αντιστρόφως συμβατών υπολογιστικών φύλλων από αναφορές PowerPoint.
+* Διαμοιρασμός δεδομένων έτοιμων για ανάλυση με ομάδες που χρησιμοποιούν παλαιότερες εκδόσεις του Microsoft Office.
+* Αρχειοθέτηση αποτελεσμάτων παρουσιάσεων σε μορφή XLS που υποστηρίζεται διεθνώς.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτοματοποιημένη μετατροπή PPT σε XLS για επιχειρησιακά αρχεία αποθήκευσης.
+* Ενσωμάτωση σε ροές εργασίας που απαιτούν εξόδους αρχείων Excel παλαιάς έκδοσης.
+* Παρτίδες επεξεργασίας για συμβατότητα δεδομένων μεταξύ τμημάτων.
+* Προγραμματισμένες μετατροπές αναφορών PowerPoint για διασυνοριακή συμβατότητα συστημάτων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

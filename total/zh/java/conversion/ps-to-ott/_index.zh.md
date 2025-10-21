@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为OTT（OpenDocument Text Template）可帮助团队创建标准化、可重复使用的文本文档模板。OTT模板非常适用于重复报告、信函或表单，利用PostScript布局实现一致的格式。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从基于PS的报告和文档创建可重复使用的文本模板。
+* 标准化信函、表单和团队内部报告。
+* 将PS生成的手册转换为可编辑的OTT模板。
+* 为开源环境中的重复文档准备PostScript布局。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量在企业环境中将PS转换为OTT以建立模板库。
+* 集成到文档管理系统中，实现可重复使用模板的部署。
+* 用于将PostScript文件自动转换为OTT以实现重复使用的自动化工作流程。
+* 从PS布局中提取和格式化的AI驱动文本模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

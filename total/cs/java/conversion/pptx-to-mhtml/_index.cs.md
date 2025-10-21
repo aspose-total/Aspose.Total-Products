@@ -61,7 +61,31 @@ Při převodu souboru PPTX na MHTML můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPTX na MHTML (webový archiv) umožňuje offline přístup k celým prezentacím v jediném souboru v prohlížeči. Je ideální pro distribuci interaktivního obsahu bez nutnosti PowerPointu nebo externího softwaru.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření verzí prezentací PowerPointu pro zobrazení na webu.
+* Sdílení samostatných vzdělávacích prezentací prostřednictvím e-mailu.
+* Ukládání interaktivních snímků pro offline firemní školení.
+* Vkládání prezentací produktových demostrací do firemních intranetových stránek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze PPTX na MHTML pro repozitáře e-learningu.
+* Automatizované publikování marketingových prezentací jako souborů MHTML.
+* Archivace firemních prezentací pro přehrávání v prohlížeči.
+* Integrace s systémy doručování dokumentů pro zajištěný offline přístup.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG na DOTX (šablony Word Open XML) vytváří moderní, opakovaně použitelné šablony dokumentů s vestavěnými vektorovými diagramy. DOTX je lehký, podporuje nové funkce Wordu a je ideální pro standardizované reporty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Opakovaně použitelné obchodní reportovací šablony s grafy založenými na SVG.
+* Standardizované akademické nebo výukové šablony s využitím vizuálních prvků SVG.
+* Vytváření marketingových a operačních šablon s vektorovými diagramy.
+* Šablony pro řízení projektů pro konzistentní formátování a vizuální jasnost.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánované generování šablon SVG do DOTX pro opakující se reporty.
+* Automatizovaný proces aktualizace opakovaně použitelných šablon dokumentů s novými vizuály.
+* Integrace s firemními dokumentačními systémy pro šablonově řízené pracovní postupy.
+* Spouštěný převod pro vytváření interaktivních a standardizovaných šablon založených na SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

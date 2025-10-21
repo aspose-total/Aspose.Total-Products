@@ -49,7 +49,31 @@ otherformats: ODS TXT EXCEL XLTX XLSM XLT SXC XLTM DIF TSV XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 PS（PostScript）文件转换为 MD（Markdown）可简化在版本控制和面向网络的环境中重用 PostScript 内容。MD 文件提供了轻量级、可编辑的格式，非常适合协作文档。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于 PostScript 的笔记和报告转换为 MD，以便存储在 Git 仓库中。
+* 在技术博客、文档门户或内部知识库中发布 PS 内容。
+* 以 Markdown 格式准备学术或研究报告。
+* 将基于 PS 的教程转换为与平台无关的 Markdown 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于软件文档项目的批量 PS 到 MD 转换。
+* 与 CI/CD 流水线集成，实现自动化文档更新。
+* 从 PS 存档生成基于云的 Markdown。
+* 从 PS 布局中提取和格式化的 AI 动力 Markdown。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

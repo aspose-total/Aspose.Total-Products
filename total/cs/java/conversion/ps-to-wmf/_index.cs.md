@@ -57,7 +57,31 @@ Pomocí API můžete také otočit výstupní obrázek WMF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PS (PostScript) na formát WMF (Windows Metafile) umožňuje vytváření vektorové grafiky vysoké kvality kompatibilní s aplikacemi Microsoft Office a staršími aplikacemi pro Windows. Tím je zajištěna škálovatelná grafika s přesnou věrností PostScriptu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vkládání diagramů PS do dokumentů PowerPoint, Word a Excel.
+* Převádění technických vizuálů PostScriptu na vektorovou grafiku kompatibilní s Windows.
+* Příprava marketingových nebo obchodních grafů pro nástroje pro generování zpráv založené na Windows.
+* Migrace ilustrací PostScriptu do starších prostředí Windows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná hromadná konverze PS na WMF pro firemní pracovní postupy s dokumenty.
+* Integrace s automatizačními potrubími aplikací Office.
+* Plánovaná konverze zpráv založených na PS pro prezentaci nebo tisk.
+* Optimalizace vektorů v cloudu pro generování formátu WMF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

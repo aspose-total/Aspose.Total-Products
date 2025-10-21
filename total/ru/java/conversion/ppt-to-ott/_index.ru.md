@@ -53,7 +53,31 @@ otherformats: DOTM DOTX DOT OTTX WORDML WORD RTF OTT FLATOPC TEXT OTTM ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в формат OTT (OpenDocument Text Template) позволяет бизнесу и образовательным учреждениям создавать стандартизированные, многократно используемые шаблоны на основе содержимого слайдов. Файлы OTT обеспечивают согласованность стиля, брендинга и структуры документов в организационных отчетах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание редактируемых текстовых шаблонов из макетов PowerPoint для документации компании.
+* Стандартизация корпоративных отчетов и предложений с использованием шаблонов OTT.
+* Создание многократно используемых образовательных шаблонов из учебных презентаций.
+* Переиспользование структур слайдов для рабочих процессов публикации в открытом формате.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование из PPT в OTT для создания брендовых шаблонов.
+* Интеграция в системы производства контента с открытым исходным кодом.
+* Пакетная обработка корпоративных слайдов в стандартизированные шаблоны документов.
+* Плановое преобразование для поддержания согласованности в междепартаментальных коммуникациях.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

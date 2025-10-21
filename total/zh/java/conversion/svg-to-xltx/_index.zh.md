@@ -49,7 +49,31 @@ otherformats: SXC XLSB TXT DIF EXCEL XLSM FODS XLTM TSV ODS MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为XLTX（Excel Open XML模板）可创建现代、可重复使用的电子表格模板，具有可伸缩的矢量图形。XLTX与较新版本的Excel兼容，支持不带宏的干净、轻量级模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 使用SVG可视化仪表板创建可重复使用的商业智能模板。
+* 为企业团队制定标准化的人力资源或运营报告模板。
+* 结合交互式SVG图表的教育或研究模板。
+* 使用嵌入式矢量图形的营销活动绩效模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从SVG仪表板自动生成XLTX模板，用于企业报告。
+* 定期更新以保持最新数据可视化的新鲜、可重复使用的模板。
+* 与自动化报告流水线集成，用于基于模板的工作流程。
+* 将实时SVG仪表板触发转换为XLTX模板供团队使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

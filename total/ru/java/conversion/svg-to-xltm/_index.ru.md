@@ -47,7 +47,31 @@ otherformats: TSV ODS EXCEL XLSB TXT XLSM DIF FODS MD XLTM XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в XLTM (Excel Macro-Enabled Template) позволяет создавать многоразовые шаблоны, объединяющие векторную графику с макросами VBA для автоматизации. Идеально подходит для интерактивных отчетов, панелей управления и шаблонов рабочего процесса.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Макрос-включенные шаблоны управления проектами с встроенными диаграммами SVG.
+* Многоразовые финансовые панели с интерактивными макросами для автоматизированных расчетов.
+* Шаблоны отчетов в области образования или исследований с использованием визуализаций SVG с улучшениями VBA.
+* Операционные шаблоны рабочего процесса, интегрирующие динамические векторные диаграммы и макросы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование SVG в XLTM для повторяющихся макрос-включенных шаблонов отчетов.
+* Плановое обновление шаблонов с новыми данными SVG и встроенными макросами.
+* Интеграция в платформы автоматизации рабочего процесса, требующие интерактивных шаблонов.
+* Запуск конвейеров преобразования для интерактивных панелей управления и операционных отчетов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

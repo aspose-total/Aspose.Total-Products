@@ -47,7 +47,31 @@ Während Sie eine SVG-Datei in FODS konvertieren, können Sie Ihrem Ausgabe-FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG in FODS (Flat OpenDocument Spreadsheet) ermöglicht das Einbetten von Vektorgrafiken in Tabellendateien im offenen Standard. FODS eignet sich ideal für plattformübergreifende Workflows und die Automatisierung von Tabellenkalkulationen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Einbetten von SVG-Diagrammen in Open-Source-Tabellenvorlagen.
+* Teilen von Forschungs- oder Finanzdaten mit Vektorgrafiken im FODS-Format.
+* Export von akademischen und technischen Daten als bearbeitbare, plattformunabhängige Tabellenkalkulationen.
+* Standardisierung von Projekt-Dashboards im offenen Dokumentenformat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte SVG-zu-FODS-Konvertierung für Berichtspipelines.
+* Geplante Aktualisierungen für Forschungs- oder betriebliche Tabellenvorlagen.
+* Integration mit plattformübergreifenden Bürosuiten, die offene Formate erfordern.
+* Auslösen der Generierung von SVG-basierten Tabellendashboards für die Teamzusammenarbeit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

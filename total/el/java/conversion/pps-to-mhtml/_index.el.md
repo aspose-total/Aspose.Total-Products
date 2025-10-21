@@ -61,7 +61,31 @@ otherformats: TSV DIF ODS EXCEL XLT MARKDOWN XLS XLTM XLSM MHTML XLSB XLAM XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε MHTML (Web Archive) επιτρέπει την αποθήκευση ολοκληρωμένων σελιδοδεικτών ως μονοσέλιδα αρχεία web που περιέχουν ενσωματωμένα μέσα. Αυτό είναι ιδιαίτερα χρήσιμο για την κοινοποίηση διαδραστικών παρουσιάσεων μέσω email ή εσωτερικών πυλών δικτύου.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Δημιουργία web-αρχειοθετημένων εκδόσεων διαφανειών PowerPoint για προβολή στον περιηγητή.
+* Συσκευασία παρουσιάσεων σε μονοσέλιδα αρχεία MHTML για κοινή χρήση χωρίς σύνδεση.
+* Μετατροπή διαφανειών για ενσωμάτωση σε συστήματα ηλεκτρονικής μάθησης.
+* Διατήρηση οπτικών στοιχείων και animation του PowerPoint μέσα σε αρχεία συμβατά με το web.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Προγραμματισμένη δημιουργία MHTML για ψηφιακές πλατφόρμες μάθησης.
+* Ενσωμάτωση σε εσωτερικούς πυλών δικτύου για κεντρική πρόσβαση σε παρουσιάσεις.
+* Αυτοματοποιημένη μετατροπή σε web-archive για εσωτερική τεκμηρίωση.
+* Μαζικές εξαγωγές MHTML για αποθετήρια μάρκετινγκ και γνώσεων.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

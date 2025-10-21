@@ -47,7 +47,31 @@ otherformats: MD SXC DIF XLSB TSV EXCEL XLAM XLT ODS XLSM XLTX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в XLAM (Excel Add-in Macro) позволяет разработчикам встраивать векторные диаграммы и интерактивные диаграммы в макрос-возможные надстройки Excel. XLAM идеально подходит для настройки автоматизации Excel с богатым визуальным контентом.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание надстроек Excel с интерактивными SVG панелями управления для бизнес-аналитики.
+* Встраивание SVG диаграмм в макрос-возможные финансовые или операционные инструменты.
+* Академические или исследовательские шаблоны Excel с автоматизированной визуализацией SVG.
+* Улучшение инструментов отчетности динамическими векторными диаграммами в надстройках.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование SVG в XLAM для регулярного обновления надстроек Excel.
+* Плановое создание макрос-возможных надстроек с обновленными векторными визуалами.
+* Интеграция с автоматизацией рабочего процесса предприятия для предоставления интерактивных инструментов Excel.
+* Запуск конвейеров преобразования для динамических панелей управления в надстройках.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

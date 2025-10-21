@@ -61,7 +61,31 @@ otherformats: XLS ODS XLT MARKDOWN FODS XLAM SXC MHTML XLSM XLTX XLTM XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPTX σε SXC (StarOffice Calc Spreadsheet) επιτρέπει βελτιωμένη αλληλεπιδραστικότητα μεταξύ δεδομένων παρουσιάσεων και παλαιών εργαλείων υπολογιστικών φύλλων. Ιδανικό για επιχειρήσεις που χρησιμοποιούν το StarOffice ή παρόμοια περιβάλλοντα βασισμένα σε OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+* Εξαγωγή πίνακα δεδομένων από διαφάνειες PowerPoint σε υπολογιστικά φύλλα.
+* Κοινοποίηση αναλύσεων παρουσιάσεων σε χρήστες του StarOffice.
+* Προετοιμασία αρχειοθετικών υπολογιστικών φύλλων από εταιρικές διαφάνειες.
+* Επεξεργασία και ανάλυση μετρήσεων παρουσίασης σε μορφή SXC.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή PPTX σε SXC για αποθετήρια εγγράφων.
+* Αυτοματοποιημένες ροές εξαγωγής για παλαιά γραφεία.
+* Ενσωμάτωση με συστήματα επιχειρησιακής αναφοράς.
+* Προγραμματισμένες μετατροπές για συνεργασία σε πολλές πλατφόρμες.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

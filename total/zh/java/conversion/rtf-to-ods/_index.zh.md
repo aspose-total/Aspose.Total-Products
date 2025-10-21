@@ -61,7 +61,31 @@ otherformats: XLTM DIF TSV XLSB XLTX XLAM FODS XLSM XLS EXCEL XLSX SXC ODS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF转ODS（OpenDocument电子表格）转换提供了一种高效的方法，可以将结构化文档内容转换为与LibreOffice Calc和其他符合ODF标准的平台兼容的电子表格准备数据。它被广泛应用于遵循开放标准的组织和数据处理工作流程中。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 从RTF中提取表格数据以在ODS电子表格中进行分析。
+* 在开放标准电子表格格式中准备政府或NGO报告。
+* 在数据驱动的ODS表格中管理RTF调查输出。
+* 将格式化的列表和表格转换为可编辑、可共享的电子表格。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在数字办公套件内自动化的RTF到ODS转换。
+* 支持开放文档标准的数据迁移管道。
+* 嵌入在基于Web的报告工具中的转换模块。
+* 定期的归档转换，确保系统间的互操作性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

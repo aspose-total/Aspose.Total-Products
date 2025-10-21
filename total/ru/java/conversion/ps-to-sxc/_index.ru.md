@@ -47,7 +47,31 @@ otherformats: FODS XLT SXC XLAM TXT XLTX XLSM XLTM MD EXCEL DIF ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PS (PostScript) в SXC (таблицы и диаграммы StarOffice/Calc) позволяет использовать структурированные таблицы и диаграммы PostScript в устаревших приложениях OpenOffice или StarOffice. Это обеспечивает переносимость данных между старыми средами электронных таблиц с открытым исходным кодом.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Извлечение финансовых или операционных таблиц из отчетов PS в электронные таблицы SXC.
+* Преобразование инженерных или экспериментальных данных из диаграмм PostScript для анализа.
+* Подготовка файлов электронных таблиц совместимых со старыми версиями из макетов PS.
+* Преобразование документов PS в шаблоны электронных таблиц для инструментов с открытым исходным кодом.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PS в SXC для архивирования или использования в устаревших системах.
+* Интеграция в конвейеры ETL для структурированного анализа электронных таблиц.
+* Автоматизированное извлечение таблиц и диаграмм из макетов PS.
+* Облачное преобразование для совместных сред электронных таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,31 @@ Al convertir un archivo SVG a FODS, también puede agregar una marca de agua a s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de SVG a FODS (Flat OpenDocument Spreadsheet) permite incrustar gráficos vectoriales en archivos de hojas de cálculo de estándar abierto. FODS es ideal para flujos de trabajo multiplataforma y automatización de hojas de cálculo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Incrustar diagramas SVG en plantillas de hojas de cálculo de código abierto.
+* Compartir datos de investigación o financieros con visuales vectoriales en formato FODS.
+* Datos académicos e ingenieriles exportados como hojas de cálculo editables e independientes de la plataforma.
+* Cuadros de mando de proyectos estandarizados en formato de documento abierto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión automatizada de SVG a FODS para canalizaciones de informes.
+* Actualizaciones programadas para plantillas de hojas de cálculo de investigación u operativas.
+* Integración con suites de oficina multiplataforma que requieren formatos abiertos.
+* Generación activada de cuadros de mando de hojas de cálculo basados en SVG para colaboración en equipo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

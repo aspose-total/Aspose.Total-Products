@@ -61,7 +61,31 @@ otherformats: XLSM XLAM SXC MARKDOWN XLSB ODS FODS DIF TSV MHTML EXCEL XLS XLTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى XLSX (بيانات Excel Open XML) يوفر تنسيق جدول بيانات حديث ومرن ومتوافق تمامًا للتحليل والتعاون. مثالي لمشاركة السحابة وعمليات البيانات في الوقت الحقيقي.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل المقاييس المعتمدة على PowerPoint إلى دفاتر عمل Excel تعاونية.
+* إنشاء لوحات تحكم XLSX من العروض التنفيذية.
+* استخراج بيانات الشرائح للدمج في تحليلات Microsoft 365.
+* إنشاء أوراق مالية قابلة للتحرير من الرسوم البيانية في العروض التقديمية.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تصدير العروض التقديمية الشركية بشكل مجدول إلى تقارير تحليلية XLSX.
+* الدمج في سير العمل في Microsoft Teams أو SharePoint.
+* إنشاء ملف XLSX تلقائيًا للفرق الموزعة.
+* تحويل البيانات بالجملة للأرشفة ومزامنة البيانات على السحابة.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

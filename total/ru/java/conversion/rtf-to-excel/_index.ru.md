@@ -61,7 +61,31 @@ otherformats: XLS EXCEL XLSM XLT ODS XLSX XLTX SXC TSV DIF XLAM XLTM XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документов RTF в Excel обеспечивает беспрепятственную передачу форматированных данных в привычную среду электронных таблиц. Это преобразование поддерживает как визуальное, так и структурное сохранение, что делает его идеальным для офисных, образовательных и деловых рабочих процессов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование финансовых сводок в формате RTF в редактируемые листы Excel.
+* Импорт отформатированных таблиц RTF для анализа и создания сводных диаграмм.
+* Преобразование отчетов студентов на основе RTF в отслеживатели оценок Excel.
+* Упрощение преобразования документов в электронные таблицы для корпоративных пользователей.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Интеграция в системы автоматизации отчетов бизнеса.
+* Запланированный экспорт из RTF в Excel для ежедневного или еженедельного отчета.
+* Поддержка конвейера ETL для анализа документов в офисе.
+* Автоматическое создание панелей инструментов Excel из структурированных шаблонов RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

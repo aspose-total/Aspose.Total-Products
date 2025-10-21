@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG na ODT (OpenDocument Text) umožňuje vložení vektorové grafiky do textových dokumentů kompatibilních napříč platformami. ODT zajistí vizuální věrnost a zůstane kompatibilní s LibreOffice, OpenOffice a dalšími balíky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Technické manuály a zprávy o projektech s vloženými diagramy ve formátu SVG.
+* Akademické práce s vektorovými ilustracemi.
+* Marketingová nebo obchodní dokumentace využívající škálovatelné vizuální prvky ve formátu SVG.
+* Manuály a průvodci distribuovaní napříč platformami bez problémů s formátováním.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická hromadná konverze SVG do ODT pro opakující se dokumentaci.
+* Plánované aktualizace šablon s novými vizuálními prvky ve formátu SVG.
+* Integrace s systémy pro správu obsahu pro distribuci napříč platformami.
+* Spouštěná generace instruktážních nebo výukových materiálů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

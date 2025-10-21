@@ -53,7 +53,31 @@ otherformats: WORDX TEXT FLATOPC WORD RTF ODT WORDM WORDML OTT DOT DOTX DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή PPTX σε WORD παρέχει μια κοινή λύση για τη μετατροπή παρουσιάσεων σε επεξεργάσιμα κείμενα εγγράφων. Επιτρέπει στους χρήστες να συνδυάσουν οπτικά στοιχεία και περιγραφές σε ένα μορφή που είναι ιδανική για κοινοποίηση, εκτύπωση και δημοσίευση.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Δημιουργία ευανάγνωστων εγγράφων από διαφάνειες παρουσιάσεων.
+* Μετατροπή των διαφανειών συναντήσεων PowerPoint σε δομημένα αρχεία Word.
+* Συνδυασμός σημειώσεων και οπτικών στοιχείων σε μορφή αναφοράς.
+* Προετοιμασία υλικού και τεκμηρίωσης από διαφάνειες.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένες ροές εργασίας μετατροπής για αναφορές συναντήσεων.
+* Μετατροπές από PowerPoint σε Word στα εταιρικά αρχεία.
+* Ενσωμάτωση με εργαλεία τεκμηρίωσης έργων.
+* Μαζική επεξεργασία για εκπαιδευτικό και εταιρικό υλικό.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

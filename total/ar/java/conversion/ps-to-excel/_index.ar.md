@@ -47,7 +47,31 @@ otherformats: MD XLAM EXCEL DIF XLSM TSV TXT SXC XLT XLTM XLTX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى تنسيق Excel يعزز قابلية استخدام البيانات من خلال تحويل المعلومات المرئية إلى جداول بيانات تفاعلية. يتيح ذلك للشركات إعادة استخدام البيانات المخزنة أصلاً في تقارير PS للتخطيط المالي والتنبؤ وتحليل العمليات داخل برنامج Microsoft Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج البيانات الجدولية من فواتير PS والبيانات المالية.
+* تحويل المعلومات المرئية في تقارير الهندسة إلى جداول Excel قابلة للتحرير.
+* دمج التحليلات المنسقة بتنسيق PS في لوحات تحكم Excel.
+* تمكين التلاعب بالبيانات التفاعلي لتتبع الأداء.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل مجدول لتحويل PS إلى Excel في سير العمل المحاسبي.
+* تحويل آلي من خلال خدمات تكامل البيانات (ETL).
+* التعرف الذكي بقوة الذكاء الاصطناعي على الحقول الرقمية والنصية من مستندات PS.
+* تصدير تقارير الذكاء التجاري تلقائيًا إلى سجلات عمل Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

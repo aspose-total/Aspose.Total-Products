@@ -61,7 +61,31 @@ otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DI
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPTX (презентация PowerPoint) в CSV (значения, разделенные запятыми) позволяет извлекать табличные и числовые данные со слайдов в виде легкой таблицы. Это преобразование поддерживает анализ данных, автоматизацию отчетов и интеграцию панелей управления на различных платформах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт таблиц слайдов PowerPoint в CSV для аналитических инструментов.
+* Преобразование метрик презентации в CSV для BI-панелей управления.
+* Подготовка слайдов с данными о продажах для импорта в Excel и базы данных.
+* Миграция данных из PowerPoint для интеграции с ERP или CRM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PPTX в CSV для квартальных отчетов о продуктивности.
+* Автоматизация экспорта CSV в ETL и аналитические конвейеры.
+* Синхронизация данных между PowerPoint и системами отчетности.
+* Интеграция в рабочие процессы по внедрению данных через API.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

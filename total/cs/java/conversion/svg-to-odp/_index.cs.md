@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG (škálovatelné vektorové grafiky) do formátu ODP (OpenDocument Presentation) umožňuje vložení vektorových diagramů do prezentací v otevřeném formátu. ODP podporuje škálovatelnost a kompatibilitu mezi různými platformami pro moderní pracovní postupy při tvorbě prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření interaktivních prezentací s diagramy ve formátu SVG pro firemní prezentace.
+* Vzdělávací snímky s ilustracemi a grafy založenými na vektorech.
+* Marketingové prezentace předvádějící produkty s daty ve škálovatelné grafice.
+* Prezentace na akademických konferencích s vysokokvalitními vizuálními prvky ve formátu SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze SVG do formátu ODP pro opakované aktualizace prezentací.
+* Plánované generování šablon pro školení nebo firemní prezentace.
+* Integrace s platformami pro prezentace s otevřeným zdrojovým kódem pro automatizované pracovní postupy.
+* Spouštěné konverzní procesy pro dynamicky generovaný obsah snímků.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

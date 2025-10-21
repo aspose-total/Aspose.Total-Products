@@ -61,7 +61,31 @@ otherformats: XLSX XLT SXC FODS XLSM EXCEL XLSB XLS XLTM XLAM TSV ODS DIF XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF转XLTM（Excel宏启用模板）转换将格式化的文档内容与Excel的自动化框架相结合，非常适合寻求在创建时执行宏的可重复使用模板的企业。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将RTF报告转换为带有嵌入式宏的动态Excel模板。
+* 从RTF表单数据自动生成发票或报价。
+* 创建基于Excel的工具，在打开时运行自动化任务。
+* 将RTF程序文档简化为Excel工作流模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在财务或人力资源文档系统中生成RTF到XLTM的转换。
+* 集成到基于VBA的自动化流水线中。
+* 定期创建用于业务报告的宏模板。
+* 将RTF记录批量转换为智能Excel模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

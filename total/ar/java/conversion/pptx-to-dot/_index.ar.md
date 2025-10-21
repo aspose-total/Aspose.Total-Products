@@ -53,7 +53,31 @@ otherformats: TEXT DOT WORDML DOTM RTF DOTX FLATOPC WORD DOTM ODT DOTX OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTX إلى DOT (قالب Word) ينشئ قوالب قابلة لإعادة الاستخدام من بيانات العرض. هذا قيم للمؤسسات التي تقوم بتوحيد تنسيقات الوثائق أو إنشاء قوالب تقارير الشركات ذات العلامات التجارية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* بناء قوالب DOT من تخطيطات العروض التقديمية الشركات.
+* تحويل شرائح PowerPoint إلى أطر تصميم Word قابلة لإعادة الاستخدام.
+* إعداد قوالب ذات علامات تجارية للاقتراحات وتسليمات العملاء.
+* إنشاء قوالب تقارير متسقة للإدارات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+* توليد تلقائي لقوالب DOT من عروض الشرائح المتكررة.
+* تكامل سير العمل لتوحيد الوثائق.
+* مزامنة القوالب عبر بيئات متعددة الإدارات.
+* جدولة التحويل لقوالب الوثائق الشركية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

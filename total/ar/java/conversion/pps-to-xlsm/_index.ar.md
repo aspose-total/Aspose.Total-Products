@@ -61,7 +61,31 @@ otherformats: XLTM MARKDOWN FODS XLSM XLAM XLTX XLS MHTML DIF XLSX EXCEL XLSB TS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى XLSM (دفتر عمل ممكّن بالماكرو) يسمح بالتحكم المتقدم والتحليل الديناميكي. هذا مثالي للمستخدمين الذين يرغبون في تضمين الماكرو ونصوص VBA للبيانات التفاعلية المستمدة من محتوى العرض.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء لوحات تحكم مدفوعة بالماكرو من شرائح PPS.
+* تحويل العروض التقديمية المتكررة إلى قوالب Excel تحدث ذاتيًا.
+* تطوير متتبعات KPI تحدث باستخدام ماكرو VBA.
+* تضمين حسابات ملخصة آليًا مستخرجة من شرائح PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+* دمجها في سير العمل الآلي في Excel.
+* تحويل شرائح PPS إلى قوالب XLSM لتقارير المشروع.
+* إنشاء توليفة آلية مجدولة في Excel باستخدام ماكرو من مجموعات بيانات PowerPoint.
+* تحويل شريحة إلى ورقة ماكرو آليًا لتحديثات الأعمال المتكررة.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

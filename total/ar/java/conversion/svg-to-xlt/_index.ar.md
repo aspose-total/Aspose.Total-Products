@@ -47,7 +47,31 @@ otherformats: DIF FODS XLAM XLT XLSM SXC MD ODS TSV EXCEL TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات SVG (Scalable Vector Graphics) إلى XLT (Excel Template) يمكن إنشاء قوالب جداول بيانات قابلة لإعادة الاستخدام مع رسوم بيانية ناقلة مضمنة. القوالب XLT مثالية لتوحيد تنسيقات التقارير مع الحفاظ على قابلية تغيير الرسوم البيانية وتكبيرها.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء قوالب تقارير مبيعات ومالية قياسية مع لوحات SVG.
+* قوالب تتبع المشاريع القابلة لإعادة الاستخدام لسير العمل الهندسي والإنشائي.
+* إنشاء قوالب تعليمية تحتوي على رسوم بيانية SVG للمؤسسات الأكاديمية.
+* قوالب تحليل تسويقية موحدة باستخدام رسوم بيانية تفاعلية ناقلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل تجميعي تلقائي للرسوم البيانية SVG إلى قوالب XLT لتقارير الشركات.
+* إنشاء قوالب بشكل مجدول لتقارير المشاريع المتكررة أو المالية.
+* دمج مع أنظمة التشغيل التلقائي للحفاظ على تحديث القوالب.
+* تحويل مُشغّل لوحات القيادة المُحدّثة ديناميكيًا إلى قوالب قابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

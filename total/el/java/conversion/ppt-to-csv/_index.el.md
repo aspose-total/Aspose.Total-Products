@@ -61,7 +61,31 @@ otherformats: MARKDOWN XLSB XLAM SXC TSV XLTX XLSX FODS XLT XLTM ODS MHTML EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPT (PowerPoint) σε μορφή CSV (Comma-Separated Values) καθιστά εύκολη την εξαγωγή πινάκων, γραφημάτων και αριθμητικών δεδομένων από παρουσιάσεις σε δομημένα σύνολα δεδομένων ελαφριάς μορφής. Η μορφή CSV εξασφαλίζει συμβατότητα με σχεδόν όλα τα εργαλεία ανάλυσης δεδομένων και εφαρμογές υπολογιστικών φύλλων.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Εξαγωγή δεδομένων γραφημάτων PowerPoint σε CSV για ανάλυση δεδομένων.
+* Μετατροπή τριμηνιαίων παρουσιάσεων πωλήσεων σε δομημένες αναφορές CSV.
+* Δημιουργία ελαφρών πινακιδωτών συνόλων δεδομένων από επαγγελματικές διαφάνειες.
+* Προετοιμασία δεδομένων παρουσίασης για εισαγωγή σε πλατφόρμες CRM ή BI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Μαζική μετατροπή PPT σε CSV για αυτοματοποιημένες αναφορές.
+* Ενσωμάτωση σε ροές εργασίας ETL για αναλύσεις μάρκετινγκ.
+* Προγραμματισμένη μετατροπή για συγχρονισμό δεδομένων πίνακα ελέγχου.
+* Αυτόματη εξαγωγή δεδομένων από διαφάνειες για εργαλεία οικονομικής πρόβλεψης.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

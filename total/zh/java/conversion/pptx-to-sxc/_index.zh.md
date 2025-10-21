@@ -61,7 +61,31 @@ otherformats: XLS ODS XLT MARKDOWN FODS XLAM SXC MHTML XLSM XLTX XLTM XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX文件转换为SXC（StarOffice Calc电子表格）可增强演示数据与传统电子表格工具之间的互操作性。非常适合使用StarOffice或类似基于OpenOffice的环境的企业。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从PowerPoint幻灯片中提取表格数据到电子表格中。
+* 与StarOffice用户共享演示分析数据。
+* 从公司幻灯片准备存档电子表格。
+* 在SXC格式中编辑和分析演示指标。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量将PPTX转换为SXC以用于文档存储库。
+* 用于传统办公套件的自动化提取工作流程。
+* 与企业报告系统集成。
+* 定时转换以进行跨平台协作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

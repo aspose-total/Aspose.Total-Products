@@ -61,7 +61,31 @@ otherformats: SXC XLS XLSX XLSM DIF MARKDOWN FODS ODS MHTML XLTX TSV EXCEL XLT X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в XLSM (Macro-Enabled Excel Workbook) позволяет интегрировать динамические данные из презентаций с макросами Excel. Этот формат идеально подходит для автоматизации расчетов, создания интерактивных инструментов управления и связывания слайдов с интеллектуальными процессами обработки данных.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование метрик на основе слайдов в отчеты Excel с поддержкой макросов.
+* Создание автоматизированных панелей ключевых показателей производительности (KPI) на основе визуальных материалов PowerPoint.
+* Интеграция данных презентации с инструментами управления бизнесом, управляемыми VBA.
+* Создание интерактивных сводных данных для руководителей.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое преобразование слайдов PowerPoint в XLSM для оперативной отчетности.
+* Интеграция с макросами финансовой модели для аналитики в реальном времени.
+* Плановое создание отчетов с поддержкой макросов на основе данных слайдов.
+* Автоматическое создание рабочих книг Excel для организаций, ориентированных на данные.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

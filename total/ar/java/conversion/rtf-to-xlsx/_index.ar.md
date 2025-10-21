@@ -61,7 +61,31 @@ otherformats: XLSX XLTX XLSB SXC XLTM XLSM XLS XLAM DIF EXCEL ODS FODS TSV XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات RTF إلى XLSX (مصنف Microsoft Excel Open XML) هو الطريقة الأكثر شيوعًا لتحويل المستندات المنسقة إلى جداول بيانات قابلة للتحرير والحديثة. يضمن التوافق الكامل مع Microsoft Excel وGoogle Sheets وغيرها من حزم البرامج المكتبية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل أوراق المخزون القائمة على RTF إلى ملفات XLSX منظمة.
+* استيراد تقارير RTF إلى Excel لتصور البيانات والتصفية.
+* إنشاء جداول بيانات تحليلية من المستندات التجارية المنسقة.
+* مشاركة البيانات RTF في تنسيقات Excel الصديقة للسحابة والتعاونية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تصدير دفعي من RTF إلى XLSX لأنظمة الوثائق الشركية.
+* تكامل السحابة التلقائي لتدفق العمل في Excel Online وOneDrive.
+* وحدات تحويل لأدوات تقارير الويب.
+* إنشاء XLSX مجدول من أنظمة إدارة المستندات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

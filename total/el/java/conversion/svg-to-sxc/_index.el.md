@@ -47,7 +47,31 @@ otherformats: ODS XLTM EXCEL TXT XLSM SXC MD DIF XLSB XLAM XLT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή SVG σε SXC (StarOffice/LibreOffice Spreadsheet) επιτρέπει την ενσωμάτωση διανυσματικών γραφημάτων σε μορφές υπολογιστικού φύλλου ανοικτού κώδικα. Το SXC είναι ιδανικό για συνεργατικές ροές εργασίας και συμβατότητα φύλλων εργασίας διαφορετικών πλατφορμών.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Εισαγωγή χρηματοοικονομικών ή ερευνητικών πινάκων σχεδίων σε φύλλα εργασίας LibreOffice.
+* Διαμοιρασμός δεδομένων έρευνας ή ακαδημαϊκών με διανυσματικά γραφήματα σε αρχεία SXC.
+* Συνεργατική παρακολούθηση έργων με χρήση ενσωματωμένων διανυσματικών οπτικών στοιχείων SVG.
+* Πρότυπα φύλλων εργασίας ανοικτού κώδικα με διαδραστικά διαγράμματα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μαζική μετατροπή SVG σε SXC για αγωγούς αναφοράς.
+* Προγραμματισμένη εξαγωγή πινάκων βασισμένων σε SVG σε φύλλα εργασίας ανοικτού κώδικα.
+* Ενσωμάτωση με σουίτες γραφείου για συλλογική πρόσβαση ομάδας.
+* Ενεργοποιημένη δημιουργία φύλλων εργασίας SXC από δυναμικά δεδομένα SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

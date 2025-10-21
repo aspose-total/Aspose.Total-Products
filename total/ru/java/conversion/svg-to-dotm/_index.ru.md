@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в DOTM (Шаблон Word с поддержкой макросов) позволяет создавать многоразовые шаблоны, объединяющие масштабируемую векторную графику с макросами. Идеально подходит для интерактивных отчетов, форм и документов рабочего процесса.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Шаблоны отслеживания проектов с встроенными визуальными элементами SVG с поддержкой макросов.
+* Многоразовые финансовые или операционные шаблоны для корпоративных рабочих процессов.
+* Учебные или исследовательские шаблоны, интегрирующие динамические диаграммы и автоматизацию.
+* Интерактивные образовательные материалы с использованием макроусиленных диаграмм SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование SVG в DOTM для повторно используемых шаблонов с поддержкой макросов.
+* Плановое обновление шаблонов с новыми данными SVG и макросами.
+* Интеграция в системы автоматизации рабочего процесса, требующие многоразовые шаблоны.
+* Запуск конвейеров преобразования для интерактивных дашбордов отчетности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

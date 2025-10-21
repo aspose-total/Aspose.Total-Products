@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PS (PostScript) do formátu DOT (šablona Wordu) umožňuje firmám standardizovat formátování dokumentů a jejich rozložení. Šablony DOT lze znovu použít pro oficiální korespondenci, zprávy a dokumenty určené klientům, aniž by bylo nutné vytvářet designy znovu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření opakovaně použitelných šablon Wordu z reportů založených na PostScriptu.
+* Standardizace hlaviček obchodních dopisů, formulářů a interních dokumentů.
+* Převádění vizuálních rozložení generovaných PS do editovatelných šablon Wordu.
+* Udržování konzistence designu napříč dokumenty generovanými týmem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný převod PS do DOT pro systémy správy šablon.
+* Integrace s systémy správy obsahu pro opakovaně použitelné dokumentové šablony.
+* Hromadné zpracování pro generování šablon specifických pro oddělení.
+* Plánované aktualizace šablon Wordu z vizuálních prvků založených na PostScriptu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

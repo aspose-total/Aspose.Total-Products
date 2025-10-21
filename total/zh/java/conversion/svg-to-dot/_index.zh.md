@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为DOT（Word 97-2003模板）可创建具有嵌入式矢量图的可重用文档模板，与旧版Word兼容。DOT可确保在传统系统中保持一致的格式。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 为传统Word文档提供带有SVG图表的标准化报告模板。
+* 包含可视化仪表板的项目提案模板。
+* 使用SVG可视化元素的可重用学术或教学模板。
+* 用于业务或工程工作流程的历史文档模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 为传统Word工作流程自动生成批量SVG到DOT模板。
+* 定期更新模板，添加新的SVG可视化元素。
+* 集成到需要向后兼容模板的文档管理系统中。
+* 为定期报告和可重用模板触发转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

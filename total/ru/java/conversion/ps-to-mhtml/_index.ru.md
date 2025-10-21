@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PS (PostScript) в MHTML (MIME HTML) позволяет сохранить полные документы PostScript, включая текст, графику и изображения, как одно, портативное веб-страницы. MHTML идеально подходит для архивирования, обмена и веб-представления контента PostScript.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Архивирование отчетов и руководств в формате PS как автономных веб-страниц.
+* Преобразование документации PostScript для доступа через офлайн-браузер.
+* Обмен сложными диаграммами и макетами PS в одном файле.
+* Сохранение оригинального форматирования PS в архивах HTML, совместимых с вебом.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PS в MHTML для архивирования и ведения записей.
+* Интеграция в системы управления документами для веб-распространения.
+* Облачная генерация HTML для PS файлов, доступных для просмотра офлайн.
+* Автоматизированное преобразование для подготовки к отправке по электронной почте отчетов и визуального контента.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

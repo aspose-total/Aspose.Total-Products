@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为MHTML（MIME HTML）可将完整的PostScript文档（包括文本、图形和图像）保存为单个、便携的网页。MHTML非常适合用于存档、共享和基于网络的展示PostScript内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将PS报告和手册存档为独立的网页。
+* 将PostScript文档转换为离线浏览器访问。
+* 在单个文件中共享复杂的PS图表和布局。
+* 在与网络兼容的HTML存档中保留原始PS格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量进行PS到MHTML的转换以进行存档和记录保存。
+* 集成到文档管理系统中以进行网络分发。
+* 从PS文件生成可离线查看的HTML的基于云的方式。
+* 用于电子邮件报告和视觉内容的自动转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

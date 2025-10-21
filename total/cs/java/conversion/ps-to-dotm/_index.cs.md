@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PS (PostScript) do formátu DOTM (Šablona s makry pro aplikaci Word) kombinuje standardizaci šablon s automatizací. Uživatelé mohou znovu použít rozložení a zároveň využívat makra k automatizaci vyplňování dokumentů, výpočtů nebo formátování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přeměna PS zpráv do opakovaně použitelných šablon ve Wordu s makry.
+* Automatizace tvorby smluv nebo faktur s využitím rozložení odvozených z PostScriptu.
+* Vkládání tabulek a grafů generovaných PS do šablon ve formátu DOTM.
+* Vytváření interaktivních formulářů pro personální, finanční nebo provozní pracovní postupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* Hromadná konverze PS do DOTM v automatizaci pracovních postupů podniku.
+* Integrace s systémy generování dokumentů pro úkoly řízené makry.
+* Asistované umisťování obsahu z PS do šablon.
+* Plánovaná generace šablon s makry pro opakující se potřeby v reportování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

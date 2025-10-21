@@ -47,7 +47,31 @@ otherformats: TXT EXCEL XLTX DIF TSV ODS XLT XLAM FODS XLTM MD XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى XLSM (Excel Macro-Enabled Workbook) يجمع بين وضوح الرسومات الناقلة مع ماكرو Excel، مما يسمح بالتشغيل الديناميكي والتفاعل في الدفاتر.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* لوحات القيادة SVG المدمجة في ملفات XLSM مع ماكرو VBA لفرق الشؤون المالية.
+* حلول التقارير الآلية التي تضمن تضمين النصوص مع الرسوم الناقلة.
+* تحويل مخططات عمليات الهندسة إلى أوراق Excel تفاعلية ممكنة للماكرو.
+* مواد تعليمية تفاعلية وبرامج تعليمية مع ماكرو في دفاتر العمل XLSM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويلات SVG-to-XLSM المجدولة للتقارير الدورية ذات الماكرو.
+* حقن النصوص البرمجية الآلية في ملفات XLSM التي تم إنشاؤها من SVGs.
+* التكامل مع أنظمة الذكاء التجاري التي تحتاج إلى دفاتر عمل تفاعلية.
+* تدفقات عمليات التصدير المُشغَّلة للوحات القيادة الديناميكية والتقارير التشغيلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

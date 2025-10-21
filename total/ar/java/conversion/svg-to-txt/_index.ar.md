@@ -47,7 +47,31 @@ otherformats: EXCEL TSV SXC XLTX XLT TXT ODS MD XLSB DIF XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى TXT (نص عادي) يستخرج المحتوى النصي من الرسومات النقطية للتحليل أو الفهرسة أو الوثائق الخفيفة. يعتبر TXT مثاليًا لسير العمل البسيطة والقابلة للبرمجة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* استخراج التسميات والتعليقات من الرسوم التوضيحية SVG للوثائق.
+* إنشاء إصدارات نصية بحثية للرسوم التوضيحية التقنية.
+* إنشاء تقارير بيانات SVG الخفيفة لتحليل البيانات.
+* مشاركة سريعة لمحتوى SVG النصي دون الصور.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* استخراج نص SVG تلقائيًا إلى TXT لأنابيب التقارير.
+* إنشاء وثائق نصية بشكل منتظم من الرسوم التوضيحية النقطية.
+* التكامل مع أنظمة الفهرسة والبحث.
+* تحويل مُشغّل للتحليلات وسير العمل الخفيفة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

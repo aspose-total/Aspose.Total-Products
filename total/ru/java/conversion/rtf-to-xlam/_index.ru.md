@@ -61,7 +61,31 @@ otherformats: DIF XLSX XLSM XLTM XLS XLAM XLTX TSV SXC ODS XLSB FODS XLT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование RTF в XLAM (дополнение Excel) позволяет разработчикам и аналитикам встраивать текстовое или табличное содержимое RTF в среды автоматизации Excel. Этот формат поддерживает макросы и VBA, улучшая инструменты продуктивности, которые зависят от ввода документов, основанных на данных.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Встраивание шаблонов на основе RTF в дополнения Excel для автоматизированной отчетности.
+* Преобразование отформатированных документов в повторно используемые модули макросов Excel.
+* Создание решений по автоматизации Excel на основе входных данных RTF.
+* Создание динамических форм с использованием содержимого RTF, интегрированного в дополнения XLAM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Преобразование RTF в XLAM в пользовательских конвейерах развертывания макросов Excel.
+* Интеграция в системы автоматизации документов для бизнес-аналитики.
+* Преобразование в решения отчетности, основанные на VBA, для финансового моделирования.
+* Плановое создание дополнений Excel из централизованных хранилищ данных RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

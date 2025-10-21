@@ -61,7 +61,31 @@ otherformats: XLTX XLAM XLSM TSV EXCEL MHTML XLSB FODS SXC XLTM ODS XLT MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в XLTX (Excel Template Open XML) облегчает создание структурированных, многократно используемых шаблонов электронных таблиц в современных форматах Excel. Идеально подходит для команд, стандартизирующих рабочие процессы и поддерживающих единообразие дизайна документов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание профессиональных шаблонов XLTX из бизнес-презентаций PowerPoint.
+* Разработка форм для ввода данных, вдохновленных макетами слайдов.
+* Создание стандартизированных ежемесячных отчетных шаблонов.
+* Генерация отделоспецифических шаблонов XLTX на основе утвержденных презентаций.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование файлов PPS в корпоративные шаблоны XLTX.
+* Плановое создание брендированных шаблонов Excel для отслеживания проектов.
+* Интеграция в системы автоматизации шаблонов для контроля версий.
+* Автоматическое создание шаблонов XLTX на основе сводок данных PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

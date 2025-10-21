@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PS (PostScript) do formátu DOTX (Šablona Wordu bez maker) umožňuje uživatelům vytvářet opakovaně použitelné, čisté šablony a zároveň zachovávat vizuální věrnost PostScriptu. Šablony DOTX jsou ideální pro bezpečné opakované použití dokumentů bez maker napříč organizacemi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Standardizace rozložení PS reportů do opakovaně použitelných šablon Wordu.
+* Příprava hlaviček dopisů, formulářů a dokumentů pro klienty bezpečně.
+* Převádění PostScriptových diagramů a grafů do editovatelných statických šablon Wordu.
+* Zajištění konzistence dokumentace bez rizika zabezpečení maker.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná konverze PS do DOTX pro knihovny šablon.
+* Integrace do CMS nebo pracovních postupů pro konzistentní generování dokumentů.
+* Hromadné zpracování rozložení PS do formátu DOTX pro využití v různých odděleních.
+* Extrahování vizuálních prvků řízené umělou inteligencí pro tvorbu šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

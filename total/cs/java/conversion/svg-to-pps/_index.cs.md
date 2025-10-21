@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na PPS (PowerPoint Show) umožňuje vytváření prezentací, které se otevírají přímo v režimu prezentace s vestavěnou vektorovou grafikou, ideální pro plynulé prohlížení.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Interaktivní firemní prezentace dodávané jako prezentace PowerPoint.
+* Vzdělávací prezentace se SVG diagramy pro přímé zobrazení.
+* Marketingové nebo produktové ukázky zabalené jako připravené k prohlížení prezentace.
+* Akademické přednáškové snímky pro okamžitou prezentaci bez úprav.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická hromadná konverze SVG na PPS pro dodání prezentace.
+* Naplánovaný export snímků založených na SVG do formátu PPS.
+* Integrace s distribučními systémy obsahu pro připravené k prohlížení balíčky.
+* Spuštěné generování snímků pro školení nebo marketingové kampaně.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

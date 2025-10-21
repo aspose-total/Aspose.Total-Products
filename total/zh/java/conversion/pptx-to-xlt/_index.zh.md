@@ -61,7 +61,31 @@ otherformats: XLT DIF MHTML XLSM XLTX XLSB XLAM XLTM FODS MARKDOWN SXC XLSX TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX转换为XLT（Excel模板）可从演示数据创建可重复使用的电子表格模板。这对于标准化财务报告或定期业务摘要的组织非常理想。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 从PowerPoint幻灯片生成报告模板。
+* 基于演示KPI创建Excel模型。
+* 为内部使用建立品牌化的电子表格格式。
+* 准备可重复使用的每月或每季度数据模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从公司演示文稿自动生成XLT。
+* 跨部门的模板同步。
+* 工作流驱动的可重复使用报告模板创建。
+* 与版本控制的模板存储库集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

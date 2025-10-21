@@ -61,7 +61,31 @@ otherformats: XLAM XLS TSV MHTML DIF XLSX XLTX XLSB EXCEL XLTM MARKDOWN FODS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى TSV (قيم مفصولة بواسطة علامات تبويب) يمكن أن يمكن تصدير البيانات المقدمة بشكل منظم باستخدام فواصل تبويب - مثالي للمطورين والمحللين وعلماء البيانات الذين يفضلون تنسيق نصي نظيف وصديق للكود.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير الجداول من PowerPoint إلى TSV لتحليل البيانات في Python أو R.
+* إعداد مجموعات بيانات قائمة على النص من العروض التقديمية التجارية.
+* تحويل مخططات الأداء إلى بيانات منفصلة بواسطة علامات تبويب يمكن تحليلها بسهولة.
+* استخراج شرائح المحتوى متعدد اللغات إلى TSV لسير العمل الخاص بالتعريب.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* دمجه في أنابيب بيانات الذكاء الاصطناعي التي تتطلب نص مفصول بواسطة علامات تبويب.
+* استخراج إحصائيات مستندة إلى الشرائح بشكل دفعي إلى TSV للنمذجة والتحليل.
+* تحويل الشرائح إلى TSV بشكل مجدول لإدارة البيانات في الشركات.
+* إنشاء TSV تلقائي لاستيعابه في لوحات القيادة القائمة على الويب.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,31 @@ otherformats: POWERPOINT PPT POTM PPTM PPSX PPTX PPS PPSM POTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将RTF转换为PPSX（PowerPoint Show Open XML）是一种现代方式，可以将基于文档的信息以视觉上引人入胜的演示文稿形式展示。PPSX文件直接以幻灯片模式打开，非常适合最终展示或共享。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于RTF的公司更新转换为演示文稿准备的幻灯片。
+* 从结构化文本文件生成最终交付的演示文稿。
+* 直接从RTF来源准备活动或会议幻灯片。
+* 将RTF内容作为只读PowerPoint演示文稿共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在自动化演示文稿发布流程中进行RTF到PPSX的转换。
+* 与Office 365演示文稿工作流集成。
+* 从标准化的RTF报告批量生成PPSX幻灯片。
+* 定期创建准备好的企业摘要幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

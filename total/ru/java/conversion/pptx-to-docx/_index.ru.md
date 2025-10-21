@@ -53,7 +53,31 @@ otherformats: DOTM ODT TEXT DOCXM DOTX RTF WORD FLATOPC WORDML DOT OTT DOCX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPTX в DOCX (современный документ Word) обеспечивает полностью редактируемые, документы, которые можно легко обмениваться и универсально совместимые. Это идеально подходит для преобразования слайдов презентации в читаемые резюме, научные статьи или деловые отчеты.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт текста и визуальных элементов слайдов в DOCX для редактирования.
+* Преобразование лекций PowerPoint в отформатированный учебный материал.
+* Подготовка отчетов и документации на основе данных презентации.
+* Обмен информацией со слайдов в виде редактируемых документов Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPTX в DOCX для баз знаний компании.
+* Пакетное преобразование для учебных пособий и академического использования.
+* Интеграция с облачными хранилищами и инструментами управления контентом.
+* Запланированный экспорт DOCX в рамках документационных рабочих процессов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ otherformats: TEXT RTF WORDML DOTM OTTX WORD ODT DOTX FLATOPC OTTM OTT DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в OTT (OpenDocument Text Template) позволяет повторно использовать содержимое презентаций в стандартизированных редактируемых шаблонах документов. Это преобразование ценно для организаций, нуждающихся в согласованных структурах документов, происходящих из материалов презентаций, особенно в корпоративной и образовательной средах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание стандартизированных шаблонов предложений на основе исполнительных слайд-презентаций.
+* Разработка многоразовых шаблонов для обучения на основе инструкционных слайдов.
+* Преобразование маркетинговых презентаций в структурированные шаблоны OTT для будущих кампаний.
+* Генерация брендовых шаблонов отчетов из файлов презентаций компании.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное создание шаблонов документов из утвержденных презентационных досок.
+* Интеграция в рабочие процессы автоматизации контента для обеспечения согласованного брендинга.
+* Массовое преобразование слайд-шоу в многоразовые корпоративные шаблоны коммуникаций.
+* Мгновенное преобразование внутренних файлов PPS в редактируемые шаблоны OTT для команд.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

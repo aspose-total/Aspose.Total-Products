@@ -61,7 +61,31 @@ otherformats: MHTML XLS ODS XLSM MARKDOWN XLTX TSV FODS XLSX DIF EXCEL XLTM SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в CSV (Comma-Separated Values) позволяет пользователям извлекать и организовывать данные из слайдов презентации в легкий, текстовый формат электронной таблицы. Этот процесс упрощает анализ данных и интеграцию их в CRM, ERP и инструменты бизнес-аналитики.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт табличных данных из слайдов PowerPoint в CSV для анализа.
+* Преобразование маркетинговых или опросных презентаций в файлы, готовые к обработке данных.
+* Подготовка наборов данных CSV на основе статистики слайдов обучающих курсов для ввода в машинное обучение.
+* Преобразование сводных отчетов на слайдах в структурированные данные, разделенные запятыми.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматический экспорт еженедельных сводок презентаций в наборы данных CSV.
+* Интеграция в ETL-потоки для хранения данных и визуализации на панелях управления.
+* Запланированное преобразование для извлечения квартальных показателей из отчетов PPS.
+* Пакетная обработка нескольких файлов PPS в объединенные аналитические таблицы CSV.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

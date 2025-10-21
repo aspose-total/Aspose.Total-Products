@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG转换为FLATOPC（Flat Open Packaging Conventions）会生成一个基于XML的文件结构，其中包含所有Word内容，包括矢量图。非常适合用于程序化文档处理和互操作性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 在单个便携的Word文档包中存档SVG图表。
+* 使用嵌入式矢量图形程序生成报告。
+* 用于自动化文档工作流程的标准化模板。
+* 确保交互式Word内容的跨平台兼容性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG自动批量转换为FLATOPC包。
+* 用于文档存档和版本控制的定期导出。
+* 集成到内容管理系统以进行程序化访问。
+* 用于动态文档自动化流程的触发生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

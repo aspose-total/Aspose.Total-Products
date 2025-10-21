@@ -61,7 +61,31 @@ otherformats: TSV DIF ODS EXCEL XLT MARKDOWN XLS XLTM XLSM MHTML XLSB XLAM XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى MHTML (أرشيف ويب) يمكن أن يسمح بحفظ مجموعات الشرائح الكاملة كأرشيفات ويب تحتوي على وسائط مضمنة. هذا مهم بشكل خاص لمشاركة العروض التفاعلية عبر البريد الإلكتروني أو بوابات الشبكة الداخلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء نسخ مؤرشفة على الويب من شرائح PowerPoint لعرضها على المتصفح.
+* تغليف العروض في ملفات MHTML واحدة للمشاركة دون اتصال.
+* تحويل الشرائح للدمج في أنظمة التعلم الإلكتروني.
+* الحفاظ على الرسوم البيانية والرسوم المتحركة في PowerPoint ضمن ملفات متوافقة مع الويب.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء MHTML مجدول لمنصات التعلم الرقمي.
+* دمجه في بوابات الشبكة الداخلية للوصول المركزي إلى العروض.
+* تحويل الأرشيف على الويب تلقائيًا للوثائق الداخلية.
+* تصدير MHTML دفعي لمستودعات التسويق والمعرفة.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: FODS XLAM ODS TSV XLSB XLSM XLTX EXCEL XLS XLTM DIF SXC XLSX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 RTF 文档转换为 SXC（StarOffice Calc 电子表格）可实现与旧版 OpenOffice 和 StarOffice 生态系统的兼容性。这对于维护传统基础设施的企业非常理想，其中需要将 RTF 报告或数据以电子表格形式重复使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将历史基于 RTF 的业务报告转换为 SXC 存档。
+* 在兼容 StarOffice 系统内进行 RTF 数据分析的重复使用。
+* 从文字处理形式的表格信息中导出到电子表格模型。
+* 为内部数据跟踪现代化存档的 RTF 内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定期进行 RTF 到 SXC 的转换以支持传统系统。
+* 在文档系统升级期间进行批量转换。
+* 集成到支持 StarOffice 数据集的企业迁移工具中。
+* 用于合规或备份系统的自动化存档复制。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

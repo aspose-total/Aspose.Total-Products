@@ -61,7 +61,31 @@ otherformats: XLTX XLSM XLT XLAM FODS XLS ODS EXCEL MHTML DIF TSV XLTM MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPS（PowerPoint幻灯片展示）文件转换为DIF（数据交换格式）可实现演示幻灯片和电子表格或统计软件之间的结构化数据传输。这种转换非常适合需要从幻灯片中提取表格信息进行数值计算或建模的分析师。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将表格形式的演示数据提取为DIF，用于统计分析。
+* 将幻灯片中的财务摘要转换为兼容DIF的工具。
+* 准备从PowerPoint表格中衍生的学术或研究数据集。
+* 将公司幻灯片中的绩效指标导出为适用于电子表格的数据。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定时的DIF导出，用于跨平台分析。
+* 集成到ETL流程中，将演示数据转换为BI系统可用的格式。
+* 自动将幻灯片转换为DIF，实现数据互操作性。
+* 批量将PPS文件转换为DIF，用于传统分析软件。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

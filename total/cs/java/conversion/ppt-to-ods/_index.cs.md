@@ -61,7 +61,31 @@ Při převodu souboru PPT na ODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění prezentací PPT (PowerPoint) do formátu ODS (OpenDocument Spreadsheet) transformuje vizuální data snímků do strukturované tabulkové podoby. Je ideální pro organizace, které používají kancelářské balíky s otevřeným zdrojovým kódem a potřebují extrahovat číselná nebo tabulková data z prezentací pro analýzy a reporting.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Exportování tabulek snímků do editovatelných tabulek ODS pro LibreOffice Calc.
+* Převádění obchodních metrik z řídicích panelů PowerPointu do tabulkových dat.
+* Archivace finančních a analytických snímků ve formátu ODS.
+* Umožnění spolupráce v prostředí otevřených standardů pro tabulkové aplikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná konverze PPT do ODS pro reportování vládních nebo neziskových organizací.
+* Integrace s analytickými potrubími s otevřeným zdrojovým kódem.
+* Plánovaná konverze prezentací do tabulek pro auditování.
+* Sdílení zpráv mezi odděleními pomocí šablon založených na formátu ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -135,7 +135,29 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de archivos SVG (Gráficos Vectoriales Escalables) a XAML (Lenguaje de Marcado de Aplicaciones Extensible) permite a los desarrolladores integrar gráficos vectoriales directamente en aplicaciones de Windows. XAML conserva la escalabilidad y la independencia de resolución, lo que es ideal para el diseño de IU moderna.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Incrustar iconos e ilustraciones basados en SVG en aplicaciones WPF o UWP.
+* Diseñar paneles interactivos con gráficos vectoriales para aplicaciones empresariales.
+* Crear componentes de IU escalables para aplicaciones de escritorio o móviles.
+* Herramientas de visualización educativas o científicas con gráficos vectoriales de alta fidelidad.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión automatizada por lotes de activos SVG a XAML para el desarrollo de aplicaciones.
+* Actualizaciones programadas de bibliotecas de IU con nuevos diseños SVG.
+* Integración con canalizaciones de compilación para implementación sin problemas en proyectos WPF o UWP.
+* Conversión activada para renderización en tiempo real de contenido SVG dinámico en aplicaciones.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

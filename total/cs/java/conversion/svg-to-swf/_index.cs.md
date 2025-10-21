@@ -121,7 +121,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG na SWF (Shockwave Flash) umožňuje vkládání interaktivních vektorových grafik do webových animací a starších aplikací Flash. SWF podporuje dynamické vizuály a lehké vektorové animace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Interaktivní webové školicí moduly s animacemi SVG-to-SWF.
+* Marketingové bannery a propagační materiály s vektorovou interaktivitou.
+* Vzdělávací animace a e-learningový obsah s škálovatelnými diagramy.
+* Interaktivní infografiky zobrazené na starších platformách Flash.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatická hromadná konverze diagramů SVG na animace SWF.
+* Plánované aktualizace webového interaktivního obsahu z živých souborů SVG.
+* Integrace s legacy webovými platformami podporujícími vizuální prvky založené na Flashi.
+* Spouštěné konverzní procesy pro dynamický online obsah SVG-to-SWF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

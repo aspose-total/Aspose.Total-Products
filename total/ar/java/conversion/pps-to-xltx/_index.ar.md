@@ -61,7 +61,31 @@ otherformats: XLTX XLAM XLSM TSV EXCEL MHTML XLSB FODS SXC XLTM ODS XLT MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPS (عرض شرائح PowerPoint) إلى XLTX (قالب Excel Open XML) يسهل إنشاء قوالب جداول بيانات منظمة وقابلة لإعادة الاستخدام بتنسيقات Excel الحديثة. مثالي للفرق التي تقوم بتوحيد سير العمل والحفاظ على توحيد التصميم عبر الوثائق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء قوالب XLTX احترافية من عروض الأعمال في PowerPoint.
+* تطوير نماذج إدخال بيانات مستوحاة من تخطيطات الشرائح.
+* بناء قوالب تقارير شهرية موحدة.
+* إنشاء قوالب XLTX خاصة بالإدارات من العروض المعتمدة.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي لملفات PPS إلى قوالب XLTX للشركات.
+* إنشاء مجدول لقوالب Excel مميزة لتتبع المشاريع.
+* دمجها في أنظمة أتمتة القوالب لمراقبة الإصدارات.
+* إنشاء تلقائي لقوالب XLTX من ملخصات البيانات في PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

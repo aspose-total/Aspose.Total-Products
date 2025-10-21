@@ -49,7 +49,31 @@ otherformats: XLSB MD FODS XLTX XLAM DIF XLSM XLT XLTM ODS SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为ODS（OpenDocument Spreadsheet）可将基于矢量的图表嵌入到开放标准的电子表格中。ODS非常适合跨平台数据分析、报告和交互式仪表板。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将SVG财务仪表板嵌入到ODS电子表格中进行分析。
+* 使用矢量可视化数据在开放格式中共享研究或工程数据。
+* 将学术和项目数据导出为可编辑的、平台无关的电子表格。
+* 以ODS格式标准化项目跟踪仪表板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于报告流水线的自动化SVG到ODS转换。
+* 定期导出带有嵌入式图表的研究或运营数据。
+* 与需要电子表格兼容性的开源办公套件集成。
+* 触发生成基于SVG的仪表板以进行团队协作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

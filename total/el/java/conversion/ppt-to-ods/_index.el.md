@@ -61,7 +61,31 @@ otherformats: XLTX XLS DIF XLSB EXCEL XLSM XLAM XLSX SXC MARKDOWN TSV XLTM XLT M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή παρουσιάσεων PPT (PowerPoint) σε μορφή ODS (OpenDocument Spreadsheet) μετατρέπει τα δεδομένα οπτικών διαφανειών σε δομημένη μορφή υπολογιστικού φύλλου. Είναι ιδανικό για οργανισμούς που χρησιμοποιούν πακέτα γραφείου ανοικτού κώδικα και χρειάζονται να εξάγουν αριθμητικά ή πίνακες δεδομένων από παρουσιάσεις για ανάλυση και αναφορές.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Εξαγωγή πινάκων διαφανειών σε επεξεργάσιμα φύλλα ODS για το LibreOffice Calc.
+* Μετατροπή επιχειρηματικών μετρήσεων από πίνακες ελέγχου PowerPoint σε δεδομένα υπολογιστικού φύλλου.
+* Αρχειοθέτηση χρηματοοικονομικών και αναλυτικών διαφανειών σε ανοικτή μορφή ODS.
+* Δυνατότητα συνεργασίας σε περιβάλλοντα υπολογιστικών φύλλων με ανοικτά πρότυπα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή PPT σε ODS για αναφορές κυβέρνησης ή ΜΚΟ.
+* Ενσωμάτωση με ανοικτές αναλυτικές αγωγές.
+* Προγραμματισμένη μετατροπή παρουσιάσεων σε φύλλα υπολογιστικού για ελέγχους.
+* Κοινή χρήση αναφορών μεταξύ τμημάτων χρησιμοποιώντας πρότυπα βασισμένα σε ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS XLS XLTX XLSX MARKDOWN DIF SXC ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）文件转换为XLS（Excel 97–2003 Workbook）可实现与旧系统的兼容性，同时保留表格和数字数据的完整性。此转换支持使用较旧的Microsoft Office环境或需要向后兼容报告的组织。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将幻灯片数据导出以在旧版Excel系统中使用。
+* 从PowerPoint报告生成向后兼容的电子表格。
+* 与使用较旧Microsoft Office版本的团队共享分析准备就绪的数据。
+* 将演示结果存档为通用支持的XLS格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业档案系统的自动化PPT至XLS转换。
+* 集成到需要旧版Excel文件输出的工作流程中。
+* 用于跨部门数据兼容性的批处理。
+* 定时进行PowerPoint报告转换以实现系统互操作性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

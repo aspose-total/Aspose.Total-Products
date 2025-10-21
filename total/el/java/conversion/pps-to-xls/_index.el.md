@@ -61,7 +61,31 @@ otherformats: FODS XLAM XLTM XLSM SXC MARKDOWN XLSX XLS TSV ODS EXCEL MHTML DIF 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPS (PowerPoint Slide Show) σε XLS (Excel 97–2003 Workbook) εξασφαλίζει συμβατότητα με παλαιότερα συστήματα ενώ επιτρέπει την επεξεργασία και αποθήκευση δεδομένων με βάση υπολογιστή. Αυτή η μετατροπή είναι ιδανική για περιβάλλοντα που χρησιμοποιούν παλαιότερες εκδόσεις του Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Εξαγωγή δεδομένων από διαφάνειες PPS για συμβατότητα με παλαιότερες μορφές Excel.
+* Προετοιμασία αναφορών XLS για κυβερνητικούς και εκπαιδευτικούς οργανισμούς.
+* Μετατροπή μάρκετινγκ οπτικών στοιχείων σε αναφορές φύλλων υπολογιστή συμβατές προς τα πίσω.
+* Δημιουργία επεξεργάσιμων βαθμολογιών XLS από περιλήψεις βασισμένες σε PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτοματοποιημένη μαζική μετατροπή για συμμόρφωση με τη μορφή XLS.
+* Ενσωμάτωση σε ροές εργασίας λογιστικού ή MIS λογισμικού παλαιότερων εκδόσεων.
+* Δημιουργία αρχείων XLS από επαναλαμβανόμενα σύνολα δεδομένων παρουσιάσεων.
+* Προγραμματισμένη εξαγωγή διαφανειών για κοινή χρήση δεδομένων XLS μεταξύ τμημάτων.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

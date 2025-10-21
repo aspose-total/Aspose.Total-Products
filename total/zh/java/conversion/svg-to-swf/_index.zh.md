@@ -121,7 +121,31 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为SWF（Shockwave Flash）可在Web动画和传统Flash应用程序中嵌入交互式矢量图形。SWF支持动态视觉效果和轻量级基于矢量的动画。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 使用SVG到SWF动画创建交互式基于Web的培训模块。
+* 具有矢量交互性的营销横幅和促销材料。
+* 具有可伸缩图表的教育动画和电子学习内容。
+* 在传统Flash平台中显示的交互式信息图表。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG图表批量转换为SWF动画。
+* 从实时SVG文件定期更新基于Web的交互式内容。
+* 与支持基于Flash的视觉效果的传统Web平台集成。
+* 用于动态在线SVG到SWF内容的触发式转换流水线。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

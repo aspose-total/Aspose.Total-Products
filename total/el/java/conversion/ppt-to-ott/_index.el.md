@@ -53,7 +53,31 @@ otherformats: DOTM DOTX DOT OTTX WORDML WORD RTF OTT FLATOPC TEXT OTTM ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή παρουσιάσεων PPT (PowerPoint) σε μορφή OTT (OpenDocument Text Template) επιτρέπει σε επιχειρήσεις και εκπαιδευτικούς να δημιουργήσουν τυποποιημένα, επαναχρησιμοποιήσιμα πρότυπα βασισμένα στο περιεχόμενο των διαφανιών. Τα αρχεία OTT εξασφαλίζουν συνέπεια στη μορφοποίηση εγγράφων, το branding και τη δομή σε οργανωτικές αναφορές.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Δημιουργία επεξεργάσιμων προτύπων κειμένου από διατάξεις PowerPoint για την τεκμηρίωση της εταιρείας.
+* Τυποποίηση εταιρικών αναφορών και προτάσεων χρησιμοποιώντας πρότυπα OTT.
+* Δημιουργία επαναχρησιμοποιήσιμων εκπαιδευτικών προτύπων από παρουσιάσεις εκπαίδευσης.
+* Επαναχρησιμοποίηση δομών διαφανειών για ροές δημοσίευσης σε ανοιχτή μορφή.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή PPT σε OTT για τη δημιουργία προτύπων εταιρικού σχεδιασμού.
+* Ενσωμάτωση σε συστήματα παραγωγής περιεχομένου ανοιχτού κώδικα.
+* Μαζική επεξεργασία εταιρικών διαφανειών σε τυποποιημένα πρότυπα εγγράφων.
+* Προγραμματισμένη μετατροπή για τη διατήρηση συνέπειας στις επικοινωνίες πολλαπλών τμημάτων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: MARKDOWN XLSM EXCEL XLAM XLT XLSB XLTX XLS DIF XLSX MHTML SXC TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX转换为XLSB（Excel二进制工作簿）可优化大型演示数据集的存储和性能。它允许在Excel环境中更快地加载和处理数字幻灯片数据。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将大量演示数据导出为高性能Excel文件。
+* 以减小文件大小存储机密分析数据。
+* 高效管理复杂的源自PowerPoint的数据集。
+* 为更快的Excel计算准备二进制工作簿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 定时将PPTX转换为XLSB，用于大数据演示。
+* 在数据密集型商业智能平台中实现自动化。
+* 集成到压缩数据存储工作流程中。
+* 为快速电子表格分析优化文件生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

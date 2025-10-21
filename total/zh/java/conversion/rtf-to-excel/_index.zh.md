@@ -61,7 +61,31 @@ otherformats: XLS EXCEL XLSM XLT ODS XLSX XLTX SXC TSV DIF XLAM XLTM XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将RTF文档转换为Excel可实现格式化数据无缝转移到熟悉的电子表格环境中。此转换支持视觉和结构保留，非常适合办公、教育和业务报告工作流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将RTF财务摘要转换为可编辑的Excel表格。
+* 导入格式化的RTF表格进行分析和数据透视图创建。
+* 将基于RTF的学生报告转换为Excel成绩跟踪器。
+* 简化企业用户的文档到电子表格转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 集成到业务报告自动化系统中。
+* 定期安排的RTF到Excel导出，用于每日或每周报告。
+* ETL管道支持办公文档分析。
+* 从结构化的RTF模板自动生成Excel仪表板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

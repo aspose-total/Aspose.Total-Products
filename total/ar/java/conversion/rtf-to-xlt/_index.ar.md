@@ -61,7 +61,31 @@ otherformats: XLTX XLAM XLSM XLT FODS XLSB XLS DIF XLSX TSV XLTM ODS SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى XLT (نموذج Excel) يسمح بتحويل بيانات المستند المنسقة إلى قوالب جداول بيانات قابلة لإعادة الاستخدام. هذا مفيد بشكل خاص للمؤسسات التي تقوم بتوحيد تخطيطات التقارير أو تأتيمتة إنشاء المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل نماذج الأعمال RTF إلى قوالب تقارير Excel.
+* تصميم هياكل تقرير الشركة الموحدة من تخطيطات RTF.
+* إنشاء قوالب إدخال البيانات من جداول قائمة RTF.
+* تحويل قوائم التحقق RTF إلى أدوات إنتاجية مبنية على Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتيمة" %}}
+
+* توليد قوالب RTF-to-XLT المؤتمتة لتوحيد التقارير.
+* التكامل مع أنظمة إضافات Excel لنماذج الأعمال القابلة لإعادة الاستخدام.
+* تحويل مجدول لأساليب العمل الوثائقية للمؤسسات.
+* معالجة دفعية لتقارير RTF إلى مكتبات قوالب Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

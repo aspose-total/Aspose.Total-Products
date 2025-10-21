@@ -61,7 +61,31 @@ otherformats: DIF XLS MARKDOWN SXC XLTX XLSB XLSX TSV XLAM EXCEL ODS XLSM FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPT (PowerPoint) в XLTM (Шаблон Excel с поддержкой макросов) позволяет организациям создавать интеллектуальные, многократно используемые шаблоны электронных таблиц на основе презентаций. Шаблоны XLTM автоматизируют повторяющиеся задачи и упрощают поддержание единообразия в отчетах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование отчетов PowerPoint в шаблоны Excel с поддержкой макросов.
+* Создание интеллектуальных шаблонов электронных таблиц для автоматизированной аналитики.
+* Стандартизация повторяющихся моделей финансовой отчетности.
+* Создание шаблонов Excel, которые воспроизводят макет и логику PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое преобразование слайдов в XLTM для шаблонов отчетов с макросами.
+* Интеграция в автоматизированные рабочие процессы ввода данных и аналитики.
+* Плановое создание многократно используемых шаблонов Excel с поддержкой макросов.
+* Пакетная обработка для стандартизации шаблонов в большом масштабе.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

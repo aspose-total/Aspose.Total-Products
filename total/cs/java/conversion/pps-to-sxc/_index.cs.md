@@ -61,7 +61,31 @@ Při převodu souboru PPS na SXC můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod souborů PPS (PowerPoint Slide Show) do formátu SXC (tabulkový procesor StarOffice Calc) pomáhá organizacím pracujícím s dědictvím nebo open-source kancelářskými balíky znovu využít data prezentací ve formě tabulky. Umožňuje strukturovanou analýzu a reporting bez potřeby vlastního softwaru.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace obchodních prezentací do analyzovatelných dat ve formě tabulky.
+* Export prodejních nebo finančních shrnutí snímků do formátu SXC.
+* Příprava listů kompatibilních s OpenOffice z PPS zpráv.
+* Převod vzdělávacích prezentací do strukturovaných, sdílitelných tabulek.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované generování SXC pro pracovní postupy založené na LibreOffice.
+* Integrace do systémů pro správu otevřených dokumentů.
+* Hromadný převod snímků do formátu SXC pro archivy analýz.
+* Plánované exporty pro týmy používající open-source kancelářská prostředí.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

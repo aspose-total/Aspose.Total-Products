@@ -53,7 +53,31 @@ Pomocí API můžete také provést převod PPS souboru na DOT s vodoznakem. Chc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PPS (PowerPoint Slide Show) na DOT (Šablona Word 97–2003) pomáhá firmám vytvářet opakovaně použitelné šablony dokumentů z obsahu prezentací, zajistí tak konzistentní značení a strukturu v prostředích starších verzí Wordu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření standardizovaných šablon reportů z firemních prezentací.
+* Generování opakovaně použitelných šablon DOT pro dokumentaci v oblasti HR nebo financí.
+* Vytváření šablon kompatibilních se staršími verzemi z vizuálních snímků.
+* Převádění materiálů z PowerPointu do formalizovaných textových rozvržení.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Plánované generování šablon z schválených prezentací v PowerPointu.
+* Integrace do systémů pro správu dokumentů pro uložení souborů DOT.
+* Automatické vytváření šablon DOT pro starší verze pro konzistentní formátování.
+* Hromadná konverze pro organizace udržující knihovny šablon.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

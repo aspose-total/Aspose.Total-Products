@@ -61,7 +61,31 @@ otherformats: DIF EXCEL FODS XLSX XLTM XLSB XLAM XLSM XLT TSV MHTML SXC MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PPTX إلى MHTML (Web Archive) يمكن الوصول إليها دون اتصال، وذلك من خلال ملف واحد يمكن فتحه في المتصفح. إنه مثالي لتوزيع المحتوى التفاعلي دون الحاجة إلى PowerPoint أو برامج خارجية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* إنشاء نسخ قابلة للعرض على الويب من عروض PowerPoint.
+* مشاركة عروض تعليمية مكتملة الذات عبر البريد الإلكتروني.
+* تخزين الشرائح التفاعلية للتدريب التنفيذي دون اتصال.
+* تضمين عروض العروض التوضيحية للمنتجات في صفحات الشبكة الداخلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعة من PPTX إلى MHTML لمستودعات التعلم الإلكتروني.
+* نشر تلقائي لعروض التسويق كملفات MHTML.
+* أرشفة عروض الشركة للتشغيل عبر المتصفح.
+* التكامل مع أنظمة توصيل المستندات للوصول الآمن دون اتصال.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

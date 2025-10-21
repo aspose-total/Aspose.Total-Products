@@ -121,7 +121,31 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG (масштабируемая векторная графика) в POT (шаблон PowerPoint 97-2003) позволяет создавать многоразовые шаблоны слайдов с векторными диаграммами для старых версий PowerPoint. POT обеспечивает согласованный дизайн презентации в старых средах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Стандартизированные корпоративные шаблоны презентаций с встроенными SVG-панелями управления.
+* Образовательные шаблоны слайдов для обучающего и электронного обучающего контента.
+* Шаблоны маркетинговых кампаний, демонстрирующие интерактивные векторные диаграммы.
+* Академические шаблоны презентаций для конференций и лекций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное пакетное преобразование диаграмм SVG в шаблоны POT.
+* Плановые обновления для многоразовых шаблонов презентаций.
+* Интеграция с устаревшими системами презентаций для согласованного форматирования.
+* Генерация шаблонов из живых SVG-панелей управления по триггеру.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

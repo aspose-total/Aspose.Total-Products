@@ -61,7 +61,31 @@ otherformats: XLAM ODS XLSM XLTX TSV EXCEL XLTM FODS XLT XLSB DIF XLS XLSX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات RTF (تنسيق النصوص الغنية) إلى DIF (تنسيق تبادل البيانات) يمكن أن يسمح بتحويل التقارير المنظمة والمستندات إلى مجموعات بيانات جاهزة لجداول البيانات. يكون هذا التحويل مفيدًا بشكل خاص للمؤسسات التي تتعامل مع معلومات جدولية تم إنشاؤها أصلاً في تنسيق RTF ولكن تتطلب تحليلًا في أدوات جداول البيانات أو بيئات BI.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل البيانات المالية المنسقة في تنسيق RTF إلى DIF للاستيراد إلى Excel أو LibreOffice Calc.
+* استخراج البيانات الجدولية من التقارير المعتمدة على تنسيق RTF إلى شكل يمكن قراءته بواسطة الآلة للتحليل.
+* إعداد ملخصات الأبحاث التي تم إنشاؤها بواسطة RTF لمعالجة الإحصائيات.
+* ترحيل سجلات المستندات القديمة إلى أنظمة إدارة البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تصدير دفعة من RTF إلى DIF في سير العمل الرقمي للمستندات.
+* دمجها في عمليات ETL لاستخراج البيانات المنظمة.
+* ترحيل البيانات التلقائي من معالجة النصوص إلى لوحات تحليلية.
+* خطوط أنابيب التحويل التي تدعم نشر البيانات الحكومية أو الأكاديمية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

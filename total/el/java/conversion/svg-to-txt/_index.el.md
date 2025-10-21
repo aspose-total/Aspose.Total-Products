@@ -47,7 +47,31 @@ otherformats: EXCEL TSV SXC XLTX XLT TXT ODS MD XLSB DIF XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή SVG σε TXT (Καθαρό Κείμενο) εξάγει το κειμενικό περιεχόμενο από διανυσματικά γραφικά για ανάλυση, ευρετήριση ή ελαφριά τεκμηρίωση. Το TXT είναι ιδανικό για απλές, σεναριοποιήσιμες ροές εργασίας.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Εξαγωγή ετικετών και σχολίων από διαγράμματα SVG για τεκμηρίωση.
+* Δημιουργία αναζητήσιμων εκδόσεων καθαρού κειμένου τεχνικών εικόνων.
+* Δημιουργία ελαφρών αναφορών μεταδεδομένων SVG για ανάλυση δεδομένων.
+* Γρήγορος κοινοποίηση κειμενικού περιεχομένου SVG χωρίς εικόνες.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη εξαγωγή κειμένου SVG σε TXT για αναφορικές αγωγές.
+* Προγραμματισμένη δημιουργία τεκμηρίωσης καθαρού κειμένου από διανυσματικά διαγράμματα.
+* Ενσωμάτωση με συστήματα ευρετηρίασης και αναζήτησης.
+* Ενεργοποιημένη μετατροπή για αναλύσεις και ελαφριές ροές περιεχομένου.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

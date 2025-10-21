@@ -61,7 +61,31 @@ otherformats: XLTX XLS DIF XLSB EXCEL XLSM XLAM XLSX SXC MARKDOWN TSV XLTM XLT M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل عروض الباوربوينت (PPT) إلى تنسيق جداول البيانات المفتوحة (ODS) يحول بيانات الشرائح البصرية إلى شكل جداول بيانات منظمة. إنه مثالي للمؤسسات التي تستخدم حزم البرامج المكتبية مفتوحة المصدر وتحتاج إلى استخراج البيانات الرقمية أو الجدولية من العروض التقديمية للتحليلات والتقارير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تصدير جداول الشرائح إلى جداول بيانات ODS قابلة للتحرير لـ LibreOffice Calc.
+* تحويل مؤشرات الأعمال من لوحات القيادة في برنامج PowerPoint إلى بيانات جدولية.
+* أرشفة الشرائح المالية والتحليلية في تنسيق ODS المفتوح.
+* تمكين التعاون في بيئات جداول البيانات المفتوحة المعيارية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل PPT إلى ODS تلقائيًا لتقارير الحكومة أو المنظمات غير الحكومية.
+* التكامل مع أنابيب التحليل مفتوحة المصدر.
+* جدولة تحويل العروض التقديمية إلى جداول بيانات لأغراض التدقيق.
+* مشاركة التقارير بين الأقسام باستخدام قوالب تعتمد على ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

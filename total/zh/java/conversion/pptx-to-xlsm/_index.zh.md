@@ -61,7 +61,31 @@ otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS XLSM MHTML ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPTX文件转换为XLSM（启用宏的Excel工作簿）可为演示数据增加自动化潜力。企业可以在从幻灯片生成的电子表格中嵌入用于计算、格式化和分析的宏。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将幻灯片数据转换为基于宏的Excel报告。
+* 从PowerPoint指标自动化KPI计算。
+* 使用VBA宏创建动态仪表板。
+* 通过演示到宏的链接增强数据工作流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从销售或预算幻灯片自动生成XLSM文件。
+* 与Excel自动化工具和脚本集成。
+* 为定期PowerPoint报告批量创建宏。
+* 使用嵌入的PowerPoint数据触发智能分析。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

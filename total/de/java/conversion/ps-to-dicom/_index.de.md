@@ -57,7 +57,31 @@ Mit der API können Sie das ausgegebene DICOM-Bild auch nach Ihren Bedürfnissen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von PS (PostScript)-Dateien in das DICOM (Digital Imaging and Communications in Medicine)-Format ermöglicht eine nahtlose Integration von vektorbasierten Berichten, diagnostischen Diagrammen und radiologischen Annotationen in standardisierte medizinische Bildverarbeitungsworkflows. Die DICOM-Kompatibilität stellt sicher, dass diese visuellen Berichte sicher auf PACS (Picture Archiving and Communication System)-Plattformen angesehen und analysiert werden können, die in Krankenhäusern und Kliniken verwendet werden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Einbetten von vektorbasierten diagnostischen Diagrammen in Patientenbildarchive.
+* Konvertierung von kardiologischen oder onkologischen PS-Diagrammen in DICOM-kompatible Bilderserien.
+* Integration von chirurgischen Planungsvisualisierungen in Krankenhaus-Bildgebungssysteme.
+* Generierung von diagnostischen Zusammenfassungen als DICOM-Overlays für radiologische Berichte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte PS-zu-DICOM-Umwandlung innerhalb von EMR (Electronic Medical Record)-Workflows.
+* ETL-Datenintegration in Gesundheitsanalyse-Pipelines für bildbasierte Berichterstattung.
+* KI-unterstützte Stapelkonvertierung für diagnostische Visualisierung in medizinischen KI-Systemen.
+* Ausgelöste DICOM-Exporte für automatisch generierte klinische Bildgebungsdokumentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

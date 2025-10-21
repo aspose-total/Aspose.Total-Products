@@ -47,7 +47,31 @@ otherformats: XLSM XLT MD XLAM XLSB XLTX XLTM TXT SXC ODS DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PS (PostScript) в FODS (Flat XML OpenDocument Spreadsheet) позволяет использовать структурированные данные из диаграмм и таблиц PostScript в приложениях электронных таблиц с открытым исходным кодом, таких как LibreOffice. Это обеспечивает переносимость, прозрачность и совместимость.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Извлечение финансовых таблиц из отчетов PS в электронные таблицы LibreOffice.
+* Преобразование научных или инженерных данных из диаграмм PostScript в FODS.
+* Подготовка данных для аналитики и отчетности на различных платформах.
+* Обеспечение использования электронных таблиц с открытым исходным кодом без ограничений собственности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PS в FODS для многоотделных рабочих процессов.
+* Интеграция в конвейеры ETL для аналитики в открытом формате.
+* Автоматизированное извлечение табличных данных из макетов PS.
+* Облачное преобразование для совместных сред с открытым исходным кодом.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,31 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG в PPT (PowerPoint 97-2003) позволяет встраивать векторную графику в устаревшие слайды. PPT обеспечивает совместимость с более старыми версиями PowerPoint, сохраняя визуальное качество.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Корпоративные презентации с встроенными панелями SVG для устаревшего программного обеспечения.
+* Академические или исследовательские слайды с использованием старых форматов PowerPoint.
+* Тренировочные и инструкционные слайды, совместимые с более старыми системами.
+* Маркетинговые презентации, стандартизированные для совместимости между версиями.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование SVG в PPT для устаревших потребностей презентаций.
+* Плановые экспорты слайдов на основе SVG в старые форматы PowerPoint.
+* Интеграция с отчетными конвейерами для доставки устаревших презентаций.
+* Автоматическое преобразование для создания автоматизированных слайд-деков.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

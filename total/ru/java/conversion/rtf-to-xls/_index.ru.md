@@ -61,7 +61,31 @@ otherformats: TSV XLSM DIF XLTM SXC XLT XLS EXCEL FODS XLSB XLTX XLAM ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование RTF в XLS (формат бинарного файла Excel) обеспечивает надежный способ повторного использования текстовых и табличных данных из документов в широко поддерживаемом формате электронных таблиц. Особенно ценно для организаций, использующих среды Microsoft Excel 97–2003.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование отчетов, сгенерированных в формате RTF, в устаревшие электронные таблицы Excel.
+* Экспорт данных, основанных на RTF, в формате XLS для систем учета.
+* Повторное использование отформатированного содержимого документов в макросах или формулах Excel.
+* Подготовка архивных бизнес-данных для анализа в электронных таблицах.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование RTF в XLS для обеспечения обратной совместимости рабочих процессов.
+* Интеграция с системами предприятий для отчетности с использованием старых версий Excel.
+* Автоматизированное преобразование документов в проектах цифровизации данных.
+* Планирование генерации выходных файлов XLS для отчетности, основанной на требованиях соответствия.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

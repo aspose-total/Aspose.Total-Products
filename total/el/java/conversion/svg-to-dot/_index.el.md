@@ -130,7 +130,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή SVG σε DOT (Πρότυπο Word 97-2003) επιτρέπει τη δημιουργία επαναχρησιμοποιήσιμων προτύπων εγγράφων με ενσωματωμένα διανύσματα διαγραμμάτων συμβατά με παλαιότερες εκδόσεις Word. Το DOT εξασφαλίζει συνεπή μορφοποίηση σε παλαιά συστήματα.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+* Πρότυπα εκθέσεων με διαγράμματα SVG για παλαιά έγγραφα Word.
+* Πρότυπα προτάσεων έργων που ενσωματώνουν οπτικά πίνακες ελέγχου.
+* Επαναχρησιμοποιήσιμα ακαδημαϊκά ή εκπαιδευτικά πρότυπα που χρησιμοποιούν οπτικά SVG.
+* Πρότυπα ιστορικών εγγράφων για επαγγελματικές ή μηχανικές ροές εργασίας.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* Αυτοματοποιημένη δημιουργία προτύπων SVG σε DOT για παλαιές ροές εργασίας Word.
+* Προγραμματισμένες ενημερώσεις προτύπων με νέα οπτικά SVG.
+* Ενσωμάτωση σε συστήματα διαχείρισης εγγράφων που απαιτούν πρότυπα συμβατά προς τα πίσω.
+* Ενεργοποιημένη μετατροπή για επαναλαμβανόμενες εκθέσεις και επαναχρησιμοποιήσιμα πρότυπα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

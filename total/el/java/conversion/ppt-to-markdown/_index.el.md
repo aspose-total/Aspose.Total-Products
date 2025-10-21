@@ -61,7 +61,31 @@ otherformats: DIF XLT FODS ODS XLS EXCEL TSV XLAM XLSB XLSM MHTML XLSX SXC XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή παρουσιάσεων PPT (PowerPoint) σε μορφή MARKDOWN (.md) επιτρέπει την άνετη μετατροπή οπτικού περιεχομένου σε ελαφριά, έτοιμη για το web τεκμηρίωση. Αυτή η μετατροπή είναι υψίστης ωφέλιμης για προγραμματιστές, διαχειριστές περιεχομένου και ομάδες τεκμηρίωσης που επιθυμούν να επαναχρησιμοποιήσουν διαφάνειες σε blogs, wikis ή τεχνικά εγχειρίδια.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή παρουσιάσεων PowerPoint σε τεκμηρίωση Markdown για GitHub ή GitLab.
+* Επαναχρησιμοποίηση διαφανειών εκπαίδευσης ή ενημέρωσης σε περιεχόμενο README ή wiki.
+* Δημοσίευση τεχνικών παρουσιάσεων απευθείας σε γεννητές στατικών ιστοσελίδων όπως το Hugo ή το Jekyll.
+* Εξαγωγή σημειώσεων και περιγραφών από PowerPoint ως δομημένο κείμενο Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένη μετατροπή PPT σε Markdown για αγωγούς τεκμηρίωσης προγραμματιστών.
+* Ενσωμάτωση σε ροές αυτοματισμού περιεχομένου για ομάδες μηχανικών.
+* Προγραμματισμένες εξαγωγές από παρουσιάσεις PowerPoint σε Markdown για αλλαγές.
+* Ροές μετατροπής για τεχνικά blogs SEO ή τεκμηρίωση API.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

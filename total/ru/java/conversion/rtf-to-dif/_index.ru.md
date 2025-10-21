@@ -61,7 +61,31 @@ otherformats: XLAM ODS XLSM XLTX TSV EXCEL XLTM FODS XLT XLSB DIF XLS XLSX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов RTF (Rich Text Format) в DIF (Data Interchange Format) позволяет преобразовать структурированные отчеты и документы в наборы данных, готовые для использования в электронных таблицах. Это преобразование особенно полезно для организаций, которые работают с табличной информацией, изначально созданной в формате RTF, но требующей анализа в инструментах электронных таблиц или средах бизнес-аналитики.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование форматированных финансовых отчетов в формате RTF в DIF для импорта в Excel или LibreOffice Calc.
+* Извлечение табличных данных из отчетов на основе RTF в машинно-читаемую форму для аналитики.
+* Подготовка исследовательских сводок, сгенерированных в формате RTF, для статистической обработки.
+* Миграция устаревших документов в системы управления данными.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетный экспорт из RTF в DIF в рамках рабочих процессов цифровизации документов.
+* Интеграция в процессы ETL для извлечения структурированных данных.
+* Автоматизированная миграция данных из текстовых процессоров в аналитические панели управления.
+* Конвертационные конвейеры, поддерживающие публикацию данных в государственных или академических целях.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

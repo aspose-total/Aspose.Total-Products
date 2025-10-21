@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование SVG в DOT (шаблон Word 97-2003) позволяет создавать многоразовые шаблоны документов с встроенными векторными диаграммами, совместимыми с более старыми версиями Word. DOT обеспечивает согласованный форматирование на старых системах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Стандартизированные шаблоны отчетов с SVG-диаграммами для устаревших документов Word.
+* Шаблоны проектных предложений с визуальными панелями управления.
+* Многоразовые академические или образовательные шаблоны с использованием визуальных элементов SVG.
+* Шаблоны исторических документов для бизнеса или инженерных рабочих процессов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированная генерация пакетов шаблонов SVG в DOT для устаревших рабочих процессов Word.
+* Плановое обновление шаблонов с новыми визуальными элементами SVG.
+* Интеграция в системы управления документами, требующие обратной совместимости шаблонов.
+* Запуск преобразования для повторяющихся отчетов и многоразовых шаблонов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

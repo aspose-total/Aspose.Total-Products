@@ -61,7 +61,31 @@ Při převodu souboru PPTX na MARKDOWN můžete také přidat vodoznak do výstu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PPTX na Markdown transformuje statické prezentace do lehkého, webem připraveného textu. Markdown nabízí jednoduchost pro sdílení obsahu, umožňuje snadné publikování na blogy, dokumentační platformy a statické webové stránky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Přetváření prezentací v PowerPointu na technickou dokumentaci.
+* Publikování poznámek a obsahu snímků na Git-based wiki.
+* Vytváření blogových shrnutí prezentčních snímků.
+* Převádění firemních prezentací na články v bázi znalostí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické exporty Markdownu z firemních výukových snímků.
+* Integrace s dokumentačními systémy jako Hugo nebo Jekyll.
+* Dávkové zpracování pro převod interních snímků na Markdownové příspěvky.
+* Kontinuální integrace pro verzování obsahu ve formátu Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

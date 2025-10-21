@@ -57,7 +57,31 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PS (PostScript) na formát DXF (Drawing Exchange Format) umožňuje importovat přesné vektorové návrhy z dokumentů PostScript do aplikací CAD (počítačem podporovaný design). Tato konverze je ideální pro inženýry, architekty a designéry, kteří potřebují upravitelné technické výkresy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace schémat založených na PS do souborů DXF kompatibilních s CAD.
+* Převod architektonických podlažních plánů z PostScriptových rozvrhů pro 3D modelování.
+* Importování inženýrských diagramů do AutoCADu pro další úpravy návrhu.
+* Sdílení technických vektorových návrhů mezi platformami podporujícími formát DXF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná konverze PS na DXF v návrhových a inženýrských potrubích.
+* Integrace s automatizací pracovního postupu CAD pro rychlé iterace projektu.
+* Automatický převod diagramů generovaných PS v dokumentaci stavebních prací.
+* Generování DXF v cloudu pro spolupracující designové týmy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

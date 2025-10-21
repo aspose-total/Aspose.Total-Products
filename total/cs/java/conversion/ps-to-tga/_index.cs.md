@@ -57,7 +57,31 @@ Pomocí API můžete také otočit výstupní obrázek TGA podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů PS (PostScript) na TGA (Targa Image) umožňuje vysokou kvalitu rasterizace grafiky PostScript pro použití ve video, multimédiích a projektech návrhu her. TGA udržuje hloubku barev a podporuje alfa kanály pro pokročilé komponování obrázků.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Transformace ilustrací PostScriptu na obrazy TGA pro multimediální produkci.
+* Převádění diagramů PS pro použití v 3D renderovacích a animačních potrubích.
+* Export technické grafiky pro herní designové prvky.
+* Příprava rozložení PS pro video překrytí nebo kompoziční pracovní postupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná konverze PS na TGA v multimediální produkčních potrubích.
+* Hromadné zpracování obrázků PS pro video a herní projekty.
+* Integrace s grafickými enginy pro dynamické renderovací postupy.
+* Optimalizace vizuálů PS asistovaná umělou inteligencí pro výstup TGA s alfa kanály.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

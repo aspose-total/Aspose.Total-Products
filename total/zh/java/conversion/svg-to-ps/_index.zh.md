@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG（可缩放矢量图形）文件转换为PS（PostScript）可实现高质量打印和可扩展输出，适用于专业出版。PS保持矢量完整性，确保图形在各种印刷媒体上清晰显示。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 高分辨率打印技术图表和工程可视化内容。
+* 具有可扩展SVG图形的营销手册或海报。
+* 用于期刊发表的学术图表和插图。
+* 需要基于矢量的清晰度的专业报告和手册。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将SVG文件批量转换为PS以实现打印准备工作流程的自动化。
+* 定期发布任务的图表定时导出。
+* 与桌面出版软件集成，实现高质量输出。
+* 从SVG仪表板触发生成基于矢量的印刷材料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

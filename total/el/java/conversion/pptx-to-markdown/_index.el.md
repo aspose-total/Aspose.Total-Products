@@ -61,7 +61,31 @@ otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS MARKDOWN XLSB MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή αρχείων PPTX σε Markdown μετατρέπει στατικές παρουσιάσεις σε ελαφρύ κείμενο έτοιμο για το web. Το Markdown προσφέρει απλότητα για την κοινοποίηση περιεχομένου, επιτρέποντας εύκολη δημοσίευση σε blogs, πλατφόρμες τεκμηρίωσης και στατικές ιστοσελίδες.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+* Επαναχρησιμοποίηση των διαφανειών PowerPoint σε τεχνική τεκμηρίωση.
+* Δημοσίευση σημειώσεων διαφανειών και περιεχομένου σε wikis βασισμένα σε Git.
+* Δημιουργία περιλήψεων διαφανειών παρουσιάσεων έτοιμων για blog.
+* Μετατροπή εταιρικών παρουσιάσεων σε άρθρα βάσης γνώσεων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτοματοποιημένες εξαγωγές Markdown από παρουσιάσεις εταιρικής εκπαίδευσης.
+* Ενσωμάτωση με συστήματα δημιουργίας τεκμηρίωσης όπως το Hugo ή το Jekyll.
+* Μαζική επεξεργασία για τη μετατροπή εσωτερικών παρουσιάσεων σε αναρτήσεις Markdown.
+* Συνεχής ενσωμάτωση για την έκδοση περιεχομένου σε μορφή Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

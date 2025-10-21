@@ -61,7 +61,31 @@ otherformats: FODS XLAM ODS TSV XLSB XLSM XLTX EXCEL XLS XLTM DIF SXC XLSX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документов RTF в SXC (таблицы StarOffice Calc) обеспечивает совместимость с более старыми экосистемами OpenOffice и StarOffice. Это идеально подходит для предприятий, поддерживающих устаревшую инфраструктуру, где необходимо повторно использовать отчеты или данные в форме электронных таблиц.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование исторических бизнес-отчетов на основе RTF в архивы SXC.
+* Повторное использование данных RTF для анализа в системах, совместимых с StarOffice.
+* Экспорт табличной информации из обработанных текстовых форм в модели электронных таблиц.
+* Модернизация архивного контента RTF для внутреннего отслеживания данных.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Плановые преобразования RTF в SXC для поддержки устаревших систем.
+* Пакетные преобразования во время обновлений систем документов.
+* Интеграция в инструменты предприятий для миграции, поддерживающие наборы данных StarOffice.
+* Автоматизированное воспроизведение архивов для соответствия или резервного копирования.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

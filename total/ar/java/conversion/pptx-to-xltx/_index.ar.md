@@ -61,7 +61,31 @@ otherformats: EXCEL DIF ODS XLSM XLTX XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTX إلى XLTX (قالب Excel) يمكن الشركات من إنشاء قوالب منظمة ومتسقة بصريًا مباشرة من عروض PowerPoint. يسهل ذلك إنشاء التقارير ويفرض توحيد العلامة التجارية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* بناء قوالب Excel تعكس معايير تصميم PowerPoint.
+* إنشاء أوراق KPI مُنسَّقة من الشرائح.
+* إعادة استخدام العروض التقديمية في قوالب تقارير الإدارات.
+* إنشاء إطار عرض بيانات موحد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء XLTX تلقائيًا لفرق المالية والتسويق.
+* دمجه في أنظمة توفير القوالب.
+* جدولة إنشاء القوالب من PowerPoint في سير العمل الشركات.
+* إدارة قوالب Excel مركزية مستمدة من العروض التقديمية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

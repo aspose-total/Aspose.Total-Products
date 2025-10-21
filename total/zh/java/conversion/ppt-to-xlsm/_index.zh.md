@@ -61,7 +61,31 @@ otherformats: SXC XLS XLSX XLSM DIF MARKDOWN FODS ODS MHTML XLTX TSV EXCEL XLT X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）文件转换为XLSM（启用宏的Excel工作簿）可以将演示文稿中的动态数据与Excel宏集成。这种格式非常适合自动化计算、生成交互式仪表板，并将幻灯片链接到智能数据处理过程中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于幻灯片的指标转换为启用宏的Excel报告。
+* 从PowerPoint可视化内容构建自动化的KPI仪表板。
+* 将演示文稿数据与基于VBA的业务工具集成。
+* 为高管创建交互式数据摘要。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将PowerPoint幻灯片自动转换为XLSM以进行实时报告。
+* 与财务模型宏集成以进行实时分析。
+* 从幻灯片数据生成定时启用宏报告。
+* 为数据驱动型组织自动创建Excel工作簿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

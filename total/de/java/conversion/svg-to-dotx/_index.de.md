@@ -130,7 +130,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG-Dateien in DOTX (Word Open XML Template) erstellt moderne, wiederverwendbare Dokumentenvorlagen mit eingebetteten Vektorgrafiken. DOTX ist leichtgewichtig, unterstützt neue Word-Funktionen und eignet sich ideal für standardisierte Berichterstattung.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Wiederverwendbare Geschäftsberichtsvorlagen mit SVG-basierten Diagrammen.
+* Standardisierte akademische oder instruktive Vorlagen mit SVG-Visuals.
+* Erstellung von Marketing- und Betriebstemplates mit Vektordiagrammen.
+* Projektmanagement-Vorlagen für konsistente Formatierung und visuelle Klarheit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Geplante Generierung von SVG-zu-DOTX-Vorlagen für wiederkehrende Berichte.
+* Automatisierter Prozess zur Aktualisierung von wiederverwendbaren Dokumentenvorlagen mit neuen Visuals.
+* Integration in unternehmenseigene Dokumentsysteme für workflowgesteuerte Vorlagen.
+* Auslösen der Konvertierung zur Erstellung interaktiver und standardisierter SVG-basierter Vorlagen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

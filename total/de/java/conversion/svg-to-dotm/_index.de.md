@@ -130,7 +130,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG in DOTM (makrofähige Word-Vorlage) ermöglicht wiederverwendbare Vorlagen, die skalierbare Vektorgrafiken mit Makros kombinieren. Ideal für interaktive Berichte, Formulare und Arbeitsablaufsdokumente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Makrofähige Projektverfolgungsvorlagen mit eingebetteten SVG-Visuals.
+* Wiederverwendbare Finanz- oder Betriebstemplates für Unternehmensarbeitsabläufe.
+* Akademische oder Forschungsvorlagen, die dynamische Diagramme und Automatisierung integrieren.
+* Interaktive E-Learning-Materialien mit makrogestützten SVG-Diagrammen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte SVG-zu-DOTM-Konvertierung für wiederkehrende makrofähige Vorlagen.
+* Geplante Aktualisierungen von Vorlagen mit neuen SVG-Daten und Makros.
+* Integration in Arbeitsablaufautomatisierungssysteme, die wiederverwendbare Vorlagen erfordern.
+* Ausgelöste Konvertierungspipelines für interaktive Berichtsdashboards.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

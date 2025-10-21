@@ -130,7 +130,31 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převádění souborů SVG (škálovatelné vektorové grafiky) do formátu DOCM (dokument s povolenými makry pro Word) umožňuje vložení interaktivních vektorových diagramů do dokumentů Word a zároveň podporuje makra pro automatizaci. DOCM je ideální pro dynamické zprávy, šablony a vzdělávací materiály.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Interaktivní výukové manuály s diagramy ve formátu SVG a navigací s povolenými makry.
+* Obchodní zprávy s animovanými nebo interaktivními vektorovými grafy.
+* Akademické výzkumné práce s dynamickými vizuály ve formátu SVG řízenými makry.
+* Standardizované šablony pro návrhy projektů nebo firemní pracovní postupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* Automatizovaná hromadná konverze diagramů ve formátu SVG do formátu DOCM pro firemní reporting.
+* Plánované vytváření šablon s povolenými makry z vizuálů ve formátu SVG.
+* Integrace s systémy pro správu dokumentů pro interaktivní reporting.
+* Spouštěná konverze ze SVG do DOCM pro dynamický instruktážní obsah.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ otherformats: TEXT DOT WORDML DOTM RTF DOTX FLATOPC WORD DOTM ODT DOTX OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование PPTX в DOT (шаблон Word) создает многоразовые шаблоны на основе данных презентации. Это ценно для организаций, стандартизирующих форматы документации или создающих брендированные шаблоны корпоративных отчетов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание шаблонов DOT на основе корпоративных макетов презентаций.
+* Преобразование слайдов PowerPoint в многоразовые дизайн-фреймворки Word.
+* Подготовка брендированных шаблонов для предложений и клиентских материалов.
+* Создание согласованных шаблонов отчетов для отделов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание шаблонов DOT из повторяющихся слайд-деков.
+* Интеграция рабочего процесса для стандартизации документов.
+* Синхронизация шаблонов в многоподразделенных средах.
+* Планирование конвертации для шаблонов документации предприятия.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

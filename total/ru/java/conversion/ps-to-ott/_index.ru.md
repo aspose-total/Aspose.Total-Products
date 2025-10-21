@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PS (PostScript) в OTT (шаблон текстового документа OpenDocument) позволяет командам создавать стандартизированные, многократно используемые шаблоны текстовых документов. Шаблоны OTT идеально подходят для повторяющихся отчетов, писем или форм, используя макеты PostScript для однородного форматирования.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание многократно используемых текстовых шаблонов на основе отчетов и документов в формате PS.
+* Стандартизация писем, форм и внутренних отчетов в командах.
+* Преобразование созданных в PS руководств в редактируемые шаблоны OTT.
+* Подготовка макетов PostScript для повторяющейся документации в средах с открытым исходным кодом.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование PS в OTT для библиотек шаблонов в корпоративных средах.
+* Интеграция в системы управления документами для развертывания многократно используемых шаблонов.
+* Автоматизированный рабочий процесс для преобразования файлов PostScript в OTT для повторного использования.
+* Извлечение и форматирование из макетов PS в текстовые шаблоны с использованием искусственного интеллекта.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

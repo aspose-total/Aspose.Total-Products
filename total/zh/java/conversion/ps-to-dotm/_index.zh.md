@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为DOTM（Word宏启用模板）结合了模板标准化和自动化。用户可以重复使用布局，同时利用宏来自动填充文档、进行计算或格式化。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将PS报告转换为可重复使用的宏启用Word模板。
+* 使用基于PostScript的布局自动化合同或发票创建。
+* 将PS生成的表格和图表嵌入DOTM模板。
+* 为人力资源、财务或运营工作流程创建交互式表单。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在企业工作流程自动化中批量进行PS到DOTM的转换。
+* 与文档生成系统集成，用于基于宏的任务。
+* AI辅助填充模板，使用PS提取的内容。
+* 定时生成具有宏的模板，满足定期报告需求。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

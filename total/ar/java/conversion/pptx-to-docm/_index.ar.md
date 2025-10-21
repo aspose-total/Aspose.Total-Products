@@ -53,7 +53,31 @@ otherformats: WORDML TEXT RTF ODT DOTX FLATOPC DOCM DOT DOTM OTT DOCMX WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل عروض PPTX إلى DOCM (مستند Word ممكّن للماكرو) يمكّن من تضمين سكربتات الأتمتة والحقول الديناميكية. يستفيد هذا التحويل الشركات التي تقوم بأتمتة إنشاء التقارير أو مهام الوثائق المنظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل بيانات الشرائح إلى تقارير Word ممكّنة للماكرو.
+* إنشاء قوالب تفاعلية تحتوي على حقول بيانات متلقائية.
+* تطوير وثائق سير العمل التي تملأ المحتوى تلقائيًا.
+* إنشاء ملخصات مدعومة بالماكرو من شرائح PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء تقارير DOCM ممكّنة للماكرو تلقائيًا للاجتماعات المتكررة.
+* التكامل مع أنظمة التقارير القائمة على VBA.
+* تنفيذ الماكرو المجدول لتحديثات المستند.
+* ماكروهات PowerPoint-to-Word لزيادة الإنتاجية بشكل مبسط.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

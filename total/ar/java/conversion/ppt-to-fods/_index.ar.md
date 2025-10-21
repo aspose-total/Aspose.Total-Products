@@ -61,7 +61,31 @@ otherformats: EXCEL SXC XLSX XLTX XLSM ODS DIF XLSB XLAM TSV FODS XLS MARKDOWN X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل عروض الباوربوينت (PPT) إلى جداول FODS (Flat OpenDocument Spreadsheet) يسمح للمؤسسات بإعادة استخدام المحتوى المهيكل لأدوات المكتب ذات المعايير المفتوحة. يعتبر تنسيق FODS قيمة خاصة للفرق التي تعتمد على LibreOffice أو Apache OpenOffice لسير العمل الآمن والقابل للتحرير لجداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل جداول الباوربوينت إلى جداول LibreOffice للتحليل.
+* استخراج البيانات المهيكلة من الشرائح للتحرير التعاوني.
+* أرشفة بيانات العروض التقديمية في تنسيقات جداول بيانات مفتوحة ومعتمدة على XML.
+* تحويل العروض التدريبية إلى FODS لأنظمة تسجيل التعليم.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد FODS تلقائيًا من تقارير الباوربوينت للاستخدام مفتوح المصدر.
+* معالجة دفعية في أنظمة الوثائق الحكومية أو التعليمية.
+* دمج تحويل PPT إلى FODS في خطوط الأنابيب للتحول الرقمي.
+* تصديرات مجدولة لتقارير وثائق بين الإدارات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

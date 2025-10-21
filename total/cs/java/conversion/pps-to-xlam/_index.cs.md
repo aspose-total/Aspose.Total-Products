@@ -61,7 +61,31 @@ Při převodu souboru PPS na XLAM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod souborů PPS (PowerPoint Slide Show) na XLAM (Excel Add-In) umožňuje vložení dat odvozených z prezentace do makro-povolených doplňků. Tento převod je ideální pro vývojáře a analytiky, kteří automatizují reportování založené na Excelu a potřebují integrovat data z PowerPointu do rozšíření Excelu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Vytváření XLAM doplňků s metrikami založenými na slajdech pro automatizované reporty.
+* Vytváření makro-řízených nástěnek napájených daty z prezentace PPS.
+* Generování doplňků pro sledování živých KPI pomocí převedených hodnot prezentace.
+* Integrování obsahu PPS do pokročilých skriptů pro automatizaci Excelu.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické generování XLAM z prezentací oddělení.
+* Integrace do podnikových systémů pro automatizaci Excelu.
+* Plánovaný převod PowerPointu na XLAM pro moduly živého reportování.
+* Hromadné vytváření doplňků pro pracovní postupy vizualizace dynamických dat.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -121,7 +121,31 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG (масштабируемая векторная графика) в ODP (презентация OpenDocument) позволяет встраивать векторные диаграммы в презентации стандарта открытых документов. ODP поддерживает масштабируемость и кроссплатформенную совместимость для современных рабочих процессов презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Создание интерактивных презентаций с диаграммами SVG для корпоративных презентаций.
+* Образовательные слайды с векторными иллюстрациями и диаграммами.
+* Маркетинговые презентации, демонстрирующие данные о продукте с масштабируемой графикой.
+* Академические конференции с использованием высококачественных визуальных элементов SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное преобразование SVG в ODP для регулярного обновления презентаций.
+* Запланированное создание шаблонов для тренингов или корпоративных презентаций.
+* Интеграция с платформами презентаций с открытым исходным кодом для автоматизированных рабочих процессов.
+* Запуск конвейеров преобразования для динамически генерируемого содержимого слайдов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von SVG-Dateien in POTX (PowerPoint Open XML Template) erzeugt moderne, wiederverwendbare Folienvorlagen mit Vektorgrafiken. POTX eignet sich ideal zur Standardisierung von Präsentationen in Teams mit leichtgewichtigen, makrofreien Vorlagen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Erstellung wiederverwendbarer Geschäftsberichtsvorlagen mit SVG-Diagrammen.
+* Bildungsvorlagen mit eingebetteten Vektordiagrammen.
+* Marketingkampagnenvorlagen, standardisiert für den Teamgebrauch.
+* Akademische oder Konferenzpräsentationsvorlagen mit skalierbaren Visuals.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte Erstellung von SVG-zu-POTX-Vorlagen für wiederkehrende Präsentationsanforderungen.
+* Geplante Aktualisierungen von Vorlagen mit frischem SVG-Inhalt.
+* Integration in die unternehmensweite Workflow-Automatisierung für konsistente Formatierung.
+* Ausgelöste Vorlagenerstellungs-Pipelines von Live-SVG-Dashboards.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

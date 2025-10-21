@@ -52,7 +52,31 @@ otherformats: RTFM RTFX DOTM FLATOPC OTT RTF ODT WORD TEXT DOT WORDML DOTX
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 PPS（PowerPoint 幻灯片展示）文件转换为 RTF（Rich Text Format）可让用户生成保留格式的跨平台文本文档，确保在不同的文字处理软件和操作系统中可读性。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将 PowerPoint 文本导出为 RTF 以进行跨平台共享。
+* 将教育幻灯片转换为格式化的可打印笔记。
+* 从 PPS 商务幻灯片生成轻量级的 RTF 报告。
+* 为存档或审阅目的创建便携式文档。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于合规文件分发的自动化 RTF 转换。
+* 集成到知识管理系统中，用于轻量级文件存储。
+* 定时将幻灯片转换为 RTF 以生成基于文本的摘要。
+* 从多个演示文稿文件批量生成 RTF。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

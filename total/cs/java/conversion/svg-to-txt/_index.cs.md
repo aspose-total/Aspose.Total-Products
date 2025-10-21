@@ -47,7 +47,31 @@ Při převodu souboru SVG na TXT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na TXT (čistý text) extrahuje textový obsah z vektorové grafiky pro analýzu, indexování nebo lehkou dokumentaci. TXT je ideální pro jednoduché, skriptovatelné pracovní postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+* Extrahování popisků a poznámek ze SVG diagramů pro dokumentaci.
+* Vytváření vyhledatelných verzí technických ilustrací v čistém textu.
+* Generování lehkých zpráv o metadatech SVG pro analýzu dat.
+* Rychlé sdílení textového obsahu SVG bez obrázků.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná extrakce textu ze SVG do TXT pro reportovací potrubí.
+* Plánované generování dokumentace v čistém textu z vektorových diagramů.
+* Integrace s indexačními a vyhledávacími systémy.
+* Spuštěný převod pro analytické a lehké pracovní postupy s obsahem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

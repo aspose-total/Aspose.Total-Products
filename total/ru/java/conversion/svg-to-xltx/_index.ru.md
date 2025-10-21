@@ -47,7 +47,31 @@ otherformats: SXC XLSB TXT DIF EXCEL XLSM FODS XLTM TSV ODS MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов SVG в XLTX (Excel Open XML Template) создает современные, многоразовые шаблоны электронных таблиц с масштабируемой векторной графикой. XLTX совместим с более новыми версиями Excel и поддерживает чистые, легкие шаблоны без макросов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Создание многоразовых шаблонов бизнес-аналитики с визуальными панелями SVG.
+* Стандартизированные шаблоны отчетности по HR или операционной деятельности для корпоративных команд.
+* Образовательные или исследовательские шаблоны с интерактивными графиками SVG.
+* Шаблоны для оценки эффективности маркетинговых кампаний с использованием встроенной векторной графики.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное создание шаблонов XLTX из визуальных панелей SVG для корпоративной отчетности.
+* Плановые обновления для поддержания актуальности многоразовых шаблонов с последними визуальными данными.
+* Интеграция с автоматизированными конвейерами отчетности для шаблонных рабочих процессов.
+* Вызванное преобразование живых визуальных панелей SVG в шаблоны XLTX для использования командой.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

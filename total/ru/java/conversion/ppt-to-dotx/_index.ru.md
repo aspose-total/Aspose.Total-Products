@@ -53,7 +53,31 @@ otherformats: DOTXX WORDML DOTXM FLATOPC DOTX DOT DOTM OTT TEXT ODT RTF WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование презентаций PPT (PowerPoint) в DOTX (Word Template Open XML) позволяет создавать многоразовые шаблоны без макросов, сохраняя брендинг и согласованность форматирования. Это идеально подходит для стандартизации документов в крупных организациях.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование брендированных дизайнов PowerPoint в шаблоны Word DOTX.
+* Поддержание визуальной согласованности в бизнес-отчетах и письмах.
+* Создание многоразовых шаблонов документов для отделов.
+* Создание библиотек шаблонов на основе корпоративных тем презентаций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование PPT в DOTX для развертывания шаблонов на уровне предприятия.
+* Интеграция в процессы соблюдения бренда и стандартизации контента.
+* Плановое обновление шаблонов DOTX на основе новых дизайнов презентаций.
+* Пакетное преобразование для обеспечения согласованности документов в команде.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

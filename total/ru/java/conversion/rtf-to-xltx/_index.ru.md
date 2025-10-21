@@ -61,7 +61,31 @@ otherformats: XLTM ODS XLAM XLS XLSB FODS XLT XLTX TSV XLSM XLSX SXC EXCEL DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование RTF в XLTX (Excel Template Open XML Format) позволяет организациям повторно использовать макеты документов в современных средах Excel без макросов. Он широко используется для отчетности, ввода данных и форматирования профессиональных документов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование финансовых сводок на основе RTF в многоразовые шаблоны XLTX.
+* Создание стандартизированных макетов Excel для отчетов и форм.
+* Преобразование документации компании в современные таблицы.
+* Подготовка отделных шаблонов из файлов данных RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное создание XLTX из RTF для рабочих процессов предприятия.
+* Интеграция с системами автоматизации документов для стандартизированных форм.
+* Плановое создание шаблонов Excel из архивированных документов RTF.
+* Пакетное преобразование с поддержкой современной совместимости с Excel и Office 365.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

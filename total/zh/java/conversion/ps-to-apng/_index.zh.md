@@ -57,7 +57,31 @@ otherformats: SVGZ DXF PSD IMAGE EMZ TGA JPEG2000 WMZ  WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为APNG（动态可移植网络图形）可为静态基于矢量的图形添加动态和互动性。这种转换使得多页PS报告、工程可视化或营销图表变成动画序列，非常适合数字仪表板和教育网络平台。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将多层PS设计草图转换为动画产品模型。
+* 为商业演示网站创建动态信息图表。
+* 为电子学习门户开发基于动画的工程图表。
+* 将静态PS插图转换为轻量级的APNG动画以供移动使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在实时仪表板系统中批量进行动画渲染。
+* 集成到用于动画教程的内容生成工作流程中。
+* 在营销活动流程中自动进行PS到APNG的转换。
+* 触发式生成用于网络发布或应用通知的动画。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

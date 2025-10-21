@@ -57,7 +57,29 @@ Usando la API, también puede rotar la imagen DICOM de salida según sus necesid
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de archivos PS (PostScript) a formato DICOM (Comunicaciones y Imágenes Digitales en Medicina) permite la integración perfecta de informes basados en vectores, gráficos de diagnóstico y anotaciones radiográficas en flujos de trabajo de imágenes médicas estandarizados. La compatibilidad DICOM garantiza que estos informes visuales se puedan ver y analizar de forma segura en plataformas PACS (Sistema de Comunicación y Archivo de Imágenes) utilizadas en hospitales y clínicas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Incrustar diagramas de diagnóstico basados en vectores en archivos de imágenes de pacientes.
+* Convertir gráficos de PS de cardiología u oncología en series de imágenes compatibles con DICOM.
+* Integrar visuales de planificación quirúrgica dentro de los sistemas de imágenes hospitalarias.
+* Generar resúmenes de diagnóstico como superposiciones DICOM para informes de radiología.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Transformación automatizada de PS a DICOM dentro de flujos de trabajo de EMR (Registro Médico Electrónico).
+* Integración de datos ETL en tuberías de análisis de salud para informes basados en imágenes.
+* Conversión por lotes asistida por IA para visualización diagnóstica en sistemas de IA médica.
+* Exportación DICOM desencadenada para documentación de imágenes clínicas generadas automáticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

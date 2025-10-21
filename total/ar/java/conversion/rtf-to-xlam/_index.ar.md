@@ -61,7 +61,31 @@ otherformats: DIF XLSX XLSM XLTM XLS XLAM XLTX TSV SXC ODS XLSB FODS XLT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى XLAM (إضافة Excel) يسمح للمطورين والمحللين بتضمين محتوى RTF نصي أو جدولي في بيئات التشغيل التلقائي لبرنامج Excel. يدعم هذا التنسيق الوظائف البرمجية و VBA، مما يعزز أدوات الإنتاجية التي تعتمد على إدخال الوثائق القائمة على البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين قوالب قائمة على RTF في إضافات Excel للإبلاغ التلقائي.
+* تحويل الوثائق المنسقة إلى وحدات ماكرو Excel قابلة لإعادة الاستخدام.
+* إنشاء حلول التشغيل التلقائي في Excel التي تعتمد على إدخالات بيانات RTF.
+* تصميم أشكال ديناميكية باستخدام محتوى RTF مدمج في إضافات XLAM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+* تحويل RTF إلى XLAM في خطوط إنتاج ماكرو Excel مخصصة.
+* دمجه في أنظمة التشغيل التلقائي للوثائق لذكاء الأعمال.
+* التحويل ضمن حلول الإبلاغ التي تعتمد على VBA لنمذجة التمويل.
+* إنشاء إضافات Excel من مستودعات بيانات RTF مركزية بشكل مجدول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

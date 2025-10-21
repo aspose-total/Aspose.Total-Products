@@ -61,7 +61,31 @@ otherformats: XLTM ODS XLAM XLS XLSB FODS XLT XLTX TSV XLSM XLSX SXC EXCEL DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى XLTX (تنسيق قالب إكسل المفتوح بصيغة XML) يمكن المؤسسات من إعادة استخدام تخطيطات المستند في بيئات إكسل الحديثة دون استخدام الماكرو. يُستخدم على نطاق واسع للإبلاغ وإدخال البيانات وتنسيق المستندات المهنية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل الملخصات المالية القائمة على RTF إلى قوالب XLTX قابلة لإعادة الاستخدام.
+* بناء تخطيطات إكسل موحدة للتقارير والنماذج.
+* تحويل وثائق الشركة إلى تنسيقات جداول البيانات الحديثة.
+* إعداد قوالب الإدارات من ملفات البيانات RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* توليد RTF إلى XLTX تلقائيًا لسير العمل في المؤسسات.
+* التكامل مع أنظمة أتمتة المستندات للنماذج الموحدة.
+* إنشاء جداول إكسل بانتظام من مستندات RTF المؤرشفة.
+* دعم تحويل الدفعة المدعوم للتوافق مع إكسل الحديث وOffice 365.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

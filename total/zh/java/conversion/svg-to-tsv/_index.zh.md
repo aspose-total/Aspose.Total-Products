@@ -49,7 +49,31 @@ otherformats: TSV XLT EXCEL XLTM XLTX SXC MD TXT ODS XLSM DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将SVG文件转换为TSV（制表符分隔值）可将矢量图导出为针对电子表格、统计分析和大型数据集进行优化的格式。TSV确保数据保持结构化且易于解析。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* 将交互式SVG图表转换为TSV进行统计分析。
+* 导出工程图表以进行协作电子表格编辑。
+* 以TSV格式共享基于SVG的教育图表给研究团队。
+* 将产品性能可视化内容转换为结构化表格数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 自动化流水线将SVG图表转换为TSV以供分析平台使用。
+* 定期将矢量图导出为TSV用于报告仪表板。
+* 与需要TSV输入的统计软件集成。
+* 触发转换以动态更新基于矢量的可视化内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

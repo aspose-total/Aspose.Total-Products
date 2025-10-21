@@ -61,7 +61,31 @@ otherformats: EXCEL SXC XLSX XLTX XLSM ODS DIF XLSB XLAM TSV FODS XLS MARKDOWN X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PPT（PowerPoint）演示文稿转换为FODS（Flat OpenDocument Spreadsheet）可让组织重新利用结构化内容，以供开放标准办公工具使用。FODS格式对于依赖LibreOffice或Apache OpenOffice进行安全、可编辑电子表格工作流的团队尤为有价值。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+* 将PowerPoint表格转换为LibreOffice电子表格以进行分析。
+* 从幻灯片中提取结构化数据以进行协作编辑。
+* 将演示文稿数据存档为开放的基于XML的电子表格格式。
+* 将培训演示文稿转换为FODS以用于教育记录系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从PowerPoint报告自动生成FODS以供开源使用。
+* 在政府或教育文档系统中进行批处理。
+* 将PPT转换为FODS集成到数字化转型流程中。
+* 定期导出以进行跨部门报告和文档编制。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS XLSM MHTML ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPTX в XLSM (Macro-Enabled Excel Workbook) добавляет потенциал автоматизации к данным презентации. Бизнесы могут встраивать макросы для расчетов, форматирования и анализа в таблицы, созданные из слайдов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Преобразование данных слайдов в отчеты Excel с макросами.
+* Автоматизация расчетов KPI на основе метрик PowerPoint.
+* Создание динамических панелей приборов с использованием макросов VBA.
+* Улучшение рабочих процессов с помощью связи презентации с макросами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание файлов XLSM из презентаций по продажам или бюджетам.
+* Интеграция с инструментами и скриптами автоматизации Excel.
+* Пакетное создание макросов для повторяющихся отчетов PowerPoint.
+* Использование встроенных данных PowerPoint для запуска умных аналитических сценариев.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

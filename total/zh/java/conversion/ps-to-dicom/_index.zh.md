@@ -57,7 +57,31 @@ otherformats: TGA DICOM JPEG2000 IMAGE WMF PSD WMZ DXF EMZ SVGZ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+将PS（PostScript）文件转换为DICOM（医学数字成像和通信）格式，可以实现将基于矢量的报告、诊断图表和放射学注释无缝集成到标准化的医学成像工作流程中。DICOM兼容性确保这些视觉报告可以安全地在医院和诊所使用的PACS（影像存档和通信系统）平台上查看和分析。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* 将基于矢量的诊断图表嵌入患者成像档案中。
+* 将心脏病学或肿瘤学PS图表转换为DICOM兼容的图像系列。
+* 在医院成像系统中集成手术规划可视化内容。
+* 为放射学报告生成DICOM叠加的诊断摘要。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在EMR（电子医疗记录）工作流程中自动进行PS到DICOM的转换。
+* 在基于图像的报告中进行健康分析管道中的ETL数据集成。
+* 用于医学AI系统中诊断可视化的AI辅助批量转换。
+* 用于自动生成的临床成像文档的触发DICOM导出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

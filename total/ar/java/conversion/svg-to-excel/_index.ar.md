@@ -47,7 +47,31 @@ otherformats: TXT MD TSV XLTX XLAM XLSB EXCEL DIF XLSM XLTM SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SVG إلى Excel (XLS/XLSX) يسمح بتحويل الرسوم البيانية والمخططات الناقلة إلى جداول بيانات تفاعلية بالكامل. يمكن لمستخدمي Excel التلاعب بالبيانات، وإنشاء جداول محورية، ودمج الرسوم البيانية في التقارير دون فقدان وضوح الناقل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تضمين لوحات مبيعات قائمة على SVG في سجلات عمل Excel.
+* تحويل المخططات التقنية والهندسية إلى Excel للتحليل.
+* مجموعات بيانات أكاديمية مع رسوم بيانية SVG مصدرها جداول بيانات تفاعلية.
+* دمج الرسوم البيانية التفاعلية لإدارة المشاريع مباشرة في تقارير Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعي لوحات القيادة SVG إلى Excel لتقارير متكررة.
+* دمج مع منصات BI لتحديثات جداول البيانات التلقائية.
+* تصديرات مجدولة لتصميمات تفاعلية ورسوم بيانية تحليلية إلى Excel.
+* مزامنة مستمرة لبيانات SVG الحية في سجلات عمل Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

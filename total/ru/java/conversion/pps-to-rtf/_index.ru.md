@@ -53,7 +53,31 @@ otherformats: RTFM RTFX DOTM FLATOPC OTT RTF ODT WORD TEXT DOT WORDML DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование файлов PPS (PowerPoint Slide Show) в RTF (Rich Text Format) позволяет пользователям создавать платформонезависимые текстовые документы с сохранением форматирования. Это обеспечивает читаемость на различных текстовых процессорах и операционных системах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+* Экспорт текста из PowerPoint в RTF для обмена между платформами.
+* Преобразование учебных слайдов в отформатированные печатные заметки.
+* Создание легких RTF-отчетов из бизнес-презентаций PPS.
+* Создание портативной документации для архивирования или рецензирования.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированное преобразование в RTF для распространения документов о соответствии.
+* Интеграция в системы управления знаниями для легкого хранения файлов.
+* Запланированный экспорт слайдов в RTF для текстовых сводок.
+* Пакетное создание RTF из нескольких файлов презентаций.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

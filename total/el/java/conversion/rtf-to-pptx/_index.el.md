@@ -54,7 +54,31 @@ otherformats: POTX POT POTM POWERPOINT PPTM PPTX PPSM PPSX PPT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή RTF σε PPTX (PowerPoint Open XML Presentation) μετατρέπει στατικό κείμενο σε μοντέρνες, επεξεργάσιμες και επικοινωνήσιμες διαφάνειες. Αυτή η ευρέως υποστηριζόμενη μορφή είναι ιδανική για επαγγελματικές αναφορές, διαλέξεις, προτάσεις και περιεχόμενο μάρκετινγκ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+* Μετατροπή σημειώσεων συναντήσεων βασισμένων σε RTF σε πολιτευμένες διαφάνειες PowerPoint.
+* Δημιουργία δυναμικών παρουσιάσεων από μορφοποιημένες αναφορές κειμένου.
+* Επαναχρησιμοποίηση δεδομένων εταιρείας σε μορφή RTF σε διαφάνειες με βελτιωμένη οπτική εμφάνιση.
+* Μετατροπή γραπτής τεκμηρίωσης σε παρουσιάσεις με επίκεντρο την αφήγηση.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική εξαγωγή RTF σε PPTX για συστήματα τεκμηρίωσης εταιρειών.
+* Ενσωμάτωση με δημιουργούς παρουσιάσεων online και πλατφορμών στο cloud.
+* Αυτοματοποιημένη δημιουργία διαφανειών για εσωτερικές επικοινωνίες και παρουσιάσεις προς πελάτες.
+* Προγραμματισμένες ενημερώσεις παρουσιάσεων από αποθετήρια εγγράφων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

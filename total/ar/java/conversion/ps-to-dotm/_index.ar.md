@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات PS (PostScript) إلى DOTM (قالب Word ممكّن بالماكرو) يجمع بين توحيد القوالب مع التأتير. يمكن للمستخدمين إعادة استخدام التخطيطات مع الاستفادة من الماكرو لتأتير تعبئة المستند، الحسابات، أو التنسيق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل تقارير PS إلى قوالب Word ممكّنة بالماكرو قابلة لإعادة الاستخدام.
+* تأتير إنشاء عقود أو فواتير بشكل تلقائي باستخدام تخطيطات مشتقة من PostScript.
+* تضمين جداول ورسوم بيانية مُنشأة بواسطة PS في قوالب DOTM.
+* إنشاء نماذج تفاعلية لسير العمل في مجالات الموارد البشرية، التمويل، أو العمليات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير التلقائي" %}}
+
+* تحويل دُفعي من PS إلى DOTM في أتوماسيون سير العمل المؤسسي.
+* التكامل مع أنظمة إنشاء المستندات لمهام تعتمد على الماكرو.
+* تعبئة القوالب بمحتوى مستخرج من PS بمساعدة الذكاء الاصطناعي.
+* إنشاء قوالب ممكّنة بالماكرو بشكل مجدول لتلبية احتياجات التقارير المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
