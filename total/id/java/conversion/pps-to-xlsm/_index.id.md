@@ -61,7 +61,31 @@ Saat mengonversi file PPS ke XLSM, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPS (PowerPoint Slide Show) ke XLSM (Macro-Enabled Workbook) memungkinkan untuk otomatisasi lanjutan dan analisis dinamis. Ini ideal untuk pengguna yang ingin menyisipkan makro dan skrip VBA untuk data interaktif yang berasal dari konten presentasi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat dasbor yang didorong oleh makro dari slide PPS.
+* Mengubah presentasi berulang menjadi template Excel yang dapat memperbarui diri sendiri.
+* Mengembangkan pelacak KPI yang diperbarui menggunakan makro VBA.
+* Menyisipkan perhitungan ringkasan otomatis yang diekstrak dari slide PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Integrasi ke dalam alur kerja otomatisasi Excel.
+* Mengonversi slide PPS menjadi template XLSM untuk pelaporan proyek.
+* Generasi Excel berbasis makro yang terjadwal dari kumpulan data PowerPoint.
+* Konversi lembar slide ke makro secara otomatis untuk pembaruan bisnis berulang.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

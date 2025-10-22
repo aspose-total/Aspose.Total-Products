@@ -61,7 +61,31 @@ PPT 파일을 MARKDOWN로 변환하는 동안 출력 MARKDOWN 파일 형식에 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 프레젠테이션을 MARKDOWN (.md) 형식으로 변환하면 시각적 콘텐츠를 가벼운 웹용 문서로 손쉽게 변환할 수 있습니다. 이 변환은 슬라이드를 블로그, 위키 또는 기술 매뉴얼로 재활용하려는 개발자, 콘텐츠 관리자 및 문서 팀에 매우 유익합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* GitHub 또는 GitLab용 Markdown 문서로 PowerPoint 덱 변환.
+* 교육 또는 온보딩 슬라이드를 README 또는 위키 콘텐츠로 재활용.
+* Hugo 또는 Jekyll과 같은 정적 사이트 생성기에 기술 프레젠테이션 직접 게시.
+* 구조화된 Markdown 텍스트로 PowerPoint 노트 및 개요 내보내기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 개발자 문서화 파이프라인을 위한 자동화된 PPT-to-Markdown 변환.
+* 엔지니어링 팀을 위한 콘텐츠 자동화 워크플로에 통합.
+* 변경 로그를 위해 PowerPoint 프레젠테이션을 Markdown으로 예약된 내보내기.
+* 기술 SEO 블로그 또는 API 문서를 위한 변환 워크플로.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

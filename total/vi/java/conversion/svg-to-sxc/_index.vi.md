@@ -47,7 +47,31 @@ Trong khi chuyển đổi tệp SVG sang SXC, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG sang SXC (Bảng tính StarOffice/LibreOffice) cho phép nhúng biểu đồ vector vào các định dạng bảng tính mã nguồn mở. SXC lý tưởng cho quy trình làm việc cộng tác và tính tương thích đa nền tảng của bảng tính.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhập bảng điều khiển tài chính hoặc dự án SVG vào bảng tính LibreOffice.
+* Chia sẻ dữ liệu nghiên cứu hoặc học thuật với biểu đồ vector trong các tệp SXC.
+* Bảng tính theo dõi dự án cộng tác sử dụng hình ảnh SVG nhúng.
+* Mẫu bảng tính mã nguồn mở chuẩn hóa với biểu đồ tương tác.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt SVG sang SXC tự động cho các đường ống báo cáo.
+* Xuất lịch trình của bảng điều khiển dựa trên SVG vào các bảng tính mã nguồn mở.
+* Tích hợp với bộ công cụ văn phòng cộng tác để truy cập trên toàn đội.
+* Kích hoạt tạo ra các bảng tính SXC từ dữ liệu SVG động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

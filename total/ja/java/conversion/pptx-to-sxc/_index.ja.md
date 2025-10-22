@@ -61,7 +61,29 @@ PPTXファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPTXファイルをSXC（StarOffice Calc Spreadsheet）に変換すると、プレゼンテーションデータと従来のスプレッドシートツールとの間での相互運用性が向上します。StarOfficeや類似のOpenOfficeベースの環境を使用している企業に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PowerPointスライドから表形式のデータをスプレッドシートに抽出する。
+* プレゼンテーション分析をStarOfficeユーザーと共有する。
+* 企業のスライドからアーカイブ用のスプレッドシートを準備する。
+* SXC形式でのプレゼンテーションメトリクスの編集と分析。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ドキュメントリポジトリ向けのバッチPPTXからSXCへの変換。
+* 旧オフィススイート向けの自動抽出ワークフロー。
+* 企業向けレポーティングシステムとの統合。
+* クロスプラットフォームのコラボレーションのための定期的な変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 DOTX로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 프레젠테이션을 DOTX (Word Template Open XML)로 변환하면 브랜딩 및 서식 일관성을 유지하면서 재사용 가능한 매크로 없는 템플릿을 만들 수 있습니다. 대규모 조직 내에서 문서 표준화에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 브랜드화된 PowerPoint 디자인을 DOTX Word 템플릿으로 변환합니다.
+* 비즈니스 보고서 및 편지에서 시각적 일관성 유지합니다.
+* 부서별 재사용 가능한 문서 템플릿을 작성합니다.
+* 기업 프레젠테이션 테마를 기반으로 한 템플릿 라이브러리를 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 전체 템플릿 배포를 위한 자동화된 PPT-to-DOTX 변환.
+* 브랜드 준수 및 콘텐츠 표준화 파이프라인 통합.
+* 새로운 프레젠테이션 디자인을 기반으로 한 DOTX 템플릿의 예약된 업데이트.
+* 팀 전체 문서 일관성을 위한 일괄 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

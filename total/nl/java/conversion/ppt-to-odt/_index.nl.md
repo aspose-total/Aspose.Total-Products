@@ -53,7 +53,31 @@ Met behulp van de API kunt u ook een PPT-bestand naar ODT-conversie met watermer
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PPT (PowerPoint) presentaties naar ODT (OpenDocument Text) formaat maakt het mogelijk om de inhoud van dia's te extraheren naar bewerkbare tekstdocumenten. Dit is met name handig voor het genereren van rapporten, educatief materiaal of op tekst gebaseerde documentatie van bestaande presentatiedia's.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van PowerPoint-presentaties naar tekstdocumenten voor gedetailleerde rapportage.
+* Het hergebruiken van dia-inhoud voor open-source tekstverwerkers zoals LibreOffice Writer.
+* Het maken van bewerkbare documentatie van op dia's gebaseerde projectoverzichten.
+* Het genereren van trainingshandleidingen en hand-outs van PowerPoint-bestanden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde conversies van PowerPoint naar ODT in academische publicatiesystemen.
+* Integratie met documentgeneratieworkflows voor open-source gebruikers.
+* Geplande export van dia's naar ODT voor naleving en archivering.
+* Het omzetten van marketingpresentaties naar bewerkbare inhoudssjablonen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

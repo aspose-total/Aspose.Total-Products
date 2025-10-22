@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPS s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPS (PowerPoint Slide Show) thành DOTM (Mẫu Word có Macro) cho phép tạo ra các mẫu tài liệu động, được điều khiển bằng kịch bản. Các doanh nghiệp sử dụng DOTM để tự động hóa việc tạo ra tài liệu và báo cáo dựa trên dữ liệu trình bày.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Thiết kế các mẫu Word dựa trên macro từ các bài thuyết trình PPS.
+* Tự động hóa các biểu mẫu kinh doanh định kỳ bằng VBA nhúng.
+* Tạo ra các mẫu có thể tái sử dụng cho báo cáo về tuân thủ và chất lượng.
+* Tạo ra các luồng công việc tài liệu thông minh dựa trên các bộ trình bày PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo ra các mẫu DOTM cho mục đích doanh nghiệp.
+* Tích hợp với các khung công cụ tự động hóa để tạo tài liệu.
+* Cập nhật mẫu theo lịch từ các bài thuyết trình mới nhất.
+* Chuyển đổi hàng loạt nhiều tệp PPS thành các mẫu có Macro.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

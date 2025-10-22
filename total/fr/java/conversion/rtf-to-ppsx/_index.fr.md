@@ -54,7 +54,31 @@ L'API vous permet également de convertir des Documents RTF protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de RTF en PPSX (PowerPoint Show Open XML) offre une manière moderne d'afficher des informations basées sur des documents sous forme de présentations visuellement attrayantes. Les fichiers PPSX s'ouvrent directement en mode diaporama, ce qui les rend idéaux pour l'affichage final ou le partage.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Transformer les mises à jour d'entreprise basées sur RTF en diaporamas prêts à être présentés.
+* Générer des présentations finales à partir de fichiers texte structurés.
+* Préparer des diapositives d'événements ou de conférences directement à partir de sources RTF.
+* Partager du contenu RTF sous forme de présentations PowerPoint en lecture seule.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion de RTF en PPSX dans des pipelines de publication de présentations automatisés.
+* Intégration avec les flux de travail de présentation Office 365.
+* Génération en lot de diapositives PPSX à partir de rapports RTF normalisés.
+* Création planifiée de résumés d'entreprise prêts pour le diaporama.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ PPTX 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 파일을 SXC (StarOffice Calc Spreadsheet)로 변환하면 프레젠테이션 데이터와 레거시 스프레드시트 도구 간의 향상된 상호 운용성을 제공합니다. StarOffice 또는 유사한 OpenOffice 기반 환경을 사용하는 기업에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 슬라이드에서 표 데이터를 스프레드시트로 추출합니다.
+* StarOffice 사용자와 프레젠테이션 분석 공유합니다.
+* 기업 슬라이드에서 보관용 스프레드시트를 준비합니다.
+* SXC 형식에서 프레젠테이션 지표를 편집하고 분석합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 저장소를 위한 일괄 PPTX-to-SXC 변환합니다.
+* 레거시 오피스 스위트를 위한 자동 추출 워크플로우를 구축합니다.
+* 기업 보고 시스템과 통합합니다.
+* 크로스 플랫폼 협업을 위한 예약된 변환을 수행합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

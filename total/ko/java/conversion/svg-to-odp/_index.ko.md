@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG (Scalable Vector Graphics) 파일을 ODP (OpenDocument Presentation)로 변환하면 벡터 다이어그램을 오픈 표준 슬라이드 덱에 포함할 수 있습니다. ODP는 현대적인 프레젠테이션 작업에 대한 확장성과 크로스 플랫폼 호환성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 기업 프레젠테이션을 위한 SVG 다이어그램을 포함한 대화식 슬라이드 덱 생성.
+* 벡터 기반 일러스트 및 차트를 사용한 교육용 슬라이드.
+* 확장 가능한 그래픽으로 제품 데이터를 보여주는 마케팅 프레젠테이션.
+* 고품질 SVG 비주얼을 사용한 학술 컨퍼런스 프레젠테이션.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 반복적인 프레젠테이션 업데이트를 위한 일괄 SVG-to-ODP 변환.
+* 교육이나 기업 덱을 위한 예약된 템플릿 생성.
+* 자동화된 워크플로우를 위한 오픈 소스 프레젠테이션 플랫폼 통합.
+* 동적으로 생성된 슬라이드 콘텐츠를 위한 트리거 변환 파이프라인.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

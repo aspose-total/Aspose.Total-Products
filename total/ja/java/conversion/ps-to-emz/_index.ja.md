@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力EMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをEMZ（Compressed Enhanced Metafile）に変換すると、Microsoft Officeアプリケーションに埋め込むのに適した高度に圧縮されたベクター画像が可能になります。EMZは、高品質のグラフィックを保持しながらファイルサイズを小さく保ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PowerPointやWordプレゼンテーションにPostScriptチャートを埋め込む。
+* テクニカルなPSダイアグラムを圧縮されたEMZに変換してレポートに使用する。
+* 企業プレゼンテーション用にPSで生成されたイラストを準備する。
+* ベクターグラフィックスをメールやクラウドストレージを介して簡単に共有するために最適化する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* プレゼンテーションライブラリ用の自動化されたPSからEMZへのバッチ変換。
+* Office文書生成ワークフローへの統合。
+* コラボレーションプラットフォーム向けのクラウドベースの圧縮と変換。
+* 自動レポート生成のためのトリガーされたEMZレンダリング。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

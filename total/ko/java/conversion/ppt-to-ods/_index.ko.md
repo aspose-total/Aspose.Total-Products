@@ -61,7 +61,31 @@ PPT 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 프레젠테이션을 ODS (OpenDocument Spreadsheet) 형식으로 변환하면 시각적인 슬라이드 데이터가 구조화된 스프레드시트 형식으로 변환됩니다. 오픈 소스 오피스 스위트를 사용하고 있으며 분석 및 보고를 위해 프레젠테이션에서 숫자 또는 테이블 데이터를 추출해야 하는 조직에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 편집 가능한 ODS 스프레드시트로 슬라이드 테이블 내보내기 (LibreOffice Calc).
+* PowerPoint 대시보드에서 비즈니스 메트릭을 스프레드시트 데이터로 변환.
+* 오픈 ODS 형식으로 재무 및 분석 슬라이드 보관.
+* 오픈 표준 스프레드시트 환경에서의 협업 활성화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 정부 또는 비정부 기관 보고를 위한 자동화된 PPT-to-ODS 변환.
+* 오픈 소스 분석 파이프라인과의 통합.
+* 감사를 위해 프레젠테이션을 스프레드시트로 예약된 변환.
+* ODS 기반 템플릿을 사용한 부서간 보고 공유.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: DIF XLSX XLSM XLTM XLS XLAM XLTX TSV SXC ODS XLSB FODS XLT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง RTF เป็น XLAM (Excel Add-In) ช่วยให้นักพัฒนาและวิเคราะห์สามารถฝังเนื้อหา RTF ที่เป็นข้อความหรือตารางลงในสภาพแวดล้อมการอัตโนมัติของ Excel รูปแบบนี้รองรับแมโครและ VBA ที่เสริมสร้างเครื่องมือผลิตภัณฑ์ที่พึงพอใจที่พึงพอใจในการป้อนข้อมูลเอกสารที่ขับเคลื่อนด้วยข้อมูล
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+* การฝังเทมเพลตที่ใช้ RTF เข้า Excel add-ins สำหรับรายงานอัตโนมัติ
+* การแปลงเอกสารที่จัดรูปแบบเป็นโมดูล Excel macro ที่สามารถใช้ซ้ำได้
+* การสร้างโซลูชันการอัตโนมัติของ Excel ที่ได้รับข้อมูลจาก RTF
+* การออกแบบฟอร์มไดนามิกโดยใช้เนื้อหา RTF ที่ผสมเข้ากับ XLAM add-ins
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การแปลง RTF เป็น XLAM ในกระบวนการการใช้งานของ Excel macro ที่กำหนดเอง
+* การผสานเข้ากับระบบอัตโนมัติเอกสารสำหรับธุรกิจอย่างมีประสิทธิภาพ
+* การแปลงในโซลูชันการรายงานที่ขับเคลื่อนด้วย VBA สำหรับการจำลองการเงิน
+* การสร้าง Excel add-ins ตามกำหนดเวลาจากการเก็บข้อมูล RTF ในที่เก็บข้อมูลกลาง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

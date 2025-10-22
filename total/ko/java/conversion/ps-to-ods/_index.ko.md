@@ -47,7 +47,31 @@ PS 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마크
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 ODS (OpenDocument Spreadsheet)로 변환하면 PS 문서에서의 표 데이터, 차트 및 구조화된 콘텐츠를 LibreOffice Calc나 다른 스프레드시트 플랫폼으로 가져올 수 있습니다. 이를 통해 데이터 이동성과 오픈 소스 환경에서의 호환성이 보장됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS 보고서에서 재무나 운영 테이블을 ODS 스프레드시트로 추출합니다.
+* 엔지니어링이나 과학적 PS 차트를 오픈 소스 분석을 위해 변환합니다.
+* LibreOffice를 사용하여 협업 프로젝트 관리를 위한 데이터 세트를 준비합니다.
+* 반복 보고를 위한 스프레드시트 템플릿으로 PS 레이아웃을 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 데이터 처리 파이프라인에서 자동 PS-to-ODS 변환을 수행합니다.
+* 스프레드시트 분석을 위해 PostScript로 생성된 보고서를 일괄 변환합니다.
+* 클라우드 기반 오픈 소스 스프레드시트 솔루션에 통합합니다.
+* PS에서 차트와 테이블을 ODS 형식으로 추출하는 AI 지원 기능을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

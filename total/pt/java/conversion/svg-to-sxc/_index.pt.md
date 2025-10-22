@@ -47,7 +47,31 @@ Ao converter o arquivo SVG para SXC, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter SVG para SXC (Planilha StarOffice/LibreOffice) permite a incorporação de gráficos vetoriais em formatos de planilhas de código aberto. SXC é ideal para fluxos de trabalho colaborativos e compatibilidade de planilhas entre plataformas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Importar painéis financeiros ou de projetos em SVG para planilhas do LibreOffice.
+* Compartilhar dados de pesquisa ou acadêmicos com gráficos vetoriais em arquivos SXC.
+* Acompanhamento de projetos colaborativos em planilhas usando visuais SVG incorporados.
+* Modelos de planilhas de código aberto padronizados com diagramas interativos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote automatizada de SVG para SXC para pipelines de relatórios.
+* Exportação programada de painéis baseados em SVG para planilhas de código aberto.
+* Integração com suites de escritório colaborativas para acesso em equipe.
+* Geração acionada de planilhas SXC a partir de dados SVG dinâmicos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPS sang XLAM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPS (PowerPoint Slide Show) thành XLAM (Excel Add-In) cho phép nhúng dữ liệu xuất phát từ bài thuyết trình vào các tiện ích được kích hoạt bằng macro. Quá trình chuyển đổi này rất phù hợp cho các nhà phát triển và nhà phân tích muốn tự động hóa báo cáo dựa trên Excel và cần tích hợp dữ liệu từ PowerPoint vào các tiện ích mở rộng của Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Xây dựng các tiện ích XLAM với các chỉ số dựa trên slide cho báo cáo tự động.
+* Tạo bảng điều khiển dựa trên macro từ dữ liệu bài thuyết trình PPS.
+* Tạo các tiện ích cho việc theo dõi KPI thời gian thực bằng các giá trị từ bài thuyết trình đã chuyển đổi.
+* Tích hợp nội dung từ PPS vào các kịch bản tự động hóa Excel tiên tiến.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo XLAM từ các tệp bài thuyết trình của bộ phận.
+* Tích hợp vào các hệ thống tự động hóa Excel doanh nghiệp.
+* Chuyển đổi từ PowerPoint sang XLAM theo lịch trình cho các mô-đun báo cáo thời gian thực.
+* Tạo các tiện ích hàng loạt cho quy trình trực quan hóa dữ liệu động.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

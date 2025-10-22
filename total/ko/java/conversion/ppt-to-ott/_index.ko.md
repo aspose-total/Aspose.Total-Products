@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 OTT로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 프레젠테이션을 OTT (OpenDocument Text Template) 형식으로 변환하면 기업 및 교육기관이 슬라이드 콘텐츠를 기반으로 표준화되고 재사용 가능한 템플릿을 만들 수 있습니다. OTT 파일은 조직적 보고서 전반에 걸쳐 문서 스타일링, 브랜딩 및 구조의 일관성을 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 회사 문서 작성을 위한 PowerPoint 레이아웃에서 편집 가능한 텍스트 템플릿 작성.
+* OTT 템플릿을 사용하여 기업 보고서 및 제안서 표준화.
+* 교육용 훈련 프레젠테이션에서 재사용 가능한 교육용 템플릿 작성.
+* 오픈 형식 게시 워크플로우를 위해 슬라이드 구조 재활용.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 브랜드 템플릿 생성을 위한 자동화된 PPT-to-OTT 변환.
+* 오픈 소스 콘텐츠 제작 시스템 통합.
+* 기업 슬라이드 일괄 처리를 통한 표준화된 문서 템플릿 생성.
+* 다부서 간 통신의 일관성 유지를 위한 예약 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

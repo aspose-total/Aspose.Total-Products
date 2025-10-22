@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTXファイルからDOCMへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXプレゼンテーションをDOCX（マクロ有効ワード文書）に変換すると、自動化スクリプトや動的フィールドの埋め込みが可能になります。この変換により、レポート生成や構造化された文書作成タスクを自動化する企業に利益があります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* スライドデータをマクロ有効ワードレポートに変換する。
+* 自動データフィールドを備えたインタラクティブテンプレートの作成。
+* コンテンツを自動的にポピュレートするワークフロードキュメントの開発。
+* PowerPointスライドからのマクロ駆動サマリーの生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的な会議のための自動化されたDOCMレポート作成。
+* VBAベースのレポーティングシステムとの統合。
+* 文書の更新のためのスケジュールされたマクロ実行。
+* 効率的な生産性のためのPowerPointからWordへのマクロ。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

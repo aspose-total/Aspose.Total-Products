@@ -57,7 +57,27 @@ APIを使用すると、必要に応じて出力WMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+PS（PostScript）ファイルをWMZ（圧縮Windowsメタファイル）に変換すると、WMFベクターグラフィックスの利点とファイルの圧縮が組み合わさります。WMZは、プレゼンテーション、メール、またはWebアプリケーションに埋め込む際のサイズを小さくします。
+
+## GIF JPEG="主な使用用途"
+
+* オフィス文書での共有のためにPSダイアグラムを圧縮する。
+* ファイルサイズを膨らませることなくプレゼンテーションにPostScriptグラフィックスを埋め込む。
+* メールやクラウドシステムを通じて技術イラストを配布する。
+* 共同プロジェクト向けに圧縮されたビジュアルアセットを準備する。
+
+## GIF JPEG="自動化シナリオ"
+
+* プレゼンテーションアセットライブラリの自動PSからWMZへの変換。
+* オフィス統合のためのPSファイルのバッチ圧縮と変換。
+* 効率的な配布のためのCMSやワークフローシステムへの統合。
+* WMZパッケージング前のベクターグラフィックスのAI支援最適化。
+
+## /BMP
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

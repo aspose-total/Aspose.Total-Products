@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 WORDML(WordprocessingML)로 변환하면 벡터 다이어그램이 완전히 포함된 XML 기반의 워드 문서가 생성됩니다. WORDML은 프로그래밍 방식의 문서 처리, 템플릿 및 자동화된 워크플로우에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 시각 자료가 포함된 워드 보고서를 프로그래밍 방식으로 생성합니다.
+* 자동 편집을 위한 XML의 학술 및 연구 템플릿.
+* 버전 관리된 워크플로우를 위한 표준 프로젝트 문서.
+* 구조화된 XML 형식으로 상호작용형 SVG 콘텐츠 아카이빙.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 보고 시스템을 위한 자동 일괄 SVG-to-WORDML 변환.
+* 워크플로우 자동화를 위해 SVG 기반 템플릿의 예약된 XML 내보내기.
+* 문서 생성 API 및 콘텐츠 관리 시스템과 통합.
+* 동적으로 프로그래밍 방식으로 제어된 워드 문서를 위한 트리거 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

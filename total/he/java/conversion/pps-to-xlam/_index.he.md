@@ -102,7 +102,31 @@ otherformats: XLSX XLT MARKDOWN FODS XLSM XLSB MHTML XLTM TSV XLTX DIF XLS SXC C
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-XLAM (Excel Add-In) מאפשרת להטביע נתונים שנגזרים ממצגות בתוך התוספת המאופשרת למקרו. ההמרה הזו מושלמת עבור מפתחים וניתוחים שמאופטימים דיווחים במבוססי Excel וזקוקים לשילוב של נתוני PowerPoint בתוספות של Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* בניית תוספות XLAM עם מדדים המבוססים על שקפים לדוחות אוטומטיים.
+* יצירת לוחות מחוונים מופעלים על ידי מקרו המקוריים מנתוני מצגות PPS.
+* יצירת תוספות למעקב KPI חי באמצעות ערכים ממצגת מומרים.
+* שילוב תוכן PPS בתסריטים מתקדמים של אוטומציה ב-Excel.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת XLAM אוטומטית מקבצי מצגת מחלקה.
+* שילוב במערכות אוטומציה של Excel לעסקים.
+* המרת PowerPoint ל-XLAM מתוזמנת למודולי דיווח חיים.
+* יצירת תוספות בצורה צפה לזרימי עבודה לוויזואליזציה דינמית של נתונים.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

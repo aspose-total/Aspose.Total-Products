@@ -61,7 +61,31 @@ PPTX 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX (PowerPoint Presentation) 파일을 DIF (Data Interchange Format)으로 변환하면 비즈니스 및 연구자들이 구조화된 프레젠테이션 데이터를 스프레드시트 친화적 환경으로 전환할 수 있습니다. 이 프로세스는 표 형식의 슬라이드 데이터를 통계 분석이나 자동화 스크립트용으로 적합한 형식으로 변환할 때 가치가 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 분석 대시보드용으로 PowerPoint 테이블에서 숫자 데이터 추출.
+* DIF로 프레젠테이션 지표 변환하여 스프레드시트 모델링.
+* ERP 또는 CRM 데이터베이스 흡수를 위한 슬라이드 데이터 준비.
+* 구조화된 PPTX 콘텐츠를 오픈 데이터 시스템으로 전송.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 재무 성과 프레젠테이션을 위한 예약 배치 변환.
+* 비즈니스 인텔리전스 도구를 위한 자동화된 DIF 내보내기.
+* 월간 판매 덱을 DIF 데이터셋으로 변환하는 ETL 파이프라인.
+* 일관된 데이터 입력을 위해 클라우드 분석 플랫폼과 통합.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

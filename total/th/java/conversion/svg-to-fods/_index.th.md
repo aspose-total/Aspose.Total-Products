@@ -47,7 +47,31 @@ otherformats: XLTX XLSM EXCEL TXT SXC XLT ODS DIF FODS TSV XLAM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น FODS (Flat OpenDocument Spreadsheet) ช่วยให้สามารถฝังแผนภูมิเวกเตอร์ลงในไฟล์สเปรดชีตมาตรฐานเปิดได้ FODS เหมาะสำหรับการทำงานข้ามแพลตฟอร์มและอัตโนมัติสเปรดชีต
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การฝังแผนภูมิ SVG เข้าไปในเทมเพลตสเปรดชีตโอเพนซอร์ส
+* แบ่งปันข้อมูลการวิจัยหรือข้อมูลการเงินพร้อมภาพประกอบเป็นเวกเตอร์ในรูปแบบ FODS
+* ข้อมูลทางวิชาการและวิศวกรรมที่ส่งออกเป็นสเปรดชีตที่สามารถแก้ไขได้และเป็นแพลตฟอร์มอิสระ
+* แดชบอร์ดโครงการมาตรฐานในรูปแบบเอกสารเปิด
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง SVG เป็น FODS อัตโนมัติสำหรับท่องไปร์การรายงาน
+* การอัปเดตตามกำหนดเวลาสำหรับเทมเพลตสเปรดชีตการวิจัยหรือดำเนินการ
+* การผสานรวมกับชุดโปรแกรมสำนักงานข้ามแพลตฟอร์มที่ต้องการรูปแบบเปิด
+* การสร้างแดชบอร์ดสเปรดชีตที่ใช้ SVG โดยอัตโนมัติสำหรับการทำงานร่วมกับทีม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

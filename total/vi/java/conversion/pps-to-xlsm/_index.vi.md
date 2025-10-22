@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPS sang XLSM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPS (PowerPoint Slide Show) sang XLSM (Macro-Enabled Workbook) cho phép tự động hóa tiên tiến và phân tích động. Điều này rất lý tưởng cho người dùng muốn nhúng các macro và kịch bản VBA để tương tác với dữ liệu xuất phát từ nội dung trình bày.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo bảng điều khiển được điều khiển bằng macro từ các slide PPS.
+* Chuyển đổi các bài thuyết trình định kỳ thành các mẫu Excel tự cập nhật.
+* Phát triển các công cụ theo dõi KPI cập nhật bằng các macro VBA.
+* Nhúng các tính toán tổng hợp tự động được trích xuất từ các slide PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tích hợp vào các luồng công việc tự động hóa Excel.
+* Chuyển đổi các slide PPS thành các mẫu XLSM cho báo cáo dự án.
+* Tạo ra việc tạo ra Excel dựa trên macro theo lịch từ các bộ dữ liệu PowerPoint.
+* Chuyển đổi tự động từ slide sang bảng macro cho các cập nhật kinh doanh định kỳ.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

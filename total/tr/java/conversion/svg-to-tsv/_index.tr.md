@@ -47,7 +47,31 @@ SVG dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG dosyalarını TSV'ye (Tablo Ayırıcılı Değerler) dönüştürmek, vektör diyagramlarını elektronik tablolar, istatistik analizi ve büyük veri kümeleri için optimize edilmiş bir formata aktarmayı sağlar. TSV, verinin yapılandırılmış kalmasını ve kolayca ayrıştırılmasını sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* İnteraktif SVG grafiklerini istatistik analizi için TSV'ye dönüştürme.
+* Mühendislik diyagramlarını işbirlikçi elektronik tablo düzenlemesi için dışa aktarma.
+* Araştırma ekipleri için TSV formatında SVG tabanlı eğitim grafiklerini paylaşma.
+* Ürün performans görsellerini yapılandırılmış tablo verilerine dönüştürme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Analitik platformlar için SVG grafikleri TSV'ye dönüştüren otomatik borular.
+* Raporlama panoları için vektör diyagramlarının zamanlanmış TSV dışa aktarımları.
+* TSV girdisi gerektiren istatistik yazılımlarla entegrasyon.
+* Dinamik olarak güncellenen vektör tabanlı görseller için tetiklenmiş dönüşüm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

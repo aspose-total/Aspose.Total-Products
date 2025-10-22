@@ -130,7 +130,29 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+SVG（スケーラブル・ベクター・グラフィックス）ファイルをPS（ポストスクリプト）に変換することで、プロフェッショナルな出版向けに高品質の印刷とスケーラブルな出力が可能となります。PSはベクターの整合性を維持し、さまざまな印刷メディアで鮮明なグラフィックスを保証します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 技術図表やエンジニアリングビジュアルの高解像度印刷。
+* スケーラブルなSVGグラフィックスを使用したマーケティングパンフレットやポスター。
+* 学術誌に掲載するチャートやイラスト。
+* ベクターベースの明瞭さが必要な専門的なレポートやマニュアル。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 印刷用のワークフローに適したSVGファイルの自動バッチ変換。
+* 定期的な出版タスクのための図表のスケジュールエクスポート。
+* デスクトップパブリッシングソフトウェアとの統合による高品質な出力。
+* SVGダッシュボードからのベクターベースの印刷資料のトリガー生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

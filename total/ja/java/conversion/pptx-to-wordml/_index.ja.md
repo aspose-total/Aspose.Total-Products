@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTXファイルからWORDMLへの�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXをWORDML（WordprocessingML）に変換すると、プレゼンテーションコンテンツがXMLベースのWord構造に変換され、データの携帯性やシステム統合が必要な開発者や企業に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* XMLベースの処理のためにPowerPointコンテンツを変換する。
+* プレゼンテーションデータをCMSやERPシステムに統合する。
+* 構造化されたXML形式でPowerPointファイルをアーカイブする。
+* スライドデータからの自動化されたWord文書の作成を容易にする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業文書パイプラインでのワークフロー自動化。
+* WordMLベースのコンテンツ生成システムとの統合。
+* XML駆動型アプリケーション向けのバッチ変換。
+* 構造化マークアップでのPowerPointファイルの自動アーカイブ。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

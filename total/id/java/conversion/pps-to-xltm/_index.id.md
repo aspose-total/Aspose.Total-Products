@@ -61,7 +61,31 @@ Saat mengonversi file PPS ke XLTM, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPS (PowerPoint Slide Show) ke XLTM (Macro-Enabled Excel Template) memungkinkan organisasi untuk membuat template dinamis yang tertanam dengan skrip otomatisasi. Ini berharga bagi bisnis yang menggunakan operasi data berulang yang berasal dari laporan slide.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengembangkan template laporan berbasis makro dari presentasi.
+* Menghasilkan template ramalan otomatis dengan skrip VBA tertanam.
+* Membuat template entri data yang dapat digunakan kembali dari slide pemasaran.
+* Menyiapkan template XLTM untuk pelacakan KPI dengan otomatisasi.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Menghasilkan template XLTM secara otomatis dari file PPS untuk pelaporan perusahaan.
+* Integrasi dengan jalur otomatisasi Excel.
+* Pembuatan template makro terjadwal dari ringkasan berbasis slide.
+* Distribusi terpusat template XLTM untuk departemen internal.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

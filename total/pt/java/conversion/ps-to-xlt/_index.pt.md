@@ -47,7 +47,31 @@ Ao converter o arquivo PS para XLT, você também pode adicionar marca d'água a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PS (PostScript) para XLT (Excel Template) permite que organizações criem formatos de planilha reutilizáveis a partir de layouts estáticos de PostScript. Isso garante estilos e estruturas consistentes em relatórios recorrentes, faturas e demonstrativos financeiros.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Gerar modelos do Excel a partir de designs de relatórios baseados em PS.
+* Criar formulários de negócios reutilizáveis e planilhas de dados.
+* Manter layouts de marca consistentes em entregáveis do Excel.
+* Construir modelos padrão da empresa a partir de arquivos PS arquivados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automatizada de PS para XLT para modelos de relatórios padronizados.
+* Integração em sistemas de gerenciamento de conteúdo para ativos de design reutilizáveis.
+* Criação em lote de modelos para vários departamentos ou filiais.
+* Geração dinâmica de XLT para fluxos de trabalho de documentação empresarial.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,31 @@ Sau khi chuyển đổi RTF sang XLAM, [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi RTF sang XLAM (Excel Add-In) cho phép các nhà phát triển và nhà phân tích nhúng nội dung RTF dạng văn bản hoặc bảng vào môi trường tự động hóa Excel. Định dạng này hỗ trợ macro và VBA, nâng cao công cụ sản xuất dựa trên dữ liệu đầu vào tài liệu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng các mẫu dựa trên RTF vào các tiện ích mở rộng Excel để tạo báo cáo tự động.
+* Chuyển đổi tài liệu được định dạng thành các mô-đun macro Excel có thể tái sử dụng.
+* Tạo các giải pháp tự động hóa Excel dựa trên dữ liệu đầu vào RTF.
+* Thiết kế các biểu mẫu động bằng nội dung RTF được tích hợp vào các tiện ích mở rộng XLAM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi RTF sang XLAM trong các đường ống triển khai macro Excel tùy chỉnh.
+* Tích hợp vào các hệ thống tự động hóa tài liệu cho thông tin kinh doanh.
+* Chuyển đổi trong các giải pháp báo cáo do VBA điều khiển cho mô hình tài chính.
+* Tạo ra các tiện ích mở rộng Excel từ các kho dữ liệu RTF tập trung theo lịch trình.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

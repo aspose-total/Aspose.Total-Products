@@ -129,7 +129,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG naar DOTM (Macro-Enabled Word Template) maakt herbruikbare sjablonen mogelijk die schaalbare vectorafbeeldingen combineren met macro's. Ideaal voor interactieve rapporten, formulieren en workflowdocumenten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Macro-ingeschakelde projecttracking-sjablonen met ingebedde SVG-visuals.
+* Herbruikbare financiële of operationele sjablonen voor bedrijfsworkflows.
+* Academische of onderzoekssjablonen die dynamische diagrammen en automatisering integreren.
+* Interactief e-learningmateriaal met macro-verbeterde SVG-diagrammen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde SVG-naar-DOTM-conversie voor terugkerende macro-ingeschakelde sjablonen.
+* Geplande updates van sjablonen met nieuwe SVG-gegevens en macro's.
+* Integratie in workflowautomatiseringssystemen die herbruikbare sjablonen vereisen.
+* Getriggerde conversiepijplijnen voor interactieve rapportagedashboards.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

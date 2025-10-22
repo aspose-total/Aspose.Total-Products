@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力IMAGE画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）をPNG、JPEG、またはTIFFなどのIMAGE形式に変換することで、さまざまなプラットフォームで柔軟に視覚的に使用できるようになります。このプロセスにより、PostScriptベースの図表やレイアウトがデザインツール、CMSプラットフォーム、およびデータ可視化環境と互換性が確保されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* PS図面をWeb公開用の汎用画像形式に変換する。
+* ベクターレイアウトをラスター画像に変換してプレゼンテーションやレポートに使用する。
+* eBook、カタログ、またはデザインポートフォリオ向けのPSイラストを準備する。
+* ドキュメントやクライアント共有用に技術図面をエクスポートする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 画像ライブラリやリポジトリのための自動バッチ変換。
+* レポートの可視化のためのETLパイプライン統合。
+* PSから画像への変換を使用したAIパワード画像最適化ワークフロー。
+* PSベースのコンテンツを動的Web画像にサーバーサイドでレンダリングする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

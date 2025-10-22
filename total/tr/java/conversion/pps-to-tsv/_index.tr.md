@@ -61,7 +61,31 @@ PPS dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize de fil
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) dosyalarını TSV (Tablo Ayırıcılı Değerler) formatına dönüştürmek, sunum verilerinin tab ayırıcılarını kullanarak yapılandırılmış bir şekilde dışa aktarılmasını sağlar - daha temiz, kod dostu metin tabanlı bir formata sahip olan geliştiriciler, analistler ve veri bilimciler için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* PowerPoint'ten tablo çıkarma ve Python veya R'de veri analizi için TSV'ye dönüştürme.
+* İş sunumlarından metin tabanlı veri kümeleri hazırlama.
+* Performans grafiklerini kolayca ayrıştırılabilir tablo ayırıcılı veriye dönüştürme.
+* Çok dilli içerik slaytlarını TSV'ye çıkarma ve yerelleştirme iş akışları için kullanma.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tab ayırıcılı metin gerektiren yapay zeka veri borularına entegrasyon.
+* Modelleme ve analiz için slayt tabanlı istatistiklerin toplu olarak TSV'ye çıkartılması.
+* Kurumsal veri yönetimi için zamanlanmış slaytı-TSV dönüşümü.
+* Web tabanlı panolara arka uç veri alımı için otomatik TSV oluşturma.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

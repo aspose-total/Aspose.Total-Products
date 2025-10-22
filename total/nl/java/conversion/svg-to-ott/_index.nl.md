@@ -129,7 +129,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG-bestanden naar OTT (OpenDocument Text Template) creëert herbruikbare tekstsjablonen met ingesloten vector diagrammen. OTT zorgt voor consistentie tussen projecten en teamworkflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Gestandaardiseerde rapport-sjablonen met SVG visuals voor zakelijke teams.
+* Academische of instructieve document-sjablonen met ingesloten diagrammen.
+* Marketing- of projectdocumentatie-sjablonen voor consistente opmaak.
+* Herbruikbare gidsen en handleidingen die gebruikmaken van schaalbare SVG-afbeeldingen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batchconversie van SVG-diagrammen naar OTT-sjablonen.
+* Geplande updates voor herbruikbare document-sjablonen met nieuwe visuals.
+* Integratie met inhoudssystemen voor op sjablonen gebaseerde workflows.
+* Getriggerde generatie van interactieve tekstsjablonen voor team samenwerking.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

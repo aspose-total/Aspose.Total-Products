@@ -102,7 +102,31 @@ otherformats: XLTX XLSM XLT XLAM FODS XLS ODS EXCEL MHTML CSV TSV XLTM MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל־DIF (תבנית החלפת נתונים) מאפשרת העברת נתונים מובנים בין שקופיות המצגת ותוכנות גיליון אלקטרוני או סטטיסטיקה. ההמרה הזו אידיאלית לניתוחנים שזקוקים למידע טבלאי משקפים לחישובים נומריים או למודלים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ נתוני מצגת טבלאית ל־DIF לצורך ניתוח סטטיסטי.
+* המרת סיכומים פיננסיים משקפים לכלים התואמים ל־DIF.
+* הכנת סט נתונים אקדמי או מחקרי המפורקים מטבלאות PowerPoint.
+* ייצוא מדדי ביצוע משקפים עסקיים לנתונים מוכנים לגיליון אלקטרוני.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* ייצואי DIF מתוזמנים לשימוש בניתוחים צולבי פלטפורמות.
+* שילוב בתהליכי ETL הממירים נתוני מצגת למערכות BI.
+* המרת מצגת ל־DIF אוטומטית לאינטרופרביליות נתונים.
+* המרת קבצי PPS ל־DIF בצורה צפופה לתוכנות ניתוח מורשות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PS (PostScript) bestanden naar DOT (Word-sjabloon) stelt bedrijven in staat om documentopmaak en lay-outs te standaardiseren. DOT-sjablonen kunnen opnieuw worden gebruikt voor officiële correspondentie, rapporten en documenten voor klanten zonder dat ontwerpen opnieuw gemaakt hoeven te worden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het maken van herbruikbare Word-sjablonen van op PostScript gebaseerde rapporten.
+* Standaardiseren van briefhoofden, formulieren en interne documenten.
+* PS gegenereerde visuele lay-outs omzetten naar bewerkbare Word-sjablonen.
+* Het handhaven van ontwerpproconsistentie over meerdere door het team gegenereerde documenten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde PS-naar-DOT conversie voor sjabloonbeheersystemen.
+* Integratie met contentmanagementsystemen voor herbruikbare documentensjablonen.
+* Batchverwerking voor het genereren van afdelingsspecifieke sjablonen.
+* Geplande updates van Word-sjablonen van op PostScript gebaseerde branding assets.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

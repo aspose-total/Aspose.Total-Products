@@ -102,7 +102,31 @@ otherformats: XLS XLAM SXC CSV XLTM ODS XLSM FODS TSV XLTX DIF MHTML EXCEL XLSX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPT (PowerPoint) לתבנית XLT (תבנית Excel) ממירה שקפים לתבניות גיליון נתונים ניתנות לשימוש חוזר לצורך דיווח ועיצוב עקבי בקרב צוותים. זה אידיאלי לארגונים שמתקיימים זריזות תהליכי הצגת נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* יצירת תבניות Excel מלוחות מחוות PowerPoint.
+* תקנון דיווחי צוות באמצעות תבניות XLT מותגות.
+* המרת שקפים למבני גיליון נתונים מוכנים לשימוש.
+* בניית מודלים מבוססי תבניות לדיווחים עסקיים חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל-XLT אוטומטית לתבניות דוח עקביות.
+* שילוב בזריזות תכניות תקן תוכן בארגון.
+* עיבוד רצפי לתבניות גיליון מיושרות עם המותג.
+* יצירה מתוזמנת של פריסות Excel ניתנות לשימוש ממצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

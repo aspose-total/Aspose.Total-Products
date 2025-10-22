@@ -47,7 +47,31 @@ A PS-fájl SXC-vé konvertálásakor vízjelet is hozzáadhat a kimeneti SXC-fá
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PS (PostScript) fájlok átalakítása SXC (StarOffice/Calc táblázat) formátumra lehetővé teszi a strukturált PostScript táblázatok és diagramok használatát régebbi OpenOffice vagy StarOffice alkalmazásokban. Ez biztosítja az adatok hordozhatóságát az idősebb nyílt forráskódú táblázatkezelő környezetek között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Pénzügyi vagy működési táblázatok kinyerése PS jelentésekből SXC táblázatokba.
+* Mérnöki vagy kísérleti adatok átalakítása PostScript diagramokból elemzés céljából.
+* Örökségkompatibilis táblázatkezelő fájlok előkészítése PS elrendezésekből.
+* PS dokumentumok átalakítása újrafelhasználható táblázatsablonokká nyílt forráskódú eszközök számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges PS-SXC konverzió archiválási vagy örökségrendszer használatához.
+* Integráció ETL csővezetékekbe strukturált táblázatelemzésekhez.
+* Táblázatok és diagramok automatikus kinyerése PS elrendezésekből.
+* Felhőalapú konverzió együttműködő táblázatkezelő környezetekhez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

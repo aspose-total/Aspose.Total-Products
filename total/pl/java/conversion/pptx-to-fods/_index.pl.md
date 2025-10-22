@@ -61,7 +61,31 @@ Podczas konwertowania pliku PPTX do FODS możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPTX na FODS (Flat OpenDocument Spreadsheet) umożliwia płynną migrację danych z slajdów programu PowerPoint do edytowalnych układów arkusza kalkulacyjnego. Jest to szczególnie przydatne do konwertowania raportów tabelarycznych, wykresów i wizualizacji KPI w strukturalne dane dla użytkowników LibreOffice lub OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Zamiana slajdów raportów PowerPoint na edytowalne tabele arkusza kalkulacyjnego.
+* Wyodrębnianie wykresów wydajności do analizy w LibreOffice Calc.
+* Ponowne wykorzystanie danych prezentacji w środowiskach arkuszy kalkulacyjnych typu open-source.
+* Tworzenie edytowalnych arkuszy KPI na podstawie prezentacji korporacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja wsadowa PPTX na FODS dla portali rządowych z otwartymi danymi.
+* Zautomatyzowana transformacja do współpracy zespołowej przy użyciu FODS.
+* Integracja z potokami generowania raportów.
+* Synchronizacja z przepływami pracy zarządzania danymi typu open-source.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

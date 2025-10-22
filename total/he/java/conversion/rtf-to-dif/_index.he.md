@@ -102,7 +102,31 @@ otherformats: XLAM ODS XLSM XLTX TSV EXCEL XLTM FODS XLT XLSB CSV XLS XLSX SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי RTF (Rich Text Format) ל־DIF (Data Interchange Format) מאפשרת את ההמרה של דוחות מובנים ומסמכים לקבוצות נתונים המוכנות לגיליון אלקטרוני. ההמרה הזו מועילה במיוחד לארגונים שמתמודדים עם מידע טבלאי שנכתב מקודם ב־RTF אך נדרש לניתוח בכלי גיליון אלקטרוני או סביבות BI.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת דוחות כספיים מעוצבים ב־RTF ל־DIF ליבוא ל־Excel או LibreOffice Calc.
+* חילוץ נתונים טבלאיים מדוחות מבוססי RTF לצורה שניתן לקריאה על ידי מכונה לצורך ניתוח.
+* הכנת סיכומי מחקר שנוצרו ב־RTF לעיבוד סטטיסטי.
+* העברת רשומות מסמכים מורשים למערכות ניהול נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* ייצוא בצורת סדרתית של RTF ל־DIF בתהליכי דיגיטציה של מסמכים.
+* שילוב בתהליכי ETL לחילוץ נתונים מובנים.
+* העברת נתונים אוטומטית מעיבוד מילים ללוחות בקרה לניתוח.
+* צינורות המרה התומכים בפרסום נתונים מממשלתיים או אקדמיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

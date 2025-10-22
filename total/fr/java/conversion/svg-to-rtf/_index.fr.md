@@ -130,7 +130,31 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir un SVG en RTF (Rich Text Format) permet d'intégrer des diagrammes vectoriels dans des documents texte universellement pris en charge. RTF conserve la mise en forme sur différents processeurs de texte et systèmes d'exploitation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Intégration de visuels SVG dans des rapports ou manuels multiplateformes.
+* Documents techniques ou éducatifs normalisés avec des graphiques vectoriels.
+* Modèles de projet portables incorporant des diagrammes SVG.
+* Articles académiques ou présentations nécessitant des formats texte compatibles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée par lots de SVG en RTF pour la distribution de documents.
+* Mises à jour planifiées pour les manuels techniques avec de nouveaux visuels SVG.
+* Intégration avec des systèmes de gestion de contenu pour un accès multiplateforme.
+* Génération déclenchée de documents RTF pour des flux de travail hors ligne ou portables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

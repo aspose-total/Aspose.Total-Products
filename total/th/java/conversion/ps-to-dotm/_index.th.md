@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PS (PostScript) เป็น DOTM (Word Macro-Enabled Template) ช่วยในการรวมมาตรฐานเทมเพลตพร้อมกับอัตโนมัติ เพื่อให้ผู้ใช้สามารถนำเลเอาเทมเพลตไปใช้ซ้ำพร้อมกับการใช้แมโครเพื่ออัตโนมัติการเติมข้อมูลเอกสาร การคำนวณ หรือการจัดรูปแบบ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงรายงาน PS เป็นเทมเพลต Word ที่ใช้แมโครได้ซ้ำ
+* การอัตโนมัติการสร้างสัญญาหรือใบแจ้งหนี้ด้วยเลเอาจาก PostScript
+* การฝังตารางและแผนภูมิที่สร้างจาก PS เข้าไปในเทมเพลต DOTM
+* การสร้างแบบฟอร์มแบบอินเตอร์แอคทีฟสำหรับการทำงานของฝ่ายทรัพยากรบุคคล การเงิน หรือกระบวนการปฏิบัติงาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงจำนวนมากของ PS เป็น DOTM ในการอัตโนมัติของกระบวนการทำงานขององค์กร
+* การรวมระบบสร้างเอกสารกับงานที่ใช้แมโคร
+* การช่วยในการเติมข้อมูลลงในเทมเพลตด้วย AI จาก PS
+* การสร้างเทมเพลตที่ใช้แมโครตามกำหนดเวลาสำหรับความต้องการในการรายงานที่เกิดซ้ำ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,31 @@ Lors de la conversion du fichier SVG en SXC, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de SVG en SXC (StarOffice/LibreOffice Spreadsheet) permet d'intégrer des graphiques vectoriels dans des formats de feuilles de calcul open source. SXC est idéal pour les flux de travail collaboratifs et la compatibilité des feuilles de calcul multiplateformes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Importation de tableaux de bord financiers ou de projets SVG dans des feuilles de calcul LibreOffice.
+* Partage de données de recherche ou académiques avec des graphiques vectoriels dans des fichiers SXC.
+* Suivi de projets collaboratifs à l'aide de visuels SVG intégrés dans des feuilles de calcul.
+* Modèles de feuilles de calcul open source normalisés avec des diagrammes interactifs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée par lots de SVG en SXC pour les pipelines de reporting.
+* Exportation planifiée de tableaux de bord basés sur SVG dans des feuilles de calcul open source.
+* Intégration avec des suites bureautiques collaboratives pour un accès à l'échelle de l'équipe.
+* Génération déclenchée de feuilles de calcul SXC à partir de données SVG dynamiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

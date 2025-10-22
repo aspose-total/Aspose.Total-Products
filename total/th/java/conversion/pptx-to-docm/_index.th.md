@@ -53,7 +53,31 @@ otherformats: WORDML TEXT RTF ODT DOTX FLATOPC DOCM DOT DOTM OTT DOCMX WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPTX เป็น DOCM (เอกสาร Word ที่เปิดใช้งานมาโคร) ช่วยให้สามารถฝังสคริปต์อัตโนมัติและฟิลด์ไดนามิกได้ การแปลงนี้เป็นประโยชน์ต่อองค์กรที่ต้องการอัตโนมัติการสร้างรายงานหรืองานเอกสารที่มีโครงสร้าง
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การแปลงข้อมูลสไลด์เป็นรายงาน Word ที่เปิดใช้งานมาโคร
+* สร้างเทมเพลตแบบแอ็กทีฟพร้อมฟิลด์ข้อมูลอัตโนมัติ
+* พัฒนาเอกสารของกระบวนการทำงานที่สามารถเติมเนื้อหาอัตโนมัติ
+* สร้างสรุปที่ใช้มาโครจากสไลด์ PowerPoint
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างรายงาน DOCM อัตโนมัติสำหรับการประชุมที่เกิดซ้ำๆ
+* การรวมระบบรายงานที่ใช้ VBA
+* การรันมาโครตามกำหนดเวลาสำหรับการอัพเดตเอกสาร
+* มาโครจาก PowerPoint ไปยัง Word เพื่อเพิ่มประสิทธิภาพ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

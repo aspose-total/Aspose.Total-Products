@@ -144,7 +144,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをXAMLFLOWに変換することで、ベクターグラフィックスをFlowベースのアプリケーションに統合し、インタラクティブなUIワークフローをサポートします。XAMLFLOWは迅速なプロトタイピングやダイナミックなインターフェイスデザインに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* FlowベースのダッシュボードにSVGダイアグラムを統合してインタラクティブなアプリケーションを作成します。
+* スケーラブルなベクターグラフィックスを使用して企業向けUIの迅速なプロトタイピングを行います。
+* インタラクティブなSVGビジュアルを使用した教育や研究インターフェース。
+* SVGダイアグラムを埋め込んだワークフローオートメーションダッシュボード。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 反復的なUI開発のための自動化されたSVGからXAMLFLOWへの変換。
+* 新しいSVGグラフィックスでアプリケーションコンポーネントを定期的に更新します。
+* 開発パイプラインとの統合によるリアルタイムインターフェースのレンダリング。
+* アプリケーション向けのダイナミックでベクターベースのUI要素の生成をトリガーします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

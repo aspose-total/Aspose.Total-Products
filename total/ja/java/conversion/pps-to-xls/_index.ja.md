@@ -61,7 +61,29 @@ PPSファイルをXLSに変換するときに、出力XLSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをXLS（Excel 97–2003 Workbook）に変換することで、レガシーシステムとの互換性を確保しつつ、スプレッドシートベースのデータ編集と保存が可能となります。この変換は、古いバージョンのMicrosoft Officeを使用している環境に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PPSスライドからデータを抽出し、古いExcel形式との互換性を確保します。
+* 政府機関や教育機関向けのXLSレポートの作成。
+* マーケティングビジュアルを後方互換性のあるスプレッドシートレポートに変換。
+* PowerPointベースの要約から編集可能なXLSスコアカードを作成します。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* XLS形式のコンプライアンスのための自動バッチ変換。
+* レガシー会計やMISソフトウェアワークフローへの統合。
+* 定期的なプレゼンテーションデータセットからXLSアーカイブの生成。
+* 部門間のXLSデータ共有のためのスケジュールされたスライド抽出。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

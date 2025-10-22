@@ -57,7 +57,31 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PS (PostScript) เป็นรูปแบบ DICOM (Digital Imaging and Communications in Medicine) ช่วยให้สามารถผสานรายงานที่มีเวกเตอร์เข้ากับแผนภูมิการวินิจฉัย และหมายเหตุที่เกี่ยวข้องกับรังสีเข้ากับกระบวนการทำงานของระบบภาพการแพทย์มาตรฐานได้อย่างราบรื่น ความเข้ากันได้ของ DICOM ทำให้สามารถดูและวิเคราะห์รายงานทางภาพเหล่านี้ได้อย่างปลอดภัยบนแพลตฟอร์ม PACS (Picture Archiving and Communication System) ที่ใช้ในโรงพยาบาลและคลินิกต่าง ๆ
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* ฝังแผนภูมิการวินิจฉัยที่มีเวกเตอร์เข้ากับเอกสารเก็บข้อมูลของผู้ป่วย
+* แปลงแผนภูมิ PS ทางคาร์ดิโอโลยีหรือออนโคโลยีเป็นชุดภาพที่เข้ากันได้กับ DICOM
+* ผสานภาพการวางแผนการผ่าตัดลงในระบบภาพของโรงพยาบาล
+* สร้างสรุปการวินิจฉัยเป็นภาพทับ DICOM สำหรับรายงานรังสี
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การแปลง PS เป็น DICOM โดยอัตโนมัติภายในกระบวนการทำงานของ EMR (Electronic Medical Record)
+* การรวมข้อมูล ETL ในท่อน้ำของการวิเคราะห์สุขภาพสำหรับรายงานที่เป็นภาพ
+* การแปลงเป็นชุดภาพเป็นชุดเดียวกันด้วยการช่วยเหลือของ AI สำหรับการแสดงผลการวินิจฉัยในระบบ AI ทางการแพทย์
+* การส่งออก DICOM โดยอัตโนมัติสำหรับเอกสารการวินิจฉัยทางคลินิกที่สร้างขึ้นโดยอัตโนมัติ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

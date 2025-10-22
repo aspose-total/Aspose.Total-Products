@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 PPSX(PowerPoint Open XML Show)로 변환하면 내장된 벡터 그래픽을 사용하여 직접 프레젠테이션 모드에서 열리는 현대적이고 매크로 없는 슬라이드 쇼가 생성됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 고해상도 SVG 차트를 사용한 시중에 나올 준비가 된 비즈니스 프레젠테이션.
+* 강의나 e-러닝 모듈용 교육용 슬라이드 쇼.
+* 즉시 시청 가능하도록 패키지화된 마케팅 및 제품 데모.
+* 대화형 벡터 시각 자료를 사용한 학술 또는 회의 프레젠테이션.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 주기적인 프레젠테이션 전달을 위한 SVG를 PPSX로 자동 일괄 변환.
+* 라이브 대시보드에서 시청 가능한 슬라이드를 예약 생성.
+* 자동화된 프레젠테이션 배포를 위한 콘텐츠 관리 시스템 통합.
+* 동적이고 실시간 시각 자료를 위한 트리거된 SVG-to-PPSX 파이프라인.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

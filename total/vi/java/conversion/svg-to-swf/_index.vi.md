@@ -121,7 +121,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tệp SVG sang SWF (Shockwave Flash) cho phép nhúng đồ họa vector tương tác vào các hoạt hình web và ứng dụng Flash cũ. SWF hỗ trợ hình ảnh động và hoạt hình dựa trên vector nhẹ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Các mô-đun đào tạo trực tuyến tương tác sử dụng hoạt hình SVG-to-SWF.
+* Băng rôn quảng cáo và tài liệu quảng cáo với tương tác vector.
+* Hoạt hình giáo dục và nội dung học trực tuyến với biểu đồ có thể co giãn.
+* Biểu đồ tương tác được hiển thị trên các nền tảng Flash cũ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt tự động của biểu đồ SVG sang hoạt hình SWF.
+* Cập nhật định kỳ nội dung tương tác trực tuyến từ các tệp SVG trực tiếp.
+* Tích hợp với các nền tảng web cũ hỗ trợ hình ảnh dựa trên Flash.
+* Các đường ống chuyển đổi kích hoạt cho nội dung tương tác trực tuyến động từ SVG sang SWF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

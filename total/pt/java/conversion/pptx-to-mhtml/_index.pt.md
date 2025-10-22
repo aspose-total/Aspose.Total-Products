@@ -61,7 +61,31 @@ Ao converter o arquivo PPTX para MHTML, você também pode adicionar marca d'ág
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPTX para MHTML (Arquivo da Web) permite acesso offline em um único arquivo a apresentações inteiras em um navegador. É perfeito para distribuir conteúdo interativo sem a necessidade do PowerPoint ou de software externo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Criar versões visualizáveis na web de apresentações do PowerPoint.
+* Compartilhar apresentações educacionais autocontidas por e-mail.
+* Armazenar slides interativos para treinamento corporativo offline.
+* Incorporar apresentações de demonstração de produtos em páginas de intranet.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote de PPTX para MHTML para repositórios de e-learning.
+* Publicação automatizada de decks de marketing como arquivos MHTML.
+* Arquivamento de apresentações da empresa para reprodução baseada em navegador.
+* Integração com sistemas de entrega de documentos para acesso offline seguro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -129,7 +129,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG sang DOT (Mẫu Word 97-2003) cho phép tạo các mẫu tài liệu có thể tái sử dụng với các biểu đồ vector nhúng tương thích với các phiên bản Word cũ hơn. DOT đảm bảo định dạng nhất quán trên các hệ thống cũ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Mẫu báo cáo chuẩn hóa với biểu đồ SVG cho tài liệu Word cũ.
+* Mẫu đề xuất dự án tích hợp bảng điều khiển trực quan.
+* Mẫu học thuật hoặc hướng dẫn có thể tái sử dụng sử dụng hình ảnh SVG.
+* Mẫu tài liệu lịch sử cho quy trình làm việc kinh doanh hoặc kỹ thuật.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo mẫu batch SVG-to-DOT tự động cho quy trình làm việc Word cũ.
+* Cập nhật định kỳ các mẫu với hình ảnh SVG mới.
+* Tích hợp vào hệ thống quản lý tài liệu yêu cầu các mẫu tương thích ngược.
+* Chuyển đổi kích hoạt cho các báo cáo định kỳ và mẫu có thể tái sử dụng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

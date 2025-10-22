@@ -47,7 +47,31 @@ Ao converter o arquivo SVG para FODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter SVG para FODS (Planilha de Documento Aberto Plana) permite a incorporação de gráficos vetoriais em arquivos de planilha de padrão aberto. FODS é ideal para fluxos de trabalho multiplataforma e automação de planilhas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Incorporar diagramas SVG em modelos de planilha de código aberto.
+* Compartilhar dados de pesquisa ou financeiros com visuais vetoriais no formato FODS.
+* Dados acadêmicos e de engenharia exportados como planilhas editáveis e independentes de plataforma.
+* Painéis de projeto padronizados em formato de documento aberto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automatizada de SVG para FODS para pipelines de relatórios.
+* Atualizações programadas para modelos de planilha de pesquisa ou operacionais.
+* Integração com suites de escritório multiplataforma que requerem formatos abertos.
+* Geração acionada de painéis de planilha baseados em SVG para colaboração em equipe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

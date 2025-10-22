@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをOTT（OpenDocument Text Template）に変換することで、チームは標準化された再利用可能なテキスト文書テンプレートを作成できます。OTTテンプレートは、繰り返しのレポート、手紙、またはフォームに最適であり、一貫したフォーマットのためにPostScriptのレイアウトを活用します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PSベースのレポートや文書から再利用可能なテキストテンプレートを作成する。
+* レターやフォーム、内部レポートをチーム全体で標準化する。
+* PSで生成されたマニュアルを編集可能なOTTテンプレートに変換する。
+* オープンソース環境での繰り返しドキュメンテーションのためのPostScriptレイアウトの準備。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業環境のテンプレートライブラリのためのバッチPSからOTTへの変換。
+* 再利用可能なテンプレートの展開のための文書管理システムへの統合。
+* PostScriptファイルをOTTに自動変換するための自動化ワークフロー。
+* PSレイアウトからテキストテンプレートへのAI駆動の抽出とフォーマット。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

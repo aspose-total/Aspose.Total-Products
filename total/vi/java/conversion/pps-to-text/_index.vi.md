@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPS s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPS (PowerPoint Slide Show) sang TEXT (Plain Text) cho phép người dùng trích xuất chỉ nội dung văn bản từ các slide, lý tưởng cho phân tích, lập chỉ mục, dịch hoặc sử dụng trong các luồng công việc nội dung yêu cầu định dạng chỉ chứa văn bản.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Trích xuất văn bản gốc từ slide cho khai thác dữ liệu hoặc xử lý ngôn ngữ tự nhiên.
+* Tạo bản tóm tắt cuộc họp dưới dạng văn bản thuần từ các slide trình bày.
+* Chuẩn bị văn bản sạch cho hệ thống dịch hoặc địa phương hóa.
+* Lưu trữ bản ghi nhẹ của nội dung trình bày.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Trích xuất văn bản tự động cho chỉ mục tìm kiếm hoặc đào tạo AI.
+* Chuyển đổi slide sang văn bản hàng loạt cho lưu trữ doanh nghiệp.
+* Tích hợp vào luồng công việc phân tích nội dung cho phân tích ngữ nghĩa.
+* Xuất văn bản thuần tự động theo lịch trình cho luồng công việc tài liệu.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

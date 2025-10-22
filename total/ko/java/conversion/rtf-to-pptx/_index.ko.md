@@ -54,7 +54,31 @@ API를 사용하면 암호로 보호된 RTF 문서를 PPTX로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF를 PPTX(PowerPoint Open XML Presentation)로 변환하면 정적 텍스트가 현대적이고 편집 가능하며 공유 가능한 슬라이드 덱으로 변합니다. 이 널리 지원되는 형식은 비즈니스 보고서, 강의, 제안서 및 마케팅 콘텐츠에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* RTF 기반 회의록을 정돈된 PowerPoint 덱으로 변환하기.
+* 서식이 있는 텍스트 보고서에서 동적 프레젠테이션 작성하기.
+* RTF 회사 데이터를 시각적으로 향상된 슬라이드로 재활용하기.
+* 서술 중심 프레젠테이션으로 쓰여진 문서를 변환하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 문서 시스템을 위한 일괄 RTF-to-PPTX 내보내기.
+* 온라인 프레젠테이션 빌더 및 클라우드 플랫폼과 통합.
+* 내부 커뮤니케이션 및 고객 제안을 위한 자동화된 덱 생성.
+* 문서 저장소로부터 예약된 프레젠테이션 업데이트.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

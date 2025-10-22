@@ -61,7 +61,31 @@ PPTXファイルをFODSに変換するときに、出力FODSファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXファイルをFODS（Flat OpenDocument Spreadsheet）に変換することで、PowerPointスライドから編集可能なスプレッドシートレイアウトにデータをシームレスに移行できます。これは、表形式のレポート、チャート、KPIビジュアルをLibreOfficeやOpenOfficeユーザー向けの構造化されたデータに変換するのに特に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* PowerPointレポートスライドを編集可能なスプレッドシートテーブルに変換する。
+* LibreOffice Calcで分析するためのパフォーマンスチャートを抽出する。
+* オープンソースのスプレッドシート環境でプレゼンテーションデータを再利用する。
+* 企業プレゼンテーションから編集可能なKPIシートを作成する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* オープンデータ政府ポータル向けのバッチPPTXからFODSへの変換。
+* FODSを使用したチームコラボレーションのための自動化変換。
+* レポート生成パイプラインとの統合。
+* オープンソースデータ管理ワークフローとの同期。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

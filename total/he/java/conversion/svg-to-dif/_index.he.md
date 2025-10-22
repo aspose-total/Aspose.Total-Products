@@ -102,7 +102,31 @@ otherformats: ODS XLSB XLT XLSM TXT XLAM EXCEL CSV SXC TSV XLTX FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי SVG ל־DIF (תבנית המידע המתמטית) מבטיחה שתרשימים ותרשימי עץ וגרפים יכולים להיות משולבים בזרימות עבודה של גיליונות אלקטרוניים וניתוח פיננסי. DIF היא אידיאלית לשיתוף נתונים מובנים בלי לאבד בהירות גרפית או דיוק.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייבוא של תרשימי פיננסיים מבוססי SVG דינמיים ל־Excel.
+* ייצוא ויזואליזציה של נתונים מלוחות בקרה וגרפים וקטוריים לדיווח עסקי.
+* תרשימי מחקר אקדמי שנמרצים לנתוני גיליון אלקטרוני שניתנים לניתוח.
+* המרת תרשימי הנדסה טכנית לטבלאות מובנות של DIF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* צינורות עבודה אוטומטיים מ־SVG ל־DIF עבור לוחות בקרה לדיווח עסקי.
+* ייצוא מחזורי של תרשימים אנליטיים לזרימות עבודה של צוותים שיתופיים.
+* שילוב עם מערכות ERP שדורשות יבוא של נתוני וקטור מובנים.
+* המרה מתוזמנת ביישומי פיננסים שיוצרים דוחות ויזואליים בזמן אמת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

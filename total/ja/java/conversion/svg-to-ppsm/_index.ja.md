@@ -121,7 +121,25 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+SVGをPPSM（マクロ有効なPowerPoint Show）に変換すると、ベクターダイアグラムとマクロが組み合わさったインタラクティブで実行可能なスライドショーが作成されます。自動化重視のプレゼンテーションワークフローに最適です。
+
+## Key Use Cases
+
+* SVGビジュアルを使用したマクロ有効なインタラクティブな企業向けスライドショー。
+* マクロが埋め込まれた自動レポーティングまたは教育用プレゼンテーション。
+* ダイナミックなチャートやインタラクティブな要素を含む教育用スライド。
+* 自動化された視覚的インタラクティブを備えた研究や学術用スライドショー。
+
+## Automation Scenarios
+
+* 定期的なプレゼンテーション用にSVGをPPSMにバッチ変換するスケジュール設定。
+* インタラクティブなスライドデッキのための自動マクロ挿入。
+* 実行可能なプレゼンテーションを提供するためのワークフロー自動化との統合。
+* PPSM形式のダイナミックダッシュボード用のトリガー変換パイプライン。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

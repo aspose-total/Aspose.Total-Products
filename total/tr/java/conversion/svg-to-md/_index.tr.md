@@ -47,7 +47,31 @@ SVG dosyasını MD'ye dönüştürürken, çıktı MD dosya biçiminize filigran
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi Markdown (MD) formatına dönüştürmek, vektör diyagramlarını belgelere, README dosyalarına ve statik site oluşturucularına doğrudan gömmeyi sağlar. Bu yaklaşım, grafikleri hafif ve tam ölçeklenebilir tutarken teknik içerik okunabilirliğini artırır.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Yazılım proje README dosyalarına mimari diyagramlar gömmek.
+* Açık kaynak belge havuzları için etkileşimli akış diyagramları.
+* İçinde vektör görselleri bulunan Markdown tabanlı e-kitaplar ve öğreticiler.
+* Ekstra resim dosyaları olmadan temiz, ölçeklenebilir görseller kullanan teknik bloglar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Belgelendirme boru hatları için otomatik SVG-MD dönüşümü.
+* Bilgi tabanı güncellemeleri için zamanlanmış vektör diyagramları oluşturma.
+* Hugo veya Jekyll gibi statik site oluşturucularıyla entegrasyon.
+* Tasarım güncellemelerinin Markdown teknik dosyalarına sürekli senkronizasyonu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

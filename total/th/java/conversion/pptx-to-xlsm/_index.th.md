@@ -61,7 +61,31 @@ otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS XLSM MHTML ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPTX เป็น XLSM (Macro-Enabled Excel Workbook) เพิ่มศักยภาพในการอัตโนมัติของข้อมูลงานนำเสนอ ธุรกิจสามารถฝังแมโครสำหรับการคำนวณ การจัดรูปแบบ และการวิเคราะห์ในสเปรดชีทที่สร้างจากสไลด์ได้
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงข้อมูลสไลด์เป็นรายงาน Excel ที่ใช้แมโคร
+* การอัตโนมัติการคำนวณ KPI จากเมตริกส์ PowerPoint
+* การสร้างแดชบอร์ดไดนามิกโดยใช้แมโคร VBA
+* การเสริมความสามารถของการทำงานข้อมูลด้วยการเชื่อมโยงจากงานนำเสนอไปยังแมโคร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การสร้างไฟล์ XLSM โดยอัตโนมัติจากเด็คขายหรืองบประมาณ
+* การรวมระบบเครื่องมือและสคริปต์ Excel ที่ใช้ในการอัตโนมัติ
+* การสร้างแมโครเป็นชุดสำหรับรายงาน PowerPoint ที่เกิดซ้ำ
+* การเรียกใช้ตัวกระตุ้นการวิเคราะห์อัจฉริยะโดยใช้ข้อมูล PowerPoint ที่ฝังอยู่
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

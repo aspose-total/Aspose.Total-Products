@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPTX thành DOCX (Tài liệu Word Hiện đại) mang lại tài liệu có thể chỉnh sửa, chia sẻ và tương thích mọi nơi. Điều này rất lý tưởng để biến các slide trình bày thành bản tóm tắt dễ đọc, bài báo học thuật hoặc báo cáo kinh doanh.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Xuất văn bản và hình ảnh từ slide sang DOCX để chỉnh sửa.
+* Chuyển đổi ghi chú bài giảng PowerPoint thành tài liệu học được định dạng.
+* Chuẩn bị báo cáo và tài liệu từ dữ liệu trình bày.
+* Chia sẻ thông tin từ slide dưới dạng tài liệu Word có thể chỉnh sửa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ PPTX sang DOCX cho cơ sở kiến thức của công ty.
+* Chuyển đổi hàng loạt cho tài liệu hướng dẫn và sử dụng học thuật.
+* Tích hợp với công cụ lưu trữ đám mây và CMS.
+* Xuất DOCX theo lịch trình trong quy trình làm tài liệu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

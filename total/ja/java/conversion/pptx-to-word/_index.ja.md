@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPTXファイルからWORDへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPTXをWORDに変換することは、プレゼンテーションを編集可能なテキスト文書に変換するための汎用ソリューションを提供します。これにより、ユーザーは視覚要素と説明を組み合わせて、共有、印刷、公開に適した単一の読みやすい形式にまとめることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* プレゼンテーションスライドから読みやすい文書を作成する。
+* PowerPointの会議資料を構造化されたWordファイルに変換する。
+* メモと視覚要素をレポート形式に組み合わせる。
+* スライドから配布資料や文書を準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 会議レポートの自動変換ワークフロー。
+* 企業アーカイブでのPowerPointからWordへの変換。
+* プロジェクト文書ツールとの統合。
+* 教育および企業資料のバッチ処理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

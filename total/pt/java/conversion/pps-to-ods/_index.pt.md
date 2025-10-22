@@ -61,7 +61,31 @@ Ao converter o arquivo PPS para ODS, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPS (PowerPoint Slide Show) para ODS (OpenDocument Spreadsheet) oferece uma maneira perfeita de reutilizar dados de apresentação em formatos estruturados de planilhas. Essa conversão ajuda profissionais a transformar slides resumidos em tabelas editáveis e analisáveis compatíveis com o LibreOffice Calc e o OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Extrair dados financeiros de slides de apresentação para relatórios estruturados em ODS.
+* Transformar conjuntos de slides educacionais em análises de cursos baseadas em planilhas.
+* Converter apresentações de marketing em planilhas de desempenho de vendas.
+* Preparar planilhas de rastreamento de projetos editáveis a partir de resumos de negócios em PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão agendada de apresentações de sala de reuniões para arquivos de desempenho trimestrais em ODS.
+* Integração em pipelines de relatórios para converter automaticamente slides em dados de planilhas compartilháveis.
+* Conversão em tempo real de saídas de reuniões em planilhas de análise centralizadas.
+* Conversão em lote para equipes que mantêm registros tanto de apresentações quanto de planilhas.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

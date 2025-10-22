@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPS sang ODS, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tệp PPS (PowerPoint Slide Show) sang ODS (OpenDocument Spreadsheet) cung cấp một cách mượt mà để tái sử dụng dữ liệu trình bày thành các định dạng bảng tính có cấu trúc. Quá trình chuyển đổi này giúp các chuyên gia biến các slide tóm tắt thành các bảng có thể chỉnh sửa, phân tích tương thích với LibreOffice Calc và OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Trích xuất dữ liệu tài chính từ các slide trình bày vào các báo cáo ODS có cấu trúc.
+* Biến đổi các bộ slide giáo dục thành phân tích khóa học dựa trên bảng tính.
+* Chuyển đổi các bản trình bày về tiếp thị thành các bảng hiệu suất bán hàng.
+* Chuẩn bị các bảng theo dõi dự án có thể chỉnh sửa từ các tóm tắt kinh doanh PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi định kỳ các bản trình bày tại phòng họp thành các tệp hiệu suất ODS hàng quý.
+* Tích hợp vào đường ống báo cáo để tự động chuyển đổi slide thành dữ liệu bảng tính có thể chia sẻ.
+* Chuyển đổi thời gian thực kết quả cuộc họp thành các bảng phân tích tập trung.
+* Chuyển đổi theo lô cho các nhóm duy trì cả bản trình bày và bản ghi bảng tính.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

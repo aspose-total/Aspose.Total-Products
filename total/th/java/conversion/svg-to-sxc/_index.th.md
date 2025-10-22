@@ -47,7 +47,31 @@ otherformats: ODS XLTM EXCEL TXT XLSM SXC MD DIF XLSB XLAM XLT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น SXC (StarOffice/LibreOffice Spreadsheet) ช่วยให้สามารถฝังแผนภูมิเวกเตอร์ลงในรูปแบบสเปรดชีตโอเพนซอร์สได้ SXC เหมาะสำหรับการทำงานร่วมกันและความเข้ากันได้ของสเปรดชีตที่เป็นแพลตฟอร์ม跨กัน
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* นำเข้าแดชบอร์ดการเงินหรือโครงการจาก SVG เข้าสู่สเปรดชีต LibreOffice
+* แบ่งปันข้อมูลวิจัยหรือข้อมูลทางวิชาการพร้อมแผนภูมิเวกเตอร์ในไฟล์ SXC
+* สเปรดชีตการติดตามโครงการร่วมกันโดยใช้ภาพแบบ SVG ที่ฝังอยู่
+* แม่แบบสเปรดชีตโอเพนซอร์สมาตรฐานพร้อมไดอะแกรมแบบอินเทอร์แอคทีฟ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงไฟล์ SVG เป็น SXC แบบกลุ่มอัตโนมัติสำหรับท่อการรายงาน
+* การส่งออกแดชบอร์ดที่ใช้ SVG ตามกำหนดเวลาเข้าสู่สเปรดชีตโอเพนซอร์ส
+* การรวมกับชุดสำนักงานร่วมกันเพื่อให้ทีมสามารถเข้าถึงได้ทั่วไป
+* การสร้างสเปรดชีต SXC จากข้อมูล SVG แบบไดนามิกโดยเรียกใช้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

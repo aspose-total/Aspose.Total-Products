@@ -61,7 +61,31 @@ otherformats: XLAM XLSM ODS FODS TSV DIF XLS XLT XLSB XLTM XLTX XLSX EXCEL SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ RTF เป็น XLSM (Excel Macro-Enabled Workbook) ขยายประโยชน์ของเอกสารโดยการรวมข้อมูลที่จัดรูปแบบพร้อมกับความสามารถในการอัตโนมัติของ Excel มันเหมาะสำหรับรายงานแบบไดนามิก การวิเคราะห์ และการตัดสินใจที่มีการใช้ข้อมูล
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ฝังตาราง RTF เข้าไปในแมโคร Excel เพื่อรายงานที่อัพเดตอัตโนมัติ
+* การอัตโนมัติกระบวนการแปลงข้อมูลผ่านสคริปต์ VBA
+* การแปลงเอกสาร RTF แบบขั้นตอนเป็นเครื่องมือการเงินที่ขับเคลื่อนด้วยแมโคร
+* การเปิดใช้งานแดชบอร์ดแบบโต้ตอบที่มีข้อมูลต้นฉบับจากชุดข้อมูลที่มีรูปแบบ RTF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง RTF เป็น XLSM สำหรับการใช้งานแมโคร Excel
+* การผสานกับเครื่องมืออินเทลลิเจนซ์ธุรกิจและการจำลองการเงิน
+* การสร้างแมโครบุ๊คเวิร์กชีตตามกำหนดเวลาจากคลังเอกสาร
+* การผูกแมโครโดยอัตโนมัติระหว่างกระบวนการแปลงข้อมูล
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

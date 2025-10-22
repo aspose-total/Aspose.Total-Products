@@ -47,7 +47,31 @@ otherformats: XLT SXC XLTM XLSB ODS MD EXCEL XLTX DIF TSV TXT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น Markdown (MD) ช่วยให้สามารถฝังไดอะแกรมเวกเตอร์โดยตรงลงในเอกสาร ไฟล์ README และเครื่องมือสร้างเว็บไซต์แบบสถิต วิธีการนี้ช่วยให้กราฟิกมีน้ำหนักเบาและสามารถปรับขนาดได้อย่างเต็มรูปแบบในขณะที่เพิ่มความอ่านง่ายในเนื้อหาทางเทคนิค
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การฝังไดอะแกรมสถาปัตยกรรมในไฟล์ README ของโครงการซอฟต์แวร์
+* แผนภูมิการไหลที่สามารถแสดงได้ในคลังเอกสารโอเพนซอร์ส
+* หนังสืออิเล็กทรอนิกส์และบทแนะนำที่ใช้ Markdown พร้อมภาพประกอบเวกเตอร์
+* เว็บบล็อกเทคนิคที่ใช้ภาพที่สามารถปรับขนาดได้โดยไม่ต้องมีไฟล์ภาพเพิ่มเติม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การแปลง SVG เป็น MD โดยอัตโนมัติสำหรับการสร้างท่องไปของเอกสาร
+* การสร้างแผนภูมิเวกเตอร์ตามกำหนดเวลาสำหรับการอัพเดทฐานความรู้
+* การผสานรวมกับเครื่องมือสร้างเว็บไซต์แบบสถิต เช่น Hugo หรือ Jekyll
+* การซิงค์การอัพเดทดีไซน์อย่างต่อเนื่องเข้าสู่ไฟล์เทคนิค Markdown
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

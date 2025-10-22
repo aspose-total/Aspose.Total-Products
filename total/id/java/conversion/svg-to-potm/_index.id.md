@@ -121,7 +121,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke POTM (Template PowerPoint yang Diaktifkan Makro) memungkinkan pembuatan template yang dapat digunakan ulang dengan makro untuk otomatisasi sambil menyematkan grafik vektor yang dapat diperbesar. Ideal untuk alur kerja presentasi yang interaktif dan otomatis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Template presentasi perusahaan yang diaktifkan makro dengan visual SVG yang disematkan.
+* Deck laporan otomatis dengan grafik dan diagram dinamis.
+* Template slide pelatihan dan instruksional menggunakan interaktivitas yang didorong oleh makro.
+* Template akademis atau penelitian interaktif yang memanfaatkan konten SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi SVG ke POTM yang dijadwalkan untuk presentasi yang diaktifkan makro yang berulang.
+* Penyisipan makro secara otomatis ke dalam template untuk deck slide dinamis.
+* Integrasi dengan otomatisasi alur kerja untuk penggunaan template oleh tim secara luas.
+* Generasi template yang dipicu untuk dashboard interaktif dan laporan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

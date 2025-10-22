@@ -57,7 +57,31 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PS (PostScript) sang định dạng DICOM (Digital Imaging and Communications in Medicine) cho phép tích hợp mượt mà các báo cáo dựa trên vector, biểu đồ chẩn đoán và chú thích chụp X-quang vào quy trình làm việc hình ảnh y tế chuẩn hóa. Khả năng tương thích DICOM đảm bảo rằng những báo cáo hình ảnh này có thể được xem và phân tích một cách an toàn trên các nền tảng PACS (Hệ thống Lưu trữ và Truyền thông Hình ảnh) được sử dụng trong các bệnh viện và phòng khám.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng biểu đồ chẩn đoán dựa trên vector vào các lưu trữ hình ảnh của bệnh nhân.
+* Chuyển đổi biểu đồ PS về tim mạch hoặc ung thư thành chuỗi hình ảnh tương thích với DICOM.
+* Tích hợp hình ảnh lập kế hoạch phẫu thuật vào hệ thống hình ảnh của bệnh viện.
+* Tạo bản tóm tắt chẩn đoán dưới dạng lớp phủ DICOM cho báo cáo chẩn đoán hình ảnh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ PS sang DICOM trong quy trình làm việc EMR (Hồ Sơ Y Tế Điện Tử).
+* Tích hợp dữ liệu ETL trong các đường ống phân tích sức khỏe cho báo cáo dựa trên hình ảnh.
+* Chuyển đổi hàng loạt hỗ trợ bằng trí tuệ nhân tạo cho việc hiển thị chẩn đoán trong các hệ thống AI y tế.
+* Xuất DICOM kích hoạt cho tài liệu hình ảnh lâm sàng tự động tạo ra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

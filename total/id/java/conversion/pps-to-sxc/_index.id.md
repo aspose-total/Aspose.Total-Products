@@ -61,7 +61,31 @@ Saat mengonversi file PPS ke SXC, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPS (PowerPoint Slide Show) ke SXC (StarOffice Calc Spreadsheet) membantu organisasi yang bekerja dengan paket aplikasi perkantoran warisan atau sumber terbuka untuk mengubah data presentasi ke dalam bentuk spreadsheet. Ini memungkinkan analisis terstruktur dan pelaporan tanpa memerlukan perangkat lunak propietari.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah presentasi bisnis menjadi data spreadsheet yang dapat dianalisis.
+* Mengekspor ringkasan slide penjualan atau keuangan ke format SXC.
+* Menyiapkan lembar yang kompatibel dengan OpenOffice dari laporan PPS.
+* Mengonversi presentasi pendidikan menjadi spreadsheet terstruktur yang dapat dibagikan.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi SXC otomatis untuk alur kerja pelaporan berbasis LibreOffice.
+* Integrasi ke dalam sistem manajemen dokumen sumber terbuka.
+* Konversi slide ke SXC secara massal untuk arsip analitik.
+* Ekspor terjadwal untuk tim yang menggunakan lingkungan aplikasi perkantoran sumber terbuka.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

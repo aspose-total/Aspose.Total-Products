@@ -81,7 +81,31 @@ otherformats: SVGZ EMZ PSD IMAGE TGA JPEG2000 WMZ  APNG WMF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) ל-DXF (Drawing Exchange Format) מאפשרת ייבוא של עיצובים מבוססי וקטור ממסמכי PostScript ליישומי CAD (Computer-Aided Design) בדיוק. ההמרה הזו אידיאלית למהנדסים, אדריכלים ומעצבים שזקוקים לשרטוטים טכניים שניתנים לעריכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת סכמות מבוססות PS לקבצי DXF תואמי CAD.
+* המרת תוכניות קומות אדריכליות מפריסות PostScript למודלים ב-3D.
+* ייבוא תרשימי הנדסה ל-AutoCAD ליישום ריפיון עיצובי נוסף.
+* שיתוף עיצובים וקטוריים טכניים בין פלטפורמות שתומכות ב-DXF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PS ל-DXF בצורה צפופה בצינורות עיצוב והנדסה.
+* שילוב עם אוטומציה של זרימת העבודה ב-CAD לאיטרציה מהירה של פרויקטים.
+* המרה אוטומטית של תרשימים שנוצרו ב-PS בתיעוד בנייה.
+* יצירת DXF בענן לצוותי עיצוב שיתופיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,31 @@ otherformats: XLT EXCEL TXT SXC DIF TSV XLTM FODS XLSB XLTX ODS XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PS (PostScript) เป็น XLAM (Excel Add-in) ช่วยให้สามารถสร้าง Excel add-ins ที่ขึ้นอยู่กับตรรกะที่ได้มาจาก PostScript, แมโคร, หรือการอัตโนมัติ ซึ่งช่วยให้ Excel สามารถใช้ฟังก์ชันขั้นสูงโดยใช้เนื้อหาทางด้านภาพหรือข้อมูลที่ถูกดึงออกจากไฟล์ PS
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ฝังการคำนวณหรือเทมเพลตที่มีต้นทางจาก PostScript เข้าไปใน Excel add-ins
+* สร้างเครื่องมืออัตโนมัติที่สามารถนำไปใช้ซ้ำจากรายงานที่สร้างจาก PS
+* แปลงการ์ตของ PS เป็นแดชบอร์ด Excel ที่สามารถแอคทีฟได้ผ่าน XLAM
+* ช่วยให้ผู้ใช้ในองค์กรสามารถใช้การอัตโนมัติที่มีต้นทางจาก PostScript ใน Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การแปลง PS เป็น XLAM โดยอัตโนมัติสำหรับเครื่องมือ Excel ภายใน
+* การผสานเข้ากับกระบวนการอัตโนมัติของการทำงานในองค์กร
+* การสร้างแมโคร Excel จากข้อมูล PostScript ด้วยการช่วยเสริมของ AI
+* การตั้งเวลาให้เพิ่มเข้าไปใน add-in ด้วยเนื้อหาที่ถูกดึงออกจากเลยเอาท์ของ PS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

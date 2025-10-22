@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PS (PostScript) na WordML (WordprocessingML) zapewnia oparte na XML reprezentacje dokumentów PostScript, umożliwiając głęboką integrację z aplikacjami, wymianę danych i niestandardowe przepływy pracy związane z przetwarzaniem tekstu w Wordzie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie raportów PS na WordML w celu programowej edycji i generacji.
+* Integracja układów opartych na PostScript w przepływy publikacji sterowane XML.
+* Automatyzacja wypełniania dokumentów i formatowania za pomocą szablonów WordML.
+* Przygotowanie treści do systemów przetwarzania tekstu w Wordzie dostępnych w sieci lub dla przedsiębiorstw.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Zaplanowana konwersja PS na WORDML dla zautomatyzowanej publikacji.
+* Integracja z systemami zarządzania treścią i dokumentami w przedsiębiorstwie.
+* Konwersja układu na XML wspomagana sztuczną inteligencją dla strukturalnych przepływów pracy związanych z tekstem w Wordzie.
+* Partiowa transformacja plików PostScript na czytelny dla maszyny WordML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

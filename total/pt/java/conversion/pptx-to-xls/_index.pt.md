@@ -61,7 +61,31 @@ Ao converter o arquivo PPTX para XLS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPTX para XLS (Planilha do Excel 97-2003) garante compatibilidade com sistemas legados. Isso permite que organizações que usam softwares de escritório mais antigos acessem e modifiquem dados de apresentação tabulares de forma eficiente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Transformar tabelas do PowerPoint para análise no Excel legado.
+* Exportar resumos de apresentações para ferramentas financeiras mais antigas.
+* Reutilizar dados de slides em sistemas compatíveis com versões anteriores.
+* Compartilhar análises com clientes que usam versões anteriores do Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Saída automatizada de XLS do PowerPoint para arquivos de empresa.
+* Integração com sistemas contábeis ou ERP mais antigos.
+* Pipelines de conversão garantindo compatibilidade entre plataformas.
+* Transformação em lote de decks do PowerPoint legados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

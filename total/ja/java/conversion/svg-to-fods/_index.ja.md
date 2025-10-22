@@ -47,7 +47,29 @@ SVGファイルをFODSに変換するときに、出力FODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+SVGをFODS（Flat OpenDocument Spreadsheet）に変換すると、ベクターチャートをオープン標準のスプレッドシートファイルに埋め込むことができます。FODSはクロスプラットフォームのワークフローやスプレッドシートの自動化に最適です。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* SVGダイアグラムをオープンソースのスプレッドシートテンプレートに埋め込むこと。
+* ベクター画像を使用した研究データや財務データをFODS形式で共有すること。
+* 学術およびエンジニアリングデータを編集可能なプラットフォーム非依存のスプレッドシートとしてエクスポートすること。
+* オープンドキュメント形式で標準化されたプロジェクトダッシュボード。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レポートパイプライン向けの自動化されたSVGからFODSへの変換。
+* 研究や運用スプレッドシートテンプレートの定期的な更新。
+* オープンフォーマットを必要とするクロスプラットフォームオフィススイートとの統合。
+* チームコラボレーション用のSVGベースのスプレッドシートダッシュボードの生成をトリガーする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

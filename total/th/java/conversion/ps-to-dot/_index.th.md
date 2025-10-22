@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PS (PostScript) เป็น DOT (Word Template) ช่วยให้ธุรกิจมีมาตรฐานในการจัดรูปแบบและเลย์เอาท์ของเอกสาร แม่แบบ DOT สามารถนำมาใช้ซ้ำสำหรับการติดต่อทางการ, รายงาน และเอกสารที่เผชิญหน้าลูกค้าโดยไม่ต้องสร้างรูปแบบใหม่อีกครั้ง
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างแม่แบบ Word ที่ใช้ซ้ำจากรายงานที่ใช้ PostScript
+* มาตรฐานหัวกระดาษทางธุรกิจ, แบบฟอร์ม และเอกสารภายใน
+* แปลงเลย์เอาท์ที่สร้างจาก PS เป็นแม่แบบ Word ที่สามารถแก้ไขได้
+* รักษาความสม่ำเสมอในการออกแบบข้ามเอกสารที่ทีมสร้างขึ้นหลายรายการ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PS เป็น DOT โดยอัตโนมัติสำหรับระบบการจัดการแม่แบบ
+* การผสานรวมกับระบบการจัดการเนื้อหาสำหรับแม่แบบเอกสารที่ใช้ซ้ำ
+* การประมวลผลเป็นชุดสำหรับการสร้างแม่แบบที่เฉพาะแผนก
+* การอัปเดตแม่แบบ Word ตามกำหนดเวลาจากทรัพยากรการตลาดที่ใช้ PostScript
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

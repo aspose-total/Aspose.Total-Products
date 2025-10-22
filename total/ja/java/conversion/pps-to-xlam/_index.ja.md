@@ -61,7 +61,31 @@ PPSファイルをXLAMに変換するときに、出力XLAMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをXLAM（Excel Add-In）に変換すると、プレゼンテーションからのデータをマクロ有効なアドインに埋め込むことができます。この変換は、Excelベースのレポートを自動化し、PowerPointデータをExcel拡張機能に統合する開発者やアナリストに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 自動レポート用のスライドベースのメトリクスを備えたXLAMアドインの構築。
+* PPSプレゼンテーションデータからソースを取るマクロ駆動型ダッシュボードの作成。
+* 変換されたプレゼンテーションの値を使用してライブKPIトラッキング用のアドインを生成。
+* PPSコンテンツを高度なExcel自動化スクリプトに統合。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 部門プレゼンテーションファイルからの自動XLAM生成。
+* 企業向けExcel自動化システムへの統合。
+* ライブレポートモジュール用のスケジュールされたPowerPointからXLAMへの変換。
+* 動的データ可視化ワークフロー用のバッチアドイン作成。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

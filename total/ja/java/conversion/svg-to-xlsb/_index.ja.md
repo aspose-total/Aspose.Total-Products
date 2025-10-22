@@ -47,7 +47,25 @@ SVGファイルをXLSBに変換するときに、出力XLSBファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+SVGファイルをXLSB（Excelバイナリワークブック）に変換すると、大規模なベクターベースのスプレッドシートでの高速なパフォーマンスと小さなファイルサイズが実現されます。XLSBは企業レベルのダッシュボードや複雑な計算に最適です。
+
+## Key Use Cases
+
+- パフォーマンスの最適化のために大規模なSVGファイナンシャルダッシュボードをXLSBに変換。
+- バイナリExcelワークブックに保存された大量のエンジニアリングおよびプロジェクトダイアグラム。
+- 対話型の学術および統計グラフをXLSBとしてエクスポート。
+- 大規模なSVGビジュアルがXLSBファイルに埋め込まれた企業向けレポーティング。
+
+## Automation Scenarios
+
+- 企業向けレポーティングのための自動バッチSVGからXLSBへの変換。
+- オフラインアクセス用にダッシュボードの定期的なXLSBへの更新。
+- SVGデータセットの自動解析のためのVBAスクリプトとの統合。
+- デザインからレポートへのワークフローのための連続的なエクスポートパイプライン。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

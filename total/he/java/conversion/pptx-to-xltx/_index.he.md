@@ -102,7 +102,31 @@ otherformats: EXCEL DIF ODS XLSM CSV XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTX ל- XLTX (תבנית Excel) מאפשרת לעסקים ליצור תבניות מובנות ועקביות חזותית ישירות ממצגות PowerPoint. זה מקל על יצירת דוחות ומחייב עקביות במותג.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* בניית תבניות Excel המשקפות את סטנדרטי העיצוב של PowerPoint.
+* יצירת גליונות KPI מעוצבים משקפים.
+* שימוש מחדש במצגות כתבניות דיווח מחלקתיות.
+* הקמת מסגרת אחידה להצגת נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת XLTX אוטומטית עבור צוותי פיננסים ושיווק.
+* שילוב במערכות ספק תבניות.
+* יצירת תבנית מתוזמנת ממצגת PowerPoint בתהליכי עבודה בארגון.
+* ניהול תבניות Excel מרכזיות המפורקות ממצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

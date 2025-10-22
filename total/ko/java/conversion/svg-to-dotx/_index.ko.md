@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 DOTX(Word Open XML 템플릿)로 변환하면 포함된 벡터 다이어그램이 있는 현대적이고 재사용 가능한 문서 템플릿이 생성됩니다. DOTX는 가벼우며 새로운 Word 기능을 지원하며 표준화된 보고서 작성에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 기반 차트를 활용한 재사용 가능한 비즈니스 보고서 템플릿.
+* SVG 시각 자료를 통합한 표준화된 학술 또는 교육용 템플릿.
+* 벡터 다이어그램을 활용한 마케팅 및 운영 템플릿 작성.
+* 일관된 형식 및 시각적 명확성을 위한 프로젝트 관리 템플릿.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 주기적 보고서를 위한 예약된 SVG-to-DOTX 템플릿 생성.
+* 새로운 시각 자료로 재사용 가능한 문서 템플릿을 업데이트하는 자동화된 파이프라인.
+* 템플릿 기반 워크플로우를 위한 기업 문서 시스템 통합.
+* 상호작용적이고 표준화된 SVG 기반 템플릿을 생성하기 위한 트리거 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

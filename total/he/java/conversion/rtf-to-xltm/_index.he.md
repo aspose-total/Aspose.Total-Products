@@ -102,7 +102,31 @@ otherformats: XLSX XLT SXC FODS XLSM EXCEL XLSB XLS CSV XLAM TSV ODS DIF XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל-XLTM (תבנית המופעלת על ידי מקרו של Excel) משלבת תוכן מסמך מעוצב עם הגישה האוטומטית של Excel, מושלמת עבור עסקים שמחפשים תבניות ניתנות לשימוש שמפעילות מקרו בעת יצירתן.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת דוחות RTF לתבניות Excel דינמיות עם מקרו מוטבע.
+* אוטומציה של יצירת חשבונית או הצעת מחיר מנתוני טופס RTF.
+* יצירת כלים במערכת Excel שמריצים משימות אוטומטיות בעת פתיחה.
+* סידור מסמכי RTF למסמכי תבנית זריזים ב-Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* הפקת RTF ל-XLTM במערכות מסמכים פיננסיים או למערכות מסמכים של משאבי אנוש.
+* שילוב בצינורות אוטומציה המבוססות על VBA.
+* יצירה מתוזמנת של תבניות מקרו לדיווח עסקי.
+* המרת רשומות RTF לתבניות Excel חכמות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

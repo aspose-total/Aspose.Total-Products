@@ -61,7 +61,29 @@ RTFをDIFに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+RTF（リッチテキスト形式）ファイルをDIF（データインターチェンジフォーマット）に変換することで、構造化されたレポートや文書をスプレッドシート用のデータセットに変換できます。この変換は、元々RTFで作成されたがスプレッドシートツールやBI環境で分析が必要なタブル情報を取り扱う組織に特に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* フォーマットされたRTF財務諸表をExcelやLibreOffice CalcにインポートするためにDIFに変換する。
+* RTFベースのレポートから表形式のデータを機械可読形式に抽出する。
+* RTFで生成された研究概要を統計処理のために準備する。
+* 旧文書記録をデータ管理システムに移行する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 文書デジタル化ワークフローでのバッチRTFからDIFへのエクスポート。
+* 構造化データ抽出のためのETLプロセスへの統合。
+* ワード処理から分析ダッシュボードへの自動データ移行。
+* 政府や学術データの公開を支援する変換パイプライン。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+## BMP
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

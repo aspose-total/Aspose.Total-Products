@@ -53,7 +53,31 @@ otherformats: TEXT DOTM WORDML ODTM RTF FLATOPC DOT WORD ODT ODTX OTT DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPT (PowerPoint) เป็นรูปแบบ ODT (OpenDocument Text) ช่วยให้สามารถสกัดเนื้อหาสไลด์เข้าสู่เอกสารข้อความที่สามารถแก้ไขได้ ซึ่งมีประโยชน์มากๆ เมื่อต้องการสร้างรายงาน วัสดุการเรียนการสอน หรือเอกสารที่มีเนื้อหาเป็นข้อความจากสไลด์งานนำเสนอที่มีอยู่แล้ว
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* การเปลี่ยนงานนำเสนอ PowerPoint เป็นเอกสารข้อความสำหรับรายงานที่ละเอียด
+* การนำเนื้อหาสไลด์มาใช้ใหม่สำหรับโปรแกรมประมวลข้อความโอเพนซอร์ส เช่น LibreOffice Writer
+* การสร้างเอกสารที่สามารถแก้ไขได้จากสรุปโครงการที่เป็นสไลด์
+* การสร้างคู่มือการฝึกอบรมและใบส่งมอบจากไฟล์ PowerPoint
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การแปลงงานนำเสนอ PowerPoint เป็น ODT โดยอัตโนมัติในระบบการตีพิมพ์ทางวิชาการ
+* การรวมระบบการสร้างเอกสารสำหรับผู้ใช้โอเพนซอร์ส
+* การส่งออกสไลด์เป็น ODT ตามกำหนดเวลาเพื่อใช้ในการปฏิบัติตามและเก็บถาวร
+* การแปลงงานนำเสนอทางการตลาดเป็นเทมเพลตเนื้อหาที่สามารถแก้ไขได้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

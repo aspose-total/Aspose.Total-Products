@@ -61,7 +61,31 @@ Sau khi chuyển đổi RTF sang XLTM, [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi RTF sang XLTM (Excel Macro-Enabled Template) kết hợp nội dung tài liệu được định dạng với khung việc tự động hóa của Excel, lý tưởng cho các doanh nghiệp tìm kiếm các mẫu có thể tái sử dụng thực thi các macro khi tạo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi báo cáo RTF thành các mẫu Excel động với macro nhúng.
+* Tự động hóa việc tạo hóa đơn hoặc báo giá từ dữ liệu biểu mẫu RTF.
+* Tạo các công cụ dựa trên Excel chạy các nhiệm vụ tự động khi mở.
+* Tối ưu hóa các tài liệu thủ tục RTF thành các mẫu luồng công việc Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo ra thế hệ RTF-to-XLTM trong các hệ thống tài liệu tài chính hoặc nhân sự.
+* Tích hợp vào các đường ống tự động hóa dựa trên VBA.
+* Tạo các mẫu macro theo lịch trình cho báo cáo kinh doanh.
+* Chuyển đổi hàng loạt các bản ghi RTF thành các mẫu Excel thông minh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

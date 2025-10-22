@@ -99,7 +99,31 @@ otherformats: OTT DOTM WORDML RTF DOC DOCX FLATOPC DOCM TEXT DOT WORD DOTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל־ODT (OpenDocument Text) מאפשרת למקצוענים להפוך תוכן השקפים הוויזואלי למסמך טקסט ניתן לעריכה. התהליך הזה אידיאלי להמרת מצגות לדוחות רשמיים, מדריכי הכשרה ותיעוד כתוב הנגיש ב־LibreOffice Writer או ב־OpenOffice Writer.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת מצגות חברה לדוחות פרויקט מעוצבים.
+* יצירת דקדוקי פגישות או מסמכי מדיניות משקפים ויזואליים.
+* המרת מצגות כיתה להרצאות מפורטות או מדריכי לימוד.
+* יצירת ארכיונים של תוכן ניתן לעריכה ממצגות סופיות של PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת דוחות אוטומטיים משקפים פנימיים של מצגות.
+* שילוב במערכות לניהול מסמכים לארכיבת מבוססת ODT.
+* המרת מצגות שיווק לתוכן מבוסס טקסט לפרסום פנימי.
+* המרת מצגות הכשרה בכמויות גדולות למדריכים ניתנים לעריכה לתיעוד של משאבי אנוש.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

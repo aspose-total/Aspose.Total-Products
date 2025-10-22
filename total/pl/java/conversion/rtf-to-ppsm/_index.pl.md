@@ -54,7 +54,31 @@ Interfejs API umożliwia również konwersję dokumentów RTF chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja RTF na PPSM (PowerPoint Macro-Enabled Show) wprowadza automatyzację do prezentacji slajdów. Ten format łączy bogactwo tekstowe RTF z dynamicznymi funkcjami makr w programie PowerPoint, umożliwiając zaawansowane opowiadanie interaktywne.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Automatyzacja prezentacji slajdów przy użyciu makr pobranych z danych RTF.
+* Tworzenie interaktywnych pulpitów nawigacyjnych lub samouczków na podstawie podręczników RTF.
+* Dostarczanie automatycznych prezentacji zawierających dynamiczne aktualizacje.
+* Przekształcanie podsumowań biznesowych w samodzielnie działające slajdy z makrami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyzacja RTF-na-PPSM w potokach treści e-learningowych.
+* Integracja z systemami raportowania obsługującymi makra.
+* Generowanie zaplanowanych prezentacji dla zespołów sprzedaży i szkoleniowych.
+* Tworzenie automatycznych pokazów PowerPoint z zestawów dokumentów zawierających dużo tekstu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

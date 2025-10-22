@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPSファイルからDOTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをDOT（Word 97–2003 テンプレート）に変換することで、企業はプレゼンテーションコンテンツから再利用可能なドキュメントテンプレートを作成し、レガシーなWord環境で一貫したブランディングと構造を確保できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* 企業プレゼンテーションから標準化されたレポートテンプレートを作成する。
+* 人事や財務の文書に再利用可能なDOTテンプレートを生成する。
+* ビジュアルスライドからレガシー互換のテンプレートを作成する。
+* PowerPoint資料をフォーマライズされたテキストレイアウトに変換する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 承認済みのPowerPointデッキから定期的にテンプレートを生成する。
+* DOTファイルの保存のために文書管理システムに統合する。
+* 一貫したフォーマットのためのレガシーDOTテンプレートの自動作成。
+* テンプレートライブラリを維持する組織のための一括変換。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,31 @@ SVGファイルをMDに変換するときに、出力MDファイル形式に透�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをMarkdown（MD）に変換すると、ベクターダイアグラムをドキュメント、READMEファイル、静的サイトジェネレータに直接埋め込むことができます。このアプローチは、グラフィックを軽量化し、完全にスケーラブルに保ちながら技術コンテンツの読みやすさを向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* ソフトウェアプロジェクトのREADMEファイルにアーキテクチャ図を埋め込む。
+* オープンソースのドキュメントリポジトリ用のインタラクティブなフローチャート。
+* インラインベクターイラストを使用したMarkdownベースの電子書籍やチュートリアル。
+* 余分な画像ファイルなしでクリーンでスケーラブルな視覚要素を使用した技術ブログ。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ドキュメントパイプライン用の自動化されたSVGからMDへの変換。
+* ナレッジベースの更新のためのベクターダイアグラムの定期的な生成。
+* HugoやJekyllなどの静的サイトジェネレータとの統合。
+* デザインの更新をMarkdown技術ファイルに連続的に同期。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

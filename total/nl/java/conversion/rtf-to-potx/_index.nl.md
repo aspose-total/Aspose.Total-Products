@@ -54,7 +54,31 @@ Met de API kunt u ook met een wachtwoord beveiligde RTF-Documenten naar POTX con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van RTF-documenten naar POTX (PowerPoint Template Open XML) zorgt voor een schone, moderne en herbruikbare dia-ontwerp voor Office 365 en PowerPoint 2019+. Het zorgt voor consistentie in lay-out bij presentaties die zijn gemaakt van op RTF gebaseerde inhoud.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van RTF-voorstellen en rapporten naar bedrijfs-PowerPoint-sjablonen.
+* Het ontwerpen van presentatiethema's op basis van opgemaakte documentstructuren.
+* Het omzetten van op RTF gebaseerde stijlgidsen naar visuele PowerPoint-sjablonen.
+* Het voorbereiden van educatieve dia-sjablonen voor consistent academisch gebruik.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Automatisering van RTF naar POTX voor uniforme merkpresentatie.
+* Integratie met documentbeheersystemen voor sjablooncreatie.
+* Geplande generatie van moderne PowerPoint-sjablonen van RTF-rapporten.
+* Batchconversie van inhoudsarchieven naar herbruikbare POTX-indelingen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

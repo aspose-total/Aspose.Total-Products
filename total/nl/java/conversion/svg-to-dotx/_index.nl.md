@@ -129,7 +129,29 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG-bestanden naar DOTX (Word Open XML Template) creëert moderne, herbruikbare documenttemplates met ingesloten vector diagrammen. DOTX is lichtgewicht, ondersteunt nieuwe Word-functies en is ideaal voor gestandaardiseerde rapportage.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Herbruikbare zakelijke rapportagetemplates met op SVG gebaseerde grafieken.
+* Gestandaardiseerde academische of instructieve templates met SVG visuals.
+* Marketing- en operationele templatecreatie met behulp van vector diagrammen.
+* Projectmanagementtemplates voor consistente opmaak en visuele duidelijkheid.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geplande generatie van SVG-naar-DOTX-templates voor terugkerende rapporten.
+* Geautomatiseerde pipeline voor het bijwerken van herbruikbare documenttemplates met nieuwe visuals.
+* Integratie met bedrijfsdocumentatiesystemen voor op templates gebaseerde workflows.
+* Getriggerde conversie voor het maken van interactieve en gestandaardiseerde op SVG gebaseerde templates.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

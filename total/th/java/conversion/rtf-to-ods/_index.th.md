@@ -61,7 +61,31 @@ otherformats: XLTM DIF TSV XLSB XLTX XLAM FODS XLSM XLS EXCEL XLSX SXC ODS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง RTF เป็น ODS (OpenDocument Spreadsheet) นำเสนอวิธีการที่มีประสิทธิภาพในการเปลี่ยนเนื้อหาเอกสารโครงสร้างเป็นข้อมูลที่พร้อมใช้งานในสเปรดชีตที่เข้ากันได้กับ LibreOffice Calc และแพลตฟอร์มที่เป็นไปตามมาตรฐาน ODF อื่น ๆ มีการใช้งานอย่างแพร่หลายในองค์กรที่ใช้มาตรฐานเปิดและกระบวนการประมวลผลข้อมูล
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การสกัดข้อมูล RTF แบบตารางสำหรับการวิเคราะห์ในสเปรดชีต ODS
+* เตรียมรายงานของรัฐบาลหรือองค์กรไม่แสวงหาผลกำไรในรูปแบบสเปรดชีตมาตรฐานเปิด
+* การจัดการผลลัพธ์การสำรวจ RTF ในชีท ODS ที่ขับเคลื่อนด้วยข้อมูล
+* การแปลงรายการและตารางที่จัดรูปแบบเป็นสเปรดชีตที่สามารถแก้ไขและแบ่งปันได้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง RTF เป็น ODS โดยอัตโนมัติภายในชุดออฟฟิศดิจิตอล
+* ท่อการโยกย้ายข้อมูลที่สนับสนุนมาตรฐานเอกสารเปิด
+* โมดูลการแปลงที่ฝังอยู่ในเครื่องมือรายงานที่ใช้งานผ่านเว็บ
+* การแปลงเป็นรูปแบบเก็บถาวรตามกำหนดเวลาเพื่อให้สามารถใช้งานร่วมกันระหว่างระบบ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

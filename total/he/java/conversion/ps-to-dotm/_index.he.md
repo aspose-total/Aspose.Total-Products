@@ -72,7 +72,31 @@ otherformats: DOCM OTT MHTML WORDML RTF XAMLFLOW ODT DOTX FLATOPC MARKDOWN PCL D
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) ל- DOTM (תבנית המופעלת במקרו של Word) משלבת תקנות תבנית עם אוטומציה. המשתמשים יכולים להשתמש שוב בפריסות בעודם משתמשים במקרום כדי לאוטומציה את מילוי המסמכים, החישובים או העיצוב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת דוחות PS לתבניות Word המופעלות במקרו שניתן לשימוש מחדש.
+* אוטומציה של יצירת חוזים או חשבוניות עם פריסות המקור שנוצרו ב-PostScript.
+* הטמעת טבלאות ותרשימים שנוצרו ב-PS לתבניות DOTM.
+* יצירת טפסים אינטראקטיביים לצרכי משאבי אנוש, פיננסיים או תהליכי עבודה תפעוליים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת קבצים PS ל-DOTM באופן צפוף באוטומציה של תהליכי עבודה בארגון.
+* שילוב עם מערכות יצירת מסמכים למשימות המופעלות במקרו.
+* מילוי מוסך של תבניות עם תוכן שנוצר מ-PS באמצעות AI.
+* יצירת תבניות המופעלות במקרו מתוזמנות לצרכי דיווח חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 RTF로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 RTF(Rich Text Format)로 변환하면 프레젠테이션 텍스트 추출에 대한 넓은 호환성이 보장됩니다. 서식 무결성을 유지하면서 크로스 플랫폼에서 편집 가능한 문서를 생성하는 데 널리 사용됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 크로스 소프트웨어 편집을 위한 슬라이드 텍스트 추출.
+* 운영 체제 간 서식이 적용된 PowerPoint 콘텐츠 공유.
+* 프레젠테이션의 가벼운 편집 가능 버전 준비.
+* RTF를 지원하는 편집기로 프레젠테이션 노트 가져오기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 라이브러리를 위한 자동화된 PPTX-to-RTF 변환.
+* RTF 기반 콘텐츠 관리 도구와의 통합.
+* 번역 워크플로우를 위한 슬라이드에서 일괄 텍스트 추출.
+* 규정 준수를 위해 예약된 PowerPoint 아카이브화를 RTF로.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

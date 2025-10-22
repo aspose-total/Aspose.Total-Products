@@ -61,7 +61,31 @@ A PPT fájl FODS formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az átalakítás PPT (PowerPoint) prezentációkat FODS (Flat OpenDocument Spreadsheet) formátumra lehetővé teszi a szervezetek számára, hogy újrahasznosítsák a strukturált tartalmat az open-standard irodai eszközök számára. A FODS formátum különösen értékes azoknak a csapatoknak, akik a LibreOffice vagy az Apache OpenOffice biztonságos, szerkeszthető táblázatkezelő munkafolyamataira támaszkodnak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PowerPoint táblázatok átalakítása LibreOffice táblázatkezelővé elemzés céljából.
+* Strukturált adatok kinyerése a diákokból a közös szerkesztés érdekében.
+* Prezentációs adatok archiválása nyílt, XML-alapú táblázatformátumokban.
+* Képzési prezentációk átalakítása FODS formátumra oktatási nyilvántartási rendszerek számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált FODS generálás PowerPoint jelentésekből nyílt forráskódú felhasználásra.
+* Tömeges feldolgozás kormányzati vagy oktatási dokumentumrendszerekben.
+* PPT-to-FODS konverzió integrálása digitális átalakítási csövekbe.
+* Ütemezett exportok a részlegközi jelentési és dokumentációs célokra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

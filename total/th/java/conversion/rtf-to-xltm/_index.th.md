@@ -61,7 +61,31 @@ otherformats: XLSX XLT SXC FODS XLSM EXCEL XLSB XLS XLTM XLAM TSV ODS DIF XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง RTF เป็น XLTM (Excel Macro-Enabled Template) รวมเนื้อหาเอกสารที่จัดรูปแบบไว้กับกรอบการทำงานของ Excel ที่เหมาะสำหรับธุรกิจที่ต้องการใช้เทมเพลตที่สามารถนำมาใช้ซ้ำซึ่งทำงานกับแมโครเมื่อสร้าง
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การแปลงรายงาน RTF เป็นเทมเพลต Excel ที่เปลี่ยนไปตามเวลาพร้อมกับแมโครที่ฝังอยู่
+* การอัตโนมัติในการสร้างใบแจ้งหนี้หรือใบเสนอราคาจากข้อมูลแบบฟอร์ม RTF
+* การสร้างเครื่องมือที่ใช้ Excel ที่ทำงานอัตโนมัติเมื่อเปิด
+* การปรับปรุงเอกสารขั้นตอนการดำเนินงาน RTF เป็นเทมเพลตของ Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การสร้างเอกสาร RTF เป็น XLTM ในระบบเอกสารทางการเงินหรือทรัพยากรบุคคล
+* การรวมเข้ากับกระบวนการอัตโนมัติที่ใช้ VBA
+* การสร้างเทมเพลตแมโครสำหรับรายงานธุรกิจตามกำหนดเวลา
+* การแปลงเปลี่ยนเป็นเทมเพลต Excel ที่ฉลาดจากเอกสาร RTF ไปเป็นชุด
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

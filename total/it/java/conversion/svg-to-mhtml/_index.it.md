@@ -130,7 +130,31 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione dei file SVG in MHTML (MIME HTML) consente di impacchettare grafici interattivi in un unico file di archivio web. Questo è ideale per la documentazione offline, i diagrammi compatibili con le email e i report vettoriali portatili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+* Archiviazione di cruscotti SVG interattivi per l'accesso offline.
+* Invio di visualizzazioni vettoriali animate incorporate nelle email MHTML.
+* Manuali tecnici portatili con diagrammi vettoriali incorporati.
+* Creazione di report compatibili con il web che possono essere distribuiti senza hosting server.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* Conversione batch da SVG a MHTML per la consegna di progetti archiviati.
+* Generazione programmata di cruscotti vettoriali offline per uso aziendale.
+* Integrazione con sistemi di gestione dei contenuti per esportare visualizzazioni vettoriali.
+* Automazione nella generazione di report per una formattazione e portabilità coerenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

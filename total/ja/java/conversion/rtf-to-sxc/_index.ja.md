@@ -61,7 +61,31 @@ RTFをSXCに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTFドキュメントをSXC（StarOffice Calc Spreadsheet）に変換すると、古いOpenOfficeやStarOfficeエコシステムとの互換性が実現されます。RTFレポートやデータをスプレッドシート形式で再利用する必要がある企業に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 歴史的なRTFベースのビジネスレポートをSXCアーカイブに変換する。
+* StarOffice互換システム内での分析のためのRTFデータの再利用。
+* ワード処理されたフォームから表形式の情報をスプレッドシートモデルにエクスポートする。
+* 内部データ追跡のためにアーカイブされたRTFコンテンツを近代化する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 旧システムのサポートのための定期的なRTFからSXCへの変換。
+* ドキュメントシステムのアップグレード中のバッチ変換。
+* StarOfficeデータセットをサポートする企業移行ツールへの統合。
+* コンプライアンスやバックアップシステムのための自動アーカイブ再現。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,31 @@ När du konverterar SVG-fil till MD, kan du också lägga till vattenstämpel ti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konvertering av SVG till Markdown (MD) möjliggör inbäddning av vektor diagram direkt i dokumentation, README-filer och statiska webbplatsskapare. Denna metod håller grafik lättviktig och fullt skalbar samtidigt som den förbättrar läsbarheten av tekniskt innehåll.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+* Inbäddning av arkitektoniska diagram i README-filer för programvaruprojekt.
+* Interaktiva flödesscheman för dokumentationsarkiv för öppen källkod.
+* Markdown-baserade e-böcker och handledningar med inbäddade vektorillustrationer.
+* Tekniska bloggar med rena, skalbara visuella element utan extra bildfiler.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* Automatisk konvertering från SVG till MD för dokumentationspipeliner.
+* Schemalagd generering av vektordiagram för uppdateringar av kunskapsbasen.
+* Integration med statiska webbplatsskapare som Hugo eller Jekyll.
+* Kontinuerlig synkronisering av designuppdateringar i Markdown-tekniska filer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

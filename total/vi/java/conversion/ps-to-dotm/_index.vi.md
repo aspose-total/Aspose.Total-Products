@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PS (PostScript) sang DOTM (Mẫu được Kích hoạt Bằng Macro của Word) kết hợp chuẩn hóa mẫu với tự động hóa. Người dùng có thể tái sử dụng bố cục trong khi tận dụng các macro để tự động hóa việc điền thông tin vào tài liệu, tính toán hoặc định dạng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi các báo cáo PS thành các mẫu Word có macro có thể tái sử dụng.
+* Tự động hóa việc tạo hợp đồng hoặc hóa đơn với các bố cục tạo ra từ PostScript.
+* Nhúng bảng và biểu đồ được tạo ra từ PS vào các mẫu DOTM.
+* Tạo các biểu mẫu tương tác cho các quy trình làm việc của Nhân sự, Tài chính hoặc Vận hành.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt từ PS sang DOTM trong quy trình tự động hóa doanh nghiệp.
+* Tích hợp với các hệ thống tạo tài liệu để thực hiện các nhiệm vụ dựa trên macro.
+* Tự động điền nội dung được trích xuất từ PS vào các mẫu.
+* Lên lịch tạo mẫu có macro cho nhu cầu báo cáo định kỳ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPT s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các bài thuyết trình PPT (PowerPoint) sang định dạng ODT (OpenDocument Text) cho phép trích xuất nội dung slide vào tài liệu văn bản có thể chỉnh sửa. Điều này đặc biệt hữu ích để tạo ra báo cáo, tài liệu giáo dục hoặc tài liệu dựa trên văn bản từ các slide thuyết trình hiện có.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi bài thuyết trình PowerPoint thành tài liệu văn bản cho báo cáo chi tiết.
+* Tái sử dụng nội dung slide cho các trình xử lý văn bản mã nguồn mở như LibreOffice Writer.
+* Tạo tài liệu có thể chỉnh sửa từ các tổng kết dự án dựa trên slide.
+* Tạo các tài liệu hướng dẫn đào tạo và tài liệu phát hành từ các tệp PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ PowerPoint sang ODT trong các hệ thống xuất bản học thuật.
+* Tích hợp với quy trình tạo tài liệu cho người dùng mã nguồn mở.
+* Xuất slide theo lịch trình vào ODT để tuân thủ và lưu trữ.
+* Chuyển đổi bài thuyết trình marketing thành các mẫu nội dung có thể chỉnh sửa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

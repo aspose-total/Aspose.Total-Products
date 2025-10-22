@@ -130,7 +130,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG ke DOTX (Word Open XML Template) menciptakan templat dokumen modern dan dapat digunakan kembali dengan diagram vektor tersemat. DOTX ringan, mendukung fitur-fitur Word baru, dan ideal untuk pelaporan yang terstandar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Templat pelaporan bisnis yang dapat digunakan kembali dengan grafik berbasis SVG.
+* Templat akademik atau instruksional yang terstandar dengan visual SVG.
+* Pembuatan templat pemasaran dan operasional menggunakan diagram vektor.
+* Templat manajemen proyek untuk format yang konsisten dan kejelasan visual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi templat SVG-to-DOTX yang terjadwal untuk laporan yang berulang.
+* Pipa otomatis untuk memperbarui templat dokumen yang dapat digunakan kembali dengan visual baru.
+* Integrasi dengan sistem dokumen perusahaan untuk alur kerja berbasis templat.
+* Konversi yang dipicu untuk membuat templat berbasis SVG yang interaktif dan terstandar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,31 @@ Interfejs API umożliwia również konwersję dokumentów RTF chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików RTF na PPTM (Prezentacja z włączonymi makrami programu PowerPoint) łączy strukturalną zawartość dokumentu z interaktywnymi makrami. Obsługuje automatyczną generację slajdów, interaktywność danych i integrację multimediów do użytku zawodowego.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie interaktywnych prezentacji na podstawie raportów biznesowych w formacie RTF.
+* Automatyzacja aktualizacji prezentacji za pomocą osadzonych makr.
+* Tworzenie inteligentnych materiałów szkoleniowych reagujących na działania użytkownika.
+* Konwertowanie dokumentacji RTF na dynamiczne slajdy z danymi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja RTF na PPTM dla prezentacji z makrami.
+* Integracja z platformami automatyzacji do wizualizacji inteligencji biznesowej.
+* Zaplanowane tworzenie makro-włączonych prezentacji PowerPoint.
+* Automatyczne generowanie interaktywnych briefów korporacyjnych z źródeł RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

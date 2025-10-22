@@ -54,7 +54,31 @@ API juga memungkinkan Anda untuk mengonversi dokumen RTF yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file RTF ke ODP (OpenDocument Presentation) mengubah konten teks menjadi slide yang menarik secara visual yang kompatibel dengan LibreOffice Impress dan Apache OpenOffice. Alur kerja ini bermanfaat bagi pendidik, pelatih, dan bisnis yang mengubah materi dokumen menjadi presentasi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah catatan kuliah RTF menjadi presentasi ODP yang terstruktur.
+* Mengonversi manual pelatihan menjadi slide untuk lokakarya perusahaan.
+* Membuat dek ODP dari proposal RTF atau ringkasan bisnis.
+* Mengubah konten teks menjadi format cerita visual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi RTF-ke-ODP otomatis untuk saluran konten e-learning.
+* Integrasi dengan sistem manajemen pengetahuan untuk pembuatan presentasi sesuai permintaan.
+* Konversi batch dokumen korporat RTF menjadi templat ODP.
+* Generasi slide otomatis dari repositori dokumen untuk tim pemasaran.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

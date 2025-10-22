@@ -47,7 +47,29 @@ PSファイルをDIFに変換するときに、出力DIFファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+PS（PostScript）をDIF（Data Interchange Format）に変換することは、視覚データ表現と表形式の分析との間のギャップを埋めるものです。このプロセスは、PSファイルからスプレッドシート互換のDIF構造にグラフィカルレポート、プロットされたデータセット、またはレイアウトベースの出力を変換するのに最適であり、ビジネス、研究、エンジニアリング分析に活用されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* 財務チャートやベクターベースのPSグラフをスプレッドシート形式にエクスポートして分析する。
+* PS図からプロットされたエンジニアリング測定値をDIF互換のデータテーブルに変換する。
+* 学術または研究レポートの視覚的なデータを分析用データセットに変換する。
+* DIFのインポートを使用してパフォーマンストラッキングダッシュボードを自動化する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ビジネスインテリジェンスツールのETLワークフローでの自動変換。
+* ERPシステム内での定期的なPSレポートのDIFへの変換に統合。
+* 統計および経済モデリングのためのスケジュールされたデータ抽出パイプライン。
+* データサイエンス前処理タスクのためのクラウドベースの自動変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+## /BMP
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

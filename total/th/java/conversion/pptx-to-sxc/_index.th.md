@@ -61,7 +61,31 @@ otherformats: XLS ODS XLT MARKDOWN FODS XLAM SXC MHTML XLSM XLTX XLTM XLSB EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPTX เป็น SXC (สเปรดชีตของ StarOffice Calc) ช่วยให้มีความสามารถในการทำงานร่วมกันระหว่างข้อมูลการนำเสนอและเครื่องมือสเปรดชีตรุ่นเก่าได้เพิ่มขึ้น เหมาะสำหรับธุรกิจที่ใช้ StarOffice หรือสภาพแวดล้อมที่ใช้เทคโนโลยี OpenOffice ที่คล้ายกัน
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+* การสกัดข้อมูลตารางจากสไลด์ PowerPoint เข้าสู่สเปรดชีต
+* การแบ่งปันการวิเคราะห์การนำเสนอกับผู้ใช้ StarOffice
+* เตรียมสูตรสำหรับการเก็บถาวรจากสไลด์ของบริษัท
+* การแก้ไขและวิเคราะห์เมตริกการนำเสนอในรูปแบบ SXC
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงจำนวนมากของ PPTX เป็น SXC สำหรับคลังเอกสาร
+* กระบวนการทำงานการสกัดอัตโนมัติสำหรับชุดเครื่องมือสำนักงานรุ่นเก่า
+* การรวมเข้ากับระบบรายงานขององค์กร
+* การแปลงตารางเป็นตารางสำหรับการทำงานร่วมกันระหว่างแพลตฟอร์ม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

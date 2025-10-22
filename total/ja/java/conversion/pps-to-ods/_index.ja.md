@@ -61,7 +61,31 @@ PPSファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをODS（OpenDocument Spreadsheet）に変換することは、プレゼンテーションデータを構造化されたスプレッドシート形式に再利用するシームレスな方法を提供します。この変換により、専門家は要約されたスライドを編集可能で分析可能なテーブルに変換し、LibreOffice CalcやOpenOfficeと互換性のある形式にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* プレゼンテーションスライドから財務データを抽出して構造化されたODSレポートに変換する。
+* 教育用スライドデッキをスプレッドシートベースのコース分析に変換する。
+* マーケティングプレゼンテーションを売上パフォーマンスのスプレッドシートに変換する。
+* PPSビジネス要約から編集可能なプロジェクトトラッキングシートを準備する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 取締役会プレゼンテーションを四半期ごとのODSパフォーマンスファイルに定期的に変換する。
+* レポートパイプラインに統合して、スライドを共有可能なスプレッドシートデータに自動変換する。
+* 会議の成果をリアルタイムで中央集権化された分析シートに変換する。
+* プレゼンテーションとスプレッドシートの記録を維持するチーム向けのバッチ変換。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

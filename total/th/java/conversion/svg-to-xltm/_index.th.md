@@ -47,7 +47,31 @@ otherformats: TSV ODS EXCEL XLSB TXT XLSM DIF FODS MD XLTM XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น XLTM (Excel Macro-Enabled Template) ช่วยให้สร้างเทมเพลตที่ใช้ซ้ำได้ซึ่งรวมกราฟิกเวกเตอร์กับ VBA macros เพื่อการอัตโนมัติ ใช้งานได้ดีสำหรับรายงานแบบอินเทอร์แอคทีฟ แผงควบคุม และเทมเพลตของกระบวนการทำงาน
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+* เทมเพลตการจัดการโครงการที่ใช้ macros ซึ่งมีภาพแผนภาพ SVG ฝังอยู่
+* แผงควบคุมทางการเงินที่ใช้ซ้ำได้พร้อม macros แบบอินเทอรแอคทีฟสำหรับการคำนวณโดยอัตโนมัติ
+* เทมเพลตสำหรับรายงานทางวิชาการหรือวิจัยโดยใช้การแสดงข้อมูล SVG พร้อมการปรับปรุงด้วย VBA
+* เทมเพลตของกระบวนการทำงานที่รวมแผนภูมิเวกเตอร์แบบไดนามิกและ macros
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การแปลง SVG เป็น XLTM โดยอัตโนมัติสำหรับเทมเพลตรายงานที่ใช้ macros ซ้ำได้
+* การอัปเดตเทมเพลตตามกำหนดเวลาด้วยข้อมูล SVG ใหม่และ macros ที่ฝังอยู่
+* การผสานเข้ากับแพลตฟอร์มอัตโนมัติของกระบวนการทำงานที่ต้องการเทมเพลตที่สามารถปฏิสัมพันธ์ได้
+* การสร้างกระแสการแปลงสำหรับแผงควบคุมที่สามารถปฏิบัติการและรายงานการดำเนินงาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

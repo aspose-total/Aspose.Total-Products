@@ -121,7 +121,31 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de fichiers SVG en SWF (Shockwave Flash) permet d'intégrer des graphiques vectoriels interactifs dans des animations web et des applications Flash héritées. SWF prend en charge des visuels dynamiques et des animations vectorielles légères.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Modules de formation interactifs basés sur le web utilisant des animations SVG vers SWF.
+* Bannières marketing et supports promotionnels avec interactivité vectorielle.
+* Animations éducatives et contenus d'apprentissage en ligne avec des diagrammes évolutifs.
+* Infographies interactives affichées sur des plateformes Flash héritées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée par lots de diagrammes SVG en animations SWF.
+* Mises à jour planifiées du contenu interactif basé sur le web à partir de fichiers SVG en direct.
+* Intégration avec des plateformes web héritées prenant en charge des visuels basés sur Flash.
+* Pipelines de conversion déclenchées pour un contenu dynamique en ligne de SVG vers SWF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

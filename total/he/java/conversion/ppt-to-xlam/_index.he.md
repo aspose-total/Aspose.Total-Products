@@ -102,7 +102,31 @@ otherformats: TSV SXC ODS MARKDOWN XLS CSV XLTM XLSB EXCEL XLSX FODS XLTX XLSM D
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPT (PowerPoint) לתבנית XLAM (Excel Add-In) מאפשרת הטמעת נתוני מצגת אינטראקטיבית ישירות בתוך מקרוי Excel. עסקים יכולים לאוטומטז זרימות נתונים אנליטיות, לשפר דשבורדים וליצור כלים חוזרים לאוטומציה של נתונים חזותיים באמצעות המרה זו.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* הטמעת דוחות חזותיים מ PowerPoint בתוך דשבורדים של Excel.
+* המרת שקופיות ביצוע או KPI לכלים דינמיים המופעלים במקרו.
+* בניית תבניות אנליטיות חוזרות מנתוני המצגת.
+* אוטומציה של עדכוני מודל פיננסי מופעלים על ידי שקופיות ב Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת קבצי XLAM באופן אוטומטי מניתוחי PowerPoint למשתמשי Excel מתקדמים.
+* שילוב עם אוטומציה של VBA לצורכי אנליטיקה עסקית.
+* אוטומציה של ETL המקשרת מדדי PowerPoint למקרוי גיליון.
+* המרת PPT ל-XLAM מתוזמנת לדיווח מתמיד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

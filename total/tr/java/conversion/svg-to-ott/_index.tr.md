@@ -129,7 +129,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG dosyalarını OTT (OpenDocument Text Template) formatına dönüştürmek, gömülü vektör diyagramları olan tekrar kullanılabilir metin belge şablonları oluşturur. OTT, projeler ve ekip iş akışları arasında tutarlılık sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* İş ekipleri için SVG görsellerle standartlaştırılmış rapor şablonları.
+* Gömülü diyagramlarla akademik veya eğitim belge şablonları.
+* Tutarsız biçimlendirme için pazarlama veya proje belge şablonları.
+* Ölçeklenebilir SVG grafiklerden faydalanan tekrar kullanılabilir kılavuzlar ve kılavuzlar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* SVG diyagramlarının OTT şablonlarına otomatik toplu dönüşümü.
+* Taze görsellerle tekrar kullanılabilir belge şablonları için zamanlanmış güncellemeler.
+* Şablon tabanlı iş akışları için içerik sistemleriyle entegrasyon.
+* Ekip işbirliği için etkileşimli metin şablonlarının tetiklenmiş oluşturulması.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

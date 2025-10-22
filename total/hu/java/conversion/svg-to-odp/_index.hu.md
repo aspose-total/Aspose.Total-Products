@@ -121,7 +121,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG (Skálázható Vektorgrafika) fájlok átalakítása ODP (OpenDocument Presentation) formátummá lehetővé teszi vektorgrafikák beágyazását nyílt szabványú diákkészletekbe. Az ODP támogatja a skálázhatóságot és a modern prezentációs munkafolyamatokhoz való platformfüggetlen kompatibilitást.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Interaktív diákkészletek létrehozása SVG diagramokkal vállalati prezentációkhoz.
+* Oktatási diákok vektor alapú illusztrációkkal és táblázatokkal.
+* Marketing prezentációk termékadatok bemutatásával skálázható grafikákkal.
+* Tudományos konferencia prezentációk magas minőségű SVG vizuális elemekkel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges SVG-ODP átalakítás ismétlődő prezentáció frissítésekhez.
+* Ütemezett sablon generálás képzéshez vagy vállalati készletekhez.
+* Integráció nyílt forráskódú prezentációs platformokkal automatizált munkafolyamatokhoz.
+* Kiváltott átalakítási csatornák dinamikusan generált diatartalomhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

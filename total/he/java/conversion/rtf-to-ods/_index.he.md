@@ -102,7 +102,31 @@ otherformats: XLTM DIF TSV XLSB XLTX XLAM FODS XLSM XLS EXCEL XLSX SXC CSV XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל-ODS (OpenDocument Spreadsheet) מציעה דרך יעילה להפוך תוכן מסמך מובנה לנתוני גיליון אלקטרוני מוכן לשימוש ב־LibreOffice Calc ובפלטפורמות אחרות התואמות לתקן ODF. זה נמצא בשימוש רחב בארגונים המובילים תקנים פתוחים ובתהליכי עיבוד נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ נתוני RTF טבלאיים לניתוח בגיליונות ODS.
+* הכנת דוחות של ממשלה או ארגון לא ממשלתי בפורמטים גיליון נתמךים בתקנים פתוחים.
+* ניהול פלטים של סקרי RTF בגיליונות ODS מבוססי נתונים.
+* המרת רשימות וטבלאות מעוצבות לגיליונות עריכה ושיתוף.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרות RTF ל-ODS אוטומטיות בתוך חבילות משרד דיגיטליות.
+* צינורות העברת נתונים התומכים בתקני מסמך פתוחים.
+* מודולי המרה מוטבעים בכלים לדיווח מבוססי רשת.
+* המרות ארכיון מתוזמנות המבטיחות התאמה בין מערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

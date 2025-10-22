@@ -99,7 +99,31 @@ otherformats: WORD ODT WORDML DOCX DOC DOCM OTT RTF DOTX DOTM TEXT FLATOPC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-DOT (תבנית Word 97-2003) עוזרת לעסקים ליצור תבניות מסמכים ניתנות לשימוש מתוך תוכן המצגת, מבטיחה זיהוי מותג ומבנה עקבי בסביבות Word מורשות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* בניית תבניות דוח תקן ממצגות חברה.
+* יצירת תבניות DOT ניתנות לשימוש למסמכי משאבי אנוש או פיננסיים.
+* יצירת תבניות תואמות למערכת מהעבר משקפים חזותיים.
+* המרת חומרי PowerPoint לפריסות טקסט מוצפנות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת תבניות מתוזמנות ממצגות PowerPoint מאושרות.
+* שילוב במערכות ניהול מסמכים לאחסון קבצי DOT.
+* יצירה אוטומטית של תבניות DOT מהעבר עקבי של עיצוב.
+* המרה בצורת צפיפות לארגונים ששומרים ספריות של תבניות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

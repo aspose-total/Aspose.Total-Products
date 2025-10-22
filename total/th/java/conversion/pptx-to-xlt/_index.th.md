@@ -61,7 +61,31 @@ otherformats: XLT DIF MHTML XLSM XLTX XLSB XLAM XLTM FODS MARKDOWN SXC XLSX TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง PPTX เป็น XLT (Excel Template) ช่วยให้สามารถสร้างเทมเพลตสเปรดชีทที่ใช้ซ้ำได้จากข้อมูลในงานนำเสนอ มันเหมาะสำหรับองค์กรที่มีมาตรฐานในการรายงานทางการเงินหรือสรุปธุรกิจที่เกิดซ้ำๆ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลตรายงานจากสไลด์ PowerPoint
+* สร้างโมเดล Excel จาก KPIs ในงานนำเสนอ
+* สร้างรูปแบบสเปรดชีทที่มีแบรนด์สำหรับการใช้งานภายใน
+* เตรียมเทมเพลตข้อมูลที่เกิดซ้ำได้รายเดือนหรือไตรมาส
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง XLT โดยอัตโนมัติจากสไลด์งานนำเสนอของบริษัท
+* การซิงโครไนซ์เทมเพลตในแผนกต่างๆ
+* การสร้างเทมเพลตรายงานที่ใช้ซ้ำได้ตามกระบวนการทำงาน
+* การผสานรวมกับเทมเพลตที่จัดเก็บเวอร์ชันไว้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

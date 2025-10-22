@@ -99,7 +99,31 @@ otherformats: DOC RTF ODT FLATOPC DOCX WORDML TEXT DOCM DOTX WORD DOT OTT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-DOTM (תבנית Word עם תסריט מאופשר) מאפשרת יצירת תבניות מסמכים דינמיות ומופעלות בתסריט. עסקים משתמשים ב-DOTM כדי לאוטומציה של יצירת מסמכים ודיווחים בהתבסס על נתוני המצגת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* עיצוב תבניות Word המבוססות על מאקרואים ממצגות PPS.
+* אוטומציה של טפסים עסקיים חוזרים באמצעות VBA מוטבע.
+* יצירת תבניות ניתנות לשימוש חוזר לדוחות תקינות ואיכות.
+* יצירת זרימות עבודה חכמות המגיעות ממצגות PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת תבניות DOTM באופן אוטומטי לשימוש בארגונים.
+* שילוב עם מתיני אוטומציה ליצירת מסמכים.
+* עדכוני תבניות מתוזמנים מהמצגות האחרונות.
+* המרה צפופה של מספר קבצי PPS לתבניות עם מאקרו.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

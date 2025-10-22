@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTXファイルからDOCへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX（PowerPointプレゼンテーション）ファイルをDOC（Microsoft Wordドキュメント）に変換することで、スライドのコンテンツを編集可能なレポートや要約に変換できます。このプロセスにより、ユーザーは視覚データを文書、提案、印刷用資料に再利用するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PowerPointスライドを構造化されたWordレポートに変換する。
+* プレゼンテーションのノートから詳細な文書を作成する。
+* 印刷用の会議の要約や提案を生成する。
+* スライドのコンテンツを包括的な文章レポートに組み合わせる。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* プロジェクト文書化のためのバッチPPTXからDOCへの変換。
+* 会議議事録や企業レポートのワークフロー自動化。
+* コンテンツ管理システムとの統合。
+* PowerPointテンプレートからDOCファイルの自動生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

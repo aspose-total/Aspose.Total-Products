@@ -121,7 +121,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG (Scalable Vector Graphics) ke ODP (OpenDocument Presentation) memungkinkan penanaman diagram vektor ke dalam slide deck standar terbuka. ODP mendukung skalabilitas dan kompatibilitas lintas platform untuk alur kerja presentasi modern.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat slide deck interaktif dengan diagram SVG untuk presentasi perusahaan.
+* Slide edukasi dengan ilustrasi dan grafik berbasis vektor.
+* Presentasi pemasaran yang memamerkan data produk dengan grafis yang dapat diskalakan.
+* Presentasi konferensi akademis menggunakan visual SVG berkualitas tinggi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch SVG-to-ODP untuk pembaruan presentasi berulang.
+* Generasi template terjadwal untuk pelatihan atau slide deck perusahaan.
+* Integrasi dengan platform presentasi sumber terbuka untuk alur kerja otomatis.
+* Pipa konversi yang dipicu untuk konten slide yang dihasilkan secara dinamis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

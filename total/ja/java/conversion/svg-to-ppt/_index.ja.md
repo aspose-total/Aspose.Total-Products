@@ -121,7 +121,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをPPT（PowerPoint 97-2003）に変換すると、ベクターグラフィックを従来のスライドデッキに埋め込むことができます。PPTは、視覚的な品質を保ちながら、古いPowerPointバージョンとの互換性を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* レガシーソフトウェア向けのSVGダッシュボードを埋め込んだ企業プレゼンテーション。
+* 古いPowerPoint形式を使用した学術または研究スライド。
+* 古いシステムと互換性のあるトレーニングおよび指導用スライドデッキ。
+* クロスバージョン互換性のために標準化されたマーケティングプレゼンテーション。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レガシープレゼンテーションニーズのためのバッチSVGからPPTへの変換。
+* 古いPowerPoint形式への基づいたスライドの定期的なエクスポート。
+* レガシープレゼンテーション配信のためのレポートパイプラインとの統合。
+* 自動化されたスライドデッキ作成のためのトリガー変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

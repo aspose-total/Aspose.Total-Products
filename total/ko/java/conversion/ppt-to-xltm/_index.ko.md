@@ -61,7 +61,31 @@ PPT 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT(PowerPoint) 파일을 XLTM(매크로 활성화 엑셀 템플릿)으로 변환하면 조직은 프레젠테이션에서 파생된 지능적이고 재사용 가능한 스프레드시트 템플릿을 설계할 수 있습니다. XLTM 템플릿은 반복 작업을 자동화하고 보고 일관성을 강화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 보고서를 매크로 활성화된 엑셀 템플릿으로 변환하기.
+* 자동 분석을 위한 지능적인 스프레드시트 템플릿 작성.
+* 반복되는 재무 보고 모델 표준화.
+* PowerPoint 레이아웃과 논리를 복제하는 엑셀 템플릿 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 매크로가 적용된 보고서 템플릿을 위해 슬라이드를 XLTM으로 자동 변환.
+* 자동 데이터 입력 및 분석 워크플로우 통합.
+* 재사용 가능한 매크로 활성화 스프레드시트의 예약 생성.
+* 대규모 템플릿 표준화를 위한 일괄 처리.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

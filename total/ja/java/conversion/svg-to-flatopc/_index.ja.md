@@ -130,7 +130,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをFLATOPC（Flat Open Packaging Conventions）に変換すると、ベクトル図を含むすべてのWordコンテンツを含む単一のXMLベースのファイル構造が生成されます。プログラムによる文書処理や相互運用性に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* 1 つのポータブルなWord文書パッケージ内にSVG図をアーカイブする。
+* ベクトルビジュアルを埋め込んだレポートをプログラムで生成する。
+* 自動化された文書ワークフロー用の標準化されたテンプレート。
+* インタラクティブなWordコンテンツのクロスプラットフォーム互換性を確保する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* SVGをFLATOPCパッケージに自動バッチ変換する。
+* 文書のアーカイブとバージョン管理のためのスケジュールされたエクスポート。
+* プログラムによるアクセスのためのコンテンツ管理システムへの統合。
+* 動的文書自動化パイプラインのトリガー生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ A PPTX fájl MARKDOWN formátumba konvertálásakor vízjelet is hozzáadhat a k
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX átalakítása Markdown formátummá átalakítja a statikus prezentációkat könnyű, webre kész szöveggé. A Markdown egyszerűséget kínál a tartalom megosztásához, lehetővé téve a könnyű publikálást blogokon, dokumentációs platformokon és statikus webhelyeken.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PowerPoint bemutatók átalakítása technikai dokumentációvá.
+* Slide jegyzetek és tartalom közzététele Git-alapú wikiken.
+* Blogra kész összefoglalók készítése a prezentációs diafilmekről.
+* Vállalati prezentációk átalakítása tudásbázis cikkekké.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált Markdown exportok vállalati oktatási diafilmekből.
+* Integráció dokumentációs építési rendszerekkel, mint például a Hugo vagy a Jekyll.
+* Tömeges feldolgozás a belső diafilmek Markdown bejegyzésekké történő átalakításához.
+* Folyamatos integráció a tartalom verziózásához Markdown formátumban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

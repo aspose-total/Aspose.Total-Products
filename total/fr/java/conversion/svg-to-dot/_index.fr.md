@@ -130,7 +130,29 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de SVG en DOT (modèle Word 97-2003) permet de créer des modèles de documents réutilisables avec des diagrammes vectoriels intégrés compatibles avec les anciennes versions de Word. DOT garantit une mise en forme cohérente sur les systèmes hérités.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Modèles de rapports standardisés avec des diagrammes SVG pour les anciens documents Word.
+* Modèles de propositions de projet incorporant des tableaux de bord visuels.
+* Modèles académiques ou pédagogiques réutilisables utilisant des visuels SVG.
+* Modèles de documents historiques pour les flux de travail commerciaux ou d'ingénierie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatisée en lot de modèles SVG vers DOT pour les flux de travail Word hérités.
+* Mises à jour planifiées des modèles avec de nouveaux visuels SVG.
+* Intégration dans les systèmes de gestion de documents nécessitant des modèles compatibles avec les anciennes versions.
+* Conversion déclenchée pour les rapports récurrents et les modèles réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

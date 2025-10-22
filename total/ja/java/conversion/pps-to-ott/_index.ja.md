@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPSファイルからOTTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをOTT（OpenDocument Text Template）に変換すると、プレゼンテーションコンテンツを標準化された編集可能なドキュメントテンプレートで再利用できます。この変換は、企業や教育機関などで、プレゼンテーション資料から派生した一貫した文書構造が必要な組織にとって有益です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* エグゼクティブスライドプレゼンテーションから標準化された提案テンプレートの作成。
+* 教育用スライドに基づいた再利用可能なトレーニングテンプレートの開発。
+* マーケティングデッキを構造化されたOTTテンプレートに変換して将来のキャンペーンに活用。
+* 企業プレゼンテーションファイルからブランド付きのレポートテンプレートを生成。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 承認済みプレゼンテーションデッキから文書テンプレートの自動生成。
+* 一貫したブランディングのためのコンテンツ自動化ワークフローへの統合。
+* スライドショーの大量変換を行い、再利用可能な企業コミュニケーションテンプレートを生成。
+* チーム向けに内部PPSファイルをリアルタイムで編集可能なOTTテンプレートに変換。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

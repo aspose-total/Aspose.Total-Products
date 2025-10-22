@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 DOT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 DOT(Word 템플릿)으로 변환하면 프레젠테이션 데이터로부터 재사용 가능한 템플릿을 만들 수 있습니다. 이는 문서 형식을 표준화하거나 브랜드화된 기업 보고서 템플릿을 만드는 조직에게 가치가 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 기업 프레젠테이션 레이아웃에서 DOT 템플릿 작성.
+* PowerPoint 슬라이드를 재사용 가능한 Word 디자인 프레임워크로 변환.
+* 제안서 및 고객 전달물용 브랜드화된 템플릿 준비.
+* 부서별 일관된 보고서 템플릿 작성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 반복되는 슬라이드 덱에서 DOT 템플릿의 자동 생성.
+* 문서 표준화를 위한 워크플로 통합.
+* 다부서 환경에서의 템플릿 동기화.
+* 기업 문서 템플릿을 위한 변환 일정 설정.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

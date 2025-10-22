@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PS (PostScript) na MARKDOWN (.md) umożliwia wykorzystanie treści tekstowej i graficznej PostScript w lekkich, przyjaznych dla sieci formatach. Markdown doskonale nadaje się do dokumentacji, baz wiedzy, blogów i repozytoriów projektów opartych na systemie Git.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Przekształcanie podręczników i raportów PS w dokumenty Markdown gotowe do publikacji w sieci.
+* Konwertowanie diagramów i tabel na formaty obsługiwane przez Markdown do celów dokumentacyjnych.
+* Publikowanie technicznych treści opartych na PS na GitHubie lub w wewnętrznych wiki.
+* Przygotowywanie samouczków, przewodników lub notatek akademickich z plików PS w formacie Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja PS na Markdown w potokach dokumentacyjnych.
+* Integracja z generatorami statycznych stron dla blogów technicznych i portali wiedzy.
+* Przetwarzanie wsadowe do konwertowania archiwów PS na repozytoria Markdown.
+* Wydobywanie treści wspomagane sztuczną inteligencją z plików PS dla gotowych do użycia w Markdown wyników.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

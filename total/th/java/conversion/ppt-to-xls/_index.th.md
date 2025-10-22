@@ -61,7 +61,31 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS XLS XLTX XLSX MARKDOWN DIF SXC ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPT (PowerPoint) เป็น XLS (Excel 97–2003 Workbook) ช่วยให้ระบบเก่าสามารถใช้งานได้พร้อมรักษาความสมบูรณ์ของข้อมูลตารางและตัวเลข การแปลงนี้สนับสนุนองค์กรที่ใช้สภาพแวดล้อมของ Microsoft Office เวอร์ชันเก่าหรือต้องการรายงานที่สามารถทำงานย้อนกลับได้
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ส่งออกข้อมูลสไลด์เพื่อใช้ในระบบ Excel เวอร์ชันเก่า
+* สร้างสเปรดชีตที่สามารถทำงานย้อนกลับจากรายงาน PowerPoint
+* แบ่งปันข้อมูลที่พร้อมใช้งานให้ทีมที่ใช้เวอร์ชัน Microsoft Office เก่า
+* เก็บข้อมูลการวิเคราะห์ในรูปแบบ XLS ที่สนับสนุนอย่างแท้จริง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PPT เป็น XLS โดยอัตโนมัติสำหรับระบบเก็บข้อมูลขององค์กร
+* การผสานเข้ากับขั้นตอนการทำงานที่ต้องการเอาต์พุตไฟล์ Excel เวอร์ชันเก่า
+* การประมวลผลเป็นชุดสำหรับความสามารถในการทำงานข้ามแผนก
+* การแปลงรายงาน PowerPoint ตามกำหนดเวลาสำหรับความสามารถในการทำงานร่วมกันของระบบ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

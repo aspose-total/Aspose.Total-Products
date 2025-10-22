@@ -129,7 +129,31 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos SVG para OTT (OpenDocument Text Template) cria modelos de documentos de texto reutilizáveis com diagramas vetoriais incorporados. OTT garante consistência em projetos e fluxos de trabalho em equipe.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Modelos de relatórios padronizados com visuais SVG para equipes de negócios.
+* Modelos de documentos acadêmicos ou instrucionais com diagramas incorporados.
+* Modelos de documentação de marketing ou de projetos para formatação consistente.
+* Guias e manuais reutilizáveis aproveitando gráficos SVG escaláveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote automatizada de diagramas SVG em modelos OTT.
+* Atualizações programadas para modelos de documentos reutilizáveis com visuais atualizados.
+* Integração com sistemas de conteúdo para fluxos de trabalho baseados em modelos.
+* Geração acionada de modelos de texto interativos para colaboração em equipe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

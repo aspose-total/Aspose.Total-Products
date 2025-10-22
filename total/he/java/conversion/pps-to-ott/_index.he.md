@@ -99,7 +99,31 @@ otherformats: TEXT RTF WORDML DOTM DOCX WORD ODT DOTX FLATOPC DOCM DOC DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-OTT (OpenDocument Text Template) מאפשרת לשקול מחדש תוכן מצגת בתבניות מסמך ניתנות לעריכה ומתוקנות. ההמרה הזו ערכית לארגונים שזקוקים למבנים תיעודיים עקביים המגיעים מחומרי מצגת, במיוחד בסביבות תאגידיות וחינוכיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות הצעה תקניות ממצגות שקופיות ברמה ניהולית.
+* פיתוח תבניות אימון ניתנות לשימוש מבוססות על שקופיות הוראה.
+* המרת מצגות שיווק לתבניות מובנות של OTT לקמפיינים עתידיים.
+* יצירת תבניות דוחות מסומנות מקבצי מצגת של החברה.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירה אוטומטית של תבניות מסמכים ממצגות מאושרות.
+* שילוב בזרימות עבודה לאוטומציה של תוכן למיתוג עקבי.
+* המרה מרובה של מצגות לתבניות תקשורת תיקניות חוזרות.
+* המרה בזמן אמת של קבצי PPS פנימיים לתבניות OTT ניתנות לעריכה עבור צוותות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

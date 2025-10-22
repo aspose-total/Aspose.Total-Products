@@ -61,7 +61,31 @@ PPTX 파일을 XLSX로 변환하는 동안 출력 XLSX 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 XLSX(현대적인 Excel 워크북)로 변환하면 구조화된, 편집 가능하고 공유 가능한 데이터 형식이 제공됩니다. 이는 프레젠테이션과 스프레드시트 간의 간극을 줄여주며 협업, 시각화 및 고급 분석을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 슬라이드 차트를 편집 가능한 Excel 시각화로 변환하기.
+* PowerPoint KPI를 구조화된 데이터 테이블로 내보내기.
+* Excel 기반 대시보드를 위한 프레젠테이션 보고서 준비.
+* 팀 간에 업데이트된 프레젠테이션 데이터 공유하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 보고서용 일괄 PPTX-to-XLSX 변환.
+* PowerPoint를 Excel 분석과 통합하는 자동화된 파이프라인.
+* 반복되는 비즈니스 인사이트를 위한 예약된 변환.
+* Power Automate와 같은 워크플로 자동화 스위트 통합.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

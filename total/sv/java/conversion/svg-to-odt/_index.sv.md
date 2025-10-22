@@ -129,7 +129,31 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Att konvertera SVG-filer till ODT (OpenDocument Text) möjliggör inbäddning av vektorgrafik i plattformsoberoende textdokument. ODT säkerställer visuell trohet samtidigt som det förblir kompatibelt med LibreOffice, OpenOffice och andra programsviter.
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+* Tekniska manualer och projekt rapporter som inkluderar SVG-diagram.
+* Akademiska uppsatser med inbäddade vektorillustrationer.
+* Marknadsförings- eller affärsdokumentation med skalbara SVG-visuella element.
+* Plattformsoberoende manualer och guider som distribueras utan formateringsproblem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* Automatiserad batchkonvertering av SVG till ODT för återkommande dokumentation.
+* Planerade malluppdateringar med nya SVG-visuella element.
+* Integration med innehållshanteringssystem för distribution på flera plattformar.
+* Utlöst generering för instruktions- eller utbildningsmaterial.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

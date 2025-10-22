@@ -59,7 +59,29 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+PS（PostScript）ファイルをODP（OpenDocument Presentation）に変換すると、静的なPostScriptスライドや図を完全に編集可能なプレゼンテーション形式に変換でき、LibreOffice Impressやその他のOpenDocument互換ツールと互換性があります。これにより、PSコンテンツをプレゼンテーションでシームレスに再利用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PSベースのチャートや図をスライドプレゼンテーションに変換する。
+* ポストスクリプトのマーケティング資料をチームプレゼンテーション用にODPに変換する。
+* クラスルームでの使用のためにPSレポートから教育やトレーニング資料を準備する。
+* テクニカルなPSビジュアルを協力的なオープンソースプレゼンテーションツールに移行する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なプレゼンテーションワークフローのためのバッチPSからODPへの変換。
+* ETLパイプラインに統合してスライドデッキを自動生成する。
+* 企業の知識共有ポータル向けの自動変換。
+* PSファイルからのAI支援レイアウト最適化とスライド生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+## BMP
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

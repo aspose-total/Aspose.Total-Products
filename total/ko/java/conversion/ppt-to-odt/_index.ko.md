@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 ODT로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT(PowerPoint) 프레젠테이션을 ODT(OpenDocument Text) 형식으로 변환하면 슬라이드 콘텐츠를 편집 가능한 텍스트 문서로 추출할 수 있습니다. 기존 프레젠테이션 슬라이드에서 보고서, 교육 자료 또는 텍스트 기반 문서를 생성하는 데 특히 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 자세한 보고서를 위해 PowerPoint 프레젠테이션을 텍스트 문서로 변환합니다.
+* LibreOffice Writer와 같은 오픈 소스 워드 프로세서를 위해 슬라이드 콘텐츠를 재활용합니다.
+* 슬라이드 기반 프로젝트 요약에서 편집 가능한 문서를 생성합니다.
+* PowerPoint 파일에서 교육 매뉴얼 및 핸드아웃을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 학술 출판 시스템에서 자동화된 PowerPoint-to-ODT 변환.
+* 오픈 소스 사용자를 위한 문서 생성 워크플로 통합.
+* 규정 준수 및 보관을 위해 일정에 따라 슬라이드를 ODT로 내보냅니다.
+* 마케팅 프레젠테이션을 편집 가능한 콘텐츠 템플릿으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

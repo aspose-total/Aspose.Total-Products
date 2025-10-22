@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 DOC로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX (PowerPoint Presentation) 파일을 DOC (Microsoft Word 문서)로 변환하면 슬라이드 콘텐츠를 편집 가능한 보고서와 요약으로 변환할 수 있습니다. 이 프로세스는 사용자가 시각적 데이터를 문서, 제안서 및 인쇄용 자료로 재활용하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 슬라이드를 구조화된 Word 보고서로 변환하기.
+* 프레젠테이션 노트에서 상세 문서 작성하기.
+* 인쇄용 회의 요약 및 제안서 생성하기.
+* 슬라이드 콘텐츠를 종합적인 문서로 결합하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 프로젝트 문서 작성을 위한 일괄 PPTX-to-DOC 변환.
+* 회의록 및 기업 보고서를 위한 워크플로 자동화.
+* 콘텐츠 관리 시스템과의 통합.
+* PowerPoint 템플릿에서 DOC 파일 자동 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

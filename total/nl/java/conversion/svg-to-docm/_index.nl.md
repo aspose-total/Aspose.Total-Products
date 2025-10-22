@@ -129,7 +129,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van SVG (Schalable Vector Graphics) bestanden naar DOCM (Word Macro-Enabled Document) maakt het mogelijk om interactieve vector diagrammen in Word documenten in te sluiten terwijl macro's worden ondersteund voor automatisering. DOCM is ideaal voor dynamische rapporten, sjablonen en educatief materiaal.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Interactieve trainingshandleidingen met SVG diagrammen en macro-ingeschakelde navigatie.
+* Zakelijke rapporten met geanimeerde of interactieve vectorgrafieken.
+* Academische onderzoeksdocumenten met door macro's aangestuurde dynamische SVG visuals.
+* Gestandaardiseerde sjablonen voor projectvoorstellen of bedrijfsprocessen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batchconversie van SVG diagrammen naar DOCM voor bedrijfsrapportage.
+* Geplande creatie van macro-ingeschakelde sjablonen vanuit SVG visuals.
+* Integratie met documentbeheersystemen voor interactieve rapportage.
+* Getriggerde SVG-naar-DOCM conversie voor dynamische instructieve inhoud.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -59,7 +59,31 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 PPTM (PowerPoint Macro-Enabled Presentation)으로 변환하면 포함된 매크로가 있는 대화형 슬라이드를 만들 수 있습니다. PPTM은 자동화, 동적 업데이트 및 상호 작용 동작을 가능하게 하면서 PostScript 시각 요소를 보존합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS로 생성된 다이어그램에서 매크로가 포함된 프레젠테이션 만들기.
+* 슬라이드 업데이트 자동화 및 데이터 기반 시각화.
+* PS 차트를 상호 작용적인 기업 프레젠테이션에 포함.
+* 동적 동작이 있는 교육이나 고객 프레젠테이션 준비.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 자동화를 위한 일괄 PS-to-PPTM 변환.
+* PS 아카이브에서 매크로가 포함된 프레젠테이션을 예약 생성.
+* 상호 작용 슬라이드 기능을 위한 AI 지원 매크로 삽입.
+* 자동 업데이트를 위한 기업 프레젠테이션 파이프라인 통합.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

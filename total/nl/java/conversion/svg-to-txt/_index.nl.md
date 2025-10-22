@@ -47,7 +47,31 @@ Tijdens het converteren van het SVG-bestand naar TXT, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG naar TXT (Platte tekst) haalt tekstuele inhoud uit vectorafbeeldingen voor analyse, indexering of lichte documentatie. TXT is ideaal voor eenvoudige, scriptbare workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Labels en annotaties extraheren uit SVG-diagrammen voor documentatie.
+* Doorzoekbare platte tekstversies van technische illustraties maken.
+* Genereren van lichte SVG-metadatrapporten voor gegevensanalyse.
+* Snel delen van tekstuele SVG-inhoud zonder afbeeldingen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde extractie van SVG-tekst naar TXT voor rapportagepijplijnen.
+* Geplande generatie van platte tekstdocumentatie uit vector diagrammen.
+* Integratie met indexering- en zoeksystemen.
+* Getriggerde conversie voor analyses en lichte contentworkflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

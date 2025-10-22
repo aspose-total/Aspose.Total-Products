@@ -61,7 +61,31 @@ Ao converter o arquivo PPS para SXC, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPS (PowerPoint Slide Show) para SXC (Planilha StarOffice Calc) ajuda organizações que trabalham com suítes de escritório legadas ou de código aberto a reutilizar dados de apresentação em forma de planilha. Isso possibilita análises estruturadas e relatórios sem a necessidade de software proprietário.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Transformar apresentações de negócios em dados de planilha analisáveis.
+* Exportar resumos de slides de vendas ou financeiros para o formato SXC.
+* Preparar planilhas compatíveis com o OpenOffice a partir de relatórios PPS.
+* Converter apresentações educacionais em planilhas estruturadas e compartilháveis.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automatizada de SXC para fluxos de trabalho baseados no LibreOffice.
+* Integração em sistemas de gerenciamento de documentos de código aberto.
+* Conversão em lote de slides para SXC para arquivos de análise.
+* Exportações programadas para equipes que utilizam ambientes de escritório de código aberto.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

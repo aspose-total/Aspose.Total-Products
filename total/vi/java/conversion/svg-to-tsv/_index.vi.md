@@ -47,7 +47,31 @@ Trong khi chuyển đổi tệp SVG sang TSV, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp SVG sang TSV (Tab-Separated Values) cho phép xuất các biểu đồ vector vào định dạng được tối ưu hóa cho bảng tính, phân tích thống kê và tập dữ liệu lớn. TSV đảm bảo dữ liệu vẫn được cấu trúc và dễ phân tích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi biểu đồ SVG tương tác thành TSV cho phân tích thống kê.
+* Xuất các biểu đồ kỹ thuật cho việc chỉnh sửa bảng tính cộng tác.
+* Chia sẻ các biểu đồ giáo dục dựa trên SVG dưới dạng TSV cho các nhóm nghiên cứu.
+* Chuyển đổi các hình ảnh hiệu suất sản phẩm thành dữ liệu bảng có cấu trúc.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Các đường ống tự động chuyển đổi biểu đồ SVG sang TSV cho các nền tảng phân tích.
+* Xuất TSV theo lịch trình của các biểu đồ vector cho các bảng điều khiển báo cáo.
+* Tích hợp với phần mềm thống kê yêu cầu đầu vào TSV.
+* Chuyển đổi kích hoạt cho các hình ảnh dựa trên vector được cập nhật động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

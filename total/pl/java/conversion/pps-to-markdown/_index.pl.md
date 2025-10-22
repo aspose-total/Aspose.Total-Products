@@ -61,7 +61,31 @@ Podczas konwertowania pliku PPS do MARKDOWN możesz również dodać znak wodny 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPS (PowerPoint Slide Show) na MARKDOWN (MD) pozwala użytkownikom zamienić wizualne slajdy na lekkie, czytelne dokumenty tekstowe idealne do blogów, dokumentacji i systemów zarządzania treścią opartych na systemie Git. Łączy przepaść między prezentacjami a formatami przyjaznymi dla programistów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie slajdów PowerPoint na dokumentację Markdown.
+* Przygotowywanie notatek z projektów open-source na podstawie prezentacji.
+* Publikowanie edukacyjnych treści slajdów w generatorach statycznych stron.
+* Zamiana prezentacji firmowych na lekkie pliki MD do wiki na GitHubie.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Zaplanowana generacja Markdown dla zespołów treści korzystających z kontroli wersji.
+* Integracja z procesami dokumentacyjnymi (np. Hugo, Jekyll).
+* Automatyczna konwersja PowerPoint na MD do publikacji online.
+* Przetwarzanie wsadowe wielu zestawów slajdów PPS na strukturalne pliki Markdown.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

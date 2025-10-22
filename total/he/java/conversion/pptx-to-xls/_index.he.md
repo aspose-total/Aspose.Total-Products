@@ -102,7 +102,31 @@ otherformats: CSV FODS MHTML MARKDOWN SXC XLSX XLTM XLT XLTX ODS XLAM TSV DIF XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPTX ל-XLS (Excel 97-2003 Workbook) מבטיחה תאימות לאחור עבור מערכות מורשות. זה מאפשר לארגונים שמשתמשים בתוכנות משרד ישנות לגשת ולשנות נתוני מצגות טבלאיות ביעילות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* שינוי טבלאות של PowerPoint לצורך ניתוח Excel מורשה.
+* ייצוא סיכומי מצגות לכלים פיננסיים ישנים.
+* השימוש מחדש בנתונים משקפים במערכות תאימות לאחור.
+* שיתוף נתונים ניתוחיים עם לקוחות באמצעות גרסאות ישנות יותר של Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* פלט XLS אוטומטי מ-PowerPoint לארכיונים עסקיים.
+* שילוב עם מערכות חשבונאות או ERP ישנות.
+* צינורות המרה המבטיחים תאימות בין פלטפורמות.
+* המרה צפונית של מקורות מצגת PowerPoint מורשות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

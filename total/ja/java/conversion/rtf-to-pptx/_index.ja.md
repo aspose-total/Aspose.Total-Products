@@ -54,7 +54,29 @@ APIを使用すると、パスワードで保護されたRTFドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+RTFをPPTX（PowerPoint Open XML Presentation）に変換すると、静的テキストがモダンで編集可能、共有可能なスライドデッキに変わります。この広くサポートされているフォーマットは、ビジネスレポート、講義、提案、マーケティングコンテンツに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* RTFベースの会議メモを整えられたPowerPointデッキに変換する。
+* フォーマットされたテキストレポートからダイナミックなプレゼンテーションを作成する。
+* RTF企業データを視覚的に向上させたスライドに再利用する。
+* 書面をストーリー重視のプレゼンテーションに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業文書システム向けのバッチRTFからPPTXへのエクスポート。
+* オンラインプレゼンテーションビルダーやクラウドプラットフォームとの統合。
+* 内部コミュニケーションやクライアント提案のための自動化されたデッキ生成。
+* 文書リポジトリからの定期的なプレゼンテーション更新。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

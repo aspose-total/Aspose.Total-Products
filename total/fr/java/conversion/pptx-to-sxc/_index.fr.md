@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPTX en SXC, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de fichiers PPTX en SXC (tableur StarOffice Calc) permet une meilleure interopérabilité entre les données de présentation et les outils de tableur hérités. Idéal pour les entreprises utilisant StarOffice ou des environnements similaires basés sur OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Extraction de données tabulaires à partir de diapositives PowerPoint vers des feuilles de calcul.
+* Partage d'analyses de présentation avec les utilisateurs de StarOffice.
+* Préparation de feuilles de calcul d'archivage à partir de diapositives d'entreprise.
+* Édition et analyse de métriques de présentation au format SXC.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Transformation en lot de PPTX en SXC pour les référentiels de documents.
+* Workflows d'extraction automatisés pour les suites bureautiques héritées.
+* Intégration avec les systèmes de reporting d'entreprise.
+* Conversions planifiées pour une collaboration interplateforme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

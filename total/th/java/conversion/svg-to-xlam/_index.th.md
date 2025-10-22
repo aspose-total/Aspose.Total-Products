@@ -47,7 +47,31 @@ otherformats: MD SXC DIF XLSB TSV EXCEL XLAM XLT ODS XLSM XLTX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น XLAM (Excel Add-in Macro) ช่วยให้นักพัฒนาสามารถฝังแผนภูมิที่ใช้เวกเตอร์และแผนภูมิแบบโต้ตอบลงใน Excel add-ins ที่มีแม๊คโร. XLAM เหมาะสำหรับการอัตโนมัติ Excel ที่มีเนื้อหาทางภาพที่มีคุณภาพสูง.
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้าง Excel add-ins พร้อมแผนภูมิ SVG ที่สามารถโต้ตอบสำหรับการวิเคราะห์ธุรกิจ.
+* ฝังแผนภูมิ SVG เข้ากับเครื่องมือการเงินหรือการดำเนินงานที่มีแม๊คโร.
+* รูปแบบ Excel ทางวิชาการหรือการวิจัยด้วยการแสดงผล SVG อัตโนมัติ.
+* ปรับปรุงเครื่องมือรายงานด้วยแผนภูมิเวกเตอร์ที่เคลื่อนไหวใน add-ins.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การแปลง SVG เป็น XLAM อัตโนมัติสำหรับการปรับปรุง Excel add-ins ที่เกิดซ้ำ.
+* การสร้าง add-ins ที่มีแม๊คโรพร้อมภาพเวกเตอร์ที่อัพเดตตามกำหนด.
+* การผสานกับการอัตโนมัติของกระบวนการทำงานขององค์กรเพื่อส่งมอบเครื่องมือ Excel ที่สามารถโต้ตอบ.
+* การสร้างกระบวนการแปลงสำหรับ add-ins แผนภูมิเวกเตอร์ที่เคลื่อนไหว.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

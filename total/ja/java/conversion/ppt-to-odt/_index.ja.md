@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPTファイルからODTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）プレゼンテーションをODT（OpenDocument Text）形式に変換すると、スライドのコンテンツを編集可能なテキストドキュメントに抽出できます。これは、既存のプレゼンテーションスライドからレポート、教材、またはテキストベースのドキュメントを生成する際に特に便利です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 詳細なレポート作成のためにPowerPointプレゼンテーションをテキストドキュメントに変換する。
+* LibreOffice Writerなどのオープンソースワープロソフトにスライドコンテンツを再利用する。
+* スライドベースのプロジェクト概要から編集可能なドキュメントを作成する。
+* PowerPointファイルからトレーニングマニュアルや配布資料を生成する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 学術出版システムでの自動化されたPowerPointからODTへの変換。
+* オープンソースユーザー向けのドキュメント生成ワークフローとの統合。
+* コンプライアンスおよびアーカイブ用にスライドを定期的にODTにエクスポートする。
+* マーケティングプレゼンテーションを編集可能なコンテンツテンプレートに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

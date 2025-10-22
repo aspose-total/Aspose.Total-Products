@@ -61,7 +61,31 @@ Ao converter o arquivo PPTX para XLSM, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPTX para XLSM (Pasta de Trabalho do Excel Habilitada para Macro) adiciona potencial de automação aos dados de apresentação. As empresas podem incorporar macros para cálculos, formatação e análise em planilhas geradas a partir de slides.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Transformar dados de slides em relatórios do Excel com macros.
+* Automatizar cálculos de KPI a partir de métricas do PowerPoint.
+* Criar painéis dinâmicos usando macros VBA.
+* Aprimorar fluxos de trabalho de dados com ligação de apresentação para macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automática de arquivos XLSM a partir de apresentações de vendas ou orçamento.
+* Integração com ferramentas e scripts de automação do Excel.
+* Criação em lote de macros para relatórios recorrentes do PowerPoint.
+* Disparadores de análise inteligente usando dados incorporados do PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

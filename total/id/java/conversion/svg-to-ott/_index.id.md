@@ -130,7 +130,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG ke OTT (OpenDocument Text Template) menciptakan template dokumen teks yang dapat digunakan kembali dengan diagram vektor tersemat. OTT memastikan konsistensi di seluruh proyek dan alur kerja tim.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Template laporan standar dengan visual SVG untuk tim bisnis.
+* Template dokumen akademik atau instruksional dengan diagram tersemat.
+* Template dokumentasi pemasaran atau proyek untuk format yang konsisten.
+* Panduan dan manual yang dapat digunakan kembali dengan grafis SVG yang dapat diskalakan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch otomatis dari diagram SVG ke template OTT.
+* Pembaruan terjadwal untuk template dokumen yang dapat digunakan kembali dengan visual yang segar.
+* Integrasi dengan sistem konten untuk alur kerja yang didorong oleh template.
+* Generasi pemicu dari template teks interaktif untuk kolaborasi tim.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ Saat mengonversi file PPTX ke XLTM, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPTX ke XLTM (Template Excel yang Diaktifkan Makro) membantu mengotomatisasi tugas data yang berulang dengan menyematkan makro dalam template spreadsheet yang dapat digunakan kembali yang berasal dari presentasi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mendesain template laporan otomatis dari data presentasi.
+* Membuat dashboard Excel yang didorong oleh makro yang dapat digunakan kembali.
+* Standarisasi template proses bisnis dari slide PowerPoint.
+* Menyederhanakan pelaporan KPI yang berulang melalui makro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch PPTX ke XLTM untuk siklus pelaporan bulanan.
+* Integrasi dengan alur kerja generasi spreadsheet otomatis.
+* Manajemen template perusahaan untuk tim analitik.
+* Pembaruan terjadwal ke template makro dari data PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

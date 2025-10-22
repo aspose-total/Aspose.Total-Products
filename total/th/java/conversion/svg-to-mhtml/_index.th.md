@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ SVG เป็น MHTML (MIME HTML) ช่วยให้สามารถแพ็คกราฟิกแบบโต้ตอบเข้าไปในไฟล์เว็บอาร์กีฟเดียได้ นี่เหมาะสำหรับเอกสารแบบออฟไลน์ ไดอะแกรมที่เข้ากันได้กับอีเมล และรายงานเวกเตอร์พกพาได้
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การเก็บถาวรแดชบอร์ด SVG เพื่อเข้าถึงแบบออฟไลน์
+* การส่งภาพเคลื่อนไหวแบบเวกเตอร์ที่ฝังอยู่ในอีเมล MHTML
+* คู่มือเทคนิคพกพาที่มีแผนภาพเวกเตอร์ภายใน
+* สร้างรายงานที่เข้ากันกับเว็บที่สามารถแจกจ่ายได้โดยไม่ต้องมีการโฮสต์บนเซิร์ฟเวอร์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงไฟล์ SVG เป็น MHTML แบบกลุ่มสำหรับผลิตภัณฑ์ส่งมอบที่เก็บถาวร
+* การสร้างแดชบอร์ดเวกเตอร์แบบออฟไลน์ตามกำหนดเวลาสำหรับการใช้งานในองค์กร
+* การรวมระบบจัดการเนื้อหาเพื่อส่งออกภาพเวกเตอร์
+* การอัตโนมัติในการสร้างรายงานเพื่อการจัดรูปแบบและความพกพาที่เหมือนกัน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,31 @@ Saat mengonversi file PS ke XLT, Anda juga dapat menambahkan tanda air ke format
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PS (PostScript) ke XLT (Excel Template) memungkinkan organisasi untuk membuat format spreadsheet yang dapat digunakan kembali dari tata letak PostScript statis. Hal ini memastikan gaya dan struktur yang konsisten di seluruh laporan berulang, faktur, dan laporan keuangan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menghasilkan template Excel dari desain laporan berbasis PS.
+* Membuat formulir bisnis yang dapat digunakan kembali dan lembar data.
+* Menjaga tata letak merek yang konsisten di seluruh dokumen Excel.
+* Membangun template standar perusahaan dari file PS yang diarsipkan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi PS ke XLT otomatis untuk template pelaporan yang terstandarisasi.
+* Integrasi dalam sistem manajemen konten untuk aset desain yang dapat digunakan kembali.
+* Pembuatan template secara batch untuk beberapa departemen atau cabang.
+* Generasi XLT dinamis untuk alur kerja dokumentasi perusahaan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

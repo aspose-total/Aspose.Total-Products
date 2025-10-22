@@ -61,7 +61,31 @@ Podczas konwertowania pliku PPS do FODS możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPS (PowerPoint Slide Show) na FODS (Flat XML ODF Spreadsheet) przekształca treść prezentacji na formaty XML kompatybilne ze arkuszami kalkulacyjnymi. Jest to szczególnie wartościowe dla użytkowników oprogramowania open-source pracujących w ekosystemach LibreOffice lub Apache OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Eksportowanie danych liczbowych z programu PowerPoint do arkuszy FODS.
+* Tworzenie strukturalnych arkuszy XML do celów edukacyjnych lub biznesowych.
+* Przekształcanie wykresów z slajdów w edytowalne dane arkusza OpenDocument.
+* Przygotowywanie plików zgodnych ze standardami otwartymi do analizy i udostępniania w LibreOffice Calc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Generowanie planowych FODS z powtarzającymi się aktualizacjami prezentacji.
+* Integracja z systemami raportowania open-source.
+* Konwersja slajdów na FODS w trybie wsadowym dla paneli analitycznych.
+* Automatyczne tworzenie arkuszy kalkulacyjnych opartych na XML do pracy na różnych platformach.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

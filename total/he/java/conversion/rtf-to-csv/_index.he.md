@@ -102,7 +102,31 @@ otherformats: ODS XLTM XLSX XLS XLAM FODS XLSM DIF SXC XLSB XLT XLTX EXCEL TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמכי RTF (פורמט טקסט עשיר) ל-CSV (ערכים מופרדים בפסיקים) פשוטה את תהליך חילוץ הטקסט המובנה והנתונים הטבלאיים עבור מסדי נתונים או יישומי גיליון. ההמרה הזו נמצאת בשימוש נרחב להמרת דוחות מעוצבים לקבצים קלים וממוקדי נתונים עבור פעולות ניתוח או יבוא.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא חשבוניות ויומני עסקאות מבוססות RTF ל-CSV עבור כלים חשבונאיים.
+* המרת טבלאות RTF מעוצבות לקבוצות נתונים CSV עבור פלטפורמות BI.
+* המרת תוצאות מחקר ב-RTF לנתונים מובנים עבור Excel או Google Sheets.
+* עיבוד זריז של מסמכים למסדי נתונים במערכות CRM או ERP.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת RTF ל-CSV בזמן אמת עבור לוחות מחוונים לדיווחים.
+* עיבוד מסמכים בצורת צפיפות עבור חילוץ נתונים בקנה מידה גדול.
+* שילוב ל-ETL וצינורות העברת נתונים.
+* יצירת CSV אוטומטית עבור פלטפורמות SaaS באמצעות רשומות RTF מורשים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

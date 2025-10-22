@@ -49,7 +49,31 @@ Saat Anda mengonversi PPT ke JSON, Anda juga dapat mengatur rentang ke format JS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPT (PowerPoint) ke JSON (JavaScript Object Notation) menerjemahkan data presentasi kompleks ke dalam format terstruktur, ringan, dan dapat dibaca mesin. Format ini ideal bagi pengembang yang mengintegrasikan metadata presentasi, slide, atau visual ke dalam aplikasi web dan platform berbasis kecerdasan buatan (AI).
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengekstrak metadata slide PowerPoint untuk aplikasi web atau seluler.
+* Mengintegrasikan data presentasi ke dalam dasbor atau sistem visualisasi data.
+* Membangun API berbasis JSON untuk merender slide secara dinamis.
+* Mendukung sistem AI yang menginterpretasikan konten PowerPoint secara kontekstual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi real-time dari PPT ke JSON untuk penguraian konten otomatis.
+* Integrasi dengan CMS tanpa tampilan atau sistem pengindeksan dokumen.
+* Pengolahan batch untuk platform analitik yang membutuhkan data presentasi terstruktur.
+* Ringkasan dan tagging konten PowerPoint yang didukung oleh kecerdasan buatan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

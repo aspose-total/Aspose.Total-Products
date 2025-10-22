@@ -61,7 +61,31 @@ PPS 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 ODS (OpenDocument Spreadsheet)로 변환하면 프레젠테이션 데이터를 구조화된 스프레드시트 형식으로 재활용할 수 있습니다. 이 변환은 전문가들이 요약된 슬라이드를 편집 가능하고 분석 가능한 표 형식으로 변환하여 LibreOffice Calc 및 OpenOffice와 호환되는 테이블로 변환하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 프레젠테이션 슬라이드에서 재무 데이터를 구조화된 ODS 보고서로 추출합니다.
+* 교육용 슬라이드 덱을 스프레드시트 기반의 코스 분석으로 변환합니다.
+* 마케팅 프레젠테이션을 영업 성과 스프레드시트로 변환합니다.
+* PPS 비즈니스 요약에서 편집 가능한 프로젝트 추적 시트를 준비합니다.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 이사회 프레젠테이션을 분기별 ODS 성과 파일로 예약된 변환합니다.
+* 보고 파이프라인에 통합하여 슬라이드를 공유 가능한 스프레드시트 데이터로 자동 변환합니다.
+* 회의 결과를 실시간으로 중앙 집중식 분석 시트로 변환합니다.
+* 프레젠테이션 및 스프레드시트 레코드를 유지하는 팀을 위한 일괄 변환을 수행합니다.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -68,7 +68,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをMARKDOWN（.md）に変換すると、テキストとグラフィカルなPostScriptコンテンツを軽量でウェブフレンドリーな形式で使用できます。Markdownは、ドキュメント、ナレッジベース、ブログ、Gitベースのプロジェクトリポジトリに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PSマニュアルやレポートをウェブ用のMarkdownドキュメントに変換する。
+* 図や表をドキュメント用のMarkdownサポート形式に変換する。
+* GitHubや内部ウィキでPSベースの技術コンテンツを公開する。
+* PSファイルからMarkdownでチュートリアル、ガイド、学術ノートを準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ドキュメントパイプラインでの自動化されたPSからMarkdownへの変換。
+* テックブログやナレッジポータル向けの静的サイトジェネレータへの統合。
+* PSアーカイブをMarkdownリポジトリに変換するためのバッチ処理。
+* PSからのAI支援コンテンツ抽出によるMarkdown対応出力の準備。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

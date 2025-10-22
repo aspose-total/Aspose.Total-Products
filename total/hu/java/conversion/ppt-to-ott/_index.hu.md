@@ -53,7 +53,31 @@ Az API segítségével PPT fájlból OTT-ba konvertálhat vízjellel. Ha vízjel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az átalakítás PPT (PowerPoint) prezentációkat OTT (OpenDocument Text Template) formátumra lehetővé teszi a vállalkozások és oktatók számára, hogy szabványosítható, újrafelhasználható sablonokat hozzanak létre a diák tartalma alapján. Az OTT fájlok biztosítják a dokumentum stílusának, arculatának és szerkezetének egységességét a szervezeti jelentésekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Szerkeszthető szövegsablonok létrehozása PowerPoint elrendezésekből a vállalati dokumentációhoz.
+* Vállalati jelentések és javaslatok szabványosítása OTT sablonok használatával.
+* Újrafelhasználható oktatási sablonok létrehozása a képzési prezentációkból.
+* Dialektus szerkezetek újrahasznosítása nyílt formátumú kiadási folyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált PPT-OTT konverzió a márka sablonok generálásához.
+* Integráció nyílt forráskódú tartalomgyártási rendszerekbe.
+* Vállalati diák feldolgozása tandardizált dokumentumsablonokba történő tömeges feldolgozása.
+* Ütemezett konverzió a konzisztencia fenntartása érdekében több részleges kommunikációban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ PPTファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）プレゼンテーションをODS（OpenDocument Spreadsheet）形式に変換すると、視覚的なスライドデータが構造化されたスプレッドシート形式に変換されます。オープンソースのオフィススイートを使用し、プレゼンテーションから数値や表形式のデータを抽出して分析やレポート作成に活用する組織に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* スライドテーブルを編集可能なODSスプレッドシートにエクスポートしてLibreOffice Calcで使用する。
+* PowerPointダッシュボードからビジネスメトリクスをスプレッドシートデータに変換する。
+* 金融および分析スライドをオープンなODS形式でアーカイブする。
+* オープン標準のスプレッドシート環境での共同作業を可能にする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 政府機関やNGOの報告のための自動化されたPPTからODSへの変換。
+* オープンソースの分析パイプラインとの統合。
+* 監査のためのプレゼンテーションからスプレッドシートへの定期的な変換。
+* ODSベースのテンプレートを使用した部門間レポートの共有。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

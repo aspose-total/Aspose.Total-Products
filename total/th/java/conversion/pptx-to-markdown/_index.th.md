@@ -61,7 +61,31 @@ otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS MARKDOWN XLSB MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง PPTX เป็น Markdown จะเปลี่ยนการนำเสนอแบบสถิตเป็นข้อความที่เบา พร้อมใช้งานบนเว็บได้ Markdown มีความง่ายสำหรับการแบ่งปันเนื้อหา ช่วยให้ง่ายต่อการเผยแพร่บนบล็อก แพลตฟอร์มเอกสาร และเว็บไซต์แบบสถิต
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การนำ PowerPoint decks มาใช้ในเอกสารทางเทคนิค
+* การเผยแพร่บันทึกสไลด์และเนื้อหาบนวิกิที่มีพื้นฐาน Git
+* สร้างสรุปพร้อมใช้งานบนบล็อกของสไลด์การนำเสนอ
+* การแปลงการนำเสนอขององค์กรเป็นบทความในฐานความรู้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การส่งออก Markdown โดยอัตโนมัติจากสไลด์การอบรมขององค์กร
+* การผสานกับระบบสร้างเอกสารเช่น Hugo หรือ Jekyll
+* การประมวลผลเป็นชุดสำหรับการแปลงสไลด์ภายในเป็นโพสต์ Markdown
+* การผสานอย่างต่อเนื่องสำหรับการเวอร์ชันเนิ่นนานของเนื้อหาในรูปแบบ Markdown
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

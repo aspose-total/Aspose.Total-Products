@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 DOTM로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 DOTM(매크로 활성화 워드 템플릿)으로 변환하면 사용자가 자동화 기능을 포함한 재사용 가능한 템플릿을 만들 수 있습니다. 발표 콘텐츠에서 상호 작용 및 매크로가 포함된 문서를 생성하는 데 완벽합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 발표 슬라이드로부터 매크로 활성화 템플릿 디자인.
+* 반복적인 보고서 생성 작업 자동화.
+* 표준화된 동적 기업 템플릿 작성.
+* PowerPoint 기반 문서에 데이터 매크로 삽입.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PPTX 덱을 DOTM 템플릿으로 일괄 변환.
+* 문서 자동화 시스템 통합.
+* 주기적 보고서를 위한 매크로 템플릿 예약 생성.
+* 효율성을 위한 PowerPoint-to-Word 매크로 매핑.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

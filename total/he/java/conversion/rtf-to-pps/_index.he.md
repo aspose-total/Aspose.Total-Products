@@ -100,7 +100,31 @@ otherformats: PPSX POWERPOINT PPT ODP POT PPSM PPTX POTM POTX PPTM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמכי RTF ל-PPS (PowerPoint Show) ממירה טקסט סטטי למצגות מוכנות להצגה שמתחילות ישירות במסך מלא. זה אידיאלי לבריפינגים אוטומטיים, תצוגות למידה או מצגות לתערוכות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת דוחות RTF למצגות מוכנות להצגה.
+* יצירת בריפינגים חזותיים אוטומטיים ממסמכי טקסט.
+* עיצוב תוכן לצילום דיגיטלי מבוסס חומרי שיווק RTF.
+* הכנת מצגות למידה לשימוש בכיתה או בכנס.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת רצפי RTF ל-PPS בצורה צפויה למצגות מתוזמנות.
+* שילוב בקיוסקים ובמערכות תצוגה אוטומטיות.
+* יצירת מצגות אוטומטיות ממאגרי מסמכים שמאוחסנים.
+* יצירת לוחות מחוונים חזותיים מקלט RTF מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

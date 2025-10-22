@@ -54,7 +54,31 @@ Az API azt is lehetővé teszi, hogy jelszóval védett RTF dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az RTF átalakítása PPT formátummá (Örökölt PowerPoint Prezentáció) hagyományos dokumentum munkafolyamatokat köt össze régebbi PowerPoint környezetekkel. Ez hasznos azoknak a szervezeteknek, amelyek kompatibilitást kívánnak fenntartani korábbi Microsoft Office verziókkal.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+* RTF jelentések átalakítása PowerPoint 97–2003 kompatibilis fájlokká.
+* Formázott szöveges dokumentumok újrahasznosítása képzési prezentációkhoz.
+* Diák tervezése örökölt prezentációs rendszerekhez.
+* RTF alapú kutatási összefoglalók előkészítése hagyományos PowerPoint kijelzőkhöz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+* Tömeges RTF-PPT átalakítások örökölt Office munkafolyamatokhoz.
+* Integráció az archiválási és szabályozási prezentációs rendszerekbe.
+* Ütemezett átalakítások a visszafelé kompatibilitás támogatásához.
+* Automatizált PowerPoint generálás RTF sablonokból régebbi rendszerekhez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

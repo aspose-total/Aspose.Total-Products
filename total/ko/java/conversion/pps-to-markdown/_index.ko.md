@@ -61,7 +61,31 @@ PPS 파일을 MARKDOWN로 변환하는 동안 출력 MARKDOWN 파일 형식에 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 MARKDOWN (MD)으로 변환하면 시각적인 슬라이드를 가벼우면서 가독성 좋은 텍스트 문서로 변환할 수 있어 블로그, 문서 및 Git 기반 콘텐츠 관리 시스템에 적합합니다. 이는 프레젠테이션과 개발자 친화적인 형식 간의 간극을 줄여줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 슬라이드를 Markdown 문서로 변환하기.
+* 프레젠테이션 덱에서 오픈 소스 프로젝트 노트 작성하기.
+* 교육용 슬라이드 콘텐츠를 정적 사이트 생성기에 발행하기.
+* GitHub 위키용 가벼운 MD 파일로 회사 프레젠테이션 변환하기.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 버전 관리를 사용하는 콘텐츠 팀을 위한 예약된 Markdown 생성.
+* 문서화 파이프라인에 통합하기 (예: Hugo, Jekyll).
+* 온라인 발행을 위한 자동화된 PowerPoint-to-MD 변환.
+* 여러 PPS 덱을 구조화된 Markdown 파일로 일괄 처리하기.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

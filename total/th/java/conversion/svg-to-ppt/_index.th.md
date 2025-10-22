@@ -121,7 +121,31 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ SVG เป็น PPT (PowerPoint 97-2003) ช่วยให้สามารถฝังกราฟิกเวกเตอร์ลงในสไลด์เด็กเก่าได้  PPT รับรองความเข้ากันได้กับเวอร์ชัน PowerPoint เก่า ๆ พร้อมรักษาคุณภาพทางสายตา
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การนำเสนอของบริษัทพร้อมฝังแดชบอร์ด SVG สำหรับซอฟต์แวร์เก่า
+* สไลด์ทางวิชาการหรือวิจัยโดยใช้รูปแบบ PowerPoint เก่า
+* สไลด์การฝึกอบรมและคำสอนที่เข้ากันได้กับระบบเก่า
+* การนำเสนอทางการตลาดที่มีมาตรฐานสำหรับความเข้ากันได้ระหว่างเวอร์ชัน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงไฟล์ SVG เป็น PPT แบบกลุ่มสำหรับความต้องการในการนำเสนอเวอร์ชันเก่า
+* การส่งออกสไลด์ที่ใช้ SVG ตามกำหนดเวลาไปยังรูปแบบ PowerPoint เก่า
+* การรวมเข้ากับท่อรายงานสำหรับการส่งมอบการนำเสนอเวอร์ชันเก่า
+* การแปลงโดยเร่งเพื่อสร้างสไลด์อัตโนมัติ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

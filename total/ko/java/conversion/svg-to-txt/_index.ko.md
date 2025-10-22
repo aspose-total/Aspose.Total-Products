@@ -47,7 +47,31 @@ SVG 파일을 TXT로 변환하는 동안 출력 TXT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 TXT(일반 텍스트)로 변환하면 벡터 그래픽에서 텍스트 콘텐츠를 추출하여 분석, 색인 또는 가벼운 문서 작성에 사용할 수 있습니다. TXT는 간단하고 스크립트 가능한 워크플로에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 문서 작성을 위해 SVG 다이어그램에서 레이블 및 주석 추출.
+* 기술적인 그림의 검색 가능한 일반 텍스트 버전 생성.
+* 데이터 분석을 위한 가벼운 SVG 메타데이터 보고서 생성.
+* 이미지 없이 텍스트 SVG 콘텐츠를 빠르게 공유.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 보고 파이프라인을 위해 SVG 텍스트를 자동으로 TXT로 추출.
+* 벡터 다이어그램에서 일정 주기로 일반 텍스트 문서 생성.
+* 색인 및 검색 시스템과 통합.
+* 분석 및 가벼운 콘텐츠 워크플로를 위한 트리거 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

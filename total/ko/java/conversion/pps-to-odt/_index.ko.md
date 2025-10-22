@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 ODT로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 ODT (OpenDocument Text)로 변환하면 전문가들이 시각적인 슬라이드 콘텐츠를 편집 가능한 텍스트 문서로 변환할 수 있습니다. 이 프로세스는 프레젠테이션을 공식 보고서, 교육 매뉴얼, 그리고 LibreOffice Writer 또는 OpenOffice Writer에서 접근 가능한 문서로 변환하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 회사 프레젠테이션을 서식 있는 프로젝트 보고서로 변환하기.
+* 시각적인 슬라이드로부터 회의록이나 정책 문서 생성하기.
+* 강의 슬라이드 덱을 상세한 강의 노트나 학습 가이드로 변환하기.
+* 완료된 PowerPoint 슬라이드 쇼로부터 편집 가능한 콘텐츠 아카이브 생성하기.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 내부 프레젠테이션 슬라이드로부터 자동 보고서 생성하기.
+* ODT 기반 아카이빙을 위한 문서 관리 시스템 통합.
+* 마케팅 프레젠테이션을 내부 게시를 위한 텍스트 기반 콘텐츠로 변환하기.
+* 인사 문서화를 위해 교육 슬라이드 쇼를 편집 가능한 매뉴얼로 대량 변환하기.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,31 @@ otherformats: SXC XLSB TXT DIF EXCEL XLSM FODS XLTM TSV ODS MD XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי SVG ל-XLTX (תבנית XML פתוחה של Excel) יוצרת תבניות גיליון עבודה מודרניות וניתנות לשימוש חוזר עם גרפיקה וקטורית נפחתת. XLTX תואם עם גרסאות חדשות יותר של Excel ותומך בתבניות קלות ונקיות ללא מאקרוס.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות למודעות חכמות עסקיות עם לוחות מחוונים בפורמט SVG.
+* תבניות סטנדרטיות לדיווחי משאבי אנוש או תפעוליים עבור צוותים תאגידיים.
+* תבניות לחינוך או למחקר המשלבות גרפיקות SVG אינטראקטיביות.
+* תבניות לביצוע קמפיינים שיווקיים באמצעות גרפיקה וקטורית מוטבעת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירה אוטומטית של תבניות XLTX מלוחות מחוונים בפורמט SVG לדיווחים עסקיים.
+* עדכונים מתוזמנים כדי לשמור על תבניות רעננות וניתנות לשימוש עם נתונים חזותיים עדכניים ביותר.
+* שילוב עם צינורות דיווח אוטומטיים עבור זרימות עבודה המבוססות על תבניות.
+* המרה מופעלת של לוחות מחוונים בפורמט SVG חיים לתבניות XLTX לשימוש צוותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

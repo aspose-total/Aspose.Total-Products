@@ -78,7 +78,31 @@ otherformats: XLSM XLT MD XLAM XLSB XLTX XLTM TXT SXC ODS DIF TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) ל־FODS (Flat XML OpenDocument Spreadsheet) מאפשרת שימוש בנתונים מובנים מתוך טבלאות ותרשימים בפורמט PostScript ביישומי גיליון נתונים קוד פתוח כמו LibreOffice. זה מבטיח ניידות, שקיפות ותאימות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ טבלאות פיננסיות מדוחות PS לגיליונות נתונים של LibreOffice.
+* המרת נתונים מדעיים או הנדסיים מתרשימי PostScript ל־FODS.
+* הכנת נתונים לניתוח ולדיווח צלב פלטפורמות.
+* הפעלת שימוש בגיליון נתונים קוד פתוח ללא הגבלות פרופריטריות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PS ל־FODS בצורה רצפית לזרימות עבודה מרובות במחלקות שונות.
+* שילוב בצינורות ETL לניתוח בפורמט פתוח.
+* חילוץ אוטומטי של נתונים טבלאיים מפריסות PS.
+* המרה בענן לסביבות עבודה קולבורטיביות בקוד פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

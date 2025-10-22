@@ -121,7 +121,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG ke POTX (PowerPoint Open XML Template) menghasilkan template slide modern dan dapat digunakan kembali dengan grafis vektor. POTX ideal untuk standarisasi presentasi di seluruh tim dengan template yang ringan dan bebas makro.
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+* Membuat template laporan bisnis yang dapat digunakan kembali dengan grafik SVG.
+* Template slide pendidikan dengan diagram vektor tersemat.
+* Template kampanye pemasaran yang distandarisasi untuk penggunaan tim.
+* Template presentasi akademik atau konferensi dengan visual yang dapat diskalakan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi template SVG-to-POTX otomatis untuk kebutuhan presentasi berulang.
+* Pembaruan terjadwal template dengan konten SVG baru.
+* Integrasi dengan otomatisasi alur kerja perusahaan untuk pemformatan yang konsisten.
+* Pemicu pembuatan template dari dashboard SVG langsung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

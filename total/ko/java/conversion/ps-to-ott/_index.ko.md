@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 OTT (OpenDocument Text Template)으로 변환하면 팀이 표준화된 재사용 가능한 텍스트 문서 템플릿을 만들 수 있습니다. OTT 템플릿은 반복되는 보고서, 편지 또는 양식에 이상적이며, 일관된 서식을 위해 PostScript 레이아웃을 활용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS 기반 보고서 및 문서에서 재사용 가능한 텍스트 템플릿 생성.
+* 팀 간 편지, 양식 및 내부 보고서 표준화.
+* PS로 생성된 매뉴얼을 편집 가능한 OTT 템플릿으로 변환.
+* 오픈 소스 환경에서 반복 문서 작성을 위한 PostScript 레이아웃 준비.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 환경의 템플릿 라이브러리를 위한 일괄 PS-to-OTT 변환.
+* 재사용 가능한 템플릿 배포를 위한 문서 관리 시스템 통합.
+* PS 파일을 OTT로 변환하는 자동화된 워크플로우.
+* PS 레이아웃에서 텍스트 템플릿으로의 AI 기반 추출 및 서식 지정.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

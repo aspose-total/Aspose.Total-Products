@@ -100,7 +100,31 @@ otherformats: POT PPT POTX PPS POTM PPSX POWERPOINT PPTM PPTX ODP CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל-PPSM (PowerPoint Macro-Enabled Show) מכניסה אוטומציה למצגות. פורמט זה משלב את העושר הטקסטואלי של RTF עם יכולות המאקרו הדינמיות של PowerPoint לסיפור חזותי אינטראקטיבי מתקדם.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* אוטומציה של מצגות באמצעות מאקרוס המגיעים מנתוני RTF.
+* בניית לוחות בקרה אינטראקטיביים או מדריכים המבוססים על מדריכי RTF.
+* מסירת מצגות אוטומטיות הכוללות עדכונים דינמיים.
+* המרת סיכומי עסקיים למצגות שרצות באופן עצמאי, המופעלות על ידי מאקרוס.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* אוטומציה של RTF ל-PPSM בצינורות תוכן למידתיים.
+* שילוב עם מערכות דיווח מאופשרות במאקרו.
+* יצירת מצגות מתוזמנות עבור צוותי מכירות והכשרה.
+* יצירת מצגת PowerPoint אוטומטית מסטים של מסמכים עמוסי טקסט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

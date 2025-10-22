@@ -121,7 +121,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van SVG-bestanden naar POTX (PowerPoint Open XML Template) levert moderne, herbruikbare dia-templates op met vectorafbeeldingen. POTX is ideaal voor het standaardiseren van presentaties binnen teams met lichtgewicht, macrovrije templates.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het maken van herbruikbare zakelijke rapportagetemplates met SVG-grafieken.
+* Educatieve dia-templates met ingebedde vector diagrammen.
+* Marketingcampagnetemplates gestandaardiseerd voor teamgebruik.
+* Academische of conferentiepresentatietemplates met schaalbare visuals.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde generatie van SVG-naar-POTX-template voor terugkerende presentatiebehoeften.
+* Geplande updates van templates met nieuwe SVG-content.
+* Integratie met bedrijfsworkflowautomatisering voor consistente opmaak.
+* Geactiveerde template-creatiepijplijnen vanuit live SVG-dashboards.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

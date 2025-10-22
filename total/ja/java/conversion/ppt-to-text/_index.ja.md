@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPTファイルからTEXTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）ファイルをTEXT（.txt）形式に変換すると、すべてのテキストコンテンツがデータ処理、アーカイブ、またはローカライゼーションで使用するための軽量でプレーンテキストのバージョンに抽出されます。コンテンツ抽出に取り組む開発者、翻訳者、アナリストに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* 翻訳やNLP処理のためのスライドテキストの抽出。
+* PowerPointコンテンツから検索可能なテキストファイルの作成。
+* アーカイブや索引付けのためのプレーンテキストバージョンの生成。
+* SEOやドキュメンテーションのためのコンテンツ再利用の簡素化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* AIやテキストマイニングワークフロー向けの自動化されたPPTからTEXTへの変換。
+* 複数言語処理のためのローカライゼーションパイプラインとの統合。
+* コンテンツ分析やデータラベリングのためのバッチ抽出。
+* 企業文書管理のための定期的なテキストエクスポート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

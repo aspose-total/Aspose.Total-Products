@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG (Skálázható Vektorgrafika) fájlok átalakítása DOCM (Word Macro-Enabled Document) formátummá lehetővé teszi interaktív vektor diagramok beágyazását Word dokumentumokba, miközben támogatja a makrókat az automatizáláshoz. A DOCM ideális dinamikus jelentésekhez, sablonokhoz és oktatási anyagokhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+* Interaktív kézikönyvek SVG diagramokkal és makróval vezérelt navigációval.
+* Üzleti jelentések animált vagy interaktív vektor diagramokkal.
+* Tudományos kutatási cikkek makróvezérelt dinamikus SVG vizuális elemekkel.
+* Szabványosított sablonok projektjavaslatokhoz vagy vállalati folyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+* SVG diagramok automatizált tömeges átalakítása DOCM formátummá vállalati jelentéskészítéshez.
+* Ütemezett makróval vezérelt sablonok létrehozása SVG vizuális elemekből.
+* Integráció dokumentumkezelő rendszerekkel interaktív jelentéskészítéshez.
+* SVG-DOCM átalakítás indítása dinamikus oktatóanyagokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

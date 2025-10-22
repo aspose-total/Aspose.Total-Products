@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PS (PostScript) na DOT (szablon Worda) pozwala firmom standaryzować formatowanie dokumentów i układy. Szablony DOT mogą być ponownie wykorzystywane do oficjalnej korespondencji, raportów i dokumentów skierowanych do klientów bez konieczności ponownego tworzenia projektów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie wielokrotnie używanych szablonów Worda na podstawie raportów opartych na PostScript.
+* Standaryzacja nagłówków firmowych, formularzy i dokumentów wewnętrznych.
+* Konwertowanie układów wizualnych generowanych przez PS na edytowalne szablony Worda.
+* Utrzymywanie spójności projektowej w wielu dokumentach generowanych przez zespół.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja PS na DOT dla systemów zarządzania szablonami.
+* Integracja z systemami zarządzania treścią dla wielokrotnie używanych szablonów dokumentów.
+* Przetwarzanie wsadowe w celu generowania szablonów specyficznych dla działów.
+* Zaplanowane aktualizacje szablonów Worda na podstawie aktywów brandingowych opartych na PostScript.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

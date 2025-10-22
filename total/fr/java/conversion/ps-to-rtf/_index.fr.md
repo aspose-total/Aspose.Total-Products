@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PS (PostScript) en RTF (Rich Text Format) permet d'utiliser des documents sur plusieurs plates-formes et traitements de texte tout en préservant la mise en forme de base, les polices et les graphiques vectoriels. La conversion en RTF est idéale pour partager des rapports sans problèmes de compatibilité.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Conversion de rapports basés sur PostScript en fichiers RTF lisibles universellement.
+* Partage de diagrammes et graphiques PS avec des équipes multiplateformes.
+* Préservation de la mise en forme pour les documents officiels, lettres et rapports internes.
+* Préparation de documents pour des systèmes ne prenant pas en charge nativement PS ou DOCX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de PS en RTF pour l'intégration de systèmes hérités.
+* Traitement par lots pour la distribution de documents sur des environnements multiplateformes.
+* Workflows basés sur ETL pour convertir des archives PS en formats modifiables.
+* Extraction assistée par IA et préservation de la mise en forme à partir de documents PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

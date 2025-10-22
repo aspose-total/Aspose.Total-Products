@@ -100,7 +100,31 @@ otherformats: PPT POWERPOINT PPTM PPS PPTX PPSM ODP POT PPSX POTM CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמכי RTF ל־POTX (תבנית PowerPoint Open XML) מספקת עיצוב שקוף, מודרני וניתן לשימוש מחדש עבור Office 365 ו־PowerPoint 2019+. זה מבטיח עיצוב עקביות בין המצגות שנוצרו מתוך תוכן המבוסס על RTF.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת הצעות ודוחות ב־RTF לתבניות PowerPoint תאגידיות.
+* עיצוב ערכות המצגת בהתבסס על מבני מסמך מעוצבים.
+* המרת מדריכי סגנון ב־RTF לתבניות PowerPoint חזותיות.
+* הכנת תבניות שקופות לשימוש אקדמי עקבי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* אוטומציה של RTF ל־POTX לאחידות המצגת המותגית.
+* שילוב עם מערכות ניהול מסמכים ליצירת תבניות.
+* יצירה מתוזמנת של תבניות PowerPoint מודרניות מדוחות RTF.
+* המרת קבצי ארכיון לתבניות POTX שניתן לשימוש מחדש.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

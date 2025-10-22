@@ -61,7 +61,31 @@ A PPS fájl SXC formátumba konvertálásakor vízjelet is hozzáadhat a kimenet
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPS (PowerPoint Slide Show) fájlok átalakítása SXC (StarOffice Calc Spreadsheet) formátummá lehetővé teszi azoknak a szervezeteknek, amelyek a régi vagy nyílt forráskódú irodai szoftverekkel dolgoznak, hogy az előadási adatokat táblázatformátumba alakítsák át. Ez strukturált elemzést és jelentést tesz lehetővé anélkül, hogy szükség lenne védett szoftverekre.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Üzleti prezentációk átalakítása elemzhető táblázati adatokká.
+* Értékesítési vagy pénzügyi diaösszefoglalók exportálása SXC formátumba.
+* OpenOffice-kompatibilis lapok előkészítése PPS jelentésekből.
+* Oktatási prezentációk átalakítása strukturált, megosztható táblázatokká.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált SXC generálás a LibreOffice-alapú jelentési folyamatokhoz.
+* Integráció nyílt dokumentumkezelő rendszerekbe.
+* Dia-SXC konverzió tömeges végrehajtása elemzési archívumokhoz.
+* Ütemezett exportok csapatok számára, akik nyílt forráskódú irodai környezeteket használnak.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

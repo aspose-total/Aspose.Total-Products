@@ -61,7 +61,31 @@ otherformats: SXC XLS XLSX XLSM DIF MARKDOWN FODS ODS MHTML XLTX TSV EXCEL XLT X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPT (PowerPoint) เป็น XLSM (Macro-Enabled Excel Workbook) ช่วยให้สามารถรวมข้อมูลแบบไดนามิกจากงานนำเสนอกับ Excel macros ได้ รูปแบบนี้เหมาะสำหรับการอัตโนมัติการคำนวณ สร้างแผงควบคุมแบบอินเทอร์แอคทีฟ และเชื่อมโยงสไลด์กับกระบวนการข้อมูลอัจฉริยะ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงข้อมูลตามสไลด์เป็นรายงาน Excel ที่รองรับ macro
+* สร้างแผงควบคุม KPI อัตโนมัติจากภาพประกอบ PowerPoint
+* รวมข้อมูลจากงานนำเสนอกับเครื่องมือธุรกิจที่ใช้ VBA
+* สร้างสรุปข้อมูลแบบอินเทอร์แอคทีฟสำหรับผู้บริหาร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การแปลงสไลด์ PowerPoint เป็น XLSM โดยอัตโนมัติสำหรับรายงานสด
+* การรวมกับ macro โมเดลทางการเงินสำหรับการวิเคราะห์แบบ real-time
+* การสร้างรายงานที่รองรับ macro จากข้อมูลสไลด์ตามกำหนดเวลา
+* การสร้างสมุดงาน Excel โดยอัตโนมัติสำหรับองค์กรที่ใช้ข้อมูลเป็นฐาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

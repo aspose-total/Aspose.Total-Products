@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 DOTM(매크로 활성화 워드 템플릿)으로 변환하면 매크로와 함께 확장 가능한 벡터 그래픽을 결합한 재사용 가능한 템플릿을 만들 수 있습니다. 대화형 보고서, 양식 및 워크플로 문서에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 시각 자료가 포함된 매크로 활성화 프로젝트 추적 템플릿.
+* 기업 워크플로를 위한 재사용 가능한 재무 또는 운영 템플릿.
+* 동적 다이어그램과 자동화를 통합한 학술 또는 연구 템플릿.
+* 매크로 강화 SVG 다이어그램을 사용한 대화형 e-러닝 자료.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 반복되는 매크로 활성화 템플릿을 위한 자동화된 SVG-to-DOTM 변환.
+* 새로운 SVG 데이터와 매크로로 템플릿을 예약된 업데이트.
+* 재사용 가능한 템플릿이 필요한 워크플로 자동화 시스템 통합.
+* 대화형 보고 대시보드를 위한 트리거 변환 파이프라인.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

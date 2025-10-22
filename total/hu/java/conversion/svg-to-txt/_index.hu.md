@@ -47,7 +47,31 @@ A SVG-fájl TXT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TXT-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG átalakítása TXT-re (Egyszerű szöveg) szöveges tartalom kinyerése vektorgrafikákból elemzéshez, indexeléshez vagy könnyű dokumentációhoz. A TXT ideális egyszerű, scriptelhető munkafolyamatokhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Címkék és megjegyzések kinyerése SVG diagramokból dokumentációhoz.
+* Keresésre alkalmas egyszerű szöveges verziók létrehozása műszaki ábrákból.
+* Könnyű SVG metaadat jelentések generálása adatelemzéshez.
+* Gyors megosztás szöveges SVG tartalommal képek nélkül.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* SVG szöveg automatikus kinyerése TXT-be jelentési csatornákhoz.
+* Időzített egyszerű szöveges dokumentáció generálása vektor diagramokból.
+* Integráció indexelési és keresési rendszerekkel.
+* Kiváltott átalakítás elemzéshez és könnyű tartalom munkafolyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

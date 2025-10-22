@@ -102,7 +102,31 @@ otherformats: WORD TEXT DOCX DOC DOCM DOTX DOT RTF ODT OTT DOTM FLATOPC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTX ל-WORDML (WordprocessingML) משנה את תוכן המצגת למבנים בסיסיים של XML בוורד, מושלמים עבור מפתחים ועסקים הזקוקים לניידות נתונים ואינטגרציה במערכת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת תוכן מצגת PowerPoint לעיבוד במבוסס XML.
+* אינטגרציה של נתוני מצגת למערכות CMS או ERP.
+* ארכיבת קבצי PowerPoint בפורמטים מבוססי XML מובנים.
+* קידום יצירת מסמכי Word אוטומטיים מנתוני השקופית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* אוטומציה של תהליכי עבודה בצינורות מסמכים עסקיים.
+* אינטגרציה עם מערכות יצירת תוכן מבוססות WordML.
+* המרה בצפייה ליישומים המופעלים ב-XML.
+* ארכיבה אוטומטית של קבצי PowerPoint בסימון מבוסס.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

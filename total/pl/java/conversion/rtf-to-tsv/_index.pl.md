@@ -61,7 +61,31 @@ Po przekonwertowaniu RTF na TSV [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja RTF na TSV (wartości oddzielone tabulatorem) jest idealna do zachowania czystych, uporządkowanych zbiorów danych z sformatowanych dokumentów. Zapewnia kompatybilność z oprogramowaniem analitycznym, importem baz danych oraz systemami publikacji danych otwartych, które wymagają precyzyjnego formatowania z użyciem tabulatorów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwersja dzienników danych opartych na RTF na TSV dla narzędzi analitycznych opartych na tekście.
+* Przygotowanie akademickich dokumentów badawczych RTF do przetwarzania statystycznego.
+* Eksportowanie tabel RTF do strukturalnych plików TSV do udostępniania danych otwartych.
+* Migracja sformatowanych list RTF do formatów gotowych do bazy danych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Zaplanowana konwersja RTF na TSV dla zadań raportowania cyklicznego.
+* Integracja z systemami kolekcji danych opartymi na interfejsie API.
+* Automatyczne generowanie plików TSV w repozytoriach danych otwartych.
+* Transformaty dokumentów wsadowych w dużych przepływach pracy wydawniczej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

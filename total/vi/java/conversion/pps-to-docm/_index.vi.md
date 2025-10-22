@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPS s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPS (PowerPoint Slide Show) sang DOCM (Tài liệu Word có Macro-Enabled) cho phép tạo tài liệu văn bản tự động, tương tác. Quá trình chuyển đổi này rất phù hợp cho các nhóm cần nội dung động như báo cáo tự động hoặc tài liệu có kịch bản tích hợp.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo các mẫu có Macro từ nội dung trình bày.
+* Tự động hóa việc tạo báo cáo tóm tắt bằng cách sử dụng kịch bản VBA tích hợp.
+* Xây dựng tài liệu kinh doanh động với dữ liệu có điều kiện.
+* Thiết kế các báo cáo tuân thủ dựa trên DOCM từ các bài thuyết trình PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo DOCM theo lịch từ các bài thuyết trình PowerPoint.
+* Tích hợp với quy trình làm việc Word dựa trên VBA để tự động hóa tài liệu.
+* Chuyển đổi hàng loạt cho các bộ phận sử dụng các mẫu có Macro.
+* Chuyển đổi tự động trong các đường ống tạo tài liệu.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

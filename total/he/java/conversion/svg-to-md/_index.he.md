@@ -102,7 +102,31 @@ otherformats: XLT SXC XLTM XLSB ODS CSV EXCEL XLTX DIF TSV TXT XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SVG ל־Markdown (MD) מאפשרת הטמעת תרשימים וקטוריים ישירות בתיעוד, קבצי README ויוצרי אתרים סטטיים. הגישה הזו שומרת על קלות התמונות ועל הגדלה מלאה בעוד שמשפרת את קריאות תוכן הטכני.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* הטמעת תרשימי ארכיטקטורה בקבצי README של פרויקטי תוכנה.
+* תרשימי זרימה אינטראקטיביים למאגרי תיעוד פתוחים.
+* ספרי דיגיטל ומדריכים ב־Markdown עם איורים וקטוריים מוטמעים.
+* בלוגים טכניים המשתמשים בתמונות קטוריות ונקיות ללא קבצי תמונות נוספים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת SVG ל־MD באופן אוטומטי עבור צינורות תיעוד.
+* יצירה מתוזמנת של תרשימים וקטוריים לעדכוני בסיס ידע.
+* שילוב עם מחוללי אתרים סטטיים כמו Hugo או Jekyll.
+* סנכרון רציף של עדכוני עיצוב לקבצי Markdown טכניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

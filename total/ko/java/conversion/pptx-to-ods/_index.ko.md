@@ -61,7 +61,31 @@ PPTX 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 ODS(OpenDocument Spreadsheet)로 변환하면 프레젠테이션 데이터를 스프레드시트 분석과 연결시킵니다. 이 변환은 오픈 소스 생산성 스위트로 전환하는 조직에 이점을 제공하면서 필수적인 표 형식 콘텐츠를 보존합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 프레젠테이션에서 재무 요약을 ODS 형식으로 추출합니다.
+* 데이터 중심 슬라이드를 OpenOffice 또는 LibreOffice 사용자와 공유합니다.
+* 분석가가 슬라이드 테이블을 스프레드시트 소프트웨어 내에서 편집할 수 있습니다.
+* 프레젠테이션 보고서의 오픈 데이터 버전을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 워크플로우에서 예약된 PPTX-to-ODS 변환입니다.
+* 오픈 소스 오피스 생태계로의 통합입니다.
+* 정부 데이터 제출을 위한 자동화된 변환입니다.
+* 숫자 슬라이드 데이터의 ETL 준비 추출입니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

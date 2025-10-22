@@ -102,7 +102,31 @@ otherformats: XLSM EXCEL XLTX TSV CSV MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-SXC (StarOffice Calc Spreadsheet) עוזרת לארגונים העובדים עם חבילות משרד ישנות או קוד פתוח להשתמש מחדש בנתוני המצגת ולהמירם לטבלאות. זה מאפשר ניתוח מובנה ודיווחים בלתי תלויים בתוכנה פטנטית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת מצגות עסקיות לנתוני גליון נתונים שניתנים לניתוח.
+* ייצוא סיכומי שקפים מכירות או פיננסיים לתבנית SXC.
+* הכנת גליונות תואמים ל-OpenOffice מדוחות PPS.
+* המרת מצגות לימודיות לטבלאות מובנות וניתנות לשיתוף.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת SXC אוטומטית עבור זרימות דיווח במבוסס LibreOffice.
+* שילוב במערכות ניהול מסמכים פתוחות.
+* המרת שקפים ל-SXC בצורה צפויה לארכיונים אנליטיים.
+* ייצואים מתוזמנים לצוותים המשתמשים בסביבות משרד קוד פתוח.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

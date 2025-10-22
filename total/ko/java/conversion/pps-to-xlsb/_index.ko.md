@@ -61,7 +61,31 @@ PPS 파일을 XLSB로 변환하는 동안 출력 XLSB 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS(PowerPoint Slide Show) 파일을 XLSB(Excel Binary Workbook)로 변환하면 효율적인 데이터 저장 및 빠른 성능을 제공합니다. 이 변환은 프레젠테이션에서 추출한 대량의 데이터를 관리하면서도 파일 크기를 작게 유지하는 사용자에게 완벽합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 이진 Excel 파일에 프레젠테이션 기반 분석 저장.
+* 대규모 PPS 슬라이드 덱에서 고성능 대시보드 생성.
+* 포괄적인 차트가 포함된 보고서를 가벼운 XLSB 워크북으로 변환.
+* 슬라이드에서 추출한 재무 또는 운영 데이터를 효율적으로 관리.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 빠른 데이터 액세스를 위한 자동화된 이진 워크북 생성.
+* PPS 프레젠테이션을 최적화된 XLSB 보고서로 예약 변환.
+* 소형 Excel 저장소가 필요한 BI 시스템에 통합.
+* 성능 최적화된 데이터 검색을 위한 PPS 파일 일괄 변환.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

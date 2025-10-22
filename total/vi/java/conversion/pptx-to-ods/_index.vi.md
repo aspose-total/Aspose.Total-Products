@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPTX sang ODS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi PPTX sang ODS (OpenDocument Spreadsheet) kết nối dữ liệu trình bày với phân tích bảng tính. Việc chuyển đổi này mang lại lợi ích cho các tổ chức chuyển đổi sang bộ ứng dụng văn phòng mã nguồn mở trong khi bảo tồn nội dung bảng cần thiết.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Trích xuất tổng kết tài chính từ bài trình bày sang định dạng ODS.
+* Chia sẻ các slide dữ liệu với người dùng OpenOffice hoặc LibreOffice.
+* Cho phép các nhà phân tích chỉnh sửa bảng slide trong phần mềm bảng tính.
+* Chuẩn bị phiên bản dữ liệu mở của báo cáo trình bày.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi PPTX sang ODS theo lịch trình trong quy trình tài liệu.
+* Tích hợp vào hệ sinh thái văn phòng mã nguồn mở.
+* Chuyển đổi tự động cho việc nộp dữ liệu chính phủ.
+* Trích xuất dữ liệu số trên slide sẵn sàng cho ETL.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

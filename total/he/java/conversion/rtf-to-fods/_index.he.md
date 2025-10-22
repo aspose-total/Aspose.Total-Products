@@ -102,7 +102,31 @@ otherformats: ODS XLS TSV XLSM CSV SXC XLT XLAM XLSB XLTX EXCEL XLTM DIF XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי RTF לתבנית FODS (גישות גיליון XML שטוחות של ODF) מסירה את הפער בין תוכן טקסטואלי בעיצוב לסביבות גיליון עבור קוד פתוח. ההמרה הזו שומרת על המבנה תוך מציעה גמישות למשתמשי LibreOffice ו-OpenOffice שמעדיפים פורמטים לא בינאריים מבוססי XML.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת טבלאות מחקר בעיצוב מובנה במסמכי RTF לגליונות עריכה בתבנית FODS.
+* ארכיבת מסמכי משרד בפורמט תקני פתוח של FODS לצורך תאימות.
+* הכנת דוחות נתונים מממשרד הממשלתי לניתוח במערכת LibreOffice.
+* יצירת תבניות גיליון ממדריכי פרוצדורות בפורמט RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת RTF ל-FODS בזמן אמת בתוך מערכות ניהול מסמכים פתוחות.
+* צינורות ארכיבה אוטומטיים המבטיחים תקנות בפורמט.
+* שילוב עם כלים ERP קוד פתוח הזקוקים לקלטים מבוססי XML.
+* המרות מתוזמנות עבור מאגרי מסמכים התומכים בזרימות עבודה של ODF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

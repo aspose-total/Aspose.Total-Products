@@ -130,7 +130,31 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de fichiers SVG en OTT (modèle de document texte OpenDocument) crée des modèles de documents texte réutilisables avec des diagrammes vectoriels intégrés. OTT garantit la cohérence entre les projets et les flux de travail d'équipe.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Modèles de rapports standardisés avec des visuels SVG pour les équipes commerciales.
+* Modèles de documents académiques ou pédagogiques avec des diagrammes intégrés.
+* Modèles de documentation marketing ou de projet pour un formatage cohérent.
+* Guides et manuels réutilisables exploitant des graphiques SVG évolutifs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée par lots de diagrammes SVG en modèles OTT.
+* Mises à jour planifiées pour des modèles de documents réutilisables avec des visuels frais.
+* Intégration avec des systèmes de contenu pour des flux de travail basés sur des modèles.
+* Génération déclenchée de modèles de texte interactifs pour la collaboration d'équipe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

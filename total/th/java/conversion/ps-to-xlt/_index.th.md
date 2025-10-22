@@ -47,7 +47,31 @@ otherformats: XLSM EXCEL XLTX TXT XLT DIF TSV XLSB XLTM ODS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PS (PostScript) เป็น XLT (Excel Template) ช่วยให้องค์กรสร้างรูปแบบสเปรดชีทที่ใช้ซ้ำได้จากเลยเอาท์ PostScript ที่มีความคงที่ในการจัดรูปแบบและโครงสร้างข้ามรายงานที่เกิดซ้ำ ใบแจ้งหนี้ และงบการเงิน
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลต Excel จากการออกแบบรายงานที่ใช้เป็น PS
+* สร้างแบบฟอร์มธุรกิจและแผ่นข้อมูลที่ใช้ซ้ำ
+* รักษาเลยเอาท์แบรนด์ที่มีความสม่ำเสมอในเอกสาร Excel
+* สร้างเทมเพลตตามมาตรฐานของบริษัทจากไฟล์ PS ที่ถูกเก็บไว้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PS เป็น XLT โดยอัตโนมัติสำหรับเทมเพลตรายงานมาตรฐาน
+* การผสานรวมในระบบการจัดการเนื้อหาสำหรับทรัพยากรการออกแบบที่ใช้ซ้ำ
+* การสร้างเทมเพลตเป็นชุดสำหรับหลายแผนกหรือสาขา
+* การสร้าง XLT อย่างไดนามิกสำหรับเวิร์กฟลอว์เอกสารขององค์กร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

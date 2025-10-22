@@ -53,7 +53,31 @@ otherformats: OTT DOTM WORDML RTF ODT ODTX FLATOPC ODTM TEXT DOT WORD DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น ODT (OpenDocument Text) ช่วยให้ผู้เชี่ยวชาญสามารถเปลี่ยนเนื้อหาสไลด์ที่มีภาพเป็นเอกสารข้อความที่สามารถแก้ไขได้ กระบวนการนี้เหมาะสำหรับการแปลงงานนำเสนอเป็นรายงานทางการ คู่มือการฝึกอบรม และเอกสารเขียนที่สามารถเข้าถึงได้ใน LibreOffice Writer หรือ OpenOffice Writer
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงงานนำเสนอของบริษัทเป็นรายงานโครงการที่จัดรูปแบบ
+* สร้างรายงานการประชุมหรือเอกสารนโยบายจากสไลด์ที่มีภาพ
+* แปลงสไลด์ในห้องเรียนเป็นบันทึกบรรยายหรือคู่มือการเรียนหรือการศึกษาที่ละเอียด
+* สร้างคลังข้อมูลเนื้อหาที่สามารถแก้ไขได้จากการนำเสนอสไลด์ PowerPoint ที่เสร็จสมบูรณ์
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างรายงานโดยอัตโนมัติจากสไลด์งานนำเสนอภายใน
+* การรวมเข้ากับระบบจัดการเอกสารสำหรับการเก็บถาวรที่ใช้ ODT
+* การแปลงงานนำเสนอทางการตลาดเป็นเนื้อหาที่เป็นข้อความสำหรับการเผยแพร่ภายใน
+* การแปลงสไลด์การฝึกอบรมเป็นคู่มือที่สามารถแก้ไขได้สำหรับเอกสารทรัพยากรบุคคล
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

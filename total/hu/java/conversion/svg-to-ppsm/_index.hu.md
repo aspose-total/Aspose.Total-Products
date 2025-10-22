@@ -121,7 +121,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG átalakítása PPSM formátumra (Makróval bővített PowerPoint bemutató) vektor diagramokat kombinál makrókkal interaktív, futásra kész diavetítések létrehozásához. Ideális az automatizált prezentációs folyamatokhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Makróval bővített interaktív vállalati diavetítések SVG vizuális elemekkel.
+* Automatizált jelentések vagy oktató prezentációk beágyazott makrókkal.
+* Oktatási diák dinamikus diagramokkal és interaktív elemekkel.
+* Kutatási vagy tudományos diavetítések automatizált vizuális interaktivitással.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* SVG-k ütemezett tételkonvertálása PPSM formátumba ismétlődő prezentációkhoz.
+* Automatizált makró beillesztés interaktív diavetítésekhez.
+* Integráció munkafolyamat-automatizálással futásra kész prezentációkhoz.
+* Indított konverziós csatornák dinamikus irányítópultokhoz PPSM formátumban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

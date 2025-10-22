@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPS sang SXC, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPS (PowerPoint Slide Show) sang SXC (StarOffice Calc Spreadsheet) giúp các tổ chức làm việc với các bộ ứng dụng văn phòng cũ hoặc mã nguồn mở tái sử dụng dữ liệu trình bày dưới dạng bảng tính. Nó cho phép phân tích cấu trúc và báo cáo mà không cần phần mềm độc quyền.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi trình bày kinh doanh thành dữ liệu bảng tính có thể phân tích.
+* Xuất bản tóm tắt các slide về doanh số bán hàng hoặc tài chính sang định dạng SXC.
+* Chuẩn bị các bảng tính tương thích với OpenOffice từ các báo cáo PPS.
+* Chuyển đổi các bài thuyết trình giáo dục thành các bảng tính có cấu trúc, có thể chia sẻ.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo ra SXC tự động cho các luồng công việc báo cáo dựa trên LibreOffice.
+* Tích hợp vào các hệ thống quản lý tài liệu mã nguồn mở.
+* Chuyển đổi từ slide sang SXC hàng loạt cho các lưu trữ phân tích.
+* Xuất dữ liệu theo lịch trình cho các nhóm sử dụng môi trường văn phòng mã nguồn mở.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,31 @@ SVGファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをTSV（Tab-Separated Values）に変換すると、ベクトル図をスプレッドシート、統計分析、大規模データセット向けに最適化された形式にエクスポートできます。TSVはデータが構造化され、解析しやすいことを保証します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* 統計分析のためにインタラクティブなSVGチャートをTSVに変換する。
+* 共同スプレッドシート編集用にエンジニアリング図をエクスポートする。
+* 研究チーム向けにTSV形式でSVGベースの教育用グラフを共有する。
+* 製品パフォーマンスの視覚データを構造化された表形式データに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 解析プラットフォーム向けにSVGチャートをTSVに変換する自動化パイプライン。
+* レポートダッシュボード向けにベクトル図の定期的なTSVエクスポート。
+* TSV入力を必要とする統計ソフトウェアとの統合。
+* 動的に更新されるベクトルベースの視覚データの変換をトリガーする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,31 @@ otherformats: TSV DIF ODS EXCEL XLT MARKDOWN XLS XLTM XLSM MHTML XLSB XLAM XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น MHTML (Web Archive) ช่วยให้สามารถบันทึกสไลด์เด็กทั้งหมดเป็นเว็บอาร์กีฟเดียที่มีสื่อฝังอยู่ในรูปแบบเพจเดียเดียว ซึ่งมีความคุ้มค่ามากโดยเฉพาะสำหรับการแบ่งปันงานนำเสนอแบบโต้ตอบผ่านทางอีเมลหรือพอร์ทัลภายใน
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* สร้างเวอร์ชันของ PowerPoint slides ในรูปแบบเว็บอาร์กีฟสำหรับการดูผ่านเบราว์เซอร์
+* แพ็คเกจงานนำเสนอเป็นไฟล์ MHTML เดียวสำหรับการแบ่งปันแบบออฟไลน์
+* แปลงสไลด์เพื่อใช้ร่วมกับระบบ e-learning
+* รักษาภาพและอนิเมชันจาก PowerPoint ในไฟล์ที่เข้ากันได้กับเว็บ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การสร้าง MHTML ตามกำหนดเวลาสำหรับแพลตฟอร์มการเรียนรู้ดิจิทัล
+* การรวมเข้ากับพอร์ทัลภายในสำหรับการเข้าถึงงานนำเสนอแบบรวมกัน
+* การแปลงเป็นเว็บอาร์กีฟโดยอัตโนมัติสำหรับเอกสารภายใน
+* ส่งออก MHTML แบบกลุ่มสำหรับการเก็บรวบรวมข้อมูลทางการตลาดและความรู้
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

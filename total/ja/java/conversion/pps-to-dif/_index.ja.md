@@ -61,7 +61,29 @@ PPSファイルをDIFに変換するときに、出力DIFファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをDIF（Data Interchange Format）に変換することで、プレゼンテーションスライドとスプレッドシートや統計ソフトウェアの間で構造化されたデータ転送が可能になります。この変換は、数値計算やモデリングのためにスライドから表形式の情報が必要なアナリストに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* DIFに表形式のプレゼンテーションデータを抽出して統計分析に使用する。
+* スライドからの財務サマリーをDIF互換ツールに変換する。
+* PowerPointのテーブルから派生した学術的または研究用データセットを準備する。
+* 企業のスライドからパフォーマンスメトリクスをスプレッドシート用データにエクスポートする。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 予定されたDIFエクスポートをクロスプラットフォーム分析に使用する。
+* プレゼンテーションデータをBIシステム用に変換するETLプロセスへの統合。
+* データの相互運用性のためのスライドからDIFへの自動変換。
+* 旧式の分析ソフトウェア用にPPSファイルをDIFに一括変換する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

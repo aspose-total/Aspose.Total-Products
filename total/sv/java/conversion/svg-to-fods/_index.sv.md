@@ -47,7 +47,31 @@ När du konverterar SVG-fil till FODS, kan du också lägga till vattenstämpel 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konvertering av SVG till FODS (Flat OpenDocument Spreadsheet) möjliggör inbäddning av vektorgrafer i öppna standardkalkylblad. FODS är idealiskt för arbetsflöden över plattformar och automatisk kalkylbladsbehandling.
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+* Inbäddning av SVG-diagram i öppna kalkylbladsmallar.
+* Dela forsknings- eller finansiella data med vektorgrafik i FODS-format.
+* Akademiska och tekniska data exporterade som redigerbara, plattformsoberoende kalkylblad.
+* Projektöversikter standardiserade i öppet dokumentformat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+* Automatisk konvertering från SVG till FODS för rapporteringspipeliner.
+* Planerade uppdateringar för forsknings- eller operativa kalkylbladsmallar.
+* Integration med kontorspaket över plattformar som kräver öppna format.
+* Utlösad generering av SVG-baserade kalkylbladsöversikter för teamssamarbete.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

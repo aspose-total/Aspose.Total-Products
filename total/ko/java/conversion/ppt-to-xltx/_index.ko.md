@@ -61,7 +61,31 @@ PPT 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 프레젠테이션을 XLTX (Excel Template Open XML)로 변환하면 프레젠테이션 데이터를 기반으로 한 현대적이고 매크로 없는 Excel 템플릿이 생성됩니다. 이를 통해 부서 및 사용자간에 디자인, 브랜딩 및 보고서 구조의 일관성이 유지됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 보고서에서 Excel 템플릿 디자인을 반복적으로 생성합니다.
+* 슬라이드 기반 콘텐츠로 브랜드화된 보고서 템플릿을 작성합니다.
+* 전략적 프레젠테이션을 구조화된 스프레드시트 템플릿으로 변환합니다.
+* 팀 간에 표준화된 보고서 형식을 공유합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 부서간 템플릿 생성을 위한 자동화된 PPT-to-XLTX 변환.
+* 콘텐츠 표준화 및 보고 워크플로우 통합.
+* 회사 전체에 걸친 Excel 템플릿 일괄 처리.
+* PowerPoint 데이터를 재사용 가능한 Excel 형식으로 예약된 내보내기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

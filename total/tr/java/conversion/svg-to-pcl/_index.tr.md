@@ -129,7 +129,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi PCL'ye (Yazıcı Komut Dili) dönüştürmek, diyagram ve grafiklerden yüksek kaliteli vektör baskı sağlar. PCL, kurumsal baskı iş akışları ve donanım uyumluluğu için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Mühendislik veya teknik diyagramların yüksek çözünürlüklü baskısı.
+* Donanım dağıtımı için gömülü vektör grafiklerle kurumsal raporlar.
+* PCL uyumlu yazıcılar için optimize edilmiş pazarlama ve ürün görselleri.
+* Detay kaybı olmadan basılan akademik ve araştırma diyagramları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tekrarlayan baskı işleri için otomatik toplu SVG'den PCL'ye dönüşüm.
+* Yüksek hacimli çıktılar için baskı yönetim sistemleriyle entegrasyon.
+* Standart rapor baskısı için zamanlanmış dönüşüm boruları.
+* Dinamik olarak oluşturulan vektör içerik için tetiklenmiş SVG'den PCL'ye dönüştürme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

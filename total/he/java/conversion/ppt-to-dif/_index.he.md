@@ -102,7 +102,31 @@ otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM CSV XLTX MARKDOWN XLS XLSM FO
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPT (מצגות בפורמט PowerPoint) ל-DIF (תקנת המרת נתונים) ממירה מצגות עסקיות חזותיות לקבוצות נתונים מובנות וטבלריות. ההמרה הזו אידיאלית להעברת תרשימים סוכמים, ניתוחים ו-KPIs לפלטפורמות מבוססות נתונים, שמאפשרת שילוב חלק עם כלי בינה עסקית ויישומי גיליון.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא תרשימי המצגת לקבצי DIF לניתוח ב-Excel או LibreOffice.
+* המרת שקופיות מכירות או ביצועים לדוחות תואמי נתונים.
+* שיתוף ניתוחים סוכמים בין סביבות BI שונות.
+* יצירת קבוצות נתונים מוכנות לגיליון מדווח מרבעוני של PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* הפקת DIF אוטומטית מלוחות מחוות PowerPoint בצינורות ETL.
+* שילוב עם פלטפורמות ניתוח עסקיות לעדכונים בזמן אמת.
+* המרה מתוזמנת של סיכומים שבועיים של PPT ל-DIF לדיווח צוותי.
+* חילוץ נתונים עבור כלי תחזיות מגמות מובנים בAI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

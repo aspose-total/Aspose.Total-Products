@@ -102,7 +102,31 @@ otherformats: SXC FODS XLSB XLSM ODS XLT XLS XLSX XLTX XLTM XLAM EXCEL CSV DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל־TSV (ערכים מופרדים בטאב) היא אידיאלית לשמירה על סט נתונים נקי וממויין ממסמכים מעוצבים. זה מבטיח תאימות עם תוכנות ניתוח, יבואי בסיסי נתונים, ומערכות פרסום שמתבססות על נתונים פתוחים שדורשות עיצוב מדויק המבוסס על טאבים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת יומני נתונים מבוססי RTF ל־TSV עבור כלים לניתוח מבוססי טקסט.
+* הכנת מסמכי מחקר RTF אקדמיים לעיבוד סטטיסטי.
+* ייצוא טבלאות RTF לקבצי TSV ממויינים לשיתוף נתונים פתוחים.
+* העברת רשימות RTF מעוצבות לפורמטים מוכנים לבסיסי נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת RTF ל־TSV מתוזמנת עבור משימות דיווח חוזרות.
+* שילוב במערכות איסוף נתונים מבוססות API.
+* יצירת קבצי TSV באופן אוטומטי במאגרי נתונים פתוחים.
+* המרת מסמכים באצווה בגודל גדול לזרימות עבודה בפרסום.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

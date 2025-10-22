@@ -47,7 +47,31 @@ SVG 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG (Scalable Vector Graphics) 파일을 XLT (Excel 템플릿)로 변환하면 재사용 가능한 스프레드시트 템플릿을 만들 수 있으며 벡터 다이어그램을 포함할 수 있습니다. XLT 템플릿은 차트를 확장 가능하고 편집 가능하게 유지하면서 보고서 형식을 표준화하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 기반 대시보드를 사용한 표준 영업 및 재무 보고서 템플릿 생성.
+* 공학 및 건설 워크플로에 대한 재사용 가능한 프로젝트 추적 템플릿.
+* 학술 기관을 위한 SVG 차트를 사용한 교육용 템플릿 생성.
+* 대화형 벡터 시각 자료를 사용한 표준 마케팅 분석 템플릿.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 보고서를 위한 SVG 다이어그램의 자동 일괄 변환을 XLT 템플릿으로.
+* 반복되는 프로젝트 또는 재무 보고서를 위한 예약된 템플릿 생성.
+* 워크플로 자동화 시스템과 통합하여 템플릿을 최신 상태로 유지.
+* 동적으로 업데이트된 대시보드를 재사용 가능한 템플릿으로 변환하는 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

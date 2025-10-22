@@ -129,7 +129,31 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików SVG na WORDML (WordprocessingML) tworzy dokumenty Worda oparte na XML z w pełni osadzonymi diagramami wektorowymi. WORDML jest idealny do programowego przetwarzania dokumentów, szablonowania i automatyzacji procesów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Programowe generowanie raportów Worda z osadzonymi wizualizacjami SVG.
+* Szablony akademickie i badawcze w formacie XML do automatycznego edytowania.
+* Standaryzowana dokumentacja projektu do kontrolowanych wersji procesów roboczych.
+* Archiwizacja interaktywnych treści SVG w strukturalnym formacie XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja wsadowa SVG na WORDML dla systemów raportowania.
+* Zaplanowane eksportowanie szablonów opartych na SVG do XML dla automatyzacji procesów roboczych.
+* Integracja z interfejsami API generowania dokumentów i systemami zarządzania treścią.
+* Wywoływane generowanie dynamicznych, programowo sterowanych dokumentów Worda.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

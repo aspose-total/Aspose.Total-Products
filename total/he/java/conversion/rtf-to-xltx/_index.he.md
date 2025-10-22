@@ -102,7 +102,31 @@ otherformats: XLTM ODS XLAM XLS XLSB FODS XLT CSV TSV XLSM XLSX SXC EXCEL DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל-XLTX (תבנית Excel Open XML Format) מאפשרת לארגונים לשקף מחדש פריסות מסמכים בסביבות Excel מודרניות בלי מאקרוס. זה נמצא בשימוש רחב לדיווחים, הזנת נתונים ועיצוב מסמכים מקצועי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת סיכומי פיננסים מבוססי RTF לתבניות XLTX הניתנות לשימוש חוזר.
+* בניית פריסות תקניות של Excel לדוחות וטפסים.
+* המרת תיעוד החברה לפורמטים מודרניים של גיליונות אלקטרוניים.
+* הכנת תבניות מחלקתיות מקבצי נתונים בפורמט RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* הפיכת RTF ל-XLTX באופן אוטומטי לצורך זרימות עבודה לדיווחים בארגונים.
+* שילוב עם מערכות אוטומציה של מסמכים לצורך טפסים תקניים.
+* יצירה מתוזמנת של תבניות Excel ממסמכי RTF מאורכובים.
+* המרה בצורת סדרתית התומכת בתאימות ל-Excel מודרני ול-Office 365.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

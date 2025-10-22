@@ -61,7 +61,33 @@ otherformats: XLTX XLAM XLSM TSV EXCEL MHTML XLSB FODS SXC XLTM ODS XLT MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น XLTX (Excel Template Open XML) ช่วยในการสร้างเทมเพลตสเปรดชีตที่มีโครงสร้างและสามารถนำกลับมาใช้ซ้ำในรูปแบบ Excel ที่ทันสมัย เหมาะสำหรับทีมที่ต้องการมาตรฐานขั้นตอนการทำงานและรักษาความสม่ำเสมอในการออกแบบข้ามเอกสาร
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลต XLTX อย่างมืออาชีพจาก PowerPoint business decks
+* พัฒนาแบบฟอร์มในการป้อนข้อมูลที่ได้แรงบันดาลจากเลย์เอาต์ของสไลด์
+* สร้างเทมเพลตรายงานรายเดือนที่มีมาตรฐาน
+* สร้างเทมเพลต XLTX ที่เฉพาะแผนกจากงานนำเสนอที่ได้รับการอนุมัติ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* แปลงไฟล์ PPS เป็นเทมเพลต XLTX ขององค์กรเป็นกลุ่ม
+* สร้างเทมเพลต Excel ที่มีตราสีตามกำหนดเวลาสำหรับการติดตามโครงการ
+* ผสานเข้ากับระบบอัตโนมัติเทมเพลตสำหรับการควบคุมเวอร์ชัน
+* สร้างเทมเพลต XLTX โดยอัตโนมัติจากสรุปข้อมูลใน PowerPoint
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

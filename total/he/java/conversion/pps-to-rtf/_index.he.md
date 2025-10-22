@@ -99,7 +99,31 @@ otherformats: DOCM DOCX DOTM FLATOPC OTT DOC ODT WORD TEXT DOT WORDML DOTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל־RTF (Rich Text Format) מאפשרת למשתמשים ליצור מסמכי טקסט תלויי פלטפורמה עם העברת העיצוב המקורי. זה מבטיח קריאות בין מעבדי תמליל שונים ובין מערכות הפעלה שונות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא של טקסט מ-PowerPoint ל־RTF לשיתוף פלטפורמות.
+* המרת שקופיות למצגות להדפסת פתקים מעוצבים.
+* יצירת דו"חות RTF קלים ממצגות עסקיות בפורמט PPS.
+* יצירת תיעוד נייד לצורכי ארכיבאות או ביקורת.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת RTF אוטומטית להפצת מסמכי תאימות.
+* שילוב במערכות לניהול ידע לאחסון קבצים קלים.
+* ייצוא מתוזמן של שקופיות ל־RTF לסיכומים מבוססי טקסט.
+* יצירת RTF בצורת עצמאית ממסמכי מצגת מרובים.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

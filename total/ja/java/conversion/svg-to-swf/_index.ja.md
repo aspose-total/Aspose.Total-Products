@@ -121,7 +121,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをSWF（Shockwave Flash）に変換すると、インタラクティブなベクターグラフィックをWebアニメーションや従来のFlashアプリケーションに埋め込むことができます。SWFはダイナミックなビジュアルと軽量なベクターベースのアニメーションをサポートしています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* SVGからSWFアニメーションを使用したインタラクティブなWebベースのトレーニングモジュール。
+* ベクターインタラクティビティを備えたマーケティングバナーやプロモーション資料。
+* スケーラブルな図を使用した教育用アニメーションやeラーニングコンテンツ。
+* 従来のFlashプラットフォームで表示されるインタラクティブなインフォグラフィック。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* SVGダイアグラムをSWFアニメーションに自動バッチ変換。
+* ライブSVGファイルからのWebベースのインタラクティブコンテンツの定期的な更新。
+* Flashベースのビジュアルをサポートする従来のWebプラットフォームとの統合。
+* 動的なオンラインSVGからSWFコンテンツへの変換パイプラインのトリガー。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

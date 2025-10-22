@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPS (PowerPoint Slide Show) en ODT (OpenDocument Text) permet aux professionnels de transformer le contenu visuel des diapositives en documents texte modifiables. Ce processus est idéal pour transformer des présentations en rapports formels, manuels de formation et documentation écrite accessible dans LibreOffice Writer ou OpenOffice Writer.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conversion des présentations d'entreprise en rapports de projet formatés.
+* Génération de comptes rendus de réunions ou de documents de politique à partir des diapositives visuelles.
+* Transformation des diaporamas de cours en notes de cours détaillées ou en guides d'étude.
+* Création d'archives de contenu modifiable à partir des diaporamas PowerPoint finalisés.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatisée de rapports à partir des diapositives de présentation internes.
+* Intégration dans des systèmes de gestion de documents pour l'archivage basé sur ODT.
+* Conversion des présentations marketing en contenu textuel pour une publication interne.
+* Conversion en masse des diaporamas de formation en manuels modifiables pour la documentation RH.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

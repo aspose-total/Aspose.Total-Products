@@ -102,7 +102,31 @@ otherformats: XLTX XLSM EXCEL TXT SXC XLT ODS DIF CSV TSV XLAM XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SVG ל־FODS (Flat OpenDocument Spreadsheet) מאפשרת להטביע תרשימים וקטוריים בקבצי גיליון נתונים בתקן פתוח. FODS היא אידיאלית לזרימות עבודה צולבות פלטפורמות ואוטומציה של גיליונות נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* הטבעת תרשימי SVG בתבניות גיליון נתונים בקוד פתוח.
+* שיתוף נתוני מחקר או פיננסיים עם תמונות וקטוריות בפורמט FODS.
+* נתוני אקדמיה והנדסה שיוצאים כגיליונות נתונים ניתנים לעריכה ואינם תלויים בפלטפורמה.
+* לוחות מחוונים של פרויקטים בפורמט מסמך פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת SVG ל־FODS אוטומטית עבור צינורות דיווח.
+* עדכונים מתוזמנים לתבניות גיליון נתונים של מחקר או תפעול.
+* שילוב עם חבילות משרד צלב פלטפורמה הדורשות פורמטים פתוחים.
+* יצירה מופעלת של לוחות מחוונים בפורמט SVG לשיתוף צוותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

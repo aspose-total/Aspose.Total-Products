@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 FLATOPC(Flat Open Packaging Conventions)로 변환하면 벡터 다이어그램을 포함한 모든 Word 콘텐츠를 담은 단일 XML 기반 파일 구조가 생성됩니다. 프로그래밍 방식의 문서 처리와 상호 운용성에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 단일 휴대용 Word 문서 패키지 내에 SVG 다이어그램 보관.
+* 포함된 벡터 시각 자료로 보고서를 프로그래밍 방식으로 생성.
+* 자동화된 문서 워크플로우용 표준화된 템플릿.
+* 상호작용하는 Word 콘텐츠의 크로스 플랫폼 호환성 보장.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* SVG를 FLATOPC 패키지로 자동 일괄 변환.
+* 문서 보관 및 버전 관리를 위한 예약된 내보내기.
+* 프로그래밍 방식으로 접근할 수 있도록 콘텐츠 관리 시스템 통합.
+* 동적 문서 자동화 파이프라인을 위한 트리거 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

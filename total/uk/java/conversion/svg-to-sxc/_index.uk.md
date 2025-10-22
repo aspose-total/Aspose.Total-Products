@@ -102,7 +102,31 @@ otherformats: ODS XLTM EXCEL TXT XLSM CSV MD DIF XLSB XLAM XLT FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертація SVG в SXC (StarOffice/LibreOffice Spreadsheet) дозволяє вбудовувати векторні діаграми в формати електронних таблиц відкритого коду. SXC ідеально підходить для колаборативних робочих процесів та сумісності електронних таблиц між платформами.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Імпорт фінансових або проектних інформаційних панелей SVG у електронні таблиці LibreOffice.
+* Обмін даними з досліджень або академічними даними з векторними діаграмами у файлах SXC.
+* Колаборативне ведення проектних таблиць відстеження з вбудованими візуальними елементами SVG.
+* Стандартизовані шаблони електронних таблиц відкритого коду з інтерактивними діаграмами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизована пакетна конвертація SVG в SXC для звітних конвеєрів.
+* Запланований експорт інформаційних панелей на основі SVG у електронні таблиці відкритого коду.
+* Інтеграція з колаборативними офісними пакетами для загального доступу команди.
+* Запуск генерації електронних таблиць SXC з динамічних даних SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

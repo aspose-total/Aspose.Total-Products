@@ -53,7 +53,31 @@ Usando a API, você também pode realizar a conversão de arquivo PPTX para ODT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter apresentações PPTX para ODT (OpenDocument Text) permite reutilizar slides em documentos de texto editáveis. É ideal para gerar relatórios escritos, resumos ou documentação editável com base em decks do PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Converter notas de slides em texto editável para relatórios.
+* Criar documentos ODT para resumos acadêmicos ou corporativos.
+* Transformar apresentações de projetos em arquivos de texto compartilháveis.
+* Reutilizar conteúdo de slides para redação de políticas e propostas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automatizada de relatórios a partir de apresentações do PowerPoint.
+* Integração de fluxo de trabalho com ferramentas de documentos de escritório de código aberto.
+* Converter decks de apresentação em documentos editáveis para revisão interna.
+* Arquivar notas do PowerPoint em formato ODT para acessibilidade.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

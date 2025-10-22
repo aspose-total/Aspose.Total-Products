@@ -102,7 +102,31 @@ otherformats: XLSB CSV SXC TSV MHTML EXCEL XLTM XLS XLSX XLSM FODS XLT MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPTX ל-XLAM (תוסף מאקרו של Excel) מספקת גישה יצירתית למפתחים להטמעת לוגיקת נתונים המופעלת על סליידים בפתרונות אוטומטיים של Excel. ההמרה הזו תומכת בזרימות עבודה המאפשרות שימוש במאקרום ובדיווח דינמי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* הטמעת נתוני מצגת כמאקרוס לאוטומציה ב-Excel.
+* המרת מדדים מ-PowerPoint ללוחות מחוונים שמופעלים ב-Excel.
+* יצירת דוחות ב-Excel המאופשרים מאקרום מהמצגת.
+* יצירת כלים XLAM לסנכרון נתונים מסלייד לגיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת מאקרו XLAM מ-PPTX באופן אוטומטי לניתוח עסקי.
+* שילוב עם מתכני אוטומציה במבנים של Excel.
+* זרימות עבודה ETL המשפרות את האינטרופרביליטי בין PowerPoint ל-Excel.
+* יצירת תוסף מתוזמן לאקוסיסטמות דיווח עסקיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

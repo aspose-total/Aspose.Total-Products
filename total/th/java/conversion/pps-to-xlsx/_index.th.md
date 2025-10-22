@@ -61,7 +61,31 @@ otherformats: XLSM XLAM SXC MARKDOWN XLSB ODS FODS DIF TSV MHTML EXCEL XLS XLTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น XLSX (Excel Open XML Workbook) จะให้รูปแบบสเปรดชีตที่ทันสมัย ยืดหยุ่น และเข้ากันได้อย่างเต็มที่สำหรับการวิเคราะห์และการทำงานร่วมกัน ที่เหมาะสำหรับการแบ่งปันในคลาวด์และการดำเนินงานกับข้อมูลแบบเรียลไทม์
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* การเปลี่ยนเมตริกที่เกี่ยวข้องกับ PowerPoint เป็นสมุดงาน Excel ที่สามารถทำงานร่วมกัน
+* สร้างแผงควบคุม XLSX จากการนำเสนอของผู้บริหาร
+* สกัดข้อมูลสไลด์เพื่อนำไปรวมเข้ากับการวิเคราะห์ Microsoft 365
+* สร้างชีททางการเงินที่สามารถแก้ไขได้จากภาพประกอบการนำเสนอ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การส่งออกงานนำเสนอของบริษัทตามกำหนดเวลาเข้ารายงานการวิเคราะห์ XLSX
+* การรวมเข้ากับการทำงานใน Microsoft Teams หรือไฟล์ของ SharePoint
+* การสร้างไฟล์ XLSX โดยอัตโนมัติสำหรับทีมที่กระจาย
+* การแปลงเป็นกลุ่มสำหรับการเก็บถาวรและการซิงโครไนซ์ข้อมูลในคลาวด์
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

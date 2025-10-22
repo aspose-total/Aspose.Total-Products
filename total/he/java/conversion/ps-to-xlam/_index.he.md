@@ -78,7 +78,31 @@ otherformats: XLT EXCEL TXT SXC DIF TSV XLTM FODS XLSB XLTX ODS CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) ל-XLAM (תוסף Excel) מאפשרת את יצירת תוספי Excel המבוססים על לוגיקת PostScript, מקרוסים או אוטומציה. זה מאפשר פונקציונליות מתקדמת ב-Excel המשתמשת בתוכן חזותי או נתונים שנמשכים מקבצי PS.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* הטמעת חישובים או תבניות מבוססי PostScript בתוך תוספי Excel.
+* יצירת כלים לאוטומציה ניתנים לשימוש מדוחות שנוצרו מ-PS.
+* המרת תרשימים מבוססי PS ללוחות בקרה אינטראקטיביים ב-Excel דרך XLAM.
+* הפעלת משתמשים בארגון להפעלת אוטומציה מבוססת PostScript ב-Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PS ל-XLAM באופן אוטומטי עבור כלים פנימיים ב-Excel.
+* שילוב בצינורות אוטומציה של זרימת העבודה הארגונית.
+* יצירת מאקרוים ב-Excel באמצעות נתונים מ-PostScript בסיוע של AI.
+* עדכוני תוסף מתוזמנים עם תוכן שנמשך מפריסות PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

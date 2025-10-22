@@ -129,7 +129,31 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików SVG na OTT (OpenDocument Text Template) tworzy szablony dokumentów tekstowych z wbudowanymi diagramami wektorowymi. OTT zapewnia spójność między projektami i przepływami pracy zespołu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Standardowe szablony raportów z wizualizacjami SVG dla zespołów biznesowych.
+* Szablony dokumentów akademickich lub instruktażowych z wbudowanymi diagramami.
+* Szablony dokumentacji marketingowej lub projektowej dla spójnego formatowania.
+* Wielokrotnego użytku przewodniki i instrukcje wykorzystujące skalowalne grafiki SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Zautomatyzowana wsadowa konwersja diagramów SVG na szablony OTT.
+* Zaplanowane aktualizacje dla wielokrotnego użytku szablonów dokumentów z nowymi wizualizacjami.
+* Integracja z systemami treści dla przepływów pracy opartych na szablonach.
+* Wywołane generowanie interaktywnych szablonów tekstowych do współpracy zespołowej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

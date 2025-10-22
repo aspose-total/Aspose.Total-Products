@@ -61,7 +61,31 @@ PPTXファイルをCSVに変換するときに、出力CSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX（PowerPointプレゼンテーション）ファイルをCSV（コンマ区切り値）に変換すると、スライドから表形式や数値データを抽出して軽量なスプレッドシート形式にすることができます。この変換は、データ分析、レポートの自動化、および複数のプラットフォーム間でのダッシュボード統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PowerPointスライドの表をCSVにエクスポートして分析ツールに使用する。
+* ビジネスインテリジェンス（BI）ダッシュボード用にプレゼンテーションのメトリクスをCSVに変換する。
+* エクセルやデータベースへのインポート用に営業データスライドを準備する。
+* ERPやCRM統合のためにPowerPointデータを移行する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 四半期業績レポート向けのバッチPPTXからCSVへの変換。
+* ETLや分析パイプラインでのCSVエクスポートの自動化。
+* PowerPointとレポートシステム間のデータ同期。
+* API駆動のデータ取り込みワークフローへの統合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

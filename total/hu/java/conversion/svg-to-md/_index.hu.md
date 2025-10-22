@@ -47,7 +47,31 @@ A SVG-fájl MD-vé konvertálásakor vízjelet is hozzáadhat a kimeneti MD-fáj
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG átalakítása Markdown (MD) formátumba lehetővé teszi vektor diagramok beágyazását közvetlenül dokumentációba, README fájlokba és statikus weboldal generátorokba. Ez az megközelítés lehetővé teszi, hogy a grafikák könnyűek legyenek és teljes mértékben skálázhatóak, miközben javítja a technikai tartalom olvashatóságát.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Építészeti diagramok beágyazása szoftverprojekt README fájlaiba.
+* Interaktív folyamatábrák nyílt forráskódú dokumentációs tárhelyekhez.
+* Markdown alapú e-könyvek és útmutatók beágyazott vektoros illusztrációkkal.
+* Technikai blogok tiszta, skálázható vizuális elemekkel, extra képfájlok nélkül.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált SVG-MD konverzió dokumentációs csővezetékekhez.
+* Ütemezett vektor diagramok generálása tudásbázis frissítéseihez.
+* Integráció statikus weboldal generátorokkal, mint például a Hugo vagy a Jekyll.
+* Folyamatos szinkronizálás a tervezési frissítések Markdown technikai fájlaiba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

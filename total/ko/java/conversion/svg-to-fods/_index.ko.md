@@ -47,7 +47,31 @@ SVG 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 FODS(Flat OpenDocument Spreadsheet)로 변환하면 벡터 차트를 오픈 표준 스프레드시트 파일에 포함할 수 있습니다. FODS는 크로스 플랫폼 워크플로우와 스프레드시트 자동화에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 오픈 소스 스프레드시트 템플릿에 SVG 다이어그램을 포함시키기.
+* FODS 형식의 벡터 시각화로 연구 또는 재무 데이터 공유.
+* 편집 가능한 플랫폼 독립적 스프레드시트로 내보낸 학술 및 공학 데이터.
+* 오픈 문서 형식으로 표준화된 프로젝트 대시보드.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 보고 파이프라인을 위한 자동화된 SVG-to-FODS 변환.
+* 연구 또는 운영 스프레드시트 템플릿을 위한 예약된 업데이트.
+* 오픈 형식을 필요로 하는 크로스 플랫폼 오피스 스위트와 통합.
+* 팀 협업을 위한 SVG 기반 스프레드시트 대시보드의 생성 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

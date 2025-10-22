@@ -47,7 +47,31 @@ otherformats: SXC XLSB TXT DIF EXCEL XLSM FODS XLTM TSV ODS MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ SVG เป็น XLTX (Excel Open XML Template) จะสร้างเทมเพลตสเปรดชีตที่ทันสมัยและสามารถใช้ซ้ำได้พร้อมกราฟิกเวกเตอร์ที่สามารถปรับขนาดได้  XLTX เข้ากันได้กับ Excel เวอร์ชันใหม่ๆ และรองรับเทมเพลตที่เบา สะอาดโดยไม่มีแมโคร
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลตสเปรดชีตที่ใช้ซ้ำได้ด้วยแผนภูมิ SVG สำหรับภาพรวมของธุรกิจ
+* เทมเพลตสำหรับรายงานทางด้านทรัพยากรบุคคลหรือดำเนินการที่มีมาตรฐานสำหรับทีมของบริษัท
+* เทมเพลตทางการศึกษาหรือวิจัยที่รวมแผนภูมิ SVG ที่สามารถแสดงข้อมูลได้
+* เทมเพลตสำหรับประสิทธิภาพของแคมเปญทางการตลาดโดยใช้กราฟิกเวกเตอร์ที่ฝังอยู่
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างเทมเพลต XLTX จากแผนภูมิ SVG โดยอัตโนมัติสำหรับการรายงานขององค์กร
+* การอัปเดตตามกำหนดเวลาเพื่อรักษาเทมเพลตที่ใช้ซ้ำและมีข้อมูลล่าสุด
+* การผสานรวมกับท่อรายงานอัตโนมัติสำหรับกระบวนการทำงานที่ใช้เทมเพลต
+* การแปลงแผนภูมิ SVG สดเป็นเทมเพลต XLTX โดยอัตโนมัติสำหรับการใช้งานของทีม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

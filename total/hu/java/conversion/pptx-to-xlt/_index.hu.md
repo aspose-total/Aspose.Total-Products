@@ -61,7 +61,31 @@ A PPTX fájl XLT formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX átalakítása XLT formátummá (Excel sablon) lehetővé teszi újrafelhasználható táblázatsablonok létrehozását a prezentációs adatokból. Ideális vállalatok számára, akik pénzügyi jelentéseiket vagy ismétlődő üzleti összefoglalóikat standardizálni szeretnék.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Jelentésablak sablonok generálása PowerPoint diákból.
+* Excel modellek létrehozása a prezentációs KPI-k alapján.
+* Márkás táblázatformátumok kialakítása belső használatra.
+* Ismételhető havi vagy negyedéves adatsablonok előkészítése.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált XLT generálás a vállalati prezentációs csomagokból.
+* Sablon szinkronizálás az osztályok között.
+* Munkafolyamatvezérelt újrafelhasználható jelentéssablonok létrehozása.
+* Integráció verziókezelt sablonraktárakkal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

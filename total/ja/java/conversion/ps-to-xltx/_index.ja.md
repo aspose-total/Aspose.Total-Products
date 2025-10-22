@@ -47,7 +47,31 @@ PSファイルをXLTXに変換するときに、出力XLTXファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをXLTX（Excelテンプレートファイル）に変換することで、マクロを使用せずに構造化され再利用可能なテンプレートを作成できます。この変換により、企業内の部門や分析チーム間で一貫したレポートの書式設定やレイアウトの複製がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PSベースのレポートビジュアルをExcelテンプレートに変換して再利用する。
+* 複数のExcelユーザー間でレポートの書式を標準化する。
+* マクロを使用しないクリーンでセキュアなレポート作成のためのテンプレートを開発する。
+* 企業向け文書作成のためのフォーマット済みワークブックデザインを構築する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業のレポートパイプラインでの自動化されたPSからXLTXへの変換。
+* クラウドベースのExcel処理システム内でのテンプレート作成。
+* ブランド化された文書形式への定期的な変換。
+* PSのレイアウトからExcelテンプレートへのAIベースのスタイリング複製。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

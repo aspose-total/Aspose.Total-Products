@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTXファイルからODTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXプレゼンテーションをODT（OpenDocument Text）に変換すると、スライドを編集可能なテキスト文書に再利用できます。これは、PowerPointスライドに基づいて書面報告書、要約、または編集可能な文書を生成するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* レポート用にスライドのノートを編集可能なテキストに変換する。
+* 学術的または企業向けの要約用のODT文書を作成する。
+* プロジェクトプレゼンテーションを共有可能なテキストファイルに変換する。
+* ポリシーや提案の執筆のためにスライドコンテンツを再利用する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PowerPointプレゼンテーションからの自動レポート生成。
+* オープンソースのオフィス文書ツールとのワークフロー統合。
+* 内部レビュー用に編集可能な文書にピッチデッキを変換する。
+* アクセシビリティのためにODT形式でPowerPointのノートをアーカイブする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

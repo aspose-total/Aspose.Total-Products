@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPTX en ODS, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PPTX en ODS (OpenDocument Spreadsheet) relie les données de présentation à l'analyse de feuilles de calcul. Cette conversion profite aux organisations en transition vers des suites de productivité open source tout en préservant le contenu tabulaire essentiel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Extraction de résumés financiers des présentations au format ODS.
+* Partage de diapositives basées sur les données avec les utilisateurs d'OpenOffice ou LibreOffice.
+* Permettre aux analystes de modifier les tableaux de diapositives dans un logiciel de feuilles de calcul.
+* Préparation de versions de données ouvertes des rapports de présentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversions PPTX en ODS planifiées dans les flux de travail documentaires.
+* Intégration dans les écosystèmes de bureautique open source.
+* Transformation automatisée pour les soumissions de données gouvernementales.
+* Extraction prête pour l'ETL des données numériques des diapositives.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

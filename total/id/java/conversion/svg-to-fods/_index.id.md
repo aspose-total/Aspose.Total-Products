@@ -47,7 +47,31 @@ Saat mengonversi file SVG ke FODS, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke FODS (Flat OpenDocument Spreadsheet) memungkinkan penyisipan diagram vektor ke dalam file spreadsheet standar terbuka. FODS ideal untuk alur kerja lintas platform dan otomatisasi spreadsheet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menyisipkan diagram SVG ke dalam template spreadsheet sumber terbuka.
+* Berbagi data riset atau keuangan dengan visual vektor dalam format FODS.
+* Data akademik dan teknik diekspor sebagai spreadsheet yang dapat diedit, platform-independen.
+* Dasbor proyek distandarisasi dalam format dokumen terbuka.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi SVG ke FODS otomatis untuk pipa laporan.
+* Pembaruan terjadwal untuk template spreadsheet riset atau operasional.
+* Integrasi dengan suite kantor lintas platform yang membutuhkan format terbuka.
+* Generasi dipicu dari dasbor spreadsheet berbasis SVG untuk kolaborasi tim.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

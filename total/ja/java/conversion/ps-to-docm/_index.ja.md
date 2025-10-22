@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをDOCM（Word Macro-Enabled Document）に変換すると、静的なレイアウトをマクロ機能付きの完全に編集可能なWord文書に変換できます。これは、自動化されたワークフロー、動的なコンテンツ操作、インタラクティブなレポーティングが必要な企業や組織に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PSベースのレポートを編集可能なWord文書にマクロ付きで変換する。
+* 請求書の生成やレポーティングなどの定期的な文書タスクを自動化する。
+* PSダイアグラムをマクロ駆動のプロジェクトや財務レポートに埋め込む。
+* 静的なPostScriptフォームをHRや会計用のインタラクティブなテンプレートに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 文書自動化システムでの一括PSからDOCMへの変換。
+* ERPやCRMワークフローとの統合による自動化されたコンテンツ更新。
+* PSファイルからのデータ抽出後のマクロ実行のトリガー。
+* PostScriptレイアウトからのマクロ機能付きレポートのAI支援生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp SVG thành OTT (OpenDocument Text Template) tạo ra các mẫu tài liệu văn bản có thể tái sử dụng với các biểu đồ vector được nhúng. OTT đảm bảo tính nhất quán qua các dự án và quy trình làm việc nhóm.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Mẫu báo cáo chuẩn với hình ảnh SVG cho các nhóm kinh doanh.
+* Mẫu tài liệu học thuật hoặc hướng dẫn với các biểu đồ được nhúng.
+* Mẫu tài liệu tiếp thị hoặc dự án để định dạng nhất quán.
+* Hướng dẫn và tài liệu tái sử dụng tận dụng đồ họa SVG có thể mở rộng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt tự động các biểu đồ SVG thành mẫu OTT.
+* Cập nhật định kỳ cho các mẫu tài liệu tái sử dụng với hình ảnh mới.
+* Tích hợp với hệ thống nội dung cho quy trình làm việc dựa trên mẫu.
+* Kích hoạt tạo ra các mẫu văn bản tương tác cho cộng tác nhóm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

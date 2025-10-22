@@ -47,7 +47,31 @@ A SVG-fájl ODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti ODS-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG fájlok átkonvertálása ODS (OpenDocument Spreadsheet) formátumba lehetővé teszi vektor alapú diagramok beágyazását nyílt szabványú táblázatokba. Az ODS ideális a platformfüggetlen adatelemzéshez, jelentéskészítéshez és interaktív vezérlőpultokhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* SVG pénzügyi vezérlőpultok beágyazása ODS táblázatokba elemzés céljából.
+* Kutatási vagy mérnöki adatok megosztása vektorgrafikával nyílt formátumban.
+* Akadémiai és projektadatok exportálása szerkeszthető, platformfüggetlen táblázatokként.
+* Projektkövetési vezérlőpultok szabványosítása ODS formátumban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált SVG-ODS konverzió jelentési csatornákhoz.
+* Ütemezett exportálás kutatási vagy működési adatokkal beágyazott diagramokkal.
+* Integráció nyílt forráskódú irodai csomagokkal, amelyek táblázatkompatibilitást igényelnek.
+* SVG alapú vezérlőpultok kiváltott generálása csapatmunkához.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,31 @@ Trong khi chuyển đổi tệp SVG sang FODS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG sang FODS (Flat OpenDocument Spreadsheet) cho phép nhúng biểu đồ vector vào các tệp bảng tính chuẩn mở. FODS lý tưởng cho quy trình làm việc đa nền tảng và tự động hóa bảng tính.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng biểu đồ SVG vào các mẫu bảng tính mã nguồn mở.
+* Chia sẻ dữ liệu nghiên cứu hoặc tài chính với hình ảnh vector trong định dạng FODS.
+* Dữ liệu học thuật và kỹ thuật được xuất dưới dạng bảng tính có thể chỉnh sửa, độc lập với nền tảng.
+* Bảng điều khiển dự án được chuẩn hóa trong định dạng tài liệu mở.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi SVG sang FODS tự động cho các đường ống báo cáo.
+* Cập nhật theo lịch cho các mẫu bảng tính nghiên cứu hoặc hoạt động.
+* Tích hợp với bộ ứng dụng văn phòng đa nền tảng yêu cầu định dạng mở.
+* Kích hoạt tạo ra bảng điều khiển dựa trên SVG cho việc hợp tác nhóm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

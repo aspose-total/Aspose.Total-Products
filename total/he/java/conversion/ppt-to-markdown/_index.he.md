@@ -102,7 +102,31 @@ otherformats: DIF XLT FODS ODS XLS EXCEL TSV XLAM XLSB XLSM MHTML XLSX SXC XLTX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת המצגות PPT (PowerPoint) לתבנית MARKDOWN (.md) מאפשרת המרה חלקה של תוכן חזותי לתיעוד קל משקל ומוכן לרשת. ההמרה הזו מועילה מאוד למפתחים, מנהלי תוכן וצוותי תיעוד המחפשים לשקף שקופיות לבלוגים, וויקי או מדריכים טכניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת מצגות PowerPoint לתיעוד Markdown עבור GitHub או GitLab.
+* שימוש מחודש בשקופיות להדרכה או כניסה לעבודה כתוכן README או וויקי.
+* פרסום מצגות טכניות ישירות לייצוגי אתרים סטטיים כמו Hugo או Jekyll.
+* ייצוא של הערות ותכניות מצגת PowerPoint כטקסט Markdown מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל-Markdown באופן אוטומטי עבור צינורות תיעוד מפתחים.
+* שילוב בזרימות עבודה אוטומטיות לצוותי הנדסה.
+* ייצואים מתוזמנים ממצגות PowerPoint ל-Markdown עבור יומני שינויים.
+* זרימי המרה עבור בלוגים טכניים ב-SEO או תיעוד API.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

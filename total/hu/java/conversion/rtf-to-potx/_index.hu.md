@@ -54,7 +54,31 @@ Az API azt is lehetővé teszi, hogy jelszóval védett RTF dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az RTF dokumentumok átalakítása POTX formátumra (PowerPoint Template Open XML) tiszta, modern és újrafelhasználható diatervezést biztosít az Office 365 és a PowerPoint 2019+ számára. Ez biztosítja a elrendezési következetességet az RTF-alapú tartalmakból létrehozott prezentációkban.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Az RTF javaslatok és jelentések átalakítása vállalati PowerPoint sablonokká.
+* Prezentációs témák tervezése formázott dokumentumstruktúrák alapján.
+* Az RTF-alapú stílusútmutatók átalakítása vizuális PowerPoint sablonokká.
+* Oktatási diasablonok előkészítése az állandó akadémiai használathoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* RTF-POTX automatizálás a márka prezentációs egységességéért.
+* Integráció dokumentumkezelő rendszerekkel sablonkészítés céljából.
+* Modernebb PowerPoint sablonok ütemezett generálása RTF jelentésekből.
+* Tartalomarchívumok tömeges átalakítása újrafelhasználható POTX formátumokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

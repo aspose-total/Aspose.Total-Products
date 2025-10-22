@@ -47,7 +47,31 @@ SVGファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをSXC（StarOffice/LibreOfficeスプレッドシート）に変換すると、ベクトルチャートをオープンソースのスプレッドシート形式に埋め込むことができます。SXCは共同作業フローとクロスプラットフォームのスプレッドシート互換性に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* SVG金融またはプロジェクトダッシュボードをLibreOfficeスプレッドシートにインポートする。
+* SXCファイル内のベクトルチャートで研究データや学術データを共有する。
+* 埋め込まれたSVGビジュアルを使用した共同プロジェクトトラッキングスプレッドシート。
+* インタラクティブダイアグラムを備えた標準化されたオープンソーススプレッドシートテンプレート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* SVGをSXCに自動バッチ変換してレポートパイプラインに組み込む。
+* SVGベースのダッシュボードを定期的にオープンソーススプレッドシートにエクスポートする。
+* チーム全体がアクセスできる共同オフィススイートとの統合。
+* 動的SVGデータからSXCスプレッドシートをトリガー生成する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

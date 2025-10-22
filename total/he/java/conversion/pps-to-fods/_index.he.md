@@ -102,7 +102,31 @@ otherformats: TSV DIF XLAM XLS SXC ODS XLTM XLSM CSV XLTX EXCEL MARKDOWN MHTML X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל־FODS (Flat XML ODF Spreadsheet) ממירה את תוכן המצגת לפורמטי XML התואמים לגיליון אלקטרוני. זה עשוי להיות ערך מוסף במיוחד עבור משתמשי קוד פתוח העובדים עם סביבות LibreOffice או Apache OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* ייצוא נתונים מספריים מ־PowerPoint לגיליונות נתונים FODS.
+* יצירת גיליונות נתונים מבוססי XML ממוינים לשימוש אקדמי או עסקי.
+* המרת תרשימים משקפים לנתוני גיליון מסמך OpenDocument שניתנים לעריכה.
+* הכנת קבצים בתקן פתוח לניתוח ושיתוף ב־LibreOffice Calc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת FODS מתוזמנת מעדכוני מצגת חוזרים.
+* שילוב במערכות דיווח קוד פתוח.
+* המרת שקופיות ל־FODS בצורה צפופה לדפים אנליטיים.
+* יצירת גיליונות נתונים מבוססי XML באופן אוטומטי לזרימות עבודה צולבות פלטפורמות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

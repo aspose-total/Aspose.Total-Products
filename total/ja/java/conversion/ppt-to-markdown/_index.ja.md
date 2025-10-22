@@ -61,7 +61,31 @@ PPTファイルをMARKDOWNに変換するときに、出力MARKDOWNファイル�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）プレゼンテーションをMARKDOWN（.md）形式に変換することで、視覚コンテンツを軽量でWebに適したドキュメントにシームレスに変換できます。この変換は、スライドをブログ、ウィキ、または技術マニュアルに再利用したい開発者、コンテンツマネージャー、およびドキュメンテーションチームに非常に有益です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* GitHubやGitLab向けにPowerPointデッキをMarkdownドキュメントに変換する。
+* トレーニングやオンボーディングスライドをREADMEやウィキコンテンツに再利用する。
+* HugoやJekyllなどの静的サイトジェネレーターに技術プレゼンテーションを直接公開する。
+* 構造化されたMarkdownテキストとしてPowerPointのノートやアウトラインをエクスポートする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 開発者ドキュメントパイプライン向けの自動化されたPPTからMarkdownへの変換。
+* エンジニアリングチーム向けのコンテンツ自動化ワークフローへの統合。
+* PowerPointプレゼンテーションからMarkdownへの定期的なエクスポートによる変更履歴。
+* 技術SEOブログやAPIドキュメント向けの変換ワークフロー。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

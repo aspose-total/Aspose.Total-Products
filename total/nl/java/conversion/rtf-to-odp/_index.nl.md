@@ -54,7 +54,31 @@ Met de API kunt u ook met een wachtwoord beveiligde RTF-Documenten naar ODP conv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van RTF-bestanden naar ODP (OpenDocument Presentation) transformeert tekstrijke inhoud naar visueel aantrekkelijke diavoorstellingen die compatibel zijn met LibreOffice Impress en Apache OpenOffice. Deze workflow is gunstig voor docenten, trainers en bedrijven die documentmateriaal hergebruiken voor presentaties.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van RTF-collegeaantekeningen naar gestructureerde ODP-presentaties.
+* Het omzetten van trainingshandleidingen naar dia's voor bedrijfswerkshops.
+* Het maken van ODP-decks van RTF-voorstellen of zakelijke samenvattingen.
+* Het hergebruiken van tekstuele inhoud in visuele verhalende formaten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde RTF-naar-ODP-generatie voor e-learning content pipelines.
+* Integratie met kennisbeheersystemen voor on-demand presentatiecreatie.
+* Batchconversie van RTF-bedrijfsdocumenten naar ODP-sjablonen.
+* Geautomatiseerde dia-generatie vanuit documentrepositories voor marketingteams.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

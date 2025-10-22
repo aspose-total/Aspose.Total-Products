@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PS (PostScript) na szablony DOTM (Word Macro-Enabled Template) łączy standaryzację szablonów z automatyzacją. Użytkownicy mogą ponownie wykorzystywać układy, jednocześnie wykorzystując makra do automatyzacji wypełniania dokumentów, obliczeń lub formatowania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Przekształcanie raportów PS w wielokrotnie używane szablony Word z obsługą makr.
+* Automatyzacja tworzenia umów lub faktur z wykorzystaniem układów pochodzących z PostScript.
+* Osadzanie tabel i wykresów generowanych przez PS w szablonach DOTM.
+* Tworzenie interaktywnych formularzy dla procesów HR, finansowych lub operacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja wsadowa PS na DOTM w automatyzacji procesów w przedsiębiorstwie.
+* Integracja z systemami generowania dokumentów do zadań z użyciem makr.
+* Wspomagane przez sztuczną inteligencję wypełnianie szablonów treściami pozyskanymi z PS.
+* Harmonogramowa generacja szablonów z obsługą makr do regularnych potrzeb raportowania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

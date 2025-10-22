@@ -135,7 +135,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG (Schaalbare Vector Graphics) bestanden naar XAML (Uitbreidbare Toepassingsopmaaktaal) stelt ontwikkelaars in staat om vectorafbeeldingen rechtstreeks in Windows-toepassingen te integreren. XAML behoudt schaalbaarheid en resolutie-onafhankelijkheid, ideaal voor modern UI-ontwerp.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Inbedden van op SVG gebaseerde pictogrammen en illustraties in WPF- of UWP-toepassingen.
+* Ontwerpen van interactieve dashboards met vectorafbeeldingen voor bedrijfstoepassingen.
+* Maken van schaalbare UI-componenten voor desktop- of mobiele toepassingen.
+* Educatieve of wetenschappelijke visualisatietools met vectorgrafieken van hoge kwaliteit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batchconversie van SVG-middelen naar XAML voor toepassingsontwikkeling.
+* Geplande updates van UI-bibliotheken met nieuwe SVG-ontwerpen.
+* Integratie met build-pipelines voor naadloze implementatie in WPF- of UWP-projecten.
+* Getriggerde conversie voor real-time weergave van dynamische SVG-inhoud in toepassingen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

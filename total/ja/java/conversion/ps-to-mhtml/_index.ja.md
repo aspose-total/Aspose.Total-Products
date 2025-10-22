@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをMHTML（MIME HTML）に変換すると、テキスト、グラフィック、画像を含む完全なPostScriptドキュメントを単一のポータブルWebページとして保存できます。MHTMLは、PostScriptコンテンツのアーカイブ、共有、Webベースのプレゼンテーションに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PSレポートやマニュアルをスタンドアロンのWebページとしてアーカイブ化する。
+* オフラインブラウザアクセス用にPostScriptドキュメントを変換する。
+* 複雑なPSダイアグラムやレイアウトを単一のファイルで共有する。
+* オリジナルのPS形式をWeb互換のHTMLアーカイブで保存する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* アーカイブと記録目的のバッチPSからMHTMLへの変換。
+* Web配信用に文書管理システムに統合する。
+* PSファイルからオフライン表示可能なHTMLをクラウドベースで生成する。
+* メールで送信可能なレポートやビジュアルコンテンツの自動変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

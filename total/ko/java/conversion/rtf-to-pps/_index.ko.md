@@ -54,7 +54,31 @@ API를 사용하면 암호로 보호된 RTF 문서를 PPS로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF 문서를 PPS(파워포인트 쇼)로 변환하면 정적 텍스트가 슬라이드쇼용 프레젠테이션으로 변환되어 전체 화면 모드에서 직접 열립니다. 자동 브리핑, 교육용 디스플레이, 또는 전시회 프레젠테이션에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* RTF 보고서를 프레젠테이션용 슬라이드쇼로 변환하기.
+* 텍스트 문서에서 자동 시각적 브리핑 생성하기.
+* RTF 마케팅 자료를 기반으로 한 디지털 사이니지 콘텐츠 디자인하기.
+* 교실이나 회의용 교육용 쇼 준비하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 예정된 프레젠테이션을 위한 일괄 RTF-to-PPS 변환.
+* 키오스크 및 자동화 디스플레이 시스템 통합.
+* 저장된 문서 저장소에서의 자동 슬라이드쇼 생성.
+* 구조화된 RTF 입력에서 시각적 대시보드 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ Az API segítségével PPT fájlból ODT-ba konvertálhat vízjellel. Ha vízjel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPT (PowerPoint) bemutatók átalakítása ODT (OpenDocument Text) formátumra lehetővé teszi a diák tartalmának kinyerését szerkeszthető szöveges dokumentumokba. Ez különösen hasznos jelentések, oktatási anyagok vagy szövegalapú dokumentációk létrehozásához meglévő bemutató diáiból.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PowerPoint bemutatók átalakítása szöveges dokumentumokká részletes jelentésekhez.
+* A diák tartalmának újrahasznosítása nyílt forráskódú szövegszerkesztőkben, mint például a LibreOffice Writer.
+* Szerkeszthető dokumentáció létrehozása diákon alapuló projektösszefoglalókból.
+* Oktatási kézikönyvek és kiadványok létrehozása PowerPoint fájlokból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált PowerPoint-ODT konverziók az akadémiai kiadási rendszerekben.
+* Integráció dokumentumgenerálási munkafolyamatokkal nyílt forráskódú felhasználók számára.
+* Ütemezett exportálás diákból ODT-be a szabályozás és az archiválás érdekében.
+* Marketingbemutatók átalakítása szerkeszthető tartalmi sablonokká.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

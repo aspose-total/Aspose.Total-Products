@@ -61,7 +61,31 @@ Po przekonwertowaniu RTF na XLS [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja RTF do XLS (Format pliku binarnego programu Excel) zapewnia solidny sposób przekształcania tekstu i danych tabelarycznych z dokumentów w powszechnie obsługiwany format arkusza kalkulacyjnego. Jest szczególnie wartościowa dla organizacji korzystających z środowisk Microsoft Excel 97–2003.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Przekształcanie raportów wygenerowanych w formacie RTF w stare arkusze kalkulacyjne programu Excel.
+* Eksportowanie dzienników danych opartych na formacie RTF do plików XLS dla systemów księgowych.
+* Ponowne wykorzystanie sformatowanej zawartości dokumentów w makrach lub formułach programu Excel.
+* Przygotowywanie archiwalnych danych biznesowych do analizy w arkuszu kalkulacyjnym.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Partycjonowanie RTF do XLS dla procesów zgodnych wstecz.
+* Integracja z systemami raportowania korporacyjnego przy użyciu starszych wersji programu Excel.
+* Automatyczna konwersja dokumentów w projektach cyfryzacji danych.
+* Harmonogramowa generacja wyników XLS dla raportowania opartego na zgodności.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

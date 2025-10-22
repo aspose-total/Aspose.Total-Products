@@ -102,7 +102,31 @@ otherformats: DIF EXCEL FODS XLSX XLTM XLSB XLAM XLSM XLT TSV CSV SXC MARKDOWN O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPTX ל-MHTML (ארכיון אינטרנט) מאפשרת גישה למצגות שלמות בקובץ יחיד לשימוש במצב לא מקוון בדפדפן. זה מושלם להפצת תוכן אינטראקטיבי בלי צורך ב-PowerPoint או תוכנה חיצונית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* יצירת גרסאות הנצפות ברשת של מצגות PowerPoint.
+* שיתוף מצגות חינוכיות עצמאיות דרך דוא"ל.
+* אחסון שקופיות אינטראקטיביות לאימונים תעשייתיים לא מקוונים.
+* הטמעת מצגות דמו למוצרים בעמודי האינטרנט הפנימיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת קבצי PPTX ל-MHTML בצורה צפה למערכות למידה אלקטרוניות.
+* פרסום אוטומטי של מצגות שיווק כקבצי MHTML.
+* ארכיבה של מצגות חברה לניגון בדפדפן.
+* שילוב עם מערכות משלוח מסמכים לגישה לא מקוונת מאובטחת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ PPS 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 DIF (Data Interchange Format)으로 변환하면 프레젠테이션 슬라이드와 스프레드시트 또는 통계 소프트웨어 간에 구조화된 데이터 전송이 가능해집니다. 이 변환은 숫자 계산이나 모델링을 위해 슬라이드로부터 표 형식의 정보가 필요한 분석가들에게 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 통계 분석을 위해 표 형식의 프레젠테이션 데이터를 DIF로 추출합니다.
+* 슬라이드에서 재무 요약을 DIF 호환 도구로 변환합니다.
+* PowerPoint 테이블에서 파생된 학술 또는 연구 데이터 세트를 준비합니다.
+* 기업 슬라이드에서 성과 지표를 스프레드시트용 데이터로 내보냅니다.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 크로스 플랫폼 분석에 사용되는 예약된 DIF 내보내기.
+* BI 시스템을 위해 프레젠테이션 데이터를 변환하는 ETL 프로세스 통합.
+* 데이터 상호 운용성을 위한 슬라이드에서 DIF로의 자동 변환.
+* 레거시 분석 소프트웨어를 위해 PPS 파일을 DIF로 일괄 변환합니다.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

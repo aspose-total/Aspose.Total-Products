@@ -102,7 +102,31 @@ otherformats: DIF XLS CSV XLTX XLAM SXC EXCEL XLSX XLSB XLTM ODS XLSM FODS MHTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPT (PowerPoint) לפורמט TSV (ערכים מופרדים בטאב) מציעה ייצוג טקסט מסודר ונקי של נתוני המצגת המתאים מאוד להעברת נתונים ולסביבות תסריט. TSV מועדף בזרימות עבודה של נתונים בארגונים עסקיים עקב דיוקו וקריאותו.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ נתוני שקופיות טבלאיים לתוך TSV לצורך סקריפטים אנליטיים.
+* ייצוא תוצאות סקר במבוסס PowerPoint לכלים סטטיסטיים.
+* שיתוף נתוני המצגת עם צוותי פיתוח או מחקר.
+* יצירת סטים מובנים של טקסט לצורך עיבוד נתונים אוטומטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת קובץ PPT לפורמט TSV בצורה צפופה לשילוב עם צינורות נתונים של AI.
+* חילוץ אוטומטי לעבודת מערכות צד אחורי שמעבדות נתונים טקסטואליים.
+* שימוש באוטומציה של ETL לפלטפורמות בינה עסקית.
+* ייצואי TSV מתוזמנים לסטים מוכנים ללמידת מכונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

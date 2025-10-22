@@ -57,7 +57,31 @@ Met behulp van de API kunt u ook de uitgevoerde DXF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PS (PostScript) bestanden naar DXF (Drawing Exchange Format) maakt het mogelijk om nauwkeurige op vector gebaseerde ontwerpen van PostScript documenten te importeren in CAD (Computer-Aided Design) toepassingen. Deze conversie is ideaal voor ingenieurs, architecten en ontwerpers die bewerkbare technische tekeningen nodig hebben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van op PS gebaseerde schema's naar CAD-compatibele DXF-bestanden.
+* Het omzetten van architectonische plattegronden van PostScript lay-outs voor 3D-modellering.
+* Het importeren van technische diagrammen in AutoCAD voor verdere ontwerpaanpassingen.
+* Het delen van technische vectorontwerpen over platforms die DXF ondersteunen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batch PS-naar-DXF conversie in ontwerp- en engineeringpijplijnen.
+* Integratie met CAD-workflowautomatisering voor snelle projectiteratie.
+* Geautomatiseerde conversie van PS gegenereerde diagrammen in bouwdocumentatie.
+* Cloudgebaseerde DXF-generatie voor samenwerkende designteams.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

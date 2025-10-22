@@ -54,7 +54,31 @@ APIを使用すると、パスワードで保護されたRTFドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTFファイルをODP（OpenDocument Presentation）に変換すると、テキスト豊かなコンテンツが視覚的に魅力的なスライドデッキに変換され、LibreOffice ImpressやApache OpenOfficeと互換性があります。このワークフローは、教育者、トレーナー、およびビジネスが文書素材をプレゼンテーションに再利用する際に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* RTFの講義ノートを構造化されたODPプレゼンテーションに変換する。
+* 企業のワークショップ用にトレーニングマニュアルをスライドに変換する。
+* RTFの提案書やビジネス概要からODPデッキを作成する。
+* テキストコンテンツをビジュアルストーリーテリング形式に再利用する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* eラーニングコンテンツパイプライン向けの自動化されたRTFからODPへの変換。
+* オンデマンドプレゼンテーション作成のためのナレッジ管理システムとの統合。
+* RTFの企業文書をODPテンプレートに一括変換。
+* マーケティングチーム向けの文書リポジトリからの自動スライド生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

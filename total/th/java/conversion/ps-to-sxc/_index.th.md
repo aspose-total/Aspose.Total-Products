@@ -47,7 +47,31 @@ otherformats: FODS XLT SXC XLAM TXT XLTX XLSM XLTM MD EXCEL DIF ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PS (PostScript) เป็น SXC (StarOffice/Calc Spreadsheet) ช่วยให้สามารถใช้ตารางและกราฟที่มีโครงสร้างจาก PostScript ในแอปพลิเคชัน OpenOffice หรือ StarOffice เวอร์ชันเก่าได้ ซึ่งจะช่วยให้ข้อมูลสามารถถูกพกพาไปใช้ในสภาพแวดล้อมของสเปรดชีตโอเพนซอร์สเวอร์ชันเก่าได้
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการใช้งานหลัก" %}}
+
+* การสกัดตารางทางการเงินหรือดำเนินการจากรายงาน PS เข้าสู่สเปรดชีต SXC
+* การแปลงข้อมูลวิศวกรรมหรือการทดลองจากกราฟ PostScript เพื่อการวิเคราะห์
+* เตรียมไฟล์สเปรดชีตที่เข้ากันได้กับเวอร์ชันเก่าจากเลย์เอาท์ PS
+* การแปลงเอกสาร PS เป็นเทมเพลตสเปรดชีตที่สามารถนำไปใช้ใหม่กับเครื่องมือโอเพนซอร์ส
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PS เป็น SXC แบบกลุ่มสำหรับการเก็บถาวรหรือใช้ในระบบเวอร์ชันเก่า
+* การรวมเข้ากับท่อ ETL สำหรับการวิเคราะข้อมูลสเปรดชีตโครงสร้าง
+* การสกัดตารางและกราฟจากเลย์เอาท์ PS โดยอัตโนมัติ
+* การแปลงบนคลาวด์สำหรับสภาพแวดล้อมสเปรดชีตที่สามารถทำงานร่วมกัน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

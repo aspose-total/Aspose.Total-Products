@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPS sang MARKDOWN, bạn cũng có thể thêm h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPS (PowerPoint Slide Show) sang MARKDOWN (MD) cho phép người dùng chuyển đổi các slide hình ảnh thành tài liệu văn bản nhẹ, dễ đọc hoàn hảo cho blog, tài liệu và hệ thống quản lý nội dung dựa trên Git. Nó kết nối khoảng cách giữa bài thuyết trình và các định dạng thân thiện với nhà phát triển.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi các slide PowerPoint thành tài liệu Markdown.
+* Chuẩn bị ghi chú dự án mã nguồn mở từ các bộ slide trình bày.
+* Xuất nội dung slide giáo dục cho các trình tạo trang tĩnh.
+* Chuyển đổi các bài thuyết trình công ty thành các tệp MD nhẹ cho wiki GitHub.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo Markdown theo lịch trình cho các nhóm nội dung sử dụng kiểm soát phiên bản.
+* Tích hợp vào các đường ống tài liệu (ví dụ, Hugo, Jekyll).
+* Chuyển đổi tự động từ PowerPoint sang MD cho việc xuất bản trực tuyến.
+* Xử lý hàng loạt các bộ slide PPS thành các tệp Markdown có cấu trúc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

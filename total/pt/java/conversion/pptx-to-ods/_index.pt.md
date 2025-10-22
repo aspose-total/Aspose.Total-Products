@@ -61,7 +61,31 @@ Ao converter o arquivo PPTX para ODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter PPTX para ODS (Planilha de Documentos Abertos) conecta dados de apresentação com análises de planilhas. Essa conversão beneficia organizações em transição para suites de produtividade de código aberto, preservando conteúdos tabulares essenciais.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Extrair resumos financeiros de apresentações para o formato ODS.
+* Compartilhar slides baseados em dados com usuários do OpenOffice ou LibreOffice.
+* Permitir que analistas editem tabelas de slides dentro de softwares de planilhas.
+* Preparar versões de dados abertos de relatórios de apresentação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversões programadas de PPTX para ODS em fluxos de documentos.
+* Integração em ecossistemas de escritórios de código aberto.
+* Transformação automatizada para envios de dados governamentais.
+* Extração pronta para ETL de dados numéricos de slides.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

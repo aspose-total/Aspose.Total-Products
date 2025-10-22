@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PS (PostScript) bestanden naar WordML (WordprocessingML) biedt op XML gebaseerde representaties van PostScript documenten, waardoor diepe integratie met applicaties, gegevensuitwisseling en aangepaste Word-verwerkingsworkflows mogelijk is.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van PS-rapporten naar WordML voor programmatische bewerking en generatie.
+* Integratie van op PostScript gebaseerde lay-outs in op XML gebaseerde publicatieworkflows.
+* Automatiseren van documentpopulatie en opmaak met behulp van WordML-sjablonen.
+* Voorbereiden van inhoud voor op web gebaseerde of bedrijfsgerichte Word-verwerkingssystemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geplande PS-naar-WORDML-conversie voor geautomatiseerde publicatie.
+* Integratie met bedrijfscontent- en documentbeheersystemen.
+* AI-ondersteunde lay-out-naar-XML-conversie voor gestructureerde Word-workflows.
+* Batchtransformatie van PostScript-bestanden naar machineleesbare WordML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

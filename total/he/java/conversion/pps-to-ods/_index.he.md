@@ -102,7 +102,31 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB CSV XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-ODS (OpenDocument Spreadsheet) מציעה דרך חלקה לשימוש מחדש בנתוני המצגת והמרתם לתבניות גיליון מאודפות. ההמרה הזו עוזרת למקצוענים להמיר שקופיות סוככות לטבלאות ניתנות לעריכה ולניתוח המתאימות ל-LibreOffice Calc ול-OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ נתונים פיננסיים משקפי המצגת לדוחות מאודפים מובנים ב-ODS.
+* המרת מצגות לימודיות לניתוחי קורס מבוססי גיליון.
+* המרת מצגות שיווק לגיליונות ביצועים במכירות.
+* הכנת גיליונות עקבות ניתנים לעריכה מסיכומי עסקי PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה מתוזמנת של מצגות חדר ישיבות לקבצי ביצועים רבעוניים ב-ODS.
+* שילוב בצינורות דיווחים להמרה אוטומטית של שקופיות לנתוני גיליון שניתפצים.
+* המרה בזמן אמת של פלטי פגישות לגיליונות ניתוח מרכזיים.
+* המרה ציבורית עבור צוותים ששומרים על רשומות של מצגות וגיליונות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

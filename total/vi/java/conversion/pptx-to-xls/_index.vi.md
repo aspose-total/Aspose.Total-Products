@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPTX sang XLS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPTX sang XLS (Excel 97-2003 Workbook) đảm bảo tính tương thích ngược với các hệ thống cũ. Nó cho phép các tổ chức sử dụng phần mềm văn phòng cũ hơn truy cập và sửa đổi dữ liệu bảng trình bày một cách hiệu quả.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi bảng PowerPoint để phân tích trong Excel cũ.
+* Xuất bản tóm tắt trình bày cho các công cụ tài chính cũ hơn.
+* Tái sử dụng dữ liệu từ các slide trong các hệ thống tương thích ngược.
+* Chia sẻ phân tích với khách hàng sử dụng các phiên bản Excel trước đó.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Đầu ra XLS tự động từ PowerPoint cho lưu trữ doanh nghiệp.
+* Tích hợp với các hệ thống kế toán hoặc ERP cũ hơn.
+* Đường ống chuyển đổi đảm bảo tính tương thích trên các nền tảng.
+* Chuyển đổi hàng loạt các bộ slide PowerPoint cũ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PPTX en DOTM (modèle de document Word activé par macro) permet aux utilisateurs de créer des modèles réutilisables incluant des fonctionnalités d'automatisation. C'est parfait pour générer des documents interactifs pilotés par macro à partir du contenu de présentation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Conception de modèles activés par macro à partir de diapositives de présentation.
+* Automatisation des tâches de génération de rapports répétitives.
+* Création de modèles d'entreprise standardisés et dynamiques.
+* Intégration de macros de données dans des documents dérivés de PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en lot de présentations PPTX en modèles DOTM.
+* Intégration avec des systèmes d'automatisation de documents.
+* Génération planifiée de modèles de macro pour des rapports périodiques.
+* Mappage de macros de PowerPoint à Word pour plus d'efficacité.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

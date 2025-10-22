@@ -102,7 +102,31 @@ otherformats: DIF FODS XLAM CSV XLSM SXC MD ODS TSV EXCEL TXT XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי SVG (גרפיקה וקטורית ניתנת להתאמה) ל-XLT (תבנית Excel) מאפשרת יצירת תבניות גיליון נתונים ניתנות לשימוש עם תרשימים וקטוריים מוטבעים. תבניות XLT הן אידיאליות לתקן פורמטים של דיווחים תוך שמירה על התרשימים ניתנים להתאמה ולעריכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* יצירת תבניות סטנדרטיות לדוחות מכירות ופיננסיים עם לוחות בסיס שמבוססים על SVG.
+* תבניות מחזוריות למעקב אחר פרויקטים לתהליכי הנדסה ובנייה.
+* יצירת תבניות לחינוך עם תרשימים SVG למוסדות אקדמיים.
+* תבניות לניתוח שיווק תקניות באמצעות תמונות וקטוריות אינטראקטיביות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה אוטומטית של תרשימי SVG לתבניות XLT לדיווח תעשייתי.
+* יצירת תבניות מתוזמנות לדוחות פרויקטים או פיננסיים חוזרים.
+* שילוב עם מערכות אוטומציה של תהליכי עבודה כדי לשמור על עדכוניות של התבניות.
+* המרה מופעלת לתרשימים דינמיים מעודכנים לתבניות שניתן לשימוש.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

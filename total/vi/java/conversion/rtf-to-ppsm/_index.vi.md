@@ -54,7 +54,31 @@ API cũng cho phép bạn chuyển đổi các tài liệu RTF được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi RTF sang PPSM (PowerPoint Macro-Enabled Show) giới thiệu tự động hóa vào bài thuyết trình trình diễn. Định dạng này kết hợp sự phong phú về văn bản của RTF với các tính năng macro động của PowerPoint để tạo ra câu chuyện tương tác tiên tiến.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tự động hóa bài thuyết trình trình diễn bằng cách sử dụng macro từ dữ liệu RTF.
+* Xây dựng bảng điều khiển tương tác hoặc hướng dẫn dựa trên hướng dẫn RTF.
+* Trình diễn tự động bao gồm cập nhật động.
+* Biến đổi tóm tắt kinh doanh thành các slide chạy tự động, được điều khiển bởi macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động hóa RTF sang PPSM trong các đường ống nội dung học trực tuyến.
+* Tích hợp với các hệ thống báo cáo hỗ trợ macro.
+* Tạo ra bài thuyết trình theo lịch cho đội bán hàng và đào tạo.
+* Tạo ra bài thuyết trình PowerPoint tự động từ các bộ tài liệu nặng về văn bản.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

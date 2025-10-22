@@ -54,7 +54,31 @@ APIを使用すると、パスワードで保護されたRTFドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTFをPPT（レガシーPowerPointプレゼンテーション）に変換することは、従来の文書ワークフローと古いPowerPoint環境を結びつけます。これは、以前のMicrosoft Officeバージョンとの互換性を維持する組織にとって有益です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* RTFレポートをPowerPoint 97–2003互換ファイルに変換する。
+* 教育プレゼンテーション用にフォーマット済みのテキスト文書を再利用する。
+* レガシープレゼンテーションシステム用のスライドをデザインする。
+* 伝統的なPowerPointディスプレイ用のRTFベースの研究要約を準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レガシーオフィスワークフロー向けのバッチRTFからPPTへの変換。
+* アーカイブおよびコンプライアンスプレゼンテーションシステムへの統合。
+* 逆方向の互換性をサポートするための定期的な変換。
+* 古いシステム向けのRTFテンプレートからの自動化されたPowerPoint生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

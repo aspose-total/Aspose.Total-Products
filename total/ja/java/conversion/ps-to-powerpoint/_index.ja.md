@@ -59,7 +59,29 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+PS（PostScript）ファイルをPOWERPOINT（PPTX/PPT）に変換することで、静的なPostScriptスライドをMicrosoft PowerPointで完全に編集可能にします。これにより、チームは技術的な図表やビジュアルレイアウトをプロフェッショナルなプレゼンテーションに再利用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PSベースのレポートを編集可能なPowerPointプレゼンテーションに変換する。
+* PostScriptスライドからトレーニングモジュールや教育コンテンツを準備する。
+* PSからPowerPoint形式にマーケティングや企業のビジュアルを移行する。
+* 技術的な図を顧客向けプレゼンテーションに再利用する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なプレゼンテーションのためのバッチPSからPPTへの変換。
+* 企業のワークフローツールとの統合による自動スライドデッキ生成。
+* PSレポートの定期的なPowerPointファイルへのレンダリングのスケジュール設定。
+* スライド作成のための図表のAI支援抽出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+## /BMP
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

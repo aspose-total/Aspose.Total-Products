@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）をPSD（Photoshop Document）に変換することで、グラフィックデザイナーやクリエイティブチームは高度な画像操作のための完全に編集可能なレイヤーを提供されます。このプロセスにより、複雑なPostScriptのビジュアルをAdobe Photoshopや互換ソフトウェアを使用して再構築、再着色、合成することが可能となります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* Photoshop内でPSベースのロゴやベクターグラフィックを編集する。
+* PSレイアウトをレイヤー付きPSDファイルに変換してマーケティングテンプレートを作成する。
+* テクニカルダイアグラムをデザインワークフローに統合してブランドの一貫性を確保する。
+* 出版用のPSファイルを編集可能なデザインプロジェクトに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* デザイン制作パイプライン向けの自動化されたPSからPSDへの変換。
+* クリエイティブチーム全体でのブランドアセット管理のためのバッチ処理。
+* リアルタイムのデザイン調整のためのAdobe自動化スクリプトとの統合。
+* PSオリジナルからのAIベースのレイヤー分離と強化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

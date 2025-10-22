@@ -102,7 +102,31 @@ otherformats: ODS XLTM EXCEL TXT XLSM CSV MD DIF XLSB XLAM XLT FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SVG ל-SXC (גיליון עבודה של StarOffice/LibreOffice) מאפשרת להטביע תרשימים וקטוריים בפורמטים של גיליונות עבודה קוד פתוח. SXC הוא אידיאלי לזרימות עבודה שיתופיות ולתאימות גיליונות עבודה חוצת פלטפורמות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* ייבוא של לוחות מחוונים כלכליים או פרויקטים בתוך גיליונות עבודה של LibreOffice.
+* שיתוף נתוני מחקר או אקדמיים עם תרשימים וקטוריים בקבצי SXC.
+* מעקב פרויקטים שיתופי עם גיליונות עבודה מוטבעים בתרשימים SVG.
+* תבניות גיליונות עבודה קוד פתוח תקניות עם דיאגרמות אינטראקטיביות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה אוטומטית של SVG ל-SXC בצינורות דיווחים.
+* ייצוא מתוזמן של לוחות מחוונים מבוססי SVG לגיליונות עבודה קוד פתוח.
+* שילוב עם חבילות משרד שיתופיות לגישה רחבת קהל בצוות.
+* יצירה מופעלת של גיליונות עבודה SXC מנתוני SVG דינמיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

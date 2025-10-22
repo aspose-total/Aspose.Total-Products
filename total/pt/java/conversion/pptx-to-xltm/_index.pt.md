@@ -61,7 +61,31 @@ Ao converter o arquivo PPTX para XLTM, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPTX para XLTM (Modelo de Excel com Macro) ajuda a automatizar tarefas de dados repetitivas incorporando macros em modelos de planilhas reutilizáveis derivados de apresentações.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Projetar modelos de relatórios automatizados a partir de dados de apresentações.
+* Criar painéis de Excel com macros reutilizáveis.
+* Padronizar modelos de processos de negócios a partir de slides do PowerPoint.
+* Simplificar relatórios de KPI repetitivos por meio de macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversões em lote de PPTX para XLTM para ciclos de relatórios mensais.
+* Integração com fluxos de trabalho de geração de planilhas automatizados.
+* Gerenciamento de modelos corporativos para equipes de análise.
+* Atualizações agendadas nos modelos de macro a partir de dados do PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

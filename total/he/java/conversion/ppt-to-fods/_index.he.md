@@ -102,7 +102,31 @@ otherformats: EXCEL SXC XLSX XLTX XLSM ODS DIF XLSB XLAM TSV CSV XLS MARKDOWN XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPT (PowerPoint) ל-FODS (Flat OpenDocument Spreadsheet) מאפשרת לארגונים להשתמש מחדש בתוכן מובנה עבור כלים למשרד תקניים בתקן פתוח. פורמט ה-FODS עשוי להיות ערך מיוחד לצוותים המסתמכים על LibreOffice או Apache OpenOffice לזריזות, עריכת גליונות עבודה ניתנים לעריכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת טבלאות PowerPoint לגליונות עבודה של LibreOffice לצורך ניתוח.
+* חילוץ נתונים מובנים משקפים לצורך עריכה שיתופית.
+* ארכיבת נתוני המצגת בפורמטים פתוחים, מבוססי XML.
+* המרת מצגות הדרכה ל-FODS למערכות רישום חינוכיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת FODS אוטומטית מדוחות PowerPoint לשימוש בקוד פתוח.
+* עיבוד צוברי במערכות ממשלתיות או חינוכיות.
+* שילוב המרת PPT ל-FODS בצינון דיגיטלי.
+* ייצואים מתוזמנים לדיווח ותיעוד בין מחלקות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ PPTX dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX dosyalarını TSV'ye (Tablo Ayırıcılı Değerler) dönüştürmek, sunum tablolarının yapılandırılmış, düz metin temsilini sunar. Bu format, kod veya analitik ortamlara kolayca aktarım yapmak isteyen geliştiriciler ve veri bilimciler için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* İstatistiksel modelleme için PowerPoint slayt verilerini dönüştürme.
+* Betikler ve API'ler için tablo bilgileri hazırlama.
+* PowerPoint sunumlarından KPI'ları ve metrikleri TSV'ye aktarma.
+* Araştırma ve akademik amaçlar için temiz veri setlerini paylaşma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Veri borularında zamanlanmış PPTX'ten TSV'ye dönüşümler.
+* Makine öğrenimi eğitim setleri için TSV dışa aktarmayı otomatikleştirme.
+* Bilimsel veri depolarıyla entegrasyon.
+* Mühendislik iş akışları için PowerPoint'ten kod veri köprüsü.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

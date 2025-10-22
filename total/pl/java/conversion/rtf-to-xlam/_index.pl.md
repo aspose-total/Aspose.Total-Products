@@ -61,7 +61,31 @@ Po przekonwertowaniu RTF na XLAM [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja RTF na XLAM (Excel Add-In) umożliwia programistom i analitykom osadzanie treści RTF tekstowych lub tabelarycznych w środowiskach automatyzacji Excela. Ten format obsługuje makra i VBA, zwiększając produktywność narzędzi opartych na danych wejściowych dokumentów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Osadzanie szablonów opartych na RTF w dodatkach Excela do automatycznego raportowania.
+* Przekształcanie sformatowanych dokumentów w wielokrotnie używane moduły makr Excela.
+* Tworzenie rozwiązań automatyzacji Excela zasilanych danymi RTF.
+* Projektowanie dynamicznych formularzy przy użyciu treści RTF zintegrowanych z dodatkami XLAM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja RTF na XLAM w niestandardowych potokach wdrożenia makr Excela.
+* Integracja z systemami automatyzacji dokumentów dla inteligencji biznesowej.
+* Konwersja w rozwiązaniach raportowania sterowanych przez VBA do modelowania finansowego.
+* Zaplanowane generowanie dodatków Excela z centralnych magazynów danych RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

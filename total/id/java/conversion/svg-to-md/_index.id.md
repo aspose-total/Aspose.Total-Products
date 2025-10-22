@@ -47,7 +47,31 @@ Saat mengonversi file SVG ke MD, Anda juga dapat menambahkan tanda air ke format
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke Markdown (MD) memungkinkan menyematkan diagram vektor langsung ke dalam dokumentasi, file README, dan generator situs statis. Pendekatan ini menjaga grafis tetap ringan dan sepenuhnya dapat diskalakan sambil meningkatkan keterbacaan konten teknis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menyematkan diagram arsitektur dalam file README proyek perangkat lunak.
+* Flowchart interaktif untuk repositori dokumentasi sumber terbuka.
+* eBook dan tutorial berbasis Markdown dengan ilustrasi vektor inline.
+* Blog teknis menggunakan visual bersih dan dapat diskalakan tanpa file gambar tambahan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi otomatis SVG ke MD untuk jalur dokumentasi.
+* Generasi terjadwal diagram vektor untuk pembaruan basis pengetahuan.
+* Integrasi dengan generator situs statis seperti Hugo atau Jekyll.
+* Sinkronisasi terus-menerus pembaruan desain ke dalam file teknis Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPTX ke TEXT dengan tan
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPTX ke TEKS mengekstrak semua konten tertulis dari slide ke dalam teks polos, memungkinkan pencarian cepat, pengindeksan, dan pemrosesan data. Ini ideal untuk pengembang, peneliti, dan sistem arsip yang memerlukan output yang bersih dan ringan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengekstrak konten slide untuk pengindeksan dan mesin pencari.
+* Menyiapkan dataset teks dari presentasi PowerPoint.
+* Mengonversi slide pendidikan menjadi materi pelatihan.
+* Mempermudah pembuatan dokumen hanya teks dari slide.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Ekstraksi PPTX-ke-TEKS dalam jumlah besar untuk model AI dan NLP.
+* Integrasi ke dalam basis pengetahuan dan jalur arsip.
+* Alur kerja pelaporan teks polos otomatis.
+* Penambangan teks PowerPoint untuk sistem analisis konten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

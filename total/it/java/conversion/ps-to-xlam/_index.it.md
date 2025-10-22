@@ -47,7 +47,31 @@ Durante la conversione del file PS in XLAM, puoi anche aggiungere una filigrana 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione dei file PS (PostScript) in XLAM (Excel Add-in) consente la creazione di componenti aggiuntivi di Excel basati sulla logica, macro o automazione derivati da PostScript. Ciò consente di sfruttare funzionalità avanzate di Excel che utilizzano contenuti visivi o di dati estratti da file PS.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Incorporare calcoli o modelli basati su PostScript negli add-in di Excel.
+* Creare strumenti di automazione riutilizzabili da report generati da PS.
+* Trasformare grafici basati su PS in dashboard interattivi di Excel tramite XLAM.
+* Consentire agli utenti aziendali di implementare l'automazione guidata da PostScript in Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Conversione automatizzata da PS a XLAM per strumenti interni di Excel.
+* Integrazione nelle pipeline di automazione dei flussi di lavoro aziendali.
+* Generazione assistita da AI di macro di Excel da dati PostScript.
+* Aggiornamenti pianificati degli add-in con contenuti estratti dai layout PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

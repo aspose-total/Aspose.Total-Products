@@ -102,7 +102,31 @@ otherformats: TSV XLSM FODS MARKDOWN CSV XLTX XLT DIF XLS EXCEL MHTML XLAM ODS X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPTX ל-XLTM (תבנית Excel המאפשרת מאקרו) עוזרת לאוטומציה של משימות נתונים חוזרות על ידי הטמעת מאקרוס בתבניות גיליון נתונים הניתנות לשימוש ממצגות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* עיצוב תבניות דוחות אוטומטיות מנתוני מצגות.
+* יצירת לוחות בקרה ב-Excel המופעלים במאקרו.
+* תקנות תבניות לתהליכי עסקים משקפי חשבון ממצגות PowerPoint.
+* פשוט דיווחי KPI חוזרים דרך מאקרוס.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרות קובצי PPTX ל-XLTM בצורה צפופה למחזורי דיווח חודשיים.
+* שילוב עם זרימות עבודה אוטומטיות ליצירת גיליונות נתונים.
+* ניהול תבניות תאגידיות לצוותי ניתוחים.
+* עדכונים מתוזמנים לתבניות מאקרו מנתוני PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

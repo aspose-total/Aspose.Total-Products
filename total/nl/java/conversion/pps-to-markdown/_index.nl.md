@@ -61,7 +61,31 @@ Tijdens het converteren van een PPS-bestand naar MARKDOWN, kunt u ook een waterm
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PPS (PowerPoint Slide Show) bestanden naar MARKDOWN (MD) stelt gebruikers in staat om visuele dia's om te zetten in lichtgewicht, leesbare tekstdocumenten die perfect zijn voor blogs, documentatie en op Git gebaseerde content management systemen. Het overbrugt de kloof tussen presentaties en ontwikkelaarsvriendelijke formaten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van PowerPoint-dia's naar Markdown-documentatie.
+* Het voorbereiden van notities voor open-source projecten van presentatiedecks.
+* Het publiceren van educatieve dia-inhoud naar statische sitegeneratoren.
+* Het omzetten van bedrijfspresentaties naar lichtgewicht MD-bestanden voor GitHub-wiki's.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geplande Markdown-generatie voor contentteams die versiebeheer gebruiken.
+* Integratie in documentatiepijplijnen (bijv. Hugo, Jekyll).
+* Geautomatiseerde conversie van PowerPoint naar MD voor online publicatie.
+* Batchverwerking van meerdere PPS-decks naar gestructureerde Markdown-bestanden.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

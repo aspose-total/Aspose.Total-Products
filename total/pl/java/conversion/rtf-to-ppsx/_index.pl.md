@@ -54,7 +54,31 @@ Interfejs API umożliwia również konwersję dokumentów RTF chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików RTF na PPSX (PowerPoint Show Open XML) oferuje nowoczesny sposób prezentacji informacji opartych na dokumentach jako wizualnie atrakcyjne prezentacje. Pliki PPSX otwierają się bezpośrednio w trybie pokazu slajdów, co czyni je idealnymi do ostatecznego wyświetlania lub udostępniania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Przekształcanie aktualizacji firmowych opartych na RTF w gotowe do prezentacji pokazy slajdów.
+* Generowanie prezentacji końcowych z plików tekstowych o strukturalnej formie.
+* Przygotowywanie slajdów na wydarzenia lub konferencje bezpośrednio z źródeł RTF.
+* Udostępnianie treści RTF jako prezentacji PowerPoint do przeglądania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja RTF na PPSX w zautomatyzowanych potokach publikacji prezentacji.
+* Integracja z przepływami pracy prezentacyjnej w Office 365.
+* Generowanie zbiorcze slajdów PPSX z standaryzowanych raportów RTF.
+* Zaplanowane tworzenie gotowych do pokazu podsumowań korporacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

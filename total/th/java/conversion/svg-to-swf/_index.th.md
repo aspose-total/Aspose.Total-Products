@@ -121,7 +121,31 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ SVG เป็น SWF (Shockwave Flash) ช่วยให้สามารถฝังกราฟิกเวกเตอร์แบบโต้ตอบในการสร้างภาพเคลื่อนไหวบนเว็บและแอปพลิเคชัน Flash เก่า  SWF สนับสนุนภาพเคลื่อนไหวแบบไดนามิกและการสร้างภาพเคลื่อนไหวแบบเวกเตอร์ที่มีน้ำหนักเบา
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* โมดูลการฝึกอบรมที่ใช้งานบนเว็บโดยใช้การเคลื่อนไหวจาก SVG เป็น SWF
+* แบนเนอร์การตลาดและวัสดุโปรโมชั่นที่มีการปฏิสัมพันธ์เวกเตอร์
+* ภาพเคลื่อนไหวทางการศึกษาและเนื้อหาการเรียนออนไลน์ที่มีไดอะแกรมที่สามารถปรับขนาดได้
+* กราฟิกอินโฟกราฟิกที่แสดงบนแพลตฟอร์ม Flash เก่า
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงไดอะแกรม SVG เป็นภาพเคลื่อนไหว SWF แบบกลุ่ม
+* การอัปเดตตารางเวลาของเนื้อหาอินเทอร์แอคทีฟบนเว็บจากไฟล์ SVG สด
+* การรวมกับแพลตฟอร์มเว็บเก่าที่สนับสนุนภาพเคลื่อนไหวที่ใช้ Flash
+* การเริ่มกระบวนการแปลงสำหรับเนื้อหาออนไลน์แบบไดนามิกจาก SVG เป็น SWF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

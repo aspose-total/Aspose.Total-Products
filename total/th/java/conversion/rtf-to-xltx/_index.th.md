@@ -61,7 +61,31 @@ otherformats: XLTM ODS XLAM XLS XLSB FODS XLT XLTX TSV XLSM XLSX SXC EXCEL DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง RTF เป็น XLTX (Excel Template Open XML Format) ช่วยให้องค์กรสามารถนำเค้าโครงเอกสารมาใช้ใหม่ในสภาพแวดล้อม Excel ที่ทันสมัยโดยไม่มีแมโคร มันถูกใช้กันอย่างแพร่หลายสำหรับการรายงาน การป้อนข้อมูล และการจัดรูปแบบเอกสารอย่างมืออาชีพ
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* การแปลงสรุปทางการเงินที่ใช้ RTF เป็นเทมเพลต XLTX ที่สามารถนำมาใช้ซ้ำได้
+* สร้างเลเอาท์ Excel มาตรฐานสำหรับรายงานและแบบฟอร์ม
+* การแปลงเอกสารของบริษัทเป็นรูปแบบสเปรดชีทที่ทันสมัย
+* เตรียมเทมเพลตแผนกจากไฟล์ข้อมูล RTF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การสร้าง XLTX จาก RTF โดยอัตโนมัติสำหรับกระบวนการทำงานในองค์กร
+* การผสานรวมกับระบบอัตโนมัติเอกสารสำหรับแบบฟอร์มมาตรฐาน
+* การสร้างเทมเพลต Excel ตามกำหนดเวลาจากเอกสาร RTF ที่เก็บถาวร
+* การแปลงเป็นชุดใหญ่ที่สนับสนุนความเข้ากันได้กับ Excel และ Office 365 ที่ทันสมัย
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

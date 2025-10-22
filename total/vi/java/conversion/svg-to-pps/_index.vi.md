@@ -121,7 +121,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG sang PPS (PowerPoint Show) giúp tạo ra bộ trình chiếu mở trực tiếp ở chế độ trình bày với đồ họa vector nhúng, lý tưởng cho việc xem mượt mà.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Bộ trình bày doanh nghiệp tương tác được trình bày dưới dạng PowerPoint shows.
+* Bài trình diễn giáo dục với biểu đồ SVG để hiển thị trực tiếp.
+* Bài thuyết trình hoặc demo sản phẩm được đóng gói dưới dạng bài trình bày sẵn sàng để xem.
+* Slide bài giảng học thuật để trình bày ngay lập tức mà không cần chỉnh sửa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt SVG sang PPS tự động để giao bài trình bày.
+* Xuất lịch trình của các slide dựa trên SVG sang định dạng PPS.
+* Tích hợp với hệ thống phân phối nội dung cho các bộ trình bày sẵn sàng để xem.
+* Tạo ra slide theo yêu cầu cho các chiến dịch đào tạo hoặc tiếp thị.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

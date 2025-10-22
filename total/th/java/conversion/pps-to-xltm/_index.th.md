@@ -61,7 +61,31 @@ otherformats: SXC XLSB XLAM DIF XLTX XLTM XLSX FODS XLT XLSM ODS MHTML MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น XLTM (Macro-Enabled Excel Template) ช่วยให้องค์กรสร้างเทมเพลตที่ไดนามิกและฝังสคริปต์ออโตเมชันได้ สิ่งนี้มีค่าสำหรับธุรกิจที่ใช้การดำเนินงานข้อมูลที่ซ้ำซ้อนที่มาจากรายงานสไลด์
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การพัฒนาเทมเพลตรายงานที่ใช้สคริปต์แมโครจากงานนำเสนอ
+* การสร้างเทมเพลตการพยากรณ์อัตโนมัติที่มีสคริปต์ VBA ฝังอยู่
+* การสร้างเทมเพลตสำหรับการป้อนข้อมูลที่ใช้ซ้ำจากสไลด์ทางการตลาด
+* การเตรียมเทมเพลต XLTM สำหรับการติดตาม KPI ด้วยการอัตโนมัติ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์ออโตเมชัน" %}}
+
+* การสร้างเทมเพลต XLTM โดยอัตโนมัติจากไฟล์ PPS สำหรับรายงานขององค์กร
+* การผสานรวมกับท่อการอัตโนมัติของ Excel
+* การสร้างเทมเพลตแมโครตามกำหนดเวลาจากรายงานสรุปที่มีสไลด์
+* การกระจายเทมเพลต XLTM ให้แผนกภายในได้เป็นจำนวนมาก
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

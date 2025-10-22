@@ -61,7 +61,31 @@ otherformats: EXCEL SXC XLSX XLTX XLSM ODS DIF XLSB XLAM TSV FODS XLS MARKDOWN X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPT (PowerPoint) เป็น FODS (Flat OpenDocument Spreadsheet) ช่วยให้องค์กรสามารถนำเนื้อหาโครงสร้างไปใช้ใหม่สำหรับเครื่องมือสำนักงานมาตรฐานเปิด. รูปแบบ FODS มีความคุ้มค่าอย่างยิ่งสำหรับทีมงานที่พึ่งต่อ LibreOffice หรือ Apache OpenOffice สำหรับการทำงานกับสเปรดชีทที่สามารถแก้ไขได้อย่างปลอดภัย.
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การเปลี่ยนตาราง PowerPoint เป็นสเปรดชีท LibreOffice เพื่อการวิเคราะห์.
+* การสกัดข้อมูลโครงสร้างจากสไลด์เพื่อการแก้ไขร่วมกัน.
+* การเก็บข้อมูลงานนำเสนอในรูปแบบสเปรดชีทที่เปิด, ที่ใช้ XML.
+* การแปลงงานนำเสนอการฝึกอบรมเป็น FODS สำหรับระบบบันทึกการศึกษา.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การสร้าง FODS โดยอัตโนมัติจากรายงาน PowerPoint สำหรับการใช้งานโอเพนซอร์ส.
+* การประมวลผลเป็นชุดในระบบเอกสารของรัฐบาลหรือสถาบันการศึกษา.
+* การรวมการแปลง PPT เป็น FODS ในท่อการเปลี่ยนแปลงดิจิทัล.
+* การส่งออกตามกำหนดเวลาสำหรับรายงานและเอกสารระหว่างแผนก.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

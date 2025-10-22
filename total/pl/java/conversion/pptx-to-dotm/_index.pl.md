@@ -53,7 +53,31 @@ Korzystając z API, możesz również wykonać konwersję pliku PPTX do DOTM ze 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPTX na DOTM (Szablon programu Word z obsługą makr) pozwala użytkownikom tworzyć wielokrotnego użytku szablony, które zawierają funkcje automatyzacji. Jest idealne do generowania interaktywnych dokumentów z treści prezentacji, sterowanych makrami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* Projektowanie szablonów z obsługą makr na podstawie slajdów prezentacji.
+* Automatyzacja powtarzalnych zadań związanych z generowaniem raportów.
+* Tworzenie standaryzowanych, dynamicznych szablonów korporacyjnych.
+* Osadzanie makr danych w dokumentach pochodzących z programu PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Partiowa konwersja zestawów slajdów PPTX na szablony DOTM.
+* Integracja z systemami automatyzacji dokumentów.
+* Zaplanowane generowanie szablonów z makrami do raportów okresowych.
+* Mapowanie makr z programu PowerPoint do programu Word w celu efektywności.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

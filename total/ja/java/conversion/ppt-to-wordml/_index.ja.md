@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTファイルからWORDMLへの�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）プレゼンテーションをWORDML（WordprocessingML）に変換すると、スライドが構造化されたXMLベースの表現に変換されます。この形式は、自動化された文書システムやXMLデータベースと統合が必要な開発者、データエンジニア、組織に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* XMLベースの文書管理システム向けのPowerPointデータのエクスポート。
+* AIによる文書作成のための意味コンテンツ処理の有効化。
+* 構造化されたXMLワークフローへのプレゼンテーションの統合。
+* 編集可能で機械可読な文書アーカイブの作成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* コンテンツ管理API向けの自動化されたPPTからWORDMLへの変換。
+* AIベースの文書生成および検証ツールとの統合。
+* 構造化された文書変換パイプライン向けのバッチ変換。
+* 企業データ処理ワークフロー向けの定期的なXMLエクスポート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

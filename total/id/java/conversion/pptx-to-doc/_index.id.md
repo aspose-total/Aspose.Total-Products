@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPTX ke DOC dengan tand
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPTX (Presentasi PowerPoint) ke DOC (Dokumen Microsoft Word) memungkinkan transformasi konten slide menjadi laporan dan ringkasan yang dapat diedit. Proses ini membantu pengguna untuk menggunakan kembali data visual untuk dokumentasi, proposal, dan materi siap cetak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah slide PowerPoint menjadi laporan Word terstruktur.
+* Membuat dokumentasi rinci dari catatan presentasi.
+* Menghasilkan ringkasan rapat dan proposal siap cetak.
+* Menggabungkan konten slide ke dalam laporan tertulis yang komprehensif.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch PPTX ke DOC untuk dokumentasi proyek.
+* Otomatisasi alur kerja untuk menit rapat dan laporan perusahaan.
+* Integrasi dengan sistem manajemen konten.
+* Pembuatan otomatis file DOC dari template PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

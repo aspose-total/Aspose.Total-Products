@@ -61,7 +61,31 @@ Ao converter o arquivo PPT para ODS, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de apresentações PPT (PowerPoint) para o formato ODS (Planilha de Documentos Abertos) transforma dados visuais de slides em forma estruturada de planilha. É ideal para organizações que utilizam suítes de escritório de código aberto e precisam extrair dados numéricos ou tabulares de apresentações para análises e relatórios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Exportar tabelas de slides para planilhas ODS editáveis no LibreOffice Calc.
+* Converter métricas de negócios de painéis do PowerPoint em dados de planilhas.
+* Arquivar slides financeiros e analíticos em formato ODS aberto.
+* Possibilitar a colaboração em ambientes de planilhas de padrão aberto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automatizada de PPT para ODS para relatórios governamentais ou de ONGs.
+* Integração com pipelines de análise de código aberto.
+* Conversão agendada de apresentações para planilhas para auditoria.
+* Compartilhamento de relatórios entre departamentos usando modelos baseados em ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

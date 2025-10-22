@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTファイルからRTFへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）プレゼンテーションをRTF（Rich Text Format）に変換することで、基本的な書式を保持しながらテキストコンテンツを抽出することが可能になります。RTFはさまざまなプラットフォームやワードプロセッサー間での互換性を確保し、シンプルで編集可能なレポートに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* クロスプラットフォームでの編集用にPowerPointテキストをエクスポートする。
+* スライドからフォーマットされたテキストレポートを生成する。
+* PowerPointに依存せずに編集可能な要約を共有する。
+* 教育用プレゼンテーションをRTFベースの学習教材に変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レポート配布ワークフローのための自動化されたPPTからRTFへの変換。
+* テキスト処理やアーカイブシステムへの統合。
+* 軽量で編集可能なドキュメントのためのバッチ変換。
+* 規制や学術的な提出のためのスケジュールされたRTFエクスポート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

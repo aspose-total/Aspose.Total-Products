@@ -54,7 +54,31 @@ L'API vous permet également de convertir des Documents RTF protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents RTF en PPS (PowerPoint Show) transforme le texte statique en présentations prêtes pour le diaporama qui s'ouvrent directement en mode plein écran. C'est idéal pour les briefings automatisés, les présentations éducatives ou les présentations lors de salons.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conversion de rapports RTF en diaporamas prêts à être présentés.
+* Création de briefings visuels automatisés à partir de documents texte.
+* Conception de contenus de signalisation numérique basés sur du matériel marketing RTF.
+* Préparation de spectacles éducatifs pour une utilisation en classe ou lors de conférences.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en masse de RTF en PPS pour des présentations planifiées.
+* Intégration dans des kiosques et des systèmes d'affichage automatisés.
+* Création automatisée de diaporamas à partir de référentiels de documents stockés.
+* Génération de tableaux de bord visuels à partir d'une entrée RTF structurée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

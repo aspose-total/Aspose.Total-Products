@@ -61,7 +61,31 @@ otherformats: XLT ODS XLTX XLTM EXCEL SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็นรูปแบบ Excel ช่วยให้ผู้ใช้สามารถเปลี่ยนข้อมูลการนำเสนอทางภาพเป็นสเปรดชีตที่ทำงานได้อย่างเต็มประสิทธิภาพ การแปลงนี้สนับสนุนการจัดการข้อมูลที่ดีขึ้น การวิเคราะห์พิวต์ และการรวมเข้ากับเครื่องมือการทำงานของธุรกิจ
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการใช้งานหลัก" %}}
+
+* การแปลงตารางการนำเสนอเป็น Excel เพื่อการคำนวณขั้นสูง
+* สร้างตัวติดตามผลการดำเนินงานจากรายงานสไลด์ของผู้บริหาร
+* สร้างแดชบอร์ด Excel ที่สามารถแก้ไขได้จากสไลด์สรุป
+* เตรียมโมเดลการเงินและการพยากรณ์จากภาพการนำเสนอ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงรายงาน PPS เป็นเทมเพลตการวิเคราะห์ที่ใช้ Excel ตามกำหนดเวลา
+* การรวมเข้ากับคลาวด์ไดรฟ์เพื่อการทำงานร่วมกันในการแบ่งข้อมูล
+* การสร้าง Excel โดยอัตโนมัติจากสไลด์การประชุมหรือ KPI
+* การแปลงเป็นกลุ่มสำหรับการเก็บถาวรและเปรียบเทียบในช่วงเวลารายงาน
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

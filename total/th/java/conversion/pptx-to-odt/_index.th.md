@@ -53,7 +53,31 @@ otherformats: ODTX OTT TEXT ODT DOT DOTX ODTM WORD FLATOPC WORDML RTF DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPTX เป็น ODT (OpenDocument Text) ช่วยให้สามารถนำสไลด์มาใช้ในเอกสารข้อความที่สามารถแก้ไขได้ มันเหมาะสำหรับการสร้างรายงานเขียน สรุป หรือเอกสารที่สามารถแก้ไขได้โดยใช้ข้อมูลจาก PowerPoint decks
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการใช้งานหลัก" %}}
+
+* การแปลงบันทึกสไลด์เป็นข้อความที่สามารถแก้ไขได้สำหรับรายงาน
+* สร้างเอกสาร ODT สำหรับสรุปทางวิชาการหรือธุรกิจ
+* การแปลงงานนำเสนอโครงการเป็นไฟล์ข้อความที่สามารถแชร์ได้
+* การนำเนื้อหาจากสไลด์มาใช้ในการเขียนนโยบายและข้อเสนอ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการใช้งานของอัตโนมัติ" %}}
+
+* การสร้างรายงานโดยอัตโนมัติจากงานนำเสนอ PowerPoint
+* การผสานการทำงานกับเครื่องมือเอกสารสำนักงานโอเพนซอร์ส
+* การแปลง pitch decks เป็นเอกสารที่สามารถแก้ไขได้สำหรับการทบทวนภายใน
+* การเก็บข้อมูลบันทึก PowerPoint ในรูปแบบ ODT เพื่อการเข้าถึงได้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -129,7 +129,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi WORDML (WordprocessingML) biçimine dönüştürmek, vektör diyagramları tamamen gömülü olan XML tabanlı Word belgeleri oluşturur. WORDML, programatik belge işleme, şablon oluşturma ve otomatik iş akışları için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Gömülü SVG görselleri içeren Word raporlarının programatik olarak oluşturulması.
+* Otomatik düzenleme için XML'de akademik ve araştırma şablonları.
+* Sürüm kontrollü iş akışları için standartlaştırılmış proje belgeleri.
+* Yapılandırılmış XML biçiminde etkileşimli SVG içeriğin arşivlenmesi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Raporlama sistemleri için otomatik toplu SVG-WORDML dönüşümü.
+* İş akışı otomasyonu için SVG tabanlı şablonların XML'e zamanlanmış dışa aktarımı.
+* Belge oluşturma API'ları ve içerik yönetim sistemleriyle entegrasyon.
+* Dinamik, programatik olarak kontrol edilen Word belgeleri için tetiklenen oluşturma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

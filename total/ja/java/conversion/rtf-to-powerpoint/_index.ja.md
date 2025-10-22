@@ -54,7 +54,29 @@ APIを使用すると、パスワードで保護されたRTFドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+RTFファイルを直接PowerPointプレゼンテーションに変換することで、構造化されたテキストを魅力的なビジュアルスライドに迅速に変換できます。この変換は、教育関係者、マーケター、企業のプロフェッショナルが文書コンテンツをダイナミックにプレゼンテーションしたい場合に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* RTFの講義ノートをスライドベースの教材に変換する。
+* ビジネスレポートを魅力的なPowerPointデッキに変換する。
+* クライアント向けプレゼンテーション用にRTFマーケティングコンテンツを準備する。
+* RTFファイルから提案書や戦略プレゼンテーションの自動作成を行う。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* コンテンツ作成プラットフォームでのリアルタイムRTFからPowerPointへの変換。
+* RTFレポートからスライドを生成するAIツールとの統合。
+* 企業文書のためのバッチプレゼンテーション作成。
+* eラーニングやビジネス分析のための自動デッキ生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+## /BMP
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

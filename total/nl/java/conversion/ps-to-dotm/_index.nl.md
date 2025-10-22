@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PS (PostScript) bestanden naar DOTM (Word Macro-Enabled Template) combineert standaardisatie van sjablonen met automatisering. Gebruikers kunnen lay-outs hergebruiken terwijl ze macro's benutten om documentpopulatie, berekeningen of opmaak te automatiseren.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van PS-rapporten naar herbruikbare macro-ingeschakelde Word-sjablonen.
+* Het automatiseren van het maken van contracten of facturen met lay-outs afgeleid van PostScript.
+* Het insluiten van door PS gegenereerde tabellen en grafieken in DOTM-sjablonen.
+* Het maken van interactieve formulieren voor HR, financiën of operationele workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batch PS-naar-DOTM conversie in bedrijfsworkflowautomatisering.
+* Integratie met documentgeneratiesystemen voor door macro's aangestuurde taken.
+* AI-ondersteunde populatie van sjablonen met PS-geëxtraheerde inhoud.
+* Geplande generatie van macro-ingeschakelde sjablonen voor terugkerende rapportagebehoeften.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

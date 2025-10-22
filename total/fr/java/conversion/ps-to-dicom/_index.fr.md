@@ -57,7 +57,31 @@ L'API vous permet également d'exporter le fichier PS vers DICOM dans un seul fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de fichiers PS (PostScript) en format DICOM (Digital Imaging and Communications in Medicine) permet d'intégrer de manière transparente des rapports vectoriels, des graphiques de diagnostic et des annotations radiographiques dans des flux de travail d'imagerie médicale normalisés. La compatibilité DICOM garantit que ces rapports visuels peuvent être consultés et analysés en toute sécurité sur les plateformes PACS (Picture Archiving and Communication System) utilisées dans les hôpitaux et les cliniques.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Intégration de diagrammes de diagnostic vectoriels dans les archives d'imagerie des patients.
+* Conversion de graphiques PS en cardiologie ou oncologie en séries d'images compatibles DICOM.
+* Intégration de visuels de planification chirurgicale dans les systèmes d'imagerie hospitaliers.
+* Génération de résumés diagnostiques en tant que superpositions DICOM pour les rapports de radiologie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Transformation automatisée de PS en DICOM dans les flux de travail des DME (Dossiers Médicaux Électroniques).
+* Intégration de données ETL dans les pipelines d'analyse de la santé pour les rapports basés sur l'imagerie.
+* Conversion par lots assistée par IA pour la visualisation diagnostique dans les systèmes d'IA médicale.
+* Exportation DICOM déclenchée pour la documentation d'imagerie clinique générée automatiquement.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

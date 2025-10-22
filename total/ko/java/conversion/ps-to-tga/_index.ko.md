@@ -57,7 +57,31 @@ API를 사용하여 필요에 따라 출력 TGA 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 TGA (Targa Image)로 변환하면 비디오, 멀티미디어 및 게임 디자인 프로젝트에서 사용하기 위해 고품질의 PostScript 그래픽 래스터화가 가능해집니다. TGA는 색상 깊이를 유지하며 고급 이미지 합성을 위한 알파 채널을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 멀티미디어 제작을 위해 PostScript 삽화를 TGA 이미지로 변환합니다.
+* 3D 렌더링 및 애니메이션 파이프라인에서 사용하기 위해 PS 다이어그램을 변환합니다.
+* 게임 디자인 자산을 위해 기술적 그래픽을 내보냅니다.
+* 비디오 오버레이 또는 합성 워크플로에 대한 PS 레이아웃을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 멀티미디어 제작 파이프라인에서 자동 PS-to-TGA 변환을 수행합니다.
+* 비디오 및 게임 프로젝트용 PS 이미지의 일괄 처리를 수행합니다.
+* 동적 렌더링 워크플로를 위해 그래픽 엔진과 통합합니다.
+* PS 시각 자료를 TGA 출력을 위해 알파 채널과 함께 최적화하는 AI 지원 기능을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

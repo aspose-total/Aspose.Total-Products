@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPTX en TSV, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPTX en TSV (valeurs séparées par des tabulations) offre une représentation structurée en texte brut des tableaux de présentation. Ce format est idéal pour les développeurs et les data scientists ayant besoin d'une importation facile dans des environnements de code ou d'analyse.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conversion des données des diapositives PowerPoint pour la modélisation statistique.
+* Préparation d'informations tabulaires pour des scripts et des API.
+* Exportation des KPI et des métriques des diapositives PowerPoint vers des TSV.
+* Partage de jeux de données propres à des fins de recherche et académiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversions planifiées de PPTX en TSV dans les pipelines de données.
+* Exportations automatisées de TSV pour les ensembles de données d'entraînement en apprentissage automatique.
+* Intégration avec des référentiels de données scientifiques.
+* Pont de données de PowerPoint vers code pour les flux de travail d'ingénierie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPS ke DOCM dengan tand
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPS (PowerPoint Slide Show) ke DOCM (Dokumen Word yang Diaktifkan Makro) memungkinkan pembuatan dokumen teks otomatis dan interaktif. Konversi ini sempurna untuk tim yang membutuhkan konten dinamis seperti laporan yang diisi otomatis atau dokumen dengan skrip bawaan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat template yang diaktifkan makro dari konten presentasi.
+* Mengotomatisasi pembuatan laporan ringkasan menggunakan skrip VBA yang disematkan.
+* Membangun dokumen bisnis dinamis dengan data bersyarat.
+* Mendesain laporan kepatuhan berbasis DOCM dari presentasi PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Pembuatan DOCM yang terjadwal dari presentasi PowerPoint.
+* Integrasi dengan alur kerja Word yang didorong oleh VBA untuk otomatisasi dokumen.
+* Konversi batch untuk departemen yang menggunakan template yang diaktifkan makro.
+* Konversi otomatis dalam alur kerja pembuatan dokumen.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

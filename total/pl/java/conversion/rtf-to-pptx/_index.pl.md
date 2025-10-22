@@ -54,7 +54,31 @@ Interfejs API umożliwia również konwersję dokumentów RTF chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików RTF na PPTX (PowerPoint Open XML Presentation) zamienia statyczny tekst w nowoczesne, edytowalne i łatwo udostępnialne prezentacje slajdów. Ten powszechnie obsługiwany format jest idealny do raportów biznesowych, wykładów, propozycji i treści marketingowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie notatek zebrań opartych na RTF na dopracowane prezentacje PowerPoint.
+* Tworzenie dynamicznych prezentacji z sformatowanych raportów tekstowych.
+* Ponowne wykorzystanie danych firmowych zapisanych w formacie RTF do wzbogaconych wizualnie slajdów.
+* Przekształcanie dokumentacji pisemnej w prezentacje oparte na narracji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Partiowa eksportacja z RTF do PPTX dla systemów dokumentacyjnych korporacji.
+* Integracja z kreatorami prezentacji online i platformami chmurowymi.
+* Automatyczne generowanie prezentacji dla komunikacji wewnętrznej i prezentacji dla klientów.
+* Zaplanowane aktualizacje prezentacji z repozytoriów dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）をRTF（Rich Text Format）に変換することで、基本的な書式、フォント、ベクターグラフィックを保持しながら、文書を複数のプラットフォームやワードプロセッサで使用できるようになります。RTF変換は、互換性の問題なくレポートを共有するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* PostScriptベースのレポートを普遍的に読み取れるRTFファイルに変換する。
+* クロスプラットフォームのチームとPSダイアグラムやチャートを共有する。
+* 公式文書、手紙、社内レポートの書式を保持する。
+* PSやDOCXをネイティブでサポートしていないシステム向けの文書の準備。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 旧システム統合のための自動化されたPSからRTFへの変換。
+* マルチプラットフォーム環境での文書配布のためのバッチ処理。
+* PSアーカイブを編集可能な形式に変換するためのETLベースのワークフロー。
+* PS文書からの抽出と書式の保持をAIが支援。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

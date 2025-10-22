@@ -102,7 +102,31 @@ otherformats: DIF XLSX XLSM XLTM XLS CSV XLTX TSV SXC ODS XLSB FODS XLT EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל-XLAM (תוסף Excel) מאפשרת למפתחים ולניתוחים להטביע תוכן RTF טקסטואלי או טבלאי בסביבות אוטומציה של Excel. פורמט זה תומך במאקרוס וב-VBA, משפר כלים לייצור שמתים המתבססים על קלט מסמכים המופעלים על ידי נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* הטבעת תבניות מבוססות RTF בתוספי Excel לדיווחים אוטומטיים.
+* המרת מסמכים מעוצבים למודולים מתמשכים של מאקרו Excel.
+* יצירת פתרונות אוטומציה של Excel המופעלים על ידי קלטי נתונים RTF.
+* עיצוב טפסים דינמיים באמצעות תוכן RTF משולב בתוספי XLAM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת RTF ל-XLAM בצינורות פיתוח מותאמים אישית של מאקרו Excel.
+* שילוב במערכות אוטומציה של מסמכים לבינה עסקית.
+* המרה בתוך פתרונות דיווח מופעלים על ידי VBA למודלים פיננסיים.
+* יצירה מתוזמנת של תוספי Excel ממאגרי נתונים RTF מרכזיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

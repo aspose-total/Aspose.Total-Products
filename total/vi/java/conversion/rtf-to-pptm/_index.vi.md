@@ -54,7 +54,31 @@ API cũng cho phép bạn chuyển đổi các tài liệu RTF được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp RTF thành PPTM (Bản trình bày có Macro hỗ trợ) kết hợp nội dung tài liệu có cấu trúc với các macro tương tác. Nó hỗ trợ tạo ra các slide tự động, tương tác dữ liệu và tích hợp đa phương tiện cho việc sử dụng chuyên nghiệp.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo ra các bản trình bày tương tác từ các báo cáo kinh doanh RTF.
+* Tự động hóa việc cập nhật bản trình bày bằng cách nhúng macro.
+* Xây dựng tài liệu đào tạo thông minh phản ứng với đầu vào của người dùng.
+* Chuyển đổi tài liệu RTF thành các slide động, liên kết dữ liệu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi RTF thành PPTM cho quy trình làm việc trình bày dựa trên macro.
+* Tích hợp với các nền tảng tự động hóa cho các hình ảnh thông tin doanh nghiệp.
+* Tạo ra các bộ slide PowerPoint có Macro được lên lịch.
+* Tự động tạo ra các bản trình bày doanh nghiệp tương tác từ nguồn RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

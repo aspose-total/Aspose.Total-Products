@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG átalakítása PCL formátummá (Nyomtatóparancs-nyelv) lehetővé teszi a diagramok és táblázatok magas minőségű vektoros nyomtatását. A PCL ideális vállalati nyomtatási folyamatokhoz és hardverkompatibilitáshoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Mérnöki vagy technikai diagramok magas felbontású nyomtatása.
+* Vállalati jelentések beágyazott vektoros diagramokkal papíralapú terjesztéshez.
+* Marketing- és termékvizuálisok optimalizálása PCL-kompatibilis nyomtatókhoz.
+* Oktatási és kutatási diagramok részletvesztés nélküli nyomtatása.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ismétlődő nyomtatási feladatokhoz automatizált tételszerű SVG-PCL átalakítás.
+* Integráció nyomtatási menedzsment rendszerekkel nagy mennyiségű kimenetekhez.
+* Ütemezett átalakítási csatornák szabványosított jelentésnyomtatáshoz.
+* Dinamikusan generált vektoros tartalomhoz kiváltott SVG-PCL ábrázolás.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

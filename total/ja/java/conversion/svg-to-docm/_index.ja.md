@@ -130,7 +130,25 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+SVG（スケーラブル・ベクター・グラフィックス）ファイルをDOCX（マクロ有効ワード文書）に変換すると、Word文書にインタラクティブなベクターダイアグラムを埋め込みながら、自動化のためのマクロをサポートできます。DOCMは、動的なレポート、テンプレート、教材に最適です。
+
+## Key Use Cases
+
+- SVGダイアグラムとマクロ有効ナビゲーションを組み込んだインタラクティブなトレーニングマニュアル。
+- アニメーションやインタラクティブなベクターチャートを取り入れたビジネスレポート。
+- マクロ駆動の動的SVGビジュアルを使用した学術研究論文。
+- プロジェクト提案書や企業ワークフローのための標準化されたテンプレート。
+
+## Automation Scenarios
+
+- 企業レポート用のSVGダイアグラムの自動バッチ変換。
+- SVGビジュアルからのマクロ有効テンプレートの定期的な作成。
+- インタラクティブなレポートのための文書管理システムとの統合。
+- 動的な教育コンテンツのためのSVGからDOCMへの変換のトリガー。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

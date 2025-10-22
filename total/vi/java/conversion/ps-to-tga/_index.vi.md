@@ -57,7 +57,31 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh TGA đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PS (PostScript) sang TGA (Targa Image) cho phép raster hóa chất lượng cao của đồ họa PostScript để sử dụng trong dự án video, đa phương tiện và thiết kế trò chơi. TGA duy trì độ sâu màu và hỗ trợ kênh alpha cho việc ghép ảnh tiên tiến.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi các hình minh họa PostScript thành hình ảnh TGA cho sản xuất đa phương tiện.
+* Chuyển đổi các biểu đồ PS để sử dụng trong các đường ống kết xuất và hoạt hình 3D.
+* Xuất các đồ họa kỹ thuật cho tài sản thiết kế trò chơi.
+* Chuẩn bị bố cục PS cho lớp phủ video hoặc quy trình làm việc ghép ảnh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi PS sang TGA tự động trong các đường ống sản xuất đa phương tiện.
+* Xử lý hàng loạt hình ảnh PS cho video và dự án trò chơi.
+* Tích hợp với các động cơ đồ họa cho quy trình làm việc kết xuất động.
+* Tối ưu hóa hỗ trợ AI của hình ảnh PS cho đầu ra TGA với kênh alpha.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

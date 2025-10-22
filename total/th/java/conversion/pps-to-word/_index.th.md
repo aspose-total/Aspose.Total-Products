@@ -53,7 +53,31 @@ otherformats: DOTM TEXT WORDX OTT WORDML FLATOPC WORD DOT DOTX WORDM ODT RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็นรูปแบบ Word ช่วยให้ผู้ใช้สามารถแปลงงานนำเสนอทางภาพเป็นเอกสาร Word ที่ครอบคลุมได้ กระบวนการนี้สนับสนุนการใช้เนื้อหาใหม่ในรายงาน การเอกสาร และการแก้ไขร่วมกัน
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* สร้างรายงานธุรกิจทางการจากภาพนำเสนอ
+* แปลงเด็กสอนเข้าสู่เอกสาร Word ที่สามารถแบ่งปันได้
+* สร้างเอกสารจากการนำเสนออัพเดตโปรเจกต์
+* สร้างไฟล์ Word ที่สามารถแก้ไขได้สำหรับการสื่อสารกับลูกค้า
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การแปลงสไลด์เป็น Word โดยอัตโนมัติสำหรับระบบรายงานภายใน
+* การผสานเข้ากับขั้นตอนการเผยแพร่เนื้อหา
+* การส่งออก Word ตามกำหนดเวลาสำหรับการนำเสนอโปรเจกต์หรือขายสินค้า
+* การประมวลผลเป็นชุดของไฟล์ PPS เป็นเอกสารที่สามารถแก้ไขได้
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

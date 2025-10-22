@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de fichiers PPS (PowerPoint Slide Show) au format Word permet aux utilisateurs de transformer des présentations visuelles en documents Word complets. Ce processus prend en charge la réutilisation du contenu pour les rapports, la documentation et l'édition collaborative.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Création de rapports d'entreprise formels à partir de diapositives de présentation.
+* Conversion de pitch decks en propositions basées sur Word partageables.
+* Génération de documentation à partir de présentations de mises à jour de projets.
+* Production de fichiers Word modifiables pour les communications avec les clients.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de diapositives en Word pour les systèmes de reporting internes.
+* Intégration dans les flux de publication de contenu.
+* Exportation planifiée vers Word pour les présentations de projets ou de ventes.
+* Traitement par lot de plusieurs fichiers PPS en documents modifiables.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

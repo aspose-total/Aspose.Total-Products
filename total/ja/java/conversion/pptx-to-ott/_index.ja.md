@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTXファイルからOTTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXファイルをOTT（OpenDocument Text Template）に変換することで、プロフェッショナルはプレゼンテーション資料から再利用可能なテキストテンプレートを作成できます。標準化されたレポート、ブランド化された文書、またはテンプレート化された要約を生成する素晴らしい方法です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* プレゼンテーションコンテンツに基づいたブランド化されたテンプレートの作成。
+* 企業のデッキを再利用可能なODTテンプレートに変換する。
+* PowerPointスライドから学術報告書のテンプレートを作成する。
+* PPTXデザインから標準的なコミュニケーション形式を生成する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* コンテンツの標準化のための自動化されたPPTXからOTTへの変換。
+* テンプレート管理システムとの統合。
+* 企業全体でのバッチテンプレート生成。
+* デザインの一貫性を維持するためのワークフロー自動化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

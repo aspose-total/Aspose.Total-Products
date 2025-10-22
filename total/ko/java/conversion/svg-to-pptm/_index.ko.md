@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 PPTM(매크로 활성화 PowerPoint)으로 변환하면 확장 가능한 벡터 그래픽과 상호 작용 및 자동화 가능한 슬라이드 덱을 결합합니다. 동적 기업 또는 교육 프레젠테이션에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 대시보드를 사용한 매크로 활성화 기업 프레젠테이션.
+* 내장된 매크로를 사용한 상호 작용적인 교육 또는 연구 슬라이드 덱.
+* 자동화된 차트 및 상호 작용형 시각 자료를 사용한 마케팅 프레젠테이션.
+* 매크로로 구동되는 상호 작용을 통합한 교육 모듈.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 반복되는 매크로 활성화 슬라이드 덱을 위한 자동화된 SVG-to-PPTM 변환.
+* 실시간 데이터 시각 자료를 사용한 상호 작용 프레젠테이션을 위한 예약된 업데이트.
+* 동적인, 실행 준비 상태의 슬라이드를 위한 워크플로 자동화 통합.
+* PPTM 형식의 상호 작용 대시보드를 생성하는 트리거 파이프라인.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

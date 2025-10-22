@@ -54,7 +54,31 @@ APIを使用すると、パスワードで保護されたRTFドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTFをPPSX（PowerPoint Show Open XML）に変換することは、文書ベースの情報を視覚的に魅力的なプレゼンテーションとして表示する現代的な方法を提供します。PPSXファイルはスライドショー モードで直接開き、最終表示や共有に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* RTFベースの企業の最新情報をプレゼンテーション用のスライドショーに変換する。
+* 構造化されたテキストファイルから最終成果物のプレゼンテーションを生成する。
+* イベントや会議のスライドをRTFソースから直接準備する。
+* RTFコンテンツを閲覧専用のPowerPointデッキとして共有する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 自動化されたプレゼンテーション公開パイプラインでのRTFからPPSXへの変換。
+* Office 365プレゼンテーションワークフローとの統合。
+* 標準化されたRTFレポートからのPPSXスライドの一括生成。
+* スライドショー用の企業サマリーの定期的な作成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

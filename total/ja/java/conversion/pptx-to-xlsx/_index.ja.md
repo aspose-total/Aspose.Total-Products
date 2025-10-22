@@ -61,7 +61,31 @@ PPTXファイルをXLSXに変換するときに、出力XLSXファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXをXLSX（モダンExcelワークブック）に変換すると、構造化された編集可能で共有可能なデータ形式が提供されます。これにより、プレゼンテーションとスプレッドシートの間のギャップが埋められ、コラボレーション、可視化、高度な分析がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* スライドチャートを編集可能なExcelビジュアルに変換する。
+* PowerPointのKPIを構造化されたデータテーブルにエクスポートする。
+* Excelベースのダッシュボード用のプレゼンテーションレポートを準備する。
+* チーム全体で更新されたプレゼンテーションデータを共有する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業向けレポート作成のためのバッチPPTXからXLSXへの変換。
+* PowerPointとExcel分析を統合する自動パイプライン。
+* 定期的なビジネスインサイトのためのスケジュール変換。
+* Power Automateなどのワークフロー自動化スイートへの統合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,31 @@ otherformats: CSV DIF MHTML XLSM XLTX XLSB XLAM XLTM FODS MARKDOWN SXC XLSX TSV 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTX ל-XLT (תבנית Excel) מאפשרת יצירת תבניות גיליון נתונים ניתנות לשימוש מידע ממצגת. זה אידיאלי עבור ארגונים שמתקיימים דו"חות כלכליים או סיכומי עסקים חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות דוח משקפים משקפי PowerPoint.
+* יצירת דגמים של Excel בהתבסס על KPIs של המצגת.
+* הקמת פורמטים לגליון מותגים לשימוש פנימי.
+* הכנת תבניות נתונים חודשיות או רבעוניות חוזרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת XLT אוטומטית ממצגות חברה.
+* סנכרון תבניות בין מחלקות.
+* יצירת תבניות דיווח ניתנות לשימוש באמצעות זרימת עבודה.
+* שילוב עם מאגרי תבניות שמורות גרסאות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ A PPS fájl TSV formátumba konvertálásakor vízjelet is hozzáadhat a kimenet
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPS (PowerPoint Slide Show) fájlok átalakítása TSV (Tab-Separated Values) formátumba strukturált exportálást tesz lehetővé a bemutató adatainak tabulátorral elválasztott formában történő használata során - ideális fejlesztők, elemzők és adattudósok számára, akik tisztább, kódbarát szövegalapú formátumot részesítenek előnyben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Táblázatok exportálása PowerPointből TSV formátumba adatelemzéshez Pythonban vagy R-ben.
+* Szövegalapú adatkészletek előkészítése üzleti prezentációkból.
+* Teljesítménydiagramok könnyen feldolgozható tabulátorral elválasztott adattá alakítása.
+* Többnyelvű tartalmi diaelemek kinyerése TSV formátumba a lokalizációs munkafolyamatokhoz.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Integráció mesterséges intelligencia adatcsövekbe, amelyek tabulátorral elválasztott szöveget igényelnek.
+* Dia alapú statisztikák tömeges kinyerése TSV formátumba modellezéshez és elemzéshez.
+* Ütemezett dia-TSV átalakítás vállalati adatkezeléshez.
+* Automatikus TSV létrehozás háttérbe történő beolvasáshoz webes alapú vezérlőpulton.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

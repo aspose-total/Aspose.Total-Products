@@ -130,7 +130,31 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de fichiers SVG en ODT (OpenDocument Text) permet d'intégrer des graphiques vectoriels dans des documents texte multiplateformes. L'ODT garantit une fidélité visuelle tout en restant compatible avec LibreOffice, OpenOffice et d'autres suites.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Manuels techniques et rapports de projet intégrant des diagrammes SVG.
+* Articles académiques avec des illustrations vectorielles intégrées.
+* Documentation marketing ou commerciale utilisant des visuels SVG évolutifs.
+* Manuels et guides multiplateformes distribués sans problèmes de mise en forme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée par lots de SVG en ODT pour une documentation récurrente.
+* Mises à jour planifiées des modèles avec de nouveaux visuels SVG.
+* Intégration avec des systèmes de gestion de contenu pour une distribution multiplateforme.
+* Génération déclenchée pour des supports pédagogiques ou de formation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

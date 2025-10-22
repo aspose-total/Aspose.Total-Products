@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG átalakítása DOT formátummá (Word 97-2003 sablon) lehetővé teszi újrafelhasználható dokumentumsablonok létrehozását beágyazott vektorábrákkal, amelyek kompatibilisek az régebbi Word verziókkal. A DOT egységes formázást biztosít az örökölt rendszerekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Szabványosított jelentésablonok SVG diagramokkal az örökölt Word dokumentumokhoz.
+* Projektjavaslat sablonok beépített vizuális irányítópultokkal.
+* Újrafelhasználható akadémiai vagy oktatói sablonok SVG vizuális elemekkel.
+* Történelmi dokumentumsablonok üzleti vagy mérnöki munkafolyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált tételszerű SVG-DOT sablon generálás az örökölt Word munkafolyamatokhoz.
+* Ütemezett frissítések a sablonokhoz új SVG vizuális elemekkel.
+* Integráció dokumentumkezelő rendszerekbe, amelyek visszafelé kompatibilis sablonokat igényelnek.
+* Kiváltott átalakítás ismétlődő jelentésekhez és újrafelhasználható sablonokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,31 @@ Interfejs API umożliwia również konwersję dokumentów RTF chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie dokumentów RTF na PPS (PowerPoint Show) przekształca statyczny tekst w prezentacje gotowe do pokazania, które otwierają się bezpośrednio w trybie pełnoekranowym. Jest idealne do zautomatyzowanych briefingu, prezentacji edukacyjnych lub pokazów targowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie raportów RTF na gotowe do prezentacji pokazy slajdów.
+* Tworzenie zautomatyzowanych wizualnych briefingu z dokumentów tekstowych.
+* Projektowanie treści cyfrowych dla tablic reklamowych na podstawie materiałów marketingowych w formacie RTF.
+* Przygotowywanie pokazów edukacyjnych do użytku w sali lekcyjnej lub na konferencji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersja wsadowa RTF na PPS dla zaplanowanych prezentacji.
+* Integracja z kioskami i zautomatyzowanymi systemami wyświetlania.
+* Automatyczne tworzenie pokazów slajdów z przechowywanych repozytoriów dokumentów.
+* Generowanie wizualnych pulpitów nawigacyjnych na podstawie strukturalnych danych wejściowych w formacie RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

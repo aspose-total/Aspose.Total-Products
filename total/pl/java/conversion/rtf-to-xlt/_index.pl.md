@@ -61,7 +61,31 @@ Po przekonwertowaniu RTF na XLT [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików RTF na XLT (szablon Excela) pozwala przekształcić sformatowane dane dokumentów w wielokrotnie użyteczne szablony arkuszy kalkulacyjnych. Jest to szczególnie przydatne dla organizacji standaryzujących układy raportów lub automatyzujących tworzenie dokumentów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie formularzy biznesowych RTF na szablony raportów Excela.
+* Projektowanie standaryzowanych struktur raportów firmowych na podstawie układów RTF.
+* Tworzenie szablonów do wprowadzania danych na podstawie tabel RTF.
+* Przekształcanie list kontrolnych RTF w narzędzia produktywności oparte na Excelu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie szablonów RTF do XLT dla standaryzacji raportów.
+* Integracja z systemami dodatków Excela dla wielokrotnie użytecznych formularzy biznesowych.
+* Zaplanowane konwersje dla przepływów pracy dokumentacji przedsiębiorstwa.
+* Przetwarzanie wsadowe raportów RTF na biblioteki szablonów Excela.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

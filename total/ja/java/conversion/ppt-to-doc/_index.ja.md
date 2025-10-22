@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTファイルからDOCへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）ファイルをDOC（Microsoft Word Document）に変換することで、プレゼンテーションスライドを編集可能なテキスト文書にシームレスに変換できます。この変換は、スライドベースのコンテンツから詳細なレポート、要約、ハンドアウトを作成するために不可欠です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* 会議プレゼンテーションをレポート用のWord文書に変換する。
+* スライドからテキストコンテンツを抽出して詳細な文書化を行う。
+* PowerPointの提案を編集可能なプロジェクト概要に変換する。
+* マーケティングやトレーニング用のデッキから印刷可能なハンドアウトを生成する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レポート生成ワークフロー用の自動化されたPPTからDOCへの変換。
+* 企業文書管理システムへの統合。
+* 週次のPowerPoint更新からWord要約の定期的な作成。
+* 教育や企業のアーカイブ用のバッチ変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

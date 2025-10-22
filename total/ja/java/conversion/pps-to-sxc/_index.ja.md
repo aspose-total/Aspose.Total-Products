@@ -61,7 +61,31 @@ PPSファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをSXC（StarOffice Calc Spreadsheet）に変換することで、レガシーまたはオープンソースのオフィススイートを使用している組織は、プレゼンテーションデータをスプレッドシート形式に再利用できます。これにより、専用ソフトウェアを必要とせずに構造化された分析とレポートが可能となります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* ビジネスプレゼンテーションを分析可能なスプレッドシートデータに変換する。
+* 販売や財務のスライドサマリーをSXC形式でエクスポートする。
+* PPSレポートからOpenOffice互換のシートを準備する。
+* 教育プレゼンテーションを構造化された共有可能なスプレッドシートに変換する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* LibreOfficeベースのレポートワークフロー向けの自動化されたSXC生成。
+* オープンドキュメント管理システムへの統合。
+* 分析アーカイブ用のバッチスライドからSXCへの変換。
+* オープンソースオフィス環境を使用するチーム向けのスケジュールされたエクスポート。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

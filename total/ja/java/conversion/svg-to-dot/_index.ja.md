@@ -130,7 +130,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをDOT（Word 97-2003テンプレート）に変換することで、古いWordバージョンと互換性のある埋め込みベクターダイアグラムを含む再利用可能なドキュメントテンプレートを作成できます。DOTはレガシーシステム全体で一貫した書式設定を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* レガシーWordドキュメント用のSVGダイアグラムを含む標準化されたレポートテンプレート。
+* ビジュアルダッシュボードを組み込んだプロジェクト提案テンプレート。
+* SVGビジュアルを使用した再利用可能な学術または教育用テンプレート。
+* ビジネスまたはエンジニアリングワークフロー向けの歴史的文書テンプレート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レガシーWordワークフロー向けの自動バッチSVGからDOTテンプレートの生成。
+* 新しいSVGビジュアルを使用したテンプレートの定期的な更新。
+* 互換性のあるテンプレートが必要な文書管理システムへの統合。
+* 定期的なレポートや再利用可能なテンプレートのためのトリガー変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

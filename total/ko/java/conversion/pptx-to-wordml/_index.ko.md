@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 WORDML로 변환
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 WORDML(WordprocessingML)로 변환하면 프레젠테이션 콘텐츠가 XML 기반의 워드 구조로 변환되어 데이터 이식성과 시스템 통합이 필요한 개발자와 기업에 적합해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* XML 기반 처리를 위해 PowerPoint 콘텐츠 변환.
+* CMS 또는 ERP 시스템에 프레젠테이션 데이터 통합.
+* 구조화된 XML 형식으로 PowerPoint 파일 보관.
+* 슬라이드 데이터로부터 자동화된 워드 문서 생성 용이화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 문서 파이프라인에서의 워크플로 자동화.
+* WordML 기반 콘텐츠 생성 시스템 통합.
+* XML 기반 애플리케이션을 위한 일괄 변환.
+* 구조화된 마크업으로 PowerPoint 파일 자동 보관.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -99,7 +99,31 @@ otherformats: WORDML OTT DOCM RTF WORD FLATOPC ODT DOC DOT DOCX DOTX DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-TEXT (Plain Text) מאפשרת למשתמשים לחלץ רק את תוכן הטקסטואלי מהשקפים, מושלמת לניתוח, אינדוקסציה, תרגום או שימוש בצינורות תוכן שדורשות פורמטים נקיים, המבוססים רק על טקסט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ טקסט גולמי של השקפים לצורך כריית נתונים או עיבוד שפה טבעית.
+* יצירת סיכומי פגישות בפורמט טקסט פשוט מהשקפים של ההצגה.
+* הכנת טקסט נקי למערכות תרגום או לוקליזציה.
+* ארכיון קל של תוכן ההצגה.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* חילוץ טקסט אוטומטי לצורך אינדוקסציה בחיפוש או להכשרת AI.
+* המרת שקפים לטקסט באופן צפוי לצורך ארכיבה בארגון.
+* שילוב בצינורות תוכן לניתוח סמנטי.
+* ייצוא שוטף של טקסט פשוט לצורך זרימות עבודה בתיעוד.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

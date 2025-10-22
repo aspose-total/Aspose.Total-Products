@@ -53,7 +53,31 @@ Korzystając z API, możesz również wykonać konwersję pliku PPT do RTF ze zn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie prezentacji PPT (PowerPoint) na format RTF (Rich Text Format) umożliwia wyodrębnienie treści tekstowej zachowując podstawowe formatowanie. RTF zapewnia kompatybilność między różnymi platformami i edytorami tekstu, co czyni go doskonałym do prostych, edytowalnych raportów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Eksportowanie tekstu z prezentacji PowerPoint do edycji na różnych platformach.
+* Generowanie sformatowanych raportów tekstowych z slajdów.
+* Udostępnianie edytowalnych podsumowań bez konieczności korzystania z PowerPoint.
+* Konwertowanie prezentacji edukacyjnych na materiały do nauki w oparciu o format RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja PPT na RTF do dystrybucji raportów.
+* Integracja z systemami przetwarzania tekstu i archiwizacji.
+* Konwersje wsadowe dla lekkiej, edytowalnej dokumentacji.
+* Zaplanowane eksporty RTF do celów regulacyjnych i akademickich.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

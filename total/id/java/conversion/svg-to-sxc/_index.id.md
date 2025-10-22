@@ -47,7 +47,31 @@ Saat mengonversi file SVG ke SXC, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke SXC (StarOffice/LibreOffice Spreadsheet) memungkinkan penyisipan grafik vektor ke dalam format spreadsheet open-source. SXC ideal untuk alur kerja kolaboratif dan kompatibilitas spreadsheet lintas platform.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengimpor dasbor keuangan atau proyek SVG ke dalam spreadsheet LibreOffice.
+* Berbagi data penelitian atau akademik dengan grafik vektor dalam file SXC.
+* Pelacakan proyek kolaboratif menggunakan visual SVG yang disisipkan.
+* Template spreadsheet open-source yang terstandarisasi dengan diagram interaktif.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch otomatis dari SVG ke SXC untuk pipa laporan.
+* Ekspor terjadwal dari dasbor berbasis SVG ke spreadsheet open-source.
+* Integrasi dengan suite kantor kolaboratif untuk akses tim.
+* Generasi dipicu dari spreadsheet SXC dari data SVG dinamis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

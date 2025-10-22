@@ -47,7 +47,29 @@ SVGファイルをXLTXに変換するときに、出力XLTXファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをXLTX（Excel Open XML Template）に変換すると、スケーラブルなベクターグラフィックを使用したモダンで再利用可能なスプレッドシートテンプレートが作成されます。XLTXは新しいExcelバージョンと互換性があり、マクロを使用しないクリーンで軽量なテンプレートをサポートしています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* SVGビジュアルダッシュボードを使用した再利用可能なビジネスインテリジェンステンプレートの作成。
+* 企業チーム向けの標準化された人事または運用レポートテンプレート。
+* インタラクティブなSVGチャートを組み込んだ教育または研究テンプレート。
+* ベクターグラフィックを埋め込んだマーケティングキャンペーンのパフォーマンステンプレート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業レポーティング用のSVGダッシュボードからXLTXテンプレートの自動生成。
+* 最新のデータビジュアルを使用した新鮮で再利用可能なテンプレートを維持するための定期的な更新。
+* テンプレート駆動型ワークフローの自動化レポーティングパイプラインとの統合。
+* チームで使用するためのライブSVGダッシュボードをXLTXテンプレートに変換するトリガー。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

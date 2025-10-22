@@ -61,7 +61,31 @@ A PPTX fájl SXC formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX fájlok átalakítása SXC formátumra (StarOffice Calc táblázatkezelő) lehetővé teszi a prezentációs adatok és a régi táblázatkezelő eszközök közötti jobb együttműködést. Ideális vállalkozások számára, amelyek StarOffice-ot vagy hasonló OpenOffice alapú környezeteket használnak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Táblázatos adatok kinyerése PowerPoint diákokból táblázatkezelőbe.
+* Prezentációs elemzések megosztása StarOffice felhasználókkal.
+* Archiválási táblázatok előkészítése vállalati diákokból.
+* Prezentációs mutatók szerkesztése és elemzése SXC formátumban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges PPTX-SXC átalakítás dokumentumtárolókhoz.
+* Automatizált adatkinyerési munkafolyamatok régi irodai csomagokhoz.
+* Integráció vállalati jelentési rendszerekkel.
+* Ütemezett átalakítások a platformok közötti együttműködéshez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

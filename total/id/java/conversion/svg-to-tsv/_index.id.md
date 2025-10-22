@@ -47,7 +47,31 @@ Saat mengonversi file SVG ke TSV, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG ke TSV (Tab-Separated Values) memungkinkan ekspor diagram vektor ke format yang dioptimalkan untuk spreadsheet, analisis statistik, dan kumpulan data besar. TSV memastikan data tetap terstruktur dan mudah diparsing.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah grafik SVG interaktif menjadi TSV untuk analisis statistik.
+* Mengimpor diagram rekayasa untuk pengeditan spreadsheet kolaboratif.
+* Berbagi grafik pendidikan berbasis SVG dalam format TSV untuk tim penelitian.
+* Mengonversi visual kinerja produk menjadi data tabular terstruktur.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Pipa-pipa otomatis yang mengonversi grafik SVG ke TSV untuk platform analitik.
+* Ekspor TSV terjadwal dari diagram vektor untuk dasbor pelaporan.
+* Integrasi dengan perangkat lunak statistik yang memerlukan input TSV.
+* Konversi yang dipicu untuk visual berbasis vektor yang diperbarui secara dinamis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

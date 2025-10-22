@@ -130,7 +130,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをDOTX（Word Open XML Template）に変換すると、埋め込まれたベクターダイアグラムを持つモダンで再利用可能なドキュメントテンプレートが作成されます。DOTXは軽量であり、新しいWord機能をサポートし、標準化されたレポーティングに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* SVGベースのチャートを使用した再利用可能なビジネスレポートテンプレート。
+* SVGビジュアルを組み込んだ標準化された学術または教育用テンプレート。
+* ベクターダイアグラムを使用したマーケティングおよび運用テンプレートの作成。
+* 一貫したフォーマットと視覚的明瞭さを持つプロジェクト管理テンプレート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なレポート用のスケジュールされたSVGからDOTXテンプレートの生成。
+* 新しいビジュアルを使用して再利用可能なドキュメントテンプレートを更新するための自動化パイプライン。
+* テンプレート駆動型ワークフローのための企業文書システムとの統合。
+* インタラクティブで標準化されたSVGベースのテンプレートを作成するためのトリガー変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

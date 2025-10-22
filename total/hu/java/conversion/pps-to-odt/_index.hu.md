@@ -53,7 +53,31 @@ Az API segítségével PPS fájlból ODT-ba konvertálhat vízjellel. Ha vízjel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPS (PowerPoint Slide Show) fájlok átalakítása ODT (OpenDocument Text) formátumra lehetővé teszi a szakemberek számára, hogy a vizuális dia tartalmat szerkeszthető szöveges dokumentummá alakítsák. Ez a folyamat ideális a prezentációk átalakításához formális jelentések, képzési kézikönyvek és írott dokumentációvá, amelyek elérhetők a LibreOffice Writer vagy az OpenOffice Writer segítségével.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* A vállalati prezentációk átalakítása formázott projektjelentésekké.
+* Értekezleti jegyzőkönyvek vagy irányelvek generálása vizuális diákból.
+* Az osztályterem dia bemutatóinak részletes előadási jegyzetekké vagy tanulmányi útmutatókká alakítása.
+* Szerkeszthető tartalommegőrzők létrehozása befejezett PowerPoint bemutatókból.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált jelentéskészítés belső prezentációs diákból.
+* Integráció dokumentumkezelő rendszerekbe az ODT-alapú archiválás érdekében.
+* Marketing prezentációk átalakítása szöveges tartalmúvá belső publikáláshoz.
+* Nagy mennyiségű képzési dia bemutató tömeges átalakítása szerkeszthető kézikönyvekké az HR dokumentációhoz.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

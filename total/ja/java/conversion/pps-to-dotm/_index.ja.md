@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPSファイルからDOTMへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをDOTM（マクロ有効なWordテンプレート）に変換することで、動的でスクリプト駆動のドキュメントテンプレートの作成が可能になります。企業はDOTMを使用して、プレゼンテーションデータに基づいて文書生成やレポーティングを自動化しています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PPSプレゼンテーションからマクロベースのWordテンプレートを設計する。
+* VBAを埋め込んで定期的なビジネスフォームを自動化する。
+* コンプライアンスや品質レポート用の再利用可能なテンプレートを生成する。
+* PowerPointデッキから派生したインテリジェントなドキュメントワークフローを作成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業利用のためのDOTMテンプレートを自動生成する。
+* 文書作成のための自動化フレームワークとの統合。
+* 最新のプレゼンテーションからの定期的なテンプレート更新。
+* 複数のPPSファイルをマクロ有効なテンプレートに一括変換する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

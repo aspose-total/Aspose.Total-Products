@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG átalakítása DOTM-mé (Makróval aktivált Word sablon) újrafelhasználható sablonokat eredményez, amelyek ötvözik a skálázható vektorgrafikát a makrókkal. Ideális interaktív jelentésekhez, űrlapokhoz és munkafolyamat-dokumentumokhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Makróval aktivált projektkövetési sablonok beágyazott SVG grafikákkal.
+* Újrafelhasználható pénzügyi vagy működési sablonok vállalati munkafolyamatokhoz.
+* Oktatási vagy kutatási sablonok, amelyek dinamikus diagramokat és automatizálást integrálnak.
+* Interaktív e-learning anyagok makróval támogatott SVG diagramokkal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált SVG-DOTM átalakítás ismétlődő makróval aktivált sablonokhoz.
+* Ütemezett frissítések a sablonokhoz új SVG adatokkal és makrókkal.
+* Integráció munkafolyamat-automatizáló rendszerekbe, amelyek újrafelhasználható sablonokat igényelnek.
+* Kiváltott átalakítási folyamatok interaktív jelentési vezérlőpultokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

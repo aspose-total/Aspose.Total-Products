@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 RTF로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 RTF (Rich Text Format)으로 변환하면 사용자가 서식을 보존한 플랫폼 독립적인 텍스트 문서를 생성할 수 있습니다. 이를 통해 다른 워드 프로세서 및 운영 체제에서도 가독성을 보장할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 크로스 플랫폼 공유를 위해 PowerPoint 텍스트를 RTF로 내보내기.
+* 교육용 슬라이드를 서식이 있는 인쇄 가능한 메모로 변환하기.
+* PPS 비즈니스 덱으로부터 가벼운 RTF 보고서 생성.
+* 보관 또는 검토 목적을 위한 휴대용 문서 작성.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 규정 준수 문서 배포를 위한 자동화된 RTF 변환.
+* 가벼운 파일 저장을 위해 지식 관리 시스템 통합.
+* 텍스트 기반 요약을 위한 일정에 따른 슬라이드-RTF 내보내기.
+* 여러 프레젠테이션 파일로부터 일괄 RTF 생성.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

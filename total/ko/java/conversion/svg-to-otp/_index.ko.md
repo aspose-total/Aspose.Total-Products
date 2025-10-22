@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 OTP(OpenDocument Presentation Template)으로 변환하면 벡터 다이어그램을 사용하여 재사용 가능한 슬라이드 템플릿을 만들 수 있습니다. OTP는 팀과 프로젝트 간에 프레젠테이션을 표준화하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 대시보드 및 일러스트레이션을 사용한 기업 프레젠테이션 템플릿.
+* 포함된 벡터 그래픽을 사용한 교육용 슬라이드 템플릿.
+* 제품 데이터를 보여주는 재사용 가능한 마케팅 템플릿.
+* 확장 가능한 시각 자료를 위한 학술 또는 학회 프레젠테이션 템플릿.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 일관된 슬라이드 덱을 위한 SVG-to-OTP 템플릿의 자동 일괄 생성.
+* 교육이나 기업 프레젠테이션을 위한 예약된 업데이트.
+* 팀 전체에 걸쳐 템플릿 배포를 위한 워크플로 자동화 통합.
+* 실시간 SVG 데이터로부터 상호작용 슬라이드 템플릿의 생성을 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

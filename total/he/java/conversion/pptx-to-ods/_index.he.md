@@ -102,7 +102,31 @@ otherformats: XLS XLTX XLSX XLSM EXCEL XLSB MARKDOWN CSV XLTM TSV XLT DIF FODS M
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTX ל-ODS (OpenDocument Spreadsheet) מקשרת נתוני מצגת עם ניתוח גליונות אלקטרוניים. ההמרה הזו מועילה לארגונים שעוברים לחבילות עבודה בקוד פתוח תוך שמירה על תוכן טבלאי חיוני.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* חילוץ סיכומים פיננסיים ממצגות לתבנית ODS.
+* שיתוף שקופיות מבוססות נתונים עם משתמשי OpenOffice או LibreOffice.
+* הפעלת אנליטיקאים לעריכת טבלאות שקופיות בתוך תוכנות גליונות אלקטרוניים.
+* הכנת גרסאות של נתונים פתוחים של דוחות מצגת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרות PPTX ל-ODS מתוזמנות בתהליכי מסמכים.
+* שילוב בתי אופיס בקוד פתוח.
+* המרה אוטומטית להגשות נתונים ממשלתיים.
+* חילוץ מוכן ל-ETL של נתוני שקופיות נומריים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

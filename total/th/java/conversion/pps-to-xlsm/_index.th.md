@@ -61,7 +61,31 @@ otherformats: XLTM MARKDOWN FODS XLSM XLAM XLTX XLS MHTML DIF XLSX EXCEL XLSB TS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น XLSM (Macro-Enabled Workbook) ช่วยให้สามารถทำออโตเมชันขั้นสูงและการวิเคราะห์ได้เป็นไปอย่างดี นี้เหมาะสำหรับผู้ใช้ที่ต้องการฝังแมโครและสคริปต์ VBA เพื่อข้อมูลแบบโต้ตอบที่ได้มาจากเนื้อหาในงานนำเสนอ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างแดชบอร์ดที่ใช้แมโครจากสไลด์ PPS
+* แปลงงานนำเสนอที่เกิดซ้ำเป็นเทมเพลต Excel ที่อัปเดตเอง
+* พัฒนาตัวติดตาม KPI ที่อัปเดตโดยใช้แมโคร VBA
+* ฝังการคำนวณสรุปอัตโนมัติที่ดึงมาจากสไลด์ PowerPoint
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์ออโตเมชัน" %}}
+
+* การผสานเข้ากับไดอะแกรม Excel อัตโนมัติ
+* การแปลงสไลด์ PPS เป็นเทมเพลต XLSM สำหรับรายงานโครงการ
+* การสร้าง Excel โดยใช้แมโครตามกำหนดเวลาจากชุดข้อมูล PowerPoint
+* การแปลงสไลด์เป็นแมโครชีทอัตโนมัติสำหรับการอัปเดตธุรกิจที่เกิดซ้ำ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

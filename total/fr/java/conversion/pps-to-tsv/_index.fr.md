@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPS en TSV, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPS (PowerPoint Slide Show) en TSV (valeurs séparées par des tabulations) permet d'exporter de manière structurée les données de présentation en utilisant des délimiteurs de tabulation, idéal pour les développeurs, les analystes et les data scientists qui préfèrent un format texte plus propre et convivial pour le code.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Exporter des tableaux de PowerPoint en TSV pour une analyse de données en Python ou R.
+* Préparer des ensembles de données basés sur du texte à partir de présentations commerciales.
+* Transformer des graphiques de performance en données facilement analysables séparées par des tabulations.
+* Extraire des diapositives contenant du contenu multilingue en TSV pour des flux de travail de localisation.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Intégration dans des pipelines de données IA nécessitant du texte délimité par des tabulations.
+* Extraction en lot de statistiques basées sur des diapositives en TSV pour la modélisation et l'analyse.
+* Conversion planifiée de diapositives en TSV pour la gestion des données d'entreprise.
+* Création automatique de TSV pour l'ingestion côté serveur dans des tableaux de bord basés sur le web.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

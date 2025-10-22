@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力JPEG2000画像を回転させる
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）をJPEG2000に変換すると、画像の圧縮と品質保存が向上し、大規模なアーカイブ、出版、医療画像に最適です。JPEG2000の高度な圧縮アルゴリズムにより、PSファイルから高解像度の視覚効果を、より小さなファイルサイズと優れたクリアリティで提供します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* テクニカルなPSレンダリングを高品質のJPEG2000画像に変換する。
+* デジタルライブラリやアーカイブの文書保存を最適化する。
+* ジャーナルや研究出版物向けの科学的なイラストを準備する。
+* PSベースの製品カタログを効率的なWeb用画像に変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 画像管理システム内の自動圧縮パイプライン。
+* デジタルアセット管理（DAM）ワークフローとの統合。
+* 出版社向けにPSアートワークをJPEG2000にバッチ処理。
+* AI駆動の画像解析ツール向けのクラウドベースの最適化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

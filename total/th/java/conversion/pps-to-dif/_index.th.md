@@ -61,7 +61,31 @@ otherformats: XLTX XLSM XLT XLAM FODS XLS ODS EXCEL MHTML DIF TSV XLTM MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น DIF (Data Interchange Format) ช่วยให้มีการถ่ายโอนข้อมูลโครงสร้างระหว่างภาพนำเสนอและซอฟต์แวร์สเปรดชีตหรือสถิติได้ การแปลงนี้เหมาะสำหรับนักวิเคราะห์ที่ต้องการข้อมูลตารางจากภาพนำเสนอสำหรับการคำนวณตัวเลขหรือการจำลอง
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สกัดข้อมูลตารางจากการนำเสนอเข้าสู่ DIF เพื่อการวิเคราะห์ทางสถิติ
+* แปลงสรุปข้อมูลทางการเงินจากภาพนำเสนอเข้ากับเครื่องมือที่เข้ากันได้กับ DIF
+* เตรียมชุดข้อมูลทางวิชาการหรือวิจัยที่ได้มาจากตาราง PowerPoint
+* ส่งออกตัวชี้วัดประสิทธิภาพจากภาพนำเสนอของบริษัทเข้าสู่ข้อมูลที่พร้อมใช้งานในสเปรดชีต
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การส่งออก DIF ตามกำหนดเวลาเพื่อใช้ในการวิเคราะห์ข้ามแพลตฟอร์ม
+* การรวมเข้ากับกระบวนการ ETL ในการแปลงข้อมูลการนำเสนอสำหรับระบบ BI
+* การแปลงภาพนำเสนอเป็น DIF โดยอัตโนมัติเพื่อความสามารถในการทำงานร่วมกันของข้อมูล
+* การแปลงไฟล์ PPS เป็น DIF จำนวนมากสำหรับซอฟต์แวร์วิเคราะห์เก่า
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

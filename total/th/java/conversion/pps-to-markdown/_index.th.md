@@ -61,7 +61,31 @@ otherformats: XLTM XLSB XLSX FODS XLS XLAM MARKDOWN XLTX MHTML SXC XLT TSV ODS E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น MARKDOWN (MD) ช่วยให้ผู้ใช้สามารถเปลี่ยนสไลด์ภาพเป็นเอกสารข้อความที่เบา อ่านง่าย ที่เหมาะสำหรับบล็อก การเอกสาร และระบบการจัดการเนื้อหาที่ใช้ Git มันเป็นสะพานที่เชื่อมระหว่างงานนำเสนอและรูปแบบที่เป็นมิตรกับนักพัฒนาโปรแกรม
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงสไลด์ PowerPoint เป็นเอกสาร Markdown
+* เตรียมโน้ตโปรเจกต์โอเพนซอร์สจากสไลด์นำเสนอ
+* เผยแพร่เนื้อหาสไลด์การศึกษาไปยังเครื่องสร้างเว็บไซต์แบบสถิต
+* แปลงงานนำเสนอของบริษัทเป็นไฟล์ MD เบาสำหรับวิกิ GitHub
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง Markdown ตามกำหนดเวลาสำหรับทีมเนื้อหาโดยใช้ระบบควบคุมเวอร์ชัน
+* การผสานเข้ากับท่องไปของเอกสาร (เช่น Hugo, Jekyll)
+* การแปลง PowerPoint เป็น MD โดยอัตโนมัติสำหรับการเผยแพร่ออนไลน์
+* การประมวลผลเป็นกลุ่มของสไลด์ PPS เป็นไฟล์ Markdown โครงสร้าง
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

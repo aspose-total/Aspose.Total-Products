@@ -129,7 +129,31 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konvertering av SVG till DOT (Word 97-2003-mall) möjliggör skapandet av återanvändbara dokumentmallar med inbäddade vektor diagram som är kompatibla med äldre Word-versioner. DOT säkerställer konsekvent formatering över äldre system.
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+* Standardiserade rapportmallar med SVG-diagram för äldre Word-dokument.
+* Projektförslagsmallar som inkluderar visuella instrumentpaneler.
+* Återanvändbara akademiska eller instruktionsmallar med SVG-visualiseringar.
+* Historiska dokumentmallar för affärs- eller ingenjörsarbetsflöden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* Automatisk batch-generering av SVG-till-DOT-mallar för äldre Word-arbetsflöden.
+* Planerade uppdateringar av mallar med nya SVG-visualiseringar.
+* Integration i dokumenthanteringssystem som kräver bakåtkompatibla mallar.
+* Utlöst konvertering för återkommande rapporter och återanvändbara mallar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

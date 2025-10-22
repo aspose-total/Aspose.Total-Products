@@ -47,7 +47,31 @@ Saat mengonversi file PS ke XLAM, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PS (PostScript) ke XLAM (Excel Add-in) memungkinkan penciptaan add-in Excel berdasarkan logika, makro, atau otomatisasi yang berasal dari PostScript. Ini memungkinkan fungsionalitas Excel lanjutan dengan memanfaatkan konten visual atau data yang diekstrak dari file PS.
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+* Menanamkan perhitungan atau templat berbasis PostScript ke dalam add-in Excel.
+* Membuat alat otomatisasi yang dapat digunakan kembali dari laporan yang dihasilkan oleh PS.
+* Mengubah grafik berbasis PS menjadi dasbor Excel interaktif melalui XLAM.
+* Memungkinkan pengguna perusahaan untuk mendeploy otomatisasi yang didorong oleh PostScript di Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi otomatis PS ke XLAM untuk alat Excel internal.
+* Integrasi ke dalam alur kerja otomatisasi perusahaan.
+* Generasi makro Excel dengan bantuan AI dari data PostScript.
+* Pembaruan add-in terjadwal dengan konten yang diekstrak dari tata letak PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

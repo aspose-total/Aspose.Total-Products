@@ -129,7 +129,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG naar FLATOPC (Flat Open Packaging Conventions) resulteert in een enkele op XML gebaseerde bestandsstructuur die alle Word-inhoud bevat, inclusief vector diagrammen. Ideaal voor programmatische verwerking van documenten en interoperabiliteit.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Archiveren van SVG-diagrammen binnen een enkel draagbaar Word-documentpakket.
+* Programmatisch genereren van rapporten met ingesloten vector visuals.
+* Gestandaardiseerde sjablonen voor geautomatiseerde documentworkflows.
+* Zorgen voor cross-platform compatibiliteit voor interactieve Word-inhoud.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batchconversie van SVG naar FLATOPC-pakketten.
+* Geplande exports voor documentarchivering en versiebeheer.
+* Integratie in contentmanagementsystemen voor programmatische toegang.
+* Getriggerde generatie voor dynamische documentautomatiseringspijplijnen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

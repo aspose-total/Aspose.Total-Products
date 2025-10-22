@@ -61,7 +61,29 @@ PPTXファイルをMARKDOWNに変換するときに、出力MARKDOWNファイル
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPTXをMarkdownに変換することで、静的なプレゼンテーションを軽量でWebに適したテキストに変換できます。Markdownはコンテンツ共有のためのシンプルさを提供し、ブログ、ドキュメントプラットフォーム、静的ウェブサイトでの簡単な公開を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* PowerPointデッキを技術文書に再利用する。
+* スライドのノートやコンテンツをGitベースのWikiに公開する。
+* プレゼンテーションスライドの要約をブログ用に作成する。
+* 企業のプレゼンテーションをナレッジベースの記事に変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業のトレーニングスライドから自動的にMarkdownをエクスポートする。
+* HugoやJekyllなどのドキュメントビルドシステムとの統合。
+* 内部デッキをMarkdownポストに変換するためのバッチ処理。
+* Markdown形式でのコンテンツバージョニングのための継続的統合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

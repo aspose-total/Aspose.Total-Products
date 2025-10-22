@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG fájlok átalakítása DOTX formátumra (Word Open XML sablon) modern, újrafelhasználható dokumentumsablonokat hoz létre beágyazott vektorábrákkal. A DOTX könnyű, támogatja az új Word funkciókat, és ideális a szabványos jelentéskészítéshez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* Újrafelhasználható üzleti jelentéssablonok SVG alapú diagramokkal.
+* Szabványos akadémiai vagy oktatói sablonok SVG vizuális elemekkel.
+* Marketing- és operatív sablonok létrehozása vektor diagramokkal.
+* Projektmenedzsment sablonok egységes formázáshoz és vizuális tisztasághoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ütemezett SVG-DOTX sablon generálás ismétlődő jelentésekhez.
+* Automatizált folyamat az új vizuális elemekkel történő újrafelhasználható dokumentumsablonok frissítéséhez.
+* Integráció vállalati dokumentumrendszerekkel sablonvezérelt munkafolyamatokhoz.
+* Kiváltott átalakítás interaktív és szabványos SVG alapú sablonok létrehozásához.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

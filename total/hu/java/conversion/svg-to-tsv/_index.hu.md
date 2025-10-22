@@ -47,7 +47,31 @@ A SVG-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG fájlok átalakítása TSV (Tabulátorral elválasztott értékek) formátumba lehetővé teszi vektor diagramok exportálását egy olyan formátumba, amely optimalizált a táblázatkezelőkhöz, statisztikai elemzésekhez és nagy adatkészletekhez. A TSV biztosítja, hogy az adatok strukturáltak maradjanak és könnyen feldolgozhatók legyenek.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Interaktív SVG diagramok átalakítása TSV formátumba statisztikai elemzésekhez.
+* Mérnöki diagramok exportálása együttműködéses táblázatkezelő szerkesztéshez.
+* SVG alapú oktatási grafikonok megosztása TSV formátumban kutatócsoportok számára.
+* Termék teljesítményének vizualizációjának átalakítása strukturált táblázatos adattá.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált csővezetékek, amelyek átalakítják az SVG diagramokat TSV formátumba az analitikai platformok számára.
+* Ütemezett TSV exportok vektor diagramokból jelentési irányítópultok számára.
+* Integráció statisztikai szoftverekkel, amelyek TSV bemenetet igényelnek.
+* Kiváltott átalakítás dinamikusan frissített vektor alapú vizualizációkhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

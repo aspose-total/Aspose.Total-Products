@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPS (PowerPoint Slide Show) en TEXTE (Texte brut) permet aux utilisateurs d'extraire uniquement le contenu textuel des diapositives, idéal pour l'analyse, l'indexation, la traduction ou l'utilisation dans des pipelines de contenu nécessitant des formats propres et uniquement textuels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Extraction du texte brut des diapositives pour l'exploration de données ou le traitement du langage naturel.
+* Création de résumés de réunions en texte brut à partir des diapositives de présentation.
+* Préparation d'un texte propre pour les systèmes de traduction ou de localisation.
+* Stockage d'archives légères du contenu de présentation.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Extraction automatique de texte pour l'indexation de recherche ou la formation en IA.
+* Conversion en lot de diapositives en texte pour l'archivage d'entreprise.
+* Intégration dans les pipelines d'analyse de contenu pour une analyse sémantique.
+* Exportation planifiée en texte brut pour les flux de travail de documentation.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

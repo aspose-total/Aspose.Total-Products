@@ -61,7 +61,31 @@ otherformats: TSV DIF XLAM XLS SXC ODS XLTM XLSM FODS XLTX EXCEL MARKDOWN MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็นไฟล์ FODS (Flat XML ODF Spreadsheet) จะแปลงเนื้อหาของงานนำเสนอเป็นรูปแบบ XML ที่เข้ากันได้กับสเปรดชีต มีความคุ้มค่ามากโดยเฉพาะสำหรับผู้ใช้ open-source ที่ทำงานกับระบบ LibreOffice หรือ Apache OpenOffice
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การส่งออกข้อมูลตัวเลขจาก PowerPoint เข้าสู่สเปรดชีต FODS
+* สร้างสเปรดชีต XML โครงสร้างสำหรับการใช้ในการศึกษาหรือธุรกิจ
+* แปลงแผนภูมิจากสไลด์ให้เป็นข้อมูลสเปรดชีต OpenDocument ที่สามารถแก้ไขได้
+* เตรียมไฟล์มาตรฐานเปิดสำหรับการวิเคราะห์และแชร์ใน LibreOffice Calc
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง FODS ตามกำหนดเวลาจากการอัปเดตงานนำเสนอที่เกิดซ้ำๆ
+* การผสานเข้ากับระบบรายงาน open-source
+* การแปลงสไลด์เป็น FODS จำนวนมากสำหรับแดชบอร์ดทางการวิเคราะ
+* การสร้างสเปรดชีต XML โดยอัตโนมัติสำหรับการทำงานข้ามแพลตฟอร์ม
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

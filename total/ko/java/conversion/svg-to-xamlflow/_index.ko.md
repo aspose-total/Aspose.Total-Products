@@ -143,7 +143,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 XAMLFLOW로 변환하면 벡터 그래픽을 Flow 기반 애플리케이션에 통합하여 대화형 UI 워크플로를 지원할 수 있습니다. XAMLFLOW는 신속한 프로토타이핑과 동적 인터페이스 디자인에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* Flow 기반 대시보드에 SVG 다이어그램을 통합하여 대화형 애플리케이션에 사용합니다.
+* 확장 가능한 벡터 그래픽으로 기업 UI를 신속하게 프로토타이핑합니다.
+* 대화형 SVG 시각화를 사용한 교육 또는 연구 인터페이스입니다.
+* SVG 다이어그램이 포함된 워크플로 자동화 대시보드입니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 반복적 UI 개발을 위한 자동화된 SVG-to-XAMLFLOW 변환입니다.
+* 새로운 SVG 그래픽으로 애플리케이션 구성 요소를 예약된 업데이트합니다.
+* 실시간 인터페이스 렌더링을 위한 개발 파이프라인 통합입니다.
+* 앱을 위한 동적, 벡터 기반 UI 요소의 트리거 생성입니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

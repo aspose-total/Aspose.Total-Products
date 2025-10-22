@@ -57,7 +57,29 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）をSVGZ（圧縮可能なスケーラブルベクターグラフィックス）に変換することで、高品質で解像度に依存しない視覚効果を実現し、ファイルサイズを大幅に削減できます。SVGZファイルは、スケーラビリティと圧縮効率に優れており、Web、モバイル、UIデザインに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* Webインターフェース用にPSダイアグラムをスケーラブルなベクターグラフィックスに変換する。
+* レスポンシブウェブサイトやダッシュボード向けに技術イラストを最適化する。
+* 軽量なモバイルアプリに圧縮されたPSビジュアルを埋め込む。
+* デザインシステムやデジタルマニュアル向けのインタラクティブなベクターグラフィックスを準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* CMSベースのコンテンツ最適化のための自動化されたPSからSVGZへの圧縮。
+* ベクターアセット管理パイプラインへの統合。
+* デジタル出版向けにPSビジュアルを圧縮形式に一括レンダリング。
+* インタラクティブなWebプラットフォーム向けのクラウドベースのベクター最適化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

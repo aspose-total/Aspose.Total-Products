@@ -53,7 +53,33 @@ otherformats: DOTM RTF ODT FLATOPC DOTMX WORDML TEXT DOTMM DOTX WORD DOT OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น DOTM (Macro-Enabled Word Template) ช่วยให้สามารถสร้างเทมเพลตเอกสารที่ไดนามิกและเชื่อมต่อด้วยสคริปต์ได้ ธุรกิจใช้ DOTM เพื่ออัตโนมัติสร้างเอกสารและรายงานตามข้อมูลในงานนำเสนอ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ออกแบบเทมเพลตเอกสารใน Word ที่ใช้สคริปต์จากงานนำเสนอ PPS
+* อัตโนมัติรูปแบบฟอร์มธุรกิจที่เกิดซ้ำๆ โดยใช้ VBA ซ้อนอยู่
+* สร้างเทมเพลตที่ใช้ซ้ำได้สำหรับรายงานความเชื่อถือได้และคุณภาพ
+* สร้างเวิร์กโฟลว์เอกสารอัจฉริยะที่มาจาก PowerPoint decks
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* สร้างเทมเพลต DOTM โดยอัตโนมัติสำหรับการใช้งานในองค์กร
+* การผสานรวมกับกรอบการอัตโนมัติสำหรับการสร้างเอกสาร
+* การอัปเดตเทมเพลตตามกำหนดเวลาจากงานนำเสนอล่าสุด
+* การแปลงไฟล์ PPS หลายไฟล์ให้เป็นเทมเพลตที่เปิดใช้สคริปต์ได้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

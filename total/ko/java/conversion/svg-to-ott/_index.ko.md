@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 OTT(OpenDocument Text Template)으로 변환하면 임베디드 벡터 다이어그램이 포함된 재사용 가능한 텍스트 문서 템플릿이 생성됩니다. OTT은 프로젝트와 팀 워크플로우 전반에 걸쳐 일관성을 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 비즈니스 팀을 위한 SVG 시각화가 포함된 표준화된 보고서 템플릿.
+* 임베디드 다이어그램이 포함된 학술 또는 교육 문서 템플릿.
+* 일관된 형식을 위한 마케팅 또는 프로젝트 문서 템플릿.
+* 확장 가능한 SVG 그래픽을 활용한 재사용 가능한 가이드 및 매뉴얼.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* SVG 다이어그램을 OTT 템플릿으로 자동 일괄 변환.
+* 신선한 시각을 가진 재사용 가능한 문서 템플릿을 위한 예약된 업데이트.
+* 템플릿 기반 워크플로우를 위한 콘텐츠 시스템 통합.
+* 팀 협업을 위한 대화형 텍스트 템플릿 생성을 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

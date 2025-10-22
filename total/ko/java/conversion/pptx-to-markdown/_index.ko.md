@@ -61,7 +61,31 @@ PPTX 파일을 MARKDOWN로 변환하는 동안 출력 MARKDOWN 파일 형식에 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 Markdown으로 변환하면 정적 프레젠테이션을 가벼운 웹용 텍스트로 변환할 수 있습니다. Markdown은 콘텐츠 공유를 위한 간편함을 제공하여 블로그, 문서 플랫폼 및 정적 웹사이트에 쉽게 발행할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 덱을 기술 문서로 재활용.
+* Git 기반 위키에 슬라이드 노트 및 콘텐츠 발행.
+* 프레젠테이션 슬라이드의 블로그용 요약 생성.
+* 기업 프레젠테이션을 지식 베이스 기사로 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 교육 슬라이드로부터 자동화된 Markdown 내보내기.
+* Hugo 또는 Jekyll과 같은 문서 빌드 시스템과 통합.
+* 내부 덱을 Markdown 포스트로 변환하기 위한 일괄 처리.
+* Markdown 형식의 콘텐츠 버전 관리를 위한 지속적 통합.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

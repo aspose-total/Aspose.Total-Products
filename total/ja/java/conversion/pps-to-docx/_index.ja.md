@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPSファイルからDOCXへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをDOCX（Microsoft Word Open XML Document）に変換すると、プレゼンテーションコンテンツが現代的で編集可能なテキストドキュメントに変換され、Microsoft 365やクラウドコラボレーションツールと互換性があります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* スライドデッキをビジネスレポートや会議の要約に変換する。
+* ビジュアルプレゼンテーションから編集可能なマーケティングコンテンツを作成する。
+* フォーマットされたDOCXマニュアルやトレーニングガイドを生成する。
+* PPSファイルから直接クライアント向けの文書を作成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業報告システム向けの自動化されたDOCX生成。
+* Microsoft TeamsやSharePointへの統合による共同作業フロー。
+* コンテンツ管理と配布のためのバッチ変換。
+* プロジェクトのアップデートのためのスライドからDOCXへのスケジュール変換。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

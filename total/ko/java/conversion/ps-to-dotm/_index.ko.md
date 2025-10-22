@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 DOTM (Word Macro-Enabled Template)으로 변환하면 템플릿 표준화와 자동화가 결합됩니다. 사용자는 매크로를 활용하여 문서 작성, 계산 또는 서식 지정을 자동화하면서 레이아웃을 재사용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS 보고서를 재사용 가능한 매크로 지원 워드 템플릿으로 변환하기.
+* PostScript 기반 레이아웃을 활용하여 계약서 또는 송장 작성 자동화하기.
+* PS로 생성된 테이블과 차트를 DOTM 템플릿에 삽입하기.
+* HR, 금융 또는 운영 워크플로우용 대화형 양식 생성하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 워크플로우 자동화에서 일괄 PS-to-DOTM 변환하기.
+* 매크로 기반 작업을 위한 문서 생성 시스템 통합하기.
+* PS 추출 콘텐츠로 템플릿 자동 채우기를 AI로 지원하기.
+* 주기적 보고서 작성 필요에 따른 예약된 매크로 지원 템플릿 생성하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

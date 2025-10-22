@@ -102,7 +102,31 @@ otherformats: XLAM XLS CSV MHTML DIF XLSX XLTX XLSB EXCEL XLTM MARKDOWN FODS XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל־TSV (ערכים מופרדים בטאב) מאפשרת ייצוא מובנה של נתוני ההצגה באמצעות מפרידי טאב - אידיאלי עבור מפתחים, ניתוחנים ומדעני נתונים שמעדיפים פורמט טקסט מבוסס קוד נקי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* ייצוא טבלאות מ־PowerPoint ל־TSV לניתוח נתונים ב־Python או R.
+* הכנת סטים מבוססי טקסט מהצגות עסקיות.
+* המרת תרשימי ביצועים לנתונים מופרדים בטאבים שניתן לפענח בקלות.
+* חילוץ שקפים עם תוכן רב־לשוני ל־TSV לצורך זרימות עבודה של לוקליזציה.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* שילוב בצינורות נתוני AI הדורשים טקסט מופרד בטאבים.
+* חילוץ רצפי סטטיסטיקה מבוססי שקפים ל־TSV למודלים וניתוחים.
+* המרת שקפים ל־TSV מתוזמנת לניהול נתונים עסקיים.
+* יצירת TSV אוטומטית לקליטה במערכות הגעת גב מאחוריות בדפים תוכנה מבוססי רשת.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

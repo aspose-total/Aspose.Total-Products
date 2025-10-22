@@ -102,7 +102,31 @@ otherformats: DOCX TEXT FLATOPC DOC RTF ODT DOCM WORDML OTT DOT DOTX DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTX ל-WORD מספקת פתרון אוניברסלי להמרת מצגות למסמכי טקסט ניתנים לעריכה. זה מאפשר למשתמשים לשלב תמונות ותיאורים לתוך פורמט קריא המתאים לשיתוף, הדפסה ופרסום.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* יצירת מסמכים ניתנים לקריאה משקפי מצגת.
+* המרת מצגות מפגישת PowerPoint לקבצי Word מובנים.
+* שילוב של הערות ותמונות לתוך פורמט דוח.
+* הכנת חומרי הדרכה ותיעוד משקפים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* זרימות עבודה אוטומטיות לדיווחים מפגישות.
+* המרות PowerPoint ל-Word בארכיונות תאגידיים.
+* שילוב עם כלי תיעוד פרויקטים.
+* עיבוד צילומיות לחומרי הדרכה וחומרי תעודה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

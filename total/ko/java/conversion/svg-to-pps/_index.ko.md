@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 PPS(PowerPoint Show)로 변환하면 내장된 벡터 그래픽을 사용하여 직접 프리젠테이션 모드에서 열리는 슬라이드 덱을 만들 수 있어서 매끄러운 보기에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 쇼로 제공되는 대화식 기업 프레젠테이션.
+* 직접 표시되는 SVG 다이어그램을 사용한 교육용 슬라이드쇼.
+* 준비된 상태로 제공되는 마케팅 또는 제품 데모.
+* 편집 없이 즉시 제공되는 학술 강의 슬라이드.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 프레젠테이션 전달을 위한 자동 일괄 SVG-to-PPS 변환.
+* PPS 형식으로 기반으로 한 슬라이드의 예약된 내보내기.
+* 준비된 상태로 제공되는 덱을 위한 콘텐츠 배포 시스템 통합.
+* 교육 또는 마케팅 캠페인을 위한 트리거된 슬라이드 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,31 @@ Lors de la conversion du fichier SVG en MD, vous pouvez également ajouter un fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de SVG en Markdown (MD) permet d'intégrer des diagrammes vectoriels directement dans la documentation, les fichiers README et les générateurs de sites statiques. Cette approche permet de conserver des graphiques légers et entièrement redimensionnables tout en améliorant la lisibilité du contenu technique.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Intégration de diagrammes architecturaux dans les fichiers README de projets logiciels.
+* Flowcharts interactifs pour les référentiels de documentation open-source.
+* eBooks et tutoriels basés sur Markdown avec des illustrations vectorielles en ligne.
+* Blogs techniques utilisant des visuels propres et redimensionnables sans fichiers image supplémentaires.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de SVG en MD pour les pipelines de documentation.
+* Génération planifiée de diagrammes vectoriels pour les mises à jour de la base de connaissances.
+* Intégration avec des générateurs de sites statiques comme Hugo ou Jekyll.
+* Synchronisation continue des mises à jour de conception dans les fichiers techniques Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

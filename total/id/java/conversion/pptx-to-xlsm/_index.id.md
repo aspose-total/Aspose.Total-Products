@@ -61,7 +61,31 @@ Saat mengonversi file PPTX ke XLSM, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPTX ke XLSM (Macro-Enabled Excel Workbook) menambah potensi otomatisasi pada data presentasi. Bisnis dapat menyematkan makro untuk perhitungan, pemformatan, dan analisis dalam lembar kerja yang dihasilkan dari slide.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah data slide menjadi laporan Excel yang didorong oleh makro.
+* Mengotomatisasi perhitungan KPI dari metrik PowerPoint.
+* Membuat dasbor dinamis menggunakan makro VBA.
+* Meningkatkan alur kerja data dengan keterhubungan presentasi-makro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Otomatisasi pembuatan file XLSM dari dek penjualan atau anggaran.
+* Integrasi dengan alat dan skrip otomatisasi Excel.
+* Pembuatan makro berkelanjutan untuk laporan PowerPoint yang berulang.
+* Pemicu analitik pintar menggunakan data PowerPoint yang disematkan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

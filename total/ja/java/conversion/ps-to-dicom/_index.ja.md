@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをDICOM（Digital Imaging and Communications in Medicine）形式に変換すると、ベクターベースのレポート、診断チャート、および放射線注釈を標準化された医用画像ワークフローにシームレスに統合できます。DICOM互換性により、これらの視覚的レポートは病院やクリニックで使用されるPACS（Picture Archiving and Communication System）プラットフォームで安全に表示および分析できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* ベクターベースの診断図を患者画像アーカイブに埋め込む。
+* 心臓病学や腫瘍学のPSチャートをDICOM互換の画像シリーズに変換する。
+* 病院画像システム内で手術計画の視覚化を統合する。
+* 放射線学レポートのためのDICOMオーバーレイとして診断サマリーを生成する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* EMR（電子医療記録）ワークフロー内での自動PSからDICOMへの変換。
+* 画像ベースのレポートのためのヘルスアナリティクスパイプラインでのETLデータ統合。
+* 医療AIシステムでの診断可視化のためのAI支援バッチ変換。
+* 自動生成された臨床画像文書のためのトリガーDICOMエクスポート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

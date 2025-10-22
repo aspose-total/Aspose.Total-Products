@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPTファイルからOTTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）プレゼンテーションをOTT（OpenDocument Text Template）形式に変換することで、企業や教育機関はスライドコンテンツに基づいた標準化され再利用可能なテンプレートを作成することができます。OTTファイルは、組織のレポート全体で文書のスタイリング、ブランディング、構造の一貫性を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* 企業文書のためのPowerPointレイアウトから編集可能なテキストテンプレートを作成する。
+* OTTテンプレートを使用して企業のレポートや提案書を標準化する。
+* トレーニングプレゼンテーションから再利用可能な教育用テンプレートを作成する。
+* オープンフォーマットのパブリッシングワークフロー向けにスライド構造を再利用する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ブランドテンプレート生成のための自動化されたPPTからOTTへの変換。
+* オープンソースコンテンツ制作システムへの統合。
+* 企業のスライドを標準化された文書テンプレートにバッチ処理。
+* 複数部門間のコミュニケーションの一貫性を維持するための定期的な変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ Podczas konwertowania pliku PPTX do XLTM możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPTX na XLTM (Szablon Excela z obsługą makr) pomaga zautomatyzować powtarzalne zadania związane z danymi poprzez osadzanie makr w wielokrotnie używanych szablonach arkuszy kalkulacyjnych pochodzących z prezentacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Projektowanie zautomatyzowanych szablonów raportów na podstawie danych z prezentacji.
+* Tworzenie wielokrotnie używanych pulpitów sterujących w Excelu z obsługą makr.
+* Standaryzacja szablonów procesów biznesowych na podstawie slajdów PowerPoint.
+* Uproszczenie raportowania KPI poprzez makra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Konwersje wsadowe PPTX na XLTM dla cykli raportowania miesięcznego.
+* Integracja z automatycznymi procesami generowania arkuszy kalkulacyjnych.
+* Zarządzanie szablonami korporacyjnymi dla zespołów analitycznych.
+* Zaplanowane aktualizacje szablonów z makrami na podstawie danych z PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPT ke DOT dengan tanda
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi presentasi PPT (PowerPoint) ke format DOT (Word Template) memungkinkan pembuatan template Word yang dapat digunakan ulang berdasarkan tata letak presentasi. Ini ideal untuk memastikan format dan branding yang konsisten di semua dokumen yang dihasilkan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat template Word dari slide PowerPoint bermerk.
+* Mendesain template laporan yang dapat digunakan ulang untuk dokumentasi perusahaan.
+* Standarisasi gaya dan struktur di seluruh laporan proyek.
+* Mengonversi desain presentasi perusahaan menjadi template dokumen internal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi otomatis PPT ke DOT untuk manajemen dokumen merek.
+* Integrasi dengan alur kerja SDM, pemasaran, dan komunikasi.
+* Pembuatan template spesifik departemen secara massal dari presentasi.
+* Ekspor terjadwal untuk pembaruan perpustakaan template.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,31 @@ SVG dosyasını TXT'ye dönüştürürken, çıktı TXT dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi TXT (Düz Metin) formatına dönüştürmek, vektör grafiklerden metinsel içerik çıkarmak için idealdir. Bu işlem analiz, dizinleme veya hafif belgeleme için kullanılabilir. TXT, basit, betik tabanlı iş akışları için uygundur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Belgelendirme için SVG diyagramlardan etiketlerin ve açıklamaların çıkarılması.
+* Teknik çizimlerin aranabilir düz metin versiyonlarının oluşturulması.
+* Veri analizi için hafif SVG meta veri raporlarının oluşturulması.
+* Görseller olmadan metinsel SVG içeriğinin hızlı paylaşımı.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Raporlama iş akışları için SVG metninin otomatik olarak TXT'ye çıkarılması.
+* Vektör diyagramlardan düz metin belgelerinin zamanlanmış olarak oluşturulması.
+* Dizinleme ve arama sistemleriyle entegrasyon.
+* Analiz ve hafif içerik iş akışları için tetiklenmiş dönüşüm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

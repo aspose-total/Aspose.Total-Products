@@ -61,7 +61,31 @@ Podczas konwertowania pliku PPT do ODS możesz również dodać znak wodny do wy
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie prezentacji PPT (PowerPoint) do formatu ODS (OpenDocument Spreadsheet) przekształca dane wizualne slajdów w strukturalną formę arkusza kalkulacyjnego. Jest to idealne rozwiązanie dla organizacji korzystających z pakietów biurowych typu open-source, które potrzebują wydobyć dane numeryczne lub tabelaryczne z prezentacji do celów analizy i raportowania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Eksportowanie tabel slajdów do edytowalnych arkuszy ODS w programie LibreOffice Calc.
+* Konwertowanie metryk biznesowych z pulpitów nawigacyjnych PowerPointa na dane arkusza kalkulacyjnego.
+* Archiwizowanie slajdów finansowych i analitycznych w otwartym formacie ODS.
+* Umożliwianie współpracy w środowiskach arkuszy kalkulacyjnych opartych na otwartych standardach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja PPT do ODS do celów raportowania rządowego lub NGO.
+* Integracja z potokami analitycznymi typu open-source.
+* Zaplanowana konwersja prezentacji na arkusze kalkulacyjne do celów audytu.
+* Dzielenie się raportami międzydziałowymi przy użyciu szablonów opartych na formacie ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

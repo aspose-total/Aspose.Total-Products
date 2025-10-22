@@ -121,7 +121,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG naar POTM (Macro-Enabled PowerPoint Template) maakt het mogelijk om herbruikbare sjablonen te maken met macro's voor automatisering terwijl schaalbare vectorafbeeldingen worden ingesloten. Ideaal voor interactieve en geautomatiseerde presentatieworkflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Macro-ingeschakelde bedrijfspresentatiesjablonen met ingesloten SVG-visuals.
+* Geautomatiseerde rapportages met dynamische grafieken en diagrammen.
+* Trainings- en instructiesjablonen met macrogestuurde interactiviteit.
+* Interactieve academische of onderzoekssjablonen die gebruikmaken van SVG-inhoud.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geplande SVG-naar-POTM-conversie voor terugkerende macro-ingeschakelde presentaties.
+* Geautomatiseerde injectie van macro's in sjablonen voor dynamische diavoorstellingen.
+* Integratie met workflowautomatisering voor teambreed sjabloon gebruik.
+* Getriggerde sjabloon generatie voor interactieve dashboards en rapporten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

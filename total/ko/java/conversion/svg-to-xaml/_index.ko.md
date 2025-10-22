@@ -135,7 +135,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG (Scalable Vector Graphics) 파일을 XAML (Extensible Application Markup Language)로 변환하면 개발자가 벡터 그래픽을 Windows 애플리케이션에 직접 통합할 수 있습니다. XAML은 확장 가능성과 해상도 독립성을 보존하여 현대적인 UI 디자인에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* WPF 또는 UWP 애플리케이션에 SVG 기반 아이콘 및 일러스트레이션 임베딩.
+* 기업 앱용 벡터 그래픽으로 대시보드를 디자인.
+* 데스크톱 또는 모바일 애플리케이션용 확장 가능한 UI 구성 요소 생성.
+* 고해상도 벡터 차트를 사용한 교육 또는 과학 시각화 도구.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 응용 프로그램 개발을 위해 SVG 자산을 XAML로 자동 일괄 변환.
+* 새로운 SVG 디자인으로 UI 라이브러리를 예약된 업데이트.
+* WPF 또는 UWP 프로젝트에 매끄러운 배포를 위해 빌드 파이프라인과 통합.
+* 응용 프로그램에서 동적 SVG 콘텐츠를 실시간 렌더링하기 위한 트리거 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

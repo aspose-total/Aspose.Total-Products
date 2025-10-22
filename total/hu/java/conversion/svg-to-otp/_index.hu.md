@@ -121,7 +121,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG átalakítása OTP formátumra (OpenDocument Presentation Template) lehetővé teszi újrafelhasználható dia sablonok létrehozását vektor diagramokkal. Az OTP ideális a prezentációk egységesítésére csapatok és projektek között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Vállalati prezentációs sablonok SVG irányítópultokkal és illusztrációkkal.
+* Oktatási diavetítés sablonok beágyazott vektorgrafikával.
+* Újrafelhasználható marketing sablonok termékadatok bemutatására.
+* Akadémiai vagy konferencia prezentációs sablonok skálázható vizuális elemekkel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* SVG-OTP sablonok automatizált tömeges generálása az állandó diavetítések érdekében.
+* Ütemezett frissítések az oktatási vagy vállalati prezentációkhoz.
+* Integráció munkafolyamat-automatizálással a csapatok széles körű sablonterjesztéséhez.
+* Interaktív dia sablonok kiváltott létrehozása élő SVG adatokból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,31 @@ Lors de la conversion du fichier SVG en XLTM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de SVG en XLTM (modèle Excel activé par macro) permet de créer des modèles réutilisables combinant des graphiques vectoriels avec des macros VBA pour l'automatisation. Idéal pour les rapports interactifs, les tableaux de bord et les modèles de flux de travail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Modèles de gestion de projet activés par macro avec des diagrammes SVG intégrés.
+* Tableaux de bord financiers réutilisables avec des macros interactives pour des calculs automatisés.
+* Modèles de rapports académiques ou de recherche utilisant des visualisations SVG avec des améliorations VBA.
+* Modèles de flux de travail opérationnels intégrant des graphiques vectoriels dynamiques et des macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de SVG en XLTM pour des modèles de rapports activés par macro récurrents.
+* Mises à jour planifiées des modèles avec de nouvelles données SVG et des macros intégrées.
+* Intégration dans des plateformes d'automatisation de flux de travail nécessitant des modèles interactifs.
+* Pipelines de conversion déclenchés pour des tableaux de bord interactifs et des rapports opérationnels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

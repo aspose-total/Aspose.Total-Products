@@ -61,7 +61,31 @@ PPTXファイルをXLSに変換するときに、出力XLSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXファイルをXLS（Excel 97-2003 Workbook）に変換することで、レガシーシステムとの後方互換性が確保されます。これにより、古いオフィスソフトウェアを使用している組織が、表形式のプレゼンテーションデータに効率的にアクセスして修正できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* パワーポイントのテーブルをレガシーExcel分析用に変換する。
+* 古い財務ツール向けのプレゼンテーションサマリーをエクスポートする。
+* 後方互換性のあるシステムでスライドからデータを再利用する。
+* 以前のExcelバージョンを使用するクライアントとの分析情報の共有。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業アーカイブ用のパワーポイントからの自動化されたXLS出力。
+* 古い会計やERPシステムとの統合。
+* プラットフォーム間の互換性を確保する変換パイプライン。
+* レガシーパワーポイントデッキの一括変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

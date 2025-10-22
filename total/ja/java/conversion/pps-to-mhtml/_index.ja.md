@@ -61,7 +61,31 @@ PPSファイルをMHTMLに変換するときに、出力MHTMLファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをMHTML（Web Archive）に変換すると、埋め込みメディアを含む単一ページのWebアーカイブとして完全なスライドデッキを保存できます。これは、インタラクティブなプレゼンテーションをメールやイントラネットポータルを通じて共有する際に特に有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* ブラウザで閲覧するためのPowerPointスライドのWebアーカイブバージョンを作成する。
+* オフライン共有用にプレゼンテーションを単一のMHTMLファイルにパッケージ化する。
+* eラーニングシステムにスライドを統合する。
+* PowerPointの視覚効果やアニメーションをWeb互換ファイル内で保存する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* デジタル学習プラットフォーム向けの定期的なMHTML生成。
+* イントラネットポータルに統合してプレゼンテーションへの中央アクセスを実現する。
+* 内部文書用の自動Webアーカイブ変換。
+* マーケティングやナレッジリポジトリ向けのバッチMHTMLエクスポート。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

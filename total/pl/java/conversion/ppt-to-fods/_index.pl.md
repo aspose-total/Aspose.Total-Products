@@ -61,7 +61,31 @@ Podczas konwertowania pliku PPT do FODS możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie prezentacji PPT (PowerPoint) na format FODS (Flat OpenDocument Spreadsheet) pozwala organizacjom wykorzystać strukturalne treści w narzędziach biurowych zgodnych ze standardami otwartymi. Format FODS jest szczególnie wartościowy dla zespołów korzystających z LibreOffice lub Apache OpenOffice do bezpiecznych, edytowalnych prac arkuszowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Zamiana tabel z PowerPoint na arkusze kalkulacyjne LibreOffice do analizy.
+* Wyodrębnianie strukturalnych danych z slajdów do wspólnej edycji.
+* Archiwizowanie danych prezentacji w otwartych, opartych na XML formatach arkuszy kalkulacyjnych.
+* Konwertowanie prezentacji szkoleniowych na format FODS do systemów ewidencji edukacyjnej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie formatu FODS z raportów PowerPoint do użytku open-source.
+* Przetwarzanie wsadowe w systemach dokumentów rządowych lub edukacyjnych.
+* Integracja konwersji z PPT na FODS w cyklach transformacji cyfrowej.
+* Zaplanowane eksporty do raportowania międzydziałowego i dokumentacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

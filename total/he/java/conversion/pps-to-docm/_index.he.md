@@ -99,7 +99,31 @@ otherformats: DOT FLATOPC DOC DOTM WORDML DOCX RTF OTT DOTX WORD ODT TEXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-DOCM (מסמך Word המאופשר במאקרו) מאפשרת יצירת מסמכי טקסט אינטראקטיביים ואוטומטיים. ההמרה הזו מושלמת עבור צוותים שזקוקים לתוכן דינמי כגון דוחות שממלאים אוטומטית או מסמכים עם סקריפטים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות המאופשרות מתוך תוכן מצגת.
+* אוטומציה של יצירת דוח סיכום באמצעות סקריפטים VBA מוטמעים.
+* בניית מסמכי עסקים דינמיים עם נתונים תנאיים.
+* עיצוב דוחות תאימות מבוססי DOCM ממצגות PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת DOCM מתוך מצגות PowerPoint מתוזמנות.
+* שילוב עם זרימות עבודה ב-Word המופעלות על ידי VBA לאוטומציה של מסמכים.
+* המרה בצפיפות גבוהה עבור מחלקות שמשתמשות בתבניות המאופשרות.
+* המרה אוטומטית בצינורות ליצירת מסמכים.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

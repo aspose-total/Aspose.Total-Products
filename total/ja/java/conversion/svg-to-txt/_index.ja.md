@@ -47,7 +47,31 @@ SVGファイルをTXTに変換するときに、出力TXTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをTXT（プレーンテキスト）に変換すると、ベクターグラフィックスからテキストコンテンツを抽出して分析、索引付け、または軽量なドキュメンテーションに活用できます。TXTはシンプルでスクリプト可能なワークフローに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* ドキュメンテーション用にSVG図からラベルや注釈を抽出する。
+* 技術イラストの検索可能なプレーンテキスト版を作成する。
+* データ分析用の軽量なSVGメタデータレポートを生成する。
+* 画像なしでのテキストSVGコンテンツの迅速な共有。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レポートパイプラインへのSVGテキストの自動抽出。
+* ベクターダイアグラムからの定期的なプレーンテキストドキュメントの生成。
+* インデックス付けや検索システムとの統合。
+* アナリティクスや軽量コンテンツワークフローのためのトリガー変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

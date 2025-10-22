@@ -121,7 +121,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi PPTM'ye (Makro Etkinleştirilmiş PowerPoint) dönüştürmek, ölçeklenebilir vektör grafikleri makrolarla birleştirerek etkileşimli, otomasyona hazır slayt paketleri oluşturur. Dinamik kurumsal veya eğitim sunumları için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* SVG panellerle makro etkinleştirilmiş kurumsal sunumlar.
+* Gömülü makrolar kullanılarak etkileşimli eğitim veya araştırma slayt paketleri.
+* Otomatik grafikler ve etkileşimli görseller içeren pazarlama sunumları.
+* Makro destekli etkileşimli SVG diyagramlarını birleştiren eğitim modülleri.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tekrarlanan makro etkinleştirilmiş slayt paketleri için otomatik SVG'den PPTM'ye dönüşüm.
+* Canlı veri görselleriyle etkileşimli sunumlar için zamanlanmış güncellemeler.
+* Dinamik, çalışmaya hazır slaytlar için iş akışı otomasyonuyla entegrasyon.
+* PPTM formatında etkileşimli paneller oluşturan tetiklenen iş akışları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

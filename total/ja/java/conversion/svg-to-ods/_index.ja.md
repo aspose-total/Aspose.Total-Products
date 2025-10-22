@@ -47,7 +47,31 @@ SVGファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをODS（OpenDocument Spreadsheet）に変換すると、ベクターベースのチャートをオープン標準のスプレッドシートに埋め込むことができます。ODSはクロスプラットフォームのデータ分析、レポーティング、インタラクティブなダッシュボードに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* 分析用にSVG金融ダッシュボードをODSスプレッドシートに埋め込む。
+* オープンフォーマットでベクター画像を使用した研究やエンジニアリングデータの共有。
+* 編集可能なプラットフォーム非依存のスプレッドシートとしてエクスポートされる学術およびプロジェクトデータ。
+* ODS形式で標準化されたプロジェクトトラッキングダッシュボード。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レポートパイプライン向けの自動化されたSVGからODSへの変換。
+* 埋め込みダイアグラムを含む研究や運用データの定期的なエクスポート。
+* スプレッドシート互換性を必要とするオープンソースオフィススイートとの統合。
+* チームコラボレーション向けのSVGベースのダッシュボードのトリガー生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

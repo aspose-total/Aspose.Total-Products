@@ -47,7 +47,31 @@ SVGファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG（スケーラブル・ベクター・グラフィックス）ファイルをXLT（Excelテンプレート）に変換すると、埋め込みベクター図を持つ再利用可能なスプレッドシートテンプレートを作成できます。XLTテンプレートは、チャートをスケーラブルかつ編集可能に保ちながら、報告フォーマットを標準化するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* SVGベースのダッシュボードを使用した標準的な営業および財務レポートテンプレートの生成。
+* エンジニアリングおよび建設ワークフロー向けの再利用可能なプロジェクトトラッキングテンプレート。
+* 学術機関向けのSVGチャートを使用した教育テンプレートの作成。
+* インタラクティブなベクター図を使用した標準化されたマーケティング分析テンプレート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業報告用のSVG図をXLTテンプレートに自動バッチ変換。
+* 定期的なプロジェクトや財務レポートのためのスケジュールされたテンプレート生成。
+* テンプレートを更新するためのワークフロー自動化システムとの統合。
+* 動的に更新されるダッシュボードを再利用可能なテンプレートに変換するためのトリガー変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

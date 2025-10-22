@@ -47,7 +47,31 @@ otherformats: FODS ODS EXCEL XLSB TXT DIF XLSM TSV XLAM SXC MD XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PS (PostScript) เป็น TSV (Tab-Separated Values) ช่วยในการมาตรฐานการแลกเปลี่ยนข้อมูลระหว่างระบบธุรกิจอัจฉริยะ ระบบสถิติ และวิศวกรรม TSV ให้รูปแบบที่มีโครงสร้างและอ่านง่ายสำหรับการย้ายข้อมูลที่ถูกสกัดออกจากเลยเอาท์ PS เข้าสู่ท่อน้ำข้อมูลวิเคราะห์
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงข้อความและข้อมูลโครงสร้างจากแบบฟอร์ม PS เป็น TSV เพื่อการประมวลผล
+* การส่งออกผลลัพธ์ทางวิทยาศาสตร์หรือการทดลองสำหรับเครื่องมือสถิติ
+* การถ่ายโอนเนื้อหาตารางจากเอกสารที่ใช้ PostScript เข้าสู่รูปแบบข้อมูลเปิด
+* การเตรียมชุดข้อมูลให้เข้ากันได้กับสภาพแวดล้อม R, Python หรือ MATLAB
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PS เป็น TSV โดยอัตโนมัติในระบบคลังข้อมูล
+* การรวมระบบกับเครื่องมือ ETL สำหรับการย้ายข้อมูลโครงสร้าง
+* การทำงานเป็นระยะเวลาในเวิร์กโฟลว์การสกัดออกจากเครื่องมือรายงานที่ใช้ PostScript
+* การประมวลผลเอกสาร PS บนคลาวด์สำหรับการวิเคราะห์ข้อมูลขนาดใหญ่
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

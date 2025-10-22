@@ -54,7 +54,25 @@ APIを使用すると、パスワードで保護されたRTFドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+RTFドキュメントをPPS（PowerPoint Show）に変換すると、静的テキストがスライドショー用のプレゼンテーションに変換され、全画面モードで直接開きます。自動ブリーフィング、教育用ディスプレイ、または展示会プレゼンテーションに最適です。
+
+## Key Use Cases
+
+* RTFレポートをプレゼンテーション用のスライドショーに変換する。
+* テキストドキュメントから自動ビジュアルブリーフィングを作成する。
+* RTFマーケティング資料に基づいたデジタルサイネージコンテンツの設計。
+* クラスや会議で使用する教育用ショーの準備。
+
+## Automation Scenarios
+
+* 予定されたプレゼンテーション用のバッチRTFからPPSへの変換。
+* キオスクや自動表示システムへの統合。
+* 格納されたドキュメントリポジトリからの自動スライドショー作成。
+* 構造化されたRTF入力からのビジュアルダッシュボードの生成。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG fájlok MHTML (MIME HTML) formátumba történő átalakítása lehetővé teszi interaktív grafikák csomagolását egyetlen webarchívum fájlba. Ez ideális offline dokumentációhoz, e-mail-kompatibilis diagramokhoz és hordozható vektorjelentésekhez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Interaktív SVG irányítópultok archiválása offline hozzáféréshez.
+* Animált vektorgrafikák küldése beágyazva MHTML e-mailekbe.
+* Hordozható műszaki kézikönyvek beágyazott vektoriagramokkal.
+* Webkompatibilis jelentések létrehozása, melyeket szerver nélkül is terjeszthetünk.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges SVG-MHTML konverzió archivált projektátadási anyagokhoz.
+* Ütemezett offline vektor irányítópultok generálása vállalati felhasználásra.
+* Integráció tartalomkezelő rendszerekkel vektorgrafikák exportálásához.
+* Automatizálás jelentésgenerálásban a következetes formázás és hordozhatóság érdekében.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

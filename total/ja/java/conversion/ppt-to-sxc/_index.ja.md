@@ -61,7 +61,31 @@ PPTファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）ファイルをSXC（StarOffice Calc Spreadsheet）に変換することで、レガシーやオープンソースシステムを使用する組織は、プレゼンテーションデータを詳細な分析のために再利用できます。この変換により、視覚的な要約と編集可能なスプレッドシートデータとの間のギャップが埋められ、さまざまなオフィス環境でのコラボレーションが向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* ビジネスプレゼンテーションをOpenOffice互換のスプレッドシートに変換する。
+* SXCベースの財務モデル内でPowerPointの表やグラフを再利用する。
+* OpenOfficeやLibreOfficeに依存する政府機関や企業ユーザーをサポートする。
+* アーカイブされた企業のPPTデータをオープンなスプレッドシート形式に移行する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業のアーカイブシステム向けのバッチPPTからSXCへの変換。
+* 文書デジタル化ワークフロー内での統合。
+* ハイブリッドオープンソースレポーティング環境向けの自動変換。
+* PPTの更新を定期的に共同スプレッドシートツールにエクスポートする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

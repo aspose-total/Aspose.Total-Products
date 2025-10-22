@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPTX sang XLSM, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPTX sang XLSM (Tài liệu Excel có Macro) tăng cơ hội tự động hóa cho dữ liệu trình bày. Các doanh nghiệp có thể nhúng macro để tính toán, định dạng và phân tích trong bảng tính được tạo ra từ các slide.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi dữ liệu slide thành báo cáo Excel được điều khiển bởi macro.
+* Tự động hóa việc tính toán KPI từ các số liệu PowerPoint.
+* Tạo bảng điều khiển động bằng cách sử dụng macro VBA.
+* Tăng cường quy trình làm việc với liên kết từ trình bày đến macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo các tệp XLSM từ các bộ báo cáo về doanh số hoặc ngân sách.
+* Tích hợp với các công cụ và kịch bản tự động hóa Excel.
+* Tạo macro hàng loạt cho các báo cáo PowerPoint định kỳ.
+* Kích hoạt phân tích thông minh bằng cách sử dụng dữ liệu PowerPoint được nhúng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

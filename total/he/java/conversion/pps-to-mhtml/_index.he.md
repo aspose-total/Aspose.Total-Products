@@ -102,7 +102,31 @@ otherformats: TSV DIF ODS EXCEL XLT MARKDOWN XLS XLTM XLSM CSV XLSB XLAM XLSX SX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-MHTML (Web Archive) מאפשרת שמירת מצגות מלאות כארכיון אינטרנט בעל דף אחד הכולל מדיה משובץ. זה מיוחד לשיתוף מצגות אינטראקטיביות דרך דואר אלקטרוני או פורטלי אינטרנט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* יצירת גרסאות שמורות בארכיון אינטרנט של שקפים מ-PowerPoint לצפייה בדפדפן.
+* אריזת מצגות לקבצי MHTML יחידים לשיתוף לא מקוון.
+* המרת שקפים לשילוב במערכות למידה ממוחשבות.
+* שמירת תמונות ואנימציות של PowerPoint בתוך קבצים תואמי אינטרנט.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת MHTML מתוזמנת לפלטפורמות למידה דיגיטליות.
+* שילוב בפורטלי אינטרנט לגישה מרכזית למצגות.
+* המרת אוטומטית של ארכיונים אינטרנטיים לתיעוד פנימי.
+* ייצוא MHTML בצורת סדרות לשיווק ולמאגרי ידע.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

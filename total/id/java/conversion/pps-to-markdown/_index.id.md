@@ -61,7 +61,31 @@ Saat mengonversi file PPS ke MARKDOWN, Anda juga dapat menambahkan tanda air ke 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPS (PowerPoint Slide Show) ke MARKDOWN (MD) memungkinkan pengguna mengubah slide visual menjadi dokumen teks ringan yang mudah dibaca, sempurna untuk blog, dokumentasi, dan sistem manajemen konten berbasis Git. Ini menjembatani kesenjangan antara presentasi dan format yang ramah bagi pengembang.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengonversi slide PowerPoint menjadi dokumentasi Markdown.
+* Menyiapkan catatan proyek sumber terbuka dari dek presentasi.
+* Menerbitkan konten slide pendidikan ke generator situs statis.
+* Mengubah presentasi perusahaan menjadi file MD ringan untuk wiki GitHub.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi Markdown terjadwal untuk tim konten menggunakan kontrol versi.
+* Integrasi ke dalam alur kerja dokumentasi (misalnya, Hugo, Jekyll).
+* Konversi PowerPoint-to-MD otomatis untuk penerbitan online.
+* Pengolahan batch dari beberapa dek PPS ke file Markdown terstruktur.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

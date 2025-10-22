@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 RTF(Rich Text Format)로 변환하면 벡터 다이어그램을 모든 곳에서 지원되는 텍스트 문서에 포함할 수 있습니다. RTF는 다른 워드 프로세서 및 운영 체제 간에 서식을 유지합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 크로스 플랫폼 보고서나 매뉴얼에 SVG 시각 자료 포함.
+* 벡터 차트를 사용한 표준화된 기술적이거나 교육용 문서.
+* SVG 다이어그램을 포함한 휴대용 프로젝트 템플릿.
+* 호환 가능한 텍스트 형식이 필요한 학술 논문이나 발표.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 배포를 위한 SVG를 RTF로 자동 일괄 변환.
+* 새로운 SVG 시각 자료로 기술 매뉴얼을 예약 업데이트.
+* 다중 플랫폼 액세스를 위한 콘텐츠 관리 시스템 통합.
+* 오프라인이나 휴대용 워크플로우를 위한 RTF 문서의 트리거 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

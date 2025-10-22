@@ -102,7 +102,31 @@ otherformats: FLATOPC DOT DOTM WORDML WORD TEXT DOCM DOCX ODT OTT DOTX DOC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPT (PowerPoint) ל־RTF (Rich Text Format) מאפשרת לחשוף את תוכן הטקסט תוך שמירה על העיצוב הבסיסי. RTF מבטיח תאימות בין פלטפורמות שונות ובין עורכי טקסט, ולכן הוא מצוין ליצירת דוחות עריכה פשוטים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* ייצוא טקסט ממצגת PowerPoint לעריכה חוצת פלטפורמות.
+* יצירת דוחות טקסט מעוצבים משקפים.
+* שיתוף סיכומים ניתנים לעריכה ללא תלות ב־PowerPoint.
+* המרת מצגות לימוד לחומרי לימוד מבוססי RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל־RTF באופן אוטומטי לצורך זרימות עבודה של חלוקת דוחות.
+* שילוב במערכות עיבוד טקסט וארכיון.
+* המרות רצפות לתיעוד קל וניתן לעריכה.
+* ייצואי RTF מתוזמנים לצורך הגשות רגולטוריות ואקדמיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

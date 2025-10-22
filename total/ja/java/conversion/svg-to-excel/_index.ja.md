@@ -47,7 +47,31 @@ SVGファイルをEXCELに変換するときに、出力EXCELファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをExcel（XLS/XLSX）に変換すると、ベクターチャートや図を完全にインタラクティブなスプレッドシートにすることができます。Excelユーザーはデータを操作し、ピボットテーブルを作成し、チャートをレポートに統合することができますが、ベクターのクリアさを失うことはありません。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* SVGベースのセールスダッシュボードをExcelワークブックに埋め込む。
+* 技術およびエンジニアリング図をExcelに変換して分析する。
+* SVGビジュアルを含む学術データセットをインタラクティブなスプレッドシートにエクスポートする。
+* Excelレポートに直接統合されたインタラクティブなプロジェクト管理ビジュアル。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* SVGダッシュボードのバッチ変換を行い、定期的なレポート作成を行う。
+* BIプラットフォームとの統合による自動化されたスプレッドシートの更新。
+* インタラクティブなデザインおよび分析チャートの定期的なエクスポートをExcelにスケジュールする。
+* ライブSVGデータのExcelワークブックへの連続的な同期。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

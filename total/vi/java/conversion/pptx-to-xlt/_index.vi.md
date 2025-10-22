@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPTX sang XLT, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi PPTX sang XLT (Excel Template) cho phép tạo các mẫu bảng tính có thể tái sử dụng từ dữ liệu trình bày. Điều này rất lý tưởng cho các tổ chức chuẩn hóa báo cáo tài chính hoặc tóm tắt kinh doanh định kỳ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo mẫu báo cáo từ các slide PowerPoint.
+* Tạo các mô hình Excel dựa trên các KPI trình bày.
+* Thiết lập định dạng bảng tính theo thương hiệu để sử dụng nội bộ.
+* Chuẩn bị các mẫu dữ liệu hàng tháng hoặc quý có thể lặp lại.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo XLT tự động từ các bộ slide trình bày của công ty.
+* Đồng bộ hóa mẫu giữa các bộ phận.
+* Tạo mẫu báo cáo có thể tái sử dụng dựa trên quy trình làm việc.
+* Tích hợp với kho lưu trữ mẫu được kiểm soát phiên bản.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

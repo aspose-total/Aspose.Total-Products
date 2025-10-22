@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG (Scalable Vector Graphics) 파일을 POT (PowerPoint 97-2003 템플릿)으로 변환하면 이전 PowerPoint 버전을 위한 벡터 다이어그램이 포함된 재사용 가능한 슬라이드 템플릿을 만들 수 있습니다. POT은 레거시 환경에서 일관된 프레젠테이션 디자인을 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 대시보드가 포함된 표준화된 기업 프레젠테이션 템플릿.
+* 교육용 슬라이드 템플릿(교육 및 e-러닝 콘텐츠용).
+* 상호작용하는 벡터 차트를 보여주는 마케팅 캠페인 템플릿.
+* 학술적인 프레젠테이션 템플릿(학회 및 강의용).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* SVG 다이어그램을 POT 템플릿으로 자동 일괄 변환.
+* 재사용 가능한 프레젠테이션 템플릿을 위한 예약된 업데이트.
+* 일관된 형식 지정을 위해 레거시 프레젠테이션 시스템과 통합.
+* 라이브 SVG 대시보드에서 템플릿 생성을 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

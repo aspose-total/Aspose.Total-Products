@@ -61,7 +61,31 @@ PPTX 파일을 XLSM로 변환하는 동안 출력 XLSM 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 파일을 XLSM(매크로 활성화 Excel 워크북)으로 변환하면 프레젠테이션 데이터에 자동화 가능성을 추가할 수 있습니다. 기업은 슬라이드에서 생성된 스프레드시트에 계산, 서식 지정 및 분석을 위한 매크로를 포함할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 슬라이드 데이터를 매크로로 구동되는 Excel 보고서로 변환하기.
+* PowerPoint 지표에서 KPI 계산 자동화.
+* VBA 매크로를 사용하여 동적 대시보드 생성.
+* 프레젠테이션에서 매크로로의 연결을 통한 데이터 워크플로우 개선.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 영업 또는 예산 덱에서 XLSM 파일의 자동 생성.
+* Excel 자동화 도구 및 스크립트와의 통합.
+* 주기적인 PowerPoint 보고서를 위한 일괄 매크로 생성.
+* 포함된 PowerPoint 데이터를 사용한 스마트 분석 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

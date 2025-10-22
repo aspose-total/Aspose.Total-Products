@@ -47,7 +47,31 @@ PS 파일을 MD로 변환하는 동안 출력 MD 파일 형식에 워터마크�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 MD (Markdown)으로 변환하면 PostScript 콘텐츠를 버전 관리 및 웹 지향 환경에서 재사용하기 쉬워집니다. MD 파일은 협업 문서 작성에 이상적인 가벼운 편집 가능한 형식을 제공합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* Git 저장소에 있는 PostScript 기반 메모와 보고서를 MD로 변환하기.
+* 기술 블로그, 문서 포털 또는 내부 지식 베이스에 PS 콘텐츠 게시하기.
+* Markdown 형식으로 학술 또는 연구 보고서 작성하기.
+* 플랫폼에 독립적인 Markdown 파일로 PS 기반 튜토리얼 변환하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 소프트웨어 문서화 프로젝트를 위한 일괄 PS-to-MD 변환.
+* 자동화된 문서 업데이트를 위한 CI/CD 파이프라인 통합.
+* PS 아카이브로부터의 클라우드 기반 Markdown 생성.
+* PS 레이아웃에서의 AI 기반 추출 및 형식 지정.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

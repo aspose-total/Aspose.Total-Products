@@ -143,7 +143,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG dosyalarını XAMLFLOW'a dönüştürmek, vektör grafiklerin Akış tabanlı uygulamalara entegrasyonunu sağlar, etkileşimli UI iş akışlarını destekler. XAMLFLOW, hızlı prototipleme ve dinamik arayüz tasarımı için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Etkileşimli uygulamalar için Akış tabanlı gösterge panolarına SVG diyagramlarını entegre etme.
+* Ölçeklenebilir vektör grafiklerle kurumsal UI'nın hızlı prototipleme.
+* Etkileşimli SVG görseller kullanılarak eğitim veya araştırma arayüzleri.
+* Gömülü SVG diyagramlarıyla iş akışı otomasyonu gösterge panoları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Yinelemeli UI geliştirme için Otomatik SVG'den XAMLFLOW'a dönüşüm.
+* Uygulama bileşenlerinin yeni SVG grafiklerle zamanlanmış güncellemeleri.
+* Gerçek zamanlı arayüz oluşturma için geliştirme borularıyla entegrasyon.
+* Uygulamalar için dinamik, vektör tabanlı UI elemanlarının tetiklenmiş oluşturulması.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

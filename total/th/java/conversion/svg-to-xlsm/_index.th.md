@@ -47,7 +47,31 @@ otherformats: TXT EXCEL XLTX DIF TSV ODS XLT XLAM FODS XLTM MD XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น XLSM (Excel Macro-Enabled Workbook) รวมความชัดเจนของกราฟิกเวกเตอร์กับ Excel macros ทำให้สามารถใช้งานอัตโนมัติและมีความสามารถในการปฏิสัมพันธ์ในสมุดงานได้
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* แดชบอร์ด SVG ที่รวมอยู่ในไฟล์ XLSM พร้อมกับ VBA macros สำหรับทีมการเงิน
+* โซลูชันการรายงานอัตโนมัติที่ฝังสคริปต์พร้อมกับภาพกราฟิกเวกเตอร์
+* การแปลงไดอะแกรมของกระบวนการวิศวกรรมเป็นแผ่นงาน Excel ที่สามารถใช้งานอัตโนมัติได้
+* สื่อการเรียนการสอนแบบอินเทอร์แอคทีฟและบทเรียนพร้อมกับ macros ในสมุดงาน XLSM
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การแปลง SVG เป็น XLSM ตามกำหนดเวลาสำหรับรายงานที่มี macros ที่ทำงานอัตโนมัติเป็นรายการที่เกิดซ้ำ
+* การฝังสคริปต์ VBA ในไฟล์ XLSM ที่สร้างจาก SVG โดยอัตโนมัติ
+* การรวมกับระบบอินเทลลิเจนซ์ธุรกิจที่ต้องการสมุดงานที่สามารถใช้งานอย่างปฏิสัมพันธ์
+* การเริ่มเวิร์กโฟลว์สำหรับแดชบอร์ดแบบไดนามิกและรายงานการดำเนินงาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

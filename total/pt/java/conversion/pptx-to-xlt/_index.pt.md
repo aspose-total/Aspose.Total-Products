@@ -61,7 +61,31 @@ Ao converter o arquivo PPTX para XLT, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter PPTX para XLT (Modelo do Excel) permite a criação de modelos de planilha reutilizáveis a partir de dados de apresentações. É ideal para organizações que padronizam relatórios financeiros ou resumos de negócios recorrentes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Gerar modelos de relatório a partir de slides do PowerPoint.
+* Criar modelos do Excel com base nos KPIs da apresentação.
+* Estabelecer formatos de planilha personalizados para uso interno.
+* Preparar modelos de dados mensais ou trimestrais repetíveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automatizada de XLT a partir de decks de apresentação da empresa.
+* Sincronização de modelos entre departamentos.
+* Criação orientada por fluxo de trabalho de modelos de relatório reutilizáveis.
+* Integração com repositórios de modelos controlados por versão.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

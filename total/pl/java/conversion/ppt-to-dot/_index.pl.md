@@ -53,7 +53,31 @@ Korzystając z API, możesz również wykonać konwersję pliku PPT do DOT ze zn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie prezentacji PPT (PowerPoint) do formatu DOT (szablonu Word) umożliwia tworzenie wielokrotnie używanych szablonów Word opartych na układach prezentacji. Jest to idealne rozwiązanie dla zapewnienia spójnego formatowania i brandingowania we wszystkich generowanych dokumentach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie szablonów Word z zbrandowanych slajdów PowerPoint.
+* Projektowanie wielokrotnie używanych szablonów raportów do dokumentacji przedsiębiorstwa.
+* Standaryzacja stylu i struktury w raportach projektowych.
+* Konwertowanie projektów prezentacji firmy na wewnętrzne szablony dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja PPT do DOT dla zarządzania dokumentami marki.
+* Integracja z procesami HR, marketingu i komunikacji.
+* Tworzenie zbiorcze szablonów specyficznych dla działów na podstawie prezentacji.
+* Zaplanowane eksporty dla aktualizacji biblioteki szablonów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,31 @@ otherformats: CSV XLAM XLSM TSV EXCEL MHTML XLSB FODS SXC XLTM ODS XLT MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-XLTX (Excel Template Open XML) מקלה על יצירת תבניות גיליון נתונים מובנות וניתנות לשימוש חוזר בפורמטים מודרניים של Excel. אידיאלי עבור צוותים שמתקיים תהליכי עבודה סטנדרטיים ושמתחזק עיצוב עקביות בין מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* יצירת תבניות XLTX מקצות עסקיות ב-PowerPoint.
+* פיתוח טפסי הזנת נתונים המושפעים מפריסות השקפים.
+* בניית תבניות תקופתיות סטנדרטיות.
+* יצירת תבניות XLTX ספציפיות למחלקה ממצגות מאושרות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה רציפה של קבצי PPS לתבניות XLTX תאזוריות.
+* יצירה מתוזמנת של תבניות Excel מוברנות למעקב אחר פרויקטים.
+* שילוב למערכות אוטומציה של תבניות לבקרת גרסאות.
+* יצירה אוטומטית של תבניות XLTX מסיכומי נתונים ב-PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

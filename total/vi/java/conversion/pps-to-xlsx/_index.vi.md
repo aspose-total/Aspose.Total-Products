@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPS sang XLSX, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tệp PPS (PowerPoint Slide Show) sang XLSX (Excel Open XML Workbook) cung cấp định dạng bảng tính hiện đại, linh hoạt và hoàn toàn tương thích cho phân tích và cộng tác. Lý tưởng cho chia sẻ trên đám mây và hoạt động dữ liệu thời gian thực.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi các chỉ số dựa trên PowerPoint thành các bảng tính Excel cộng tác.
+* Tạo bảng điều khiển XLSX từ các bản trình bày của ban lãnh đạo.
+* Trích xuất dữ liệu trang để tích hợp vào phân tích Microsoft 365.
+* Tạo các bảng tài chính có thể chỉnh sửa từ hình ảnh trình bày.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Xuất lịch trình của các bản trình bày doanh nghiệp thành các báo cáo phân tích XLSX.
+* Tích hợp vào luồng công việc Microsoft Teams hoặc SharePoint.
+* Tạo tệp XLSX tự động cho các nhóm phân phối.
+* Chuyển đổi hàng loạt để lưu trữ và đồng bộ dữ liệu trên đám mây.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

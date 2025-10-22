@@ -47,7 +47,31 @@ otherformats: EXCEL TSV SXC XLTX XLT TXT ODS MD XLSB DIF XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น TXT (ข้อความธรรมดา) ช่วยในการสกัดเนื้อหาข้อความจากรูปแบบกราฟิกเวกเตอร์เพื่อการวิเคราะห์ การจัดเรียงหรือเอกสารที่มีน้ำหนักเบา ไฟล์ TXT เหมาะสำหรับเวิร์กโฟลว์ที่เรียบง่ายและสามารถเขียนสคริปต์ได้
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สกัดเอกสารและหมายเหตุจากรูปภาพ SVG เพื่อเอกสาร
+* สร้างเวอร์ชันข้อความที่สามารถค้นหาได้จากภาพประกอบทางเทคนิค
+* สร้างรายงานเมตาดาต้าของ SVG ที่มีน้ำหนักเบาสำหรับการวิเคราะห์ข้อมูล
+* แบ่งปันเนื้อหา SVG ที่เป็นข้อความได้อย่างรวดเร็วโดยไม่มีรูปภาพ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสกัดข้อความจาก SVG ไปยังไฟล์ TXT โดยอัตโนมัติสำหรับการสร้างรายงาน
+* การสร้างเอกสารข้อความแบบตารางจากรูปภาพเวกเตอร์ตามกำหนดเวลา
+* การผสานระบบดัชนีและค้นหา
+* การเปลี่ยนแปลงที่ถูกเรียกใช้สำหรับการวิเคราะห์และเวิร์กโฟลว์เนื้อหาที่มีน้ำหนักเบา
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

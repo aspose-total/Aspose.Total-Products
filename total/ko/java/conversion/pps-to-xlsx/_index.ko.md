@@ -61,7 +61,31 @@ PPS 파일을 XLSX로 변환하는 동안 출력 XLSX 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 XLSX (Excel Open XML Workbook)로 변환하면 현대적이고 유연하며 완전히 호환되는 스프레드시트 형식을 얻을 수 있어 분석과 협업에 이상적입니다. 클라우드 공유 및 실시간 데이터 작업에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 기반 지표를 협업용 Excel 워크북으로 변환하기.
+* 임원 프레젠테이션에서 XLSX 대시보드 생성하기.
+* 슬라이드 데이터를 Microsoft 365 분석에 통합하기.
+* 프레젠테이션 시각 자료로 편집 가능한 재무 시트 생성하기.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 프레젠테이션을 XLSX 분석 보고서로 예약된 내보내기.
+* Microsoft Teams 또는 SharePoint 워크플로에 통합하기.
+* 분산된 팀을 위한 자동화된 XLSX 파일 생성.
+* 아카이빙 및 클라우드 기반 데이터 동기화를 위한 대량 변환.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG átalakítása RTF formátummá (Rich Text Format) lehetővé teszi vektor diagramok beágyazását általánosan támogatott szöveges dokumentumokba. Az RTF formázást biztosít különböző szövegszerkesztőkben és operációs rendszerekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* SVG vizuális elemek beágyazása platformfüggetlen jelentésekbe vagy kézikönyvekbe.
+* Szabványosított műszaki vagy oktatási dokumentumok vektorgrafikonokkal.
+* Hordozható projekt sablonok beépített SVG diagramokkal.
+* Olyan tudományos cikkek vagy prezentációk, amelyek kompatibilis szöveges formátumokat igényelnek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* SVG átalakításának automatizált tételszerű RTF formátummá dokumentumok terjesztéséhez.
+* Ütemezett frissítések műszaki kézikönyvekhez új SVG vizuális elemekkel.
+* Integráció tartalomkezelő rendszerekkel többplatformos hozzáférés érdekében.
+* RTF dokumentumok kiváltott generálása offline vagy hordozható munkafolyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

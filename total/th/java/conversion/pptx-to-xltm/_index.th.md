@@ -61,7 +61,31 @@ otherformats: TSV XLSM FODS MARKDOWN XLTM XLTX XLT DIF XLS EXCEL MHTML XLAM ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPTX เป็น XLTM (แมโคร-เปิดใช้งานเทมเพลต Excel) ช่วยในการอัตโนมัติงานที่ซ้ำซ้อนโดยฝังแมโครในเทมเพลตสเปรดชีทที่สามารถนำมาใช้ซ้ำได้ที่ได้มาจากงานนำเสนอ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ออกแบบเทมเพลตรายงานอัตโนมัติจากข้อมูลงานนำเสนอ
+* สร้างแดชบอร์ด Excel ที่ใช้แมโครได้ซ้ำได้
+* มาตรฐานเทมเพลตกระบวนการธุรกิจจากสไลด์ PowerPoint
+* การรายงาน KPI ที่ซ้ำซ้อนผ่านแมโคร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงไฟล์ PPTX เป็น XLTM จำนวนมากสำหรับรอบการรายงานรายเดือน
+* การผสานรวมกับกระบวนการสร้างสเปรดชีทอัตโนมัติ
+* การจัดการเทมเพลตบริษัทสำหรับทีมวิเคราะห์
+* การอัปเดตตารางเวลาเทมเพลตแมโครจากข้อมูล PowerPoint
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

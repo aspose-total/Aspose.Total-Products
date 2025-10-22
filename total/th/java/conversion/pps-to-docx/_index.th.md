@@ -53,7 +53,31 @@ otherformats: DOCXM TEXT DOCX RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็นไฟล์ DOCX (Microsoft Word Open XML Document) จะเปลี่ยนเนื้อหาของงานนำเสนอเป็นเอกสารข้อความที่สามารถแก้ไขได้ที่สุด ที่เข้ากันได้กับ Microsoft 365 และเครื่องมือสำหรับการทำงานร่วมกันบนคลาวด์
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* การเปลี่ยนสไลด์เดคเป็นรายงานธุรกิจหรือสรุปการประชุม
+* สร้างเนื้อหาการตลาดที่สามารถแก้ไขได้จากงานนำเสนอทางสายตา
+* สร้างคู่มือหรือคู่มือการฝึกอบรมรูปแบบ DOCX
+* สร้างเอกสารพร้อมสำหรับลูกค้าโดยตรงจากไฟล์ PPS
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การสร้าง DOCX โดยอัตโนมัติสำหรับระบบรายงานขององค์กร
+* การผสานเข้ากับ Microsoft Teams หรือ SharePoint สำหรับกระบวนการทำงานร่วมกัน
+* การแปลงเป็นชุดเป็นชุดสำหรับการจัดการเนื้อหาและการกระจาย
+* การแปลงสไลด์เป็น DOCX ตามกำหนดเวลาสำหรับการอัพเดทโครงการ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

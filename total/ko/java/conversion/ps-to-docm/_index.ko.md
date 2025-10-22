@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 DOCM (Word Macro-Enabled Document)으로 변환하면 정적 레이아웃을 완전히 편집 가능한 워드 문서로 변환할 수 있으며 매크로 기능을 사용할 수 있습니다. 이는 자동화된 워크플로, 동적 콘텐츠 조작 및 대화식 보고서가 필요한 기업 및 조직에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS 기반 보고서를 매크로가 포함된 편집 가능한 워드 문서로 변환하기.
+* 송장 생성 및 보고서 작성과 같은 반복 문서 작업 자동화.
+* PS 다이어그램을 매크로 기반 프로젝트나 재무 보고서에 삽입하기.
+* 정적 PostScript 양식을 인터랙티브 템플릿으로 변환하여 인사나 회계용으로 사용하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 자동화 시스템에서 일괄 PS를 DOCM으로 변환하기.
+* ERP 또는 CRM 워크플로와 통합하여 콘텐츠 자동 업데이트하기.
+* PS 파일에서 데이터 추출 시 트리거된 매크로 실행.
+* PostScript 레이아웃에서 매크로 기능이 있는 보고서를 AI 지원으로 생성하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

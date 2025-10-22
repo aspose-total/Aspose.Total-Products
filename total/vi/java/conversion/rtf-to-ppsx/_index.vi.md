@@ -54,7 +54,31 @@ API cũng cho phép bạn chuyển đổi các tài liệu RTF được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi RTF sang PPSX (PowerPoint Show Open XML) cung cấp một cách hiện đại để hiển thị thông tin dựa trên tài liệu dưới dạng bài thuyết trình hấp dẫn mắt. Các tệp PPSX mở trực tiếp ở chế độ trình diễn trình chiếu, làm cho chúng lý tưởng cho việc hiển thị cuối cùng hoặc chia sẻ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi cập nhật công ty dựa trên RTF thành bài thuyết trình sẵn sàng.
+* Tạo ra bài thuyết trình cuối cùng từ các tệp văn bản có cấu trúc.
+* Chuẩn bị các slide sự kiện hoặc hội nghị trực tiếp từ nguồn RTF.
+* Chia sẻ nội dung RTF dưới dạng bộ slide PowerPoint chỉ xem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi RTF sang PPSX trong các đường ống xuất bản bài thuyết trình tự động.
+* Tích hợp với quy trình làm việc bài thuyết trình Office 365.
+* Tạo ra hàng loạt slide PPSX từ các báo cáo RTF chuẩn hóa.
+* Tạo ra các bản tóm tắt doanh nghiệp sẵn sàng trình diễn theo lịch trình.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

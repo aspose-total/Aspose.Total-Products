@@ -102,7 +102,31 @@ otherformats: DOTM DOTX DOT DOCX WORDML WORD RTF DOC FLATOPC TEXT DOCM ODT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPT (PowerPoint) לתבנית OTT (OpenDocument Text Template) מאפשרת לעסקים ולחונכים ליצור תבניות סטנדרטיות וניתנות לשימוש מחומר המצגת. קבצי OTT מבטיחים עיצוב מסמכים עם עקביות, סגנון ומבנה חוזר בדוחות ארגוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* בניית תבניות טקסט עריכות מתוך פריסות PowerPoint לשימוש בתיעוד חברתי.
+* סטנדרטיזציה של דוחות והצעות עסקיות באמצעות תבניות OTT.
+* יצירת תבניות חינוכיות ניתנות לשימוש ממצגות הדרכה.
+* שימוש מחדש במבנה השקופיות לצורכי עבודת פרסום בפורמט פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל-OTT באופן אוטומטי ליצירת תבניות מותג.
+* שילוב במערכות יצור תוכן פתוחות.
+* עיבוד רצפי שקופיות חברתיות לתבניות מסמכים סטנדרטיות.
+* המרה מתוזמנת לשמירה על עקביות בתקשורת בין מחלקות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

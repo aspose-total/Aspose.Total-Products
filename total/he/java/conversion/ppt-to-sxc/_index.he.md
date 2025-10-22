@@ -102,7 +102,31 @@ otherformats: CSV TSV XLTM XLSX XLS XLSB DIF FODS XLT XLTX EXCEL MHTML ODS MARKD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPT (PowerPoint) ל-SXC (גיליון עבודה של StarOffice Calc) מאפשרת לארגונים שמשתמשים במערכות מורשות או קוד פתוח לשנות מחדש נתוני המצגת לצורך ניתוח מעמיק. ההמרה הזו מקשרת את הפער בין סיכומים חזותיים ונתוני גיליון עבודה שניתנים לעריכה, ומשפרת שיתוף פעולה בין סביבות משרד שונות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת מצגות עסקיות לגיליונות עבודה התואמים ל-OpenOffice.
+* שימוש מחדש בטבלאות ותרשימים מ-PowerPoint בתוך דגמים פיננסיים המבוססים על SXC.
+* תמיכה במשתמשים ממשלתיים או עסקיים המסתמכים על OpenOffice או LibreOffice.
+* העברת נתוני PPT תיקיים מוערכים לתוך פורמטים פתוחים של גיליונות עבודה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת קבצי PPT ל-SXC בצורה צפונית למערכות ארכיון עסקיות.
+* שילוב בתהליכי דיגיטציה של מסמכים.
+* המרות אוטומטיות לסביבות דיווח בקוד פתוח המשלבות.
+* ייצוא מתוזמן של עדכוני PPT לכלי גיליון עבודה שיתופיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

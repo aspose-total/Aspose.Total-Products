@@ -53,7 +53,31 @@ Korzystając z API, możesz również wykonać konwersję pliku PPS do DOTM ze z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPS (PowerPoint Slide Show) na DOTM (Makroaktywowany szablon Worda) umożliwia tworzenie dynamicznych szablonów dokumentów sterowanych skryptami. Firmy używają DOTM do automatyzacji generowania dokumentów i raportów na podstawie danych prezentacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Projektowanie szablonów Worda opartych na makrach z prezentacji PPS.
+* Automatyzacja powtarzających się formularzy biznesowych za pomocą osadzonego VBA.
+* Generowanie wielokrotnie używanych szablonów do raportów zgodności i jakości.
+* Tworzenie inteligentnych przepływów dokumentów pochodzących z prezentacji PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie szablonów DOTM do użytku w przedsiębiorstwie.
+* Integracja z platformami automatyzacji do tworzenia dokumentów.
+* Zaplanowane aktualizacje szablonów na podstawie najnowszych prezentacji.
+* Konwersja zbiorcza wielu plików PPS na szablony z makrami.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

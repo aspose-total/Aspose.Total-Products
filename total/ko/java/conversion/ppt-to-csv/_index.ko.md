@@ -61,7 +61,31 @@ PPT 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 파일을 CSV (쉼표로 구분된 값) 형식으로 변환하면 프레젠테이션에서 표, 차트 및 숫자 데이터를 가벼운 구조화된 데이터 세트로 추출하기 쉬워집니다. CSV 형식은 거의 모든 데이터 분석 도구 및 스프레드시트 응용 프로그램과 호환성을 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 데이터 분석을 위해 PowerPoint 차트 데이터를 CSV로 내보내기.
+* 분기별 판매 프레젠테이션을 구조화된 CSV 보고서로 변환하기.
+* 비즈니스 슬라이드에서 가벼운 표 형식의 데이터 세트 생성.
+* CRM 또는 BI 플랫폼으로의 프레젠테이션 데이터 가져오기 준비.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 자동 보고 파이프라인을 위한 일괄 PPT-to-CSV 변환.
+* 마케팅 분석을 위한 ETL 워크플로에 통합.
+* 대시보드 데이터 동기화를 위한 예약 변환.
+* 재무 예측 도구를 위한 슬라이드로부터의 자동 데이터 추출.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

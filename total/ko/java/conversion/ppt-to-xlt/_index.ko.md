@@ -61,7 +61,31 @@ PPT 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 프레젠테이션을 XLT (Excel 템플릿) 형식으로 변환하면 슬라이드를 재사용 가능한 스프레드시트 템플릿으로 변환하여 팀 간 일관된 보고 및 서식을 제공합니다. 데이터 프레젠테이션 워크플로우를 표준화하는 기관에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 대시보드에서 Excel 템플릿 생성.
+* 브랜드화된 XLT 형식으로 팀 보고 표준화.
+* 슬라이드를 사용 가능한 스프레드시트 구조로 변환.
+* 반복되는 비즈니스 보고서를 위한 템플릿 기반 모델 구축.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 일관된 보고서 템플릿을 위한 자동화된 PPT-to-XLT 변환.
+* 기업 콘텐츠 표준화 워크플로우 통합.
+* 브랜드 일치 스프레드시트 템플릿을 위한 일괄 처리.
+* 프레젠테이션으로부터 재사용 가능한 Excel 레이아웃을 예약 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,31 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PS (PostScript) ke format DICOM (Digital Imaging and Communications in Medicine) memungkinkan integrasi yang mulus dari laporan berbasis vektor, grafik diagnostik, dan anotasi radiografi ke dalam alur kerja pencitraan medis yang terstandar. Kompatibilitas DICOM memastikan bahwa laporan visual ini dapat dilihat dan dianalisis secara aman di platform PACS (Picture Archiving and Communication System) yang digunakan di rumah sakit dan klinik.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menanamkan diagram diagnostik berbasis vektor ke dalam arsip pencitraan pasien.
+* Mengonversi grafik PS kardiologi atau onkologi menjadi seri gambar yang kompatibel dengan DICOM.
+* Mengintegrasikan visualisasi perencanaan bedah dalam sistem pencitraan rumah sakit.
+* Menghasilkan ringkasan diagnostik sebagai lapisan tambahan DICOM untuk laporan radiologi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Transformasi otomatis PS ke DICOM dalam alur kerja EMR (Rekam Medis Elektronik).
+* Integrasi data ETL dalam jalur analitik kesehatan untuk pelaporan berbasis gambar.
+* Konversi batch yang dibantu AI untuk visualisasi diagnostik dalam sistem AI medis.
+* Ekspor DICOM yang dipicu untuk dokumentasi pencitraan klinis yang dihasilkan secara otomatis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

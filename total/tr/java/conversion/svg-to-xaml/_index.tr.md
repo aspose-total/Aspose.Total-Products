@@ -135,7 +135,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG (Ölçeklenebilir Vektör Grafikleri) dosyalarını XAML (Genişletilebilir Uygulama İşaretleme Dili) formatına dönüştürmek, geliştiricilere vektör grafiklerini doğrudan Windows uygulamalarına entegre etme imkanı sağlar. XAML, modern UI tasarımı için ideal olan ölçeklenebilirlik ve çözünürlük bağımsızlığını korur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* WPF veya UWP uygulamalarında SVG tabanlı simgeleri ve illüstrasyonları gömmek.
+* Kurumsal uygulamalar için vektör grafiklerle etkileşimli gösterge panoları tasarlamak.
+* Masaüstü veya mobil uygulamalar için ölçeklenebilir UI bileşenleri oluşturmak.
+* Yüksek kaliteli vektör grafik tablolarıyla eğitim veya bilimsel görselleştirme araçları geliştirmek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Uygulama geliştirme için SVG varlıklarının XAML'e otomatik toplu dönüşümü.
+* Yeni SVG tasarımlarla UI kütüphanelerinin zamanlanmış güncellemeleri.
+* WPF veya UWP projelerinde sorunsuz dağıtım için derleme boru hatlarıyla entegrasyon.
+* Uygulamalardaki dinamik SVG içeriğin gerçek zamanlı olarak işlenmesi için tetiklenen dönüşüm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ API'yi kullanarak, filigranlı PPT dosyasını DOTM'ye dönüştürme işlemini 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) dosyalarını DOTM (Makro Etkin Word Şablonu) formatına dönüştürmek, PowerPoint görsellerini Word otomasyon yetenekleriyle birleştirir. DOTM şablonları, rapor oluşturma, içerik doldurma ve veri ekleme gibi tekrarlayan görevleri otomatikleştirmek için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* PowerPoint sunumlarından makro etkin Word şablonları oluşturma.
+* Gömülü makrolar kullanarak tekrarlayan rapor yapılarını otomatikleştirme.
+* Tekrar eden kurumsal belgeler için markalı, akıllı şablonlar oluşturma.
+* Sunum düzenlemelerine dayalı rapor hazırlığını kolaylaştırma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Akıllı belge şablonları için otomatik PPT'den DOTM'ye dönüşüm.
+* VBA mantığıyla kurumsal otomasyon sistemlerine entegrasyon.
+* Belge ekipleri için makro etkin şablonların zamanlanmış oluşturulması.
+* Uyumluluk odaklı şablon yönetimi için toplu dönüşüm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

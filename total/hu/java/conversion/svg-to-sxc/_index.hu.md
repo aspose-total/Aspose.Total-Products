@@ -47,7 +47,31 @@ A SVG-fájl SXC-vé konvertálásakor vízjelet is hozzáadhat a kimeneti SXC-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG átalakítása SXC formátummá (StarOffice/LibreOffice táblázat) lehetővé teszi vektorgrafikus diagramok beágyazását nyílt forráskódú táblázatformátumokba. Az SXC ideális a közös munkafolyamatokhoz és a platformfüggetlen táblázatkompatibilitáshoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* SVG pénzügyi vagy projekt irányítópultok importálása LibreOffice táblázatokba.
+* Kutatási vagy akadémiai adatok megosztása vektorgrafikus diagramokkal SXC fájlokban.
+* Együttműködésen alapuló projektkövető táblázatok beágyazott SVG vizuális elemekkel.
+* Szabványosított nyílt forráskódú táblázatsablonok interaktív diagramokkal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* SVG automatizált tömeges átalakítása SXC formátummá jelentési csatornákhoz.
+* SVG alapú irányítópultok ütemezett exportálása nyílt forráskódú táblázatokba.
+* Integráció együttműködésen alapuló irodai csomagokkal a csapat széles körű hozzáféréséhez.
+* SXC táblázatok kiváltott generálása dinamikus SVG adatokból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

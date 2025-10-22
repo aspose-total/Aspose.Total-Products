@@ -47,7 +47,31 @@ SVG dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG dosyalarını ODS (Açık Belge Hesap Tablosu) formatına dönüştürmek, vektör tabanlı grafiklerin açık standart hesap tablolarına gömülmesini sağlar. ODS, platformlar arası veri analizi, raporlama ve etkileşimli gösterge panoları için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Analiz için SVG finansal gösterge panolarını ODS hesap tablolarına gömmek.
+* Açık formatlarda vektör görsellerle araştırma veya mühendislik verilerini paylaşmak.
+* Akademik ve proje verilerini düzenlenebilir, platformdan bağımsız hesap tabloları olarak dışa aktarmak.
+* ODS formatında standartlaştırılmış proje takip gösterge panoları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Raporlama boru hatları için otomatik SVG'den ODS'ye dönüşüm.
+* Gömülü diyagramlarla araştırma veya operasyonel verilerin zamanlanmış dışa aktarımları.
+* Hesap tablosu uyumluluğu gerektiren açık kaynak ofis paketleriyle entegrasyon.
+* Ekip işbirliği için tetiklenen SVG tabanlı gösterge panolarının oluşturulması.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

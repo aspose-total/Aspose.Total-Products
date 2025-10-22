@@ -61,7 +61,31 @@ PPTXファイルをXLTMに変換するときに、出力XLTMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXファイルをXLTM（マクロ有効Excelテンプレート）に変換することで、プレゼンテーションから派生した再利用可能なスプレッドシートテンプレートにマクロを埋め込むことで、繰り返しのデータタスクを自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* プレゼンテーションデータから自動化されたレポートテンプレートの設計。
+* マクロ駆動の再利用可能なExcelダッシュボードの作成。
+* PowerPointスライドからビジネスプロセステンプレートの標準化。
+* マクロを介した繰り返しのKPIレポーティングの簡素化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 月次レポーティングサイクル用の一括PPTXからXLTMへの変換。
+* 自動化されたスプレッドシート生成ワークフローとの統合。
+* アナリティクスチーム向けの企業テンプレート管理。
+* PowerPointデータからのマクロテンプレートへの定期的な更新。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 RTF로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 프레젠테이션을 RTF (Rich Text Format)로 변환하면 기본 형식을 보존하면서 텍스트 콘텐츠를 추출할 수 있습니다. RTF는 다양한 플랫폼 및 워드 프로세서 간의 호환성을 보장하여 간단하고 편집 가능한 보고서에 탁월합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 크로스 플랫폼 편집을 위한 PowerPoint 텍스트 내보내기.
+* 슬라이드에서 서식이 있는 텍스트 보고서 생성.
+* PowerPoint에 의존하지 않고 편집 가능한 요약 공유.
+* 교육용 프레젠테이션을 RTF 기반 학습 자료로 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 보고서 배포 워크플로에 대한 자동화된 PPT-to-RTF 변환.
+* 텍스트 처리 및 아카이브 시스템 통합.
+* 가벼운 편집 가능 문서를 위한 일괄 변환.
+* 규제 및 학술 제출을 위한 예약된 RTF 내보내기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

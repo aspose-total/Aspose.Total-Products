@@ -121,7 +121,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG ke PPT (PowerPoint 97-2003) memungkinkan penyisipan grafik vektor ke dalam slide deck warisan. PPT memastikan kompatibilitas dengan versi PowerPoint yang lebih lama sambil mempertahankan kualitas visual.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Presentasi perusahaan dengan dasbor SVG tertanam untuk perangkat lunak warisan.
+* Slide akademis atau penelitian menggunakan format PowerPoint yang lebih lama.
+* Slide pelatihan dan instruksi yang kompatibel dengan sistem-sistem lama.
+* Presentasi pemasaran yang distandarisasi untuk kompatibilitas lintas versi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch SVG ke PPT untuk kebutuhan presentasi warisan.
+* Ekspor terjadwal dari slide berbasis SVG ke format PowerPoint yang lebih lama.
+* Integrasi dengan pipeline pelaporan untuk pengiriman presentasi warisan.
+* Konversi yang dipicu untuk pembuatan slide deck otomatis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG-bestanden naar PPT (PowerPoint 97-2003) maakt het mogelijk om vectorafbeeldingen in oude presentaties in te sluiten. PPT zorgt voor compatibiliteit met oudere PowerPoint-versies terwijl de visuele kwaliteit behouden blijft.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Bedrijfspresentaties met ingesloten SVG-dashboards voor verouderde software.
+* Academische of onderzoekspresentaties met oudere PowerPoint-formaten.
+* Training en instructiepresentaties die compatibel zijn met oudere systemen.
+* Marketingpresentaties gestandaardiseerd voor compatibiliteit tussen verschillende versies.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Batchconversie van SVG naar PPT voor verouderde presentatiebehoeften.
+* Geplande export van op SVG gebaseerde dia's naar oudere PowerPoint-formaten.
+* Integratie met rapportagepijplijnen voor de levering van verouderde presentaties.
+* Getriggerde conversie voor geautomatiseerde presentatiecreatie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

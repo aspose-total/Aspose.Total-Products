@@ -53,7 +53,31 @@ otherformats: TEXT DOT WORDML DOTM RTF DOTX FLATOPC WORD DOTM ODT DOTX OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง PPTX เป็น DOT (Word Template) ช่วยสร้างเทมเพลตที่ใช้ซ้ำจากข้อมูลในงานนำเสนอ ซึ่งมีความคุ้มค่าสำหรับองค์กรที่มีมาตรฐานในรูปแบบเอกสารหรือการสร้างเทมเพลตรายงานบริษัทที่มีแบรนด์
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* สร้างเทมเพลต DOT จากเลย์เอาต์งานนำเสนอของบริษัท
+* แปลงสไลด์ PowerPoint เป็นเฟรมเวิร์ก Word ที่ใช้ซ้ำได้
+* เตรียมเทมเพลตที่มีแบรนด์สำหรับข้อเสนอและงานส่งมอบให้กับลูกค้า
+* สร้างเทมเพลตรายงานที่สม่ำเสมอสำหรับแผนกต่าง ๆ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การสร้างเทมเพลต DOT โดยอัตโนมัติจากสไลด์ดีกซ์ที่เกิดซ้ำ
+* การผสานของขั้นตอนการทำงานสำหรับมาตรฐานเอกสาร
+* การซิงโครไนซ์เทมเพลตในสภาพแวดล้อมหลายแผนก
+* การตั้งเวลาแปลงเทมเพลตสำหรับเอกสารขององค์กร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

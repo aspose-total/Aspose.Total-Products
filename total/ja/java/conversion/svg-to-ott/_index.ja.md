@@ -130,7 +130,29 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをOTT（OpenDocument Text Template）に変換すると、埋め込まれたベクトル図を持つ再利用可能なテキスト文書テンプレートが作成されます。OTTはプロジェクトとチームのワークフロー全体での一貫性を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* ビジネスチーム向けのSVGビジュアルを備えた標準化されたレポートテンプレート。
+* 埋め込まれた図を持つ学術または教育文書テンプレート。
+* 一貫したフォーマットのためのマーケティングまたはプロジェクト文書テンプレート。
+* スケーラブルなSVGグラフィックを活用した再利用可能なガイドやマニュアル。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* SVG図をOTTテンプレートに自動バッチ変換。
+* 新鮮なビジュアルを持つ再利用可能な文書テンプレートの定期的な更新。
+* テンプレート駆動型ワークフローのコンテンツシステムとの統合。
+* チーム協力のためのインタラクティブなテキストテンプレートの生成をトリガー。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,31 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS CSV XLTX XLSX MARKDOWN DIF SXC ODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPT (PowerPoint) ל-XLS (Excel 97–2003 Workbook) מאפשרת תאימות עם מערכות ירושה תומכות בנתונים טבלאיים ומספריים בשמירה על שלמותם. ההמרה הזו תומכת בארגונים שמשתמשים בסביבות Microsoft Office ישנות או זקוקים לדיווחים המתאימים לאחור.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא נתוני שקופיות לשימוש במערכות Excel ישנות.
+* יצירת גיליונות אחור-תואמים מדוחות PowerPoint.
+* שיתוף נתונים מוכני ניתוח עם צוותים המשתמשים בגרסאות ישנות של Microsoft Office.
+* ארכיבת תוצאות ההצגה בפורמט XLS הנתמך באופן אוניברסלי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל-XLS באופן אוטומטי עבור מערכות ארכיון עסקיות.
+* שילוב בתהליכי עבודה הדורשים פלטי קבצי Excel ישנים.
+* עיבוד צפון לתאימות נתונים בין מחלקות.
+* המרות דוחות PowerPoint מתוזמנות לתאימות מערכותית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

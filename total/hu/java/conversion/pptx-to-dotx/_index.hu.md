@@ -53,7 +53,31 @@ Az API segítségével PPTX fájlból DOTX-ba konvertálhat vízjellel. Ha vízj
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX prezentációk átalakítása DOTX (Word sablon formátumra) segít a design-alapú diavetítések állandó, szerkeszthető Word sablonokká alakításában. Biztosítja a márka egységességét és a dokumentumok következetességét a csapatok között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Szabványos sablonok létrehozása PowerPoint diavetítés tervezéseiből.
+* Újrafelhasználható DOTX sablonok készítése jelentésekhez és kézikönyvekhez.
+* Prezentációs formátumok átalakítása márkás Word sablonokká.
+* Dokumentumstílus következetességének fenntartása a vállalaton belül.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált DOTX sablon létrehozás HR vagy pénzügyi csapatok számára.
+* Tömeges átalakítás ismétlődő vállalati prezentációkból.
+* Integráció stíluskezelési és dokumentumautomatizálási eszközökkel.
+* Verziókezelési szinkronizáció a vállalati sablonokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

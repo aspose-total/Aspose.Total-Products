@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPT sang XLTX, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các bản trình bày PPT (PowerPoint) sang XLTX (Excel Template Open XML) tạo ra các mẫu Excel hiện đại không chứa macro dựa trên dữ liệu trình bày. Điều này đảm bảo tính nhất quán trong thiết kế, nhãn hiệu và cấu trúc báo cáo trên các bộ phận và người dùng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Thiết kế các mẫu Excel từ các báo cáo PowerPoint để sử dụng định kỳ.
+* Tạo các mẫu báo cáo mang nhãn hiệu từ nội dung dựa trên slide.
+* Chuyển đổi các bản trình bày chiến lược thành các mẫu bảng tính có cấu trúc.
+* Chia sẻ định dạng báo cáo chuẩn hóa trên các nhóm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ PPT sang XLTX để tạo mẫu chung cho các bộ phận.
+* Tích hợp vào quy trình chuẩn hóa nội dung và báo cáo.
+* Xử lý hàng loạt cho việc triển khai mẫu Excel trên toàn công ty.
+* Xuất dữ liệu từ PowerPoint theo lịch trình vào các định dạng Excel có thể tái sử dụng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

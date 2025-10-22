@@ -102,7 +102,31 @@ otherformats: XLTX XLS DIF XLSB EXCEL XLSM XLAM XLSX SXC MARKDOWN TSV XLTM XLT M
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPT (PowerPoint) לתבנית ODS (OpenDocument Spreadsheet) ממירה נתוני שקפים חזותיים לתבנית גליונות נתונים מובנית. זה אידיאלי עבור ארגונים שמשתמשים בחבילות משרד קוד פתוח וצריכים לחלץ נתונים מספריים או טבלאיים ממצגות לצורך ניתוח ודיווח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* ייצוא טבלאות מצגת לגליונות נתונים ניתנים לעריכה ב־LibreOffice Calc.
+* המרת מדדי עסקיים מלוחות בקרה ב־PowerPoint לנתוני גליון נתונים.
+* ארכיבת שקפים פיננסיים וניתוחיים בתבנית ODS פתוחה.
+* אפשרות לשיתוף פעולה בסביבות גליון נתונים תקניות פתוחות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל־ODS באופן אוטומטי לצורך דיווחים של ממשלה או ארגון לא ממשלתי.
+* שילוב עם צינורות אנליטיים בקוד פתוח.
+* המרה מתוזמנת של מצגות לגליונות נתונים לצורך ביקורת.
+* שיתוף דו־מחלקתי של דוחות באמצעות תבניות מבוססות ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

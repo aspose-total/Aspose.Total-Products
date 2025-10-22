@@ -99,7 +99,31 @@ otherformats: DOCM TEXT DOC RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-DOCX (מסמך Microsoft Word Open XML) ממירה את תוכן המצגת למסמכי טקסט עכשוויים ניתנים לעריכה המתאימים ל-Microsoft 365 ולכלי שיתוף ענן.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת מצגות לדוחות עסקיים או סיכומי פגישות.
+* יצירת תוכן שיווקי שניתן לעריכה ממצגות חזותיות.
+* יצירת מדריכי הדרכה או מדריכי אימון בפורמט DOCX מעוצבים.
+* יצירת תיעוד מוכן ללקוחות ישירות מקבצי PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת DOCX אוטומטית עבור מערכות דיווח תאגידיות.
+* שילוב ב-Microsoft Teams או SharePoint לזרימות עבודה שיתופיות.
+* המרה רציפה לניהול והפצת תוכן.
+* המרת מצגת ל-DOCX מתוזמנת לעדכוני פרויקט.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

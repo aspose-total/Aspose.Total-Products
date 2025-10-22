@@ -54,7 +54,31 @@ API를 사용하면 암호로 보호된 RTF 문서를 PPT로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF를 PPT(레거시 PowerPoint 프레젠테이션)로 변환하면 전통적인 문서 워크플로우를 이전 PowerPoint 환경과 연결합니다. 이는 이전 Microsoft Office 버전과의 호환성을 유지하는 조직에 가치가 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* RTF 보고서를 PowerPoint 97-2003 호환 파일로 변환합니다.
+* 교육 프레젠테이션을 위해 서식이 지정된 텍스트 문서를 재사용합니다.
+* 레거시 프레젠테이션 시스템용 슬라이드를 디자인합니다.
+* 전통적인 PowerPoint 표시를 위해 RTF 기반의 연구 요약을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 레거시 오피스 워크플로우용 일괄 RTF-to-PPT 변환.
+* 보관 및 규정 준수 프레젠테이션 시스템 통합.
+* 역호환성 지원을 위한 예약 변환.
+* 오래된 시스템용 RTF 템플릿에서 자동 PowerPoint 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

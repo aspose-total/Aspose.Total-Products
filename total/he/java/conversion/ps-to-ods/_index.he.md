@@ -78,7 +78,31 @@ otherformats: CSV EXCEL XLTM XLTX TXT DIF XLSB XLSM XLT MD FODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) ל-ODS (OpenDocument Spreadsheet) מאפשרת ייבוא של נתוני טבלה, תרשימים ותוכן מובנה ממסמכי PS לתוך LibreOffice Calc או פלטפורמות גיליון נתונים אחרות. זה מבטיח ניידות נתונים ותאימות בסביבות קוד פתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* חילוץ טבלאות פיננסיות או תפעוליות מדוחות PS לגיליונות נתונים ODS.
+* המרת תרשימים טכניים או מדעיים מ-PS לשימוש בניתוח קוד פתוח.
+* הכנת קבוצות נתונים לניהול פרויקטים שיתופי באמצעות LibreOffice.
+* המרת פריסות PS לתבניות גיליון נתונים לדיווחים חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PS ל-ODS באופן אוטומטי בצינורות עיבוד נתונים.
+* המרה רציפה של דוחות שנוצרו ב-PostScript לניתוח גיליונות נתונים.
+* שילוב בפתרונות גיליון נתונים בענן בקוד פתוח.
+* חילוץ מוספק בעזרת AI של תרשימים וטבלאות מ-PS לתבנית ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

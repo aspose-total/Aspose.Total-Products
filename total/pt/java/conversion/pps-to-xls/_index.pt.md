@@ -61,7 +61,31 @@ Ao converter o arquivo PPS para XLS, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPS (Apresentação de Slides do PowerPoint) para XLS (Pasta de Trabalho do Excel 97–2003) garante compatibilidade com sistemas legados, permitindo a edição e armazenamento de dados baseados em planilhas. Essa conversão é ideal para ambientes que utilizam versões mais antigas do Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Extrair dados de slides PPS para compatibilidade com formatos mais antigos do Excel.
+* Preparar relatórios XLS para organizações governamentais e educacionais.
+* Converter visuais de marketing em relatórios de planilhas retrocompatíveis.
+* Criar fichas de pontuação XLS editáveis a partir de resumos baseados em PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote automatizada para conformidade com o formato XLS.
+* Integração em fluxos de trabalho de software contábil ou de Sistemas de Informação Gerencial (MIS) legados.
+* Gerar arquivos XLS a partir de conjuntos de dados de apresentações recorrentes.
+* Extração agendada de slides para compartilhamento de dados XLS entre departamentos.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

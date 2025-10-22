@@ -61,7 +61,31 @@ PPTファイルをCSVに変換するときに、出力CSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）ファイルをCSV（コンマ区切り値）形式に変換すると、プレゼンテーションから表、グラフ、数値データを取り出して軽量で構造化されたデータセットにすることが簡単になります。CSV形式は、ほとんどすべてのデータ分析ツールやスプレッドシートアプリケーションとの互換性を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PowerPointのチャートデータをCSVにエクスポートしてデータ分析を行う。
+* 四半期の売上プレゼンテーションを構造化されたCSVレポートに変換する。
+* ビジネススライドから軽量な表形式のデータセットを作成する。
+* CRMやBIプラットフォームへのプレゼンテーションデータのインポートの準備。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 自動レポートパイプライン用のバッチPPTからCSVへの変換。
+* マーケティング分析のためのETLワークフローへの統合。
+* ダッシュボードデータ同期のためのスケジュール変換。
+* 金融予測ツール用のスライドからの自動データ抽出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

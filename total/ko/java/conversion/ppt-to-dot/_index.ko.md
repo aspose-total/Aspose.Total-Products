@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 DOT로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 프레젠테이션을 DOT (Word 템플릿) 형식으로 변환하면 프레젠테이션 레이아웃을 기반으로 재사용 가능한 Word 템플릿을 만들 수 있습니다. 이는 생성된 모든 문서에서 일관된 서식과 브랜딩을 보장하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 브랜드화된 PowerPoint 슬라이드로부터 Word 템플릿 생성.
+* 기업 문서 작성을 위한 재사용 가능한 보고서 템플릿 설계.
+* 프로젝트 보고서 전체에 걸쳐 스타일과 구조 표준화.
+* 회사 프레젠테이션 디자인을 내부 문서 템플릿으로 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 브랜드 문서 관리를 위한 자동화된 PPT-to-DOT 변환.
+* 인사, 마케팅 및 커뮤니케이션 워크플로와의 통합.
+* 프레젠테이션으로부터 부서별 템플릿 일괄 생성.
+* 템플릿 라이브러리 업데이트를 위한 예약된 내보내기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

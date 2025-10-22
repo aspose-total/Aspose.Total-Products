@@ -47,7 +47,31 @@ Trong khi chuyển đổi tệp SVG sang ODS, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tệp SVG sang ODS (OpenDocument Spreadsheet) cho phép nhúng biểu đồ dựa trên vector vào bảng tính chuẩn mở. ODS lý tưởng cho phân tích dữ liệu, báo cáo và bảng điều khiển tương tác trên nhiều nền tảng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng bảng điều khiển tài chính SVG vào bảng tính ODS để phân tích.
+* Chia sẻ dữ liệu nghiên cứu hoặc kỹ thuật với hình ảnh vector trong các định dạng mở.
+* Dữ liệu học thuật và dự án được xuất dưới dạng bảng tính có thể chỉnh sửa, không phụ thuộc vào nền tảng.
+* Bảng điều khiển theo dõi dự án được chuẩn hóa trong định dạng ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ SVG sang ODS cho các đường ống báo cáo.
+* Xuất dữ liệu nghiên cứu hoặc vận hành theo lịch trình với biểu đồ nhúng.
+* Tích hợp với bộ ứng dụng văn phòng mã nguồn mở yêu cầu tương thích với bảng tính.
+* Kích hoạt tạo ra các bảng điều khiển dựa trên SVG cho cộng tác nhóm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,31 @@ otherformats: FLATOPC RTF DOCX WORD OTT DOCM ODT TEXT DOTX WORDML DOT DOC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTX ל-DOTM (תבנית Word המאפשרת מקרו) מאפשרת למשתמשים ליצור תבניות ניתנות לשימוש הכוללות תכונות אוטומציה. זה מושלם ליצירת מסמכים אינטראקטיביים ומופעלים באמצעות מקרו מתוך תוכן מצגת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* עיצוב של תבניות המאפשרות מקרו מתוך שקופיות מצגת.
+* אוטומציה של משימות יצירת דוחות חוזרות.
+* יצירת תבניות תקניות דינמיות לחברות.
+* הטמעת מקרוי נתונים במסמכים המקוריים שנוצרו מ-PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה רציפה של מצגות PPTX לתבניות DOTM.
+* שילוב עם מערכות אוטומציה של מסמכים.
+* יצירת תבניות מקרו מתוזמנות לדוחות תקופתיים.
+* מיפוי מקרו בין PowerPoint ל-Word לצורך יעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

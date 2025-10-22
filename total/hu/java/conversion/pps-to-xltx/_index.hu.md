@@ -61,7 +61,31 @@ A PPS fájl XLTX formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPS (PowerPoint Slide Show) fájlok XLTX (Excel Template Open XML) formátummá történő átalakítása lehetővé teszi strukturált, újrafelhasználható táblázatsablonok létrehozását a modern Excel formátumokban. Ideális csapatok számára, akik standardizálják munkafolyamataikat és fenntartják a tervezési egységességet a dokumentumok között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Professzionális XLTX sablonok létrehozása PowerPoint üzleti prezentációkból.
+* Adatbeviteli űrlapok készítése a diavetítés elrendezéseiből inspirálódva.
+* Szabványosított havi jelentési sablonok készítése.
+* Osztályspecifikus XLTX sablonok generálása jóváhagyott prezentációkból.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* PPS fájlok tömeges átalakítása vállalati XLTX sablonokká.
+* Ütemezett, márkanévvel ellátott Excel sablonok generálása projektkövetéshez.
+* Integráció sablonautomatizálási rendszerekbe verziókezelés céljából.
+* Automatikus XLTX sablonok létrehozása PowerPoint adatösszefoglalókból.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

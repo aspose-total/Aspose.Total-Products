@@ -47,7 +47,31 @@ PS 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 FODS (Flat XML OpenDocument Spreadsheet)로 변환하면 PostScript 차트와 표에서 구조화된 데이터를 LibreOffice와 같은 오픈 소스 스프레드시트 애플리케이션에서 사용할 수 있습니다. 이를 통해 이식성, 투명성 및 호환성이 보장됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS 보고서에서 재무 표를 LibreOffice 스프레드시트로 추출합니다.
+* PostScript 다이어그램에서 과학 또는 공학 데이터를 FODS로 변환합니다.
+* 크로스 플랫폼 분석 및 보고를 위한 데이터 준비.
+* 소유권 제한 없이 오픈 소스 스프레드시트 사용 가능.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 다부서 워크플로에 대한 일괄 PS-to-FODS 변환.
+* 오픈 포맷 분석을 위한 ETL 파이프라인 통합.
+* PS 레이아웃에서 표 데이터를 자동으로 추출합니다.
+* 협업형 오픈 소스 환경을 위한 클라우드 기반 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

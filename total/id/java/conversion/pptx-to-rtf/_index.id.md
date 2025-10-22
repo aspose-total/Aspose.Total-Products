@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPTX ke RTF dengan tand
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi PPTX ke RTF (Rich Text Format) memastikan kompatibilitas yang luas untuk ekstraksi teks presentasi. Ini banyak digunakan untuk membuat dokumen yang dapat diedit lintas platform sambil mempertahankan integritas format.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengekstrak teks slide untuk pengeditan lintas perangkat lunak.
+* Berbagi konten PowerPoint yang diformatkan lintas sistem operasi.
+* Menyiapkan versi presentasi yang ringan dan dapat diedit.
+* Mengimpor catatan presentasi ke editor yang mendukung RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi PPTX ke RTF otomatis untuk perpustakaan dokumentasi.
+* Integrasi dengan alat manajemen konten berbasis RTF.
+* Ekstraksi teks batch dari slide untuk alur kerja terjemahan.
+* Penjadwalan arsip PowerPoint dalam RTF untuk kepatuhan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

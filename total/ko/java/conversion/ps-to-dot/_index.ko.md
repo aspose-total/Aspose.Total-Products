@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 DOT (Word 템플릿)으로 변환하면 기업이 문서 형식 및 레이아웃을 표준화할 수 있습니다. DOT 템플릿은 공식 통신, 보고서 및 고객 문서에 재사용할 수 있어 디자인을 다시 만들지 않고도 사용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PostScript 기반 보고서에서 재사용 가능한 Word 템플릿 생성.
+* 비즈니스 편지머리, 양식 및 내부 문서 표준화.
+* PS로 생성된 시각적 레이아웃을 편집 가능한 Word 템플릿으로 변환.
+* 여러 팀에서 생성한 문서 간 디자인 일관성 유지.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 템플릿 관리 시스템을 위한 자동 PS-to-DOT 변환.
+* 재사용 가능한 문서 템플릿을 위한 콘텐츠 관리 시스템 통합.
+* 부서별 템플릿 생성을 위한 일괄 처리.
+* PostScript 기반 브랜딩 자산에서 Word 템플릿의 예약 업데이트.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

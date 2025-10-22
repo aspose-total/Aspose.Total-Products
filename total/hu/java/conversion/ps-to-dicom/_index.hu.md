@@ -57,7 +57,31 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PS (PostScript) fájlok átalakítása DICOM (Digital Imaging and Communications in Medicine) formátumra lehetővé teszi vektor alapú jelentések, diagnosztikai táblázatok és radiográfiai megjegyzések zökkenőmentes integrálását az egészségügyi képalkotási folyamatokba. A DICOM kompatibilitás biztosítja, hogy ezeket a vizuális jelentéseket biztonságosan lehessen megtekinteni és elemezni a kórházakban és rendelőkben használt PACS (Picture Archiving and Communication System) platformokon.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Vektor alapú diagnosztikai diagramok beágyazása a páciensek képarchívumaiba.
+* Kardiológiai vagy onkológiai PS táblázatok átalakítása DICOM-kompatibilis képsorozattá.
+* Sebészeti tervezési vizualizációk integrálása a kórházi képalkotó rendszerekbe.
+* Diagnosztikai összefoglalók generálása DICOM átfedéseként a radiológiai jelentésekhez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált PS-DICOM átalakítás az EMR (Elektronikus Egészségügyi Rekord) folyamatokban.
+* ETL adatintegráció az egészségügyi analitikai csövekben az képalapú jelentésekhez.
+* AI-asszisztált tömeges átalakítás diagnosztikai vizualizációhoz az orvosi AI rendszerekben.
+* Kiváltott DICOM export az automatikusan generált klinikai képalkotási dokumentációhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,31 @@ otherformats: XLSB XLAM SXC TSV MHTML EXCEL XLTM XLS XLSX XLSM FODS XLT MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPTX เป็น XLAM (Excel Add-in Macro) เป็นวิธีการสร้างสรรค์ที่นักพัฒนาสามารถฝังตัวตนของข้อมูลที่เป็นไดรฟ์สไลด์เข้าไปในโซลูชัน Excel ที่อัตโนมัติ การแปลงนี้สนับสนุนการทำงานของแมโครและรายงานที่เปลี่ยนไปตามสถานการณ์
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* การฝังข้อมูลจากงานนำเสนอเป็นแมโครสำหรับการออโตเมชัน Excel
+* การแปลงเมตริกส์ PowerPoint เป็นแดชบอร์ดที่ขับเคลื่อนโดย Excel
+* การสร้างรายงาน Excel ที่สามารถใช้แมโครจากเนื้อหางานนำเสนอ
+* การสร้างเครื่องมือ XLAM สำหรับการซิงโครไนซ์ข้อมูลจากสไลด์ไปยังสเปรดชีต
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การสร้างแมโคร PPTX-to-XLAM โดยอัตโนมัติสำหรับการวิเคราะห์ธุรกิจ
+* การผสานรวมกับกรอบการออโตเมชันที่ใช้ Excel
+* การทำงานของ ETL ที่เพิ่มประสิทธิภาพในการทำงานร่วมกันระหว่าง PowerPoint และ Excel
+* การสร้างส่วนเสริมตามกำหนดเวลาสำหรับระบบรายงานขององค์กร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

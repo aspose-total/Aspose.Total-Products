@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPTX ke DOCM dengan tan
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi presentasi PPTX ke DOCM (Dokumen Word yang Diaktifkan Makro) memungkinkan penyisipan skrip otomatisasi dan bidang dinamis. Konversi ini bermanfaat bagi perusahaan yang mengotomatisasi pembuatan laporan atau tugas dokumentasi terstruktur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah data slide menjadi laporan Word yang diaktifkan makro.
+* Membuat template interaktif dengan bidang data otomatis.
+* Mengembangkan dokumen alur kerja yang mengisi konten secara otomatis.
+* Menghasilkan ringkasan yang didorong makro dari slide PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Pembuatan laporan DOCM otomatis untuk pertemuan berkala.
+* Integrasi dengan sistem pelaporan berbasis VBA.
+* Eksekusi makro terjadwal untuk pembaruan dokumen.
+* Makro PowerPoint-to-Word untuk produktivitas yang lebih efisien.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

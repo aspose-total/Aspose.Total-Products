@@ -121,7 +121,31 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers SVG (Scalable Vector Graphics) en ODP (OpenDocument Presentation) permet d'intégrer des diagrammes vectoriels dans des diapositives conformes aux normes ouvertes. L'ODP prend en charge la scalabilité et la compatibilité multiplateforme pour les flux de travail de présentation modernes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Création de diapositives interactives avec des diagrammes SVG pour des présentations d'entreprise.
+* Diapositives éducatives avec des illustrations et des graphiques basés sur des vecteurs.
+* Présentations marketing mettant en valeur les données produit avec des graphiques évolutifs.
+* Présentations de conférences académiques utilisant des visuels SVG de haute qualité.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en lot de SVG en ODP pour les mises à jour récurrentes des présentations.
+* Génération de modèles planifiée pour les formations ou les présentations d'entreprise.
+* Intégration avec des plateformes de présentation open-source pour des flux de travail automatisés.
+* Pipelines de conversion déclenchés pour un contenu de diapositives généré dynamiquement.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

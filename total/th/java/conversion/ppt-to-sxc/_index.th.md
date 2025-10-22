@@ -61,7 +61,31 @@ otherformats: SXC TSV XLTM XLSX XLS XLSB DIF FODS XLT XLTX EXCEL MHTML ODS MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPT (PowerPoint) เป็น SXC (StarOffice Calc Spreadsheet) ช่วยให้องค์กรที่ใช้ระบบเก่าหรือระบบโอเพนซอร์สสามารถนำข้อมูลงานนำเสนอมาใช้ในการวิเคราะห์ลึกซึ้งได้ การแปลงนี้เชื่อมสะพานระหว่างสรุปข้อมูลทางภาพและข้อมูลสเปรดชีตที่สามารถแก้ไขได้ ช่วยเสริมสร้างความร่วมมือในสภาพแวดล้อมสำนักงานที่หลากหลาย
+
+{{% blocks/products/pf/agp/feature-section-col title="ใช้งานหลัก" %}}
+
+* การแปลงงานนำเสนอธุรกิจเป็นสเปรดชีตที่เข้ากันได้กับ OpenOffice
+* การนำตารางและแผนภูมิจาก PowerPoint มาใช้ในโมเดลการเงินที่ใช้ SXC
+* การสนับสนุนผู้ใช้ระบบของรัฐบาลหรือองค์กรที่พึ่งตนเองที่ใช้ OpenOffice หรือ LibreOffice
+* การย้ายข้อมูล PPT ขององค์กรที่ถูกเก็บไว้เข้าสู่รูปแบบสเปรดชีตที่เปิด
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PPT เป็น SXC จำนวนมากสำหรับระบบเก็บข้อมูลขององค์กร
+* การผสานในกระบวนการทำงานดิจิทัลเอกสาร
+* การแปลงอัตโนมัติสำหรับสภาพแวดล้อมรายงานโอเพนซอร์สผสม
+* การส่งออกการอัปเดต PPT ตามกำหนดเวลาเข้าสู่เครื่องมือสเปรดชีตที่ใช้ร่วมกัน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

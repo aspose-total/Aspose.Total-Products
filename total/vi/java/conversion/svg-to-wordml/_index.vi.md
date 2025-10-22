@@ -129,7 +129,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG sang WORDML (WordprocessingML) tạo ra tài liệu Word dựa trên XML với các biểu đồ vector được nhúng hoàn toàn. WORDML lý tưởng cho xử lý tài liệu theo chương trình, tạo mẫu và quy trình làm việc tự động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tự động tạo báo cáo Word với hình ảnh SVG được nhúng.
+* Mẫu học thuật và nghiên cứu trong XML để chỉnh sửa tự động.
+* Tài liệu dự án chuẩn cho quy trình làm việc kiểm soát phiên bản.
+* Lưu trữ nội dung SVG tương tác trong định dạng XML có cấu trúc.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt SVG sang WORDML tự động cho các hệ thống báo cáo.
+* Xuất lịch trình các mẫu dựa trên SVG sang XML để tự động hóa quy trình làm việc.
+* Tích hợp với API tạo tài liệu và hệ thống quản lý nội dung.
+* Kích hoạt tạo ra tài liệu Word động, được kiểm soát bằng chương trình.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,29 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをPPSX（PowerPoint Open XML Show）に変換すると、埋め込まれたベクターグラフィックを使用して直接プレゼンテーションモードで開く、モダンでマクロフリーなスライドショーが作成されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 高解像度のSVGチャートを使用した即座に表示可能なビジネスプレゼンテーション。
+* 講義やeラーニングモジュール向けの教育用スライドショー。
+* 即座に閲覧可能なマーケティングおよび製品デモ。
+* インタラクティブなベクター視覚効果を備えた学術的または会議用プレゼンテーション。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なプレゼンテーション配信のためのSVGをPPSXに自動バッチ変換。
+* ライブダッシュボードから即座に表示可能なスライドの定期的な生成。
+* 自動プレゼンテーション配信のためのコンテンツ管理システムとの統合。
+* 動的でリアルタイムな視覚効果のためのトリガーされたSVGからPPSXへのパイプライン。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

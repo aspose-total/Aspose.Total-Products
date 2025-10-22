@@ -102,7 +102,31 @@ otherformats: XLS ODS XLT MARKDOWN FODS XLAM CSV MHTML XLSM XLTX XLTM XLSB EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPTX ל-SXC (גיליון עבודה של StarOffice Calc) מאפשרת שיפור ביכולת השיתוף בין נתוני המצגת וכלי גיליון העבודה המותרים. אידיאלי עבור עסקים המשתמשים בסביבות StarOffice או סביבות דומות המבוססות על OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* חילוץ נתוני טבלה משקפי PowerPoint לגיליונות עבודה.
+* שיתוף נתוני ניתוח של מצגות עם משתמשי StarOffice.
+* הכנת גיליונות עבודה לארכיון משקפי חברה.
+* עריכה וניתוח של מדדים של מצגות בפורמט SXC.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת קבצים מ- PPTX ל-SXC בצורה צפופה למאגרי מסמכים.
+* זרימות עבודה לחילוץ אוטומטי עבור חבילות משרד ישנות.
+* שילוב עם מערכות דיווח עסקיות.
+* המרות מתוזמנות לשיתוף פעולה בין פלטפורמות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

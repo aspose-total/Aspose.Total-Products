@@ -130,7 +130,31 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione dei file SVG (Scalable Vector Graphics) in DOCM (Documento abilitato per macro di Word) consente di incorporare diagrammi vettoriali interattivi nei documenti di Word supportando al contempo le macro per l'automazione. Il formato DOCM è ideale per report dinamici, modelli e materiali educativi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Manuali di formazione interattivi con diagrammi SVG e navigazione abilitata per macro.
+* Report aziendali che incorporano grafici vettoriali animati o interattivi.
+* Articoli di ricerca accademica che utilizzano visualizzazioni SVG dinamiche guidate da macro.
+* Modelli standardizzati per proposte di progetti o flussi di lavoro aziendali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Conversione automatica in batch di diagrammi SVG in DOCM per la segnalazione aziendale.
+* Creazione programmata di modelli abilitati per macro da visualizzazioni SVG.
+* Integrazione con sistemi di gestione documentale per la segnalazione interattiva.
+* Conversione da SVG a DOCM attivata per contenuti didattici dinamici.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

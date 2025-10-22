@@ -53,7 +53,31 @@ otherformats: FLATOPC DOT DOTM WORDML WORD TEXT RTFM RTFX ODT OTT DOTX RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPT (PowerPoint) เป็น RTF (Rich Text Format) ช่วยให้สามารถสกัดเนื้อหาข้อความพร้อมกับการรักษาการจัดรูปแบบพื้นฐานได้ รูปแบบ RTF ช่วยให้สามารถใช้งานได้บนแพลตฟอร์มและโปรแกรมประมวลผลคำต่าง ๆ ทำให้เหมาะสำหรับรายงานที่เรียบง่ายและสามารถแก้ไขได้
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ส่งออกข้อความจาก PowerPoint เพื่อแก้ไขบนแพลตฟอร์มต่าง ๆ
+* สร้างรายงานข้อความที่จัดรูปแบบจากสไลด์
+* แชร์สรุปที่สามารถแก้ไขได้โดยไม่ต้องพึ่งพา PowerPoint
+* แปลงงานนำเสนอทางการศึกษาเป็นเอกสารเรียนรู้ที่ใช้รูปแบบ RTF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PPT เป็น RTF อัตโนมัติสำหรับการกระจายรายงาน
+* การรวมเข้ากับระบบประมวลผลข้อความและการเก็บถาวร
+* การแปลงเป็นชุดเอกสารที่เรียบง่ายและสามารถแก้ไขได้
+* การส่งออก RTF ตามกำหนดเวลาสำหรับการส่งมอบตามกฎหมายและการส่งเสริมการศึกษา
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

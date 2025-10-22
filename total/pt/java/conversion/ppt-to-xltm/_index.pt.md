@@ -61,7 +61,31 @@ Ao converter o arquivo PPT para XLTM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPT (PowerPoint) para XLTM (Modelo de Excel com Macro) permite que organizações projetem modelos de planilhas inteligentes e reutilizáveis derivados de apresentações. Os modelos XLTM automatizam tarefas repetitivas e simplificam a consistência nos relatórios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Transformar relatórios do PowerPoint em modelos de Excel com macro.
+* Construir modelos de planilhas inteligentes para análises automatizadas.
+* Padronizar modelos de relatórios financeiros recorrentes.
+* Criar modelos de Excel que replicam o layout e a lógica do PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automática de slides para XLTM para modelos de relatórios com macro.
+* Integração em fluxos de trabalho automatizados de entrada de dados e análises.
+* Geração programada de planilhas reutilizáveis com macro.
+* Processamento em lote para padronização de modelos em grande escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

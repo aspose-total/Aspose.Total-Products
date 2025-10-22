@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 PCL(프린터 명령어 언어)로 변환하면 다이어그램과 차트에서 고품질의 벡터 인쇄가 가능해집니다. PCL은 기업 프린팅 워크플로 및 하드웨어 호환성에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 공학 또는 기술 다이어그램의 고해상도 인쇄.
+* 하드코피 배포용으로 벡터 차트가 포함된 기업 보고서.
+* PCL 호환 프린터용으로 최적화된 마케팅 및 제품 시각 자료.
+* 세부 사항 손실 없이 인쇄된 학술 및 연구 다이어그램.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 반복되는 인쇄 작업을 위한 자동 일괄 SVG-to-PCL 변환.
+* 대량 출력을 위한 인쇄 관리 시스템 통합.
+* 표준화된 보고서 인쇄를 위한 예약된 변환 파이프라인.
+* 동적으로 생성된 벡터 콘텐츠를 위한 트리거된 SVG-to-PCL 렌더링.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

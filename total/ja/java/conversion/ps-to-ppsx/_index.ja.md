@@ -59,7 +59,31 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをPPSX（マクロなしのPowerPoint Show）に変換すると、プレゼンテーション用のスライドを安全でマクロフリーの形式で提供できます。PPSXは外部配布や安全な企業プレゼンテーションに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PSスライドをマクロなしのプレゼンテーション用ファイルに変換する。
+* トレーニング、マーケティング、または顧客プレゼンテーションを安全に配信する。
+* スライドショー再生用にPostScriptの図やチャートを変換する。
+* マクロリスクのないプロフェッショナルなスライドデッキを準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 配布ワークフロー向けの自動化されたPSからPPSXへのバッチ変換。
+* クラウドベースのプレゼンテーション管理システムへの統合。
+* アーカイブされたPSファイルを安全なスライドショーに定期的に変換する。
+* マクロなし再生用にスライドレイアウトをAI支援で最適化する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

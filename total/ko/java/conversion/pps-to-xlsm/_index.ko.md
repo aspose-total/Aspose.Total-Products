@@ -61,7 +61,31 @@ PPS 파일을 XLSM로 변환하는 동안 출력 XLSM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 XLSM (매크로 활성화 워크북)으로 변환하면 고급 자동화 및 동적 분석이 가능해집니다. 이는 매크로 및 VBA 스크립트를 포함하여 프레젠테이션 콘텐츠에서 파생된 대화식 데이터를 사용하고자 하는 사용자들에게 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PPS 슬라이드로부터 매크로 기반 대시보드 생성.
+* 반복되는 프레젠테이션을 자체 업데이트되는 Excel 템플릿으로 변환.
+* VBA 매크로를 사용하여 업데이트되는 KPI 추적기 개발.
+* PowerPoint 슬라이드에서 추출한 자동 요약 계산을 포함.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* Excel 자동화 워크플로에 통합.
+* 프로젝트 보고를 위한 PPS 슬라이드를 XLSM 템플릿으로 변환.
+* 일정에 따른 PowerPoint 데이터셋으로부터 매크로 기반 Excel 생성.
+* 반복되는 비즈니스 업데이트를 위한 슬라이드에서 매크로 시트로의 자동 변환.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

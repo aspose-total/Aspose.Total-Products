@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 MHTML (MIME HTML)로 변환하면 대화형 그래픽을 단일 웹 아카이브 파일로 패키징할 수 있습니다. 이는 오프라인 문서, 이메일 호환 다이어그램 및 휴대용 벡터 보고서에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 오프라인 액세스용 대화형 SVG 대시보드 아카이빙.
+* MHTML 이메일에 임베드된 애니메이션 벡터 시각화물 전송.
+* 인라인 벡터 다이어그램이 포함된 휴대용 기술 매뉴얼.
+* 서버 호스팅 없이 배포할 수 있는 웹 호환 보고서 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 아카이브된 프로젝트 결과물을 위한 일괄 SVG-to-MHTML 변환.
+* 기업용 오프라인 벡터 대시보드의 예약 생성.
+* 콘텐츠 관리 시스템과 통합하여 벡터 시각화물 내보내기.
+* 일관된 형식 및 휴대성을 위한 보고서 생성 자동화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

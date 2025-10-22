@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 DOCX로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT(PowerPoint) 파일을 DOCX(Microsoft Word Open XML Document)로 변환하면 발표 콘텐츠를 재활용하기 위한 현대적이고 편집 가능하며 높은 호환성을 제공하는 형식이 됩니다. 비즈니스 및 학계에서 사용되는 전문 문서로 슬라이드를 변환하는 데 완벽합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 보고서 배포를 위해 PowerPoint 슬라이드를 DOCX 보고서로 내보내기.
+* 슬라이드 노트 및 글머리 기호를 서식이 있는 문서로 변환.
+* 편집 가능한 마케팅 또는 기술 요약 생성.
+* 시각 자료와 텍스트를 정돈된 Word 산출물로 결합.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 매일 보고를 위한 자동화된 PowerPoint-to-DOCX 변환.
+* 콘텐츠 관리 또는 문서 게시 시스템과의 통합.
+* 학술 및 기업 저장소를 위한 일괄 변환.
+* 업데이트된 프레젠테이션을 DOCX 요약으로 예약된 내보내기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

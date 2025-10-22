@@ -130,7 +130,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke DOT (Template Word 97-2003) memungkinkan pembuatan template dokumen yang dapat digunakan kembali dengan diagram vektor tertanam yang kompatibel dengan versi Word yang lebih lama. DOT memastikan format yang konsisten di seluruh sistem warisan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Template laporan standar dengan diagram SVG untuk dokumen Word warisan.
+* Template proposal proyek yang menggabungkan dasbor visual.
+* Template akademik atau instruksional yang dapat digunakan kembali dengan visual SVG.
+* Template dokumen historis untuk alur kerja bisnis atau rekayasa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi template batch SVG-to-DOT otomatis untuk alur kerja Word warisan.
+* Pembaruan terjadwal template dengan visual SVG baru.
+* Integrasi ke dalam sistem manajemen dokumen yang memerlukan template yang kompatibel ke belakang.
+* Konversi yang dipicu untuk laporan berulang dan template yang dapat digunakan kembali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,25 @@ SVGファイルをXLAMに変換するときに、出力XLAMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+SVGをXLAM（Excel Add-in Macro）に変換することで、開発者はベクターベースのチャートやインタラクティブな図をマクロが有効化されたExcelアドインに埋め込むことができます。XLAMは、豊富なビジュアルコンテンツを備えたカスタムExcel自動化に最適です。
+
+## Key Use Cases
+
+* ビジネス分析のためのインタラクティブなSVGダッシュボードを持つExcelアドインの作成。
+* マクロが有効化された金融や運用ツールにSVGチャートを埋め込む。
+* 自動化されたSVGビジュアライゼーションを備えた学術または研究用Excelテンプレート。
+* アドイン内の動的ベクターダイアグラムでレポートツールを強化。
+
+## Automation Scenarios
+
+* 定期的なExcelアドインの更新のための自動化されたSVGからXLAMへの変換。
+* 更新されたベクタービジュアルを持つマクロが有効化されたアドインのスケジュール生成。
+* インタラクティブなExcelツールを提供するための企業ワークフロー自動化との統合。
+* 動的ダッシュボードアドインのためのトリガー変換パイプライン。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

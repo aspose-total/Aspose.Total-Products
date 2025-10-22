@@ -130,7 +130,29 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+SVGをRTF（リッチテキスト形式）に変換することで、ベクターダイアグラムを普遍的にサポートされるテキスト文書に埋め込むことができます。RTFは異なるワードプロセッサやオペレーティングシステム間で書式を維持します。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* クロスプラットフォームのレポートやマニュアルにSVGビジュアルを埋め込む。
+* ベクターチャートを備えた標準化された技術的または教育的文書。
+* SVGダイアグラムを組み込んだポータブルなプロジェクトテンプレート。
+* 互換性のあるテキスト形式が必要な学術論文やプレゼンテーション。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 文書配布のためのSVGからRTFへの自動バッチ変換。
+* 新しいSVGビジュアルを使用した技術マニュアルの定期的な更新。
+* マルチプラットフォームアクセスのためのコンテンツ管理システムとの統合。
+* オフラインやポータブルなワークフローのためのRTF文書のトリガー生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

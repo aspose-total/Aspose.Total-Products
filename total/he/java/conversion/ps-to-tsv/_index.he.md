@@ -78,7 +78,31 @@ otherformats: FODS ODS EXCEL XLSB TXT DIF XLSM CSV XLAM SXC MD XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) ל־TSV (ערכים מופרדים בטאב) עוזרת לתקן את תהליך ההחלפת נתונים בין מערכות לניתוח עסקי, סטטיסטי והנדסי. TSV מספק פורמט מובנה אך קריא לאדם, אידיאלי להעברת נתונים שנפלטו מפריסות PS אל צינורות נתונים לניתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת טקסט מובנה ונתונים מטפסי PS ל־TSV לצורך עיבוד.
+* ייצוא תוצאות מדעיות או ניסוייות לכלים סטטיסטיים.
+* העברת תוכן טבלאי מתיעוד מבוסס PostScript לפורמטי נתונים פתוחים.
+* הכנת סטים נתונים לתאימות עם סביבות R, Python או MATLAB.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PS ל־TSV באופן אוטומטי במערכות אחסון נתונים.
+* שילוב עם כלים ETL להגירת נתונים מובנים.
+* זרימות עבודה שוטפות ממנועי דיווח מבוססי PS.
+* עיבוד בענן של מסמכי PS לצורך ניתוח נתונים גדולים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 DOCM로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 프레젠테이션을 DOCM(매크로 활성화 워드 문서)으로 변환하면 자동화 스크립트와 동적 필드를 포함할 수 있어 기업이 보고서 생성이나 구조화된 문서 작업을 자동화하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 슬라이드 데이터를 매크로 활성화된 워드 보고서로 변환하기.
+* 자동화된 데이터 필드를 포함한 대화형 템플릿 생성하기.
+* 콘텐츠를 자동으로 채우는 워크플로 문서 개발하기.
+* PowerPoint 슬라이드로부터 매크로로 구동되는 요약 생성하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 주기적 회의를 위한 자동화된 DOCM 보고서 생성.
+* VBA 기반 보고 시스템과 통합.
+* 문서 업데이트를 위한 예약된 매크로 실행.
+* 생산성 향상을 위한 PowerPoint-to-Word 매크로.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

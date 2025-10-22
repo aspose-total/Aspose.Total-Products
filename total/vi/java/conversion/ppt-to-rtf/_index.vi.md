@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPT s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các bài thuyết trình PPT (PowerPoint) sang định dạng RTF (Rich Text Format) giúp trích xuất nội dung văn bản trong khi bảo tồn định dạng cơ bản. RTF đảm bảo tính tương thích trên nhiều nền tảng và trình xử lý văn bản, làm cho nó trở nên xuất sắc cho các báo cáo đơn giản và có thể chỉnh sửa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Xuất văn bản từ PowerPoint để chỉnh sửa trên nhiều nền tảng.
+* Tạo báo cáo văn bản được định dạng từ các slide.
+* Chia sẻ bản tóm tắt có thể chỉnh sửa mà không phụ thuộc vào PowerPoint.
+* Chuyển đổi các bài thuyết trình giáo dục thành tài liệu học tập dựa trên RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ PPT sang RTF cho quy trình phân phối báo cáo.
+* Tích hợp vào các hệ thống xử lý văn bản và lưu trữ.
+* Chuyển đổi hàng loạt cho tài liệu có thể chỉnh sửa nhẹ.
+* Xuất RTF theo lịch trình cho các báo cáo theo quy định và học thuật.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

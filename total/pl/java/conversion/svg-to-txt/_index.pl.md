@@ -47,7 +47,31 @@ Konwertując plik SVG na TXT, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie SVG na TXT (czysty tekst) pozwala wyodrębnić treść tekstową z grafiki wektorowej do analizy, indeksowania lub lekkiej dokumentacji. TXT jest idealny do prostych, skryptowalnych przepływów pracy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Wyodrębnianie etykiet i adnotacji z diagramów SVG do dokumentacji.
+* Tworzenie przeszukiwalnych wersji tekstowych ilustracji technicznych.
+* Generowanie lekkich raportów metadanych SVG do analizy danych.
+* Szybkie udostępnianie tekstowej treści SVG bez obrazów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne wyodrębnianie tekstu SVG do TXT dla potoków raportowania.
+* Zaplanowane generowanie dokumentacji w formie czystego tekstu z diagramów wektorowych.
+* Integracja z systemami indeksowania i wyszukiwania.
+* Wywoływana konwersja do analizy i lekkich przepływów pracy z treścią.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

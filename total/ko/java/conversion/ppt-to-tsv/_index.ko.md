@@ -61,7 +61,31 @@ PPT 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 파일을 TSV (Tab-Separated Values) 형식으로 변환하면 데이터 이주 및 스크립팅 환경에 이상적인 프레젠테이션 데이터의 깨끗하고 구조화된 텍스트 표현이 제공됩니다. TSV는 기업 데이터 워크플로우에서 정밀성과 가독성을 위해 선호됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 분석 스크립트를 위해 표 형식의 슬라이드 데이터를 TSV로 추출합니다.
+* 통계 도구를 위해 PowerPoint 기반 설문 결과를 내보냅니다.
+* 개발팀이나 연구팀과 프레젠테이션 데이터를 공유합니다.
+* 자동 데이터 흡수를 위한 구조화된 텍스트 데이터 세트를 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* AI 데이터 파이프라인과 통합하기 위한 일괄 PPT-to-TSV 변환.
+* 백엔드 시스템에서 텍스트 데이터 처리를 위한 자동 추출.
+* 비즈니스 인텔리전스 플랫폼을 위한 ETL 자동화에 사용합니다.
+* 머신러닝 준비 데이터 세트를 위한 예약된 TSV 내보내기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

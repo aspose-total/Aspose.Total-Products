@@ -61,7 +61,31 @@ Ao converter o arquivo PPS para XLAM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPS (PowerPoint Slide Show) para XLAM (Excel Add-In) permite a incorporação de dados derivados de apresentações em complementos habilitados para macro. Essa conversão é perfeita para desenvolvedores e analistas que automatizam relatórios baseados no Excel e precisam integrar dados do PowerPoint em extensões do Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Construir complementos XLAM com métricas baseadas em slides para relatórios automatizados.
+* Criar painéis orientados por macro originados a partir de dados de apresentações PPS.
+* Gerar complementos para rastreamento de KPI em tempo real usando valores de apresentação convertidos.
+* Integrar conteúdo PPS em scripts avançados de automação do Excel.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automática de XLAM a partir de arquivos de apresentação do departamento.
+* Integração em sistemas de automação do Excel corporativo.
+* Conversão programada de PowerPoint para XLAM para módulos de relatórios em tempo real.
+* Criação em lote de complementos para fluxos de trabalho de visualização de dados dinâmicos.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

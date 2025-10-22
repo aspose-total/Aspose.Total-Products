@@ -68,7 +68,27 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+PS（PostScript）ファイルをDOT（Wordテンプレート）に変換することで、企業は文書のフォーマットやレイアウトを標準化することができます。DOTテンプレートは、デザインを再作成せずに公式文書、レポート、顧客向け文書に再利用することができます。
+
+## Key Use Cases
+
+* PostScriptベースのレポートから再利用可能なWordテンプレートを作成する。
+* ビジネス文書のヘッダー、フォーム、社内文書を標準化する。
+* PSで生成された視覚的レイアウトを編集可能なWordテンプレートに変換する。
+* 複数のチームによる文書でデザインの一貫性を維持する。
+
+## Automation Scenarios
+
+* テンプレート管理システム向けの自動化されたPSからDOTへの変換。
+* 再利用可能な文書テンプレートのコンテンツ管理システムとの統合。
+* 部門ごとのテンプレートを生成するためのバッチ処理。
+* PostScriptベースのブランディング資産からWordテンプレートの定期的な更新。
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

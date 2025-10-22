@@ -102,7 +102,31 @@ otherformats: XLTX XLAM XLSM CSV FODS XLSB XLS DIF XLSX TSV XLTM ODS SXC EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל-XLT (תבנית Excel) מאפשרת לנתוני מסמך בפורמט מעוצב להיות מומרים לתבניות גיליון נתונים שניתן להשתמש בהם. זה מאוד שימושי לארגונים שמתקיים תקן של פריטי דוח או מתמטיקת יצירת מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת טפסי עסקים בפורמט RTF לתבניות דיווח ב-Excel.
+* עיצוב מבני דוח תקן לחברה מתוך פריטי RTF.
+* יצירת תבניות להזנת נתונים מטבלאות ב-RTF.
+* המרת רשימות משימות ב-RTF לכלי יציבות ב-Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת תבנית RTF-to-XLT אוטומטית לתקן דוחות.
+* שילוב עם מערכות הוספות Excel לטפסי עסקים שניתן להשתמש בהם.
+* המרה מתוזמנת לזרימי עבודה בארגונים.
+* עיבוד רצף של דוחות RTF לספריות תבניות Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

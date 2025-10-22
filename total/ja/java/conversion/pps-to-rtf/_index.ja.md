@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPSファイルからRTFへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをRTF（Rich Text Format）に変換することで、ユーザーは保存された書式を保持したプラットフォームに依存しないテキスト文書を生成できます。これにより、異なるワードプロセッサやオペレーティングシステム間での読みやすさが確保されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PowerPointのテキストをRTFにエクスポートしてクロスプラットフォームで共有する。
+* 教育用スライドをフォーマットされた印刷可能なノートに変換する。
+* PPSのビジネスデッキから軽量なRTFレポートを生成する。
+* アーカイブやレビュー目的のための携帯可能なドキュメントを作成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* コンプライアンス文書配布のための自動化されたRTF変換。
+* ライトウェイトファイルストレージ向けのナレッジ管理システムへの統合。
+* テキストベースの要約のためのスケジュールされたスライドからRTFへのエクスポート。
+* 複数のプレゼンテーションファイルからの一括RTF生成。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

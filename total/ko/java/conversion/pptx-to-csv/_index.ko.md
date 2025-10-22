@@ -61,7 +61,31 @@ PPTX 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX (PowerPoint Presentation) 파일을 CSV (쉼표로 구분된 값)로 변환하면 슬라이드에서 표 및 숫자 데이터를 가벼운 스프레드시트 형식으로 추출할 수 있습니다. 이 변환은 데이터 분석, 보고서 자동화 및 여러 플랫폼 간 대시보드 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 분석 도구를 위해 PowerPoint 슬라이드 표를 CSV로 내보내기.
+* BI 대시보드를 위해 프레젠테이션 지표를 CSV로 변환.
+* Excel 및 데이터베이스 가져오기를 위해 영업 데이터 슬라이드 준비.
+* ERP 또는 CRM 통합을 위해 PowerPoint 데이터 이관.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 분기별 성과 보고서를 위한 일괄 PPTX-to-CSV 변환.
+* ETL 및 분석 파이프라인에서 CSV 내보내기 자동화.
+* PowerPoint와 보고 시스템 간 데이터 동기화.
+* API 기반 데이터 수집 워크플로에 통합.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

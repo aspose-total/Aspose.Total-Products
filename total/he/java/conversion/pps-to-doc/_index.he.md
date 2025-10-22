@@ -99,7 +99,31 @@ otherformats: DOCM FLATOPC WORDML ODT DOCX OTT TEXT WORD DOT RTF DOTM DOTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-DOC (מסמך Microsoft Word) עוזרת למשתמשים לשנות שימוש במצגות ויזואליות למסמכי טקסט ניתנים לעריכה. ההמרה הזו אידיאלית ליצירת דוחות מפורטים, הצעות פרויקט או תיעוד מבוסס על תוכן מפגשי הפיינט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת מצגות חברה לדוחות פרויקט רשמיים.
+* יצירת תיעוד עסקי מפורט מסיכומי שקופיות.
+* המרת שקפים למחברות הרצאות או חומרים הדפסה.
+* הכנת חומרי הדרכה או מדריכים מבוססי DOC ממצגות ויזואליות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת דוחות DOC אוטומטיים משקפי PowerPoint חוזרים.
+* שילוב במערכות ניהול תוכן עסקיות.
+* המרות מתוזמנות של PPS ל-DOC לצורך פרסום תהליכי עבודה בדוחות.
+* המרה בצמוד לצורך ארכיבה ושמירת רשומות בפורמט טקסט.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

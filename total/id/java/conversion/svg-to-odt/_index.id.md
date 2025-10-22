@@ -130,7 +130,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG ke ODT (OpenDocument Text) memungkinkan penyisipan grafik vektor ke dalam dokumen teks lintas platform. ODT memastikan kesetiaan visual sambil tetap kompatibel dengan LibreOffice, OpenOffice, dan suite lainnya.
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+* Manual teknis dan laporan proyek yang menggabungkan diagram SVG.
+* Makalah akademik dengan ilustrasi vektor yang disisipkan.
+* Dokumentasi pemasaran atau bisnis yang menggunakan visual SVG yang dapat diskalakan.
+* Manual dan panduan lintas platform yang didistribusikan tanpa masalah format.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch SVG-to-ODT otomatis untuk dokumentasi berulang.
+* Pembaruan template terjadwal dengan visual SVG baru.
+* Integrasi dengan sistem manajemen konten untuk distribusi lintas platform.
+* Generasi yang dipicu untuk materi instruksional atau pelatihan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

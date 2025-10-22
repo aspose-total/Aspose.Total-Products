@@ -130,7 +130,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke DOTM (Template Word yang Diaktifkan Makro) memungkinkan template yang dapat digunakan kembali yang menggabungkan grafik vektor yang dapat diubah ukuran dengan makro. Ideal untuk laporan interaktif, formulir, dan dokumen alur kerja.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Template pelacakan proyek yang diaktifkan makro dengan visual SVG yang disematkan.
+* Template keuangan atau operasional yang dapat digunakan kembali untuk alur kerja perusahaan.
+* Template akademik atau penelitian yang mengintegrasikan diagram dinamis dan otomatisasi.
+* Materi e-learning interaktif menggunakan diagram SVG yang ditingkatkan makro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi SVG ke DOTM otomatis untuk template yang diaktifkan makro yang berulang.
+* Pembaruan terjadwal template dengan data SVG baru dan makro.
+* Integrasi ke dalam sistem otomatisasi alur kerja yang memerlukan template yang dapat digunakan kembali.
+* Pipa konversi yang dipicu untuk dasbor laporan interaktif.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

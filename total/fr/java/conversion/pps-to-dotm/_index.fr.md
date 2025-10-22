@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPS (PowerPoint Slide Show) en DOTM (Modèle de document Word activé par macro) permet de créer des modèles de documents dynamiques et pilotés par script. Les entreprises utilisent DOTM pour automatiser la génération de documents et les rapports basés sur les données de présentation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Conception de modèles Word basés sur des macros à partir de présentations PPS.
+* Automatisation des formulaires commerciaux récurrents à l'aide de VBA intégré.
+* Génération de modèles réutilisables pour les rapports de conformité et de qualité.
+* Création de flux de documents intelligents dérivés des diapositives PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatique de modèles DOTM pour une utilisation en entreprise.
+* Intégration avec des cadres d'automatisation pour la création de documents.
+* Mises à jour planifiées des modèles à partir des dernières présentations.
+* Conversion par lot de plusieurs fichiers PPS en modèles activés par macro.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

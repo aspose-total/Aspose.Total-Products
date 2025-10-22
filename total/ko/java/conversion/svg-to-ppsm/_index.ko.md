@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 PPSM(매크로 활성화 PowerPoint 쇼)으로 변환하면 벡터 다이어그램을 매크로와 결합하여 상호 작용 및 실행 준비가 된 슬라이드 쇼를 만들 수 있습니다. 자동화 중심의 프레젠테이션 워크플로에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 시각 자료와 함께 매크로가 포함된 상호 작용형 기업용 슬라이드 쇼.
+* 포함된 매크로로 자동 보고서 또는 교육용 프레젠테이션.
+* 동적 차트와 상호 작용 요소가 있는 교육용 슬라이드.
+* 자동화된 시각적 상호 작용이 있는 연구 또는 학술용 슬라이드 쇼.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* SVG를 PPSM으로 일정 배치 변환하여 반복적인 프레젠테이션에 사용.
+* 상호 작용형 슬라이드 덱을 위한 자동화된 매크로 삽입.
+* 실행 준비가 된 프레젠테이션을 제공하기 위한 워크플로 자동화 통합.
+* PPSM 형식의 동적 대시보드를 위한 트리거 변환 파이프라인.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

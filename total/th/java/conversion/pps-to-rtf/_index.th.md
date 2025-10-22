@@ -53,7 +53,31 @@ otherformats: RTFM RTFX DOTM FLATOPC OTT RTF ODT WORD TEXT DOT WORDML DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น RTF (Rich Text Format) ช่วยให้ผู้ใช้สามารถสร้างเอกสารข้อความที่เป็นแพลตฟอร์มอิสระที่มีการจัดรูปแบบไว้ ซึ่งจะช่วยให้เอกสารยังคงอ่านได้ทั้งในโปรแกรมประมวลผลคำและระบบปฏิบัติการที่แตกต่างกัน
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ส่งออกข้อความจาก PowerPoint เป็น RTF เพื่อแชร์ได้บนหลายแพลตฟอร์ม
+* แปลงสไลด์การเรียนรู้เป็นบันทึกที่สามารถพิมพ์ได้
+* สร้างรายงาน RTF ที่มีน้ำหนักเบาจากสไลด์ธุรกิจ PPS
+* สร้างเอกสารพกพาสำหรับการเก็บถาวรหรือตรวจทาน
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การแปลง RTF อัตโนมัติสำหรับการกระจายเอกสารการปฏิบัติตามกฎระเบียบ
+* การรวมเข้ากับระบบการจัดการความรู้สำหรับการจัดเก็บไฟล์ที่มีน้ำหนักเบา
+* การสร้างเอกสาร RTF จากสไลด์ตามกำหนดเวลาสำหรับสรุปที่เป็นข้อความ
+* การสร้างกลุ่มเอกสาร RTF จากไฟล์นำเสนอหลายไฟล์
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,31 @@ otherformats: TEXT DOC WORDML DOCM RTF DOTX FLATOPC WORD DOTM ODT DOCX OTT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTX ל-DOT (תבנית Word) יוצרת תבניות ניתנות לשימוש מנתוני המצגת. זה ערך עבור ארגונים שמתקנים פורמטים תיעודיים או יוצרים תבניות לדו"חות תדמיתיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* בניית תבניות DOT מתצורות מצגת תדמיתיות תדמיתיות.
+* המרת שקופיות של PowerPoint למסגרות עיצוב Word ניתנות לשימוש.
+* הכנת תבניות מותגות להצעות ולמסמכי לקוח.
+* יצירת תבניות דוח עקביות למחלקות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* הפקת תבניות DOT באופן אוטומטי ממצגות חוזרות.
+* אינטגרציה של תהליכי עבודה לתקן מסמכים.
+* סנכרון של תבניות בין סביבות מרובות מחלקות.
+* קידוד מתוזמן לתבניות תיעוד עסקיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

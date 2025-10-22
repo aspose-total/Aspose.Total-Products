@@ -102,7 +102,31 @@ otherformats: WORDML DOTM RTF DOCM TEXT OTT DOTX FLATOPC WORD DOCX DOC ODT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPT (PowerPoint) לתבנית DOT (תבנית Word) מאפשרת יצירת תבניות Word הניתנות לשימוש מבוססות פריסות המצגת. זהו אידיאלי להבטיח עיצוב ומיתוג עקבי בכל המסמכים שיוצרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות Word משקופי PowerPoint ממותגים.
+* עיצוב תבניות דוח ניתנות לשימוש עבור תיעוד עסקי.
+* תקנון סגנון ומבנה בדוחות פרויקט.
+* המרת עיצובי מצגת חברה לתבניות מסמכים פנימיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT-to-DOT אוטומטית לניהול מסמכים ממותגים.
+* שילוב עם זרימות עבודה במשאבי אנוש, שיווק ותקשורת.
+* יצירת תבניות ספציפיות למחלקות ממצגות.
+* יצואים מתוזמנים לעדכוני ספריית תבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,31 @@ otherformats: DIF EXCEL XLSX XLS XLSM MARKDOWN XLAM MHTML XLTX TSV SXC ODS XLT C
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPTX ל־FODS (Flat OpenDocument Spreadsheet) מאפשרת העברת נתונים חלקה משקפי PowerPoint לתצורת גיליון נתונים ניתן לעריכה. זה מאוד שימושי להמרת דוחות טבלאיים, תרשימים וויזואלים של KPI לנתונים מובנים למשתמשי LibreOffice או OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת שקפי דוחות מ־PowerPoint לטבלאות נתונים ניתנות לעריכה.
+* חילוץ תרשימי ביצועים לניתוח ב־LibreOffice Calc.
+* שימוש מחדש בנתוני ההצגה בסביבות גיליון נתונים מקור פתוח.
+* יצירת גליונות KPI ניתנים לעריכה מההצגות העסקיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת קבצי PPTX ל־FODS בצורה רציפה עבור שערי נתונים פתוחים של ממשל.
+* המרה אוטומטית לצורך שיתוף צוות באמצעות FODS.
+* שילוב עם צינורות ליצירת דוחות.
+* סנכרון עם זרימות עבודה לניהול נתונים מקור פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

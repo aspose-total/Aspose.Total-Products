@@ -47,7 +47,31 @@ Lors de la conversion du fichier SVG en ODS, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de fichiers SVG en ODS (OpenDocument Spreadsheet) permet d'intégrer des graphiques vectoriels dans des feuilles de calcul standard ouvertes. ODS est idéal pour l'analyse de données multiplateforme, les rapports et les tableaux de bord interactifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Intégration de tableaux de bord financiers SVG dans des feuilles de calcul ODS pour l'analyse.
+* Partage de données de recherche ou d'ingénierie avec des visuels vectoriels dans des formats ouverts.
+* Exportation de données académiques et de projet sous forme de feuilles de calcul modifiables et indépendantes de la plateforme.
+* Tableaux de bord de suivi de projet normalisés au format ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de SVG en ODS pour les pipelines de reporting.
+* Exportations planifiées de données de recherche ou opérationnelles avec des diagrammes intégrés.
+* Intégration avec des suites bureautiques open source nécessitant une compatibilité avec les feuilles de calcul.
+* Génération déclenchée de tableaux de bord basés sur SVG pour la collaboration d'équipe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

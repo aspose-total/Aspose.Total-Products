@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 DOT(Word 97-2003 템플릿)으로 변환하면 이전 Word 버전과 호환되는 재사용 가능한 문서 템플릿을 만들 수 있습니다. DOT은 레거시 시스템 간 일관된 서식을 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 레거시 Word 문서용 SVG 다이어그램을 포함한 표준화된 보고서 템플릿.
+* 시각적 대시보드를 통합한 프로젝트 제안서 템플릿.
+* SVG 시각 자료를 활용한 재사용 가능한 학술 또는 교육용 템플릿.
+* 비즈니스 또는 엔지니어링 워크플로에 사용되는 역사적 문서 템플릿.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 레거시 Word 워크플로를 위한 자동화된 일괄 SVG-to-DOT 템플릿 생성.
+* 새로운 SVG 시각을 포함한 템플릿의 예약된 업데이트.
+* 역호환 템플릿이 필요한 문서 관리 시스템 통합.
+* 반복 보고서 및 재사용 가능한 템플릿을 위한 트리거 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

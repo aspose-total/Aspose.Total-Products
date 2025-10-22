@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPS s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPS (PowerPoint Slide Show) thành tệp DOCX (Tài liệu Microsoft Word Open XML) biến nội dung trình bày thành tài liệu văn bản hiện đại, có thể chỉnh sửa và tương thích với Microsoft 365 và các công cụ hợp tác đám mây.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi bộ trình chiếu thành báo cáo kinh doanh hoặc tóm tắt cuộc họp.
+* Tạo nội dung tiếp thị có thể chỉnh sửa từ các bản trình bày hình ảnh.
+* Tạo các hướng dẫn hoặc tài liệu đào tạo định dạng DOCX.
+* Tạo tài liệu sẵn sàng cho khách hàng trực tiếp từ các tệp PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo tệp DOCX tự động cho các hệ thống báo cáo doanh nghiệp.
+* Tích hợp vào Microsoft Teams hoặc SharePoint cho quy trình làm việc cộng tác.
+* Chuyển đổi hàng loạt cho quản lý và phân phối nội dung.
+* Lên lịch chuyển đổi slide thành DOCX cho cập nhật dự án.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

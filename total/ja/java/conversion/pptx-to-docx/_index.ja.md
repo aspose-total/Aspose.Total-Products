@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPTXファイルからDOCXへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPTXファイルをDOCX（Modern Word Document）に変換すると、完全に編集可能で共有可能、普遍的に互換性のあるドキュメントが生成されます。プレゼンテーションスライドを読みやすい要約、学術論文、またはビジネスレポートに変換するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* スライドのテキストとビジュアルをDOCXにエクスポートして編集する。
+* PowerPointの講義ノートをフォーマットされた学習教材に変換する。
+* プレゼンテーションデータからレポートや文書を準備する。
+* 編集可能なWord文書としてスライド情報を共有する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業のナレッジベース向けの自動化されたPPTXからDOCXへの変換。
+* トレーニングマニュアルや学術用途向けのバッチ変換。
+* クラウドストレージやCMSツールとの統合。
+* ドキュメントワークフローでのスケジュールされたDOCXエクスポート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

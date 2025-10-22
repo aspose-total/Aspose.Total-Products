@@ -130,7 +130,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをODT（OpenDocument Text）に変換すると、ベクターグラフィックをクロスプラットフォームのテキスト文書に埋め込むことができます。ODTは、LibreOffice、OpenOffice、および他のスイートと互換性がありながら、視覚的な忠実度を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* SVGダイアグラムを組み込んだ技術マニュアルやプロジェクトレポート。
+* ベクターイラストを埋め込んだ学術論文。
+* スケーラブルなSVGビジュアルを使用したマーケティングやビジネス文書。
+* フォーマットの問題なく配布されるクロスプラットフォームのマニュアルやガイド。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的な文書作成のための自動バッチSVGからODTへの変換。
+* 新しいSVGビジュアルを使用したスケジュールされたテンプレートの更新。
+* マルチプラットフォーム配布のためのコンテンツ管理システムとの統合。
+* 教育用またはトレーニング資料の生成のトリガー。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

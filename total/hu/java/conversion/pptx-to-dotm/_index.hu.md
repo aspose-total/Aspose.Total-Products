@@ -53,7 +53,31 @@ Az API segítségével PPTX fájlból DOTM-ba konvertálhat vízjellel. Ha vízj
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX fájlok átalakítása DOTM formátummá (Makrókat támogató Word sablon) lehetővé teszi a felhasználók számára, hogy újrafelhasználható sablonokat hozzanak létre, amelyek automatizálási funkciókat tartalmaznak. Ideális megoldás interaktív, makrókkal vezérelt dokumentumok létrehozásához a prezentációs tartalomból.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Makrókat támogató sablonok tervezése a prezentációs diafilmekből.
+* Ismétlődő jelentéskészítési feladatok automatizálása.
+* Szabványos, dinamikus vállalati sablonok létrehozása.
+* Adatmakrók beágyazása a PowerPointből származó dokumentumokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* PPTX prezentációk tömeges átalakítása DOTM sablonokká.
+* Integráció dokumentumautomatizálási rendszerekkel.
+* Ütemezett makró sablonok generálása időszakos jelentésekhez.
+* PowerPoint-Word makróképek leképezése az hatékonyság érdekében.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

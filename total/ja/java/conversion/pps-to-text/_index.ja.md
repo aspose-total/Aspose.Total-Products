@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPSファイルからTEXTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをTEXT（プレーンテキスト）に変換すると、ユーザーはスライドからテキストコンテンツのみを抽出でき、分析、索引付け、翻訳、またはクリーンでテキストのみの形式が必要なコンテンツパイプラインで使用するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* データマイニングや自然言語処理のための生のスライドテキストの抽出。
+* プレゼンテーションスライドからプレーンテキストの会議要約を作成。
+* 翻訳やローカライゼーションシステム用のクリーンなテキストの準備。
+* プレゼンテーションコンテンツの軽量アーカイブの保存。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 検索インデックス作成やAIトレーニングのための自動テキスト抽出。
+* 企業のアーカイブ用のバッチスライドからテキストへの変換。
+* 意味解析のためのコンテンツアナリティクスパイプラインへの統合。
+* ドキュメンテーションワークフロー用の定期的なプレーンテキストエクスポート。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

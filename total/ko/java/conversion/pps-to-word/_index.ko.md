@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 WORD로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 Word 형식으로 변환하면 사용자가 시각적 프레젠테이션을 포괄적인 Word 문서로 변환할 수 있습니다. 이 프로세스는 보고서, 문서 작성 및 협업 편집을 위한 콘텐츠 재활용을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 프레젠테이션 슬라이드에서 공식 비즈니스 보고서 작성.
+* 피칭 덱을 공유 가능한 Word 기반 제안으로 변환.
+* 프로젝트 업데이트 프레젠테이션에서 문서 생성.
+* 고객 커뮤니케이션용 편집 가능한 Word 파일 생성.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 내부 보고 시스템을 위한 자동 슬라이드-Word 변환.
+* 콘텐츠 게시 워크플로에 통합.
+* 프로젝트나 영업 프레젠테이션을 위한 예약된 Word 내보내기.
+* 여러 PPS 파일을 편집 가능한 문서로 일괄 처리.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

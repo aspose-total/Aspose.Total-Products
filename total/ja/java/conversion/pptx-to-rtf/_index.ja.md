@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTXファイルからRTFへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXをRTF（リッチテキスト形式）に変換することで、プレゼンテーションテキストの抽出に広く互換性を確保します。フォーマットの整合性を保ちながら、クロスプラットフォームで編集可能なドキュメントを作成するために広く使用されています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* クロスソフトウェア編集用のスライドテキストの抽出。
+* オペレーティングシステム間でフォーマットされたPowerPointコンテンツを共有する。
+* プレゼンテーションの軽量で編集可能なバージョンを準備する。
+* RTF対応のエディタにプレゼンテーションノートをインポートする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ドキュメントライブラリ向けの自動化されたPPTXからRTFへの変換。
+* RTFベースのコンテンツ管理ツールとの統合。
+* 翻訳ワークフロー向けのスライドからのバッチテキスト抽出。
+* コンプライアンスのためのスケジュールされたPowerPointアーカイブ化（RTF形式）。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

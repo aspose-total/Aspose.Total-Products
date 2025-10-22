@@ -47,7 +47,31 @@ Ao converter o arquivo PS para XLTM, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PS (PostScript) para XLTM (Modelo Habilitado para Macros do Excel) reúne automação e consistência. Isso permite a criação de modelos reutilizáveis e habilitados para macros a partir de documentos PS estruturados para relatórios financeiros ou operacionais repetitivos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Conversão de faturas PS em modelos de relatórios habilitados para macros.
+* Desenvolvimento de modelos de formulários automatizados para entrada e validação de dados.
+* Simplificação de análises baseadas em PS em processos repetíveis do Excel.
+* Preparação de modelos financeiros ou de RH com macros do Excel incorporadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote de PS para XLTM para sistemas de relatórios orientados por macros.
+* Integração com sistemas ERP para criação automatizada de modelos de documentos.
+* Fluxos de trabalho de conversão periódica para relatórios de conformidade corporativa.
+* População de modelos assistida por IA a partir de layouts PostScript.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,31 @@ otherformats: XLS DIF XLSM MARKDOWN EXCEL XLTM XLSX XLAM MHTML XLT TSV CSV XLSB 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPT (PowerPoint) ל-XLTX (תבנית Excel Template Open XML) מייצרת תבניות Excel מודרניות וללא מקרו המבוססות על נתוני המצגת. זה מבטיח עיצוב קבוע, זיהוי מותג ומבנה דוח מאוחד בין מחלקות ומשתמשים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* עיצוב תבניות Excel מדוחות PowerPoint לשימוש חוזר.
+* יצירת תבניות דוח מותגות מתוך תוכן מבוסס סליידים.
+* המרת מצגות אסטרטגיות לתבניות גיליון מאוחדות.
+* שיתוף פורמטי דוח אחידים בין צוותים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל-XLTX באופן אוטומטי ליצירת תבניות חוצות מחלקות.
+* שילוב בתהליכי תקן תוכן ודיווחים.
+* עיבוד בצורת צפיפות להטמעת תבניות Excel ברחבי החברה.
+* ייצואים מתוזמנים של נתוני PowerPoint לתבניות Excel הניתנות לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

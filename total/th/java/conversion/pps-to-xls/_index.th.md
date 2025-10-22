@@ -61,7 +61,31 @@ otherformats: FODS XLAM XLTM XLSM SXC MARKDOWN XLSX XLS TSV ODS EXCEL MHTML DIF 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น XLS (Excel 97–2003 Workbook) ช่วยให้เกิดความเข้ากันได้กับระบบที่เป็นระบบเก่าพร้อมทั้งเปิดให้ใช้งานการแก้ไขและจัดเก็บข้อมูลบนสเปรดชีตได้ การแปลงนี้เหมาะสำหรับสภาพแวดล้อมที่ใช้เวอร์ชันเก่าของ Microsoft Office
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การสกัดข้อมูลจากสไลด์ PPS เพื่อให้เข้ากันได้กับรูปแบบ Excel เวอร์ชันเก่า
+* เตรียมรายงาน XLS สำหรับองค์กรรัฐและองค์กรการศึกษา
+* การแปลงภาพการตลาดเป็นรายงานสเปรดชีตที่เข้ากันได้ย้อนหลัง
+* สร้างสเกอร์การ์ด XLS ที่สามารถแก้ไขได้จากสรุปที่มาจาก PowerPoint
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงเป็นกลุ่ม XLS โดยอัตโนมัติเพื่อเป็นไปตามมาตรฐานรูปแบบ
+* การรวมเข้ากับกระบวนการทำงานของซอฟต์แวร์บัญชีหรือ MIS เวอร์ชันเก่า
+* สร้างเอกสารเก็บข้อมูล XLS จากชุดข้อมูลการนำเสนอที่เกิดซ้ำ
+* การสกัดสไลด์ตามกำหนดเวลาสำหรับการแบ่งปันข้อมูล XLS ระหว่างแผนกต่าง ๆ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

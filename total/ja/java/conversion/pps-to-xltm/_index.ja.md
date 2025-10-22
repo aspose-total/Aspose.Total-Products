@@ -61,7 +61,31 @@ PPSファイルをXLTMに変換するときに、出力XLTMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをXLTM（マクロ有効なExcelテンプレート）に変換することで、組織は自動化スクリプトが埋め込まれた動的テンプレートを作成できます。これは、スライドレポートから派生した繰り返しデータ操作を行うビジネスにとって有益です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* プレゼンテーションからマクロベースのレポートテンプレートを開発する。
+* VBAスクリプトが埋め込まれた自動予測テンプレートを生成する。
+* マーケティングスライドから再利用可能なデータ入力テンプレートを作成する。
+* 自動化されたKPIトラッキング用のXLTMテンプレートを準備する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業レポート用にPPSファイルからXLTMテンプレートを自動生成する。
+* Excel自動化パイプラインとの統合。
+* スライドベースの要約からスケジュールされたマクロテンプレートの作成。
+* 内部部門向けのXLTMテンプレートの中央配布。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

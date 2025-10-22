@@ -61,7 +61,31 @@ otherformats: SXC EXCEL XLT XLSX XLS XLSM TSV XLTX XLAM FODS MHTML XLTM ODS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น XLT (Excel Template) ช่วยธุรกิจในการสร้างเทมเพลตสเปรดชีทที่ใช้ซ้ำจากข้อมูลในงานนำเสนอ ทำให้มั่นใจว่ามีความสอดคล้องในการรายงาน การจัดรูปแบบ และการวิเคราะห์
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลตงบประมาณมาตรฐานจากงานนำเสนอทางการเงิน
+* ออกแบบเทมเพลตรายงานจากงานนำเสนอของผู้บริหาร
+* สร้างเทมเพลตการพยากรณ์ยอดขายที่ใช้ซ้ำได้
+* สร้างเลย์เอาต์การวิเคราะห์มาตรฐานจากภาพนำเสนอ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* สร้างเทมเพลต XLT โดยอัตโนมัติจากรายงาน PowerPoint ที่เกิดซ้ำ
+* ผสานเข้ากับระบบการจัดการเทมเพลตขององค์กร
+* ตั้งเวลาให้สไลด์เป็นเทมเพลตเพื่อความสอดคล้องในแผนก
+* สร้างเทมเพลต Excel แบรนด์จำนวนมากจากสไลด์ที่อนุมัติ
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

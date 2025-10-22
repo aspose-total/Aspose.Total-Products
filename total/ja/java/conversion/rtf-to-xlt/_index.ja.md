@@ -61,7 +61,31 @@ RTFをXLTに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTFをXLT（Excelテンプレート）に変換すると、フォーマットされたドキュメントデータを再利用可能なスプレッドシートテンプレートに変換できます。これは、レポートのレイアウトを標準化したり、文書作成を自動化したりする組織にとって特に便利です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* RTFビジネスフォームをExcelレポートテンプレートに変換する。
+* RTFレイアウトから標準化された企業レポート構造を設計する。
+* RTFベースのテーブルからデータ入力テンプレートを作成する。
+* RTFチェックリストをExcelベースの生産性ツールに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* レポートの標準化のための自動化されたRTFからXLTテンプレートの生成。
+* 再利用可能なビジネスフォームのためのExcelアドインシステムとの統合。
+* 企業文書ワークフローのためのスケジュール変換。
+* RTFレポートのバッチ処理をExcelテンプレートライブラリに。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

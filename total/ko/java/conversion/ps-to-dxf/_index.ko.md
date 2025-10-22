@@ -57,7 +57,31 @@ API를 사용하여 필요에 따라 출력 DXF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 DXF (Drawing Exchange Format)로 변환하면 PostScript 문서에서 정확한 벡터 기반 디자인을 CAD (Computer-Aided Design) 응용 프로그램으로 가져올 수 있습니다. 이 변환은 편집 가능한 기술 도면이 필요한 엔지니어, 건축가 및 디자이너들에게 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS 기반 도면을 CAD 호환 DXF 파일로 변환합니다.
+* PostScript 레이아웃에서 건축 평면도를 3D 모델링을 위해 변환합니다.
+* 엔지니어링 다이어그램을 AutoCAD로 가져와 추가적인 디자인을 세밀하게 조정합니다.
+* DXF를 지원하는 플랫폼 간에 기술적인 벡터 디자인을 공유합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 디자인 및 엔지니어링 파이프라인에서 일괄 PS-to-DXF 변환합니다.
+* 빠른 프로젝트 반복을 위한 CAD 워크플로 자동화와 통합합니다.
+* 건설 문서에서 PS로 생성된 다이어그램을 자동으로 변환합니다.
+* 협업 디자인 팀을 위한 클라우드 기반 DXF 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

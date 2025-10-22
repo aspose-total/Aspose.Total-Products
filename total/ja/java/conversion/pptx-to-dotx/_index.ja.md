@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTXファイルからDOTXへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXプレゼンテーションをDOTX（Wordテンプレート形式）に変換することで、デザイン重視のスライドデッキを一貫性のある編集可能なWordテンプレートに変換できます。チーム全体でのブランド統一と文書の一貫性を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PowerPointスライドデザインから標準化されたテンプレートを作成する。
+* レポートやハンドブック用の再利用可能なDOTXテンプレートを作成する。
+* プレゼンテーション形式をブランド化されたWordテンプレートに変換する。
+* 企業全体で文書スタイルの一貫性を維持する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* HRや財務チーム向けの自動化されたDOTXテンプレート作成。
+* 定期的な企業プレゼンテーションからの一括変換。
+* スタイル管理や文書自動化ツールとの統合。
+* 企業テンプレートのバージョン管理の同期。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

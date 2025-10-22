@@ -61,7 +61,31 @@ Saat mengonversi file PPTX ke MARKDOWN, Anda juga dapat menambahkan tanda air ke
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi PPTX ke Markdown mengubah presentasi statis menjadi teks ringan yang siap web. Markdown menawarkan kesederhanaan untuk berbagi konten, memungkinkan publikasi yang mudah di blog, platform dokumentasi, dan situs web statis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah dek PowerPoint menjadi dokumentasi teknis.
+* Memublikasikan catatan slide dan konten di wiki berbasis Git.
+* Membuat ringkasan siap blog dari slide presentasi.
+* Mengonversi presentasi perusahaan menjadi artikel basis pengetahuan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Ekspor Markdown otomatis dari slide pelatihan perusahaan.
+* Integrasi dengan sistem pembangunan dokumentasi seperti Hugo atau Jekyll.
+* Pengolahan batch untuk mengonversi dek internal menjadi pos Markdown.
+* Integrasi berkelanjutan untuk versi konten dalam format Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ A PPS fájl MARKDOWN formátumba konvertálásakor vízjelet is hozzáadhat a ki
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPS (PowerPoint Slide Show) fájlok átalakítása MARKDOWN (MD) formátumba lehetővé teszi a felhasználók számára, hogy a vizuális diákat könnyű, olvasható szöveges dokumentumokká alakítsák, amelyek tökéletesek blogokhoz, dokumentációhoz és Git-alapú tartalomkezelő rendszerekhez. Ez áthidalja az részt a prezentációk és a fejlesztőbarát formátumok között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PowerPoint diák átalakítása Markdown dokumentációvá.
+* Nyílt forráskódú projektjegyzetek előkészítése prezentációs csomagokból.
+* Oktatási diák tartalom közzététele statikus webhelygenerátorokra.
+* Vállalati prezentációk átalakítása könnyű MD fájlokká a GitHub wikik számára.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ütemezett Markdown generálás tartalomcsapatok számára verziókezeléssel.
+* Integráció dokumentációs csövekbe (pl. Hugo, Jekyll).
+* Automatizált PowerPoint-to-MD konverzió online közzétételhez.
+* Több PPS csomag strukturált Markdown fájlokká történő tömeges feldolgozása.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

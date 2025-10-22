@@ -102,7 +102,31 @@ otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS CSV MHTML ODS X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPTX ל-XLSM (גיליון עבודה של Excel המאפשר מקרואים) מוסיפה פוטנציאל אוטומציה לנתוני המצגת. עסקים יכולים להטמיע מקרוים לחישובים, עיצוב וניתוח בתוך גיליונות נתונים שנוצרו משקפים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים שימוש מרכזיים" %}}
+
+* המרת נתוני שקפים לדוחות Excel המופעלים במקרוים.
+* אוטומציה של חישובי KPI מנתוני PowerPoint.
+* יצירת לוחות מחוונים דינמיים באמצעות מקרוי VBA.
+* שיפור זרימות נתונים עם קישור ממצגת למקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירה אוטומטית של קבצי XLSM ממצגות מכירות או תקציב.
+* שילוב עם כלים ותסריטים לאוטומציה של Excel.
+* יצירת מקרוים בצורה צפופה לדוחות קבועים ב-PowerPoint.
+* הפעלת טריגרים חכמים לניתוח עם נתוני PowerPoint מוטבעים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPT en TSV, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPT (PowerPoint) au format TSV (valeurs séparées par des tabulations) offre une représentation textuelle propre et structurée des données de présentation, idéale pour la migration de données et les environnements de script. Le TSV est préféré dans les flux de travail des données d'entreprise pour sa précision et sa lisibilité.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Extraction des données de diapositives tabulaires en TSV pour des scripts analytiques.
+* Exportation des résultats d'enquêtes basées sur PowerPoint pour des outils statistiques.
+* Partage des données de présentation avec des équipes de développement ou de recherche.
+* Création de jeux de données textuels structurés pour une ingestion de données automatisée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en masse de PPT en TSV pour l'intégration avec des pipelines de données IA.
+* Extraction automatisée pour le traitement des systèmes backend des données textuelles.
+* Utilisation dans l'automatisation ETL pour les plateformes de business intelligence.
+* Exportations TSV planifiées pour des jeux de données prêts pour l'apprentissage automatique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

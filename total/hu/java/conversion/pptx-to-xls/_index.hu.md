@@ -61,7 +61,31 @@ A PPTX fájl XLS formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX fájlok XLS formátumba (Excel 97-2003 munkafüzet) történő átalakítása visszafelé kompatibilitást biztosít az örökölt rendszerek számára. Lehetővé teszi az idősebb irodai szoftvereket használó szervezetek számára, hogy hatékonyan hozzáférjenek és módosítsák a táblázatos prezentációs adatokat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PowerPoint táblázatok átalakítása az örökölt Excel elemzéshez.
+* Prezentációs összefoglalók exportálása idősebb pénzügyi eszközök számára.
+* Adatok újrafelhasználása a diákokról visszafelé kompatibilis rendszerekben.
+* Analitikák megosztása ügyfelekkel, akik korábbi Excel verziókat használnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált XLS kimenet PowerPointből vállalati archívumokhoz.
+* Integráció az idősebb könyvelési vagy ERP rendszerekkel.
+* Konverziós csatornák biztosítják a kompatibilitást az összes platformon.
+* Örökölt PowerPoint prezentációk tömeges átalakítása.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

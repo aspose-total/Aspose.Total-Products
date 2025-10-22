@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PPTX en DOT (modèle Word) crée des modèles réutilisables à partir des données de présentation. Cela est précieux pour les organisations qui standardisent les formats de documentation ou créent des modèles de rapports d'entreprise personnalisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Création de modèles DOT à partir de mises en page de présentation d'entreprise.
+* Transformation des diapositives PowerPoint en cadres de conception Word réutilisables.
+* Préparation de modèles personnalisés pour les propositions et les livrables clients.
+* Création de modèles de rapports cohérents pour les départements.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatique de modèles DOT à partir de jeux de diapositives récurrents.
+* Intégration de flux de travail pour la standardisation des documents.
+* Synchronisation des modèles à travers des environnements multi-départements.
+* Planification de la conversion pour les modèles de documentation d'entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

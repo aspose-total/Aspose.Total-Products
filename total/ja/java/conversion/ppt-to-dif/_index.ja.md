@@ -61,7 +61,29 @@ PPTファイルをDIFに変換するときに、出力DIFファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPointプレゼンテーション）ファイルをDIF（Data Interchange Format）に変換すると、視覚的なビジネスプレゼンテーションが構造化された表形式のデータセットに変換されます。この変換は、要約されたチャート、分析、KPIをデータ駆動プラットフォームに移行し、ビジネスインテリジェンスツールやスプレッドシートアプリケーションとのシームレスな統合を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* ExcelやLibreOfficeの分析用にプレゼンテーションチャートをDIFファイルにエクスポートする。
+* 営業やパフォーマンススライドをデータ互換性のあるレポートに変換する。
+* 異なるBI環境間で要約された分析を共有する。
+* 四半期ごとのPowerPointレポートからスプレッドシート用のデータセットを作成する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ETLパイプラインでPowerPointダッシュボードから自動的にDIFを生成する。
+* リアルタイムのアップデートのために企業向け分析プラットフォームと統合する。
+* チームレポート用に週次PPT要約をDIFに定期的に変換する。
+* AI駆動のトレンド予測ツールのためのデータ抽出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

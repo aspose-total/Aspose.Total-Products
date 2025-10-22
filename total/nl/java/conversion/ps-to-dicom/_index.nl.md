@@ -57,7 +57,31 @@ Met behulp van de API kunt u ook de uitgevoerde DICOM-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PS (PostScript) bestanden naar DICOM (Digital Imaging and Communications in Medicine) formaat maakt een naadloze integratie mogelijk van op vectoren gebaseerde rapporten, diagnostische grafieken en radiografische annotaties in gestandaardiseerde medische beeldvormingsworkflows. DICOM-compatibiliteit zorgt ervoor dat deze visuele rapporten veilig kunnen worden bekeken en geanalyseerd op PACS (Picture Archiving and Communication System) platforms die worden gebruikt in ziekenhuizen en klinieken.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Inbedden van op vectoren gebaseerde diagnostische diagrammen in patiëntbeeldarchieven.
+* Omzetten van cardiologie- of oncologie-PS-grafieken naar DICOM-compatibele beeldseries.
+* Integreren van visuele chirurgische planningen binnen ziekenhuisbeeldvormingssystemen.
+* Genereren van diagnostische samenvattingen als DICOM-overlays voor radiologierapporten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde PS-naar-DICOM-transformatie binnen EMR (Elektronisch Medisch Dossier) workflows.
+* ETL-gegevensintegratie in gezondheidsanalysepipelines voor op beeldmateriaal gebaseerde rapportage.
+* AI-ondersteunde batchconversie voor diagnostische visualisatie in medische AI-systemen.
+* Getriggerde DICOM-export voor automatisch gegenereerde klinische beeldvormingsdocumentatie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

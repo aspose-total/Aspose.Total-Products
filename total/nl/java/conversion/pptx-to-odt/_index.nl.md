@@ -53,7 +53,31 @@ Met behulp van de API kunt u ook een PPTX-bestand naar ODT-conversie met waterme
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van PPTX-presentaties naar ODT (OpenDocument Text) maakt het mogelijk om dia's om te zetten in bewerkbare tekstdocumenten. Het is ideaal voor het genereren van geschreven rapporten, samenvattingen of bewerkbare documentatie op basis van PowerPoint-presentaties.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van dia-aantekeningen naar bewerkbare tekst voor rapporten.
+* Het maken van ODT-documenten voor academische of zakelijke samenvattingen.
+* Het omzetten van projectpresentaties naar deelbare tekstbestanden.
+* Het hergebruiken van dia-inhoud voor beleids- en voorstelteksten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde rapportgeneratie vanuit PowerPoint-presentaties.
+* Workflow-integratie met open-source kantoordocumenttools.
+* Het omzetten van pitch decks naar bewerkbare documenten voor interne beoordeling.
+* Archiveren van PowerPoint-aantekeningen in ODT-indeling voor toegankelijkheid.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

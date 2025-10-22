@@ -121,7 +121,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG (Ölçeklenebilir Vektör Grafik) dosyalarını POT (PowerPoint 97-2003 Şablonu) formatına dönüştürmek, eski PowerPoint sürümleri için vektör diyagramlar içeren yeniden kullanılabilir slayt şablonlarının oluşturulmasını sağlar. POT, miras ortamlarda tutarlı sunum tasarımını garanti altına alır.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Gömülü SVG gösterge tabloları içeren standartlaştırılmış kurumsal sunum şablonları.
+* Eğitim slayt şablonları, eğitim ve e-öğrenme içeriği için.
+* Etkileşimli vektör grafikler sergileyen pazarlama kampanyası şablonları.
+* Konferans ve dersler için akademik sunum şablonları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* SVG diyagramlarının POT şablonlarına otomatik toplu dönüşümü.
+* Yeniden kullanılabilir sunum şablonları için planlanmış güncellemeler.
+* Tutarlı biçimlendirme için miras sunum sistemleriyle entegrasyon.
+* Canlı SVG gösterge tablolarından tetiklenen şablon oluşturma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPTファイルからDOTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）プレゼンテーションをDOT（Wordテンプレート）形式に変換すると、プレゼンテーションのレイアウトに基づいた再利用可能なWordテンプレートの作成が可能になります。これは、生成されるすべてのドキュメントで一貫したフォーマットとブランディングを確保するために理想的です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* ブランド付きPowerPointスライドからWordテンプレートを作成する。
+* 企業文書のための再利用可能なレポートテンプレートを設計する。
+* プロジェクトレポート全体でスタイルと構造を標準化する。
+* 企業プレゼンテーションデザインを内部文書テンプレートに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ブランドドキュメント管理のための自動化されたPPT-to-DOT変換。
+* 人事、マーケティング、コミュニケーションワークフローとの統合。
+* プレゼンテーションから部門固有のテンプレートの一括作成。
+* テンプレートライブラリの更新のための定期的なエクスポート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

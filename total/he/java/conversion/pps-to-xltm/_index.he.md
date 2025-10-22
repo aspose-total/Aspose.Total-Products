@@ -102,7 +102,31 @@ otherformats: SXC XLSB XLAM DIF XLTX CSV XLSX FODS XLT XLSM ODS MHTML MARKDOWN X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-XLTM (תבנית Excel המאופשרת מאקרו) מאפשרת לארגונים ליצור תבניות דינמיות המוטמעות עם תסריטי אוטומציה. זה ערך לעסקים המשתמשים בפעולות נתונים חוזרות המגיעות מדוחות שקופות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* פיתוח תבניות דוח מבוססות מאקרו ממצגות.
+* יצירת תבניות תחזיות ממופעלות עם תסריטי VBA מוטמעים.
+* יצירת תבניות קלט נתונים ניתנות לשימוש משקפי שיווק.
+* הכנת תבניות XLTM למעקב אחר KPI עם אוטומציה.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת תבניות XLTM באופן אוטומטי מקבצי PPS לדיווח עסקי.
+* שילוב עם צינורות אוטומציה של Excel.
+* יצירת תבניות מאקרו מתוזמנות מסיכומי מצגות.
+* הפצה מרכזית של תבניות XLTM למחלקות פנימיות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

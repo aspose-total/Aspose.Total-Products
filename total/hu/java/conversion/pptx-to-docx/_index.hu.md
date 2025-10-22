@@ -53,7 +53,31 @@ Az API segítségével PPTX fájlból DOCX-ba konvertálhat vízjellel. Ha vízj
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX fájlok átalakítása DOCX formátumra (Modern Word dokumentum) teljesen szerkeszthető, megosztható és univerzálisan kompatibilis dokumentumokat eredményez. Ideális prezentációs diák átalakításához olvasható összefoglalókká, tudományos dolgozatokká vagy üzleti jelentésekévé.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* Prezentációs diák szövegének és vizuális elemeinek exportálása DOCX-be történő szerkesztéshez.
+* PowerPoint előadási jegyzetek átalakítása formázott tananyaggá.
+* Jelentések és dokumentációk előkészítése prezentációs adatokból.
+* Prezentációs információk megosztása szerkeszthető Word dokumentumként.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált PPTX-DOCX átalakítás vállalati tudásbázisokhoz.
+* Tömeges átalakítások képzési kézikönyvekhez és tudományos célokra.
+* Integráció felhőtárolási és CMS eszközökkel.
+* Ütemezett DOCX exportok dokumentációs folyamatokban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

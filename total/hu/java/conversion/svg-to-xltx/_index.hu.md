@@ -47,7 +47,31 @@ A SVG-fájl XLTX-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLTX-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG fájlok XLTX formátumba (Excel Open XML Template) történő konvertálása modern, újrafelhasználható táblázatsablonokat hoz létre skálázható vektorgrafikával. Az XLTX kompatibilis az újabb Excel verziókkal és tiszta, könnyű sablonokat támogat makrók nélkül.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Újrafelhasználható üzleti intelligencia sablonok létrehozása SVG vizuális irányítópultokkal.
+* Szabványosított HR vagy operatív jelentési sablonok vállalati csapatok számára.
+* Oktatási vagy kutatási sablonok interaktív SVG diagramokkal.
+* Marketingkampány teljesítményének sablonjai beágyazott vektorgrafikákkal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* XLTX sablonok automatikus generálása SVG irányítópultokból vállalati jelentési célokra.
+* Ütemezett frissítések a legfrissebb adatvizualizációkkal friss, újrafelhasználható sablonok fenntartásához.
+* Integráció automatizált jelentési csatornákkal sablonvezérelt munkafolyamatokhoz.
+* Élő SVG irányítópultok XLTX sablonokká történő kiváltása csapatok számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

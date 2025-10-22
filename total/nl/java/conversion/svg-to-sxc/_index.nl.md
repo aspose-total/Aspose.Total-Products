@@ -47,7 +47,31 @@ Tijdens het converteren van het SVG-bestand naar SXC, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van SVG naar SXC (StarOffice/LibreOffice-spreadsheet) maakt het mogelijk om vectorgrafieken in open-source spreadsheetformaten in te sluiten. SXC is ideaal voor samenwerkingsworkflows en compatibiliteit met spreadsheets op meerdere platforms.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het importeren van SVG-financiële of projectdashboards in LibreOffice-spreadsheets.
+* Het delen van onderzoeks- of academische gegevens met vectorgrafieken in SXC-bestanden.
+* Samenwerken aan projecttracking-spreadsheets met ingesloten SVG-visuals.
+* Gestandaardiseerde open-source spreadsheettemplates met interactieve diagrammen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batchconversie van SVG naar SXC voor rapportagepijplijnen.
+* Geplande export van op SVG gebaseerde dashboards naar open-source spreadsheets.
+* Integratie met samenwerkingskantoorpakketten voor teambrede toegang.
+* Getriggerde generatie van SXC-spreadsheets uit dynamische SVG-gegevens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

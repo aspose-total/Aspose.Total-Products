@@ -54,7 +54,31 @@ API juga memungkinkan Anda untuk mengonversi dokumen RTF yang dilindungi kata sa
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi RTF ke PPSX (PowerPoint Show Open XML) menawarkan cara modern untuk menampilkan informasi berbasis dokumen sebagai presentasi yang menarik secara visual. File PPSX dibuka langsung dalam mode tayangan slide, sehingga sangat cocok untuk tampilan akhir atau berbagi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah pembaruan perusahaan berbasis RTF menjadi tayangan slide siap presentasi.
+* Menghasilkan presentasi akhir dari file teks terstruktur.
+* Menyiapkan slide acara atau konferensi langsung dari sumber RTF.
+* Berbagi konten RTF sebagai slide PowerPoint hanya untuk dilihat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi RTF ke PPSX dalam alur kerja publikasi presentasi otomatis.
+* Integrasi dengan alur kerja presentasi Office 365.
+* Generasi batch slide PPSX dari laporan RTF standar.
+* Pembuatan jadwal ringkasan perusahaan siap tayang slide.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

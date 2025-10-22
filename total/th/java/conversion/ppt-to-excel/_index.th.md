@@ -61,7 +61,31 @@ otherformats: XLS XLSM FODS ODS XLT XLAM XLTM XLSB XLSX MARKDOWN MHTML XLTX EXCE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPT (PowerPoint) เป็นรูปแบบ EXCEL (.xls หรือ .xlsx) เชื่อมโยงการเล่าเรื่องทางด้านภาพและความลึกของการวิเคราะห์ได้ ช่วยให้ผู้ใช้สามารถแปลงแผนภูมิ กราฟ และสรุปผลการดำเนินงานเป็นสเปรดชีตที่สามารถแก้ไขได้เต็มรูปแบบเพื่อเข้าใจลึกซึ้งและประมวลผลสารสนเทศทางธุรกิจ
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+* การส่งออกตาราง PowerPoint เข้าสู่ Excel เพื่อการคำนวณเพิ่มเติม
+* การเปลี่ยนสไลด์ประสิทธิภาพของโครงการเป็นแบบจำลองทางการเงินที่สามารถแก้ไขได้
+* การสร้างแดชบอร์ด Excel จากงานนำเสนอที่มีภาพลักษณ์สวยงาม
+* การสร้างชีท Excel พร้อมให้ลูกค้าจากสไลด์การประชุม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PPT เป็น Excel โดยอัตโนมัติในระบบรายงานขององค์กร
+* การผสานเข้ากับท่อน้ำข้อมูลสำหรับแผนกวิเคราะห์
+* การอัปเดตตารางข้อมูล PowerPoint ตามกำหนดเวลาในแดชบอร์ดประสิทธิภาพที่ใช้ Excel
+* การซิงค์ข้อมูลระหว่างตัวชี้วัดงานนำเสนอและชีท Excel ในเวลาจริง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

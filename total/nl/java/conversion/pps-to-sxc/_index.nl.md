@@ -61,7 +61,31 @@ Tijdens het converteren van een PPS-bestand naar SXC, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PPS (PowerPoint Slide Show) bestanden naar SXC (StarOffice Calc Spreadsheet) helpt organisaties die werken met legacy- of open-source kantoorpakketten om presentatiedata om te zetten naar spreadsheetformaat. Het maakt gestructureerde analyse en rapportage mogelijk zonder dat er eigen software nodig is.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van zakelijke presentaties naar analyseerbare spreadsheetgegevens.
+* Het exporteren van samenvattingen van verkoop- of financiële dia's naar SXC-formaat.
+* Het voorbereiden van OpenOffice-compatibele spreadsheets vanuit PPS-rapporten.
+* Het omzetten van educatieve presentaties naar gestructureerde, deelbare spreadsheets.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde SXC-generatie voor op LibreOffice gebaseerde rapportageworkflows.
+* Integratie in open documentbeheersystemen.
+* Batchconversie van dia's naar SXC voor analytische archieven.
+* Geplande exports voor teams die open-source kantooromgevingen gebruiken.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

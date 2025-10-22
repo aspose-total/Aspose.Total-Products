@@ -47,7 +47,31 @@ Trong khi chuyển đổi tệp PS sang XLAM, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PS (PostScript) thành XLAM (Excel Add-in) cho phép tạo các tiện ích Excel dựa trên logic, macro hoặc tự động hóa xuất phát từ PostScript. Điều này cho phép tận dụng các chức năng Excel tiên tiến sử dụng nội dung hình ảnh hoặc dữ liệu được trích xuất từ các tệp PS.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng tính toán hoặc mẫu dựa trên PostScript vào các tiện ích Excel.
+* Tạo các công cụ tự động tái sử dụng từ các báo cáo được tạo từ PS.
+* Chuyển đổi các biểu đồ dựa trên PS thành các bảng điều khiển tương tác trong Excel thông qua XLAM.
+* Cho phép người dùng doanh nghiệp triển khai tự động hóa dựa trên PostScript trong Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ PS sang XLAM cho các công cụ Excel nội bộ.
+* Tích hợp vào các đường ống tự động hóa quy trình làm việc của doanh nghiệp.
+* Tạo ra các macro Excel từ dữ liệu PostScript với sự hỗ trợ của trí tuệ nhân tạo.
+* Cập nhật tiện ích định kỳ với nội dung được trích xuất từ bố cục PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van SVG naar WORDML (WordprocessingML) creëert op XML gebaseerde Word-documenten met volledig ingebedde vector diagrammen. WORDML is ideaal voor programmatische documentverwerking, sjablonen en geautomatiseerde workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Programmatisch genereren van Word-rapporten met ingebedde SVG-visuals.
+* Academische en onderzoekssjablonen in XML voor geautomatiseerde bewerking.
+* Gestandaardiseerde projectdocumentatie voor versiebeheerde workflows.
+* Archiveren van interactieve SVG-inhoud in gestructureerd XML-formaat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batch SVG-naar-WORDML-conversie voor rapportagesystemen.
+* Geplande export van op SVG gebaseerde sjablonen naar XML voor workflowautomatisering.
+* Integratie met documentgeneratie-API's en contentmanagementsystemen.
+* Getriggerde generatie voor dynamische, programmatisch gecontroleerde Word-documenten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

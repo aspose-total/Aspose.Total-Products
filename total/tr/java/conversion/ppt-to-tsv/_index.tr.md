@@ -61,7 +61,31 @@ PPT dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize de fil
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) dosyalarını TSV (Tablo Ayırıcılı Değerler) formatına dönüştürmek, veri göçü ve komut dosyası ortamları için ideal sunum verilerinin temiz, yapılandırılmış metin temsilini sunar. TSV, hassasiyeti ve okunabilirliği nedeniyle kurumsal veri iş akışlarında tercih edilir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Analitik komut dosyaları için tablo slayt verilerini TSV'ye çıkarma.
+* İstatistik araçlar için PowerPoint tabanlı anket sonuçlarını dışa aktarma.
+* Sunum verilerini geliştirme veya araştırma ekipleriyle paylaşma.
+* Otomatik veri alımı için yapılandırılmış metin veri setleri oluşturma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* AI veri boru hatlarıyla entegrasyon için toplu PPT'den TSV'ye dönüşüm.
+* Metinsel verileri işleyen backend sistemler için otomatik çıkarma.
+* İş zekası platformları için ETL otomasyonunda kullanım.
+* Makine öğrenmeye hazır veri setleri için zamanlanmış TSV dışa aktarımları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

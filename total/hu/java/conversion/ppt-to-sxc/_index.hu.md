@@ -61,7 +61,31 @@ A PPT fájl SXC formátumba konvertálásakor vízjelet is hozzáadhat a kimenet
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPT (PowerPoint) fájlok átalakítása SXC (StarOffice Calc táblázat) formátumra lehetővé teszi a régi vagy nyílt forráskódú rendszereket használó szervezetek számára, hogy a prezentációs adatokat részletes elemzésre használják fel. Ez az átalakítás összeköti a vizuális összefoglalókat és az szerkeszthető táblázati adatokat, javítva a kollaborációt a különböző irodai környezetekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Üzleti prezentációk átalakítása OpenOffice-kompatibilis táblázatokká.
+* PowerPoint táblázatok és diagramok újrahasznosítása SXC-alapú pénzügyi modellekben.
+* Támogatás az OpenOffice vagy LibreOffice-t használó kormányzati vagy vállalati felhasználóknak.
+* Archivált vállalati PPT adatok migrálása nyílt táblázatformátumokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges PPT-SXC átalakítás vállalati archiválási rendszerekhez.
+* Integráció dokumentum digitalizálási folyamatokban.
+* Automatizált átalakítások hibrid nyílt forráskódú jelentési környezetekhez.
+* Ütemezett exportálás a PPT frissítéseinek kollaboratív táblázatkezelő eszközökbe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

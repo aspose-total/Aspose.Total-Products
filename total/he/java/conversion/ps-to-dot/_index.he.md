@@ -72,7 +72,31 @@ otherformats: OTT XAMLFLOW ODT DOCM RTF MHTML MARKDOWN FLATOPC WORDML DOTM DOTX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) ל-DOT (תבנית Word) מאפשרת לעסקים לתקן את עיצוב המסמכים והפריסות שלהם. תבניות DOT ניתן להשתמש בהן מחדש למכתבים רשמיים, דוחות ומסמכים המופנים ללקוחות בלי צורך ליצור מחדש עיצובים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות Word הניתנות לשימוש מחדש מדוחות המבוססות על PostScript.
+* תקן כותרות מכתבים עסקיים, טפסים ומסמכים פנימיים.
+* המרת פריסות חזותיות שנוצרו ב-PS לתבניות Word שניתנות לעריכה.
+* שמירה על עיצוב עקבי בין מסמכים שנוצרו על ידי צוותים שונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PS ל-DOT באופן אוטומטי למערכות ניהול תבניות.
+* שילוב עם מערכות ניהול תוכן לתבניות מסמכים הניתנות לשימוש מחדש.
+* עיבוד בצורת צפיפות ליצירת תבניות המיועדות למחלקות מסוימות.
+* עדכונים מתוזמנים של תבניות Word מנכסי המיתוג המבוססים על PostScript.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

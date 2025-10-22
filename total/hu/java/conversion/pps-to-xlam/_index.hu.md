@@ -61,7 +61,31 @@ A PPS fájl XLAM formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPS (PowerPoint Slide Show) fájlok XLAM (Excel kiegészítő) formátumba történő átalakítása lehetővé teszi a prezentációból származó adatok beágyazását makróval ellátott kiegészítőkbe. Ez az átalakítás tökéletes fejlesztők és elemzők számára, akik automatizálják az Excel alapú jelentéskészítést, és szükségük van a PowerPoint adatainak integrálására az Excel kiterjesztéseibe.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* XLAM kiegészítők építése dia alapú mutatókkal automatizált jelentésekhez.
+* Makróvezérelt vezérlőpultok létrehozása PPS prezentációs adatokból.
+* Kiegészítők generálása élő KPI követéshez átalakított prezentációs értékek felhasználásával.
+* PPS tartalom integrálása fejlett Excel automatizálási parancsfájlokba.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatikus XLAM generálás részlegi prezentációs fájlokból.
+* Integráció vállalati Excel automatizálási rendszerekbe.
+* Ütemezett PowerPoint-to-XLAM átalakítás élő jelentési modulokhoz.
+* Tömeges kiegészítő létrehozása dinamikus adatvizualizációs munkafolyamatokhoz.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

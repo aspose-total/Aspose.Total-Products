@@ -129,7 +129,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van SVG naar DOT (Word 97-2003 Template) maakt het mogelijk om herbruikbare documenttemplates te maken met ingesloten vector diagrammen die compatibel zijn met oudere Word-versies. DOT zorgt voor consistente opmaak over verschillende legacy systemen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Gestandaardiseerde rapporttemplates met SVG diagrammen voor legacy Word-documenten.
+* Projectvoorsteltemplates met visuele dashboards.
+* Herbruikbare academische of instructieve templates met behulp van SVG visuals.
+* Historische documenttemplates voor bedrijfs- of engineeringworkflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batch SVG-naar-DOT template generatie voor legacy Word-workflows.
+* Geplande updates van templates met nieuwe SVG visuals.
+* Integratie in documentbeheersystemen die achterwaarts compatibele templates vereisen.
+* Getriggerde conversie voor terugkerende rapporten en herbruikbare templates.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

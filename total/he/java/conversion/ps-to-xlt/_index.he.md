@@ -78,7 +78,31 @@ otherformats: XLSM EXCEL XLTX TXT CSV DIF TSV XLSB XLTM ODS XLAM SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) ל-XLT (תבנית Excel) מאפשרת לארגונים ליצור תבניות גיליון עבודה ניתנות לשימוש מתפריטי PostScript סטטיים. זה מבטיח סגנון ומבנה עקביים לאורך דוחות חוזרים, חשבוניות והצהרות פיננסיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות Excel מעיצובי דוחות מבוססי PS.
+* יצירת טפסים עסקיים ניתנים לשימוש וגיליונות נתונים חוזרים.
+* שמירה על פריסות מותג עקביות בקרב מסמכי Excel.
+* בניית תבניות ברמת החברה מקבצי PS מאורכבים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PS ל-XLT אוטומטית עבור תבניות דיווח מתקנות.
+* שילוב במערכות ניהול תוכן עבור נכסי עיצוב ניתנים לשימוש.
+* יצירת תבניות בצורה צמודה עבור מחלקות או סניפים מרובים.
+* יצירת XLT דינמיות עבור זרימות עבודה בעסקים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

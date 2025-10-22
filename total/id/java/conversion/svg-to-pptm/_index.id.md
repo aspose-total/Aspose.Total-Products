@@ -121,7 +121,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke PPTM (PowerPoint yang Diaktifkan Makro) menggabungkan grafik vektor yang dapat diperbesar dengan makro untuk slide deck yang interaktif dan siap otomatisasi. Ideal untuk presentasi perusahaan dinamis atau pelatihan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Presentasi perusahaan yang diaktifkan makro dengan dasbor SVG.
+* Slide deck pendidikan atau penelitian interaktif menggunakan makro yang disematkan.
+* Presentasi pemasaran dengan grafik otomatis dan visual interaktif.
+* Modul pelatihan yang menggabungkan diagram SVG dengan interaktivitas yang didorong oleh makro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi SVG ke PPTM yang diaktifkan makro secara otomatis untuk slide deck yang diaktifkan makro yang berulang.
+* Pembaruan terjadwal untuk presentasi interaktif dengan visual data langsung.
+* Integrasi dengan otomatisasi alur kerja untuk slide yang dinamis dan siap dijalankan.
+* Pipa yang dipicu menghasilkan dasbor interaktif dalam format PPTM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

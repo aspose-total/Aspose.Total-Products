@@ -68,7 +68,25 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+PS（PostScript）ファイルをODT（OpenDocument Text）に変換すると、PostScriptのレイアウトを視覚的に保持しながら編集可能なテキストドキュメントを作成できます。ODTは、LibreOffice Writerなどのツールでの共同作業やクロスプラットフォームのドキュメント作成に最適です。
+
+## Key Use Cases
+
+- ポストスクリプトのレポートを編集可能なODTファイルに変換してドキュメント化する。
+- PSで生成されたマニュアル、レター、ガイドをオープンソース形式に移行する。
+- LibreOffice Writerでの共同編集のためにPSベースのコンテンツを準備する。
+- PSファイルの編集可能なODTバージョンで内部ドキュメントを標準化する。
+
+## Automation Scenarios
+
+- 大規模なドキュメント移行のためのバッチPSからODTへの変換。
+- CMSや共同作業プラットフォームとの統合による自動ODT生成。
+- PSファイルからのテキスト抽出とレイアウト保持をAIが支援。
+- オープンソースドキュメント管理のためのクラウドベースのワークフロー。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

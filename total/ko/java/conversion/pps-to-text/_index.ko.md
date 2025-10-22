@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 TEXT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 TEXT (일반 텍스트)로 변환하면 사용자가 슬라이드에서 텍스트 콘텐츠만 추출할 수 있어 분석, 색인, 번역 또는 깨끗한 텍스트 형식만 필요한 콘텐츠 파이프라인에서 사용하기에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 데이터 마이닝이나 자연어 처리를 위해 원시 슬라이드 텍스트 추출.
+* 프레젠테이션 슬라이드로부터 일반 텍스트 회의 요약 작성.
+* 번역이나 로컬라이제이션 시스템에 깨끗한 텍스트 준비.
+* 프레젠테이션 콘텐츠의 가벼운 아카이브 저장.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 검색 색인이나 AI 훈련을 위한 자동화된 텍스트 추출.
+* 기업 아카이빙을 위한 일괄 슬라이드-텍스트 변환.
+* 의미 분석을 위한 콘텐츠 분석 파이프라인 통합.
+* 문서화 워크플로우를 위한 예약된 일반 텍스트 내보내기.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

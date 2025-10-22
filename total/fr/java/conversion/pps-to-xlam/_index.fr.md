@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPS en XLAM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPS (PowerPoint Slide Show) en XLAM (Excel Add-In) permet d'intégrer des données dérivées de présentations dans des modules complémentaires Excel activés par macro. Cette conversion est parfaite pour les développeurs et les analystes qui automatisent les rapports basés sur Excel et ont besoin d'intégrer des données PowerPoint dans des extensions Excel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Construction de modules complémentaires XLAM avec des métriques basées sur des diapositives pour des rapports automatisés.
+* Création de tableaux de bord pilotés par macro à partir des données de présentation PPS.
+* Génération de modules complémentaires pour le suivi en direct des KPI en utilisant des valeurs de présentation converties.
+* Intégration de contenu PPS dans des scripts d'automatisation Excel avancés.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatique de modules XLAM à partir de fichiers de présentation départementaux.
+* Intégration dans les systèmes d'automatisation Excel d'entreprise.
+* Conversion planifiée de PowerPoint en XLAM pour des modules de rapports en direct.
+* Création en lot de modules complémentaires pour des flux de visualisation de données dynamiques.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

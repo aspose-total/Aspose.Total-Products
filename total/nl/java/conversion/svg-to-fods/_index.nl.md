@@ -47,7 +47,31 @@ Tijdens het converteren van het SVG-bestand naar FODS, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG naar FODS (Flat OpenDocument Spreadsheet) maakt het mogelijk om vectorgrafieken in te sluiten in spreadsheetbestanden met open standaarden. FODS is ideaal voor workflows en automatisering van spreadsheets op verschillende platforms.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Insluiten van SVG-diagrammen in sjablonen voor open-source spreadsheets.
+* Delen van onderzoeks- of financiële gegevens met vectorvisuals in FODS-indeling.
+* Academische en technische gegevens geëxporteerd als bewerkbare, platformonafhankelijke spreadsheets.
+* Projectdashboards gestandaardiseerd in open documentindeling.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde SVG-naar-FODS-conversie voor rapportagepijplijnen.
+* Geplande updates voor sjablonen van onderzoeks- of operationele spreadsheets.
+* Integratie met kantoorpakketten voor verschillende platforms die open formaten vereisen.
+* Getriggerde generatie van op SVG gebaseerde spreadsheetdashboards voor team samenwerking.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

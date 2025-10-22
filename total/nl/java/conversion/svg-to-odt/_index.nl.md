@@ -129,7 +129,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het converteren van SVG-bestanden naar ODT (OpenDocument Tekst) maakt het mogelijk om vectorafbeeldingen in tekstdocumenten voor meerdere platforms in te sluiten. ODT zorgt voor visuele nauwkeurigheid en blijft compatibel met LibreOffice, OpenOffice en andere suites.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Technische handleidingen en projectrapporten met SVG-diagrammen.
+* Academische papers met ingesloten vectorillustraties.
+* Marketing- of zakelijke documentatie met schaalbare SVG-visuals.
+* Handleidingen en gidsen voor meerdere platforms die worden verspreid zonder opmaakproblemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batchconversie van SVG naar ODT voor terugkerende documentatie.
+* Geplande updates van sjablonen met nieuwe SVG-visuals.
+* Integratie met contentmanagementsystemen voor distributie op meerdere platforms.
+* Getriggerde generatie voor instructie- of trainingsmaterialen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

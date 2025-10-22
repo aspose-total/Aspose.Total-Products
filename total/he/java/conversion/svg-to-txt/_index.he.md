@@ -102,7 +102,31 @@ otherformats: EXCEL TSV SXC XLTX XLT CSV ODS MD XLSB DIF XLTM XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SVG ל־TXT (טקסט פשוט) משכך תוכן טקסטואלי מגרפיקה וקטורית לצורך ניתוח, אינדוקסציה או תיעוד קל. טקסט פשוט נחמד לזרימות עבודה פשוטות וניתנות לתסריט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ תווים והערות מתוך תרשימי SVG לצורך תיעוד.
+* יצירת גרסאות טקסטואליות ניתנות לחיפוש של איורים טכניים.
+* יצירת דוחות מטה-נתונים קלים של SVG לצורך ניתוח נתונים.
+* שיתוף מהיר של תוכן SVG טקסטואלי ללא תמונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* חילוץ אוטומטי של טקסט SVG ל־TXT לצורך צינורות דיווח.
+* יצירה מתוזמנת של תיעוד טקסטואלי מתוך תרשימי וקטור.
+* שילוב עם מערכות אינדוקסציה וחיפוש.
+* המרה מופעלת לצורך ניתוח וזרימות עבודה קלות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

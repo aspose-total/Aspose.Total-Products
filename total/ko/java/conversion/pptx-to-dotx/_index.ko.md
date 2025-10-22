@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 DOTX로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 프레젠테이션을 DOTX(Word 템플릿 형식)으로 변환하면 디자인 중심의 슬라이드 덱을 일관된 편집 가능한 Word 템플릿으로 변환할 수 있습니다. 이를 통해 팀 간 브랜드 일관성과 문서 일관성을 보장할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 슬라이드 디자인에서 표준화된 템플릿 생성.
+* 보고서 및 핸드북용 재사용 가능한 DOTX 템플릿 작성.
+* 프레젠테이션 형식을 브랜드화된 Word 템플릿으로 변환.
+* 회사 전체에서 문서 스타일 일관성 유지.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* HR 또는 재무팀을 위한 자동화된 DOTX 템플릿 생성.
+* 반복되는 기업 프레젠테이션의 일괄 변환.
+* 스타일 관리 및 문서 자동화 도구 통합.
+* 회사 템플릿의 버전 관리 동기화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

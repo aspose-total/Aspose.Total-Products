@@ -61,7 +61,31 @@ otherformats: XLS DIF XLSM MARKDOWN EXCEL XLTM XLSX XLAM MHTML XLT TSV XLTX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPT (PowerPoint) เป็น XLTX (Excel Template Open XML) จะสร้างเทมเพลต Excel ที่ทันสมัยและไม่มีแมโคร โดยใช้ข้อมูลจากงานนำเสนอ ซึ่งจะช่วยให้มีความสม่ำเสมอในดีไซน์ แบรนด์ และโครงสร้างรายงานที่เหมือนกันในแผนกและผู้ใช้ทั้งหมด
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ออกแบบเทมเพลต Excel จากรายงาน PowerPoint เพื่อใช้ซ้ำ
+* สร้างเทมเพลตรายงานที่มีแบรนด์จากเนื้อหาที่อยู่ในสไลด์
+* แปลงงานนำเสนอกลยุทธ์เป็นเทมเพลตสเปรดชีทที่มีโครงสร้าง
+* แชร์รูปแบบรายงานมาตรฐานให้ทีมทำงานทุกคนใช้ร่วมกัน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PPT เป็น XLTX โดยอัตโนมัติสำหรับการสร้างเทมเพลตระหว่างแผนก
+* การผสานเข้ากับการมาตรฐานเนื้อหาและขั้นตอนการรายงาน
+* การประมวลผลเป็นชุดสำหรับการใช้เทมเพลต Excel ในบริษัททั้งหมด
+* การส่งออกข้อมูลจาก PowerPoint เป็นรูปแบบ Excel ที่ใช้ซ้ำตามกำหนดเวลา
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

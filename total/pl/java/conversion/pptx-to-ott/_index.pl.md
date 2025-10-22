@@ -53,7 +53,31 @@ Korzystając z API, możesz również wykonać konwersję pliku PPTX do OTT ze z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPTX na OTT (OpenDocument Text Template) pozwala specjalistom tworzyć wielokrotnie używane szablony tekstowe z materiałów prezentacyjnych. To doskonały sposób na generowanie standaryzowanych raportów, dokumentacji z logo firmy lub szablonowych podsumowań.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie szablonów z logo opartych na treści prezentacji.
+* Zamiana firmowych prezentacji w wielokrotnie używane szablony ODT.
+* Tworzenie szablonów raportów akademickich z slajdów PowerPoint.
+* Generowanie standardowych formatów komunikacji z projektów PPTX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne tworzenie PPTX-to-OTT dla standaryzacji treści.
+* Integracja z systemami zarządzania szablonami.
+* Generowanie wsadowe szablonów do użytku w całej firmie.
+* Automatyzacja procesów dla zachowania spójności projektowej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

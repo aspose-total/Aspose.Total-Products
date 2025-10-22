@@ -47,7 +47,31 @@ Ao converter o arquivo SVG para XLAM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter SVG para XLAM (Excel Add-in Macro) permite aos desenvolvedores incorporar gráficos baseados em vetores e diagramas interativos em suplementos do Excel com macros. XLAM é ideal para automação personalizada do Excel com conteúdo visual rico.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Criar suplementos do Excel com painéis interativos em SVG para análise de negócios.
+* Incorporar gráficos SVG em ferramentas financeiras ou operacionais com macros.
+* Modelos de Excel acadêmicos ou de pesquisa com visualização SVG automatizada.
+* Aprimorar ferramentas de relatório com diagramas vetoriais dinâmicos em suplementos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automatizada de SVG para XLAM para atualizações recorrentes de suplementos do Excel.
+* Geração agendada de suplementos com macros atualizados com visuais vetoriais.
+* Integração com automação de fluxo de trabalho empresarial para fornecer ferramentas interativas do Excel.
+* Pipelines de conversão acionados para suplementos de painéis dinâmicos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

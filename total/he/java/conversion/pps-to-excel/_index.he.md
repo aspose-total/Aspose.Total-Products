@@ -102,7 +102,31 @@ otherformats: XLT ODS XLTX XLTM CSV SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) לתבנית Excel מאפשרת למשתמשים להפוך נתוני ההצגה הוויזואליים לגיליונות עבודה פונקציונליים לחלוטין. ההמרה הזו תומכת בטיפול נתונים טוב יותר, ניתוח ציר ושילוב בכלי עבודה עסקיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת טבלאות ההצגה ל-Excel לחישובים מתקדמים.
+* יצירת מעקבי ביצועים מדיווחי ההצגה המומנטיים.
+* יצירת לוחות בקרה ב-Excel שניתן לערוך משקפי סיכום.
+* הכנת דגמים פיננסיים ותחזיות מהצגות ויזואליות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה מתוזמנת של דוחות PPS לתבניות ניתוח ב-Excel.
+* שילוב בכונני ענן לשיתוף נתונים משותפים.
+* יצירת Excel אוטומטי משקפי פגישה או מצגות KPI.
+* המרה בצמוד לכמות לצורך ארכיבה והשוואה בין תקופות דיווח.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

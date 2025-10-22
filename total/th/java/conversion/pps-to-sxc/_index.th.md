@@ -61,7 +61,31 @@ otherformats: XLSM EXCEL XLTX TSV SXC MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น SXC (StarOffice Calc Spreadsheet) ช่วยองค์กรที่ใช้ชุดโปรแกรมสำนักงานรุ่นเก่าหรือโอเพนซอร์สให้สามารถนำข้อมูลการนำเสนอมาใช้ในรูปแบบสเปรดชีตได้ มันช่วยให้สามารถวิเคราะห์และรายงานข้อมูลได้อย่างมีโครงสร้างโดยไม่ต้องใช้ซอฟต์แวร์ที่เป็นเอกสารสมบูรณ์
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงข้อมูลการนำเสนอทางธุรกิจเป็นข้อมูลสเปรดชีตที่สามารถวิเคราะห์ได้
+* การส่งออกสรุปสไลด์ขายหรือการเงินเป็นรูปแบบ SXC
+* เตรียมชีทที่เข้ากันได้กับ OpenOffice จากรายงาน PPS
+* การแปลงการนำเสนอทางการศึกษาเป็นสเปรดชีตที่มีโครงสร้างและสามารถแบ่งปันได้
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง SXC โดยอัตโนมัติสำหรับขั้นตอนการรายงานที่ใช้ LibreOffice
+* การผสานเข้ากับระบบการจัดการเอกสารโอเพน
+* การแปลงสไลด์เป็น SXC จำนวนมากสำหรับคลังข้อมูลการวิเคราะห์
+* การส่งออกตามกำหนดเวลาสำหรับทีมที่ใช้สภาพแวดล้อมสำนักงานโอเพนซอร์ส
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

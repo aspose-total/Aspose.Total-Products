@@ -53,7 +53,29 @@ Met behulp van de API kunt u ook een PPTX-bestand naar DOCX-conversie met waterm
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PPTX-bestanden naar DOCX (Modern Word Document) levert volledig bewerkbare, deelbare en universeel compatibele documenten op. Het is ideaal voor het omzetten van presentatieslides naar leesbare samenvattingen, academische papers of zakelijke rapporten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Exporteren van slidetekst en visuals naar DOCX voor bewerking.
+* Omzetten van PowerPoint-collegenotities naar opgemaakt studiemateriaal.
+* Voorbereiden van rapporten en documentatie op basis van presentatiegegevens.
+* Delen van slide-informatie als bewerkbare Word-documenten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde PPTX-naar-DOCX-conversie voor bedrijfskennisbanken.
+* Batchtransformaties voor trainingshandleidingen en academisch gebruik.
+* Integratie met cloudopslag- en CMS-tools.
+* Geplande DOCX-export in documentatieworkflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

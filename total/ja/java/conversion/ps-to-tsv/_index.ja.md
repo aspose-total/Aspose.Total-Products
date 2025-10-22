@@ -47,7 +47,31 @@ PSファイルをTSVに変換するときに、出力TSVファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをTSV（Tab-Separated Values）に変換することは、ビジネスインテリジェンス、統計、エンジニアリングシステム間のデータ交換を標準化するのに役立ちます。TSVは、構造化されたが人間が読みやすい形式を提供し、PSのレイアウトから抽出されたデータを分析パイプラインに移行するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* PSフォームから構造化されたテキストやデータをTSVに変換して処理する。
+* 統計ツール向けに科学的または実験的結果をエクスポートする。
+* PostScriptベースのドキュメントから表形式のコンテンツをオープンデータ形式に変換する。
+* R、Python、またはMATLAB環境との互換性を持つデータセットを準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* データウェアハウスシステムでの自動化されたPSからTSVへの変換。
+* 構造化データ移行のためのETLツールとの統合。
+* PSベースのレポートエンジンからの定期的な抽出ワークフロー。
+* ビッグデータ分析のためのクラウドベースのPSドキュメント処理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

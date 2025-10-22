@@ -54,7 +54,31 @@ Az API azt is lehetővé teszi, hogy jelszóval védett RTF dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az RTF átalakítása PPSX formátumra (PowerPoint Show Open XML) egy modern módszer arra, hogy dokumentumalapú információkat vizuálisan vonzó prezentációkká alakítsunk. A PPSX fájlok közvetlenül diavetítés módban nyílnak meg, így ideálisak végső megjelenítésre vagy megosztásra.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Az RTF-alapú vállalati frissítések prezentációra kész diákba alakítása.
+* Végső prezentációk generálása strukturált szövegfájlokból.
+* Események vagy konferenciák diái közvetlenül az RTF forrásokból történő előkészítése.
+* Az RTF tartalom megosztása csak megtekintésre szolgáló PowerPoint bemutatókként.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* RTF-PPSX konverzió automatizált prezentáció közzétételi csövekben.
+* Integráció az Office 365 prezentációs munkafolyamataival.
+* Tömeges PPSX diák generálása standardizált RTF jelentésekből.
+* Ütemezett diavetítésre kész vállalati összefoglalók létrehozása.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

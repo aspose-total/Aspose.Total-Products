@@ -47,7 +47,31 @@ Trong khi chuyển đổi tệp SVG sang MD, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG sang Markdown (MD) cho phép nhúng sơ đồ vector trực tiếp vào tài liệu, tệp README và các trình tạo trang tĩnh. Phương pháp này giữ cho đồ họa nhẹ và hoàn toàn có thể co giãn trong khi cải thiện khả năng đọc nội dung kỹ thuật.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng sơ đồ kiến trúc vào tệp README của dự án phần mềm.
+* Biểu đồ luồng tương tác cho các kho tài liệu mã nguồn mở.
+* Sách điện tử và hướng dẫn dựa trên Markdown với hình minh họa vector nội tuyến.
+* Blog kỹ thuật sử dụng hình ảnh sạch, có thể co giãn mà không cần tệp hình ảnh phụ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi SVG sang MD tự động cho các đường ống tài liệu.
+* Tạo sơ đồ vector theo lịch trình cho cập nhật cơ sở kiến thức.
+* Tích hợp với các trình tạo trang tĩnh như Hugo hoặc Jekyll.
+* Đồng bộ liên tục các cập nhật thiết kế vào các tệp kỹ thuật Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

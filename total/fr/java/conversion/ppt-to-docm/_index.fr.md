@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de fichiers PPT (PowerPoint) en DOCM (Document Word activé par macro) introduit des capacités d'automatisation dans les documents dérivés de présentations. Cette conversion est idéale pour les organisations qui nécessitent des rapports interactifs pilotés par macro et des résumés liés aux données.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Création de documents activés par macro à partir de présentations commerciales PowerPoint.
+* Intégration de calculs automatisés ou de scripts dans des rapports Word.
+* Rationalisation de la génération de rapports répétitifs à l'aide de macros.
+* Transformation des présentations en documentation intelligente et prête à l'action.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de PPT en DOCM pour des rapports d'entreprise pilotés par macro.
+* Intégration avec des flux de travail de documents activés par VBA.
+* Exportations planifiées de présentations en fichiers DOCM interactifs.
+* Conversion par lot pour des modèles activés par macro standardisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

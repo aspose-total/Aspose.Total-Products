@@ -47,7 +47,31 @@ Ao converter o arquivo PS para FODS, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PS (PostScript) para FODS (Planilha de Documento Aberto XML Plano) permite que dados estruturados de gráficos e tabelas PostScript sejam usados em aplicativos de planilhas de código aberto como o LibreOffice. Isso garante portabilidade, transparência e compatibilidade.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Extrair tabelas financeiras de relatórios PS para planilhas do LibreOffice.
+* Converter dados científicos ou de engenharia de diagramas PostScript para FODS.
+* Preparar dados para análises e relatórios multiplataforma.
+* Possibilitar o uso de planilhas de código aberto sem restrições proprietárias.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão em lote de PS para FODS para fluxos de trabalho multi-departamentais.
+* Integração em pipelines ETL para análises em formato aberto.
+* Extração automatizada de dados tabulares de layouts PS.
+* Conversão baseada em nuvem para ambientes colaborativos de código aberto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,31 @@ Tijdens het converteren van het SVG-bestand naar MD, kunt u ook een watermerk to
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG naar Markdown (MD) maakt het mogelijk om vector diagrammen rechtstreeks in documentatie, README-bestanden en statische site generators in te sluiten. Deze aanpak houdt afbeeldingen lichtgewicht en volledig schaalbaar, terwijl het de leesbaarheid van technische inhoud verbetert.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Insluiten van architecturale diagrammen in README-bestanden van softwareprojecten.
+* Interactieve stroomdiagrammen voor open-source documentatierepositories.
+* Markdown-gebaseerde eBooks en tutorials met inline vectorillustraties.
+* Technische blogs met schone, schaalbare visuals zonder extra afbeeldingsbestanden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde SVG-naar-MD conversie voor documentatiepijplijnen.
+* Geplande generatie van vector diagrammen voor updates van kennisbanken.
+* Integratie met statische site generators zoals Hugo of Jekyll.
+* Continue synchronisatie van ontwerpwijzigingen in Markdown technische bestanden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

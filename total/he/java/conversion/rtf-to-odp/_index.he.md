@@ -100,7 +100,31 @@ otherformats: PPT POTX PPTM PPS POWERPOINT POT PPTX POTM PPSX PPSM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי RTF ל-ODP (OpenDocument Presentation) ממירה תוכן עשיר בטקסט למצגות מרשימות המתאימות ל־LibreOffice Impress ול־Apache OpenOffice. זרימת העבודה הזו מועילה למורים, מדריכים ועסקים שמשנים חומר תיעודי למצגות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת פתקי הרצאה ב־RTF למצגות מובנות ב־ODP.
+* המרת מדריכי הכשרה לשקפים לסדנאות תעשייתיות.
+* יצירת מצגות ODP מהצעות RTF או תקצירי עסקים.
+* שימוש מחודש בתוכן טקסטואלי לתבניות סיפור חזותיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת RTF ל־ODP באופן אוטומטי עבור צינורות תוכן למידתיים.
+* שילוב עם מערכות לניהול ידע ליצירת מצגות לפי דרישה.
+* המרה בצורת סדרות של מסמכי עסקים RTF לתבניות ODP.
+* יצירת שקפים באופן אוטומטי ממאגרי מסמכים עבור צוותי שיווק.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

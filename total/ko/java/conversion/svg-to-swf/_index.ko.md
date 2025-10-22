@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 SWF(Shockwave Flash)로 변환하면 대화형 벡터 그래픽을 웹 애니메이션과 레거시 Flash 응용 프로그램에 임베드할 수 있습니다. SWF는 동적 시각화와 가벼운 벡터 기반 애니메이션을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG-to-SWF 애니메이션을 사용한 대화형 웹 기반 교육 모듈.
+* 벡터 상호 작용을 갖춘 마케팅 배너 및 홍보 자료.
+* 확장 가능한 다이어그램을 사용한 교육 애니메이션 및 e-러닝 콘텐츠.
+* 레거시 Flash 플랫폼에서 표시되는 대화형 인포그래픽.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* SVG 다이어그램을 SWF 애니메이션으로 자동 일괄 변환.
+* 라이브 SVG 파일에서 웹 기반 대화형 콘텐츠의 예약된 업데이트.
+* Flash 기반 시각 자료를 지원하는 레거시 웹 플랫폼과의 통합.
+* 동적 온라인 SVG-to-SWF 콘텐츠를 위한 트리거 변환 파이프라인.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

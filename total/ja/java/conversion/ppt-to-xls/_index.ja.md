@@ -61,7 +61,29 @@ PPTファイルをXLSに変換するときに、出力XLSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）ファイルをXLS（Excel 97–2003 Workbook）に変換することで、遺産システムとの互換性を保ちながら表形式および数値データの整合性を維持できます。この変換は、古いMicrosoft Office環境を使用する組織や後方互換性のあるレポートが必要な組織をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* レガシーExcelシステムで使用するためにスライドデータをエクスポートする。
+* PowerPointレポートから後方互換性のあるスプレッドシートを生成する。
+* 古いMicrosoft Officeバージョンを使用するチームと分析可能なデータを共有する。
+* 汎用的にサポートされるXLS形式でプレゼンテーション結果をアーカイブする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業のアーカイブシステム向けの自動化されたPPTからXLSへの変換。
+* レガシーExcelファイルの出力を必要とするワークフローへの統合。
+* 部門間データの互換性のためのバッチ処理。
+* システム間の相互運用性のためのスケジュールされたPowerPointレポートの変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

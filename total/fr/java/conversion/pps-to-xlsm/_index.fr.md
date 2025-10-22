@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPS en XLSM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPS (PowerPoint Slide Show) en XLSM (Classeur prenant en charge les macros) permet une automatisation avancée et une analyse dynamique. Cela est idéal pour les utilisateurs qui souhaitent intégrer des macros et des scripts VBA pour des données interactives issues du contenu de la présentation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Création de tableaux de bord pilotés par macro à partir des diapositives PPS.
+* Transformation des présentations récurrentes en modèles Excel auto-actualisés.
+* Développement de suiveurs de KPI qui se mettent à jour à l'aide de macros VBA.
+* Intégration de calculs de synthèse automatisés extraits des diapositives PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Intégration dans les flux de travail d'automatisation Excel.
+* Conversion des diapositives PPS en modèles XLSM pour les rapports de projet.
+* Génération planifiée d'Excel basée sur des macros à partir des ensembles de données PowerPoint.
+* Conversion automatisée de diapositives en feuilles de macros pour les mises à jour commerciales récurrentes.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

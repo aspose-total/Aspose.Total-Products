@@ -61,7 +61,31 @@ PPSファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをXLT（Excel Template）に変換することで、企業はプレゼンテーションデータから再利用可能なスプレッドシートテンプレートを作成できます。これらのテンプレートは、レポーティング、フォーマット、分析の一貫性を確保します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* 財務プレゼンテーションから標準予算テンプレートを作成する。
+* 重役向けスライドショーからレポートテンプレートを設計する。
+* 再利用可能な売上予測テンプレートを生成する。
+* スライドの視覚から標準化された分析レイアウトを作成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なPowerPointレポートからXLTテンプレートの自動作成。
+* 企業向けテンプレート管理システムへの統合。
+* 部門の一貫性のためのスライドからテンプレートへのスケジュール変換。
+* 承認済みスライドデッキからのブランド付きExcelテンプレートの大量生成。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

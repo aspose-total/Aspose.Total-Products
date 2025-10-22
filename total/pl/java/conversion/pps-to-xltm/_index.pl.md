@@ -61,7 +61,31 @@ Podczas konwertowania pliku PPS do XLTM możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPS (PowerPoint Slide Show) na XLTM (Szablon programu Excel z obsługą makr) pozwala organizacjom tworzyć dynamiczne szablony z wbudowanymi skryptami automatyzacji. Jest to cenne dla firm korzystających z powtarzalnych operacji na danych pochodzących z raportów slajdów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Tworzenie szablonów raportów opartych na makrach z prezentacji.
+* Generowanie zautomatyzowanych szablonów prognoz z wbudowanymi skryptami VBA.
+* Tworzenie wielokrotnie używanych szablonów wprowadzania danych z slajdów marketingowych.
+* Przygotowywanie szablonów XLTM do śledzenia KPI z automatyzacją.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie szablonów XLTM z plików PPS do raportowania przedsiębiorstwa.
+* Integracja z potokami automatyzacji w Excelu.
+* Zaplanowane tworzenie szablonów makr na podstawie podsumowań opartych na slajdach.
+* Centralna dystrybucja szablonów XLTM dla wewnętrznych działów.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

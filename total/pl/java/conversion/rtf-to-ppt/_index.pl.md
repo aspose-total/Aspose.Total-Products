@@ -54,7 +54,31 @@ Interfejs API umożliwia również konwersję dokumentów RTF chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików RTF na PPT (prezentacja w starszej wersji programu PowerPoint) łączy tradycyjne przepływy dokumentów z starszymi środowiskami PowerPoint. Jest to wartościowe dla organizacji utrzymujących kompatybilność z wcześniejszymi wersjami pakietu Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie raportów RTF na pliki zgodne z PowerPoint 97–2003.
+* Ponowne wykorzystanie sformatowanych dokumentów tekstowych do prezentacji szkoleniowych.
+* Projektowanie slajdów dla systemów prezentacji z poprzednich lat.
+* Przygotowywanie podsumowań badań opartych na plikach RTF do tradycyjnych wyświetlaczy PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Transfery wsadowe z RTF do PPT dla starych przepływów pracy w pakiecie Office.
+* Integracja z systemami prezentacji archiwalnych i zgodnościowych.
+* Zaplanowane konwersje w celu wsparcia wstecznej kompatybilności.
+* Automatyczne generowanie prezentacji PowerPoint z szablonów RTF dla starszych systemów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

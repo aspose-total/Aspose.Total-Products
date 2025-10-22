@@ -99,7 +99,31 @@ otherformats: DOTM TEXT DOCX OTT WORDML FLATOPC DOC DOT DOTX DOCM ODT RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) לתבנית Word מאפשרת למשתמשים להמיר מצגות חזותיות למסמכי Word מקיפים. התהליך תומך בשימוש מחודש בתוכן עבור דוחות, תיעוד ועריכה שיתופית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת דוחות עסקיים רשמיים משקפי מצגת.
+* המרת מצגות פיצ' להצעות Word שניתפו.
+* יצירת תיעוד ממצגות עדכון פרויקט.
+* יצירת קבצי Word ניתנים לעריכה לתקשורת עם לקוחות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת מצגת ל-Word באופן אוטומטי עבור מערכות דיווח פנימיות.
+* שילוב בזרימי עבודה לפרסום תוכן.
+* ייצוא מתוזמן של Word למצגות פרויקט או מכירות.
+* עיבוד רצף של מספר קבצי PPS למסמכים ניתנים לעריכה.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

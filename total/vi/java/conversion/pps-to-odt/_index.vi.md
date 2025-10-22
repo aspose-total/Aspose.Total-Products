@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPS s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPS (PowerPoint Slide Show) sang ODT (OpenDocument Text) giúp các chuyên gia biến nội dung trình chiếu hình ảnh thành tài liệu văn bản có thể chỉnh sửa. Quy trình này lý tưởng để chuyển đổi bài thuyết trình thành báo cáo chính thức, tài liệu đào tạo và tài liệu viết có thể truy cập trong LibreOffice Writer hoặc OpenOffice Writer.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi bài thuyết trình của công ty thành báo cáo dự án được định dạng.
+* Tạo ra biên bản cuộc họp hoặc tài liệu chính sách từ các slide hình ảnh.
+* Biến các bộ slide lớp học thành ghi chú chi tiết hoặc hướng dẫn học tập.
+* Tạo ra các bản lưu trữ nội dung có thể chỉnh sửa từ các bài thuyết trình PowerPoint đã hoàn chỉnh.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo báo cáo từ các slide trình bày nội bộ.
+* Tích hợp vào hệ thống quản lý tài liệu để lưu trữ dựa trên ODT.
+* Chuyển đổi bài thuyết trình tiếp thị thành nội dung dựa trên văn bản để xuất bản nội bộ.
+* Chuyển đổi hàng loạt các bộ slide đào tạo thành tài liệu hướng dẫn có thể chỉnh sửa cho tài liệu nhân sự.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

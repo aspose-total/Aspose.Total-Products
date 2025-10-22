@@ -54,7 +54,31 @@ Az API azt is lehetővé teszi, hogy jelszóval védett RTF dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az RTF fájlok átalakítása ODP formátumra (OpenDocument Presentation) szöveges tartalmat alakít át vizuálisan vonzó diákcsomaggá, amely kompatibilis a LibreOffice Impress és az Apache OpenOffice programokkal. Ez a folyamat előnyös oktatók, trénerek és vállalkozások számára, akik dokumentumokat alakítanak át prezentációkká.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Az RTF előadási jegyzetek strukturált ODP prezentációvá alakítása.
+* Képzési kézikönyvek átalakítása diákká vállalati workshopokhoz.
+* ODP csomagok létrehozása RTF javaslatokból vagy üzleti összefoglalókból.
+* Szöveges tartalom átalakítása vizuális történetmesélési formátumokká.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált RTF-ODP generálás az e-learning tartalomcsatornákhoz.
+* Integráció a tudáskezelési rendszerekkel az azonnali prezentációkészítés érdekében.
+* RTF vállalati dokumentumok tömeges átalakítása ODP sablonokká.
+* Automatizált diák generálás dokumentumtárolókból a marketing csapatok számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

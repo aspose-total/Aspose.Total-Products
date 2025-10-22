@@ -102,7 +102,31 @@ otherformats: MD SXC DIF XLSB TSV EXCEL CSV XLT ODS XLSM XLTX XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SVG ל-XLAM (Excel Add-in Macro) מאפשרת למפתחים להטביע תרשימים מבוססי וקטור ותרשימים אינטראקטיביים בתוך התוסף של Excel המאופשר מקרו. XLAM אידיאלי עבור אוטומציה מותאמת אישית ב-Excel עם תוכן ויזואלי עשיר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תוספי Excel עם לוחות בקרה SVG אינטראקטיביים לניתוח עסקי.
+* הטבעת תרשימי SVG בתוך כלי פיננסיים או תפעוליים המאופשרים מקרו.
+* תבניות Excel אקדמיות או למחקר עם ויזואליזציה אוטומטית של SVG.
+* שיפור כלי דיווח עם תרשימי וקטור דינמיים בתוך תוספים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת SVG ל-XLAM אוטומטית עבור עדכוני תוספי Excel חוזרים.
+* יצירה מתוזמנת של תוספי מקרו עם תרשימים בקטור מעודכנים.
+* שילוב עם אוטומציה של זרימת עבודה בארגון למסירת כלים אינטראקטיביים ב-Excel.
+* צינון של צינונים להמרה עבור תוספי לוחות בקרה דינמיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

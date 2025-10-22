@@ -53,7 +53,31 @@ Az API segítségével PPTX fájlból ODT-ba konvertálhat vízjellel. Ha vízje
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPTX prezentációk átalakítása ODT (OpenDocument Text) formátumba lehetővé teszi a diák szerkeszthető szöveges dokumentumokká történő átalakítását. Ideális megoldás írásbeli jelentések, összefoglalók vagy szerkeszthető dokumentációk generálásához a PowerPoint prezentációk alapján.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Diákjegyzetek átalakítása szerkeszthető szöveggé jelentésekhez.
+* ODT dokumentumok létrehozása akadémiai vagy vállalati összefoglalókhoz.
+* Projekt prezentációk átalakítása megosztható szöveges fájlokká.
+* Diáktartalom újrahasznosítása irányelvek és javaslatok írásához.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Jelentések automatikus generálása PowerPoint prezentációkból.
+* Munkafolyamat integráció nyílt forráskódú irodai dokumentum eszközökkel.
+* Pitch deck-ek átalakítása szerkeszthető dokumentumokká belső felülvizsgálathoz.
+* PowerPoint jegyzetek archiválása ODT formátumban az elérhetőség érdekében.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

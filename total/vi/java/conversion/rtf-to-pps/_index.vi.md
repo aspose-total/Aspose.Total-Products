@@ -54,7 +54,31 @@ API cũng cho phép bạn chuyển đổi các tài liệu RTF được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tài liệu RTF thành PPS (PowerPoint Show) biến văn bản tĩnh thành bài thuyết trình sẵn sàng mở trực tiếp ở chế độ toàn màn hình. Điều này rất lý tưởng cho các buổi trình bày tự động, trình diễn giáo dục hoặc trình bày tại triển lãm.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi báo cáo RTF thành bài thuyết trình sẵn sàng trình bày.
+* Tạo ra các buổi trình diễn hình ảnh tự động từ tài liệu văn bản.
+* Thiết kế nội dung biển quảng cáo số dựa trên tài liệu tiếp thị RTF.
+* Chuẩn bị các chương trình giáo dục cho việc sử dụng trong lớp học hoặc hội nghị.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt từ RTF sang PPS cho các buổi trình bày được lên lịch.
+* Tích hợp vào các trạm dịch vụ và hệ thống hiển thị tự động.
+* Tạo ra bài thuyết trình tự động từ các kho tài liệu đã lưu trữ.
+* Tạo ra bảng điều khiển hình ảnh từ đầu vào RTF có cấu trúc.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

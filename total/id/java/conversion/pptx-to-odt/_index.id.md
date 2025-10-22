@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPTX ke ODT dengan tand
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi presentasi PPTX ke ODT (OpenDocument Text) memungkinkan penggunaan kembali slide ke dalam dokumen teks yang dapat diedit. Ini ideal untuk menghasilkan laporan tertulis, ringkasan, atau dokumentasi yang dapat diedit berdasarkan slide PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengonversi catatan slide ke dalam teks yang dapat diedit untuk laporan.
+* Membuat dokumen ODT untuk ringkasan akademis atau korporat.
+* Mengubah presentasi proyek menjadi file teks yang dapat dibagikan.
+* Menggunakan kembali konten slide untuk menulis kebijakan dan proposal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi laporan otomatis dari presentasi PowerPoint.
+* Integrasi alur kerja dengan alat dokumen kantor sumber terbuka.
+* Mengonversi pitch decks ke dokumen yang dapat diedit untuk tinjauan internal.
+* Mengarsipkan catatan PowerPoint dalam format ODT untuk aksesibilitas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

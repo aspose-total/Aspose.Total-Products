@@ -61,7 +61,31 @@ Saat mengonversi file PPTX ke XLT, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi PPTX ke XLT (Excel Template) memungkinkan penciptaan template spreadsheet yang dapat digunakan kembali dari data presentasi. Ini ideal untuk organisasi yang memstandardisasi laporan keuangan atau ringkasan bisnis yang berulang.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Membuat template laporan dari slide PowerPoint.
+* Membuat model Excel berdasarkan KPI presentasi.
+* Membentuk format spreadsheet bermerk untuk penggunaan internal.
+* Menyiapkan template data bulanan atau triwulanan yang dapat diulang.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi XLT otomatis dari dek presentasi perusahaan.
+* Sinkronisasi template di seluruh departemen.
+* Pembuatan template pelaporan yang dapat digunakan kembali yang didorong oleh alur kerja.
+* Integrasi dengan repositori template yang terkontrol versi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

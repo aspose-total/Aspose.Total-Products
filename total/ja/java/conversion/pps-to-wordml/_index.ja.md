@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPSファイルからWORDMLへの�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをWORDML（Microsoft Word XML Document）に変換すると、企業コンテンツシステムに統合しやすい構造化されたXMLベースの形式が得られます。これにより、データ駆動型の文書管理やカスタマイズが柔軟に行えます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* プレゼンテーションスライドをXML互換のWordML構造に変換する。
+* PowerPointコンテンツをXMLベースのパブリッシングシステムに統合する。
+* 構造化されたWordML形式でのレポート生成を自動化する。
+* デジタルアーカイブ用の標準化された文書を作成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なプレゼンテーションの更新からの自動化されたWordML作成。
+* XML文書構造を必要とするCMSやDMSシステムへの統合。
+* 企業文書管理のためのスケジュールされたスライドからWordMLへの変換。
+* 構造化された、機械可読なレポートの一括生成。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -121,7 +121,31 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ SVG (Scalable Vector Graphics) เป็น POT (PowerPoint 97-2003 Template) ช่วยให้สามารถสร้างเทมเพลตสไลด์ที่ใช้ซ้ำได้พร้อมไดอะแกรมเวกเตอร์สำหรับเวอร์ชัน PowerPoint เก่ากว่า  POT  ช่วยให้การออกแบบนำเสนอที่สม่ำเสมอทั่วระบบสามารถทำได้ในสภาพแวดล้อมเก่า
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* เทมเพลตนำเสนอขององค์กรที่มีแดชบอร์ด SVG ฝังอยู่
+* เทมเพลตสไลด์การฝึกอบรมสำหรับเนื้อหาการเรียนการสอนและอี-เลิร์นนิ่ง
+* เทมเพลตแคมเปญการตลาดที่แสดงแผนภูมิเวกเตอร์แบบโต้ตอบ
+* เทมเพลตนำเสนอทางวิชาการสำหรับการประชุมและการบรรยาย
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงไดอะแกรม SVG เป็นเทมเพลต POT โดยอัตโนมัติ
+* การอัพเดตตามกำหนดเวลาสำหรับเทมเพลตการนำเสนอที่ใช้ซ้ำได้
+* การผสานระบบการนำเสนอเวอร์ชันเก่าเพื่อการจัดรูปแบบอย่างสม่ำเสมอ
+* การสร้างเทมเพลตจากแดชบอร์ด SVG สดๆ โดยเรียกใช้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

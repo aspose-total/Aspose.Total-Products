@@ -47,7 +47,31 @@ otherformats: DIF FODS XLAM XLT XLSM SXC MD ODS TSV EXCEL TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ SVG (Scalable Vector Graphics) เป็น XLT (Excel Template) ช่วยให้สามารถสร้างเทมเพลตสเปรดชีทที่ใช้ซ้ำได้พร้อมกับไดอะแกรมเวกเตอร์ที่ฝังอยู่ แม่แบบ XLT เหมาะสำหรับมาตรฐานรูปแบบการรายงานในขณะที่ยังคงทำให้แผนภูมิสามารถปรับขนาดและแก้ไขได้
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างเทมเพลตรายงานขายและการเงินมาตรฐานพร้อมกับแดชบอร์ดที่ใช้ SVG
+* เทมเพลตการติดตามโครงการที่ใช้ซ้ำสำหรับการทำงานด้านวิศวกรรมและก่อสร้าง
+* สร้างเทมเพลตการศึกษาพร้อมกับแผนภูมิ SVG สำหรับสถาบันการศึกษา
+* เทมเพลตการวิเคราะห์ทางการตลาดมาตรฐานโดยใช้ภาพแบบเวกเตอร์ที่สามารถโต้ตอบ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงไดอะแกรม SVG เป็นเทมเพลต XLT อัตโนมัติเป็นชุดสำหรับการรายงานของบริษัท
+* การสร้างเทมเพลตตามกำหนดเวลาสำหรับรายงานโครงการหรือการเงินที่เกิดซ้ำ
+* การผสานร่วมกับระบบอัตโนมัติของกระบวนการทำงานเพื่อรักษาเทมเพลตให้เป็นปัจจุบัน
+* การแปลงเมื่อมีการอัปเดตแดชบอร์ดอย่างไดนามิกเป็นเทมเพลตที่ใช้ซ้ำ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

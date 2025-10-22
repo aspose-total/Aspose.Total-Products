@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 DOCX로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 파일을 DOCX(현대 워드 문서)로 변환하면 완전히 편집 가능하고 공유 가능하며 보편적으로 호환되는 문서를 얻을 수 있습니다. 발표 슬라이드를 읽기 쉬운 요약문, 학술 논문 또는 비즈니스 보고서로 변환하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 편집을 위해 슬라이드 텍스트와 시각 자료를 DOCX로 내보내기
+* 파워포인트 강의 노트를 서식이 있는 학습 자료로 변환
+* 발표 자료로부터 보고서 및 문서 작성
+* 편집 가능한 워드 문서로 슬라이드 정보 공유
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 회사 지식 베이스를 위한 자동화된 PPTX-to-DOCX 변환
+* 교육 매뉴얼 및 학술용으로 일괄 변환
+* 클라우드 저장소 및 CMS 도구와 통합
+* 문서 작업에서 예약된 DOCX 내보내기
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

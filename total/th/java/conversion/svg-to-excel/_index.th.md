@@ -47,7 +47,31 @@ otherformats: TXT MD TSV XLTX XLAM XLSB EXCEL DIF XLSM XLTM SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น Excel (XLS/XLSX) ช่วยให้แผนภูมิและแผนภาพเวกเตอร์สามารถกลายเป็นสเปรดชีตที่เต็มไปด้วยความปรับแต่งได้ ผู้ใช้ Excel สามารถจัดการข้อมูล สร้างตารางเพิ่มเติม และรวมแผนภาพเข้ากับรายงานโดยไม่สูญเสียความชัดเจนของเวกเตอร์
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ฝังแผนภูมิขายที่ใช้ SVG เข้า Excel workbooks
+* แปลงแผนภาพทางเทคนิคและวิศวกรรมเข้า Excel เพื่อการวิเคราะห์
+* ชุดข้อมูลทางการศึกษาที่มีภาพและวิดีโอ SVG ส่งออกเข้าสู่สเปรดชีตที่เต็มไปด้วยความปรับแต่ง
+* ภาพการจัดการโครงการที่สามารถปรับใช้เข้ากับรายงาน Excel โดยตรง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* แปลงแผนภูมิขายที่ใช้ SVG เป็น Excel สำหรับรายงานที่เกิดซ้ำ
+* การผสานรวมกับแพลตฟอร์ม BI เพื่ออัปเดตสเปรดชีตโดยอัตโนมัติ
+* การส่งออกตารางการออกแบบและการวิเคราะห์ที่เป็นแผนภาพแบบโต้ตอบเข้า Excel ตามกำหนด
+* การซิงค์ข้อมูล SVG สดเข้า Excel workbooks อย่างต่อเนื่อง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

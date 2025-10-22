@@ -47,7 +47,31 @@ Konwertując plik SVG na FODS, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja SVG na FODS (Flat OpenDocument Spreadsheet) pozwala na osadzanie wykresów wektorowych w plikach arkuszy kalkulacyjnych zgodnych z otwartymi standardami. FODS jest idealny do pracy na różnych platformach i automatyzacji arkuszy kalkulacyjnych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Osadzanie diagramów SVG w szablonach arkuszy kalkulacyjnych typu open-source.
+* Dzielenie się danymi badawczymi lub finansowymi za pomocą wektorowych wizualizacji w formacie FODS.
+* Dane akademickie i inżynieryjne eksportowane jako edytowalne, niezależne od platformy arkusze kalkulacyjne.
+* Standardowe pulpity projektowe w formacie dokumentu otwartego.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja SVG na FODS dla potoków raportowania.
+* Zaplanowane aktualizacje dla szablonów arkuszy kalkulacyjnych badawczych lub operacyjnych.
+* Integracja z pakietami biurowymi obsługującymi otwarte formaty na różnych platformach.
+* Wywoływane generowanie pulpitów projektowych opartych na SVG do współpracy zespołowej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

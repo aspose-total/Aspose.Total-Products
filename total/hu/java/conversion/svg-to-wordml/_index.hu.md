@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG átalakítása WORDML formátumra (WordprocessingML) XML-alapú Word dokumentumokat hoz létre, amelyek teljesen beágyazott vektor diagramokat tartalmaznak. A WORDML ideális programozott dokumentumfeldolgozáshoz, sablonkészítéshez és automatizált munkafolyamatokhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+* Programozottan generált Word jelentések beágyazott SVG vizuális elemekkel.
+* Akadémiai és kutatási sablonok XML formátumban automatizált szerkesztéshez.
+* Szabványosított projekt dokumentáció verziókezelt munkafolyamatokhoz.
+* Interaktív SVG tartalom archiválása strukturált XML formátumban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+* Automatizált tételszerű SVG-WORDML konverzió jelentési rendszerekhez.
+* SVG alapú sablonok ütemezett exportálása XML formátumba munkafolyamat automatizáláshoz.
+* Integráció dokumentum generáló API-kkal és tartalomkezelő rendszerekkel.
+* Kiváltott generálás dinamikus, programozottan vezérelt Word dokumentumokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

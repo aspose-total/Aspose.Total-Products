@@ -47,7 +47,31 @@ SVG dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi SXC'ye (StarOffice/LibreOffice Elektronik Tablo) dönüştürmek, vektör grafikleri açık kaynak elektronik tablo formatlarına gömme olanağı sağlar. SXC, işbirlikçi iş akışları ve çapraz platform elektronik tablo uyumluluğu için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+* SVG finansal veya proje panolarını LibreOffice elektronik tablolarına aktarma.
+* Araştırma veya akademik verileri vektör grafiklerle SXC dosyalarında paylaşma.
+* Gömülü SVG görselleri kullanan işbirlikçi proje takip elektronik tabloları.
+* Etkileşimli diyagramlarla standartlaştırılmış açık kaynak elektronik tablo şablonları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* SVG'nin SXC'ye otomatik toplu dönüşümü raporlama boru hatları için.
+* SVG tabanlı panoların zamanlanmış olarak açık kaynak elektronik tablolara aktarılması.
+* Takım genelinde erişim için işbirlikçi ofis paketleriyle entegrasyon.
+* Dinamik SVG verilerinden tetiklenen SXC elektronik tablolarının oluşturulması.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

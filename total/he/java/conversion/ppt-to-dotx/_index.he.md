@@ -102,7 +102,31 @@ otherformats: DOCX WORDML DOCM FLATOPC DOC DOT DOTM OTT TEXT ODT RTF WORD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPT (PowerPoint) ל-DOTX (תבנית Word Open XML) מאפשרת יצירת תבניות ניתנות לשימוש שאינן מכילות מקרו, וששומרות על עיצוב ועל עקביות במיתוג. זה מושלם לתהליכי תקנון מסמכים בארגונים גדולים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת עיצובי PowerPoint ממותגים לתבניות Word DOTX.
+* שמירה על עיקרון העיצוב הוויזואלי בדוחות עסקיים ובמכתבים.
+* יצירת תבניות מסמכים ניתנות לשימוש חוזר למחלקות.
+* יצירת ספריות של תבניות בהתבסס על עיצובי מצגות תדמיתיים תאורגניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל-DOTX באופן אוטומטי לפרסום תבניות ברחבי העסק.
+* שילוב בתהליכי עמיתות במיתוג ובתקנון תוכן.
+* עדכונים מתוזמנים של תבניות DOTX בהתבסס על עיצובים חדשים של מצגות.
+* המרה בצפיפות לשקיפות מסמכים ברמת הצוות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

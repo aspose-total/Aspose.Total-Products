@@ -121,7 +121,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PowerPoint（.pptまたは.pptx）へのSVGファイルの直接変換により、スケーラブルなベクターダイアグラムを標準のスライドデッキに埋め込むことができ、プレゼンテーションの視覚的な明瞭さと相互作用を向上させることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 高解像度のSVGダッシュボードを使用したビジネスプレゼンテーション。
+* ベクターダイアグラムを使用した教育講義やオンラインコースのスライド。
+* インタラクティブなチャートを使用したマーケティングおよび製品プレゼンテーション。
+* 詳細なビジュアルを示す学術または研究用のスライドデッキ。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なプレゼンテーションの更新のためのバッチSVGからPowerPointへの変換。
+* 動的ダッシュボードの定期的なスライドデッキへのエクスポート。
+* プレゼンテーションの生成のための自動化されたレポートパイプラインとの統合。
+* ライブSVGビジュアルからのインタラクティブなスライドの生成のトリガー。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

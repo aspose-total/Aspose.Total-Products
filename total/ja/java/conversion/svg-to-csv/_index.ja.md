@@ -47,7 +47,31 @@ SVGファイルをCSVに変換するときに、出力CSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG（Scalable Vector Graphics）ファイルをCSV（Comma-Separated Values）に変換すると、視覚的なチャートや図を構造化された表形式のデータに変換できます。この変換は、分析、レポーティング、データ駆動型ワークフローへのシームレスな統合に不可欠です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* SVGダッシュボードからの売上パフォーマンスチャートをCSVファイルにエクスポートする。
+* 調査や研究の図を構造化されたCSVデータセットに変換する。
+* チーム間での対話型SVGアナリティクスをスプレッドシートに適したCSVで共有する。
+* モデリング用に金融やエンジニアリングの図を生データに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* SVGダッシュボードをBIプラットフォーム用のCSVに自動バッチ変換する。
+* 金融、運用、マーケティングレポートのためのETLワークフローへの統合。
+* 定期的な分析の更新のためのスケジュールされたSVGからCSVへのエクスポート。
+* アプリケーションで動的に生成されたベクトルチャートの変換をトリガーする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

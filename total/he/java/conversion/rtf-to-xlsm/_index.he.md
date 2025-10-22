@@ -102,7 +102,31 @@ otherformats: XLAM CSV ODS FODS TSV DIF XLS XLT XLSB XLTM XLTX XLSX EXCEL SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי RTF ל-XLSM (Excel Macro-Enabled Workbook) מרחיבה את יעילות המסמך על ידי שילוב נתונים מעוצבים עם יכולות האוטומציה של Excel. זה אידיאלי לדיווח דינמי, ניתוחים וקבלת החלטות המבוססות על נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* הטמעת טבלאות RTF במאקרוים של Excel לדיווחים שמתעדכנים אוטומטית.
+* אוטומציה של תהליכי המרת נתונים דרך סקריפטים של VBA.
+* המרת מסמכי RTF תהליכוניים לכלים פיננסיים המופעלים במאקרוים.
+* הפעלת לוחות מחוונים אינטראקטיביים ממקורות נתונים מבוססי RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת RTF ל-XLSM לצורך הפצת אוטומציה ב-Excel.
+* שילוב עם כלי בינה עסקית וכלי דיגיטליים לדוגמת דיגיטליים.
+* יצירת חוברות עבודה במאקרו מתוזמנות ממאגרי מסמכים.
+* קשירת מאקרו אוטומטית במהלכי המרת נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

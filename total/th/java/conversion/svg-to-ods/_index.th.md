@@ -47,7 +47,31 @@ otherformats: XLSB MD FODS XLTX XLAM DIF XLSM XLT XLTM ODS SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ SVG เป็น ODS (OpenDocument Spreadsheet) ช่วยให้สามารถฝังกราฟเวกเตอร์ลงในสเปรดชีตมาตรฐานเปิด. ODS เหมาะสำหรับการวิเคราะห์ข้อมูลข้ามแพลตฟอร์ม, รายงาน, และแดชบอร์ดแบบอินเทอร์แอคทีฟ.
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ฝังแดชบอร์ดการเงิน SVG เข้าสู่สเปรดชีต ODS เพื่อการวิเคราะห์.
+* แบ่งปันข้อมูลการวิจัยหรือวิศวกรรมพร้อมภาพแบบเวกเตอร์ในรูปแบบเปิด.
+* ข้อมูลทางวิชาการและโครงการที่ส่งออกเป็นสเปรดชีตที่สามารถแก้ไขได้และเป็นอิสระจากแพลตฟอร์ม.
+* แดชบอร์ดติดตามโครงการที่มีมาตรฐานในรูปแบบ ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง SVG เป็น ODS โดยอัตโนมัติสำหรับท่อรายงาน.
+* การส่งออกข้อมูลการวิจัยหรือการดำเนินงานตามกำหนดเวลาพร้อมไดอะแกรมที่ฝังอยู่.
+* การผสานรวมกับชุดโปรแกรมสำนักงานโอเพนซอร์สที่ต้องการความเข้ากันได้กับสเปรดชีต.
+* การสร้างแดชบอร์ดที่ใช้ SVG โดยอัตโนมัติสำหรับการทำงานร่วมกับทีม.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

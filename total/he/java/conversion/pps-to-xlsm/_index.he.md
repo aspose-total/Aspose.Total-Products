@@ -102,7 +102,33 @@ otherformats: XLTM MARKDOWN FODS CSV XLAM XLTX XLS MHTML DIF XLSX EXCEL XLSB TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-XLSM (Macro-Enabled Workbook) מאפשרת אוטומציה מתקדמת וניתוח דינמי. זה אידיאלי עבור משתמשים שרוצים להטביע מאקרוס ותסריטי VBA לנתונים אינטראקטיביים המגיעים מתוך תוכן המצגת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת לוחות בקרה המופעלים על ידי מאקרוס מששקפי PPS.
+* המרת מצגות חוזרות לתבניות אקסל המתעדכנות באופן עצמאי.
+* פיתוח מעקבי KPI שמתעדכנים באמצעות מאקרוס VBA.
+* הטבעת חישובי סיכום אוטומטיים המובאים משקפי הפווינט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* שילוב בזרימות עבודה מאוטומטיות באקסל.
+* המרת שקפי PPS לתבניות XLSM לדיווחי פרויקט.
+* יצירת אקסל מבוסס מאקרו מתוך קבוצות נתונים של פווינט.
+* המרת שקפיות לגליון מאקרו לעדכוני עסקים חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

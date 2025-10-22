@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG fájlok átalakítása ODT formátumra (OpenDocument Text) lehetővé teszi vektorgrafikák beágyazását platformfüggetlen szöveges dokumentumokba. Az ODT biztosítja a vizuális hűséget, miközben kompatibilis marad a LibreOffice, OpenOffice és más irodai csomagokkal.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Műszaki kézikönyvek és projektjelentések SVG diagramokkal.
+* Tudományos dolgozatok beágyazott vektorgrafikákkal.
+* Marketing vagy üzleti dokumentáció skálázható SVG vizuális elemekkel.
+* Platformfüggetlen kézikönyvek és útmutatók formázási problémák nélküli terjesztése.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált tételszerű SVG-ODT konverzió ismétlődő dokumentációhoz.
+* Ütemezett sablonfrissítések új SVG vizuális elemekkel.
+* Integráció tartalomkezelő rendszerekkel többplatformos terjesztéshez.
+* Kiváltott generálás oktató vagy képzési anyagokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

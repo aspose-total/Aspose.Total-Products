@@ -130,7 +130,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke RTF (Rich Text Format) memungkinkan penyisipan diagram vektor dalam dokumen teks yang didukung secara universal. RTF mempertahankan format di berbagai prosesor kata dan sistem operasi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menyisipkan visual SVG dalam laporan atau manual lintas platform.
+* Dokumen teknis atau pendidikan yang terstandarisasi dengan grafik vektor.
+* Template proyek portabel yang menggabungkan diagram SVG.
+* Makalah akademis atau presentasi yang membutuhkan format teks yang kompatibel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch otomatis dari SVG ke RTF untuk distribusi dokumen.
+* Pembaruan terjadwal untuk manual teknis dengan visual SVG baru.
+* Integrasi dengan sistem manajemen konten untuk akses lintas platform.
+* Generasi dokumen RTF yang dipicu untuk alur kerja offline atau portabel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ Saat mengonversi file PPT ke SXC, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPT (PowerPoint) ke SXC (StarOffice Calc Spreadsheet) memungkinkan organisasi yang menggunakan sistem warisan atau open-source untuk memanfaatkan data presentasi untuk analisis mendalam. Konversi ini menghubungkan kesenjangan antara ringkasan visual dan data spreadsheet yang dapat diedit, meningkatkan kolaborasi di berbagai lingkungan kantor.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengubah presentasi bisnis menjadi spreadsheet yang kompatibel dengan OpenOffice.
+* Menggunakan kembali tabel dan grafik PowerPoint dalam model keuangan berbasis SXC.
+* Mendukung pengguna pemerintah atau perusahaan yang mengandalkan OpenOffice atau LibreOffice.
+* Migrasi data PPT perusahaan yang diarsipkan ke format spreadsheet terbuka.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch PPT ke SXC untuk sistem arsip perusahaan.
+* Integrasi dalam alur kerja digitalisasi dokumen.
+* Konversi otomatis untuk lingkungan pelaporan open-source hibrid.
+* Ekspor terjadwal pembaruan PPT ke alat spreadsheet kolaboratif.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

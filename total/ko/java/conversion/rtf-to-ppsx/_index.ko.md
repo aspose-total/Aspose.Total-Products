@@ -54,7 +54,31 @@ API를 사용하면 암호로 보호된 RTF 문서를 PPSX로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF를 PPSX(PowerPoint Show Open XML)로 변환하면 문서 기반 정보를 시각적으로 매력적인 프레젠테이션으로 표시하는 현대적인 방법을 제공합니다. PPSX 파일은 슬라이드쇼 모드에서 직접 열리므로 최종 표시나 공유에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* RTF 기반 회사 업데이트를 프레젠테이션용 슬라이드쇼로 변환합니다.
+* 구조화된 텍스트 파일에서 최종 제품 프레젠테이션 생성합니다.
+* 이벤트나 회의 슬라이드를 RTF 소스에서 직접 준비합니다.
+* RTF 콘텐츠를 읽기 전용 PowerPoint 덱으로 공유합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 자동화된 프레젠테이션 게시 파이프라인에서 RTF를 PPSX로 변환합니다.
+* Office 365 프레젠테이션 워크플로우와 통합합니다.
+* 표준화된 RTF 보고서에서 PPSX 슬라이드를 일괄 생성합니다.
+* 슬라이드쇼용 기업 요약을 예약하여 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

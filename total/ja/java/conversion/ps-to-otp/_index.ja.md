@@ -59,7 +59,31 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをOTP（OpenDocument Presentation Template）に変換することで、組織はPSスライドや図表から再利用可能なプレゼンテーションテンプレートを作成できます。OTPはデザインの一貫性を確保しつつ、チームが迅速に新しいプレゼンテーションを生成できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* PSスライドデッキを再利用可能なプレゼンテーションテンプレートに変換する。
+* 企業や教育用プレゼンテーションの視覚スタイルを標準化する。
+* PSレポートからテンプレートベースのトレーニングモジュールを作成する。
+* 将来の利用のためにODPテンプレートとしてPSベースのマーケティングビジュアルを準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* プレゼンテーションテンプレートライブラリの自動化されたPSからOTPへの変換。
+* 再利用可能なデザイン資産のコンテンツ管理システムへの統合。
+* アーカイブされたPSスライドデッキからの一括テンプレート生成。
+* PSファイルからのテンプレート作成のためのAI支援デザイン最適化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

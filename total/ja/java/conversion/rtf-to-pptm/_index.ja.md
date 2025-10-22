@@ -54,7 +54,31 @@ APIを使用すると、パスワードで保護されたRTFドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTFファイルをPPTM（PowerPoint Macro-Enabled Presentation）に変換すると、構造化されたドキュメントコンテンツがインタラクティブなマクロと統合されます。自動スライド生成、データの相互作用、プロフェッショナルな使用のためのマルチメディア統合をサポートしています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* RTFビジネスレポートからインタラクティブなプレゼンテーションを作成する。
+* 埋め込みマクロを使用してプレゼンテーションの更新を自動化する。
+* ユーザーの入力に反応するスマートなトレーニング資料を作成する。
+* RTFドキュメントを動的でデータリンクされたスライドに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* マクロ駆動型プレゼンテーションワークフローのためのRTFからPPTMへの変換。
+* ビジネスインテリジェンスビジュアルのための自動化プラットフォームとの統合。
+* マクロを有効にしたPowerPointデッキの定期的な作成。
+* RTFソースからのインタラクティブな企業ブリーフィングの自動生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ Korzystając z API, możesz również wykonać konwersję pliku PPS do ODT ze zn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPS (PowerPoint Slide Show) na ODT (OpenDocument Text) umożliwia specjalistom zamianę wizualnej treści slajdów na edytowalne dokumenty tekstowe. Ten proces jest idealny do przekształcania prezentacji w formalne raporty, podręczniki szkoleniowe i dokumentację pisemną dostępną w programie LibreOffice Writer lub OpenOffice Writer.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Konwertowanie prezentacji firmowych na sformatowane raporty projektowe.
+* Generowanie protokołów zebrań lub dokumentów polityki na podstawie slajdów wizualnych.
+* Zamiana prezentacji wykładowych na szczegółowe notatki lub skrypty nauki.
+* Tworzenie edytowalnych archiwów treści z finalnych pokazów slajdów w programie PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne generowanie raportów na podstawie wewnętrznych slajdów prezentacji.
+* Integracja z systemami zarządzania dokumentami do archiwizacji opartej na formacie ODT.
+* Konwertowanie prezentacji marketingowych na treści tekstowe do wewnętrznego publikowania.
+* Masowa konwersja prezentacji szkoleniowych na edytowalne podręczniki do dokumentacji HR.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

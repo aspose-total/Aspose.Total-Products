@@ -61,7 +61,31 @@ otherformats: XLTX XLAM XLSM XLT FODS XLSB XLS DIF XLSX TSV XLTM ODS SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง RTF เป็น XLT (Excel Template) ช่วยให้ข้อมูลเอกสารที่มีการจัดรูปแบบสามารถกลายเป็นเทมเพลตสเปรดชีทที่ใช้ซ้ำได้ สิ่งนี้มีประโยชน์มากโดยเฉพาะสำหรับองค์กรที่มีมาตรฐานเลียนเสมอเกี่ยวกับเค้าโครงรายงานหรือการอัตโนมัติสร้างเอกสาร
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงแบบฟอร์มธุรกิจ RTF เป็นเทมเพลตรายงาน Excel
+* การออกแบบโครงสร้างรายงานของบริษัทตามเลย์เอาท์ RTF
+* การสร้างเทมเพลตสำหรับป้อนข้อมูลจากตารางที่มีพื้นฐานจาก RTF
+* การแปลงรายการตรวจสอบ RTF เป็นเครื่องมือสำหรับเพิ่มประสิทธิภาพใน Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างเทมเพลต RTF-to-XLT อัตโนมัติสำหรับมาตรฐานรายงาน
+* การรวมระบบ Excel add-in สำหรับฟอร์มธุรกิจที่ใช้ซ้ำได้
+* การแปลงตารางงานเอกสารขององค์กรอย่างต่อเนื่อง
+* การประมวลผลเป็นชุดของรายงาน RTF เป็นไลบรารีเทมเพลต Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

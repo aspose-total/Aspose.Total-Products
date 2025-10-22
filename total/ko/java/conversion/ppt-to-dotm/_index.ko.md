@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 DOTM로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT(PowerPoint) 파일을 DOTM(매크로 활성화 워드 템플릿) 형식으로 변환하면 PowerPoint 시각 자료와 Word 자동화 기능이 통합됩니다. DOTM 템플릿은 보고서 작성, 내용 채우기, 데이터 삽입과 같은 반복적 작업을 자동화하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 프레젠테이션에서 매크로 활성화 워드 템플릿 작성.
+* 내장된 매크로를 사용하여 반복적 보고서 구조 자동화.
+* 반복되는 기업 문서 작성을 위한 브랜드화된 스마트 템플릿 생성.
+* 프레젠테이션 레이아웃을 기반으로 한 보고서 작성 스트림라인화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 스마트 문서 템플릿을 위한 자동화된 PPT-to-DOTM 변환.
+* VBA 논리를 활용한 기업 자동화 시스템 통합.
+* 문서 팀을 위한 매크로 활성화 템플릿의 예약 생성.
+* 규정 준수를 위한 템플릿 관리를 위한 일괄 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

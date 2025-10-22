@@ -129,7 +129,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG (Ölçeklenebilir Vektör Grafikler) dosyalarını DOCM (Word Makro Etkin Belge) formatına dönüştürmek, Word belgelerine etkileşimli vektör diyagramlar eklemeyi ve otomasyon için makroları desteklemeyi sağlar. DOCM, dinamik raporlar, şablonlar ve eğitim materyalleri için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* SVG diyagramları ve makro etkin gezinme içeren etkileşimli eğitim kılavuzları.
+* Animasyonlu veya etkileşimli vektör grafikler içeren iş raporları.
+* Makro destekli dinamik SVG görseller kullanan akademik araştırma makaleleri.
+* Proje teklifleri veya kurumsal iş akışları için standartlaştırılmış şablonlar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Kurumsal raporlama için SVG diyagramlarının otomatik toplu dönüşümü.
+* SVG görsellerinden makro etkin şablonların zamanlanmış oluşturulması.
+* Etkileşimli raporlama için belge yönetim sistemleriyle entegrasyon.
+* Dinamik eğitim içeriği için tetiklenmiş SVG'den DOCM'e dönüşüm.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

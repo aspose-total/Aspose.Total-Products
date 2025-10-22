@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 DOTM로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 DOTM (매크로 활성화 워드 템플릿)으로 변환하면 동적이고 스크립트로 제어되는 문서 템플릿을 만들 수 있습니다. 기업은 DOTM을 사용하여 프레젠테이션 데이터를 기반으로 문서 생성 및 보고를 자동화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PPS 프레젠테이션에서 매크로 기반 워드 템플릿 설계.
+* VBA를 사용하여 반복되는 비즈니스 양식 자동화.
+* 규정 준수 및 품질 보고서용 재사용 가능한 템플릿 생성.
+* PowerPoint 덱에서 유도된 지능적인 문서 워크플로 생성.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업용 자동 생성 DOTM 템플릿 자동 생성.
+* 문서 생성을 위한 자동화 프레임워크 통합.
+* 최신 프레젠테이션에서 예약된 템플릿 업데이트.
+* 여러 PPS 파일을 매크로 활성화된 템플릿으로 일괄 변환.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPTX ke DOTM dengan tan
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi PPTX ke DOTM (Template Word yang Diaktifkan Makro) memungkinkan pengguna membuat template yang dapat digunakan kembali yang mencakup fitur otomatisasi. Ini sempurna untuk menghasilkan dokumen interaktif yang didorong oleh makro dari konten presentasi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mendesain template yang diaktifkan makro dari slide presentasi.
+* Mengotomatisasi tugas-tugas penghasilan laporan yang berulang.
+* Membuat template perusahaan dinamis yang terstandar.
+* Menanamkan makro data ke dalam dokumen yang berasal dari PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi kelompok slide PPTX ke template DOTM.
+* Integrasi dengan sistem otomatisasi dokumen.
+* Generasi terjadwal template makro untuk laporan periodik.
+* Pemetaan makro dari PowerPoint ke Word untuk efisiensi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ Ao converter o arquivo PPS para XLT, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPS (PowerPoint Slide Show) para XLT (Excel Template) ajuda as empresas a criar modelos de planilha reutilizáveis a partir de dados de apresentações. Esses modelos garantem consistência em relatórios, formatação e análises.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Construir modelos de orçamento padrão a partir de apresentações financeiras.
+* Projetar modelos de relatório a partir de apresentações executivas.
+* Gerar modelos reutilizáveis de previsão de vendas.
+* Criar layouts padronizados de análise a partir de visuais de slides.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Criação automática de modelos XLT a partir de relatórios recorrentes do PowerPoint.
+* Integração em sistemas de gerenciamento de modelos empresariais.
+* Conversão agendada de slide para modelo para consistência departamental.
+* Geração em massa de modelos de Excel personalizados a partir de decks de slides aprovados.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

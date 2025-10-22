@@ -47,7 +47,31 @@ Konwertując plik PS na XLT, możesz także dodać znak wodny do wyjściowego fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PS (PostScript) na XLT (Excel Template) pozwala organizacjom tworzyć wielokrotnie używane formaty arkuszy kalkulacyjnych z statycznych układów PostScript. Zapewnia to spójny styl i strukturę w powtarzających się raportach, fakturach i sprawozdaniach finansowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Generowanie szablonów Excel z projektów raportów opartych na PS.
+* Tworzenie wielokrotnie używanych formularzy biznesowych i arkuszy danych.
+* Utrzymywanie spójnych układów marki w dostarczanych plikach Excel.
+* Tworzenie standardowych szablonów firmy z zarchiwizowanych plików PS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja PS na XLT dla standardowych szablonów raportowania.
+* Integracja w systemach zarządzania treścią dla wielokrotnie używanych zasobów projektowych.
+* Tworzenie wsadowe szablonów dla wielu działów lub oddziałów.
+* Dynamiczne generowanie XLT dla przepływów dokumentacji przedsiębiorstwa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

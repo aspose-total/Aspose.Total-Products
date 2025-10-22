@@ -121,7 +121,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke OTP (OpenDocument Presentation Template) memungkinkan pembuatan template slide yang dapat digunakan kembali dengan diagram vektor. OTP ideal untuk standarisasi presentasi di seluruh tim dan proyek.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Template presentasi perusahaan menggunakan dasbor SVG dan ilustrasi.
+* Template slide pendidikan dengan grafik vektor tersemat.
+* Template pemasaran yang dapat digunakan kembali menampilkan data produk.
+* Template presentasi akademis atau konferensi untuk visual yang dapat diskalakan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi batch otomatis dari template SVG-to-OTP untuk dek slide yang konsisten.
+* Pembaruan terjadwal untuk pelatihan atau presentasi perusahaan.
+* Integrasi dengan otomatisasi alur kerja untuk distribusi template di seluruh tim.
+* Pembuatan template slide interaktif dari data SVG langsung yang dipicu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

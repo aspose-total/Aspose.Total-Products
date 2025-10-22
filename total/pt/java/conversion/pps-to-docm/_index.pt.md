@@ -53,7 +53,31 @@ Usando a API, você também pode realizar a conversão de arquivo PPS para DOCM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPS (PowerPoint Slide Show) para DOCM (Documento do Word Habilitado para Macro) permite a criação de documentos de texto automatizados e interativos. Essa conversão é perfeita para equipes que precisam de conteúdo dinâmico, como relatórios preenchidos automaticamente ou documentos com scripts incorporados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Criar modelos habilitados para macro a partir de conteúdo de apresentações.
+* Automatizar a geração de relatórios de resumo usando scripts VBA incorporados.
+* Construir documentos comerciais dinâmicos com dados condicionais.
+* Projetar relatórios de conformidade baseados em DOCM a partir de apresentações PPS.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Criação agendada de DOCM a partir de apresentações do PowerPoint.
+* Integração com fluxos de trabalho do Word baseados em VBA para automação de documentos.
+* Conversão em lote para departamentos que utilizam modelos habilitados para macro.
+* Conversão automatizada em pipelines de geração de documentos.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

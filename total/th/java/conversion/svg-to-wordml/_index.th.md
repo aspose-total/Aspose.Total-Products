@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น WORDML (WordprocessingML) จะสร้างเอกสาร Word ที่ใช้ XML และมีแผนภาพเวกเตอร์ซึ่งฝังอยู่อย่างเต็มรูปแบบ  WORDML เหมาะสำหรับการประมวลผลเอกสารโปรแกรมเมอร์ตามแบบแผน การใช้เทมเพลต และการทำงานอัตโนมัติ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้างรายงาน Word โดยอัตโนมัติพร้อมภาพประกอบ SVG ที่ฝังอยู่
+* เทมเพลตสำหรับงานวิจัยและการศึกษาในรูปแบบ XML เพื่อการแก้ไขโดยอัตโนมัติ
+* เอกสารโครงการมาตรฐานสำหรับการทำงานอัตโนมัติที่ควบคุมเวอร์ชัน
+* เก็บถาวรเนื้อหา SVG แบบอินเทอร์แอคทีฟในรูปแบบ XML โครงสร้าง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* แปลง SVG เป็น WORDML แบบกลุ่มอัตโนมัติสำหรับระบบรายงาน
+* ส่งออกเทมเพลตที่ใช้ SVG ไปยัง XML อัตโนมัติตามกำหนดเวลาสำหรับการทำงานอัตโนมัติ
+* ผสานกับ API สร้างเอกสารและระบบจัดการเนื้อหา
+* สร้างเอกสาร Word ที่มีการควบคุมโดยโปรแกรมอย่างไดนามิก
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPT (PowerPoint) en format TEXTE (.txt) extrait tout le contenu textuel dans une version légère et en texte brut pour une utilisation dans le traitement des données, l'archivage ou la localisation. C'est idéal pour les développeurs, les traducteurs et les analystes travaillant avec l'extraction de contenu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Extraction du texte des diapositives pour la traduction ou le traitement NLP.
+* Création de fichiers texte consultables à partir du contenu PowerPoint.
+* Génération de versions en texte brut pour l'archivage ou l'indexation.
+* Simplification de la réutilisation du contenu pour le référencement ou la documentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion automatisée de PPT en TEXTE pour des flux de travail d'IA ou de text mining.
+* Intégration avec les pipelines de localisation pour le traitement multilingue.
+* Extraction en lot pour l'analyse de contenu et l'étiquetage de données.
+* Exportations de texte planifiées pour la gestion de documents d'entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,31 @@ Korzystając z API, możesz również wykonać konwersję pliku PPT do ODT ze zn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie prezentacji PPT (PowerPoint) do formatu ODT (OpenDocument Text) pozwala na wyodrębnienie treści slajdów do edytowalnych dokumentów tekstowych. Jest to szczególnie przydatne do generowania raportów, materiałów edukacyjnych lub dokumentacji opartej na tekście z istniejących slajdów prezentacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Zamiana prezentacji PowerPoint na dokumenty tekstowe do szczegółowego raportowania.
+* Ponowne wykorzystanie treści slajdów w edytorach tekstu typu LibreOffice Writer.
+* Tworzenie edytowalnej dokumentacji na podstawie podsumowań projektów opartych na slajdach.
+* Generowanie podręczników szkoleniowych i materiałów informacyjnych z plików PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne konwersje PowerPoint do ODT w systemach publikacji akademickiej.
+* Integracja z procesami generowania dokumentów dla użytkowników oprogramowania open-source.
+* Zaplanowany eksport slajdów do ODT w celu spełnienia wymogów i archiwizacji.
+* Konwersja prezentacji marketingowych na edytowalne szablony treści.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

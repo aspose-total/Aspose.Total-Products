@@ -102,7 +102,31 @@ otherformats: DIF XLS MARKDOWN SXC XLTX XLSB XLSX TSV XLAM EXCEL ODS XLSM FODS C
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPT (PowerPoint) ל-XLTM (תבנית Excel המאפשרת שימוש במקרו) מאפשרת לארגונים לעצב תבניות גיליון אלקטרוני חכמות וניתנות לשימוש ממצגות. תבניות XLTM מאפשרות אוטומציה של משימות חוזרות ושיפור עקביות בדיוחים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת דוחות PowerPoint לתבניות Excel המאפשרות שימוש במקרו.
+* בניית תבניות גיליון אלקטרוני חכמות לניתוחים אוטומטיים.
+* תקנון תבניות כלכליות חוזרות.
+* יצירת תבניות Excel המשקפות את פריסת ה-PowerPoint והלוגיקה שלה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרה אוטומטית של שקופיות ל-XLTM לתבניות דוחות המופעלות במקרו.
+* שילוב בזריז בעיבוד נתונים אוטומטי וניתוחים.
+* יצירה מתוזמנת של גיליונות אלקטרוניים חוזרים ומאופשרי מקרו.
+* עיבוד בצורת צפיפות עבור תקנון תבניות בגודל גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,31 @@ Saat mengonversi file SVG ke ODS, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG ke ODS (OpenDocument Spreadsheet) memungkinkan penyisipan grafik berbasis vektor ke dalam spreadsheet standar terbuka. ODS ideal untuk analisis data lintas platform, pelaporan, dan dashboard interaktif.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menyisipkan dashboard keuangan SVG ke dalam spreadsheet ODS untuk analisis.
+* Berbagi data riset atau rekayasa dengan visual vektor dalam format terbuka.
+* Data akademik dan proyek diekspor sebagai spreadsheet yang dapat diedit, platform-independen.
+* Dashboard pelacakan proyek distandarisasi dalam format ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi SVG ke ODS otomatis untuk pipa pelaporan.
+* Ekspor terjadwal data riset atau operasional dengan diagram tersemat.
+* Integrasi dengan paket aplikasi open-source yang memerlukan kompatibilitas spreadsheet.
+* Generasi dipicu dari dashboard berbasis SVG untuk kolaborasi tim.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

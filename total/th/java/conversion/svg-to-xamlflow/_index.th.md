@@ -143,7 +143,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ SVG เป็น XAMLFLOW ช่วยให้สามารถนำกราฟิกเวกเตอร์เข้าไปในแอปพลิเคชันที่ใช้ Flow ได้ โดยรองรับการทำงานของ UI ที่เชื่อมต่อกัน  XAMLFLOW เหมาะสำหรับการสร้างโปรโตไทป์อย่างรวดเร็วและการออกแบบอินเตอร์เฟซที่เปลี่ยนไปได้
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+* การนำเข้าไดอะแกรม SVG เข้าไปในแดชบอร์ดที่ใช้ Flow เพื่อแอปพลิเคชันที่สามารถทำงานแบบแอคทีฟ
+* การสร้างโปรโตไทป์ของอินเตอเฟซองค์ราชั่นขององค์กรด้วยกราฟิกเวกเตอร์ที่สามารถปรับขนาดได้
+* อินเตอเฟซทางการศึกษาหรือการวิจัยโดยใช้กราฟิกเวกเตอร์ SVG ที่สามารถทำงานแบบแอคทีฟ
+* แดชบอร์ดของการอัตโนมัติของกราฟิกเวกเตอร์ SVG ที่ฝังอยู่
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง SVG เป็น XAMLFLOW โดยอัตโนมัติสำหรับการพัฒนา UI แบบวนรอบ
+* การอัปเดตสมาชิกแอปพลิเคชันตามกำหนดเวลาด้วยกราฟิกเวกเตอร์ใหม่
+* การรวมกับท่อพัฒนาสำหรับการแสดงผลอินเตอเฟซแบบเรียลไทม์
+* การสร้างองค์ประกอบ UI ที่เปลี่ยนไปได้โดยใช้เวกเตอร์เนื้อหาสำหรับแอปพลิเคชัน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

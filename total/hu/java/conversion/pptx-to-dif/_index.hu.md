@@ -61,7 +61,31 @@ A PPTX fájl DIF formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX (PowerPoint Presentation) fájlok átalakítása DIF (Data Interchange Format) formátummá segít vállalkozásoknak és kutatóknak átadni a strukturált prezentációs adatokat táblázatbarát környezetekbe. Ez a folyamat értékes, amikor táblázatos diaadatokat alakítanak át olyan formátumba, ami alkalmas statisztikai elemzésre vagy automatizálási szkriptekre.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Numerikus adatok kinyerése PowerPoint táblázatokból elemzői irányítópultokhoz.
+* Prezentációs mutatók átalakítása DIF formátummá táblázatmodellezéshez.
+* Diatestadatok előkészítése ERP vagy CRM adatbázisbevitelhez.
+* Strukturált PPTX tartalom átvitele nyílt adatrendszerekbe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ütemezett tételkonverzió pénzügyi teljesítménybemutatókhoz.
+* Automatizált DIF export vállalati intelligenciaeszközök számára.
+* ETL csővezetékek, amelyek havi értékesítési csomagokat alakítanak át DIF adatkészletekké.
+* Integráció felhőanalitikai platformokkal az állandó adatbevitel érdekében.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

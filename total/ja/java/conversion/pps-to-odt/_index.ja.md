@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPSファイルからODTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをODT（OpenDocument Text）に変換することで、プロフェッショナルは視覚的なスライドコンテンツを編集可能なテキスト文書に変換できます。このプロセスは、プレゼンテーションをフォーマルなレポート、トレーニングマニュアル、LibreOffice WriterやOpenOffice Writerでアクセス可能な書面に変換するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 企業プレゼンテーションをフォーマットされたプロジェクトレポートに変換する。
+* 視覚的なスライドから会議議事録や方針文書を生成する。
+* クラスのスライドデッキを詳細な講義ノートや学習ガイドに変換する。
+* 最終的なPowerPointスライドショーから編集可能なコンテンツアーカイブを作成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 社内プレゼンテーションスライドからの自動レポート生成。
+* ODTベースのアーカイブ用の文書管理システムへの統合。
+* マーケティングプレゼンテーションを内部公開用のテキストベースコンテンツに変換する。
+* トレーニングスライドショーの一括変換によるHR文書用の編集可能マニュアルの作成。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

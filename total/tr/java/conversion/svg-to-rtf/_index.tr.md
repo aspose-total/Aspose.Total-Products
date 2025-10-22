@@ -129,7 +129,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi RTF'ye (Zengin Metin Formatı) dönüştürmek, vektör diyagramlarını evrensel olarak desteklenen metin belgelerine gömmeyi sağlar. RTF, farklı Kelime işlemciler ve işletim sistemleri arasında biçimlendirmeyi korur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Çapraz platform raporları veya kılavuzlarına SVG görseller gömmek.
+* Vektör grafiklerle standartlaştırılmış teknik veya eğitim belgeleri.
+* SVG diyagramlarını içeren taşınabilir proje şablonları.
+* Uyumlu metin formatlarını gerektiren akademik makaleler veya sunumlar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* SVG'yi RTF'ye otomatik toplu dönüştürme belge dağıtımı için.
+* Yeni SVG görsellerle teknik kılavuzların zamanlanmış güncellemeleri.
+* Çoklu platform erişimi için içerik yönetim sistemleriyle entegrasyon.
+* Çevrimdışı veya taşınabilir iş akışları için tetiklenen RTF belgelerinin oluşturulması.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

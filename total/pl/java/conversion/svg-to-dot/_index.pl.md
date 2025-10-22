@@ -129,7 +129,31 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie SVG na DOT (szablon Word 97-2003) umożliwia tworzenie wielokrotnie używanych szablonów dokumentów z wbudowanymi diagramami wektorowymi kompatybilnymi z starszymi wersjami Worda. DOT zapewnia spójne formatowanie wśród systemów dziedzictwa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Zastosowania kluczowe" %}}
+
+* Standaryzowane szablony raportów z diagramami SVG do starszych dokumentów Word.
+* Szablony propozycji projektów zawierające wizualne pulpity.
+* Wielokrotnie używane szablony akademickie lub instruktażowe z wykorzystaniem wizualizacji SVG.
+* Szablony dokumentów historycznych dla procesów biznesowych lub inżynieryjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna generacja wsadowa szablonów SVG do DOT dla starszych procesów w Wordzie.
+* Zaplanowane aktualizacje szablonów z nowymi wizualizacjami SVG.
+* Integracja z systemami zarządzania dokumentami wymagającymi szablonów kompatybilnych wstecznie.
+* Wywoływana konwersja dla raportów cyklicznych i wielokrotnie używanych szablonów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

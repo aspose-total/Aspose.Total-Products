@@ -47,7 +47,25 @@ SVGファイルをXLTMに変換するときに、出力XLTMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+SVGをXLTM（Excel Macro-Enabled Template）に変換すると、ベクターグラフィックスとVBAマクロを組み合わせた再利用可能なテンプレートを作成できます。インタラクティブなレポート、ダッシュボード、ワークフローテンプレートに最適です。
+
+## Key Use Cases
+
+* SVGダイアグラムを埋め込んだマクロ有効なプロジェクト管理テンプレート。
+* 自動計算用のインタラクティブなマクロを備えた再利用可能な財務ダッシュボード。
+* VBAの強化機能を使用したSVGビジュアライゼーションを含む学術または研究レポートテンプレート。
+* 動的なベクターチャートとマクロを統合した運用ワークフローテンプレート。
+
+## Automation Scenarios
+
+* 定期的なマクロ有効なレポートテンプレートのSVGからXLTMへの自動変換。
+* 新しいSVGデータと埋め込まれたマクロを使用したテンプレートの定期的な更新。
+* インタラクティブなテンプレートが必要なワークフロー自動化プラットフォームへの統合。
+* インタラクティブなダッシュボードと運用レポートのためのトリガー変換パイプライン。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,31 @@ PPTXファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXをODS（OpenDocument Spreadsheet）に変換することで、プレゼンテーションデータをスプレッドシート分析と結びつけます。この変換は、オープンソースの生産性スイートに移行する組織にとって、重要な表形式のコンテンツを保持しながら利益をもたらします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* プレゼンテーションから財務サマリーをODS形式に抽出する。
+* データ駆動型スライドをOpenOfficeやLibreOfficeユーザーと共有する。
+* アナリストがスライドテーブルをスプレッドシートソフトウェア内で編集できるようにする。
+* プレゼンテーションレポートのオープンデータバージョンを準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 文書ワークフローでの定期的なPPTXからODSへの変換。
+* オープンソースオフィスエコシステムへの統合。
+* 政府データ提出のための自動変換。
+* 数値スライドデータのETL準備抽出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

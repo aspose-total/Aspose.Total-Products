@@ -47,7 +47,31 @@ SVG 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 TSV(탭으로 구분된 값)로 변환하면 벡터 다이어그램을 스프레드시트, 통계 분석 및 대규모 데이터 집합에 최적화된 형식으로 내보낼 수 있습니다. TSV는 데이터가 구조화되어 있고 쉽게 구문 분석될 수 있도록 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 통계 분석을 위해 대화형 SVG 차트를 TSV로 변환하는 것.
+* 협업 스프레드시트 편집을 위해 공학 다이어그램 내보내기.
+* 연구 팀을 위해 TSV 형식의 SVG 기반 교육용 그래프 공유.
+* 제품 성능 시각화를 구조화된 표 형식 데이터로 변환하는 것.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 분석 플랫폼을 위해 SVG 차트를 TSV로 변환하는 자동화된 파이프라인.
+* 보고 대시보드를 위해 벡터 다이어그램을 예약된 TSV로 내보내기.
+* TSV 입력을 필요로 하는 통계 소프트웨어와 통합.
+* 동적으로 업데이트되는 벡터 기반 시각화를 위한 트리거 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

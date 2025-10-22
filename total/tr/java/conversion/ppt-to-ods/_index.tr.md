@@ -61,7 +61,31 @@ PPT dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize de fil
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) sunumlarını ODS (OpenDocument Spreadsheet) formatına dönüştürmek, görsel slayt verilerini yapılandırılmış elektronik tablo formuna dönüştürür. Açık kaynak ofis paketlerini kullanan ve sunumlardan sayısal veya tablo verilerini analiz ve raporlama için çıkarması gereken kurumlar için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Slayt tablolarını düzenlenebilir ODS elektronik tablolarına aktarma, LibreOffice Calc için.
+* İş metriklerini PowerPoint panolarından elektronik tablo verilerine dönüştürme.
+* Finansal ve analitik slaytları açık ODS formatında arşivleme.
+* Açık standart elektronik tablo ortamlarında işbirliği yapma imkanı sağlama.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Hükümet veya STK raporlama için otomatik PPT-ODS dönüşümü.
+* Açık kaynak analiz boru hatlarıyla entegrasyon.
+* Denetim için sunumların belirli zaman aralıklarında elektronik tablolara dönüştürülmesi.
+* ODS tabanlı şablonlar kullanarak departmanlar arası rapor paylaşımı.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

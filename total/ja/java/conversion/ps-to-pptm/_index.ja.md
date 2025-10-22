@@ -59,7 +59,31 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをPPTM（PowerPoint Macro-Enabled Presentation）に変換すると、埋め込みマクロを使用したインタラクティブなスライドが作成できます。PPTMは、PostScriptのビジュアルを保持しながら、自動化、動的更新、インタラクティブな動作を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PSで生成された図を使用してマクロを有効にしたプレゼンテーションを作成する。
+* スライドの更新とデータ駆動型の可視化を自動化する。
+* PSチャートをインタラクティブな企業プレゼンテーションに埋め込む。
+* 動的な動作を持つトレーニングやクライアント向けプレゼンテーションを準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業の自動化のためのバッチPSからPPTMへの変換。
+* PSアーカイブからマクロを有効にしたプレゼンテーションの定期的な生成。
+* インタラクティブなスライド機能のためのAI支援マクロ埋め込み。
+* 企業プレゼンテーションパイプラインへの統合による自動更新。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTファイルからDOCMへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）ファイルをDOC（マクロ有効なWordドキュメント）に変換すると、プレゼンテーションから派生したドキュメントに自動化機能が導入されます。この変換は、インタラクティブでマクロ駆動のレポートやデータリンクの要約が必要な組織に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PowerPointのビジネスプレゼンテーションからマクロ有効なドキュメントを作成する。
+* Wordレポート内に自動計算やスクリプトを埋め込む。
+* マクロを使用して繰り返しレポートを生成する。
+* プレゼンテーションを知的でアクション可能なドキュメントに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* マクロ駆動の企業レポートのための自動化されたPPTからDOCMへの変換。
+* VBA対応のドキュメントワークフローとの統合。
+* プレゼンテーションをインタラクティブなDOCMファイルに定期的にエクスポート。
+* 標準化されたマクロ有効なテンプレートのバッチ変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

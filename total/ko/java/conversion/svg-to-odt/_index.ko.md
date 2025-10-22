@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 ODT(OpenDocument Text)로 변환하면 벡터 그래픽을 크로스 플랫폼 텍스트 문서에 포함할 수 있습니다. ODT는 LibreOffice, OpenOffice 및 기타 스위트와 호환되면서 시각적 충실성을 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 다이어그램을 포함한 기술 매뉴얼 및 프로젝트 보고서.
+* 포함된 벡터 일러스트레이션을 사용하는 학술 논문.
+* 확장 가능한 SVG 비주얼을 사용하는 마케팅 또는 비즈니스 문서.
+* 서식 문제 없이 배포되는 크로스 플랫폼 매뉴얼 및 안내서.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 반복 문서에 대한 자동 일괄 SVG-to-ODT 변환.
+* 새로운 SVG 비주얼로 예약된 템플릿 업데이트.
+* 다중 플랫폼 배포를 위한 콘텐츠 관리 시스템 통합.
+* 교육 또는 훈련 자료를 위한 트리거 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

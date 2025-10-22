@@ -61,7 +61,31 @@ PPS 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 CSV (쉼표로 구분된 값)로 변환하면 사용자가 프레젠테이션 슬라이드에서 데이터를 추출하고 정리하여 가벼운 일반 텍스트 스프레드시트 형식으로 구성할 수 있습니다. 이 프로세스를 통해 데이터 분석이 간소화되고 CRM, ERP 및 비즈니스 인텔리전스 도구로의 통합이 용이해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 슬라이드에서 탭형식의 데이터를 CSV로 내보내어 분석에 활용.
+* 마케팅 또는 설문 프레젠테이션을 데이터 준비 파일로 변환.
+* 기계 학습 입력을 위한 교육 슬라이드 통계로 CSV 데이터 세트 준비.
+* 슬라이드의 요약 보고서를 구조화된 쉼표로 구분된 데이터로 변환.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 주간 프레젠테이션 요약 자동 내보내기를 CSV 데이터 세트로.
+* 데이터 웨어하우징 및 시각화 대시보드를 위한 ETL 파이프라인 통합.
+* 분기별 메트릭을 PPS 보고서에서 추출하기 위한 예약 변환.
+* 여러 PPS 파일의 일괄 처리로 통합된 CSV 분석 시트 생성.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

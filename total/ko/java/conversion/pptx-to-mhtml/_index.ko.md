@@ -61,7 +61,31 @@ PPTX 파일을 MHTML로 변환하는 동안 출력 MHTML 파일 형식에 워터
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 파일을 MHTML(웹 아카이브)로 변환하면 브라우저에서 전체 프레젠테이션에 오프라인, 단일 파일 액세스가 가능해집니다. PowerPoint나 외부 소프트웨어 없이 대화형 콘텐츠를 배포하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 프레젠테이션의 웹에서 볼 수 있는 버전 생성.
+* 이메일을 통해 자체 포함된 교육용 프레젠테이션 공유.
+* 오프라인 기업 교육을 위한 대화형 슬라이드 저장.
+* 인트라넷 페이지에 제품 데모 프레젠테이션 삽입.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* e러닝 저장소를 위한 일괄 PPTX-to-MHTML 변환.
+* 마케팅 덱을 MHTML 파일로 자동 게시.
+* 브라우저 기반 재생을 위해 회사 프레젠테이션 아카이빙.
+* 안전한 오프라인 액세스를 위한 문서 전달 시스템 통합.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

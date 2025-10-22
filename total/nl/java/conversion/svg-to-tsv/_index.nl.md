@@ -47,7 +47,31 @@ Tijdens het converteren van het SVG-bestand naar TSV, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG-bestanden naar TSV (Tab-gescheiden waarden) maakt het exporteren van vector diagrammen naar een formaat geoptimaliseerd voor spreadsheets, statistische analyse en grote datasets mogelijk. TSV zorgt ervoor dat gegevens gestructureerd blijven en gemakkelijk te parseren zijn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het transformeren van interactieve SVG-grafieken naar TSV voor statistische analyse.
+* Het exporteren van technische diagrammen voor gezamenlijke bewerking in spreadsheets.
+* Het delen van op SVG gebaseerde educatieve grafieken in een TSV-formaat voor onderzoeksteams.
+* Het omzetten van visuele productprestaties naar gestructureerde tabulaire gegevens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde pipelines die SVG-grafieken omzetten naar TSV voor analytische platforms.
+* Geplande TSV-export van vector diagrammen voor rapportagedashboards.
+* Integratie met statistische software die TSV-invoer vereist.
+* Getriggerde conversie voor dynamisch bijgewerkte op vector gebaseerde visuals.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

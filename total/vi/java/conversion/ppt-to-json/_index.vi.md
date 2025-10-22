@@ -49,7 +49,31 @@ Trong khi chuyển đổi PPT sang JSON, bạn cũng có thể đặt dải ô t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPT (PowerPoint) thành JSON (JavaScript Object Notation) biến đổi dữ liệu trình bày phức tạp thành các định dạng có cấu trúc, nhẹ và có thể đọc bằng máy. Định dạng này rất lý tưởng cho các nhà phát triển tích hợp siêu dữ liệu trình bày, slide hoặc hình ảnh vào các ứng dụng web và nền tảng AI.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Trích xuất siêu dữ liệu slide PowerPoint cho ứng dụng web hoặc di động.
+* Tích hợp dữ liệu trình bày vào bảng điều khiển hoặc hệ thống trực quan hóa dữ liệu.
+* Xây dựng API dựa trên JSON để hiển thị slide động.
+* Hỗ trợ các hệ thống AI hiểu nội dung PowerPoint theo ngữ cảnh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi thời gian thực từ PPT sang JSON để phân tích nội dung tự động.
+* Tích hợp với hệ thống CMS không đầu hoặc hệ thống lập chỉ mục tài liệu.
+* Xử lý hàng loạt cho các nền tảng phân tích yêu cầu dữ liệu trình bày có cấu trúc.
+* Tóm tắt và gắn thẻ nội dung PowerPoint bằng AI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

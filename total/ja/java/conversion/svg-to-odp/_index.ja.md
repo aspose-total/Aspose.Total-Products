@@ -121,7 +121,25 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+SVG（Scalable Vector Graphics）ファイルをODP（OpenDocument Presentation）に変換すると、ベクターダイアグラムをオープン標準のスライドデッキに埋め込むことができます。ODPは、現代のプレゼンテーションワークフローに対応するスケーラビリティとクロスプラットフォーム互換性をサポートしています。
+
+## GIF JPEG="Key Use Cases"
+
+* 企業プレゼンテーション用のSVGダイアグラムを使用したインタラクティブなスライドデッキの作成。
+* ベクターベースのイラストやチャートを使用した教育用スライド。
+* スケーラブルなグラフィックを使用した製品データを紹介するマーケティングプレゼンテーション。
+* 高品質なSVGビジュアルを使用した学術会議プレゼンテーション。
+
+## GIF JPEG="Automation Scenarios"
+
+* 定期的なプレゼンテーションの更新のためのバッチSVGからODPへの変換。
+* トレーニングや企業用デッキのためのスケジュールされたテンプレート生成。
+* 自動化されたワークフローのためのオープンソースプレゼンテーションプラットフォームとの統合。
+* 動的に生成されたスライドコンテンツのためのトリガー変換パイプライン。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

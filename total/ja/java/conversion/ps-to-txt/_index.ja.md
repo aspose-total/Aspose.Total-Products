@@ -47,7 +47,31 @@ PSファイルをTXTに変換するときに、出力TXTファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをTXT（プレーンテキスト）に変換すると、複雑なレイアウトからテキストコンテンツを抽出して、軽量で検索可能で編集可能な形式にします。TXT出力は、迅速なテキスト分析、スクリプティング、軽量なドキュメントの取り扱いに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* PSベースのレポートや図表から生のテキストを抽出する。
+* テキスト分析、NLP、または検索インデックス用のコンテンツの準備。
+* PostScriptフォームやレポートを軽量なテキストファイルに変換する。
+* テキストベースの自動化およびスクリプティングワークフローを可能にする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* インデックス作成やデータ処理のためのバッチPSからTXTへの変換。
+* AIテキスト分析パイプラインへの統合。
+* レポートおよびアーカイブシステムのための自動抽出。
+* スケーラブルなテキストアクセシビリティのためのクラウドベースの変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

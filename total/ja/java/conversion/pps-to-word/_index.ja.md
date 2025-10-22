@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPSファイルからWORDへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをWord形式に変換することで、ユーザーは視覚的なプレゼンテーションを包括的なWord文書に変換することができます。このプロセスは、レポート、文書作成、共同編集のためのコンテンツ再利用をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* プレゼンテーションスライドから公式のビジネスレポートを作成する。
+* ピッチデッキを共有可能なWordベースの提案に変換する。
+* プロジェクトのアップデートプレゼンテーションから文書を生成する。
+* クライアントとのコミュニケーション用に編集可能なWordファイルを作成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 社内報告システム向けのスライドからWordへの自動変換。
+* コンテンツ公開ワークフローへの統合。
+* プロジェクトや営業プレゼンテーション用のスケジュールされたWordエクスポート。
+* 複数のPPSファイルを編集可能なドキュメントに一括処理する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

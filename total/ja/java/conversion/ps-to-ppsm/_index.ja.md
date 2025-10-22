@@ -59,7 +59,31 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをPPSM（PowerPoint Macro-Enabled Show）に変換すると、インタラクティブで自動化されたプレゼンテーションが可能になります。PPSMは、スライドに埋め込まれたマクロを保持し、データの更新やインタラクティブなチャートなどの動的な動作を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PSダイアグラムからインタラクティブでマクロを有効にしたプレゼンテーションを作成する。
+* クライアントやトレーニングプレゼンテーションでデータ駆動型のスライド更新を自動化する。
+* PostScriptのチャートやダイアグラムを動的なスライドショーに埋め込む。
+* 企業での使用に向けたインタラクティブなプレゼンテーションテンプレートの標準化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業の自動化ワークフロー向けのバッチPSからPPSMへの変換。
+* 動的なスライド更新のための分析とレポートプラットフォームとの統合。
+* PSレポートをマクロを有効にしたショーに定期的に変換。
+* インタラクティブなスライド動作のためのAI支援マクロ埋め込み。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

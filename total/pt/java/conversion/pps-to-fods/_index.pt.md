@@ -61,7 +61,31 @@ Ao converter o arquivo PPS para FODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPS (PowerPoint Slide Show) para FODS (Planilha ODF XML Plana) transforma o conteúdo da apresentação em formatos XML compatíveis com planilhas. É especialmente valioso para usuários de código aberto que trabalham com ecossistemas do LibreOffice ou Apache OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Exportar dados numéricos do PowerPoint para planilhas FODS.
+* Criar planilhas XML estruturadas para uso educacional ou empresarial.
+* Transformar gráficos de slides em dados editáveis de planilha OpenDocument.
+* Preparar arquivos de padrão aberto para análise e compartilhamento no LibreOffice Calc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração programada de FODS a partir de atualizações recorrentes de apresentações.
+* Integração em sistemas de relatórios de código aberto.
+* Conversão em lote de slide para FODS para painéis analíticos.
+* Criação automatizada de planilhas baseadas em XML para fluxos de trabalho multiplataforma.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

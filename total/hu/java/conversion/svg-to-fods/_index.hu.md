@@ -47,7 +47,31 @@ A SVG-fájl FODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti FODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG átalakítása FODS formátumra (Flat OpenDocument Spreadsheet) lehetővé teszi vektor diagramok beágyazását nyílt szabványú táblázatfájlokba. A FODS ideális a platformfüggetlen munkafolyamatokhoz és a táblázat automatizáláshoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* SVG diagramok beágyazása nyílt forráskódú táblázatsablonokba.
+* Kutatási vagy pénzügyi adatok megosztása vektorgrafikával FODS formátumban.
+* Akadémiai és mérnöki adatok exportálása szerkeszthető, platformfüggetlen táblázatokként.
+* Projekt irányítópultok szabványosítása nyílt dokumentumformátumban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált SVG-FODS konverzió jelentési csatornákhoz.
+* Ütemezett frissítések kutatási vagy operatív táblázatsablonokhoz.
+* Integráció olyan platformfüggetlen irodai csomagokkal, amelyek nyílt formátumokat igényelnek.
+* SVG alapú táblázatirányítópultok kiváltott generálása a csapatmunka érdekében.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

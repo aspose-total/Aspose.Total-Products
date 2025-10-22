@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPTX sang MARKDOWN, bạn cũng có thể thêm 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi PPTX sang Markdown biến các bài thuyết trình tĩnh thành văn bản nhẹ, sẵn sàng trên web. Markdown cung cấp sự đơn giản cho việc chia sẻ nội dung, cho phép dễ dàng xuất bản trên blog, các nền tảng tài liệu và các trang web tĩnh.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tái sử dụng các bộ slide PowerPoint thành tài liệu kỹ thuật.
+* Xuất bản ghi chú slide và nội dung trên wiki dựa trên Git.
+* Tạo bản tóm tắt sẵn sàng cho blog từ các slide trình bày.
+* Chuyển đổi các bài thuyết trình doanh nghiệp thành các bài viết trong cơ sở kiến thức.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Xuất Markdown tự động từ các slide đào tạo doanh nghiệp.
+* Tích hợp với hệ thống xây dựng tài liệu như Hugo hoặc Jekyll.
+* Xử lý hàng loạt để chuyển đổi các bộ slide nội bộ thành bài viết Markdown.
+* Tích hợp liên tục cho phiên bản nội dung trong định dạng Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

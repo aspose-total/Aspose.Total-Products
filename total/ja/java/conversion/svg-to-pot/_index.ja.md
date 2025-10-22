@@ -121,7 +121,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG（スケーラブル・ベクター・グラフィックス）ファイルをPOT（PowerPoint 97-2003 テンプレート）に変換することで、古いPowerPointバージョン向けの再利用可能なスライドテンプレートを作成できます。POTを使用すると、レガシー環境全体で一貫したプレゼンテーションデザインが確保されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* SVGダッシュボードを埋め込んだ標準化された企業プレゼンテーションテンプレート。
+* トレーニングやeラーニングコンテンツ向けの教育用スライドテンプレート。
+* 対話型ベクターチャートを示すマーケティングキャンペーンテンプレート。
+* 学会や講義向けの学術プレゼンテーションテンプレート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* SVGダイアグラムをPOTテンプレートに自動バッチ変換。
+* 再利用可能なプレゼンテーションテンプレートの定期的な更新。
+* レガシープレゼンテーションシステムとの統合による一貫した書式設定。
+* ライブSVGダッシュボードからのテンプレート生成のトリガー。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -78,7 +78,31 @@ otherformats: FODS XLT CSV XLAM TXT XLTX XLSM XLTM MD EXCEL DIF ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) ל-SXC (גיליון עבודה של StarOffice/Calc) מאפשרת שימוש בטבלאות ותרשימים מובנים ב-PostScript ביישומים מותורים של OpenOffice או StarOffice. זה מבטיח ניידות של נתונים בין סביבות גיליון עבודה קודמות של קוד פתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ טבלאות פיננסיות או תפעוליות מדוחות PS לגיליונות עבודה SXC.
+* המרת נתוני הנדסה או ניסויים מתרשימי PostScript לצורך ניתוח.
+* הכנת קבצי גיליון עבודה תואמי קוד קודמים מתצורת PS.
+* המרת מסמכי PS לתבניות גיליון עבודה ניתנות לשימוש מחדש עבור כלים של קוד פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PS ל-SXC בצורה צפופה לשימוש בארכיון או במערכת קודמת.
+* שילוב בצינורות ETL לניתוח מובנה של גיליונות עבודה.
+* חילוץ אוטומטי של טבלאות ותרשימים מתצורתי PS.
+* המרת מבני ענן לסביבות גיליון עבודה שיתופיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

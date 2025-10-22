@@ -102,7 +102,31 @@ otherformats: XLSM XLAM SXC MARKDOWN XLSB ODS FODS DIF TSV MHTML EXCEL XLS XLTM 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-XLSX (Excel Open XML Workbook) מספקת פורמט גיליון עבודה מודרני, גמיש ולגמרי תואם לצורכי ניתוח ושיתוף פעולה. אידיאלי לשיתוף בענן ולפעולות נתונים בזמן אמת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת מדדים מבוססי PowerPoint לחוברות עבודה ב-Excel בצורה שיתופית.
+* יצירת לוחות מחוונים ב-XLSX ממצגות בכירות.
+* חילוץ נתוני שקופית לאינטגרציה בניתוחי Microsoft 365.
+* יצירת גליונות כספיים ניתנים לעריכה מתמונות במצגות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* ייצוא מתוזמן של מצגות תדמית לחוברות ניתוח ב-XLSX.
+* אינטגרציה בזרזים של Microsoft Teams או SharePoint.
+* יצירת קבצי XLSX אוטומטיים לצוותים מבוזרים.
+* המרה בצמוד לארכיון וסנכרון נתונים בענן.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

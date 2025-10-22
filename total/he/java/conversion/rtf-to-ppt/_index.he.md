@@ -100,7 +100,31 @@ otherformats: POT ODP POWERPOINT PPTX PPS POTM POTX PPTM PPSX PPSM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל-PPT (מצגת PowerPoint לגרסה מוקדמת) מחברת זרימות עבודה מסמכים מסורתיות עם סביבות PowerPoint ישנות. זה משמעותי עבור ארגונים ששומרים על תאימות עם גרסאות קודמות של Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת דוחות RTF לקבצים התואמים ל-PowerPoint 97-2003.
+* השימוש מחדש במסמכי טקסט מעוצבים למצגות הדרכה.
+* עיצוב שקופיות עבור מערכות מצגת מסורתיות.
+* הכנת סיכומי מחקר מבוססי RTF לתצוגות PowerPoint מסורתיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרות Batch RTF-to-PPT עבור זרימות עבודה במשרד ישנות.
+* שילוב למערכות הצגה לארכיון והתאמה.
+* המרות מתוזמנות לתמיכה בתאימות לאחור.
+* יצירת PowerPoint אוטומטית מתבניות RTF עבור מערכות ישנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

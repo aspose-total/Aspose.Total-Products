@@ -61,7 +61,31 @@ PPTファイルをXLTXに変換するときに、出力XLTXファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）プレゼンテーションをXLTX（Excel Template Open XML）に変換すると、プレゼンテーションデータに基づいた最新のマクロ非使用のExcelテンプレートが作成されます。これにより、デザイン、ブランディング、およびレポート構造が部門やユーザー間で一貫性が保たれます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 定期的に使用するためのPowerPointレポートからExcelテンプレートを設計する。
+* スライドベースのコンテンツからブランド付きレポートテンプレートを作成する。
+* 戦略的なプレゼンテーションを構造化されたスプレッドシートテンプレートに変換する。
+* チーム全体で標準化されたレポート形式を共有する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 部門間テンプレート作成のための自動化されたPPTからXLTXへの変換。
+* コンテンツ標準化およびレポートワークフローへの統合。
+* 企業全体へのExcelテンプレートの一括処理。
+* PowerPointデータの定期的なエクスポートを再利用可能なExcel形式にスケジュールする。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをPCL（プリンターコマンド言語）に変換することで、図表から高品質なベクター印刷が可能になります。PCLはエンタープライズの印刷ワークフローやハードウェアとの互換性に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* エンジニアリングや技術的な図表の高解像度印刷。
+* ハードコピー配布用にベクターチャートを埋め込んだエンタープライズレポート。
+* PCL互換プリンター向けに最適化されたマーケティングや製品の視覚化。
+* 詳細が失われることなく印刷される学術および研究図表。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的な印刷ジョブのための自動バッチSVGからPCLへの変換。
+* 大量の出力に対応する印刷管理システムとの統合。
+* 標準化されたレポート印刷のためのスケジュール変換パイプライン。
+* 動的に生成されたベクターコンテンツのためのトリガーされたSVGからPCLへのレンダリング。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -49,7 +49,31 @@ PPSをJSONに変換しているときに、範囲を出力JSON形式に設定す
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをJSON（JavaScript Object Notation）に変換すると、プレゼンテーションデータを構造化された、機械可読なオブジェクトとして表現できます。これは、構造化データ形式を利用するウェブ開発者、データエンジニア、AIシステムにとって理想的です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* PowerPointのメタデータやテキストコンテンツをJSONにエクスポートしてAPIに使用する。
+* スライドデータを構造化されたオブジェクトに変換してウェブダッシュボードに表示する。
+* 教育や研究スライドからJSONデータセットを作成する。
+* PowerPointの分析をデータ可視化フレームワークに統合する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ナレッジ管理システム向けにJSONへの自動スライド解析。
+* ウェブベースのデータレポートのためのスケジュールされたJSONエクスポート。
+* 構造化プレゼンテーションコンテンツを格納するNoSQLデータベースへの統合。
+* AIトレーニングやNLPパイプラインのためのバッチ処理によるPPSからJSONへの変換。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

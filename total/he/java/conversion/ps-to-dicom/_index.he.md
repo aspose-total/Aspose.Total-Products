@@ -81,7 +81,31 @@ otherformats: TGA APNG JPEG2000 IMAGE WMF PSD WMZ DXF EMZ SVGZ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PS (PostScript) לפורמט DICOM (תקשורת דיגיטלית ותמונה ברפואה) מאפשרת שילוב חלקי דיאגרמות מבוססות וסימניות רדיולוגיות לתוך זרימות עבודה תקניות של תמונות רפואיות. תאימות DICOM מבטיחה שניתן לצפות ולנתח בצורה מאובטחת את הדיווחים הוויזואליים הללו על פלטפורמות PACS (מערכת לארכיבת ותקשורת בתמונה) המשמשות בבתי חולים ובמרפאות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* הטמעת דיאגרמות דיאגנוסטיות מבוססות וסימניות לארכיונים של תמונות של חולים.
+* המרת תרשימי PS בתחום הקרדיולוגיה או האונקולוגיה לסדרות תמונות תואמות ל-DICOM.
+* שילוב תכנון כירורגי חזותי בתוך מערכות תמונה בבתי חולים.
+* יצירת סיכומים דיאגנוסטיים כמכסה DICOM לדיווחים רדיולוגיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PS ל-DICOM באופן אוטומטי בתהליכי EMR (רשומה רפואית אלקטרונית).
+* אינטגרציה של נתוני ETL בצינורות נתונים לניתוחי בריאות לדיווחים מבוססי תמונה.
+* המרת עזר של AI לתמונה באצת תהליך לתצוגה דיאגנוסטית במערכות AI רפואיות.
+* יצוא DICOM מופעל לתיעוד קליני שנוצר באופן אוטומטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

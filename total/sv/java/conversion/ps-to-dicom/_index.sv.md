@@ -57,7 +57,31 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Att konvertera PS (PostScript)-filer till DICOM (Digital Imaging and Communications in Medicine)-format möjliggör sömlös integration av vektorbaserade rapporter, diagnostiska diagram och radiografiska anteckningar i standardiserade medicinska bildbehandlingsflöden. DICOM-kompatibilitet säkerställer att dessa visuella rapporter kan ses och analyseras säkert på PACS (Picture Archiving and Communication System)-plattformar som används på sjukhus och kliniker.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+* Bädda in vektorbaserade diagnostiska diagram i patientbildarkiv.
+* Konvertera kardiologi- eller onkologi-PS-diagram till DICOM-kompatibla bildserier.
+* Integrera kirurgisk planering visuellt inom sjukhusbildsystem.
+* Generera diagnostiska sammanfattningar som DICOM-överlagringar för radiologirapporter.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* Automatiserad PS-till-DICOM-omvandling inom EMR (Electronic Medical Record)-flöden.
+* ETL-dataintegration i hälsoanalyserör för bildbaserad rapportering.
+* AI-assisterad batchkonvertering för diagnostisk visualisering i medicinska AI-system.
+* Utlöst DICOM-export för auto-genererad klinisk bildbehandlingsdokumentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

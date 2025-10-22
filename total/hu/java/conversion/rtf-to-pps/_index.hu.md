@@ -54,7 +54,31 @@ Az API azt is lehetővé teszi, hogy jelszóval védett RTF dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az RTF dokumentumok átalakítása PPS (PowerPoint Show) formátumra átalakítja a statikus szöveget diavetítésre kész prezentációvá, amelyek közvetlenül teljes képernyős módban nyílnak meg. Ideális automatizált tájékoztatókhoz, oktatási bemutatókhoz vagy kiállítási prezentációkhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Az RTF jelentések átalakítása prezentációra kész diavetítéssé.
+* Automatizált vizuális tájékoztatók készítése szöveges dokumentumokból.
+* Digitális jelzőtábla tartalom tervezése RTF marketing anyag alapján.
+* Oktatási bemutatók készítése osztályteremben vagy konferenciákra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges RTF-PPS konverzió ütemezett prezentációkhoz.
+* Integráció kioszkokba és automatizált kijelzőrendszerekbe.
+* Automatizált diavetítés létrehozása tárolt dokumentumtárakból.
+* Vizuális vezérlőpultok generálása strukturált RTF bemenetből.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

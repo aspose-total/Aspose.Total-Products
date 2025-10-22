@@ -130,7 +130,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke WORDML (WordprocessingML) menciptakan dokumen Word berbasis XML dengan diagram vektor yang tertanam sepenuhnya. WORDML ideal untuk pemrosesan dokumen secara programatik, templating, dan alur kerja otomatis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Menghasilkan laporan Word secara programatik dengan visual SVG yang tertanam.
+* Template akademik dan penelitian dalam XML untuk pengeditan otomatis.
+* Dokumentasi proyek standar untuk alur kerja yang terkontrol versi.
+* Mengarsipkan konten SVG interaktif dalam format XML terstruktur.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch SVG ke WORDML secara otomatis untuk sistem pelaporan.
+* Ekspor terjadwal dari template berbasis SVG ke XML untuk otomatisasi alur kerja.
+* Integrasi dengan API pembangkit dokumen dan sistem manajemen konten.
+* Generasi yang dipicu untuk dokumen Word dinamis yang dikendalikan secara programatik.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPS en XLTM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPS (diaporama PowerPoint) en XLTM (modèle Excel activé par macro) permet aux organisations de créer des modèles dynamiques intégrant des scripts d'automatisation. Cela est précieux pour les entreprises utilisant des opérations de données répétitives issues de rapports de diapositives.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Développement de modèles de rapports basés sur des macros à partir de présentations.
+* Génération de modèles de prévision automatisés avec des scripts VBA intégrés.
+* Création de modèles de saisie de données réutilisables à partir de diapositives marketing.
+* Préparation de modèles XLTM pour le suivi des KPI avec automatisation.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatique de modèles XLTM à partir de fichiers PPS pour les rapports d'entreprise.
+* Intégration avec des pipelines d'automatisation Excel.
+* Création planifiée de modèles de macro à partir de résumés basés sur des diapositives.
+* Distribution centralisée de modèles XLTM pour les services internes.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

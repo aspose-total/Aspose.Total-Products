@@ -79,7 +79,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをXAMLFLOWに変換すると、PostScriptのレイアウトをXAMLベースのワークフローを使用したアプリケーションや自動化パイプラインにシームレスに統合できます。この形式は、動的なビジュアルレンダリングやインタラクティブなアプリケーションロジックに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* 自動化ワークフローアプリケーションでのPSダイアグラムの変換。
+* XAMLベースのプロセスビジュアライゼーションにPostScriptグラフィックスを埋め込む。
+* ワークフローソフトウェア内の動的UIコンポーネント用のPSレイアウトの変換。
+* アプリ駆動型の自動化のための技術的および操作的なビジュアルの準備。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ワークフローシステム統合のための自動化されたPSからXAMLFLOWへの変換。
+* 動的なアプリケーションパイプライン用のPSアセットのバッチ処理。
+* インタラクティブなワークフローディスプレイ用のグラフィックスのAI支援最適化。
+* PSビジュアルを使用した継続的なアプリケーション更新のためのスケジュール変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

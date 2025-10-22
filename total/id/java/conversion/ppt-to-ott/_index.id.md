@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPT ke OTT dengan tanda
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi presentasi PPT (PowerPoint) ke format OTT (OpenDocument Text Template) memungkinkan bisnis dan pendidik untuk membuat template yang dapat digunakan ulang berdasarkan konten slide. File OTT memastikan konsistensi dalam gaya dokumen, branding, dan struktur di seluruh laporan organisasi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+* Membangun template teks yang dapat diedit dari tata letak PowerPoint untuk dokumentasi perusahaan.
+* Menstandarisasi laporan perusahaan dan proposal menggunakan template OTT.
+* Membuat template pendidikan yang dapat digunakan ulang dari presentasi pelatihan.
+* Menggunakan kembali struktur slide untuk alur kerja penerbitan dalam format terbuka.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi PPT ke OTT otomatis untuk generasi template merek.
+* Integrasi ke dalam sistem produksi konten sumber terbuka.
+* Pengolahan batch slide perusahaan ke dalam template dokumen standar.
+* Konversi terjadwal untuk menjaga konsistensi dalam komunikasi lintas departemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

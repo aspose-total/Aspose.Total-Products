@@ -61,7 +61,31 @@ RTF를 XLS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF를 XLS(Excel 이진 파일 형식)로 변환하는 것은 문서에서 텍스트 및 표 데이터를 널리 지원되는 스프레드시트 형식으로 재활용하는 견고한 방법을 제공합니다. 특히 Microsoft Excel 97-2003 환경을 사용하는 조직에게 매우 가치가 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* RTF로 생성된 보고서를 레거시 Excel 스프레드시트로 변환하기.
+* 회계 시스템을 위해 RTF 기반 데이터 로그를 XLS로 내보내기.
+* Excel 매크로나 수식에서 서식이 있는 문서 내용 재사용하기.
+* 스프레드시트 분석을 위해 보관 업무 데이터 준비하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 역호환 워크플로우를 위한 일괄 RTF-to-XLS 변환.
+* 오래된 Excel 버전을 사용하는 기업 보고 시스템과 통합.
+* 데이터 디지털화 프로젝트에서 자동 문서 변환.
+* 규정 준수 기반 보고를 위한 예약된 XLS 출력 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

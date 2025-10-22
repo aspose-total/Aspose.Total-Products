@@ -47,7 +47,31 @@ SVG 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 SXC(StarOffice/LibreOffice 스프레드시트)로 변환하면 오픈 소스 스프레드시트 형식에 벡터 차트를 포함할 수 있습니다. SXC는 협업 워크플로 및 크로스 플랫폼 스프레드시트 호환성에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 금융 또는 프로젝트 대시보드를 LibreOffice 스프레드시트로 가져오기.
+* SXC 파일에 벡터 차트로 연구 또는 학술 데이터 공유.
+* SVG 시각 자료를 포함한 협업 프로젝트 추적 스프레드시트.
+* 대화형 다이어그램이 포함된 표준화된 오픈 소스 스프레드시트 템플릿.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 보고 파이프라인을 위한 SVG를 SXC로 자동 일괄 변환.
+* 오픈 소스 스프레드시트로 기반을 둔 대시보드의 예약된 내보내기.
+* 팀 전체 액세스를 위한 협업 오피스 스위트 통합.
+* 동적 SVG 데이터로부터 SXC 스프레드시트 생성을 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

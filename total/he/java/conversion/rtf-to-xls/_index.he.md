@@ -102,7 +102,31 @@ otherformats: TSV XLSM DIF XLTM SXC XLT CSV EXCEL FODS XLSB XLTX XLAM ODS XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל-XLS (תבנית קובץ אקסל בינארי) מספקת דרך חזקה לשימוש מחדש בנתוני טקסט וטבלאות ממסמכים לתוך פורמט גיליון נתונים נתמך בצורה רחבה. זה מיוחד לארגונים המשתמשים בסביבות Microsoft Excel 97-2003.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת דוחות שנוצרו ב-RTF לגיליונות אקסל מורשים.
+* ייצוא לוגים מבוססי RTF ל-XLS למערכות חשבונאיות.
+* שימוש מחדש בתוכן מסמך מעוצב במקראות או נוסחות אקסל.
+* הכנת נתוני עסקיים ארכיוניים לניתוח גיליון נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת RTF ל-XLS בצורה רצפית לזרימות עבודה המתאימות לאחור.
+* שילוב עם מערכות דיווח עסקיות בשימוש בגרסאות ישנות יותר של Excel.
+* המרת מסמכים אוטומטית בפרויקטי דיגיטציה של נתונים.
+* יצירת פלט XLS מתוזמן לדיווחים המבוססים על תקנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

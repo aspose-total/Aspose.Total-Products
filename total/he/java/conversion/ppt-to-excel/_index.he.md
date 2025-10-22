@@ -102,7 +102,31 @@ otherformats: XLS XLSM FODS ODS XLT XLAM XLTM XLSB XLSX MARKDOWN MHTML XLTX CSV 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת המצגות ב- PPT (PowerPoint) לפורמט EXCEL (.xls או .xlsx) מקשרת בין סיפור חזותי לעומק אנליטי. זה מאפשר למשתמשים להמיר תרשימים, גרפים וסיכומי ביצועים לגיליונות עבודה שניתפים לעומק עבור תובנות עמוקות ועיבוד של בינה עסקית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* ייצוא טבלאות PowerPoint ל- Excel לחישובים מורחבים.
+* המרת שקפי ביצועי פרויקט לדגמים פיננסיים שניתנים לעריכה.
+* יצירת לוחות בקרה ב- Excel ממצגות עשירות חזותית.
+* יצירת גיליונות Excel מוכנים ללקוח ממצגות פגישה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל- Excel אוטומטית במערכות דיווח תאגידיות.
+* שילוב בצינורות נתונים למחלקות אנליטיקה.
+* עדכונים מתוזמנים של נתוני PowerPoint בלוחות בקרה ב- Excel.
+* סנכרון בזמן אמת בין מדדי המצגת וגיליונות Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

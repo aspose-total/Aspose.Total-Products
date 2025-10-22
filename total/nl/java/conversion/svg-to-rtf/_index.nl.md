@@ -129,7 +129,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG naar RTF (Rich Text Format) maakt het mogelijk om vector diagrammen in universeel ondersteunde tekstbestanden in te sluiten. RTF behoudt opmaak over verschillende tekstverwerkers en besturingssystemen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Insluiten van SVG visuals in cross-platform rapporten of handleidingen.
+* Gestandaardiseerde technische of educatieve documenten met vectorgrafieken.
+* Draagbare projecttemplates met SVG diagrammen.
+* Academische papers of presentaties die compatibele tekstformaten vereisen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batchconversie van SVG naar RTF voor documentdistributie.
+* Geplande updates voor technische handleidingen met nieuwe SVG visuals.
+* Integratie met contentmanagementsystemen voor toegang op meerdere platforms.
+* Getriggerde generatie van RTF-documenten voor offline of draagbare workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -68,7 +68,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをDOTX（マクロなしのWordテンプレート）に変換することで、ユーザーはPostScriptの視覚的な忠実度を保ちながら再利用可能でクリーンなテンプレートを作成できます。DOTXテンプレートは、組織全体で安全でマクロフリーの文書再利用に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PSレポートのレイアウトを標準化して再利用可能なWordテンプレートにする。
+* 社内で安全に見積書、フォーム、顧客向け文書を準備する。
+* PostScriptの図やチャートを編集可能な静的なWordテンプレートに変換する。
+* マクロセキュリティリスクなしで文書の一貫性を確保する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* テンプレートライブラリの自動PSからDOTXへの変換。
+* 一貫した文書生成のためのCMSやワークフロープラットフォームへの統合。
+* 複数部門での使用を目的としたPSレイアウトの一括処理をDOTXに。
+* テンプレート作成のための視覚要素のAI駆動抽出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

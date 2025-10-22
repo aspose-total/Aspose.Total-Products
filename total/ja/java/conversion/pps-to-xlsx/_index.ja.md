@@ -61,7 +61,31 @@ PPSファイルをXLSXに変換するときに、出力XLSXファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをXLSX（Excel Open XML Workbook）に変換すると、分析や共同作業に適したモダンで柔軟性のある完全互換のスプレッドシート形式が得られます。クラウド共有やリアルタイムデータ操作に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* PowerPointベースのメトリクスを共同作業可能なExcelワークブックに変換する。
+* 重役向けプレゼンテーションからXLSXダッシュボードを作成する。
+* スライドデータをMicrosoft 365の分析に統合するために抽出する。
+* プレゼンテーションの視覚データから編集可能な財務シートを生成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業プレゼンテーションを定期的にXLSX分析レポートにエクスポートする。
+* Microsoft TeamsやSharePointワークフローに統合する。
+* 分散チーム向けに自動生成されたXLSXファイルを生成する。
+* アーカイブおよびクラウドベースのデータ同期のための一括変換。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG fájlok átalakítása OTT (OpenDocument Text Template) formátumra újrafelhasználható szöveges dokumentum sablonokat hoz létre beágyazott vektor diagramokkal. Az OTT biztosítja a következetességet a projektek és csapatmunkafolyamatok során.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Szabványosított jelentés sablonok SVG vizuális elemekkel üzleti csapatok számára.
+* Akadémiai vagy oktatói dokumentum sablonok beágyazott diagramokkal.
+* Marketing vagy projekt dokumentációs sablonok a következetes formázás érdekében.
+* Újrafelhasználható útmutatók és kézikönyvek skálázható SVG grafikákkal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* SVG diagramok automatizált tömeges átalakítása OTT sablonokká.
+* Ütemezett frissítések az újrafelhasználható dokumentum sablonokhoz friss vizuális elemekkel.
+* Integráció tartalomrendszerekkel a sablonvezérelt munkafolyamatokhoz.
+* Kiváltott interaktív szöveges sablonok generálása csapatmunkához.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

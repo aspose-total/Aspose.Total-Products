@@ -61,7 +61,31 @@ otherformats: TSV SXC ODS MARKDOWN XLS XLAM XLTM XLSB EXCEL XLSX FODS XLTX XLSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPT (PowerPoint) เป็นรูปแบบ XLAM (Excel Add-In) ช่วยให้สามารถฝังข้อมูลการนำเสนอที่สามารถทำงานได้โดยตรงภายในแมโคร Excel ได้ ธุรกิจสามารถอัตโนมัติกระบวนการทางวิเคราะห์ เพิ่มประสิทธิภาพในการใช้แดชบอร์ด และสร้างเครื่องมืออัตโนมัติที่ใช้งานซ้ำได้จากการแปลงนี้
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ฝังรายงานทางการแสดงข้อมูล PowerPoint ภายในแดชบอร์ด Excel
+* แปลงสไลด์ประสิทธิภาพหรือ KPI เป็นเครื่องมือแบบแมโครที่เคลื่อนไหวได้
+* สร้างเทมเพลตทางวิเคราะห์ที่ใช้งานซ้ำได้จากข้อมูลการนำเสนอ
+* อัตโนมัติการอัปเดตโมเดลการเงินที่ใช้สไลด์ใน Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* สร้างไฟล์ XLAM โดยอัตโนมัติจากการวิเคราะห์ PowerPoint สำหรับผู้ใช้ Excel ขั้นสูง
+* การรวมกับอัตโนมัติ VBA สำหรับการวิเคราะห์ขององค์กร
+* อัตโนมัติ ETL การเชื่อมโยงตัวชี้วัด PowerPoint กับแมโครสเปรดชีต
+* การแปลง PPT เป็น XLAM ตามกำหนดเวลาสำหรับรายงานต่อเนื่อง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

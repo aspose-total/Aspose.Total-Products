@@ -129,7 +129,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp SVG sang ODT (OpenDocument Text) cho phép nhúng đồ họa vector vào tài liệu văn bản đa nền tảng. ODT đảm bảo tính nhất quán về mặt hình ảnh trong khi vẫn tương thích với LibreOffice, OpenOffice và các bộ ứng dụng khác.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Sách hướng dẫn kỹ thuật và báo cáo dự án tích hợp biểu đồ SVG.
+* Bài báo học thuật với hình minh họa vector được nhúng.
+* Tài liệu tiếp thị hoặc kinh doanh sử dụng hình ảnh SVG có thể co giãn.
+* Sách hướng dẫn và hướng dẫn đa nền tảng được phân phối mà không gặp vấn đề định dạng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt SVG sang ODT tự động cho tài liệu định kỳ.
+* Cập nhật mẫu theo lịch trình với hình ảnh SVG mới.
+* Tích hợp với hệ thống quản lý nội dung để phân phối đa nền tảng.
+* Tạo ra tài liệu hướng dẫn hoặc đào tạo theo yêu cầu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 ODT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 프레젠테이션을 ODT(OpenDocument Text)로 변환하면 슬라이드를 편집 가능한 텍스트 문서로 재활용할 수 있습니다. 이는 PowerPoint 덱을 기반으로 한 서면 보고서, 요약 또는 편집 가능한 문서를 생성하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 보고서를 위해 편집 가능한 텍스트로 슬라이드 노트 변환.
+* 학술 또는 기업 요약을 위한 ODT 문서 작성.
+* 프로젝트 프레젠테이션을 공유 가능한 텍스트 파일로 변환.
+* 정책 및 제안서 작성을 위해 슬라이드 콘텐츠 재활용.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PowerPoint 프레젠테이션에서 자동 보고서 생성.
+* 오픈 소스 오피스 문서 도구와의 워크플로 통합.
+* 내부 검토를 위해 편집 가능한 문서로 피치 덱 변환.
+* 접근성을 위해 PowerPoint 노트를 ODT 형식으로 아카이빙.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

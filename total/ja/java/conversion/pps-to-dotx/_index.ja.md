@@ -53,7 +53,25 @@ APIを使用して、透かしを使用してPPSファイルからDOTXへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+PPS（PowerPoint Slide Show）ファイルをDOTX（Wordテンプレート）に変換すると、標準化されたドキュメント作成のためのモダンでXMLベースのテンプレート形式が提供されます。これは、Word文書全体でブランドの一貫性を維持する組織にとって役立ちます。
+
+## Key Use Cases
+
+* マーケティングや営業プレゼンテーションからモダンなWordテンプレートを作成する。
+* 内部報告用の再利用可能なDOTXテンプレートを作成する。
+* PowerPointコンテンツからブランド付きの企業テンプレートをデザインする。
+* プレスタイルのWord文書レイアウトにプレゼンテーションを変換する。
+
+## Automation Scenarios
+
+* PPSデッキからのDOTXテンプレートの定期的な生成。
+* クラウドベースのWordテンプレート管理システムへの統合。
+* チーム全体でテンプレートの一貫性を維持するための一括変換。
+* コンテンツ作成ワークフローのための自動PPSからDOTXへの変換。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

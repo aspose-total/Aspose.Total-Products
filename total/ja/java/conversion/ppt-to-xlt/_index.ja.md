@@ -61,7 +61,31 @@ PPTファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）プレゼンテーションをXLT（Excelテンプレート）形式に変換すると、スライドが再利用可能なスプレッドシートテンプレートに変わり、チーム全体での一貫したレポート作成とフォーマットが可能になります。データプレゼンテーションワークフローを標準化している組織に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* PowerPointダッシュボードからExcelテンプレートを作成する。
+* チーム全体でのブランド付きXLT形式のレポート作成の標準化。
+* スライドを使用可能なスプレッドシート構造に変換する。
+* 定期的なビジネスレポートのためのテンプレートベースのモデルを構築する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 一貫したレポートテンプレートのための自動化されたPPTからXLTへの変換。
+* 企業コンテンツ標準化ワークフローへの統合。
+* ブランドに合ったスプレッドシートテンプレートのバッチ処理。
+* プレゼンテーションから再利用可能なExcelレイアウトの定期的な生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

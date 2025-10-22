@@ -102,7 +102,31 @@ otherformats: XLSB MD FODS XLTX XLAM DIF XLSM XLT XLTM CSV SXC EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי SVG ל-ODS (OpenDocument Spreadsheet) מאפשרת להטביע תרשימים מבוססי וקטור בגיליונות נתונים בתקן פתוח. ODS הוא אידיאלי לניתוח נתונים צולב פלטפורמות, דיווחים ולוחות מחוות אינטראקטיביות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* הטבעת לוחות מחוות כספיות בפורמט SVG לתוך גיליונות נתונים ODS לצורך ניתוח.
+* שיתוף נתוני מחקר או הנדסיים עם תמונות וקטוריות בפורמטים פתוחים.
+* נתוני אקדמיה ופרויקטים מיוצאים כגיליונות נתונים ניתנים לעריכה ואינם תלויים בפלטפורמה.
+* לוחות מחוות למעקב בפרויקטים מוסכמים בפורמט ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת SVG ל-ODS באופן אוטומטי עבור צינורות דיווח.
+* ייצואים מתוזמנים של נתוני מחקר או תפעוליים עם תרשימים מוטבעים.
+* שילוב עם חבילות משרד קוד פתוח הדורשות תאימות לגיליון נתונים.
+* הפעלת יצירת לוחות מחוות מבוססי SVG לצורך שיתוף צוות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

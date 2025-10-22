@@ -121,7 +121,29 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+SVGをPPS（PowerPoint Show）に変換することで、埋め込まれたベクターグラフィックを使用して、プレゼンテーションモードで直接開くスライドデッキを作成できます。シームレスな閲覧に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PowerPointショーとして配信されるインタラクティブな企業プレゼンテーション。
+* SVGダイアグラムを直接表示するための教育用スライドショー。
+* 見る準備が整ったプレゼンテーションとしてパッケージ化されたマーケティングまたは製品デモ。
+* 編集せずにすぐにプレゼンテーションできる学術講義スライド。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* プレゼンテーション配信用の自動バッチSVGからPPSへの変換。
+* PPS形式へのSVGベースのスライドの定期的なエクスポート。
+* 見る準備が整ったデッキ用のコンテンツ配信システムとの統合。
+* トレーニングやマーケティングキャンペーンのためのトリガー付きスライド生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

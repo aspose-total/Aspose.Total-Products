@@ -53,7 +53,31 @@ Az API segítségével PPS fájlból DOTM-ba konvertálhat vízjellel. Ha vízje
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPS (PowerPoint Slide Show) fájlok átalakítása DOTM (Makróval aktivált Word sablon) formátumba dinamikus, szkriptek által vezérelt dokumentumsablonok létrehozását teszi lehetővé. A vállalkozások DOTM-et használnak dokumentumgenerálásra és jelentéskészítésre prezentációs adatok alapján.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* Makróalapú Word sablonok tervezése PPS prezentációkból.
+* Ismétlődő üzleti űrlapok automatizálása beágyazott VBA használatával.
+* Újrafelhasználható sablonok generálása megfelelőségi és minőségi jelentésekhez.
+* Intelligens dokumentumfolyamatok létrehozása PowerPoint bemutatókból származó adatok alapján.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* DOTM sablonok automatikus generálása vállalati felhasználásra.
+* Integráció automatizálási keretrendszerekkel dokumentum létrehozáshoz.
+* Ütemezett sablonfrissítések a legújabb prezentációkból.
+* Több PPS fájl batch konvertálása makróval aktivált sablonokká.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

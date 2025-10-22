@@ -54,7 +54,31 @@ API cũng cho phép bạn chuyển đổi các tài liệu RTF được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi RTF sang PPTX (PowerPoint Open XML Presentation) biến văn bản tĩnh thành các bộ slide hiện đại, có thể chỉnh sửa và chia sẻ. Định dạng này được hỗ trợ rộng rãi và lý tưởng cho báo cáo kinh doanh, bài giảng, đề xuất và nội dung tiếp thị.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi ghi chú cuộc họp dựa trên RTF thành các bộ slide PowerPoint được hoàn thiện.
+* Tạo ra các bộ trình bày động từ báo cáo văn bản đã được định dạng.
+* Tái sử dụng dữ liệu công ty từ RTF thành các slide được tối ưu hóa về mặt hình ảnh.
+* Biến đổi tài liệu viết thành các bộ trình bày dựa trên cốt truyện.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Xuất hàng loạt RTF sang PPTX cho các hệ thống tài liệu doanh nghiệp.
+* Tích hợp với các công cụ xây dựng trình bày trực tuyến và các nền tảng đám mây.
+* Tạo ra các bộ slide tự động cho giao tiếp nội bộ và thuyết trình cho khách hàng.
+* Cập nhật trình bày theo lịch từ các kho tài liệu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

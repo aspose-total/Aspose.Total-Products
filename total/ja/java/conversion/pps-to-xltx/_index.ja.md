@@ -61,7 +61,31 @@ PPSファイルをXLTXに変換するときに、出力XLTXファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをXLTX（Excel Template Open XML）に変換することで、現代のExcel形式で構造化され再利用可能なスプレッドシートテンプレートの作成が容易になります。チームがワークフローを標準化し、文書間でデザインの一貫性を維持するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PowerPointのビジネスデッキから専門的なXLTXテンプレートを作成する。
+* スライドのレイアウトに触発されたデータ入力フォームの開発。
+* 標準化された月次レポートテンプレートの作成。
+* 承認されたプレゼンテーションから部門固有のXLTXテンプレートを生成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PPSファイルを企業向けXLTXテンプレートに一括変換する。
+* プロジェクト追跡用のブランド付きExcelテンプレートを定期的に生成する。
+* バージョン管理のためのテンプレート自動化システムへの統合。
+* PowerPointのデータ要約からのXLTXテンプレートの自動作成。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

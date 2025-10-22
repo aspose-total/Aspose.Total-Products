@@ -47,7 +47,29 @@ PSファイルをXLTMに変換するときに、出力XLTMファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）をXLTM（Excel Macro-Enabled Template）に変換すると、自動化と一貫性が結びつきます。これにより、構造化されたPSドキュメントから繰り返し行われる財務または運用レポート用の再利用可能な、マクロパワードテンプレートの作成が可能となります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PS請求書をマクロ有効なレポートテンプレートに変換する。
+* データ入力と検証のための自動化されたフォームテンプレートの開発。
+* PSベースの分析を繰り返し可能なExcelプロセスに統合する。
+* Excelマクロを埋め込んだファイナンスまたは人事テンプレートの準備。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* マクロ駆動型レポートシステム向けのバッチPSからXLTMへの変換。
+* ERPシステムとの統合による自動化されたドキュメントテンプレートの作成。
+* 企業コンプライアンスレポートのための定期的な変換ワークフロー。
+* PostScriptのレイアウトからのAI支援テンプレートの作成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

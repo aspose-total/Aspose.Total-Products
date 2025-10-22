@@ -102,7 +102,31 @@ otherformats: CSV XLT EXCEL XLTM XLTX SXC MD TXT ODS XLSM DIF FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי SVG ל־TSV (ערכים מופרדים בטאב) מאפשרת ייצוא שרטוטי וקטור לתוך פורמט המותאם לגיליונות אלקטרוניים, ניתוח סטטיסטי וקבצים גדולים. TSV מבטיחה שהנתונים יישארו ממויינים וקלים לניתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת תרשימי SVG אינטראקטיביים ל־TSV לצורך ניתוח סטטיסטי.
+* ייצוא שרטוטי הנדסה לעריכת גיליונות אלקטרוניים משותפת.
+* שיתוף גרפים חינוכיים מבוססי SVG בפורמט TSV לצוותי מחקר.
+* המרת ויזואלים של ביצועי מוצר לנתונים טבלאיים ממויינים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* צינורות אוטומטיים הממירים תרשימי SVG ל־TSV לפלטפורמות ניתוח.
+* ייצואים מתוזמנים של תרשימי וקטור ללוחות מחוונים לדיווחים.
+* שילוב עם תוכנות סטטיסטיות הדורשות קלט TSV.
+* המרה מופעלת לפי עדכונים דינמיים של ויזואלים מבוססי וקטור.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ PPT 파일을 XLS로 변환하는 동안 출력 XLS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 파일을 XLS (Excel 97–2003 Workbook)로 변환하면 레거시 시스템 호환성을 유지하면서 표 및 숫자 데이터 무결성을 보존할 수 있습니다. 이 변환은 오래된 Microsoft Office 환경을 사용하거나 하위 호환성 보고서가 필요한 조직을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 레거시 Excel 시스템에서 슬라이드 데이터 내보내기.
+* PowerPoint 보고서에서 하위 호환성 스프레드시트 생성.
+* 오래된 Microsoft Office 버전을 사용하는 팀과 함께 분석 준비 데이터 공유.
+* 보관용으로 프레젠테이션 결과를 보편적으로 지원되는 XLS 형식으로 보관.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 아카이브 시스템을 위한 자동화된 PPT-to-XLS 변환.
+* 레거시 Excel 파일 출력이 필요한 워크플로우 통합.
+* 부서 간 데이터 호환성을 위한 일괄 처리.
+* 시스템 상호 운용성을 위한 예약된 PowerPoint 보고서 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

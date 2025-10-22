@@ -54,7 +54,31 @@ Interfejs API umożliwia również konwersję dokumentów RTF chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików RTF na ODP (OpenDocument Presentation) przekształca treści bogate w tekst w wizualnie atrakcyjne prezentacje kompatybilne z LibreOffice Impress i Apache OpenOffice. Ten proces korzystnie wpływa na edukatorów, trenerów i firmy, które przekształcają materiały dokumentacyjne w prezentacje.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Przekształcanie notatek z wykładów w strukturalne prezentacje ODP.
+* Konwertowanie podręczników szkoleniowych na slajdy do warsztatów korporacyjnych.
+* Tworzenie prezentacji ODP na podstawie propozycji RTF lub podsumowań biznesowych.
+* Przekształcanie treści tekstowych w formy opowiadania wizualnego.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna generacja RTF do ODP dla potoków treści e-learningowych.
+* Integracja z systemami zarządzania wiedzą do tworzenia prezentacji na żądanie.
+* Konwersja wsadowa korporacyjnych dokumentów RTF na szablony ODP.
+* Automatyczna generacja slajdów z repozytoriów dokumentów dla zespołów marketingowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

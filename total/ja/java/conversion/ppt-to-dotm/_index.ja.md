@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPTファイルからDOTMへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）ファイルをDOTM（マクロ有効なWordテンプレート）形式に変換すると、PowerPointのビジュアルとWordの自動化機能が統合されます。DOTMテンプレートは、レポート作成、コンテンツの埋め込み、データ挿入などの繰り返しタスクを自動化するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PowerPointプレゼンテーションからマクロ有効なWordテンプレートを作成する。
+* 埋め込みマクロを使用して繰り返しレポート構造を自動化する。
+* 企業の繰り返し文書作成のためのブランド付きスマートテンプレートを作成する。
+* プレゼンテーションのレイアウトに基づいたレポート準備を効率化する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* スマートドキュメントテンプレート用の自動化されたPPTからDOTMへの変換。
+* VBAロジックを使用した企業向け自動化システムへの統合。
+* 文書チーム向けのマクロ有効なテンプレートの定期的な生成。
+* コンプライアンスに基づくテンプレート管理のための一括変換。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

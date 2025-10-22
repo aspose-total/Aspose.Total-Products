@@ -61,7 +61,31 @@ otherformats: DIF MARKDOWN XLAM XLSM TSV XLTX XLTM ODS MHTML XLSX FODS XLSB SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPTX เป็น TSV (Tab-Separated Values) ช่วยให้ได้โครงสร้างของตารางในรูปแบบข้อความธรรมดา ซึ่งเหมาะสำหรับนักพัฒนาและนักวิทยาศาสตร์ข้อมูลที่ต้องการนำเข้าข้อมูลไปยังรหัสหรือสภาพแวดล้อมการวิเคราะห์ได้ง่าย
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* การแปลงข้อมูลสไลด์ PowerPoint สำหรับการสร้างโมเดลทางสถิติ
+* เตรียมข้อมูลตารางสำหรับสคริปต์และ API
+* ส่งออก KPI และ metrics จาก PowerPoint decks ไปยัง TSV
+* แบ่งปันชุดข้อมูลที่สะอาดสำหรับวัตถุประสงค์การวิจัยและการศึกษา
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การแปลง PPTX เป็น TSV ตามกำหนดเวลาในท่อข้อมูล
+* การสร้างสคริปต์ TSV โดยอัตโนมัติสำหรับชุดข้อมูลการฝึกสอนเชิงเครื่อง
+* การผสานกับคลังข้อมูลทางวิทยาศาสตร์
+* สะพานข้อมูลจาก PowerPoint ไปยังรหัสสำหรับการทำงานของวิศวกรรม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

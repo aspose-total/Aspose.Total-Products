@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi PPTX sang DOTM (Mẫu Word có Macro) cho phép người dùng tạo các mẫu có thể tái sử dụng bao gồm các tính năng tự động hóa. Điều này rất lý tưởng để tạo ra tài liệu tương tác, được điều khiển bằng macro từ nội dung trình bày.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Thiết kế các mẫu có macro từ các slide trình bày.
+* Tự động hóa các nhiệm vụ tạo báo cáo lặp đi lặp lại.
+* Tạo các mẫu doanh nghiệp động chuẩn hóa.
+* Nhúng macro dữ liệu vào tài liệu dẫn xuất từ PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt các bộ PPTX thành các mẫu DOTM.
+* Tích hợp với các hệ thống tự động hóa tài liệu.
+* Tạo mẫu macro theo lịch cho các báo cáo định kỳ.
+* Ánh xạ macro từ PowerPoint sang Word để tăng hiệu suất.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

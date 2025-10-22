@@ -47,7 +47,31 @@ PS 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마크
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 SXC (StarOffice/Calc 스프레드시트)로 변환하면 구조화된 PostScript 테이블과 차트를 기존의 OpenOffice 또는 StarOffice 애플리케이션에서 사용할 수 있습니다. 이를 통해 오래된 오픈 소스 스프레드시트 환경 간에 데이터 이동성이 보장됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS 보고서에서 재무 또는 운영 테이블을 SXC 스프레드시트로 추출합니다.
+* PostScript 차트에서 공학 또는 실험 데이터를 분석용으로 변환합니다.
+* PS 레이아웃에서 레거시 호환 스프레드시트 파일을 준비합니다.
+* PS 문서를 오픈 소스 도구용 재사용 가능한 스프레드시트 템플릿으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 보관용이나 레거시 시스템 사용을 위한 일괄 PS-to-SXC 변환.
+* 구조화된 스프레드시트 분석을 위한 ETL 파이프라인 통합.
+* PS 레이아웃에서 테이블과 차트를 자동으로 추출합니다.
+* 협업 스프레드시트 환경을 위한 클라우드 기반 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,31 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PS (PostScript) bestanden naar POTX (PowerPoint-sjabloon zonder macro's) stelt teams in staat om schone, herbruikbare presentatiesjablonen te maken terwijl ze macrobeveiligingsrisico's vermijden. POTX behoudt het PS-ontwerp en de lay-out in een veilig sjabloonformaat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Het omzetten van PS-slides in herbruikbare sjablonen zonder macro's.
+* Standaardiseren van trainingen of educatieve presentaties.
+* PS-marketingvisuals migreren naar PowerPoint voor consistente branding.
+* Professionele dia-sjablonen voorbereiden zonder zorgen over automatisering.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde PS-naar-POTX batchconversie voor sjabloonbibliotheken.
+* Integratie in bedrijfssystemen voor presentatiebeheer.
+* Geplande updates van presentatiesjablonen vanuit PS-bestanden.
+* AI-ondersteunde lay-outoptimalisatie en dia-extractie uit PS-inhoud.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

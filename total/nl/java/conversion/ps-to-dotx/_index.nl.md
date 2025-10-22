@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PS (PostScript) bestanden naar DOTX (Word-sjabloon zonder macro's) stelt gebruikers in staat om herbruikbare, schone sjablonen te maken met behoud van de visuele nauwkeurigheid van PostScript. DOTX-sjablonen zijn ideaal voor veilig, macrovrij hergebruik van documenten binnen organisaties.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Standaardiseren van PS-rapportindelingen in herbruikbare Word-sjablonen.
+* Veilig voorbereiden van briefhoofden, formulieren en klantgerichte documenten.
+* Omzetten van PostScript-diagrammen en grafieken naar bewerkbare, statische Word-sjablonen.
+* Zorgen voor consistentie in documentatie zonder beveiligingsrisico's van macro's.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde PS-naar-DOTX conversie voor sjabloonbibliotheken.
+* Integratie in CMS of workflowplatforms voor consistente documentgeneratie.
+* Batchverwerking van PS-indelingen naar DOTX voor gebruik in meerdere afdelingen.
+* AI-gestuurde extractie van visuele elementen voor sjablooncreatie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

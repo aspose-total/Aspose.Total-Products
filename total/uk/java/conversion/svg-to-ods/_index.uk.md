@@ -102,7 +102,31 @@ otherformats: XLSB MD FODS XLTX XLAM DIF XLSM XLT XLTM CSV SXC EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертація файлів SVG в ODS (OpenDocument Spreadsheet) дозволяє вбудовувати векторні діаграми в таблиці з відкритим стандартом. ODS ідеально підходить для аналізу даних, звітності та інтерактивних інформаційних панелей на різних платформах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Вбудовування фінансових інформаційних панелей SVG в таблиці ODS для аналізу.
+* Обмін даними з досліджень або інженерних даних з векторною графікою у відкритих форматах.
+* Академічні та проектні дані експортуються як редаговані, платформонезалежні таблиці.
+* Стандартизовані панелі відстеження проекту у форматі ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизована конвертація SVG в ODS для звітних конвеєрів.
+* Заплановані експорти дослідницьких або операційних даних з вбудованими діаграмами.
+* Інтеграція з офісними пакетами з відкритим вихідним кодом, які потребують сумісності з таблицями.
+* Запуск генерації панелей управління команди на основі SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

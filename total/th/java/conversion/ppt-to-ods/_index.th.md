@@ -61,7 +61,31 @@ otherformats: XLTX XLS DIF XLSB EXCEL XLSM XLAM XLSX SXC MARKDOWN TSV XLTM XLT M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPT (PowerPoint) เป็นรูปแบบ ODS (OpenDocument Spreadsheet) จะเปลี่ยนข้อมูลสไลด์ที่เป็นภาพเป็นรูปแบบสเปรดชีตที่มีโครงสร้าง มันเหมาะสำหรับองค์กรที่ใช้ชุดโปรแกรมสำนักงานโอเพนซอร์สและต้องการสกัดข้อมูลตัวเลขหรือตารางจากงานนำเสนอเพื่อใช้ในการวิเคราะห์และรายงาน
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* ส่งออกตารางสไลด์เข้าสู่สเปรดชีต ODS ที่สามารถแก้ไขได้สำหรับ LibreOffice Calc
+* แปลงข้อมูลเชิงธุรกิจจากแดชบอร์ด PowerPoint เป็นข้อมูลสเปรดชีต
+* เก็บถาวรสไลด์ทางการเงินและการวิเคราะห์ในรูปแบบ ODS ที่เปิด
+* ส่งเสริมการทำงานร่วมกันในสภาพแวดล้อมสเปรดชีตมาตรฐานที่เปิด
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง PPT เป็น ODS โดยอัตโนมัติสำหรับการรายงานของรัฐบาลหรือองค์กรไม่แสวงหาผลกำไร
+* การผสานกับท่อส่งข้อมูลทางการเปิดซอร์ส
+* การแปลงงานนำเสนอเป็นสเปรดชีตตามกำหนดเวลาสำหรับการตรวจสอบ
+* การแบ่งปันรายงานระหว่างแผนกโดยใช้เทมเพลตที่ใช้ ODS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

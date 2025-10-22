@@ -129,7 +129,31 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter SVG para DOTM (Modelo de Documento do Word Habilitado para Macro) permite modelos reutilizáveis que combinam gráficos vetoriais escaláveis com macros. Ideal para relatórios interativos, formulários e documentos de fluxo de trabalho.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Modelos de rastreamento de projetos habilitados para macro com visuais SVG incorporados.
+* Modelos financeiros ou operacionais reutilizáveis para fluxos de trabalho empresariais.
+* Modelos acadêmicos ou de pesquisa integrando diagramas dinâmicos e automação.
+* Materiais de e-learning interativos usando diagramas SVG aprimorados com macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automatizada de SVG para DOTM para modelos recorrentes habilitados para macro.
+* Atualizações programadas de modelos com novos dados SVG e macros.
+* Integração em sistemas de automação de fluxo de trabalho que requerem modelos reutilizáveis.
+* Pipelines de conversão acionados para painéis de relatórios interativos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

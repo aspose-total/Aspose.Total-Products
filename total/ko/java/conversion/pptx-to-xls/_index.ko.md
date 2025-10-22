@@ -61,7 +61,31 @@ PPTX 파일을 XLS로 변환하는 동안 출력 XLS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 파일을 XLS(Excel 97-2003 Workbook)로 변환하면 레거시 시스템에 대한 역호환성이 확보됩니다. 이를 통해 오래된 오피스 소프트웨어를 사용하는 조직이 효율적으로 표 형태의 프레젠테이션 데이터에 액세스하고 수정할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 레거시 Excel 분석을 위한 PowerPoint 테이블 변환.
+* 오래된 금융 도구를 위한 프레젠테이션 요약 내보내기.
+* 역호환 시스템에서 슬라이드 데이터 재사용.
+* 이전 Excel 버전을 사용하는 클라이언트와의 분석 공유.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 아카이브를 위한 PowerPoint에서 자동화된 XLS 출력.
+* 오래된 회계 또는 ERP 시스템과의 통합.
+* 플랫폼 간 호환성을 보장하는 변환 파이프라인.
+* 레거시 PowerPoint 덱의 일괄 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

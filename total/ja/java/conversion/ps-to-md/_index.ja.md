@@ -47,7 +47,29 @@ PSファイルをMDに変換するときに、出力MDファイル形式に透�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをMD（Markdown）に変換することで、PostScriptコンテンツをバージョン管理された環境やWeb向け環境で再利用しやすくなります。MDファイルは軽量で編集可能な形式を提供し、共同でのドキュメント作成に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* Gitリポジトリ用にPostScriptベースのノートやレポートをMDに変換する。
+* 技術ブログ、ドキュメントポータル、または内部ナレッジベースでPSコンテンツを公開する。
+* Markdown形式で学術的または研究レポートを準備する。
+* PSベースのチュートリアルをプラットフォームに依存しないMarkdownファイルに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ソフトウェアドキュメントプロジェクト向けのバッチPSからMDへの変換。
+* CI/CDパイプラインとの統合による自動化されたドキュメント更新。
+* PSアーカイブからのクラウドベースのMarkdown生成。
+* PSのレイアウトからMarkdownへのAIパワードな抽出とフォーマット。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

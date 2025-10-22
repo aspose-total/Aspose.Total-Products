@@ -57,7 +57,31 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 DICOM (의료용 디지털 영상 및 통신) 형식으로 변환하면 벡터 기반 보고서, 진단 차트 및 방사선 주석을 표준화된 의료 영상 워크플로에 매끄럽게 통합할 수 있습니다. DICOM 호환성을 통해 이러한 시각적 보고서를 병원과 클리닉 전반에 걸쳐 사용되는 PACS (영상 저장 및 통신 시스템) 플랫폼에서 안전하게 볼 수 있고 분석할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 벡터 기반 진단 다이어그램을 환자 영상 아카이브에 포함시키기.
+* 심장병학 또는 종양학 PS 차트를 DICOM 호환 이미지 시리즈로 변환하기.
+* 수술 계획 시각 자료를 병원 영상 시스템에 통합하기.
+* 방사선학 보고서를 위한 DICOM 오버레이로 진단 요약 생성하기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* EMR (전자 의학 기록) 워크플로 내 자동 PS-to-DICOM 변환.
+* 이미지 기반 보고를 위한 건강 분석 파이프라인에서 ETL 데이터 통합.
+* 의료 AI 시스템에서 진단 시각화를 위한 AI 지원 일괄 변환.
+* 자동 생성된 임상 영상 문서화를 위한 DICOM 내보내기 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

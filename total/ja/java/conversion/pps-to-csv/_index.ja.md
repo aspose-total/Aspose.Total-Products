@@ -61,7 +61,31 @@ PPSファイルをCSVに変換するときに、出力CSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをCSV（Comma-Separated Values）に変換することで、ユーザーはプレゼンテーションスライドからデータを抽出して整理し、軽量でプレーンなテキスト形式のスプレッドシートにすることができます。このプロセスにより、データ分析が簡素化され、CRM、ERP、ビジネスインテリジェンスツールに統合しやすくなります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* PowerPointスライドから表形式のデータをCSVにエクスポートして分析する。
+* マーケティングや調査プレゼンテーションをデータ準備ファイルに変換する。
+* 機械学習の入力用にトレーニングスライド統計からCSVデータセットを準備する。
+* スライドでまとめられたレポートを構造化されたカンマ区切りデータに変換する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 週次プレゼンテーションサマリーをCSVデータセットに自動エクスポートする。
+* データウェアハウスと可視化ダッシュボードのETLパイプラインへの統合。
+* PPSレポートから四半期メトリクスを抽出するためのスケジュール変換。
+* 複数のPPSファイルを一括処理して統合されたCSVアナリティクスシートを作成する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

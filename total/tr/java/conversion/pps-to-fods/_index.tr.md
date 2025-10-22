@@ -61,7 +61,31 @@ PPS dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize de f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) dosyalarını FODS (Flat XML ODF Elektronik Tablo) formatına dönüştürmek, sunum içeriğini elektronik tablo uyumlu XML formatlarına dönüştürür. Bu özellikle LibreOffice veya Apache OpenOffice ekosistemiyle çalışan açık kaynak kullanıcıları için değerlidir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* PowerPoint'ten sayısal verileri FODS elektronik tablolarına aktarma.
+* Eğitim veya iş kullanımı için yapılandırılmış XML elektronik tablolar oluşturma.
+* Slaytlardaki grafikleri düzenlenebilir OpenDocument elektronik tablo verilerine dönüştürme.
+* LibreOffice Calc'ta analiz ve paylaşım için açık standart dosyalar hazırlama.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tekrarlayan sunum güncellemelerinden zamanlanmış FODS oluşturma.
+* Açık kaynak raporlama sistemlerine entegrasyon.
+* Analitik gösterge panoları için slaytı FODS'a dönüştürme.
+* Çapraz platform iş akışları için otomatik XML tabanlı elektronik tablo oluşturma.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

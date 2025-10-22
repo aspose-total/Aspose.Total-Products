@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 POTX(PowerPoint Open XML Template)로 변환하면 벡터 그래픽을 사용한 현대적이고 재사용 가능한 슬라이드 템플릿이 생성됩니다. POTX는 가벼우며 매크로가 없는 템플릿을 사용하여 팀 간 프레젠테이션을 표준화하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 차트를 사용하여 재사용 가능한 비즈니스 보고서 템플릿 생성.
+* 포함된 벡터 다이어그램이 있는 교육용 슬라이드 템플릿.
+* 팀 사용을 위해 표준화된 마케팅 캠페인 템플릿.
+* 확장 가능한 시각 자료를 사용한 학술 또는 학회 발표 템플릿.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 반복적인 프레젠테이션 요구 사항을 위한 자동화된 SVG-to-POTX 템플릿 생성.
+* 신선한 SVG 콘텐츠로 템플릿을 예약된 업데이트.
+* 일관된 형식으로 기업 워크플로 자동화와 통합.
+* 라이브 SVG 대시보드로부터 트리거된 템플릿 생성 파이프라인.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น DOT (Word 97-2003 Template) ช่วยในการสร้างเทมเพลตเอกสารที่สามารถนำไปใช้ซ้ำได้พร้อมไดอะแกรมเวกเตอร์ที่เข้ากันได้กับเวอร์ชัน Word เก่ากว่า  DOT  ช่วยให้มีการจัดรูปแบบที่เหมือนกันในระบบที่เป็นสมัยก่อน
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* เทมเพลตรายงานมาตรฐานพร้อมไดอะแกรม SVG สำหรับเอกสาร Word เวอร์ชันเก่า
+* เทมเพลตเสนอโครงการที่รวมแผนภูมิแบบมองเห็นได้
+* เทมเพลตการศึกษาหรือการสอนที่สามารถนำไปใช้ซ้ำโดยใช้ภาพแบบ SVG
+* เทมเพลตเอกสารประวัติศาสตร์สำหรับการทำงานทางธุรกิจหรือวิศวกรรม
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้างเทมเพลตจำนวนมากจาก SVG เป็น DOT อัตโนมัติสำหรับการทำงานใน Word เวอร์ชันเก่า
+* การอัพเดตเทมเพลตตามกำหนดเวลาด้วยภาพแบบ SVG ใหม่
+* การผสานเข้ากับระบบจัดการเอกสารที่ต้องการเทมเพลตที่เข้ากันได้กับรุ่นเก่า
+* การแปลงเป็น DOT ตามเหตุการณ์สำหรับรายงานที่เกิดซ้ำและเทมเพลตที่ใช้ซ้ำ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

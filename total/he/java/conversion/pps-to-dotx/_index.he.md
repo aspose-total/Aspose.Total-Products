@@ -99,7 +99,31 @@ otherformats: WORDML DOCM TEXT OTT FLATOPC DOT DOCX DOC DOTM RTF ODT WORD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (מצגת שקופיות של PowerPoint) ל- DOTX (תבנית Word) מספקת פורמט תבנית מבוסס XML מודרני ליצירת מסמכים תקניים. זה מועיל לארגונים ששומרים על עקביות במותג במסמכי Word.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת תבניות Word מודרניות ממצגות שיווק או מצגות מכירות.
+* בניית תבניות DOTX נציגות לדיווח פנימי.
+* עיצוב תבניות חברתיות מתוכן של PowerPoint.
+* המרת מצגות לתבניות מסמכי Word מעוצבות מראש.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירה מתוזמנת של תבניות DOTX ממצגות PPS.
+* שילוב במערכות ניהול תבניות Word בענן.
+* המרה בצורת צפון כדי לשמור על אחידות תבניות בקבוצות.
+* המרת PPS ל-DOTX אוטומטית לזרימות עבודה ליצירת תוכן.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

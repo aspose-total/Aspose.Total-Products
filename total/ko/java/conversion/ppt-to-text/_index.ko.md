@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 TEXT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 파일을 TEXT (.txt) 형식으로 변환하면 모든 텍스트 콘텐츠가 가벼운 일반 텍스트 버전으로 추출되어 데이터 처리, 아카이빙 또는 로컬라이제이션에 사용할 수 있습니다. 콘텐츠 추출 작업을 수행하는 개발자, 번역가 및 분석가에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 번역이나 NLP 처리를 위해 슬라이드 텍스트 추출.
+* PowerPoint 콘텐츠로 검색 가능한 텍스트 파일 생성.
+* 아카이빙이나 색인화를 위한 일반 텍스트 버전 생성.
+* SEO 또는 문서 작성을 위한 콘텐츠 재활용 단순화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* AI 또는 텍스트 마이닝 워크플로에 대한 자동화된 PPT-to-TEXT 변환.
+* 다국어 처리를 위한 로컬라이제이션 파이프라인 통합.
+* 콘텐츠 분석 및 데이터 레이블링을 위한 일괄 추출.
+* 기업 문서 관리를 위한 예약된 텍스트 내보내기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

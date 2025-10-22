@@ -61,7 +61,31 @@ Podczas konwertowania pliku PPS do SXC możesz również dodać znak wodny do wy
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PPS (PowerPoint Slide Show) na SXC (Arkusz kalkulacyjny StarOffice Calc) pomaga organizacjom pracującym z przestarzałymi lub oprogramowaniem biurowym typu open-source przekształcić dane prezentacji w formę arkusza kalkulacyjnego. Umożliwia strukturalną analizę i raportowanie bez konieczności korzystania z oprogramowania własnościowego.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Przekształcanie prezentacji biznesowych w analizowalne dane arkusza kalkulacyjnego.
+* Eksportowanie podsumowań slajdów sprzedażowych lub finansowych do formatu SXC.
+* Przygotowywanie arkuszy zgodnych z OpenOffice na podstawie raportów PPS.
+* Konwertowanie prezentacji edukacyjnych na strukturalne, udostępnialne arkusze kalkulacyjne.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna generacja plików SXC dla procesów raportowania opartych na LibreOffice.
+* Integracja z systemami zarządzania dokumentami typu open.
+* Konwersja slajdów na SXC w trybie wsadowym dla archiwów analitycznych.
+* Zaplanowane eksporty dla zespołów korzystających z środowisk biurowych typu open-source.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ Saat mengonversi file PPTX ke TSV, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPTX ke TSV (Tab-Separated Values) menawarkan representasi teks biasa yang terstruktur dari tabel presentasi. Format ini ideal bagi pengembang dan ilmuwan data yang memerlukan impor mudah ke dalam kode atau lingkungan analitik.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengonversi data slide PowerPoint untuk pemodelan statistik.
+* Menyiapkan informasi tabular untuk skrip dan API.
+* Mengekspor KPI dan metrik dari slide PowerPoint ke TSV.
+* Berbagi set data bersih untuk tujuan penelitian dan akademis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi PPTX ke TSV yang dijadwalkan dalam pipa data.
+* Mengotomatisasi ekspor TSV untuk set data pelatihan machine learning.
+* Integrasi dengan repositori data ilmiah.
+* Jembatan data dari PowerPoint ke kode untuk alur kerja rekayasa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

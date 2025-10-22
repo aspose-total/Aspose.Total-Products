@@ -47,7 +47,31 @@ Saat mengonversi file SVG ke TXT, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi SVG ke TXT (Teks Biasa) mengekstrak konten teks dari grafik vektor untuk analisis, pengindeksan, atau dokumentasi ringan. TXT ideal untuk alur kerja sederhana yang dapat di-script.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengekstrak label dan anotasi dari diagram SVG untuk dokumentasi.
+* Membuat versi teks biasa yang dapat dicari dari ilustrasi teknis.
+* Menghasilkan laporan metadata SVG ringan untuk analisis data.
+* Berbagi konten SVG teks secara cepat tanpa gambar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Ekstraksi otomatis teks SVG ke TXT untuk pipa laporan.
+* Generasi jadwal dokumentasi teks biasa dari diagram vektor.
+* Integrasi dengan sistem pengindeksan dan pencarian.
+* Konversi yang dipicu untuk analitika dan alur kerja konten ringan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

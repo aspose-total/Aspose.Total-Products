@@ -121,7 +121,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG (Ölçeklenebilir Vektör Grafik) dosyalarını ODP (Açık Belge Sunumu) formatına dönüştürmek, vektör diyagramlarını açık standart slayt sunumlarına gömme olanağı sağlar. ODP, modern sunum iş akışları için ölçeklenebilirlik ve çapraz platform uyumluluğunu destekler.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Kurumsal sunumlar için SVG diyagramlarla etkileşimli slayt sunumları oluşturma.
+* Vektör tabanlı illüstrasyonlar ve grafiklerle eğitim slaytları.
+* Ölçeklenebilir grafiklerle ürün verilerini sergileyen pazarlama sunumları.
+* Yüksek kaliteli SVG görseller kullanılarak akademik konferans sunumları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tekrarlayan sunum güncellemeleri için toplu SVG-ODP dönüşümü.
+* Eğitim veya kurumsal slaytlar için zamanlanmış şablon oluşturma.
+* Otomatik iş akışları için açık kaynak sunum platformlarıyla entegrasyon.
+* Dinamik olarak oluşturulan slayt içeriği için tetiklenen dönüşüm akışları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

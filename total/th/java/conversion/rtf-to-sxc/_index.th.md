@@ -61,7 +61,31 @@ otherformats: FODS XLAM ODS TSV XLSB XLSM XLTX EXCEL XLS XLTM DIF SXC XLSX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงเอกสาร RTF เป็น SXC (StarOffice Calc Spreadsheet) ช่วยให้เกิดความเข้ากันได้กับระบบเก่าของ OpenOffice และ StarOffice มากขึ้น มันเหมาะสำหรับองค์กรที่ต้องการรักษาโครงสร้างพื้นฐานเก่าที่มีรายงานหรือข้อมูลในรูปแบบสเปรดชีตที่ต้องการนำกลับมาใช้ใหม่
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+* การแปลงรายงานธุรกิจที่ใช้รูปแบบ RTF เป็น SXC archives
+* การนำข้อมูลจาก RTF มาวิเคราะห์ในระบบที่เข้ากันได้กับ StarOffice
+* การส่งออกข้อมูลตารางจากแบบฟอร์มที่เขียนด้วยคำสั่งไปเป็นแบบจำลองสเปรดชีต
+* การปรับปรุงเนื้อหา RTF ในการเก็บข้อมูลภายใน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+* การแปลง RTF เป็น SXC ตามกำหนดเวลาเพื่อรองรับระบบเก่า
+* การแปลงเป็นชุดข้อมูลในระบบเมื่อมีการอัพเกรดระบบเอกสาร
+* การรวมเข้ากับเครื่องมือย้ายข้อมูลขององค์กรที่รองรับชุดข้อมูล StarOffice
+* การทำซ้ำข้อมูลเก็บถาวรโดยอัตโนมัติเพื่อปฏิบัติตามหรือสำรองข้อมูล
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

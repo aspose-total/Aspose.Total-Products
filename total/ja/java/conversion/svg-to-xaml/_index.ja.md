@@ -135,7 +135,25 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+SVG（Scalable Vector Graphics）ファイルをXAML（Extensible Application Markup Language）に変換すると、開発者はベクターグラフィックをWindowsアプリケーションに直接統合できます。 XAMLは拡張性と解像度の独立性を保持し、現代のUIデザインに最適です。
+
+## Key Use Cases
+
+- WPFまたはUWPアプリケーションにSVGベースのアイコンやイラストを埋め込む。
+- ベクターグラフィックを使用してエンタープライズアプリケーション向けのインタラクティブなダッシュボードを設計する。
+- デスクトップやモバイルアプリケーション向けのスケーラブルなUIコンポーネントを作成する。
+- 高精細のベクターチャートを使用した教育や科学の可視化ツールを作成する。
+
+## Automation Scenarios
+
+- SVGアセットをXAMLに自動バッチ変換してアプリケーション開発を行う。
+- 新しいSVGデザインでUIライブラリを定期的に更新する。
+- WPFまたはUWPプロジェクトでのシームレスな展開のためのビルドパイプラインとの統合。
+- アプリケーション内の動的SVGコンテンツのリアルタイムレンダリングのためのトリガー変換。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

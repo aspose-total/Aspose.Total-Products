@@ -57,7 +57,31 @@ Usando a API, você também pode girar a imagem DICOM de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PS (PostScript) para o formato DICOM (Digital Imaging and Communications in Medicine) permite a integração perfeita de relatórios baseados em vetores, gráficos de diagnóstico e anotações radiográficas em fluxos de trabalho padronizados de imagens médicas. A compatibilidade com DICOM garante que esses relatórios visuais possam ser visualizados e analisados com segurança em plataformas PACS (Sistema de Comunicação e Arquivamento de Imagens) usadas em hospitais e clínicas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Incorporar diagramas de diagnóstico baseados em vetores nos arquivos de imagens de pacientes.
+* Converter gráficos de PS de cardiologia ou oncologia em séries de imagens compatíveis com DICOM.
+* Integrar visuais de planejamento cirúrgico nos sistemas de imagens hospitalares.
+* Gerar resumos diagnósticos como sobreposições DICOM para relatórios de radiologia.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Transformação automatizada de PS para DICOM dentro dos fluxos de trabalho de EMR (Registro Médico Eletrônico).
+* Integração de dados ETL em pipelines de análise de saúde para relatórios baseados em imagens.
+* Conversão em lote assistida por IA para visualização diagnóstica em sistemas de IA médica.
+* Exportação DICOM acionada para documentação de imagens clínicas geradas automaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

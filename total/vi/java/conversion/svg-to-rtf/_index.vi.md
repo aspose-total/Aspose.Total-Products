@@ -129,7 +129,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG sang RTF (Rich Text Format) cho phép nhúng sơ đồ vector vào tài liệu văn bản được hỗ trợ một cách phổ biến. RTF duy trì định dạng trên các trình xử lý văn bản và hệ điều hành khác nhau.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng hình ảnh SVG vào báo cáo hoặc hướng dẫn đa nền tảng.
+* Tài liệu kỹ thuật hoặc giáo dục chuẩn với biểu đồ vector.
+* Mẫu dự án di động tích hợp các biểu đồ SVG.
+* Bài báo hoặc bài thuyết trình yêu cầu định dạng văn bản tương thích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt SVG sang RTF tự động để phân phối tài liệu.
+* Cập nhật định kỹ thuật cho hướng dẫn mới với hình ảnh SVG.
+* Tích hợp với hệ thống quản lý nội dung để truy cập đa nền tảng.
+* Tạo tài liệu RTF theo yêu cầu cho quy trình làm việc ngoại tuyến hoặc di động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

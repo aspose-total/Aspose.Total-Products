@@ -129,7 +129,31 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konvertering av SVG-filer till OTT (OpenDocument Text Template) skapar återanvändbara textdokumentmallar med inbäddade vektor diagram. OTT säkerställer konsekvens över projekt och team arbetsflöden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+* Standardiserade rapportmallar med SVG-visualiseringar för affärsteam.
+* Akademiska eller instruktionsdokumentmallar med inbäddade diagram.
+* Marknadsförings- eller projekt dokumentationsmallar för konsekvent formatering.
+* Återanvändbara guider och manualer som utnyttjar skalbara SVG-grafik.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* Automatisk batchkonvertering av SVG-diagram till OTT-mallar.
+* Planerade uppdateringar för återanvändbara dokumentmallar med färska visualiseringar.
+* Integration med innehållssystem för mallstyrda arbetsflöden.
+* Utlöst generering av interaktiva textmallar för team samarbete.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

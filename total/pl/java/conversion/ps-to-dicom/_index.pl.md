@@ -57,7 +57,31 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików PS (PostScript) na format DICOM (Digital Imaging and Communications in Medicine) umożliwia bezproblemową integrację wektorowych raportów, wykresów diagnostycznych i adnotacji radiograficznych do standaryzowanych przepływów pracy w dziedzinie obrazowania medycznego. Kompatybilność z DICOM zapewnia, że te wizualne raporty można bezpiecznie przeglądać i analizować na platformach PACS (Picture Archiving and Communication System) używanych w szpitalach i klinikach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Osadzanie wektorowych diagramów diagnostycznych w archiwach obrazowania pacjenta.
+* Konwertowanie wykresów PS z dziedziny kardiologii lub onkologii na serię obrazów kompatybilnych z DICOM.
+* Integracja wizualizacji planowania operacji w systemach obrazowania szpitalnego.
+* Generowanie podsumowań diagnostycznych jako nakładki DICOM do raportów radiologicznych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna transformacja PS na DICOM w ramach przepływów pracy EMR (Electronic Medical Record).
+* Integracja danych ETL w potokach analityki zdrowia do raportowania opartego na obrazach.
+* Partiowa konwersja wspomagana przez AI do wizualizacji diagnostycznych w systemach medycznych z AI.
+* Wywołane eksportowanie DICOM dla automatycznie generowanej dokumentacji obrazowania klinicznego.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

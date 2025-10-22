@@ -61,7 +61,31 @@ PPT 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 프레젠테이션을 FODS (Flat OpenDocument Spreadsheet)로 변환하면 조직이 구조화된 콘텐츠를 오픈 표준 오피스 도구에 재활용할 수 있습니다. FODS 형식은 특히 LibreOffice나 Apache OpenOffice를 사용하여 안전하고 편집 가능한 스프레드시트 워크플로에 의존하는 팀에게 가치가 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 테이블을 분석을 위해 LibreOffice 스프레드시트로 변환합니다.
+* 협업 편집을 위해 슬라이드에서 구조화된 데이터를 추출합니다.
+* 프레젠테이션 데이터를 오픈 XML 기반 스프레드시트 형식으로 아카이빙합니다.
+* 교육 기록 시스템을 위해 교육용 FODS로 훈련 프레젠테이션을 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 오픈 소스 사용을 위해 PowerPoint 보고서에서 자동 FODS 생성합니다.
+* 정부나 교육 문서 시스템에서 일괄 처리합니다.
+* 디지털 변환 파이프라인에 PPT에서 FODS로 변환을 통합합니다.
+* 부서간 보고 및 문서화를 위한 예약된 내보내기를 수행합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

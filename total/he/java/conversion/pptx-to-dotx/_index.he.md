@@ -102,7 +102,31 @@ otherformats: RTF FLATOPC WORDML TEXT DOCM OTT DOT DOTM DOC ODT DOCX WORD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPTX ל-DOTX (תבנית Word) עוזרת להמיר מצגות עם עיצוב לתבניות נערכות וניתנות לעריכה ב-Word. זה מבטיח אחידות במותג ועקביות במסמכים בקרב צוותים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* יצירת תבניות תקניות מעיצובי שקופיות ב-PowerPoint.
+* בניית תבניות DOTX ניתנות לשימוש חוזר לדוחות ומדריכים.
+* המרת פורמטי מצגות לתבניות Word ממותגות.
+* שמירה על עיצוב מסמכים עקבי בכל החברה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת תבניות DOTX אוטומטיות לצוותי משאבי אנוש או פיננסים.
+* המרה רציפה ממצגות תדמית לתבניות חברתיות.
+* שילוב עם כלים לניהול סגנונות ואוטומציה של מסמכים.
+* סנכרון בקרת גרסאות לתבניות החברה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

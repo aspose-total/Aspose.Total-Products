@@ -61,7 +61,31 @@ A PPTX fájl ODS formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX átalakítása ODS formátummá (OpenDocument Spreadsheet) összekapcsolja a prezentációs adatokat a táblázatkezelő elemzésekkel. Ez az átalakítás előnyös azoknak a szervezeteknek, amelyek áttérnek az nyílt forráskódú produktivitási csomagokra, miközben megőrzik az alapvető táblázatos tartalmat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Pénzügyi összesítések kinyerése prezentációkból ODS formátumban.
+* Adatalapú diák megosztása OpenOffice vagy LibreOffice felhasználókkal.
+* Elemzők képessé tétele a diátáblázatok szerkesztésére a táblázatkezelő szoftveren belül.
+* Nyílt adatverziók előkészítése prezentációs jelentésekből.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ütemezett PPTX-ODS átalakítások dokumentumfolyamatokban.
+* Integráció nyílt forráskódú irodai ökoszisztémákba.
+* Automatizált átalakítás kormányzati adatbeadásokhoz.
+* ETL-kész számértékű diáadatok kinyerése.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

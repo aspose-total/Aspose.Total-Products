@@ -54,7 +54,31 @@ API를 사용하면 암호로 보호된 RTF 문서를 PPSM로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF를 PPSM(PowerPoint Macro-Enabled Show)으로 변환하면 슬라이드 쇼 프레젠테이션에 자동화가 도입됩니다. 이 형식은 RTF의 풍부한 텍스트와 PowerPoint의 동적 매크로 기능을 결합하여 고급 대화형 스토리텔링을 제공합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* RTF 데이터에서 가져온 매크로를 사용하여 슬라이드 쇼 프레젠테이션을 자동화합니다.
+* RTF 매뉴얼을 기반으로 대화형 대시보드 또는 튜토리얼을 작성합니다.
+* 동적 업데이트가 포함된 자동화된 프레젠테이션을 제공합니다.
+* 비즈니스 요약을 자체 실행되는 매크로 기반 슬라이드로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* e러닝 콘텐츠 파이프라인에서의 RTF-to-PPSM 자동화.
+* 매크로 기능이 활성화된 보고 시스템과의 통합.
+* 영업 및 교육팀을 위한 예정된 프레젠테이션 생성.
+* 텍스트 중심 문서 세트에서의 자동화된 PowerPoint 쇼 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

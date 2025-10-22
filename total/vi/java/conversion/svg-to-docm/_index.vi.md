@@ -129,7 +129,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tệp SVG (Scalable Vector Graphics) sang DOCM (Tài liệu được Kích hoạt Macro của Word) cho phép nhúng biểu đồ vector tương tác vào tài liệu Word trong khi hỗ trợ các macro để tự động hóa. DOCM lý tưởng cho báo cáo động, mẫu và tài liệu giáo dục.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Hướng dẫn tương tác với biểu đồ SVG và điều hướng được kích hoạt bằng macro.
+* Báo cáo kinh doanh tích hợp biểu đồ vector hoạt hình hoặc tương tác.
+* Các bài báo nghiên cứu học thuật sử dụng hình ảnh SVG động được điều khiển bằng macro.
+* Mẫu chuẩn cho đề xuất dự án hoặc quy trình làm việc công ty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt tự động của biểu đồ SVG thành DOCM cho báo cáo công ty.
+* Tạo lịch trình cho các mẫu được kích hoạt bằng macro từ hình ảnh SVG.
+* Tích hợp với hệ thống quản lý tài liệu để báo cáo tương tác.
+* Chuyển đổi SVG sang DOCM được kích hoạt cho nội dung hướng dẫn động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

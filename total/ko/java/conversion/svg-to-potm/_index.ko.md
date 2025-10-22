@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 POTM(매크로 활성화 PowerPoint 템플릿)으로 변환하면 확장 가능한 벡터 그래픽을 포함하면서 자동화를 위한 매크로가 포함된 재사용 가능한 템플릿을 만들 수 있습니다. 상호 작용 및 자동화된 프레젠테이션 워크플로에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 시각 자료가 포함된 매크로 활성화 기업 프레젠테이션 템플릿.
+* 동적 차트 및 다이어그램이 포함된 자동화된 보고서 덱.
+* 매크로 기반 상호 작용을 활용한 교육 및 지시용 슬라이드 템플릿.
+* SVG 콘텐츠를 활용한 상호 작용적인 학술 또는 연구 템플릿.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 주기적으로 발생하는 매크로 활성화 프레젠테이션을 위한 예약된 SVG-to-POTM 변환.
+* 동적 슬라이드 덱을 위한 템플릿에 매크로 자동 삽입.
+* 팀 전체 템플릿 사용을 위한 워크플로 자동화 통합.
+* 상호 작용형 대시보드 및 보고서를 위한 트리거된 템플릿 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

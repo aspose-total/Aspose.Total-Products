@@ -102,7 +102,31 @@ otherformats: SXC EXCEL CSV XLSX XLS XLSM TSV XLTX XLAM FODS MHTML XLTM ODS XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-XLT (תבנית Excel) עוזרת לעסקים ליצור תבניות גיליון נתונים ניתנות לשימוש מנתוני המצגת. תבניות אלו מבטיחות עקביות בדיוחים, עיצוב וניתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* בניית תבניות תקציב סטנדרטיות ממצגות פיננסיות.
+* עיצוב תבניות דוח ממצגות מנהליות.
+* יצירת תבניות חוזיות לצפייה מחדש.
+* יצירת פריסות ניתוח תקניות מתמונות במצגות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירה אוטומטית של תבניות XLT מדוחות PowerPoint חוזרים.
+* שילוב במערכות ניהול תבניות תקניות.
+* המרת מתוזמנת של שקופיות לתבנית לשקיפות מחלקתית.
+* יצירה מרובה של תבניות Excel ממצגות מאושרות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

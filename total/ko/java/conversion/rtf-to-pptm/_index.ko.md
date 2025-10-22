@@ -54,7 +54,31 @@ API를 사용하면 암호로 보호된 RTF 문서를 PPTM로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF 파일을 PPTM(파워포인트 매크로 활성화 프레젠테이션)으로 변환하면 구조화된 문서 콘텐츠를 대화식 매크로와 병합합니다. 자동 슬라이드 생성, 데이터 상호 작용 및 멀티미디어 통합을 지원하여 전문적으로 사용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* RTF 비즈니스 보고서에서 대화식 프레젠테이션 생성.
+* 내장된 매크로를 사용하여 프레젠테이션 업데이트 자동화.
+* 사용자 입력에 반응하는 스마트 교육 자료 작성.
+* 동적 데이터 링크 슬라이드로 RTF 문서 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 매크로 기반 프레젠테이션 워크플로우를 위한 RTF-to-PPTM 변환.
+* 비즈니스 인텔리전스 시각화를 위한 자동화 플랫폼 통합.
+* 매크로 활성화된 파워포인트 덱스의 예약 생성.
+* RTF 소스에서 대화식 기업 브리핑의 자동 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

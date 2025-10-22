@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 DOCM로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 DOCM (매크로 활성화 워드 문서)로 변환하면 자동화된 대화형 텍스트 문서를 만들 수 있습니다. 이 변환은 자동으로 채워지는 보고서나 내장 스크립트가 포함된 문서와 같은 동적 콘텐츠가 필요한 팀에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 프레젠테이션 콘텐츠에서 매크로 활성화된 템플릿 생성.
+* 내장된 VBA 스크립트를 사용하여 요약 보고서 생성 자동화.
+* 조건부 데이터를 사용하여 동적 비즈니스 문서 작성.
+* PPS 프레젠테이션에서 DOCM 기반의 컴플라이언스 보고서 디자인.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 일정에 따른 PowerPoint 프레젠테이션에서 DOCM 생성.
+* 문서 자동화를 위해 VBA 기반 워드 워크플로와 통합.
+* 매크로 활성화된 템플릿을 사용하는 부서를 위한 일괄 변환.
+* 문서 생성 파이프라인에서의 자동 변환.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

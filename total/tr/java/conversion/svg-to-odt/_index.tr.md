@@ -129,7 +129,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG dosyalarını ODT (Açık Belge Metni) formatına dönüştürmek, vektör grafiklerin çeşitli platformlarda metin belgelerine gömülmesine olanak tanır. ODT, LibreOffice, OpenOffice ve diğer paketlerle uyumlu olurken görsel sadakati sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* SVG diyagramlarını içeren teknik kılavuzlar ve proje raporları.
+* Gömülü vektör illüstrasyonları olan akademik makaleler.
+* Ölçeklenebilir SVG görselleri kullanan pazarlama veya iş belgeleri.
+* Biçimleme sorunu olmadan dağıtılan çeşitli platformlarda kılavuzlar ve rehberler.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tekrarlayan belgeleme için otomatik toplu SVG'den ODT'ye dönüştürme.
+* Yeni SVG görsellerle zamanlanmış şablon güncellemeleri.
+* Çoklu platformda dağıtım için içerik yönetim sistemleriyle entegrasyon.
+* Talimat veya eğitim materyalleri için tetiklenen üretim.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

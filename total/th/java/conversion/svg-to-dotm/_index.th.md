@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น DOTM (Macro-Enabled Word Template) ช่วยให้สามารถใช้เทมเพลตซ้ำได้ที่รวมกราฟิกเวกเตอร์ขนาดใหญ่กับแมโคร มีประโยชน์สำหรับรายงานแบบอินเทอร์แอคทีฟ แบบฟอร์ม และเอกสารเวิร์กโฟลว์
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+* เทมเพลตติดแมโครสำหรับการติดตามโครงการพร้อมกราฟิกเวกเตอร์ SVG ที่ฝังอยู่
+* เทมเพลตการเงินหรือการดำเนินงานที่ใช้ซ้ำสำหรับเวิร์กโฟลว์ขององค์กร
+* เทมเพลตทางวิชาการหรือการวิจัยที่รวมไดอะแกรมไดนามิกและออโตเมชัน
+* วัสดุการเรียนการสอนอินเทอร์แอคทีฟที่ใช้ไดอะแกรม SVG ที่เพิ่มแมโคร
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลง SVG เป็น DOTM อัตโนมัติสำหรับเทมเพลตที่มีแมโครที่เกิดซ้ำ
+* การอัปเดตเทมเพลตตามกำหนดเวลาด้วยข้อมูล SVG และแมโครใหม่
+* การผสานเข้ากับระบบอัตโนมัติของเวิร์กโฟลว์ที่ต้องการเทมเพลตที่ใช้ซ้ำ
+* การสร้างกระแสการแปลงที่เรียกใช้สำหรับแดชบอร์ดรายงานแบบอินเทอรแอคทีฟ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

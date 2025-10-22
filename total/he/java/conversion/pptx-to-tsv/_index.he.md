@@ -102,7 +102,31 @@ otherformats: DIF MARKDOWN XLAM XLSM CSV XLTX XLTM ODS MHTML XLSX FODS XLSB SXC 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPTX ל־TSV (ערכים מופרדים בטאב) מציעה תצוגה מובנית וטקסט פשוט של טבלאות המצגת. פורמט זה אידיאלי עבור מפתחים ולמדני נתונים שזקוקים לייבוא קל לתוך קוד או סביבות ניתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת נתוני שקופיות בפייל PowerPoint למודלים סטטיסטיים.
+* הכנת מידע טבלאי לתסריטים ו־APIs.
+* ייצוא של KPIs ומדדים ממצגות PowerPoint ל־TSV.
+* שיתוף קבוצות נתונים נקיים למטרות מחקר ואקדמיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרות מתוזמנות של PPTX ל־TSV בצינורות נתונים.
+* אוטומציה של ייצואי TSV לסטים ללמידת מכונה.
+* שילוב עם מאגרי נתונים מדעיים.
+* גשר נתונים מ־PowerPoint לקוד לצורך זרימות עבודה בהנדסה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

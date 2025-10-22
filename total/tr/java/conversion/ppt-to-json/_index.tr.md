@@ -49,7 +49,31 @@ PPT'yi JSON'a dönüştürürken, aralığı JSON çıktı biçiminize de ayarla
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) dosyalarını JSON (JavaScript Object Notation) formatına dönüştürmek, karmaşık sunum verilerini yapılandırılmış, hafif ve makine tarafından okunabilir formata çevirir. Bu format, sunum meta verilerini, slaytları veya görselleri web uygulamalarına ve yapay zeka destekli platformlara entegre eden geliştiriciler için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Web veya mobil uygulamalar için PowerPoint slayt meta verilerinin çıkarılması.
+* Sunum verilerinin gösterge panolarına veya veri görselleştirme sistemlerine entegre edilmesi.
+* Dinamik slayt oluşturma için JSON tabanlı API'ların oluşturulması.
+* PowerPoint içeriğini bağlamsal olarak yorumlayan yapay zeka sistemlerinin desteklenmesi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Otomatik içerik ayrıştırması için PPT'nin JSON'a gerçek zamanlı dönüştürülmesi.
+* Başsız CMS veya belge dizinleme sistemleriyle entegrasyon.
+* Yapılandırılmış sunum verileri gerektiren analitik platformlar için toplu işleme.
+* PowerPoint içeriğinin özetlenmesi ve etiketlenmesi için yapay zeka destekli işlemler.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

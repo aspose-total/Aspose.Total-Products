@@ -49,7 +49,31 @@ PPT를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 설정�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 파일을 JSON (JavaScript Object Notation)으로 변환하면 복잡한 프레젠테이션 데이터를 구조화되고 가벼우며 기계가 읽을 수 있는 형식으로 변환합니다. 이 형식은 프레젠테이션 메타데이터, 슬라이드 또는 시각 자료를 웹 애플리케이션 및 AI 기반 플랫폼에 통합하는 개발자들에게 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 웹 또는 모바일 앱을 위한 PowerPoint 슬라이드 메타데이터 추출.
+* 대시보드 또는 데이터 시각화 시스템에 프레젠테이션 데이터 통합.
+* 동적 슬라이드 렌더링을 위한 JSON 기반 API 구축.
+* PowerPoint 콘텐츠를 문맥에 맞게 해석하는 AI 시스템 지원.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 자동 콘텐츠 파싱을 위한 PPT를 JSON으로 실시간 변환.
+* 헤드리스 CMS 또는 문서 색인 시스템과 통합.
+* 구조화된 프레젠테이션 데이터가 필요한 분석 플랫폼을 위한 일괄 처리.
+* PowerPoint 콘텐츠의 AI 기반 요약 및 태깅 지원.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,31 @@ otherformats: DOCX OTT TEXT DOC DOT DOTX DOCM WORD FLATOPC WORDML RTF DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPTX ל-ODT (OpenDocument Text) מאפשרת לשנות שקופיות למסמכי טקסט ניתנים לעריכה. זה יעיל ליצירת דוחות כתובים, סיכומים, או תיעוד ניתן לעריכה בהתבסס על מצגות PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת הערות שקופיות לטקסט ניתן לעריכה לדוחות.
+* יצירת מסמכי ODT לצורך סיכומים אקדמיים או תעשייתיים.
+* שינוי מצגות פרויקט לקבצי טקסט שניתן לשתף.
+* שימוש מחודש בתוכן השקופית לכתיבת מדיניות והצעות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת דוחות אוטומטיים ממצגות PowerPoint.
+* שילוב תהליכי עבודה עם כלים למסמכי משרד קוד פתוח.
+* המרת מצגות מכירה למסמכים ניתנים לעריכה לצורך ביקורת פנימית.
+* ארכיבת הערות מצגת PowerPoint בתבנית ODT לגישות נגישות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

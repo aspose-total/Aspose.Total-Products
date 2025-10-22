@@ -53,7 +53,33 @@ otherformats: TEXT WORDMLM DOTM ODT WORDML DOTX DOT FLATOPC WORDMLX WORD OTT RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น WORDML (Microsoft Word XML Document) จะให้รูปแบบที่มีโครงสร้างและใช้ XML ที่เหมาะสำหรับการนำเข้าสู่ระบบเนื้อหาองค์กร ซึ่งจะช่วยให้มีความยืดหยุ่นสำหรับการจัดการเอกสารที่มีข้อมูลและการปรับแต่ง
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงภาพสไลด์การนำเข้าเป็นโครงสร้าง WordML ที่เข้ากันได้กับ XML
+* การนำเนื้อหา PowerPoint เข้าระบบการเผยแพร่ที่ใช้ XML
+* การสร้างรายงานโดยอัตโนมัติในรูปแบบ WordML ที่มีโครงสร้าง
+* การสร้างเอกสารมาตรฐานสำหรับการเก็บถาวรดิจิทัล
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง WordML โดยอัตโนมัติจากการอัปเดตซ้ำ
+* การนำเข้าระบบ CMS หรือ DMS ที่ต้องการโครงสร้างเอกสาร XML
+* การแปลงสไลด์เป็น WordML ตามกำหนดเวลาสำหรับการควบคุมเอกสารขององค์กร
+* การสร้างเป็นชุดสำหรับรายงานที่มีโครงสร้างและสามารถอ่านโดยเครื่อง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

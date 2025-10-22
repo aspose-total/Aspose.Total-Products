@@ -61,7 +61,31 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB ODS XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็นไฟล์ ODS (OpenDocument Spreadsheet) นำเสนอวิธีที่ไม่มีรอยต่อในการนำข้อมูลงานนำเสนอมาใช้ใหม่ในรูปแบบสเปรดชีตที่มีโครงสร้าง การแปลงนี้ช่วยให้ผู้เชี่ยวชาญสามารถแปลงสไลด์ที่สรุปได้เป็นตารางที่สามารถแก้ไขและวิเคราะห์ได้ที่เข้ากันได้กับ LibreOffice Calc และ OpenOffice
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* การสกัดข้อมูลทางการเงินจากสไลด์งานนำเสนอเข้าสู่รายงาน ODS ที่มีโครงสร้าง
+* การแปลงสไลด์การศึกษาเป็นการวิเคราะห์ข้อมูลเกี่ยวกับหลักสูตรที่ใช้สเปรดชีต
+* การแปลงงานนำเสนอทางการตลาดเป็นสเปรดชีตเกี่ยวกับประสิทธิภาพการขาย
+* การเตรียมสเปรดชีตการติดตามโครงการที่สามารถแก้ไขจากสรุปธุรกิจ PPS
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การแปลงงานนำเสนอในห้องประชุมตามกำหนดเป็นไฟล์ประสิทธิภาพ ODS ทุกไตรมาส
+* การรวมเข้ากับท่อรายงานเพื่อแปลงสไลด์เป็นข้อมูลสเปรดชีตที่สามารถแบ่งปันโดยอัตโนมัติ
+* การแปลงผลลัพธ์จากการประชุมเป็นสเปรดชีตวิเคราะห์ที่เซ็นทรัลไลฟ์
+* การแปลงเป็นชุดใหญ่สำหรับทีมที่รักษาบันทึกงานนำเสนอและสเปรดชีต
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

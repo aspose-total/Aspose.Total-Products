@@ -102,7 +102,31 @@ otherformats: FLATOPC WORD DOCM DOCX WORDML DOC RTF DOT ODT DOTX OTT TEXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPT (PowerPoint) לתבנית DOTM (תבנית Word עם תסריט) משלבת חזותיות של PowerPoint עם יכולות אוטומציה של Word. תבניות DOTM הן אידיאליות לאוטומציה של משימות חוזרות כמו יצירת דוחות, מילוי תוכן והכנסת נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* בניית תבניות Word עם תסריט מקרו ממצגות PowerPoint.
+* אוטומציה של מבני דוח חוזרים באמצעות תסריטים מוטבעים.
+* יצירת תבניות חכמות ומותגות לתיעוד עסקי חוזר.
+* סידור תהליכי הכנת דוחות בהתבסס על פריסות מצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל-DOTM באופן אוטומטי לתבניות מסמכים חכמות.
+* שילוב במערכות אוטומציה עסקיות עם לוגיקת VBA.
+* יצירה מתוזמנת של תבניות עם תסריט מקרו לצוותי תיעוד.
+* המרה בצטברות לניהול תבניות המונה בהתאם לתקנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

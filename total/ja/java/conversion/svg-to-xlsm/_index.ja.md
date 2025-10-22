@@ -47,7 +47,31 @@ SVGファイルをXLSMに変換するときに、出力XLSMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをXLSM（Excelマクロ有効ワークブック）に変換すると、ベクターグラフィックスの明瞭さとExcelマクロが組み合わさり、ワークブックでの動的自動化と相互作用が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* VBAマクロを使用したSVGダッシュボードをファイナンスチーム向けのXLSMファイルに統合。
+* ベクタービジュアルを含むスクリプトを埋め込んだ自動レポーティングソリューション。
+* インタラクティブなマクロ有効Excelシートに変換されたエンジニアリングプロセス図。
+* マクロを使用したXLSMワークブックでのインタラクティブeラーニング教材とチュートリアル。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なマクロ有効レポートのためのスケジュールされたSVGからXLSMへの変換。
+* SVGから生成されたXLSMファイルにVBAスクリプトを自動的に挿入。
+* インタラクティブなワークブックを必要とするビジネスインテリジェンスシステムとの統合。
+* ダイナミックダッシュボードや運用レポートのためのトリガーされたエクスポートワークフロー。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

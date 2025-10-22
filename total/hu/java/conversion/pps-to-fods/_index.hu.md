@@ -61,7 +61,31 @@ A PPS fájl FODS formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PPS (PowerPoint Slide Show) fájlok FODS (Flat XML ODF Spreadsheet) formátummá alakítása átalakítja a prezentációs tartalmat táblázatkezelő-kompatibilis XML formátummá. Különösen értékes az open-source felhasználók számára, akik a LibreOffice vagy az Apache OpenOffice ökoszisztémával dolgoznak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Numerikus adatok exportálása PowerPointből FODS táblázatokba.
+* Strukturált XML táblázatok létrehozása oktatási vagy üzleti célokra.
+* Diagramok átalakítása diákról szerkeszthető OpenDocument táblázatadattá.
+* Nyílt szabványú fájlok előkészítése elemzéshez és megosztáshoz a LibreOffice Calc-ban.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ütemezett FODS generálás ismétlődő prezentációfrissítésekből.
+* Integráció nyílt forráskódú jelentési rendszerekbe.
+* Diák átalakítása FODS formátumba analitikai irányítópultokhoz.
+* Automatizált XML-alapú táblázat létrehozása platformfüggetlen munkafolyamatokhoz.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力WMF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをWMF（Windows Metafile）に変換すると、Microsoft Officeや旧Windowsアプリケーションと互換性のある高品質のベクターグラフィックスが可能になります。これにより、PostScriptの忠実度の高いスケーラブルなグラフィックスが実現されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* PSダイアグラムをPowerPoint、Word、Excel文書に埋め込む。
+* 技術的なPostScriptビジュアルをWindows互換のベクターグラフィックスに変換する。
+* Windowsベースのレポートツール向けのマーケティングやビジネスチャートを準備する。
+* PostScriptのイラストを旧Windows環境に移行する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業文書ワークフロー向けの自動化されたPSからWMFへのバッチ変換。
+* オフィス自動化パイプラインとの統合。
+* プレゼンテーションや印刷用にPSベースのレポートを定期的に変換する。
+* WMF生成のためのクラウドベースのベクター最適化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

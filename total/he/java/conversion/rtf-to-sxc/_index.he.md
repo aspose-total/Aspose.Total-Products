@@ -102,7 +102,31 @@ otherformats: FODS XLAM ODS TSV XLSB XLSM XLTX EXCEL XLS XLTM DIF CSV XLSX XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמכי RTF ל-SXC (גיליון חישובים של StarOffice Calc) מאפשרת תאימות עם אקוסיסטמות ישנות של OpenOffice ו-StarOffice. זה יעיל לעסקים ששומרים על תשתית ישנה וצריכים להשתמש מחדש בדוחות או נתונים בפורמט גיליון עבור גישה בסיסית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת דוחות עסקיים היסטוריים בבסיס RTF לארכיונים בפורמט SXC.
+* השימוש מחדש בנתוני RTF לצורך ניתוח בתוך מערכות התואמות ל-StarOffice.
+* ייצוא מידע טבלאי מטפסי מעובדי מילים לדגמים של גיליונות חישובים.
+* מודרניזציה של תוכן RTF ארכיוני למעקב נתונים פנימי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרות מתוזמנות של RTF ל-SXC לתמיכה במערכות ישנות.
+* המרות צורפות במהלך שדרוגי מערכות מסמכים.
+* שילוב לכלי ההגירה הארגוניים שתומכים במערכות נתונים של StarOffice.
+* שיחזור ארכיוני אוטומטי לצורך תאימות או מערכות גיבוי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

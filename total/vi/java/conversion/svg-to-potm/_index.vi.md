@@ -121,7 +121,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG sang POTM (Mẫu PowerPoint có Macro) cho phép tạo các mẫu có thể tái sử dụng với macro để tự động hóa trong khi nhúng đồ họa vector có thể co dãn. Lý tưởng cho quy trình làm việc trình bày tương tác và tự động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Mẫu trình bày doanh nghiệp có Macro với hình ảnh SVG được nhúng.
+* Bộ trình bày báo cáo tự động với biểu đồ và sơ đồ động.
+* Mẫu trình bày đào tạo và hướng dẫn sử dụng tương tác do macro điều khiển.
+* Mẫu học thuật hoặc nghiên cứu tương tác tận dụng nội dung SVG.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi SVG sang POTM theo lịch trình cho các bài trình bày có Macro tái diễn.
+* Nhúng tự động các macro vào các mẫu để tạo bộ trình bày động.
+* Tích hợp với tự động hóa quy trình làm việc cho việc sử dụng mẫu trên toàn đội.
+* Kích hoạt tạo mẫu cho bảng điều khiển tương tác và báo cáo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

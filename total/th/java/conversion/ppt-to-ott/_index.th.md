@@ -53,7 +53,31 @@ otherformats: DOTM DOTX DOT OTTX WORDML WORD RTF OTT FLATOPC TEXT OTTM ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงงานนำเสนอ PPT (PowerPoint) เป็นรูปแบบ OTT (OpenDocument Text Template) ช่วยให้ธุรกิจและผู้สอนสามารถสร้างเทมเพลตที่มีมาตรฐานและใช้ซ้ำได้ โดยขึ้นอยู่กับเนื้อหาของสไลด์ OTT files ช่วยให้มีความสม่ำเสมอในการจัดรูปแบบเอกสาร การจัดแบรนด์ และโครงสร้างของรายงานขององค์กร
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* สร้างเทมเพลตข้อความที่สามารถแก้ไขได้จากเลย์เอาต์ของ PowerPoint สำหรับเอกสารของบริษัท
+* มาตรฐานการรายงานของบริษัทและข้อเสนอโดยใช้เทมเพลต OTT
+* สร้างเทมเพลตการศึกษาที่ใช้ซ้ำจากการนำเสนอการอบรม
+* ใช้โครงสร้างสไลด์ใหม่สำหรับการทำงานเผยแพร่ในรูปแบบเปิด
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* การแปลง PPT เป็น OTT โดยอัตโนมัติสำหรับการสร้างเทมเพลตแบรนด์
+* การผสานเข้ากับระบบการผลิตเนื้อหาโอเพนซอร์ส
+* ประมวลผลเป็นชุดของสไลด์ของบริษัทเป็นเทมเพลตเอกสารมาตรฐาน
+* การแปลงตารางเวลาเพื่อรักษาความสม่ำเสมอในการสื่อสารระหว่างหน่วยงานหลายหน่วยงาน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

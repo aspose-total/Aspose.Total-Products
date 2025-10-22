@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 DOCM로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT (PowerPoint) 파일을 DOCM (매크로 활성화 워드 문서)로 변환하면 프레젠테이션에서 파생된 문서에 자동화 기능이 도입됩니다. 이 변환은 상호작용 및 매크로가 포함된 보고서 및 데이터 링크된 요약이 필요한 조직에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint 비즈니스 프레젠테이션에서 매크로가 포함된 문서 생성.
+* 워드 보고서 내에서 자동화된 계산 또는 스크립트 삽입.
+* 매크로를 사용하여 반복적인 보고서 생성 간소화.
+* 프레젠테이션을 지능적이고 실행 가능한 문서로 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 매크로가 포함된 기업 보고서를 위한 자동화된 PPT-to-DOCM 변환.
+* VBA가 활성화된 문서 워크플로와 통합.
+* 프레젠테이션을 대화식 DOCM 파일로 예약된 내보내기.
+* 표준화된 매크로 활성화 템플릿을 위한 일괄 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

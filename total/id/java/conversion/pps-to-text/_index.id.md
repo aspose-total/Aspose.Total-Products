@@ -53,7 +53,31 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPS ke TEXT dengan tand
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPS (PowerPoint Slide Show) ke TEKS (Teks Biasa) memungkinkan pengguna untuk mengekstrak hanya konten teks dari slide, ideal untuk analisis, pengindeksan, terjemahan, atau penggunaan dalam saluran konten yang memerlukan format bersih, hanya teks.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengekstrak teks mentah slide untuk penambangan data atau pemrosesan bahasa alami.
+* Membuat ringkasan rapat berupa teks biasa dari slide presentasi.
+* Menyiapkan teks bersih untuk sistem terjemahan atau lokal.
+* Menyimpan arsip ringan dari konten presentasi.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Ekstraksi teks otomatis untuk pengindeksan pencarian atau pelatihan AI.
+* Konversi slide ke teks secara massal untuk arsip perusahaan.
+* Integrasi ke dalam saluran analitika konten untuk analisis semantik.
+* Ekspor teks biasa yang terjadwal untuk alur kerja dokumentasi.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

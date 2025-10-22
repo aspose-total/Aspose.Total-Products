@@ -129,7 +129,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง SVG เป็น FLATOPC (Flat Open Packaging Conventions) จะสร้างโครงสร้างไฟล์แบบ XML เดียวที่มีเนื้อหา Word ทั้งหมดรวมถึงแผนภาพเวกเตอร์ อย่างเหมาะสำหรับการประมวลผลเอกสารโปรแกรมและการทำงานร่วมกัน
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* เก็บ SVG diagrams ในแพ็คเกจเอกสาร Word พกพาได้เพียงเดียว
+* สร้างรายงานโดยอัตโนมัติพร้อมภาพเวกเตอร์ฝังอยู่
+* ใช้เทมเพลตมาตรฐานสำหรับการทำงานอัตโนมัติของเอกสาร
+* รับรองความเข้ากันได้ของแพลตฟอร์มสำหรับเนื้อหา Word ที่สามารถทำงานร่วมกัน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* แปลง SVG เป็น FLATOPC packages อัตโนมัติเป็นชุด
+* ส่งออกตามกำหนดเวลาสำหรับการเก็บเอกสารและควบคุมเวอร์ชัน
+* ผสานเข้ากับระบบจัดการเนื้อหาเพื่อการเข้าถึงโปรแกรม
+* สร้างเมื่อมีการเรียกใช้สำหรับกระบวนการอัตโนมัติเอกสารที่เปลี่ยนไป
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

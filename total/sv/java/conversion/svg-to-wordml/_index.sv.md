@@ -129,7 +129,31 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konvertera SVG till WORDML (WordprocessingML) skapar XML-baserade Word-dokument med helt inbäddade vektor­diagram. WORDML är idealiskt för programmatisk dokument­hantering, mallar och automatiserade arbetsflöden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+* Generera Word-rapporter programmatiskt med inbäddade SVG-visualiseringar.
+* Akademiska och forskningsteman i XML för automatiserad redigering.
+* Standardiserad projekt­dokumentation för versions­kontrollerade arbetsflöden.
+* Arkivering av interaktivt SVG-innehåll i strukturerat XML-format.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiserings­scenarier" %}}
+
+* Automatiserad batch­konvertering av SVG till WORDML för rapporteringssystem.
+* Schemalagd export av SVG-baserade mallar till XML för arbetsflödes­automatisering.
+* Integration med dokument­genererings-API:er och innehålls­hanteringssystem.
+* Utlöst generering för dynamiska, programmatiskt styrda Word-dokument.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

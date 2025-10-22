@@ -102,7 +102,31 @@ otherformats: FODS XLAM XLTM XLSM SXC MARKDOWN XLSX CSV TSV ODS EXCEL MHTML DIF 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל-XLS (Excel 97–2003 Workbook) מבטיחה תאימות עם מערכות מורשות תוך מאפשר עריכת נתונים ואחסון מבוסס גיליון אלקטרוני. ההמרה הזו אידיאלית לסביבות שמשתמשות בגרסאות ישנות יותר של Microsoft Office.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* חילוץ נתונים משקפי PPS לתאימות עם פורמטים ישנים יותר של Excel.
+* הכנת דוחות XLS לארגונים ממשלתיים וחינוכיים.
+* המרת חזותי שיווק לדוחות גיליון אלקטרוני תואמים לאחור.
+* יצירת כרטיסי ציון XLS שניתנים לעריכה מסיכומים ב-PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת קבצים בצורה אוטומטית לתאימות עם פורמט XLS.
+* שילוב בתהליכי עבודה של תוכנות חשבונאות או MIS מורשות.
+* יצירת ארכיונים XLS מסדי נתונים של מצגות חוזרות.
+* חילוץ שקפים מתוזמנים לשיתוף נתוני XLS בין מחלקות.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

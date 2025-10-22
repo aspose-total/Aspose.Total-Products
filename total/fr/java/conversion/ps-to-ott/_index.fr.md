@@ -68,7 +68,29 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de fichiers PS (PostScript) en OTT (modèle de texte OpenDocument) permet aux équipes de créer des modèles de documents texte standardisés et réutilisables. Les modèles OTT sont idéaux pour les rapports, lettres ou formulaires récurrents, en exploitant les mises en page PostScript pour un formatage cohérent.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Création de modèles de texte réutilisables à partir de rapports et documents basés sur PS.
+* Standardisation des lettres, formulaires et rapports internes entre les équipes.
+* Conversion de manuels générés en PS en modèles OTT modifiables.
+* Préparation des mises en page PostScript pour une documentation récurrente dans des environnements open source.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en lot de PS en OTT pour les bibliothèques de modèles dans les environnements d'entreprise.
+* Intégration dans les systèmes de gestion de documents pour le déploiement de modèles réutilisables.
+* Flux de travail automatisé pour convertir les fichiers PostScript en OTT pour une utilisation répétée.
+* Extraction et formatage pilotés par l'IA à partir des mises en page PS en modèles de texte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

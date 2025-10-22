@@ -102,7 +102,31 @@ otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS CSV XLSB MHTML X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTX ל־Markdown ממירה מצגות סטטיות לטקסט קל משקל ומוכן לרשת. Markdown מציע פשטות לשיתוף תוכן, מאפשר פרסום קל על בלוגים, פלטפורמות תיעוד ואתרים סטטיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* שימוש מחדש במצגות PowerPoint לתיעוד טכני.
+* פרסום הערות ותוכן השקפים בוויקי מבוסס Git.
+* יצירת סיכומים מוכנים לבלוג של השקפי מצגת.
+* המרת מצגות תדמיתיות למאמרי בסיס ידע.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* ייצוא אוטומטי של Markdown משקפי הדרכה תדמיתיים של חברות.
+* שילוב עם מערכות בניית תיעוד כמו Hugo או Jekyll.
+* עיבוד צפיפות להמרת מצגות פנימיות לפוסטים ב־Markdown.
+* אינטגרציה רציפה לגרסאות תוכן בפורמט Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

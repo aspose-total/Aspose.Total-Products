@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPTX 파일을 WORD로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 WORD로 변환하면 프레젠테이션을 편집 가능한 텍스트 문서로 변환하는 범용 솔루션을 제공합니다. 사용자들은 시각 자료와 설명을 결합하여 공유, 인쇄 및 게시에 이상적인 단일 읽기 가능한 형식으로 변환할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 프레젠테이션 슬라이드에서 읽기 가능한 문서 작성.
+* PowerPoint 회의 덱을 구조화된 Word 파일로 변환.
+* 노트와 시각 자료를 보고서 형식으로 결합.
+* 슬라이드에서 핸드아웃 및 문서 작성 준비.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 회의 보고서를 위한 자동화된 변환 워크플로우.
+* 기업 아카이브에서 PowerPoint-to-Word 변환.
+* 프로젝트 문서화 도구 통합.
+* 교육 및 기업 자료를 위한 일괄 처리.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

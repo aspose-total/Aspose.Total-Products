@@ -47,7 +47,31 @@ SVG 파일을 MD로 변환하는 동안 출력 MD 파일 형식에 워터마크�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG를 Markdown(MD)으로 변환하면 벡터 다이어그램을 문서, README 파일 및 정적 사이트 생성기에 직접 포함할 수 있습니다. 이 접근 방식은 그래픽을 가볍게 유지하면서 기술 콘텐츠의 가독성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 소프트웨어 프로젝트 README 파일에 아키텍처 다이어그램 포함.
+* 오픈 소스 문서 저장소용 대화형 플로차트.
+* 인라인 벡터 일러스트레이션을 사용한 Markdown 기반 eBook 및 튜토리얼.
+* 추가 이미지 파일 없이 깨끗하고 확장 가능한 시각 자료를 사용한 기술 블로그.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 파이프라인용 자동화된 SVG-to-MD 변환.
+* 지식 베이스 업데이트를 위한 벡터 다이어그램의 예약 생성.
+* Hugo 또는 Jekyll과 같은 정적 사이트 생성기와의 통합.
+* 디자인 업데이트를 Markdown 기술 파일에 지속적으로 동기화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,31 @@ APIを使用すると、パスワードで保護されたRTFドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF（リッチテキスト形式）ドキュメントをPOT（PowerPointテンプレート）に変換することで、テキストベースのレポートやフォーマットされたファイルを再利用可能なスライドテンプレートに変換できます。これは、定型化された企業や教育プレゼンテーションを頻繁に準備する組織に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* RTFベースの企業ハンドブックからPowerPointテンプレートを作成する。
+* RTFマーケティングブリーフを再利用可能なプレゼンテーションレイアウトに変換する。
+* テキストベースの講義ノートに基づいた教育用スライドテンプレートの設計。
+* RTFレポートをプレゼンテーション用のPowerPointテーマに効率的に整理する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業プレゼンテーションシステム向けのバッチRTFからPOTテンプレートの生成。
+* LMS（学習管理システム）との統合によるテキストファイルからスライドの作成。
+* 一貫したブランドプレゼンテーションのための定期的なドキュメントからテンプレートへの変換。
+* RTFコンテンツから部門固有のPowerPointレイアウトを自動作成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

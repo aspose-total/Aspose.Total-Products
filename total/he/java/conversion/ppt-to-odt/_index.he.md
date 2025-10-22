@@ -102,7 +102,31 @@ otherformats: TEXT DOTM WORDML DOCM RTF FLATOPC DOT WORD DOC DOCX OTT DOTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מצגות PPT (PowerPoint) לתבנית ODT (OpenDocument Text) מאפשרת את חילוץ תוכן השקפים למסמכי טקסט ניתנים לעריכה. זה מאוד שימושי ליצירת דוחות, חומרי למידה או תיעוד מבוסס טקסט משקפים קיימים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* המרת מצגות PowerPoint למסמכי טקסט לצורך דיווח מפורט.
+* שימוש מחדש בתוכן השקפים לעיבוד במעבדי תמליל קוד פתוח כמו LibreOffice Writer.
+* יצירת תיעוד ניתן לעריכה מסיכומי פרויקט בעזרת שקפים.
+* יצירת מדריכי הכשרה וחוברות מצגות PowerPoint.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרות אוטומטיות של PowerPoint ל-ODT במערכות פרסום אקדמיות.
+* שילוב עם זרימות עבודה ליצירת מסמכים למשתמשי קוד פתוח.
+* ייצוא מתוזמן של שקפים ל-ODT לצורך תאימות וארכיבה.
+* המרת מצגות שיווק לתבניות תוכן ניתנות לעריכה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,31 @@ Usando a API, você também pode realizar a conversão de arquivo PPS para DOTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PPS (Apresentação de Slides do PowerPoint) para DOTM (Modelo de Documento do Word Habilitado para Macro) permite a criação de modelos de documentos dinâmicos e orientados por script. Empresas utilizam o DOTM para automatizar a geração de documentos e relatórios com base em dados de apresentações.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Projetar modelos de documentos do Word baseados em macro a partir de apresentações PPS.
+* Automatizar formulários comerciais recorrentes usando VBA incorporado.
+* Gerar modelos reutilizáveis para relatórios de conformidade e qualidade.
+* Criar fluxos de trabalho de documentos inteligentes derivados de decks do PowerPoint.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Auto-gerar modelos DOTM para uso empresarial.
+* Integração com estruturas de automação para criação de documentos.
+* Atualizações agendadas de modelos a partir das apresentações mais recentes.
+* Conversão em lote de vários arquivos PPS em modelos habilitados para macro.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

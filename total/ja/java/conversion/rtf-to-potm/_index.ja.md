@@ -54,7 +54,29 @@ APIを使用すると、パスワードで保護されたRTFドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+RTFからPOTM（PowerPoint Macro-Enabled Template）への変換により、埋め込まれたマクロや自動化スクリプトを含む動的で再利用可能なテンプレートが作成できます。これは、繰り返しのプレゼンテーションタスクに依存するビジネスやトレーニング環境で特に価値があります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* RTFトレーニングマニュアルをインタラクティブなマクロ有効テンプレートに変換する。
+* RTF製品概要からのプレゼンテーション生成を自動化する。
+* HRや財務部門向けのスマートプレゼンテーションツールを作成する。
+* マクロを埋め込んで、RTFソースデータからスライドを自動入力する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業プレゼンテーション自動化システムでのRTFからPOTMへの変換。
+* PowerPointデッキを自動構築するワークフローツールへの統合。
+* 企業コミュニケーションチーム向けのスケジュールされたマクロテンプレート作成。
+* RTFドキュメントのバッチ変換による標準化されたマクロ有効スライドの作成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -121,7 +121,31 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az SVG átalakítása PPS formátummá (PowerPoint Show) lehetővé teszi olyan diavetítések létrehozását, amelyek közvetlenül bemutató módban nyílnak meg beágyazott vektorgrafikával, tökéletes megjelenítéshez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Interaktív vállalati bemutatók PowerPoint bemutatóként szállítva.
+* Oktatási diavetítések SVG diagramokkal közvetlen megjelenítéshez.
+* Marketing vagy termékdemók készítése előre elkészített bemutatóként.
+* Akadémiai előadásdiák azonnali bemutatáshoz szerkesztés nélkül.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált tételszámban SVG-PPS átalakítás bemutatókhoz.
+* SVG alapú diák ütemezett exportálása PPS formátumba.
+* Integráció tartalomterjesztő rendszerekkel előre elkészített bemutatókhoz.
+* Kiváltott diák generálás képzési vagy marketing kampányokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

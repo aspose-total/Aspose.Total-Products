@@ -54,7 +54,31 @@ API를 사용하면 암호로 보호된 RTF 문서를 POT로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF (Rich Text Format) 문서를 POT (PowerPoint 템플릿)으로 변환하면 텍스트 기반 보고서와 서식이 있는 파일을 재사용 가능한 슬라이드 템플릿으로 변환할 수 있습니다. 이는 자주 표준화된 기업 또는 교육용 프레젠테이션을 준비하는 조직에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* RTF 기반 회사 매뉴얼에서 PowerPoint 템플릿 생성.
+* RTF 마케팅 브리프를 재사용 가능한 프레젠테이션 레이아웃으로 변환.
+* 텍스트 강의 노트를 기반으로 교육용 슬라이드 템플릿 디자인.
+* 프레젠테이션용 PowerPoint 테마로 RTF 보고서를 간소화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 프레젠테이션 시스템을 위한 일괄 RTF-to-POT 템플릿 생성.
+* LMS (학습 관리 시스템)와 통합하여 텍스트 파일에서 슬라이드 생성.
+* 일정에 따른 문서-템플릿 변환으로 일관된 브랜드 프레젠테이션 구현.
+* RTF 콘텐츠로부터 부서별 PowerPoint 레이아웃 자동 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

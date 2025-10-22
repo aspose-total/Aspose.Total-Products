@@ -57,7 +57,31 @@ API를 사용하여 필요에 따라 출력 WMZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 WMZ (압축된 Windows Metafile)로 변환하면 WMF 벡터 그래픽의 이점과 파일 압축이 결합됩니다. WMZ는 프레젠테이션, 이메일 또는 웹 애플리케이션에 임베딩하기 위해 더 작은 크기를 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS 다이어그램을 압축하여 오피스 문서에서 쉽게 공유합니다.
+* 파일 크기를 불포화시키지 않고 프레젠테이션에 PostScript 그래픽을 임베딩합니다.
+* 이메일이나 클라우드 시스템을 통해 기술적인 일러스트를 배포합니다.
+* 협업 프로젝트용으로 압축된 시각 자산을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 프레젠테이션 자산 라이브러리를 위한 자동 PS-to-WMZ 변환.
+* 오피스 통합을 위한 PS 파일의 일괄 압축 및 변환.
+* 효율적인 배포를 위해 CMS 또는 워크플로 시스템에 통합합니다.
+* WMZ 패키징 전에 벡터 그래픽을 AI 지원 최적화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

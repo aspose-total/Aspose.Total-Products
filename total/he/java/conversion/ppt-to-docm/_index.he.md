@@ -102,7 +102,31 @@ otherformats: FLATOPC DOCX WORDML OTT WORD DOC DOTM ODT RTF DOTX TEXT DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPT (PowerPoint) ל-DOCM (מסמך Word המאפשר פעולות מאקרו) מביאה לתוך מסמכים המקורפים ממצגות אפשרויות אוטומציה. ההמרה הזו אידיאלית לארגונים שדורשים דוחות אינטראקטיביים, מבוססי מאקרו וסיכומי נתונים המקושרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* יצירת מסמכים המאפשרים פעולות מאקרו ממצגות עסקיות ב-PowerPoint.
+* הטמעת חישובים אוטומטיים או סקריפטים בדוחות Word.
+* עיצוב תהליך יצירת דוחות חוזר באמצעות מאקרו.
+* המרת מצגות למסמכים עם יכולת פעולה ומוכנות לפעולה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PPT ל-DOCM אוטומטית לדוחות עסקיים מבוססי מאקרו.
+* שילוב עם זרימות עבודה שמאפשרות VBA במסמכים.
+* ייצואים מתוזמנים של מצגות לקבצי DOCM אינטראקטיביים.
+* המרה צינונית לתבניות מקורפות במאקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

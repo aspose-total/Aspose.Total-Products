@@ -130,7 +130,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをDOTM（マクロ有効なWordテンプレート）に変換すると、スケーラブルなベクターグラフィックスとマクロを組み合わせた再利用可能なテンプレートが作成できます。インタラクティブなレポート、フォーム、ワークフロード文書に最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* SVGビジュアルを埋め込んだマクロ有効なプロジェクトトラッキングテンプレート。
+* 企業ワークフロー向けの再利用可能な財務または運用テンプレート。
+* 動的ダイアグラムと自動化を統合した学術または研究テンプレート。
+* マクロ強化SVGダイアグラムを使用したインタラクティブeラーニング教材。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なマクロ有効なテンプレート用の自動SVGからDOTMへの変換。
+* 新しいSVGデータとマクロを使用したテンプレートの定期的な更新。
+* 再利用可能なテンプレートを必要とするワークフロー自動化システムへの統合。
+* インタラクティブレポートダッシュボード用のトリガー変換パイプライン。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

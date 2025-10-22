@@ -61,7 +61,31 @@ otherformats: XLSX XLT MARKDOWN FODS XLSM XLSB MHTML XLTM TSV XLTX DIF XLS SXC X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPS (PowerPoint Slide Show) เป็น XLAM (Excel Add-In) ช่วยให้สามารถฝังข้อมูลที่ได้จากการนำเสนอลงใน add-ins ที่เปิดใช้งานแมโครได้ การแปลงนี้เหมาะสำหรับนักพัฒนาและวิเคราะห์ที่อัตโนมัติ Excel-based reporting และต้องการนำข้อมูลจาก PowerPoint มาผสมผสานในส่วนขยายของ Excel
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* สร้าง XLAM add-ins ด้วย metrics ที่มาจากสไลด์สำหรับรายงานอัตโนมัติ
+* สร้างแดชบอร์ดที่ขับเคลื่อนด้วยแมโครที่มาจากข้อมูลการนำเสนอ PPS
+* สร้าง add-ins สำหรับการติดตาม KPI แบบ real-time โดยใช้ค่าการนำเสนอที่แปลงแล้ว
+* ผสานเนื้อหา PPS เข้ากับสคริปต์อัตโนมัติขั้นสูงของ Excel
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง XLAM โดยอัตโนมัติจากไฟล์การนำเสนอของแผนก
+* การผสานเข้ากับระบบอัตโนมัติของ Excel ในองค์กร
+* การแปลง PowerPoint เป็น XLAM ตามกำหนดเวลาสำหรับโมดูลรายงานแบบ real-time
+* การสร้าง add-ins แบบ batch สำหรับกระบวนการการแสดงข้อมูลแบบไดนามิก
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

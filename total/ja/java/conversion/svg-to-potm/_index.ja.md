@@ -121,7 +121,29 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+SVGをPOTM（マクロ有効なPowerPointテンプレート）に変換すると、スケーラブルなベクターグラフィックを埋め込みながら、自動化用のマクロを備えた再利用可能なテンプレートを作成できます。インタラクティブで自動化されたプレゼンテーションワークフローに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* SVGビジュアルが埋め込まれたマクロ有効な企業プレゼンテーションテンプレート。
+* 動的なチャートや図を備えた自動化されたレポートデッキ。
+* マクロ駆動の相互作用を使用したトレーニングおよび指導スライドテンプレート。
+* SVGコンテンツを活用したインタラクティブな学術または研究テンプレート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なマクロ有効なプレゼンテーション用のSVGからPOTMへの変換のスケジュール設定。
+* ダイナミックなスライドデッキ用のテンプレートへのマクロの自動挿入。
+* チーム全体でのテンプレート使用のためのワークフロー自動化との統合。
+* インタラクティブなダッシュボードやレポートのためのトリガーされたテンプレート生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

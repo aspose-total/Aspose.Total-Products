@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 OTT로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 OTT (OpenDocument Text Template)으로 변환하면 표준화된 편집 가능 문서 템플릿에서 프레젠테이션 콘텐츠를 재사용할 수 있습니다. 이 변환은 기업 및 교육 환경에서 특히 프레젠테이션 자료에서 파생된 일관된 문서 구조가 필요한 조직에게 가치가 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 임원 슬라이드 프레젠테이션에서 표준화된 제안 템플릿 생성.
+* 교육용 슬라이드를 기반으로 재사용 가능한 교육 템플릿 개발.
+* 마케팅 덱을 구조화된 OTT 템플릿으로 변환하여 향후 캠페인에 활용.
+* 회사 프레젠테이션 파일에서 브랜드화된 보고서 템플릿 생성.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 승인된 프레젠테이션 덱에서 문서 템플릿을 자동으로 생성.
+* 일관된 브랜딩을 위해 콘텐츠 자동화 워크플로에 통합.
+* 슬라이드 쇼를 재사용 가능한 기업 커뮤니케이션 템플릿으로 대량 변환.
+* 팀을 위해 내부 PPS 파일을 실시간으로 편집 가능한 OTT 템플릿으로 변환.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

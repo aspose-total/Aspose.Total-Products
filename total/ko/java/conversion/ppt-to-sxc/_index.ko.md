@@ -61,7 +61,31 @@ PPT 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT(PowerPoint) 파일을 SXC(StarOffice Calc Spreadsheet)로 변환하면 레거시 또는 오픈 소스 시스템을 사용하는 조직이 프레젠테이션 데이터를 심층 분석을 위해 재활용할 수 있습니다. 이 변환은 시각적 요약과 편집 가능한 스프레드시트 데이터 간의 간극을 메워 다양한 사무 환경에서의 협업을 강화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 비즈니스 프레젠테이션을 OpenOffice 호환 스프레드시트로 변환합니다.
+* SXC 기반 금융 모델 내에서 PowerPoint 테이블 및 차트 재사용.
+* OpenOffice 또는 LibreOffice에 의존하는 정부 또는 기업 사용자 지원.
+* 기업 아카이브된 기업 PPT 데이터를 오픈 스프레드시트 형식으로 이관합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 아카이브 시스템을 위한 일괄 PPT-to-SXC 변환.
+* 문서 디지털화 워크플로우 내 통합.
+* 하이브리드 오픈 소스 보고 환경을 위한 자동 변환.
+* PPT 업데이트를 협업 스프레드시트 도구로 예약된 내보내기.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

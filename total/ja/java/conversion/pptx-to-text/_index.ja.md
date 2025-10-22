@@ -53,7 +53,31 @@ APIを使用して、透かしを使用してPPTXファイルからTEXTへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTXファイルをTEXTに変換すると、スライドからすべての文章コンテンツがプレーンテキストに抽出され、高速な検索、索引付け、データ処理が可能になります。これは、クリーンで軽量な出力を必要とする開発者、研究者、およびアーカイブシステムに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* インデックスや検索エンジン向けのスライドコンテンツの抽出。
+* PowerPointプレゼンテーションからテキストデータセットの準備。
+* 教育用スライドをトレーニング教材に変換。
+* スライドからのテキストのみのドキュメント作成の効率化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* AIやNLPモデル向けのバッチPPTXからTEXTへの抽出。
+* ナレッジベースやアーカイブパイプラインへの統合。
+* 自動プレーンテキストレポートのワークフロー。
+* コンテンツ分析システム向けのPowerPointテキストマイニング。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

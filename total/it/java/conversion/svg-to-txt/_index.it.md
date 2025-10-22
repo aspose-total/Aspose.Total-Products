@@ -47,7 +47,31 @@ Durante la conversione del file SVG in TXT, puoi anche aggiungere una filigrana 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione di SVG in TXT (Testo normale) estrae il contenuto testuale dalle grafiche vettoriali per analisi, indicizzazione o documentazione leggera. Il TXT è ideale per flussi di lavoro semplici e scriptabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Estrarre etichette e annotazioni dai diagrammi SVG per la documentazione.
+* Creare versioni di testo normale ricercabili delle illustrazioni tecniche.
+* Generare report leggeri di metadati SVG per l'analisi dei dati.
+* Condividere rapidamente contenuti SVG testuali senza immagini.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* Estrazione automatizzata del testo SVG in TXT per i flussi di lavoro di reportistica.
+* Generazione programmata di documentazione in testo normale dai diagrammi vettoriali.
+* Integrazione con sistemi di indicizzazione e ricerca.
+* Conversione attivata per analisi e flussi di lavoro di contenuti leggeri.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

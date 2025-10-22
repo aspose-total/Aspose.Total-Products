@@ -121,7 +121,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG naar PPTM (Macro-Enabled PowerPoint) combineert schaalbare vectorafbeeldingen met macro's voor interactieve, automatiseringsgereed dia's. Ideaal voor dynamische zakelijke of trainingspresentaties.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Macro-ingeschakelde zakelijke presentaties met SVG-dashboards.
+* Interactieve educatieve of onderzoeksdiavoorstellingen met ingebedde macro's.
+* Marketingpresentaties met geautomatiseerde grafieken en interactieve visuals.
+* Trainingsmodules die SVG-diagrammen combineren met door macro's aangestuurde interactiviteit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde SVG-naar-PPTM-conversie voor terugkerende macro-ingeschakelde diavoorstellingen.
+* Geplande updates voor interactieve presentaties met live gegevensvisualisaties.
+* Integratie met workflowautomatisering voor dynamische, direct uitvoerbare dia's.
+* Getriggerde pipelines genereren interactieve dashboards in PPTM-indeling.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

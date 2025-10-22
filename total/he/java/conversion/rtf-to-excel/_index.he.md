@@ -102,7 +102,31 @@ otherformats: XLS CSV XLSM XLT ODS XLSX XLTX SXC TSV DIF XLAM XLTM XLSB FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמכי RTF ל-Excel מאפשרת העברת נתונים מעוצבים בצורה חלקה לסביבת גיליון נתונים מוכרת. ההמרה הזו תומכת בשמירה על המראה הוויזואלי והמבני, ולכן היא אידיאלית לזרימי דיווח במשרד, בחינוך ובעסקים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת סיכומים פיננסיים בפורמט RTF לגליונות Excel ניתנים לעריכה.
+* ייבוא של טבלאות בפורמט RTF מעוצבות לצורך ניתוח ויצירת תרשימי פיבוט.
+* המרת דוחות תלמידים בבסיס RTF למעקב ציונים ב-Excel.
+* פשוטה את ההמרה ממסמך לגיליון נתונים עבור משתמשי עסקים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* שילוב במערכות אוטומציה של דוחות עסקיים.
+* ייצוא מתוזמן של RTF ל-Excel לצורך דיווח יומי או שבועי.
+* תמיכה בצינורות ETL לניתוח מסמכי משרד.
+* יצירת דשבורדים ב-Excel באופן אוטומטי מתבניות RTF מובנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

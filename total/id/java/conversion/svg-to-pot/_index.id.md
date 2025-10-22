@@ -121,7 +121,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG (Scalable Vector Graphics) ke POT (PowerPoint 97-2003 Template) memungkinkan pembuatan template slide yang dapat digunakan kembali dengan diagram vektor untuk versi PowerPoint yang lebih lama. POT memastikan desain presentasi yang konsisten di berbagai lingkungan legacy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Template presentasi perusahaan yang terstandarisasi dengan dasbor SVG yang tertanam.
+* Template slide pendidikan untuk konten pelatihan dan e-learning.
+* Template kampanye pemasaran yang menampilkan grafik vektor interaktif.
+* Template presentasi akademis untuk konferensi dan kuliah.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch otomatis dari diagram SVG ke template POT.
+* Pembaruan terjadwal untuk template presentasi yang dapat digunakan kembali.
+* Integrasi dengan sistem presentasi legacy untuk format yang konsisten.
+* Generasi template yang dipicu dari dasbor SVG langsung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

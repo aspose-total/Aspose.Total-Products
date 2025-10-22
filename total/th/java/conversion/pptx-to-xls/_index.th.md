@@ -61,7 +61,31 @@ otherformats: XLS FODS MHTML MARKDOWN SXC XLSX XLTM XLT XLTX ODS XLAM TSV DIF XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPTX เป็น XLS (Excel 97-2003 Workbook) ช่วยให้ระบบที่เป็นระบบเก่าสามารถใช้งานได้อย่างมีประสิทธิภาพ โดยสามารถเข้าถึงและแก้ไขข้อมูลการนำเสนอแบบตารางได้อย่างมีประสิทธิภาพ
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การแปลงตาราง PowerPoint สำหรับการวิเคราะห์ Excel เวอร์ชันเก่า
+* การส่งออกสรุปการนำเสนอสำหรับเครื่องมือการเงินเวอร์ชันเก่า
+* การนำข้อมูลจากสไลด์มาใช้ในระบบที่เข้ากันได้กับระบบเก่า
+* การแบ่งปันการวิเคราะห์กับลูกค้าโดยใช้ Excel เวอร์ชันก่อนหน้า
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การส่งออก XLS จาก PowerPoint โดยอัตโนมัติสำหรับเก็บถาวรขององค์กร
+* การผสานกับระบบบัญชีหรือ ERP เวอร์ชันเก่า
+* การแปลงท่อการเปลี่ยนรูปแบบเพื่อให้เข้ากันได้กับแพลตฟอร์มต่าง ๆ
+* การแปลงข้อมูลจำนวนมากจาก PowerPoint เวอร์ชันเก่า
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

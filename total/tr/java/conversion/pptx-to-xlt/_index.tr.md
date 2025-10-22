@@ -61,7 +61,31 @@ PPTX dosyasını XLT'ye dönüştürürken, çıktı XLT dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX'i XLT'ye (Excel Şablonu) dönüştürmek, sunum verilerinden tekrar kullanılabilir elektronik tablo şablonları oluşturmayı sağlar. Finansal raporları standartlaştıran veya tekrar eden iş özetlerini oluşturan kuruluşlar için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* PowerPoint slaytlarından rapor şablonları oluşturma.
+* Sunum KPI'larına dayalı Excel modelleri oluşturma.
+* İç kullanım için markalı elektronik tablo formatları oluşturma.
+* Tekrarlanabilir aylık veya üç aylık veri şablonları hazırlama.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Şirket sunum dosyalarından otomatik XLT oluşturma.
+* Departmanlar arasında şablon senkronizasyonu.
+* Tekrar kullanılabilir rapor şablonlarının iş akışıyla oluşturulması.
+* Sürüm kontrollü şablon depolarıyla entegrasyon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

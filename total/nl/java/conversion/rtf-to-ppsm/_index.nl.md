@@ -54,7 +54,31 @@ Met de API kunt u ook met een wachtwoord beveiligde RTF-Documenten naar PPSM con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF naar PPSM (PowerPoint Macro-Enabled Show) conversie introduceert automatisering in diavoorstellingpresentaties. Dit formaat combineert de tekstuele rijkdom van RTF met de dynamische macrofuncties van PowerPoint voor geavanceerde interactieve verhalenvertelling.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Automatiseren van diavoorstellingpresentaties met behulp van macro's afkomstig van RTF-gegevens.
+* Bouwen van interactieve dashboards of tutorials op basis van RTF-handleidingen.
+* Leveren van geautomatiseerde presentaties met dynamische updates.
+* Omzetten van zakelijke samenvattingen in zelfstandig draaiende, door macro's aangestuurde dia's.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Automatisering van RTF-naar-PPSM in e-learning content pipelines.
+* Integratie met macro-ingeschakelde rapportagesystemen.
+* Geplande generatie van presentaties voor verkoop- en trainings teams.
+* Geautomatiseerde creatie van PowerPoint shows van tekstzware documentensets.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

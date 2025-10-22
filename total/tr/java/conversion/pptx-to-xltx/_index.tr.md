@@ -61,7 +61,31 @@ PPTX dosyasını XLTX'ye dönüştürürken, çıktı XLTX dosya biçiminize de 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX'yi XLTX'e (Excel Şablonu) dönüştürmek, işletmelere PowerPoint sunumlarından doğrudan yapılandırılmış ve görsel olarak tutarlı şablonlar oluşturma imkanı sağlar. Rapor oluşturmayı kolaylaştırır ve marka tutarlılığını sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* PowerPoint tasarım standartlarını yansıtan Excel şablonları oluşturma.
+* Slaytlardan biçimlendirilmiş KPI tabloları oluşturma.
+* Sunumları departman raporlama şablonlarına dönüştürme.
+* Birleşik veri sunumu çerçevesi oluşturma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Finans ve pazarlama ekipleri için otomatik XLTX oluşturma.
+* Şablon sağlama sistemlerine entegrasyon.
+* Kurumsal iş akışlarında zamanlanmış PowerPoint'ten şablon oluşturma.
+* Sunumlardan türetilen merkezi Excel şablonlarını yönetme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

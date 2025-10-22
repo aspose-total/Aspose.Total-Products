@@ -100,7 +100,31 @@ otherformats: POWERPOINT PPT POTM PPTM ODP PPTX PPS PPSM POTX POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל-PPSX (PowerPoint Show Open XML) מציעה דרך מודרנית להצגת מידע מבוסס מסמך כמצגות מרשימות ומרתקות חזותית. קבצי PPSX נפתחים ישירות במצב מצגת, ולכן הם אידיאליים לתצוגה סופית או לשיתוף.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת עדכוני חברה מבוססי RTF למצגות מוכנות להצגה.
+* יצירת מצגות סופיות מקבצי טקסט מובנים.
+* הכנת שקופיות או שקופיות לכנסים ישירות ממקורות RTF.
+* שיתוף תוכן RTF כמצגות PowerPoint לצפייה בלבד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת RTF ל-PPSX בצינורות פרסום של מצגות אוטומטיות.
+* שילוב עם זרימות עבודה של Office 365 למצגות.
+* יצירת מצגות PPSX בצפיפות מדודה מדוחות RTF מתוקנים.
+* יצירה מתוזמנת של סיכומי חברה מוכנים למצגת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGをOTP（OpenDocument Presentation Template）に変換すると、ベクターダイアグラムを使用した再利用可能なスライドテンプレートを作成できます。OTPはチームやプロジェクト間でプレゼンテーションを標準化するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* SVGダッシュボードやイラストを使用した企業プレゼンテーションテンプレート。
+* ベクターグラフィックを埋め込んだ教育用スライドテンプレート。
+* 製品データを示す再利用可能なマーケティングテンプレート。
+* スケーラブルなビジュアルを使用した学術または会議プレゼンテーションテンプレート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 一貫したスライドデッキのためのSVGからOTPテンプレートの自動バッチ生成。
+* トレーニングや企業プレゼンテーションのための定期的な更新。
+* チーム全体へのテンプレート配布のためのワークフロー自動化との統合。
+* ライブSVGデータからのインタラクティブスライドテンプレートのトリガー作成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

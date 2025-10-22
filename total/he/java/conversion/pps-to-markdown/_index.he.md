@@ -102,7 +102,31 @@ otherformats: XLTM XLSB XLSX FODS XLS XLAM CSV XLTX MHTML SXC XLT TSV ODS EXCEL 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי PPS (PowerPoint Slide Show) ל־MARKDOWN (MD) מאפשרת למשתמשים להפוך שקפים ויזואליים למסמכי טקסט קלים משקל המתאימים לבלוגים, תיעוד ומערכות ניהול תוכן מבוססות Git. זה מספק גשר בין ההצגות ובין פורמטים ידידותיים למפתחים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* המרת שקפי PowerPoint לתיעוד Markdown.
+* הכנת הערות לפרויקטים מקור פתוח ממצגות.
+* פרסום תוכן שקפים למחוללי אתרים סטטיים.
+* המרת מצגות חברה לקבצי MD קלים למשקל לוויקי ב־GitHub.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* הפקת Markdown מתוזמנת לצוותי תוכן באמצעות בקרת גרסאות.
+* שילוב בצינורות תיעוד (לדוגמה, Hugo, Jekyll).
+* המרת PowerPoint ל־MD באופן אוטומטי לצורך פרסום מקוון.
+* עיבוד רצפי של מספר מצגות PPS לקבצי Markdown מובנים.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

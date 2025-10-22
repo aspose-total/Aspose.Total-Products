@@ -129,7 +129,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG (Scalable Vector Graphics) 파일을 DOCM (Word Macro-Enabled Document)으로 변환하면 Word 문서에 대화형 벡터 다이어그램을 포함할 수 있으며 자동화를 위한 매크로를 지원합니다. DOCM은 동적 보고서, 템플릿 및 교육 자료에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 다이어그램 및 매크로 활성화된 내비게이션을 포함한 대화형 교육 매뉴얼.
+* 애니메이션 또는 대화형 벡터 차트를 통합한 비즈니스 보고서.
+* 매크로 기반 동적 SVG 시각 자료를 사용한 학술 연구 논문.
+* 프로젝트 제안서 또는 기업 업무 흐름을 위한 표준화된 템플릿.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 보고를 위한 SVG 다이어그램의 자동 일괄 변환.
+* SVG 시각 자료로부터 매크로 활성화된 템플릿의 예약 생성.
+* 대화형 보고를 위한 문서 관리 시스템 통합.
+* 동적 지시 콘텐츠를 위한 SVG에서 DOCM으로 변환을 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ PPS 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 TSV (Tab-Separated Values)로 변환하면 탭 구분자를 사용하여 프레젠테이션 데이터를 구조화된 형식으로 내보낼 수 있어 개발자, 분석가, 데이터 과학자들에게 깔끔하고 코드 친화적인 텍스트 기반 형식을 선호하는 사람들에게 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PowerPoint에서 테이블을 TSV로 내보내어 Python이나 R에서 데이터 분석에 사용하기.
+* 비즈니스 프레젠테이션에서 텍스트 기반 데이터 세트 준비하기.
+* 성능 차트를 쉽게 구문 분석 가능한 탭 구분 데이터로 변환하기.
+* 다국어 콘텐츠 슬라이드를 TSV로 추출하여 현지화 워크플로에 활용하기.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 탭 구분 텍스트를 필요로 하는 AI 데이터 파이프라인에 통합하기.
+* 모델링 및 분석을 위해 슬라이드 기반 통계를 일괄적으로 TSV로 추출하기.
+* 기업 데이터 관리를 위해 예약된 슬라이드에서 TSV로의 변환.
+* 웹 기반 대시보드에서 백엔드 흡수를 위한 자동 TSV 생성.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

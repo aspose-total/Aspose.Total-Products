@@ -61,7 +61,31 @@ otherformats: DIF XLS MARKDOWN SXC XLTX XLSB XLSX TSV XLAM EXCEL ODS XLSM FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลงไฟล์ PPT (PowerPoint) เป็น XLTM (Macro-Enabled Excel Template) ช่วยให้องค์กรสามารถออกแบบเทมเพลตสเปรดชีทอัจฉริยะที่ใช้ซ้ำได้ที่ได้มาจากงานนำเสนอ แม่แบบ XLTM ช่วยในการอัตโนมัติงานที่ซ้ำซากและปรับปรุงความสอดคล้องในการรายงาน
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+* การเปลี่ยนรายงาน PowerPoint เป็นเทมเพลต Excel ที่เปิดใช้งานแมโคร
+* สร้างเทมเพลตสเปรดชีทอัจฉริยะสำหรับการวิเคราะห์โดยอัตโนมัติ
+* มาตรฐานการรายงานทางการเงินที่เกิดซ้ำ
+* สร้างเทมเพลต Excel ที่ทำซ้ำเลยโครงสร้างและตรรกะของ PowerPoint
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงสไลด์เป็น XLTM สำหรับเทมเพลตรายงานที่ใช้แมโคร
+* การผสานเข้ากับการไหลข้อมูลและการวิเคราะห์อัตโนมัติ
+* การสร้างสเปรดชีทที่เปิดใช้งานแมโครที่สามารถใช้ซ้ำได้ตามกำหนด
+* การประมวลผลเป็นชุดสำหรับมาตรฐานเทมเพลตในขอบเขตใหญ่
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

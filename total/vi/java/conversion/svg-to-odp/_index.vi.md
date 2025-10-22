@@ -121,7 +121,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp SVG (Scalable Vector Graphics) sang ODP (OpenDocument Presentation) cho phép nhúng biểu đồ vector vào các bài thuyết trình chuẩn mở. ODP hỗ trợ khả năng co dãn và tương thích trên nhiều nền tảng cho quy trình làm việc bài thuyết trình hiện đại.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Tạo bài thuyết trình tương tác với biểu đồ SVG cho các bài thuyết trình doanh nghiệp.
+* Slide giáo dục với hình minh họa và biểu đồ dựa trên vector.
+* Bài thuyết trình tiếp thị giới thiệu dữ liệu sản phẩm với đồ họa co dãn.
+* Bài thuyết trình hội nghị học thuật sử dụng hình ảnh SVG chất lượng cao.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt từ SVG sang ODP cho các cập nhật bài thuyết trình định kỳ.
+* Tạo mẫu theo lịch cho đào tạo hoặc bài thuyết trình doanh nghiệp.
+* Tích hợp với các nền tảng bài thuyết trình mã nguồn mở cho quy trình làm việc tự động hóa.
+* Các đường ống chuyển đổi kích hoạt cho nội dung bài thuyết trình được tạo động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

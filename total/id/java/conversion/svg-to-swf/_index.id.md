@@ -121,7 +121,31 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file SVG ke SWF (Shockwave Flash) memungkinkan penyisipan grafis vektor interaktif dalam animasi web dan aplikasi Flash warisan. SWF mendukung visual dinamis dan animasi berbasis vektor yang ringan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Modul pelatihan berbasis web interaktif menggunakan animasi SVG-to-SWF.
+* Spanduk pemasaran dan materi promosi dengan interaktivitas vektor.
+* Animasi edukatif dan konten e-learning dengan diagram yang dapat diskalakan.
+* Infografis interaktif yang ditampilkan di platform Flash warisan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi batch otomatis dari diagram SVG ke animasi SWF.
+* Pembaruan terjadwal dari konten interaktif berbasis web dari file SVG langsung.
+* Integrasi dengan platform web warisan yang mendukung visual berbasis Flash.
+* Pipa konversi yang dipicu untuk konten online SVG-to-SWF dinamis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

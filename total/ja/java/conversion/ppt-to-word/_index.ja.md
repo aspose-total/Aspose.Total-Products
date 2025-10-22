@@ -53,7 +53,29 @@ APIを使用して、透かしを使用してPPTファイルからWORDへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPT（PowerPoint）ファイルをWORD（Microsoft Word Document）に変換することは、スライドを完全にフォーマットされ、編集可能なドキュメントに再利用するスムーズな方法を提供します。この変換は、プレゼンテーションから直接プロフェッショナルなレポート、トレーニング資料、またはプロジェクトの要約を作成するのに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* PowerPointスライドをプロフェッショナルなWordレポートに変換する。
+* 要約されたプレゼンテーションポイントから詳細なドキュメントを生成する。
+* スライドコンテンツの編集可能なバージョンをさらに洗練する。
+* 配布資料、提案、および顧客向けの文書を準備する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ビジネスインテリジェンスシステムでの自動化されたPPTからWORDへの変換。
+* 日次レポート作成ツールとの統合。
+* PowerPointファイルのバッチ処理による編集可能なWord形式への変換。
+* プロジェクト文書や顧客納品物の定期的なエクスポート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

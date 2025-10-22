@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPTX sang XLAM, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các bản trình bày PPTX thành XLAM (Excel Add-in Macro) cung cấp một phương pháp sáng tạo cho các nhà phát triển nhúng logic dữ liệu dựa trên slide vào các giải pháp Excel tự động hóa. Quá trình chuyển đổi này hỗ trợ các luồng công việc hỗ trợ macro và báo cáo động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng dữ liệu bản trình bày như macros cho tự động hóa Excel.
+* Chuyển đổi các chỉ số PowerPoint thành bảng điều khiển dựa trên Excel.
+* Tạo báo cáo Excel hỗ trợ macro từ nội dung bản trình bày.
+* Tạo công cụ XLAM cho đồng bộ dữ liệu từ slide sang bảng tính.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo ra tự động hóa việc tạo macro từ PPTX sang XLAM cho phân tích kinh doanh.
+* Tích hợp với các khung tự động hóa dựa trên Excel.
+* Luồng công việc ETL nâng cao tính tương tác giữa PowerPoint và Excel.
+* Tạo ra các add-in được lên lịch cho hệ sinh thái báo cáo doanh nghiệp.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

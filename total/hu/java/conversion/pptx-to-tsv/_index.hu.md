@@ -61,7 +61,31 @@ A PPTX fájl TSV formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PPTX fájlok TSV (Tabulátorral elválasztott értékek) formátumba való átalakítása strukturált, egyszerű szöveges reprezentációt nyújt a prezentációs táblázatok számára. Ez a formátum ideális fejlesztők és adat tudósok számára, akik könnyen importálhatják kódokba vagy analitikai környezetekbe.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PowerPoint diákadatok átalakítása statisztikai modellezéshez.
+* Táblázatos információk előkészítése szkriptekhez és API-khoz.
+* KPI-k és mutatók exportálása PowerPoint bemutatókból TSV formátumba.
+* Tiszta adatkészletek megosztása kutatási és akadémiai célokra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Ütemezett PPTX-to-TSV átalakítások adatcsövekben.
+* TSV exportok automatizálása gépi tanulási tréningkészletekhez.
+* Integráció tudományos adattárolókkal.
+* PowerPoint-kód adatátvitel mérnöki munkafolyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

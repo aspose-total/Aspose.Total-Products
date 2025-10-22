@@ -121,7 +121,31 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG sang PPTM (PowerPoint có Macro) kết hợp đồ họa vector có thể mở rộng với các macro để tạo ra các bản trình bày tương tác, sẵn sàng tự động hóa. Lý tưởng cho các bản trình bày động cho doanh nghiệp hoặc đào tạo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Bản trình bày doanh nghiệp có kích hoạt macro với bảng điều khiển SVG.
+* Bản trình bày giáo dục hoặc nghiên cứu tương tác sử dụng macro nhúng.
+* Bản trình bày tiếp thị với biểu đồ tự động và hình ảnh tương tác.
+* Các mô-đun đào tạo kết hợp sơ đồ SVG với tương tác do macro điều khiển.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi SVG sang PPTM tự động cho các bản trình bày có macro lặp lại.
+* Cập nhật theo lịch cho các bản trình bày tương tác với hình ảnh dữ liệu thời gian thực.
+* Tích hợp với tự động hóa quy trình làm việc cho các bản trình bày sẵn sàng chạy động.
+* Các đường ống kích hoạt tạo bảng điều khiển tương tác trong định dạng PPTM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

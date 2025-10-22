@@ -121,7 +121,29 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+SVGをPPTM（マクロ有効なPowerPoint）に変換すると、スケーラブルなベクターグラフィックスとマクロが組み合わさり、インタラクティブで自動化可能なスライドデッキが作成されます。ダイナミックな企業やトレーニングプレゼンテーションに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* SVGダッシュボードを使用したマクロ有効な企業プレゼンテーション。
+* 埋め込みマクロを使用したインタラクティブな教育や研究スライドデッキ。
+* 自動化されたチャートやインタラクティブなビジュアルを備えたマーケティングプレゼンテーション。
+* マクロ駆動の相互作用を備えたトレーニングモジュール。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なマクロ有効なスライドデッキの自動SVGからPPTMへの変換。
+* ライブデータビジュアルを備えたインタラクティブなプレゼンテーションのスケジュール更新。
+* ワークフロー自動化との統合によるダイナミックで実行可能なスライド。
+* PPTM形式でインタラクティブなダッシュボードを生成するトリガーされたパイプライン。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

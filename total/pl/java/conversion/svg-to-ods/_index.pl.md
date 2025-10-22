@@ -47,7 +47,31 @@ Konwertując plik SVG na ODS, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwertowanie plików SVG na ODS (OpenDocument Spreadsheet) umożliwia osadzanie wykresów opartych na wektorach w arkuszach kalkulacyjnych zgodnych ze standardem otwartym. ODS jest idealny do analizy danych, raportowania i interaktywnych pulpitów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+* Osadzanie pulpitów finansowych w formacie SVG w arkuszach kalkulacyjnych ODS do analizy.
+* Udostępnianie danych badawczych lub inżynieryjnych z wizualizacjami wektorowymi w formatach otwartych.
+* Dane akademickie i projektowe eksportowane jako edytowalne, niezależne od platformy arkusze kalkulacyjne.
+* Standaryzacja pulpitów do śledzenia projektów w formacie ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna konwersja SVG na ODS do potoków raportowania.
+* Zaplanowane eksporty danych badawczych lub operacyjnych z osadzonymi diagramami.
+* Integracja z pakietami biurowymi typu open-source wymagająca kompatybilności arkuszy kalkulacyjnych.
+* Wywoływane generowanie pulpitów opartych na SVG do współpracy zespołowej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

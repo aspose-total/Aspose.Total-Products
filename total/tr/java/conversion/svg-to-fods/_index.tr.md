@@ -47,7 +47,31 @@ SVG dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi FODS'ye (Flat OpenDocument Spreadsheet) dönüştürmek, vektör grafiklerin açık standart elektronik tablo dosyalarına gömülmesine olanak tanır. FODS, çapraz platform iş akışları ve elektronik tablo otomasyonu için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* SVG diyagramlarını açık kaynaklı elektronik tablo şablonlarına gömmek.
+* Araştırma veya finansal verileri vektör görsellerle FODS formatında paylaşmak.
+* Düzenlenebilir, platformdan bağımsız elektronik tablolar olarak ihraç edilen akademik ve mühendislik verileri.
+* Açık belge formatında standartlaştırılmış proje gösterge panoları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Raporlama boru hatları için otomatik SVG'den FODS'ye dönüşüm.
+* Araştırma veya operasyonel elektronik tablo şablonları için zamanlanmış güncellemeler.
+* Açık formatları gerektiren çapraz platform ofis paketleriyle entegrasyon.
+* Takım işbirliği için SVG tabanlı elektronik tablo gösterge panolarının tetiklenmiş oluşturulması.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

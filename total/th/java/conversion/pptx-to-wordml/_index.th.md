@@ -53,7 +53,31 @@ otherformats: WORD TEXT WORDMLX WORDML WORDMLM DOTX DOT RTF ODT OTT DOTM FLATOPC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+การแปลง PPTX เป็น WORDML (WordprocessingML) จะทำให้เนื้อหาของงานนำเสนอกลายเป็นโครงสร้างของ Word ที่ใช้ XML ที่เหมาะสำหรับนักพัฒนาและองค์กรที่ต้องการความสามารถในการเคลื่อนย้ายข้อมูลและการผสานระบบ
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+* การแปลงเนื้อหา PowerPoint เพื่อการประมวลผลที่ใช้ XML
+* การผสานข้อมูลงานนำเสนอเข้ากับระบบ CMS หรือ ERP
+* การเก็บถาวรไฟล์ PowerPoint ในรูปแบบ XML ที่มีโครงสร้าง
+* การสะดวกในการสร้างเอกสาร Word โดยอัตโนมัติจากข้อมูลของภาพนำเสนอ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การอัตโนมัติของขั้นตอนการทำงานในท่องกำเนิดเอกสารขององค์กร
+* การผสานกับระบบสร้างเนื้อหาที่ใช้ WordML
+* การแปลงเป็นชุดข้อมูลสำหรับแอปพลิเคชันที่ใช้ XML โดยอัตโนมัติ
+* การเก็บถาวรไฟล์ PowerPoint โดยอัตโนมัติในรูปแบบที่มีโครงสร้าง
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

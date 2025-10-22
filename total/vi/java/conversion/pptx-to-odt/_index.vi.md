@@ -53,7 +53,31 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các bản trình bày PPTX thành ODT (Văn bản OpenDocument) cho phép tái sử dụng các slide thành tài liệu văn bản có thể chỉnh sửa. Điều này rất lý tưởng để tạo ra báo cáo viết, tóm tắt hoặc tài liệu có thể chỉnh sửa dựa trên các bộ slide PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi ghi chú slide thành văn bản có thể chỉnh sửa cho báo cáo.
+* Tạo tài liệu ODT cho tóm tắt học thuật hoặc doanh nghiệp.
+* Biến đổi bản trình bày dự án thành các tệp văn bản có thể chia sẻ.
+* Tái sử dụng nội dung slide cho việc viết chính sách và đề xuất.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo báo cáo tự động từ các bản trình bày PowerPoint.
+* Tích hợp quy trình làm việc với các công cụ văn bản văn phòng mã nguồn mở.
+* Chuyển đổi bộ slide trình bày thành tài liệu có thể chỉnh sửa để xem xét nội bộ.
+* Lưu trữ ghi chú PowerPoint dưới dạng ODT để dễ truy cập.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

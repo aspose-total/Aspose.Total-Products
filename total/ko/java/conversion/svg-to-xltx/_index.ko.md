@@ -47,7 +47,31 @@ SVG 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 XLTX(Excel Open XML Template)로 변환하면 확장 가능한 벡터 그래픽을 사용한 현대적이고 재사용 가능한 스프레드시트 템플릿이 생성됩니다. XLTX는 최신 Excel 버전과 호환되며 매크로 없이 깔끔하고 가벼운 템플릿을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* SVG 시각적 대시보드를 활용한 재사용 가능한 비즈니스 인텔리전스 템플릿 생성.
+* 기업 팀을 위한 표준화된 HR 또는 운영 보고 템플릿.
+* 상호작용하는 SVG 차트를 통합한 교육 또는 연구 템플릿.
+* 포함된 벡터 그래픽을 사용한 마케팅 캠페인 성과 템플릿.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 보고를 위한 SVG 대시보드로부터 XLTX 템플릿의 자동 생성.
+* 최신 데이터 시각화를 유지하며 신선하고 재사용 가능한 템플릿을 예약된 업데이트로 유지.
+* 템플릿 기반 워크플로우를 위한 자동 보고 파이프라인 통합.
+* 팀 사용을 위해 실시간 SVG 대시보드를 XLTX 템플릿으로 변환하는 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

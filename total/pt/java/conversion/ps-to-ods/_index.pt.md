@@ -47,7 +47,31 @@ Ao converter o arquivo PS para ODS, você também pode adicionar marca d'água a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converter arquivos PS (PostScript) para ODS (Planilha de Documentos Abertos) permite importar dados tabulares, gráficos e conteúdo estruturado de documentos PS para o LibreOffice Calc ou outras plataformas de planilhas. Isso garante a portabilidade de dados e compatibilidade em ambientes de código aberto.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* Extrair tabelas financeiras ou operacionais de relatórios PS para planilhas ODS.
+* Converter gráficos de engenharia ou científicos PS para análises de código aberto.
+* Preparar conjuntos de dados para gerenciamento de projetos colaborativos usando o LibreOffice.
+* Transformar layouts PS em modelos de planilhas para relatórios recorrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Conversão automatizada de PS para ODS em pipelines de processamento de dados.
+* Transformação em lote de relatórios gerados em PostScript para análise de planilhas.
+* Integração em soluções de planilhas de código aberto baseadas em nuvem.
+* Extração assistida por IA de gráficos e tabelas de PS para o formato ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

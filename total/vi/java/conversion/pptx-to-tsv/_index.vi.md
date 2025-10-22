@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPTX sang TSV, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PPTX sang TSV (Tab-Separated Values) cung cấp một biểu diễn cấu trúc, văn bản thuần của các bảng trình bày. Định dạng này lý tưởng cho các nhà phát triển và nhà khoa học dữ liệu cần nhập dữ liệu một cách dễ dàng vào mã hoặc môi trường phân tích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi dữ liệu trang PowerPoint cho mô hình học thống kê.
+* Chuẩn bị thông tin bảng cho các kịch bản và API.
+* Xuất các KPIs và số liệu từ các bộ trình bày PowerPoint sang TSV.
+* Chia sẻ các bộ dữ liệu sạch cho mục đích nghiên cứu và học thuật.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Lên lịch chuyển đổi PPTX sang TSV trong các đường ống dữ liệu.
+* Tự động hóa việc xuất TSV cho các tập dữ liệu huấn luyện học máy.
+* Tích hợp với kho dữ liệu khoa học.
+* Cầu nối dữ liệu từ PowerPoint sang mã cho quy trình làm việc kỹ thuật.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

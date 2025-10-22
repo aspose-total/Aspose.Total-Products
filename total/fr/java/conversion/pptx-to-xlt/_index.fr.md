@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPTX en XLT, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PPTX en XLT (modèle Excel) permet de créer des modèles de feuilles de calcul réutilisables à partir de données de présentation. C'est idéal pour les organisations qui standardisent les rapports financiers ou les résumés commerciaux récurrents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Génération de modèles de rapports à partir de diapositives PowerPoint.
+* Création de modèles Excel basés sur les KPI de la présentation.
+* Établissement de formats de feuilles de calcul personnalisés pour un usage interne.
+* Préparation de modèles de données mensuels ou trimestriels répétables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatisée de XLT à partir des decks de présentation de l'entreprise.
+* Synchronisation des modèles entre les services.
+* Création basée sur des workflows de modèles de rapports réutilisables.
+* Intégration avec des référentiels de modèles sous contrôle de version.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

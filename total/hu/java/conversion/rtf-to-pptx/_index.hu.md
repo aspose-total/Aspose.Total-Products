@@ -54,7 +54,31 @@ Az API azt is lehetővé teszi, hogy jelszóval védett RTF dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az RTF konvertálása PPTX formátumba (PowerPoint Open XML Presentation) átalakítja a statikus szöveget modern, szerkeszthető és megosztható diákcsomaggá. Ez a széles körben támogatott formátum ideális üzleti jelentésekhez, előadásokhoz, javaslatokhoz és marketingtartalmakhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* Az RTF alapú megbeszélési jegyzetek átalakítása polírozott PowerPoint prezentációkká.
+* Dinamikus prezentációk létrehozása formázott szöveges jelentésekből.
+* Az RTF vállalati adatok átalakítása vizuálisan fokozott diákká.
+* Írott dokumentáció átalakítása történetmesélésre épülő prezentációkká.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges RTF-PPTX export vállalati dokumentációs rendszerekhez.
+* Integráció online prezentációkészítőkkel és felhőplatformokkal.
+* Automatizált prezentációkészítés belső kommunikációhoz és ügyfélbemutatókhoz.
+* Ütemezett prezentációfrissítések dokumentumtárolókból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

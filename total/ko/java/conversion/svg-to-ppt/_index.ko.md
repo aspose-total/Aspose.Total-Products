@@ -121,7 +121,31 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 파일을 PPT(PowerPoint 97-2003)로 변환하면 벡터 그래픽을 기존 슬라이드 덱에 임베드할 수 있습니다. PPT는 시각적 품질을 유지하면서 이전 PowerPoint 버전과의 호환성을 보장합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 기존 소프트웨어용 SVG 대시보드가 포함된 기업 프레젠테이션.
+* 이전 PowerPoint 형식을 사용하는 학술 또는 연구 슬라이드.
+* 이전 시스템과 호환되는 교육 및 지도용 슬라이드 덱.
+* 버전 간 호환성을 위해 표준화된 마케팅 프레젠테이션.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기존 프레젠테이션 요구 사항을 위한 일괄 SVG-to-PPT 변환.
+* 이전 PowerPoint 형식으로 기반 슬라이드의 예약된 내보내기.
+* 기존 프레젠테이션 전달을 위한 보고 파이프라인 통합.
+* 자동화된 슬라이드 덱 생성을 위한 트리거 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

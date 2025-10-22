@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 DOC로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 DOC (Microsoft Word 문서)로 변환하면 사용자가 시각적 프레젠테이션을 편집 가능한 텍스트 문서로 재활용할 수 있습니다. 이 변환은 PowerPoint 콘텐츠를 기반으로 자세한 보고서, 프로젝트 제안서 또는 문서를 작성하는 데 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 회사 프레젠테이션을 공식 프로젝트 보고서로 변환하기.
+* 슬라이드 요약에서 자세한 비즈니스 문서 생성하기.
+* 교육용 슬라이드를 강의 노트나 인쇄 가능한 자료로 변환하기.
+* 시각적 프레젠테이션에서 DOC 기반 핸드아웃이나 안내서 준비하기.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 주기적인 PowerPoint 슬라이드로부터 자동화된 DOC 보고서 생성.
+* 기업 콘텐츠 관리 시스템 통합.
+* 보고서 게시 워크플로를 위한 예약된 PPS-to-DOC 변환.
+* 텍스트 형식으로 아카이빙 및 기록 보관을 위한 일괄 변환.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

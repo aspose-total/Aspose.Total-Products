@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az PS (PostScript) fájlok MHTML (MIME HTML) formátummá alakítása lehetővé teszi teljes PostScript dokumentumok - beleértve a szöveget, grafikákat és képeket is - egyetlen, hordozható weboldalként történő mentését. Az MHTML ideális az archiváláshoz, megosztáshoz és a PostScript tartalom webes bemutatásához.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* PS jelentések és kézikönyvek archiválása önálló weboldalként.
+* PostScript dokumentáció átalakítása offline böngészőhöz való hozzáféréshez.
+* Komplex PS diagramok és elrendezések megosztása egyetlen fájlban.
+* Az eredeti PS formázás megőrzése webkompatibilis HTML archívumokban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Tömeges PS-MHTML konverzió az archiváláshoz és nyilvántartáshoz.
+* Integráció dokumentumkezelő rendszerekbe a webes terjesztés érdekében.
+* Felhőalapú offline-böngészhető HTML generálása PS fájlokból.
+* Automatizált átalakítás e-mailre kész jelentésekhez és vizuális tartalomhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

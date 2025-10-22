@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力APNG画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS（PostScript）ファイルをAPNG（Animated Portable Network Graphics）に変換すると、静的なベクターベースのグラフィックスに動きとインタラクティブ性が加わります。この変換により、複数ページのPSレポート、エンジニアリングの視覚情報、またはマーケティングチャートがアニメーション化され、デジタルダッシュボードや教育用ウェブプラットフォームに最適なシーケンスに変わります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* 複数レイヤーのPSデザイン草案をアニメーション化した製品モックアップに変換する。
+* ビジネスプレゼンテーション用ウェブサイト向けのダイナミックなインフォグラフィックの作成。
+* eラーニングポータル向けの動きのあるエンジニアリングダイアグラムの開発。
+* モバイル利用向けに軽量なAPNGアニメーションに変換した静的なPSイラストの作成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* リアルタイムダッシュボードシステムでのバッチアニメーションレンダリング。
+* アニメーション化チュートリアル用のコンテンツ生成ワークフローへの統合。
+* マーケティングキャンペーンパイプラインでのPSからAPNGへの自動変換。
+* ウェブ公開やアプリ通知のためのトリガー付きアニメーション生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

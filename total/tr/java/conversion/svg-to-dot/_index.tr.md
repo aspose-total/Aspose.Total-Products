@@ -129,7 +129,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi DOT'a (Word 97-2003 Şablonu) dönüştürmek, eski Word sürümleriyle uyumlu gömülü vektör diyagramları içeren yeniden kullanılabilir belge şablonları oluşturmayı sağlar. DOT, eski sistemlerde tutarlı biçimlendirme sağlar.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Eski Word belgeleri için SVG diyagramları içeren standartlaştırılmış rapor şablonları.
+* Görsel panoları içeren proje teklifi şablonları.
+* SVG görselleri kullanan tekrar kullanılabilir akademik veya eğitim şablonları.
+* İş veya mühendislik iş akışları için tarihsel belge şablonları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Eski Word iş akışları için otomatik toplu SVG'den DOT şablonu oluşturma.
+* Yeni SVG görsellerle şablonların zamanlanmış güncellemeleri.
+* Geriye dönük uyumlu şablonları gerektiren belge yönetim sistemlerine entegrasyon.
+* Yeniden kullanılabilir şablonlar için tekrarlayan raporlar ve tetiklenen dönüşümler.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

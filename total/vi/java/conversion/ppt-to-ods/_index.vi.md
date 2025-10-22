@@ -61,7 +61,31 @@ Trong khi chuyển đổi tệp PPT sang ODS, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các bản trình bày PPT (PowerPoint) sang định dạng bảng tính ODS (OpenDocument Spreadsheet) biến dữ liệu trình chiếu hình ảnh thành dạng bảng tính có cấu trúc. Điều này rất lý tưởng cho các tổ chức sử dụng bộ ứng dụng văn phòng mã nguồn mở và cần trích xuất dữ liệu số hoặc dữ liệu bảng từ các bản trình bày để phân tích và báo cáo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Xuất bảng trình chiếu thành bảng tính ODS có thể chỉnh sửa cho LibreOffice Calc.
+* Chuyển đổi các chỉ số kinh doanh từ các bảng điều khiển PowerPoint thành dữ liệu bảng tính.
+* Lưu trữ các trang trình bày tài chính và phân tích dưới định dạng ODS mở.
+* Kích hoạt việc hợp tác trong môi trường bảng tính chuẩn mở.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động từ PPT sang ODS cho báo cáo của chính phủ hoặc tổ chức phi chính phủ.
+* Tích hợp với các đường ống phân tích mã nguồn mở.
+* Lập lịch chuyển đổi từ các bản trình bày sang bảng tính cho việc kiểm toán.
+* Chia sẻ báo cáo giữa các bộ phận bằng cách sử dụng các mẫu dựa trên ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

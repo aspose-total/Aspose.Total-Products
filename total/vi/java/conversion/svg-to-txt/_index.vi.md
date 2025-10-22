@@ -47,7 +47,31 @@ Trong khi chuyển đổi tệp SVG sang TXT, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi SVG thành TXT (Văn bản thuần) trích xuất nội dung văn bản từ đồ họa vector để phân tích, lập chỉ mục hoặc tài liệu nhẹ. TXT lý tưởng cho các quy trình làm việc đơn giản, có thể thực hiện bằng kịch bản.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Trích xuất nhãn và chú thích từ sơ đồ SVG cho tài liệu.
+* Tạo phiên bản văn bản thuần có thể tìm kiếm của hình minh họa kỹ thuật.
+* Tạo báo cáo siêu dữ liệu SVG nhẹ cho phân tích dữ liệu.
+* Chia sẻ nhanh nội dung SVG văn bản mà không có hình ảnh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Trích xuất tự động văn bản SVG thành TXT cho các đường ống báo cáo.
+* Tạo tài liệu văn bản thuần tự động từ sơ đồ vector.
+* Tích hợp với hệ thống chỉ mục và tìm kiếm.
+* Kích hoạt chuyển đổi cho phân tích và quy trình làm việc với nội dung nhẹ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVGファイルをMHTML（MIME HTML）に変換すると、インタラクティブなグラフィックを1つのWebアーカイブファイルにパッケージ化できます。これはオフラインドキュメント、メール対応の図表、およびポータブルなベクターレポートに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* オフラインアクセス用にインタラクティブなSVGダッシュボードをアーカイブ化する。
+* MHTMLメールに埋め込まれたアニメーションベクター図を送信する。
+* インラインベクターダイアグラムを備えたポータブルな技術マニュアル。
+* サーバーホスティングなしで配布できるWeb互換レポートの作成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* アーカイブ化されたプロジェクト成果物のためのバッチSVGからMHTMLへの変換。
+* 企業利用のためのオフラインベクターダッシュボードの定期生成。
+* コンテンツ管理システムとの統合によるベクター図のエクスポート。
+* 一貫したフォーマットとポータビリティのためのレポート生成の自動化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

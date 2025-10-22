@@ -121,7 +121,31 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van SVG naar OTP (OpenDocument Presentation Template) maakt het mogelijk om herbruikbare dia-templates te maken met vector diagrammen. OTP is ideaal voor het standaardiseren van presentaties binnen teams en projecten.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+* Bedrijfspresentatiesjablonen met behulp van SVG-dashboards en illustraties.
+* Educatieve dia-templates met ingesloten vectorafbeeldingen.
+* Herbruikbare marketingtemplates die productgegevens tonen.
+* Academische of conferentiepresentatiesjablonen voor schaalbare visuals.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde batchgeneratie van SVG-naar-OTP-templates voor consistente dia-decks.
+* Geplande updates voor trainingen of bedrijfspresentaties.
+* Integratie met workflowautomatisering voor distributie van sjablonen binnen het hele team.
+* Getriggerde creatie van interactieve dia-templates van live SVG-gegevens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

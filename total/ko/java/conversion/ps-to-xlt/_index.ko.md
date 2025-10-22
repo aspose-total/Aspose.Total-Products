@@ -47,7 +47,31 @@ PS 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마크
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 XLT (Excel 템플릿)으로 변환하면 조직이 정적인 PostScript 레이아웃에서 재사용 가능한 스프레드시트 형식을 만들 수 있습니다. 이를 통해 반복되는 보고서, 송장 및 재무 보고서에서 일관된 스타일링과 구조가 보장됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* PS 기반 보고서 디자인에서 Excel 템플릿 생성.
+* 재사용 가능한 비즈니스 양식 및 데이터 시트 작성.
+* Excel 산출물 전체에 걸쳐 일관된 브랜드 레이아웃 유지.
+* 보관된 PS 파일에서 회사 표준 템플릿 작성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 표준화된 보고서 템플릿을 위한 자동화된 PS-to-XLT 변환.
+* 재사용 가능한 디자인 자산을 위한 콘텐츠 관리 시스템 통합.
+* 여러 부서 또는 지점을 위한 일괄 템플릿 생성.
+* 기업 문서 작업을 위한 동적 XLT 생성.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

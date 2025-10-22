@@ -53,7 +53,31 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 DOCX로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS (PowerPoint Slide Show) 파일을 DOCX (Microsoft Word Open XML Document)로 변환하면 프레젠테이션 콘텐츠를 현대적이고 편집 가능한 텍스트 문서로 변환하여 Microsoft 365 및 클라우드 협업 도구와 호환됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 슬라이드 덱을 비즈니스 보고서나 회의 요약으로 변환합니다.
+* 시각적 프레젠테이션에서 편집 가능한 마케팅 콘텐츠를 작성합니다.
+* 서식이 있는 DOCX 매뉴얼이나 교육 안내서를 생성합니다.
+* PPS 파일에서 직접 고객용 문서를 생성합니다.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 보고 시스템을 위한 자동화된 DOCX 생성.
+* 협업 워크플로를 위해 Microsoft Teams 또는 SharePoint에 통합합니다.
+* 콘텐츠 관리 및 배포를 위한 일괄 변환.
+* 프로젝트 업데이트를 위한 일정에 따른 슬라이드에서 DOCX로 변환.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ Saat mengonversi file PPS ke FODS, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi file PPS (PowerPoint Slide Show) ke FODS (Flat XML ODF Spreadsheet) akan mengubah konten presentasi menjadi format XML yang kompatibel dengan spreadsheet. Ini sangat berharga bagi pengguna open-source yang bekerja dengan ekosistem LibreOffice atau Apache OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* Mengekspor data numerik dari PowerPoint ke spreadsheet FODS.
+* Membuat spreadsheet XML terstruktur untuk keperluan pendidikan atau bisnis.
+* Mengubah grafik dari slide menjadi data spreadsheet OpenDocument yang dapat diedit.
+* Menyiapkan file standar terbuka untuk analisis dan berbagi di LibreOffice Calc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Pembuatan FODS secara terjadwal dari pembaruan presentasi yang berulang.
+* Integrasi ke dalam sistem pelaporan open-source.
+* Konversi slide ke FODS secara batch untuk dashboard analitik.
+* Pembuatan spreadsheet berbasis XML otomatis untuk alur kerja lintas platform.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

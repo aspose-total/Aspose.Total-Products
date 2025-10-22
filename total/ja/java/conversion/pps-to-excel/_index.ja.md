@@ -61,7 +61,31 @@ PPSファイルをEXCELに変換するときに、出力EXCELファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをExcel形式に変換すると、ユーザーは視覚的なプレゼンテーションデータを完全に機能するスプレッドシートに変換できます。この変換により、より良いデータ操作、ピボット分析、およびビジネスワークフロー ツールへの統合がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* プレゼンテーションの表をExcelに変換して高度な計算を行う。
+* 重役向けスライドレポートからパフォーマンストラッカーを生成する。
+* サマリースライドから編集可能なExcelダッシュボードを作成する。
+* プレゼンテーションの視覚データから財務モデルや予測を準備する。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PPSレポートをExcelベースの分析テンプレートに定期的に変換する。
+* クラウドドライブに統合して共有データのコラボレーションを行う。
+* 会議やKPIプレゼンテーションスライドからの自動Excel生成。
+* アーカイブ用の一括変換および報告期間間の比較。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

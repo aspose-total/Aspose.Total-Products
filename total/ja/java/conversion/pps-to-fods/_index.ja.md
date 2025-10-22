@@ -61,7 +61,31 @@ PPSファイルをFODSに変換するときに、出力FODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPS（PowerPoint Slide Show）ファイルをFODS（Flat XML ODF Spreadsheet）に変換すると、プレゼンテーションコンテンツがスプレッドシート互換のXML形式に変換されます。特に、LibreOfficeやApache OpenOfficeエコシステムを使用しているオープンソースユーザーにとって特に有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+* PowerPointから数値データをFODSスプレッドシートにエクスポートする。
+* 教育やビジネスで使用するための構造化されたXMLスプレッドシートを作成する。
+* スライドからチャートを編集可能なOpenDocumentスプレッドシートデータに変換する。
+* LibreOffice Calcでの分析や共有のためのオープン標準ファイルの準備。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 定期的なプレゼンテーションの更新からのスケジュールされたFODS生成。
+* オープンソースのレポーティングシステムへの統合。
+* 分析ダッシュボード向けのバッチスライドからFODSへの変換。
+* クロスプラットフォームワークフロー向けの自動化されたXMLベースのスプレッドシート作成。
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,31 @@ Trong khi chuyển đổi tệp PS sang MD, bạn cũng có thể thêm hình m�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp PS (PostScript) sang MD (Markdown) giúp đơn giản hóa việc sử dụng lại nội dung PostScript cho môi trường kiểm soát phiên bản và web. Các tệp MD cung cấp định dạng dễ chỉnh sửa nhẹ và lý tưởng cho tài liệu cộng tác.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Chuyển đổi ghi chú và báo cáo dựa trên PostScript thành MD cho các kho Git.
+* Xuất bản nội dung PS trên blog công nghệ, cổng thông tin tài liệu hoặc cơ sở kiến thức nội bộ.
+* Chuẩn bị báo cáo học thuật hoặc nghiên cứu dưới định dạng Markdown.
+* Chuyển đổi hướng dẫn dựa trên PS thành các tệp Markdown độc lập với nền tảng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt từ PS sang MD cho các dự án tài liệu phần mềm.
+* Tích hợp với đường ống CI/CD để cập nhật tài liệu tự động.
+* Tạo ra Markdown dựa trên đám mây từ các bộ lưu trữ PS.
+* Trích xuất và định dạng bằng trí tuệ nhân tạo từ bố cục PS sang Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

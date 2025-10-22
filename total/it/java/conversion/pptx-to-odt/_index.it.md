@@ -53,7 +53,31 @@ Utilizzando l'API, puoi anche eseguire la conversione da file PPTX a ODT con fil
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione delle presentazioni PPTX in ODT (OpenDocument Text) consente di riutilizzare le diapositive in documenti di testo modificabili. È ideale per generare relazioni scritte, riassunti o documentazione modificabile basata su presentazioni PowerPoint.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+* Conversione delle note delle diapositive in testo modificabile per le relazioni.
+* Creazione di documenti ODT per riassunti accademici o aziendali.
+* Trasformazione delle presentazioni di progetto in file di testo condivisibili.
+* Riutilizzo dei contenuti delle diapositive per la stesura di politiche e proposte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Scenario di automazione" %}}
+
+* Generazione automatica di relazioni da presentazioni PowerPoint.
+* Integrazione del flusso di lavoro con strumenti di documentazione open-source.
+* Conversione di presentazioni di vendita in documenti modificabili per la revisione interna.
+* Archiviazione delle note di PowerPoint in formato ODT per facilitarne l'accesso.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

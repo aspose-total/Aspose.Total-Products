@@ -67,7 +67,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS (PostScript) 파일을 WordML (WordprocessingML)로 변환하면 PostScript 문서의 XML 기반 표현을 제공하여 응용 프로그램, 데이터 교환 및 사용자 정의 워드 처리 워크플로우와 깊은 통합이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* 프로그래밍적 편집 및 생성을 위해 PS 보고서를 WordML로 변환합니다.
+* XML 기반 게시 워크플로에 PostScript 기반 레이아웃 통합.
+* WordML 템플릿을 사용하여 문서 자동 생성 및 서식 지정 자동화.
+* 웹 기반 또는 기업용 워드 처리 시스템에 콘텐츠를 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 자동 게시를 위한 예약된 PS-to-WORDML 변환.
+* 기업 콘텐츠 및 문서 관리 시스템과의 통합.
+* 구조화된 워드 워크플로를 위한 AI 지원 레이아웃-to-XML 변환.
+* 기계가 읽을 수 있는 WordML로 PostScript 파일 일괄 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

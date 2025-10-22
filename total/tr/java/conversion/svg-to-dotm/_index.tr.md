@@ -129,7 +129,31 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG'yi DOTM'ye (Macro-Enabled Word Template) dönüştürmek, ölçeklenebilir vektör grafikleri ve makroları birleştiren yeniden kullanılabilir şablonlar sağlar. Etkileşimli raporlar, formlar ve iş akışı belgeleri için idealdir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+* Gömülü SVG görselleri olan makro etkin izleme şablonları.
+* Kurumsal iş akışları için yeniden kullanılabilir finansal veya operasyonel şablonlar.
+* Dinamik diyagramlar ve otomasyonu entegre eden akademik veya araştırma şablonları.
+* Makro destekli SVG diyagramları kullanan etkileşimli e-öğrenme materyalleri.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Tekrarlanan makro etkin şablonlar için otomatik SVG'den DOTM'ye dönüşüm.
+* Yeni SVG verileri ve makrolarla şablonların zamanlanmış güncellemeleri.
+* Yeniden kullanılabilir şablonları gerektiren iş akışı otomasyon sistemlerine entegrasyon.
+* Etkileşimli raporlama panoları için tetiklenen dönüşüm akışları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,31 @@ Lors de la conversion du fichier PPS en FODS, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion des fichiers PPS (PowerPoint Slide Show) en FODS (Feuille de calcul ODF XML plat) transforme le contenu de la présentation en formats XML compatibles avec les feuilles de calcul. C'est particulièrement précieux pour les utilisateurs de logiciels open source travaillant avec les écosystèmes LibreOffice ou Apache OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Exporter des données numériques de PowerPoint vers des feuilles de calcul FODS.
+* Créer des feuilles de calcul XML structurées à des fins éducatives ou professionnelles.
+* Transformer des graphiques des diapositives en données de feuille de calcul OpenDocument modifiables.
+* Préparer des fichiers aux normes ouvertes pour l'analyse et le partage dans LibreOffice Calc.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération planifiée de FODS à partir de mises à jour de présentations récurrentes.
+* Intégration dans des systèmes de reporting open source.
+* Conversion en masse de diapositives en FODS pour des tableaux de bord analytiques.
+* Création automatisée de feuilles de calcul basées sur XML pour des flux de travail multiplateformes.
+  {{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
