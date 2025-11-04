@@ -49,7 +49,51 @@ otherformats: DIF XLT TSV XLTX XLSM MD XLAM TXT EXCEL XLTM ODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **XLSB（Excel 二进制工作簿）** 可以通过使用紧凑、快速加载的二进制格式来提高大型数据集的性能，同时保留所有电子表格功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 需要高效处理的大型财务或销售数据集。
+
+* 具有复杂公式的工程和科学数据集。
+
+* 具有大量数据输入的交互式仪表板。
+
+* 嵌入图表和数据透视表的企业报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于高性能分析的批量 XPS 到 XLSB 转换。
+
+* 从静态 XPS 数据自动生成仪表板的自动化。
+
+* 用于定期报告的定时 XLSB 更新。
+
+* 集成到需要快速加载电子表格的 BI 系统中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

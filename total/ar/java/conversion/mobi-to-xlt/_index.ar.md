@@ -61,7 +61,47 @@ otherformats: XLSM XLAM XLSX XLTX XLTM TSV FODS XLSB SXC ODS XLT DIF XLS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MOBI إلى XLT (قالب Excel) ينشئ قوالب جداول بيانات قابلة لإعادة الاستخدام لتحليل الكتب الإلكترونية وإعداد التقارير. يقوم هذا التنسيق بتوحيد التخطيط البصري والصيغ عبر المشاريع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- تصميم قوالب موحدة لتحليلات MOBI.
+
+- تبسيط عملية إعداد التقارير لأقسام النشر.
+
+- توزيع لوحات تحكم متسقة لفرق الكتّاب.
+
+- إنشاء قوالب إدخال بيانات قابلة لإعادة الاستخدام لبيانات الكتب الإلكترونية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- أتمتة استيراد MOBI بناءً على القوالب.
+
+- تحديثات مجدولة لهياكل التقارير XLT.
+
+- التكامل مع مكتبات القوالب في Excel.
+
+- ماكروهات XLT محددة مسبقًا لأنماط العمل في النشر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

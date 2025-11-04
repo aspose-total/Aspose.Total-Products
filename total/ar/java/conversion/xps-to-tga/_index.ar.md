@@ -57,7 +57,51 @@ otherformats: EMZ SVGZ PSD TGA DXF WMF JPEG2000 IMAGE WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **TGA (ملف صورة تارجا)** يوفر صور نقطية عالية الجودة تصلح للرسومات المهنية وإنتاج الفيديو.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* صور بصرية عالية الدقة لمشاريع الفيديو والوسائط المتعددة.
+
+* أصول تصميم الألعاب المستمدة من الرسوم البيانية XPS.
+
+* رسوم توضيحية تقنية تتطلب صور نقطية بدون فقد.
+
+* رسومات الشركات لأغراض العرض أو الأرشفة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* خطوط أنابيب تحويل XPS إلى TGA بالجملة.
+
+* إنشاء مجدول لسير العمل الإنتاجي للوسائط المتعددة.
+
+* التكامل مع برامج تحرير الرسومات والفيديو.
+
+* معالجة آلية للرسوم البيانية التقنية أو التصميم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

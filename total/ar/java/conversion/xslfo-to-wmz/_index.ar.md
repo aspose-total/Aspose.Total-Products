@@ -57,7 +57,51 @@ otherformats: PSD  WMZ JPEG2000 SVGZ WMF EMZ IMAGE DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **WMZ (ملف تعريف نافذة مضغوط)** يوفر صورًا ناقلة مضغوطة مثالية للبريد الإلكتروني والعروض التقديمية والتكامل مع الويب مع الحفاظ على القابلية للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إرسال الرسومات التي تم إنشاؤها بواسطة XSLFO كمرفقات مضغوطة.
+
+* تضمين الرسومات قابلة للتوسيع في برنامج PowerPoint وWord.
+
+* أرشفة الرسومات البيانية الناقلة المضغوطة.
+
+* مشاركة لوحات القيادة التشغيلية عبر البريد الإلكتروني أو البوابات الداخلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي لملفات XSLFO إلى WMZ لتخزين فعال من حيث الفضاء.
+
+* ضغط تلقائي مجدول للتقارير البصرية.
+
+* توليد WMZ مُشغَّل لسير العمل المتكررة للعروض التقديمية.
+
+* دمجه في خطوط أنابيب الشرائح التلقائية والمستندات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

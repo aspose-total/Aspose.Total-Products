@@ -61,7 +61,51 @@ Při převodu souboru POTM na XLAM můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTM na XLAM vytváří makro-povolené doplňky Excelu z šablon PowerPointu. To umožňuje vkládání opakovaně použitelné funkcionality, vlastních vzorců nebo interaktivních nástrojů odvozených z obsahu prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření doplňků Excelu z interaktivních výpočtů snímků.
+
+* Automatizace finančních přístrojových panelů původně navržených v PowerPointu.
+
+* Převádění šablon KPI nebo ukazatelů výkonnosti na makro-povolené nástroje.
+
+* Vytváření opakovaně použitelných skriptů pro automatizaci Excelu z logiky prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Podnikové pracovní postupy generující soubory XLAM z šablon POTM.
+
+* Integrace s potrubími automatizace Excelu pro obchodní analýzu.
+
+* Hromadné vytváření makro-povolených nástrojů z firemních prezentací.
+
+* Spouštěný proces generování doplňku XLAM pro standardizované analytické šablony.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -49,7 +49,51 @@ otherformats: XLTX TSV XLSB ODS SXC DIF FODS TXT MD EXCEL XLAM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **ODS（OpenDocument 电子表格）** 可以实现与 LibreOffice 和 OpenOffice 的广泛兼容，同时保持结构化数据布局。非常适合协作环境。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在多个办公套件之间共享的企业电子表格。
+
+* 需要开放格式的政府或非政府组织数据报告。
+
+* 基于团队的项目跟踪和绩效指标。
+
+* 电子表格形式的技术和研究文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从 XPS 存档批量自动转换为 ODS。
+
+* 集成到文档管理和工作流系统中。
+
+* 为定期报告生成安排的 ODS。
+
+* 跨平台自动化数据分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

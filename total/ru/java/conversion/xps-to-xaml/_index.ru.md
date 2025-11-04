@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов XPS (XML Paper Specification) в **XAML (Extensible Application Markup Language)** позволяет разработчикам и дизайнерам повторно использовать содержимое документов в приложениях WPF (Windows Presentation Foundation), сохраняя макет, шрифты и векторную графику.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Внедрение статических визуальных элементов документа в настольные приложения на основе WPF.
+
+* Создание интерактивных панелей приборов с использованием элементов пользовательского интерфейса на основе XAML.
+
+* Повторное использование макетов XPS в интерфейсах программ и элементах управления.
+
+* Образовательные или корпоративные приложения электронного обучения, требующие точного отображения документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование файлов XPS в XAML для процессов разработки программного обеспечения.
+
+* Интеграция с рабочими процессами непрерывной интеграции и непрерывной доставки для обновлений настольных приложений.
+
+* Плановое создание ресурсов XAML для повторяющегося содержимого приложения.
+
+* Упрощенное повторное использование документов XPS в нескольких проектах WPF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

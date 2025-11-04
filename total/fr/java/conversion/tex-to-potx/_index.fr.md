@@ -135,7 +135,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **POTX (modèle PowerPoint sans macros)** permet de créer des modèles de diapositives sûrs et réutilisables avec une mise en forme LaTeX, parfaits pour les environnements multi-utilisateurs.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Modèles de diapositives de cours standardisés avec des équations LaTeX.
+
+* Diapositives de conférence sans restrictions de macros.
+
+* Modèles de présentation de projet réutilisables.
+
+* Diapositives de cours académiques avec un contenu riche en formules.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Création en lot de modèles LaTeX vers POTX.
+
+* Mises à jour automatisées des modèles à partir des dépôts LaTeX.
+
+* Intégration dans les LMS éducatifs ou les systèmes de diapositives d'entreprise.
+
+* Génération de modèles de diapositives déclenchée pour les équipes multi-auteurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

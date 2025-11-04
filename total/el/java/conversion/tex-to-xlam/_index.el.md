@@ -47,7 +47,51 @@ otherformats: XLSM SXC ODS XLTM EXCEL MD XLT TXT XLAM FODS XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **XLAM (Excel Add-In Macro)** επιτρέπει στους πίνακες και τις τύπους LaTeX να γίνουν διαδραστικά εργαλεία Excel με αυτοματοποιημένους υπολογισμούς και βελτιωμένη λειτουργικότητα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Πρότυπα οικονομικού μοντελοποιήσεων με βάση το LaTeX.
+
+* Αυτοματοποιημένα εργαλεία υπολογισμών για μηχανικά έργα.
+
+* Φύλλα με ακαδημαϊκούς τύπους ενσωματωμένα σε μακρό Excel.
+
+* Πίνακες επεξεργασίας δεδομένων που συνδυάζουν LaTeX και αυτοματοποίηση Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτόματη δημιουργία πρόσθετων XLAM από σύνολα δεδομένων LaTeX.
+
+* Μαζικές μετατροπές LaTeX σε XLAM για εργαλεία επιχειρήσεων.
+
+* Ενεργοποιημένα μακρό-ενεργοποιημένα φύλλα εργασίας από αποθετήρια έρευνας.
+
+* Ενσωμάτωση σε αυτοματοποιημένες αναφορές και πίνακες ελέγχου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

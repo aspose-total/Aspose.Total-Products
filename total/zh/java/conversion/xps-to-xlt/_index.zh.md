@@ -49,7 +49,51 @@ otherformats: XLSM EXCEL TXT ODS DIF XLSB XLT TSV SXC XLTX XLAM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **XLT（Excel 模板）** 可以创建可重复使用的、预先格式化的电子表格，非常适用于标准化报告和一致的数据录入。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 标准化的公司报告模板。
+
+* 项目跟踪和资源分配模板。
+
+* 用于重复作业的学术电子表格模板。
+
+* 财务报表和预算模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为企业团队自动创建 XPS 到 XLT 模板。
+
+* 预定生成预先格式化的电子表格。
+
+* 与文档管理系统集成以分发模板。
+
+* 简化重复数据录入工作流程的标准化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

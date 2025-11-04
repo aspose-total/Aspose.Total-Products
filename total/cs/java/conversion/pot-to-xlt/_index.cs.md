@@ -61,7 +61,45 @@ Při převodu souboru POT na XLT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na XLT (Excel šablona) pomáhá organizacím vytvářet opakovaně použitelné šablonové tabulky z prezentací. XLT podporuje efektivní zadávání dat a konzistentní reporting napříč týmy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Návrh finančních šablon z rozpočtových prezentací v PowerPointu.
+
+* Vytváření standardních datových vstupních listů pro HR nebo účetnictví.
+
+* Přetváření výukových vizuálů na výkonnostní sledovače založené na Excelu.
+
+* Generování opakovaně použitelných obchodních šablon ze slidů.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizované generování XLT z firemních návrhů prezentací.
+
+* Synchronizace šablon napříč systémy pro správu dokumentů.
+
+* Integrace do nástrojů pro plánování podnikových prostředků.
+
+* Zjednodušené nasazení standardizovaných Excel šablon.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

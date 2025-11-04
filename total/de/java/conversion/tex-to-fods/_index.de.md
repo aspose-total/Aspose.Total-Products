@@ -47,7 +47,51 @@ Während Sie eine TEX-Datei in FODS konvertieren, können Sie Ihrem Ausgabe-FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX in **FODS (Flat OpenDocument Spreadsheet)** liefert LaTeX-Daten in offenen, XML-basierten Tabellenkalkulationen, die mit LibreOffice und OpenOffice kompatibel sind.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Austausch von auf LaTeX basierenden wissenschaftlichen Tabellen mit Open-Source-Office-Suiten.
+
+* Akademische Forschung, die offene, plattformunabhängige Tabellenkalkulationsformate erfordert.
+
+* Projektverfolgung und Berichterstattung in Multi-Plattform-Umgebungen.
+
+* Vorbereitung von LaTeX-Daten für kollaborative FODS-Tabellenkalkulationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte TEX-zu-FODS-Konvertierung für Open-Source-Workflows.
+
+* Stapelverarbeitung von LaTeX-Datensätzen für plattformübergreifende Zusammenarbeit.
+
+* Geplante Exporte von Laborergebnissen oder Experimenttabellen.
+
+* Integration in Dokumenten-Pipelines für Forschungseinrichtungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

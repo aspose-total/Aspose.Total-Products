@@ -121,7 +121,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **SWF（Shockwave Flash）** 可以为传统的 Web 应用程序和电子学习平台提供交互式或动画式演示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 需要 Flash 动画的传统电子学习模块。
+
+* 基于文档的交互式教程。
+
+* 历史 Web 平台的动画营销内容。
+
+* 用于教育课程的多媒体丰富演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于基于存档的电子学习系统的批量 XPS 到 SWF 转换。
+
+* 自动生成交互式 Flash 内容。
+
+* 定期更新重复培训模块。
+
+* 与传统 Web 门户集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

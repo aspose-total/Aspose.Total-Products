@@ -57,7 +57,51 @@ otherformats: EMZ WMF SVGZ DXF DICOM IMAGE WMZ PSD JPEG2000 TGA
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **DICOM (الصور الرقمية والاتصالات في الطب)** يمكّن من دمج محتوى التقارير المهيكلة مع سير العمل الطبي للصور. DICOM هو معيار في التصوير الطبي، والدراسات السريرية، وأنظمة معلومات المستشفيات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين تقارير المرضى المهيكلة جنبًا إلى جنب مع التصورات التي تم إنشاؤها بواسطة XSLFO.
+
+* إعداد لوحات القيادة التشخيصية لمراجعة البيانات السريرية.
+
+* تحويل جداول التحليلات الطبية إلى صور متوافقة مع DICOM.
+
+* دمج نتائج التحاليل التي تم إنشاؤها بواسطة XSLFO في أنظمة PACS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل مجدول لتقارير XSLFO إلى تنسيق DICOM للمستشفيات.
+
+* الدمج في أنابيب سجلات الصحة الإلكترونية (EHR) المؤتمتة.
+
+* توليد محفز للصور DICOM من تقارير XSLFO السريرية.
+
+* معالجة دفعية لتصور البيانات البحثية في مجال الرعاية الصحية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

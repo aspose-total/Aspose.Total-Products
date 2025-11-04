@@ -121,7 +121,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XPS转换为**OTP（OpenDocument Presentation Template）**，为LibreOffice和OpenOffice创建可重复使用的演示文稿模板，实现团队间一致的设计和布局。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为客户会议创建企业演示文稿模板。
+
+* 为教育工作者创建标准化的讲座模板。
+
+* 为重复使用创建NGO或项目报告模板。
+
+* 具有一致品牌的营销活动幻灯片展示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从XPS报告自动创建OTP模板。
+
+* 与内容管理系统集成，实现团队范围内的分发。
+
+* 为定期演示制定计划模板生成。
+
+* 简化品牌和布局标准化跨部门。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

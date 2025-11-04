@@ -144,7 +144,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات TEX إلى **PCL (لغة أوامر الطابعة)** يسمح بإرسال مستندات LaTeX، بما في ذلك المعادلات والجداول والرسوم البيانية، مباشرة إلى الطابعات للحصول على إخراج عالي الجودة في الإعدادات الاحترافية أو الأكاديمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* طباعة أوراق بحثية وتقارير تقنية باستخدام LaTeX.
+
+* إخراج عالي الجودة لملاحظات المحاضرات والمواد التعليمية.
+
+* إنتاج نشرات احترافية من جداول ورسوم بيانية تم إنشاؤها بواسطة LaTeX.
+
+* طباعة مستندات دفعية من مشاريع علمية أو هندسية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من TEX إلى PCL لصفوف الطباعة.
+
+* دمجه في سير العمل الآلي لطباعة المستندات.
+
+* توليد PCL مُحفز من مستودعات LaTeX للطباعة الجماعية.
+
+* إخراج مجدول لتوزيع المستندات الأكاديمية أو الشركات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

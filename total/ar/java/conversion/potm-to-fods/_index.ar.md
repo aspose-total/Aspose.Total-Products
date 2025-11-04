@@ -61,7 +61,55 @@ otherformats: MHTML EXCEL XLSX FODS ODS XLSB SXC TSV XLSM XLS XLAM XLT MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POTM إلى FODS يولد ملفات جدول بيانات مبنية على XML مسطحة. FODS مثالية لتخزين جداول البيانات خفيفة الوزن وغير معتمدة عن المنصة، محتفظة ببنية الجداول من شرائح العرض.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير جداول PowerPoint إلى FODS للاستخدام في LibreOffice أو OpenOffice.
+
+* تحويل التقارير الرقمية المعتمدة على الشرائح إلى جداول بيانات متعددة المنصات.
+
+* مشاركة جداول المشاريع الأكاديمية أو غير الحكومية في تنسيقات XML مفتوحة.
+
+* أرشفة بيانات العرض في جداول بيانات XML مسطحة منظمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* أتمتة سير العمل لتحويل دفعات POTM إلى FODS.
+
+* الدمج في خطوط أنابيب الأتمتة المكتبية متعددة المنصات.
+
+* توليد ملفات FODS مُحفزة لفرق العمل الموزعة.
+
+* استخراج بيانات XML منظمة لأنظمة التقارير والامتثال.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

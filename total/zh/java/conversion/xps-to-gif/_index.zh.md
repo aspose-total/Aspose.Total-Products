@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **GIF（图形交换格式）**，将静态文档转变为轻量级动画或静态图像，非常适合在线平台和电子邮件营销活动。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 用于社交媒体营销活动的动画图表。
+
+* 用于电子学习和教程的指导性 GIF。
+
+* 用于演示文稿的数据趋势可视化。
+
+* 用于报告和图形的轻量级文件共享。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于网页平台的自动化 XPS 到 GIF 转换。
+
+* 用于营销内容的 GIF 定时生成。
+
+* 与内容管理系统集成，用于在线发布。
+
+* 用于制作指导性或促销材料的批量创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

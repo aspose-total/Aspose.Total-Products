@@ -61,7 +61,47 @@ otherformats: XLSM SXC DIF XLTM EXCEL ODS XLSX XLAM XLTX XLS XLSB XLT FODS TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI转XLS转换可确保与较旧的Microsoft Excel版本兼容，同时保留结构化元数据。这对仍在使用传统Excel工作流程的企业系统非常理想。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+- 创建与Excel 97–2003兼容的MOBI书籍列表。
+
+- 为离线目录报告导出元数据。
+
+- 在较旧的企业系统中管理发布日志。
+
+- 在非云环境中共享准备好的XLS数据集。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 用于归档MOBI数据的自动化XLS导出。
+
+- 集成到传统会计或出版系统中。
+
+- 定期将MOBI元数据同步到XLS格式。
+
+- 用于政府数字出版记录的XLS输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

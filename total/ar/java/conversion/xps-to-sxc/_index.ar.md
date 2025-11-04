@@ -47,7 +47,51 @@ otherformats: XLT XLTM ODS XLTX DIF XLSB EXCEL SXC TSV XLAM XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **SXC (جدول بيانات StarOffice)** يوفر التوافق الخلفي مع ملفات OpenOffice/StarOffice القديمة. هذا التنسيق مناسب لسير العمل التقليدية والأغراض الأرشيفية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة التقارير التقليدية بتنسيق SXC.
+
+* مجموعات البيانات المالية والتشغيلية التاريخية.
+
+* ترحيل جداول البيانات القائمة على XPS إلى بيئات مفتوحة المصدر.
+
+* سجلات تقنية أو بحثية لحلول مكتبية قديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+
+
+
+* تحويل دفعي لمستودعات XPS إلى ملفات SXC.
+
+* أرشفة آلية لأغراض الامتثال والتدقيق.
+
+* ترحيل مجدول للتقارير الدورية بتنسيق XPS.
+
+* خطوط أنابيب تكامل الأنظمة التقليدية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

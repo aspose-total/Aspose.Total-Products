@@ -61,7 +61,47 @@ otherformats: FODS XLSM TSV XLTX XLTM XLAM DIF XLT XLSX XLSB EXCEL ODS XLS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MOBI в формат DIF (Data Interchange Format) обеспечивает совместимость с устаревшими системами обработки данных, сохраняя читаемость в структурированных электронных таблицах. DIF предлагает эффективный способ стандартизации статистики электронных книг, истории чтения или каталожных данных на различных платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+- Архивирование метаданных файла MOBI для исторического анализа.
+
+- Импорт статистики электронных книг в устаревшее программное обеспечение, поддерживающее DIF.
+
+- Форматирование записей академических изданий для стандартизированного хранения.
+
+- Конвертация офлайн-каталогов для институциональных систем электронных книг.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+- Запланированные экспорты MOBI в DIF в управлении исследовательскими данными.
+
+- Интеграция с устаревшими системами ERP или отчетности.
+
+- Пакетная обработка с помощью конвертеров командной строки для библиотекарей.
+
+- Автоматическая доставка файлов DIF для распределенных сетей чтения.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

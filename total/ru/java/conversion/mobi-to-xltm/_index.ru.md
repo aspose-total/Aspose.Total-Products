@@ -61,7 +61,47 @@ otherformats: EXCEL DIF XLS XLTM TSV XLTX XLSM FODS XLSX XLAM ODS SXC XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MOBI в XLTM (Шаблон Excel с включенными макросами) объединяет автоматизацию и стандартизацию. Это позволяет создавать макро-управляемые шаблоны для управления и анализа данных MOBI.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+- Готовые к макросам шаблоны для автоматизированного анализа электронных книг.
+
+- Настраиваемые макеты отчетов для преобразования MOBI.
+
+- Шаблонные панели управления для цифрового издательства.
+
+- Оптимизированные среды Excel для повторяемых отчетов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+- Пакетный импорт MOBI с использованием макросов XLTM.
+
+- Динамическое создание XLTM в процессах публикации.
+
+- Интеграция с автоматизацией VBA для аналитики.
+
+- Распространение облачных шаблонов XLTM для команд.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

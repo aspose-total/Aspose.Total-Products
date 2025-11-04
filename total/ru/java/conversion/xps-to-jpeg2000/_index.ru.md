@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XPS в J
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **JPEG2000** обеспечивает высококачественные сжатые изображения, подходящие для профессиональной публикации, медицинских и архивных приложений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые области применения" %}}
+
+
+
+* Архивирование корпоративных и юридических документов.
+
+* Готовые к публикации изображения высокого разрешения.
+
+* Интеграция в цифровые библиотеки, требующие беспроигрышного качества.
+
+* Медицинская и научная документация.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное преобразование архивов XPS в JPEG2000 для повышения эффективности хранения.
+
+* Плановая пакетная обработка для библиотек изображений документов.
+
+* Интеграция с системами управления цифровыми активами.
+
+* Оптимизированные рабочие процессы для публикации изображений высокого разрешения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

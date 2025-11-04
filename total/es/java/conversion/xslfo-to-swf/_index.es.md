@@ -135,7 +135,51 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir XSLFO a **SWF (Flash)** permite animaciones interactivas para paneles de control heredados y aplicaciones web. SWF conserva gráficos vectoriales y permite interacciones basadas en líneas de tiempo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Incrustar gráficos interactivos XSLFO en portales web heredados.
+
+* Preparar paneles de control animados para sistemas intranet históricos.
+
+* Convertir módulos de capacitación a SWF para uso sin conexión.
+
+* Archivar visualizaciones interactivas XSLFO para fines de cumplimiento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión programada de XSLFO a SWF para sistemas heredados.
+
+* Creación por lotes de paneles de control animados.
+
+* Generación activada para aplicaciones web heredadas.
+
+* Integración con canalizaciones de informes interactivos automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

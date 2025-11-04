@@ -47,7 +47,55 @@ Při převodu souboru XSLFO na CSV můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XSLFO (Extensible Stylesheet Language Formatting Objects) do **CSV (hodnot oddělených čárkami)** umožňuje snadné extrahování tabulkových dat pro rychlé reportování, analýzu dat a pracovní postupy v oblasti podnikové inteligence. CSV zůstává lehkým formátem kompatibilním s většinou analytických nástrojů a databází.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Export finančních zpráv z XML založených XSLFO rozložení do CSV pro účely auditu.
+
+* Zjednodušení sledování prodejů a skladů v cloudových nástrojích pro podnikovou inteligenci.
+
+* Příprava dat generovaných pomocí XSLFO pro předzpracování strojového učení.
+
+* Generování shrnutí v CSV pro automatizované emailové reportování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánované převádění faktur XSLFO do CSV pro účetní systémy.
+
+* Integrace do ETL potrubí pro zjednodušení migrace dat z legacy XSLFO.
+
+* Extrahování operačních dat založených na XSLFO v reálném čase do analytických nástěnek.
+
+* Automatizovaná hromadná konverze pro reportování více oddělení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XSLFO (Extensible Stylesheet Language Formatting Objects) na **ODP (OpenDocument Presentation)** umožňuje snadné vytváření prezentací ve formátu open-source při zachování strukturovaného obsahu a stylizace. ODP je kompatibilní s LibreOffice Impress a dalšími kancelářskými balíky open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace XSLFO-generovaných výročních zpráv na interaktivní prezentace ODP.
+
+* Příprava vzdělávacího obsahu ze strukturovaných tabulek XSLFO pro využití ve třídě.
+
+* Archivace snímků z jednání správní rady ve formátu ODP, který je odolný vůči budoucnosti.
+
+* Vytváření vizuálních nástěnek z analytických dat založených na XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze měsíčních zpráv XSLFO na ODP pro firemní přezkumy.
+
+* Integrace do automatizovaných pracovních postupů od zpráv k prezentacím.
+
+* Plánované generování snímků ODP pro opakující se schůzky.
+
+* Spuštěná transformace obsahu XSLFO na prezentace ve formátu open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

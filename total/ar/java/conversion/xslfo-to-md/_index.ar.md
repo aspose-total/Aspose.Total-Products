@@ -47,7 +47,55 @@ otherformats: XLTM FODS SXC XLAM XLT XLTX ODS XLSM XLSB MD DIF TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات XSLFO (Extensible Stylesheet Language Formatting Objects) إلى **MD (Markdown)** يمكن أن يسمح بإنشاء وثائق خفيفة الوزن وصديقة للويب وسهلة القراءة. يحافظ Markdown على هيكل العناوين والجداول والقوائم من محتوى XSLFO مع جعله مناسبًا للمواقع الإلكترونية والمدونات ومنصات الوثائق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل تقارير XSLFO المولدة إلى Markdown للوثائق التقنية.
+
+* نشر جداول منظمة ومحتوى من XSLFO إلى قواعد المعرفة.
+
+* إنشاء تقارير جاهزة للمدونة مع الحفاظ على تخطيطات الجداول والعناوين.
+
+* إعداد وثائق مفتوحة المصدر من تحليلات XSLFO المنظمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل تقارير XSLFO بانتظام إلى Markdown لبوابات الويب.
+
+* دمجها في خطوط إنتاج الوثائق التلقائية.
+
+* تحويل مشغل لتحليلات متكررة أو تقارير مشاريع.
+
+* سير عمل XSLFO-to-MD التلقائي لأنظمة إدارة المعرفة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**WordML（Microsoft Word XML格式）**可以使LaTeX内容与基于XML的Word文档完全兼容，实现自动化工作流程、内容验证和与企业系统集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从LaTeX源生成基于XML的科学报告。
+
+* 使用结构化WordML进行企业文档工作流程。
+
+* 多作者协作，自动合并内容。
+
+* 通过XML驱动发布学术或技术材料。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从LaTeX存储库自动生成WordML文档。
+
+* 集成到企业内容管理系统中。
+
+* 触发大规模研究出版物的XML导出。
+
+* 批处理以进行合规报告和学术提交。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

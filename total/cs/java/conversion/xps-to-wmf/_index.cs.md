@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek WMF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **WMF (Windows Metafile)** produkuje škálovatelnou vektorovou grafiku vhodnou pro integraci do aplikací Microsoft Office a technické ilustrace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání vektorové grafiky do dokumentů aplikací Office.
+
+* Technické diagramy pro manuály a zprávy.
+
+* Marketingové vizuály vyžadující škálovatelnou grafiku.
+
+* Ilustrační obsah pro prezentace a brožury.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XPS na WMF pro firemní knihovny dokumentů.
+
+* Automatické vytváření škálovatelných diagramů z XPS.
+
+* Integrace s publikačními toky.
+
+* Plánované aktualizace opakujících se vektorových grafik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

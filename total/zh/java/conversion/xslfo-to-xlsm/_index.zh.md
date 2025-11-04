@@ -49,7 +49,49 @@ otherformats: XLAM XLSB ODS TXT EXCEL DIF FODS TSV XLTM SXC XLSM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **XLSM（启用宏的 Excel）** 可保留表格数据并使用宏实现高级自动化。XLSM 非常适用于动态报告、工作流自动化和财务建模。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将基于 XSLFO 的计算嵌入 Excel 宏中。
+* 使用 XLSM 工作簿自动化定期报告任务。
+* 利用 XSLFO 数据生成交互式仪表板。
+* 为基于宏的财务工作流准备 XSLFO 模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从 XSLFO 报告自动生成 XLSM 工作簿。
+* 定期安排启用宏的报告更新供管理审查。
+* 与 VBA 和企业工作流自动化集成。
+* 为动态财务仪表板触发 XLSM 转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

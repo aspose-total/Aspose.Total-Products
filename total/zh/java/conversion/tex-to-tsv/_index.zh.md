@@ -49,7 +49,51 @@ otherformats: SXC XLTM FODS EXCEL TSV ODS XLAM TXT XLTX XLT DIF XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**TSV（制表符分隔值）**为数字和文本LaTeX数据提供了一种替代的轻量级格式，适用于分析和软件导入。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 为统计分析导出的学术实验表格。
+
+* 用于Python、R或MATLAB的工程数据集。
+
+* 转换为分析平台的金融LaTeX表格。
+
+* 轻量级LaTeX数据在团队间共享。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 在研究流程中批量进行TEX到TSV转换。
+
+* 为AI模型自动导出LaTeX表格数据。
+
+* 为协作分析仪表板实时生成TSV。
+
+* 集成到用于结构化数据集的ETL流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

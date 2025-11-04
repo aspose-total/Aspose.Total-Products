@@ -135,7 +135,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO（可扩展样式表语言格式化对象）文件转换为**ODP（OpenDocument Presentation）**，可以轻松创建开源幻灯片，同时保留结构化内容和样式。ODP与LibreOffice Impress和其他开源办公套件兼容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将XSLFO生成的年度报告转换为交互式ODP演示文稿。
+
+* 从结构化的XSLFO表格准备用于课堂教学的教育内容。
+
+* 将董事会会议幻灯片存档为具有未来保障的开放格式。
+
+* 从基于XSLFO的分析数据创建可视化仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将每月的XSLFO报告转换为ODP以供公司审查。
+
+* 集成到自动化报告到演示文稿的工作流程中。
+
+* 定期生成ODP幻灯片以用于重复会议。
+
+* 触发将XSLFO内容转换为开源幻灯片组。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ Lors de la conversion du fichier TEX en TSV, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **TSV (valeurs séparées par des tabulations)** fournit un format alternatif léger pour les données LaTeX numériques et textuelles, adapté à l'analyse et à l'importation de logiciels.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Tables d'expériences académiques exportées pour l'analyse statistique.
+
+* Ensembles de données d'ingénierie pour Python, R ou MATLAB.
+
+* Tables LaTeX financières converties pour les plateformes d'analyse.
+
+* Partage léger de données LaTeX entre les équipes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de TEX en TSV dans les pipelines de recherche.
+
+* Exportation automatisée de données tabulaires LaTeX pour les modèles d'IA.
+
+* Génération en temps réel de TSV pour les tableaux de bord d'analyse collaborative.
+
+* Intégration dans les pipelines ETL pour les ensembles de données structurées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

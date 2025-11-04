@@ -61,7 +61,47 @@ otherformats: XLSB TSV XLTM SXC ODS EXCEL FODS XLT DIF XLAM XLTX XLSM XLSX XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI导出为FODS（Flat OpenDocument Spreadsheet）可提供基于XML的电子表格输出，非常适合轻量级数据交换。它非常适用于开源环境和需要纯文本结构化电子书数据的系统。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+- 在开源电子表格应用程序中管理电子书库。
+
+- 在LibreOffice Calc中编辑MOBI内容属性。
+
+- 为数字图书馆分析创建轻量级报告。
+
+- 使用开放格式在团队之间共享元数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 批量将MOBI转换为FODS以用于开放数据门户。
+
+- 集成到开源ETL数据管道中。
+
+- 用于元数据验证和清洗的XML解析。
+
+- 为学术机构发布基于FODS的数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

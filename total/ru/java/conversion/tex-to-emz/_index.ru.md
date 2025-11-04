@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **EMZ (сжатый метафайл Windows)** обеспечивает сохранение векторной графики LaTeX в сжатом формате, подходящем для презентаций, документов и технических публикаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание диаграмм LaTeX в документы Microsoft Office.
+
+* Сохранение векторной графики для технических отчетов.
+
+* Многократное использование схем LaTeX для профессиональных публикаций.
+
+* Сжатая графика для академических PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное сжатие и преобразование для библиотек документов.
+
+* Интеграция в автоматизированные рабочие процессы публикации.
+
+* Генерация EMZ по запросу для слайд-шоу или отчетов.
+
+* Архивирование диаграмм LaTeX в сжатых форматах для удобного распространения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

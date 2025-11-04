@@ -47,7 +47,55 @@ Při převodu souboru XSLFO na XLSB můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **XLSB (Excel Binary Workbook)** nabízí vysoký výkon pro ukládání rozsáhlých datových sad. XLSB snižuje velikost souboru, urychluje výpočty a uchovává složité formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Zpracování finančních modelů XSLFO s rozsáhlými tabulkovými daty.
+
+* Archivace provozních zpráv XSLFO ve formě kompaktního binárního souboru.
+
+* Generování excelových nástěnek pro analýzu dat.
+
+* Příprava prognózových listů založených na XSLFO šablonách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod zpráv XSLFO do XLSB pro rychlejší načítání.
+
+* Plánovaný export pro podnikové analytické aplikace.
+
+* Integrace do automatizovaných excelových reportingových procesů.
+
+* Spouštěná generace XLSB z XSLFO pro finanční reporting na velkou škálu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

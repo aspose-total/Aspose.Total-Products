@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier XSLFO vers TGA dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XSLFO en **TGA (Targa Image)** permet d'obtenir des graphiques raster de haute qualité souvent utilisés dans les jeux, les simulations et les visualisations haute résolution.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Préparation des visuels générés par XSLFO pour les simulations ou l'analyse de jeux.
+
+* Archivage de graphiques détaillés avec perte de compression minimale.
+
+* Génération de graphiques raster pour la publication professionnelle.
+
+* Conversion de tableaux de bord opérationnels en TGA pour les flux de travail de conception.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion par lot de XSLFO en TGA pour des rapports haute résolution.
+
+* Exportation planifiée pour les pipelines de visualisation professionnelle.
+
+* Génération de TGA déclenchée à partir d'analyses XSLFO récurrentes.
+
+* Intégration avec des flux de travail de conception automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

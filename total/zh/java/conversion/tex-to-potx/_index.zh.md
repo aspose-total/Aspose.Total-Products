@@ -135,7 +135,51 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**POTX（不带宏的PowerPoint模板）**可创建带有LaTeX格式的安全、可重复使用的幻灯片模板，非常适合多用户环境。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 带有LaTeX方程式的标准化课程幻灯片模板。
+
+* 无宏限制的会议幻灯片。
+
+* 可重复使用的项目演示模板。
+
+* 公式丰富内容的学术讲座幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量创建LaTeX到POTX模板。
+
+* 从LaTeX存储库自动更新模板。
+
+* 集成到教育LMS或企业幻灯片系统中。
+
+* 触发多作者团队的幻灯片模板生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

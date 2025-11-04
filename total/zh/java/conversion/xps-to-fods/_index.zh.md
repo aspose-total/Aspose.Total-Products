@@ -49,7 +49,51 @@ otherformats: DIF FODS XLTM XLSM ODS XLT TSV MD XLSB EXCEL XLTX TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **FODS（Flat OpenDocument Spreadsheet）** 可确保与 LibreOffice 和 OpenOffice 的开源电子表格兼容。适用于使用供应商中立、跨平台解决方案的组织。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 用于协作编辑的学术和研究项目数据集。
+
+* 用于非政府组织或政府机构的开源财务报告。
+
+* 以开放格式存储的技术数据表和操作日志。
+
+* 团队内跨平台电子表格共享。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于研究实验室的自动化 XPS 到 FODS 转换流程。
+
+* 与开源 ERP 或分析系统集成。
+
+* 用于操作电子表格的定期更新。
+
+* 使用开放文档格式简化协作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

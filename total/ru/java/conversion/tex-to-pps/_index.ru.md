@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **PPS (PowerPoint Show)** создает презентации только со слайдами для немедленного воспроизведения, идеально подходит для автоматизированных лекций, тренингов и быстрого обмена контентом LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Готовые к использованию академические лекционные материалы.
+
+* Интерактивные презентации для мастер-классов.
+
+* Сводки инженерных проектов для презентаций клиентам.
+
+* Слайды на основе LaTeX, готовые к конференциям.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановые пакетные преобразования TEX в PPS.
+
+* Автоматизированное создание учебных материалов из контента LaTeX.
+
+* Интеграция с системами развертывания презентаций.
+
+* Создание PPS по триггеру для семинаров или платформ электронного обучения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

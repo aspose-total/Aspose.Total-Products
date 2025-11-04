@@ -49,7 +49,51 @@ otherformats: TSV MD XLTX SXC ODS XLSM XLT XLTM XLSB DIF FODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **XLTX（不带宏的 Excel 模板）** 可确保安全、可重复使用的模板，用于定期报告而无需执行宏的风险。XLTX 保留格式、样式和表结构。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 为团队使用准备基于 XSLFO 的月度财务模板。
+
+* 创建安全的跨部门分发的项目跟踪表。
+
+* 分发不带宏的关键绩效指标报告模板。
+
+* 将标准的 XSLFO 报告结构存档为 XLTX 格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期报告分发的预定 XSLFO 到 XLTX 转换。
+
+* 集成到模板管理系统，以实现一致的报告。
+
+* 批量生成不带宏的模板，用于企业工作流程。
+
+* 从 XSLFO 触发创建 XLTX 文件，用于标准化报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

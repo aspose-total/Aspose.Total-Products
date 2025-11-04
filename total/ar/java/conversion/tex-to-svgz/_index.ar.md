@@ -57,7 +57,45 @@ otherformats: SVGZ JPEG2000 WMZ EMZ TGA IMAGE  WMF PSD DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **SVGZ (رسومات نقطية قابلة للتوسيع المضغوطة)** يحافظ على جودة الرسومات النقطية مع تقليل حجم الملف، مما يجعله مثاليًا للنشر على الويب والمنشورات الأكاديمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين معادلات LaTeX ورسوم بيانية في صفحات الويب.
+* رسومات قابلة للتوسيع عالية الدقة للنشر.
+* تصورات تفاعلية عبر الإنترنت لبيانات تم إنشاؤها بواسطة LaTeX.
+* رسوم توضيحية تقنية بتنسيق نقطي مضغوط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي لرسومات LaTeX إلى SVGZ.
+* دمج مع أنابيب نشر الويب.
+* تحديثات مُشغلة للرسومات النقطية المضغوطة من مصادر LaTeX.
+* أرشفة وتوزيع الرسوم التوضيحية الأكاديمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

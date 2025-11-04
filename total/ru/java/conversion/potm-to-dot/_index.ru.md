@@ -53,7 +53,55 @@ otherformats: WORD TEXT DOT WORDML DOTX OTT DOTX DOTM FLATOPC DOTM ODT RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTM в DOT позволяет преобразовать структуры шаблонов PowerPoint в многократно используемые файлы шаблонов Word. Эти шаблоны DOT могут стандартизировать форматирование документов в командах и отделах, обеспечивая визуальное согласование с оригинальным дизайном презентации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование тем брендовых презентаций в стили шаблонов Word.
+
+* Создание единообразных шаблонов документации для корпоративных отделов.
+
+* Повторное использование макетов дизайна PowerPoint для бизнес-предложений на основе Word.
+
+* Создание фирменных бланков и форматов отчетов компании на основе шаблонов слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Системы управления шаблонами преобразуют слайды POTM в стили DOT.
+
+* Автоматическое распространение тем для документов Word между отделами.
+
+* Корпоративные системы синхронизируют идентичность бренда в PowerPoint и Word.
+
+* Автоматическое создание шаблонов DOT для документации по обучению и кадровому делопроизводству.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek TGA podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **TGA (obrázek Targa)** poskytuje vysoce kvalitní rastrovou grafiku často používanou v počítačových hrách, simulacích a vizualizacích s vysokým rozlišením.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava vizuálů generovaných pomocí XSLFO pro simulace nebo analýzu her.
+
+* Archivace podrobných grafů s minimální ztrátou komprese.
+
+* Generování rastrové grafiky pro profesionální publikace.
+
+* Převod provozních přístrojových panelů do formátu TGA pro pracovní postupy návrhu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XSLFO na TGA pro reporting s vysokým rozlišením.
+
+* Plánovaný export pro profesionální vizualizační potrubí.
+
+* Spuštění generování TGA z opakujících se analytických úloh XSLFO.
+
+* Integrace s automatizovanými pracovními postupy návrhu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **DOT (шаблон документа Word)** позволяет пользователям использовать форматирование LaTeX при создании повторно используемых шаблонов Word для корпоративного или образовательного использования. Это помогает поддерживать согласованность в официальных отчетах и профессиональных документах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шапки компании и шаблоны предложений с типографикой в стиле LaTeX.
+
+* Стандартизированные академические или экзаменационные шаблоны для университетов.
+
+* Шаблоны резюме и CV для профессионального использования.
+
+* Шаблоны документации проекта для инженеров и исследователей.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов для пакетного создания отчетов.
+
+* Интеграция с программным обеспечением для автоматизации документов в образовательных учреждениях.
+
+* Автоматическое обновление шаблонов из репозиториев LaTeX для согласованности бренда.
+
+* Создание динамических библиотек шаблонов для инженерных проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

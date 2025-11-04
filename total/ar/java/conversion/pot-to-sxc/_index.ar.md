@@ -61,7 +61,45 @@ otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS SXC FODS TSV XLTM MHTML M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POT إلى SXC (جدول برنامج StarOffice Calc) يجعل من الممكن استخدام البيانات المستمدة من العروض التقديمية في بيئات StarOffice أو OpenOffice القديمة. يظل هذا التنسيق ذو صلة بالمشاريع التعليمية والأرشيفية التي تتطلب التوافق مع الإصدارات السابقة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إعادة استخدام محتوى PowerPoint للمؤسسات التي تستخدم برامج قديمة.
+
+* إنشاء أوراق نشاط للطلاب من جداول العروض التقديمية.
+
+* مشاركة المقاييس الشركية عبر أدوات جداول البيانات مفتوحة المصدر.
+
+* أرشفة التحليلات المعتمدة على PowerPoint في الأنظمة القديمة.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* سير العمل لتحويل البيانات القديمة للشركات للهجرة.
+
+* استخراج جداول PowerPoint تلقائيًا إلى ملفات SXC.
+
+* تحويلات مجدولة للأنظمة الأرشيفية والأكاديمية.
+
+* التكامل مع منصات الذكاء التجاري القديمة.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

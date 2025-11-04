@@ -61,7 +61,55 @@ otherformats: XLTX XLT DIF SXC XLSB XLS FODS TSV EXCEL XLAM MARKDOWN XLTM MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POTM إلى TSV (قيم مفصولة بواسطة علامات تبويب) يسمح بنقل سهل لجداول العروض التقديمية إلى جواهر البيانات القائمة على النصوص أو برامج التحليل. ملفات TSV خفيفة الوزن، قابلة للتحرير، وتحتفظ بهياكل جدولية نظيفة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استخراج جداول الشرائح لأنابيب تحليلات CSV/TSV.
+
+* تصدير بيانات التدريب أو نتائج الاستطلاع من العروض التقديمية.
+
+* تحويل البيانات المالية والعلمية إلى TSV لأدوات البرمجة النصية.
+
+* إعداد محتوى الشريحة الجدولي للاستيراد إلى قواعد البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تحويل دفعي للشرائح إلى TSV لأنابيب استيعاب البيانات.
+
+* سير العمل التقريري التلقائي الذي يغذي ملفات TSV إلى منصات BI.
+
+* التكامل مع سكربتات Python/R للتحليل الإحصائي.
+
+* توليد TSV مُحفز من قوالب العروض التقديمية المستضافة في السحابة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

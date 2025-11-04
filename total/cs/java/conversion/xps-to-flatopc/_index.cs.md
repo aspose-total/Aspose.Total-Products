@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XPS (XML Paper Specification) na **FLATOPC (Flat Open Packaging Conventions)** umožňuje extrahovat obsah dokumentu ve strukturovaném formátu XML, zachovává rozvržení, písma a metadata pro pokročilé zpracování dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Programové extrahování textu a formátování pro podnikové systémy dokumentů.
+
+* Archivace dokumentů XPS ve strukturovaném XML pro dlouhodobé uložení.
+
+* Integrace do automatizovaných publikačních toků.
+
+* Těžba dat z technických nebo finančních zpráv.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávková konverze XPS na FLATOPC pro správu obsahu podniku.
+
+* Plánovaná extrakce pro opakující se pracovní postupy s reporty.
+
+* Integrace s systémy parsování dokumentů založenými na umělé inteligenci.
+
+* Automatizovaná validace extrahovaného obsahu dokumentu pro soulad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

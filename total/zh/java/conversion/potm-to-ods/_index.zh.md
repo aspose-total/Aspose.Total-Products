@@ -61,7 +61,51 @@ otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POTM转换为ODS会生成与LibreOffice、OpenOffice和其他开源电子表格应用兼容的OpenDocument电子表格文件。这确保了演示数据可以在不同平台上重复使用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将企业幻灯片数据转换为开放标准的电子表格格式。
+
+* 用于开源统计分析的学术演示重新利用。
+
+* 为跨平台协作转换的NGO报告。
+
+* 为多部门工作流程标准化数字幻灯片表格在ODS中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从演示模板自动生成ODS文件。
+
+* 与支持开放格式的文档管理系统集成。
+
+* 用于跨平台协作的批量转换。
+
+* 用于基于云的报告管道的触发式ODS创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

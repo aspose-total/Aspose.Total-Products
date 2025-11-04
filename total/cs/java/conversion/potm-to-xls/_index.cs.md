@@ -61,7 +61,51 @@ Při převodu souboru POTM na XLS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM na XLS převádí prezentace do klasických tabulek Microsoft Excel kompatibilních s staršími verzemi Excelu. Zachovává tabulky, grafy a základní formátování pro zpětnou kompatibilitu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna rozpočtů založených na slidu do XLS pro staré týmy.
+
+* Export historických dat prezentací do formátů Excel 97-2003.
+
+* Převod finančních zpráv pro starší účetní software.
+
+* Sdílení editovatelných tabulek bez závislosti na moderních funkcích Excelu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkové zpracování šablon POTM do tabulek XLS.
+
+* Integrace s legacy ERP a reportingovými systémy.
+
+* Automatické převádění slidů na tabulky zachovávající formátování.
+
+* Spouštění generování XLS pro archivaci a distribuci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

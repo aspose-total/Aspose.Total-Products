@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek WMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **WMZ (komprimovaný Windows Metafile)** umožňuje kompaktní vektorovou grafiku vhodnou pro distribuci, prezentace a technickou dokumentaci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Kompresované diagramy pro prezentace a e-maily.
+
+* Technické ilustrace pro manuály a průvodce.
+
+* Marketingové materiály s měnitelnou grafikou.
+
+* Archivace dokumentů s bohatými vektory ve kompaktní formě.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XPS na WMZ pro distribuci dokumentů.
+
+* Integrace s systémy pro správu obsahu.
+
+* Plánovaná generace komprimovaných vektorových souborů.
+
+* Zjednodušené zpracování pro prezentace nebo marketingový obsah.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

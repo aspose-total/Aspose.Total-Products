@@ -135,7 +135,51 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **PPSX (PowerPoint Show без макросов)** позволяет создавать автономные презентации, безопасные для распространения. PPSX сохраняет форматирование и макеты, избегая рисков выполнения макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание автономных финансовых инфодашбордов на основе данных XSLFO.
+
+* Обмен стандартизированными презентациями для обучения или ввода в должность.
+
+* Подготовка инвестиционных презентаций без макросов.
+
+* Архивирование слайдов квартального обзора для распространения в команде.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование XSLFO в PPSX для повторяющихся презентаций.
+
+* Запуск генерации макро-бесплатных слайд-шоу.
+
+* Интеграция в автоматизированные процессы распространения.
+
+* Автоматическое обновление автономных слайдов на основе отчетов XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

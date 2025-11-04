@@ -144,7 +144,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **XAMLFLOW** umožňuje transformaci obsahu LaTeXu do kompatibilního XAML značkování pro vizuální pracovní postupy, informační panely a interaktivní aplikace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vizuální pracovní postupy s rovnicemi generovanými v LaTeXu.
+
+* Interaktivní informační panely zobrazující data v reálném čase s matematickými vizuály.
+
+* Technické nebo inženýrské aplikace zobrazující strukturovaný obsah LaTeXu.
+
+* Vzdělávací nástroje integrující LaTeXové toky a diagramy do uživatelského rozhraní.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod TEX na XAMLFLOW pro komponenty informačních panelů.
+
+* Integrace do automatizované vizualizace dat a pracovních postupů.
+
+* Spouštěné aktualizace interaktivních LaTeXových diagramů v aplikacích založených na proudu.
+
+* Plánovaná generace LaTeXových XAML toků pro platformy s více uživateli.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

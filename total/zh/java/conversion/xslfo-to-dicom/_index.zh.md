@@ -57,7 +57,55 @@ otherformats: EMZ WMF SVGZ DXF DICOM IMAGE WMZ PSD JPEG2000 TGA
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**DICOM（数字影像和通信医学）**，可以将结构化报告内容与医学影像工作流集成。DICOM在放射学、临床研究和医院信息系统中是标准。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将结构化患者报告嵌入XSLFO生成的可视化内容中。
+
+* 为临床数据审查准备诊断仪表板。
+
+* 将医学分析表转换为DICOM兼容的图像。
+
+* 将XSLFO生成的实验室结果集成到PACS系统中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期将XSLFO报告转换为DICOM格式供医院使用。
+
+* 集成到自动化电子健康记录（EHR）流程中。
+
+* 从XSLFO临床报告中触发生成DICOM可视化内容。
+
+* 用于医疗保健研究数据可视化的批处理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

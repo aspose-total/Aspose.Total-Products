@@ -57,7 +57,51 @@ otherformats: IMAGE  TGA DXF WMF JPEG2000 EMZ WMZ SVGZ PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XPS转换为**JPEG2000**可提供适用于专业出版、医疗和档案应用的高质量压缩图像。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 企业和法律文件的档案存储。
+
+* 准备就绪的高分辨率图像用于出版。
+
+* 集成到需要无损质量的数字图书馆中。
+
+* 医疗和科学文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将XPS存档自动转换为JPEG2000以提高存储效率。
+
+* 用于文档图像库的定期批处理处理。
+
+* 与数字资产管理系统集成。
+
+* 用于高分辨率图像的简化出版工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

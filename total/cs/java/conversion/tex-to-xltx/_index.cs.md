@@ -47,7 +47,51 @@ Při převodu souboru TEX na XLTX můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **XLTX (Excel šablona bez maker)** poskytuje bezpečné, znovupoužitelné šablony pro tabulky a vzorce generované v LaTeXu, ideální pro spolupráci a prostředí s více platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Standardizované akademické a firemní šablony bez maker.
+
+* Znovupoužitelné projektové tabulky založené na LaTeXu.
+
+* Finanční a výzkumné šablony pro bezpečné sdílení více uživateli.
+
+* Více listové zprávy pro týmy inženýrů a vědců.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné vytváření šablon TEX-to-XLTX.
+
+* Automatická integrace do dokumentů a repozitářů šablon.
+
+* Naplánované aktualizace LaTeX šablon pro spolupracující projekty.
+
+* Víceplatformní nasazení šablon poháněných LaTeXem bez maker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

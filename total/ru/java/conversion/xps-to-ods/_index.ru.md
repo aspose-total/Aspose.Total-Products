@@ -47,7 +47,51 @@ otherformats: XLTX TSV XLSB ODS SXC DIF FODS TXT MD EXCEL XLAM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **ODS (OpenDocument Spreadsheet)** позволяет обеспечить широкую совместимость как с LibreOffice, так и с OpenOffice, сохраняя структурированные макеты данных. Идеально подходит для коллективных сред.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Корпоративные электронные таблицы, используемые в различных офисных пакетах.
+
+* Отчеты по данным правительственных организаций или НПО, требующие открытых форматов.
+
+* Отслеживание проектов и показателей производительности на основе командной работы.
+
+* Техническая и исследовательская документация в форме электронных таблиц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Массовое автоматизированное преобразование из архивов XPS в ODS.
+
+* Интеграция в системы управления документами и рабочим процессом.
+
+* Плановое создание ODS для повторяющихся отчетов.
+
+* Автоматизированное распространение данных между платформами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

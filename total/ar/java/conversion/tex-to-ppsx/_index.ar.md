@@ -135,7 +135,51 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **PPSX (عرض PowerPoint بدون ماكرو)** ينتج عروضًا آمنة وجاهزة للعرض مع محتوى LaTeX، مناسبة للمشاركة عبر منصات متعددة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* محاضرات أكاديمية للتوزيع بدون مخاطر أمان الماكرو.
+
+* عروض شركات أو تدريبية بجداول بتنسيق LaTeX.
+
+* شرائح مؤتمرات قابلة لإعادة الاستخدام مع رسوم بيانية غنية بالصيغ.
+
+* مشاركة متعددة المنصات لشرائح تقنية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من LaTeX إلى PPSX.
+
+* إنشاء تلقائي لشرائح المحاضرات أو التدريب.
+
+* التكامل مع أنظمة إدارة التعلم أو العروض التقديمية الشركات.
+
+* إنشاء شرائح مُشغَّلة لمشاريع أكاديمية تعاونية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

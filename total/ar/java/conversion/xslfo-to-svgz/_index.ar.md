@@ -57,7 +57,55 @@ otherformats: DXF PSD EMZ SVGZ TGA  JPEG2000 WMF WMZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **SVGZ (SVG مضغوط)** يوفر رسومات نقطية قابلة للتوسيع بشكل مضغوط، مثالية للويب، ولوحات التحكم، والتطبيقات الاستجابية. يقلل SVGZ من حجم الملف مع الحفاظ على الجودة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء رسوم بيانية تفاعلية من تقارير XSLFO لواجهات تحكم الويب.
+
+* تضمين رسومات قابلة للتوسيع في التطبيقات الاستجابية.
+
+* أرشفة الجداول المالية القائمة على النواة بتنسيق مضغوط.
+
+* إعداد الرسوم التخطيطية للتعلم الإلكتروني أو قواعد المعرفة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تحويل دفعي من XSLFO إلى SVGZ لتقارير الويب.
+
+* تصدير مجدول للرسومات النقطية المضغوطة.
+
+* التكامل مع سير العمل التلقائية لواجهات التحكم عبر الإنترنت.
+
+* إنشاء صور SVGZ بشكل مشغل من تحليلات XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

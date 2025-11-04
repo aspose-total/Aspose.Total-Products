@@ -47,7 +47,53 @@ Lors de la conversion du fichier XPS en XLTM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XPS en **XLTM (modèle Excel activé par macro)** permet d'utiliser des modèles activés par macro réutilisables, combinant l'automatisation avec des structures de feuille de calcul préconçues pour une efficacité dans les environnements d'entreprise.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Modèles de planification budgétaire avec des macros intégrées.
+
+* Modèles de rapports de vente et de marketing automatisés.
+
+* Modèles de calcul des ressources humaines et de la paie.
+
+* Modèles de gestion de projet avec automatisation des tâches.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Création en masse de modèles XPS en XLTM pour l'automatisation d'entreprise.
+
+* Intégration avec des logiciels de flux de travail internes pour des tâches automatisées.
+
+* Mises à jour planifiées des modèles activés par macro pour une utilisation en entreprise.
+
+* Distribution rationalisée de modèles de rapports automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,51 @@ otherformats: WORD ODTX DOTX ODT WORDML OTT TEXT FLATOPC DOTM DOT ODTM RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTM в ODT позволяет пользователям открывать содержимое шаблона PowerPoint в LibreOffice или OpenOffice Writer. Это обеспечивает кроссплатформенный способ редактирования текстового содержимого презентаций в форматах документов с открытыми стандартами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Обмен содержимым PowerPoint с командами с использованием инструментов с открытым исходным кодом.
+
+* Создание документации для академических или НПО с использованием бесплатных офисных пакетов.
+
+* Переиспользование презентаций в виде руководств в формате ODT.
+
+* Создание редактируемого учебного контента для экосистем с открытыми документами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Системы предприятий преобразуют презентации Microsoft для совместимости с ODT.
+
+* Автоматизированная отчетность для распространения документов на разных платформах.
+
+* Пакетные трансформационные конвейеры для хранения документов, совместимых с ODF.
+
+* Генерация ODT в системах предприятий на основе Linux.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в S
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **SVGZ (сжатая масштабируемая векторная графика)** сохраняет векторное качество, сокращая размер файла, идеально подходит для веб- и академических публикаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание уравнений и диаграмм LaTeX на веб-страницы.
+
+* Масштабируемая графика высокого разрешения для публикаций.
+
+* Интерактивные онлайн-визуализации данных, сгенерированных LaTeX.
+
+* Технические иллюстрации в сжатом векторном формате.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование диаграмм LaTeX в SVGZ.
+
+* Интеграция с веб-публикационными конвейерами.
+
+* Автоматическое обновление сжатых векторных графиков из исходных файлов LaTeX.
+
+* Архивирование и распространение академических иллюстраций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

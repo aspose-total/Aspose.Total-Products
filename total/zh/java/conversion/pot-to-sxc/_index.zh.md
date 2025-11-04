@@ -61,7 +61,45 @@ otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS SXC FODS TSV XLTM MHTML M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为SXC（StarOffice Calc电子表格）可以在传统StarOffice或OpenOffice环境中使用演示文稿衍生数据。这种格式仍然适用于需要向后兼容的教育和档案项目。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将PowerPoint内容重新用于使用旧软件的机构。
+
+* 从演示文稿表格创建学生活动表。
+
+* 在开源电子表格工具之间共享企业指标。
+
+* 在传统系统中存档基于PowerPoint的分析数据。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于企业迁移的传统数据转换工作流程。
+
+* 将PowerPoint表格自动提取到SXC文件中。
+
+* 用于档案和学术系统的定期转换。
+
+* 与传统商业智能平台集成。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

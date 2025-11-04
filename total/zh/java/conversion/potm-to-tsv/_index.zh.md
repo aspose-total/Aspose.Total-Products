@@ -61,7 +61,55 @@ otherformats: XLTX XLT DIF SXC XLSB XLS FODS TSV EXCEL XLAM MARKDOWN XLTM MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POTM转换为TSV（制表符分隔值）可轻松将演示文稿中的表格转换为基于文本的电子表格或分析软件。TSV文件轻巧易用，可编辑，并保持清晰的表格结构。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从幻灯片中提取表格，用于基于CSV/TSV的分析流程。
+
+* 从演示文稿中导出培训数据或调查结果。
+
+* 将财务和科学数据转换为TSV以供脚本工具使用。
+
+* 为导入数据库准备表格幻灯片内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将幻灯片转换为TSV，用于数据摄取流程。
+
+* 自动化报告工作流，将TSV文件馈送到BI平台。
+
+* 与Python/R脚本集成，用于统计分析。
+
+* 从云端演示文稿模板触发TSV生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

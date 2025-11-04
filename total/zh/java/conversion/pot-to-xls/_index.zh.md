@@ -61,7 +61,45 @@ otherformats: XLTM TSV DIF XLSX XLT MARKDOWN MHTML ODS XLAM EXCEL FODS XLS XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为XLS（Excel 97–2003工作簿）可与许多企业环境中仍在使用的传统电子表格系统兼容。它保留了来自PowerPoint演示文稿的表格数据和结构，以便进行可编辑的分析。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将PowerPoint财务报告转换为传统Excel系统。
+
+* 在较旧的企业网络中共享培训数据。
+
+* 将PowerPoint表格导入传统会计模型。
+
+* 构建向后兼容的分析表。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 批量生成XLS以进行归档和跨部门工作流程。
+
+* 在合规系统中进行自动转换流水线。
+
+* 与传统ERP电子表格集成。
+
+* 定期导出以进行标准化企业报告。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

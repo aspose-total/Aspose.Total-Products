@@ -47,7 +47,55 @@ otherformats: SXC XLTM FODS EXCEL TSV ODS XLAM TXT XLTX XLT DIF XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **TSV (قيم مفصولة بواسطة علامات تبويب)** يوفر تنسيقًا بديلًا خفيف الوزن للبيانات الرقمية والنصية في LaTeX، مناسب للتحليلات واستيراد البرمجيات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* جداول التجارب الأكاديمية المصدرة للتحليل الإحصائي.
+
+* مجموعات بيانات الهندسة لـ Python، R، أو MATLAB.
+
+* تحويل جداول LaTeX المالية لمنصات التحليل.
+
+* مشاركة بيانات LaTeX الخفيفة عبر الفِرق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دُفعي من TEX إلى TSV في خطوط أنابيب البحث.
+
+* تصدير آلي للبيانات الجدولية في LaTeX لنماذج الذكاء الاصطناعي.
+
+* إنشاء TSV في الوقت الحقيقي للوحات تحليلية تعاونية.
+
+* دمجه في خطوط أنابيب ETL لمجموعات البيانات المهيكلة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

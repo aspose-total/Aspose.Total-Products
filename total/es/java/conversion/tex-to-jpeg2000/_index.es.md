@@ -57,7 +57,51 @@ Usando la API, también puede rotar la imagen JPEG2000 de salida según sus nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX a **JPEG2000** proporciona visuales de alta calidad y comprimidos de LaTeX adecuados para aplicaciones de archivo, publicación profesional y web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Archivar trazados de LaTeX de alta resolución para artículos de investigación.
+
+* Diagramas científicos para publicación en línea con una pérdida mínima de calidad.
+
+* Compartir figuras académicas comprimidas entre plataformas.
+
+* Visuales de LaTeX de alta calidad para materiales de enseñanza.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión por lotes automatizada para repositorios de investigación.
+
+* Integración en flujos de trabajo de publicación académica.
+
+* Generación de JPEG2000 activada para distribución web o impresa.
+
+* Archivo continuo de figuras de LaTeX en formatos comprimidos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

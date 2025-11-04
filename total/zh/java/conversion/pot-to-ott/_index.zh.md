@@ -52,7 +52,45 @@ otherformats: DOTM WORD DOT OTTX TEXT OTT WORDML DOTX ODT FLATOPC OTTM RTF
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为OTT（OpenDocument Text Template）使组织能够创建符合开放标准的可重用文档模板。OTT模板非常适合强调可访问性和长期存档的机构。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从PowerPoint培训材料生成开放标准模板。
+
+* 将演示文稿样式转换为可重用文本模板。
+
+* 为学术出版创建一致的文档格式。
+
+* 为NGO文档设计开放获取模板。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从PowerPoint主版式自动生成OTT。
+
+* 与开源文档工作流集成。
+
+* 在机构文档存储库之间同步模板。
+
+* 利用开放格式模板的政府文档系统。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

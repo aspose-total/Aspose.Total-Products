@@ -61,7 +61,45 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML MARKDOWN EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του POT σε MARKDOWN επιτρέπει σε εκπαιδευτικούς, προγραμματιστές και επαγγελματίες να μετατρέψουν τις παρουσιάσεις PowerPoint σε ελαφριά, έτοιμη για το web τεκμηρίωση. Η απλότητα του Markdown εξασφαλίζει εύκολη συνεργασία και έλεγχο εκδόσεων σε έργα περιεχομένου.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή διαφανειών PowerPoint σε υλικό μαθήματος βασισμένο σε Markdown.
+
+* Μετατροπή παρουσιάσεων μάρκετινγκ σε έγγραφα έτοιμα για blog.
+
+* Προετοιμασία τεχνικών αναφορών για συστήματα τεκμηρίωσης βασισμένα σε Git.
+
+* Δημιουργία τεκμηρίωσης προγραμματιστών από εκπαιδευτικά υλικά εταιρικής εκπαίδευσης.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Δημιουργία Markdown από πρότυπα PowerPoint σε ροέ εργασίας τεκμηρίωσης.
+
+* Ενσωμάτωση με γεννήτριες στατικών ιστοσελίδων όπως το Hugo ή το Jekyll.
+
+* Αυτοματοποιημένη περίληψη παρουσιάσεων σε σημειώσεις Markdown.
+
+* Διαχείριση γνώσεων με έλεγχο εκδόσεων χρησιμοποιώντας την έξοδο Markdown.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

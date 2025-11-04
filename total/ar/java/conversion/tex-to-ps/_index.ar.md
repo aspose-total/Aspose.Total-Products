@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **PS (PostScript)** ينتج ملف وصف صفحة متعدد الاستخدامات يحتفظ بتنسيق LaTeX والرسومات والمحتوى الرياضي المعقد للنشر المهني والوثائق جاهزة للطباعة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إعداد ورقات LaTeX وتقارير للطباعة المهنية.
+
+* إنشاء نسخ PostScript من الرسوم التخطيطية التقنية والجداول.
+
+* تقديم المقالات الأكاديمية بتنسيق دقيق.
+
+* أرشفة وثائق LaTeX في تنسيق تخطيط صفحة عالمي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعي تلقائي لـ TEX إلى PS لأنابيب النشر.
+
+* دمج مع سير العمل للطباعة المهنية.
+
+* إنشاء PostScript مُحفز لتوزيع الوثائق بمقياس كبير.
+
+* تصدير TEX إلى PS مجدول لمشاريع أكاديمية تضم عدة مؤلفين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

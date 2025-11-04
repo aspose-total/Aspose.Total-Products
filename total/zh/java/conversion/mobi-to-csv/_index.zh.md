@@ -61,7 +61,47 @@ otherformats: FODS XLSB XLS XLAM EXCEL XLSX ODS TSV SXC DIF XLTX XLTM XLSM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI（Mobipocket eBook）文件转换为CSV（逗号分隔值）格式，可以从数字图书中结构化提取文本和元数据信息。CSV的通用兼容性使其非常适合用于基于数据的内容重新利用和目录管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+- 将MOBI图书库转换为可排序的CSV图书数据库。
+
+- 提取作者、标题和流派数据以用于发布仪表板。
+
+- 在CRM或库存工具中管理电子书集合。
+
+- 将电子书元数据导入分析和推荐系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 用于批量MOBI元数据提取的自动化转换管道。
+
+- 集成到ETL系统中，用于图书馆数据聚合。
+
+- 与云存储定期同步以及基于CSV的分析。
+
+- 使用结构化CSV输出进行基于AI的电子书分类。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

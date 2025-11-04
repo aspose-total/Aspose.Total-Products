@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **GIF (Graphics Interchange Format)** позволяет обмениваться визуализациями LaTeX и небольшими анимациями онлайн или встраивать их в учебные пособия и материалы.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Простые анимации LaTeX для учебного контента.
+
+* Обмен пошаговыми диаграммами решения задач.
+
+* Встраивание анимированных формул в образовательные платформы.
+
+* Визуализация итеративных вычислений LaTeX в формате GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование TEX в GIF для учебных пособий.
+
+* Интеграция с LMS и онлайн-курсами.
+
+* Генерация GIF из графиков или последовательностей LaTeX по запросу.
+
+* Автоматическое обновление образовательных GIF на основе обновлений LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

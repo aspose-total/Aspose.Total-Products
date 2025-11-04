@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**SWF（Flash）**，为传统仪表板和Web应用程序提供交互式动画。 SWF保留矢量图形，并允许基于时间轴的交互。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 在传统Web门户中嵌入交互式XSLFO图表。
+
+* 为历史内部网系统准备动画仪表板。
+
+* 将培训模块转换为离线使用的SWF。
+
+* 为合规目的存档交互式XSLFO可视化内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为传统系统安排定期的XSLFO到SWF转换。
+
+* 批量创建动画仪表板。
+
+* 触发为基于Web的传统应用程序生成。
+
+* 与自动化交互式报告管道集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

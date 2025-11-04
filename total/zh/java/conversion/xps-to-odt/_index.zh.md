@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **ODT（OpenDocument Text）** 可以与开源办公套件（如LibreOffice和OpenOffice）兼容。它保留文档布局和内容，同时支持跨平台、供应商中立的格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在使用开源工具的组织中进行协作项目。
+
+* 为大学的学术论文和研究文档。
+
+* 需要符合ODF标准的政府和非政府组织文件。
+
+* 在多个平台共享的技术手册和指南。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将大量XPS存档自动转换为ODT以实现跨平台访问。
+
+* 与文档协作平台（如Nextcloud）集成。
+
+* 生成用于标准化内容创建的ODT模板。
+
+* 用于学术或研究出版工作流程的批量转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

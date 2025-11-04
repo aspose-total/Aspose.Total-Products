@@ -49,7 +49,55 @@ otherformats: XLAM ODS FODS XLTM XLT TSV SXC MD EXCEL XLTX XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO文件转换为**FODS（Flat OpenDocument Spreadsheet）**格式，支持LibreOffice和OpenOffice等开源办公套件。FODS允许创建基于轻量级、可编辑的基于XML的电子表格，适用于协作环境。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 与开源办公套件用户共享生成的XSLFO预算表。
+
+* 在开放、标准化的电子表格格式中存档报告。
+
+* 为跨平台协作准备项目跟踪表。
+
+* 将技术XSLFO表格转换为可编辑的FODS电子表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将XSLFO转换为FODS，用于开源报告流水线。
+
+* 集成到支持FODS的文档管理系统中。
+
+* 定时导出协作项目仪表板。
+
+* 将XSLFO分析报告自动转换为FODS格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

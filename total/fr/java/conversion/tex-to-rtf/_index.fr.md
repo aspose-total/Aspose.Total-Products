@@ -144,7 +144,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **RTF (Rich Text Format)** offre une compatibilité universelle, permettant d'ouvrir des documents LaTeX dans presque tous les traitements de texte tout en préservant la mise en forme essentielle et les équations mathématiques.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Partage de documents académiques sur différentes plateformes sans perte de mise en forme.
+
+* Manuels techniques avec des équations complexes accessibles dans Word ou LibreOffice.
+
+* Documentation commerciale multiplateforme avec style LaTeX.
+
+* Documents LaTeX prêts pour l'e-mail dans des formats lisibles universellement.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion par lot pour les archives et la compatibilité multiplateforme.
+
+* Intégration dans les pipelines de traitement de documents pour les équipes techniques.
+
+* Génération automatique de rapports RTF à partir de jeux de données LaTeX.
+
+* Conversions déclenchées pour les systèmes de publication automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

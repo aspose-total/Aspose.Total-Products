@@ -54,7 +54,51 @@ otherformats: PPSM PPTX PPT PPSX POTM POT POWERPOINT PPS PPTM POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από TXT σε **PPTX (Παρουσίαση XML του PowerPoint)** παράγει ευέλικτες, μοντέρνες διαφάνειες κατάλληλες τόσο για offline όσο και για online χρήση. Το PPTX υποστηρίζει προηγμένη μορφοποίηση, ενσωμάτωση πολυμέσων και συνεργασία στο cloud.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Παρουσιάσεις επιχειρηματικής στρατηγικής που παράγονται από κειμενικά σχέδια.
+
+* Διαφάνειες ακαδημαϊκών διαλέξεων που μετατρέπονται από σημειώσεις μαθήματος.
+
+* Δοκιμές προϊόντων που δημιουργούνται από τεχνικές προδιαγραφές.
+
+* Διαφάνειες αναφοράς ομάδας που παράγονται απευθείας από λειτουργικά αρχεία κειμένου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένες μαζικές μετατροπές από TXT σε PPTX για εβδομαδιαίες ενημερώσεις.
+
+* Ενσωμάτωση με πλατφόρμες σχεδιασμού διαφανειών με υποστήριξη τεχνητής νοημοσύνης.
+
+* Δημιουργία διαφανειών εν χρόνω από καταγραφές κειμένου CRM ή ERP.
+
+* Αυτόματες παρουσιάσεις για μάρκετινγκ, πωλήσεις και εσωτερικές αναφορές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -130,7 +130,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XPS in **WordML (Word Processing ML)** ermöglicht es technischen Benutzern, direkt mit der auf XML basierenden Dokumentenstruktur von Word zu arbeiten. Dies ermöglicht automatisierte Bearbeitung, Inhaltsextraktion und Integration in fortschrittliche Dokumenten-Workflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Entwickler, die dynamische Word-Dokumente programmgesteuert generieren.
+
+* Automatisierte Extraktion und Manipulation von Text und Metadaten.
+
+* Integration in unternehmensweite Content-Management-Systeme.
+
+* Technische Veröffentlichungspipelines, die XML-basierte Manipulation erfordern.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte XPS-zu-WordML-Pipelines für die Stapelverarbeitung von Dokumenten.
+
+* Integration mit KI-Systemen zur Generierung benutzerdefinierter Word-Berichte.
+
+* Auslösen von Inhaltsaktualisierungen in XML-basierten Word-Dokumenten.
+
+* Vereinfachte XML-Bearbeitung für technische und rechtliche Dokumentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

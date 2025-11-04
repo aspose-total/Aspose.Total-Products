@@ -135,7 +135,51 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **PPTM (Презентация с включенной поддержкой макросов PowerPoint)** позволяет создавать полностью интерактивные слайды из LaTeX, включая макросы для автоматизированных вычислений, динамических диаграмм и интерактивных учебных материалов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Интерактивные академические лекции с уравнениями LaTeX.
+
+* Корпоративные панели и шаблоны презентаций для исследований.
+
+* Автоматизированные семинарские слайды с обновлением данных в реальном времени.
+
+* Презентации на семинарах с макро-управляемой интерактивностью.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в PPTM для интерактивных слайд-деков.
+
+* Интеграция в системы автоматизации предприятий или университетов.
+
+* Запуск генерации презентаций с поддержкой макросов.
+
+* Плановое обновление из репозиториев LaTeX для многопользовательских проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

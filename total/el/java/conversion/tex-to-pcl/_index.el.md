@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων TEX σε **PCL (Γλώσσα Εντολών Εκτυπωτή)** επιτρέπει στα έγγραφα LaTeX, συμπεριλαμβανομένων εξισώσεων, πινάκων και διαγραμμάτων, να στέλνονται απευθείας σε εκτυπωτές για έξοδο υψηλής ποιότητας σε επαγγελματικές ή ακαδημαϊκές ρυθμίσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εκτύπωση ερευνητικών εργασιών LaTeX και τεχνικών αναφορών.
+
+* Έξοδος υψηλής ποιότητας σημειώσεων διαλέξεων και εκπαιδευτικού υλικού.
+
+* Δημιουργία επαγγελματικών χειροποίητων υλικών από πίνακες και διαγράμματα που παράγονται από LaTeX.
+
+* Εκτύπωση εγγράφων παρτίδας από επιστημονικά ή μηχανικά έργα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή TEX σε PCL για ουρές εκτύπωσης.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές εκτύπωσης εγγράφων.
+
+* Ενεργοποίηση γεννήτριας PCL από αποθετήρια LaTeX για μαζική εκτύπωση.
+
+* Προγραμματισμένη έξοδος για τη διανομή ακαδημαϊκών ή εταιρικών εγγράφων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

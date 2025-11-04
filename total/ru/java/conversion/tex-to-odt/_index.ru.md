@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **ODT (OpenDocument Text)** позволяет пользователям LaTeX создавать документы в формате открытых стандартов, совместимые с LibreOffice, OpenOffice и другими офисными пакетами, обеспечивая доступность и совместную работу на различных платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Академические работы в форматах открытых документов.
+
+* Совместные исследовательские отчеты с мультиплатформенной совместимостью.
+
+* Документация и руководства проектов с открытым исходным кодом.
+
+* Электронные книги или учебные материалы в формате LaTeX для инструментов с открытым исходным кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в ODT для университетских репозиториев.
+
+* Интеграция в пайплайны публикации с открытым исходным кодом.
+
+* Автоматизированное преобразование для распространения документации на множество платформ.
+
+* Генерация динамических отчетов ODT из наборов данных LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

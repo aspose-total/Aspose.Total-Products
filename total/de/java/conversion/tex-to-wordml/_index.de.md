@@ -144,7 +144,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX in **WordML (Microsoft Word XML-Format)** macht LaTeX-Inhalte vollständig kompatibel mit XML-basierten Word-Dokumenten, was automatisierte Workflows, Inhaltsvalidierung und Integration in Unternehmenssysteme ermöglicht.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Generierung von XML-basierten wissenschaftlichen Berichten aus LaTeX-Quellen.
+
+* Unternehmensdokumentations-Workflows mit strukturiertem WordML.
+
+* Zusammenarbeit mehrerer Autoren mit automatischer Inhaltszusammenführung.
+
+* XML-gesteuerte Veröffentlichung von akademischen oder technischen Materialien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Generierung von WordML-Dokumenten aus LaTeX-Repositories.
+
+* Integration in unternehmensweite Content-Management-Systeme.
+
+* Auslösen von XML-Exporten für groß angelegte Forschungsveröffentlichungen.
+
+* Stapelverarbeitung für Compliance-Berichterstattung und akademische Einreichungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

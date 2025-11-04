@@ -61,7 +61,45 @@ otherformats: TSV DIF XLSM MHTML FODS MARKDOWN ODS XLT EXCEL SXC XLTM XLS XLTX X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为XLAM（Excel Add-In）可通过将宏嵌入从演示数据派生的Excel表格实现自动化。这种转变有利于利用PowerPoint进行报告和利用Excel进行动态计算的企业。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从基于PowerPoint的KPI模板创建Excel加载项。
+
+* 为销售或培训绩效数据自动化计算。
+
+* 从演示文稿生成基于宏的仪表板。
+
+* 将演示视觉内容与Excel自动化模型集成。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 为企业分析工具自动生成XLAM。
+
+* 结合PowerPoint和Excel宏的转换工作流程。
+
+* 与业务流程自动化平台集成。
+
+* 用于重复的电子表格操作的企业自动化。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

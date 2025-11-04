@@ -47,7 +47,51 @@ otherformats: DIF ODS XLTX XLTM XLSB TSV XLT TXT FODS MD EXCEL XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **EXCEL (XLS/XLSX)** επιτρέπει στα έγγραφα LaTeX με πίνακες και τύπους να ενσωματωθούν πλήρως στο Microsoft Excel για ανάλυση, οπτικοποίηση και επαγγελματική αναφορά.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Οικονομικές αναφορές με τύπους που δημιουργήθηκαν από το LaTeX.
+
+* Μηχανικοί υπολογισμοί για πολύπλοκη ανάλυση φύλλων εργασίας.
+
+* Φύλλα βαθμολόγησης και σύνολα δεδομένων έρευνας στον ακαδημαϊκό τομέα.
+
+* Διαδραστικά πίνακες ελέγχου που συνδυάζουν πίνακες LaTeX και γραφήματα Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή LaTeX σε Excel για θεσμικές αναφορές.
+
+* Ενσωμάτωση με εργαλεία επιχειρηματικής νοημοσύνης που βασίζονται στο Excel.
+
+* Ενημερώσεις που ενεργοποιούνται για φύλλα προόδου έργων.
+
+* Μετατροπή σε πραγματικό χρόνο για συνεργασία σε Excel βασισμένη στο cloud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

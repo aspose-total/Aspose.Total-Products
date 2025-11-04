@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XPS (XML Paper Specification) na **XAML (Extensible Application Markup Language)** umožňuje vývojářům a designérům znovupoužít obsah dokumentů ve WPF (Windows Presentation Foundation) aplikacích a zachovat tak rozvržení, písma a vektorovou grafiku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Začlenění statických vizuálních prvků dokumentů do desktopových aplikací postavených na WPF.
+
+* Návrh interaktivních ovládacích panelů pomocí prvků uživatelského rozhraní založených na XAML.
+
+* Opakované využití rozvržení XPS v softwarových rozhraních a ovládacích prvcích.
+
+* Akademické nebo firemní e-learningové aplikace vyžadující přesné vykreslování dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická hromadná konverze souborů XPS na XAML pro vývojové procesy softwaru.
+
+* Integrace s pracovními postupy CI/CD pro aktualizace desktopových aplikací.
+
+* Plánovaná generace XAML prvků pro opakující se obsah aplikace.
+
+* Zjednodušené opakované využití dokumentů XPS v různých projektech WPF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

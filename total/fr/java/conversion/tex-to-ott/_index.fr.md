@@ -144,7 +144,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **OTT (modèle de texte OpenDocument)** permet aux éducateurs, chercheurs et entreprises de créer des modèles réutilisables avec une mise en forme LaTeX dans des formats ouverts, simplifiant la normalisation des documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Modèles de matériel pédagogique avec une mise en forme LaTeX cohérente.
+
+* Modèles OpenDocument pour des rapports de laboratoire collaboratifs.
+
+* Modèles de rapports de projet et d'entreprise pour des suites bureautiques open source.
+
+* Formulaires normalisés pour un usage académique ou administratif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération automatique de modèles pour des environnements multi-utilisateurs.
+
+* Intégration dans des flux de travail LMS et bureautiques open source.
+
+* Mises à jour en lot des bibliothèques de modèles pour les institutions académiques.
+
+* Conversion dynamique de LaTeX en OTT pour la documentation de recherche.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

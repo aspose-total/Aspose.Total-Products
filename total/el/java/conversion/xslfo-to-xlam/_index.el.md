@@ -47,7 +47,51 @@ otherformats: XLSM XLTM XLTX FODS EXCEL XLAM SXC TXT TSV XLSB MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **XLAM (Excel Add-In)** επιτρέπει την ενσωμάτωση δεδομένων και μακροεντολών που παράγονται από το XSLFO σε επαναχρησιμοποιήσιμα πρόσθετα Excel. Το XLAM υποστηρίζει την αυτοματοποίηση, την προσαρμοσμένη αναφορά και τις διαδραστικές εφαρμογές υπολογιστικού φύλλου.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Συσκευασία προτύπων αναφοράς XSLFO ως πρόσθετα Excel για ομαδική χρήση από ομάδες.
+
+* Διανομή αυτοματοποιημένων εργαλείων υπολογισμού που προέρχονται από δεδομένα XSLFO.
+
+* Ενσωμάτωση αναλύσεων XSLFO σε προσαρμοσμένα ταμπλό Excel.
+
+* Δυνατότητα επαναλαμβανόμενων ροών εργασίας αναφοράς με τα πρόσθετα XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτοματοποίηση της δημιουργίας XLAM από XSLFO για επαναλαμβανόμενες εργασίες.
+
+* Προγραμματισμένη ανάπτυξη προσθέτων με ενημερωμένα δεδομένα XSLFO.
+
+* Ενσωμάτωση με την αυτοματοποίηση ροών εργασίας βασισμένη σε VBA.
+
+* Ενεργοποιημένη δημιουργία προσθέτων XLAM για εργαλεία εταιρικής αναφοράς.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

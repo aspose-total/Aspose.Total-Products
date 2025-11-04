@@ -47,7 +47,51 @@ otherformats: DIF ODS XLTX XLTM XLSB TSV XLT TXT FODS MD EXCEL XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **EXCEL (XLS/XLSX)** позволяет полностью интегрировать документы LaTeX с таблицами и формулами в Microsoft Excel для анализа, визуализации и профессиональной отчетности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Финансовые отчеты с формулами, сгенерированными в LaTeX.
+
+* Инженерные расчеты для сложного анализа таблиц.
+
+* Оценочные листы и исследовательские наборы данных в академической сфере.
+
+* Интерактивные панели управления, объединяющие таблицы LaTeX и диаграммы Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование LaTeX в Excel для институциональной отчетности.
+
+* Интеграция с автоматизированными инструментами бизнес-аналитики на основе Excel.
+
+* Автоматическое обновление таблиц для отслеживания прогресса проектов.
+
+* Конвертация в реальном времени для совместной работы в облаке с Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

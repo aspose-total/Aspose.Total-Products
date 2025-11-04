@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **GIF (Graphics Interchange Format)** оживляет статические документы легкими анимированными или статическими изображениями, идеально подходит для онлайн-платформ и рекламных кампаний по электронной почте.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Анимированные диаграммы для рекламных кампаний в социальных сетях.
+
+* Инструкционные GIF-изображения для обучения и учебных пособий.
+
+* Визуализация тенденций данных для презентаций.
+
+* Легкое совместное использование файлов для отчетов и графики.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное преобразование XPS в GIF для веб-платформ.
+
+* Плановое создание GIF-изображений для маркетингового контента.
+
+* Интеграция с системами управления контентом для онлайн-публикаций.
+
+* Пакетное создание инструкционных или рекламных материалов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

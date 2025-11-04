@@ -61,7 +61,55 @@ Při převodu souboru POTM na SXC můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTM na SXC produkuje soubory se starým formátem tabulek. Tento formát je užitečný pro kompatibilitu se staršími kancelářskými balíky a zajistí, že historická prezentace dat stále může být analyzována.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Migrace finančních tabulek založených na slajdech do SXC pro staré systémy.
+
+* Převod projektových zpráv pro organizace používající starší kancelářský software.
+
+* Archivace číselného obsahu slajdů ve zpětně kompatibilním formátu tabulek.
+
+* Sdílení tabulek prezentace s týmy používající zastaralé aplikace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod šablon POTM na SXC pro archivaci.
+
+* Integrace s legacy systémy pro reportování.
+
+* Spuštění generování SXC pro zachování historických dat.
+
+* Automatizované pracovní postupy pro převod slajdů na staré tabulkové formáty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

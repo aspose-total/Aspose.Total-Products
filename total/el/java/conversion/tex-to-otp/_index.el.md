@@ -135,7 +135,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **OTP (Πρότυπο Παρουσίασης OpenDocument)** παράγει επαναχρησιμοποιήσιμα πρότυπα παρουσιάσεων με μορφοποίηση LaTeX για συνεπή σχεδιασμό διαλέξεων ή επαγγελματικών διαφανειών.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Πρότυπα διαλέξεων με εξισώσεις σε στυλ LaTeX.
+
+* Πρότυπα διαφανειών για συνέδρια ερευνητικών ομάδων.
+
+* Επαναχρησιμοποιήσιμο εκπαιδευτικό υλικό με περιεχόμενο πλούσιο σε τύπους.
+
+* Πρότυπα προτάσεων έργων για τεχνικές παρουσιάσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική δημιουργία προτύπων LaTeX σε OTP για μαθήματα.
+
+* Ενημερώσεις προτύπων που ενεργοποιούνται από αποθετήρια LaTeX.
+
+* Αυτοματοποιημένη διανομή προτύπων διαφανειών σε συνεργάτες.
+
+* Ενσωμάτωση με ροές εργασίας παρουσιάσεων open-source LMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

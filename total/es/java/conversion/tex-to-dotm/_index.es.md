@@ -144,7 +144,55 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir archivos TEX a **DOTM (Plantilla habilitada para macros de Word)** proporciona plantillas reutilizables con funcionalidad de macros. Ideal para flujos de trabajo automatizados, combina la composición de alta precisión de LaTeX con las capacidades de automatización de Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Plantillas de envío automatizado para revistas académicas.
+
+* Plantillas de informes técnicos reutilizables con generación de contenido dinámico.
+
+* Formularios habilitados para macros para la entrada de datos de laboratorio o investigación.
+
+* Generación de plantillas de Word con LaTeX para colaboraciones de varios autores.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Creación de documentos en tiempo real desencadenada desde flujos de entrada de LaTeX.
+
+* Integración en tuberías de automatización de documentos empresariales basadas en Word.
+
+* Actualizaciones de plantillas por lotes para proyectos de investigación colaborativos.
+
+* Generación de documentación de proyectos habilitada para macros para equipos de ingeniería.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

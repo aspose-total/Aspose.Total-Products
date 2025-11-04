@@ -57,7 +57,55 @@ otherformats: WMZ WMF EMZ DXF IMAGE JPEG2000 DICOM TGA SVGZ PSD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**DICOM（医学数字成像和通信）**允许将技术和科学的LaTeX图表嵌入到医学成像工作流程和研究文档中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于LaTeX的图表集成到医学成像报告中。
+
+* 使用结构化的LaTeX内容记录生物医学研究。
+
+* 使用LaTeX生成的图形可视化解剖数据。
+
+* 在放射学研究中发布基于LaTeX的示意图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于医院成像档案的自动批量转换。
+
+* 集成到医学研究工作流程中。
+
+* 用于临床研究的TEX到DICOM渲染触发。
+
+* 为AI辅助诊断导出LaTeX图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

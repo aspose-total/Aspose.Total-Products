@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod POTM souboru na WORDML s vodoznakem.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTM na WORDML exportuje šablony prezentací do formátu WordProcessingML, což je formát Microsoft Word založený na XML ideální pro integraci dat a strukturované ukládání dokumentů. Zachovává sémantiku dokumentu pro automatizované systémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Ukládání obsahu prezentace založeného na XML pro podnikové systémy.
+
+* Integrace dat z PowerPointu do strukturovaných šablon pro reportování.
+
+* Automatizované vykreslování dokumentů z WordML pro online publikaci.
+
+* Opakované využití obsahu v pracovních postupech řízených databází.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované konverzní potrubí XML pro výměnu dat dokumentů.
+
+* Integrace s platformami CMS pomocí formátu WordML.
+
+* Konverze pro repozitáře dokumentů s verzováním.
+
+* Pracovní postupy publikace v různých formátech využívající výstup XML WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

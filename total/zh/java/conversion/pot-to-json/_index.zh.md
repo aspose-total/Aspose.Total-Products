@@ -49,7 +49,45 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT文件转换为JSON（JavaScript对象表示）可实现幻灯片数据在Web、分析和自动化系统中的结构化表示。JSON广泛用于将演示数据集成到API、仪表板和机器学习管道中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 为分析或报告导出PowerPoint模板元数据。
+
+* 将幻灯片内容集成到数据可视化Web应用程序中。
+
+* 从教育演示文稿生成基于JSON的学习内容。
+
+* 提取图表或文本数据以供AI模型输入。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 用于REST API驱动平台的自动化JSON转换。
+
+* 与数据湖和ETL系统集成。
+
+* 将幻灯片定期提取为结构化JSON以用于仪表板。
+
+* AI驱动的索引和标记演示内容。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

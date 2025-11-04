@@ -47,7 +47,46 @@ otherformats: XLAM XLSB DIF FODS XLT ODS XLSM TSV XLTX EXCEL XLTM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **XLTM (قالب إكسل ممكّن بالماكرو)** يسمح بإنشاء قوالب ممكّنة بالماكرو قابلة لإعادة الاستخدام، مما يدمج التلقائية مع الهياكل الجاهزة المصممة مسبقًا لزيادة الكفاءة في بيئات الشركات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب تخطيط الميزانيات مع ماكروهات مدمجة.
+* قوالب تقارير المبيعات والتسويق التلقائية.
+* قوالب حسابات الموارد البشرية والرواتب.
+* قوالب إدارة المشاريع مع أتمتة المهام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقين" %}}
+
+
+
+* إنشاء قوالب XPS-to-XLTM بالجملة لأتمتة الشركات.
+* التكامل مع برامج سير العمل الداخلية للمهام التلقائية.
+* تحديثات مجدولة لقوالب الماكرو الممكّنة للاستخدام الشركات.
+* توزيع مبسط لقوالب التقارير التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

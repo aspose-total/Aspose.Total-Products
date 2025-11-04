@@ -47,7 +47,51 @@ Při převodu souboru TEX na XLTM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **XLTM (Excel Macro-Enabled Template)** kombinuje opakovaně použitelné šablony s makry, umožňuje automatizované pracovní postupy s LaTeX daty a dynamické generování reportů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Akademické šablony s vestavěnými makry pro automatizované hodnocení.
+
+* Finanční a inženýrské šablony poháněné LaTeX daty.
+
+* Dynamické přehledy s makry řízenými výpočty.
+
+* Spolupracující projektové šablony pro týmy s více autory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace šablon LaTeX-to-XLTM pro podniky.
+
+* Automatické naplnění maker z LaTeX datových zdrojů.
+
+* Integrace do automatizace pracovních postupů pro výzkumné projekty.
+
+* Spouštěná tvorba šablony s makry pro přístup více uživatelů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Usando la API, también puede rotar la imagen IMAGE de salida según sus necesid
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir XSLFO a **IMAGEN (Formatos Raster Genéricos)** proporciona una salida versátil para aplicaciones web, de impresión y de escritorio. Los formatos admitidos pueden incluir PNG, BMP o TIFF según los requisitos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* Generar visuales estáticos a partir de tablas estructuradas XSLFO.
+
+* Preparar gráficos para paneles de informes o documentación.
+
+* Exportar gráficos y tablas para aplicaciones móviles o e-learning.
+
+* Crear archivos rasterizados de informes recurrentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* Conversión por lotes de informes XSLFO a múltiples formatos de imagen.
+
+* Integración con tuberías de generación de paneles automatizados.
+
+* Exportación activada para la entrega programada de informes.
+
+* Generación automática de imágenes para plataformas de e-learning o web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

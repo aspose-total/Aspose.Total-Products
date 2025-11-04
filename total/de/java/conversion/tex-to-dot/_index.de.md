@@ -144,7 +144,31 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von TEX-Dateien in **DOT (Word-Dokumentvorlage)** ermöglicht es Benutzern, LaTeX-Formatierungen zu nutzen, während sie wiederverwendbare Word-Vorlagen für den unternehmens- oder bildungsbereich erstellen. Dies hilft dabei, Konsistenz in offiziellen Berichten und professionellen Dokumenten zu wahren.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+- Firmenbriefköpfe und Vorschlagsvorlagen mit LaTeX-ähnlicher Typografie.
+- Standardisierte akademische oder Prüfungsvorlagen für Universitäten.
+- Lebenslauf- und Bewerbungsvorlagen für den professionellen Gebrauch.
+- Projekt-Dokumentationsvorlagen für Ingenieure und Forscher.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+- Automatisierte Generierung von Vorlagen für die Stapelberichterstellung.
+- Integration mit Dokumentenautomatisierungssoftware in Bildungseinrichtungen.
+- Ausgelöste Vorlagenaktualisierungen aus LaTeX-Repositories für eine konsistente Markenführung.
+- Erstellung dynamischer Vorlagensammlungen für Ingenieurprojekte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ Při převodu souboru TEX na EXCEL můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **EXCEL (XLS/XLSX)** umožňuje plné začlenění dokumentů LaTeX s tabulkami a vzorci do Microsoft Excel pro analýzu, vizualizaci a profesionální reportování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Finanční zprávy s LaTeX-generovanými vzorci.
+
+* Inženýrské výpočty pro složitou analýzu tabulek.
+
+* Akademické hodnotící tabulky a výzkumná data.
+
+* Interaktivní ovládací panely kombinující LaTeX tabulky a Excel grafy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod LaTeXu do Excelu pro institucionální reportování.
+
+* Integrace s automatizovanými nástroji pro obchodní inteligenci založenými na Excelu.
+
+* Spouštěné aktualizace pro tabulky pokroku projektu.
+
+* Konverze v reálném čase pro kolaborativní práci v cloudu s Excelem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

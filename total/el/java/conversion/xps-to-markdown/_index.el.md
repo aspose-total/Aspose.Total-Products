@@ -130,7 +130,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **MARKDOWN** μετατρέπει στατικά έγγραφα σε ένα ελαφρύ, εύκολο στην επεξεργασία μορφότυπο συμβατό με blogs, πλατφόρμες τεκμηρίωσης και συστήματα ελέγχου εκδόσεων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημοσίευση τεχνικής τεκμηρίωσης στο GitHub ή GitLab.
+
+* Μετατροπή αναφορών σε περιεχόμενο έτοιμο για blog.
+
+* Δημιουργία σημειώσεων και καταχωρήσεων στην εσωτερική βάση γνώσεων.
+
+* Συνεργατική επεξεργασία για ομάδες που χρησιμοποιούν ελαφρύ σήμανση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μετατροπή αρχείων XPS σε Markdown για πλατφόρμες περιεχομένου.
+
+* Ενσωμάτωση με γεννήτριες στατικών ιστοσελίδων όπως το Hugo ή το Jekyll.
+
+* Προγραμματισμένη δημιουργία εκδόσεων Markdown για επαναλαμβανόμενη τεκμηρίωση.
+
+* Βελτιωμένη ροή εργασίας για ενημερώσεις στην εσωτερική βάση γνώσεων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

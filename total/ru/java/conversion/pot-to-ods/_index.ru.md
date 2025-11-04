@@ -61,7 +61,45 @@ otherformats: XLS ODS DIF FODS XLSB XLSM MARKDOWN SXC XLSX XLT TSV XLTX EXCEL XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в ODS (OpenDocument Spreadsheet) обеспечивает безупречную совместимость с офисными средами с открытым исходным кодом. Это идеально подходит для академических учреждений и государственных организаций, принимающих стандарты ODF.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Обмен отчетами, созданными в PowerPoint, с пользователями LibreOffice.
+
+* Преобразование классных презентаций в шаблоны для ввода данных.
+
+* Преобразование исследовательских визуалов в электронные таблицы с открытым исходным кодом.
+
+* Подготовка соответствующих отчетов в виде электронных таблиц для государственных организаций.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание ODS из тренировочных или продажных презентаций.
+
+* Интеграция в платформы ERP или аналитики с открытым исходным кодом.
+
+* Преобразование рабочих процессов для гибридных документальных экосистем.
+
+* Запланированные преобразования для проектов стандартизации документов.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,55 @@ API také umožňuje převádět dokumenty TXT chráněné heslem na PPTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TXT na **PPTM (makro-povolené PowerPointy)** umožňuje vytváření dynamických prezentací s vestavěnou automatizací. Skvělé pro firmy a pedagogy potřebující opakovatelné interaktivní snímky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* KPI dashboardy s vestavěnými makry.
+
+* Interaktivní simulace pro školení.
+
+* Prezentace finančních reportů s automatickými výpočty.
+
+* Dynamické projekční snímky s makrem řízenými aktualizacemi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování makro-povolených prezentací z denních záznamů.
+
+* Integrace s nástroji pro podnikovou automatizaci.
+
+* Spouštěné aktualizace pro opakující se finanční snímky.
+
+* Naplánované spouštění maker pro obnovení obsahu prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

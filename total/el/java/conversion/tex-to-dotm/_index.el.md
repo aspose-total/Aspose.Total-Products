@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων TEX σε **DOTM (Πρότυπο ενεργοποιημένο με μακροεντολές Word)** παρέχει επαναχρησιμοποιήσιμα πρότυπα με λειτουργικότητα μακροεντολών. Ιδανικό για αυτοματοποιημένες ροές εργασίας, γεφυρώνει την ακρίβεια στη στοιχειοθεσία του LaTeX με τις δυνατότητες αυτοματισμού του Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Αυτοματοποιημένα πρότυπα υποβολής για ακαδημαϊκά περιοδικά.
+
+* Επαναχρησιμοποιήσιμα πρότυπα τεχνικών αναφορών με δυναμική δημιουργία περιεχομένου.
+
+* Φόρμες με δυνατότητα μακροεντολών για εισαγωγή δεδομένων εργαστηρίου ή έρευνας.
+
+* Δημιουργία προτύπων Word με στοιχειοθεσία LaTeX για πολυσυγγραφικές συνεργασίες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Δημιουργία εγγράφων σε πραγματικό χρόνο ενεργοποιημένη από ροές εισόδου LaTeX.
+
+* Ενσωμάτωση σε αυτοματισμένες ροές εγγράφων βασισμένες σε Word.
+
+* Ενημερώσεις πακέτων προτύπων για συνεργατικά ερευνητικά έργα.
+
+* Δημιουργία τεκμηρίωσης έργων με δυνατότητα μακροεντολών για ομάδες μηχανικών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

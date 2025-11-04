@@ -57,7 +57,55 @@ otherformats: DXF EMZ WMZ JPEG2000  TGA IMAGE PSD SVGZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **TGA (صورة تارجا)** يوفر رسومات نقطية عالية الجودة تستخدم في الألعاب والمحاكاة والتصورات عالية الدقة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحضير الصور المولدة بواسطة XSLFO للاستخدام في المحاكاة أو تحليلات الألعاب.
+
+* أرشفة الرسوم البيانية التفصيلية مع فقدان ضغط أدنى.
+
+* إنشاء رسومات نقطية للنشر المهني.
+
+* تحويل لوحات القيادة التشغيلية إلى TGA لسير العمل التصميمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة XSLFO إلى TGA لتقارير عالية الدقة.
+
+* تصدير مجدول لأنابيب التصور المهني.
+
+* توليد TGA مُشغّل من تحليلات XSLFO المتكررة.
+
+* دمج مع سير العمل التصميمية التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

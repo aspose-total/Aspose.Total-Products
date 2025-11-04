@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek JPEG2000 podle svých pot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **JPEG2000** poskytuje vysoce kvalitní, komprimované obrázky vhodné pro profesionální publikování, lékařské a archivační aplikace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace firemních a právních dokumentů.
+
+* Obrázky ve vysokém rozlišení připravené k publikování.
+
+* Integrace do digitálních knihoven vyžadující ztrátovou kvalitu.
+
+* Lékařská a vědecká dokumentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatický převod archivů XPS na JPEG2000 pro účinnost uložení.
+
+* Plánované hromadné zpracování pro knihovny obrazových dokumentů.
+
+* Integrace s systémy správy digitálních aktiv.
+
+* Zjednodušené pracovní postupy pro publikování obrázků ve vysokém rozlišení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ Při převodu souboru XSLFO na XLTX můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **XLTX (Excel šablona bez maker)** zajistí bezpečné, znovupoužitelné šablony pro opakované reportování bez rizika spuštění maker. XLTX zachovává formátování, styly a tabulkové struktury.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava měsíčních finančních šablon založených na XSLFO pro týmové využití.
+
+* Vytváření projektových tabulek bezpečných pro distribuci mezi odděleními.
+
+* Distribuce šablon pro KPI reportování bez maker.
+
+* Archivace standardních XSLFO reportovacích struktur ve formátu XLTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XSLFO na XLTX pro opakovanou distribuci reportů.
+
+* Integrace do systémů správy šablon pro konzistentní reportování.
+
+* Hromadná generace maker-free šablon pro firemní pracovní postupy.
+
+* Spouštěný vytvoření souborů XLTX z XSLFO pro standardizované reportování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

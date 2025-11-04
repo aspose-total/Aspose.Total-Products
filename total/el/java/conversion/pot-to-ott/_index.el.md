@@ -53,7 +53,45 @@ otherformats: DOTM WORD DOT OTTX TEXT OTT WORDML DOTX ODT FLATOPC OTTM RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του POT σε OTT (OpenDocument Text Template) επιτρέπει στις οργανώσεις να δημιουργούν επαναχρησιμοποιήσιμα πρότυπα εγγράφων που συμμορφώνονται με ανοικτά πρότυπα. Τα πρότυπα OTT είναι ιδανικά για ιδρύματα που τονίζουν την προσβασιμότητα και τη μακροχρόνια αρχειοθέτηση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία προτύπων με ανοικτά πρότυπα από υλικό εκπαίδευσης PowerPoint.
+
+* Μετατροπή των στυλ παρουσίασης σε επαναχρησιμοποιήσιμα πρότυπα κειμένου.
+
+* Δημιουργία συνεπών μορφών εγγράφων για ακαδημαϊκές δημοσιεύσεις.
+
+* Σχεδιασμός προτύπων ανοικτής πρόσβασης για την τεκμηρίωση ΜΚΟ.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Αυτόματη δημιουργία OTT από τα κύρια διατάγματα παρουσίασης PowerPoint.
+
+* Ενσωμάτωση με ροές εργασίας εγγράφων ανοικτού κώδικα.
+
+* Συγχρονισμός προτύπων στα αποθετήρια εγγράφων των ιδρυμάτων.
+
+* Συστήματα εγγράφων της κυβέρνησης που εκμεταλλεύονται πρότυπα με ανοικτή μορφή.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

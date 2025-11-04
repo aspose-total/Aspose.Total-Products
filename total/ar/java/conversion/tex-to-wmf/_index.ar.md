@@ -57,7 +57,51 @@ otherformats: TGA IMAGE DXF EMZ JPEG2000  SVGZ PSD WMZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **WMF (Windows Metafile)** يحافظ على الرسومات البيانية الناقلة لمخططات LaTeX، مما يضمن التوافق مع Microsoft Office والوثائق التقنية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين رسومات LaTeX في Word أو PowerPoint.
+
+* مخططات تقنية في التقارير المهنية.
+
+* أرقام قابلة للتوسيع للوثائق الشركية والأكاديمية.
+
+* توزيع متعدد المنصات للرسومات التي تم إنشاؤها بواسطة LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي لمخططات LaTeX إلى WMF.
+
+* دمجها في أنابيب وثائق Microsoft Office.
+
+* تحديثات مُشغّلة للرسومات الناقلة في العروض التقديمية.
+
+* أرشفة آلية للأرقام التقنية التي تم إنشاؤها بواسطة LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

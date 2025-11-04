@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XPS в T
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **TGA (Targa Image File)** обеспечивает высококачественные растровые изображения, подходящие для профессиональной графики и видеопроизводства.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Высококачественные визуальные материалы для видео- и мультимедийных проектов.
+
+* Графические ресурсы для дизайна игр, полученные из диаграмм XPS.
+
+* Технические иллюстрации, требующие без потерь растровых изображений.
+
+* Корпоративная графика для презентаций или архивного хранения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XPS в TGA.
+
+* Запланированное создание для мультимедийных производственных процессов.
+
+* Интеграция с графическими редакторами и видеопрограммами.
+
+* Автоматизированная обработка технических или дизайнерских визуалов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

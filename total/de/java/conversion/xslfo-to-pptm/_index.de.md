@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XSLFO in **PPTM (makrofähige PowerPoint)** kombiniert bearbeitbare Folien mit Automatisierungsfunktionen. PPTM eignet sich ideal für dynamische Berichterstattung, interaktive Dashboards und wiederkehrende Präsentationen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Einbetten von XSLFO-gesteuerten Berechnungen in interaktive Folien.
+
+* Vorbereitung automatisierter Leistungsüberprüfungs-Dashboards.
+
+* Erstellen von makrofähigen Schulungs- oder Anleitungsfolien.
+
+* Verteilung dynamischer Investoren- oder Vorstandspräsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Geplante Konvertierung von XSLFO-Berichten in PPTM-Folien.
+
+* Integration in VBA-Automatisierungspipelines.
+
+* Ausgelöste makrofähige Foliengenerierung aus wiederkehrendem XSLFO-Inhalt.
+
+* Automatisierte Stapelkonvertierung für dynamische Unternehmenspräsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

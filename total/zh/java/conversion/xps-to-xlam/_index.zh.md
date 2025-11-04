@@ -49,7 +49,55 @@ otherformats: XLTM ODS XLSB XLTX SXC EXCEL TXT XLT XLAM TSV FODS MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **XLAM（Excel 加载项）** 可以从静态 XPS 文档中创建自定义 Excel 自动化工具、宏和扩展功能，非常适合高级企业用户。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在财务或运营中自动化重复计算和工作流程。
+
+* 从现有数据创建支持宏的生产力加载项。
+
+* 使用从 XPS 转换的模板扩展 Excel 功能。
+
+* 使用 Excel 加载项进行企业级工作流程增强。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于企业自动化工具的批量 XPS 到 XLAM 转换。
+
+* 与内部软件集成，触发 Excel 加载项。
+
+* 为团队定期创建支持宏的解决方案。
+
+* 为重复报告任务优化自动化流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

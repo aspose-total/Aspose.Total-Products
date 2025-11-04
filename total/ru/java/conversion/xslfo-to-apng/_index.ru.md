@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов XSLFO (Extensible Stylesheet Language Formatting Objects) в **APNG (Animated Portable Network Graphics)** позволяет создавать анимированные представления структурированных данных отчетов, сохраняя четкое векторное качество. APNG идеально подходят для интерактивных инструментов управления и визуализации на веб-платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Анимированные диаграммы из отчетов аналитики, созданных с помощью XSLFO.
+
+* Интерактивные визуализации финансовых или операционных тенденций.
+
+* Образовательный контент, дружественный к мобильным устройствам, с анимированными таблицами.
+
+* Динамичные слайды в телемедицине или платформах электронного обучения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование панелей инструментов XSLFO в APNG для веб-приложений.
+
+* Интеграция в конвейеры визуализации данных в реальном времени.
+
+* Запланированное создание анимированной графики для инструментов отчетности.
+
+* Создание APNG из XSLFO в рамках автоматизированных рабочих процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

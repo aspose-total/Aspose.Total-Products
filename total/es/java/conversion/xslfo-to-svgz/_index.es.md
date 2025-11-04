@@ -57,7 +57,51 @@ Usando la API, también puede rotar la imagen SVGZ de salida según sus necesida
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversión de XSLFO a **SVGZ (SVG comprimido)** proporciona gráficos vectoriales escalables en forma comprimida, ideal para web, paneles de control y aplicaciones responsivas. SVGZ reduce el tamaño del archivo manteniendo la calidad.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Creación de gráficos interactivos a partir de informes XSLFO para paneles de control web.
+
+* Incrustación de visuales escalables en aplicaciones responsivas.
+
+* Archivo de tablas financieras basadas en vectores en formato comprimido.
+
+* Preparación de diagramas para e-learning o bases de conocimiento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión por lotes de XSLFO a SVGZ para informes web.
+
+* Exportación programada de gráficos vectoriales comprimidos.
+
+* Integración con flujos de trabajo automatizados de paneles de control en línea.
+
+* Creación desencadenada de imágenes SVGZ a partir de análisis XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek TGA podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **TGA (soubor s obrázkem Targa)** poskytuje vysoce kvalitní rastrové obrázky vhodné pro profesionální grafiku a video produkci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vysoká věrnost vizuálů pro video a multimediální projekty.
+
+* Prvky designu her odvozené z XPS diagramů.
+
+* Technické ilustrace vyžadující bezchybné rastrové obrázky.
+
+* Firemní grafika pro prezentaci nebo archivační účely.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkové převody XPS na TGA.
+
+* Naplánované vytváření pro pracovní postupy multimediální produkce.
+
+* Integrace s grafickým editovacím a video softwarem.
+
+* Automatizované zpracování technických nebo designových vizuálů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

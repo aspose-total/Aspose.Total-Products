@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEXu na **MHTML (MIME HTML)** umožňuje zobrazit LaTeX dokumenty jako webovou stránku uloženou v jediném souboru, zachovávající rovnice, tabulky a grafiku pro offline nebo online prohlížení.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace výzkumných prací v LaTeXu jako samostatných webových stránek.
+
+* Sdílení zpráv vytvořených v LaTeXu s vloženou grafikou a rovnicemi.
+
+* Generování interaktivních výukových materiálů v jediném souboru MHTML.
+
+* Převod technického obsahu pro offline e-learningové moduly.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod TEXu na MHTML pro knihovny výukových materiálů.
+
+* Integrace do automatizované tvorby obsahu pro e-learning.
+
+* Plánované aktualizace MHTML z LaTeXových zdrojů.
+
+* Spouštěný převod pro sdílení výzkumných publikací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

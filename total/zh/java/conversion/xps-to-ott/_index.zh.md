@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **OTT（OpenDocument 文本模板）**，将静态 XPS 文件转换为可重复使用的模板，适用于 LibreOffice 和 OpenOffice 用户，非常适合用于开放格式的标准化工作流文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 学生和教师的学术和教育材料模板。
+
+* 用于报告和提案的 NGO 项目模板。
+
+* 企业文档的标准开源模板。
+
+* 宣传册和通讯的创意内容模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从 XPS 存储库批量生成 OTT 模板。
+
+* 与开源工作流自动化工具集成。
+
+* 使用组织数据自动填充模板。
+
+* 简化跨平台文档创建流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

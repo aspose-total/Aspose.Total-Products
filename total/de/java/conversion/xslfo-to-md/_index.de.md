@@ -47,7 +47,25 @@ Während Sie eine XSLFO-Datei in MD konvertieren, können Sie Ihrem Ausgabe-MD-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Konvertierung von XSLFO-Dateien in Markdown
+
+Die Umwandlung von XSLFO (Extensible Stylesheet Language Formatting Objects) Dateien in **MD (Markdown)** ermöglicht die Erstellung von leichtgewichtigen, webfreundlichen und leicht lesbaren Dokumenten. Markdown bewahrt die Struktur von Überschriften, Tabellen und Listen aus dem XSLFO-Inhalt, während es für Websites, Blogs und Dokumentationsplattformen geeignet ist.
+
+## Schlüsselanwendungsfälle
+
+* Umwandlung von XSLFO-generierten Berichten in Markdown für technische Dokumentation.
+* Veröffentlichung strukturierter Tabellen und Inhalte aus XSLFO in Wissensdatenbanken.
+* Erstellung von blogbereiten Berichten mit erhaltenen Tabellenlayouts und Überschriften.
+* Vorbereitung von Open-Source-Dokumentationen aus strukturierten XSLFO-Analysen.
+
+## Automatisierungsszenarien
+
+* Geplante Stapelkonvertierung von XSLFO-Berichten in Markdown für Webportale.
+* Integration in automatisierte Dokumentationsgenerierungspipelines.
+* Ausgelöste Konvertierung für wiederkehrende Analysen oder Projektberichte.
+* Automatisierte XSLFO-zu-MD-Workflows für Wissensmanagementsysteme.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

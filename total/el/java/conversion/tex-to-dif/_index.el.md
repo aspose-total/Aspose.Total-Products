@@ -47,7 +47,51 @@ otherformats: XLSB XLTM XLTX XLT SXC EXCEL MD XLSM TSV ODS FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **DIF (Μορφή Ανταλλαγής Δεδομένων)** εξασφαλίζει ότι τα δεδομένα πίνακα LaTeX μπορούν να χρησιμοποιηθούν με παλαιότερα προγράμματα υπολογιστών φύλλων και εξειδικευμένα επιστημονικά εργαλεία διατηρώντας τη δομή και την ακρίβεια.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εισαγωγή πινάκων με βάση το LaTeX σε παλαιότερο λογισμικό οικονομικών.
+
+* Διαμοιρασμός μηχανικών υπολογισμών με εργαλεία συμβατά με DIF.
+
+* Διατήρηση δομημένων δεδομένων για ακαδημαϊκές δημοσιεύσεις.
+
+* Αρχειοθέτηση συνόλων δεδομένων LaTeX σε ανοιχτές μορφές ανταλλαγής.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Δημιουργία πολλαπλών DIF από δεδομένα έργων LaTeX.
+
+* Ενσωμάτωση σε επιστημονικές αλυσίδες δεδομένων.
+
+* Αυτοματοποιημένη αρχειοθέτηση αποτελεσμάτων ερευνητικών πειραμάτων.
+
+* Προγραμματισμένες μετατροπές για συστήματα συνεχούς αναφοράς.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

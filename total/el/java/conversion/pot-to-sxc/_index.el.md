@@ -61,7 +61,45 @@ otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS SXC FODS TSV XLTM MHTML M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του POT σε SXC (StarOffice Calc Spreadsheet) καθιστά δυνατή τη χρήση δεδομένων που προέρχονται από παρουσιάσεις σε παλαιότερα περιβάλλοντα StarOffice ή OpenOffice. Αυτή η μορφή παραμένει σημαντική για εκπαιδευτικά και αρχειακά έργα που απαιτούν συμβατότητα προς τα πίσω.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Επαναχρησιμοποίηση περιεχομένου PowerPoint για ιδρύματα που χρησιμοποιούν παλαιότερο λογισμικό.
+
+* Δημιουργία φύλλων δραστηριοτήτων μαθητών από πίνακες παρουσιάσεων.
+
+* Διαμοιρασμός εταιρικών μετρήσεων σε εργαλεία φύλλων υπολογιστών ανοικτού κώδικα.
+
+* Αρχειοθέτηση αναλύσεων βασισμένων σε PowerPoint σε παλαιά συστήματα.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Ροές εργασιών μετατροπής δεδομένων για μετανάστευση επιχειρήσεων.
+
+* Αυτόματη εξαγωγή πινάκων PowerPoint σε αρχεία SXC.
+
+* Προγραμματισμένες μετατροπές για αρχειοθετικά και ακαδημαϊκά συστήματα.
+
+* Ενσωμάτωση με πλατφόρμες επιχειρηματικής νοημοσύνης παλαιού τύπου.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

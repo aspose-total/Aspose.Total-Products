@@ -54,7 +54,51 @@ otherformats: POT PPTM POTM PPSM PPTX PPS POWERPOINT POTX PPSX PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TXT转换为**PPSM（启用宏的PowerPoint演示）**结合了自动化功能和直接幻灯片演示。非常适合具有交互元素的动态演示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 具有实时计算的交互式财务演示。
+
+* 使用宏来导航复杂工作流程的培训模块。
+
+* 具有自动更新的项目跟踪幻灯片。
+
+* 具有自动内容转换的销售演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 每周报告的启用宏幻灯片的自动生成。
+
+* 与CRM和项目管理工具集成。
+
+* 定时执行宏的幻灯片更新。
+
+* 面向客户演示的触发交互式幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

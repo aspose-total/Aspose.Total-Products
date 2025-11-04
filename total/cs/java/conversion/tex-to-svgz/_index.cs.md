@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek SVGZ podle svých potřeb
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **SVGZ (komprimovaná škálovatelná vektorová grafika)** zachovává vektorovou kvalitu a zároveň snižuje velikost souboru, což je ideální pro webové a akademické publikace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání rovnic a diagramů LaTeXu do webových stránek.
+
+* Škálovatelná grafika vysokého rozlišení pro publikace.
+
+* Interaktivní online vizualizace dat generovaných LaTeXem.
+
+* Technické ilustrace ve formátu komprimované vektorové grafiky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod diagramů LaTeXu do SVGZ.
+
+* Integrace s webovými publikovacími toky.
+
+* Spouštěné aktualizace komprimovaných vektorových grafik z LaTeXových zdrojů.
+
+* Archivace a distribuce akademických ilustrací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XSLFO in **PPS (PowerPoint Show)** ermöglicht die Erstellung von selbstablaufenden Präsentationsdateien für Besprechungen, Schulungen oder Kioske. PPS bewahrt das Formatieren, während es direkt im Diashow-Modus geöffnet wird.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Verteilung von selbstablaufenden Unternehmensübersichtspräsentationen.
+
+* Vorbereitung automatisierter Schulungs- oder Onboarding-Folien aus XSLFO-Daten.
+
+* Teilen interaktiver Marketinginhalte für Messen.
+
+* Generierung visuell ansprechender KPI-Dashboards für Managementüberprüfungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Geplante Stapelkonvertierung von XSLFO in PPS-Dateien.
+
+* Integration in automatisierte Diashow-Verteilungsworkflows.
+
+* Ausgelöste Generierung von PPS-Decks aus XSLFO-Berichten.
+
+* Automatisches Aktualisieren von selbstablaufenden Präsentationen für wiederkehrende Besprechungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

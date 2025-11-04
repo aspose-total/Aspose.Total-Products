@@ -135,7 +135,51 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **POTX (шаблон PowerPoint без макросов)** обеспечивает повторное использование безопасных шаблонов для повторяющихся презентаций. POTX сохраняет макеты, форматирование и таблицы без риска выполнения макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка XSLFO-шаблонов ежемесячных обзоров для пользователей PowerPoint.
+
+* Создание стандартизированных учебных слайдов без макросов для обмена между отделами.
+
+* Архивирование шаблонов квартальной финансовой отчетности.
+
+* Создание шаблонов инвестиционных презентаций, безопасных для внешнего распространения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование из XSLFO в POTX шаблоны.
+
+* Интеграция в автоматизированные рабочие процессы по созданию слайдов.
+
+* Триггерное создание шаблонов презентаций без макросов из отчетов XSLFO.
+
+* Автоматическое развертывание шаблонов POTX для обеспечения единообразия в команде.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

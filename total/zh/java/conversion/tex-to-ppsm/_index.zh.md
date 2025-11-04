@@ -135,7 +135,51 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**PPSM（PowerPoint Macro-Enabled Show）**可使LaTeX内容包含用于自动计算、交互式图表和动态演示的宏。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 具有动态表格的宏驱动学术讲座。
+
+* 具有自动更新图表的研究演示。
+
+* 具有交互元素的企业培训幻灯片。
+
+* 具有LaTeX公式的多作者会议幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将TEX转换为PPSM，用于交互式演示。
+
+* 将LaTeX内容自动集成到支持宏的幻灯片中。
+
+* 动态研讨会材料的定期更新。
+
+* 用于研究或企业演示流程的触发式创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

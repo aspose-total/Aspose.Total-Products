@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **OTT (OpenDocument Text Template)** позволяет педагогам, исследователям и бизнесу создавать многократно используемые шаблоны с оформлением LaTeX в открытых форматах, упрощая стандартизацию документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шаблоны учебных материалов с согласованным форматированием LaTeX.
+
+* Шаблоны OpenDocument для совместного составления отчетов по лабораторным работам.
+
+* Шаблоны отчетов о проектах и бизнеса для офисных пакетов с открытым исходным кодом.
+
+* Стандартизированные формы для академического или административного использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов для многопользовательских сред.
+
+* Интеграция в рабочие процессы открытых LMS и офисных пакетов.
+
+* Пакетное обновление библиотек шаблонов для академических учреждений.
+
+* Динамическое преобразование LaTeX в OTT для документации исследований.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

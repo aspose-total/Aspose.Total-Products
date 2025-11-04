@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **WMF (Windows Metafile)** позволяет создавать масштабируемые векторные изображения, совместимые с Microsoft Office и другими приложениями для издательской деятельности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание таблиц и диаграмм XSLFO в Microsoft Word или PowerPoint.
+
+* Создание масштабируемых визуальных элементов для корпоративных презентаций.
+
+* Архивирование визуальных элементов отчетов в векторном формате.
+
+* Подготовка технических иллюстраций на основе структурированных данных XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XSLFO в WMF для документооборота.
+
+* Запланированная выгрузка векторных визуальных элементов для слайд-деков.
+
+* Автоматическое создание изображений WMF из панелей XSLFO.
+
+* Интеграция с автоматизированными корпоративными процессами публикации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

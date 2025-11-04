@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier TEX vers DICOM dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **DICOM (Digital Imaging and Communications in Medicine)** permet d'intégrer des diagrammes LaTeX techniques et scientifiques dans les flux de travail en imagerie médicale et la documentation de recherche.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Intégration de diagrammes basés sur LaTeX dans les rapports d'imagerie médicale.
+
+* Documentation de la recherche biomédicale avec un contenu LaTeX structuré.
+
+* Visualisation de données anatomiques à l'aide de graphiques générés par LaTeX.
+
+* Publication de schémas basés sur LaTeX dans la recherche en radiologie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée par lots pour les archives d'imagerie hospitalière.
+
+* Intégration dans les flux de travail de recherche médicale.
+
+* Rendu TEX en DICOM déclenché pour les études cliniques.
+
+* Exportation de diagrammes LaTeX pour les diagnostics assistés par IA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

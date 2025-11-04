@@ -130,7 +130,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XPS in **ODT (OpenDocument Text)** ermöglicht die Kompatibilität mit Open-Source-Office-Suiten wie LibreOffice und OpenOffice. Es erhält das Layout und den Inhalt des Dokuments und unterstützt gleichzeitig ein plattformübergreifendes, herstellerneutrales Format.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Kollaborative Projekte in Organisationen, die Open-Source-Tools verwenden.
+
+* Akademische Arbeiten und Forschungsdokumentationen für Universitäten.
+
+* Regierungs- und NGO-Dokumente, die ODF-Konformität erfordern.
+
+* Technische Handbücher und Anleitungen, die auf verschiedenen Plattformen geteilt werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Konvertierung großer XPS-Archive in ODT für plattformübergreifenden Zugriff.
+
+* Integration mit Dokumentenkollaborationsplattformen wie Nextcloud.
+
+* Generierung von ODT-Vorlagen für die standardisierte Inhalts-Erstellung.
+
+* Stapelkonvertierung für akademische oder Forschungsveröffentlichungs-Workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

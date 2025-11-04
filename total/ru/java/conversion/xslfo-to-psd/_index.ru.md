@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **PSD (Adobe Photoshop)** позволяет графическим дизайнерам редактировать таблицы и визуальные элементы, созданные в XSLFO, с использованием слоев и продвинутых эффектов. Выходной формат PSD идеально подходит для маркетинговых или презентационных визуалов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование диаграмм XSLFO в многослойные дизайны Photoshop.
+
+* Настройка визуальных элементов отчетов для маркетинговых материалов.
+
+* Редактирование структурированных таблиц XSLFO для профессиональных презентаций.
+
+* Подготовка инфографики с улучшенным стилизацией.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматический экспорт отчетов XSLFO в PSD для дизайнерских рабочих процессов.
+
+* Интеграция с пакетными процессами обработки Photoshop.
+
+* Запланированное преобразование для повторяющихся визуальных отчетов.
+
+* Генерация PSD по триггеру для создания креативных маркетинговых панелей управления.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

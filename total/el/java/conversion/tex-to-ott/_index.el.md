@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **OTT (Πρότυπο Κειμένου OpenDocument)** επιτρέπει σε εκπαιδευτικούς, ερευνητές και επιχειρήσεις να δημιουργήσουν επαναχρησιμοποιήσιμα πρότυπα με στυλ LaTeX σε ανοικτές μορφές, βελτιώνοντας την τυποποίηση των εγγράφων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Πρότυπα υλικού διδασκαλίας με συνεπή μορφοποίηση LaTeX.
+
+* Πρότυπα OpenDocument για συνεργατική αναφορά εργαστηρίου.
+
+* Πρότυπα αναφορών έργων και επιχειρήσεων για πακέτα γραφείου ανοικτού κώδικα.
+
+* Τυποποιημένες φόρμες για ακαδημαϊκή ή διοικητική χρήση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτόματη δημιουργία προτύπων για περιβάλλοντα πολλαπλών χρηστών.
+
+* Ενσωμάτωση σε ροές εργασίας ανοικτού κώδικα LMS και γραφείου.
+
+* Μαζικές ενημερώσεις βιβλιοθηκών προτύπων για ακαδημαϊκά ιδρύματα.
+
+* Δυναμική μετατροπή LaTeX σε OTT για την τεκμηρίωση έρευνας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

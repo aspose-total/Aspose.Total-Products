@@ -135,7 +135,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XSLFO en **POTX (modèle PowerPoint sans macros)** garantit des modèles réutilisables et sûrs pour des présentations récurrentes. POTX préserve les mises en page, la mise en forme et les tableaux sans risque d'exécution de macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Préparation de modèles de revue mensuelle basés sur XSLFO pour les utilisateurs de PowerPoint.
+
+* Création de diapositives de formation standardisées sans macros pour un partage interdépartemental.
+
+* Archivage de modèles de rapports financiers trimestriels.
+
+* Génération de modèles de présentation pour les investisseurs sûrs pour une distribution externe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion par lot programmée de XSLFO en modèles POTX.
+
+* Intégration dans des flux de travail automatisés de génération de diapositives.
+
+* Création déclenchée de modèles de présentation sans macro à partir de rapports XSLFO.
+
+* Déploiement automatique de modèles POTX pour une cohérence à l'échelle de l'équipe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

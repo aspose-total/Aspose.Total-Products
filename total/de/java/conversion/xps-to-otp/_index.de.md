@@ -121,7 +121,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Konvertieren von XPS in **OTP (OpenDocument Presentation Template)** erstellt wiederverwendbare Präsentationsvorlagen für LibreOffice und OpenOffice, die einheitliches Design und Layout für Teams ermöglichen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Unternehmenspräsentationsvorlagen für Kundengespräche.
+
+* Standardisierte Vorlagen für Vorlesungen für Pädagogen.
+
+* NGO- oder Projektberichtsvorlagen für wiederholten Gebrauch.
+
+* Marketingkampagnen-Folienpräsentationen mit konsistenter Markenführung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Erstellung von OTP-Vorlagen aus XPS-Berichten.
+
+* Integration mit Content-Management-Systemen für teamweite Verteilung.
+
+* Geplante Vorlagenerstellung für wiederkehrende Präsentationen.
+
+* Vereinfachte Markenführung und Layout-Standardisierung über Abteilungen hinweg.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

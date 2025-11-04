@@ -49,7 +49,51 @@ otherformats: TXT XLSB EXCEL XLT DIF XLTM FODS XLAM XLTX SXC XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**ODS（OpenDocument Spreadsheet）**可确保与现代开源电子表格应用程序兼容。ODS保留样式、公式和表格，非常适合协作报告和数据共享。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将XSLFO生成的人力资源报告转换为LibreOffice用户可用格式。
+
+* 以ODS格式与外部合作伙伴共享季度分析报告。
+
+* 为跨部门审查准备运营仪表板。
+
+* 将基于XSLFO的财务表格存档为未来兼容的开放格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 实时将XSLFO转换为ODS，用于协作办公环境。
+
+* 定时批量从XSLFO导出运营指标。
+
+* 集成到远程团队的自动化报告流程中。
+
+* 从XSLFO模板自动生成ODS电子表格，用于定期报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

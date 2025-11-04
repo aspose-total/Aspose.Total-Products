@@ -57,7 +57,51 @@ otherformats: EMZ SVGZ PSD TGA DXF WMF JPEG2000 IMAGE WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **TGA (Αρχείο Εικόνας Targa)** παρέχει υψηλής ποιότητας ραστρωτές εικόνες κατάλληλες για επαγγελματική γραφική ύλη και παραγωγή βίντεο.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Υψηλή πιστότητα οπτικών για βίντεο και πολυμέσα.
+
+* Στοιχεία σχεδιασμού παιχνιδιών που προέρχονται από διαγράμματα XPS.
+
+* Τεχνικές εικονογραφήσεις που απαιτούν απώλεια λιγότερης ποιότητας στις ραστρωτές εικόνες.
+
+* Γραφικά εταιρικής χρήσης για παρουσιάσεις ή αρχειοθετικούς σκοπούς.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Σωληνώσεις μαζικής μετατροπής XPS σε TGA.
+
+* Προγραμματισμένη δημιουργία για ροές παραγωγής πολυμέσων.
+
+* Ενσωμάτωση με επεξεργασία γραφικών και λογισμικό βίντεο.
+
+* Αυτοματοποιημένη επεξεργασία τεχνικών ή σχεδιαστικών οπτικών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

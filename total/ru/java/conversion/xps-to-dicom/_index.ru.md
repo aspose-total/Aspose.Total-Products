@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XPS в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **DICOM (цифровая обработка и связь в медицине)** позволяет интегрировать визуальные документы в медицинские системы изображений, сохраняя детали высокого разрешения для клинических приложений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание медицинских отчетов в радиологические рабочие процессы.
+
+* Архивирование диагностических документов наряду со сканами пациентов.
+
+* Системы больниц, требующие совместимости с DICOM для отчетов.
+
+* Платформы телемедицины, интегрирующие клиническую документацию.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XPS в DICOM для систем хранения записей больниц.
+
+* Автоматизированная интеграция с PACS (системы архивирования и передачи изображений).
+
+* Плановые обновления для изображений в медицинских записях пациентов.
+
+* Оптимизированные рабочие процессы для обработки данных медицинских изображений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

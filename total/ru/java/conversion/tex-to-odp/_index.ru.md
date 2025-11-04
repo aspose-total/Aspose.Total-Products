@@ -135,7 +135,51 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **ODP (OpenDocument Presentation)** позволяет преобразовать контент LaTeX, формулы и таблицы в презентационные слайды с открытым исходным кодом, совместимые с LibreOffice и OpenOffice. Идеально подходит для академиков и инженеров, делящихся исследованиями на основе LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Академические лекции с уравнениями, сгенерированными в LaTeX.
+
+* Презентации проектов с открытым исходным кодом с структурированными данными.
+
+* Слайды для конференций по математике, физике или инженерным темам.
+
+* Учебные материалы с интерактивными диаграммами на основе LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в ODP для учебных материалов или тренингов.
+
+* Генерация слайдов по расписанию из репозиториев исследований LaTeX.
+
+* Интеграция в конвейеры презентаций с открытым исходным кодом.
+
+* Автоматическое обновление многоавторских академических слайд-деков.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

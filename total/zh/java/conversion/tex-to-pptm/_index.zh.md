@@ -135,7 +135,51 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**PPTM（PowerPoint宏启用演示文稿）**可实现从LaTeX生成完全交互式幻灯片，包括用于自动计算、动态图表和互动教学材料的宏。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 使用LaTeX方程式的交互式学术讲座。
+
+* 公司仪表板和研究演示模板。
+
+* 具有实时数据更新的自动化研讨会幻灯片。
+
+* 具有宏驱动互动性的研讨会演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将TEX转换为PPTM，用于交互式幻灯片。
+
+* 集成到企业或大学自动化系统中。
+
+* 生成宏启用演示文稿的触发。
+
+* 从LaTeX存储库定期更新，用于多作者项目。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ Při převodu souboru XSLFO na XLTM můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **XLTM (šablona Excelu s makry)** podporuje opakovaně použitelné sešity s vestavěnou automatizací. Šablony XLTM usnadňují opakované hlášení a pokročilé pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Standardizace XSLFO zpráv s vestavěnými makry pro automatizaci.
+
+* Distribuce interaktivních šablon pro hlášení napříč odděleními.
+
+* Příprava opakovaně použitelných šablon pro finanční modelování z XSLFO.
+
+* Vytváření automatizovaných šablon sestav z tabulkových dat XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace šablon XLTM pro firemní hlášení.
+
+* Integrace s automatizovanými pracovními postupy VBA.
+
+* Plánovaný převod XSLFO na XLTM pro opakující se projekty.
+
+* Spouštěná tvorba šablony XLTM pro analytické dashboardy řízené makry.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

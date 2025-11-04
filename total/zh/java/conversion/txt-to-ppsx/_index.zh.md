@@ -54,7 +54,45 @@ otherformats: POT POTM PPS PPT PPTX PPSX POTX PPTM PPSM POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TXT转换为**PPSX（PowerPoint Show XML）**提供现代基于XML的幻灯片，经过优化，适用于云端编辑和协作演示。非常适合依赖基于网络的办公套件的企业。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 远程团队的协作演示文稿。
+* 从文本课程转换而来的电子学习课程幻灯片。
+* 以PPSX文件形式直接在云系统中共享项目更新。
+* 为跨团队审查提供的营销和销售演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于在线培训模块的TXT到PPSX自动转换。
+* 根据内容更改触发的实时云更新。
+* 用于多个部门演示的批处理。
+* 与AI设计助手集成，用于幻灯片样式设计。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

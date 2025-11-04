@@ -121,7 +121,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **OTP (шаблон презентации OpenDocument)** создает многоразовые шаблоны презентаций для LibreOffice и OpenOffice, обеспечивая согласованный дизайн и макет для команд.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Корпоративные шаблоны презентаций для встреч с клиентами.
+
+* Стандартизированные шаблоны лекций для преподавателей.
+
+* Шаблоны отчетов НПО или проектов для повторного использования.
+
+* Слайды маркетинговых кампаний с согласованным брендингом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное создание шаблонов OTP из отчетов XPS.
+
+* Интеграция с системами управления контентом для распространения по команде.
+
+* Запланированное создание шаблонов для повторяющихся презентаций.
+
+* Упрощенное стандартизирование брендинга и макета между отделами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

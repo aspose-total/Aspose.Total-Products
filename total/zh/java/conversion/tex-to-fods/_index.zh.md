@@ -49,7 +49,51 @@ otherformats: DIF MD FODS TXT XLT ODS XLTX XLSM XLSB SXC XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**FODS（Flat OpenDocument Spreadsheet）**可将LaTeX数据转换为与LibreOffice和OpenOffice兼容的基于XML的开放电子表格。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 使用开源办公套件共享基于LaTeX的科学表格。
+
+* 需要开放、平台无关的电子表格格式进行学术研究。
+
+* 在多平台环境中进行项目跟踪和报告。
+
+* 为协作FODS电子表格准备LaTeX数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于开源工作流程的自动化TEX到FODS转换。
+
+* 批量处理LaTeX数据集以进行跨平台协作。
+
+* 定期导出实验室结果或实验表格。
+
+* 集成到研究机构的文档流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

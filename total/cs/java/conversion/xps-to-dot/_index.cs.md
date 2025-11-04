@@ -130,7 +130,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XPS na **DOT (šablona dokumentu Word)** umožňuje organizacím přeměnit obsah XPS s pevným rozložením do opakovaně použitelných šablon. To je ideální pro podniky, které potřebují konzistentní styl dokumentů napříč zprávami, návrhy a smlouvami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Firemní šablony pro návrhy a prezentace.
+
+* Standardizované šablony pro čtvrtletní nebo roční zprávy.
+
+* Smluvní šablony pro právní a nákupní oddělení.
+
+* Vzdělávací materiálové šablony pro e-learningové platformy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické vytváření nových dokumentů z šablon DOT hromadně.
+
+* Integrace s nástroji pro pracovní postupy k vyplnění šablon dynamickými daty.
+
+* Zjednodušení distribuce obsahu mezi týmy pomocí předem navržených šablon.
+
+* Konverzní trasy pro standardizaci dokumentů v podnikových systémech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ otherformats: DXF PSD EMZ SVGZ TGA  JPEG2000 WMF WMZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**SVGZ（压缩的SVG）**提供了压缩形式的可伸缩矢量图形，非常适合用于网页、仪表板和响应式应用。SVGZ在保留质量的同时减小文件大小。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从XSLFO报告创建交互式图表，用于网页仪表板。
+
+* 在响应式应用中嵌入可伸缩的可视化元素。
+
+* 以压缩格式存档基于矢量的财务表格。
+
+* 为电子学习或知识库准备图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将XSLFO转换为SVGZ，用于网页报告。
+
+* 定时导出压缩的矢量图形。
+
+* 与自动化在线仪表板工作流程集成。
+
+* 从XSLFO分析触发创建SVGZ图像。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

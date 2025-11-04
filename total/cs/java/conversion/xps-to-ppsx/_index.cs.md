@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **PPSX (PowerPoint Show, bez makerů)** produkuje pouze ke čtení, připravené prezentace snímků, zachovává formátování a rozložení a odstraňuje závislosti na makrech pro zabezpečení.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Informační prezentace pro celou společnost.
+
+* Vzdělávací snímky pro distribuci e-learningu.
+
+* Marketingové nebo prodejní prezentace připravené k sdílení.
+
+* Prezentace událostí nebo seminářů pro velké publikum.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod souborů XPS na PPSX pro bezpečné sdílení prezentací.
+
+* Plánované automatické vytváření souborů show pro školení.
+
+* Integrace s interními portály pro distribuci prezentací.
+
+* Zjednodušená tvorba pouze ke čtení snímků pro klienty nebo veřejné použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

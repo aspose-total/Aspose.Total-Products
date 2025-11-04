@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **DICOM (Digitální zobrazování a komunikace v medicíně)** umožňuje integraci vizuálních dokumentů do lékařských zobrazovacích systémů a zachování detailů s vysokým rozlišením pro klinické aplikace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání lékařských zpráv do radiologických pracovních postupů.
+
+* Archivace diagnostických dokumentů vedle snímků pacientů.
+
+* Nemocniční systémy vyžadující kompatibilitu s DICOM pro zprávy.
+
+* Telemedicínské platformy integrující klinické dokumenty s obrazy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XPS na DICOM pro systémy záznamů v nemocnicích.
+
+* Automatická integrace s PACS (Systémy pro archivaci a komunikaci obrázků).
+
+* Plánované aktualizace obrazů pacientů.
+
+* Zjednodušené pracovní postupy pro zpracování lékařských obrazových dat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

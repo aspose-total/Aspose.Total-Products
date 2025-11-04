@@ -61,7 +61,51 @@ otherformats: XLTX XLT DIF SXC XLSB XLS FODS TSV EXCEL XLAM MARKDOWN XLTM MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTM в TSV (значения, разделенные табуляцией) позволяет легко передавать таблицы презентаций в текстовые электронные таблицы или программное обеспечение для аналитики. Файлы TSV легкие, редактируемые и сохраняют чистую табличную структуру.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Извлечение таблиц слайдов для аналитических конвейеров на основе CSV/TSV.
+
+* Экспорт тренировочных данных или результатов опросов из презентаций.
+
+* Преобразование финансовых и научных данных в TSV для сценариев на языках сценариев.
+
+* Подготовка табличного содержимого слайдов для импорта в базы данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование слайдов в TSV для конвейеров по вводу данных.
+
+* Автоматизированные рабочие процессы отчетности, подающие файлы TSV в платформы BI.
+
+* Интеграция сценариев на Python/R для статистического анализа.
+
+* Генерация TSV по триггеру из облачных шаблонов презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

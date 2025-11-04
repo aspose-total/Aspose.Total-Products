@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **PPSM (PowerPoint Macro-Enabled Show)** umožňuje obsah LaTeXu zahrnovat makra pro automatizované výpočty, interaktivní diagramy a dynamické prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Makro-řízené akademické přednášky s dynamickými tabulkami.
+
+* Prezentace výzkumu s automatickým aktualizováním grafů.
+
+* Firemní výcvikové prezentace s interaktivními prvky.
+
+* Prezentace na konferencích s LaTeXovými vzorci od více autorů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkové konverze TEX na PPSM pro interaktivní prezentace.
+
+* Automatická integrace obsahu LaTeXu do makro-umožněných prezentací.
+
+* Plánované aktualizace pro dynamické pracovní materiály.
+
+* Spouštěné vytváření pro výzkumné nebo firemní prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek WMF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **WMF (Windows Metafile)** zachovává vektorovou grafiku pro diagramy v LaTeXu, což zajišťuje kompatibilitu s Microsoft Office a technickou dokumentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání ilustrací v LaTeXu do Wordu nebo PowerPointu.
+
+* Technické diagramy v profesionálních zprávách.
+
+* Škálovatelné obrázky pro firemní a akademické dokumenty.
+
+* Distribuce grafiky generované v LaTeXu na různých platformách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod diagramů v LaTeXu do WMF.
+
+* Integrace do dokumentačních toků v Microsoft Office.
+
+* Spouštěné aktualizace vektorové grafiky v prezentacích.
+
+* Automatizované archivování technických obrázků generovaných v LaTeXu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

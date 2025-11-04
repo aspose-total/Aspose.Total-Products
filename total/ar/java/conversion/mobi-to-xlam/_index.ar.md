@@ -61,7 +61,47 @@ otherformats: SXC DIF XLT EXCEL XLTX XLSM XLAM XLTM ODS FODS XLSX XLSB TSV XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MOBI إلى XLAM (إضافة Excel) يمكن تضمين وظائف البيانات ذات الصلة بـ MOBI مباشرة في بيئات Excel. تمكن هذه التحويلات من تمكين التحليلات المتقدمة والتشغيل التلقائي في سير العمل القائمة على جداول البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- تضمين محولات MOBI-to-data داخل ماكرو Excel.
+
+- تلقين وظائف تحليلات الكتب الإلكترونية تلقائيًا للناشرين.
+
+- تطوير لوحات تحكم في الورقة لأداء المحتوى الرقمي.
+
+- دمج أدوات تحليل البيانات MOBI داخل إضافات Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+- معالجة MOBI بتمكين الماكرو باستخدام التشغيل التلقائي XLAM.
+
+- نشر محللي MOBI داخل أنظمة Excel الشركات.
+
+- إنشاء إضافات ديناميكية لمهام تقرير الكتب الإلكترونية.
+
+- تمديدات XLAM في الوقت الحقيقي لتحديثات مجموعة بيانات MOBI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

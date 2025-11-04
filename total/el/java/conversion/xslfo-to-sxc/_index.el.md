@@ -47,7 +47,51 @@ otherformats: XLSB XLTM SXC XLTX EXCEL ODS TSV MD DIF XLAM XLT TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε μορφή **SXC (StarOffice Spreadsheet)** επιτρέπει απρόσκοπτη αλληλεπίδραση με τα παλαιά εργαλεία StarOffice και OpenOffice. Το SXC διατηρεί τη δομή και τη μορφοποίηση για αρχειοθέτηση και εργασιακές ροές αναφοράς.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Αρχειοθέτηση προγραμμάτων έργων βασισμένων σε XSLFO σε SXC για παλαιά συστήματα.
+
+* Προετοιμασία φύλλων εργασίας SXC για διεθνείς εταίρους που χρησιμοποιούν το StarOffice.
+
+* Μετατροπή δεδομένων XSLFO σε πίνακες για σκοπούς εκπαίδευσης και τεκμηρίωσης.
+
+* Κοινοποίηση μηνιαίων KPIs σε SXC για αναφορές συμμόρφωσης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική αυτοματοποιημένη μετατροπή από XSLFO σε SXC για αρχειοθετημένα έργα.
+
+* Ενσωμάτωση σε παλαιές ροές εργασίας γραφείου που υποστηρίζουν μορφές StarOffice.
+
+* Προγραμματισμένη δημιουργία αναφορών SXC από αρχεία XSLFO.
+
+* Ενεργοποιημένη μετατροπή για επαναλαμβανόμενα πίνακες ελέγχου διαχείρισης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

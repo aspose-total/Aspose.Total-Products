@@ -47,7 +47,55 @@ Während Sie eine XSLFO-Datei in XLAM konvertieren, können Sie Ihrem Ausgabe-XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von XSLFO in **XLAM (Excel-Add-In)** ermöglicht das Einbetten von XSLFO-generierten Daten und Makros in wiederverwendbare Excel-Add-Ins. XLAM unterstützt Automatisierung, benutzerdefinierte Berichterstellung und interaktive Tabellenkalkulationsanwendungen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Verpackung von XSLFO-Berichtsvorlagen als Excel-Add-Ins für den Teamgebrauch.
+
+* Verteilung automatisierter Berechnungstools, die aus XSLFO-Daten abgeleitet sind.
+
+* Integration von XSLFO-Analytik in benutzerdefinierte Excel-Dashboards.
+
+* Ermöglichung wiederholbarer Berichtsworkflows mit XLAM-Add-Ins.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierung der XLAM-Erstellung aus XSLFO für wiederkehrende Aufgaben.
+
+* Geplante Bereitstellung von Add-Ins mit aktualisierten XSLFO-Daten.
+
+* Integration mit VBA-basierten Workflow-Automatisierungen.
+
+* Ausgelöste Erstellung von XLAM-Add-Ins für unternehmensweite Berichtswerkzeuge.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

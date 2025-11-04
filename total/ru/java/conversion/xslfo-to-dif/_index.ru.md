@@ -47,7 +47,55 @@ otherformats: TSV XLAM XLSM DIF XLTX EXCEL XLTM MD SXC FODS ODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов XSLFO в **DIF (Data Interchange Format)** обеспечивает совместимость с более старыми приложениями для электронных таблиц и устаревшими системами обработки данных. DIF сохраняет структурированное табличное содержимое, обеспечивая переносимость данных между различными платформами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Миграция исторических записей о продажах в устаревшие системы электронных таблиц.
+
+* Архивирование отчетов, сгенерированных в формате XSLFO, для соблюдения регулятивных требований.
+
+* Обмен данных между корпоративным программным обеспечением для планирования с использованием формата DIF.
+
+* Подготовка маркетинговых метрик для аналитики на различных платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование ежемесячных отчетов о производительности в формате XSLFO в DIF.
+
+* Интеграция с устаревшими системами ERP, требующими ввод данных в формате DIF.
+
+* Плановое обновление наборов данных в формате DIF для анализа исторических тенденций.
+
+* Автоматическое преобразование из формата XSLFO в DIF в автоматизированных отчетных конвейерах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

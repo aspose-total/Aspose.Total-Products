@@ -135,7 +135,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **OTP (OpenDocument Presentation Template)** позволяет создавать многоразовые шаблоны презентаций с форматированием LaTeX для последовательного оформления лекций или деловых слайдов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Стандартизированные шаблоны лекций с уравнениями в стиле LaTeX.
+
+* Шаблоны слайдов для конференций для научных групп.
+
+* Многоразовые учебные материалы с содержанием, богатым формулами.
+
+* Шаблоны проектных предложений для технических презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная генерация шаблонов LaTeX в OTP для курсов.
+
+* Обновление шаблонов, запускаемое из репозиториев LaTeX.
+
+* Автоматизированное распространение шаблонов слайдов среди соавторов.
+
+* Интеграция с рабочими процессами презентаций в LMS с открытым исходным кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

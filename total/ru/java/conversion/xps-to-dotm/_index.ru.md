@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **DOTM (Шаблон с включенными макросами Word)** объединяет эффективность шаблона с автоматизацией макросов. Организации могут поддерживать единые макеты документов, автоматизируя повторяющиеся задачи непосредственно в Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шаблоны счетов и отчетов с макросами автоподсчета.
+
+* Шаблоны юридических форм, автоматически заполняющиеся данными клиента.
+
+* Шаблоны планирования проектов с интерактивными макросами для отслеживания задач.
+
+* Шаблоны документов HR, автоматизирующие утверждения и уведомления.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Массовое создание стандартизированных шаблонов с включенными макросами из источников XPS.
+
+* Интеграция в системы ERP для автоматизированной генерации документов.
+
+* Автоматическое обновление шаблонов при изменении исходных файлов XPS.
+
+* Автоматизированные рабочие процессы отчетности с использованием шаблонов DOTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

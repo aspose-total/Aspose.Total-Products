@@ -61,7 +61,45 @@ Lors de la conversion du fichier POT en SXC, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de POT en SXC (tableur StarOffice Calc) permet d'utiliser les données dérivées de présentations dans des environnements StarOffice ou OpenOffice hérités. Ce format reste pertinent pour les projets éducatifs et d'archivage nécessitant une compatibilité ascendante.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Réutilisation du contenu PowerPoint pour les institutions utilisant des logiciels plus anciens.
+
+* Création de feuilles d'activités pour les étudiants à partir de tableaux de présentation.
+
+* Partage de données d'entreprise à travers des outils de tableur open-source.
+
+* Archivage d'analyses basées sur PowerPoint dans des systèmes hérités.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Flux de travail de transformation de données héritées pour la migration d'entreprise.
+
+* Extraction automatique de tableaux PowerPoint vers des fichiers SXC.
+
+* Conversions planifiées pour des systèmes d'archivage et académiques.
+
+* Intégration avec des plateformes héritées de business intelligence.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

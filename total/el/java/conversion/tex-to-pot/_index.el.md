@@ -135,7 +135,51 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **POT (Πρότυπο PowerPoint)** επιτρέπει στο περιεχόμενο με στυλ LaTeX να γίνει ένα επαναχρησιμοποιήσιμο πρότυπο PowerPoint για ακαδημαϊκες, επιχειρηματικές και εταιρικές παρουσιάσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Επαγγελματικές διαφάνειες διαλέξεων με πολύπλοκες εξισώσεις.
+
+* Πρότυπα προτάσεων εταιρικών έργων με πίνακες LaTeX.
+
+* Κανονικοποιημένα πρότυπα για μαθήματα πανεπιστημίου.
+
+* Παρουσιάσεις σε μηχανική ή επιστημονικές διασκέψεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένες μετατροπές πακέτων TEX σε POT για βιβλιοθήκες προτύπων.
+
+* Ενσωμάτωση σε συστήματα αυτοματισμού διαφανειών επιχείρησης.
+
+* Προγραμματισμένες ενημερώσεις προτύπων από πηγές LaTeX.
+
+* Ενεργοποιημένη δημιουργία για συνεργασία πολλαπλών χρηστών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

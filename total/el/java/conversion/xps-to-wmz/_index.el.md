@@ -57,7 +57,51 @@ otherformats: WMZ IMAGE WMF SVGZ EMZ DXF JPEG2000  TGA PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **WMZ (Συμπιεσμένο Windows Metafile)** επιτρέπει τη χρήση συμπαγών διανυσματικών γραφικών κατάλληλων για διανομή, παρουσιάσεις και τεχνική τεκμηρίωση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Συμπιεσμένα διαγράμματα για παρουσιάσεις και emails.
+
+* Τεχνικές εικονογραφήσεις για εγχειρίδια και οδηγούς.
+
+* Υλικό μάρκετινγκ με κλιμακούμενα γραφικά.
+
+* Αρχειοθέτηση πλούσιων σε διανύσματα εγγράφων σε συμπαγή μορφή.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή XPS σε WMZ για διανομή εγγράφων.
+
+* Ενσωμάτωση με συστήματα διαχείρισης περιεχομένου.
+
+* Προγραμματισμένη δημιουργία συμπιεσμένων διανυσματικών αρχείων.
+
+* Ομαλή επεξεργασία για παρουσιάσεις ή περιεχόμενο μάρκετινγκ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

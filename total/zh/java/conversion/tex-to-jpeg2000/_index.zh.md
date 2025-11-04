@@ -57,7 +57,51 @@ otherformats: DXF SVGZ IMAGE EMZ JPEG2000 WMF PSD  TGA WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**JPEG2000**可生成高质量、压缩的LaTeX图像，适用于存档、专业出版和Web应用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为研究论文存档高分辨率的LaTeX图表。
+
+* 在线发布科学图表，质量损失最小。
+
+* 在不同平台分享压缩的学术图表。
+
+* 用于教材的高质量LaTeX图像。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于研究知识库的自动批量转换。
+
+* 集成到学术出版流程中。
+
+* 触发JPEG2000生成，用于Web或印刷发布。
+
+* 持续将LaTeX图表以压缩格式进行存档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

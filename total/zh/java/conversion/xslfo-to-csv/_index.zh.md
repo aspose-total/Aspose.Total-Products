@@ -49,7 +49,55 @@ otherformats: XLT XLAM SXC XLSB EXCEL MD TSV DIF TXT XLTX XLTM FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO（可扩展样式表语言格式化对象）文件转换为 **CSV（逗号分隔值）**，可轻松提取表格数据，用于快速报告、数据分析和业务智能工作流。CSV 仍然是与大多数分析和数据库工具兼容的轻量级格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从基于 XML 的 XSLFO 布局中导出财务报告到 CSV 以供审计目的。
+
+* 在基于云的商业智能工具中简化销售和库存跟踪。
+
+* 为机器学习预处理准备 XSLFO 生成的数据。
+
+* 生成用于自动电子邮件报告的 CSV 摘要。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XSLFO 发票定期转换为 CSV 以供会计系统使用。
+
+* 集成到 ETL 流水线中，以简化传统 XSLFO 数据迁移。
+
+* 实时将基于 XSLFO 的运营数据提取到分析仪表板中。
+
+* 用于多部门报告的自动批量转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

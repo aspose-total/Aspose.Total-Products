@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **DXF (Drawing Exchange Format)** zachovává vektorově založené tabulkové rozložení pro použití v CAD a technických návrhových aplikacích. Soubory DXF udržují přesné rozměry a struktury rozložení.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění inženýrských zpráv generovaných XSLFO do formátů přátelských k CAD.
+
+* Archivace strukturovaných tabulek jako vektorových kreseb pro technickou dokumentaci.
+
+* Integrace provozních rozložení do návrhového softwaru.
+
+* Generování technických diagramů z XSLFO zpráv.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XSLFO na DXF pro pracovní postupy inženýrské dokumentace.
+
+* Plánovaný export strukturovaných tabulek zpráv jako DXF pro kontrolu návrhu.
+
+* Integrace s automatizovanými CAD založenými potrubími pro zprávy.
+
+* Spouštěný převod dat XSLFO na DXF kresby pro technické týmy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **PPSM (عرض بوربوينت مع تمكين الماكرو)** يجمع بين الشرائح التي تعمل تلقائيًا مع التشغيل التلقائي للماكرو. PPSM مثالي للوحات التحكم التفاعلية، والعروض التقديمية الآلية، أو التقارير الديناميكية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إعداد لوحات الأداء الآلي في شكل عرض شرائح.
+
+* تضمين الماكروهات لمحتوى XSLFO التفاعلي.
+
+* مشاركة العروض التقديمية ذات التمكين للماكرو لتقارير الفريق.
+
+* إنشاء عروض تقديمية ديناميكية للمستثمرين أو مجالس الإدارة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من شرائح XSLFO إلى PPSM للاجتماعات الآلية.
+
+* تحديث مجدول للشرائح ذات التمكين للماكرو من التقارير المتكررة XSLFO.
+
+* التكامل مع VBA أو سير العمل الآلي في برنامج PowerPoint.
+
+* توليد PPSM مُحفز لعروض تقديمية تفاعلية في الوقت الحقيقي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

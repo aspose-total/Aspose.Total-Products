@@ -54,7 +54,51 @@ otherformats: PPTX POWERPOINT POT POTM PPSX PPS PPSM PPT POTX PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TXT文件转换为**PPS（PowerPoint Show）**格式，生成直接以幻灯片模式打开的演示文稿，非常适合向客户或观众分发最终演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 无需编辑风险即可分发给客户的销售演示文稿。
+
+* 用于电子学习平台的预先录制的讲座幻灯片。
+
+* 从文本议程生成的活动和会议幻灯片展示。
+
+* 直接以PPS文件形式交付的营销活动演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于网络研讨会内容交付的自动化TXT到PPS转换。
+
+* 用于客户演示文库的定时批量导出。
+
+* 集成到内容门户以供按需幻灯片展示。
+
+* 用于内部简报会议的触发生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

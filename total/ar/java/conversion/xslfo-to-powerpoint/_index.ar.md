@@ -135,7 +135,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **POWERPOINT (PPTX)** يوفر شرائح مُنسَّقة بالكامل وقابلة للتحرير تصلح لبرنامج Microsoft PowerPoint. يضمن تنسيق PPTX التوافق مع ميزات التصميم المتقدمة والرسوم البيانية والوسائط المتعددة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل تقارير XSLFO السنوية إلى شرائح PowerPoint جذابة بصريًا.
+
+* إعداد لوحات القيادة الإدارية وعروض KPI.
+
+* إنشاء محتوى تعليمي أو تدريبي من جداول XSLFO المهيكلة.
+
+* مشاركة الشرائح التي تم إنشاؤها من XSLFO مع أصحاب المصلحة في الشركة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعات مجدولة من XSLFO إلى PPTX لتقارير متكررة.
+
+* الاندماج مع إنشاء شرائح آلي ولوحات قياس الأداء بشكل آلي.
+
+* تحويل بيانات XSLFO بشكل مُحفّز إلى عروض PowerPoint تفاعلية.
+
+* إنشاء PPTX في الوقت الحقيقي لعروض اجتماعات مجلس الإدارة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

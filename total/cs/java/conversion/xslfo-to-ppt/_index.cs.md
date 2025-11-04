@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **PPT (Legacy formát PowerPointu)** zajišťuje kompatibilitu s staršími verzemi Microsoft Office a zároveň zachovává tabulkový obsah a rozložení snímků. PPT je vhodný pro organizace, které stále používají zastaralé nástroje.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava snímků generovaných pomocí XSLFO pro zastaralé firemní systémy.
+
+* Sdílení vzdělávacího nebo školicího obsahu ve formátu PPT.
+
+* Archivace samostatných snímků pro účely auditu.
+
+* Převod zpráv XSLFO do snadno distribuovatelných zastaralých souborů PowerPoint.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový automatizovaný převod z XSLFO na snímky PPT.
+
+* Plánovaný export pro opakující se manažerské nebo školicí zprávy.
+
+* Integrace s pracovními toky založenými na zastaralém Office.
+
+* Spuštění vytváření PPT z XSLFO šablon pro archivační účely.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **XAMLFLOW (مستند تدفقي في XAML)** يحول محتوى XPS الثابت إلى تخطيطات قابلة للتحرير والتدفق مناسبة للعرض الديناميكي في مستندات التدفق WPF، مثالية للقارئ الإلكتروني، التقارير، أو المحتوى التفاعلي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء كتب إلكترونية تفاعلية ووثائق من مصادر XPS.
+
+* تقارير شركات قائمة على التدفق ودليل لتطبيقات سطح المكتب.
+
+* عرض نصوص ووسائط ديناميكية في تطبيقات التعليم أو التدريب.
+
+* دلائل الموظفين أو دلائل السياسات المقدمة كمستندات تدفقية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل آلي لأرشيفات XPS إلى XAMLFLOW لمنصات التعلم الإلكتروني.
+
+* إنشاء مستندات تدفقية مجدولة للتقارير الدورية أو الدلائل.
+
+* التكامل مع أدوات البرمجيات التي تعرض مستندات تدفقية بشكل ديناميكي.
+
+* خط أنابيب مبسط لتحويل تخطيطات XPS الثابتة إلى مستندات تدفقية متجاوبة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,51 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов XSLFO в **POT (шаблон PowerPoint)** позволяет создавать стандартизированные, многократно используемые слайды для пользователей Microsoft PowerPoint. Шаблоны POT сохраняют макеты слайдов, стили и форматирование таблиц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание корпоративных шаблонов отчетности на основе финансовых сводок XSLFO.
+
+* Подготовка ежемесячных слайдов для отслеживания проектов для последовательной презентации.
+
+* Разработка учебных модулей на основе структурированных данных XSLFO.
+
+* Создание многократно используемых инвестиционных презентаций с заранее определенными макетами слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная автоматизированная генерация файлов POT из отчетов XSLFO.
+
+* Запланированное создание шаблонов для регулярных презентаций команды.
+
+* Интеграция с корпоративными потоками автоматизации слайдов.
+
+* Вызванное преобразование данных XSLFO в готовые к использованию шаблоны POT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

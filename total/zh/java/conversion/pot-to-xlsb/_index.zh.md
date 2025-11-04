@@ -61,7 +61,45 @@ otherformats: ODS XLSB DIF XLTX FODS XLSM XLS MARKDOWN XLTM XLT TSV EXCEL MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为XLSB（Excel二进制工作簿）可创建优化的、紧凑的电子表格，适用于从PowerPoint中提取的大型数据集。XLSB可提高财务、学术或业务数据工作流程的速度和效率。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将PowerPoint表格导出为高性能二进制电子表格。
+
+* 高效存储来自演示文稿的大型企业数据表。
+
+* 使用二进制工作簿进行分析建模。
+
+* 在紧凑的Excel文件中管理培训绩效数据。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 高速批量转换演示文稿数据。
+
+* 为数据密集型财务报告生成XLSB。
+
+* 与自动化报告仪表板集成。
+
+* 企业存档演示文稿分析数据。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

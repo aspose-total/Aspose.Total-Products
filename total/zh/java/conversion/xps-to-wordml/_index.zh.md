@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **WordML（Word Processing ML）** 可让技术用户直接处理 Word 的基于 XML 的文档结构。这使得自动化编辑、内容提取和集成到高级文档工作流成为可能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 开发人员通过编程动态生成 Word 文档。
+
+* 自动提取和操作文本和元数据。
+
+* 集成到企业内容管理系统。
+
+* 需要基于 XML 进行操作的技术发布流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于批量文档处理的自动化 XPS 到 WordML 流程。
+
+* 与生成自定义 Word 报告的 AI 系统集成。
+
+* 在基于 XML 的 Word 文档中触发内容更新。
+
+* 用于技术和法律文档的简化 XML 编辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

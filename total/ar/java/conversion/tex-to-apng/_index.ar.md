@@ -57,7 +57,55 @@ otherformats: JPEG2000  PSD TGA DXF EMZ SVGZ WMZ IMAGE WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات TEX إلى **APNG (PNG متحرك)** يسمح بتحويل الرسوم التخطيطية والمعادلات والرسوم البيانية في LaTeX إلى رسوم متحركة لعروض الويب والمحتوى التعليمي والتصورات التفاعلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* رسوم توضيحية رياضية متحركة للمحاضرات عبر الإنترنت.
+
+* رسوم بيانية تفاعلية في تطبيقات الويب التعليمية.
+
+* رسوم بيانية ديناميكية لمنصات التعلم الإلكتروني.
+
+* تصور اتجاهات البيانات المولدة بواسطة LaTeX مع مرور الوقت.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* تحويل دفعي من TEX إلى APNG لمواد الدورات.
+
+* دمجه في خطوط إنتاج النشر الآلي على الويب.
+
+* تقديم الرسوم لأدوات التعليم المدعومة بالذكاء الاصطناعي.
+
+* توليد تلقائي للرسوم المتحركة من رسوم LaTeX للبرامج التعليمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

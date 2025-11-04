@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **SWF (Flash)** umožňuje interaktivní animace pro zastaralé informační panely a webové aplikace. SWF uchovává vektorovou grafiku a umožňuje interakce založené na časové ose.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vložení interaktivních grafů XSLFO do zastaralých webových portálů.
+
+* Příprava animovaných informačních panelů pro historické firemní intranety.
+
+* Převod výukových modulů do formátu SWF pro offline použití.
+
+* Archivace interaktivních vizualizací XSLFO pro účely dodržování předpisů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XSLFO na SWF pro zastaralé systémy.
+
+* Hromadné vytváření animovaných informačních panelů.
+
+* Spouštěná generace pro webové zastaralé aplikace.
+
+* Integrace s automatizovanými interaktivními reportovacími toky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

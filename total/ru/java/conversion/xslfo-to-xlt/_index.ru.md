@@ -47,7 +47,51 @@ otherformats: XLAM FODS EXCEL XLSM XLTM MD TSV XLTX DIF ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **XLT (Шаблон Excel)** позволяет создавать многоразовые шаблоны электронных таблиц с предопределенным форматированием и стилями. XLT идеально подходит для стандартизации повторяющихся отчетов из источников XSLFO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка стандартизированных шаблонов счетов на основе XSLFO.
+
+* Создание шаблонов отчетности по проектам для повторного использования.
+
+* Архивирование ежемесячных панелей управления в виде многоразовых шаблонов Excel.
+
+* Распространение корпоративных шаблонов отчетности по KPI, сгенерированных из XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов XLT из отчетов XSLFO.
+
+* Интеграция с повторяющимися процессами отчетности.
+
+* Запланированное преобразование для стандартизированных отделочных шаблонов.
+
+* Запуск генерации шаблонов Excel для последовательной отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

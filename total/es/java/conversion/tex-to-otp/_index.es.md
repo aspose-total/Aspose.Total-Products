@@ -135,7 +135,55 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX a **OTP (Plantilla de Presentación de OpenDocument)** produce plantillas de presentación reutilizables con formato LaTeX para un diseño consistente de diapositivas de conferencias o negocios.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* Plantillas de conferencias estandarizadas con ecuaciones con estilo LaTeX.
+
+* Plantillas de diapositivas para conferencias de equipos de investigación.
+
+* Materiales educativos reutilizables con contenido rico en fórmulas.
+
+* Plantillas de propuestas de proyectos para presentaciones técnicas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* Generación por lotes de plantillas de LaTeX a OTP para cursos.
+
+* Actualizaciones de plantillas desencadenadas desde repositorios de LaTeX.
+
+* Distribución automatizada de plantillas de diapositivas a colaboradores.
+
+* Integración con flujos de trabajo de presentaciones de LMS de código abierto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **DICOM (Digital Imaging and Communications in Medicine)** umožňuje integraci strukturovaného obsahu zpráv s pracovními postupy v oblasti lékařského zobrazování. DICOM je standardem v radiologii, klinických studiích a informačních systémech nemocnic.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vložení strukturovaných zpráv o pacientech vedle vizualizací generovaných pomocí XSLFO.
+
+* Příprava diagnostických nástěnek pro klinické přezkoumání dat.
+
+* Převod tabulek s lékařskou analýzou na obrázky kompatibilní s DICOM.
+
+* Integrace laboratorních výsledků generovaných pomocí XSLFO do systémů PACS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod zpráv XSLFO do formátu DICOM pro nemocnice.
+
+* Integrace do automatizovaných potrubí elektronických zdravotních záznamů (EHR).
+
+* Spuštění generování vizuálů DICOM z klinických zpráv XSLFO.
+
+* Hromadné zpracování pro vizualizaci výzkumných dat ve zdravotnictví.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ otherformats: PSD  WMZ JPEG2000 SVGZ WMF EMZ IMAGE DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **WMZ（压缩的 Windows 图元文件）**，提供了压缩的矢量图像，非常适合电子邮件、演示文稿和网络集成，同时保持可伸缩性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将 XSLFO 生成的可视化内容作为压缩附件发送。
+
+* 在 PowerPoint 和 Word 中嵌入可伸缩图形。
+
+* 存档压缩的矢量报告可视化内容。
+
+* 通过电子邮件或内部门户共享运营仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XSLFO 文件转换为 WMZ，以实现高效存储。
+
+* 定期自动压缩可视化报告。
+
+* 触发 WMZ 生成以用于定期演示工作流程。
+
+* 集成到自动化幻灯片和文档流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

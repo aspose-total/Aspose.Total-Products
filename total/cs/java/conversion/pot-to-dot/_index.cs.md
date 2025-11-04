@@ -53,7 +53,45 @@ Pomocí API můžete také provést převod POT souboru na DOT s vodoznakem. Chc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na DOT (šablonu Wordu) pomáhá organizacím udržovat konzistenci designu ve všech interních dokumentech. Tento proces umožňuje zarovnání značky a snadné generování jednotných dokumentů odvozených z firemních šablon PowerPointu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření firemních šablon Wordu z designových prezentací.
+
+* Vytváření standardizovaných šablon pro školení pro oddělení HR.
+
+* Převod firemních snímků do opakovaně použitelných šablon politik.
+
+* Navrhování formátů nabídek nebo poznámek z jednání zarovnaných s firemní identitou.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný generátor DOT z hlavních snímků PowerPointu.
+
+* Integrace do systémů správy firemních aktiv.
+
+* Standardizace firemních dokumentů v intranetových systémech.
+
+* Hromadný převod pro repozitáře firemních šablon.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

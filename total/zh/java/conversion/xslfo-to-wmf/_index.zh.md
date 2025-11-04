@@ -57,7 +57,51 @@ otherformats: SVGZ JPEG2000 EMZ  PSD WMZ DXF TGA IMAGE WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**WMF（Windows Metafile）**可生成与Microsoft Office和其他桌面出版应用兼容的可缩放矢量图像。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在Microsoft Word或PowerPoint中嵌入XSLFO表格和图表。
+
+* 为公司演示创建可缩放的视觉效果。
+
+* 以矢量格式存档报告视觉效果。
+
+* 从结构化的XSLFO数据准备技术插图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于文档工作流程的批量XSLFO转WMF转换。
+
+* 为幻灯片演示定期导出矢量视觉效果。
+
+* 从XSLFO仪表板触发生成WMF图像。
+
+* 与自动化企业出版流程集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: FODS XLSB MD XLTX ODS XLTM EXCEL TXT XLT XLAM DIF XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **XLTM (Excel Macro-Enabled Template)** يجمع بين القوالب القابلة لإعادة الاستخدام مع الماكرو، مما يمكن من تنفيذ سير العمل الآلي لبيانات LaTeX وتقارير ديناميكية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب أكاديمية مع ماكرو مضمنة لتقييم آلي.
+
+* قوالب مالية وهندسية مدعومة بمجموعات بيانات LaTeX.
+
+* لوحات تحكم ديناميكية بحسابات تعتمد على الماكرو.
+
+* قوالب مشروع تعاونية لفرق متعددة المؤلفين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* إنشاء قوالب Batch LaTeX-to-XLTM للشركات.
+
+* تعبئة الماكرو تلقائيًا من مصادر بيانات LaTeX.
+
+* دمجها في أتمتة سير العمل لمشاريع البحث.
+
+* إنشاء قالب ماكرو ممكّن بالتشغيل للوصول المتعدد للمستخدمين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

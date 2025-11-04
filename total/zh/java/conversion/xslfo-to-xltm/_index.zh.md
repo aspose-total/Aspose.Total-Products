@@ -49,7 +49,55 @@ otherformats: TSV FODS SXC XLT XLTM EXCEL ODS MD DIF XLTX XLAM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**XLTM（启用宏的Excel模板）**，支持具有嵌入式自动化的可重用工作簿。 XLTM模板简化重复报告和高级工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 使用嵌入式宏标准化XSLFO报告以实现自动化。
+
+* 在部门间分发交互式报告模板。
+
+* 从XSLFO准备可重用的财务建模模板。
+
+* 从表格化的XSLFO数据创建自动化仪表板模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量生成用于企业报告的XLTM模板。
+
+* 与自动化的VBA工作流程集成。
+
+* 定期项目报告的XSLFO转换为XLTM。
+
+* 触发的XLTM模板创建，用于基于宏的分析仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: DIF ODS XLTX XLTM XLSB TSV XLT TXT FODS MD EXCEL XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **EXCEL (XLS/XLSX)** يسمح بدمج مستندات LaTeX التي تحتوي على جداول وصيغ بشكل كامل في Microsoft Excel للتحليل والتصور والتقارير المهنية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تقارير مالية تحتوي على صيغ تم إنشاؤها بواسطة LaTeX.
+
+* حسابات هندسية لتحليل جداول بيانات معقدة.
+
+* أوراق تقييم أكاديمية ومجموعات بيانات بحثية.
+
+* لوحات تفاعلية تجمع بين جداول LaTeX ورسوم بيانية Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* تحويل دفعي من LaTeX إلى Excel لتقارير المؤسسات.
+
+* دمج مع أدوات الذكاء التجاري القائمة على Excel التلقائية.
+
+* تحديثات مُشغّلة لجداول تقدم المشروع.
+
+* تحويل فوري للتعاون على Excel القائم على السحاب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**OTP（OpenDocument Presentation Template）**可从结构化的XSLFO数据创建可重用的幻灯片模板。 OTP模板标准化团队间的演示文稿格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从XSLFO生成的报告中准备企业演示文稿模板。
+
+* 以可重用的OTP格式标准化培训模块。
+
+* 利用XSLFO内容创建具有一致样式的投资者路演文稿。
+
+* 季度报告模板归档以供将来重复使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时批量将XSLFO转换为OTP以用于模板库。
+
+* 与自动化幻灯片生成流水线集成。
+
+* 为新的XSLFO报告系列触发OTP模板创建。
+
+* 自动部署基于XSLFO的模板到各部门。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

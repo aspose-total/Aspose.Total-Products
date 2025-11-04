@@ -57,7 +57,55 @@ otherformats: WMZ PSD TGA JPEG2000 WMF IMAGE SVGZ EMZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **DXF (Drawing Exchange Format)** يحتفظ بتخطيطات الجداول القائمة على النواقل للاستخدام في تطبيقات CAD والتصميم الفني. تحتفظ ملفات DXF بالأبعاد الدقيقة وهياكل التخطيط.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل تقارير الهندسة التي تم إنشاؤها بواسطة XSLFO إلى تنسيقات صديقة لبرامج CAD.
+
+* أرشفة الجداول المهيكلة كرسومات ناقلة للوثائق الفنية.
+
+* دمج تخطيطات التشغيل في برامج التصميم.
+
+* إنشاء الرسوم التقنية من تقارير XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من XSLFO إلى DXF لسير العمل الخاصة بالوثائق الهندسية.
+
+* تصدير مجدول لجداول التقارير المهيكلة كملفات DXF لمراجعة التصميم.
+
+* التكامل مع خطوط أنابيب التقارير القائمة على CAD التلقائية.
+
+* تحويل البيانات من XSLFO إلى رسومات DXF للفرق الفنية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

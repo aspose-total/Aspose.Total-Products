@@ -135,7 +135,51 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات TEX إلى **ODP (OpenDocument Presentation)** يمكن أن يسمح بتحويل محتوى LaTeX والصيغ والجداول إلى شرائح عرض مفتوحة المصدر متوافقة مع LibreOffice وOpenOffice. مثالي للأكاديميين والمهندسين الذين يشاركون في الأبحاث المعتمدة على LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* محاضرات أكاديمية تحتوي على معادلات تم إنشاؤها باستخدام LaTeX.
+
+* عروض مشاريع مفتوحة المصدر تحتوي على بيانات منظمة.
+
+* شرائح مؤتمرات لمواضيع الرياضيات والفيزياء أو الهندسة.
+
+* مواد تعليمية تحتوي على رسومات تفاعلية معتمدة على LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من TEX إلى ODP لمواد تدريبية أو تعليمية.
+
+* إنشاء شرائح مجدولة من مستودعات الأبحاث التي تستخدم LaTeX.
+
+* دمجها في خطوط إنتاج العروض المفتوحة المصدر.
+
+* تحديثات مُشغّلة لشرائح العروض الأكاديمية التي تم إعدادها بواسطة عدة مؤلفين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

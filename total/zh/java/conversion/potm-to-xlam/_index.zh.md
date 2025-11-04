@@ -61,7 +61,55 @@ otherformats: XLSX DIF MARKDOWN XLTX XLAM EXCEL MHTML XLSM ODS TSV FODS XLT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM转XLAM转换可将PowerPoint模板转换为支持宏的Excel加载项。这样可以嵌入可重复使用的功能、自定义公式或从演示内容衍生的交互工具。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从交互式幻灯片计算开发Excel加载项。
+
+* 将最初在PowerPoint中设计的财务仪表板自动化。
+
+* 将KPI或记分卡模板转换为支持宏的工具。
+
+* 从演示逻辑创建可重复使用的Excel自动化脚本。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 企业工作流从POTM模板生成XLAM文件。
+
+* 与用于业务分析的Excel自动化管道集成。
+
+* 从公司演示批量创建支持宏的工具。
+
+* 触发XLAM加载项生成以获得标准化分析模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

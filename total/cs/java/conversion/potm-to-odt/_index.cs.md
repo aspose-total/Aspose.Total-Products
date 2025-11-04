@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod POTM souboru na ODT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Přeměna POTM na ODT umožňuje uživatelům otevírat obsah šablony PowerPointu v LibreOffice nebo OpenOffice Writer. Poskytuje způsob, jak upravovat textový obsah prezentace v otevřených standardních dokumentech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Sdílení obsahu PowerPointu s týmy pomocí open-source nástrojů.
+
+* Vytváření dokumentace pro akademické instituce nebo neziskové organizace pomocí bezplatných kancelářských balíků.
+
+* Přetváření prezentací do manuálů ve formátu ODT.
+
+* Vytváření upravitelného školení pro ekosystémy otevřených dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Podnikové systémy převádějící prezentace vytvořené v Microsoftu pro kompatibilitu s ODT.
+
+* Automatizované generování reportů pro distribuci dokumentů napříč platformami.
+
+* Dávkové transformační procesy pro ukládání dokumentů kompatibilních s ODF.
+
+* Generování ODT v linuxových podnikových systémech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

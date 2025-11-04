@@ -61,7 +61,51 @@ otherformats: EXCEL SXC FODS XLSM XLS MHTML MARKDOWN XLTM XLAM ODS XLSB XLSX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يحول POTM إلى XLS العروض التقديمية إلى جداول بيانات كلاسيكية لبرنامج Microsoft Excel متوافقة مع الإصدارات القديمة من Excel. يحافظ على الجداول والرسوم البيانية والتنسيق الأساسي للتوافق الخلفي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الميزانيات القائمة على الشرائح إلى XLS للفرق القديمة.
+
+* تصدير البيانات التقديمية التاريخية إلى تنسيقات Excel 97-2003.
+
+* تحويل التقارير المالية لبرامج المحاسبة القديمة.
+
+* مشاركة الجداول القابلة للتحرير بدون تبعيات Excel الحديثة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* معالجة دفعية لقوالب POTM إلى جداول بيانات XLS.
+
+* التكامل مع أنظمة ERP القديمة وأنظمة التقارير.
+
+* أنابيب عملية تحويل الشرائح إلى جداول بيانات محافظة على التنسيق.
+
+* توليد XLS مُشغّل للأرشفة والتوزيع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

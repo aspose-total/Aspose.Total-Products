@@ -61,7 +61,51 @@ otherformats: EXCEL SXC FODS XLSM XLS MHTML MARKDOWN XLTM XLAM ODS XLSB XLSX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM в XLS преобразует презентации в классические электронные таблицы Microsoft Excel, совместимые с более старыми версиями Excel. Он сохраняет таблицы, диаграммы и базовое форматирование для обратной совместимости.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование бюджетов на основе слайдов в XLS для устаревших команд.
+
+* Экспорт исторических данных презентаций в форматы Excel 97-2003.
+
+* Преобразование финансовых отчетов для старого бухгалтерского программного обеспечения.
+
+* Обмен редактируемыми таблицами без зависимостей от современных версий Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная обработка шаблонов POTM в электронные таблицы XLS.
+
+* Интеграция с устаревшими ERP-системами и системами отчетности.
+
+* Автоматизированные конвейеры слайдов в электронные таблицы с сохранением форматирования.
+
+* Генерация XLS по триггеру для архивирования и распространения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

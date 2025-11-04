@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek SVGZ podle svých potřeb
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **SVGZ (komprimovaný SVG)** poskytuje škálovatelnou vektorovou grafiku ve formě komprimované, ideální pro webové stránky, dashboardy a responzivní aplikace. SVGZ snižuje velikost souboru a zachovává kvalitu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření interaktivních grafů z XSLFO reportů pro webové dashboardy.
+
+* Vkládání škálovatelných vizuálů do responzivních aplikací.
+
+* Archivace vektorových finančních tabulek ve formátu komprimovaného souboru.
+
+* Příprava diagramů pro e-learning nebo znalostní báze.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XSLFO na SVGZ pro webové reportování.
+
+* Plánovaný export komprimované vektorové grafiky.
+
+* Integrace s automatizovanými online pracovními postupy dashboardu.
+
+* Spouštěná tvorba obrázků SVGZ z analýz XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

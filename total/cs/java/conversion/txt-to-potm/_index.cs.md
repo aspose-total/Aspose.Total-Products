@@ -54,7 +54,45 @@ API také umožňuje převádět dokumenty TXT chráněné heslem na POTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TXT na **POTM (Šablona PowerPointu s makry)** zajišťuje pokročilé prezentace s automatizovanými skripty a makry, které lze vytvářet z prostého textu. Ideální pro podniky potřebující opakovatelnou automatizaci ve snímcích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Finanční přehledy s vestavěnými makry generované z CSV souhrnů.
+
+* Tréninkové simulace s použitím automatizovaných ovládacích prvků pro navigaci.
+
+* Prezentace pracovních postupů, kde makra spouštějí dynamické grafy.
+
+* Automatizované firemní prezentace z textových záznamů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné vytváření šablon s makry pro opakující se čtvrtletní zprávy.
+
+* Integrace s VBA skripty pro automatizované prezentace řízené daty.
+
+* Automatické aktualizace snímků pro sledování projektů.
+
+* Spouštění makra pro vizualizaci textových KPI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,45 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为XLTX（Excel模板开放XML）提供了现代的、基于XML的电子表格模板，使PowerPoint的视觉效果与企业级Excel模板保持一致。这确保了文档的一致性和可扩展性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从PowerPoint报告创建品牌化的Excel模板。
+
+* 为部门生成标准化的数据输入表单。
+
+* 将演示文稿布局重新用于可重复使用的电子表格模板。
+
+* 支持跨团队在报告格式上保持一致性。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在企业内容系统内自动创建XLTX。
+
+* 与基于SharePoint的模板库集成。
+
+* 批量转换以生产符合品牌标准的Excel模板。
+
+* 在Excel模板管理中实现工作流自动化。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XPS（XML Paper Specification）文件转换为**DOCM（启用宏的Word文档）**，可确保动态报告和业务表单保留所有交互式宏以用于工作流自动化。这种格式特别适用于办公环境，其中重复任务和嵌入式脚本增强了生产力。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 需要自动化宏进行计算的财务和审计报告。
+
+* 带有嵌入式批准工作流程的公司模板。
+
+* 具有签名自动化的法律文件包。
+
+* 使用宏进行任务跟踪的项目管理仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将XPS报告批量转换为企业团队的启用宏的Word文件。
+
+* 与触发文件打开时的宏的文档管理系统集成。
+
+* 使用嵌入式公式自动生成发票和对账单。
+
+* 具有动态字段的简化人力资源入职表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

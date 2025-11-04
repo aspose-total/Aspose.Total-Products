@@ -47,7 +47,55 @@ otherformats: XLTX ODS SXC XLTM MD FODS TXT XLSB EXCEL XLSM TSV XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **XLSB (Excel Binary Workbook)** يضمن أداء أسرع لمجموعات بيانات LaTeX الكبيرة، مع الحفاظ على الصيغ والتنسيقات مع تحسين حجم الملف.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مجموعات بيانات مالية أو هندسية بمقياس كبير من LaTeX.
+
+* جداول بيانات محسنة للأداء لمشاريع تحتاج إلى بيانات كثيفة.
+
+* تقارير LaTeX متعددة الأوراق مع حسابات مضمنة.
+
+* بيانات البحوث الأكاديمية التي تتطلب تخزينًا ثنائيًا مدمجًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من جداول LaTeX إلى XLSB للحصول على سرعة.
+
+* دمجها في أنابيب عمليات BI المؤسسية.
+
+* إنشاء تقارير LaTeX إلى Excel ثنائي تلقائيًا.
+
+* إنشاء XLSB بناءً على إشارة للتعاون بين الإدارات المتعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

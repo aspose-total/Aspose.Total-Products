@@ -121,7 +121,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **POTM（启用宏的 PowerPoint 模板）**，将可重复使用的模板与自动化相结合，实现可以执行嵌入式宏的交互式幻灯片，用于高级演示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 具有自动化图表更新的公司模板。
+
+* 嵌入式宏的互动培训演示。
+
+* 需要在幻灯片中动态更新数据的财务仪表板。
+
+* 在基于 PowerPoint 的报告中进行工作流自动化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 文件批量转换为启用宏的模板。
+
+* 与 Excel 或数据库源集成，动态提供幻灯片内容。
+
+* 定期生成启用宏的演示模板。
+
+* 为公司会议简化创建交互式仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

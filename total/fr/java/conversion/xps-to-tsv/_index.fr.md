@@ -47,7 +47,51 @@ Lors de la conversion du fichier XPS en TSV, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir XPS en **TSV (valeurs séparées par des tabulations)** fournit un format simple et léger pour le partage de données, particulièrement utile dans les scénarios de programmation, d'analyse et d'import/export de bases de données.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Jeux de données scientifiques pour l'analyse computationnelle.
+
+* Importation facile dans R, Python ou des logiciels statistiques.
+
+* Échange rapide de données entre équipes sans dépendance à Excel.
+
+* Outils de reporting basés sur le web nécessitant des données de type fichier plat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Pipelines automatisées XPS-vers-TSV pour les laboratoires de recherche.
+
+* Intégration avec des scripts d'analyse pour le traitement par lots.
+
+* Conversion planifiée pour des rapports XPS récurrents.
+
+* Ingestion simplifiée dans des workflows de base de données ou d'ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

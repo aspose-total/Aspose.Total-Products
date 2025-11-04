@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в J
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **JPEG2000** обеспечивает высококачественные сжатые визуальные материалы LaTeX, подходящие для архивирования, профессиональной публикации и веб-приложений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Архивирование высокоразрешительных графиков LaTeX для научных статей.
+
+* Научные диаграммы для онлайн-публикаций с минимальной потерей качества.
+
+* Обмен сжатыми академическими изображениями между платформами.
+
+* Высококачественные визуальные материалы LaTeX для учебных материалов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование для научных репозиториев.
+
+* Интеграция в академические издательские процессы.
+
+* Генерация JPEG2000 по запросу для веба или печати.
+
+* Постоянное архивирование графиков LaTeX в сжатых форматах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

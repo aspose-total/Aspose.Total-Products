@@ -135,7 +135,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **PPSM (Présentation PowerPoint avec macros activées)** permet au contenu LaTeX d'inclure des macros pour des calculs automatisés, des diagrammes interactifs et des présentations dynamiques.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Cours académiques pilotés par des macros avec des tables dynamiques.
+
+* Présentations de recherche avec des graphiques mis à jour automatiquement.
+
+* Supports de formation d'entreprise avec des éléments interactifs.
+
+* Diapositives de conférence multi-auteurs avec des formules LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversions en masse de TEX en PPSM pour des présentations interactives.
+
+* Intégration automatisée du contenu LaTeX dans des supports de diapositives avec macros activées.
+
+* Mises à jour planifiées pour des supports de formation dynamiques.
+
+* Création déclenchée pour des pipelines de présentation de recherche ou d'entreprise.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

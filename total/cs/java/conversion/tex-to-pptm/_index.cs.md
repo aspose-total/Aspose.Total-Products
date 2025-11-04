@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEXu na **PPTM (prezentace s povolenými makry pro PowerPoint)** umožňuje plně interaktivní snímky z LaTeXu, včetně maker pro automatizované výpočty, dynamické grafy a interaktivní výukové materiály.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Interaktivní akademické přednášky s LaTeXovými rovnicemi.
+
+* Firemní řídící panely a šablony pro prezentace výzkumů.
+
+* Automatizované seminární snímky s aktualizacemi dat v reálném čase.
+
+* Prezentace workshopů s makry pro interaktivitu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod TEXu na PPTM pro interaktivní prezentace.
+
+* Integrace do podnikových nebo univerzitních automatizačních systémů.
+
+* Spouštění generování prezentací s makry.
+
+* Plánované aktualizace z LaTeXových repozitářů pro projekty s více autory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

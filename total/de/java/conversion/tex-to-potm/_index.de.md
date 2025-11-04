@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX in **POTM (PowerPoint Macro-Enabled Template)** fügt wiederverwendbare Vorlagen mit Makrofunktionen hinzu, die LaTeX-Inhalte mit automatisierter Folienfunktionalität verbinden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Interaktive Bildungsfolien mit LaTeX-Formeln.
+
+* Forschungspräsentationen mit automatisch aktualisierten Tabellen.
+
+* Makrofähige Vorlagen für wissenschaftliche Berichte.
+
+* Vorlagen für Vortragsfolien mit mehreren Autoren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelweise Erstellung von makrofähigen Vorlagen aus LaTeX-Inhalten.
+
+* Auslösen von Vorlagenaktualisierungen für akademische oder Unternehmenspräsentationen.
+
+* Integration in PowerPoint-Automatisierungsworkflows.
+
+* Geplante Erstellung von LaTeX-zu-POTM-Folienvorlagen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

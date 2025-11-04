@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **GIF (صيغة تبادل الرسومات)** يسمح بمشاركة الرسوم التوضيحية والرسوم المتحركة الصغيرة من LaTeX عبر الإنترنت أو تضمينها في البرامج التعليمية ومواد التدريب.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* رسوم متحركة بسيطة بواسطة LaTeX للمحتوى التعليمي.
+
+* مشاركة رسوم توضيحية لحل المشاكل خطوة بخطوة.
+
+* تضمين صيغ متحركة في منصات التعلم الإلكتروني.
+
+* تصور حسابات LaTeX التكرارية بتنسيق GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي تلقائي لـ TEX إلى GIF للدروس التعليمية.
+
+* التكامل مع أنظمة إدارة التعلم ومحتوى الدورات عبر الإنترنت.
+
+* توليد مشاركات GIF من رسوم بيانية LaTeX أو سلاسل بشكل مشغل.
+
+* تحديث تلقائي للرسوم المتحركة التعليمية بناءً على تحديثات LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

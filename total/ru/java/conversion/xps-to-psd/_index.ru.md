@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XPS в P
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **PSD (Photoshop Document)** позволяет дизайнерам работать с многослойными и редактируемыми изображениями, извлеченными из файлов XPS, подходящими для творческих и маркетинговых рабочих процессов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Редактируемые маркетинговые материалы, полученные из файлов XPS.
+
+* Многослойные иллюстрации для презентаций и кампаний.
+
+* Улучшения технических диаграмм для публикаций.
+
+* Обработка фотографий и дизайнерские проекты на основе визуальных элементов документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XPS в PSD для творческих команд.
+
+* Интеграция с рабочими процессами дизайна для автоматического обновления визуальных элементов.
+
+* Генерация PSD по расписанию из повторяющихся отчетов XPS.
+
+* Оптимизированный процесс редактирования для маркетингового или образовательного контента.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ otherformats: JPEG2000  PSD TGA DXF EMZ SVGZ WMZ IMAGE WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX文件转换为**APNG（动态PNG）**，可以将LaTeX图表、方程式和绘图转换为适用于网络演示、教育内容和交互式可视化的动画图形。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在线讲座中的动画数学示例。
+
+* 教育网站应用中的交互式LaTeX图形。
+
+* 电子学习平台上的动态图表。
+
+* 可视化随时间变化的LaTeX生成数据趋势。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于课程材料的批量TEX到APNG转换。
+
+* 集成到自动化网络发布流程中。
+
+* 用于AI驱动的教育工具的触发式渲染。
+
+* 从LaTeX绘图自动生成动画用于教程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

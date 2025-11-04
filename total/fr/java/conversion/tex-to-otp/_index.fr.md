@@ -135,7 +135,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **OTP (OpenDocument Presentation Template)** produit des modèles de présentation réutilisables avec une mise en forme LaTeX pour une conception cohérente des diapositives de cours ou professionnelles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Modèles de cours standardisés avec des équations stylisées en LaTeX.
+
+* Modèles de diapositives de conférence pour les équipes de recherche.
+
+* Matériaux éducatifs réutilisables avec un contenu riche en formules.
+
+* Modèles de proposition de projet pour des présentations techniques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération en lot de modèles LaTeX vers OTP pour les cours.
+
+* Mises à jour des modèles déclenchées à partir des dépôts LaTeX.
+
+* Distribution automatisée des modèles de diapositives aux collaborateurs.
+
+* Intégration avec les flux de travail de présentation LMS open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

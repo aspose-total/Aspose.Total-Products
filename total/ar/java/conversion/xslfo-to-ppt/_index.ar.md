@@ -135,7 +135,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **PPT (تنسيق بوربوينت القديم)** يضمن التوافق مع إصدارات Microsoft Office القديمة مع الحفاظ على محتوى الجداول وتخطيط الشرائح. PPT مناسب للمؤسسات التي لا تزال تستخدم الأدوات القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحضير الشرائح التي تم إنشاؤها بواسطة XSLFO لأنظمة الشركات القديمة.
+
+* مشاركة المحتوى التعليمي أو التدريبي بتنسيق PPT.
+
+* أرشفة الشرائح المستقلة لأغراض التدقيق.
+
+* تحويل تقارير XSLFO إلى ملفات بوربوينت قديمة يمكن توزيعها بسهولة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة معمول بها تلقائيًا من XSLFO إلى شرائح PPT.
+
+* تصدير مجدول لتقارير الإدارة أو التدريب المتكررة.
+
+* دمجه مع خطوط العمل القائمة على Office القديمة.
+
+* إنشاء بوربوينت مُشغّل من قوالب XSLFO لأغراض الأرشفة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

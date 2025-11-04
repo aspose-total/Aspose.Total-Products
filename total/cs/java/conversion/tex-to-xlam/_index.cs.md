@@ -47,7 +47,51 @@ Při převodu souboru TEX na XLAM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **XLAM (Excel Add-In Macro)** umožňuje, aby se tabulky a vzorce LaTeXu staly interaktivními nástroji Excelu s automatizovanými výpočty a rozšířenou funkcionalitou.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Finanční modelovací šablony poháněné LaTeXem.
+
+* Automatizované výpočetní nástroje pro inženýrské projekty.
+
+* Akademické tabulky vzorců vložené do Excelových maker.
+
+* Dashbordy zpracování dat kombinující LaTeX a automatizaci Excelu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované vytváření přídavných modulů XLAM z datových sad LaTeXu.
+
+* Hromadné konverze LaTeXu na XLAM pro podnikové nástroje.
+
+* Spouštěné se makry povolené tabulky z výzkumných repozitářů.
+
+* Integrace do automatizovaných reportovacích a dashboardových potrubí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

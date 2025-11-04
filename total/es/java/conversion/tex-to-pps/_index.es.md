@@ -135,7 +135,51 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX a **PPS (Presentación de PowerPoint)** crea presentaciones solo de diapositivas para reproducción inmediata, ideal para conferencias automatizadas, sesiones de capacitación y compartir rápidamente contenido de LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Materiales de conferencias académicas listos para usar.
+
+* Presentaciones interactivas para talleres.
+
+* Resúmenes de proyectos de ingeniería para presentaciones a clientes.
+
+* Diapositivas basadas en LaTeX listas para conferencias.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversiones programadas en lotes de TEX a PPS.
+
+* Generación automatizada de materiales de capacitación a partir de contenido de LaTeX.
+
+* Integración con sistemas de despliegue de presentaciones.
+
+* Creación de PPS desencadenada para seminarios o plataformas de aprendizaje en línea.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

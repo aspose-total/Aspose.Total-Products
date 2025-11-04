@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **APNG (анимированный PNG)** позволяет преобразовать диаграммы, уравнения и графики LaTeX в анимированную графику для веб-презентаций, образовательного контента и интерактивной визуализации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Анимированные математические иллюстрации для онлайн лекций.
+
+* Интерактивные графики LaTeX в образовательных веб-приложениях.
+
+* Динамические диаграммы для платформ электронного обучения.
+
+* Визуализация трендов данных, сгенерированных LaTeX, со временем.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в APNG для учебных материалов.
+
+* Интеграция в автоматизированные конвейеры публикации веб-сайтов.
+
+* Запуск рендеринга для образовательных инструментов на основе искусственного интеллекта.
+
+* Автоматическое создание анимаций из графиков LaTeX для обучающих материалов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

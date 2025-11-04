@@ -47,7 +47,51 @@ Während Sie eine TEX-Datei in SXC konvertieren, können Sie Ihrem Ausgabe-SXC-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX in **SXC (StarOffice Calc Spreadsheet)** ermöglicht es älteren OpenOffice- oder StarOffice-Benutzern, mit LaTeX-Tabellendaten zu arbeiten, ohne die Struktur zu verlieren.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Historische LaTeX-Datensätze im StarOffice-kompatiblen Format.
+
+* Akademische Forschung, die eine Kompatibilität mit älteren Office-Versionen erfordert.
+
+* Plattformübergreifender Austausch numerischer LaTeX-Tabellen.
+
+* Projektberichte in SXC für ältere Bürosysteme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Geplante Stapelkonvertierungen von LaTeX-Datensätzen.
+
+* Integration in Legacy-Office-Automatisierungsworkflows.
+
+* Archivierung strukturierter LaTeX-Tabellen für die Kontinuität der Forschung.
+
+* Auslösen der SXC-Generierung für gemeinsame Projekte.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

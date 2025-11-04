@@ -61,7 +61,47 @@ otherformats: XLSM XLAM XLSX XLTX XLTM TSV FODS XLSB SXC ODS XLT DIF XLS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MOBI в XLT (Excel Template) создает многоразовые шаблоны электронных таблиц для анализа и отчетности по электронным книгам. Этот формат стандартизирует визуальное оформление и формулы в различных проектах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+- Создание стандартизированных шаблонов для аналитики MOBI.
+
+- Оптимизация отчетности для издательских отделов.
+
+- Распространение согласованных информационных панелей для авторских команд.
+
+- Создание многоразовых шаблонов для ввода данных метаданных электронных книг.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+- Автоматизация импорта MOBI на основе шаблонов.
+
+- Плановое обновление структур отчетности в XLT.
+
+- Интеграция с библиотеками шаблонов Excel.
+
+- Предопределенные макросы XLT для рабочих процессов издательства.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

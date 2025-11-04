@@ -57,7 +57,51 @@ otherformats: SVGZ EMZ WMF IMAGE JPEG2000 PSD  WMZ DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **PSD (مستند فوتوشوب)** يسمح بتحرير الرسومات التي تم إنشاؤها بواسطة LaTeX بالكامل في Adobe Photoshop لتصميم عالي الجودة ومعالجة ما بعد التصوير.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحرير الرسوم التخطيطية LaTeX للعروض التقديمية والملصقات.
+
+* إعداد رسومات جاهزة للنشر مع تحسينات فوتوشوب.
+
+* تخصيص الرسوم التوضيحية التعليمية أو التدريبية.
+
+* إنشاء أشكال غنية بالرؤية للاستخدام التسويقي أو الأكاديمي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأليف التلقائي" %}}
+
+
+
+* تحويل مجمع TEX إلى PSD لفرق التصميم.
+
+* دمج مع سير العمل التلقائية لتصميم الرسومات.
+
+* إنشاء PSD مُشغّل لإنشاء ملصق أو إنفوجرافيك.
+
+* تصدير رسم تخطيطي LaTeX قابل للتحرير للتحرير في Photoshop بطبقات متعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

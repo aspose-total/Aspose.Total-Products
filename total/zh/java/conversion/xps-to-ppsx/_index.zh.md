@@ -121,7 +121,51 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **PPSX（PowerPoint 演示，无宏）** 会生成只读的、准备好展示的幻灯片，保持格式和布局的同时移除宏依赖以提高安全性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 公司范围的信息性演示。
+
+* 用于电子学习分发的教育幻灯片。
+
+* 准备分享的营销或销售演示文稿。
+
+* 面向大众的活动或研讨会演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XPS 文件转换为 PPSX 以进行安全演示分享。
+
+* 定时自动创建用于培训会话的演示文件。
+
+* 与内部门户网站集成以进行演示文稿分发。
+
+* 为客户或公众使用简化生成只读幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

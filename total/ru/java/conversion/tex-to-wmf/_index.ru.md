@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в W
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **WMF (Windows Metafile)** сохраняет векторную графику для диаграмм LaTeX, обеспечивая совместимость с Microsoft Office и технической документацией.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание иллюстраций LaTeX в Word или PowerPoint.
+
+* Технические диаграммы в профессиональных отчетах.
+
+* Масштабируемые фигуры для корпоративных и академических документов.
+
+* Распространение графики, созданной в LaTeX, между платформами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование диаграмм LaTeX в WMF.
+
+* Интеграция в потоки документов Microsoft Office.
+
+* Автоматическое обновление векторной графики в презентациях.
+
+* Автоматическое архивирование технических фигур, созданных в LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

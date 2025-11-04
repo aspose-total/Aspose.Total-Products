@@ -61,7 +61,47 @@ otherformats: ODS XLAM SXC DIF XLS FODS EXCEL XLSM XLT XLTM XLTX XLSX TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI文件转换为XLSM（启用宏的Excel工作簿）可在Excel内直接实现自动化，通过嵌入的VBA宏实现动态电子书数据操作。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- 使用Excel宏进行交互式MOBI目录分析。
+
+- 用于数字出版的自动化趋势跟踪。
+
+- 生成用于读者参与度指标的数据透视表仪表板。
+
+- 为编辑工作流程管理创建基于宏的工具。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 通过Excel VBA触发的MOBI导入。
+
+- 在MOBI解析后自动生成报告。
+
+- 与启用宏的出版仪表板集成。
+
+- 从MOBI数据集进行XLSM驱动的批量转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

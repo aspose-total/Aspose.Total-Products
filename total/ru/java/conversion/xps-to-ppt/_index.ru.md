@@ -121,7 +121,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **PPT (PowerPoint 97-2003)** обеспечивает обратную совместимость с более старыми версиями Microsoft Office, сохраняя редактируемые слайды, текст и базовое форматирование.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Совместимость с устаревшими версиями корпоративных презентаций.
+
+* Сохранение архивных и исторических слайд-деков.
+
+* Образовательный контент для учреждений, использующих устаревшее программное обеспечение.
+
+* Внутренняя отчетность и тренировочные деки для сред смешанных версий.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование файлов XPS в PPT для корпоративных архивов.
+
+* Запланированная автоматизированная генерация обратно совместимых презентаций.
+
+* Интеграция с устаревшими рабочими процессами документов.
+
+* Упрощенное создание слайд-деков в различных версиях Office.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

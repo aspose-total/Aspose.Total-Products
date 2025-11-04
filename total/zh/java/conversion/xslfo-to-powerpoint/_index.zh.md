@@ -135,7 +135,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**POWERPOINT（PPTX）**可生成完全格式化、可编辑的幻灯片，适用于Microsoft PowerPoint。PPTX格式确保与高级设计功能、图表和多媒体兼容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将XSLFO年度报告转换为视觉吸引力的PowerPoint幻灯片。
+
+* 准备管理仪表板和KPI演示文稿。
+
+* 从结构化的XSLFO表格创建教育或培训内容。
+
+* 与公司利益相关者共享生成的XSLFO幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期报告的XSLFO到PPTX的批量转换。
+
+* 与自动化幻灯片创建和分析仪表板集成。
+
+* 触发将XSLFO数据转换为交互式PowerPoint演示文稿。
+
+* 为董事会会议即时生成PPTX。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

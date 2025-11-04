@@ -47,7 +47,51 @@ otherformats: XLTM ODS XLSB XLTX SXC EXCEL TXT XLT XLAM TSV FODS MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **XLAM (надстройка Excel)** позволяет создавать пользовательские средства автоматизации Excel, макросы и расширенные функции из статических документов XPS, идеально подходит для опытных корпоративных пользователей.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Автоматизация повторяющихся расчетов и рабочих процессов в финансах или операциях.
+
+* Создание надстроек для повышения производительности на основе существующих данных.
+
+* Расширение функциональности Excel с использованием шаблонов, преобразованных из XPS.
+
+* Улучшение рабочих процессов на уровне предприятия с помощью надстроек Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Массовое преобразование XPS в XLAM для корпоративных средств автоматизации.
+
+* Интеграция с внутренним программным обеспечением для запуска надстроек Excel.
+
+* Плановое создание макросов для команд.
+
+* Оптимизированные процессы автоматизации для повторяющихся отчетных задач.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

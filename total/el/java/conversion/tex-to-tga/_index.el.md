@@ -57,7 +57,51 @@ otherformats: DXF WMF EMZ SVGZ JPEG2000 PSD TGA  WMZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **TGA (Targa Image)** επιτρέπει υψηλής ποιότητας εξαγωγές πλέγματος εικόνων που δημιουργήθηκαν με LaTeX για εφαρμογές με γραφικά, επιστημονικές απεικονίσεις και ψηφιακή τέχνη.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Επιστημονικές εικονογραφήσεις υψηλής πιστότητας.
+
+* Διαγράμματα που δημιουργήθηκαν με LaTeX για επεξεργασία γραφικών.
+
+* Προετοιμασία οπτικών για ροές εργασιών ανιμάσεων και προσομοιώσεων.
+
+* Ψηφιακή δημοσίευση που απαιτεί απώλεια λιγότερης ποιότητας εικόνας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική εξαγωγή TEX σε TGA για αναλύσεις οπτικοποίησης έρευνας.
+
+* Ενσωμάτωση με εργαλεία επεξεργασίας γραφικών και προσομοιώσεων.
+
+* Ενεργοποίηση παραγωγής υψηλής ποιότητας εικόνων από περιεχόμενο LaTeX.
+
+* Αυτοματοποιημένη αποθήκευση διαγραμμάτων σε TGA για ομάδες γραφικών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

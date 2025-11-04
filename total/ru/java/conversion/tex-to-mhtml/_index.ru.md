@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **MHTML (MIME HTML)** позволяет отображать документы LaTeX как однофайловую веб-страницу, сохраняя уравнения, таблицы и графику для просмотра офлайн или онлайн.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Архивирование научных статей LaTeX в виде самодостаточных веб-страниц.
+
+* Обмен LaTeX-отчетами с встроенной графикой и уравнениями.
+
+* Создание интерактивных учебных материалов в одном файле MHTML.
+
+* Преобразование технического контента для офлайн-модулей обучения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в MHTML для библиотек курсов.
+
+* Интеграция в автоматизированное создание контента для обучения.
+
+* Плановое обновление MHTML из исходных файлов LaTeX.
+
+* Автоматическое преобразование для обмена научными публикациями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

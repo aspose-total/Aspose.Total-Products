@@ -53,7 +53,45 @@ otherformats: DOTM WORD DOT OTTX TEXT OTT WORDML DOTX ODT FLATOPC OTTM RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в OTT (OpenDocument Text Template) позволяет организациям создавать многоразовые шаблоны документов, соответствующие открытым стандартам. Шаблоны OTT идеально подходят для учреждений, акцентирующих внимание на доступности и долгосрочном архивировании.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание шаблонов открытых стандартов из учебных материалов PowerPoint.
+
+* Преобразование стилей презентаций в многоразовые текстовые шаблоны.
+
+* Создание согласованных форматов документов для академического издательства.
+
+* Разработка шаблонов с открытым доступом для документации НПО.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание OTT из мастер-макетов PowerPoint.
+
+* Интеграция с рабочими процессами документооборота с открытым исходным кодом.
+
+* Синхронизация шаблонов в институциональных хранилищах документов.
+
+* Государственные системы документов, использующие шаблоны в открытом формате.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

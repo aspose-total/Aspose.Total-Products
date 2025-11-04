@@ -57,7 +57,51 @@ otherformats: IMAGE TGA WMF JPEG2000 SVGZ DXF  EMZ PSD WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **DXF (Drawing Exchange Format)** επιτρέπει στα τεχνικά διαγράμματα, σχέδια και σχηματικά που δημιουργήθηκαν με LaTeX να χρησιμοποιούνται σε λογισμικό CAD για μηχανικά και αρχιτεκτονικά έργα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Τεχνικά σχέδια μηχανικής από τεχνικά έγγραφα LaTeX.
+
+* Διαγράμματα αρχιτεκτονικής για ενσωμάτωση σε CAD.
+
+* Οπτικοποίηση γραφικών βάσει LaTeX για έργα σχεδιασμού.
+
+* Διαγράμματα κατασκευής ή prototyping που προέρχονται από LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή TEX σε DXF για μηχανικές ροές εργασίας.
+
+* Ενσωμάτωση με αγωγούς λογισμικού CAD.
+
+* Ενεργοποίηση αυτόματης δημιουργίας διαγραμμάτων σχεδιασμού.
+
+* Αρχειοθέτηση σχηματικών LaTeX σε μορφή DXF για χρήση σε πολλαπλές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

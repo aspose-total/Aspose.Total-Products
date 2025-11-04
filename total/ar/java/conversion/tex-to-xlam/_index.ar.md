@@ -47,7 +47,45 @@ otherformats: XLSM SXC ODS XLTM EXCEL MD XLT TXT XLAM FODS XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **XLAM (إضافة إكسل للماكرو)** يمكن أن يجعل الجداول والصيغ في LaTeX تصبح أدوات إكسل تفاعلية مع حسابات آلية ووظائف محسنة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب النمذجة المالية المدعومة بواسطة LaTeX.
+* أدوات الحساب الآلي لمشاريع الهندسة.
+* صفحات الصيغ الأكاديمية المضمنة في ماكرو إكسل.
+* لوحات تحكم معالجة البيانات تجمع بين LaTeX والتلقائيات في إكسل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء آلي لإضافات XLAM من مجموعات بيانات LaTeX.
+* تحويل دُفعي من LaTeX إلى XLAM لأدوات المؤسسات.
+* جداول بيانات ممكّنة للماكرو من مستودعات البحث.
+* دمج في تقارير آلية وأنابيب لوحات التحكم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

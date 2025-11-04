@@ -61,7 +61,47 @@ otherformats: EXCEL DIF XLS XLTM TSV XLTX XLSM FODS XLSX XLAM ODS SXC XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MOBI إلى XLTM (قالب إكسل ممكّن بالماكرو) يجمع بين التأمين والتوحيد. إنه يمكّن من استخدام قوالب تحتوي على ماكرو لإدارة وتحليل بيانات MOBI بشكل قابل لإعادة الاستخدام.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- قوالب جاهزة للماكرو لتحليل الكتب الإلكترونية تلقائيًا.
+
+- تخطيطات تقارير قابلة للتكوين لتحويلات MOBI.
+
+- لوحات تحكم مدفوعة بالقوالب للنشر الرقمي.
+
+- بيئات إكسل مبسطة لتقارير قابلة للتكرار.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأمين" %}}
+
+- استيراد دُفعي لملفات MOBI باستخدام ماكرو XLTM.
+
+- إنشاء XLTM ديناميكي في خطوط إنتاج النشر.
+
+- التكامل مع التأمين VBA للتحليلات.
+
+- توزيع قوالب XLTM مستضافة في السحابة للفرق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

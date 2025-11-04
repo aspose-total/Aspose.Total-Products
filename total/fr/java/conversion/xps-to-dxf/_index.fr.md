@@ -57,7 +57,55 @@ L'API vous permet également d'exporter le fichier XPS vers DXF dans un seul fic
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XPS en **DXF (Drawing Exchange Format)** permet d'utiliser des mises en page XPS dans des applications CAO, en préservant les éléments vectoriels pour les projets de conception, d'architecture et d'ingénierie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Plans architecturaux et plans extraits de documents XPS.
+
+* Diagrammes et schémas d'ingénierie pour les logiciels CAO.
+
+* Documentation technique nécessitant une conversion vectorielle précise.
+
+* Flux de travail de conception industrielle pour des projets collaboratifs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée en lot de XPS en DXF pour les équipes CAO.
+
+* Intégration avec les pipelines de conception pour des mises à jour de mise en page rapides.
+
+* Génération planifiée de DXF pour des rapports d'ingénierie récurrents.
+
+* Extraction rationalisée des éléments vectoriels pour la fabrication.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

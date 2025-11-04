@@ -135,7 +135,45 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **PPTM (عرض تقديمي ممكن بتفعيل الماكرو في PowerPoint)** يمكن من إنشاء شرائح تفاعلية بالكامل من LaTeX، بما في ذلك الماكرو للحسابات التلقائية، والرسوم الديناميكية، والمواد التعليمية التفاعلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* محاضرات أكاديمية تفاعلية مع معادلات LaTeX.
+* لوحات تحكم للشركات وقوالب عروض بحوث.
+* شرائح ندوات تلقائية مع تحديثات البيانات في الوقت الحقيقي.
+* عروض ورش عمل بتفاعل مدفوع بالماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من TEX إلى PPTM لإنشاء شرائح تفاعلية.
+* دمجه في أنظمة الأتمتة الخاصة بالشركات أو الجامعات.
+* توليد عروض تقديمية ممكنة بالماكرو بشكل مُحفّز.
+* تحديثات مجدولة من مستودعات LaTeX لمشاريع تعدد المؤلفين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

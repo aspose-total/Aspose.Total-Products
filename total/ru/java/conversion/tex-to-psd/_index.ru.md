@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в P
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **PSD (документ Photoshop)** позволяет редактировать визуальные материалы, созданные в LaTeX, в Adobe Photoshop для дизайна высокого уровня и последующей обработки.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Редактирование диаграмм LaTeX для презентаций и плакатов.
+
+* Подготовка графики, готовой к публикации, с улучшениями в Photoshop.
+
+* Настройка образовательных или тренировочных визуалов.
+
+* Создание визуально насыщенных фигур для маркетинга или академического использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в PSD для дизайнерских команд.
+
+* Интеграция с автоматизированными рабочими процессами графического дизайна.
+
+* Создание PSD по запросу для создания плакатов или инфографики.
+
+* Экспорт редактируемой диаграммы LaTeX для многослойного редактирования в Photoshop.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

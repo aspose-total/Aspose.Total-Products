@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek PSD podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **PSD (Photoshop Document)** umožňuje, aby byly vizuální prvky generované v LaTeXu plně upravitelné v programu Adobe Photoshop pro návrh a zpracování ve vysoké kvalitě.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Úprava LaTeXových diagramů pro prezentace a plakáty.
+
+* Příprava grafiky připravené k publikaci s vylepšeními v Photoshopu.
+
+* Přizpůsobení vzdělávacích nebo školicích vizuálů.
+
+* Vytváření vizuálně bohatých obrázků pro marketingové nebo akademické účely.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod TEX na PSD pro týmy návrhářů.
+
+* Integrace s automatizovanými pracovními postupy grafického designu.
+
+* Spuštění vytváření PSD pro generování plakátu nebo infografiky.
+
+* Export upravitelného LaTeXového diagramu pro úpravy v Photoshopu s více vrstvami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

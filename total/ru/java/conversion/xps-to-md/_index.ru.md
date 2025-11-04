@@ -47,7 +47,51 @@ otherformats: XLTX SXC XLSB XLAM MD ODS XLT DIF XLSM XLTM FODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **MD (Markdown)** предлагает упрощенный текстовый формат, который удобен для чтения человеком, редактирования и идеально подходит для документации, управляемой версиями, и веб-контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Технические руководства и инструкции в легком формате.
+
+* Внутренняя документация для программного обеспечения и корпоративных процедур.
+
+* Быстрое преобразование для блогов или платформ обмена знаниями.
+
+* Ведение академических и исследовательских заметок с поддержкой Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XPS в MD для систем управления контентом.
+
+* Интеграция с автоматизированными системами публикации.
+
+* Плановое обновление документации на основе Markdown.
+
+* Оптимизированный рабочий процесс для преобразования нескольких файлов XPS в редактируемый текст.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

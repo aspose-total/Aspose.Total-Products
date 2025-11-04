@@ -121,7 +121,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **OTP (Πρότυπο Παρουσίασης OpenDocument)** δημιουργεί επαναχρησιμοποιήσιμα πρότυπα παρουσιάσεων για το LibreOffice και το OpenOffice, επιτρέποντας συνεπή σχεδιασμό και διάταξη για ομάδες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Πρότυπα παρουσιάσεων εταιρικών συναντήσεων με πελάτες.
+
+* Πρότυπα διαλέξεων με τυποποιημένη διάρθρωση για εκπαιδευτικούς.
+
+* Πρότυπα αναφορών ΜΚΟ ή έργων για επαναλαμβανόμενη χρήση.
+
+* Διαφημιστικές παρουσιάσεις καμπάνιας με συνεπή επικοινωνιακή ταυτότητα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη δημιουργία προτύπων OTP από αναφορές XPS.
+
+* Ενσωμάτωση με συστήματα διαχείρισης περιεχομένου για διανομή σε ολόκληρη την ομάδα.
+
+* Προγραμματισμένη δημιουργία προτύπων για επαναλαμβανόμενες παρουσιάσεις.
+
+* Εξομάλυνση της επικοινωνιακής ταυτότητας και τυποποίηση της διάταξης σε όλα τα τμήματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

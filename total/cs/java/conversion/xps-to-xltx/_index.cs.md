@@ -47,7 +47,51 @@ Při převodu souboru XPS na XLTX můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **XLTX (šablona Excelu)** vytváří opakovaně použitelné šablony bez maker, ideální pro standardizované reportování, zadávání dat a obchodní dokumentaci, zajišťující zároveň bezpečnost a kompatibilitu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Firemní šablony pro reportování s vlastní značkou.
+
+* Akademické nebo výzkumné šablony pro opakované zadávání dat.
+
+* Tabulky pro sledování projektů pro týmovou spolupráci.
+
+* Finanční a operační reportovací šablony bez maker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování šablon Excelu založených na XPS.
+
+* Vytváření dávkových procesů pro podnikové použití.
+
+* Integrace s systémy pro správu dokumentů pro distribuci.
+
+* Plánované aktualizace opakovaných standardizovaných šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

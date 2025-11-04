@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **OTT (шаблон текста OpenDocument)** превращает статические файлы XPS в многоразовые шаблоны для пользователей LibreOffice и OpenOffice, идеально подходит для стандартизированных документов рабочего процесса в открытых форматах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шаблоны учебных материалов для студентов и учителей.
+
+* Шаблоны проектов НПО для отчетов и предложений.
+
+* Стандартизированные шаблоны с открытым исходным кодом для корпоративной документации.
+
+* Шаблоны творческого контента для брошюр и информационных бюллетеней.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная генерация шаблонов OTT из репозиториев XPS.
+
+* Интеграция с инструментами автоматизации рабочего процесса с открытым исходным кодом.
+
+* Автоматическое заполнение шаблонов организационными данными.
+
+* Оптимизация процессов создания документов на различных платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

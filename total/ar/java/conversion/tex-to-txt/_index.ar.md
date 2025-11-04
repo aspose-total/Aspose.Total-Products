@@ -47,7 +47,51 @@ otherformats: TXT EXCEL XLAM FODS XLSB TSV XLT XLTM XLSM DIF SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **TXT (نص عادي)** يوفر تنسيقًا بسيطًا وقابلاً للقراءة عالميًا لمحتوى LaTeX، مفيد للتخزين الخفيف، والمشاركة السريعة، ومعالجة النصوص.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استخراج محتوى LaTeX للبحث والتحليل القائم على النص.
+
+* مشاركة ملاحظات LaTeX أو جداول في تنسيق نص بسيط.
+
+* توثيق خفيف لمشاريع البرمجة أو البرمجة النصية.
+
+* تحضير محتوى LaTeX لتوزيع البريد الإلكتروني بتنسيق نص عادي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعي لملفات LaTeX إلى TXT للأرشفة.
+
+* التكامل مع سير العمل التلقائي لمعالجة النصوص.
+
+* توليد ملفات TXT بناءً على طلب من مستودعات LaTeX.
+
+* تصدير مجدول لتوثيق LaTeX الخفيف.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

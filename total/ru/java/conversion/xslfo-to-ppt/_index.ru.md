@@ -135,7 +135,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **PPT (устаревший формат PowerPoint)** обеспечивает совместимость с более старыми версиями Microsoft Office, сохраняя при этом табличное содержимое и макеты слайдов. PPT подходит для организаций, которые до сих пор используют устаревшие инструменты.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка слайдов, созданных с помощью XSLFO, для устаревших корпоративных систем.
+
+* Обмен образовательным или тренировочным контентом в формате PPT.
+
+* Архивирование самодостаточных слайдов для целей аудита.
+
+* Преобразование отчетов XSLFO в легко распространяемые устаревшие файлы PowerPoint.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное автоматизированное преобразование из XSLFO в слайды PPT.
+
+* Запланированная экспортировка для повторяющихся управленческих или тренировочных отчетов.
+
+* Интеграция с устаревшими рабочими процессами на основе Office.
+
+* Запуск создания слайдов PPT из шаблонов XSLFO для архивных целей.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,51 @@ otherformats: TSV DIF XLSM MHTML FODS MARKDOWN ODS XLT EXCEL SXC XLTM XLS XLTX X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POT إلى XLAM (إضافة Excel) يمكن التحكم به عن طريق تضمين الماكروهات في أوراق Excel المستمدة من بيانات العرض التقديمي. يستفيد هذا التحول الشركات التي تستفيد من PowerPoint للإبلاغ و Excel للحساب الديناميكي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء إضافات Excel من قوالب KPI المستندة إلى PowerPoint.
+
+* تلقائيا حسابات بيانات الأداء في المبيعات أو التدريب.
+
+* إنشاء لوحات تحكم مدفوعة بالماكرو من العروض التقديمية.
+
+* دمج الرسوم البيانية في العروض التقديمية مع نماذج الأتمتة في Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء XLAM تلقائي لأدوات تحليل الشركات.
+
+* تحويل سير العمل الذي يجمع بين الماكروهات في PowerPoint و Excel.
+
+* التكامل مع منصات أتمتة عمليات الأعمال.
+
+* الأتمتة الشركية لعمليات جداول البيانات المتكررة.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

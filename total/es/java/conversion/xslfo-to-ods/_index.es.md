@@ -47,7 +47,31 @@ Al convertir un archivo XSLFO a ODS, también puede agregar una marca de agua a 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir XSLFO a **ODS (OpenDocument Spreadsheet)** garantiza la compatibilidad con las aplicaciones de hojas de cálculo de código abierto modernas. ODS conserva estilos, fórmulas y tablas, lo que lo hace ideal para informes colaborativos y compartir datos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Convertir informes de recursos humanos generados en XSLFO para usuarios de LibreOffice.
+* Compartir análisis trimestrales con socios externos en formato ODS.
+* Preparar paneles operativos para revisión interdepartamental.
+* Archivar tablas financieras basadas en XSLFO en un formato abierto a prueba de futuro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión en tiempo real de XSLFO a ODS para entornos de oficina colaborativos.
+* Exportación programada por lotes de métricas operativas desde XSLFO.
+* Integración en canalizaciones de informes automatizados para equipos remotos.
+* Generación automática de hojas de cálculo ODS a partir de plantillas XSLFO para informes recurrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

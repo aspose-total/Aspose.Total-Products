@@ -47,7 +47,51 @@ otherformats: TXT XLT ODS XLAM XLSM FODS DIF XLTM XLSB MD SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **XLSM (مصنف إكسل مع تمكين الماكرو)** يسمح للمؤسسات بالحفاظ على الأتمتة والصيغ والعناصر التفاعلية من التقارير الثابتة XPS وتعزيزها.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* نماذج مالية تتطلب حسابات آلية.
+
+* جداول تتبع وتخطيط المشاريع التفاعلية.
+
+* تقارير آلية مع ماكروهات مضمنة.
+
+* تحسين سير العمل باستخدام الأتمتة المعتمدة على إكسل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* خطوط أنابيب التحويل الجماعي لـ XPS إلى XLSM في سير العمل الشركات.
+
+* التكامل مع أنظمة BI وERP للتقارير الديناميكية.
+
+* تحديثات مجدولة للمصنفات ذات الماكرو.
+
+* إنشاء تلقائي للوحات التفاعلية من بيانات XPS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

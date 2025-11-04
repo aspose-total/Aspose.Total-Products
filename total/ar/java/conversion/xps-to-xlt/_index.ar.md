@@ -47,7 +47,51 @@ otherformats: XLSM EXCEL TXT ODS DIF XLSB XLT TSV SXC XLTX XLAM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **XLT (قالب Excel)** يمكن أن يسمح بإنشاء جداول بيانات مُعدة مُسبقًا قابلة لإعادة الاستخدام، مثالية للتقارير الموحدة وإدخال البيانات المتسق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب تقارير الشركات الموحدة.
+
+* قوالب تتبع المشاريع وتوزيع الموارد.
+
+* قوالب جداول بيانات أكاديمية للمهام المتكررة.
+
+* قوالب بيانات مالية وميزانيات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* إنشاء قوالب XPS-to-XLT المُؤتمتة لفرق الشركات.
+
+* توليد مجدول للجداول البيانية المُعدة مُسبقًا.
+
+* التكامل مع أنظمة إدارة الوثائق لتوزيع القوالب.
+
+* تيسير توحيد سير العمل المتكرر لإدخال البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

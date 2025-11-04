@@ -61,7 +61,45 @@ otherformats: XLSX SXC FODS XLAM DIF MHTML XLTM XLSB MARKDOWN XLS XLTX XLT XLSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в MHTML (MIME HTML) позволяет специалистам архивировать целые презентации PowerPoint в виде одностраничных веб-файлов. MHTML захватывает все ресурсы - текст, изображения и стили, что делает его идеальным для офлайн-доступа или цифрового распространения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Создание веб-архивируемых версий корпоративных презентаций.
+
+* Обмен отчетами на основе PowerPoint в виде самостоятельных веб-документов.
+
+* Сохранение учебных материалов для доступа через интранет.
+
+* Преобразование учебных слайд-дек в портативные HTML-ресурсы.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматизированный экспорт MHTML для систем архивирования документов.
+
+* Интеграция с корпоративными системами публикации в интранете.
+
+* Генерация HTML, готового к офлайн-использованию, из шаблонов PowerPoint.
+
+* Пакетное преобразование для электронного обучения и обучающих порталов.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

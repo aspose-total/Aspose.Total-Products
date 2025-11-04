@@ -61,7 +61,45 @@ otherformats: XLS ODS DIF FODS XLSB XLSM MARKDOWN SXC XLSX XLT TSV XLTX EXCEL XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POT إلى ODS (جدول بيانات OpenDocument) يضمن التوافق السلس مع بيئات العمل المفتوحة المصدر. إنه مثالي للمؤسسات الأكاديمية والمنظمات العامة التي تعتمد معايير ODF.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مشاركة تقارير تم إنشاؤها بواسطة PowerPoint مع مستخدمي LibreOffice.
+
+* تحويل عروض الصف الى قوالب إدخال بيانات.
+
+* تحويل الرسوم البيانية البحثية إلى جداول بيانات مفتوحة المصدر.
+
+* إعداد تقارير جداول البيانات المتوافقة للمنظمات العامة.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء ODS تلقائيًا من عروض التدريب أو المبيعات.
+
+* دمجه في منصات ERP أو تحليلات مفتوحة المصدر.
+
+* سير العمل لنظم الوثائق الهجينة.
+
+* تحويلات مجدولة لمشاريع توحيد المستندات.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

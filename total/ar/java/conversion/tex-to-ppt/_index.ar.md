@@ -135,7 +135,31 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+تحويل TEX إلى **PPT (عرض تقديمي في PowerPoint)** ينتج شرائح قياسية قابلة للتحرير من مستندات LaTeX، محافظًا على الصيغ والجداول والرسوم البيانية للاستخدام في التدريس والبحث والشركات.
+
+## {{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* عروض بحث هندسية أو علمية.
+* محاضرات أكاديمية وندوات مع معادلات LaTeX.
+* مقترحات مشاريع مهنية.
+* مواد تدريبية تفاعلية مع جداول بيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل دفعات من LaTeX إلى PPT لفرق البحث.
+* دمجه في أنابيب إنشاء العروض التقديمية الآلية.
+* توليد شرائح محاضرة أو مؤتمر بشكل مفعل.
+* التعاون بين عدة مؤلفين على شرائح PPT بمحتوى LaTeX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

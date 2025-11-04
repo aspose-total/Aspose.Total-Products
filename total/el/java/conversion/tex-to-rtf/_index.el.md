@@ -144,7 +144,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **RTF (Μορφή Πλούσιου Κειμένου)** προσφέρει καθολική συμβατότητα, επιτρέποντας την ανοιγμα LaTeX εγγράφων σε σχεδόν οποιονδήποτε επεξεργαστή κειμένου διατηρώντας την βασική μορφοποίηση και τις μαθηματικές εξισώσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Κοινοποίηση ακαδημαϊκών εργασιών σε διάφορες πλατφόρμες χωρίς απώλεια μορφοποίησης.
+
+* Τεχνικά εγχειρίδια με πολύπλοκες εξισώσεις προσβάσιμα σε Word ή LibreOffice.
+
+* Διασυνοριακή επιχειρηματική τεκμηρίωση με στυλ LaTeX.
+
+* Έγγραφα LaTeX έτοιμα για email σε μορφές αναγνώσιμες παντού.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή για αρχεία και διασυνοριακή συμβατότητα.
+
+* Ενσωμάτωση σε διαδικασίες επεξεργασίας εγγράφων για τεχνικές ομάδες.
+
+* Αυτόματη δημιουργία αναφορών RTF από σύνολα δεδομένων LaTeX.
+
+* Ενεργοποιημένες μετατροπές για αυτοματοποιημένα συστήματα δημοσίευσης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

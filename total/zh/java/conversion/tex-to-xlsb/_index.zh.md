@@ -49,7 +49,51 @@ otherformats: XLTX ODS SXC XLTM MD FODS TXT XLSB EXCEL XLSM TSV XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**XLSB（Excel二进制工作簿）**可确保对大型LaTeX数据集的更快性能，同时保留公式和格式，优化文件大小。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 来自LaTeX的大规模财务或工程数据集。
+
+* 面向数据密集型项目的性能优化电子表格。
+
+* 带有嵌入式计算的多工作表LaTeX报告。
+
+* 需要紧凑二进制存储的学术研究数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将LaTeX表格批量转换为XLSB以提高速度。
+
+* 集成到企业BI管道中。
+
+* 自动化的LaTeX到二进制Excel报告生成。
+
+* 触发XLSB创建以进行跨部门协作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

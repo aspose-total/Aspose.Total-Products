@@ -61,7 +61,47 @@ otherformats: XLSM SXC DIF XLTM EXCEL ODS XLSX XLAM XLTX XLS XLSB XLT FODS TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MOBI إلى XLS يضمن التوافق مع إصدارات Microsoft Excel القديمة مع الحفاظ على البيانات الوصفية المنظمة. إنه مثالي لأنظمة المؤسسات التي لا تزال تستخدم سير العمل القديمة لبرنامج Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- إنشاء قوائم كتب MOBI متوافقة مع Excel 97-2003.
+
+- تصدير البيانات الوصفية لتقارير الفهرسة غير المتصلة.
+
+- إدارة سجلات النشر في أنظمة الشركات القديمة.
+
+- مشاركة مجموعات بيانات جاهزة لـ XLS بين بيئات غير سحابية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- تصدير XLS تلقائي لبيانات MOBI الأرشيفية.
+
+- دمجه في أنظمة المحاسبة أو النشر القديمة.
+
+- مزامنة منتظمة لبيانات MOBI في تنسيق XLS.
+
+- إخراج XLS لسجلات النشر الرقمية الحكومية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

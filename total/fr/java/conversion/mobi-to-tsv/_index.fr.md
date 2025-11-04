@@ -61,7 +61,47 @@ Après avoir converti MOBI en TSV, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La transformation des fichiers MOBI en TSV (valeurs séparées par des tabulations) permet une exportation propre et structurée des données d'eBook, idéale pour les équipes techniques, les développeurs d'IA et les opérations de données backend nécessitant des délimiteurs cohérents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- Importation de métadonnées d'eBook dans des bases de données relationnelles.
+
+- Entraînement de modèles de langage à l'aide de données MOBI structurées.
+
+- Création de journaux de lecture basés sur TSV pour des outils analytiques.
+
+- Migration de détails d'eBook dans des entrepôts de données d'entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- Traitement par lots MOBI-to-TSV pour l'analyse de texte.
+
+- Intégration dans des pipelines de prétraitement NLP automatisés.
+
+- Génération de TSV déclenchée lors de synchronisations de données.
+
+- Normalisation des métadonnées pour les systèmes de catégorisation d'IA.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

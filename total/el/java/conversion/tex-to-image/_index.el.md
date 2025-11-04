@@ -57,7 +57,51 @@ otherformats: DXF WMZ WMF TGA EMZ JPEG2000 SVGZ PSD  IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **ΕΙΚΟΝΑ (γενικά μορφές ράστερ)** μετατρέπει εξισώσεις LaTeX, πίνακες και σχήματα σε μορφές εικόνας συμβατές με όλες τις πλατφόρμες για web, εκτύπωση και τεκμηρίωση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Ενσωμάτωση σχημάτων που δημιουργήθηκαν με LaTeX σε blogs και ιστότοπους.
+
+* Δημιουργία εικόνων υψηλής ανάλυσης για επιστημονικά άρθρα.
+
+* Κοινοποίηση διαγραμμάτων σε μορφές αναγνώσιμες από όλους.
+
+* Μετατροπή πολύπλοκων πινάκων LaTeX σε εικονίδια.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή TEX σε εικόνα για βιβλιοθήκες περιεχομένου.
+
+* Ενσωμάτωση σε αυτοματοποιημένες διαδικασίες δημοσίευσης και ιστότοπων.
+
+* Ενημερώσεις που ενεργοποιούνται για περιεχόμενο μαθημάτων ή εκπαιδευτικών φύλλων βασισμένα σε εικόνες.
+
+* Εξαγωγή πολλαπλών διαγραμμάτων LaTeX σε συνεκτικές μορφές εικόνας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

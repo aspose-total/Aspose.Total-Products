@@ -57,7 +57,51 @@ otherformats: IMAGE DXF TGA WMF WMZ EMZ PSD JPEG2000 SVGZ  DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **PSD（Photoshop 文档）** 可让设计师处理从 XPS 文件中提取的分层和可编辑图像，适用于创意和营销工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从 XPS 文件衍生的可编辑营销资料。
+
+* 用于演示和活动的分层插图。
+
+* 用于出版物的技术图表增强。
+
+* 从文档视觉中进行的照片处理和设计项目。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于创意团队的批量 XPS 到 PSD 转换。
+
+* 与设计工作流程集成，实现自动化视觉更新。
+
+* 从定期 XPS 报告生成 PSD。
+
+* 用于营销或教育内容的简化编辑流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS（XML Paper Specification）文件转换为 **XAML（可扩展应用标记语言）** 可让开发人员和设计师在 WPF（Windows Presentation Foundation）应用程序中重用文档内容，保留布局、字体和矢量图形。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将静态文档视觉内容整合到基于 WPF 的桌面应用程序中。
+
+* 使用基于 XAML 的 UI 元素设计交互式仪表板。
+
+* 在软件界面和控件中重用 XPS 布局。
+
+* 需要精确文档呈现的学术或企业电子学习应用程序。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 文件批量自动转换为 XAML，用于软件开发流程。
+
+* 与桌面应用程序更新的 CI/CD 工作流程集成。
+
+* 定期生成 XAML 资源，用于应用程序内容的重复使用。
+
+* 在多个 WPF 项目中流畅重用 XPS 文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

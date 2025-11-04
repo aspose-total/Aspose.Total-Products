@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **SWF (فلاش)** يمكن تمكين الرسوم المتحركة التفاعلية للوحات المعلومات التقليدية وتطبيقات الويب. يحتفظ SWF بالرسومات الناقلة ويسمح بالتفاعل على أساس الجدول الزمني.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين الرسوم البيانية التفاعلية XSLFO في بوابات الويب التقليدية.
+
+* إعداد لوحات معلومات متحركة لأنظمة الشبكة الداخلية التاريخية.
+
+* تحويل وحدات التدريب إلى SWF للاستخدام دون اتصال.
+
+* أرشفة الرسوم البيانية التفاعلية XSLFO لأغراض الامتثال.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XSLFO إلى SWF بشكل مجدول للأنظمة التقليدية.
+
+* إنشاء دفعة من اللوحات المتحركة.
+
+* توليد مشغل لتطبيقات الويب التقليدية بناءً على الحدث.
+
+* دمج مع خطوط أنابيب التقارير التفاعلية التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

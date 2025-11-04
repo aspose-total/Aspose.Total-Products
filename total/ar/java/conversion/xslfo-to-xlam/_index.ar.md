@@ -47,7 +47,55 @@ otherformats: XLSM XLTM XLTX FODS EXCEL XLAM SXC TXT TSV XLSB MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **XLAM (إضافة Excel)** يمكن من تضمين البيانات التي تم إنشاؤها بواسطة XSLFO والماكروهات في إضافات Excel قابلة لإعادة الاستخدام. يدعم XLAM التشغيل التلقائي، والتقارير المخصصة، وتطبيقات جداول البيانات التفاعلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تغليف قوالب تقارير XSLFO كإضافات Excel للاستخدام الجماعي في الفريق.
+
+* توزيع أدوات الحساب التلقائي المستمدة من بيانات XSLFO.
+
+* دمج تحليلات XSLFO في لوحات تحكم Excel مخصصة.
+
+* تمكين سير العمل المتكرر للتقارير باستخدام إضافات XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تشغيل توليف XLAM من XSLFO للمهام المتكررة تلقائيًا.
+
+* نشر الإضافات بجدول زمني محدد مع بيانات XSLFO المحدثة.
+
+* التكامل مع أتمتة سير العمل القائمة على VBA.
+
+* توليد إضافات XLAM تلقائيًا لأدوات تقارير الشركات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

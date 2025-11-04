@@ -61,7 +61,45 @@ otherformats: XLAM XLSX XLTX SXC XLSM DIF MARKDOWN ODS XLTM XLT MHTML XLSB FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POT إلى TSV (قيم مفصولة بواسطة علامة التبويب) يوفر وسيلة فعالة لتصدير جداول العرض إلى جواهر البيانات القائمة على النصوص المستخدمة لاستيراد البيانات ومعالجتها. يبسط TSV التعامل مع مجموعات البيانات الكبيرة عبر أدوات التحليل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل التحليلات القائمة على العروض التقديمية إلى بيانات TSV للاستيراد.
+
+* إعداد تقارير جدولية منظمة لنماذج التعلم الآلي.
+
+* استخراج مقاييس الأداء الأكاديمي من الشرائح التعليمية.
+
+* إنشاء مجموعات بيانات TSV قابلة للمشاركة لأنظمة المؤسسات.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* تحويل TSV دفعة واحدة مدمج في خطوط أنابيب التحليل.
+
+* استخراج الجداول تلقائيًا من مواد تدريب PowerPoint.
+
+* التكامل في أنظمة ETL لتبادل البيانات التجارية.
+
+* إنشاء TSV لأتمتة التقارير على نطاق واسع.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

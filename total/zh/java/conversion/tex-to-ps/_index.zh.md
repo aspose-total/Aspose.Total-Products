@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**PS（PostScript）**会生成一个多功能的页面描述文件，保留了LaTeX格式、图形和复杂的数学内容，适用于专业出版和印刷准备文件。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为专业印刷准备LaTeX论文和报告。
+
+* 生成技术图表和表格的PostScript版本。
+
+* 具有精确格式的学术期刊投稿。
+
+* 将LaTeX文档存档为通用页面布局格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于出版流程的自动批量TEX转PS转换。
+
+* 与专业印刷工作流程集成。
+
+* 用于大规模文档分发的触发式PostScript生成。
+
+* 用于多作者学术项目的定时TEX转PS导出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

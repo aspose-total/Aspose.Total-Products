@@ -135,7 +135,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX en **PPS (PowerPoint Show)** crée des présentations de diapositives uniquement pour une lecture immédiate, idéales pour les cours automatisés, les sessions de formation et le partage rapide de contenu LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Decks de conférences académiques prêts à l'emploi.
+
+* Présentations interactives d'ateliers.
+
+* Résumés de projets d'ingénierie pour des présentations client.
+
+* Diapositives LaTeX prêtes pour les conférences.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversions planifiées en lots de TEX en PPS.
+
+* Génération automatisée de decks de formation à partir du contenu LaTeX.
+
+* Intégration avec des systèmes de déploiement de présentations.
+
+* Création de PPS déclenchée pour des séminaires ou des plateformes d'apprentissage en ligne.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XPS в I
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **ИЗОБРАЖЕНИЕ (общие растровые форматы, такие как PNG или BMP)** обеспечивает широкую совместимость для отчетов, документации и цифрового распространения контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт изображений высокого качества для отчетов и архивов.
+
+* Учебные материалы для онлайн- или печатного распространения.
+
+* Маркетинговые материалы, полученные из файлов XPS.
+
+* Визуальная документация для корпоративного или государственного использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетные конвейеры преобразования XPS в ИЗОБРАЖЕНИЕ.
+
+* Интеграция с веб-публикациями или внутренними системами.
+
+* Запланированное создание архивов изображений из репозиториев XPS.
+
+* Автоматизированные рабочие процессы документов в изображения для обмена контентом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

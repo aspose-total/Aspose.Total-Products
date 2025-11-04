@@ -57,7 +57,51 @@ otherformats: DXF SVGZ WMF TGA EMZ PSD DICOM IMAGE WMZ JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **DICOM (Ψηφιακή Εικονογράφηση και Επικοινωνίες στην Ιατρική)** επιτρέπει την ενσωμάτωση οπτικών εγγράφων στα συστήματα ιατρικής απεικόνισης, διατηρώντας λεπτομέρειες υψηλής ανάλυσης για κλινικές εφαρμογές.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Ενσωμάτωση ιατρικών αναφορών στις ροές εργασίας απεικόνισης ακτινολογίας.
+
+* Αρχειοθέτηση διαγνωστικών εγγράφων δίπλα στις σάρωσεις των ασθενών.
+
+* Συστήματα νοσοκομείων που απαιτούν συμβατότητα DICOM για αναφορές.
+
+* Πλατφόρμες τηλεϊατρικής που ενσωματώνουν κλινικές εικόνες εγγράφων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή XPS σε DICOM για συστήματα εγγραφής νοσοκομείων.
+
+* Αυτοματοποιημένη ενσωμάτωση με PACS (Συστήματα Αρχειοθέτησης και Επικοινωνίας Εικόνων).
+
+* Προγραμματισμένες ενημερώσεις για τις εικόνες εγγραφών ασθενών.
+
+* Ροές εργασίας μειωμένες για την επεξεργασία δεδομένων ιατρικής απεικόνισης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

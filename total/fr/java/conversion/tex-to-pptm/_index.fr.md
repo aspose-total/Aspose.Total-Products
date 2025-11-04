@@ -135,7 +135,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **PPTM (Présentation activée par macro de PowerPoint)** permet d'obtenir des diapositives entièrement interactives à partir de LaTeX, incluant des macros pour des calculs automatisés, des graphiques dynamiques et des supports pédagogiques interactifs.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Cours académiques interactifs avec des équations LaTeX.
+
+* Tableaux de bord d'entreprise et modèles de présentation de recherche.
+
+* Diapositives de séminaire automatisées avec mises à jour de données en temps réel.
+
+* Présentations d'ateliers avec une interactivité pilotée par macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de TEX en PPTM pour des diaporamas interactifs.
+
+* Intégration dans des systèmes d'automatisation d'entreprise ou universitaires.
+
+* Génération déclenchée de présentations activées par macro.
+
+* Mises à jour planifiées à partir de référentiels LaTeX pour des projets multi-auteurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

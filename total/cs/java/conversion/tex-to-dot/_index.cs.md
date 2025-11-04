@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění TEX souborů na **DOT (šablona dokumentu Word)** umožňuje uživatelům využívat formátování LaTeX při vytváření opakovaně použitelných šablon pro firemní nebo vzdělávací účely. To pomáhá udržovat konzistenci v oficiálních zprávách a profesionálních dokumentech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Firemní záhlaví a šablony nabídek s typografií ve stylu LaTeX.
+
+* Standardizované akademické nebo zkouškové šablony pro univerzity.
+
+* Životopisy a šablony životopisů pro profesionální použití.
+
+* Šablony dokumentace projektů pro inženýry a výzkumníky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované generování šablon pro hromadné vytváření zpráv.
+
+* Integrace s softwarem pro automatizaci dokumentů ve vzdělávacích institucích.
+
+* Spouštěné aktualizace šablon z repozitářů LaTeX pro konzistenci značky.
+
+* Vytváření dynamických knihoven šablon pro inženýrské projekty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

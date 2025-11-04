@@ -57,7 +57,51 @@ otherformats: TGA WMZ IMAGE JPEG2000 SVGZ EMZ  WMF DXF PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **EMZ (ملف تعريف نافذة ميتا المحسن المضغوط)** يمكن أن يوفر رسومات ناقلة عالية الجودة مع ضغط، مثالية لعروض الشرائح والرسوم البيانية جاهزة للطباعة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير جداول XSLFO كرسومات قابلة للتوسيع للاستخدام في العروض.
+
+* تضمين رسومات مالية أو تشغيلية في عروض الشرائح.
+
+* إنشاء صور أرشيفية للوحات التحكم في التقارير.
+
+* تحضير الرسوم البيانية لسير العمل في النشر على سطح المكتب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي مجدول لتقارير XSLFO إلى EMZ.
+
+* دمجه في خطوط أنابيب التقارير الآلية.
+
+* إنشاء صور EMZ بناءً على الطلب لتضمينها في الشرائح.
+
+* تحويل لوحات XSLFO إلى رسومات ناقلة مضغوطة في الوقت الحقيقي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

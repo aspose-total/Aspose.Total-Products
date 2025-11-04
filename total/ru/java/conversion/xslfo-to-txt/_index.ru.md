@@ -47,7 +47,51 @@ otherformats: EXCEL SXC XLTX XLAM XLSM TXT TSV MD XLTM XLT XLSB ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов XSLFO в **TXT (обычный текст)** позволяет обеспечить универсальную совместимость со всеми текстовыми редакторами, инструментами обработки данных и средами программирования. Файлы TXT извлекают основное содержимое из XSLFO без стилей, что делает их идеальными для анализа сырых данных, написания сценариев и архивирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт таблиц и отчетов XSLFO для пакетной обработки данных.
+
+* Подготовка версий структурированных финансовых или операционных отчетов в виде обычного текста.
+
+* Архивирование содержимого XSLFO в универсальном формате.
+
+* Генерация извлечений сырых данных для аналитических конвейеров.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование из XSLFO в TXT для автоматизированных рабочих процессов.
+
+* Интеграция в ETL и конвейеры предварительной обработки данных.
+
+* Автоматический экспорт TXT из повторяющихся отчетов XSLFO.
+
+* Автоматическое извлечение обзоров в виде обычного текста из панелей инструментов XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

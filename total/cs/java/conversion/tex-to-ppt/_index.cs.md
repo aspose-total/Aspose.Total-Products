@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **PPT (prezentace PowerPointem)** produkuje standardní upravitelné snímky z dokumentů LaTeX, zachovává vzorce, tabulky a diagramy pro výuku, výzkum a firemní použití.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Prezentace inženýrského nebo vědeckého výzkumu.
+
+* Akademické přednášky a semináře s LaTeXovými rovnicemi.
+
+* Profesionální návrhy projektů.
+
+* Interaktivní výukové materiály s datovými tabulkami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné konverze LaTeXu na PPT pro výzkumné týmy.
+
+* Integrace do automatizovaných procesů tvorby prezentací.
+
+* Spouštění generování přednášek nebo konferenčních snímků.
+
+* Spolupráce více autorů na snímcích PPT s obsahem LaTeXu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **SWF (Flash)** позволяет создавать интерактивные анимации для устаревших панелей инструментов и веб-приложений. SWF сохраняет векторную графику и позволяет использовать взаимодействия на основе временных линий.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание интерактивных графиков XSLFO в устаревшие веб-порталы.
+
+* Подготовка анимированных панелей инструментов для исторических внутренних систем.
+
+* Преобразование учебных модулей в формат SWF для офлайн использования.
+
+* Архивирование интерактивных визуализаций XSLFO для целей соответствия.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование XSLFO в SWF для устаревших систем.
+
+* Пакетное создание анимированных панелей инструментов.
+
+* Триггерная генерация для веб-приложений на основе устаревших технологий.
+
+* Интеграция с автоматизированными интерактивными конвейерами отчетов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

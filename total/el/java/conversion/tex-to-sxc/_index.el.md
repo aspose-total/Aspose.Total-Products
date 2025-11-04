@@ -47,7 +47,51 @@ otherformats: SXC TXT XLTM MD FODS XLSM XLT DIF ODS EXCEL XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **SXC (Υπολογιστικό φύλλο StarOffice Calc)** επιτρέπει στους παλαιότερους χρήστες του OpenOffice ή του StarOffice να εργαστούν με δεδομένα πινάκων LaTeX χωρίς να χάσουν τη δομή.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές περιπτώσεις χρήσης" %}}
+
+
+
+* Ιστορικά σύνολα δεδομένων LaTeX σε μορφή συμβατή με το StarOffice.
+
+* Ακαδημαϊκή έρευνα που απαιτεί συμβατότητα με παλαιότερα γραφεία.
+
+* Διασυνοριακή κοινοποίηση αριθμητικών πινάκων LaTeX.
+
+* Αναφορές έργων σε SXC για παλαιότερα συστήματα γραφείου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια αυτοματοποίησης" %}}
+
+
+
+* Προγραμματισμένες μαζικές μετατροπές συνόλων δεδομένων LaTeX.
+
+* Ενσωμάτωση σε ροές εργασίας αυτοματοποίησης παλαιών γραφείων.
+
+* Αρχειοθέτηση δομημένων πινάκων LaTeX για συνέχεια στην έρευνα.
+
+* Ενεργοποίηση γεννήτριας SXC για συνεργατικά έργα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

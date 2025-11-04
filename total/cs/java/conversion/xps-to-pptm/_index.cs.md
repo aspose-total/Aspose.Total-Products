@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **PPTM (s makry povolený PowerPoint)** umožňuje interaktivní prezentace s makry pro dynamická data, automatizaci a zlepšené firemní nebo vzdělávací pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Finanční nebo prodejní přehledy ve formátu prezentace.
+
+* Školení a vzdělávací moduly s automatizovanou navigací.
+
+* Interaktivní zprávy pro přezkoumání managementem.
+
+* Automatizované prezentace stavu projektu s makry.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XPS na PPTM pro firemní automatizaci.
+
+* Integrace s živými datovými zdroji pro aktualizace snímků v reálném čase.
+
+* Plánované vytváření makry povolených prezentací pro opakující se schůzky.
+
+* Zjednodušená výroba interaktivních snímků pro přezkoumání zainteresovanými stranami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

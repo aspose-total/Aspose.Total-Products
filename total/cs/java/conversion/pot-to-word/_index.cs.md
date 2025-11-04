@@ -53,7 +53,45 @@ Pomocí API můžete také provést převod POT souboru na WORD s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na WORD umožňuje uživatelům převést šablon prezentací na bohaté textové dokumenty kompatibilní s Microsoft Word a podobnými editory. Podporuje vzdělávací, obchodní a dokumentační pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace akademických prezentací na publikovatelné zprávy.
+
+* Příprava editovatelných zápisů z jednání a firemních souhrnů.
+
+* Převod kurzů vytvořených v PowerPointu na studijní materiály.
+
+* Přetváření výukových snímků na interní dokumentaci.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaná dokumentace z PowerPointu do Wordu pro interní recenze.
+
+* Hromadný převod v systémech správy obsahu.
+
+* Integrace pracovního postupu pro přípravu dokumentů.
+
+* Zjednodušený převod pro firemní komunikační systémy.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

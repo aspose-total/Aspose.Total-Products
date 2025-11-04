@@ -61,7 +61,51 @@ Při převodu souboru POTM na XLSB můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTM na XLSB vytváří binární pracovní sešity Excelu, umožňuje rychlejší načítání a menší velikost souboru při zachování všech dat, vzorců a grafů z diapozitivů PowerPointu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění složitých finančních modelů prezentací do kompaktních binárních sešitů.
+
+* Export velkých datových sad ze snímků pro analýzu v Excelu ve firmách.
+
+* Vysokovýkonná analytika vyžadující rychlý přístup k tabulkám.
+
+* Archivace těžkých tabulek snímků jako XLSB pro efektivní úložiště.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované potrubí generující soubory XLSB z firemních prezentací.
+
+* Integrace s nástroji pro hlášení s velkým množstvím dat.
+
+* Spouštěný proces vytváření XLSB pro cloudové řídicí panely.
+
+* Dávkové zpracování snímků do vysokovýkonných formátů tabulek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

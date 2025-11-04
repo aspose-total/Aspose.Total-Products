@@ -135,7 +135,51 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**PPSX（不带宏的PowerPoint演示）**可生成适合分发的自运行演示文稿。PPSX保留格式和布局，同时避免宏执行风险。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从XSLFO数据创建自运行的财务仪表板。
+
+* 共享标准化的培训或入职演示文稿。
+
+* 准备无宏的投资者路演展示。
+
+* 存档季度审查幻灯片以供团队广泛分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期演示文稿的XSLFO转换为PPSX的批量调度。
+
+* 触发生成无宏幻灯片堆栈。
+
+* 集成到自动化分发管道中。
+
+* 从XSLFO报告自动更新自运行幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

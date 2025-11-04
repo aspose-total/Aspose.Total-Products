@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **MARKDOWN** μετατρέπει τα έγγραφα LaTeX σε ελαφρύ και ευανάγνωστο κείμενο με σύνταξη Markdown, ιδανικό για δημοσίευση στο web, τεκμηρίωση και ροές ελέγχου εκδόσεων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή ακαδημαϊκών σημειώσεων και αναφορών για online blogs.
+
+* Τεχνική τεκμηρίωση με τύπους LaTeX με σύνταξη φιλική προς το Markdown.
+
+* Συνεργατική επεξεργασία σε αποθετήρια GitHub ή GitLab.
+
+* Δημοσίευση περιλήψεων έρευνας LaTeX σε πλατφόρμες βασισμένες στο web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή TEX σε Markdown για ροές εγγράφωσης.
+
+* Ενσωμάτωση με γεννήτριες στατικών ιστοσελίδων (π.χ., Hugo, Jekyll).
+
+* Ενεργοποιημένη γεννήτρια για πλατφόρμες εκπαιδευτικού περιεχομένου.
+
+* Προγραμματισμένη μετατροπή για συνεχή δημοσίευση LaTeX στο web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

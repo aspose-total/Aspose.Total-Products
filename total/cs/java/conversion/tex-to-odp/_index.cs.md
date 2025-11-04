@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TEX na **ODP (OpenDocument Presentation)** umožňuje přeměnit obsah LaTeXu, vzorce a tabulky na prezentace kompatibilní s programy LibreOffice a OpenOffice. Ideální pro akademiky a inženýry sdílející výzkum založený na LaTeXu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Akademické přednášky s rovnicemi generovanými v LaTeXu.
+
+* Prezentace open-source projektů se strukturovanými daty.
+
+* Konferenční snímky pro matematiku, fyziku nebo inženýrství.
+
+* Výukové materiály s interaktivními diagramy v LaTeXu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze TEX na ODP pro výukové materiály nebo školení.
+
+* Plánované generování snímků z LaTeXových výzkumných repozitářů.
+
+* Integrace do open-source prezentčních procesů.
+
+* Spouštěné aktualizace pro prezentace akademických týmů s více autory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **WMZ (сжатый метафайл Windows)** обеспечивает сжатые векторные изображения, идеальные для электронной почты, презентаций и веб-интеграции, сохраняя масштабируемость.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Отправка визуальных материалов, созданных в XSLFO, в виде сжатых вложений.
+
+* Встраивание масштабируемой графики в PowerPoint и Word.
+
+* Архивирование сжатых векторных визуальных отчетов.
+
+* Обмен оперативными дашбордами по электронной почте или внутренним порталам.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование файлов XSLFO в WMZ для экономии места.
+
+* Запланированная автоматизированная компрессия визуальных отчетов.
+
+* Запуск генерации WMZ для повторяющихся рабочих процессов презентаций.
+
+* Интеграция в автоматизированные потоки слайдов и документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

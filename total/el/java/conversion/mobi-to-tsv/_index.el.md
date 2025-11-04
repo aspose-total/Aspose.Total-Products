@@ -61,7 +61,47 @@ otherformats: EXCEL TSV XLTX ODS SXC FODS XLSX XLT XLTM XLAM XLSM XLS XLSB DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων MOBI σε TSV (Tab-Separated Values) επιτρέπει την καθαρή και δομημένη εξαγωγή δεδομένων eBook ιδανική για τις τεχνικές ομάδες, τους προγραμματιστές AI και τις λειτουργίες δεδομένων πίσω από τις σκηνές που απαιτούν συνεπείς διαχωριστές.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+- Εισαγωγή μεταδεδομένων eBook σε σχεσιακές βάσεις δεδομένων.
+
+- Εκπαίδευση μοντέλων γλώσσας χρησιμοποιώντας δομημένα δεδομένα MOBI.
+
+- Δημιουργία αρχείων καταγραφής ανάγνωσης βασισμένων σε TSV για αναλυτικά εργαλεία.
+
+- Μεταφορά λεπτομερειών eBook σε επιχειρησιακές αποθήκες δεδομένων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+- Μαζική επεξεργασία MOBI σε TSV για ανάλυση κειμένου.
+
+- Ενσωμάτωση σε αυτοματοποιημένες αγωγές προεπεξεργασίας NLP.
+
+- Ενεργοποίηση δημιουργίας TSV κατά τη συγχρονισμό δεδομένων.
+
+- Κανονικοποίηση μεταδεδομένων για συστήματα κατηγοριοποίησης AI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

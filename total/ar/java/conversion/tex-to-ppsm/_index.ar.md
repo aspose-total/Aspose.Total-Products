@@ -135,7 +135,51 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **PPSM (PowerPoint Macro-Enabled Show)** يسمح لمحتوى LaTeX بتضمين الصيغ البرمجية للحسابات الآلية، والرسوم التوضيحية التفاعلية، والعروض الديناميكية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* محاضرات أكاديمية مدفوعة بالصيغ البرمجية مع جداول ديناميكية.
+
+* عروض بحثية مع رسوم بيانية تحديث تلقائي.
+
+* عروض تدريبية للشركات مع عناصر تفاعلية.
+
+* شرائح مؤتمر متعددة المؤلفين مع صيغ LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من TEX إلى PPSM لعروض تفاعلية.
+
+* دمج LaTeX تلقائي للمحتوى في عروض شرائح ممكنة بالصيغ البرمجية.
+
+* تحديثات مجدولة لمواد ورش العمل الديناميكية.
+
+* إنشاء مشغل لأنابيب البحث أو العروض التقديمية الشركات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

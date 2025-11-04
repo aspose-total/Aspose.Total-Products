@@ -49,7 +49,51 @@ otherformats: XLSB XLTM SXC XLTX EXCEL ODS TSV MD DIF XLAM XLT TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **SXC（StarOffice 电子表格）** 格式，实现与传统 StarOffice 和 OpenOffice 工具的无缝互操作性。SXC 保留结构和格式，适用于存档和企业报告工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在 SXC 中存档基于 XSLFO 的项目进度表，以供传统系统使用。
+
+* 使用 StarOffice 为国际合作伙伴准备 SXC 电子表格。
+
+* 将表格状的 XSLFO 数据转换为培训和文档目的。
+
+* 通过 SXC 分享每月关键绩效指标以供合规报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量自动将 XSLFO 转换为 SXC 以供存档项目使用。
+
+* 集成到支持 StarOffice 格式的传统办公流程中。
+
+* 从 XSLFO 文件生成定期计划的 SXC 报告。
+
+* 用于定期管理仪表板的触发式转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

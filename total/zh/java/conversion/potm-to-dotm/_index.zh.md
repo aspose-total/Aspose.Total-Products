@@ -52,7 +52,51 @@ otherformats: WORD DOTX OTT DOTM RTF DOTMM TEXT DOTMX FLATOPC WORDML ODT DOT
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM转换为DOTM会创建基于PowerPoint模板的宏启用的Word模板。它允许在Word模板中重复使用自动化组件，如宏或数据填充脚本，以加快文档生成速度。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 为企业工作流程创建自动化报告生成模板。
+
+* 从PowerPoint模板创建基于宏的Word表单。
+
+* 带有嵌入式自动化脚本的技术文档模板。
+
+* 用于人力资源或财务部门的标准化数据输入模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 工作流机器人从演示文稿输入生成DOTM文件。
+
+* 与文档自动化平台集成。
+
+* 将POTM模板批量转换为可重复使用的宏启用的Word表单。
+
+* 根据演示内容动态生成合同模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

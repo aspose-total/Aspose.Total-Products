@@ -135,7 +135,51 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **PPSM (PowerPoint Macro-Enabled Show)** επιτρέπει στο περιεχόμενο LaTeX να περιλαμβάνει μακροεντολές για αυτοματοποιημένους υπολογισμούς, διαδραστικά διαγράμματα και δυναμικές παρουσιάσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Ακαδημαϊκές διαλέξεις με δυναμικούς πίνακες που λειτουργούν με μακροεντολές.
+
+* Παρουσιάσεις έρευνας με διαγράμματα που ενημερώνονται αυτόματα.
+
+* Παρουσιάσεις εταιρικής εκπαίδευσης με διαδραστικά στοιχεία.
+
+* Διαφάνειες πολλαπλών συγγραφέων σε συνέδρια με μαθηματικές τύπους LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζικές μετατροπές TEX σε PPSM για διαδραστικές παρουσιάσεις.
+
+* Αυτοματοποιημένη ενσωμάτωση περιεχομένου LaTeX σε παρουσιάσεις με μακροεντολές.
+
+* Προγραμματισμένες ενημερώσεις για δυναμικά υλικά εργαστηρίου.
+
+* Ενεργοποιημένη δημιουργία για αγωγούς παρουσιάσεων έρευνας ή εταιρικής παρουσίασης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

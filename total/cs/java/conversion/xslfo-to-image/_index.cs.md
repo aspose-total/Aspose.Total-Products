@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek IMAGE podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **OBRAZ (Obecné rastrové formáty)** poskytuje všestranný výstup pro webové stránky, tisk a desktopové aplikace. Podporované formáty mohou zahrnovat PNG, BMP nebo TIFF v závislosti na požadavcích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Generování statických vizuálů ze strukturovaných tabulek XSLFO.
+
+* Příprava grafiky pro reportingové dashboardy nebo dokumentaci.
+
+* Exportování grafů a tabulek pro mobilní aplikace nebo e-learning.
+
+* Vytváření rastrovaných archivů opakujících se reportů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XSLFO reportů do více obrazových formátů.
+
+* Integrace s automatizovanými potrubími pro generování dashboardů.
+
+* Spouštěný export pro plánované doručování reportů.
+
+* Automatizované generování obrázků pro e-learning nebo webové platformy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

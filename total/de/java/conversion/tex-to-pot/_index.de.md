@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von TEX in **POT (PowerPoint-Vorlage)** ermöglicht es, LaTeX-formatierten Inhalt in eine wiederverwendbare PowerPoint-Vorlage für akademische, geschäftliche und Unternehmenspräsentationen zu verwandeln.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Professionelle Vorlesungsfolien mit komplexen Gleichungen.
+
+* Unternehmensprojektvorschlagvorlagen mit LaTeX-Tabellen.
+
+* Standardisierte Vorlagen für Universitätskurse.
+
+* Ingenieur- oder wissenschaftliche Konferenzpräsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Stapelumwandlungen von TEX in POT für Vorlagenbibliotheken.
+
+* Integration in unternehmensweite Folienautomatisierungssysteme.
+
+* Geplante Vorlagenaktualisierungen aus LaTeX-Quellen.
+
+* Ausgelöste Generierung für die Zusammenarbeit mehrerer Benutzer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

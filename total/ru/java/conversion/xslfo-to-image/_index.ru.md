@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **ИЗОБРАЖЕНИЕ (Общие растровые форматы)** обеспечивает универсальный вывод для веба, печати и настольных приложений. Поддерживаемые форматы могут включать PNG, BMP или TIFF в зависимости от требований.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание статических визуальных элементов из структурированных таблиц XSLFO.
+
+* Подготовка графики для отчетных панелей или документации.
+
+* Экспорт диаграмм и таблиц для мобильных приложений или электронного обучения.
+
+* Создание растровых архивов повторяющихся отчетов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование отчетов XSLFO в несколько форматов изображений.
+
+* Интеграция с автоматизированными конвейерами создания отчетных панелей.
+
+* Триггерный экспорт для доставки запланированных отчетов.
+
+* Автоматическое создание изображений для электронного обучения или веб-платформ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

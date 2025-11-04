@@ -61,7 +61,47 @@ otherformats: XLTM DIF FODS XLTX SXC TSV XLSB XLAM XLSX XLS XLT XLSM EXCEL ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MOBI إلى تنسيق EXCEL يتيح للكتاب والناشرين والمحللين تصور وتصفية بيانات الكتب الإلكترونية مباشرة داخل Microsoft Excel. تخرجات XLS و XLSX تجعل من السهل إنشاء لوحات تحكم وإدارة جرد المحتوى الرقمي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- تنظيم بيانات الكتب الإلكترونية والتقييمات والمراجعات في جداول Excel.
+
+- تحليل اتجاهات التنزيل والقراءة بصورة بصرية.
+
+- إنشاء تقارير الكتالوج للناشرين وموزعي الكتب.
+
+- إعداد مجموعات بيانات معتمدة على Excel لتدريب نماذج الذكاء الاصطناعي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- تحويلات مجدولة لبيانات الكتب الإلكترونية إلى سجلات عمل Excel.
+
+- دمجها في سير العمل Power BI أو Microsoft 365.
+
+- تحديث تلقائي لأوراق Excel ببيانات الكتب الإلكترونية المحدثة.
+
+- ضبط الجودة المعتمد على Excel لأنابيب تحويل MOBI إلى XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ otherformats: DXF WMZ WMF TGA EMZ JPEG2000 SVGZ PSD  IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**图像（通用光栅格式）**，将LaTeX方程式、表格和图形转换为适用于网络、打印和文档目的的普遍兼容的图像格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将由LaTeX生成的图形嵌入博客和网站。
+
+* 为学术论文准备高分辨率图像。
+
+* 以普遍可读格式共享图表。
+
+* 将复杂的LaTeX表格转换为图像快照。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将TEX转换为图像以用于内容库。
+
+* 与自动发布和网站工作流程集成。
+
+* 触发基于图像的讲座或教程内容的更新。
+
+* 将多个LaTeX图表导出为一致的图像格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **FLATOPC (Flat Open Packaging Conventions)** позволяет сохранить содержимое LaTeX, включая формулы и таблицы, в одном файле на основе XML, полностью совместимом со стандартами Office Open XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Архивирование документов LaTeX в стандартизированном формате XML.
+
+* Сохранение структурированного содержимого и форматирования для корпоративных приложений.
+
+* Обмен сложными академическими или техническими отчетами в виде одиночных файлов.
+
+* Сохранение таблиц и уравнений, созданных в LaTeX, для использования на разных платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в FLATOPC для исследовательских репозиториев.
+
+* Интеграция в автоматизированные системы управления документами.
+
+* Генерация FLATOPC по запросу для совместных рабочих процессов.
+
+* Планирование архивирования содержимого LaTeX в форматах на основе XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

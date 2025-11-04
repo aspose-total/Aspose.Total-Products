@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **DOTM (Шаблон с включенной макросовой поддержкой Word)** обеспечивает возможность использования повторно шаблонов с функциональностью макросов. Идеально подходит для автоматизированных рабочих процессов, соединяя точную верстку LaTeX с возможностями автоматизации Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Автоматизированные шаблоны для подачи статей в академические журналы.
+
+* Повторно используемые шаблоны технических отчетов с генерацией динамического контента.
+
+* Формы с поддержкой макросов для ввода лабораторных или исследовательских данных.
+
+* Создание шаблонов Word с поддержкой LaTeX для совместной работы нескольких авторов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Создание документов в реальном времени, запускаемое из потоков ввода LaTeX.
+
+* Интеграция в автоматизированные рабочие процессы документооборота на основе Word.
+
+* Пакетное обновление шаблонов для совместных исследовательских проектов.
+
+* Создание документации проекта с поддержкой макросов для инженерных команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

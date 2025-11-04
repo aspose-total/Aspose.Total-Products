@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XSLFO in **OTP (OpenDocument Presentation Template)** ermöglicht die Erstellung wiederverwendbarer Folienvorlagen aus strukturierten XSLFO-Daten. OTP-Vorlagen standardisieren die Präsentationsformatierung innerhalb von Teams.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung von Unternehmenspräsentationsvorlagen aus XSLFO-generierten Berichten.
+
+* Standardisierung von Schulungsmodulen in wiederverwendbaren OTP-Formaten.
+
+* Erstellung von Investorenpräsentationen mit konsistenter Gestaltung aus XSLFO-Inhalten.
+
+* Archivierung von Quartalsberichtsvorlagen für zukünftige Verwendung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Geplante Stapelkonvertierung von XSLFO in OTP für Vorlagenbibliotheken.
+
+* Integration in automatisierte Folien-Erstellungspipelines.
+
+* Auslösung der OTP-Vorlagenerstellung für neue XSLFO-Berichtsserien.
+
+* Automatische Bereitstellung von XSLFO-basierten Vorlagen in verschiedenen Abteilungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

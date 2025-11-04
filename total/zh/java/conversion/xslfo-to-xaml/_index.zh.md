@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO（可扩展样式表语言格式对象）文件转换为 **XAML（可扩展应用标记语言）** 可让开发人员和设计师将结构化报告转换为丰富、交互式和可扩展的桌面和 Web 应用程序 UI 组件。XAML 保留了来自 XSLFO 的样式、布局和层次结构，同时实现了与 WPF、UWP 和其他基于 XAML 的框架的无缝集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将 XSLFO 生成的仪表板转换为具有交互式表格和图表的 WPF 应用程序。
+
+* 将结构化的财务或运营报告嵌入到桌面界面中。
+
+* 基于 XSLFO 内容为企业应用程序设计 UI 组件。
+
+* 将结构化的分析报告转换为用于演示应用程序的交互式 XAML 可视化效果。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 自动批量将定期生成的 XSLFO 报告转换为 XAML UI 组件。
+
+* 集成到 ETL 流水线中，实时生成 XAML 仪表板。
+
+* 从动态 XSLFO 数据源定期更新 XAML 界面。
+
+* 触发生成用于报告、可视化或应用程序框架的 XAML 布局。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

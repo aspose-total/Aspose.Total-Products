@@ -47,7 +47,51 @@ otherformats: MD ODS TSV SXC XLT XLTM EXCEL XLSM FODS XLTX XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **TSV (Διαχωρισμένες με Κενά Τιμές)** απλοποιεί την εξαγωγή δεδομένων από πίνακες για αναλύσεις, εισαγωγή σε βάσεις δεδομένων ή διαδικασίες ETL. Το TSV είναι ελαφρύ, ευανάγνωστο από ανθρώπους και υποστηρίζεται ευρέως από γλώσσες προγραμματισμού και εργαλεία δεδομένων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή αναφορών XSLFO σε TSV για εισαγωγή στη βάση δεδομένων.
+
+* Προετοιμασία συνόλων δεδομένων φιλικών προς ανάλυση από δομημένους πίνακες XSLFO.
+
+* Μετανάστευση δεδομένων από χρηματοοικονομικά φύλλα XSLFO σε πλατφόρμες ανάλυσης.
+
+* Διαμοιρασμός απλών δεδομένων πίνακα σε μορφή TSV για εύκολη ενσωμάτωση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μαζική μετατροπή από XSLFO σε TSV για διαδικτυακές πλατφόρμες επιχειρηματικής νοημοσύνης.
+
+* Ενσωμάτωση ETL για ρεαλτάιμ ροές αναλύσεων.
+
+* Εξαγωγή TSV με ενεργοποίηση από αναφορές XSLFO για αυτοματοποιημένα πίνακες ελέγχου.
+
+* Προγραμματιστική μετατροπή για σύνολα δεδομένων XSLFO μεγάλης κλίμακας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

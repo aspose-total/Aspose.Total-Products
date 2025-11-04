@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **POT (šablona PowerPointu)** umožňuje vytváření opakovaně použitelných šablon Microsoft PowerPoint z statických dokumentů XPS, ideální pro standardizované firemní a akademické prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Firemní šablony PowerPointu s logem pro klienty.
+
+* Šablony akademických kurzů pro opakované přednášky.
+
+* Prezentační sady pro marketing s předdefinovanými rozloženími.
+
+* Šablony pro konference a semináře pro opakované použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod souborů XPS do šablon POT pro týmy.
+
+* Integrace s automatizovanými pracovními postupy pro generování prezentací.
+
+* Plánované aktualizace pro opakující se obsah založený na šablonách.
+
+* Zjednodušené vytváření prezentací pro opakující se úkoly v reportech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

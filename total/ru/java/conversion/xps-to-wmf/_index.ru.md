@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XPS в W
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **WMF (Windows Metafile)** создает масштабируемую векторную графику, подходящую для интеграции с Microsoft Office и технических иллюстраций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Встраивание векторной графики в документы Office.
+
+* Технические диаграммы для руководств и отчетов.
+
+* Маркетинговые визуальные материалы, требующие масштабируемой графики.
+
+* Иллюстративный контент для презентаций и брошюр.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XPS в WMF для корпоративных библиотек документов.
+
+* Автоматизированное создание масштабируемых диаграмм из XPS.
+
+* Интеграция с процессами публикации.
+
+* Плановое обновление для повторяющейся векторной графики.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

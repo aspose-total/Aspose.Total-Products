@@ -49,7 +49,55 @@ otherformats: XLAM SXC MD FODS XLTM TXT EXCEL ODS XLT XLSM XLTX TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX文件转换为**CSV（逗号分隔值）**可将LaTeX文档转换为适用于电子表格、数据库和分析应用程序的轻量级表格数据。这对于在LaTeX中处理数值数据集的研究人员和分析师非常理想。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将LaTeX生成的表格导出为CSV进行数据分析。
+
+* 用于统计软件和Python/R处理的学术数据集。
+
+* 将以LaTeX格式化的财务或工程报告转换为电子表格进行审阅。
+
+* 以通用CSV格式共享开源项目数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 在ETL流水线中批量进行TEX到CSV转换。
+
+* 从研究论文中自动提取表格。
+
+* 集成到基于人工智能的分析平台中。
+
+* 为协作数据集触发CSV生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

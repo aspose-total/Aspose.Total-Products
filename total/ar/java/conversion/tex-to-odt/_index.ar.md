@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **ODT (OpenDocument Text)** يسمح لمستخدمي LaTeX بإنتاج مستندات متوافقة مع المعايير المفتوحة والتي يمكن استخدامها مع LibreOffice وOpenOffice وغيرها من حزم البرامج المكتبية، مما يضمن الوصول والتعاون عبر المنصات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تقديمات أكاديمية بتنسيقات مستندات مفتوحة.
+
+* تقارير بحث تعاونية ذات توافق متعدد المنصات.
+
+* وثائق ودليل مشاريع مفتوحة المصدر.
+
+* كتب إلكترونية بتنسيق LaTeX أو مواد تعليمية لأدوات مفتوحة المصدر.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من TEX إلى ODT لمستودعات الجامعات.
+
+* دمجه في خطوط إنتاج مفتوحة المصدر.
+
+* تحويل آلي لتوزيع الوثائق عبر منصات متعددة.
+
+* إنشاء تقارير ديناميكية بتنسيق ODT من مجموعات بيانات LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

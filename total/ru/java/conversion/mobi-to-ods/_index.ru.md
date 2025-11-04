@@ -61,7 +61,47 @@ otherformats: SXC XLS XLSB XLSM XLT ODS XLTX XLAM FODS XLSX XLTM EXCEL DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MOBI в ODS (OpenDocument Spreadsheet) облегчает структурированное представление данных электронных книг в формате открытого стандарта, обеспечивая совместимость между платформами в LibreOffice, OpenOffice и аналогичных инструментах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+- Создание структурированных индексов цифровых библиотек.
+
+- Управление метаданными книг MOBI для исследований с открытым исходным кодом.
+
+- Отслеживание вкладов авторов в совместных проектах.
+
+- Поддержание экспортируемых списков чтения в формате ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+- Экспорт MOBI в ODS в реальном времени в цифровых архивах.
+
+- Интеграция с автоматизированными процессами публикации.
+
+- Триггеры конвертации в системах управления контентом.
+
+- Плановая синхронизация метаданных с отчетами в формате ODS для библиотекарей.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

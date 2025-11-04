@@ -47,7 +47,55 @@ otherformats: XLT XLAM SXC XLSB EXCEL MD TSV DIF TXT XLTX XLTM FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات XSLFO (Extensible Stylesheet Language Formatting Objects) إلى **CSV (Comma-Separated Values)** يمكن أن يسهل استخراج البيانات الجدولية بسرعة للتقارير السريعة وتحليل البيانات وسير العمل الذكي. يظل CSV تنسيقًا خفيفًا متوافقًا مع معظم أدوات التحليل وقواعد البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير التقارير المالية من تخطيطات XSLFO القائمة على XML إلى CSV لأغراض التدقيق.
+
+* تبسيط تتبع المبيعات والمخزون في أدوات الذكاء الاصطناعي القائمة على السحابة.
+
+* تحضير البيانات التي تم إنشاؤها بواسطة XSLFO لمعالجة البيانات الآلية.
+
+* إنشاء ملخصات CSV للتقارير البريدية الآلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل فواتير XSLFO بشكل مجدول إلى CSV لأنظمة المحاسبة.
+
+* دمجها في أنابيب ETL لتبسيط هجرة البيانات القائمة على XSLFO التقليدية.
+
+* استخراج البيانات التشغيلية القائمة على XSLFO في لوحات تحليلية في الوقت الحقيقي.
+
+* تحويل دفعي آلي لتقارير متعددة الإدارات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

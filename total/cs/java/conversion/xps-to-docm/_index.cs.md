@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod souborů XPS (XML Paper Specification) na **DOCM (Dokument s povolenými makry pro Word)** zajistí, že dynamické zprávy a obchodní formuláře zachovají všechna interaktivní makra pro automatizaci pracovních postupů. Tento formát je zejména vhodný pro kancelářské prostředí, kde opakující se úkoly a vestavěné skripty zvyšují produktivitu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Finanční a auditní zprávy vyžadující automatizovaná makra pro výpočty.
+
+* Firemní šablony s vestavěnými schvalovacími postupy.
+
+* Právní dokumenty s automatizací podpisů.
+
+* Řídicí panely pro projektový management, které využívají makra pro sledování úkolů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* Hromadný převod zpráv XPS do souborů Word s povolenými makry pro týmy podnikové úrovně.
+
+* Integrace s systémy pro správu dokumentů, které spouštějí makra při otevření souboru.
+
+* Automatizované generování faktur a výpisů s vestavěnými vzorci.
+
+* Zjednodušené formuláře pro začlenění zaměstnanců do HR s dynamickými poli.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

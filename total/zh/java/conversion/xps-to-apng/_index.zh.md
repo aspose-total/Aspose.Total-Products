@@ -57,7 +57,51 @@ otherformats: DXF  PSD TGA IMAGE SVGZ JPEG2000 WMZ EMZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS（XML Paper Specification）文件转换为 **APNG（Animated Portable Network Graphics）**，使静态 XPS 文档转变为动画视觉，非常适合动态演示和网页友好的交互式图形。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从基于 XPS 的报告创建动画仪表板。
+
+* 为在线课程制作带有动态元素的教育可视化。
+
+* 用于网站或社交媒体的互动营销图形。
+
+* 可视化随时间变化的流程工作流程或数据趋势。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XPS 存档转换为 APNG 用于电子学习平台。
+
+* 与网页发布流水线集成，用于动画内容。
+
+* 为仪表板触发生成互动视觉。
+
+* 用于营销和培训活动的自动转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

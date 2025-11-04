@@ -61,7 +61,55 @@ Při převodu souboru POTM na TSV můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTM na TSV (hodnoty oddělené tabulátorem) umožňuje snadný přenos tabulek prezentací do textových tabulek nebo softwaru pro analýzu. Soubory TSV jsou lehké, editovatelné a udržují čisté tabulkové struktury.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Extrahování tabulek snímků pro analytické potrubí založené na CSV/TSV.
+
+* Exportování trénovacích dat nebo výsledků průzkumů z prezentací.
+
+* Transformace finančních a vědeckých dat do formátu TSV pro skriptovací nástroje.
+
+* Příprava tabulkového obsahu snímků pro import do databází.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod snímků na TSV pro potrubí pro zpracování dat.
+
+* Automatické pracovní postupy pro zasílání souborů TSV do platform BI.
+
+* Integrace s kódy Python/R pro statistickou analýzu.
+
+* Spouštěný generátor TSV z šablon prezentací hostovaných v cloudu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

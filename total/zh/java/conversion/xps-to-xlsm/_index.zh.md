@@ -49,7 +49,51 @@ otherformats: TXT XLT ODS XLAM XLSM FODS DIF XLTM XLSB MD SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **XLSM（启用宏的 Excel 工作簿）** 可帮助组织保留和增强静态 XPS 报告中的自动化、公式和交互元素。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 需要自动计算的财务模型。
+
+* 交互式项目跟踪和计划电子表格。
+
+* 嵌入宏的自动报告。
+
+* 使用基于 Excel 的自动化进行工作流优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 企业工作流程中 XPS 转换为 XLSM 的批量转换管道。
+
+* 与 BI 和 ERP 系统集成，实现动态报告。
+
+* 对启用宏的工作簿进行定期更新。
+
+* 从 XPS 数据自动生成交互式仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,45 @@ Při převodu souboru POT na SXC můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na SXC (tabulkový procesor StarOffice Calc) umožňuje použití dat odvozených z prezentace v dědictví StarOffice nebo OpenOffice. Tento formát zůstává relevantní pro vzdělávací a archivační projekty vyžadující zpětnou kompatibilitu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přetvoření obsahu PowerPointu pro instituce používající starší software.
+
+* Vytváření pracovních listů pro studenty z tabulek prezentace.
+
+* Sdílení firemních metrik mezi nástroji pro tabulkové procesory s otevřeným zdrojovým kódem.
+
+* Archivace analytiky založené na PowerPointu v dědictví systémů.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Pracovní postupy pro transformaci dat z dědictví pro podnikovou migraci.
+
+* Automatické extrahování tabulek PowerPointu do souborů SXC.
+
+* Plánované konverze pro archivační a akademické systémy.
+
+* Integrace s dědictvím platforem pro obchodní inteligenci.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

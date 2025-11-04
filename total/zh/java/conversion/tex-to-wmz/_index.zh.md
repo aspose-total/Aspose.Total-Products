@@ -57,7 +57,51 @@ otherformats: WMZ  TGA WMF IMAGE DXF JPEG2000 PSD EMZ SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**WMZ（压缩的Windows图元文件）**，压缩LaTeX图表的矢量图形，优化存储空间，同时保持演示和报告的质量。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为Microsoft Office幻灯片压缩的LaTeX图表。
+
+* 可缩放技术插图的归档。
+
+* 在学术出版物中共享轻量级图形。
+
+* 在报告中嵌入矢量图形而不产生大文件大小。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 自动批量TEX转WMZ转换。
+
+* 集成到文档和幻灯片自动化系统中。
+
+* 触发生成压缩的LaTeX图表。
+
+* 定期更新WMZ图形以供多用户访问。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

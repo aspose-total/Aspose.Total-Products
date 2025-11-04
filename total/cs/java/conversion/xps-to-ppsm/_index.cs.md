@@ -121,7 +121,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **PPSM (s makry povoleným PowerPoint Show)** umožňuje interaktivní prezentace s makry, ideální pro automatizaci, dynamické informační panely nebo pracovní postupy založené na prezentacích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Interaktivní prezentace pro klienty s vestavěnými výpočty.
+
+* Výukové moduly s automatickou navigací nebo kvízovými makry.
+
+* Finanční informační panely, které se automaticky aktualizují v režimu prezentace.
+
+* Automatické reportingové snímky pro firemní schůzky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* Hromadný převod XPS na PPSM pro podnikovou automatizaci.
+
+* Integrace s živými datovými toky pro dynamický obsah snímků.
+
+* Plánované vytváření makry povolených prezentací pro opakující se prezentace.
+
+* Zjednodušený interní pracovní postup pro reporting založený na prezentacích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

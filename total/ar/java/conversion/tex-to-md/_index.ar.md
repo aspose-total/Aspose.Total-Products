@@ -47,7 +47,51 @@ otherformats: MD XLT ODS XLAM XLSM FODS TSV XLSB TXT EXCEL DIF XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **MD (ملف Markdown)** ينتج ملف Markdown قياسي من LaTeX، محافظًا على هيكل النصوص والجداول والتنسيق الأساسي لقراءة متعددة المنصات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحضير ملاحظات البحث بتنسيق LaTeX للتعاون عبر Git.
+
+* توثيق خفيف الوزن مع دعم للرياضيات والجداول.
+
+* مشاركة ملاحظات المحاضرات بتنسيق Markdown مفتوح المصدر.
+
+* تحويل التقارير التقنية لمواقع الويب الثابتة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي مؤتمت لـ TEX إلى MD لفرق البحث.
+
+* دمجه في خطوط أنابيب المحتوى على الويب التي تم التحكم فيها بالإصدار.
+
+* تحديثات مُشغّلة لملفات Markdown من مستودعات LaTeX.
+
+* إنشاء مستمر لملفات MD للمدونات التعليمية أو التقنية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

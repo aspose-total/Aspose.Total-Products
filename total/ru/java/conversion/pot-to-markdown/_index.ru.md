@@ -61,7 +61,45 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML MARKDOWN EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в MARKDOWN позволяет педагогам, разработчикам и профессионалам превратить презентации PowerPoint в легкую, готовую к веб-публикации документацию. Простота Markdown обеспечивает легкое сотрудничество и контроль версий в проектах контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование слайдов PowerPoint в материалы курсов на Markdown.
+
+* Преобразование маркетинговых презентаций в документацию, готовую к публикации в блоге.
+
+* Подготовка технических отчетов для систем документации на основе Git.
+
+* Создание документации для разработчиков на основе корпоративных учебных материалов.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Генерация Markdown из шаблонов PowerPoint в рабочих процессах документации.
+
+* Интеграция с генераторами статических сайтов, такими как Hugo или Jekyll.
+
+* Автоматическое резюмирование презентаций в заметки Markdown.
+
+* Управление знаниями с контролем версий с использованием вывода Markdown.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,45 @@ otherformats: DIF XLTX XLSX SXC XLS XLSM XLSB EXCEL MARKDOWN XLT ODS TSV FODS MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为XLTM（启用宏的Excel模板）可让企业自动化电子表格生成，同时保留PowerPoint设计线索。非常适合为重复工作流程生成动态、交互式模板。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从PowerPoint KPI构建启用宏的Excel模板。
+
+* 使用嵌入式数据宏自动化报告模板。
+
+* 设计可重复使用的财务预测模型。
+
+* 利用自动化脚本创建学术表现跟踪器。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 将XLTM生成集成到数据自动化工作流程中。
+
+* 企业部署基于宏的电子表格模板。
+
+* 为财务和人力资源团队定期创建模板。
+
+* 用于可重复报告周期的转换自动化。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

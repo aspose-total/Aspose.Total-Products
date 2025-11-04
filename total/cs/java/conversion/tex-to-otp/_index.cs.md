@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **OTP (OpenDocument Presentation Template)** produkuje opakovaně použitelné šablony prezentací s formátováním LaTeX pro konzistentní design prezentací pro výuku nebo obchodní prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Standardizované šablony přednášek s LaTeX-stylovými rovnicemi.
+
+* Šablony konferenčních snímků pro výzkumné týmy.
+
+* Opakovaně použitelné vzdělávací materiály s obsahem bohatým na vzorce.
+
+* Šablony projektových návrhů pro technické prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace šablon LaTeX-to-OTP pro kurzy.
+
+* Aktualizace šablon spuštěné z repozitářů LaTeX.
+
+* Automatizované distribuce šablon snímků spolupracovníkům.
+
+* Integrace s pracovními postupy prezentací open-source LMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

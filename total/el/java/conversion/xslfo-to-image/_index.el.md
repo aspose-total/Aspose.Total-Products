@@ -57,7 +57,51 @@ otherformats: DXF IMAGE TGA JPEG2000 SVGZ EMZ WMF  PSD WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή XSLFO σε **ΕΙΚΟΝΑ (Γενικές μορφές ράστερ)** παρέχει ευέλικτη έξοδο για ιστοσελίδες, εκτυπώσεις και εφαρμογές επιφάνειας εργασίας. Οι υποστηριζόμενες μορφές μπορεί να περιλαμβάνουν PNG, BMP ή TIFF ανάλογα με τις απαιτήσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες περιπτώσεις χρήσης" %}}
+
+
+
+* Δημιουργία στατικών οπτικών από δομημένους πίνακες XSLFO.
+
+* Προετοιμασία γραφικών για πίνακες ελέγχου αναφορών ή τεκμηρίωση.
+
+* Εξαγωγή διαγραμμάτων και πινάκων για κινητές εφαρμογές ή ηλεκτρονική μάθηση.
+
+* Δημιουργία ραστεροποιημένων αρχείων επαναλαμβανόμενων αναφορών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή αναφορών XSLFO σε πολλαπλές μορφές εικόνας.
+
+* Ενσωμάτωση με αυτοματοποιημένες διαδικασίες δημιουργίας πινάκων ελέγχου.
+
+* Εξαγωγή με ενεργοποίηση για προγραμματισμένη παράδοση αναφοράς.
+
+* Αυτοματοποιημένη δημιουργία εικόνας για πλατφόρμες ηλεκτρονικής μάθησης ή ιστού.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

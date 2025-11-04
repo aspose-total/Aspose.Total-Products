@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek JPEG2000 podle svých pot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEXu na **JPEG2000** poskytuje vysoce kvalitní, komprimované vizuály LaTeXu vhodné pro archivaci, profesionální publikování a webové aplikace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace vysokorozlišných grafů LaTeXu pro výzkumné práce.
+
+* Vědecké diagramy pro online publikaci s minimální ztrátou kvality.
+
+* Sdílení komprimovaných akademických obrázků napříč platformami.
+
+* Vysokokvalitní vizuály LaTeXu pro výukové materiály.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná hromadná konverze pro výzkumné repozitáře.
+
+* Integrace do akademických publikačních procesů.
+
+* Spuštěná generace JPEG2000 pro distribuci na webu nebo tisk.
+
+* Nepřetržitá archivace grafů LaTeXu ve formátech s kompresí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **PPTM (с поддержкой макросов PowerPoint)** объединяет редактируемые слайды с возможностями автоматизации. PPTM идеально подходит для динамической отчетности, интерактивных панелей и повторяющихся презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание XSLFO-расчетов в интерактивные слайды.
+
+* Подготовка автоматизированных панелей для оценки производительности.
+
+* Создание макро-возможных обучающих или инструктивных слайдов.
+
+* Распространение динамических инвестиционных или презентаций для совета директоров.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование отчетов XSLFO в слайды PPTM.
+
+* Интеграция с автоматизированными конвейерами VBA.
+
+* Запуск генерации макро-возможных слайдов из повторяющегося контента XSLFO.
+
+* Автоматизированное пакетное преобразование для динамических корпоративных презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

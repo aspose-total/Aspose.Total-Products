@@ -61,7 +61,45 @@ otherformats: XLSB XLSX XLS EXCEL XLSM XLAM SXC TSV MARKDOWN XLTM DIF MHTML ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملف POT إلى XLSM (مصنف إكسل مع ماكرو) يسمح للمؤسسات بالاحتفاظ بالتفاعلية والتلقائية في جداولها. هذا مثالي للعروض التي تحتوي على منطق بيانات أو حسابات تحليلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء جداول بيانات تفاعلية من لوحات التحكم في برنامج PowerPoint.
+
+* بناء قوالب تحتوي على ماكرو لمهام مالية متكررة.
+
+* تحويل بيانات العرض إلى أدوات تقارير آلية.
+
+* إنشاء جداول بيانات ديناميكية لتتبع التقدم في التدريب.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+* تحويل PowerPoint إلى XLSM بشكل تلقائي لأغراض التحليل الداخلي.
+
+* دمج سير العمل مع سكربتات التلقائية التي تعتمد على VBA.
+
+* إنشاء تقارير مالية تحتوي على ماكرو بشكل دفعي.
+
+* تلقين جداول بيانات ديناميكية لتقارير المؤسسة.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

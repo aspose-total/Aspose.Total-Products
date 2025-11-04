@@ -61,7 +61,47 @@ otherformats: XLSB TSV XLTM SXC ODS EXCEL FODS XLT DIF XLAM XLTX XLSM XLSX XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η εξαγωγή MOBI σε FODS (Flat OpenDocument Spreadsheet) παρέχει ένα βασισμένο σε XML αποτέλεσμα υπολογιστικού φύλλου ιδανικό για ελαφριά ανταλλαγή δεδομένων. Είναι ιδανικό για περιβάλλοντα ανοικτού κώδικα και συστήματα που απαιτούν δομημένα δεδομένα eBook σε απλό κείμενο.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+- Διαχείριση βιβλιοθηκών eBook σε εφαρμογές υπολογιστικών φύλλων ανοικτού κώδικα.
+
+- Επεξεργασία χαρακτηριστικών περιεχομένου MOBI μέσα στο LibreOffice Calc.
+
+- Δημιουργία ελαφρών αναφορών για αναλύσεις ψηφιακής βιβλιοθήκης.
+
+- Κοινοποίηση μεταδεδομένων μεταξύ ομάδων χρησιμοποιώντας ανοικτές μορφές.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+- Μαζικές μετατροπές MOBI σε FODS για ανοικτά πύλες δεδομένων.
+
+- Ενσωμάτωση σε ανοικτές διαδικασίες ETL δεδομένων.
+
+- Ανάλυση XML για επαλήθευση και καθαρισμό μεταδεδομένων.
+
+- Δημοσίευση δεδομένων βασισμένη σε FODS για ακαδημαϊκά ιδρύματα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX文件转换为**DOT（Word文档模板）**，使用户能够利用LaTeX格式，同时构建可重用的Word模板，用于公司或教育用途。这有助于在官方报告和专业文件中保持一致性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 具有LaTeX风格排版的公司标头和提案模板。
+
+* 为大学提供标准化的学术或考试模板。
+
+* 专业使用的简历模板。
+
+* 工程师和研究人员的项目文档模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量报告生成模板的自动化生成。
+
+* 与教育机构的文档自动化软件集成。
+
+* 从LaTeX存储库触发模板更新，以确保品牌一致性。
+
+* 为工程项目创建动态模板库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

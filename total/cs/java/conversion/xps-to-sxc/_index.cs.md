@@ -47,7 +47,51 @@ Při převodu souboru XPS na SXC můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **SXC (StarOffice Spreadsheet)** poskytuje zpětnou kompatibilitu s staršími soubory OpenOffice/StarOffice. Tento formát je vhodný pro zastaralé pracovní postupy a archivační účely.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace zpráv ve formátu SXC.
+
+* Historické finanční a provozní datové sady.
+
+* Migrace tabulek založených na XPS do prostředí s otevřeným zdrojovým kódem.
+
+* Technické nebo výzkumné záznamy pro starší kancelářské balíky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod repozitářů XPS do souborů SXC.
+
+* Automatická archivace pro účely dodržování předpisů a auditu.
+
+* Plánovaná migrace periodických zpráv ve formátu XPS.
+
+* Integrační potrubí starých systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

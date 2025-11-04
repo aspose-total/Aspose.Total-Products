@@ -54,7 +54,51 @@ API také umožňuje převádět dokumenty TXT chráněné heslem na PPS. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TXT do formátu **PPS (PowerPoint Show)** vytváří prezentace připravené k prezentaci, které se otevírají přímo v režimu prezentace. Tento formát je ideální pro distribuci finálních prezentací klientům nebo publiku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Prezentace pro klienty distribuované bez rizika úprav.
+
+* Přednášky nahrávané předem pro e-learningové platformy.
+
+* Prezentace z akcí a konferencí generované z textových programů.
+
+* Prezentační kampaně doručené přímo jako soubory PPS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná konverze TXT na PPS pro dodávku obsahu webinářů.
+
+* Plánované hromadné exporty pro knihovny prezentačních materiálů klientů.
+
+* Integrace do obsahových portálů pro slide show na vyžádání.
+
+* Spuštěné generování pro interní informační schůzky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

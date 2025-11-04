@@ -121,7 +121,55 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XPS in **PPSX (PowerPoint-Show, makrofrei)** erzeugt schreibgeschützte, sofort präsentationsbereite Folien-Decks, die das Format und Layout beibehalten und Makroabhängigkeiten aus Sicherheitsgründen entfernen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Unternehmensweite Informationspräsentationen.
+
+* Bildungsfolien für die Verteilung im E-Learning.
+
+* Marketing- oder Verkaufsunterlagen, die bereit sind, geteilt zu werden.
+
+* Veranstaltungs- oder Seminarpräsentationen für große Publikumsgruppen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Massenkonvertierung von XPS-Dateien in PPSX für sicheres Präsentationsteilen.
+
+* Geplante automatisierte Erstellung von Show-Dateien für Schulungssitzungen.
+
+* Integration in interne Portale für die Präsentationsverteilung.
+
+* Vereinfachte Erstellung von schreibgeschützten Folien für die Verwendung durch Kunden oder die Öffentlichkeit.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

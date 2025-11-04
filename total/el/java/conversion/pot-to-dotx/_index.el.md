@@ -53,7 +53,45 @@ otherformats: RTF DOTX ODT WORD WORDML FLATOPC DOT OTT DOTXM TEXT DOTXX DOTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του POT σε DOTX (Word Template XML) επιτρέπει σε επαγγελματικές ομάδες να διατηρήσουν τις διατάξεις παρουσίασης και να τις μετατρέψουν σε μοντέρνα πρότυπα Word. Το DOTX είναι ιδανικό για τη συνοχή της εταιρικής ταυτότητας, την επεκτασιμότητα και την προσβασιμότητα σε πολυ-ομάδες περιβάλλοντα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία προτύπων σύμφωνα με τον σχεδιασμό για εργατικά ή νομικά έγγραφα.
+
+* Επαναχρησιμοποίηση γραφικών από το PowerPoint σε πρότυπα εταιρικών αναφορών.
+
+* Δημιουργία προτύπων ακαδημαϊκών συλλόγων από διαφάνειες μαθήματος.
+
+* Δημιουργία συστημάτων συνεπούς μορφοποίησης για εσωτερική τεκμηρίωση.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Μαζική μετατροπή ενσωματωμένη στις εταιρικές διαδικασίες περιουσιακών στοιχείων.
+
+* Κατανομή προτύπων DOTX μέσω εσωτερικών κέντρων τεκμηρίωσης.
+
+* Ενσωμάτωση σε συστήματα παροχής προτύπων.
+
+* Αυτόματη δημιουργία για πλαίσια εγγράφων σύμφωνα με την εταιρική ταυτότητα.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

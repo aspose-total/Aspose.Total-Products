@@ -135,7 +135,51 @@ presentation.save("output.potm", SaveFormat.Potm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **POTM (قالب باوربوينت مع ماكرو ممكّن)** يسمح بتضمين الماكروهات في قوالب الشرائح القابلة لإعادة الاستخدام. POTM مثالي للعروض التقديمية الديناميكية التي تتطلب التشغيل التلقائي والمحتوى التفاعلي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين حسابات مبنية على XSLFO في ماكروهات العروض التقديمية.
+
+* تلقائية تحديثات حالة المشروع المتكررة في عروض الشرائح.
+
+* إنشاء لوحات تفاعلية من جداول بيانات XSLFO.
+
+* توزيع قوالب POTM الموحدة عبر الأقسام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل مجدول لتقارير XSLFO إلى قوالب POTM للتشغيل التلقائي.
+
+* التكامل مع VBA أو سير العمل التلقائي في PowerPoint.
+
+* توليد دفعات مشغلة من قوالب العروض التقديمية مع ماكرو.
+
+* تحديث تلقائي لقوالب POTM من تحليلات XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

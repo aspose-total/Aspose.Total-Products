@@ -121,7 +121,51 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων XPS (XML Paper Specification) σε **ODP (OpenDocument Presentation)** επιτρέπει στους χρήστες να δημιουργήσουν πλήρως επεξεργάσιμες παρουσιάσεις συμβατές με το LibreOffice και το OpenOffice. Το ODP διατηρεί τη διάταξη, το κείμενο και τις εικόνες ενώ υποστηρίζει συνεργατικές ροές εργασίας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Διαλέξεις εκπαίδευσης για ακαδημαϊκά ιδρύματα.
+
+* Παρουσιάσεις ΜΚΟ ή κυβερνητικών φορέων που απαιτούν ανοιχτές μορφές.
+
+* Ενημερώσεις ομάδων έργου και αναφορές προόδου.
+
+* Παρουσιάσεις μάρκετινγκ ή καμπάνιες για πλατφόρμες ανοιχτού κώδικα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή αρχείων XPS σε ODP για εκπαιδευτικές πλατφόρμες.
+
+* Ενσωμάτωση με εργαλεία ροών εργασίας για αυτόματη δημιουργία διαφανιών.
+
+* Προγραμματισμένες ενημερώσεις επαναλαμβανόμενου περιεχομένου παρουσιάσεων.
+
+* Βελτιωμένη συνεργασία μεταξύ διαφορετικών σουιτ γραφείου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

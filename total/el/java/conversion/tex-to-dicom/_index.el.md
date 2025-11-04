@@ -57,7 +57,55 @@ otherformats: WMZ WMF EMZ DXF IMAGE JPEG2000 DICOM TGA SVGZ PSD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **DICOM (Ψηφιακή Εικονογράφηση και Επικοινωνίες στην Ιατρική)** επιτρέπει την ενσωμάτωση τεχνικών και επιστημονικών διαγραμμάτων LaTeX στις ροές εργασίας της ιατρικής απεικόνισης και την τεκμηρίωση της έρευνας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Ενσωμάτωση διαγραμμάτων βασισμένων σε LaTeX σε αναφορές ιατρικής απεικόνισης.
+
+* Τεκμηρίωση βιοϊατρικής έρευνας με δομημένο περιεχόμενο LaTeX.
+
+* Οπτικοποίηση ανατομικών δεδομένων χρησιμοποιώντας γραφικά που δημιουργήθηκαν με LaTeX.
+
+* Δημοσίευση σχηματικών βασισμένων σε LaTeX στην ερευνητική ραδιολογία.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτοματοποιημένη μαζική μετατροπή για αρχεία απεικόνισης νοσοκομείων.
+
+* Ενσωμάτωση στις ροές εργασίας ιατρικής έρευνας.
+
+* Ενεργοποιημένη μετατροπή TEX σε DICOM για κλινικές μελέτες.
+
+* Εξαγωγή διαγραμμάτων LaTeX για διαγνωστική υποστήριξη από την τεχνητή νοημοσύνη.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

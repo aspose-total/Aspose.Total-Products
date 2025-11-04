@@ -47,7 +47,51 @@ otherformats: XLAM FODS EXCEL XLSM XLTM MD TSV XLTX DIF ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **XLT (Πρότυπο Excel)** επιτρέπει τη χρήση επαναχρησιμοποιήσιμων προτύπων υπολογιστικών φύλλων με προκαθορισμένη μορφοποίηση και στυλ. Το XLT είναι ιδανικό για την τυποποίηση επαναλαμβανόμενων αναφορών από πηγές XSLFO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Προετοιμασία τυποποιημένων προτύπων τιμολογίων βασισμένων σε XSLFO.
+
+* Δημιουργία προτύπων αναφοράς έργων για επαναλαμβανόμενη χρήση.
+
+* Αρχειοθέτηση μηνιαίων πινάκων ελέγχου ως επαναχρησιμοποιήσιμα πρότυπα Excel.
+
+* Διανομή εταιρικών προτύπων αναφοράς KPI που παράγονται από XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη δημιουργία προτύπων XLT από αναφορές XSLFO.
+
+* Ενσωμάτωση με επαναλαμβανόμενες αγωγούς αναφοράς.
+
+* Προγραμματισμένη μετατροπή για τυποποιημένα τμήματα εργασίας.
+
+* Ενεργοποιημένη δημιουργία προτύπων Excel για συνεκτική αναφορά.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,45 @@ Při převodu souboru POT na MHTML můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na MHTML (MIME HTML) umožňuje profesionálům archivovat celé prezentace v PowerPointu jako jednostránkové webové soubory. MHTML zachycuje všechny zdroje - text, obrázky a styly - což ho činí ideálním pro offline přístup nebo digitální distribuci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření webově archivovatelných verzí firemních prezentací.
+
+* Sdílení zpráv založených na PowerPointu jako samostatných webových dokumentů.
+
+* Uchovávání školicích materiálů pro přístup z intranetu.
+
+* Převod vzdělávacích prezentací do přenosných HTML zdrojů.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatický export MHTML pro systémy archivace dokumentů.
+
+* Integrace s korporátními intranetovými publikacemi.
+
+* Generování offline-ready HTML z PowerPoint šablon.
+
+* Hromadný převod pro e-learningové a školicí portály.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

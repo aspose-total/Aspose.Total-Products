@@ -47,7 +47,51 @@ otherformats: TSV XLT XLTM XLAM FODS SXC XLTX EXCEL TXT XLSM ODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **XLTX (قالب Excel)** ينشئ قوالب قابلة لإعادة الاستخدام وخالية من الماكرو، مثالية للتقارير الموحدة، إدخال البيانات، والوثائق التجارية مع ضمان الأمان والتوافق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب تقارير تحمل علامة الشركة.
+
+* قوالب أكاديمية أو بحثية لإدخال البيانات المتكررة.
+
+* أوراق تتبع المشاريع للتعاون في الفريق.
+
+* قوالب التقارير المالية والتشغيلية بدون ماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء تلقائي لقوالب Excel على أساس XPS.
+
+* خطوط إنتاج دفعية للاستخدام على نطاق واسع في الشركات.
+
+* التكامل مع أنظمة إدارة الوثائق للتوزيع.
+
+* تحديثات مجدولة لقوالب موحدة متكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

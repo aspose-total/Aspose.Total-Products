@@ -47,7 +47,51 @@ Při převodu souboru TEX na DIF můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **DIF (Data Interchange Format)** zajistí, že lze LaTeX tabulková data použít s staršími tabulkovými programy a specializovanými vědeckými nástroji a zároveň zachovat strukturu a přesnost.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Importování číselných tabulek založených na LaTeXu do zastaralého finančního softwaru.
+
+* Sdílení inženýrských výpočtů s nástroji kompatibilními s DIF.
+
+* Uchování strukturovaných dat pro akademické publikace.
+
+* Archivace LaTeX datových sad ve formátech otevřené výměny.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace DIF z dat projektu v LaTeXu.
+
+* Integrace do vědeckých datových potrubí.
+
+* Automatická archivace výsledků výzkumných experimentů.
+
+* Plánované konverze pro systémy kontinuálního hlášení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

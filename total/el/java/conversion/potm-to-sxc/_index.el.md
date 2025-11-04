@@ -61,7 +61,55 @@ otherformats: TSV FODS XLSM ODS SXC XLS XLTM MARKDOWN XLSB XLSX XLT MHTML EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από POTM σε SXC παράγει αρχεία υπολογιστικού φύλλου παλαιάς μορφής. Αυτή η μορφή είναι χρήσιμη για συμβατότητα με παλαιότερα πακέτα γραφείου και εξασφαλίζει ότι τα ιστορικά δεδομένα παρουσίασης μπορούν ακόμα να αναλυθούν.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μεταφορά πινάκων οικονομικών βάσεων δεδομένων σε SXC για παλαιά συστήματα.
+
+* Μετατροπή αναφορών έργων για οργανισμούς που χρησιμοποιούν παλαιότερο λογισμικό γραφείου.
+
+* Αρχειοθέτηση αριθμητικού περιεχομένου διαφανειών σε μορφή φύλλου υπολογιστικού πίσω συμβατή.
+
+* Κοινοποίηση πινάκων παρουσίασης σε ομάδες που χρησιμοποιούν παλιές εφαρμογές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή προτύπων POTM σε SXC για αρχειοθέτηση.
+
+* Ενσωμάτωση με παλαιά συστήματα αναφορών.
+
+* Ενεργοποίηση γεννήτριας SXC για τη διατήρηση ιστορικών δεδομένων.
+
+* Αυτοματοποιημένες ροές εργασίας από διαφάνειες σε παλαιότερα φύλλα υπολογιστικού.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

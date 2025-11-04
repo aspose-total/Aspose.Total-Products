@@ -144,7 +144,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von TEX in **OTT (OpenDocument Text Template)** ermöglicht es Pädagogen, Forschern und Unternehmen, wiederverwendbare Vorlagen mit LaTeX-Styling in offenen Formaten zu erstellen und so die Standardisierung von Dokumenten zu optimieren.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Vorlagen für Lehrmaterial mit konsistentem LaTeX-Format.
+
+* OpenDocument-Vorlagen für kollaborative Laborberichte.
+
+* Projekt- und Geschäftsberichtsvorlagen für Open-Source-Office-Suiten.
+
+* Standardisierte Formulare für den akademischen oder administrativen Gebrauch.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Vorlagenerstellung für Multi-User-Umgebungen.
+
+* Integration in Open-Source-LMS und Büro-Workflows.
+
+* Stapelaktualisierungen von Vorlagensammlungen für akademische Einrichtungen.
+
+* Dynamische LaTeX-zu-OTT-Konvertierung für Forschungsdokumentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

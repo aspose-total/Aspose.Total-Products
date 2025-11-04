@@ -135,7 +135,51 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **POTX (шаблон PowerPoint без макросов)** позволяет создавать безопасные, многократно используемые шаблоны слайдов с форматированием LaTeX, идеально подходящие для многопользовательских сред.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Стандартизированные шаблоны слайдов курсов с уравнениями LaTeX.
+
+* Слайды конференций без ограничений макросов.
+
+* Многократно используемые шаблоны презентаций проектов.
+
+* Академические лекции с содержанием, богатым формулами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание шаблонов LaTeX-to-POTX.
+
+* Автоматическое обновление шаблонов из репозиториев LaTeX.
+
+* Интеграция в образовательные LMS или корпоративные системы слайдов.
+
+* Генерация шаблонов слайдов по триггеру для многопользовательских команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

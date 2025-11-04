@@ -47,7 +47,51 @@ otherformats: DIF XLT TSV XLTX XLSM MD XLAM TXT EXCEL XLTM ODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **XLSB (Excel Binary Workbook)** يحسن الأداء لمجموعات بيانات كبيرة من خلال استخدام تنسيق ثنائي سريع التحميل ومدمج بشكل مضغوط مع الحفاظ على جميع ميزات جداول البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مجموعات بيانات مالية أو مبيعات كبيرة تتطلب معالجة فعالة.
+
+* مجموعات بيانات هندسية وعلمية تحتوي على صيغ معقدة.
+
+* لوحات تفاعلية تتضمن إدخالات بيانات بحجم كبير.
+
+* تقارير شركات تحتوي على رسوم بيانية مضمنة وجداول محورية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تحويل دُفعي من XPS إلى XLSB لتحليل عالي الأداء.
+
+* إنشاء لوحات تفاعلية تلقائيًا من بيانات XPS ثابتة.
+
+* تحديثات دورية مجدولة لملفات XLSB للتقارير المتكررة.
+
+* دمج في أنظمة BI التي تحتاج إلى جداول بيانات سريعة التحميل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

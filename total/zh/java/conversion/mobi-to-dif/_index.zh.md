@@ -61,7 +61,47 @@ otherformats: FODS XLSM TSV XLTX XLTM XLAM DIF XLT XLSX XLSB EXCEL ODS XLS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI文件转换为DIF（数据交换格式）可确保与传统数据系统的兼容性，同时保持结构化电子表格中的可读性。DIF提供了一种有效的方式来在各个平台上标准化电子书统计数据、阅读历史或目录数据。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+- 为历史分析存档MOBI文件元数据。
+
+- 将电子书统计数据导入支持DIF的老式软件。
+
+- 为标准化存储格式化的学术出版记录。
+
+- 为机构电子书系统进行离线目录转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 在研究数据管理中安排MOBI到DIF的导出。
+
+- 与旧的ERP或报告系统集成。
+
+- 通过命令行转换器进行批处理，供图书馆员使用。
+
+- 为分布式阅读网络自动交付DIF文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

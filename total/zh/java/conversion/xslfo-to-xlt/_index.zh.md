@@ -49,7 +49,51 @@ otherformats: XLAM FODS EXCEL XLSM XLTM MD TSV XLTX DIF ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **XLT（Excel 模板）** 可以创建具有预定义格式和样式的可重用电子表格模板。XLT 非常适合从 XSLFO 源标准化重复报告。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 准备标准化的基于 XSLFO 的发票模板。
+
+* 创建可重复使用的项目报告模板。
+
+* 将每月仪表板存档为可重用的 Excel 模板。
+
+* 分发从 XSLFO 生成的公司 KPI 报告模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从 XSLFO 报告自动生成 XLT 模板。
+
+* 与重复报告管道集成。
+
+* 为标准化部门模板进行定期转换。
+
+* 触发生成一致报告的 Excel 模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

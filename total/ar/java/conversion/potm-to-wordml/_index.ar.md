@@ -53,7 +53,55 @@ otherformats: DOTM DOTX TEXT RTF WORDMLM FLATOPC ODT DOT WORDML WORD WORDMLX OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POTM إلى WORDML يقوم بتصدير قوالب العروض التقديمية إلى WordProcessingML، وهو تنسيق Microsoft Word قائم على XML مثالي للتكامل مع البيانات وتخزين الوثائق المهيكلة. يحافظ على دلالة الوثيقة لأنظمة الأتمتة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تخزين البيانات القائمة على XML لمحتوى العرض التقديمي لأنظمة الشركات.
+
+* دمج بيانات PowerPoint في قوالب التقارير المهيكلة.
+
+* عرض الوثائق التلقائي من WordML للنشر عبر الإنترنت.
+
+* إعادة استخدام المحتوى في سير العمل للوثائق التي تعمل بقاعدة البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* خطوط أنابيب تحويل XML تلقائية لتبادل بيانات الوثائق.
+
+* التكامل مع منصات إدارة نظام إدارة المحتوى باستخدام تنسيق WordML.
+
+* التحويل لمستودعات الوثائق التي تخضع للتحكم بالإصدارات.
+
+* سير العمل للنشر عبر تنسيقات متعددة باستخدام إخراج XML WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -49,7 +49,51 @@ otherformats: XLTX EXCEL TSV DIF XLTM SXC MD TXT XLSB XLSM ODS FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **TSV（制表符分隔值）** 提供了一个简单、轻量级的数据共享格式，特别适用于编程、分析和数据库导入/导出场景。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 用于计算分析的科学数据集。
+
+* 可轻松导入到 R、Python 或统计软件中。
+
+* 团队之间快速交换数据，无需依赖 Excel。
+
+* 需要扁平文件数据的基于 Web 的报告工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 研究实验室的自动化 XPS 到 TSV 管道。
+
+* 与批处理处理的分析脚本集成。
+
+* 定期 XPS 报告的计划转换。
+
+* 简化导入到数据库或 ETL 工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

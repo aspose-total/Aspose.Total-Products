@@ -61,7 +61,47 @@ otherformats: EXCEL DIF XLS XLTM TSV XLTX XLSM FODS XLSX XLAM ODS SXC XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI文件转换为XLTM（启用宏的Excel模板）可以合并自动化和标准化。它可以创建可重复使用的、基于宏的模板，用于管理和分析MOBI数据。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- 用于自动化电子书分析的宏准备模板。
+
+- 用于MOBI转换的可配置报告布局。
+
+- 用于数字出版的模板驱动仪表板。
+
+- 用于可重复报告的简化Excel环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 使用XLTM宏批量导入MOBI文件。
+
+- 在出版流程中动态生成XLTM。
+
+- 与用于分析的VBA自动化集成。
+
+- 为团队提供云托管的XLTM模板分发。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,45 @@ otherformats: TSV DIF XLSM MHTML FODS MARKDOWN ODS XLT EXCEL SXC XLTM XLS XLTX X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в XLAM (Excel Add-In) позволяет автоматизировать встраивание макросов в листы Excel, полученные из данных презентаций. Это преобразование приносит пользу предприятиям, использующим PowerPoint для отчетности и Excel для динамических вычислений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Создание дополнений Excel на основе шаблонов KPI в PowerPoint.
+
+* Автоматизация расчетов по данным о продажах или результатам обучения.
+
+* Создание макро-управляемых панелей инструментов на основе презентаций.
+
+* Интеграция визуальных элементов презентации с моделями автоматизации Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание XLAM для инструментов аналитики предприятия.
+
+* Преобразование рабочих процессов, объединяющих макросы PowerPoint и Excel.
+
+* Интеграция с платформами автоматизации бизнес-процессов.
+
+* Корпоративная автоматизация для повторяющихся операций с электронными таблицами.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

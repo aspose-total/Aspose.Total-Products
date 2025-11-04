@@ -135,7 +135,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **POWERPOINT (PPT/PPTX)** παρέχει πλήρως επεξεργάσιμες παρουσιάσεις με εξισώσεις LaTeX, πίνακες και διαγράμματα, ιδανικές για επαγγελματικές και ακαδημαϊκές διαφάνειες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Διαλέξεις πανεπιστημίου με περίπλοκο μαθηματικό περιεχόμενο.
+
+* Παρουσιάσεις μηχανικής και επιστημονικής έρευνας.
+
+* Εταιρικές παρουσιάσεις έργων χρησιμοποιώντας πίνακες LaTeX.
+
+* Διαδραστικές διαφάνειες για εργαστήρια και σεμινάρια.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή LaTeX σε PowerPoint για υλικά μαθήματος.
+
+* Ενσωμάτωση σε αυτοματοποιημένους σωλήνες παρουσιάσεων.
+
+* Παραγωγή διαφανειών με ενεργοποιημένη γεννήτρια για αναφορές έρευνας ή έργων.
+
+* Συνεργασία πολλαπλών συγγραφέων με ροές εργασίας μετατροπής LaTeX σε PPT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

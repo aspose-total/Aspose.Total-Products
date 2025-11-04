@@ -135,7 +135,51 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX a **SWF (Shockwave Flash)** crea animaciones interactivas de LaTeX adecuadas para plataformas educativas y presentaciones en línea, aunque principalmente para sistemas heredados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Tutoriales y visualizaciones animadas basadas en LaTeX.
+
+* Módulos educativos interactivos para plataformas heredadas.
+
+* Compartir cálculos iterativos o demostraciones de algoritmos.
+
+* Diagramas dinámicos en contenido técnico de e-learning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión por lotes de TEX a SWF para bibliotecas de contenido heredadas.
+
+* Integración en plataformas de e-learning sin conexión.
+
+* Generación de SWF activada para secuencias de LaTeX interactivas.
+
+* Actualizaciones programadas de tutoriales animados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

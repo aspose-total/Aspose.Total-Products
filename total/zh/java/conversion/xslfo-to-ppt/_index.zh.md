@@ -135,7 +135,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **PPT（传统 PowerPoint 格式）** 可确保与旧版 Microsoft Office 版本兼容，同时保留表格内容和幻灯片布局。PPT 适用于仍在使用传统工具的组织。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 为传统企业系统准备 XSLFO 生成的幻灯片。
+
+* 以 PPT 格式分享教育或培训内容。
+
+* 为审计目的存档独立的幻灯片。
+
+* 将 XSLFO 报告转换为易分发的传统 PowerPoint 文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量自动将 XSLFO 转换为 PPT 幻灯片。
+
+* 定期导出管理或培训报告。
+
+* 与传统基于 Office 的工作流程管道集成。
+
+* 从 XSLFO 模板触发 PPT 创建以进行存档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

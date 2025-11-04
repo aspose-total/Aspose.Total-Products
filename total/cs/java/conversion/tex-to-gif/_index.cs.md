@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění TEX na **GIF (Graphics Interchange Format)** umožňuje sdílení LaTeX vizualizací a malých animací online nebo jejich vložení do výukových materiálů a tutoriálů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Jednoduché LaTeX animace pro vzdělávací obsah.
+
+* Sdílení postupných diagramů řešení problémů.
+
+* Vkládání animovaných vzorců do e-learningových platforem.
+
+* Vizualizace iterativních LaTeX výpočtů ve formátu GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická hromadná konverze TEX na GIF pro tutoriály.
+
+* Integrace s LMS a online výukovým obsahem.
+
+* Spouštění generování GIF z LaTeX grafů nebo sekvencí.
+
+* Automatická aktualizace vzdělávacích GIF na základě aktualizací LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

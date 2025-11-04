@@ -57,7 +57,51 @@ otherformats: EMZ TGA SVGZ WMZ  PSD IMAGE DXF WMF JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XPS转换为**图像（通用光栅格式如PNG或BMP）**可确保报告、文档和数字内容分发的广泛兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 用于报告和档案的高质量图像导出。
+
+* 用于在线或印刷分发的教育材料。
+
+* 源自XPS文件的营销资料。
+
+* 用于企业或政府使用的视觉文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量XPS转换为图像的流程。
+
+* 与网络发布或内部系统集成。
+
+* 从XPS存储库中定期创建图像档案。
+
+* 用于内容共享的自动化文档转图像工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

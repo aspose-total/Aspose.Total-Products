@@ -57,7 +57,55 @@ otherformats: WMZ SVGZ JPEG2000 DXF  TGA PSD EMZ WMF IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO（可扩展样式表语言格式化对象）文件转换为**APNG（动态便携式网络图形）**，可以实现结构化报告数据的动画表示，同时保持清晰的矢量质量。APNG非常适合交互式仪表板和基于Web的可视化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从XSLFO生成的分析报告中制作动画图表。
+
+* 对财务或运营趋势进行交互式可视化。
+
+* 制作带有动画表格的移动友好型教育内容。
+
+* 在远程医疗或电子学习平台中制作动态幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将XSLFO仪表板转换为APNG以用于Web应用程序。
+
+* 集成到实时数据可视化管道中。
+
+* 定期生成用于报告工具的动画图形。
+
+* 在自动化工作流程中从XSLFO触发APNG创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

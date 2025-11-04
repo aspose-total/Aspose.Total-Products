@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **DICOM (цифровое изображение и связь в медицине)** позволяет встраивать технические и научные диаграммы LaTeX в медицинские рабочие процессы и исследовательскую документацию.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Интеграция диаграмм на основе LaTeX в отчеты по медицинскому изображению.
+
+* Документирование биомедицинских исследований с использованием структурированного содержимого LaTeX.
+
+* Визуализация анатомических данных с использованием графики, созданной в LaTeX.
+
+* Публикация схем на основе LaTeX в исследованиях в области радиологии.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование для архивов изображений больниц.
+
+* Интеграция в рабочие процессы медицинских исследований.
+
+* Запуск преобразования TEX в DICOM для клинических исследований.
+
+* Экспорт диаграмм LaTeX для диагностики с помощью искусственного интеллекта.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

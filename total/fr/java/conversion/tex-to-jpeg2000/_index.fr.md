@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier TEX vers JPEG2000 dans un seu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **JPEG2000** permet d'obtenir des visuels LaTeX de haute qualité et compressés, adaptés à l'archivage, à la publication professionnelle et aux applications web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Archivage de graphiques LaTeX haute résolution pour les articles de recherche.
+
+* Diagrammes scientifiques pour une publication en ligne avec perte de qualité minimale.
+
+* Partage de figures académiques compressées sur différentes plateformes.
+
+* Visuels LaTeX de haute qualité pour les supports pédagogiques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée par lots pour les dépôts de recherche.
+
+* Intégration dans les pipelines de publication académique.
+
+* Génération déclenchée de JPEG2000 pour une distribution web ou imprimée.
+
+* Archivage continu de figures LaTeX dans des formats compressés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

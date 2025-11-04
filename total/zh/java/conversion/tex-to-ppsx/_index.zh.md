@@ -135,7 +135,51 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**PPSX（不含宏的PowerPoint演示）**可生成安全、即时可查看的演示文稿，适合在多个平台上共享。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 用于分发的学术讲座，无宏安全风险。
+
+* 具有LaTeX样式表格的企业或培训演示文稿。
+
+* 公式丰富的会议幻灯片可重复使用。
+
+* 多平台共享技术幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将LaTeX转换为PPSX。
+
+* 自动创建讲座或培训幻灯片。
+
+* 与LMS或企业演示系统集成。
+
+* 触发式幻灯片生成用于协作学术项目。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

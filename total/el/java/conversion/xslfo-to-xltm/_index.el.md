@@ -47,7 +47,51 @@ otherformats: TSV FODS SXC XLT XLTM EXCEL ODS MD DIF XLTX XLAM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **XLTM (Πρότυπο Excel με Μακροενεργοποίηση)** υποστηρίζει επαναχρησιμοποιήσιμα βιβλία εργασίας με ενσωματωμένη αυτοματοποίηση. Τα πρότυπα XLTM διευκολύνουν την επαναλαμβανόμενη αναφορά και τις προηγμένες ροές εργασίας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Τυποποίηση αναφορών XSLFO με ενσωματωμένα μακρόγραμματα για αυτοματοποίηση.
+
+* Διανομή διαδραστικών προτύπων αναφορών σε όλα τα τμήματα.
+
+* Προετοιμασία επαναχρησιμοποιήσιμων προτύπων μοντελοποίησης οικονομικών από XSLFO.
+
+* Δημιουργία αυτοματοποιημένων προτύπων πίνακα ελέγχου από δεδομένα XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Παραγωγή πακέτου προτύπων XLTM για εταιρικές αναφορές.
+
+* Ενσωμάτωση με αυτοματοποιημένες ροές εργασίας VBA.
+
+* Προγραμματισμένη μετατροπή από XSLFO σε XLTM για επαναλαμβανόμενες αναφορές έργων.
+
+* Ενεργοποιημένη δημιουργία προτύπου XLTM για αναλυτικά πίνακες ελέγχου με μακρόγραμματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

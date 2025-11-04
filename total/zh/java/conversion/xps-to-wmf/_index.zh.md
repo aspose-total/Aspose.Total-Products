@@ -57,7 +57,51 @@ otherformats: TGA EMZ PSD SVGZ JPEG2000 WMZ  WMF IMAGE DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XPS转换为**WMF（Windows Metafile）**可生成适用于Microsoft Office集成和技术插图的可缩放矢量图形。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将矢量图形嵌入Office文档中。
+
+* 用于手册和报告的技术图表。
+
+* 需要可缩放图形的营销视觉。
+
+* 用于演示文稿和宣传册的说明性内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于企业文档库的批量XPS到WMF转换。
+
+* 从XPS自动创建可缩放图表。
+
+* 与发布流程集成。
+
+* 定期更新可重复使用的矢量图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

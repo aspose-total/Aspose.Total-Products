@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **SWF (Flash)** επιτρέπει διαδραστικές animations για παλαιά πίνακες ελέγχου και web εφαρμογές. Το SWF διατηρεί γραφικά διανύσματος και επιτρέπει αλληλεπιδράσεις βασισμένες στο χρονολόγιο.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Ενσωμάτωση διαδραστικών γραφημάτων XSLFO σε παλαιούς ιστότοπους.
+
+* Δημιουργία κινούμενων πινάκων ελέγχου για ιστορικά εσωτερικά συστήματα.
+
+* Μετατροπή εκπαιδευτικών ενοτήτων σε SWF για χρήση χωρίς σύνδεση.
+
+* Αρχειοθέτηση διαδραστικών οπτικοποιήσεων XSLFO για λόγους συμμόρφωσης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Προγραμματισμένη μετατροπή XSLFO σε SWF για παλαιά συστήματα.
+
+* Δημιουργία πακέτων κινούμενων πινάκων ελέγχου.
+
+* Ενεργοποιημένη δημιουργία για εφαρμογές παλαιού τύπου που βασίζονται στο web.
+
+* Ενσωμάτωση με αυτοματοποιημένες διαδραστικές αναφορές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

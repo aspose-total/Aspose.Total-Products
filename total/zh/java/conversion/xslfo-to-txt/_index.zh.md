@@ -49,7 +49,55 @@ otherformats: EXCEL SXC XLTX XLAM XLSM TXT TSV MD XLTM XLT XLSB ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO文件转换为**TXT（纯文本）**可实现与所有文本编辑器、数据处理工具和编程环境的通用兼容性。TXT文件提取XSLFO中的核心内容而不包含样式，非常适合原始数据分析、脚本编写和归档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将XSLFO表格和报告导出用于批量数据处理。
+
+* 准备结构化财务或运营报告的纯文本版本。
+
+* 将XSLFO内容存档为通用可访问格式。
+
+* 生成用于分析流水线的原始数据提取。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时批量将XSLFO转换为TXT以进行自动化工作流程。
+
+* 集成到ETL和数据预处理流水线中。
+
+* 从定期XSLFO报告中触发TXT导出。
+
+* 从XSLFO仪表板自动提取纯文本摘要。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Mit der API können Sie das ausgegebene IMAGE-Bild auch nach Ihren Bedürfnissen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von TEX in **BILD (generische Rasterformate)** verwandelt LaTeX-Gleichungen, Tabellen und Abbildungen in universell kompatible Bildformate für Web, Druck und Dokumentationszwecke.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Einbetten von LaTeX-generierten Abbildungen in Blogs und Websites.
+
+* Vorbereiten von hochauflösenden Bildern für wissenschaftliche Arbeiten.
+
+* Teilen von Diagrammen in universell lesbaren Formaten.
+
+* Umwandeln komplexer LaTeX-Tabellen in Bildschnappschüsse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelverarbeitung von TEX-zu-Bild-Konvertierungen für Inhaltsbibliotheken.
+
+* Integration in automatisierte Veröffentlichungs- und Website-Workflows.
+
+* Ausgelöste Updates für bildbasierte Vorlesungs- oder Tutorialinhalte.
+
+* Exportieren mehrerer LaTeX-Diagramme in konsistente Bildformate.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

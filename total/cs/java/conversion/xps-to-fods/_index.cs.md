@@ -47,7 +47,51 @@ Při převodu souboru XPS na FODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **FODS (Flat OpenDocument Spreadsheet)** zajišťuje kompatibilitu se sešity s otevřeným zdrojovým kódem pro LibreOffice a OpenOffice. Ideální pro organizace používající dodavatelsky neutrální, multiplatformní řešení.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Datové sady akademických a výzkumných projektů pro spolupracovní úpravy.
+
+* Finanční zprávy s otevřeným zdrojovým kódem pro neziskové organizace nebo vládní instituce.
+
+* Technické datové listy a provozní záznamy ve formátech s otevřeným zdrojovým kódem.
+
+* Sdílení sešitů mezi týmy na různých platformách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované konverzní procesy XPS na FODS pro výzkumné laboratoře.
+
+* Integrace s otevřenými ERP nebo analytickými systémy.
+
+* Plánované aktualizace pro provozní sešity.
+
+* Zjednodušená spolupráce pomocí otevřených dokumentových formátů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

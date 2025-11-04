@@ -130,7 +130,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **OTT (قالب نص OpenDocument)** يحول الملفات الثابتة XPS إلى قوالب قابلة لإعادة الاستخدام لمستخدمي LibreOffice و OpenOffice، مثالية لمستندات سير العمل الموحدة في تنسيقات مفتوحة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب المواد الأكاديمية والتعليمية للطلاب والمعلمين.
+
+* قوالب مشاريع المنظمات غير الحكومية للتقارير والمقترحات.
+
+* قوالب موحدة مفتوحة المصدر للوثائق الشركاتية.
+
+* قوالب للمحتوى الإبداعي للكتيبات والنشرات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* إنشاء دفعة من قوالب OTT من مستودعات XPS.
+
+* التكامل مع أدوات التشغيل التلقائي لسير العمل مفتوحة المصدر.
+
+* ملء القوالب تلقائيًا بالبيانات التنظيمية.
+
+* تبسيط عمليات إنشاء المستندات عبر المنصات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ Al convertir un archivo XPS a SXC, también puede agregar una marca de agua a su
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir XPS a **SXC (Hoja de cálculo de StarOffice)** proporciona compatibilidad con versiones anteriores de archivos de OpenOffice/StarOffice. Este formato es adecuado para flujos de trabajo heredados y propósitos de archivo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Archivo de informes heredados en formato SXC.
+
+* Conjuntos de datos financieros y operativos históricos.
+
+* Migración de hojas de cálculo basadas en XPS a entornos de código abierto.
+
+* Registros técnicos o de investigación para suites de oficina más antiguas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión por lotes de repositorios XPS en archivos SXC.
+
+* Archivo automatizado para fines de cumplimiento y auditoría.
+
+* Migración programada de informes XPS periódicos.
+
+* Integración de sistemas heredados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,55 @@ API také umožňuje převádět dokumenty TXT chráněné heslem na PPSM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TXT na **PPSM (prezentace PowerPointu s povolenými makry)** kombinuje schopnosti automatizace s přímým zobrazením prezentace. Ideální pro dynamické prezentace s interaktivními prvky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Interaktivní finanční prezentace s živými výpočty.
+
+* Výukové moduly s makry pro navigaci v komplexních pracovních postupech.
+
+* Prezentační snímky sledování projektů s automatizovanými aktualizacemi.
+
+* Prodejní ukázky s automatizovanými přechody obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování snímků prezentace s makry pro týdenní zprávy.
+
+* Integrace s CRM a nástroji pro řízení projektů.
+
+* Plánované aktualizace prezentací s makry.
+
+* Spouštěné interaktivní snímky pro prezentace určené klientům.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

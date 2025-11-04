@@ -47,7 +47,51 @@ otherformats: SXC FODS XLT XLTM EXCEL XLSM XLTX XLSB ODS XLAM TXT TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **XLSM (Excel Macro-Enabled Workbook)** позволяет наборам данных LaTeX взаимодействовать с продвинутыми макросами Excel для автоматизации, анализа и динамической отчетности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Динамические панели управления с данными, сгенерированными LaTeX.
+
+* Автоматизированные расчеты и шаблоны отчетов для исследований.
+
+* Макро-возможности для академических или корпоративных отчетов.
+
+* Отчеты по инженерии и финансам с использованием сложных формул.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетные преобразования LaTeX в XLSM для автоматизированных рабочих процессов.
+
+* Интеграция в системы отчетности предприятий, управляемых макросами.
+
+* Триггерные обновления для совместных рабочих книг XLSM.
+
+* Автоматическое создание макросов Excel на основе наборов данных LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

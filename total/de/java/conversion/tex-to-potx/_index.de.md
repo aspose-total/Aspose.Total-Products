@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von TEX in **POTX (PowerPoint-Vorlage ohne Makros)** ermöglicht sichere, wiederverwendbare Folienvorlagen mit LaTeX-Formatierung, perfekt für Multi-User-Umgebungen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Standardisierte Kursfolienvorlagen mit LaTeX-Gleichungen.
+
+* Konferenzfolien ohne Makrobeschränkungen.
+
+* Wiederverwendbare Projektpräsentationsvorlagen.
+
+* Akademische Vorlesungsfolien mit formelreichem Inhalt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelerstellung von LaTeX-zu-POTX-Vorlagen.
+
+* Automatische Vorlagenaktualisierungen aus LaTeX-Repositories.
+
+* Integration in Bildungslernmanagementsysteme oder Unternehmensfoliensysteme.
+
+* Ausgelöste Folienvorlagenerstellung für Teams mit mehreren Autoren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

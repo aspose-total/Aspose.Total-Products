@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **SVGZ (сжатый SVG)** обеспечивает масштабируемую векторную графику в сжатой форме, идеальную для веб-сайтов, панелей управления и отзывчивых приложений. SVGZ уменьшает размер файла, сохраняя при этом качество.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание интерактивных диаграмм из отчетов XSLFO для веб-панелей управления.
+
+* Встраивание масштабируемых визуальных элементов в отзывчивые приложения.
+
+* Архивирование векторных финансовых таблиц в сжатом формате.
+
+* Подготовка диаграмм для электронного обучения или баз знаний.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XSLFO в SVGZ для веб-отчетов.
+
+* Запланированная выгрузка сжатой векторной графики.
+
+* Интеграция с автоматизированными рабочими процессами онлайн-панелей управления.
+
+* Автоматическое создание изображений SVGZ из аналитики XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

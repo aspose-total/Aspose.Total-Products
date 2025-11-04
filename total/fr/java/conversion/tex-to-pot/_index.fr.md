@@ -135,7 +135,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **POT (modèle PowerPoint)** permet au contenu stylisé LaTeX de devenir un modèle PowerPoint réutilisable pour des présentations académiques, commerciales et d'entreprise.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Diapositives de cours professionnelles avec des équations complexes.
+
+* Modèles de propositions de projets d'entreprise avec des tableaux LaTeX.
+
+* Modèles standardisés pour les cours universitaires.
+
+* Présentations de conférences en ingénierie ou en sciences.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversions automatisées en lots de TEX en POT pour les bibliothèques de modèles.
+
+* Intégration dans les systèmes d'automatisation des diapositives d'entreprise.
+
+* Mises à jour planifiées des modèles à partir des sources LaTeX.
+
+* Génération déclenchée pour la collaboration multi-utilisateurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

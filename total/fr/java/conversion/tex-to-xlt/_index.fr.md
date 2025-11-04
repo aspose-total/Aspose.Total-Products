@@ -47,7 +47,51 @@ Lors de la conversion du fichier TEX en XLT, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **XLT (modèle Excel)** permet aux données basées sur LaTeX de former des modèles Excel réutilisables pour des projets, des analyses et des travaux académiques.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Modèles de rapports standardisés pour les équipes de recherche.
+
+* Modèles financiers réutilisables basés sur des tableaux LaTeX.
+
+* Feuilles de calcul de notes académiques avec des formules LaTeX.
+
+* Modèles de suivi de projets d'ingénierie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Création en lot de modèles Excel à partir de LaTeX.
+
+* Intégration dans des référentiels de modèles d'entreprise ou académiques.
+
+* Population automatisée des données LaTeX dans les modèles XLT.
+
+* Mises à jour planifiées des modèles pour des environnements multi-utilisateurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

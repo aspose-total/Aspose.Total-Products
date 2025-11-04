@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **PPSM (prezentace PowerPointu s makry)** kombinuje automatické snímky s makrovým automatizováním. PPSM je ideální pro interaktivní informační panely, automatizované prezentace nebo dynamické reportování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava automatizovaných výkonnostních informačních panelů ve formátu prezentace.
+
+* Vložení maker pro interaktivní obsah řízený XSLFO.
+
+* Sdílení prezentací s makry pro týmové reportování.
+
+* Vytváření dynamických prezentací pro investory nebo výkonné výbory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod snímků XSLFO na PPSM pro automatizovaná setkání.
+
+* Plánovaná aktualizace snímků s makry z opakujících se XSLFO reportů.
+
+* Integrace s VBA nebo pracovními postupy automatizace PowerPointu.
+
+* Spouštěná generace PPSM pro interaktivní prezentace v reálném čase.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

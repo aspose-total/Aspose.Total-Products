@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier XSLFO vers DXF dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XSLFO en **DXF (Drawing Exchange Format)** préserve les mises en page tabulaires vectorielles pour une utilisation dans les applications de CAO et de conception technique. Les fichiers DXF conservent des dimensions précises et des structures de mise en page.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Conversion de rapports d'ingénierie générés par XSLFO en formats compatibles avec la CAO.
+
+* Archivage de tables structurées sous forme de dessins vectoriels pour la documentation technique.
+
+* Intégration de mises en page opérationnelles dans des logiciels de conception.
+
+* Génération de diagrammes techniques à partir de rapports XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de XSLFO en DXF pour les flux de travail de documentation d'ingénierie.
+
+* Exportation planifiée de tables de rapports structurés en tant que DXF pour examen de conception.
+
+* Intégration avec des pipelines de rapports automatisés basés sur la CAO.
+
+* Conversion déclenchée de données XSLFO en dessins DXF pour les équipes techniques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

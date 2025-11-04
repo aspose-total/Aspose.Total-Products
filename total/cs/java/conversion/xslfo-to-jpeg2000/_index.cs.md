@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek JPEG2000 podle svých pot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **JPEG2000** poskytuje vysoce komprimované rastrové obrázky s minimální ztrátou kvality. JPEG2000 je vhodný pro lékařské zobrazování, velké vizuální zprávy a archivační účely.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace XSLFO zpráv s vysokým rozlišením obsahujících složité tabulky.
+
+* Příprava detailních finančních nebo operačních vizuálů pro digitální distribuci.
+
+* Převod XSLFO analýz na efektivní rastrové obrázky.
+
+* Generování vizuálů ve velkém formátu pro publikace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XSLFO na JPEG2000 pro archivační úložiště.
+
+* Plánovaná generace pro automatizované pracovní postupy publikování.
+
+* Integrace s potrubími pro optimalizaci obrázků.
+
+* Spuštěný export s vysokým rozlišením z XSLFO nástěnek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

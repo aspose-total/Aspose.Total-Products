@@ -57,7 +57,51 @@ otherformats: DXF SVGZ IMAGE EMZ JPEG2000 WMF PSD  TGA WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **JPEG2000** يوفر رسومات LaTeX عالية الجودة ومضغوطة تصلح للأرشفة والنشر المهني وتطبيقات الويب.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة رسومات LaTeX عالية الدقة لورقات البحث.
+
+* رسوم علمية للنشر عبر الإنترنت مع فقدان الجودة الأدنى.
+
+* مشاركة الشكليات الأكاديمية المضغوطة عبر المنصات.
+
+* رسومات LaTeX عالية الجودة لمواد التدريس.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي آلي لمستودعات البحث.
+
+* دمجه في خطوط إنتاج النشر الأكاديمي.
+
+* توليد JPEG2000 بناءً على الطلب للتوزيع عبر الويب أو الطباعة.
+
+* الأرشفة المستمرة لرسومات LaTeX بتنسيقات مضغوطة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

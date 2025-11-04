@@ -47,7 +47,51 @@ otherformats: XLAM ODS FODS XLTM XLT TSV SXC MD EXCEL XLTX XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων XSLFO σε μορφή **FODS (Flat OpenDocument Spreadsheet)** υποστηρίζει λογισμικά γραφείου ανοικτού κώδικα όπως το LibreOffice και το OpenOffice. Το FODS επιτρέπει ελαφριές, επεξεργάσιμες υποδομές φύλλων εργασίας βασισμένες σε XML κατάλληλες για συνεργατικά περιβάλλοντα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Διαμοιρασμός φύλλων προϋπολογισμού που δημιουργήθηκαν από XSLFO με χρήστες λογισμικού γραφείου ανοικτού κώδικα.
+
+* Αρχειοθέτηση αναφορών σε μια ανοικτή, τυποποιημένη μορφή φύλλου εργασίας.
+
+* Προετοιμασία φύλλων παρακολούθησης έργων για συνεργατική συνεργασία σε πολλές πλατφόρμες.
+
+* Μετατροπή τεχνικών πινάκων XSLFO σε επεξεργάσιμα φύλλα εργασίας FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή από XSLFO σε FODS για ανοικτές αναφορικές διαδικασίες.
+
+* Ενσωμάτωση σε συστήματα διαχείρισης εγγράφων που υποστηρίζουν το FODS.
+
+* Προγραμματισμένη εξαγωγή για συνεργατικά πίνακες ελέγχου έργων.
+
+* Αυτόματη μετατροπή αναφορών αναλυτικής αξιολόγησης XSLFO σε μορφή FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **DOTM (قالب Word الممكن تشغيله بواسطة ماكرو)** يدمج كفاءة القالب مع التشغيل التلقائي للماكرو. يمكن للمؤسسات الحفاظ على تخطيطات المستندات الموحدة بينما يتم تشغيل المهام المتكررة تلقائيًا مباشرة داخل Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب الفواتير والتقارير مع ماكروهات الحساب التلقائي.
+
+* قوالب النماذج القانونية التي تقوم بملء بيانات العميل تلقائيًا.
+
+* قوالب تخطيط المشاريع مع ماكروهات تفاعلية لتتبع المهام.
+
+* قوالب المستندات الخاصة بالموارد البشرية التي تقوم بتشغيل الموافقات والإشعارات تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* إنشاء سائل للقوالب الممكن تشغيلها بواسطة ماكرو بشكل موحد من مصادر XPS.
+
+* دمجها في أنظمة تخطيط موارد المؤسسات لتوليد المستندات تلقائيًا.
+
+* تحديثات القوالب المشغلة عند تغيير ملفات XPS المصدر.
+
+* سير العمل التقريرية التلقائية باستخدام قوالب DOTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

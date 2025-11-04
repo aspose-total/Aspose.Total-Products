@@ -61,7 +61,51 @@ otherformats: FODS DIF XLSX MARKDOWN MHTML XLSB TSV SXC XLS ODS XLTM XLTX EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM转换为XLSB会创建二进制Excel工作簿，实现更快的加载时间和更小的文件大小，同时保留来自PowerPoint幻灯片的所有数据、公式和图表。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将复杂的演示文稿财务模型转换为紧凑的二进制工作簿。
+
+* 从幻灯片中导出大型数据集，用于企业Excel分析。
+
+* 需要快速电子表格访问的高性能分析。
+
+* 将繁重的幻灯片表存档为XLSB，以实现高效存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从企业演示文稿生成XLSB文件的自动化流水线。
+
+* 与数据密集型报告工具集成。
+
+* 为基于云的仪表板触发XLSB创建。
+
+* 将幻灯片批量处理为高性能电子表格格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

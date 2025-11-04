@@ -135,7 +135,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **OTP (OpenDocument Presentation Template)** ينتج قوالب عروض قابلة لإعادة الاستخدام بتنسيق LaTeX لتصميم شرائح متسق للمحاضرات أو الأعمال.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب محاضرات موحدة بمعادلات بتنسيق LaTeX.
+
+* قوالب شرائح للمؤتمرات لفرق البحث.
+
+* مواد تعليمية قابلة لإعادة الاستخدام بمحتوى غني بالصيغ.
+
+* قوالب اقتراح مشروع للعروض التقنية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليف دفعي لقوالب LaTeX-to-OTP للدورات.
+
+* تحديثات القوالب المُشغّلة من مستودعات LaTeX.
+
+* توزيع آلي لقوالب الشرائح للمتعاونين.
+
+* دمج مع سير العمل لعروض نظم إدارة التعلم مفتوحة المصدر.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

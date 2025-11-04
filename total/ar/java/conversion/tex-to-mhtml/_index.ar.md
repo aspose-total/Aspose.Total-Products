@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **MHTML (MIME HTML)** يسمح بعرض مستندات LaTeX كصفحة ويب ملف واحدة، مع الحفاظ على المعادلات والجداول والرسومات للعرض دون اتصال بالإنترنت أو معه.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة أوراق بحثية بتقنية LaTeX كصفحات ويب مستقلة.
+
+* مشاركة تقارير مبنية على LaTeX تحتوي على رسومات ومعادلات.
+
+* إنشاء مواد دراسية تفاعلية في ملف MHTML واحد.
+
+* تحويل المحتوى التقني لوحدات التعلم الإلكتروني دون اتصال.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من TEX إلى MHTML لمكتبات المقررات الدراسية.
+
+* دمجه في إنشاء محتوى تعليمي آلي.
+
+* تحديثات MHTML المجدولة من مصادر LaTeX.
+
+* تحويل مشغل لمشاركة الأبحاث العلمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

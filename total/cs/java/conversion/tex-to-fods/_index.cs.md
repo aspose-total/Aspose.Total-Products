@@ -47,7 +47,55 @@ Při převodu souboru TEX na FODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEXu na **FODS (Flat OpenDocument Spreadsheet)** poskytuje LaTeX data v otevřených, XML založených tabulkách kompatibilních s LibreOffice a OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Sdílení vědeckých tabulek založených na LaTeXu s kancelářskými balíky s otevřeným zdrojovým kódem.
+
+* Akademický výzkum vyžadující otevřené, platformně nezávislé formáty tabulek.
+
+* Sledování a reportování projektů v multiplatformních prostředích.
+
+* Příprava LaTeX dat pro spolupracující FODS tabulky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatický převod TEXu na FODS pro pracovní postupy s otevřeným zdrojovým kódem.
+
+* Hromadné zpracování LaTeX datových sad pro spolupráci napříč platformami.
+
+* Plánovaný export výsledků laboratorních testů nebo experimentálních tabulek.
+
+* Integrace do dokumentačních toků pro výzkumné instituce.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

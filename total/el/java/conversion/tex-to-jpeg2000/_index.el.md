@@ -57,7 +57,51 @@ otherformats: DXF SVGZ IMAGE EMZ JPEG2000 WMF PSD  TGA WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **JPEG2000** παρέχει υψηλής ποιότητας, συμπιεσμένα γραφικά LaTeX κατάλληλα για αρχειοθέτηση, επαγγελματικές εκδόσεις και εφαρμογές στον ιστό.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση υψηλής ανάλυσης γραφικών LaTeX για ερευνητικά άρθρα.
+
+* Επιστημονικά διαγράμματα για δημοσίευση στο διαδίκτυο με ελάχιστη απώλεια ποιότητας.
+
+* Διαμοιρασμός συμπιεσμένων ακαδημαϊκών σχημάτων σε διάφορες πλατφόρμες.
+
+* Υψηλής ποιότητας γραφικά LaTeX για εκπαιδευτικό υλικό.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτοματοποιημένη μαζική μετατροπή για αποθετήρια ερευνών.
+
+* Ενσωμάτωση σε ακαδημαϊκές διαδικασίες δημοσίευσης.
+
+* Ενεργοποίηση για τη δημιουργία JPEG2000 για διανομή στον ιστό ή εκτύπωση.
+
+* Συνεχής αρχειοθέτηση γραφικών LaTeX σε συμπιεσμένες μορφές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

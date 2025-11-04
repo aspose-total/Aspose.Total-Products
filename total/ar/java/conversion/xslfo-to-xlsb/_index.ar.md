@@ -47,7 +47,55 @@ otherformats: XLSB SXC ODS EXCEL DIF MD FODS XLT XLSM TXT XLTM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **XLSB (Excel Binary Workbook)** يوفر تخزين جداول بيانات عالية الأداء لمجموعات بيانات كبيرة. يقلل XLSB من حجم الملف، ويسرع الحسابات، ويحافظ على التنسيق المعقد.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* التعامل مع نماذج XSLFO المالية ذات مجموعات بيانات جدولية كبيرة.
+
+* أرشفة تقارير XSLFO التشغيلية في شكل ثنائي مدمج.
+
+* إنشاء لوحات تحكم Excel لتحليلات البيانات الكبيرة.
+
+* إعداد أوراق تنبؤ معتمدة على XLSB من قوالب XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي لتقارير XSLFO إلى XLSB لتحميل أسرع.
+
+* تصدير مجدول لتطبيقات تحليلات المؤسسات.
+
+* دمجه في خطوط أنابيب التقارير المعتمدة على Excel التلقائية.
+
+* توليد XLSB مُحفز من XSLFO لتقارير مالية بمقياس كبير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

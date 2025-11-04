@@ -47,7 +47,51 @@ otherformats: XLAM SXC MD FODS XLTM TXT EXCEL ODS XLT XLSM XLTX TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **CSV (значения, разделенные запятыми)** позволяет преобразовывать документы LaTeX в легкие табличные данные для электронных таблиц, баз данных и приложений аналитики. Это идеально подходит для исследователей и аналитиков, работающих с числовыми наборами данных в LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт таблиц, созданных в LaTeX, в CSV для анализа данных.
+
+* Академические наборы данных для статистического программного обеспечения и обработки на Python/R.
+
+* Финансовые или инженерные отчеты, оформленные в LaTeX, преобразованные для просмотра в электронных таблицах.
+
+* Обмен данными проектов с открытым исходным кодом в универсальном формате CSV.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в CSV в конвейерах ETL.
+
+* Автоматизированное извлечение таблиц из научных статей.
+
+* Интеграция в платформы аналитики, управляемые искусственным интеллектом.
+
+* Генерация CSV по запросу для коллективных наборов данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

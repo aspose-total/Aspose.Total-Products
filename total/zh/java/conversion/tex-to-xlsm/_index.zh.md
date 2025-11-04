@@ -49,7 +49,51 @@ otherformats: SXC FODS XLT XLTM EXCEL XLSM XLTX XLSB ODS XLAM TXT TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**XLSM（启用宏的Excel工作簿）**可使LaTeX数据集与高级Excel宏进行交互，实现自动化、分析和动态报告生成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 使用LaTeX生成数据的动态仪表板。
+
+* 用于研究的自动化计算和报告模板。
+
+* 启用宏的学术或企业报告。
+
+* 具有复杂公式的工程和金融报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将LaTeX转换为XLSM以实现自动化工作流程。
+
+* 集成到企业宏驱动的报告系统中。
+
+* 协作XLSM工作簿的触发更新。
+
+* 从LaTeX数据集自动生成Excel宏。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

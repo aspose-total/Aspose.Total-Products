@@ -135,7 +135,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XSLFO en **PPSX (PowerPoint Show sans macros)** produit des présentations autonomes sûres pour la distribution. PPSX préserve la mise en forme et la disposition tout en évitant les risques d'exécution de macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Création de tableaux de bord financiers autonomes à partir de données XSLFO.
+
+* Partage de présentations standardisées de formation ou d'intégration.
+
+* Préparation de présentations de pitch pour investisseurs sans macros.
+
+* Archivage de diapositives de revue trimestrielle pour une distribution à l'échelle de l'équipe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion par lot planifiée de XSLFO en PPSX pour des présentations récurrentes.
+
+* Génération déclenchée de diaporamas sans macros.
+
+* Intégration dans des pipelines de distribution automatisés.
+
+* Mise à jour automatique des diapositives autonomes à partir de rapports XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

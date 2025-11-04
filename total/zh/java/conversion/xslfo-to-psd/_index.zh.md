@@ -57,7 +57,51 @@ otherformats: PSD EMZ DXF JPEG2000 WMZ TGA SVGZ IMAGE  WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **PSD（Adobe Photoshop）** 可让图形设计师使用图层和高级效果编辑 XSLFO 生成的表格和视觉效果。PSD 输出非常适合营销或演示视觉效果。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将 XSLFO 图表转换为分层的 Photoshop 设计。
+
+* 为营销资料定制报告视觉效果。
+
+* 编辑专业演示所需的结构化 XSLFO 表格。
+
+* 准备具有增强样式的信息图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XSLFO 报告自动导出为 PSD 以用于设计工作流程。
+
+* 与批处理 Photoshop 处理流程集成。
+
+* 定期可视化报告的计划转换。
+
+* 为创意营销仪表板触发 PSD 生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

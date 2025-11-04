@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **WordML (формат Microsoft Word XML)** делает содержимое LaTeX полностью совместимым с XML-документами Word, обеспечивая автоматизированные рабочие процессы, проверку содержимого и интеграцию с корпоративными системами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Генерация научных отчетов на основе XML из исходных файлов LaTeX.
+
+* Рабочие процессы документооборота в корпоративной среде с использованием структурированного WordML.
+
+* Совместная работа нескольких авторов с автоматическим объединением контента.
+
+* Публикация академических или технических материалов на основе XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание документов WordML из репозиториев LaTeX.
+
+* Интеграция в корпоративные системы управления контентом.
+
+* Триггерные экспорты XML для публикаций масштабных исследований.
+
+* Пакетная обработка для отчетности о соответствии и академических публикаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

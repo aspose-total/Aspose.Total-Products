@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **GIF (Μορφή Ανταλλαγής Γραφικών)** επιτρέπει την κοινοποίηση διαδικτυακών οπτικοποιήσεων LaTeX και μικρών animations ή την ενσωμάτωσή τους σε εκπαιδευτικά υλικά και μαθήματα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Απλές animations LaTeX για εκπαιδευτικό περιεχόμενο.
+
+* Κοινοποίηση διαγραμμάτων επίλυσης προβλημάτων βήμα-προς-βήμα.
+
+* Ενσωμάτωση κινούμενων τύπων σε πλατφόρμες ηλεκτρονικής μάθησης.
+
+* Οπτικοποίηση επαναληπτικών υπολογισμών LaTeX σε μορφή GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μαζική μετατροπή TEX σε GIF για μαθήματα.
+
+* Ενσωμάτωση με Σύστημα Διαχείρισης Μαθημάτων και περιεχόμενο online μαθημάτων.
+
+* Ενεργοποίηση δημιουργίας GIF από γραφήματα ή ακολουθίες LaTeX.
+
+* Αυτόματη ενημέρωση εκπαιδευτικών GIF βασισμένη σε ενημερώσεις LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **DOTM (Šablona s makry pro Word)** spojuje efektivitu šablony s automatizací maker. Organizace mohou udržovat jednotné rozložení dokumentů a zároveň automatizovat opakující se úkoly přímo v programu Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Šablony faktur a reportů s makry pro automatické výpočty.
+
+* Právní formulářové šablony, které automaticky vyplňují údaje klienta.
+
+* Šablony pro plánování projektů s interaktivními makry pro sledování úkolů.
+
+* Šablony dokumentů v oblasti lidských zdrojů automatizující schvalování a oznámení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* Hromadné vytváření standardizovaných šablon s makry z XPS zdrojů.
+
+* Integrace do systémů ERP pro automatizovanou generaci dokumentů.
+
+* Spouštěné aktualizace šablon při změně zdrojových XPS souborů.
+
+* Automatizované pracovní postupy pro generování zpráv pomocí šablon DOTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

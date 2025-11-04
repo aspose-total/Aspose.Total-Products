@@ -61,7 +61,55 @@ otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων POTM σε ODS παράγει αρχεία υπολογιστικού φύλλου OpenDocument που είναι συμβατά με το LibreOffice, το OpenOffice και άλλες εφαρμογές υπολογιστικών φύλλων ανοικτού κώδικα. Βεβαιώνει ότι τα δεδομένα παρουσίασης μπορούν να επαναχρησιμοποιηθούν σε διαφορετικές πλατφόρμες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή δεδομένων εταιρικών διαφανειών σε μορφές υπολογιστικών φύλλων που ακολουθούν ανοικτά πρότυπα.
+
+* Ανακύκλωση ακαδημαϊκών παρουσιάσεων για στατιστική ανάλυση ανοικτού κώδικα.
+
+* Μετατροπή αναφορών ΜΚΟ για συνεργασία σε πολλαπλές πλατφόρμες.
+
+* Καθιέρωση αριθμητικών πινάκων διαφανειών σε μορφή ODS για ροές εργασιών πολλαπλών τμημάτων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη δημιουργία αρχείων ODS από πρότυπα παρουσιάσεων.
+
+* Ενσωμάτωση με συστήματα διαχείρισης εγγράφων που υποστηρίζουν ανοικτά μορφές.
+
+* Μαζικές μετατροπές για συνεργασία σε πολλαπλές πλατφόρμες.
+
+* Ενεργοποιημένη δημιουργία ODS για αγωγούς αναφοράς βασισμένους στο cloud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

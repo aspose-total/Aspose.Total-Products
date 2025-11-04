@@ -144,7 +144,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX-Dateien in **DOTM (Word Macro-Enabled Template)** bietet wiederverwendbare Vorlagen mit Makrofunktionalität. Ideal für automatisierte Workflows, verbindet es LaTeXs präzises Setzen mit den Automatisierungsfunktionen von Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Automatisierte Einreichungsvorlagen für wissenschaftliche Zeitschriften.
+
+* Wiederverwendbare technische Berichtsvorlagen mit dynamischer Inhaltegenerierung.
+
+* Makrofähige Formulare für Labor- oder Forschungsdateneingabe.
+
+* Generierung von LaTeX-gestützten Word-Vorlagen für Zusammenarbeit mehrerer Autoren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Echtzeit-Dokumentenerstellung ausgelöst durch LaTeX-Eingabeströme.
+
+* Integration in Word-basierte unternehmensweite Dokumentenautomatisierungspipelines.
+
+* Stapelaktualisierungen von Vorlagen für kollaborative Forschungsprojekte.
+
+* Generierung von makrofähiger Projektdokumentation für Ingenieurteams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

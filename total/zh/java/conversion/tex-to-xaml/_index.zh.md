@@ -135,7 +135,51 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX文件转换为**XAML（可扩展应用标记语言）**，可以在WPF、UWP和基于.NET的应用程序中使用LaTeX内容、公式和图表，保留矢量图形和文本格式设置。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在桌面应用程序中嵌入由LaTeX生成的图表和方程式。
+
+* 创建具有科学或数学视觉效果的交互式UI元素。
+
+* 从LaTeX源显示动态图表的技术应用程序。
+
+* 无缝集成LaTeX公式的教育软件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将TEX转换为XAML，用于多个UI组件。
+
+* 集成到自动化的WPF或UWP项目流程中。
+
+* 为.NET应用程序触发基于LaTeX的可视化生成。
+
+* 多模块教育软件的定期更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

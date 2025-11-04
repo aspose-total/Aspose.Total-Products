@@ -47,7 +47,55 @@ Při převodu souboru TEX na SXC můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **SXC (tabulkový kalkulátor StarOffice Calc)** umožňuje uživatelům starších verzí OpenOffice nebo StarOffice pracovat s LaTeX tabulkovými daty, aniž by ztratili strukturu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Historické LaTeX datasety ve formátu kompatibilním se StarOffice.
+
+* Akademický výzkum vyžadující kompatibilitu s legacy kancelářskými aplikacemi.
+
+* Meziplatformní sdílení numerických LaTeX tabulek.
+
+* Projekční zprávy v SXC pro starší kancelářské systémy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánované hromadné konverze LaTeX datasetů.
+
+* Integrace do pracovních postupů legacy kancelářských aplikací.
+
+* Archivace strukturovaných LaTeX tabulek pro kontinuitu výzkumu.
+
+* Spuštění generování SXC pro spolupracující projekty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

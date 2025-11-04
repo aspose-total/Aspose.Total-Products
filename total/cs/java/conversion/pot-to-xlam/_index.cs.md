@@ -61,7 +61,45 @@ Při převodu souboru POT na XLAM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na XLAM (Excel Add-In) umožňuje automatizaci vložením maker do excelových listů odvozených z dat prezentace. Tato transformace přináší výhody podnikům využívajícím PowerPoint k reportování a Excel k dynamickým výpočtům.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření Excelových doplňků z KPI šablon založených na PowerPointu.
+
+* Automatizace výpočtů pro data o prodejích nebo výkonnosti školení.
+
+* Generování makrem řízených nástěnek z prezentací.
+
+* Integrace vizuálních prvků prezentace s excelovými automatizačními modely.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* Automatická generace XLAM pro nástroje podnikové analytiky.
+
+* Konverzní postupy kombinující makra PowerPointu a Excelu.
+
+* Integrace s platformami pro automatizaci obchodních procesů.
+
+* Korporátní automatizace pro opakující se operace se sešity.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

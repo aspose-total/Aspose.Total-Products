@@ -57,7 +57,51 @@ otherformats: TGA EMZ PSD SVGZ JPEG2000 WMZ  WMF IMAGE DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **WMF (Windows Metafile)** παράγει κλιμακούμενα διανύσματα γραφικών κατάλληλα για ενσωμάτωση στο Microsoft Office και τεχνικές εικονογραφήσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Ενσωμάτωση διανυσματικών γραφικών σε έγγραφα Office.
+
+* Τεχνικά διαγράμματα για εγχειρίδια και αναφορές.
+
+* Οπτικοακουστικό υλικό μάρκετινγκ που απαιτεί κλιμακούμενα γραφικά.
+
+* Εικονογραφικό περιεχόμενο για παρουσιάσεις και φυλλάδια.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή XPS σε WMF για εταιρικές βιβλιοθήκες εγγράφων.
+
+* Αυτοματοποιημένη δημιουργία κλιμακούμενων διαγραμμάτων από XPS.
+
+* Ενσωμάτωση με αγωγούς δημοσίευσης.
+
+* Προγραμματισμένες ενημερώσεις για επαναλαμβανόμενα διανύσματα γραφικών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

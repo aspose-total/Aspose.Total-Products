@@ -47,7 +47,51 @@ Při převodu souboru XSLFO na TSV můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **TSV (hodnoty oddělené tabulátorem)** zjednodušuje extrakci tabulkových dat pro analytiku, import do databáze nebo procesy ETL. TSV je lehký, čitelný pro člověka a široce podporován programovacími jazyky a nástroji pro práci s daty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování zpráv XSLFO do TSV pro vstřebání do databáze.
+
+* Příprava datových sad přátelských k analýze ze strukturovaných tabulek XSLFO.
+
+* Migrace dat z finančních tabulek XSLFO na analytické platformy.
+
+* Sdílení jednoduchých tabulkových dat ve formátu TSV pro snadnou integraci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze z XSLFO do TSV pro BI potrubí.
+
+* Integrace ETL pro pracovní postupy s analýzami v reálném čase.
+
+* Spuštěný export TSV ze zpráv XSLFO pro automatizované dashboardy.
+
+* Programový převod pro velké sady dat XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ otherformats: DXF SVGZ WMF TGA EMZ PSD DICOM IMAGE WMZ JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **DICOM (الصور الرقمية والاتصالات في الطب)** يمكن أن يمكن دمج الصور الوثائقية في أنظمة الصور الطبية، محافظاً على التفاصيل عالية الوضوح للتطبيقات السريرية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين التقارير الطبية في سير العمل لصور الأشعة التشخيصية.
+
+* أرشفة الوثائق التشخيصية جنباً إلى جنب مع فحوصات المرضى.
+
+* أنظمة المستشفيات التي تتطلب التوافق مع DICOM للتقارير.
+
+* منصات الطب عن بُعد التي تدمج صور الوثائق السريرية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل XPS إلى DICOM بالدُفعات لأنظمة سجلات المستشفيات.
+
+* التكامل التلقائي مع PACS (أنظمة أرشفة وتبادل الصور).
+
+* تحديثات مجدولة لصور سجلات المرضى.
+
+* سير عمل مبسط لمعالجة بيانات الصور الطبية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,45 @@ Pomocí API můžete také provést převod POT souboru na OTT s vodoznakem. Chc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na OTT (OpenDocument Text Template) umožňuje organizacím vytvářet opakovaně použitelné šablony dokumentů, které splňují otevřené standardy. Šablony OTT jsou ideální pro instituce zdůrazňující přístupnost a dlouhodobé archivace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Generování šablon podle otevřených standardů z materiálů k výuce v PowerPointu.
+
+* Převádění stylů prezentací na opakovaně použitelné textové šablony.
+
+* Vytváření konzistentních formátů dokumentů pro akademické publikování.
+
+* Navrhování šablon s otevřeným přístupem pro dokumentaci nevládních organizací.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatizovaný generátor OTT z hlavních rozvržení v PowerPointu.
+
+* Integrace s pracovními postupy dokumentů s otevřeným zdrojovým kódem.
+
+* Synchronizace šablon napříč institucionálními repozitáři dokumentů.
+
+* Systémy dokumentů vlády využívající šablony ve formátu otevřených standardů.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

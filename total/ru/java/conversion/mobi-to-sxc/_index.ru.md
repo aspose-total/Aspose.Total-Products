@@ -61,7 +61,47 @@ otherformats: SXC ODS XLTM DIF TSV XLAM FODS EXCEL XLSX XLT XLTX XLSB XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MOBI в SXC (StarOffice Calc) поддерживает архивирование и совместимость для учреждений, использующих старые форматы электронных таблиц. Этот формат сохраняет целостность структурированных данных, обеспечивая их читаемость в устаревших системах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+- Импорт статистики MOBI в базы данных, совместимые с StarOffice.
+
+- Сохранение каталогов электронных книг в старом формате для государственных архивов.
+
+- Обеспечение обратной совместимости в системах наследия издательства.
+
+- Преобразование метаданных MOBI для анализа отчетов в автономном режиме.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+- Автоматический разбор MOBI для формирования отчетов в пакетном режиме SXC.
+
+- Интеграция с устаревшими фреймворками ETL.
+
+- Плановые экспорты для сохранения данных наследия.
+
+- Потоки маркировки данных с применением искусственного интеллекта для архивов исторического контента.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в T
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **TGA (изображение Targa)** позволяет создавать высококачественные растровые экспорты фигур, созданных в LaTeX, для графически интенсивных приложений, научной визуализации и цифрового искусства.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные области применения" %}}
+
+
+
+* Научные иллюстрации высокой точности.
+
+* Диаграммы, созданные в LaTeX, для редактирования графики.
+
+* Подготовка визуалов для анимации и симуляционных рабочих процессов.
+
+* Цифровая публикация, требующая сохранения качества изображения без потерь.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетный экспорт TEX в TGA для научно-визуальных конвейеров.
+
+* Интеграция с графическими инструментами обработки и симуляции.
+
+* Автоматическое создание высококачественных изображений из содержимого LaTeX.
+
+* Автоматическое архивирование диаграмм в формате TGA для графических команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

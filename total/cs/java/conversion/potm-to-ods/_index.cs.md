@@ -61,7 +61,55 @@ Při převodu souboru POTM na ODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu POTM na ODS produkuje soubory se sešity OpenDocument Spreadsheet kompatibilní s LibreOffice, OpenOffice a dalšími aplikacemi pro tabulkové procesory s otevřeným zdrojovým kódem. Zajišťuje, že data prezentace lze znovu použít napříč různými platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace firemních dat ze slidů do otevřených standardních formátů sešitů.
+
+* Akademické prezentace převedené pro statistickou analýzu s otevřeným zdrojovým kódem.
+
+* Zprávy nevládních organizací převedené pro spolupráci napříč platformami.
+
+* Standardizace číselných tabulek ze slidů do formátu ODS pro víceoddělové pracovní postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované generování souborů ODS z šablon prezentací.
+
+* Integrace s systémy pro správu dokumentů podporujícími otevřené formáty.
+
+* Hromadné konverze pro spolupráci napříč platformami.
+
+* Spuštění tvorby souborů ODS pro cloudové reportingové toky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

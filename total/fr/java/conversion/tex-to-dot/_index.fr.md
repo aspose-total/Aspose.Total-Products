@@ -144,7 +144,29 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Conversion de fichiers TEX en **DOT (modèle de document Word)**
+
+La conversion de fichiers TEX en **DOT (modèle de document Word)** permet aux utilisateurs de tirer parti de la mise en forme LaTeX tout en créant des modèles Word réutilisables pour un usage professionnel ou éducatif. Cela aide à maintenir la cohérence dans les rapports officiels et les documents professionnels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* En-têtes de lettre et modèles de proposition avec une typographie de style LaTeX.
+* Modèles académiques ou d'examens standardisés pour les universités.
+* Modèles de curriculum vitae et de CV pour un usage professionnel.
+* Modèles de documentation de projet pour les ingénieurs et les chercheurs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Génération automatisée de modèles pour la création en lot de rapports.
+* Intégration avec des logiciels d'automatisation de documents dans les établissements d'enseignement.
+* Mises à jour de modèles déclenchées à partir de référentiels LaTeX pour une cohérence de marque.
+* Création de bibliothèques de modèles dynamiques pour les projets d'ingénierie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

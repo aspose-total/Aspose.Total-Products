@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek PSD podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **PSD (Adobe Photoshop)** umožňuje grafickým designérům upravovat tabulky a vizuály generované pomocí XSLFO s vrstvami a pokročilými efekty. Výstup PSD je ideální pro marketingové nebo prezentační vizuály.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace XSLFO grafů do vrstvených návrhů Photoshopu.
+
+* Přizpůsobení vizuálů zpráv pro marketingové materiály.
+
+* Úprava strukturovaných tabulek XSLFO pro profesionální prezentace.
+
+* Příprava infografik s vylepšeným stylováním.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatický export XSLFO zpráv do PSD pro pracovní postupy designu.
+
+* Integrace s dávkovými procesy Photoshopu.
+
+* Plánovaný převod pro opakující se vizuální zprávy.
+
+* Spuštěná generace PSD pro tvůrčí marketingové řídící panely.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

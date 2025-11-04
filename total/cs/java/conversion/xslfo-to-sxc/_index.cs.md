@@ -47,7 +47,51 @@ Při převodu souboru XSLFO na SXC můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO do formátu **SXC (StarOffice Spreadsheet)** umožňuje bezproblémovou interoperabilitu s dědictvím StarOffice a OpenOffice. SXC zachovává strukturu a formátování pro archivační a firemní reportingové pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace projektových plánů založených na XSLFO ve formátu SXC pro dědictví systémů.
+
+* Příprava tabulek SXC pro mezinárodní partnery pomocí StarOffice.
+
+* Převod tabulkových dat XSLFO pro účely školení a dokumentace.
+
+* Sdílení měsíčních KPI v SXC pro reportování o shodě.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový automatizovaný převod z XSLFO do SXC pro archivační projekty.
+
+* Integrace do dědictví kancelářských pracovních postupů podporující formáty StarOffice.
+
+* Plánované generování SXC reportů z XSLFO souborů.
+
+* Spouštěný převod pro opakující se řídicí panely managementu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

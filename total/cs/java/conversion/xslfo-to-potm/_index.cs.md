@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **POTM (šablona PowerPointu s makry)** umožňuje vložení maker do opakovaně použitelných šablon snímků. POTM je ideální pro dynamické prezentace vyžadující automatizaci a interaktivní obsah.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vložení výpočtů založených na XSLFO do makroů prezentace.
+
+* Automatizace opakujících se aktualizací stavu projektu ve snímcích.
+
+* Generování interaktivních nástěnek z datových tabulek XSLFO.
+
+* Distribuce standardizovaných šablon POTM mezi odděleními.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod zpráv XSLFO do šablon POTM pro automatizaci.
+
+* Integrace s VBA nebo pracovními postupy automatizace PowerPointu.
+
+* Spouštěná hromadná generace šablon prezentace s makry.
+
+* Automatická aktualizace šablon POTM z analýz XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

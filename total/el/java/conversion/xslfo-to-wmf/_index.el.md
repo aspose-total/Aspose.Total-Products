@@ -57,7 +57,51 @@ otherformats: SVGZ JPEG2000 EMZ  PSD WMZ DXF TGA IMAGE WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **WMF (Windows Metafile)** επιτρέπει κλιμάκωση διανυσματικών εικόνων συμβατών με το Microsoft Office και άλλες εφαρμογές επεξεργασίας κειμένου.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Ενσωμάτωση πινάκων και γραφημάτων XSLFO στο Microsoft Word ή PowerPoint.
+
+* Δημιουργία κλιμάκωσιμων οπτικών για εταιρικές παρουσιάσεις.
+
+* Αρχειοθέτηση οπτικών αναφορών σε μορφή διανύσματος.
+
+* Προετοιμασία τεχνικών εικονογραφήσεων από δομημένα δεδομένα XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή XSLFO σε WMF για ροές εγγράφων.
+
+* Προγραμματισμένη εξαγωγή διανυσματικών οπτικών για παρουσιάσεις διαφανειών.
+
+* Ενεργοποίηση δημιουργίας εικόνων WMF από πίνακες ελέγχου XSLFO.
+
+* Ενσωμάτωση σε αυτοματοποιημένες εταιρικές διαδικασίες δημοσίευσης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

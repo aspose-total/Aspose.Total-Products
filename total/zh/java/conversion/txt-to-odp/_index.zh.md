@@ -54,7 +54,55 @@ otherformats: PPSX PPTX PPT PPTM PPS POWERPOINT POT POTX POTM PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TXT（纯文本）文件转换为**ODP（OpenDocument Presentation）**格式，可以将原始文本报告无缝转换为结构化幻灯片，非常适合商务会议和协作演示。ODP格式确保在LibreOffice、OpenOffice和其他开源办公套件中的兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将会议记录转换为专业的ODP幻灯片。
+
+* 将学术研究摘要转换为课堂演示。
+
+* 将内部公司报告格式化为董事会讨论。
+
+* 从政策文件中创建培训模块。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于HR入职材料的自动化TXT到ODP转换。
+
+* 集成到企业知识管理系统中。
+
+* 每周运营报告的定时批量转换。
+
+* 从项目管理日志触发创建ODP幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

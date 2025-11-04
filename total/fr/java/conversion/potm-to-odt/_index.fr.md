@@ -53,7 +53,51 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Transformer un POTM en ODT permet aux utilisateurs d'ouvrir le contenu du modèle PowerPoint dans LibreOffice ou OpenOffice Writer. Cela offre un moyen multiplateforme d'éditer le contenu textuel basé sur des présentations dans des formats de document standard ouverts.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Partager du contenu PowerPoint avec des équipes utilisant des outils open source.
+
+* Création de documentation académique ou d'ONG à l'aide de suites bureautiques gratuites.
+
+* Réutiliser des présentations sous forme de manuels au format ODT.
+
+* Produire du contenu de formation modifiable pour les écosystèmes de documents ouverts.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Systèmes d'entreprise convertissant des présentations Microsoft pour la compatibilité ODT.
+
+* Reporting automatisé pour la distribution de documents multiplateformes.
+
+* Pipelines de transformation par lots pour le stockage de documents conformes à l'ODF.
+
+* Génération d'ODT au sein de systèmes d'entreprise basés sur Linux.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -135,7 +135,51 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO文件转换为**POT（PowerPoint模板）**可为Microsoft PowerPoint用户提供标准化、可重复使用的幻灯片。POT模板保留幻灯片布局、样式和表格格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从XSLFO财务摘要创建企业报告模板。
+
+* 为保持一致的演示准备每月项目跟踪幻灯片。
+
+* 从结构化的XSLFO数据设计培训模块。
+
+* 使用预定义幻灯片布局生成可重复使用的投资者路演幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从XSLFO报告批量自动生成POT文件。
+
+* 为定期团队演示安排模板创建。
+
+* 与企业幻灯片自动化流程集成。
+
+* 将XSLFO数据触发转换为可立即使用的POT模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

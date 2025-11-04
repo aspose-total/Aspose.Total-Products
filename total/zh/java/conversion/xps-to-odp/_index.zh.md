@@ -121,7 +121,51 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XPS（XML Paper Specification）文件转换为**ODP（OpenDocument Presentation）**，使用户能够创建与LibreOffice和OpenOffice兼容的可完全编辑、跨平台的演示文稿。ODP保留布局、文本和图像，同时支持协作工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 用于学术机构的教育讲座幻灯片。
+
+* 需要开放格式的NGO或政府演示文稿。
+
+* 团队项目简报和进展报告。
+
+* 面向开源平台的营销或活动演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将XPS存档转换为ODP，用于教育平台。
+
+* 与工作流工具集成，实现幻灯片自动生成。
+
+* 定期更新重复演示内容。
+
+* 简化不同办公套件之间的协作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **OTP (шаблон презентации OpenDocument)** позволяет создавать многоразовые шаблоны слайдов из структурированных данных XSLFO. Шаблоны OTP стандартизируют форматирование презентаций в команде.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка корпоративных шаблонов презентаций из отчетов, сгенерированных XSLFO.
+
+* Стандартизация учебных модулей в многоразовых форматах OTP.
+
+* Создание инвестиционных презентаций с постоянным стилем из содержимого XSLFO.
+
+* Архивирование шаблонов квартальной отчетности для будущего повторного использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование из XSLFO в OTP для библиотек шаблонов.
+
+* Интеграция с автоматизированными конвейерами генерации слайдов.
+
+* Запуск создания шаблона OTP для новой серии отчетов XSLFO.
+
+* Автоматическое развертывание шаблонов на основе XSLFO в различных отделах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

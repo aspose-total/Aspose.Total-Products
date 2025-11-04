@@ -121,7 +121,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **POT（PowerPoint 模板）** 可以从静态 XPS 文档中创建可重复使用的 Microsoft PowerPoint 模板，非常适合标准化的企业和学术演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为客户提案制作公司品牌 PowerPoint 模板。
+
+* 为重复讲座提供学术课程材料模板。
+
+* 具有预定义布局的营销演示文稿。
+
+* 用于重复使用的会议和研讨会模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 文件批量转换为团队的 POT 模板。
+
+* 与自动化演示文稿生成工作流程集成。
+
+* 定期更新用于重复内容的模板。
+
+* 为重复的报告任务简化幻灯片制作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

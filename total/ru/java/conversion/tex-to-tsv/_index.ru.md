@@ -47,7 +47,51 @@ otherformats: SXC XLTM FODS EXCEL TSV ODS XLAM TXT XLTX XLT DIF XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **TSV (значения, разделенные табуляцией)** предоставляет альтернативный легкий формат для числовых и текстовых данных LaTeX, подходящий для аналитики и импорта в программное обеспечение.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт таблиц академических экспериментов для статистического анализа.
+
+* Инженерные наборы данных для Python, R или MATLAB.
+
+* Финансовые таблицы LaTeX, преобразованные для аналитических платформ.
+
+* Обмен легкими данными LaTeX между командами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в TSV в исследовательских конвейерах.
+
+* Автоматический экспорт данных таблиц LaTeX для моделей искусственного интеллекта.
+
+* Генерация TSV в реальном времени для совместных аналитических панелей управления.
+
+* Интеграция в конвейеры ETL для структурированных наборов данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

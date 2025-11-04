@@ -135,7 +135,51 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов XSLFO (Extensible Stylesheet Language Formatting Objects) в **XAML (Extensible Application Markup Language)** позволяет разработчикам и дизайнерам преобразовывать структурированные отчеты в богатые, интерактивные и масштабируемые компоненты пользовательского интерфейса для настольных и веб-приложений. XAML сохраняет стилизацию, макет и иерархические структуры из XSLFO, обеспечивая бесшовную интеграцию с WPF, UWP и другими фреймворками на основе XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование созданных XSLFO дашбордов в приложения WPF с интерактивными таблицами и графиками.
+
+* Встраивание структурированных финансовых или операционных отчетов в настольные интерфейсы.
+
+* Проектирование компонентов пользовательского интерфейса для корпоративных приложений на основе содержимого XSLFO.
+
+* Преобразование структурированных аналитических отчетов в интерактивные визуальные элементы XAML для приложений презентации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование повторяющихся отчетов XSLFO в компоненты пользовательского интерфейса XAML.
+
+* Интеграция в конвейеры ETL для генерации панелей инструментов XAML в реальном времени.
+
+* Плановое обновление интерфейсов XAML из динамических источников данных XSLFO.
+
+* Вызванная генерация макетов XAML для отчетности, визуализации или фреймворков приложений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

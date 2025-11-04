@@ -57,7 +57,51 @@ otherformats: DXF WMF EMZ SVGZ JPEG2000 PSD TGA  WMZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**TGA（Targa图像）**可实现LaTeX生成图形的高质量光栅导出，适用于图形密集型应用程序、科学可视化和数字艺术。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 高保真科学插图。
+
+* 用于图形编辑的LaTeX生成图表。
+
+* 为动画和模拟工作流程准备可视化内容。
+
+* 需要无损图像质量的数字出版。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将TEX转换为TGA，用于研究可视化流程。
+
+* 与图形处理和模拟工具集成。
+
+* 从LaTeX内容触发生成高质量图像。
+
+* 自动将图表存档为TGA供图形团队使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

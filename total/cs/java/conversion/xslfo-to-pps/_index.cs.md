@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **PPS (PowerPoint Show)** umožňuje vytváření samostatně běžících prezentací pro schůzky, školení nebo informační stánky. PPS zachovává formátování a otevírá se přímo v režimu prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Distribuce samostatně běžících firemních přehledových prezentací.
+
+* Příprava automatizovaných školicích nebo úvodních snímků z dat XSLFO.
+
+* Sdílení interaktivního marketingového obsahu pro veletrhy.
+
+* Generování vizuálně atraktivních KPI dashboardů pro přezkoumání managementem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze z XSLFO do souborů PPS.
+
+* Integrace do automatizovaných pracovních postupů distribuce prezentací.
+
+* Spuštění generování souborů PPS z XSLFO zpráv.
+
+* Automatická aktualizace samostatně běžících prezentací pro opakující se schůzky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

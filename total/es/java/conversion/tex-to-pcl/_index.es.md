@@ -144,7 +144,55 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir archivos TEX a **PCL (Printer Command Language)** permite enviar documentos LaTeX, incluyendo ecuaciones, tablas y diagramas, directamente a las impresoras para obtener una salida de alta calidad en entornos profesionales o académicos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Imprimir trabajos de investigación LaTeX y informes técnicos.
+
+* Obtener una salida de alta calidad de notas de clase y materiales educativos.
+
+* Producir material didáctico profesional a partir de tablas y diagramas generados en LaTeX.
+
+* Imprimir documentos en lotes de proyectos científicos o de ingeniería.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión en lotes de TEX a PCL para colas de impresión.
+
+* Integración en flujos de trabajo de impresión de documentos automatizados.
+
+* Generación de PCL desencadenada desde repositorios LaTeX para impresión masiva.
+
+* Salida programada para distribución de documentos académicos o corporativos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

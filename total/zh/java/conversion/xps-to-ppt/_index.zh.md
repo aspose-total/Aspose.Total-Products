@@ -121,7 +121,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **PPT（PowerPoint 97-2003）** 可确保与旧版 Microsoft Office 版本的向后兼容性，保留可编辑的幻灯片、文本和基本格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 与旧版 Office 版本兼容的传统企业演示文稿。
+
+* 存档和历史幻灯片组保留。
+
+* 为使用旧软件的机构提供教育内容。
+
+* 适用于混合版本环境的内部报告和培训幻灯片组。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 文件批量转换为 PPT 以供企业存档。
+
+* 定时自动生成向后兼容演示文稿。
+
+* 与传统文档工作流程集成。
+
+* 在多个 Office 版本间简化幻灯片组创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

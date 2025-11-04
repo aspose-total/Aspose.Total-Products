@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **DOTX (šablona Wordu)** poskytuje možnost šablony bez maker pro uživatele hledající opakovaně použitelné rozložení dokumentů bez automatizovaných skriptů. Ideální pro bezpečné sdílení a konzistentní formátování ve vzdělávacích, firemních a tvůrčích pracovních postupech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Standardizované vzdělávací pracovní listy a úkoly.
+
+* Šablony marketingového obsahu pro kampaně a prezentace.
+
+* Interní šablony politik a postupů pro HR nebo provoz.
+
+* Šablony zpráv pro finanční a technickou dokumentaci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované generování šablon pro firemní použití.
+
+* Konverzní potrubí zpracovávající soubory DOTX do platforem pro správu dokumentů.
+
+* Předformátování obsahu XPS tak, aby odpovídal firemním standardům.
+
+* Hromadné vytváření šablon návrhů pro klienty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

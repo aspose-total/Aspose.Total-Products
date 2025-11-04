@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX文件转换为**FLATOPC（Flat Open Packaging Conventions）**可使LaTeX内容（包括公式和表格）保存在一个基于XML的文件中，完全兼容Office Open XML标准。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 在标准化的XML格式中存档LaTeX文档。
+
+* 为企业应用程序保留结构化内容和格式。
+
+* 将复杂的学术或技术报告作为单一文件共享。
+
+* 保留LaTeX生成的表格和方程式以供跨平台使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将TEX转换为FLATOPC以用于研究存储库。
+
+* 集成到自动化文档管理系统中。
+
+* 触发FLATOPC生成以用于协作工作流程。
+
+* 定期将LaTeX内容存档为基于XML的格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

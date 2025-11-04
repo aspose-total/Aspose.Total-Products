@@ -49,7 +49,55 @@ otherformats: XLTM FODS SXC XLAM XLT XLTX ODS XLSM XLSB MD DIF TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO（可扩展样式表语言格式化对象）文件转换为**MD（Markdown）** 可以创建轻量级、适合网络、易于阅读的文档。Markdown 保留了来自 XSLFO 内容的标题、表格和列表结构，同时使其适用于网站、博客和文档平台。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将 XSLFO 生成的报告转换为 Markdown 用于技术文档。
+
+* 从 XSLFO 发布结构化表格和内容到知识库。
+
+* 创建具有保留表格布局和标题的博客报告。
+
+* 从结构化 XSLFO 分析准备开源文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XSLFO 报告定期批量转换为 Markdown 用于网站门户。
+
+* 集成到自动化文档生成流程中。
+
+* 为重复的分析或项目报告触发转换。
+
+* 用于知识管理系统的自动化 XSLFO 到 MD 工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

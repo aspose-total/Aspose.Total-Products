@@ -135,7 +135,51 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **PPSX (PowerPoint Show без макросов)** позволяет создавать безопасные презентации с содержимым LaTeX, готовые к просмотру и подходящие для обмена на различных платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Академические лекции для распространения без риска безопасности макросов.
+
+* Корпоративные или тренировочные презентации с таблицами в стиле LaTeX.
+
+* Многократное использование слайдов конференций с диаграммами, богатыми формулами.
+
+* Обмен техническими слайдами между платформами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование LaTeX в PPSX.
+
+* Автоматизированное создание лекционных или тренировочных слайдов.
+
+* Интеграция с LMS или корпоративными системами презентаций.
+
+* Генерация слайдов по запросу для совместных академических проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

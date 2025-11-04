@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek TGA podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **TGA (Targa Image)** umožňuje vysokokvalitní rastrové exporty obrázků generovaných v LaTeXu pro graficky náročné aplikace, vědecké vizualizace a digitální umění.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vědecké ilustrace s vysokou věrností.
+
+* Diagramy generované v LaTeXem pro grafické úpravy.
+
+* Příprava vizuálů pro animační a simulační pracovní postupy.
+
+* Digitální publikování vyžadující bezchybnou kvalitu obrazu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový export TEX do TGA pro výzkumné vizualizační toky.
+
+* Integrace s grafickými zpracovatelskými a simulačními nástroji.
+
+* Spouštění generování obrázků vysoké kvality z obsahu LaTeXu.
+
+* Automatické archivování diagramů v TGA pro grafické týmy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

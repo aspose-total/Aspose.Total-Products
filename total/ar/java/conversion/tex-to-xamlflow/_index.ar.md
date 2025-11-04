@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **XAMLFLOW** يسمح بتحويل محتوى LaTeX إلى علامات XAML متوافقة مع التدفق للرسوم البيانية البصرية ولوحات المعلومات والتطبيقات التفاعلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* رسوم بيانية لسير العمل بمعادلات تم إنشاؤها باستخدام LaTeX.
+
+* لوحات معلومات تفاعلية تعرض بيانات في الوقت الحقيقي مع رسوم بيانية رياضية.
+
+* تطبيقات تقنية أو هندسية تعرض محتوى LaTeX منظم.
+
+* أدوات تعليمية تدمج تدفقات LaTeX ورسوم بيانية في واجهة المستخدم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من TEX إلى XAMLFLOW لمكونات لوحة المعلومات.
+
+* دمج في تصورات البيانات الأتمتة وأنابيب العمل.
+
+* تحديثات مُشغّلة لرسوم LaTeX التفاعلية في تطبيقات قائمة على التدفق.
+
+* إنشاء مجدول لتدفقات XAML معتمدة على LaTeX لمنصات متعددة المستخدمين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ Při převodu souboru TEX na MD můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **MD (Markdown soubor)** produkuje standardní Markdown soubor z LaTeXu, zachovává strukturu textu, tabulky a základní formátování pro čtení na různých platformách.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava LaTeXových výzkumných poznámek pro spolupráci založenou na Gitu.
+
+* Lehká dokumentace s podporou matematiky a tabulek.
+
+* Sdílení LaTeXových přednáškových poznámek ve formátu open-source Markdown.
+
+* Převod technických zpráv pro statické webové stránky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaný hromadný převod TEX na MD pro výzkumné týmy.
+
+* Integrace do řízených verzí webového obsahu.
+
+* Spouštěné aktualizace Markdown souborů z LaTeXových repozitářů.
+
+* Nepřetržitá generace MD souborů pro vzdělávací nebo technické blogy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **PPTM (Παρουσίαση με Μακροενεργοποιημένα Μακρό)** επιτρέπει πλήρως διαδραστικές διαφάνειες από LaTeX, συμπεριλαμβανομένων μακρό για αυτοματοποιημένους υπολογισμούς, δυναμικά διαγράμματα και διαδραστικά εκπαιδευτικά υλικά.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Διαδραστικές ακαδημαϊκές διαλέξεις με εξισώσεις LaTeX.
+
+* Εταιρικά πίνακες ελέγχου και πρότυπα παρουσιάσεων έρευνας.
+
+* Αυτοματοποιημένες διαφάνειες σεμιναρίων με ενημερώσεις δεδομένων σε πραγματικό χρόνο.
+
+* Παρουσιάσεις εργαστηρίου με διαδραστικότητα που οδηγείται από μακρό.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή TEX σε PPTM για διαδραστικές διαφάνειες.
+
+* Ενσωμάτωση σε επιχειρησιακά ή πανεπιστημιακά συστήματα αυτοματοποίησης.
+
+* Ενεργοποίηση της δημιουργίας μακροενεργοποιημένων παρουσιάσεων.
+
+* Προγραμματισμένες ενημερώσεις από αποθετήρια LaTeX για πολυσυγγραφικά έργα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

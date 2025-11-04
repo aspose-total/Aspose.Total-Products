@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων TEX σε **FLATOPC (Flat Open Packaging Conventions)** επιτρέπει στο περιεχόμενο LaTeX, συμπεριλαμβανομένων τύπων και πινάκων, να αποθηκευτεί σε ένα μόνο αρχείο βασισμένο σε XML που είναι πλήρως συμβατό με τα πρότυπα Office Open XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση εγγράφων LaTeX σε προτυποποιημένη μορφή XML.
+
+* Διατήρηση δομημένου περιεχομένου και μορφοποίησης για εφαρμογές επιχειρήσεων.
+
+* Διαμοιρασμός πολύπλοκων ακαδημαϊκών ή τεχνικών αναφορών ως αρχεία μονοπακέτου.
+
+* Διατήρηση πινάκων και εξισώσεων που δημιουργήθηκαν με LaTeX για χρήση σε πολλές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή TEX σε FLATOPC για αποθετήρια έρευνας.
+
+* Ενσωμάτωση σε αυτοματοποιημένα συστήματα διαχείρισης εγγράφων.
+
+* Ενεργοποίηση γεννήτριας FLATOPC για συνεργατικές ροές εργασίας.
+
+* Προγραμματισμένη αρχειοθέτηση περιεχομένου LaTeX σε μορφές βασισμένες σε XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

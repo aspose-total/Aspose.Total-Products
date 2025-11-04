@@ -144,7 +144,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TEX na **DOCM (Dokument s povolenými makry pro Word)** umožňuje bezproblémovou integraci obsahu LaTeXu s pokročilými makry programu Word. To je zvláště užitečné pro akademické výzkumníky a inženýry, kteří potřebují automatizovanou generaci zpráv s dynamickými tabulkami, vzorci a interaktivním obsahem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Automatizace vytváření výzkumných zpráv s vysokým podílem LaTeXu v programu Microsoft Word.
+
+* Vkládání složitých matematických rovnic do dokumentace pro inženýry.
+
+* Vytváření interaktivních šablon pro laboratorní práci s makry pro reprodukovatelné výsledky.
+
+* Kompilace akademických prací s automatickým odkazováním a číslováním.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze TEX do DOCM v institucionálních systémech pro správu dokumentů.
+
+* Generování vědeckých časopisů pomocí maker z LaTeXových repozitářů.
+
+* Integrace do automatizace pracovních postupů pro technické publikování.
+
+* Automatická aktualizace výzkumných nástěnek kombinující obsah LaTeXu s makry programu Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

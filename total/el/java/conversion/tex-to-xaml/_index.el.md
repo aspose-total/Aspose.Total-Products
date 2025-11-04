@@ -135,7 +135,51 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων TEX σε **XAML (Επεκτάσιμη Γλώσσα Σήμανσης Εφαρμογών)** επιτρέπει τη χρήση περιεχομένου LaTeX, τύπων και διαγραμμάτων σε εφαρμογές WPF, UWP και βασισμένες σε .NET, διατηρώντας τη γραφική αναπαράσταση και τη μορφοποίηση κειμένου.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Ενσωμάτωση διαγραμμάτων και εξισώσεων που δημιουργήθηκαν με LaTeX σε εφαρμογές επιφάνειας εργασίας.
+
+* Δημιουργία διαδραστικών στοιχείων διεπιστημονικής ή μαθηματικής φύσης στο UI.
+
+* Τεχνικές εφαρμογές που εμφανίζουν δυναμικούς γράφους από πηγές LaTeX.
+
+* Εκπαιδευτικό λογισμικό που ενσωματώνει ομαλά τις εξισώσεις LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή TEX σε XAML για πολλαπλά στοιχεία UI.
+
+* Ενσωμάτωση σε αυτοματοποιημένες διαδικασίες έργων WPF ή UWP.
+
+* Ενεργοποίηση της δημιουργίας εικόνων βασισμένων σε LaTeX για εφαρμογές .NET.
+
+* Προγραμματισμένες ενημερώσεις για εκπαιδευτικό λογισμικό με πολλά ενότητες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

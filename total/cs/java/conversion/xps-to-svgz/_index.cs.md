@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek SVGZ podle svých potřeb
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **SVGZ (komprimovaná škálovatelná vektorová grafika)** zajistí lehkou, škálovatelnou grafiku vhodnou pro webové stránky, aplikace a vektorový tisk s zachováním přesnosti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Webové diagramy a ilustrace.
+
+* Infografiky a technické schémata pro škálovatelné použití.
+
+* Marketingová grafika pro responzivní webový design.
+
+* Vzdělávací vizuály kompatibilní s vektorovými editačními programy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkové konverzní kanály z XPS do SVGZ pro webové zdroje.
+
+* Plánované aktualizace pro dynamickou generaci infografik.
+
+* Integrace s systémy správy obsahu pro škálovatelné obrázky.
+
+* Vylepšené zpracování vektorové grafiky pro multiplatformní publikování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

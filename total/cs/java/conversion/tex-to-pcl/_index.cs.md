@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TEX na **PCL (Printer Command Language)** umožňuje odesílat LaTeX dokumenty, včetně rovnic, tabulek a diagramů, přímo na tiskárny pro vysokokvalitní výstup v profesionálním nebo akademickém prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Tisk LaTeX výzkumných prací a technických zpráv.
+
+* Vysokokvalitní výstup z přednášek a vzdělávacích materiálů.
+
+* Vytváření profesionálních materiálů z tabulek a diagramů generovaných v LaTeXu.
+
+* Tisk dávkových dokumentů ze vědeckých nebo inženýrských projektů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávková konverze TEX na PCL pro tiskové fronty.
+
+* Integrace do automatizovaných pracovních postupů tisku dokumentů.
+
+* Spouštěná generace PCL z LaTeX repozitářů pro hromadný tisk.
+
+* Plánovaný výstup pro distribuci akademických nebo firemních dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

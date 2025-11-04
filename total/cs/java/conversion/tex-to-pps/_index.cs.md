@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **PPS (PowerPoint Show)** vytváří prezentace pouze se snímky pro okamžité přehrávání, ideální pro automatizované přednášky, školení a rychlé sdílení obsahu v LaTeXu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Připravené akademické prezentace k okamžitému použití.
+
+* Interaktivní workshopové prezentace.
+
+* Shrnutí inženýrských projektů pro prezentace klientům.
+
+* Prezentace založené na LaTeXu připravené na konference.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánované hromadné konverze TEX na PPS.
+
+* Automatizované generování školicích prezentací z obsahu v LaTeXu.
+
+* Integrace s systémy nasazení prezentací.
+
+* Spouštění vytváření PPS pro semináře nebo e-learningové platformy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

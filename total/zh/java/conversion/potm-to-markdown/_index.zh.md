@@ -61,7 +61,51 @@ otherformats: SXC XLTM XLAM ODS DIF FODS MHTML XLT TSV XLSX XLS XLSM XLTX EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM转换为MARKDOWN可将演示说明、文本块和内容转换为轻量级、可编辑的Markdown文件。这对开发人员、博客作者和知识管理系统非常理想。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将幻灯片内容导出为文档和维基。
+
+* 从演示说明创建博客文章，减少格式化工作量。
+
+* 将培训幻灯片转换为基于Markdown的电子学习模块。
+
+* 为基于Git的协作生成轻量级、便携内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将POTM模板自动转换为Markdown，用于知识库。
+
+* 批量生成文档系统或LMS平台。
+
+* 触发Markdown转换，用于版本控制的内容流水线。
+
+* 与Hugo或Jekyll等静态站点生成器集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

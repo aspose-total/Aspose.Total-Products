@@ -47,7 +47,51 @@ otherformats: TXT EXCEL XLAM FODS XLSB TSV XLT XLTM XLSM DIF SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **TXT (обычный текст)** обеспечивает простой, универсально читаемый формат для содержимого LaTeX, полезный для легкого хранения, быстрого обмена и обработки текста.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Извлечение содержимого LaTeX для текстового поиска и анализа.
+
+* Обмен заметками или таблицами LaTeX в простом текстовом формате.
+
+* Легкая документация для скриптов или проектов по кодированию.
+
+* Подготовка содержимого LaTeX для распределения в виде обычного текста по электронной почте.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование файлов LaTeX в TXT для архивирования.
+
+* Интеграция с автоматизированными рабочими процессами обработки текста.
+
+* Генерация TXT из репозиториев LaTeX по запросу.
+
+* Плановый экспорт для легкой документации LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

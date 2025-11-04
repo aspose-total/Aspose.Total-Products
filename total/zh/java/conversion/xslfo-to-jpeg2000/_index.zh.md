@@ -57,7 +57,51 @@ otherformats: TGA PSD EMZ SVGZ WMF DXF WMZ IMAGE JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**JPEG2000**可提供具有最小质量损失的高压缩光栅图像。JPEG2000适用于医学成像、大型可视报告和档案用途。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 存档具有复杂表格的高分辨率XSLFO报告。
+
+* 为数字分发准备详细的财务或运营可视化内容。
+
+* 将XSLFO分析转换为高效的光栅图像。
+
+* 为出版物生成大幅面可视化内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将XSLFO转换为JPEG2000以进行存档存储。
+
+* 用于自动发布工作流程的定期生成。
+
+* 与图像优化流水线集成。
+
+* 从XSLFO仪表板触发高分辨率导出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

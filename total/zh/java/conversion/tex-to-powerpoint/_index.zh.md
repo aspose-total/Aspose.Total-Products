@@ -135,7 +135,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**POWERPOINT（PPT/PPTX）**可生成带有LaTeX方程式、表格和图表的完全可编辑演示文稿，非常适合专业和学术幻灯片展示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 具有复杂数学内容的大学讲座。
+
+* 工程和科学研究演示。
+
+* 使用LaTeX表格的企业项目演示。
+
+* 用于研讨会和研讨会的互动幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于课程材料的批量LaTeX到PowerPoint转换。
+
+* 集成到自动化演示文稿流程中。
+
+* 用于研究或项目报告的触发式幻灯片生成。
+
+* 与LaTeX到PPT转换工作流的多作者协作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,55 @@ otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POTM إلى ODS ينتج عنه ملفات جداول بيانات OpenDocument قابلة للتوافق مع LibreOffice وOpenOffice وتطبيقات جداول البيانات مفتوحة المصدر الأخرى. يضمن ذلك إمكانية إعادة استخدام بيانات العرض عبر منصات مختلفة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل بيانات الشرائح الشركية إلى تنسيقات جداول بيانات قياسية مفتوحة.
+
+* إعادة استخدام العروض الأكاديمية للتحليل الإحصائي مفتوح المصدر.
+
+* تحويل تقارير المنظمات غير الحكومية للتعاون عبر المنصات.
+
+* توحيد جداول الشرائح الرقمية القياسية في ODS لسير العمل بين الأقسام المتعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء ملفات ODS تلقائيًا من قوالب العروض.
+
+* التكامل مع أنظمة إدارة الوثائق التي تدعم التنسيقات المفتوحة.
+
+* تحويل دفعي للتعاون عبر المنصات.
+
+* إنشاء ODS مُحفز لأنابيب تقارير قائمة على السحاب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

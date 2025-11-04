@@ -49,7 +49,51 @@ otherformats: SXC TXT XLTM MD FODS XLSM XLT DIF ODS EXCEL XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**SXC（StarOffice Calc电子表格）**，使得老版本的OpenOffice或StarOffice用户能够处理LaTeX表格数据而不丢失结构。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* StarOffice兼容格式中的历史LaTeX数据集。
+
+* 需要与旧办公软件兼容的学术研究。
+
+* 在不同平台共享数值LaTeX表格。
+
+* 用于旧办公系统的SXC项目报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期批量转换LaTeX数据集。
+
+* 集成到旧办公自动化工作流程中。
+
+* 为研究连续性存档结构化的LaTeX表格。
+
+* 为协作项目触发SXC生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

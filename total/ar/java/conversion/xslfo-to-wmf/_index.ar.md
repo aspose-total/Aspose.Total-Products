@@ -57,7 +57,51 @@ otherformats: SVGZ JPEG2000 EMZ  PSD WMZ DXF TGA IMAGE WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **WMF (Windows Metafile)** يسمح بالحصول على صور ناقلة متجهة قابلة للتوسيع متوافقة مع Microsoft Office وتطبيقات النشر على سطح المكتب الأخرى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين جداول XSLFO ورسوم بيانية في Microsoft Word أو PowerPoint.
+
+* إنشاء رؤى قابلة للتوسيع للعروض التقديمية الشركات.
+
+* أرشفة الرؤى التقريرية بتنسيق ناقل.
+
+* إعداد رسوم توضيحية تقنية من بيانات XSLFO المهيكلة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من XSLFO إلى WMF لسير العمل الوثائقي.
+
+* تصدير مجدول للرؤى الناقلة للشرائح.
+
+* إنشاء صور WMF مُشغَّلة من لوحات XSLFO بشكل مُحفّز.
+
+* دمج مع خطوط أنابيب النشر الشركات التلقائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

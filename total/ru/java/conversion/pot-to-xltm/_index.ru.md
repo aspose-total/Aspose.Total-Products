@@ -61,7 +61,45 @@ otherformats: DIF XLTX XLSX SXC XLS XLSM XLSB EXCEL MARKDOWN XLT ODS TSV FODS MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в XLTM (Шаблон Excel с поддержкой макросов) позволяет предприятиям автоматизировать генерацию электронных таблиц, сохраняя при этом дизайн слайдов PowerPoint. Идеально подходит для создания динамичных, интерактивных шаблонов для повторяющихся рабочих процессов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание шаблонов Excel с поддержкой макросов на основе KPI из PowerPoint.
+
+* Автоматизация шаблонов отчетов с встроенными макросами данных.
+
+* Создание повторяемых моделей финансового прогнозирования.
+
+* Создание трекеров академической успеваемости с помощью сценариев автоматизации.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Генерация XLTM, интегрированная в рабочие процессы автоматизации данных.
+
+* Внедрение предприятия шаблонов электронных таблиц, управляемых макросами.
+
+* Создание запланированных шаблонов для финансовых и кадровых служб.
+
+* Автоматизация преобразования для повторяющихся циклов отчетности.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

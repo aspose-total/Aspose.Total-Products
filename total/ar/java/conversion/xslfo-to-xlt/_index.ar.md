@@ -47,7 +47,55 @@ otherformats: XLAM FODS EXCEL XLSM XLTM MD TSV XLTX DIF ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **XLT (قالب Excel)** يسمح بإنشاء قوالب جداول بيانات قابلة لإعادة الاستخدام مع تنسيقات محددة مسبقًا وأنماط. XLT مثالي لتوحيد التقارير المتكررة من مصادر XSLFO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إعداد قوالب فواتير معيارية مبنية على XSLFO.
+
+* إنشاء قوالب تقارير المشاريع للاستخدام المتكرر.
+
+* أرشفة لوحات القيادة الشهرية كقوالب Excel قابلة لإعادة الاستخدام.
+
+* توزيع قوالب تقارير KPI الشركات التي تم إنشاؤها من XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء قوالب XLT تلقائيًا من تقارير XSLFO.
+
+* التكامل مع خطوط أنابيب التقارير المتكررة.
+
+* تحويل مجدول لقوالب إدارية موحدة.
+
+* إنشاء قوالب Excel بشكل مُحفز لتقارير متسقة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

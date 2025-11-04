@@ -49,7 +49,51 @@ otherformats: MD ODS TSV SXC XLT XLTM EXCEL XLSM FODS XLTX XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **TSV（制表符分隔值）** 可简化用于分析、数据库导入或 ETL 过程的表格数据提取。TSV 轻量、易读，并得到编程语言和数据工具的广泛支持。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将 XSLFO 报告导出为 TSV 以进行数据库摄入。
+
+* 从结构化的 XSLFO 表格准备适用于分析的数据集。
+
+* 从 XSLFO 财务表迁移数据至分析平台。
+
+* 以 TSV 格式共享简单的表格数据以便轻松集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 针对 BI 流水线的定时批量将 XSLFO 转换为 TSV。
+
+* 用于实时分析工作流程的 ETL 集成。
+
+* 从 XSLFO 报告触发 TSV 导出以用于自动化仪表板。
+
+* 用于大规模 XSLFO 数据集的程序化转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

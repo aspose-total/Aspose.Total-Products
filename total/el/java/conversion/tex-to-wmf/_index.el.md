@@ -57,7 +57,51 @@ otherformats: TGA IMAGE DXF EMZ JPEG2000  SVGZ PSD WMZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **WMF (Windows Metafile)** διατηρεί τα διανυσματικά γραφικά για διαγράμματα LaTeX, εξασφαλίζοντας συμβατότητα με το Microsoft Office και την τεχνική τεκμηρίωση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Ενσωμάτωση εικόνων LaTeX σε Word ή PowerPoint.
+
+* Τεχνικά διαγράμματα σε επαγγελματικές αναφορές.
+
+* Κλιμάκωση σχημάτων για εταιρικά και ακαδημαϊκά έγγραφα.
+
+* Διανομή διαγραμμάτων που δημιουργήθηκαν με LaTeX σε πολλές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή διαγραμμάτων LaTeX σε WMF.
+
+* Ενσωμάτωση στις διαδικασίες εγγράφων του Microsoft Office.
+
+* Ενημερώσεις με εντολή για διανυσματικά γραφικά σε παρουσιάσεις.
+
+* Αυτοματοποιημένη αρχειοθέτηση τεχνικών σχημάτων που δημιουργήθηκαν με LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

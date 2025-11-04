@@ -57,7 +57,55 @@ otherformats: IMAGE DXF TGA WMF WMZ EMZ PSD JPEG2000 SVGZ  DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات XPS إلى **PSD (مستند فوتوشوب)** يتيح للمصممين العمل على صور متعددة الطبقات وقابلة للتحرير مستخرجة من ملفات XPS، مما يجعلها مناسبة لسير العمل الإبداعي والتسويقي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مواد تسويقية قابلة للتحرير مستمدة من ملفات XPS.
+
+* رسوم توضيحية متعددة الطبقات للعروض التقديمية والحملات.
+
+* تحسينات في الرسوم البيانية التقنية للنشرات.
+
+* تلاعب بالصور ومشاريع التصميم من الرسوم البيانية للمستندات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعي من XPS إلى PSD لفرق العمل الإبداعية.
+
+* دمج مع سير العمل التصميمي لتحديثات بصرية تلقائية.
+
+* إنشاء PSD المجدول من تقارير XPS المتكررة.
+
+* خط أنابيب تحرير مبسط للمحتوى التسويقي أو التعليمي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

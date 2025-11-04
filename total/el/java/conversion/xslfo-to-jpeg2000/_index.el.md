@@ -57,7 +57,55 @@ otherformats: TGA PSD EMZ SVGZ WMF DXF WMZ IMAGE JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **JPEG2000** παρέχει ραβδωτές εικόνες υψηλής συμπίεσης με ελάχιστη απώλεια ποιότητας. Το JPEG2000 είναι κατάλληλο για ιατρικές εικόνες, μεγάλες οπτικές αναφορές και αρχειοθετικούς σκοπούς.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση υψηλής ανάλυσης αναφορών XSLFO με πολύπλοκους πίνακες.
+
+* Προετοιμασία λεπτομερών οικονομικών ή λειτουργικών οπτικών για ψηφιακή διανομή.
+
+* Μετατροπή αναλύσεων XSLFO σε αποδοτικές ραβδωτές εικόνες.
+
+* Δημιουργία μεγάλου μεγέθους οπτικών για εκδόσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή του XSLFO σε JPEG2000 για αρχειοθετική αποθήκευση.
+
+* Προγραμματισμένη δημιουργία για αυτοματοποιημένες ροές δημοσίευσης.
+
+* Ενσωμάτωση με αγωγούς βελτιστοποίησης εικόνας.
+
+* Ενεργοποίηση υψηλής ανάλυσης εξαγωγή από τα ταμπλό XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات XPS (XML Paper Specification) إلى **XAML (Extensible Application Markup Language)** يتيح للمطورين والمصممين إعادة استخدام محتوى المستند في تطبيقات WPF (Windows Presentation Foundation)، مع الحفاظ على التخطيط والخطوط والرسومات النقطية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* دمج الرؤى الثابتة للمستند في تطبيقات سطح المكتب القائمة على WPF.
+
+* تصميم لوحات تفاعلية باستخدام عناصر واجهة المستخدم القائمة على XAML.
+
+* إعادة استخدام تخطيطات XPS في واجهات البرامج والعناصر التحكم.
+
+* تطبيقات التعليم الإلكتروني الأكاديمي أو الشركات التي تتطلب عرضًا دقيقًا للمستند.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة تلقائي لملفات XPS إلى XAML لأنابيب تطوير البرمجيات.
+
+* دمج مع سير العمل CI/CD لتحديثات تطبيقات سطح المكتب.
+
+* إنشاء جدول زمني لإنتاج أصول XAML لمحتوى التطبيق المتكرر.
+
+* إعادة استخدام مستندات XPS بسهولة في مشاريع WPF متعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

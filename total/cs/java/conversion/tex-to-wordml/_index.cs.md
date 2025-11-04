@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **WordML (formát Microsoft Word XML)** umožňuje plnou kompatibilitu obsahu LaTeXu s dokumenty ve formátu Word založených na XML, což umožňuje automatizované pracovní postupy, ověřování obsahu a integraci s podnikovými systémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Generování vědeckých zpráv z LaTeXových zdrojů založených na XML.
+
+* Pracovní postupy dokumentace podniku s použitím strukturovaného WordML.
+
+* Spolupráce více autorů s automatizovaným slučováním obsahu.
+
+* Publikování akademických nebo technických materiálů řízené XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná generace dokumentů WordML z repozitářů LaTeXu.
+
+* Integrace do podnikových systémů pro správu obsahu.
+
+* Spouštěné exporty XML pro publikace vědeckého výzkumu ve velkém měřítku.
+
+* Hromadné zpracování pro zprávy o shodě a akademické příspěvky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

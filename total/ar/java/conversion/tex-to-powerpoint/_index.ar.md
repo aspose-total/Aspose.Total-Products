@@ -135,7 +135,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **POWERPOINT (PPT/PPTX)** يوفر عروض تقديمية قابلة للتحرير بالكامل تحتوي على معادلات LaTeX وجداول ورسوم بيانية، مثالية لعروض الشرائح الاحترافية والأكاديمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* محاضرات جامعية تحتوي على محتوى رياضي معقد.
+
+* عروض بحوث هندسية وعلمية.
+
+* عروض مشاريع الشركات باستخدام جداول LaTeX.
+
+* شرائح تفاعلية لورش العمل والندوات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من LaTeX إلى PowerPoint لمواد الدورات.
+
+* دمجه في خطوط الإنتاج التلقائية للعروض التقديمية.
+
+* إنشاء شرائح مفعلة لتقارير البحوث أو المشاريع.
+
+* التعاون متعدد المؤلفين مع سير العمل لتحويل LaTeX إلى PPT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

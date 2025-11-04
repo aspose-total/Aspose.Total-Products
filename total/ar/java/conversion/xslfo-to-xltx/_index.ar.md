@@ -47,7 +47,55 @@ otherformats: TSV MD XLTX SXC ODS XLSM XLT XLTM XLSB DIF FODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **XLTX (قالب Excel بدون ماكرو)** يضمن قوالب آمنة وقابلة لإعادة الاستخدام للتقارير المتكررة دون خطر تنفيذ الماكرو. يحافظ XLTX على التنسيقات والأنماط وهياكل الجداول.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إعداد قوالب مالية شهرية معتمدة على XSLFO لاستخدام الفريق.
+
+* إنشاء أوراق تتبع المشروع آمنة لتوزيعها بين الأقسام المختلفة.
+
+* توزيع قوالب تقارير KPI بدون ماكرو.
+
+* أرشفة هياكل التقارير القياسية القائمة على XSLFO بتنسيق XLTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل XSLFO إلى XLTX بشكل مجدول لتوزيع التقارير المتكررة.
+
+* دمجه في أنظمة إدارة القوالب لتقارير متسقة.
+
+* إنشاء دفعات من القوالب خالية من الماكرو لسير العمل الشركات.
+
+* إنشاء ملفات XLTX من XSLFO بشكل مفعل لتقارير موحدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

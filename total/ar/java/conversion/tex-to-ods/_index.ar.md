@@ -47,7 +47,51 @@ otherformats: ODS FODS TXT XLTX EXCEL XLAM XLSB MD DIF XLT SXC XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **ODS (جدول بيانات OpenDocument)** يسمح للمستخدمين بالاستفادة من محتوى LaTeX في جداول بيانات قابلة للتحرير للتحليل والمشاريع التعاونية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* البحث الأكاديمي مع جداول عددية معقدة.
+
+* أوراق عمل مالية أو تتبع مشاريع مفتوحة المصدر.
+
+* حسابات هندسية تتطلب التوافق مع عدة منصات.
+
+* مشاركة جداول LaTeX في ODS لمشاريع تعليمية تعاونية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دُفعي من TEX إلى ODS لمعاملات الجامعات.
+
+* دمجه في خطوط أنابيب البيانات مفتوحة المصدر.
+
+* تقارير تلقائية للبيانات الرقمية التي تم إنشاؤها بواسطة LaTeX.
+
+* إنشاء ODS مُحفز لبيئات متعددة المستخدمين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: ODS FODS TXT XLTX EXCEL XLAM XLSB MD DIF XLT SXC XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **ODS (OpenDocument Spreadsheet)** позволяет пользователям использовать содержимое LaTeX в редактируемых электронных таблицах для анализа и совместных проектов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Академические исследования с комплексными числовыми таблицами.
+
+* Финансовые или проектные отслеживающие таблицы с открытым исходным кодом.
+
+* Инженерные расчеты, требующие совместимости с несколькими платформами.
+
+* Обмен LaTeX-таблицами в формате ODS для совместных образовательных проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в ODS для университетских лабораторий.
+
+* Интеграция в потоки данных с открытым исходным кодом.
+
+* Автоматизированная отчетность по числовым данным, сгенерированным LaTeX.
+
+* Генерация ODS по запросу для многопользовательских сред.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

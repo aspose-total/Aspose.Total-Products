@@ -135,7 +135,51 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **PPSM (PowerPoint Macro-Enabled Show)** позволяет включать макросы в содержание LaTeX для автоматизированных вычислений, интерактивных диаграмм и динамических презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Академические лекции с использованием макросов и динамических таблиц.
+
+* Презентации исследований с автоматическим обновлением диаграмм.
+
+* Корпоративные тренинги с интерактивными элементами.
+
+* Слайды конференций с формулами LaTeX от нескольких авторов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в PPSM для интерактивных презентаций.
+
+* Автоматизированная интеграция содержания LaTeX в макро-включенные слайды.
+
+* Плановые обновления для динамических материалов семинаров.
+
+* Автоматическое создание для исследовательских или корпоративных презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

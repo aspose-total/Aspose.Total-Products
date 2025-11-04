@@ -57,7 +57,51 @@ otherformats: TGA IMAGE DXF EMZ JPEG2000  SVGZ PSD WMZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**WMF（Windows Metafile）**可保留LaTeX图表的矢量图形，确保与Microsoft Office和技术文档的兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在Word或PowerPoint中嵌入LaTeX插图。
+
+* 专业报告中的技术图表。
+
+* 用于公司和学术文档的可缩放图形。
+
+* LaTeX生成图形的跨平台分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将LaTeX图表批量转换为WMF。
+
+* 集成到Microsoft Office文档流程中。
+
+* 在演示文稿中自动更新矢量图形。
+
+* 自动存档LaTeX生成的技术图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

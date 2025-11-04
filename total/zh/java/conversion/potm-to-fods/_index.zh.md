@@ -61,7 +61,55 @@ otherformats: MHTML EXCEL XLSX FODS ODS XLSB SXC TSV XLSM XLS XLAM XLT MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM转换为FODS会生成基于平面XML的OpenDocument电子表格文件。FODS非常适合轻量级、跨平台的电子表格存储，保留演示幻灯片中的表格结构。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将PowerPoint表格导出为供LibreOffice或OpenOffice使用的FODS格式。
+
+* 将基于幻灯片的数字报告转换为跨平台电子表格。
+
+* 在开放的XML格式中共享学术或非政府组织项目表格。
+
+* 将演示数据存档为结构化的平面XML电子表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量POTM转换为FODS的工作流自动化。
+
+* 集成到跨平台办公自动化流程中。
+
+* 触发分布式团队的FODS文件生成。
+
+* 用于报告和合规系统的结构化XML数据提取。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

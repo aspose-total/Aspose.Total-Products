@@ -47,7 +47,51 @@ otherformats: XLTX EXCEL TSV DIF XLTM SXC MD TXT XLSB XLSM ODS FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **TSV (قيم مفصولة بواسطة علامات تبويب)** يوفر تنسيقًا بسيطًا وخفيف الوزن لمشاركة البيانات، مما يكون مفيدًا بشكل خاص في البرمجة والتحليلات وسيناريوهات استيراد/تصدير قواعد البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مجموعات بيانات علمية للتحليل الحسابي.
+
+* الاستيراد السهل إلى R أو Python أو البرمجيات الإحصائية.
+
+* تبادل البيانات السريع بين الفرق دون الاعتماد على Excel.
+
+* أدوات تقارير مستندة إلى الويب تتطلب بيانات ملف مسطح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* أنابيب عملية تحويل XPS إلى TSV تلقائية لمختبرات البحث.
+
+* التكامل مع النصوص التحليلية لمعالجة الدفعات.
+
+* تحويل مجدول لتقارير XPS المتكررة.
+
+* تبسيط الاستيعاب في قاعدة البيانات أو سير العمل ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

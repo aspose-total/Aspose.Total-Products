@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier XPS vers JPEG2000 dans un seu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XPS en **JPEG2000** fournit des images de haute qualité et compressées adaptées à la publication professionnelle, médicale et archivistique.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Archivage de documents d'entreprise et juridiques.
+
+* Images haute résolution prêtes pour la publication.
+
+* Intégration dans des bibliothèques numériques nécessitant une qualité sans perte.
+
+* Documentation médicale et scientifique.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée des archives XPS en JPEG2000 pour une efficacité de stockage.
+
+* Traitement par lot planifié pour les bibliothèques d'images de documents.
+
+* Intégration avec les systèmes de gestion des actifs numériques.
+
+* Optimisation des flux de travail de publication pour les images haute résolution.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

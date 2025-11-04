@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات XSLFO (لغة تنسيق أشكال النماذج القابلة للتوسيع) إلى **XAML (لغة ترميز تطبيقات قابلة للتوسيع)** يتيح للمطورين والمصممين تحويل التقارير المنظمة إلى مكونات واجهة مستخدم غنية وتفاعلية وقابلة للتوسيع لتطبيقات سطح المكتب والويب. يحافظ XAML على التنسيق والتخطيط والهياكل الهرمية من XSLFO مع تمكين التكامل السلس مع WPF و UWP وأطر عمل أخرى تعتمد على XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل لوحات القيادة التي تم إنشاؤها بواسطة XSLFO إلى تطبيقات WPF تحتوي على جداول تفاعلية ومخططات.
+
+* تضمين تقارير مالية أو تشغيلية منظمة في واجهات سطح المكتب.
+
+* تصميم مكونات واجهة المستخدم لتطبيقات المؤسسات بناءً على محتوى XSLFO.
+
+* تحويل تقارير التحليل المنظمة إلى رسوم بيانية تفاعلية بتنسيق XAML لتطبيقات العرض.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعي تلقائي للتقارير المتكررة التي تم إنشاؤها بواسطة XSLFO إلى مكونات واجهة مستخدم XAML.
+
+* التكامل في أنابيب ETL لتوليد لوحات تحكم XAML في الوقت الحقيقي.
+
+* تحديثات مجدولة لواجهات XAML من مصادر بيانات XSLFO ديناميكية.
+
+* توليد مشغل لتخطيطات XAML للإبلاغ أو التصور أو أطر التطبيق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

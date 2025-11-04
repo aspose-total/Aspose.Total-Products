@@ -53,7 +53,45 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de fichiers POT en DOCM (Document activé par macro Word) permet aux entreprises de conserver la logique d'automatisation aux côtés de leur contenu de présentation. Ce format est idéal pour les flux de travail de génération de documents dynamiques où les données PowerPoint alimentent des rapports interactifs ou des modèles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Création de manuels de formation automatisés à partir de modèles de présentation.
+
+* Intégration de macros pour la génération de rapports récurrents.
+
+* Création de documents de politique interactifs avec des formulaires intégrés.
+
+* Transformation des présentations commerciales PowerPoint en propositions client pilotées par macro.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Intégration d'exportations Word activées par macro dans des pipelines de gestion de documents.
+
+* Génération automatique de documents DOCM à partir de bibliothèques de diapositives.
+
+* Génération de rapports dynamiques dans les systèmes d'intelligence commerciale.
+
+* Automatisation de modèles dans des environnements CRM ou ERP.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,51 @@ otherformats: XLAM ODS FODS XLTM XLT TSV SXC MD EXCEL XLTX XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов XSLFO в формат **FODS (Flat OpenDocument Spreadsheet)** поддерживает офисные пакеты с открытым исходным кодом, такие как LibreOffice и OpenOffice. FODS позволяет создавать легкие, редактируемые электронные таблицы на основе XML, подходящие для совместной работы.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Обмен бюджетными таблицами, созданными в формате XSLFO, с пользователями офисных пакетов с открытым исходным кодом.
+
+* Архивирование отчетов в открытом стандартизированном формате электронных таблиц.
+
+* Подготовка таблиц отслеживания проектов для совместной работы на различных платформах.
+
+* Преобразование технических таблиц XSLFO в редактируемые электронные таблицы FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XSLFO в FODS для открытых отчетных конвейеров.
+
+* Интеграция в системы управления документами, поддерживающие формат FODS.
+
+* Запланированный экспорт для совместных дашбордов проектов.
+
+* Автоматическое преобразование отчетов по аналитике XSLFO в формат FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

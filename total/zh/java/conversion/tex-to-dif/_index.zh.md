@@ -49,7 +49,51 @@ otherformats: XLSB XLTM XLTX XLT SXC EXCEL MD XLSM TSV ODS FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**DIF（数据交换格式）**可确保LaTeX表格数据可与旧版电子表格程序和专业科学工具配合使用，同时保持结构和准确性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将基于LaTeX的数字表格导入传统财务软件。
+
+* 与DIF兼容工具共享工程计算。
+
+* 为学术出版物保留结构化数据。
+
+* 将LaTeX数据集存档为开放的交换格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从LaTeX项目数据批量生成DIF。
+
+* 集成到科学数据管道中。
+
+* 自动存档研究实验结果。
+
+* 定期转换以用于连续报告系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

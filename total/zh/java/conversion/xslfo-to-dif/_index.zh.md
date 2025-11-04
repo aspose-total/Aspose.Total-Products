@@ -49,7 +49,55 @@ otherformats: TSV XLAM XLSM DIF XLTX EXCEL XLTM MD SXC FODS ODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 文件转换为 **DIF（数据交换格式）** 可确保与旧电子表格应用程序和传统数据系统的兼容性。DIF 保持结构化的表格内容，同时支持在异构平台之间的数据可移植性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将历史销售记录迁移到传统电子表格系统中。
+
+* 为了符合监管要求，存档 XSLFO 生成的报告。
+
+* 使用 DIF 格式在企业规划软件之间进行数据交换。
+
+* 为跨平台分析准备营销指标。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将每月的 XSLFO 性能报告转换为 DIF。
+
+* 集成到需要 DIF 输入的传统 ERP 系统中。
+
+* 定期更新 DIF 数据集以进行历史趋势分析。
+
+* 在自动化报告流程中触发从 XSLFO 转换为 DIF。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

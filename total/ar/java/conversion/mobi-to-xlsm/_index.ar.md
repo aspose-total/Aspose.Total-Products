@@ -61,7 +61,47 @@ otherformats: ODS XLAM SXC DIF XLS FODS EXCEL XLSM XLT XLTM XLTX XLSX TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MOBI إلى XLSM (مصنف إكسل ممكّن بالماكرو) يمكّن الأتمتة مباشرة داخل إكسل، مما يسمح بتلاعب ديناميكي ببيانات الكتب الإلكترونية من خلال الماكرو VBA المضمنة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- تحليل فعّال لفهرس MOBI باستخدام ماكرو إكسل.
+
+- تتبع الاتجاهات تلقائيًا للنشر الرقمي.
+
+- إنشاء لوحات تحكم دورية لمقاييس انخراط القراء.
+
+- إنشاء أدوات مدعومة بالماكرو لإدارة سير العمل التحريري.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- استيراد MOBI بناءً على المؤشرات من خلال VBA في إكسل.
+
+- توليد تقارير تلقائيًا بعد تحليل MOBI.
+
+- التكامل مع لوحات تحكم النشر الممكّنة بالماكرو.
+
+- تحويل دفعي مدفوع بملفات MOBI من خلال XLSM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **MARKDOWN** transformuje statické dokumenty do lehkého a snadno upravitelného formátu kompatibilního s blogy, dokumentačními platformami a systémy pro správu verzí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Publikování technické dokumentace na GitHubu nebo GitLabu.
+
+* Transformace zpráv do obsahu připraveného pro blog.
+
+* Vytváření poznámek a interních záznamů do znalostní báze.
+
+* Spolupracovní úpravy pro týmy pomocí lehkého značkování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatický převod archivů XPS do formátu Markdown pro platformy obsahu.
+
+* Integrace se statickými generátory stránek jako Hugo nebo Jekyll.
+
+* Plánované generování verzí Markdown pro opakující se dokumentaci.
+
+* Zjednodušený pracovní postup pro aktualizace interní znalostní báze.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

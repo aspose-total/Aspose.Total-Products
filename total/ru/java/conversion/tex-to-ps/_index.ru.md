@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **PS (PostScript)** создает универсальный файл описания страницы, сохраняющий форматирование LaTeX, графику и сложное математическое содержимое для профессиональной публикации и подготовки к печати.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка LaTeX статей и отчетов для профессиональной печати.
+
+* Создание версий PostScript технических диаграмм и таблиц.
+
+* Подача академических статей в журналы с точным форматированием.
+
+* Архивирование документов LaTeX в универсальном формате макета страницы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование TEX в PS для публикационных процессов.
+
+* Интеграция с профессиональными рабочими процессами печати.
+
+* Генерация PostScript по запросу для распространения документов в масштабе.
+
+* Запланированные экспорты TEX в PS для многопользовательских академических проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

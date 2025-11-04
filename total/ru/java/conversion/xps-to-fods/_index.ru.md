@@ -47,7 +47,51 @@ otherformats: DIF FODS XLTM XLSM ODS XLT TSV MD XLSB EXCEL XLTX TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **FODS (Flat OpenDocument Spreadsheet)** обеспечивает совместимость с электронными таблицами на основе открытого исходного кода в LibreOffice и OpenOffice. Идеально подходит для организаций, использующих нейтральные к поставщику и кроссплатформенные решения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Данные академических и исследовательских проектов для совместного редактирования.
+
+* Финансовая отчетность на основе открытого исходного кода для НПО или государственных учреждений.
+
+* Технические спецификации и операционные журналы в открытых форматах.
+
+* Обмен электронными таблицами между платформами внутри команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированные конвейеры преобразования XPS в FODS для исследовательских лабораторий.
+
+* Интеграция с системами управления предприятием с открытым исходным кодом или аналитическими системами.
+
+* Плановое обновление операционных электронных таблиц.
+
+* Упрощенное сотрудничество с использованием открытых форматов документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

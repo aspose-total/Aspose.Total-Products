@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **PPT (PowerPoint 97-2003)** zajistí zpětnou kompatibilitu s staršími verzemi Microsoft Office a zachová editovatelné snímky, text a základní formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Staré firemní prezentace kompatibilní se staršími verzemi Office.
+
+* Archivační a historická ochrana sady snímků.
+
+* Vzdělávací obsah pro instituce používající starý software.
+
+* Interní zpravodajství a výcvikové sady pro prostředí s různými verzemi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod souborů XPS do PPT pro firemní archivy.
+
+* Plánované automatické generování zpětně kompatibilních prezentací.
+
+* Integrace s pracovními postupy starších dokumentů.
+
+* Zjednodušené vytváření sad snímků napříč různými verzemi Office.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

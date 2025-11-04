@@ -61,7 +61,55 @@ otherformats: XLSX DIF MARKDOWN XLTX XLAM EXCEL MHTML XLSM ODS TSV FODS XLT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POTM إلى XLAM ينشئ إضافات Excel معتمدة على الماكرو من قوالب PowerPoint. يتيح ذلك تضمين وظائف قابلة لإعادة الاستخدام وصيغ مخصصة أو أدوات تفاعلية مستمدة من محتوى العرض.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تطوير إضافات Excel من حسابات الشرائح التفاعلية.
+
+* أتمتة لوحات المعلومات المالية المصممة أصلاً في PowerPoint.
+
+* تحويل قوالب KPI أو بطاقات النتائج إلى أدوات معتمدة على الماكرو.
+
+* إنشاء نصوص أتمتة Excel قابلة لإعادة الاستخدام من منطق العرض.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* سير العمل الشركي الذي ينشئ ملفات XLAM من قوالب POTM.
+
+* التكامل مع خطوط أنابيب الأتمتة في Excel لتحليل الأعمال.
+
+* إنشاء أدوات معتمدة على الماكرو بشكل دفعي من العروض التقديمية الشركية.
+
+* توليد إضافة XLAM مُشغَّلة لقوالب التحليل القياسية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

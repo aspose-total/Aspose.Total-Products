@@ -54,7 +54,51 @@ otherformats: PPT POWERPOINT POT PPTM POTX PPSX POTM PPTX PPSM PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل الملفات النصية إلى **PPTM (ملف باوربوينت مع ماكرو ممكّن)** يمكن إنشاء عروض شرائح ديناميكية مع تضمين الأتمتة. مثالي للشركات والمعلمين الذين يحتاجون إلى شرائح تفاعلية قابلة للتكرار.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* لوحات مفاتيح الأداء الرئيسية مع ماكرو مدمجة.
+
+* محاكاة تفاعلية لجلسات التدريب.
+
+* عروض تقارير مالية مع حسابات تلقائية.
+
+* شرائح مشروع ديناميكية مع تحديثات تعمل بالماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد تلقائي لعروض تقديمية مع ماكرو من السجلات اليومية.
+
+* التكامل مع أدوات الأتمتة الشركية.
+
+* تحديثات مُشغّلة لشرائح مالية متكررة.
+
+* تنفيذات ماكرو مجدولة لتحديث محتوى العروض.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

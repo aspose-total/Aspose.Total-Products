@@ -57,7 +57,51 @@ otherformats: DXF SVGZ WMF TGA EMZ PSD DICOM IMAGE WMZ JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **DICOM（医学数字成像和通信）** 可以将文档视觉集成到医学成像系统中，保留高分辨率细节以供临床应用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将医疗报告嵌入放射学成像工作流程中。
+
+* 将诊断文档存档与患者扫描一起。
+
+* 医院系统需要报告的 DICOM 兼容性。
+
+* 电信医疗平台集成临床文档图像。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XPS 转换为 DICOM 以用于医院记录系统。
+
+* 与 PACS（图片存档和通信系统）自动集成。
+
+* 定期更新患者记录图像。
+
+* 为医学成像数据处理提供简化工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

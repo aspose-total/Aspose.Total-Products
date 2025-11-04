@@ -47,7 +47,55 @@ otherformats: TXT XLSB EXCEL XLT DIF XLTM FODS XLAM XLTX SXC XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **ODS (جدول بيانات OpenDocument)** يضمن التوافق مع تطبيقات جداول البيانات مفتوحة المصدر الحديثة. يحتفظ ODS بالأنماط والصيغ والجداول، مما يجعله مثاليًا لتقارير التعاون ومشاركة البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل تقارير الموارد البشرية التي تم إنشاؤها بواسطة XSLFO لمستخدمي LibreOffice.
+
+* مشاركة التحليلات الفصلية مع الشركاء الخارجيين بتنسيق ODS.
+
+* إعداد لوحات القيادة التشغيلية لمراجعة بين الإدارات.
+
+* أرشفة الجداول المالية القائمة على XSLFO في تنسيق مفتوح مستقبلي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XSLFO إلى ODS في الوقت الحقيقي لبيئات المكاتب التعاونية.
+
+* تصدير دفعي مجدول لمقاييس التشغيل من XSLFO.
+
+* دمجه في خطوط أنابيب التقارير الآلية للفرق البعيدة.
+
+* إنشاء جداول بيانات ODS تلقائيًا من قوالب XSLFO للتقارير المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,51 @@ API také umožňuje převádět dokumenty TXT chráněné heslem na PPSX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TXT na **PPSX (PowerPoint Show XML)** poskytuje moderní prezentace založené na XML, optimalizované pro úpravy v cloudu a spolupracující prezentace. Skvělé pro firmy spoléhající se na kancelářské balíky založené na webu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Spolupracující prezentace pro vzdálené týmy.
+
+* Snímky e-learningových kurzů převedené z textových lekcí.
+
+* Aktualizace projektů sdílené přímo jako soubory PPSX v cloudových systémech.
+
+* Marketingové a prodejní prezentace doručené k přezkumu týmy napříč odděleními.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatický převod TXT na PPSX pro online školení.
+
+* Aktualizace v reálném čase v cloudu spouštěné změnami obsahu.
+
+* Dávkové zpracování pro prezentace více oddělení.
+
+* Integrace s asistenty pro design pomocí AI pro úpravu snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

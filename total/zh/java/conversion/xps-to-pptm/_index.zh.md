@@ -121,7 +121,51 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **PPTM（启用宏的 PowerPoint）** 可以实现具有宏的交互式演示文稿，用于动态数据、自动化和增强企业或教育工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 以演示文稿格式呈现的财务或销售仪表板。
+
+* 具有自动化导航的培训和教育模块。
+
+* 供管理审查的交互式报告。
+
+* 具有宏的自动项目状态演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于企业自动化的批量 XPS 到 PPTM 转换。
+
+* 与实时数据源集成，实现幻灯片的实时更新。
+
+* 为定期会议定期创建启用宏的演示文稿。
+
+* 为利益相关者审查简化生产交互式幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

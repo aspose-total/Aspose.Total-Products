@@ -47,7 +47,51 @@ Während Sie eine TEX-Datei in XLT konvertieren, können Sie Ihrem Ausgabe-XLT-D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von TEX in **XLT (Excel-Vorlage)** ermöglicht es, auf LaTeX basierende Daten in wiederverwendbare Excel-Vorlagen für Projekte, Analysen und akademische Arbeiten umzuwandeln.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Standardisierte Berichtsvorlagen für Forschungsteams.
+
+* Wiederverwendbare Finanzmodelle auf Basis von LaTeX-Tabellen.
+
+* Akademische Notenberechnungsblätter mit LaTeX-Formeln.
+
+* Vorlagen zur Verfolgung von Ingenieurprojekten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelerstellung von Excel-Vorlagen aus LaTeX.
+
+* Integration in Unternehmens- oder akademische Vorlagen-Repositories.
+
+* Automatisierte LaTeX-Datenbefüllung in XLT-Vorlagen.
+
+* Geplante Vorlagenaktualisierungen für Multi-User-Umgebungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

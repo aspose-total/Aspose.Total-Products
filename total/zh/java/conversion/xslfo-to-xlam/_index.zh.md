@@ -49,7 +49,51 @@ otherformats: XLSM XLTM XLTX FODS EXCEL XLAM SXC TXT TSV XLSB MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **XLAM（Excel Add-In）** 可以将 XSLFO 生成的数据和宏嵌入可重复使用的 Excel 插件中。XLAM 支持自动化、自定义报告和交互式电子表格应用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将 XSLFO 报告模板打包为团队使用的 Excel 插件。
+
+* 分发从 XSLFO 数据衍生的自动计算工具。
+
+* 将 XSLFO 分析集成到自定义 Excel 仪表板中。
+
+* 使用 XLAM 插件实现可重复报告工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从 XSLFO 自动化生成 XLAM，用于重复任务。
+
+* 定期部署带有更新的 XSLFO 数据的插件。
+
+* 与基于 VBA 的工作流自动化集成。
+
+* 触发生成 XLAM 插件，用于企业报告工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

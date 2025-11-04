@@ -121,7 +121,51 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **PPSM（启用宏的 PowerPoint 演示）** 可以实现具有宏的交互式幻灯片展示，非常适合自动化、动态仪表板或基于演示的工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 嵌入计算的交互式客户演示文稿。
+
+* 具有自动导航或测验宏的培训模块。
+
+* 在演示模式下自动更新的财务仪表板。
+
+* 用于企业会议的自动化报告幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于企业自动化的批量 XPS 到 PPSM 转换。
+
+* 与实时数据源集成，实现动态幻灯片内容。
+
+* 定期创建启用宏的幻灯片展示。
+
+* 用于基于演示的报告的简化内部工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

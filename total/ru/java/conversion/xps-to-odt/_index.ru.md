@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **ODT (OpenDocument Text)** обеспечивает совместимость с офисными пакетами с открытым исходным кодом, такими как LibreOffice и OpenOffice. Оно сохраняет макет и содержимое документа, поддерживая кроссплатформенный формат, нейтральный к производителю.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Совместные проекты в организациях с использованием инструментов с открытым исходным кодом.
+
+* Академические статьи и исследовательская документация для университетов.
+
+* Документы правительственных органов и НПО, требующие соответствия ODF.
+
+* Технические руководства и инструкции, используемые на различных платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное преобразование больших архивов XPS в ODT для кроссплатформенного доступа.
+
+* Интеграция с платформами совместной работы над документами, такими как Nextcloud.
+
+* Создание шаблонов ODT для стандартизированного создания контента.
+
+* Пакетное преобразование для академических или исследовательских публикационных процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

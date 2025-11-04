@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в I
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **ИЗОБРАЖЕНИЕ (универсальные растровые форматы)** превращает уравнения, таблицы и фигуры LaTeX в универсально совместимые форматы изображений для веба, печати и документации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание фигур, сгенерированных LaTeX, в блоги и веб-сайты.
+
+* Подготовка изображений высокого разрешения для научных статей.
+
+* Обмен диаграммами в универсально читаемых форматах.
+
+* Преобразование сложных таблиц LaTeX в снимки изображений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в изображения для библиотек контента.
+
+* Интеграция с автоматизированными процессами публикации и веб-сайтов.
+
+* Автоматическое обновление содержимого лекций или учебных пособий на основе изображений.
+
+* Экспорт нескольких диаграмм LaTeX в согласованные форматы изображений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

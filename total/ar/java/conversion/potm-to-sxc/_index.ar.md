@@ -61,7 +61,55 @@ otherformats: TSV FODS XLSM ODS SXC XLS XLTM MARKDOWN XLSB XLSX XLT MHTML EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POTM إلى SXC ينتج ملفات جداول بيانات تقليدية. هذا التنسيق مفيد للتوافق مع حزم البرامج المكتبية القديمة ويضمن أن يمكن ما زال تحليل بيانات العرض التاريخية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الجداول المالية القائمة على الشرائح إلى SXC لأنظمة متقادمة.
+
+* تحويل تقارير المشاريع للمؤسسات التي تستخدم برامج مكتبية قديمة.
+
+* أرشفة محتوى الشرائح الرقمية في تنسيق جدول بيانات متوافق مع الإصدارات السابقة.
+
+* مشاركة جداول العرض مع الفرق التي تستخدم تطبيقات قديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل الدفعة لقوالب POTM إلى SXC للأرشفة.
+
+* التكامل مع أنظمة التقارير التقليدية.
+
+* توليد SXC بناءً على الحدث للحفاظ على البيانات التاريخية.
+
+* سير عمل تحويل الشرائح إلى جداول بيانات تقليدية بشكل آلي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

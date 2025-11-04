@@ -47,7 +47,51 @@ otherformats: TXT XLSB EXCEL XLT DIF XLTM FODS XLAM XLTX SXC XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **ODS (OpenDocument Spreadsheet)** обеспечивает совместимость с современными приложениями для электронных таблиц с открытым исходным кодом. ODS сохраняет стили, формулы и таблицы, что делает его идеальным для совместного создания отчетов и обмена данными.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование XSLFO-отчетов по кадровому делу для пользователей LibreOffice.
+
+* Обмен квартальной аналитикой с внешними партнерами в формате ODS.
+
+* Подготовка оперативных панелей управления для межотделенческого обзора.
+
+* Архивирование финансовых таблиц на основе XSLFO в перспективном открытом формате.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Преобразование XSLFO в ODS в реальном времени для совместных офисных сред.
+
+* Плановый пакетный экспорт операционных показателей из XSLFO.
+
+* Интеграция в автоматизированные конвейеры отчетности для удаленных команд.
+
+* Автоматическое создание электронных таблиц ODS из шаблонов XSLFO для повторяющихся отчетов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

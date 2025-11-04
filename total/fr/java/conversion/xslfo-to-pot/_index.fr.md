@@ -135,7 +135,55 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion des fichiers XSLFO en **POT (modèle PowerPoint)** permet de créer des diapositives standardisées et réutilisables pour les utilisateurs de Microsoft PowerPoint. Les modèles POT préservent les mises en page des diapositives, les styles et la mise en forme des tableaux.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Création de modèles de rapports d'entreprise à partir de résumés financiers XSLFO.
+
+* Préparation de diapositives de suivi de projet mensuel pour une présentation cohérente.
+
+* Conception de modules de formation à partir de données XSLFO structurées.
+
+* Génération de decks de présentation d'investisseurs réutilisables avec des mises en page de diapositives prédéfinies.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération automatisée en lot de fichiers POT à partir de rapports XSLFO.
+
+* Création planifiée de modèles pour des présentations d'équipe récurrentes.
+
+* Intégration avec les pipelines d'automatisation des diapositives d'entreprise.
+
+* Conversion déclenchée de données XSLFO en modèles POT prêts à l'emploi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

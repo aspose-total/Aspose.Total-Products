@@ -61,7 +61,51 @@ otherformats: FODS XLTM XLT XLAM MARKDOWN EXCEL MHTML XLSB ODS SXC XLS XLTX XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات POT (قالب PowerPoint) إلى CSV (قيم مفصولة بفواصل) يمكن الفرق من استخراج البيانات المنظمة من جداول العرض إلى تنسيقات متوافقة مع جداول البيانات. يكون هذا مفيدًا بشكل خاص في التحليلات والتقارير والحفظ السجلي للشركات حيث يحتاج محتوى الجداول إلى استيراده إلى Excel أو قواعد البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استخراج ملخصات مالية من رسومات العرض إلى تقارير CSV.
+
+* تحويل مقاييس التدريب من الشرائح إلى بيانات جدولية يمكن مشاركتها.
+
+* استيراد البيانات الجدولية من PowerPoint إلى أنظمة الذكاء التجاري.
+
+* إعداد مجموعات بيانات CSV لواجهات تحليلات التسويق.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* استخراج البيانات الجدولية بشكل آلي أثناء تقارير المؤسسات.
+
+* الدمج في أنابيب ETL لتحويل البيانات المنظمة.
+
+* تحويل العروض التقديمية بشكل دفعي إلى CSV للوثائق التنظيمية.
+
+* أتمتة تحويل PowerPoint إلى قواعد بيانات لسير العمل التحليلية.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

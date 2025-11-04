@@ -135,7 +135,51 @@ presentation.save("output.potm", SaveFormat.Potm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **POTM (Шаблон PowerPoint с поддержкой макросов)** позволяет встраивать макросы в повторно используемые шаблоны слайдов. POTM идеален для динамических презентаций, требующих автоматизации и интерактивного контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание расчетов на основе XSLFO в макросы презентации.
+
+* Автоматизация повторяющихся обновлений статуса проекта в слайд-деках.
+
+* Создание интерактивных панелей управления на основе таблиц данных XSLFO.
+
+* Распространение стандартизированных шаблонов POTM между отделами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование отчетов XSLFO в шаблоны POTM для автоматизации.
+
+* Интеграция с VBA или рабочими процессами автоматизации PowerPoint.
+
+* Вызванная пакетная генерация шаблонов презентаций с поддержкой макросов.
+
+* Автообновление шаблонов POTM на основе аналитики XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

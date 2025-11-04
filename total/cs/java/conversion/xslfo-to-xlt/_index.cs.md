@@ -47,7 +47,51 @@ Při převodu souboru XSLFO na XLT můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **XLT (Excel šablona)** umožňuje opakované použití šablon se předdefinovaným formátováním a styly. XLT je ideální pro standardizaci opakujících se zpráv z XSLFO zdrojů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava standardizovaných fakturačních šablon založených na XSLFO.
+
+* Vytváření šablon pro projektové reporty pro opakované použití.
+
+* Archivace měsíčních přehledů jako opakovaně použitelných Excel šablon.
+
+* Distribuce firemních KPI reportovacích šablon generovaných z XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování šablony XLT z XSLFO reportů.
+
+* Integrace s opakujícími se reportovacími potrubími.
+
+* Plánovaný převod pro standardizované oddělení šablon.
+
+* Spouštěná generace Excel šablon pro konzistentní reportování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

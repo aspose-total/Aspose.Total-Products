@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XPS в W
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **WMZ (сжатый метафайл Windows)** позволяет создавать компактную векторную графику, подходящую для распространения, презентаций и технической документации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные области применения" %}}
+
+
+
+* Сжатые диаграммы для презентаций и электронной почты.
+
+* Технические иллюстрации для руководств и инструкций.
+
+* Маркетинговые материалы с масштабируемой графикой.
+
+* Архивирование векторных документов в компактной форме.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XPS в WMZ для распространения документов.
+
+* Интеграция с системами управления контентом.
+
+* Плановое создание сжатых векторных файлов.
+
+* Оптимизированная обработка для презентаций или маркетингового контента.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

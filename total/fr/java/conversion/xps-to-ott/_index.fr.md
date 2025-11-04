@@ -130,7 +130,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XPS en **OTT (modèle de texte OpenDocument)** transforme les fichiers XPS statiques en modèles réutilisables pour les utilisateurs de LibreOffice et OpenOffice, parfaits pour les documents de flux de travail standardisés dans des formats ouverts.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Modèles de matériel académique et éducatif pour les étudiants et les enseignants.
+
+* Modèles de projets d'ONG pour les rapports et les propositions.
+
+* Modèles normalisés en open source pour la documentation d'entreprise.
+
+* Modèles de contenu créatif pour les brochures et les bulletins d'information.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération en lot de modèles OTT à partir de référentiels XPS.
+
+* Intégration avec des outils d'automatisation de flux de travail en open source.
+
+* Remplissage automatique des modèles avec des données organisationnelles.
+
+* Rationalisation des processus de création de documents multiplateformes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

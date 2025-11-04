@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **XAMLFLOW（XAML 中的 Flow 文档）**，将静态 XPS 内容转换为适用于 WPF FlowDocuments 中动态显示的可编辑、流动布局，非常适合电子书、报告或交互内容的动态展示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从 XPS 源创建交互式电子书和文档。
+
+* 为桌面应用程序创建基于流的企业报告和手册。
+
+* 在教育或培训应用程序中进行动态文本和媒体呈现。
+
+* 将员工手册或政策指南呈现为 FlowDocuments。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 存档自动转换为用于电子学习平台的 XAMLFLOW。
+
+* 为定期报告或手册生成计划的 FlowDocument。
+
+* 与动态显示 FlowDocuments 的软件工具集成。
+
+* 将静态 XPS 布局转换为响应式 FlowDocuments 的简化流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

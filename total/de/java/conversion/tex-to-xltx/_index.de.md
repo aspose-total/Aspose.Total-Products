@@ -47,7 +47,31 @@ Während Sie eine TEX-Datei in XLTX konvertieren, können Sie Ihrem Ausgabe-XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von TEX in **XLTX (Excel-Vorlage ohne Makros)** bietet sichere, wiederverwendbare Vorlagen für mit LaTeX generierte Tabellen und Formeln, ideal für die Zusammenarbeit in multiplattform Umgebungen.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Anwendungsfälle" %}}
+
+* Standardisierte akademische und Unternehmensvorlagen ohne Makros.
+* Wiederverwendbare LaTeX-basierte Projektverfolgungsblätter.
+* Finanz- und Forschungsvorlagen für sicheres Teilen durch mehrere Benutzer.
+* Mehrblattberichte für Ingenieur- und Wissenschaftsteams.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Stapelweise Erstellung von TEX-zu-XLTX-Vorlagen.
+* Automatisierte Integration in Dokumenten- und Vorlagen-Repositories.
+* Geplante LaTeX-Vorlagenaktualisierungen für gemeinsame Projekte.
+* Multiplattform-Bereitstellung von makrofreien LaTeX-gestützten Vorlagen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

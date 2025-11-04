@@ -53,7 +53,45 @@ otherformats: DOTM RTFX OTT DOT WORDML FLATOPC RTFM ODT RTF DOTX TEXT WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в RTF (Rich Text Format) обеспечивает широкую совместимость и независимость от платформы. Бизнес и образовательные учреждения могут легко обмениваться текстовым содержимым, полученным из PowerPoint, между системами, не теряя основного форматирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Создание редактируемых кратких обзоров для различных пользователей программного обеспечения.
+
+* Экспорт заметок презентации в легкие документы RTF.
+
+* Распространение читаемых отчетов для проверки соответствия.
+
+* Создание шаблонов на основе RTF для межплатформенного сотрудничества.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Экспорт в RTF в автоматизированных системах документирования.
+
+* Интеграция в легкие конвейеры обмена данными.
+
+* Плановое преобразование для систем предоставления корпоративного контента.
+
+* Массовое архивирование данных презентаций в универсальных форматах чтения.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,55 @@ Při převodu souboru XSLFO na FODS můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XSLFO do formátu **FODS (Flat OpenDocument Spreadsheet)** podporuje kancelářské balíky s otevřeným zdrojovým kódem jako LibreOffice a OpenOffice. FODS umožňuje vytváření lehkých, upravitelných tabulek založených na XML vhodných pro spolupracující prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Sdílení rozpočtových tabulek generovaných pomocí XSLFO s uživateli kancelářských balíků s otevřeným zdrojovým kódem.
+
+* Archivace zpráv ve standardizovaném otevřeném formátu tabulek.
+
+* Příprava tabulek pro sledování projektů pro spolupráci napříč platformami.
+
+* Převádění technických tabulek XSLFO do upravitelných tabulek FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze XSLFO do FODS pro reportingové potrubí s otevřeným zdrojovým kódem.
+
+* Integrace do systémů pro správu dokumentů podporujících formát FODS.
+
+* Plánovaný export pro spolupracující projekty.
+
+* Automatická konverze analytických zpráv XSLFO do formátu FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

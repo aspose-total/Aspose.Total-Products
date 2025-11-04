@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier XSLFO vers IMAGE dans un seul
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XSLFO en **IMAGE (formats génériques raster)** offre une sortie polyvalente pour les applications web, d'impression et de bureau. Les formats pris en charge peuvent inclure PNG, BMP ou TIFF en fonction des besoins.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Générer des visuels statiques à partir de tables structurées XSLFO.
+
+* Préparer des graphiques pour des tableaux de bord de reporting ou de la documentation.
+
+* Exporter des graphiques et des tables pour des applications mobiles ou de e-learning.
+
+* Créer des archives rasterisées de rapports récurrents.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion par lot de rapports XSLFO en plusieurs formats d'image.
+
+* Intégration avec des pipelines de génération de tableaux de bord automatisés.
+
+* Export déclenché pour la livraison planifiée de rapports.
+
+* Génération d'images automatisée pour l'e-learning ou les plateformes web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

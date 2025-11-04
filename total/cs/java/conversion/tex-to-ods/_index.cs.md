@@ -47,7 +47,51 @@ Při převodu souboru TEX na ODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **ODS (OpenDocument Spreadsheet)** umožňuje uživatelům využívat obsah LaTeXu v editovatelných tabulkách pro analýzu a spolupracovní projekty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Akademický výzkum s komplexními číselnými tabulkami.
+
+* Finanční nebo projektové tabulky s otevřeným zdrojovým kódem.
+
+* Inženýrské výpočty vyžadující kompatibilitu s více platformami.
+
+* Sdílení LaTeX tabulek v ODS pro spolupracovní vzdělávací projekty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné konverze TEX na ODS pro univerzitní laboratoře.
+
+* Integrace do datových potrubí s otevřeným zdrojovým kódem.
+
+* Automatické generování LaTeXem vytvořených numerických dat.
+
+* Spouštění generování ODS pro víceuživatelské prostředí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

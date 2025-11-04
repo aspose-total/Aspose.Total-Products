@@ -135,7 +135,51 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **POT (шаблон PowerPoint)** позволяет использовать контент в стиле LaTeX в качестве многоразового шаблона PowerPoint для академических, бизнес- и корпоративных презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Профессиональные слайды лекций с комплексными уравнениями.
+
+* Шаблоны корпоративных проектных предложений с таблицами LaTeX.
+
+* Стандартизированные шаблоны для университетских курсов.
+
+* Презентации на инженерных или научных конференциях.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированные пакетные преобразования TEX в POT для библиотек шаблонов.
+
+* Интеграция в системы автоматизации слайдов предприятий.
+
+* Запланированные обновления шаблонов из исходных файлов LaTeX.
+
+* Генерация по запросу для совместной работы нескольких пользователей.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

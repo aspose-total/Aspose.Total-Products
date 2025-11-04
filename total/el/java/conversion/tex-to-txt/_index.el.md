@@ -47,7 +47,51 @@ otherformats: TXT EXCEL XLAM FODS XLSB TSV XLT XLTM XLSM DIF SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **TXT (Απλό Κείμενο)** παρέχει ένα απλό, παντού αναγνώσιμο μορφότυπο για περιεχόμενο LaTeX, χρήσιμο για ελαφριά αποθήκευση, γρήγορη κοινοποίηση και επεξεργασία κειμένου.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εξαγωγή περιεχομένου LaTeX για αναζήτηση και ανάλυση βασισμένη σε κείμενο.
+
+* Κοινοποίηση σημειώσεων ή πινάκων LaTeX σε απλή μορφή κειμένου.
+
+* Ελαφριά τεκμηρίωση για σενάρια σεναριογραφίας ή προγραμματιστικά έργα.
+
+* Προετοιμασία περιεχομένου LaTeX για κατανομή μέσω email σε μορφή απλού κειμένου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή αρχείων LaTeX σε TXT για αρχειοθέτηση.
+
+* Ενσωμάτωση με αυτοματοποιημένες ροές επεξεργασίας κειμένου.
+
+* Ενεργοποίηση δημιουργίας TXT από αποθετήρια LaTeX.
+
+* Προγραμματισμένη εξαγωγή για ελαφριά τεκμηρίωση LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

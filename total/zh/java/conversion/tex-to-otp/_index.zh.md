@@ -135,7 +135,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**OTP（OpenDocument Presentation Template）**可生成具有LaTeX格式的可重复使用演示文稿模板，用于保持讲座或商务幻灯片设计的一致性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 具有LaTeX样式方程式的标准化讲座模板。
+
+* 研究团队的会议幻灯片模板。
+
+* 公式丰富内容的可重复使用教育材料。
+
+* 用于技术演示的项目提案模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为课程批量生成LaTeX到OTP模板。
+
+* 从LaTeX存储库触发模板更新。
+
+* 自动将幻灯片模板分发给合作者。
+
+* 与开源LMS演示工作流集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

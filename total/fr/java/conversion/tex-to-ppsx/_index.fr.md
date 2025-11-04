@@ -135,7 +135,55 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **PPSX (diaporama PowerPoint sans macros)** produit des présentations sûres et prêtes à être visualisées avec du contenu LaTeX, adaptées au partage sur plusieurs plateformes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Cours académiques à distribuer sans risques de sécurité liés aux macros.
+
+* Présentations d'entreprise ou de formation avec des tableaux stylisés en LaTeX.
+
+* Diapositives de conférence réutilisables avec des diagrammes riches en formules.
+
+* Partage multiplateforme de diapositives techniques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversions en lot de LaTeX en PPSX.
+
+* Création automatisée de diapositives de cours ou de formation.
+
+* Intégration avec des systèmes de gestion de l'apprentissage ou de présentation d'entreprise.
+
+* Génération de diapositives déclenchée pour des projets académiques collaboratifs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

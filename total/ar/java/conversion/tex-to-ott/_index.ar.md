@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **OTT (قالب نص OpenDocument)** يمكن المعلمين والباحثين ورجال الأعمال من إنشاء قوالب قابلة لإعادة الاستخدام بتنسيق LaTeX في صيغ مفتوحة، مما يسهل توحيد المستندات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب لمواد تعليمية بتنسيق LaTeX متسق.
+
+* قوالب OpenDocument لتقارير المختبر التعاونية.
+
+* قوالب لتقارير المشاريع والأعمال لحلول مكتبية مفتوحة المصدر.
+
+* نماذج موحدة للاستخدام الأكاديمي أو الإداري.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* إنشاء قوالب تلقائيًا لبيئات متعددة المستخدمين.
+
+* دمجها في سير العمل لأنظمة إدارة التعلم مفتوحة المصدر وحلول المكاتب.
+
+* تحديثات دفعية لمكتبات القوالب للمؤسسات الأكاديمية.
+
+* تحويل LaTeX إلى OTT ديناميكي لوثائق البحث.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

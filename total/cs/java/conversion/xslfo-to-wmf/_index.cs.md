@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek WMF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **WMF (Windows Metafile)** umožňuje použití škálovatelných vektorových obrázků kompatibilních s Microsoft Office a dalšími desktopovými publikačními aplikacemi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání XSLFO tabulek a grafů do Microsoft Wordu nebo PowerPointu.
+
+* Vytváření škálovatelných vizuálů pro firemní prezentace.
+
+* Archivace vizuálů zpráv ve vektorovém formátu.
+
+* Příprava technických ilustrací ze strukturovaných dat XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XSLFO na WMF pro pracovní postupy s dokumenty.
+
+* Plánovaný export vektorových vizuálů pro prezentace.
+
+* Spuštění generování obrázků WMF z XSLFO dashboardů.
+
+* Integrace s automatizovanými firemními publikačními toky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

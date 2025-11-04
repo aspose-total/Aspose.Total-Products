@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek EMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **EMZ (komprimovaný Windows Metafile)** zajistí zachování vektorové grafiky LaTeXu v komprimovaném formátu vhodném pro prezentace, dokumenty a technické publikace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání LaTeXových diagramů do dokumentů Microsoft Office.
+
+* Zachování vektorové grafiky pro technické zprávy.
+
+* Opakované použití LaTeXových schémat pro profesionální publikace.
+
+* Komprimovaná grafika pro akademické PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná komprese a konverze pro knihovny dokumentů.
+
+* Integrace do automatizovaných pracovních postupů publikování.
+
+* Spouštění generování EMZ pro prezentace nebo zprávy.
+
+* Archivace LaTeXových diagramů v komprimovaných formátech pro snadné distribuce.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

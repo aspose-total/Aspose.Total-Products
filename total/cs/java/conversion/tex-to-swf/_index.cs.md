@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění TEXu na **SWF (Shockwave Flash)** vytváří interaktivní LaTeX animace vhodné pro vzdělávací platformy a online prezentace, především však pro zastaralé systémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Animované tutoriály a vizualizace založené na LaTeXu.
+
+* Interaktivní vzdělávací moduly pro zastaralé platformy.
+
+* Sdílení iterativních výpočtů nebo demonstrací algoritmů.
+
+* Dynamické diagramy v technickém e-learningovém obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze TEXu na SWF pro knihovny zastaralého obsahu.
+
+* Integrace do offline e-learningových platforem.
+
+* Spouštěná generace SWF pro interaktivní LaTeX sekvence.
+
+* Plánované aktualizace animovaných tutoriálů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -144,7 +144,51 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX a **XAMLFLOW** permite transformar el contenido LaTeX en marcado XAML compatible con flujos para flujos visuales, paneles de control y aplicaciones interactivas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Diagramas de flujo visual con ecuaciones generadas por LaTeX.
+
+* Paneles de control interactivos que muestran datos en tiempo real con elementos visuales matemáticos.
+
+* Aplicaciones técnicas o de ingeniería que muestran contenido estructurado LaTeX.
+
+* Herramientas educativas que integran flujos y diagramas LaTeX en la interfaz de usuario.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión por lotes de TEX a XAMLFLOW para componentes de panel de control.
+
+* Integración en la visualización de datos automatizada y en flujos de trabajo.
+
+* Actualizaciones activadas para diagramas LaTeX interactivos en aplicaciones basadas en flujos.
+
+* Generación programada de flujos XAML basados en LaTeX para plataformas multiusuario.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

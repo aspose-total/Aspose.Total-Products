@@ -47,7 +47,51 @@ otherformats: XLSB XLTM XLTX XLT SXC EXCEL MD XLSM TSV ODS FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **DIF (تنسيق تبادل البيانات)** يضمن أن يمكن استخدام بيانات LaTeX الجدولية مع برامج جداول البيانات القديمة والأدوات العلمية المتخصصة بينما يتم الحفاظ على الهيكل والدقة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استيراد جداول الأرقام القائمة على LaTeX إلى البرمجيات المالية القديمة.
+
+* مشاركة حسابات الهندسة مع الأدوات المتوافقة مع DIF.
+
+* الحفاظ على البيانات المهيكلة للنشرات الأكاديمية.
+
+* أرشفة مجموعات بيانات LaTeX في تنسيقات تبادل مفتوحة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليفة دفعية لتوليد DIF من بيانات مشروع LaTeX.
+
+* دمجها في خطوط أنابيب البيانات العلمية.
+
+* أرشفة آلية لنتائج تجارب البحث.
+
+* تحويلات مجدولة لأنظمة التقارير المستمرة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

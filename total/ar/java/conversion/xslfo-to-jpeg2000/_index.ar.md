@@ -57,7 +57,51 @@ otherformats: TGA PSD EMZ SVGZ WMF DXF WMZ IMAGE JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **JPEG2000** يوفر صور نقطية عالية الضغط مع فقدان جودة أدنى. JPEG2000 مناسب للصور الطبية والتقارير البصرية الكبيرة والأغراض الأرشيفية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة تقارير XSLFO عالية الدقة تحتوي على جداول معقدة.
+
+* إعداد رسوم بيانية مفصلة للتقارير المالية أو التشغيلية للتوزيع الرقمي.
+
+* تحويل تحليلات XSLFO إلى صور نقطية فعالة.
+
+* إنشاء رسوم بيانية بتنسيق كبير للنشر.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعة من XSLFO إلى JPEG2000 للتخزين الأرشيفي.
+
+* إنشاء مجدول لسير العمل التلقائي للنشر.
+
+* دمج مع خطوط أنابيب تحسين الصور.
+
+* تنشيط تصدير عالي الدقة من لوحات XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

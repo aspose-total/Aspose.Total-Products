@@ -47,7 +47,51 @@ otherformats: XLTM ODS XLSB XLTX SXC EXCEL TXT XLT XLAM TSV FODS MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **XLAM (إضافة Excel)** يمكن أن يسمح بإنشاء أدوات تخصيصية لأتمتة Excel، وماكروهات، ووظائف موسعة من مستندات XPS الثابتة، مما يجعلها مثالية للمستخدمين المؤسسيين المتقدمين.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أتمتة الحسابات وسير العمل المتكررة في المالية أو العمليات.
+
+* إنشاء إضافات منتجية تعتمد على الماكروهات من البيانات الحالية.
+
+* توسيع وظائف Excel باستخدام قوالب تم تحويلها من XPS.
+
+* تحسين سير العمل على مستوى المؤسسة باستخدام إضافات Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XPS إلى XLAM بالجملة لأدوات الأتمتة الشركية.
+
+* التكامل مع البرامج الداخلية لتشغيل إضافات Excel.
+
+* إنشاء حلول ماكرو ممكنة بشكل مجدول للفرق.
+
+* تبسيط خطوط الأتمتة لمهام التقارير المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

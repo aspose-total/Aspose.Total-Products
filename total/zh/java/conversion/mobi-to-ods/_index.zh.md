@@ -61,7 +61,47 @@ otherformats: SXC XLS XLSB XLSM XLT ODS XLTX XLAM FODS XLSX XLTM EXCEL DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI文件转换为ODS（OpenDocument Spreadsheet）有助于以开放标准格式结构化表示电子书数据，确保在LibreOffice、OpenOffice和类似工具之间实现跨平台兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- 创建结构化数字图书馆索引。
+
+- 为开源研究管理MOBI书籍元数据。
+
+- 在协作项目中跟踪作者贡献。
+
+- 以ODS格式维护可导出的阅读列表。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 数字档案中的实时MOBI到ODS导出。
+
+- 与自动化发布流程集成。
+
+- 内容管理系统中的转换触发器。
+
+- 为图书管理员定期同步元数据到ODS报告。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

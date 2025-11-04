@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **OTP (šablona prezentace OpenDocument)** vytváří opakovaně použitelné šablony prezentací pro LibreOffice a OpenOffice, umožňující konzistentní design a rozvržení pro týmy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Firemní šablony prezentací pro schůzky s klienty.
+
+* Standardizované šablony přednášek pro pedagogy.
+
+* Šablony pro zprávy neziskových organizací nebo projektů pro opakované použití.
+
+* Prezentační sady marketingových kampaní s konzistentním brandingem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované vytváření šablon OTP z XPS zpráv.
+
+* Integrace s systémy pro správu obsahu pro distribuci v rámci týmu.
+
+* Plánované generování šablon pro opakující se prezentace.
+
+* Zjednodušený branding a standardizace rozvržení napříč odděleními.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

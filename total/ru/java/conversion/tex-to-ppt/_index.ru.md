@@ -135,7 +135,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **PPT (Презентация PowerPoint)** создает стандартные редактируемые слайды из документов LaTeX, сохраняя формулы, таблицы и диаграммы для обучения, исследований и корпоративного использования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Презентации по инженерным или научным исследованиям.
+
+* Академические лекции и семинары с уравнениями LaTeX.
+
+* Профессиональные проектные предложения.
+
+* Интерактивные учебные материалы с таблицами данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование LaTeX в PPT для исследовательских групп.
+
+* Интеграция в автоматизированные конвейеры создания презентаций.
+
+* Автоматическое создание слайдов для лекций или конференций.
+
+* Совместное создание слайдов PPT с содержимым LaTeX несколькими авторами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ otherformats: XLTX TSV XLSB ODS SXC DIF FODS TXT MD EXCEL XLAM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **ODS (جدول بيانات OpenDocument)** يسمح بالتوافق الواسع مع كل من LibreOffice و OpenOffice مع الحفاظ على تخطيطات البيانات المنظمة. مثالي للبيئات التعاونية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* جداول الشركات المشتركة عبر عدة حزم مكتبية.
+
+* تقارير بيانات الحكومة أو المنظمات غير الحكومية التي تتطلب تنسيقات مفتوحة.
+
+* تتبع المشاريع ومؤشرات الأداء القائمة على الفريق.
+
+* الوثائق التقنية والبحثية بشكل جدول.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي آلي من أرشيفات XPS إلى ODS.
+
+* الدمج في أنظمة إدارة الوثائق والأنظمة العملية.
+
+* إنشاء ODS المجدول للتقارير المتكررة.
+
+* توزيع البيانات الآلي عبر منصات متعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

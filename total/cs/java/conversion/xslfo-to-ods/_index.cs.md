@@ -47,7 +47,51 @@ Při převodu souboru XSLFO na ODS můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **ODS (OpenDocument Spreadsheet)** zajišťuje kompatibilitu s moderními tabulkovými aplikacemi s otevřeným zdrojovým kódem. ODS zachovává styly, vzorce a tabulky, což je ideální pro spolupracující reporting a sdílení dat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převod XSLFO-generovaných HR reportů pro uživatele LibreOffice.
+
+* Sdílení čtvrtletních analýz s externími partnery ve formátu ODS.
+
+* Příprava operačních přehledů pro mezirezortní kontrolu.
+
+* Archivace finančních tabulek založených na XSLFO v otevřeném formátu odolném vůči budoucnosti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Převod XSLFO na ODS v reálném čase pro spolupracující kancelářská prostředí.
+
+* Plánovaný hromadný export operačních metrik z XSLFO.
+
+* Integrace do automatizovaných reportingových potrubí pro vzdálené týmy.
+
+* Automatické generování ODS tabulek z XSLFO šablon pro opakující se reporty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

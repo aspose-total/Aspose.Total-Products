@@ -57,7 +57,51 @@ otherformats: IMAGE TGA WMF JPEG2000 SVGZ DXF  EMZ PSD WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**DXF（绘图交换格式）**，可以使LaTeX生成的技术图表、蓝图和原理图在工程和建筑项目的CAD软件中使用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从LaTeX技术文档生成工程原理图。
+
+* 用于CAD集成的建筑图表。
+
+* 用于设计项目的基于LaTeX的绘图可视化。
+
+* 从LaTeX衍生的制造或原型图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于工程工作流程的批量TEX到DXF转换。
+
+* 与CAD软件流程集成。
+
+* 触发自动生成设计图表。
+
+* 将LaTeX原理图存档为DXF格式，以实现跨平台使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

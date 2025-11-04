@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**XAMLFLOW**，可以将LaTeX内容转换为与流兼容的XAML标记，用于可视化工作流程、仪表板和交互式应用程序。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 使用LaTeX生成的方程式创建可视化工作流程图。
+
+* 显示实时数据和数学可视化的交互式仪表板。
+
+* 显示结构化LaTeX内容的技术或工程应用程序。
+
+* 在用户界面中集成LaTeX流程和图表的教育工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将TEX转换为XAMLFLOW，用于仪表板组件。
+
+* 集成到自动化数据可视化和工作流程管道中。
+
+* 触发更新，用于流式应用程序中交互式LaTeX图表。
+
+* 为多用户平台定期生成基于LaTeX的XAML流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

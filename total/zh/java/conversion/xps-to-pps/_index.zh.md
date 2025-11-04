@@ -121,7 +121,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **PPS（PowerPoint 演示）** 可以创建一个幻灯片，直接以演示模式打开，非常适合立即查看和共享，无需编辑。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 准备好分享的客户演示文稿。
+
+* 自动化会议幻灯片展示。
+
+* 课堂教学或电子学习平台的教育资料。
+
+* 需要精心制作幻灯片的营销活动。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XPS 文件转换为 PPS 用于演示。
+
+* 定时生成用于培训或活动的自动化幻灯片展示。
+
+* 与内部共享平台集成，快速访问。
+
+* 将幻灯片流畅分发给多个团队或客户。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

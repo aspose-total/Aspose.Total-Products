@@ -47,7 +47,55 @@ Při převodu souboru XSLFO na DIF můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod souborů XSLFO na **DIF (Data Interchange Format)** zajistí kompatibilitu s staršími aplikacemi tabulkových procesorů a dědictvím datových systémů. DIF udržuje strukturovaný tabulkový obsah a zároveň podporuje přenositelnost dat mezi heterogenními platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Migrace historických prodejních záznamů do dědictví tabulkových systémů.
+
+* Archivace reportů generovaných pomocí XSLFO pro dodržování předpisů.
+
+* Výměna dat mezi podnikovým plánovacím softwarem pomocí formátu DIF.
+
+* Příprava marketingových metrik pro analýzu na různých platformách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná transformace měsíčních výkazů výkonu XSLFO do formátu DIF.
+
+* Integrace do dědictví ERP systémů vyžadujících vstup ve formátu DIF.
+
+* Plánované aktualizace datových sad DIF pro analýzu historických trendů.
+
+* Spuštěný převod z XSLFO na DIF v automatizovaných reportovacích potrubích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

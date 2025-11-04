@@ -49,7 +49,51 @@ otherformats: XLTX SXC XLSB XLAM MD ODS XLT DIF XLSM XLTM FODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **MD（Markdown）** 提供了一种简化的文本格式，易于阅读、编辑，非常适合版本控制文档和网络内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 轻量级格式的技术手册和指南。
+
+* 软件和公司流程的内部文档。
+
+* 快速转换为博客文章或知识共享平台。
+
+* 具有 Markdown 支持的学术和研究笔记。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XPS 转换为 MD 以用于内容管理系统。
+
+* 与自动发布流水线集成。
+
+* 定期更新基于 Markdown 的文档。
+
+* 简化的工作流程，将多个 XPS 文件转换为可编辑文本。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

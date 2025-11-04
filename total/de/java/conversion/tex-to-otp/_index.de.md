@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von TEX in **OTP (OpenDocument Presentation Template)** erstellt wiederverwendbare Präsentationsvorlagen mit LaTeX-Formatierung für einheitliches Design von Vorlesungs- oder Geschäftsslides.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Standardisierte Vorlagen für Vorlesungen mit LaTeX-formatierten Gleichungen.
+
+* Konferenzvorlagen für Forschungsteams.
+
+* Wiederverwendbare Lehrmaterialien mit formelreichem Inhalt.
+
+* Vorlagen für Projektvorschläge für technische Präsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelgenerierung von LaTeX-zu-OTP-Vorlagen für Kurse.
+
+* Vorlagenaktualisierungen ausgelöst von LaTeX-Repositories.
+
+* Automatisierte Verteilung von Slide-Vorlagen an Mitarbeiter.
+
+* Integration mit Open-Source LMS-Präsentations-Workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

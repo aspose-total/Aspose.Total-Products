@@ -57,7 +57,55 @@ otherformats: SVGZ EMZ WMF IMAGE JPEG2000 PSD  WMZ DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **PSD (Photoshop Document)** επιτρέπει στα γραφικά που δημιουργήθηκαν με LaTeX να είναι πλήρως επεξεργάσιμα στο Adobe Photoshop για σχεδιασμό υψηλής ποιότητας και μετεπεξεργασία.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Επεξεργασία διαγραμμάτων LaTeX για παρουσιάσεις και αφίσες.
+
+* Δημιουργία γραφικών έτοιμων για δημοσίευση με βελτιώσεις στο Photoshop.
+
+* Προσαρμογή εικονογραφήσεων για εκπαιδευτικούς ή εκπαιδευτικούς σκοπούς.
+
+* Δημιουργία εικονογραφήσεων υψηλής αισθητικής για μάρκετινγκ ή ακαδημαϊκή χρήση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή TEX σε PSD για ομάδες σχεδιασμού.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές εργασίας γραφικών.
+
+* Δημιουργία PSD με ενεργοποίηση για τη δημιουργία αφίσας ή infographics.
+
+* Επεξεργάσιμη εξαγωγή διαγραμμάτων LaTeX για επεξεργασία σε πολλά επίπεδα στο Photoshop.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

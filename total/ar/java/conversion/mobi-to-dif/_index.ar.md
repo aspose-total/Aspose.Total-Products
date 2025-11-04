@@ -61,7 +61,51 @@ otherformats: FODS XLSM TSV XLTX XLTM XLAM DIF XLT XLSX XLSB EXCEL ODS XLS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MOBI إلى DIF (تنسيق تبادل البيانات) يضمن التوافق مع أنظمة البيانات التقليدية مع الحفاظ على قابلية القراءة في جداول البيانات المنظمة. يوفر DIF طريقة فعالة لتوحيد إحصاءات الكتب الإلكترونية، وتاريخ القراءة، أو بيانات الفهرس عبر المنصات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- أرشفة بيانات ملف MOBI للتحليل التاريخي.
+
+- استيراد إحصاءات الكتب الإلكترونية إلى البرمجيات القديمة التي تدعم DIF.
+
+- سجلات نشر أكاديمية مهيأة للتخزين الموحد.
+
+- تحويل فهارس غير متصلة لأنظمة الكتب الإلكترونية المؤسسية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- تصدير MOBI إلى DIF بشكل مجدول في إدارة بيانات البحث.
+
+- التكامل مع أنظمة ERP أو تقارير قديمة.
+
+- معالجة دفعية عبر محولات سطر الأوامر لأمناء المكتبات.
+
+- توصيل ملف DIF تلقائي لشبكات القراءة الموزعة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

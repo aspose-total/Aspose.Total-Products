@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**OTT（OpenDocument Text Template）**，使教育工作者、研究人员和企业能够在开放格式中创建具有LaTeX样式的可重用模板，从而简化文档标准化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 具有一致的LaTeX格式的教材模板。
+
+* 用于协作实验报告的OpenDocument模板。
+
+* 用于开源办公套件的项目和商业报告模板。
+
+* 用于学术或行政用途的标准化表单。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于多用户环境的自动化模板生成。
+
+* 集成到开源LMS和办公流程中。
+
+* 用于学术机构模板库的批量更新。
+
+* 用于研究文档的动态LaTeX到OTT转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

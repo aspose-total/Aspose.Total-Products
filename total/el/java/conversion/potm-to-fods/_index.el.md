@@ -61,7 +61,55 @@ otherformats: MHTML EXCEL XLSX FODS ODS XLSB SXC TSV XLSM XLS XLAM XLT MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από POTM σε FODS δημιουργεί επίπεδα αρχεία υποδομής OpenDocument Spreadsheet βασισμένα σε XML. Το FODS είναι ιδανικό για ελαφριά, ανεξάρτητη πλατφόρμας αποθήκευση φύλλων υπολογιστή, διατηρώντας τις δομές πινάκων από διαφάνειες παρουσίασης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή πινάκων PowerPoint σε FODS για χρήση σε LibreOffice ή OpenOffice.
+
+* Μετατροπή αριθμητικών αναφορών βασισμένων σε διαφάνειες σε φύλλα εργασίας διασυνδεδεμένα με πλατφόρμες.
+
+* Διαμοιρασμός πινάκων ακαδημαϊκών ή έργων ΜΚΟ σε ανοιχτές μορφές XML.
+
+* Αρχειοθέτηση δεδομένων παρουσίασης σε δομημένα επίπεδα αρχείων XML φύλλων εργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματισμός ροών εργασίας για μαζικές μετατροπές από POTM σε FODS.
+
+* Ενσωμάτωση σε αγωγούς αυτοματισμού γραφείου διασυνδεδεμένου με πλατφόρμες.
+
+* Ενεργοποίηση δημιουργίας αρχείων FODS για ομάδες που εργάζονται αποκεντρωμένα.
+
+* Δομημένη εξαγωγή δεδομένων XML για συστήματα αναφοράς και συμμόρφωσης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

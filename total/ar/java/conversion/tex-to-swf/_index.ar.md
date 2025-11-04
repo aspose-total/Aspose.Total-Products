@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **SWF (Shockwave Flash)** ينشئ رسوم متحركة تفاعلية من LaTeX مناسبة لمنصات التعليم والعروض التقديمية عبر الإنترنت، على الرغم من أنها تستخدم في المقام الأول للأنظمة القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* البرامج التعليمية والتصورات المرئية المبنية على LaTeX المتحركة.
+
+* وحدات تعليمية تفاعلية للمنصات القديمة.
+
+* مشاركة الحسابات التكرارية أو عروض الخوارزميات.
+
+* الرسوم التوضيحية الديناميكية في محتوى التعليم الفني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من TEX إلى SWF لمكتبات المحتوى القديمة.
+
+* دمجها في منصات التعليم الإلكتروني دون اتصال.
+
+* توليد SWF مُحفّز لتسلسلات LaTeX التفاعلية.
+
+* تحديثات مجدولة للبرامج التعليمية المتحركة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

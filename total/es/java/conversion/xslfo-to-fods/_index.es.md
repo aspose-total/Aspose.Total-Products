@@ -47,7 +47,31 @@ Al convertir un archivo XSLFO a FODS, también puede agregar una marca de agua a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir archivos XSLFO al formato **FODS (Hoja de cálculo abierta de OpenDocument)** es compatible con suites de oficina de código abierto como LibreOffice y OpenOffice. FODS permite hojas de cálculo basadas en XML, ligeras y editables, adecuadas para entornos colaborativos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Compartir hojas de presupuesto generadas en XSLFO con usuarios de oficinas de código abierto.
+* Archivar informes en un formato de hoja de cálculo abierto y estandarizado.
+* Preparar hojas de seguimiento de proyectos para colaboración entre plataformas.
+* Convertir tablas técnicas XSLFO en hojas de cálculo FODS editables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión por lotes de XSLFO a FODS para canalizaciones de informes de código abierto.
+* Integración en sistemas de gestión de documentos que admiten FODS.
+* Exportación programada para paneles de proyectos colaborativos.
+* Conversión automática de informes de análisis XSLFO al formato FODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

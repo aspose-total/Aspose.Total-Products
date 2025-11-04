@@ -47,7 +47,51 @@ otherformats: XLTX SXC XLSB XLAM MD ODS XLT DIF XLSM XLTM FODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **MD (Markdown)** يوفر تنسيق نصي مبسط يمكن قراءته بسهولة من قبل البشر، وقابل للتحرير، ومثالي للوثائق المتحكم فيها بالإصدارات ومحتوى الويب.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* الدلائل التقنية والأدلة بتنسيق خفيف.
+
+* الوثائق الداخلية للبرمجيات وإجراءات الشركات.
+
+* تحويل سريع لمقالات المدونة أو منصات مشاركة المعرفة.
+
+* الكتابة والبحث الأكاديمي مع دعم Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من XPS إلى MD لأنظمة إدارة المحتوى.
+
+* التكامل مع خطوط الإنتاج التلقائي.
+
+* تحديثات مجدولة للوثائق القائمة على Markdown.
+
+* سير عمل مبسط لتحويل ملفات XPS متعددة إلى نص قابل للتحرير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

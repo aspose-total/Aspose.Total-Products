@@ -47,7 +47,51 @@ otherformats: XLTX TSV XLSB ODS SXC DIF FODS TXT MD EXCEL XLAM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **ODS (OpenDocument Spreadsheet)** επιτρέπει ευρεία συμβατότητα τόσο με το LibreOffice όσο και με το OpenOffice διατηρώντας δομημένες διατάξεις δεδομένων. Ιδανικό για συνεργατικά περιβάλλοντα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Επιχειρηματικά φύλλα υπολογιστών που μοιράζονται σε πολλά γραφεία.
+
+* Αναφορές δεδομένων κυβέρνησης ή ΜΚΟ που απαιτούν ανοιχτές μορφές.
+
+* Παρακολούθηση έργων και μετρήσεις απόδοσης βασισμένες σε ομάδες.
+
+* Τεχνική και έρευνητική τεκμηρίωση σε μορφή φύλλου υπολογιστή.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική αυτοματοποιημένη μετατροπή από αρχεία XPS σε ODS.
+
+* Ενσωμάτωση σε συστήματα διαχείρισης εγγράφων και ροών εργασίας.
+
+* Προγραμματισμένη δημιουργία ODS για επαναλαμβανόμενες αναφορές.
+
+* Αυτοματοποιημένη διανομή δεδομένων σε πολλές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: XLSB XLTM SXC XLTX EXCEL ODS TSV MD DIF XLAM XLT TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى صيغة **SXC (جدول بيانات StarOffice)** يسمح بالتوافق السلس مع أدوات StarOffice و OpenOffice القديمة. تحافظ SXC على الهيكل والتنسيق لسير العمل الأرشيفي والتقارير الشركاتية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة جداول المشاريع القائمة على XSLFO في SXC للأنظمة القديمة.
+
+* إعداد جداول بيانات SXC للشركاء الدوليين باستخدام StarOffice.
+
+* تحويل بيانات XSLFO الجدولية لأغراض التدريب والوثائق.
+
+* مشاركة مؤشرات الأداء الرئيسية الشهرية في SXC لتقارير الامتثال.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة معمول بها تلقائيًا من XSLFO إلى SXC لمشاريع الأرشفة.
+
+* دمجها في سير العمل المكتبي القديم الداعم لتنسيقات StarOffice.
+
+* إنشاء تقارير SXC المجدولة من ملفات XSLFO.
+
+* تحويل مُشغّل للوحات القيادة الإدارية المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

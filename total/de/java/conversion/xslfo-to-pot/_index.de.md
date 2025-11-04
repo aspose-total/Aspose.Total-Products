@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XSLFO-Dateien in **POT (PowerPoint-Vorlage)** ermöglicht standardisierte, wiederverwendbare Folien für Microsoft PowerPoint-Benutzer. POT-Vorlagen erhalten Folienlayouts, -stile und Tabellenformatierungen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung von Unternehmensberichtsvorlagen aus XSLFO-Finanzübersichten.
+
+* Vorbereitung monatlicher Projektverfolgungsfolien für konsistente Präsentationen.
+
+* Entwurf von Schulungsmodulen aus strukturierten XSLFO-Daten.
+
+* Generierung wiederverwendbarer Investorenpräsentationen mit vordefinierten Folienlayouts.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelweise automatisierte Generierung von POT-Dateien aus XSLFO-Berichten.
+
+* Geplante Vorlagenerstellung für wiederkehrende Teampräsentationen.
+
+* Integration in Unternehmens-Slide-Automatisierungspipelines.
+
+* Auslösen der Konvertierung von XSLFO-Daten in sofort einsatzbereite POT-Vorlagen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

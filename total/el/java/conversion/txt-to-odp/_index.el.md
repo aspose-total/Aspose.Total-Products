@@ -54,7 +54,55 @@ otherformats: PPSX PPTX PPT PPTM PPS POWERPOINT POT POTX POTM PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων TXT (απλό κείμενο) σε μορφή **ODP (OpenDocument Presentation)** επιτρέπει την άνετη μετατροπή ακατέργαστων κειμενικών αναφορών σε δομημένες παρουσιάσεις διαφανιών, ιδανικές για επαγγελματικές συναντήσεις και συνεργατικές παρουσιάσεις. Η μορφή ODP εξασφαλίζει συμβατότητα σε όλα τα προγράμματα της σουίτας παραγωγικότητας ανοικτού κώδικα, όπως το LibreOffice, το OpenOffice και άλλα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή σημειώσεων συνεδριάσεων σε επαγγελματικές παρουσιάσεις ODP.
+
+* Μετατροπή περιλήψεων ακαδημαϊκών έρευνών σε παρουσιάσεις αίθουσας διδασκαλίας.
+
+* Διαμόρφωση εσωτερικών εταιρικών αναφορών για συζητήσεις στην αίθουσα συνεδριάσεων.
+
+* Δημιουργία εκπαιδευτικών ενοτήτων από τεκμηρίωση πολιτικής.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μετατροπή από TXT σε ODP για υλικά ενημέρωσης του τμήματος ανθρώπινου δυναμικού.
+
+* Ενσωμάτωση σε συστήματα διαχείρισης γνώσεων της εταιρείας.
+
+* Προγραμματισμένες μαζικές μετατροπές εβδομαδιαίων λογαριασμών λειτουργίας.
+
+* Ενεργοποίηση δημιουργίας διαφανειών ODP από αρχεία καταγραφής διαχείρισης έργου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

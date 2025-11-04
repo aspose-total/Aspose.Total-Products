@@ -47,7 +47,55 @@ Při převodu souboru TEX na XLSM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **XLSM (Excel s makry povolený sešit)** umožňuje LaTeXovým datovým sadám interakci s pokročilými Excelovými makry pro automatizaci, analýzu a dynamické reportování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Dynamické přístrojové desky s daty generovanými LaTeXem.
+
+* Automatizované výpočty a šablony pro reportování ve výzkumu.
+
+* Makry povolené akademické nebo firemní reportování.
+
+* Inženýrské a finanční zprávy s komplexními vzorci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkové konverze LaTeXu do XLSM pro automatizované pracovní postupy.
+
+* Integrace do podnikových systémů reportování řízených makry.
+
+* Spuštěné aktualizace pro spolupracující sešity XLSM.
+
+* Automatické vytváření Excelových maker z LaTeXových datových sad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

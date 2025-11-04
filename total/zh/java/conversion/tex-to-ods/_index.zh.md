@@ -49,7 +49,51 @@ otherformats: ODS FODS TXT XLTX EXCEL XLAM XLSB MD DIF XLT SXC XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**ODS（OpenDocument Spreadsheet）**，使用户能够在可编辑的电子表格中利用LaTeX内容进行分析和协作项目。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 具有复杂数值表格的学术研究。
+
+* 开源金融或项目跟踪表格。
+
+* 需要多平台兼容性的工程计算。
+
+* 在ODS中共享LaTeX表格以进行协作教育项目。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于大学实验室的批量TEX转换为ODS。
+
+* 集成到开源数据流水线中。
+
+* 自动报告由LaTeX生成的数值数据。
+
+* 触发多用户环境下的ODS生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

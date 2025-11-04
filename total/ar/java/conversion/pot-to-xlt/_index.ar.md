@@ -61,7 +61,51 @@ otherformats: DIF FODS MARKDOWN XLTX ODS MHTML XLSX TSV XLSB SXC XLSM XLTM XLT E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POT إلى XLT (قالب Excel) يساعد المؤسسات على إنشاء قوالب جداول بيانات قابلة لإعادة الاستخدام من تخطيطات العروض التقديمية. يدعم XLT إدخال البيانات بكفاءة وتقارير متسقة عبر الفرق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصميم قوالب مالية من عروض ميزانيات PowerPoint.
+
+* إنشاء أوراق إدخال بيانات قياسية لقسم الموارد البشرية أو المحاسبة.
+
+* إعادة استخدام الرسوم التوضيحية التدريبية في تتبع الأداء القائم على Excel.
+
+* إنشاء قوالب عمل قابلة لإعادة الاستخدام من الشرائح.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد XLT تلقائيًا من تصاميم العروض التقديمية الشركية.
+
+* مزامنة القوالب عبر أنظمة إدارة الوثائق.
+
+* دمجها في أدوات تخطيط موارد المؤسسة.
+
+* نشر مبسط لقوالب Excel الموحدة.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

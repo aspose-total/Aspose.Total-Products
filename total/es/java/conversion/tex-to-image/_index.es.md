@@ -57,7 +57,51 @@ Usando la API, también puede rotar la imagen IMAGE de salida según sus necesid
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX a **IMAGEN (formatos raster genéricos)** transforma ecuaciones, tablas y figuras de LaTeX en formatos de imagen universalmente compatibles para fines web, impresión y documentación.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Incrustar figuras generadas por LaTeX en blogs y sitios web.
+
+* Preparar imágenes de alta resolución para trabajos académicos.
+
+* Compartir diagramas en formatos legibles universalmente.
+
+* Convertir tablas complejas de LaTeX en instantáneas de imagen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión por lotes de TEX a imagen para bibliotecas de contenido.
+
+* Integración con flujos de trabajo de publicación y sitios web automatizados.
+
+* Actualizaciones desencadenadas para contenido de conferencias o tutoriales basados en imágenes.
+
+* Exportar múltiples diagramas de LaTeX en formatos de imagen consistentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

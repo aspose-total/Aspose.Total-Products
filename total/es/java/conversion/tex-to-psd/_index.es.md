@@ -57,7 +57,55 @@ Usando la API, también puede rotar la imagen PSD de salida según sus necesidad
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX a **PSD (Documento de Photoshop)** permite que las imágenes generadas por LaTeX sean completamente editables en Adobe Photoshop para un diseño de alta calidad y post-procesamiento.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Edición de diagramas LaTeX para presentaciones y carteles.
+
+* Preparación de gráficos listos para publicación con mejoras de Photoshop.
+
+* Personalización de imágenes educativas o de entrenamiento.
+
+* Creación de figuras visualmente atractivas para uso académico o de marketing.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión por lotes de TEX a PSD para equipos de diseño.
+
+* Integración con flujos de trabajo automatizados de diseño gráfico.
+
+* Creación de PSD activada para la generación de carteles o infografías.
+
+* Exportación de diagramas LaTeX editables para edición en capas múltiples en Photoshop.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

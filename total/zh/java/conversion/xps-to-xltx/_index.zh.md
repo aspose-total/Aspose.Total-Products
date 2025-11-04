@@ -49,7 +49,55 @@ otherformats: TSV XLT XLTM XLAM FODS SXC XLTX EXCEL TXT XLSM ODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **XLTX（Excel 模板）** 可创建可重复使用、无宏的模板，非常适用于标准报告、数据录入和业务文档，同时确保安全性和兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 公司品牌报告模板。
+
+* 用于重复数据录入的学术或研究模板。
+
+* 团队协作的项目跟踪表。
+
+* 没有宏的财务和运营报告模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 自动生成基于 XPS 的 Excel 模板。
+
+* 用于企业范围批量创建流程。
+
+* 与文档管理系统集成以进行分发。
+
+* 定期更新以生成重复使用的标准模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

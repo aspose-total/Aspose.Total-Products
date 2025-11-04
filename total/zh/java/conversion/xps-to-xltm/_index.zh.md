@@ -49,7 +49,53 @@ otherformats: XLAM XLSB DIF FODS XLT ODS XLSM TSV XLTX EXCEL XLTM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **XLTM（启用宏的 Excel 模板）** 可以实现可重复使用的启用宏模板，将自动化与预设计的电子表格结构相结合，提高企业环境中的效率。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 带有嵌入式宏的预算计划模板。
+
+* 自动化的销售和营销报告模板。
+
+* 人力资源和工资计算模板。
+
+* 具有任务自动化的项目管理模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于企业自动化的批量 XPS 到 XLTM 模板创建。
+
+* 与内部工作流软件集成，用于自动化任务。
+
+* 为企业使用定期安排的启用宏模板更新。
+
+* 简化的自动化报告模板分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

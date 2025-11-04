@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **MARKDOWN** يحول مستندات LaTeX إلى نص قابل للقراءة بتنسيق Markdown، مثالي لنشر المواقع الإلكترونية، والوثائق، وسير العمل المُراقبة الإصدارات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الملاحظات الأكاديمية والتقارير للمدونات على الإنترنت.
+
+* وثائق فنية تحتوي على صيغ LaTeX بصيغة Markdown ودية.
+
+* التحرير التعاوني في مستودعات GitHub أو GitLab.
+
+* نشر ملخصات الأبحاث LaTeX في منصات الويب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من TEX إلى Markdown لأنابيب الوثائق.
+
+* التكامل مع مُنشئي مواقع ثابتة (مثل Hugo، Jekyll).
+
+* توليد مُحفز لمنصات المحتوى التعليمي.
+
+* تحويل مجدول لنشر LaTeX المستمر على الويب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

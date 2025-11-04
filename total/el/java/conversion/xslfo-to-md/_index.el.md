@@ -47,7 +47,51 @@ otherformats: XLTM FODS SXC XLAM XLT XLTX ODS XLSM XLSB MD DIF TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων XSLFO (Extensible Stylesheet Language Formatting Objects) σε **MD (Markdown)** επιτρέπει τη δημιουργία ελαφρών, φιλικών προς τον ιστό και εύκολα αναγνώσιμων εγγράφων. Το Markdown διατηρεί τη δομή των επικεφαλίδων, πινάκων και λιστών από το περιεχόμενο XSLFO και το καθιστά κατάλληλο για ιστότοπους, ιστολόγια και πλατφόρμες τεκμηρίωσης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή αναφορών που δημιουργήθηκαν από XSLFO σε Markdown για τεχνική τεκμηρίωση.
+
+* Δημοσίευση δομημένων πινάκων και περιεχομένου από XSLFO σε βάσεις γνώσης.
+
+* Δημιουργία έτοιμων για ιστολόγιο αναφορών με διατηρημένες διατάξεις πινάκων και επικεφαλίδων.
+
+* Προετοιμασία τεκμηρίωσης ανοικτού κώδικα από δομημένη ανάλυση XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μαζική μετατροπή αναφορών XSLFO σε Markdown για ιστοτόπους.
+
+* Ενσωμάτωση σε αυτοματοποιημένες διαδικασίες δημιουργίας τεκμηρίωσης.
+
+* Μετατροπή με ενεργοποίηση για επαναλαμβανόμενες αναλύσεις ή αναφορές έργων.
+
+* Αυτοματοποιημένες ροές εργασίας από XSLFO σε MD για συστήματα διαχείρισης γνώσεων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

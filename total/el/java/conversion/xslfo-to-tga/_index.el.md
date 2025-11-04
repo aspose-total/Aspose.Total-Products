@@ -57,7 +57,51 @@ otherformats: DXF EMZ WMZ JPEG2000  TGA IMAGE PSD SVGZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **TGA (Εικόνα Targa)** παρέχει υψηλής ποιότητας ραστερ γραφικά που χρησιμοποιούνται συχνά σε παιχνίδια, προσομοιώσεις και οπτικοποιήσεις υψηλής ανάλυσης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Προετοιμασία οπτικών που παράγονται από XSLFO για προσομοιώσεις ή αναλύσεις παιχνιδιών.
+
+* Αρχειοθέτηση λεπτομερών διαγραμμάτων με ελάχιστη απώλεια συμπίεσης.
+
+* Δημιουργία ραστερ γραφικών για επαγγελματικές εκδόσεις.
+
+* Μετατροπή πινάκων ελέγχου σε TGA για ροές εργασίας σχεδιασμού.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή του XSLFO σε TGA για αναφορές υψηλής ανάλυσης.
+
+* Προγραμματισμένη εξαγωγή για επαγγελματικές ροές οπτικοποίησης.
+
+* Ενεργοποίηση γεννήτριας TGA από επαναλαμβανόμενες αναλύσεις XSLFO.
+
+* Ενσωμάτωση με αυτοματοποιημένες ροές εργασίας σχεδιασμού.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

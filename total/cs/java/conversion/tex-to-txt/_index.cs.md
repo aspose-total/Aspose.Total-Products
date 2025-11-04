@@ -47,7 +47,51 @@ Při převodu souboru TEX na TXT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **TXT (čistý text)** poskytuje jednoduchý, univerzálně čitelný formát pro obsah LaTeXu, užitečný pro lehké ukládání, rychlé sdílení a zpracování textu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Extrahování obsahu LaTeXu pro textové vyhledávání a analýzu.
+
+* Sdílení poznámek nebo tabulek LaTeXu ve formátu jednoduchého textu.
+
+* Lehká dokumentace pro skriptování nebo kódovací projekty.
+
+* Příprava obsahu LaTeXu pro distribuci v čistě textových e-mailech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod souborů LaTeXu na TXT pro archivaci.
+
+* Integrace s automatizovanými pracovními postupy zpracování textu.
+
+* Spuštění generování TXT z repozitářů LaTeXu.
+
+* Plánovaný export pro lehkou dokumentaci LaTeXu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

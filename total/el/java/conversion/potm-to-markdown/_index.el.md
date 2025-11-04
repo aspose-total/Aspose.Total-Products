@@ -61,7 +61,51 @@ otherformats: SXC XLTM XLAM ODS DIF FODS MHTML XLT TSV XLSX XLS XLSM XLTX EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από POTM σε MARKDOWN επιτρέπει τη μετατροπή σημειώσεων παρουσίασης, τμημάτων κειμένου και περιεχομένου σε ελαφρά, επεξεργάσιμα αρχεία Markdown. Αυτό είναι ιδανικό για προγραμματιστές, bloggers και συστήματα διαχείρισης γνώσεων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή περιεχομένου διαφανειών για τεκμηρίωση και wikis.
+
+* Δημιουργία αναρτήσεων σε blogs από σημειώσεις παρουσίασης με ελάχιστη προσπάθεια μορφοποίησης.
+
+* Μετατροπή διαφανειών εκπαίδευσης σε εκπαιδευτικά προγράμματα βασισμένα σε Markdown.
+
+* Δημιουργία ελαφριών, φορητών περιεχομένων για συνεργασία βασισμένη σε Git.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μετατροπή Markdown των προτύπων POTM για βάσεις γνώσεων.
+
+* Μαζική δημιουργία για συστήματα τεκμηρίωσης ή πλατφορμών LMS.
+
+* Ενεργοποιημένη μετατροπή σε Markdown για αγωγούς περιεχομένου ελεγχόμενου από έκδοση.
+
+* Ενσωμάτωση με γεννήτριες στατικών ιστοσελίδων όπως το Hugo ή το Jekyll.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

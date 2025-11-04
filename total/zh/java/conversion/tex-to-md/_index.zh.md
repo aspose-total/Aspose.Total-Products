@@ -49,7 +49,55 @@ otherformats: MD XLT ODS XLAM XLSM FODS TSV XLSB TXT EXCEL DIF XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**MD（Markdown文件）**会从LaTeX生成标准的Markdown文件，保留文本结构、表格和基本格式，以实现多平台可读性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 为基于Git的协作准备LaTeX研究笔记。
+
+* 支持数学和表格的轻量级文档。
+
+* 以开源Markdown格式分享LaTeX讲义笔记。
+
+* 将技术报告转换为静态网站。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为研究团队自动批量进行TEX到MD的转换。
+
+* 集成到版本控制的网页内容流程中。
+
+* 从LaTeX存储库触发更新Markdown文件。
+
+* 持续生成用于教育或技术博客的MD文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

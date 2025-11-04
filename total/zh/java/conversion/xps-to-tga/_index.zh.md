@@ -57,7 +57,51 @@ otherformats: EMZ SVGZ PSD TGA DXF WMF JPEG2000 IMAGE WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **TGA（Targa 图像文件）** 可提供适用于专业图形和视频制作的高质量光栅图像。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 视频和多媒体项目的高保真视觉效果。
+
+* 从 XPS 图表派生的游戏设计资产。
+
+* 需要无损光栅图像的技术插图。
+
+* 用于演示或存档目的的公司图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量 XPS 到 TGA 的转换流程。
+
+* 为多媒体制作工作流程安排的定期创建。
+
+* 与图形编辑和视频软件集成。
+
+* 自动处理技术或设计视觉。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS（XML Paper Specification）文件转换为 **FLATOPC（Flat Open Packaging Conventions）** 可以以结构化的 XML 格式提取文档内容，保留布局、字体和元数据，以用于高级文档处理工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 用于企业文档系统的文本和格式的程序化提取。
+
+* 将 XPS 文档以结构化 XML 形式存档以进行长期存储。
+
+* 集成到自动发布流程中。
+
+* 从技术或财务报告中进行数据挖掘。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于企业内容管理的批量 XPS 到 FLATOPC 的转换。
+
+* 用于定期报告工作流程的计划提取。
+
+* 与基于人工智能的文档解析系统集成。
+
+* 自动验证提取的文档内容以符合规定。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

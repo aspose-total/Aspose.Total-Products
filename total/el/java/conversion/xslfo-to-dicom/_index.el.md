@@ -57,7 +57,51 @@ otherformats: EMZ WMF SVGZ DXF DICOM IMAGE WMZ PSD JPEG2000 TGA
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **DICOM (Ψηφιακή Εικονογράφηση και Επικοινωνίες στην Ιατρική)** επιτρέπει την ολοκλήρωση του περιεχομένου δομημένης αναφοράς με τις ροές εργασίας ιατρικής απεικόνισης. Το DICOM είναι πρότυπο στη ραδιολογία, τις κλινικές μελέτες και τα συστήματα πληροφοριών νοσοκομείων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Ενσωμάτωση δομημένων αναφορών ασθενών δίπλα σε οπτικοποιήσεις που δημιουργήθηκαν από XSLFO.
+
+* Προετοιμασία διαγνωστικών πινάκων ελέγχου κλινικών δεδομένων.
+
+* Μετατροπή πινάκων ιατρικής αναλυτικής σε εικόνες συμβατές με DICOM.
+
+* Ολοκλήρωση αποτελεσμάτων εργαστηριακών δοκιμών που δημιουργήθηκαν από XSLFO στα συστήματα PACS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Προγραμματισμένη μετατροπή αναφορών XSLFO σε μορφή DICOM για νοσοκομεία.
+
+* Ολοκλήρωση σε αυτοματοποιημένες αγωγές ηλεκτρονικών φακέλων υγείας (EHR).
+
+* Ενεργοποίηση δημιουργίας οπτικών DICOM από κλινικές αναφορές XSLFO.
+
+* Μαζική επεξεργασία για οπτικοποίηση δεδομένων έρευνας στον τομέα της υγείας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

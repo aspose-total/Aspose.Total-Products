@@ -130,7 +130,51 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir XPS a **DOTM (Plantilla habilitada para macros de Word)** combina la eficiencia de la plantilla con la automatización de macros. Las organizaciones pueden mantener diseños de documentos uniformes mientras automatizan tareas repetitivas directamente dentro de Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Plantillas de facturas e informes con macros de cálculo automático.
+
+* Plantillas de formularios legales que autocompletan datos del cliente.
+
+* Plantillas de planificación de proyectos con macros interactivos para el seguimiento de tareas.
+
+* Plantillas de documentos de recursos humanos que automatizan aprobaciones y notificaciones.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Creación masiva de plantillas habilitadas para macros estandarizadas a partir de fuentes XPS.
+
+* Integración en sistemas ERP para la generación automática de documentos.
+
+* Actualizaciones de plantillas desencadenadas cuando cambian los archivos XPS fuente.
+
+* Flujos de trabajo de informes automatizados utilizando plantillas DOTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **RTF（富文本格式）** 可以确保与大多数文字处理软件的最大兼容性，同时保留基本格式，使其成为在不同软件环境中共享文档的理想选择。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 简单的报告转换，便于分发。
+* 需要通用格式支持的法律函件。
+* 与多平台兼容的教育作业。
+* 将传统文档存档为广泛可读格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XPS 文件转换为 RTF 以实现通用访问。
+* 与自动化内容管理系统集成。
+* 在混合平台企业环境中简化共享。
+* 用于传统文档迁移的转换管道。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

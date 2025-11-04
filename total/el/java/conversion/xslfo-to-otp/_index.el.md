@@ -135,7 +135,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **OTP (Πρότυπο Παρουσίασης OpenDocument)** επιτρέπει τη δημιουργία επαναχρησιμοποιήσιμων προτύπων διαφανιών από δομημένα δεδομένα XSLFO. Τα πρότυπα OTP τυποποιούν τη μορφοποίηση παρουσιάσεων σε ολόκληρες τις ομάδες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Προετοιμασία προτύπων εταιρικών παρουσιάσεων από αναφορές που δημιουργήθηκαν από XSLFO.
+
+* Τυποποίηση εκπαιδευτικών μονάδων σε επαναχρησιμοποιήσιμα μορφές OTP.
+
+* Δημιουργία παρουσιάσεων επενδυτών με συνεπή στυλ από περιεχόμενο XSLFO.
+
+* Αρχειοθέτηση προτύπων τριμηνιαίων αναφορών για μελλοντική επαναχρησιμοποίηση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μαζική μετατροπή από XSLFO σε OTP για βιβλιοθήκες προτύπων.
+
+* Ενσωμάτωση με αυτοματοποιημένες διαδικασίες δημιουργίας διαφανιών.
+
+* Ενεργοποίηση δημιουργίας προτύπου OTP για νέες σειρές αναφορών XSLFO.
+
+* Αυτόματη ανάπτυξη προτύπων βασισμένων σε XSLFO σε όλα τα τμήματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

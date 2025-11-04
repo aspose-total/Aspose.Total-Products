@@ -135,7 +135,51 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων TEX σε **ODP (Παρουσίαση OpenDocument)** επιτρέπει στο περιεχόμενο LaTeX, τις τύπους και τους πίνακες να μετατραπούν σε διαφάνειες παρουσιάσεων ανοικτού κώδικα συμβατές με το LibreOffice και το OpenOffice. Ιδανικό για ακαδημαϊκούς και μηχανικούς που μοιράζονται έρευνα βασισμένη σε LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Ακαδημαϊκές διαλέξεις με εξισώσεις που δημιουργήθηκαν με LaTeX.
+
+* Παρουσιάσεις έργων ανοικτού κώδικα με δομημένα δεδομένα.
+
+* Διαφάνειες σε συνέδρια για θέματα μαθηματικών, φυσικής ή μηχανικής.
+
+* Διδακτικό υλικό με διαδραστικά διαγράμματα βασισμένα σε LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή TEX σε ODP για εκπαιδευτικό υλικό ή υλικό εκπαίδευσης.
+
+* Προγραμματισμένη δημιουργία διαφανειών από αποθετήρια έρευνας LaTeX.
+
+* Ενσωμάτωση σε αγωγούς παρουσιάσεων ανοικτού κώδικα.
+
+* Ενημερώσεις που ενεργοποιούνται για πολυσυγγραφικές ακαδημαϊκές διαφάνειες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

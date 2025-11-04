@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **DICOM (Digital Imaging and Communications in Medicine)** umožňuje vložení technických a vědeckých LaTeXových diagramů do pracovních postupů v oblasti lékařského zobrazování a dokumentace výzkumu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Integrování LaTeXových diagramů do zpráv o lékařském zobrazování.
+
+* Dokumentace biomedicínského výzkumu strukturovaným obsahem LaTeXu.
+
+* Vizualizace anatomických dat pomocí grafiky generované LaTeXem.
+
+* Publikování schémat založených na LaTeXu ve výzkumu radiologie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická hromadná konverze pro archivy nemocničního zobrazování.
+
+* Integrace do pracovních postupů v oblasti lékařského výzkumu.
+
+* Spouštěný převod TEX na DICOM pro klinické studie.
+
+* Export LaTeXových diagramů pro diagnostiku s asistencí umělé inteligence.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XPS in **OTT (OpenDocument Text Template)** verwandelt statische XPS-Dateien in wiederverwendbare Vorlagen für LibreOffice- und OpenOffice-Benutzer, perfekt für standardisierte Arbeitsablaufdokumente in offenen Formaten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Vorlagen für akademische und pädagogische Materialien für Schüler und Lehrer.
+
+* NGO-Projektvorlagen für Berichte und Vorschläge.
+
+* Standardisierte Open-Source-Vorlagen für Unternehmensdokumentation.
+
+* Kreative Inhaltsvorlagen für Broschüren und Newsletter.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelgenerierung von OTT-Vorlagen aus XPS-Repositories.
+
+* Integration mit Open-Source-Workflow-Automatisierungstools.
+
+* Automatische Befüllung von Vorlagen mit Organisationsdaten.
+
+* Optimierung von plattformübergreifenden Dokumentenerstellungsprozessen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

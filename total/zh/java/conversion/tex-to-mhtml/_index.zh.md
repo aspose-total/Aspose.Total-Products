@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**MHTML（MIME HTML）**可将LaTeX文档呈现为单个网页文件，保留方程式、表格和图形，以便离线或在线查看。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将LaTeX研究论文存档为独立的网页。
+
+* 共享包含图形和方程式的基于LaTeX的报告。
+
+* 生成单个MHTML文件中的交互式讲座资料。
+
+* 将技术内容转换为离线电子学习模块。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将TEX转换为MHTML，用于课件库。
+
+* 集成到自动化电子学习内容生成中。
+
+* 从LaTeX源定期更新MHTML。
+
+* 触发研究出版物共享的转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

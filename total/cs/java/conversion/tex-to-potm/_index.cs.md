@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEXu na **POTM (šablona s povolenými makry pro PowerPoint)** přidává opakovaně použitelné šablony s makrovými schopnostmi, propojující obsah LaTeXu s automatizovanou funkcionalitou snímků.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Interaktivní vzdělávací snímky s LaTeXovými vzorci.
+
+* Prezentace výzkumu s automatickým aktualizováním tabulek.
+
+* Makro-povolené šablony pro vědecké zprávy.
+
+* Šablony snímků pro přednášky s více autory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné vytváření šablon s povolenými makry z obsahu LaTeXu.
+
+* Spouštěné aktualizace šablon pro akademické nebo firemní snímkové sady.
+
+* Integrace do pracovních postupů automatizace PowerPointu.
+
+* Plánované generování šablony snímku LaTeXu do POTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -144,7 +144,29 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Conversión de archivos TEX a **DOCM (Documento habilitado para macros de Word)**
+
+La conversión de archivos TEX a **DOCM (Documento habilitado para macros de Word)** permite la integración perfecta del contenido de LaTeX con macros avanzados de Word. Esto es particularmente útil para investigadores académicos e ingenieros que requieren la generación automatizada de informes con tablas dinámicas, fórmulas y contenido interactivo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Automatización de informes de investigación con mucho LaTeX en Microsoft Word.
+* Incrustación de ecuaciones matemáticas complejas para documentación de ingeniería.
+* Creación de plantillas de laboratorio interactivas con macros para resultados reproducibles.
+* Compilación de tesis académicas con referencias cruzadas y numeración automáticas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión en lote de TEX a DOCM en sistemas de gestión de documentos institucionales.
+* Generación basada en macros de revistas científicas a partir de repositorios de LaTeX.
+* Integración en la automatización de flujos de trabajo para publicaciones técnicas.
+* Paneles de investigación que se actualizan automáticamente y combinan contenido de LaTeX con macros de Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,39 @@ otherformats: EXCEL TSV XLTX ODS SXC FODS XLSX XLT XLTM XLAM XLSM XLS XLSB DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI文件转换为TSV（制表符分隔值）可实现电子书数据的清洁和结构化导出，非常适合需要一致分隔符的技术团队、AI开发人员和后端数据操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- 将电子书元数据导入关系数据库。
+- 使用结构化MOBI数据训练语言模型。
+- 为分析工具创建基于TSV的阅读日志。
+- 将电子书详细信息迁移到企业数据仓库。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 用于文本分析的MOBI到TSV批处理。
+- 集成到自动化NLP预处理流水线中。
+- 在数据同步期间触发TSV生成。
+- 用于AI分类系统的元数据规范化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

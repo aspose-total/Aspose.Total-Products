@@ -47,7 +47,51 @@ otherformats: TSV XLT XLTM XLAM FODS SXC XLTX EXCEL TXT XLSM ODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **XLTX (шаблон Excel)** создает многоразовые шаблоны без макросов, идеальные для стандартизированной отчетности, ввода данных и деловой документации, обеспечивая при этом безопасность и совместимость.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шаблоны отчетности с брендом компании.
+
+* Учебные или исследовательские шаблоны для повторного ввода данных.
+
+* Листы отслеживания проектов для командного взаимодействия.
+
+* Финансовые и операционные шаблоны отчетности без макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное создание шаблонов Excel на основе XPS.
+
+* Пакетное создание конвейеров для использования в предприятии.
+
+* Интеграция с системами управления документами для распространения.
+
+* Плановые обновления для повторяющихся стандартизированных шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

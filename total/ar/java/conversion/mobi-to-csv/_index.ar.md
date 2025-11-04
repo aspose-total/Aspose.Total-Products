@@ -61,7 +61,41 @@ otherformats: FODS XLSB XLS XLAM EXCEL XLSX ODS TSV SXC DIF XLTX XLTM XLSM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MOBI (كتب Mobipocket eBook) إلى تنسيق CSV (قيم مفصولة بفواصل) يمكن من استخراج المعلومات النصية والبيانات الوصفية بشكل منظم من الكتب الرقمية. توافق CSV العالمي يجعله مثاليًا لإعادة استخدام محتوى البيانات وإدارة الفهارس.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- تحويل مكتبات الكتب MOBI إلى قواعد بيانات CSV يمكن فرزها.
+- استخراج بيانات المؤلف والعنوان والنوع للوحات القيادة النشرية.
+- إدارة مجموعات الكتب الإلكترونية ضمن أدوات إدارة العلاقات مع العملاء أو أدوات المخزون.
+- استيراد بيانات الكتب الإلكترونية الوصفية إلى أنظمة التحليل والتوصيات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- خطوط أنابيب التحويل التلقائي لاستخراج البيانات الوصفية بالجملة من MOBI.
+- الدمج في أنظمة ETL لتجميع بيانات المكتبة.
+- المزامنة الدورية مع تخزين السحابة وتحليلات قائمة على CSV.
+- تصنيف الكتب الإلكترونية بواسطة الذكاء الاصطناعي باستخدام النواتج المنظمة للـ CSV.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

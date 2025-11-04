@@ -49,7 +49,55 @@ otherformats: XLT MD EXCEL FODS TXT XLSB TSV ODS XLTM DIF XLSM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**EXCEL（XLS/XLSX）**，生成完全格式化的电子表格，可用于高级数据分析、数据透视表和可视化。Excel格式转换非常适合财务、会计和运营报告工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将XSLFO生成的发票转换为Excel供客户审阅。
+
+* 从表格报告数据创建动态数据透视表。
+
+* 在Excel中生成部门绩效仪表板。
+
+* 为协作业务规划准备XSLFO报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 每晚按计划将XSLFO报告转换为Excel供利益相关者使用。
+
+* 与VBA宏集成，实现自动化分析。
+
+* 从XSLFO来源自动生成Excel仪表板。
+
+* ETL工作流将运营XSLFO文件转换为Excel电子表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

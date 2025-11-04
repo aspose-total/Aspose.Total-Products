@@ -57,7 +57,51 @@ otherformats: WMZ IMAGE DXF EMZ WMF SVGZ TGA JPEG2000  PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **DXF（绘图交换格式）** 可以在 CAD 应用程序中使用 XPS 布局，保留矢量元素用于设计、建筑和工程项目。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从 XPS 文档中提取的建筑平面图和蓝图。
+
+* 用于 CAD 软件的工程图和示意图。
+
+* 需要精确矢量转换的技术文档。
+
+* 用于协作草图的工业设计工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 批量自动转换为 DXF 以供 CAD 团队使用。
+
+* 与设计流程集成，实现快速布局更新。
+
+* 定期生成 DXF 以供工程报告使用。
+
+* 简化制造过程中矢量元素的提取。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

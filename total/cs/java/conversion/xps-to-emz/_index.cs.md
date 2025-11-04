@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek EMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **EMZ (Komprimovaný Windows Metafile)** umožňuje efektivně vkládat vizuální prvky dokumentů do prezentací, zpráv nebo softwarových aplikací s zachováním vektorové jasnosti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání grafiky vysoké kvality do prezentací v Microsoft Office.
+
+* Sdílení technických a architektonických diagramů.
+
+* Ilustrace softwarové dokumentace s komprimovanými soubory.
+
+* E-learningové moduly s vizuálními prvky přesnými na vektorech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod XPS na EMZ pro knihovny obsahu.
+
+* Integrace s automatizovanými dokumentačními toky.
+
+* Plánovaná generace EMZ pro opakující se technické zprávy.
+
+* Zjednodušené zpracování grafiky pro prezentace připravené k prezentaci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: XLT XLTM ODS XLTX DIF XLSB EXCEL SXC TSV XLAM XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **SXC (StarOffice Spreadsheet)** παρέχει συμβατότητα προς τα πίσω με παλαιότερα αρχεία OpenOffice/StarOffice. Αυτή η μορφή είναι κατάλληλη για παλαιές ροές εργασίας και αρχειοθετικούς σκοπούς.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση αναφορών σε μορφή SXC.
+
+* Ιστορικά χρηματοοικονομικά και λειτουργικά σύνολα δεδομένων.
+
+* Μεταφορά υπολογιστικών φύλλων βασισμένων σε XPS σε περιβάλλοντα ανοικτού κώδικα.
+
+* Τεχνικά ή έρευνητικά αρχεία καταγραφής για παλαιότερα γραφεία.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή αποθετηρίων XPS σε αρχεία SXC.
+
+* Αυτοματοποιημένη αρχειοθέτηση για σκοπούς συμμόρφωσης και ελέγχου.
+
+* Προγραμματισμένη μεταφορά περιοδικών αναφορών XPS.
+
+* Συστήματα ολοκλήρωσης παλαιών συστημάτων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

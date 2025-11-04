@@ -61,7 +61,47 @@ otherformats: SXC XLS XLSB XLSM XLT ODS XLTX XLAM FODS XLSX XLTM EXCEL DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MOBI إلى ODS (جدول بيانات مستندات مفتوح) يسهل تمثيل بيانات الكتب الإلكترونية بشكل منظم في تنسيق قياسي مفتوح، مما يضمن التوافق عبر المنصات بين LibreOffice و OpenOffice وأدوات مماثلة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- إنشاء فهارس مكتبة رقمية منظمة.
+
+- إدارة بيانات الكتب MOBI للأبحاث مفتوحة المصدر.
+
+- تتبع مساهمات الكتّاب في المشاريع التعاونية.
+
+- الحفاظ على قوائم قراءة قابلة للتصدير بتنسيق ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- تصدير MOBI إلى ODS في الوقت الحقيقي في الأرشيف الرقمي.
+
+- التكامل مع خطوط الإنتاج الآلي للنشر.
+
+- مشغلات التحويل ضمن أنظمة إدارة المحتوى.
+
+- مزامنة البيانات الوصفية المجدولة مع تقارير ODS لأمناء المكتبات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

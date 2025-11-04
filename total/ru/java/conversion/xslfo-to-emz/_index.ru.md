@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **EMZ (Enhanced Windows Metafile Compressed)** обеспечивает высококачественную векторную графику с сжатием, идеальную для слайд-шоу и готовых к печати визуалов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Экспорт таблиц XSLFO в масштабируемую графику для презентаций.
+
+* Встраивание финансовых или операционных визуалов в слайд-шоу.
+
+* Создание архивных изображений для дашбордов отчетности.
+
+* Подготовка визуалов для рабочих процессов издательской деятельности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование отчетов XSLFO в EMZ.
+
+* Интеграция в автоматизированные конвейеры отчетности.
+
+* Запуск создания изображений EMZ для встраивания в слайд-шоу.
+
+* Мгновенное преобразование дашбордов XSLFO в сжатые векторные визуалы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: TSV FODS SXC XLT XLTM EXCEL ODS MD DIF XLTX XLAM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **XLTM (Шаблон Excel с поддержкой макросов)** поддерживает многократное использование рабочих книг с встроенной автоматизацией. Шаблоны XLTM упрощают повторяющиеся отчеты и расширенные рабочие процессы.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Стандартизация отчетов XSLFO с встроенными макросами для автоматизации.
+
+* Распространение интерактивных шаблонов отчетов между отделами.
+
+* Подготовка многоразовых шаблонов финансового моделирования из XSLFO.
+
+* Создание автоматизированных шаблонов панелей управления на основе табличных данных XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная генерация шаблонов XLTM для корпоративной отчетности.
+
+* Интеграция с автоматизированными рабочими процессами VBA.
+
+* Запланированное преобразование XSLFO в XLTM для повторяющихся проектных отчетов.
+
+* Создание шаблонов XLTM по триггеру для аналитических панелей управления с макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

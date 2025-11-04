@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX文件转换为**PCL（打印机命令语言）**，可以直接将LaTeX文档（包括方程式、表格和图表）发送到打印机，以在专业或学术环境中获得高质量的输出。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 打印LaTeX研究论文和技术报告。
+
+* 高质量输出讲义和教育材料。
+
+* 从LaTeX生成的表格和图表制作专业讲义。
+
+* 从科学或工程项目打印批量文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于打印队列的批量TEX到PCL转换。
+
+* 集成到自动化文档打印工作流程中。
+
+* 从LaTeX存储库触发的PCL生成，用于大规模打印。
+
+* 定时输出用于学术或企业文档分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

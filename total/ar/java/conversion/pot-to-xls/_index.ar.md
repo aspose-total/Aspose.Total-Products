@@ -61,7 +61,51 @@ otherformats: XLTM TSV DIF XLSX XLT MARKDOWN MHTML ODS XLAM EXCEL FODS XLS XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POT إلى XLS (Excel 97–2003 Workbook) يمكن التوافق مع أنظمة جداول البيانات القديمة التي لا تزال تستخدم في العديد من بيئات الشركات. يحافظ على البيانات الجدولية والهيكل من عروض PowerPoint للتحليل القابل للتحرير.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل تقارير PowerPoint المالية لأنظمة Excel القديمة.
+
+* مشاركة بيانات التدريب في شبكات المؤسسات القديمة.
+
+* استيراد جداول PowerPoint إلى نماذج المحاسبة القديمة.
+
+* بناء أوراق تحليلية متوافقة مع الإصدارات السابقة.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليفة XLS دفعة لإنشاء سير العمل للأرشفة وبين الإدارات.
+
+* أنابيب تحويل آلي في أنظمة الامتثال.
+
+* التكامل مع جداول بيانات ERP القديمة.
+
+* التصدير المجدول للإبلاغ الشركاتي الموحد.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XPS в S
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **SVGZ (сжатая масштабируемая векторная графика)** обеспечивает легкую, масштабируемую графику, подходящую для веб-сайтов, приложений и векторной печати, сохраняя точность.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные области применения" %}}
+
+
+
+* Веб-диаграммы и иллюстрации.
+
+* Инфографика и технические схемы для масштабируемого использования.
+
+* Маркетинговая графика для адаптивного веб-дизайна.
+
+* Образовательные визуальные материалы, совместимые с векторным программным обеспечением.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетные конвейеры преобразования из XPS в SVGZ для веб-ресурсов.
+
+* Плановые обновления для динамического создания инфографики.
+
+* Интеграция с системами управления контентом для создания масштабируемых изображений.
+
+* Оптимизированная обработка векторной графики для многоплатформенной публикации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

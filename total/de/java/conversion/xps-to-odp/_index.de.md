@@ -121,7 +121,55 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XPS (XML Paper Specification)-Dateien in **ODP (OpenDocument Presentation)** ermöglicht es Benutzern, vollständig bearbeitbare, plattformübergreifende Präsentationen zu erstellen, die mit LibreOffice und OpenOffice kompatibel sind. ODP bewahrt Layout, Text und Bilder und unterstützt kollaborative Arbeitsabläufe.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Lehrvortragsfolien für Bildungseinrichtungen.
+
+* Präsentationen von NGOs oder Regierungen, die offene Formate erfordern.
+
+* Teamprojektbesprechungen und Fortschrittsberichte.
+
+* Marketing- oder Kampagnenpräsentationen für Open-Source-Plattformen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von XPS-Archiven in ODP für Bildungsplattformen.
+
+* Integration mit Workflow-Tools zur automatisierten Folienentwicklung.
+
+* Geplante Aktualisierungen von wiederkehrenden Präsentationsinhalten.
+
+* Vereinfachte Zusammenarbeit über verschiedene Office-Suiten hinweg.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **RTF (Rich Text Format)** nabízí univerzální kompatibilitu, umožňuje otevírat LaTeX dokumenty v téměř jakémkoli textovém procesoru a zachovává základní formátování a matematické rovnice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Sdílení akademických prací mezi platformami bez ztráty formátování.
+
+* Technické manuály s komplexními rovnicemi přístupné v programu Word nebo LibreOffice.
+
+* Firemní dokumentace s LaTeX stylováním pro různé platformy.
+
+* LaTeX dokumenty připravené k odeslání e-mailem ve formátech čitelných na všech zařízeních.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod pro archivy a kompatibilitu mezi platformami.
+
+* Integrace do zpracovatelských potrubí dokumentů pro technické týmy.
+
+* Automatické generování RTF zpráv z LaTeX datových sad.
+
+* Spouštěné převody pro automatizované publikační systémy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

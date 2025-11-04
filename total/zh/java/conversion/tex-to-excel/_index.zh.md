@@ -49,7 +49,51 @@ otherformats: DIF ODS XLTX XLTM XLSB TSV XLT TXT FODS MD EXCEL XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**EXCEL（XLS/XLSX）**，可以将带有表格和公式的LaTeX文档完全集成到Microsoft Excel中，用于分析、可视化和专业报告。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 使用LaTeX生成的公式的财务报告。
+
+* 用于复杂电子表格分析的工程计算。
+
+* 学术评分表和研究数据集。
+
+* 将LaTeX表格与Excel图表结合的交互式仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于机构报告的批量LaTeX到Excel转换。
+
+* 与自动化的基于Excel的商业智能工具集成。
+
+* 用于项目进展电子表格的触发更新。
+
+* 用于基于云的Excel协作的实时转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

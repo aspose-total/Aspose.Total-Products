@@ -135,7 +135,51 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов XSLFO (Extensible Stylesheet Language Formatting Objects) в **ODP (OpenDocument Presentation)** позволяет легко создавать слайд-шоу с открытым исходным кодом, сохраняя структурированный контент и стилизацию. ODP совместим с LibreOffice Impress и другими офисными пакетами с открытым исходным кодом.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Преобразование XSLFO-сгенерированных ежегодных отчетов в интерактивные презентации ODP.
+
+* Подготовка учебного контента из структурированных таблиц XSLFO для использования в классе.
+
+* Архивирование слайдов совета директоров в формате ODP, обеспечивающем сохранность в будущем.
+
+* Создание визуальных панелей управления на основе аналитических данных, сгенерированных на основе XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование ежемесячных отчетов XSLFO в ODP для корпоративных обзоров.
+
+* Интеграция в автоматизированные рабочие процессы отчетности к презентации.
+
+* Планирование генерации слайдов ODP для повторяющихся встреч.
+
+* Триггерное преобразование контента XSLFO в слайд-деки с открытым исходным кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

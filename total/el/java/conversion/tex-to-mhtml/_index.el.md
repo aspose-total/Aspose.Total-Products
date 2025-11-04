@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **MHTML (MIME HTML)** επιτρέπει στα έγγραφα LaTeX να αποτυπώνονται ως μια ιστοσελίδα με ένα αρχείο, διατηρώντας εξισώσεις, πίνακες και γραφικά για offline ή online προβολή.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση ερευνητικών εργασιών LaTeX ως αυτό-περιεκτικές ιστοσελίδες.
+
+* Κοινοποίηση αναφορών βασισμένων σε LaTeX με ενσωματωμένα γραφικά και εξισώσεις.
+
+* Δημιουργία διαδραστικού υλικού διδασκαλίας σε ένα μόνο αρχείο MHTML.
+
+* Μετατροπή τεχνικού περιεχομένου για offline εκπαιδευτικά μοντέλα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή TEX σε MHTML για βιβλιοθήκες μαθημάτων.
+
+* Ενσωμάτωση σε αυτοματοποιημένη δημιουργία περιεχομένου e-learning.
+
+* Προγραμματισμένες ενημερώσεις MHTML από πηγές LaTeX.
+
+* Ενεργοποιημένη μετατροπή για κοινοποίηση ερευνητικών δημοσιεύσεων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -49,7 +49,51 @@ otherformats: XLSB TSV TXT FODS ODS EXCEL DIF MD XLAM XLSM XLT XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **TXT（纯文本）** 可以提取原始文本内容，实现最大兼容性、编辑简便性，并用于脚本、数据库或分析中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 提取文本数据以进行文本分析或情感分析。
+
+* 为自然语言处理（NLP）项目准备内容。
+
+* 快速编辑或重新利用文档内容。
+
+* 将文本内容存档为轻量级、通用可读格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 内容自动批量提取为 TXT 进行处理。
+
+* 与数据管道集成以进行文本挖掘和分析。
+
+* 定期生成纯文本版本以用于定期报告。
+
+* 从大型 XPS 存档中提取文本的简化工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,45 @@ otherformats: DIF FODS MARKDOWN XLTX ODS MHTML XLSX TSV XLSB SXC XLSM XLTM XLT E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为XLT（Excel模板）有助于组织从演示布局中建立可重复使用的电子表格模板。XLT支持团队间高效数据输入和一致性报告。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从PowerPoint预算演示文稿设计财务模板。
+
+* 为人力资源或会计创建标准数据输入表。
+
+* 将培训视觉元素重新用于基于Excel的绩效跟踪器。
+
+* 从幻灯片生成可重复使用的业务模板。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 从公司演示设计自动生成XLT。
+
+* 在文档管理系统中同步模板。
+
+* 集成到企业资源规划工具中。
+
+* 简化标准化Excel模板的部署。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

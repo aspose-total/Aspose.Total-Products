@@ -61,7 +61,55 @@ otherformats: TSV DIF XLTX MHTML SXC FODS ODS XLAM XLSM EXCEL MARKDOWN XLT XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTM в DIF (Data Interchange Format) облегчает передачу табличных данных презентации в старые программы электронных таблиц или кроссплатформенные приложения. DIF обеспечивает безупречную совместимость для структурированных числовых и текстовых данных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Преобразование корпоративных финансовых слайдов в DIF для устаревшего бухгалтерского программного обеспечения.
+
+* Экспорт научных наборов данных из презентаций для совместимости с устаревшими статистическими инструментами.
+
+* Переформатирование таблиц управления проектами для использования в кроссплатформенных электронных таблицах.
+
+* Сохранение структурированных таблиц презентации для многофункциональной отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизация рабочего процесса, преобразующая шаблоны POTM в DIF для корпоративных устаревших систем.
+
+* Пакетное извлечение таблиц на основе слайдов для архивирования или отчетности.
+
+* Интеграция в автоматизированные конвейеры обработки данных.
+
+* Генерация DIF, запускаемая из централизованных репозиториев презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

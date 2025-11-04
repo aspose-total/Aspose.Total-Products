@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TEX na **XAML (rozšiřitelný značkovací jazyk aplikací)** umožňuje použití obsahu LaTeX, vzorců a diagramů ve WPF, UWP a aplikacích založených na .NET, zachovávající vektorovou grafiku a formátování textu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání diagramů a rovnic generovaných v LaTeXu do desktopových aplikací.
+
+* Vytváření interaktivních prvků uživatelského rozhraní se vědeckými nebo matematickými vizuály.
+
+* Technické aplikace zobrazující dynamické grafy z LaTeXových zdrojů.
+
+* Vzdělávací software integrující LaTeXové vzorce bezproblémově.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze TEX na XAML pro více prvků uživatelského rozhraní.
+
+* Integrace do automatizovaných projektových potrubí WPF nebo UWP.
+
+* Spouštění generování vizuálů založených na LaTeXu pro aplikace .NET.
+
+* Plánované aktualizace pro více modulový vzdělávací software.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

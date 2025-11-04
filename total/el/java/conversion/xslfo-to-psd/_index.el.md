@@ -57,7 +57,51 @@ otherformats: PSD EMZ DXF JPEG2000 WMZ TGA SVGZ IMAGE  WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **PSD (Adobe Photoshop)** επιτρέπει στους γραφίστες να επεξεργαστούν πίνακες και οπτικά στοιχεία που δημιουργήθηκαν από το XSLFO με επίπεδα και προηγμένα εφέ. Η έξοδος PSD είναι ιδανική για μάρκετινγκ ή οπτικά υλικά παρουσίασης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή γραφημάτων XSLFO σε σχέδια Photoshop με επίπεδα.
+
+* Προσαρμογή οπτικών στοιχείων αναφοράς για μάρκετινγκ υλικό.
+
+* Επεξεργασία δομημένων πινάκων XSLFO για επαγγελματικές παρουσιάσεις.
+
+* Προετοιμασία εικονογραφήσεων με βελτιωμένο στυλ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτοματοποιημένη εξαγωγή αναφορών XSLFO σε PSD για ροές εργασίας σχεδίασης.
+
+* Ενσωμάτωση με διαδικασίες επεξεργασίας Photoshop παρτίδας.
+
+* Προγραμματισμένη μετατροπή για επαναλαμβανόμενες οπτικές αναφορές.
+
+* Ενεργοποιημένη δημιουργία PSD για δημιουργικά μάρκετινγκ πίνακες ελέγχου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

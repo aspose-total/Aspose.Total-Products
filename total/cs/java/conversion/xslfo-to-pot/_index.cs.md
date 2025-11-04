@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XSLFO na **POT (šablona PowerPointu)** umožňuje standardizované, opakovaně použitelné snímky pro uživatele Microsoft PowerPointu. Šablony POT zachovávají rozložení snímků, styly a formátování tabulek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření firemních šablon pro finanční souhrny XSLFO.
+
+* Příprava měsíčních snímků sledování projektu pro konzistentní prezentaci.
+
+* Navrhování výukových modulů ze strukturovaných dat XSLFO.
+
+* Generování opakovaně použitelných prezentací investorů s předdefinovanými rozloženími snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná automatizovaná generace souborů POT z XSLFO zpráv.
+
+* Plánované vytváření šablon pro opakující se týmové prezentace.
+
+* Integrace s firemními automatizačními potrubími snímků.
+
+* Spouštěná konverze dat XSLFO do připravených šablon POT k použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

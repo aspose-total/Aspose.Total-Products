@@ -47,7 +47,51 @@ Při převodu souboru XPS na XLSB můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **XLSB (Excel Binary Workbook)** zlepšuje výkon pro velké datové sady použitím kompaktního, rychle se načítajícího binárního formátu a zachování všech funkcí tabulky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Velké finanční nebo prodejní datové sady vyžadující efektivní zpracování.
+
+* Inženýrské a vědecké datové sady s komplexními vzorci.
+
+* Interaktivní ovládací panely s vysokým objemem vstupních dat.
+
+* Firemní zprávy s vestavěnými grafy a pivot tabulkami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod XPS na XLSB pro analýzu vysokého výkonu.
+
+* Automatické generování ovládacích panelů ze statických dat XPS.
+
+* Plánované aktualizace XLSB pro opakující se reportování.
+
+* Integrace do BI systémů vyžadujících rychle se načítající tabulky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

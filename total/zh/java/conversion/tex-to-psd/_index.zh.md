@@ -57,7 +57,51 @@ otherformats: SVGZ EMZ WMF IMAGE JPEG2000 PSD  WMZ DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**PSD（Photoshop文档）**，使得LaTeX生成的视觉元素可以在Adobe Photoshop中进行完全编辑，用于高端设计和后期处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 编辑用于演示和海报的LaTeX图表。
+
+* 使用Photoshop增强功能准备出版级别的图形。
+
+* 自定义教育或培训视觉元素。
+
+* 为营销或学术用途创建视觉丰富的图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为设计团队批量进行TEX到PSD的转换。
+
+* 与自动化图形设计工作流程集成。
+
+* 触发式PSD创建，用于海报或信息图生成。
+
+* 可编辑的LaTeX图表导出，用于多层Photoshop编辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

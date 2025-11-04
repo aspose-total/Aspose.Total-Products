@@ -121,7 +121,51 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **PPSM (عرض باوربوينت مع ماكرو ممكّن)** يمكّن عروض الشرائح التفاعلية مع الماكرو، مما يجعلها مثالية للأتمتة، لوحات القيادة الديناميكية، أو سير العمل القائم على العروض التقديمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* عروض شرائح تفاعلية للعملاء مع حسابات مدمجة.
+
+* وحدات تدريبية مع تنقل تلقائي أو ماكرو اختبار.
+
+* لوحات القيادة المالية التي تحدث تلقائيًا في وضع العرض التقديمي.
+
+* شرائح تقارير مؤتمتة للاجتماعات الشركات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من XPS إلى PPSM لأتمتة المؤسسات.
+
+* دمج مع تغذيات البيانات الحية لمحتوى الشرائح الديناميكي.
+
+* إنشاء مجدول لعروض الشرائح مع ماكرو للعروض المتكررة.
+
+* تيسير سير العمل الداخلي لتقارير قائمة على العروض التقديمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

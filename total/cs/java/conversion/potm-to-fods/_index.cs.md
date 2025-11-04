@@ -61,7 +61,55 @@ Při převodu souboru POTM na FODS můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTM na FODS generuje ploché soubory se sešity založené na XML formátu OpenDocument. FODS je ideální pro lehké, platformně nezávislé ukládání sešitů, zachovává struktury tabulek z prezentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování tabulek z PowerPointu do FODS pro použití v LibreOffice nebo OpenOffice.
+
+* Převádění číselných reportů založených na slajdech do víceplatformních sešitů.
+
+* Sdílení tabulek akademických nebo nevládních projektů ve formátech otevřeného XML.
+
+* Archivace dat prezentací ve strukturovaných plochých XML sešitech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizace pracovního postupu pro hromadné převody POTM na FODS.
+
+* Integrace do víceplatformních automatizačních linek kancelářských aplikací.
+
+* Spouštění generování souborů FODS pro distribuované týmy.
+
+* Extrahování strukturovaných XML dat pro systémy reportování a dodržování předpisů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

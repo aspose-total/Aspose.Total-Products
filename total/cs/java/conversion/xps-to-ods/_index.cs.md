@@ -47,7 +47,51 @@ Při převodu souboru XPS na ODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **ODS (OpenDocument Spreadsheet)** umožňuje širokou kompatibilitu jak s LibreOffice, tak s OpenOffice, přičemž zachovává strukturované rozložení dat. Ideální pro spolupracovní prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Podnikové tabulky sdílené napříč různými kancelářskými balíky.
+
+* Zprávy o datech vládních institucí nebo neziskových organizací vyžadující otevřené formáty.
+
+* Sledování týmových projektů a výkonnostních metrik.
+
+* Technická a výzkumná dokumentace ve formě tabulky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný automatizovaný převod z archivů XPS do ODS.
+
+* Integrace do systémů správy dokumentů a pracovních postupů.
+
+* Plánovaná generace ODS pro opakující se zprávy.
+
+* Automatické distribuce dat napříč platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

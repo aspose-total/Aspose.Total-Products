@@ -61,7 +61,45 @@ Při převodu souboru POT na MARKDOWN můžete také přidat vodoznak do výstup
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na MARKDOWN umožňuje pedagogům, vývojářům a profesionálům přeměnit prezentace v PowerPointu na lehkou dokumentaci připravenou pro web. Jednoduchost Markdownu zajišťuje snadnou spolupráci a správu verzí v obsahových projektech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna snímků z PowerPointu na materiály kurzů založené na Markdownu.
+
+* Převod marketingových prezentací na dokumentaci připravenou pro blog.
+
+* Příprava technických zpráv pro systémy dokumentace založené na Gitu.
+
+* Vytváření vývojářské dokumentace z firemních výukových materiálů.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+
+* Generování Markdownu z šablon PowerPointu v pracovních postupech dokumentace.
+
+* Integrace se statickými generátory stránek jako Hugo nebo Jekyll.
+
+* Automatické shrnutí prezentace na poznámky v Markdownu.
+
+* Správa znalostí s verzováním pomocí výstupu v Markdownu.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

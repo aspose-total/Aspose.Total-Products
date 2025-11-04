@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **POWERPOINT (PPTX)** poskytuje plně formátované, upravitelné snímky vhodné pro Microsoft PowerPoint. Formát PPTX zajišťuje kompatibilitu s pokročilými designovými prvky, grafy a multimédii.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace výročních zpráv XSLFO na vizuálně atraktivní snímky PowerPointu.
+
+* Příprava řídicích panelů managementu a prezentací KPI.
+
+* Vytváření vzdělávacího nebo školicího obsahu ze strukturovaných tabulek XSLFO.
+
+* Sdílení snímků generovaných z XSLFO s firemními zainteresovanými stranami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze z XSLFO do PPTX pro opakující se zprávy.
+
+* Integrace s automatizovaným vytvářením snímků a řídicími panely analytiky.
+
+* Spouštěná transformace dat XSLFO do interaktivních prezentací PowerPointu.
+
+* Generování PPTX v reálném čase pro prezentace na zasedáních představenstva.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

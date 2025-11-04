@@ -135,7 +135,51 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**POT（PowerPoint模板）**可使LaTeX样式的内容成为用于学术、商业和企业演示的可重复使用的PowerPoint模板。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 具有复杂方程式的专业讲座幻灯片。
+
+* 具有LaTeX表格的企业项目提案模板。
+
+* 用于大学课程的标准化模板。
+
+* 工程或科学会议演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于模板库的自动批量TEX到POT转换。
+
+* 集成到企业幻灯片自动化系统中。
+
+* 从LaTeX源自动更新计划模板。
+
+* 触发生成以进行多用户协作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

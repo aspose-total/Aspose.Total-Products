@@ -61,7 +61,55 @@ Při převodu souboru POTM na EXCEL můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění POTM na EXCEL bezproblémově transformuje tabulky a grafy prezentace do plně upravitelných sešitů Microsoft Excel. To uživatelům umožňuje pokračovat v analýze dat, předpovídání nebo vizualizaci v Excelu bez ručního vytváření obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna predikcí prodejů v PowerPointu na dynamické tabulky Excelu.
+
+* Exportování rozpočtových prezentací pro pokročilou analýzu pivot tabulek.
+
+* Převádění časových os projektů a Ganttových diagramů do Excelu pro týmovou spolupráci.
+
+* Transformace výzkumných snímků do Excelu pro statistické modelování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované toky generující sešity Excelu z PowerPoint šablon.
+
+* Integrace s nástroji pro business intelligence pro okamžitou vizualizaci dat.
+
+* Hromadné zpracování prezentací POTM pro čtvrtletní reportování.
+
+* Spouštění v cloudu produkující soubory Excel pro využití více odděleními.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

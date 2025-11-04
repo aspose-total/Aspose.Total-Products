@@ -47,7 +47,51 @@ Při převodu souboru XSLFO na XLSM můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **XLSM (s makry povolený Excel)** zachovává tabulková data a umožňuje pokročilou automatizaci pomocí maker. XLSM je ideální pro dynamické reportování, automatizaci pracovních postupů a finanční modelování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vložení výpočtů založených na XSLFO do Excelových maker.
+
+* Automatizace opakujících se úkolů reportování pomocí pracovních sešitů XLSM.
+
+* Generování interaktivních nástěnek s daty z XSLFO.
+
+* Příprava šablon XSLFO pro makrové finanční pracovní postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* Automatické generování pracovních sešitů XLSM z XSLFO reportů.
+
+* Plánované aktualizace reportů s makry pro kontrolu managementem.
+
+* Integrace s VBA a firemní automatizace pracovních postupů.
+
+* Spouštěný převod na XLSM pro dynamické finanční nástěnky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

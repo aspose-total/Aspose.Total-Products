@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **DOTM（Word 宏启用模板）** 将模板效率与宏自动化相结合。组织可以在 Word 中直接自动化重复任务的同时保持统一的文档布局。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 具有自动计算宏的发票和报告模板。
+
+* 自动填充客户数据的法律表单模板。
+
+* 具有交互式宏以进行任务跟踪的项目计划模板。
+
+* 自动化批准和通知的人力资源文档模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从 XPS 源批量创建标准化的宏启用模板。
+
+* 集成到 ERP 系统中，用于自动化文档生成。
+
+* 当源 XPS 文件更改时触发模板更新。
+
+* 使用 DOTM 模板进行自动化报告工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,55 @@ otherformats: WMZ SVGZ JPEG2000 DXF  TGA PSD EMZ WMF IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات XSLFO (Extensible Stylesheet Language Formatting Objects) إلى **APNG (Animated Portable Network Graphics)** يسمح بتمثيل متحرك لبيانات التقارير المنظمة مع الحفاظ على جودة الرسومات النقطية الحادة. تعتبر APNGs مثالية للوحات التفاعلية والتصورات المبنية على الويب.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* رسوم بيانية متحركة من تقارير تحليلية تم إنشاؤها بواسطة XSLFO.
+
+* تصورات تفاعلية للاتجاهات المالية أو التشغيلية.
+
+* محتوى تعليمي صديق للهواتف المحمولة يحتوي على جداول متحركة.
+
+* شرائح ديناميكية في منصات الطب عن بُعد أو التعلم الإلكتروني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي لوحات التحكم XSLFO إلى APNG لتطبيقات الويب.
+
+* دمجها في أنابيب تصور البيانات في الوقت الحقيقي.
+
+* إنشاء مجدول للرسومات المتحركة لأدوات التقارير.
+
+* إنشاء APNG مُحفز من XSLFO في سيناريوهات العمليات التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ otherformats: WMZ PSD TGA JPEG2000 WMF IMAGE SVGZ EMZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **DXF (Drawing Exchange Format)** διατηρεί τις διανυσματικές διατάξεις πινάκων για χρήση σε εφαρμογές CAD και τεχνικού σχεδιασμού. Τα αρχεία DXF διατηρούν ακριβείς διαστάσεις και δομές διάταξης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Μετατροπή των μηχανικών αναφορών που δημιουργήθηκαν από XSLFO σε μορφές φιλικές προς το CAD.
+
+* Αρχειοθέτηση δομημένων πινάκων ως διανυσματικά σχέδια για τεχνική τεκμηρίωση.
+
+* Ενσωμάτωση λειτουργικών διατάξεων σε λογισμικό σχεδιασμού.
+
+* Δημιουργία τεχνικών διαγραμμάτων από αναφορές XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή XSLFO σε DXF για ροές εργασίας μηχανικής τεκμηρίωσης.
+
+* Προγραμματισμένη εξαγωγή δομημένων πινάκων αναφορών ως DXF για αναθεώρηση σχεδίου.
+
+* Ενσωμάτωση με αυτοματοποιημένες αγωγές αναφορών βασισμένες σε CAD.
+
+* Ενεργοποιημένη μετατροπή δεδομένων XSLFO σε σχέδια DXF για τεχνικές ομάδες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

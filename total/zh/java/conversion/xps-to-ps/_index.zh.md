@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **PS（PostScript）** 提供了一种多功能的、与设备无关的打印格式，在专业出版和印前环境中被广泛使用。PS 保留了矢量图形、文本格式和页面布局，以获得高质量的输出。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 需要 PostScript 兼容性的印前和出版工作流程。
+
+* 专业手册和杂志印刷，确保准确的布局。
+
+* 以矢量格式保存的技术图纸和图表。
+
+* 在高保真度至关重要的公司和法律文件印刷。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 文件批量转换为 PostScript 以用于打印工作流程。
+
+* 与专业印刷店或印前系统集成。
+
+* 定期文档打印任务的 PS 生成。
+
+* 高产量输出的企业打印流水线优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

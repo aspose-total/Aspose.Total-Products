@@ -47,7 +47,51 @@ otherformats: XLTM DIF TSV XLSB FODS XLTX TXT ODS SXC XLAM MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **XLTX (قالب Excel بدون ماكرو)** يوفر قوالب آمنة وقابلة لإعادة الاستخدام للجداول والصيغ التي تم إنشاؤها بواسطة LaTeX، مثالية للبيئات التعاونية ومتعددة المنصات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب أكاديمية وشركات موحدة بدون ماكرو.
+
+* أوراق عمل قائمة على LaTeX قابلة لإعادة الاستخدام لتتبع المشاريع.
+
+* قوالب مالية وبحثية لمشاركة متعددة المستخدمين بشكل آمن.
+
+* تقارير متعددة الأوراق لفرق الهندسة والعلوم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء قوالب TEX-to-XLTX دفعة واحدة.
+
+* دمج آلي في مستودعات المستندات والقوالب.
+
+* تحديثات مجدولة لقوالب LaTeX في مشاريع تعاونية.
+
+* نشر متعدد المنصات لقوالب LaTeX الخالية من الماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod souborů TEX na **DOTX (šablona Wordu)** poskytuje čisté, znovupoužitelné šablony bez maker, ideální pro akademické a firemní prostředí vyžadující konzistenci formátování LaTeXu bez rizika skriptování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Profesionální šablony zpráv s LaTeX-stylovými rovnicemi.
+
+* Šablony formátování akademických prací pro studenty a univerzity.
+
+* Standardizované šablony plánů výuky pro pedagogy.
+
+* Šablony dokumentace výzkumných projektů pro laboratoře.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné vytváření firemních nebo vzdělávacích šablon.
+
+* Automatické nasazení šablon v LMS nebo systémech pro správu dokumentů.
+
+* Převod LaTeXu na šablonu Wordu pro konzistentní značkování dokumentů.
+
+* Integrace do automatizovaných procesů generování zpráv.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

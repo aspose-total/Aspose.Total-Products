@@ -54,7 +54,51 @@ API také umožňuje převádět dokumenty TXT chráněné heslem na ODP. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TXT (čistý text) do formátu **ODP (OpenDocument Presentation)** umožňuje bezproblémovou transformaci surových textových zpráv do strukturovaných prezentací ve formě snímků, ideálních pro obchodní schůzky a společné prezentace. Formát ODP zajišťuje kompatibilitu napříč balíky produktivity jako je LibreOffice, OpenOffice a dalšími open-source produktivními balíky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace poznámek ze schůzek do profesionálních snímků ve formátu ODP.
+
+* Přeměna shrnutí akademického výzkumu na prezentace do tříd.
+
+* Formátování interních firemních zpráv pro jednání v představenstvu.
+
+* Vytváření školení z dokumentace politiky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná konverze TXT na ODP pro materiály k zaškolení zaměstnanců v HR.
+
+* Integrace do firemních systémů pro správu znalostí.
+
+* Plánované hromadné konverze týdenních operačních zpráv.
+
+* Spouštění tvorby snímků ve formátu ODP z logů projektového řízení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

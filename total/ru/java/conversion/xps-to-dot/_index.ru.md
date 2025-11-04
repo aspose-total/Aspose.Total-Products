@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов XPS в **DOT (шаблон документа Word)** позволяет организациям преобразовывать контент XPS с фиксированным макетом в многоразовые шаблоны. Это идеально подходит для компаний, которым необходимо обеспечить последовательное оформление документов в отчетах, предложениях и контрактах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шаблоны с логотипом компании для предложений и презентаций.
+
+* Стандартизированные шаблоны отчетов для квартальных или годовых отчетов.
+
+* Шаблоны контрактов для юридических и закупочных отделов.
+
+* Шаблоны учебных материалов для платформ электронного обучения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное создание новых документов из шаблонов DOT массово.
+
+* Интеграция с инструментами рабочего процесса для заполнения шаблонов динамическими данными.
+
+* Оптимизация распространения контента между командами с использованием заранее разработанных шаблонов.
+
+* Конвертационные конвейеры для стандартизации документов в корпоративных системах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

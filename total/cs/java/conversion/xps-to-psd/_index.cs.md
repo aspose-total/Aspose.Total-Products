@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek PSD podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **PSD (Photoshop Document)** umožňuje designérům pracovat s vrstvenými a upravitelnými obrázky extrahovanými z XPS souborů, vhodnými pro tvůrčí a marketingové pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Upravitelné marketingové materiály odvozené z XPS souborů.
+
+* Vrstvené ilustrace pro prezentace a kampaně.
+
+* Vylepšení technických diagramů pro publikace.
+
+* Úpravy fotografií a designové projekty z vizuálních prvků dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XPS na PSD pro tvůrčí týmy.
+
+* Integrace s pracovními postupy designu pro automatizované vizuální aktualizace.
+
+* Plánovaná generace PSD z opakujících se XPS reportů.
+
+* Vylepšený úpravní proces pro marketingový nebo vzdělávací obsah.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

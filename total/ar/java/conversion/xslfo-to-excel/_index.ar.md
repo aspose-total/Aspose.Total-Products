@@ -47,7 +47,55 @@ otherformats: XLT MD EXCEL FODS TXT XLSB TSV ODS XLTM DIF XLSM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **EXCEL (XLS/XLSX)** يوفر جداول بيانات مُنسَّقة بالكامل جاهزة للتحليل البياني المتقدم والجداول الدورية والتصور. تحويل تنسيق Excel مثالي لسير العمل في المالية والمحاسبة والتقارير التشغيلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الفواتير التي تم إنشاؤها بواسطة XSLFO إلى Excel لمراجعة العميل.
+
+* إنشاء جداول دورية ديناميكية من بيانات التقرير الجدولي.
+
+* إنشاء لوحات أداء إدارية في Excel.
+
+* إعداد تقارير XSLFO للتخطيط التجاري التعاوني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل تقارير XSLFO إلى Excel بشكل ليلي مجدول لفائدة أصحاب المصلحة.
+
+* دمج مع ماكرو VBA للتحليل التلقائي.
+
+* إنشاء لوحات تحكم في Excel تلقائيًا من مصادر XSLFO.
+
+* سير العمل ETL الذي يحول ملفات XSLFO التشغيلية إلى جداول بيانات Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **PPS (PowerPoint Show)** позволяет создавать самозапускающиеся файлы презентаций для совещаний, тренингов или киосков. PPS сохраняет форматирование при открытии непосредственно в режиме слайд-шоу.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Распространение самозапускающихся корпоративных обзорных презентаций.
+
+* Подготовка автоматизированных учебных или инструктажных слайдов на основе данных XSLFO.
+
+* Обмен интерактивным маркетинговым контентом на выставках.
+
+* Создание визуально привлекательных панелей управления KPI для обзора руководства.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование из файлов XSLFO в PPS.
+
+* Интеграция в автоматизированные рабочие процессы распространения слайд-шоу.
+
+* Запуск генерации дек PPS из отчетов XSLFO.
+
+* Автоматическое обновление самозапускающихся презентаций для повторяющихся совещаний.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Mit der API können Sie das ausgegebene WMF-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX in **WMF (Windows Metafile)** bewahrt Vektorgrafiken für LaTeX-Diagramme und gewährleistet die Kompatibilität mit Microsoft Office und technischer Dokumentation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Einbetten von LaTeX-Illustrationen in Word oder PowerPoint.
+
+* Technische Diagramme in professionellen Berichten.
+
+* Skalierbare Abbildungen für Unternehmens- und akademische Dokumente.
+
+* Plattformübergreifende Verteilung von mit LaTeX generierten Grafiken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von LaTeX-Diagrammen in WMF.
+
+* Integration in Microsoft Office-Dokumentenpipelines.
+
+* Ausgelöste Aktualisierungen für Vektorgrafiken in Präsentationen.
+
+* Automatisches Archivieren von mit LaTeX generierten technischen Abbildungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

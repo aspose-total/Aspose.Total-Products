@@ -47,7 +47,51 @@ otherformats: XLAM XLSB ODS TXT EXCEL DIF FODS TSV XLTM SXC XLSM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **XLSM (إكسل مع تمكين الماكرو)** يحافظ على البيانات الجدولية ويمكّن من الأتمتة المتقدمة باستخدام الماكرو. XLSM مثالي لتقارير ديناميكية، وأتمتة سير العمل، ونمذجة مالية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين حسابات مبنية على XSLFO في ماكرو إكسل.
+
+* أتمتة مهام التقارير المتكررة باستخدام سجلات عمل XLSM.
+
+* إنشاء لوحات تفاعلية باستخدام بيانات XSLFO.
+
+* إعداد قوالب XSLFO لسير العمل المالي المدفوع بالماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد سجلات عمل XLSM تلقائيًا من تقارير XSLFO.
+
+* تحديثات مجدولة للتقارير الممكّنة بالماكرو لمراجعة الإدارة.
+
+* التكامل مع VBA وأتمتة سير العمل الشركوي.
+
+* تحويل XLSM المُشغّل بالماكرو بناءً على الطلب للوحات مالية ديناميكية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

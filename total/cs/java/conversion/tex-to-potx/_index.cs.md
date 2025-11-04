@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **POTX (PowerPoint šablona bez maker)** umožňuje bezpečné, opakovaně použitelné šablony snímků s formátováním LaTeX, ideální pro prostředí s více uživateli.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Standardizované šablony snímků kurzů s LaTeX rovnicemi.
+
+* Prezentace konferencí bez omezení maker.
+
+* Opakovaně použitelné šablony prezentací projektů.
+
+* Akademické přednáškové sady s obsahem bohatým na vzorce.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné vytváření šablon LaTeX-to-POTX.
+
+* Automatické aktualizace šablon z repozitářů LaTeX.
+
+* Integrace do vzdělávacích LMS nebo firemních systémů snímků.
+
+* Spouštěná generace šablon snímků pro týmy s více autory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

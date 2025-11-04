@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**ODT（OpenDocument Text）**可让LaTeX用户生成与LibreOffice、OpenOffice和其他办公套件兼容的开放标准文档，确保跨平台的可访问性和协作。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 以开放文档格式提交学术论文。
+
+* 具有多平台兼容性的协作研究报告。
+
+* 开源项目文档和手册。
+
+* 用于开源工具的LaTeX格式电子书或教材。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于大学知识库的批量TEX到ODT转换。
+
+* 集成到开源出版流程中。
+
+* 多平台文档分发的自动转换。
+
+* 从LaTeX数据集生成动态ODT报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

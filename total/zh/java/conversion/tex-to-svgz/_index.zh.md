@@ -57,7 +57,51 @@ otherformats: SVGZ JPEG2000 WMZ EMZ TGA IMAGE  WMF PSD DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**SVGZ（压缩可缩放矢量图形）**可保留矢量质量同时减小文件大小，非常适合用于网络和学术出版物。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在网页中嵌入LaTeX方程式和图表。
+
+* 用于出版物的可缩放、高分辨率图形。
+
+* 在线展示由LaTeX生成的数据的交互式可视化。
+
+* 以压缩矢量格式呈现的技术插图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将LaTeX图表批量转换为SVGZ。
+
+* 与网络出版流程集成。
+
+* 从LaTeX源自动更新压缩矢量图形。
+
+* 学术插图的存档和分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

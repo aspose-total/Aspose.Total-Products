@@ -61,7 +61,27 @@ otherformats: EXCEL TSV XLTX ODS SXC FODS XLSX XLT XLTM XLAM XLSM XLS XLSB DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}} تحويل ملفات MOBI إلى TSV (قيم مفصولة بواسطة علامات تبويب) يمكن أن يوفر تصديرًا نظيفًا ومنظمًا لبيانات الكتب الإلكترونية مثالي للفرق التقنية ومطوري الذكاء الاصطناعي وعمليات بيانات الخلفية التي تتطلب محددات ثابتة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+- استيراد بيانات الكتب الإلكترونية إلى قواعد بيانات علاقية.
+- تدريب نماذج اللغة باستخدام بيانات MOBI المنظمة.
+- إنشاء سجلات قراءة معتمدة على TSV لأدوات التحليل.
+- نقل تفاصيل الكتب الإلكترونية إلى مستودعات بيانات المؤسسات.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+- معالجة دفعية من MOBI إلى TSV لتحليل النصوص.
+- دمج في خطوط أنابيب معالجة اللغة الطبيعية التلقائية.
+- توليد TSV مُحفز أثناء مزامنة البيانات.
+- تطبيع البيانات الوصفية لأنظمة تصنيف الذكاء الاصطناعي.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

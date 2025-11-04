@@ -135,7 +135,51 @@ presentation.save("output.potm", SaveFormat.Potm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**POTM（PowerPoint Macro-Enabled Template）**，添加具有宏功能的可重复使用模板，将LaTeX内容与自动化幻灯片功能连接起来。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 具有LaTeX公式的交互式教育幻灯片。
+
+* 具有自动更新表格的研究演示。
+
+* 用于科学报告的宏启用模板。
+
+* 多作者讲座幻灯片模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从LaTeX内容批量创建具有宏功能的模板。
+
+* 触发的模板更新，用于学术或企业幻灯片演示。
+
+* 集成到PowerPoint自动化工作流程中。
+
+* 定时生成LaTeX到POTM幻灯片模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

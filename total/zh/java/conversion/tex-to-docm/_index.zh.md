@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX文件转换为**DOCM（启用宏的Word文档）**可实现LaTeX内容与高级Word宏的无缝集成。这对需要使用动态表格、公式和交互内容进行自动报告生成的学术研究人员和工程师特别有用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 在Microsoft Word中自动化LaTeX重型研究报告。
+
+* 为工程文档嵌入复杂的数学方程。
+
+* 使用宏创建具有可重现结果的交互式实验室模板。
+
+* 学术论文编译，具有自动交叉引用和编号。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 在机构文档管理系统中批量将TEX转换为DOCM。
+
+* 从LaTeX存储库中生成科学期刊的宏驱动。
+
+* 集成到技术出版的工作流自动化中。
+
+* 结合LaTeX内容和Word宏的自动更新研究仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek EMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **EMZ (Enhanced Windows Metafile Compressed)** umožňuje vysokokvalitní vektorovou grafiku s kompresí, ideální pro prezentace a tiskové vizuály.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování tabulek XSLFO jako škálovatelné grafiky pro prezentace.
+
+* Vkládání finančních nebo provozních vizuálů do prezentací.
+
+* Vytváření archivačních obrázků pro reportingové dashboardy.
+
+* Příprava vizuálů pro pracovní postupy v desktopovém publikování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze zpráv XSLFO na EMZ.
+
+* Integrace do automatizovaných reportingových toků.
+
+* Spouštění vytváření obrázků EMZ pro vložení do prezentací.
+
+* Konverze XSLFO dashboardů na komprimované vektorové vizuály v reálném čase.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

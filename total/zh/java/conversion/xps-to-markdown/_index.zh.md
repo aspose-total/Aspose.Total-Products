@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **MARKDOWN**，将静态文档转换为轻量级、易于编辑的格式，与博客、文档平台和版本控制系统兼容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 在 GitHub 或 GitLab 上发布技术文档。
+
+* 将报告转换为博客就绪内容。
+
+* 创建笔记和内部知识库条目。
+
+* 团队使用轻量级标记进行协作编辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 存档自动转换为适用于内容平台的 Markdown。
+
+* 与 Hugo 或 Jekyll 等静态站点生成器集成。
+
+* 定期生成 Markdown 版本以供重复文档使用。
+
+* 简化内部知识库更新的工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

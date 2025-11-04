@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX-Dateien in **ODP (OpenDocument Presentation)** ermöglicht es, LaTeX-Inhalte, Formeln und Tabellen in Open-Source-Präsentationsfolien umzuwandeln, die mit LibreOffice und OpenOffice kompatibel sind. Ideal für Akademiker und Ingenieure, die LaTeX-basierte Forschungsergebnisse teilen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Akademische Vorlesungen mit LaTeX-generierten Gleichungen.
+
+* Präsentationen von Open-Source-Projekten mit strukturierten Daten.
+
+* Konferenzfolien zu mathematischen, physikalischen oder technischen Themen.
+
+* Lehrmaterialien mit interaktiven LaTeX-basierten Diagrammen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelweise TEX-zu-ODP-Konvertierung für Lehrmaterialien oder Schulungsunterlagen.
+
+* Geplante Folien-Erstellung aus LaTeX-Forschungsrepositories.
+
+* Integration in Open-Source-Präsentations-Pipelines.
+
+* Ausgelöste Aktualisierungen für mehrere Autoren von akademischen Folienpräsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

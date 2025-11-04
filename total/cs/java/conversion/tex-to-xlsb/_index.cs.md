@@ -47,7 +47,55 @@ Při převodu souboru TEX na XLSB můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **XLSB (Excel Binary Workbook)** zajistí rychlejší výkon pro velké datové sady LaTeX, zachovává vzorce a formátování a zároveň optimalizuje velikost souboru.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Velké finanční nebo inženýrské datové sady z LaTeX.
+
+* Výkonnostně optimalizované tabulky pro datově náročné projekty.
+
+* Vícestránkové LaTeX zprávy s vestavěnými výpočty.
+
+* Akademický výzkum vyžadující kompaktní binární úložiště.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod LaTeX tabulek do XLSB pro rychlost.
+
+* Integrace do podnikových BI potrubí.
+
+* Automatické generování LaTeX do binárních Excel zpráv.
+
+* Spuštěný vytvoření XLSB pro spolupráce mezi odděleními.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

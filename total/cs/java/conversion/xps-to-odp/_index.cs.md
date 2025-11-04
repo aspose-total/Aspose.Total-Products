@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XPS (XML Paper Specification) na **ODP (OpenDocument Presentation)** umožňuje uživatelům vytvářet plně upravitelné, platformně nezávislé prezentace kompatibilní s LibreOffice a OpenOffice. ODP zachovává rozvržení, text a obrázky a zároveň podporuje spolupracovní pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Edukační prezentace pro akademické instituce.
+
+* Prezentace neziskových organizací nebo vládních institucí vyžadující otevřené formáty.
+
+* Týmové projekty a průběžné zprávy.
+
+* Marketingové nebo kampaně prezentace pro platformy s otevřeným zdrojovým kódem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze archivů XPS do ODP pro vzdělávací platformy.
+
+* Integrace s nástroji pro automatizovanou generaci snímků.
+
+* Plánované aktualizace opakujícího se obsahu prezentací.
+
+* Zjednodušená spolupráce napříč různými kancelářskými balíky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,55 @@ otherformats: WORD DOTX OTT DOTM RTF DOTMM TEXT DOTMX FLATOPC WORDML ODT DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POTM إلى DOTM ينشئ قوالب Word الممكّنة للماكرو تمت مشتقتها من قوالب PowerPoint. يسمح بإعادة استخدام المكونات المؤتمتة - مثل الماكرو أو سكربتات ملء البيانات - داخل قوالب Word لإنتاج المستندات بشكل أسرع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب توليد تقارير آليّة لسير العمل الشركات.
+
+* إنشاء نماذج Word قائمة على الماكرو من قوالب PowerPoint.
+
+* قوالب وثائق تقنية مع سكربتات تضمينية للتأليف الآلي.
+
+* قوالب إدخال البيانات الموحدة لإدارة الموارد البشرية أو الشؤون المالية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأليف الآلي" %}}
+
+
+
+* الروبوتات العاملة في سير العمل تولد ملفات DOTM من مدخلات العروض التقديمية.
+
+* التكامل مع منصات التأليف الآلي للمستندات.
+
+* تحويل كتلي لقوالب POTM إلى نماذج Word ممكّنة للماكرو قابلة لإعادة الاستخدام.
+
+* إنشاء نموذج عقد ديناميكي من محتوى العرض التقديمي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

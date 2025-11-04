@@ -61,7 +61,55 @@ otherformats: MHTML EXCEL XLSX FODS ODS XLSB SXC TSV XLSM XLS XLAM XLT MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTM в FODS генерирует плоские файлы электронных таблиц на основе XML формата OpenDocument. FODS идеально подходит для хранения электронных таблиц на легком, платформенно-независимом уровне, сохраняя структуры таблиц из слайдов презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт таблиц PowerPoint в FODS для использования в LibreOffice или OpenOffice.
+
+* Преобразование числовых отчетов на основе слайдов в межплатформенные электронные таблицы.
+
+* Обмен таблицами академических или НПО проектов в открытых форматах XML.
+
+* Архивирование данных презентаций в структурированных плоских XML электронных таблицах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизация рабочего процесса для пакетного преобразования POTM в FODS.
+
+* Интеграция в межплатформенные конвейеры автоматизации офиса.
+
+* Генерация файлов FODS по запросу для распределенных команд.
+
+* Извлечение структурированных данных XML для отчетности и систем соблюдения требований.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

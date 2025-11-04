@@ -57,7 +57,55 @@ otherformats: DXF IMAGE TGA JPEG2000 SVGZ EMZ WMF  PSD WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**IMAGE（通用光栅格式）**可为Web、打印和桌面应用提供多功能输出。支持的格式可以包括PNG、BMP或TIFF，具体取决于需求。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从结构化的XSLFO表生成静态可视化内容。
+
+* 为报告仪表板或文档准备图形。
+
+* 将图表和表格导出为移动应用程序或电子学习内容。
+
+* 创建重复报告的光栅化存档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将XSLFO报告转换为多种图像格式。
+
+* 与自动化仪表板生成流水线集成。
+
+* 触发导出以定期发送报告。
+
+* 为电子学习或Web平台自动生成图像。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

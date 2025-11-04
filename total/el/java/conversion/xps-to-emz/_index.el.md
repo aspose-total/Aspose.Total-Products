@@ -57,7 +57,51 @@ otherformats: DXF WMZ WMF PSD EMZ  SVGZ IMAGE JPEG2000 TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **EMZ (Συμπιεσμένο Windows Metafile)** επιτρέπει την ενσωμάτωση οπτικών στοιχείων εγγράφου με αποτελεσματικό τρόπο σε παρουσιάσεις, αναφορές ή εφαρμογές λογισμικού διατηρώντας τη διανυσματική σαφήνεια.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Ενσωμάτωση γραφικών υψηλής ποιότητας σε παρουσιάσεις του Microsoft Office.
+
+* Κοινή χρήση τεχνικών και αρχιτεκτονικών διαγραμμάτων.
+
+* Εικονογράφηση τεκμηρίωσης λογισμικού με συμπιεσμένα αρχεία.
+
+* Ενότητες e-learning χρησιμοποιώντας ακριβή διανυσματικά οπτικά στοιχεία.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή από XPS σε EMZ για βιβλιοθήκες περιεχομένου.
+
+* Ενσωμάτωση σε αυτοματοποιημένους σωλήνες τεκμηρίωσης.
+
+* Προγραμματισμένη δημιουργία EMZ για επαναλαμβανόμενες τεχνικές αναφορές.
+
+* Επεξεργασία γραφικών για έτοιμες για παρουσίαση οπτικά στοιχεία.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

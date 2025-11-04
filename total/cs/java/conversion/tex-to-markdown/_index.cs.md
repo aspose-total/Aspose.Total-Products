@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění TEX na **MARKDOWN** přeměňuje dokumenty v LaTeXu na lehký, čitelný text s Markdown syntaxí, ideální pro web publishing, dokumentaci a pracovní postupy s verzováním.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění akademických poznámek a zpráv pro online blogy.
+
+* Technická dokumentace s LaTeXovými vzorci v Markdown-přátelské syntaxi.
+
+* Spolupracovní úpravy v úložištích GitHub nebo GitLab.
+
+* Publikování shrnutí výzkumů v LaTeXu na webových platformách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze TEX na Markdown pro dokumentační potrubí.
+
+* Integrace se statickými generátory stránek (např. Hugo, Jekyll).
+
+* Spuštění generování pro vzdělávací platformy.
+
+* Plánovaná konverze pro neustálé publikování LaTeXu na webu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

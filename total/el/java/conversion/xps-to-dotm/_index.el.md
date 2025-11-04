@@ -130,7 +130,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **DOTM (Πρότυπο Ενεργοποιημένο με Μακροεντολές του Word)** συνδυάζει την αποτελεσματικότητα του προτύπου με την αυτοματοποίηση των μακροεντολών. Οι οργανισμοί μπορούν να διατηρήσουν ομοιόμορφες διατάξεις εγγράφων ενώ αυτοματοποιούν επαναλαμβανόμενες εργασίες απευθείας μέσα από το Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Πρότυπα τιμολογίων και αναφορών με μακροεντολές αυτόματου υπολογισμού.
+
+* Νομικά πρότυπα φορμών που αυτόματα συμπληρώνουν δεδομένα πελάτη.
+
+* Πρότυπα σχεδιασμού έργων με διαδραστικές μακροεντολές για την παρακολούθηση εργασιών.
+
+* Πρότυπα εγγράφων HR που αυτοματοποιούν τις έγκρισεις και τις ειδοποιήσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική δημιουργία προτύπων με μακροεντολές από πηγές XPS.
+
+* Ενσωμάτωση σε συστήματα ERP για αυτόματη δημιουργία εγγράφων.
+
+* Ενημερώσεις προτύπων που ενεργοποιούνται όταν αλλάζουν τα αρχεία XPS πηγής.
+
+* Αυτοματοποιημένες ροές εργασίας αναφοράς χρησιμοποιώντας πρότυπα DOTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

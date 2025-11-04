@@ -53,7 +53,45 @@ otherformats: WORDML DOTX DOTM DOT DOTX DOTM TEXT FLATOPC RTF ODT WORD OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в DOT (шаблон Word) помогает организациям поддерживать единообразие дизайна во всех внутренних документах. Этот процесс обеспечивает соответствие бренда и легкое создание унифицированных документов на основе корпоративных шаблонов PowerPoint.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание корпоративных шаблонов Word на основе дизайна презентаций.
+
+* Создание стандартизированных шаблонов для обучения для отделов кадров.
+
+* Преобразование корпоративных слайдов в многоразовые шаблоны политики.
+
+* Создание форматов предложений или заметок о встречах, соответствующих фирменной идентичности.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание DOT из мастер-слайдов PowerPoint.
+
+* Интеграция в системы управления брендом.
+
+* Стандартизация корпоративных документов в системах интранета.
+
+* Массовое преобразование для корпоративных репозиториев шаблонов.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

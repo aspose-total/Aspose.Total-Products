@@ -61,7 +61,47 @@ otherformats: XLTX XLAM XLSB DIF EXCEL FODS XLS XLTM XLT XLSX SXC TSV XLSM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI转换为XLTX（Excel模板）会生成干净、基于XML的模板，非常适合标准化分析。这对于希望拥有一致的电子书报告框架的组织来说非常理想。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- 为MOBI目录导出设置品牌模板。
+
+- 在部门之间重复使用可视化仪表板。
+
+- 为数据导入创建可重复使用的模型。
+
+- 在多个分支之间标准化MOBI分析。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 定时MOBI到XLTX模板再生。
+
+- 与自动化Excel报告生成器集成。
+
+- 多部门模板同步。
+
+- 通过XLTX触发器基于云的MOBI数据导入。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

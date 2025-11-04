@@ -135,7 +135,51 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **XAML (Extensible Application Markup Language)** позволяет использовать содержимое LaTeX, формулы и диаграммы в приложениях на основе WPF, UWP и .NET, сохраняя векторную графику и форматирование текста.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание диаграмм и уравнений, созданных в LaTeX, в приложения для ПК.
+
+* Создание интерактивных элементов пользовательского интерфейса с научными или математическими визуалами.
+
+* Технические приложения, отображающие динамические графики из источников LaTeX.
+
+* Образовательное программное обеспечение, интегрирующее формулы LaTeX без проблем.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в XAML для нескольких элементов пользовательского интерфейса.
+
+* Интеграция в автоматизированные процессы проектов WPF или UWP.
+
+* Автоматическое создание визуальных элементов на основе LaTeX для приложений .NET.
+
+* Плановое обновление для многофункционального образовательного программного обеспечения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

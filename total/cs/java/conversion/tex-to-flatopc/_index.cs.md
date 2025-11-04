@@ -144,7 +144,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod souborů TEX na **FLATOPC (Flat Open Packaging Conventions)** umožňuje uložit obsah LaTeXu, včetně vzorců a tabulek, do jediného souboru založeného na XML, který je plně kompatibilní se standardy Office Open XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace dokumentů LaTeXu ve standardizovaném formátu XML.
+
+* Uchování strukturovaného obsahu a formátování pro podnikové aplikace.
+
+* Sdílení složitých akademických nebo technických zpráv jako jednopackage souborů.
+
+* Udržení tabulek a rovnic generovaných v LaTeXu pro použití na různých platformách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod TEX na FLATOPC pro výzkumné repozitáře.
+
+* Integrace do automatizovaných systémů správy dokumentů.
+
+* Spouštění generování FLATOPC pro spolupracující pracovní postupy.
+
+* Plánovaná archivace obsahu LaTeXu ve formátech založených na XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

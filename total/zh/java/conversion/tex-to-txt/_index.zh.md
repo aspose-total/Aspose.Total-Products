@@ -49,7 +49,51 @@ otherformats: TXT EXCEL XLAM FODS XLSB TSV XLT XLTM XLSM DIF SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**TXT（纯文本）**为LaTeX内容提供了一种简单、普遍可读的格式，适用于轻量级存储、快速共享和文本处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为基于文本的搜索和分析提取LaTeX内容。
+
+* 以简单文本格式分享LaTeX笔记或表格。
+
+* 用于脚本或编码项目的轻量级文档。
+
+* 为纯文本电子邮件分发准备LaTeX内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将LaTeX文件转换为TXT以进行归档。
+
+* 与自动化文本处理工作流程集成。
+
+* 从LaTeX存储库生成触发的TXT。
+
+* 为轻量级LaTeX文档准备的定期导出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

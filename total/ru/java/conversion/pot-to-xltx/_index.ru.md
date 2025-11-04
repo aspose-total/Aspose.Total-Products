@@ -61,7 +61,45 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в XLTX (Excel Template Open XML) обеспечивает современные шаблоны электронных таблиц на основе XML, которые соответствуют визуальным элементам PowerPoint с шаблонами Excel корпоративного уровня. Это обеспечивает согласованность и масштабируемость в документации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание брендированных шаблонов Excel на основе отчетов PowerPoint.
+
+* Создание стандартизированных форм для ввода данных для отделов.
+
+* Переиспользование макетов презентаций в многоразовых шаблонах электронных таблиц.
+
+* Поддержка согласованности между командами в форматах отчетности.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание XLTX в корпоративных системах управления контентом.
+
+* Интеграция с библиотеками шаблонов на основе SharePoint.
+
+* Пакетное преобразование для производства шаблонов Excel, соответствующих бренду.
+
+* Автоматизация рабочего процесса управления шаблонами Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

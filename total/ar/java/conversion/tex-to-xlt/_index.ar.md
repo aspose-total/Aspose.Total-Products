@@ -47,7 +47,51 @@ otherformats: XLTX TXT ODS FODS SXC XLSB XLAM XLT EXCEL MD XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **XLT (قالب Excel)** يسمح للبيانات المعتمدة على LaTeX بتشكيل قوالب Excel قابلة لإعادة الاستخدام للمشاريع والتحليلات والأعمال الأكاديمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب تقارير موحدة لفرق البحث.
+
+* نماذج مالية قابلة لإعادة الاستخدام استنادًا إلى جداول LaTeX.
+
+* أوراق حساب درجات أكاديمية تحتوي على صيغ LaTeX.
+
+* قوالب لتتبع مشاريع الهندسة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* إنشاء دفعة من قوالب Excel من LaTeX.
+
+* دمجها في مستودعات القوالب الشركية أو الأكاديمية.
+
+* تعبئة بيانات LaTeX تلقائيًا في قوالب XLT.
+
+* تحديثات مجدولة للقوالب في بيئات متعددة المستخدمين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

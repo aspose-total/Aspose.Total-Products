@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **PPS (PowerPoint Show)** δημιουργεί παρουσιάσεις μόνο με διαφάνειες για άμεση αναπαραγωγή, ιδανικές για αυτοματοποιημένες διαλέξεις, σεμινάρια εκπαίδευσης και γρήγορο κοινοποίηση περιεχομένου LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Διαφάνειες ακαδημαϊκών διαλέξεων έτοιμες για χρήση.
+
+* Διαδραστικές παρουσιάσεις εργαστηρίου.
+
+* Συνοπτικές αναφορές έργων μηχανικής για παρουσιάσεις πελατών.
+
+* Διαφάνειες βασισμένες σε LaTeX έτοιμες για συνέδρια.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Προγραμματισμένες μαζικές μετατροπές TEX σε PPS.
+
+* Αυτοματοποιημένη δημιουργία παρουσιάσεων εκπαίδευσης από περιεχόμενο LaTeX.
+
+* Ενσωμάτωση με συστήματα ανάπτυξης παρουσιάσεων.
+
+* Δημιουργία PPS με ενεργοποίηση για σεμινάρια ή πλατφόρμες ηλεκτρονικής μάθησης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

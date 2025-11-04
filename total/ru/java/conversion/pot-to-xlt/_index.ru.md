@@ -61,7 +61,45 @@ otherformats: DIF FODS MARKDOWN XLTX ODS MHTML XLSX TSV XLSB SXC XLSM XLTM XLT E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в XLT (Excel Template) помогает организациям создавать многоразовые шаблоны электронных таблиц из макетов презентаций. XLT обеспечивает эффективный ввод данных и последовательную отчетность в командах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание финансовых шаблонов из бюджетных презентаций PowerPoint.
+
+* Создание стандартных листов для ввода данных для отделов кадров или бухгалтерии.
+
+* Переиспользование визуальных материалов для обучения в виде Excel-трекеров производительности.
+
+* Создание многоразовых бизнес-шаблонов из слайдов.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Автоматическое создание XLT из корпоративных дизайнов презентаций.
+
+* Синхронизация шаблонов в системах управления документами.
+
+* Интеграция с инструментами планирования ресурсов предприятия.
+
+* Упрощенное развертывание стандартизированных шаблонов Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

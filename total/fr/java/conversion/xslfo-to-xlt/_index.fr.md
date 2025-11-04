@@ -47,7 +47,51 @@ Lors de la conversion du fichier XSLFO en XLT, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XSLFO en **XLT (modèle Excel)** permet de créer des modèles de feuilles de calcul réutilisables avec une mise en forme et des styles prédéfinis. XLT est parfait pour standardiser les rapports récurrents à partir de sources XSLFO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Préparation de modèles de factures normalisés basés sur XSLFO.
+
+* Création de modèles de rapports de projet pour une utilisation répétée.
+
+* Archivage de tableaux de bord mensuels en tant que modèles Excel réutilisables.
+
+* Distribution de modèles de rapports de KPI d'entreprise générés à partir de XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération automatisée de modèles XLT à partir de rapports XSLFO.
+
+* Intégration avec des pipelines de rapports récurrents.
+
+* Conversion planifiée pour des modèles départementaux standardisés.
+
+* Génération déclenchée de modèles Excel pour des rapports cohérents.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

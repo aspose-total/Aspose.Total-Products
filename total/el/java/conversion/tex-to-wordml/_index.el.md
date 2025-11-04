@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **WordML (μορφή XML του Microsoft Word)** καθιστά το περιεχόμενο LaTeX πλήρως συμβατό με τα έγγραφα Word που βασίζονται σε XML, επιτρέποντας αυτοματοποιημένες ροές εργασίας, επικύρωση περιεχομένου και ολοκλήρωση με επιχειρησιακά συστήματα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Δημιουργία επιστημονικών αναφορών βασισμένη σε XML από πηγές LaTeX.
+
+* Ροές εργασίας τεκμηρίωσης επιχειρήσεων χρησιμοποιώντας δομημένο WordML.
+
+* Συνεργασία πολλών συγγραφέων με αυτόματη συγχώνευση περιεχομένου.
+
+* Δημοσίευση βασισμένη σε XML ακαδημαϊκών ή τεχνικών υλικών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτόματη δημιουργία εγγράφων WordML από αποθετήρια LaTeX.
+
+* Ενσωμάτωση σε επιχειρησιακά συστήματα διαχείρισης περιεχομένου.
+
+* Εξαγωγές XML που ενεργοποιούνται για εκδόσεις έρευνας μεγάλης κλίμακας.
+
+* Παρτίδες επεξεργασίας για αναφορές συμμόρφωσης και ακαδημαϊκές υποβολές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

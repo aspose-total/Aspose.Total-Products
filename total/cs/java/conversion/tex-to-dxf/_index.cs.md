@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **DXF (Drawing Exchange Format)** umožňuje použití technických diagramů, plánů a schémat generovaných LaTeXem v softwaru CAD pro inženýrské a architektonické projekty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Inženýrská schémata z technických dokumentů v LaTeXu.
+
+* Architektonické diagramy pro integraci do CAD.
+
+* Vizualizace grafů založená na LaTeXu pro designové projekty.
+
+* Výrobní nebo prototypovací diagramy odvozené z LaTeXu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod TEX na DXF pro inženýrské pracovní postupy.
+
+* Integrace s potrubími softwaru CAD.
+
+* Spuštění automatizované generace designových diagramů.
+
+* Archivace LaTeXových schémat ve formátu DXF pro použití na různých platformách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

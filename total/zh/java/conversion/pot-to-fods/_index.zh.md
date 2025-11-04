@@ -61,7 +61,45 @@ otherformats: XLSB EXCEL XLAM XLSX FODS TSV XLTM DIF XLT XLS MHTML SXC XLTX MARK
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为FODS（平面XML ODF电子表格）使企业能够灵活地将PowerPoint表格数据存储在基于开放式XML的电子表格结构中。该格式支持数据共享中的透明度和互操作性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将PowerPoint销售模板转换为开放的电子表格格式。
+
+* 使用LibreOffice或OpenOffice与合作伙伴共享表格数据。
+
+* 从学术演示文稿创建教育电子表格。
+
+* 将基于XML的电子表格数据存档为长期记录。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 与开放数据发布系统集成。
+
+* 用于监管报告的自动化XML电子表格生成。
+
+* 在学术文件管理中进行实时FODS转换。
+
+* 用于部门间数据交换的批量转换。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

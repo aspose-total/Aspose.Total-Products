@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**PPS（PowerPoint Show）**，创建仅包含幻灯片的演示文稿，可立即播放，非常适合自动化讲座、培训课程以及快速共享LaTeX内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 准备就绪的学术讲座幻灯片。
+
+* 互动式研讨会演示文稿。
+
+* 工程项目总结用于客户演示。
+
+* 适用于会议的基于LaTeX的幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时批量TEX转换为PPS。
+
+* 从LaTeX内容自动生成培训演示文稿。
+
+* 与演示部署系统集成。
+
+* 为研讨会或电子学习平台触发PPS创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

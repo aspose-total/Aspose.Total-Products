@@ -57,7 +57,51 @@ otherformats: IMAGE TGA WMF JPEG2000 SVGZ DXF  EMZ PSD WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **DXF (Drawing Exchange Format)** يسمح باستخدام الرسومات الفنية التي تم إنشاؤها بواسطة LaTeX، مثل الخرائط الزرقاء والمخططات، في برامج CAD لمشاريع الهندسة والعمارة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مخططات هندسية من وثائق LaTeX الفنية.
+
+* مخططات عمارة للتكامل مع CAD.
+
+* تصور الرسوم البيانية القائمة على LaTeX لمشاريع التصميم.
+
+* مخططات التصنيع أو النمذجة الأولية المستمدة من LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من TEX إلى DXF لسير العمل الهندسي.
+
+* التكامل مع أنابيب برامج CAD.
+
+* توليد تلقائي مُشغّل للمخططات التصميمية.
+
+* أرشفة المخططات الفنية في LaTeX بتنسيق DXF للاستخدام عبر المنصات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

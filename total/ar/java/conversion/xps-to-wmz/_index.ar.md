@@ -57,7 +57,51 @@ otherformats: WMZ IMAGE WMF SVGZ EMZ DXF JPEG2000  TGA PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **WMZ (ملف Metafile لنظام التشغيل Windows المضغوط)** يسمح بالحصول على رسومات ناقلة مدمجة مناسبة للتوزيع والعروض التقديمية والوثائق التقنية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* رسوم بيانية مضغوطة للعروض التقديمية والرسائل الإلكترونية.
+
+* رسوم توضيحية تقنية للدلائل والأدلة.
+
+* مواد تسويقية تحتوي على رسومات قابلة للتوسيع.
+
+* أرشفة الوثائق الغنية بالرسومات الناقلة بشكل مدمج.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من XPS إلى WMZ لتوزيع الوثائق.
+
+* التكامل مع أنظمة إدارة المحتوى.
+
+* إنشاء مجدول للملفات الناقلة المضغوطة.
+
+* معالجة مبسطة للعروض التقديمية أو محتوى التسويق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

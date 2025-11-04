@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TEX na **DOTM (Šablona s povolenými makry pro Word)** poskytuje opakovaně použitelné šablony s funkcionalitou maker. Ideální pro automatizované pracovní postupy, spojuje přesné sazby LaTeXu s možnostmi automatizace Wordu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Automatizované šablony pro odesílání do akademických časopisů.
+
+* Opakovaně použitelné šablony technických zpráv s generováním dynamického obsahu.
+
+* Makro-povolené formuláře pro vstup laboratorních nebo výzkumných dat.
+
+* Generování šablon Wordu napájených LaTeXem pro spolupráci více autorů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Vytváření dokumentů v reálném čase spouštěné z vstupních proudů LaTeXu.
+
+* Integrace do podnikových automatizačních potrubí dokumentů založených na Wordu.
+
+* Hromadné aktualizace šablon pro spolupracující výzkumné projekty.
+
+* Generování makro-povolené dokumentace projektu pro inženýrské týmy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

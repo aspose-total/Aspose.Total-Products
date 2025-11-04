@@ -47,7 +47,51 @@ Lors de la conversion du fichier XSLFO en XLSM, vous pouvez également ajouter u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XSLFO en **XLSM (Excel activé par macro)** préserve les données tabulaires et permet une automatisation avancée en utilisant des macros. XLSM est idéal pour les rapports dynamiques, l'automatisation des flux de travail et la modélisation financière.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Intégration de calculs basés sur XSLFO dans des macros Excel.
+
+* Automatisation des tâches de reporting récurrentes en utilisant des classeurs XLSM.
+
+* Génération de tableaux de bord interactifs avec des données provenant de XSLFO.
+
+* Préparation de modèles XSLFO pour des flux de travail financiers pilotés par macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération automatisée de classeurs XLSM à partir de rapports XSLFO.
+
+* Mises à jour planifiées de rapports activés par macro pour examen par la direction.
+
+* Intégration avec VBA et automatisation des flux de travail d'entreprise.
+
+* Conversion XLSM déclenchée pour des tableaux de bord financiers dynamiques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,45 @@ otherformats: DIF XLTX XLSX SXC XLS XLSM XLSB EXCEL MARKDOWN XLT ODS TSV FODS MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POT إلى XLTM (قالب إكسل ممكّن بالماكرو) يسمح للشركات بتلقين إنتاج جداول البيانات تلقائيًا مع الاحتفاظ بمؤشرات تصميم PowerPoint. مثالي لإنتاج قوالب ديناميكية تفاعلية لسير العمل المتكررة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* بناء قوالب إكسل ممكّنة بالماكرو من مؤشرات الأداء الرئيسية في PowerPoint.
+
+* تلقين قوالب التقارير بماكروات البيانات المضمنة.
+
+* تصميم نماذج تنبؤ مالي قابلة للتكرار.
+
+* إنشاء متتبعين للأداء الأكاديمي مع سكربتات التلقين.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقين التلقائي" %}}
+
+* تكامل إنتاج XLTM في سير العمل التلقائي للبيانات.
+
+* نشر الشركات لقوالب جداول البيانات التي تعمل بالماكرو.
+
+* إنشاء قوالب مجدولة لفرق المالية والموارد البشرية.
+
+* تلقين التحويل لدورات التقارير القابلة للتكرار.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

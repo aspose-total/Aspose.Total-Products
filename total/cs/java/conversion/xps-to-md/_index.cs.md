@@ -47,7 +47,51 @@ Při převodu souboru XPS na MD můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **MD (Markdown)** nabízí zjednodušený textový formát, který je čitelný pro člověka, upravitelný a ideální pro dokumentaci s verzováním a obsah webových stránek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Technické manuály a průvodci ve formátu lehké váhy.
+
+* Interní dokumentace pro software a firemní postupy.
+
+* Rychlý převod pro blogové příspěvky nebo platformy pro sdílení znalostí.
+
+* Poznámky k akademickým a výzkumným účelům s podporou Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XPS na MD pro systémy správy obsahu.
+
+* Integrace s automatizovanými publikovacími toky.
+
+* Plánované aktualizace dokumentace založené na Markdownu.
+
+* Zjednodušený pracovní postup pro převod více souborů XPS na upravitelný text.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

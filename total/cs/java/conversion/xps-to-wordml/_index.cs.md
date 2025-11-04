@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **WordML (Word Processing ML)** umožňuje technickým uživatelům pracovat přímo se strukturou dokumentů založených na XML ve Wordu. To umožňuje automatizovanou úpravu, extrakci obsahu a integraci do pokročilých pracovních postupů s dokumenty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vývojáři generující dynamické dokumenty ve Wordu programově.
+
+* Automatizovaná extrakce a manipulace textu a metadat.
+
+* Integrace do systémů správy obsahu podniku.
+
+* Technické vydavatelské toky vyžadující manipulaci založenou na XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované toky XPS na WordML pro hromadné zpracování dokumentů.
+
+* Integrace s AI systémy generujícími vlastní zprávy ve Wordu.
+
+* Spouštěné aktualizace obsahu v dokumentech ve Wordu založených na XML.
+
+* Zjednodušená úprava XML pro technickou a právní dokumentaci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

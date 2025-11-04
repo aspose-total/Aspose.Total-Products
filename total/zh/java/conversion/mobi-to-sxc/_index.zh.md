@@ -61,7 +61,47 @@ otherformats: SXC ODS XLTM DIF TSV XLAM FODS EXCEL XLSX XLT XLTX XLSB XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI转SXC（StarOffice Calc）转换支持使用旧电子表格格式的机构的存档和兼容性需求。该格式保留了结构化数据完整性，同时确保在传统系统中可读性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+- 将MOBI统计数据导入StarOffice兼容数据库。
+
+- 保留政府档案馆中的旧格式电子书目录。
+
+- 在遗产出版系统中实现向后兼容性。
+
+- 将MOBI元数据转换为离线报告分析。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 用于SXC批量报告的自动化MOBI解析。
+
+- 与传统ETL框架集成。
+
+- 用于遗产数据保留的定期导出。
+
+- 用于历史内容档案的AI数据标记管道。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

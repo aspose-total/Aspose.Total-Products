@@ -53,7 +53,45 @@ Pomocí API můžete také provést převod POT souboru na DOTM s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na DOTM (šablona Wordu s makry) poskytuje organizacím opakovaně použitelné dokumentové šablony obsahující automatizační makra. To je klíčové pro podniky hledající dynamické dokumenty s automaticky vyplněnými údaji založené na datech z PowerPointu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Generování interaktivních šablon návrhů s datovými poli.
+
+* Převádění šablon PowerPointu na makro-povolené dokumentační sady.
+
+* Automatizace tvorby firemních faktur nebo certifikátů.
+
+* Standardizace dokumentace napříč odděleními.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* Generování DOTM v rámci systémů automatizace pracovních postupů.
+
+* Automatické nasazení šablon pomocí cloudových dokumentových platforem.
+
+* Integrace s daty ERP nebo CRM pro generování dokumentů na vyžádání.
+
+* Celofiremní nasazení šablon dokumentů s makry.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

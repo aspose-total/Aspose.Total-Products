@@ -135,7 +135,55 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversión de archivos XSLFO (Objetos de Formato de Lenguaje de Hoja de Estilos Extensible) a **XAML (Lenguaje de Marcado de Aplicaciones Extensible)** permite a los desarrolladores y diseñadores transformar informes estructurados en componentes de IU ricos, interactivos y escalables para aplicaciones de escritorio y web. XAML conserva el estilo, diseño y estructuras jerárquicas de XSLFO al mismo tiempo que permite una integración perfecta con WPF, UWP y otros marcos basados en XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* Convertir paneles generados por XSLFO en aplicaciones WPF con tablas y gráficos interactivos.
+
+* Incrustar informes financieros u operativos estructurados en interfaces de escritorio.
+
+* Diseñar componentes de IU para aplicaciones empresariales basados en contenido XSLFO.
+
+* Transformar informes de análisis estructurados en visuales XAML interactivos para aplicaciones de presentación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* Conversión automatizada por lotes de informes XSLFO recurrentes en componentes de IU XAML.
+
+* Integración en tuberías ETL para la generación en tiempo real de paneles XAML.
+
+* Actualizaciones programadas de interfaces XAML desde fuentes de datos XSLFO dinámicas.
+
+* Generación desencadenada de diseños XAML para marcos de informes, visualización o aplicaciones.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek WMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **WMZ (komprimovaný Windows Metafile)** poskytuje komprimované vektorové obrázky ideální pro e-maily, prezentace a integrování na webu při zachování škálovatelnosti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Odesílání vizuálních prvků generovaných pomocí XSLFO jako komprimované přílohy.
+
+* Vkládání škálovatelné grafiky do PowerPointu a Wordu.
+
+* Archivace komprimovaných vektorových vizuálů zpráv.
+
+* Sdílení provozních nástěnek prostřednictvím e-mailů nebo interních portálů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod souborů XSLFO do formátu WMZ pro úsporné ukládání.
+
+* Naplánovaná automatizovaná komprese vizuálních zpráv.
+
+* Spuštění generování formátu WMZ pro opakující se pracovní postupy při prezentacích.
+
+* Integrace do automatizovaných prezentací a dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: SXC XLTM FODS EXCEL TSV ODS XLAM TXT XLTX XLT DIF XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **TSV (Διαχωρισμένες με Κενά Τιμές)** παρέχει ένα εναλλακτικό ελαφρύ μορφότυπο για αριθμητικά και κειμενικά δεδομένα LaTeX, κατάλληλο για ανάλυση και εισαγωγή σε λογισμικό.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Πίνακες πειραμάτων ακαδημαϊκών εξαγωγής για στατιστική ανάλυση.
+
+* Σύνολα δεδομένων μηχανικής για Python, R ή MATLAB.
+
+* Μετατροπή οικονομικών πινάκων LaTeX για πλατφόρμες αναλυτικής.
+
+* Κοινή χρήση ελαφρών δεδομένων LaTeX μεταξύ ομάδων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή TEX σε TSV σε αγωγούς έρευνας.
+
+* Αυτοματοποιημένη εξαγωγή δεδομένων LaTeX πινάκων για μοντέλα AI.
+
+* Παραγωγή TSV σε πραγματικό χρόνο για συνεργατικούς πίνακες αναλυτικών.
+
+* Ενσωμάτωση σε αγωγούς ETL για δομημένα σύνολα δεδομένων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

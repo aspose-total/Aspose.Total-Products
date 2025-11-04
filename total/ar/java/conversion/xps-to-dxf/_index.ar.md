@@ -57,7 +57,51 @@ otherformats: WMZ IMAGE DXF EMZ WMF SVGZ TGA JPEG2000  PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XPS إلى **DXF (Drawing Exchange Format)** يمكن استخدام تخطيطات XPS في تطبيقات CAD، محافظاً على العناصر الناقلة للتصميم لمشاريع التصميم والهندسة المعمارية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* خطط معمارية ومخططات تستخرج من مستندات XPS.
+
+* مخططات هندسية ورسوم توضيحية لبرامج CAD.
+
+* وثائق فنية تتطلب تحويل ناقل دقيق.
+
+* سير عمل التصميم الصناعي للمسودة التعاونية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي آلي لـ XPS إلى DXF لفرق CAD.
+
+* دمج مع أنابيب التصميم لتحديثات التخطيط السريعة.
+
+* إنشاء DXF المجدول لتقارير الهندسة المتكررة.
+
+* استخراج مبسط للعناصر الناقلة للتصنيع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

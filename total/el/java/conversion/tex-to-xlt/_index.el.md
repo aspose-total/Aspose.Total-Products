@@ -47,7 +47,51 @@ otherformats: XLTX TXT ODS FODS SXC XLSB XLAM XLT EXCEL MD XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **XLT (Πρότυπο Excel)** επιτρέπει στα δεδομένα που βασίζονται σε LaTeX να δημιουργούν επαναχρησιμοποιήσιμα πρότυπα Excel για έργα, αναλύσεις και ακαδημαϊκή εργασία.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Πρότυπα παρουσίασης για ομάδες έρευνας.
+
+* Επαναχρησιμοποιήσιμα χρηματοοικονομικά μοντέλα βασισμένα σε πίνακες LaTeX.
+
+* Φύλλα υπολογισμού βαθμολογίας με τύπους LaTeX.
+
+* Πρότυπα παρακολούθησης μηχανικών έργων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Δημιουργία πακέτων προτύπων Excel από LaTeX.
+
+* Ενσωμάτωση σε εταιρικούς ή ακαδημαϊκούς καταλόγους προτύπων.
+
+* Αυτοματοποιημένη εισαγωγή δεδομένων LaTeX σε πρότυπα XLT.
+
+* Προγραμματισμένες ενημερώσεις προτύπων για πολλαπλούς χρήστες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

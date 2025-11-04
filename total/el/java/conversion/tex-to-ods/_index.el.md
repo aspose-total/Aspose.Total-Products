@@ -47,7 +47,51 @@ otherformats: ODS FODS TXT XLTX EXCEL XLAM XLSB MD DIF XLT SXC XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **ODS (OpenDocument Spreadsheet)** επιτρέπει στους χρήστες να αξιοποιήσουν περιεχόμενο LaTeX σε επεξεργάσιμες υπολογιστικές λογικές για ανάλυση και συνεργατικά έργα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Ακαδημαϊκή έρευνα με πολύπλοκους αριθμητικούς πίνακες.
+
+* Φύλλα καταγραφής οικονομικών ή παρακολούθησης έργων ανοικτού κώδικα.
+
+* Μηχανικοί υπολογισμοί που απαιτούν συμβατότητα με πολλές πλατφόρμες.
+
+* Διαμοιρασμός πινάκων LaTeX σε ODS για συνεργατικά εκπαιδευτικά έργα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζικές μετατροπές TEX σε ODS για εργαστήρια πανεπιστημίου.
+
+* Ενσωμάτωση σε ανοικτές διαδικασίες δεδομένων.
+
+* Αυτοματοποιημένη αναφορά αριθμητικών δεδομένων που δημιουργήθηκαν από LaTeX.
+
+* Ενεργοποίηση δημιουργίας ODS για πολυχρήστη περιβάλλοντα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

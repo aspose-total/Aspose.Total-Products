@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek IMAGE podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění TEX na **OBRAZ (obecné rastrové formáty)** přeměňuje LaTeX rovnice, tabulky a obrázky do univerzálně kompatibilních obrazových formátů pro účely webu, tisku a dokumentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání LaTeXem generovaných obrázků do blogů a webových stránek.
+
+* Příprava obrázků s vysokým rozlišením pro akademické práce.
+
+* Sdílení diagramů ve univerzálně čitelných formátech.
+
+* Převádění složitých LaTeX tabulek na snímky obrázků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze TEX na obrázek pro knihovny obsahu.
+
+* Integrace s automatizovanými publikovacími a webovými pracovními postupy.
+
+* Spouštěné aktualizace pro obrázkový výukový materiál nebo tutoriály.
+
+* Export více LaTeX diagramů do konzistentních obrazových formátů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,49 @@ otherformats: EXCEL SXC XLTX XLAM XLSM TXT TSV MD XLTM XLT XLSB ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات XSLFO إلى **TXT (نص عادي)** يسمح بالتوافق الشامل مع جميع محررات النصوص وأدوات معالجة البيانات وبيئات البرمجة. تستخرج ملفات TXT المحتوى الأساسي من XSLFO دون تنسيق، مما يجعلها مثالية لتحليل البيانات الخام، والبرمجة النصية، والأرشفة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير جداول وتقارير XSLFO لمعالجة البيانات بالدُفعات.
+* إعداد نسخ نصية عادية من التقارير المالية أو التشغيلية المُنظمة.
+* أرشفة محتوى XSLFO في تنسيق يمكن الوصول إليه عالميًا.
+* إنشاء استخراجات بيانات خام لأنابيب التحليل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* تحويل دُفعي مجدول من XSLFO إلى TXT لسير العمل التلقائي.
+* دمجه في أنابيب ETL ومعالجة البيانات.
+* تصدير TXT المُشغَّل من تقارير XSLFO المتكررة.
+* استخراج تلخيصات نصية عادية تلقائيًا من لوحات XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

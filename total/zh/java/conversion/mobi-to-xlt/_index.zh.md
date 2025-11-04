@@ -61,7 +61,47 @@ otherformats: XLSM XLAM XLSX XLTX XLTM TSV FODS XLSB SXC ODS XLT DIF XLS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI转换为XLT（Excel模板）可创建可重复使用的电子书分析和报告电子表格模板。该格式标准化了项目间的视觉布局和公式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+- 设计用于MOBI分析的标准化模板。
+
+- 为出版部门简化报告流程。
+
+- 向作者团队分发一致的仪表板。
+
+- 为电子书元数据构建可重复使用的数据输入模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 基于模板的MOBI导入自动化。
+
+- 定期更新XLT报告结构。
+
+- 与Excel模板库集成。
+
+- 预定义的用于出版工作流程的XLT宏。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

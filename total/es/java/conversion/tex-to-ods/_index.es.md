@@ -47,7 +47,51 @@ Al convertir un archivo TEX a ODS, también puede agregar una marca de agua a su
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX a **ODS (OpenDocument Spreadsheet)** permite a los usuarios aprovechar el contenido de LaTeX en hojas de cálculo editables para análisis y proyectos colaborativos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Investigación académica con tablas numéricas complejas.
+
+* Hojas de seguimiento financiero o de proyectos de código abierto.
+
+* Cálculos de ingeniería que requieren compatibilidad multiplataforma.
+
+* Compartir tablas de LaTeX en ODS para proyectos educativos colaborativos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversiones en lote de TEX a ODS para laboratorios universitarios.
+
+* Integración en canalizaciones de datos de código abierto.
+
+* Informes automatizados de datos numéricos generados por LaTeX.
+
+* Generación de ODS desencadenada para entornos multiusuario.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

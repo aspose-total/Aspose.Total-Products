@@ -61,7 +61,51 @@ otherformats: EXCEL TSV MARKDOWN SXC XLAM XLS MHTML DIF XLT XLTX ODS XLSM XLSB F
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POTM转换为MHTML（MIME HTML）会创建单个文件的Web存档，将所有幻灯片内容、图像和格式合并到一个符合HTML的文件中。MHTML非常适合离线查看、存档以及通过电子邮件或网络平台共享演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 通过电子邮件共享交互式演示文稿模板。
+
+* 为客户或利益相关者创建离线就绪的幻灯片存档。
+
+* 在内部网络门户中嵌入演示文稿内容。
+
+* 将营销资料和培训材料存档为单一文件格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 自动化将演示文稿模板导出为MHTML以进行Web发布。
+
+* 与内容管理和存档系统集成。
+
+* 为公司范围的幻灯片存储库管理批量转换。
+
+* 触发生成以供客户交付或内部分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

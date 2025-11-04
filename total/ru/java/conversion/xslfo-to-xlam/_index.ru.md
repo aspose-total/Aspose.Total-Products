@@ -47,7 +47,51 @@ otherformats: XLSM XLTM XLTX FODS EXCEL XLAM SXC TXT TSV XLSB MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **XLAM (надстройка Excel)** позволяет встраивать данные, сгенерированные XSLFO, и макросы в повторно используемые надстройки Excel. XLAM поддерживает автоматизацию, создание пользовательских отчетов и интерактивные приложения электронных таблиц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Упаковка шаблонов отчетов XSLFO в виде надстроек Excel для использования командой.
+
+* Распространение автоматизированных инструментов расчетов, полученных из данных XSLFO.
+
+* Интеграция аналитики XSLFO в пользовательские панели управления Excel.
+
+* Обеспечение повторяемых рабочих процессов отчетности с помощью надстроек XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизация создания XLAM из XSLFO для повторяющихся задач.
+
+* Запланированное развертывание надстроек с обновленными данными XSLFO.
+
+* Интеграция с автоматизацией рабочих процессов на основе VBA.
+
+* Вызванное создание надстроек XLAM для корпоративных инструментов отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

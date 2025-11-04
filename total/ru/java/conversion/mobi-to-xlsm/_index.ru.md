@@ -61,7 +61,47 @@ otherformats: ODS XLAM SXC DIF XLS FODS EXCEL XLSM XLT XLTM XLTX XLSX TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MOBI в XLSM (книга Excel с поддержкой макросов) позволяет автоматизировать процессы непосредственно в Excel, обеспечивая динамическую манипуляцию данными электронных книг с помощью встроенных макросов VBA.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+- Интерактивный анализ каталога MOBI с использованием макросов Excel.
+
+- Автоматизированное отслеживание тенденций в цифровом издательстве.
+
+- Создание сводных панелей для метрик вовлеченности читателей.
+
+- Создание инструментов с поддержкой макросов для управления редакционными процессами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+- Импорт MOBI по триггеру через Excel VBA.
+
+- Автоматическое создание отчетов после разбора MOBI.
+
+- Интеграция с макро-включенными панелями управления издательством.
+
+- Пакетное преобразование из наборов данных MOBI в формат XLSM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ otherformats: JPEG2000  PSD TGA DXF EMZ SVGZ WMZ IMAGE WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων TEX σε **APNG (Animated PNG)** επιτρέπει στα διαγράμματα, τις εξισώσεις και τα γραφήματα LaTeX να μετατραπούν σε κινούμενα γραφικά για παρουσιάσεις στο διαδίκτυο, εκπαιδευτικό περιεχόμενο και διαδραστικές οπτικοποιήσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Κινούμενες μαθηματικές εικόνες για διαδικτυακές διαλέξεις.
+
+* Διαδραστικά γραφήματα LaTeX σε εκπαιδευτικές διαδικτυακές εφαρμογές.
+
+* Δυναμικά διαγράμματα για πλατφόρμες ηλεκτρονικής μάθησης.
+
+* Οπτικοποίηση των τάσεων δεδομένων που δημιουργούνται από το LaTeX με την πάροδο του χρόνου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή TEX σε APNG για εκπαιδευτικό υλικό.
+
+* Ενσωμάτωση σε αυτοματοποιημένες διαδικτυακές διαδικασίες δημοσίευσης.
+
+* Ενεργοποίηση απόδοσης για εργαλεία εκπαίδευσης με τεχνητή νοημοσύνη.
+
+* Αυτόματη δημιουργία κινούμενων εικόνων από γραφήματα LaTeX για μαθήματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

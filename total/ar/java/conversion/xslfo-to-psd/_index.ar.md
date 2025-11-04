@@ -57,7 +57,51 @@ otherformats: PSD EMZ DXF JPEG2000 WMZ TGA SVGZ IMAGE  WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **PSD (أدوبي فوتوشوب)** يسمح لمصممي الجرافيك بتحرير الجداول والرسومات التي تم إنشاؤها بواسطة XSLFO بطبقات وتأثيرات متقدمة. إن إخراج PSD مثالي للرسوم البيانية أو العروض التقديمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الرسوم البيانية XSLFO إلى تصاميم فوتوشوب متعددة الطبقات.
+
+* تخصيص الرسوم البيانية للتقارير لمواد التسويق.
+
+* تحرير الجداول المهيكلة XSLFO للعروض التقديمية المحترفة.
+
+* إعداد الإنفوجرافيك بتنسيقات محسنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تصدير تقارير XSLFO تلقائيًا إلى PSD لسير العمل التصميمية.
+
+* التكامل مع خطوط إنتاج فوتوشوب الدفعية.
+
+* تحويل مجدول لتقارير بصرية متكررة.
+
+* توليد PSD مُشغَّل لوحات تحكم التسويق الإبداعي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

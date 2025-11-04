@@ -61,7 +61,45 @@ Při převodu souboru POT na XLTX můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na XLTX (Excel Template Open XML) poskytuje moderní šablony tabulek založené na XML, které sladí vizuální prvky PowerPointu s šablonami Excelu špičkové úrovně podniku. To zajišťuje konzistenci a škálovatelnost dokumentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření značkových šablon Excelu z PowerPointových zpráv.
+
+* Generování standardizovaných formulářů pro zadávání dat pro oddělení.
+
+* Přetváření rozložení prezentací do opakovaně použitelných šablon tabulek.
+
+* Podpora konzistence mezi týmy v formátech reportů.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické vytváření XLTX v rámci systémů obsahu podniku.
+
+* Integrace s knihovnami šablon založenými na SharePointu.
+
+* Hromadný převod pro výrobu šablon Excelu v souladu se značkou.
+
+* Automatizace pracovního postupu v řízení šablon Excelu.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

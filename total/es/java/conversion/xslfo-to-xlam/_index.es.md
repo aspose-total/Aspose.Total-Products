@@ -47,7 +47,51 @@ Al convertir un archivo XSLFO a XLAM, también puede agregar una marca de agua a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir XSLFO a **XLAM (Complemento de Excel)** permite incrustar datos generados por XSLFO y macros en complementos de Excel reutilizables. XLAM admite automatización, informes personalizados y aplicaciones interactivas de hojas de cálculo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Empaquetar plantillas de informes XSLFO como complementos de Excel para uso en equipo.
+
+* Distribuir herramientas de cálculo automatizadas derivadas de datos XSLFO.
+
+* Integrar análisis XSLFO en paneles de Excel personalizados.
+
+* Habilitar flujos de trabajo de informes repetibles con complementos XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Automatizar la generación de XLAM a partir de XSLFO para tareas recurrentes.
+
+* Implementación programada de complementos con datos XSLFO actualizados.
+
+* Integración con automatización de flujos de trabajo basada en VBA.
+
+* Generación activada de complementos XLAM para herramientas de informes corporativos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

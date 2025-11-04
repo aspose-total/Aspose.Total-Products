@@ -47,7 +47,55 @@ otherformats: DIF MD FODS TXT XLT ODS XLTX XLSM XLSB SXC XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **FODS (جدول بيانات OpenDocument المسطح)** يوفر بيانات LaTeX في جداول بيانات مفتوحة، معتمدة على XML، متوافقة مع LibreOffice و OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مشاركة الجداول العلمية القائمة على LaTeX مع حزم المكتب المفتوحة المصدر.
+
+* البحث الأكاديمي الذي يتطلب تنسيقات جداول مستقلة عن المنصة.
+
+* تتبع المشاريع وإعداد التقارير في بيئات متعددة المنصات.
+
+* إعداد بيانات LaTeX لجداول بيانات FODS تعاونية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل TEX إلى FODS بشكل آلي لسير العمل مفتوح المصدر.
+
+* معالجة دفعية لمجموعات بيانات LaTeX للتعاون عبر المنصات.
+
+* تصدير مجدول لنتائج المختبر أو جداول التجارب.
+
+* دمجه في خطوط الأنابيب الوثائقية للمؤسسات البحثية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

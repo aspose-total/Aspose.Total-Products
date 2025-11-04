@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в W
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **WMZ (сжатый файл метафайла Windows)** сжимает векторную графику для диаграмм LaTeX, оптимизируя хранение и сохраняя качество для презентаций и отчетов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Сжатые диаграммы LaTeX для слайдов Microsoft Office.
+
+* Архивирование масштабируемых технических иллюстраций.
+
+* Обмен легкими графиками в академических публикациях.
+
+* Встраивание векторной графики в отчеты без больших размеров файлов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование TEX в WMZ.
+
+* Интеграция в системы автоматизации документов и слайдов.
+
+* Запуск генерации сжатых диаграмм LaTeX.
+
+* Плановое обновление фигур WMZ для многопользовательского доступа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

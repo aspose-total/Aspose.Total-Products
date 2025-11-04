@@ -135,7 +135,51 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**POTX（不带宏的PowerPoint模板）**可确保可重复使用、安全的模板用于循环演示。POTX保留布局、格式和表格，而不会出现宏执行风险。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 为PowerPoint用户准备基于XSLFO的月度审查模板。
+
+* 为跨部门共享创建无宏的标准化培训幻灯片。
+
+* 存档季度财务报告模板。
+
+* 生成安全用于外部分发的投资者演示模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从XSLFO定时批量转换为POTX模板。
+
+* 集成到自动化幻灯片生成工作流程中。
+
+* 从XSLFO报告触发创建无宏的演示模板。
+
+* 自动部署POTX模板以确保团队一致性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

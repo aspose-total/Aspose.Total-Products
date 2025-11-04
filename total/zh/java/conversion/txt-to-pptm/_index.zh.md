@@ -54,7 +54,55 @@ otherformats: PPT POWERPOINT POT PPTM POTX PPSX POTM PPTX PPSM PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TXT转换为**PPTM（启用宏的PowerPoint）**可创建具有嵌入式自动化的动态幻灯片。非常适合需要可重复交互式幻灯片的企业和教育工作者。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 嵌入宏的KPI仪表板。
+
+* 用于培训会议的交互式模拟。
+
+* 具有自动计算功能的财务报告演示文稿。
+
+* 具有宏驱动更新的动态项目幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从日常日志自动生成启用宏的演示文稿。
+
+* 与企业自动化工具集成。
+
+* 用于定期财务幻灯片的触发更新。
+
+* 定时执行宏以刷新演示文稿内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**RTF（Rich Text Format）**可实现通用兼容性，允许在几乎任何文字处理软件中打开LaTeX文档，同时保留基本格式和数学方程式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在各平台共享学术论文而不丢失格式。
+
+* 在Word或LibreOffice中访问带有复杂方程式的技术手册。
+
+* 具有LaTeX样式的跨平台业务文档。
+
+* 将LaTeX文档转换为通用可读格式，便于通过电子邮件发送。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于存档和跨平台兼容性的批量转换。
+
+* 集成到技术团队的文档处理流程中。
+
+* 从LaTeX数据集自动生成RTF报告。
+
+* 用于自动发布系统的触发式转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

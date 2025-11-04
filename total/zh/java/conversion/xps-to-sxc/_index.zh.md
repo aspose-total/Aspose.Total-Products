@@ -49,7 +49,51 @@ otherformats: XLT XLTM ODS XLTX DIF XLSB EXCEL SXC TSV XLAM XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **SXC（StarOffice 电子表格）** 可以向旧版 OpenOffice/StarOffice 文件提供向后兼容性。这种格式适用于传统工作流程和存档目的。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 以 SXC 格式存档传统报告。
+
+* 历史财务和运营数据集。
+
+* 将基于 XPS 的电子表格迁移到开源环境。
+
+* 用于旧办公套件的技术或研究日志。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XPS 存储库批量转换为 SXC 文件。
+
+* 自动存档以符合合规和审计要求。
+
+* 定期 XPS 报告的计划迁移。
+
+* 传统系统集成管道。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **DICOM (цифровое изображение и связь в медицине)** позволяет интегрировать структурированный контент отчетов с медицинскими рабочими процессами. DICOM является стандартом в радиологии, клинических исследованиях и информационных системах больниц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Встраивание структурированных отчетов о пациентах наряду с визуализациями, созданными в XSLFO.
+
+* Подготовка диагностических панелей для обзора клинических данных.
+
+* Преобразование медицинских аналитических таблиц в изображения, совместимые с DICOM.
+
+* Интеграция результатов лабораторных исследований, созданных в XSLFO, в системы PACS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое преобразование отчетов XSLFO в формат DICOM для больниц.
+
+* Интеграция в автоматизированные конвейеры электронных медицинских записей (EHR).
+
+* Автоматическое создание визуализаций DICOM на основе клинических отчетов XSLFO.
+
+* Пакетная обработка для визуализации исследовательских данных в здравоохранении.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

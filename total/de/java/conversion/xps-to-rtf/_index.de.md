@@ -130,7 +130,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XPS in **RTF (Rich Text Format)** gewährleistet maximale Kompatibilität mit den meisten Textverarbeitungsprogrammen und behält dabei die grundlegende Formatierung bei, was es ideal für den Dokumentenaustausch in verschiedenen Softwareumgebungen macht.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Einfache Berichtskonvertierung für eine einfache Verteilung.
+
+* Rechtliche Korrespondenz, die eine universelle Formatunterstützung erfordert.
+
+* Bildungsaufgaben, die mit mehreren Plattformen kompatibel sind.
+
+* Archivierung von Legacy-Dokumenten in einem weit verbreiteten Format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von XPS-Dateien in RTF für universellen Zugriff.
+
+* Integration in automatisierte Content-Management-Systeme.
+
+* Vereinfachter Austausch in gemischten Unternehmensumgebungen.
+
+* Konvertierungspipelines für die Migration von Legacy-Dokumenten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ otherformats: TGA WMZ IMAGE JPEG2000 SVGZ EMZ  WMF DXF PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**EMZ（增强型Windows图元文件压缩）**，实现高质量的矢量图形压缩，非常适合幻灯片和印刷准备视觉效果。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将XSLFO表格导出为可缩放图形，用于演示文稿。
+
+* 在幻灯片中嵌入财务或运营可视化内容。
+
+* 为报告仪表板创建存档图像。
+
+* 为桌面出版工作流程准备视觉内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时批量将XSLFO报告转换为EMZ。
+
+* 集成到自动化报告流程中。
+
+* 触发创建用于幻灯片嵌入的EMZ图像。
+
+* 实时将XSLFO仪表板转换为压缩的矢量图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

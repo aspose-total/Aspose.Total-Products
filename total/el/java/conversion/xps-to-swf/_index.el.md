@@ -121,7 +121,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **SWF (Shockwave Flash)** επιτρέπει διαδραστικές ή κινούμενες παρουσιάσεις για παλαιές εφαρμογές ιστού και πλατφόρμες ηλεκτρονικής μάθησης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Παλαιά εκπαιδευτικά προγράμματα που απαιτούν Flash animations.
+
+* Διαδραστικά εκπαιδευτικά εγχειρίδια βασισμένα σε έγγραφα.
+
+* Κινούμενο περιεχόμενο μάρκετινγκ για ιστοσελίδες με ιστορικό.
+
+* Πολυμεσικές παρουσιάσεις για εκπαιδευτικά μαθήματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή XPS σε SWF για συστήματα ηλεκτρονικής μάθησης βασισμένα σε αρχεία.
+
+* Αυτοματοποιημένη δημιουργία διαδραστικού περιεχομένου Flash.
+
+* Προγραμματισμένες ενημερώσεις για επαναλαμβανόμενα εκπαιδευτικά προγράμματα.
+
+* Ενσωμάτωση με παλαιές ιστοσελίδες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

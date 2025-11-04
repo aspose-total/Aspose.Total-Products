@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **POTM (Šablona PowerPoint s makry)** spojuje opakovaně použitelné šablony s automatizací, umožňující interaktivní prezentace, které mohou provádět vestavěná makra pro pokročilé prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Firemní šablony s automatizovanými aktualizacemi grafů.
+
+* Interaktivní školení s vestavěnými makry.
+
+* Finanční dashboardy vyžadující dynamické aktualizace dat ve snímcích.
+
+* Automatizace pracovního postupu v rámci prezentací založených na PowerPointu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* Automatizovaná hromadná konverze souborů XPS do šablon s makry.
+
+* Integrace s Excel nebo databázovými zdroji pro dynamické napájení obsahu snímků.
+
+* Plánovaná generace šablon prezentací s makry.
+
+* Zjednodušené vytváření interaktivních dashboardů pro firemní schůzky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

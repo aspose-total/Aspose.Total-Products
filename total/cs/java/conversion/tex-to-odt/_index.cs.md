@@ -144,7 +144,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEXu na **ODT (OpenDocument Text)** umožňuje uživatelům LaTeXu vytvářet dokumenty ve formátu otevřených standardů kompatibilní s LibreOffice, OpenOffice a dalšími kancelářskými balíky, což zajišťuje dostupnost a spolupráci napříč platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Akademické příspěvky ve formátech otevřených dokumentů.
+
+* Společné výzkumné zprávy s kompatibilitou mezi různými platformami.
+
+* Dokumentace a manuály projektů s otevřeným zdrojovým kódem.
+
+* E-knihy nebo výukové materiály ve formátu LaTeXu pro nástroje s otevřeným zdrojovým kódem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod TEXu na ODT pro univerzitní repozitáře.
+
+* Integrace do potrubí pro publikování s otevřeným zdrojovým kódem.
+
+* Automatický převod pro distribuci dokumentace mezi různými platformami.
+
+* Generování dynamických ODT zpráv z LaTeXových datových sad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

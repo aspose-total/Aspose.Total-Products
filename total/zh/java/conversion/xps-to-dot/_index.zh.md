@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 文件转换为 **DOT（Word 文档模板）** 可让组织将固定布局的 XPS 内容转换为可重复使用的模板。这对需要在报告、提案和合同中保持一致文档样式的企业非常理想。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为提案和演示文稿创建公司品牌模板。
+
+* 用于季度或年度报告的标准化报告模板。
+
+* 法律和采购部门的合同模板。
+
+* 用于电子学习平台的教育材料模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量从 DOT 模板自动创建新文档。
+
+* 与工作流工具集成，以动态数据填充模板。
+
+* 使用预设计模板简化团队间内容分发。
+
+* 用于企业系统中文档标准化的转换管道。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

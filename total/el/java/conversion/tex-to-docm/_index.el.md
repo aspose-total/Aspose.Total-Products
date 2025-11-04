@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων TEX σε **DOCM (Έγγραφο Word με ενεργοποιημένα μακρόεντολμένα)** επιτρέπει την άψογη ενσωμάτωση περιεχομένου LaTeX με προηγμένα μακρόεντολμένα του Word. Αυτό είναι ιδιαίτερα χρήσιμο για ακαδημαϊκούς ερευνητές και μηχανικούς που χρειάζονται αυτοματοποιημένη δημιουργία αναφορών με δυναμικούς πίνακες, τύπους και διαδραστικό περιεχόμενο.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Αυτοματοποίηση αναφορών έρευνας με βαρύ LaTeX στο Microsoft Word.
+
+* Ενσωμάτωση πολύπλοκων μαθηματικών εξισώσεων για τεκμηρίωση μηχανικής.
+
+* Δημιουργία διαδραστικών προτύπων εργαστηρίου με μακρόγραμμα για αναπαράσταση αποτελεσμάτων.
+
+* Συγγραφή ακαδημαϊκών διατριβών με αυτόματη αναφορά και αρίθμηση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή TEX σε DOCM σε συστήματα διαχείρισης εγγράφων ιδρυμάτων.
+
+* Δημιουργία επιστημονικών περιοδικών με μακρόγραμμα από αποθετήρια LaTeX.
+
+* Ενσωμάτωση σε αυτοματισμό ροών εργασίας για τεχνική δημοσίευση.
+
+* Αυτόματη ενημέρωση πινάκων ερευνών που συνδυάζουν περιεχόμενο LaTeX με μακρόεντολμένα του Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

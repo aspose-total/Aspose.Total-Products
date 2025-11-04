@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **DXF (Drawing Exchange Format)** сохраняет векторные таблицы для использования в CAD и технических приложениях. Файлы DXF сохраняют точные размеры и структуру макетов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование инженерных отчетов, созданных в XSLFO, в форматы, удобные для CAD.
+
+* Архивирование структурированных таблиц в виде векторных чертежей для технической документации.
+
+* Интеграция операционных макетов в программное обеспечение для дизайна.
+
+* Создание технических диаграмм из отчетов XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XSLFO в DXF для рабочих процессов инженерной документации.
+
+* Плановый экспорт структурированных таблиц отчетов в формате DXF для обзора дизайна.
+
+* Интеграция с автоматизированными конвейерами отчетов на основе CAD.
+
+* Автоматическое преобразование данных XSLFO в чертежи DXF для технических команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

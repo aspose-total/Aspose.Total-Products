@@ -47,7 +47,51 @@ Při převodu souboru XSLFO na TXT můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XSLFO na **TXT (čistý text)** umožňuje univerzální kompatibilitu se všemi textovými editory, nástroji pro zpracování dat a programovacími prostředími. Soubory TXT extrahují hlavní obsah z XSLFO bez formátování, což je ideální pro analýzu surových dat, skriptování a archivaci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování tabulek a reportů XSLFO pro hromadné zpracování dat.
+
+* Příprava verzí strukturovaných finančních nebo provozních reportů v čistém textu.
+
+* Archivace obsahu XSLFO ve formátu univerzálně přístupném.
+
+* Generování extraktů surových dat pro analytické potrubí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze z XSLFO do TXT pro automatizované pracovní postupy.
+
+* Integrace do ETL a potrubí pro předzpracování dat.
+
+* Spouštěný export TXT z opakujících se reportů XSLFO.
+
+* Automatizovaná extrakce čistě textových souhrnů z přístrojových panelů XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

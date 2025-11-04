@@ -47,7 +47,51 @@ otherformats: XLTM DIF TSV XLSB FODS XLTX TXT ODS SXC XLAM MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **XLTX (Πρότυπο Excel χωρίς Μακροεντολές)** παρέχει ασφαλή, επαναχρησιμοποιήσιμα πρότυπα για πίνακες και τύπους που δημιουργήθηκαν με LaTeX, ιδανικά για συνεργατικά και πολυπλατφορμικά περιβάλλοντα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Κανονικοποιημένα ακαδημαϊκά και εταιρικά πρότυπα χωρίς μακροεντολές.
+
+* Επαναχρησιμοποιήσιμες φύλλα καταγραφής έργων βασισμένα σε LaTeX.
+
+* Οικονομικά και έρευνητικά πρότυπα για ασφαλή κοινή χρήση από πολλούς χρήστες.
+
+* Αναφορές με πολλά φύλλα για ομάδες μηχανικών και επιστημόνων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Δημιουργία προτύπου TEX-σε-XLTX σε πακέτα.
+
+* Αυτοματοποιημένη ενσωμάτωση σε εγγράφους και αποθετήρια προτύπων.
+
+* Προγραμματισμένες ενημερώσεις προτύπων LaTeX για συνεργατικά έργα.
+
+* Πολυπλατφορμική ανάπτυξη προτύπων LaTeX χωρίς μακροεντολές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: SXC TXT XLTM MD FODS XLSM XLT DIF ODS EXCEL XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **SXC (جدول بيانات StarOffice Calc)** يمكن لمستخدمي OpenOffice أو StarOffice القدامى من العمل مع بيانات LaTeX الجدولية دون فقدان الهيكل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مجموعات بيانات LaTeX التاريخية بتنسيق متوافق مع StarOffice.
+
+* البحوث الأكاديمية التي تتطلب التوافق مع الإصدارات القديمة لبرامج المكتب.
+
+* مشاركة الجداول الرقمية LaTeX عبر المنصات المتعددة.
+
+* تقارير المشاريع في SXC لأنظمة المكاتب القديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويلات دفعية مجدولة لمجموعات بيانات LaTeX.
+
+* دمجها في سير العمل القديمة لأتمتة المكاتب.
+
+* أرشفة الجداول الهيكلية LaTeX لاستمرارية البحث.
+
+* توليد SXC مُحفز للمشاريع التعاونية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

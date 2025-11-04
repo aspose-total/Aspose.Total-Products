@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX文件转换为**DOTM（Word宏启用模板）**可提供具有宏功能的可重复使用模板。这对于自动化工作流程非常理想，它将LaTeX的精确排版与Word的自动化功能相结合。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 学术期刊的自动提交模板。
+
+* 具有动态内容生成的可重复使用技术报告模板。
+
+* 用于实验室或研究数据输入的宏启用表单。
+
+* 为多作者合作生成基于LaTeX的Word模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从LaTeX输入流触发的实时文档创建。
+
+* 集成到基于Word的企业文档自动化流程中。
+
+* 用于协作研究项目的批量模板更新。
+
+* 为工程团队生成具有宏功能的项目文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

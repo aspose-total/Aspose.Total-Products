@@ -49,7 +49,55 @@ otherformats: XLSB SXC ODS EXCEL DIF MD FODS XLT XLSM TXT XLTM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **XLSB（Excel 二进制工作簿）** 可为大型数据集提供高性能的电子表格存储。XLSB 可减小文件大小、加快计算速度，并保留复杂的格式设置。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 处理具有大型表格数据集的 XSLFO 财务模型。
+
+* 以紧凑的二进制形式存档 XSLFO 运营报告。
+
+* 为数据密集型分析生成 Excel 仪表板。
+
+* 从 XSLFO 模板准备基于 XLSB 的预测表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XSLFO 报告转换为 XLSB 以加快加载速度。
+
+* 为企业分析应用程序定期导出。
+
+* 集成到自动化的基于 Excel 的报告流程中。
+
+* 从 XSLFO 触发生成大规模财务报告所需的 XLSB。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

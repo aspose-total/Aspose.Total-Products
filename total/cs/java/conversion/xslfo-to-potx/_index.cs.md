@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **POTX (šablona PowerPointu bez maker)** zajišťuje opakovaně použitelné, bezpečné šablony pro opakující se prezentace. POTX zachovává rozložení, formátování a tabulky bez rizika spuštění maker.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava šablon pro měsíční přehledy založených na XSLFO pro uživatele PowerPointu.
+
+* Vytváření standardizovaných výukových snímků bez maker pro sdílení mezi odděleními.
+
+* Archivace šablon čtvrtletních finančních zpráv.
+
+* Generování šablon prezentací pro investory bezpečných pro externí distribuci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze z XSLFO do šablon POTX.
+
+* Integrace do automatizovaných pracovních postupů generování snímků.
+
+* Spouštění vytváření šablon prezentací bez maker z XSLFO zpráv.
+
+* Automatické nasazení šablon POTX pro konzistenci v týmu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

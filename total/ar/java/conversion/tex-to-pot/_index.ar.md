@@ -135,7 +135,51 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **POT (قالب PowerPoint)** يسمح للمحتوى المنسق بنمط LaTeX بأن يصبح قالب PowerPoint قابل لإعادة الاستخدام للعروض الأكاديمية والتجارية والشركات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* شرائح محاضرات احترافية تحتوي على معادلات معقدة.
+
+* قوالب اقتراح مشروعات شركات مع جداول LaTeX.
+
+* قوالب موحدة لدورات الجامعة.
+
+* عروض مؤتمرات هندسية أو علمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي مؤتمت لـ TEX-to-POT لمكتبات القوالب.
+
+* دمج في أنظمة أتمتة الشرائح الخاصة بالشركات.
+
+* تحديثات مجدولة للقوالب من مصادر LaTeX.
+
+* إنشاء مشترك للتعاون بين عدة مستخدمين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

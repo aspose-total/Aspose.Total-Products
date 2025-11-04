@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von TEX in **PPS (PowerPoint Show)** erstellt Präsentationen nur mit Folien zur sofortigen Wiedergabe, ideal für automatisierte Vorlesungen, Schulungssitzungen und schnelles Teilen von LaTeX-Inhalten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Einsatzbereite akademische Vorlesungsfolien.
+
+* Interaktive Workshop-Präsentationen.
+
+* Zusammenfassungen von Ingenieurprojekten für Kundenpräsentationen.
+
+* Konferenzfertige LaTeX-basierte Folien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Geplante Stapelumwandlungen von TEX in PPS.
+
+* Automatisierte Generierung von Schulungsfolien aus LaTeX-Inhalten.
+
+* Integration in Präsentationsbereitstellungssysteme.
+
+* Auslösen der PPS-Erstellung für Seminare oder E-Learning-Plattformen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

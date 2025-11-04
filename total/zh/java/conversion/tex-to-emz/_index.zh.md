@@ -57,7 +57,51 @@ otherformats: WMF IMAGE TGA PSD SVGZ JPEG2000  DXF EMZ WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**EMZ（压缩的Windows图元文件）**可确保在适合演示文稿、文档和技术出版物的压缩格式中保留LaTeX矢量图形。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将LaTeX图表嵌入Microsoft Office文档中。
+
+* 为技术报告保留矢量图形。
+
+* 为专业出版物提供可重复使用的LaTeX示意图。
+
+* 为学术PDF提供压缩图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量压缩和转换文档库。
+
+* 集成到自动化发布工作流程中。
+
+* 触发式生成幻灯片演示或报告的EMZ。
+
+* 将LaTeX图表存档为压缩格式以便轻松分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

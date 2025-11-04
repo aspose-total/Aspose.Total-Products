@@ -57,7 +57,51 @@ otherformats: WMZ WMF EMZ DXF IMAGE JPEG2000 DICOM TGA SVGZ PSD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **DICOM (Digital Imaging and Communications in Medicine)** يسمح بتضمين الرسوم التخطيطية التقنية والعلمية في LaTeX في سير العمل الخاص بالصور الطبية ووثائق البحث.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* دمج الرسوم التخطيطية القائمة على LaTeX في تقارير الصور الطبية.
+
+* توثيق البحوث الطبية بمحتوى LaTeX منظم.
+
+* تصوير البيانات التشريحية باستخدام الرسوم البيانية التي تم إنشاؤها بواسطة LaTeX.
+
+* نشر المخططات القائمة على LaTeX في بحوث الأشعة التشخيصية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي آلي لأرشيفات الصور الطبية في المستشفيات.
+
+* دمجه في سير العمل الخاص بالبحوث الطبية.
+
+* تقديم TEX إلى DICOM بشكل تلقائي للدراسات السريرية.
+
+* تصدير الرسوم التخطيطية القائمة على LaTeX لتشخيص مساعد بواسطة الذكاء الاصطناعي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

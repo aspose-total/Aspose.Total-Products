@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **XAMLFLOW** позволяет преобразовывать содержимое LaTeX в совместимую с потоком разметку XAML для визуальных рабочих процессов, панелей инструментов и интерактивных приложений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Визуальные диаграммы рабочих процессов с уравнениями, сгенерированными в LaTeX.
+
+* Интерактивные панели инструментов, отображающие данные в реальном времени с математическими визуализациями.
+
+* Технические или инженерные приложения, отображающие структурированное содержимое LaTeX.
+
+* Образовательные инструменты, интегрирующие потоки LaTeX и диаграммы в пользовательский интерфейс.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в XAMLFLOW для компонентов панелей инструментов.
+
+* Интеграция в автоматизированные процессы визуализации данных и рабочих процессов.
+
+* Автоматическое обновление интерактивных диаграмм LaTeX в приложениях на основе потоков.
+
+* Плановое создание потоков XAML на основе LaTeX для платформ с множеством пользователей.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

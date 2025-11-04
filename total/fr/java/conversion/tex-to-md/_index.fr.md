@@ -47,7 +47,55 @@ Lors de la conversion du fichier TEX en MD, vous pouvez également ajouter un fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **MD (fichier Markdown)** produit un fichier Markdown standard à partir de LaTeX, préservant la structure du texte, les tableaux et la mise en forme de base pour une lisibilité multiplateforme.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Préparation de notes de recherche LaTeX pour une collaboration basée sur Git.
+
+* Documentation légère avec support mathématique et de tableaux.
+
+* Partage de notes de cours LaTeX au format Markdown open-source.
+
+* Conversion de rapports techniques pour des sites web statiques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée en lot de TEX en MD pour les équipes de recherche.
+
+* Intégration dans des pipelines de contenu web sous contrôle de version.
+
+* Mises à jour déclenchées des fichiers Markdown à partir des dépôts LaTeX.
+
+* Génération continue de fichiers MD pour des blogs éducatifs ou techniques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

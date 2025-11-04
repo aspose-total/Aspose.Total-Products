@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **RTF (Rich Text Format)** обеспечивает максимальную совместимость с большинством текстовых процессоров, сохраняя базовое форматирование, что делает его идеальным для обмена документами в различных программных средах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Простое преобразование отчетов для удобного распространения.
+
+* Юридическая переписка, требующая поддержки универсального формата.
+
+* Образовательные задания, совместимые с несколькими платформами.
+
+* Архивирование легаси-документов в широко читаемом формате.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование файлов XPS в RTF для универсального доступа.
+
+* Интеграция с автоматизированными системами управления контентом.
+
+* Упрощенное совместное использование в корпоративных средах с разными платформами.
+
+* Преобразование потоков для миграции легаси-документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

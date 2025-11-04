@@ -47,7 +47,51 @@ otherformats: DIF MD FODS TXT XLT ODS XLTX XLSM XLSB SXC XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **FODS (Flat OpenDocument Spreadsheet)** παρέχει δεδομένα LaTeX σε ανοιχτά, βασισμένα σε XML υποδείγματα συμβατά με το LibreOffice και το OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Διαμοιρασμός επιστημονικών πινάκων βασισμένων σε LaTeX με πακέτα γραφείου ανοιχτού κώδικα.
+
+* Ακαδημαϊκή έρευνα που απαιτεί ανοιχτές, ανεξάρτητες πλατφόρμες μορφές υποδείγματος.
+
+* Παρακολούθηση έργων και αναφορές σε πολυπλατφορμικά περιβάλλοντα.
+
+* Προετοιμασία δεδομένων LaTeX για συνεργατικά υποδείγματα FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μετατροπή TEX σε FODS για ροές εργασίας ανοιχτού κώδικα.
+
+* Παρτίδα επεξεργασίας συνόλων δεδομένων LaTeX για συνεργασία σε πολλαπλές πλατφόρμες.
+
+* Προγραμματισμένη εξαγωγή αποτελεσμάτων εργαστηρίου ή πινάκων πειραμάτων.
+
+* Ενσωμάτωση σε αγωγούς εγγράφων για ερευνητικά ιδρύματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

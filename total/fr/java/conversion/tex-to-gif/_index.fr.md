@@ -144,7 +144,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **GIF (Graphics Interchange Format)** permet de partager en ligne des visualisations LaTeX et de petites animations ou de les intégrer dans des tutoriels et des supports de formation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Animations LaTeX simples pour du contenu éducatif.
+
+* Partage de diagrammes de résolution de problèmes étape par étape.
+
+* Intégration de formules animées dans des plateformes d'apprentissage en ligne.
+
+* Visualisation de calculs LaTeX itératifs au format GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée en lot de TEX en GIF pour des tutoriels.
+
+* Intégration avec les LMS et le contenu de cours en ligne.
+
+* Génération déclenchée de GIF à partir de graphiques ou de séquences LaTeX.
+
+* Mise à jour automatique des GIF éducatifs en fonction des mises à jour LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

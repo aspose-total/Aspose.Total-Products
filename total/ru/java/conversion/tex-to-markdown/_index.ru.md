@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **MARKDOWN** превращает документы LaTeX в легкий, читаемый текст с синтаксисом Markdown, идеальный для веб-публикаций, документации и рабочих процессов с контролем версий.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование академических заметок и отчетов для онлайн-блогов.
+
+* Техническая документация с формулами LaTeX в синтаксисе, удобном для Markdown.
+
+* Совместное редактирование в репозиториях GitHub или GitLab.
+
+* Публикация кратких исследовательских сводок LaTeX на веб-платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в Markdown для конвейеров документации.
+
+* Интеграция с генераторами статических сайтов (например, Hugo, Jekyll).
+
+* Генерация по запросу для платформ образовательного контента.
+
+* Плановое преобразование для непрерывной публикации LaTeX в вебе.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

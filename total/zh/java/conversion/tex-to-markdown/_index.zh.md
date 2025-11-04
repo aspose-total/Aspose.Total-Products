@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**MARKDOWN**会将LaTeX文档转换为带有Markdown语法的轻量级、易读的文本，非常适合用于网络发布、文档编写和版本控制工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将学术笔记和报告转换为在线博客格式。
+
+* 使用Markdown友好的语法编写带有LaTeX公式的技术文档。
+
+* 在GitHub或GitLab存储库中进行协作编辑。
+
+* 在基于Web的平台上发布LaTeX研究摘要。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于文档流水线的批量TEX到Markdown转换。
+
+* 与静态网站生成器集成（例如Hugo、Jekyll）。
+
+* 用于教育内容平台的触发式生成。
+
+* 定时转换，实现持续的LaTeX到Web发布。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

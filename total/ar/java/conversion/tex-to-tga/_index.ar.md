@@ -57,7 +57,51 @@ otherformats: DXF WMF EMZ SVGZ JPEG2000 PSD TGA  WMZ IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **TGA (صورة Targa)** يمكن أن يسمح بتصدير الرسوم النقطية عالية الجودة للرسومات التي تم إنشاؤها بواسطة LaTeX لتطبيقات تعتمد على الرسومات، والتصورات العلمية، والفن الرقمي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* رسوم توضيحية علمية عالية الدقة.
+
+* رسوم بيانية تم إنشاؤها بواسطة LaTeX لتحرير الرسومات.
+
+* إعداد الرسوم البيانية لسير العمل للرسوم المتحركة والمحاكاة.
+
+* النشر الرقمي الذي يتطلب جودة صورة بدون فقد.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+
+
+
+* تصدير دفعي من TEX إلى TGA لأنابيب تصور البحوث.
+
+* التكامل مع أدوات معالجة الرسومات والمحاكاة.
+
+* إنشاء صور عالية الجودة من محتوى LaTeX بشكل مُحفز.
+
+* أرشفة آلية للرسوم البيانية في TGA لفرق الرسومات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

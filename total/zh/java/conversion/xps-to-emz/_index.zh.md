@@ -57,7 +57,51 @@ otherformats: DXF WMZ WMF PSD EMZ  SVGZ IMAGE JPEG2000 TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **EMZ（压缩的 Windows 图元文件）** 可以在演示文稿、报告或软件应用程序中高效嵌入文档视觉，同时保持矢量清晰度。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在 Microsoft Office 演示文稿中嵌入高质量图形。
+
+* 技术和建筑图表共享。
+
+* 使用压缩文件进行软件文档插图。
+
+* 利用矢量精确视觉制作电子学习模块。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XPS 转换为 EMZ 以用于内容库。
+
+* 与自动化文档流水线集成。
+
+* 定期生成 EMZ 以用于技术报告。
+
+* 为演示文稿准备的图形处理流程优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

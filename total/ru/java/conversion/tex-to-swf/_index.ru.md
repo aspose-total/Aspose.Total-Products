@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **SWF (Shockwave Flash)** создает интерактивные анимации LaTeX, подходящие для образовательных платформ и онлайн-презентаций, хотя в основном для устаревших систем.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Анимированные обучающие материалы и визуализации на LaTeX.
+
+* Интерактивные образовательные модули для устаревших платформ.
+
+* Обмен итеративными вычислениями или демонстрациями алгоритмов.
+
+* Динамические диаграммы в технических образовательных материалах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в SWF для библиотек устаревшего контента.
+
+* Интеграция в автономные образовательные платформы.
+
+* Генерация SWF по запросу для интерактивных последовательностей LaTeX.
+
+* Плановое обновление анимированных обучающих материалов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

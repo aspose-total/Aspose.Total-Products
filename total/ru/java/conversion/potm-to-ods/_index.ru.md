@@ -61,7 +61,55 @@ otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTM в ODS позволяет создавать файлы электронных таблиц в формате OpenDocument, совместимые с LibreOffice, OpenOffice и другими приложениями электронных таблиц с открытым исходным кодом. Это обеспечивает возможность повторного использования данных презентации на различных платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Преобразование корпоративных слайдов в форматы электронных таблиц стандарта с открытым исходным кодом.
+
+* Академические презентации, преобразованные для статистического анализа с открытым исходным кодом.
+
+* Отчеты НПО, преобразованные для совместной работы на различных платформах.
+
+* Стандартизация числовых таблиц слайдов в формате ODS для междуотделочных рабочих процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание файлов ODS из шаблонов презентаций.
+
+* Интеграция с системами управления документами, поддерживающими открытые форматы.
+
+* Пакетное преобразование для совместной работы на различных платформах.
+
+* Запуск создания файлов ODS для облачных конвейеров отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

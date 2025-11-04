@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **SWF (Shockwave Flash)** umožňuje interaktivní nebo animované prezentace pro zastaralé webové aplikace a vzdělávací platformy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Zastaralé e-learningové moduly vyžadující animace ve formátu Flash.
+
+* Interaktivní tutoriály založené na dokumentech.
+
+* Animovaný marketingový obsah pro historické webové platformy.
+
+* Prezentace bohaté na multimédia pro vzdělávací kurzy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XPS na SWF pro archivované e-learningové systémy.
+
+* Automatizovaná tvorba interaktivního obsahu ve formátu Flash.
+
+* Plánované aktualizace opakujících se výukových modulů.
+
+* Integrace s zastaralými webovými portály.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,45 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POT إلى XLTX (Excel Template Open XML) يوفر قوالب جداول بيانات حديثة قائمة على XML توازن بين الرسوم البيانية في PowerPoint وقوالب Excel عالية المستوى. يضمن ذلك التناسق والقابلية للتوسع في الوثائق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب Excel مميزة من تقارير PowerPoint.
+
+* إنشاء نماذج موحدة لإدخال البيانات للأقسام.
+
+* إعادة استخدام تخطيطات العروض التقديمية في قوالب جداول بيانات قابلة لإعادة الاستخدام.
+
+* دعم التناسق بين الفرق المختلفة في تنسيقات التقارير.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء XLTX بشكل آلي ضمن أنظمة المحتوى الشركية.
+
+* التكامل مع مكتبات القوالب القائمة على SharePoint.
+
+* تحويل دفعي لإنتاج قوالب Excel متوافقة مع العلامة التجارية.
+
+* أتمتة سير العمل في إدارة قوالب Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

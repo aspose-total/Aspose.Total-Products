@@ -57,7 +57,51 @@ otherformats: WMZ IMAGE WMF SVGZ EMZ DXF JPEG2000  TGA PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为**WMZ（压缩的 Windows 图元文件）**，可生成适合分发、演示和技术文档的紧凑矢量图形。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 用于演示和电子邮件的压缩图表。
+
+* 用于手册和指南的技术插图。
+
+* 具有可伸缩图形的营销资料。
+
+* 以紧凑形式存档矢量丰富的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XPS 转换为 WMZ 以进行文档分发。
+
+* 与内容管理系统集成。
+
+* 定时生成压缩的矢量文件。
+
+* 用于演示或营销内容的流程优化处理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

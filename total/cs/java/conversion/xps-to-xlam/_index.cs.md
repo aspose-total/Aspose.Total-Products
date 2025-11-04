@@ -47,7 +47,51 @@ Při převodu souboru XPS na XLAM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **XLAM (Excel Add-In)** umožňuje vytváření vlastních nástrojů pro automatizaci Excelu, maker a rozšířené funkcionality ze statických dokumentů XPS, ideální pro pokročilé firemní uživatele.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Automatizace opakujících se výpočtů a pracovních postupů ve financích nebo operacích.
+
+* Vytváření produktivních doplňků s makry z existujících dat.
+
+* Rozšíření funkcionality Excelu pomocí šablon převedených z XPS.
+
+* Zlepšení pracovních postupů na úrovni podniku pomocí doplňků Excelu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* Hromadný převod XPS na XLAM pro firemní nástroje automatizace.
+
+* Integrace s interním softwarem pro spouštění doplňků Excelu.
+
+* Plánované vytváření makroaktivovaných řešení pro týmy.
+
+* Vylepšené automatizační postupy pro opakující se úkoly v reportingu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

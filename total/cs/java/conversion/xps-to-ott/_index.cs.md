@@ -130,7 +130,49 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **OTT (OpenDocument Text Template)** přeměňuje statické soubory XPS na opakovaně použitelné šablony pro uživatele LibreOffice a OpenOffice, ideální pro standardizované pracovní dokumenty ve formátech otevřených.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Šablony akademických a vzdělávacích materiálů pro studenty a učitele.
+
+* Šablony projektů nevládních organizací pro zprávy a návrhy.
+
+* Standardizované šablony open-source pro firemní dokumentaci.
+
+* Šablony pro tvorbu kreativního obsahu pro brožury a bulletinové noviny.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace šablon OTT z repozitářů XPS.
+
+* Integrace s nástroji pro automatizaci pracovních postupů open-source.
+
+* Automatické vyplňování šablon organizačními daty.
+
+* Zefektivnění procesů tvorby dokumentů napříč platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

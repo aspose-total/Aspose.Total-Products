@@ -144,7 +144,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات TEX إلى **DOTM (نموذج Word الممكّن للماكرو)** يوفر قوالب قابلة لإعادة الاستخدام مع وظائف الماكرو. مثالي لسير العمل التلقائية، حيث يربط بين الطباعة الدقيقة في LaTeX وقدرات التشغيل التلقائي في Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب تقديم تلقائية للمجلات الأكاديمية.
+
+* قوالب تقرير تقني قابلة لإعادة الاستخدام مع إنشاء محتوى ديناميكي.
+
+* نماذج ممكّنة للماكرو لإدخال بيانات المختبر أو البحث.
+
+* إنشاء قوالب Word مدعومة بـ LaTeX للتعاون بين عدة مؤلفين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* إنشاء مستندات في الوقت الحقيقي مُشغّلة من تدفقات الإدخال في LaTeX.
+
+* دمجها في أنابيب عمل Word المعتمدة على التشغيل التلقائي للمستندات في المؤسسات.
+
+* تحديثات دفعية لقوالب المشروع لمشاريع البحث التعاوني.
+
+* إنشاء وثائق المشروع الممكّنة للماكرو لفرق الهندسة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

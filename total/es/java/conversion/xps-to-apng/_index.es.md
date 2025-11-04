@@ -57,7 +57,31 @@ Usando la API, también puede rotar la imagen APNG de salida según sus necesida
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir archivos XPS (Especificación de Papel XML) a **APNG (Gráficos de Red Portátiles Animados)** permite que los documentos XPS estáticos se transformen en visuales animados, ideales para presentaciones dinámicas y gráficos interactivos amigables para la web.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Creación de paneles de control animados a partir de informes basados en XPS.
+* Visualizaciones educativas con elementos de movimiento para cursos en línea.
+* Gráficos de marketing interactivos para sitios web o redes sociales.
+* Visualización de flujos de trabajo de procesos o tendencias de datos a lo largo del tiempo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión por lotes de archivos XPS en APNG para plataformas de aprendizaje en línea.
+* Integración con tuberías de publicación web para contenido animado.
+* Generación desencadenada de visuales interactivos para paneles de control.
+* Conversión automatizada para campañas de marketing y capacitación.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

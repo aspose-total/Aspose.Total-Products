@@ -47,7 +47,51 @@ Lors de la conversion du fichier TEX en TXT, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **TXT (Texte brut)** fournit un format simple et universellement lisible pour le contenu LaTeX, utile pour un stockage léger, un partage rapide et un traitement de texte.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Extraction du contenu LaTeX pour une recherche et une analyse basées sur le texte.
+
+* Partage de notes ou de tableaux LaTeX dans un format texte simple.
+
+* Documentation légère pour des projets de script ou de codage.
+
+* Préparation du contenu LaTeX pour une distribution par e-mail en texte brut.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion par lot de fichiers LaTeX en TXT pour l'archivage.
+
+* Intégration avec des flux de travail de traitement de texte automatisés.
+
+* Génération de TXT déclenchée à partir de référentiels LaTeX.
+
+* Exportation planifiée pour une documentation LaTeX légère.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: XLAM XLSB ODS TXT EXCEL DIF FODS TSV XLTM SXC XLSM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **XLSM (Excel с поддержкой макросов)** сохраняет табличные данные и позволяет использовать макросы для расширенной автоматизации. XLSM идеально подходит для динамической отчетности, автоматизации рабочих процессов и финансового моделирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Встраивание расчетов на основе XSLFO в макросы Excel.
+
+* Автоматизация повторяющихся задач по отчетности с использованием книг XLSM.
+
+* Создание интерактивных панелей управления на основе данных из XSLFO.
+
+* Подготовка шаблонов XSLFO для финансовых рабочих процессов, управляемых макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание книг XLSM на основе отчетов XSLFO.
+
+* Плановое обновление отчетов с поддержкой макросов для рассмотрения руководством.
+
+* Интеграция с VBA и автоматизацией корпоративных рабочих процессов.
+
+* Запуск конвертации в XLSM для динамических финансовых панелей управления.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

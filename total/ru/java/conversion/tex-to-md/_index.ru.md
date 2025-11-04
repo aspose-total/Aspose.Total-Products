@@ -47,7 +47,51 @@ otherformats: MD XLT ODS XLAM XLSM FODS TSV XLSB TXT EXCEL DIF XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **MD (файл Markdown)** создает стандартный файл Markdown из LaTeX, сохраняя структуру текста, таблицы и базовое форматирование для многофункциональной читаемости.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка исследовательских заметок LaTeX для совместной работы на основе Git.
+
+* Легкая документация с поддержкой математики и таблиц.
+
+* Обмен лекциями LaTeX в формате Markdown с открытым исходным кодом.
+
+* Преобразование технических отчетов для статических веб-сайтов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование TEX в MD для исследовательских групп.
+
+* Интеграция в контролируемые версии веб-контента.
+
+* Вызванные обновления файлов Markdown из репозиториев LaTeX.
+
+* Непрерывная генерация файлов MD для образовательных или технических блогов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

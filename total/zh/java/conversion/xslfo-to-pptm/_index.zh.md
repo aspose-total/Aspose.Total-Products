@@ -135,7 +135,51 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **PPTM（启用宏的 PowerPoint）** 结合了可编辑幻灯片和自动化功能。PPTM 非常适用于动态报告、交互式仪表板和循环演示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将 XSLFO 驱动的计算嵌入交互式幻灯片中。
+
+* 准备自动化绩效审查仪表板。
+
+* 创建启用宏的培训或指导幻灯片。
+
+* 分发动态投资者或董事会演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将 XSLFO 报告定期转换为 PPTM 幻灯片。
+
+* 与 VBA 自动化管道集成。
+
+* 从循环 XSLFO 内容触发宏启用幻灯片生成。
+
+* 为动态企业演示进行批量自动转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

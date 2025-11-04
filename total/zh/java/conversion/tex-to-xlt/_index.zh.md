@@ -49,7 +49,51 @@ otherformats: XLTX TXT ODS FODS SXC XLSB XLAM XLT EXCEL MD XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**XLT（Excel模板）**，可以使基于LaTeX的数据形成可重复使用的Excel模板，用于项目、分析和学术工作。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 研究团队的标准化报告模板。
+
+* 基于LaTeX表格的可重复使用的财务模型。
+
+* 包含LaTeX公式的学术成绩计算表。
+
+* 工程项目跟踪模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从LaTeX批量创建Excel模板。
+
+* 集成到公司或学术模板存储库中。
+
+* 在XLT模板中自动填充LaTeX数据。
+
+* 定期更新模板以适应多用户环境。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

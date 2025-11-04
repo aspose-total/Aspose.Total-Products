@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XSLFO (Extensible Stylesheet Language Formatting Objects) na **XAML (Extensible Application Markup Language)** umožňuje vývojářům a designérům transformovat strukturované zprávy do bohatých, interaktivních a škálovatelných uživatelských rozhraní pro desktopové a webové aplikace. XAML zachovává stylování, rozvržení a hierarchické struktury z XSLFO a zároveň umožňuje bezproblémovou integraci s WPF, UWP a dalšími rámci založenými na XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění XSLFO-generovaných nástěnek do aplikací WPF s interaktivními tabulkami a grafy.
+
+* Vkládání strukturovaných finančních nebo provozních zpráv do desktopových rozhraní.
+
+* Navrhování uživatelských komponent pro podnikové aplikace na základě obsahu XSLFO.
+
+* Transformace strukturovaných analytických zpráv do interaktivních vizuálů XAML pro prezentační aplikace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická hromadná konverze opakujících se zpráv XSLFO na uživatelské komponenty XAML.
+
+* Integrace do ETL potrubí pro generování XAML nástěnek v reálném čase.
+
+* Plánované aktualizace XAML rozhraní z dynamických zdrojů dat XSLFO.
+
+* Spouštěná generace XAML rozložení pro reporting, vizualizaci nebo aplikační rámce.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

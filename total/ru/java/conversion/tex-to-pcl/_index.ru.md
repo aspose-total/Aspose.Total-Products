@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **PCL (язык управления принтером)** позволяет напрямую отправлять документы LaTeX, включая уравнения, таблицы и диаграммы, на принтеры для получения качественного вывода в профессиональных или академических средах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Печать научных статей и технических отчетов в LaTeX.
+
+* Получение качественного вывода лекционных записей и учебных материалов.
+
+* Создание профессиональных рекламных материалов на основе таблиц и диаграмм, сгенерированных в LaTeX.
+
+* Печать пакетных документов из научных или инженерных проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в PCL для очередей печати.
+
+* Интеграция в автоматизированные рабочие процессы печати документов.
+
+* Генерация PCL по запросу из репозиториев LaTeX для массовой печати.
+
+* Планирование вывода для распространения академических или корпоративных документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

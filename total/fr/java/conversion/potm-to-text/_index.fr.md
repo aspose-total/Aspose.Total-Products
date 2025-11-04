@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de POTM en TEXTE extrait tout le contenu textuel des modèles PowerPoint dans des fichiers texte simples et modifiables. C'est idéal pour réutiliser le contenu pour des notes, des scripts, de la documentation et un traitement automatisé.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Exportation des notes de diapositives en texte simple modifiable pour la documentation.
+* Génération de scripts ou de points de discussion à partir du contenu de la présentation.
+* Conversion de diapositives académiques ou d'entreprise pour la recherche ou l'analyse.
+* Préparation de résumés textuels légers pour des bulletins d'information ou des rapports internes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en lot de plusieurs diapositives en texte simple pour les pipelines de contenu.
+* Intégration dans les flux de travail de génération de contenu IA.
+* Création de fichiers TEXTE déclenchée à partir de modèles POTM pour les outils de reporting.
+* Extraction automatisée du contenu des diapositives à des fins d'archivage ou d'analyse.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

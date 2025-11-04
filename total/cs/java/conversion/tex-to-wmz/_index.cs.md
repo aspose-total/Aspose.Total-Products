@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek WMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění TEX na **WMZ (komprimovaný Windows Metafile)** komprimuje vektorovou grafiku pro diagramy v LaTeXu, optimalizuje úložiště a zachovává kvalitu pro prezentace a zprávy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Komprimované LaTeXové diagramy pro snímky v Microsoft Office.
+
+* Archivace škálovatelných technických ilustrací.
+
+* Sdílení lehké grafiky v akademických publikacích.
+
+* Vkládání vektorové grafiky do zpráv bez velkých velikostí souborů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná hromadná konverze TEX na WMZ.
+
+* Integrace do systémů automatizace dokumentů a snímků.
+
+* Spouštění komprimovaných LaTeXových diagramů.
+
+* Plánované aktualizace obrázků WMZ pro více uživatelů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: TXT XLSB EXCEL XLT DIF XLTM FODS XLAM XLTX SXC XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **ODS (OpenDocument Spreadsheet)** εξασφαλίζει συμβατότητα με μοντέρνες εφαρμογές υπολογιστών ανοικτού κώδικα. Το ODS διατηρεί τα στυλ, τις φόρμουλες και τους πίνακες, κάνοντάς το ιδανικό για συνεργατική αναφορά και κοινή χρήση δεδομένων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή αναφορών HR που δημιουργήθηκαν από XSLFO για χρήστες του LibreOffice.
+
+* Κοινή χρήση τριμηνιαίων αναλύσεων με εξωτερικούς συνεργάτες σε μορφή ODS.
+
+* Προετοιμασία λειτουργικών πινάκων ελέγχου για αναθεώρηση από διαφορετικά τμήματα.
+
+* Αρχειοθέτηση πινάκων οικονομικών βασισμένων σε XSLFO σε μια μορφή ανοικτού μέλλοντος.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μετατροπή σε πραγματικό χρόνο από XSLFO σε ODS για συνεργατικά γραφεία.
+
+* Προγραμματισμένη παρτίδα εξαγωγής λειτουργικών μετρήσεων από XSLFO.
+
+* Ενσωμάτωση σε αυτοματοποιημένες αναφορικές διαδικασίες για απομακρυσμένες ομάδες.
+
+* Αυτόματη δημιουργία φύλλων εργασίας ODS από πρότυπα XSLFO για επαναλαμβανόμενες αναφορές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

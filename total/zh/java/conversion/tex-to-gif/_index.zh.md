@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**GIF（图形交换格式）**，可以将LaTeX可视化和小动画分享在线或嵌入到教程和培训材料中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 用于教育内容的简单LaTeX动画。
+
+* 分享逐步解决问题的图表。
+
+* 在电子学习平台中嵌入动画公式。
+
+* 以GIF格式可视化迭代的LaTeX计算。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于教程的自动批量TEX到GIF转换。
+
+* 与LMS和在线课程内容集成。
+
+* 从LaTeX绘图或序列生成GIF的触发式生成。
+
+* 根据LaTeX更新自动更新教育性GIF。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

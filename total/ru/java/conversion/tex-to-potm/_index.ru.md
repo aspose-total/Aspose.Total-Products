@@ -135,7 +135,51 @@ presentation.save("output.potm", SaveFormat.Potm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **POTM (Шаблон с включенными макросами для PowerPoint)** добавляет многоразовые шаблоны с возможностями макросов, соединяя содержимое LaTeX с автоматизированной функциональностью слайдов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Интерактивные образовательные слайды с формулами LaTeX.
+
+* Презентации исследований с автоматическим обновлением таблиц.
+
+* Шаблоны с включенными макросами для научной отчетности.
+
+* Шаблоны слайдов для лекций с несколькими авторами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание шаблонов с включенными макросами из содержимого LaTeX.
+
+* Автоматическое обновление шаблонов для академических или корпоративных слайд-дек.
+
+* Интеграция в рабочие процессы автоматизации PowerPoint.
+
+* Планирование генерации шаблонов слайдов LaTeX в POTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**SWF（Shockwave Flash）**，创建适用于教育平台和在线演示的交互式LaTeX动画，尽管主要用于传统系统。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 基于LaTeX的动画教程和可视化。
+
+* 传统平台的交互式教育模块。
+
+* 共享迭代计算或算法演示。
+
+* 技术电子学习内容中的动态图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于传统内容库的批量TEX到SWF转换。
+
+* 集成到离线电子学习平台中。
+
+* 触发式SWF生成，用于交互式LaTeX序列。
+
+* 定期更新动画教程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

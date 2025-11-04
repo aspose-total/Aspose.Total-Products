@@ -135,7 +135,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**PPS（PowerPoint Show）**可创建用于会议、培训或展示厅的自运行演示文件。PPS在直接以幻灯片模式打开时保留格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 分发自运行的企业概述演示文稿。
+
+* 从XSLFO数据准备自动化培训或入职幻灯片。
+
+* 为展会分享互动营销内容。
+
+* 为管理审查生成视觉吸引人的KPI仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从XSLFO定时批量转换为PPS文件。
+
+* 集成到自动化幻灯片分发工作流程中。
+
+* 从XSLFO报告触发生成PPS演示文稿。
+
+* 为定期会议自动更新自运行演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

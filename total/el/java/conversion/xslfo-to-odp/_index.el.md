@@ -135,7 +135,51 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων XSLFO (Extensible Stylesheet Language Formatting Objects) σε **ODP (OpenDocument Presentation)** επιτρέπει την εύκολη δημιουργία παρουσιάσεων ανοικτού κώδικα διατηρώντας το δομημένο περιεχόμενο και το στυλ. Το ODP είναι συμβατό με το LibreOffice Impress και άλλα πακέτα γραφείου ανοικτού κώδικα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή ετήσιων αναφορών που δημιουργήθηκαν από XSLFO σε διαδραστικές παρουσιάσεις ODP.
+
+* Προετοιμασία εκπαιδευτικού περιεχομένου από δομημένους πίνακες XSLFO για χρήση στην τάξη.
+
+* Αρχειοθέτηση διαφανειών συνεδριάσεων διοικητικού συμβουλίου σε ένα μορφή ανοικτού μέλλοντος.
+
+* Δημιουργία οπτικών πινάκων ελέγχου από δεδομένα αναλυτικών XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή μηνιαίων αναφορών XSLFO σε ODP για επιχειρηματικές αναθεωρήσεις.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές εργασίας αναφοράς προς παρουσίαση.
+
+* Προγραμματισμένη δημιουργία διαφανειών ODP για επαναλαμβανόμενες συναντήσεις.
+
+* Ενεργοποιημένη μετατροπή περιεχομένου XSLFO σε πακέτα διαφανειών ανοικτού κώδικα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **RTF (Rich Text Format)** обеспечивает универсальную совместимость, позволяя открывать документы LaTeX в практически любом текстовом процессоре, сохраняя при этом необходимое форматирование и математические уравнения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Обмен академическими статьями между платформами без потери форматирования.
+
+* Технические руководства с доступными в Word или LibreOffice сложными уравнениями.
+
+* Бизнес-документация с оформлением LaTeX для различных платформ.
+
+* Документы LaTeX, готовые к отправке по электронной почте в универсальных форматах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование для архивов и совместимости между платформами.
+
+* Интеграция в процессы обработки документов для технических команд.
+
+* Автоматическое создание отчетов RTF из наборов данных LaTeX.
+
+* Запуск преобразований для автоматизированных систем публикации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

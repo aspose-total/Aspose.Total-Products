@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **OTP (OpenDocument Presentation Template)** umožňuje vytvářet opakovaně použitelné šablony snímků z strukturovaných dat XSLFO. Šablony OTP standardizují formátování prezentací napříč týmy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava firemních šablon prezentací z XSLFO generovaných zpráv.
+
+* Standardizace výukových modulů ve znovupoužitelných formátech OTP.
+
+* Vytváření prezentací pro investory s konzistentním stylováním z obsahu XSLFO.
+
+* Archivace šablon čtvrtletních zpráv pro budoucí opětovné použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze z XSLFO na OTP pro knihovny šablon.
+
+* Integrace s automatizovanými potrubími pro generování snímků.
+
+* Spouštění vytváření šablon OTP pro nové série zpráv XSLFO.
+
+* Automatické nasazení šablon založených na XSLFO napříč odděleními.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

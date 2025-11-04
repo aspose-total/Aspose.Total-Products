@@ -61,7 +61,47 @@ otherformats: SXC DIF XLT EXCEL XLTX XLSM XLAM XLTM ODS FODS XLSX XLSB TSV XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MOBI文件转换为XLAM（Excel Add-In）可将MOBI相关数据功能直接嵌入Excel环境中。这种转换可以在电子表格驱动的出版工作流程中实现高级分析和自动化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+- 在Excel宏中嵌入MOBI到数据转换器。
+
+- 为出版商自动化电子书分析功能。
+
+- 为数字内容表现开发工作表内仪表板。
+
+- 将MOBI数据分析工具集成到Excel Add-ins中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+- 使用XLAM自动化进行宏启用的MOBI处理。
+
+- 在企业Excel系统中部署MOBI解析器。
+
+- 为电子书报告任务动态生成Add-ins。
+
+- 用于MOBI数据集更新的实时XLAM扩展。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ otherformats: PSD  WMZ JPEG2000 SVGZ WMF EMZ IMAGE DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή XSLFO σε **WMZ (Συμπιεσμένο Windows Metafile)** παρέχει συμπιεσμένες διανυσματικές εικόνες ιδανικές για email, παρουσιάσεις και ολοκλήρωση στον ιστό διατηρώντας την κλιμάκωση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Αποστολή οπτικών που δημιουργήθηκαν από XSLFO ως συμπιεσμένα συνημμένα.
+
+* Ενσωμάτωση κλιμάκωσιμων γραφικών σε παρουσιάσεις PowerPoint και Word.
+
+* Αρχειοθέτηση συμπιεσμένων διανυσματικών οπτικών αναφορών.
+
+* Κοινοποίηση λειτουργικών πινάκων ελέγχου μέσω email ή εσωτερικών πυλών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή αρχείων XSLFO σε WMZ για αποθήκευση με χώρο.
+
+* Προγραμματισμένη αυτόματη συμπίεση οπτικών αναφορών.
+
+* Ενεργοποίηση γεννήτριας WMZ για επαναλαμβανόμενες ροές παρουσιάσεων.
+
+* Ενσωμάτωση σε αυτοματοποιημένες διαδικασίες δημιουργίας διαφανιών και εγγράφων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

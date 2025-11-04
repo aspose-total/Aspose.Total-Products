@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier TEX vers DXF dans un seul fic
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **DXF (Drawing Exchange Format)** permet d'utiliser des diagrammes techniques, des plans et des schémas générés par LaTeX dans des logiciels de CAO pour des projets d'ingénierie et d'architecture.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Schémas d'ingénierie à partir de documents techniques LaTeX.
+
+* Diagrammes d'architecture pour intégration dans des logiciels de CAO.
+
+* Visualisation de graphiques basés sur LaTeX pour des projets de conception.
+
+* Diagrammes de fabrication ou de prototypage dérivés de LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de TEX en DXF pour les flux de travail d'ingénierie.
+
+* Intégration avec les pipelines de logiciels de CAO.
+
+* Génération automatisée déclenchée de diagrammes de conception.
+
+* Archivage de schémas LaTeX au format DXF pour une utilisation multiplateforme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

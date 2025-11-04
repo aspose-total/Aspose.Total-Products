@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **MHTML (MIME HTML)** umožňuje zabalit celý dokument včetně obrázků, textu a stylů do jediného souboru připraveného pro web, ideální pro archivaci nebo sdílení.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace dokumentů XPS ve formátu kompatibilním s webem.
+
+* Sdílení kompletních zpráv pomocí e-mailu bez externích příloh.
+
+* Publikování obsahu XPS na interních webových portálech.
+
+* Webová dokumentace pro firemní nebo akademické použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatický hromadný převod XPS na MHTML pro firemní archivy.
+
+* Plánované generování verzí dokumentů připravených pro web.
+
+* Integrace s intranetovými systémy pro interní distribuci.
+
+* Zjednodušený pracovní postup pro digitální archivaci zpráv a manuálů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

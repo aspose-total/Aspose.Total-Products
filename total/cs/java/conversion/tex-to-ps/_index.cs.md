@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEXu na **PS (PostScript)** produkuje univerzální soubor s popisem stránky, který zachovává formátování LaTeXu, grafiku a složitý matematický obsah pro profesionální publikování a tiskové dokumenty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava LaTeXových článků a zpráv pro profesionální tisk.
+
+* Generování verzí PostScriptu technických diagramů a tabulek.
+
+* Odevzdávání akademických článků do časopisů s přesným formátováním.
+
+* Archivace LaTeXových dokumentů ve formátu univerzálního rozložení stránky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaný hromadný převod TEXu na PS pro publikační toky.
+
+* Integrace s profesionálními tiskovými pracovními postupy.
+
+* Spuštění generování PostScriptu pro distribuci dokumentů ve velkém měřítku.
+
+* Naplánované exporty TEXu na PS pro akademické projekty s více autory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

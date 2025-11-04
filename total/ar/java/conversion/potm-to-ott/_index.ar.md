@@ -53,7 +53,55 @@ otherformats: DOTX ODT WORDML OTTX TEXT WORD FLATOPC DOTM OTT RTF OTTM DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POTM إلى OTT ينشئ قوالب نص مفتوحة المصدر قابلة لإعادة الاستخدام متوافقة مع LibreOffice Writer وتطبيقات مماثلة. تحافظ هذه القوالب على التخطيط والأنماط وعناصر التصميم لبيئات غير مايكروسوفت.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصميم قوالب OTT لمكاتب مفتوحة المصدر باستخدام أنماط PowerPoint.
+
+* تحويل محتوى العروض التقديمية إلى هياكل قوالب معتمدة على ODT.
+
+* استخدام القوالب بتنسيق مفتوح من قبل الحكومة أو القطاع العام.
+
+* معايير وثائق المنظمات غير الحكومية باستخدام ملفات OTT قابلة لإعادة الاستخدام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء قوالب OTT تلقائيًا في أنظمة إدارة الوثائق مفتوحة المصدر.
+
+* أنابيب نشر الوثائق متعددة المنصات باستخدام تنسيقات مفتوحة.
+
+* تحويل سير العمل يربط بين بيئتي مايكروسوفت و LibreOffice.
+
+* استخدام مؤسسي بمقياس كبير لقوالب OTT مستمدة من العروض التقديمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,51 @@ otherformats: FODS XLSB MD XLTX ODS XLTM EXCEL TXT XLT XLAM DIF XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **XLTM (Шаблон Excel с поддержкой макросов)** объединяет многоразовые шаблоны с макросами, обеспечивая автоматизированные рабочие процессы с данными LaTeX и динамическую отчетность.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Академические шаблоны с встроенными макросами для автоматизированной оценки.
+
+* Финансовые и инженерные шаблоны на основе наборов данных LaTeX.
+
+* Динамические панели с макро-приводимыми расчетами.
+
+* Совместные проектные шаблоны для многопользовательских команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание шаблонов LaTeX-to-XLTM для предприятий.
+
+* Автоматизированное заполнение макросов из источников данных LaTeX.
+
+* Интеграция в автоматизацию рабочих процессов для исследовательских проектов.
+
+* Создание макро-поддерживаемых шаблонов по запросу для многопользовательского доступа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

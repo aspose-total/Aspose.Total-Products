@@ -54,7 +54,51 @@ L'API vous permet également de convertir des txtuments TXT protégés par mot d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion des fichiers TXT au format **PPS (PowerPoint Show)** produit des diaporamas prêts à être présentés qui s'ouvrent directement en mode diaporama. Ce format est idéal pour distribuer des présentations finalisées à des clients ou à un public.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Présentations commerciales prêtes pour les clients distribuées sans risque de modification.
+
+* Diapositives de cours préenregistrées pour les plateformes d'apprentissage en ligne.
+
+* Diaporamas d'événements et de conférences générés à partir d'ordres du jour textuels.
+
+* Présentations de campagnes marketing livrées directement en tant que fichiers PPS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée de TXT en PPS pour la diffusion de contenu de webinaire.
+
+* Exportations par lots planifiées pour les bibliothèques de présentations clients.
+
+* Intégration dans des portails de contenu pour des diaporamas à la demande.
+
+* Génération déclenchée pour des sessions de briefing internes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

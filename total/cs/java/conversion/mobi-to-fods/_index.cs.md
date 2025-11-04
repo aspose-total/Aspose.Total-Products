@@ -61,7 +61,47 @@ Po převodu MOBI do FODS vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Exportování MOBI do FODS (Flat OpenDocument Spreadsheet) poskytuje výstup tabulky založený na XML ideální pro lehkou výměnu dat. Je perfektní pro prostředí s otevřeným zdrojovým kódem a systémy vyžadující strukturovaná data elektronických knih ve formátu čistého textu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- Správa knihoven elektronických knih v aplikacích tabulkových procesorů s otevřeným zdrojovým kódem.
+
+- Úprava atributů obsahu MOBI v programu LibreOffice Calc.
+
+- Vytváření lehkých zpráv pro analýzu digitální knihovny.
+
+- Sdílení metadat mezi týmy pomocí otevřených formátů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- Hromadné konverze MOBI do FODS pro otevřené datové portály.
+
+- Integrace do otevřených ETL datových potrubí.
+
+- Analýza XML pro ověřování a čištění metadat.
+
+- Publikování dat založených na FODS pro akademické instituce.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,45 @@ otherformats: XLTM TSV DIF XLSX XLT MARKDOWN MHTML ODS XLAM EXCEL FODS XLS XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του POT σε XLS (Excel 97–2003 Workbook) επιτρέπει τη συμβατότητα με τα παλαιά συστήματα υπολογιστών φύλλων εργασίας που εξακολουθούν να χρησιμοποιούνται σε πολλά εταιρικά περιβάλλοντα. Διατηρεί τα δεδομένα πίνακα και τη δομή από τις παρουσιάσεις PowerPoint για επεξεργάσιμη ανάλυση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή των οικονομικών αναφορών PowerPoint για παλαιά συστήματα Excel.
+
+* Διαμοιρασμός δεδομένων εκπαίδευσης σε παλαιά εταιρικά δίκτυα.
+
+* Εισαγωγή πινάκων PowerPoint σε παλαιά μοντέλα λογιστικής.
+
+* Δημιουργία φύλλων αναλυτικών συμβατών προς τα πίσω.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+* Δημιουργία παρτίδων XLS για αρχειοθέτηση και διατμηματικές ροές εργασίας.
+
+* Αυτοματοποιημένες αγωγοί μετατροπής σε συστήματα συμμόρφωσης.
+
+* Ενσωμάτωση με παλαιά φύλλα εργασίας ERP.
+
+* Προγραμματισμένες εξαγωγές για τυποποιημένη εταιρική αναφορά.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

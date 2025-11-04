@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **ODT (Αρχείο Κειμένου OpenDocument)** επιτρέπει στους χρήστες LaTeX να παράγουν έγγραφα με ανοιχτά πρότυπα συμβατά με το LibreOffice, το OpenOffice και άλλα γραφειακά πακέτα, εξασφαλίζοντας προσβασιμότητα και συνεργασία σε διαφορετικές πλατφόρμες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Ακαδημαϊκές υποβολές σε ανοιχτές μορφές εγγράφων.
+
+* Συνεργατικές έρευνες με πολυπλατφορμική συμβατότητα.
+
+* Τεκμηρίωση και εγχειρίδια για έργα ανοιχτού κώδικα.
+
+* Ηλεκτρονικά βιβλία ή εκπαιδευτικό υλικό μορφοποιημένα με LaTeX για εργαλεία ανοιχτού κώδικα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή TEX σε ODT για αποθετήρια πανεπιστημίων.
+
+* Ενσωμάτωση σε αγωγούς δημοσίευσης ανοιχτού κώδικα.
+
+* Αυτοματοποιημένη μετατροπή για πολυπλατφορμική διανομή τεκμηρίωσης.
+
+* Δημιουργία δυναμικών αναφορών ODT από σύνολα δεδομένων LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

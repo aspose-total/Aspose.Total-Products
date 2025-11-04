@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **DXF (Drawing Exchange Format)** umožňuje použití XPS rozvržení v CAD aplikacích a zachování vektorových prvků pro design, architekturu a inženýrské projekty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Architektonické plány a modré tisky extrahované z XPS dokumentů.
+
+* Inženýrské diagramy a schémata pro CAD software.
+
+* Technická dokumentace vyžadující přesný vektorový převod.
+
+* Průmyslové designové pracovní postupy pro spolupracující návrhy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná hromadná konverze XPS na DXF pro CAD týmy.
+
+* Integrace s designovými potrubími pro rychlé aktualizace rozvržení.
+
+* Plánovaná generace DXF pro opakující se inženýrské zprávy.
+
+* Zjednodušená extrakce vektorových prvků pro výrobu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

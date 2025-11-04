@@ -61,7 +61,31 @@ Lors de la conversion du fichier POT en TSV, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de POT en TSV (valeurs séparées par des tabulations) offre un moyen efficace d'exporter des tableaux de présentation vers des feuilles de calcul basées sur du texte utilisées pour l'importation et le traitement de données. Le TSV simplifie la manipulation de grands ensembles de données à travers des outils d'analyse.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Conversion d'analyses basées sur des présentations en données TSV pour l'importation.
+* Préparation de rapports tabulaires structurés pour les modèles d'apprentissage automatique.
+* Extraction de mesures de performance académique à partir de diapositives éducatives.
+* Création de jeux de données TSV partageables pour les systèmes d'entreprise.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion TSV par lots intégrée dans les pipelines d'analyse.
+* Extraction automatisée de tableaux à partir de supports de formation PowerPoint.
+* Intégration dans les systèmes ETL pour l'échange de données d'entreprise.
+* Génération de TSV pour l'automatisation de rapports à grande échelle.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

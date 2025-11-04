@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为 **MHTML（MIME HTML）** 可以将整个文档（包括图像、文本和样式）打包成一个单个的适用于网络的文件，非常适合存档或共享。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将 XPS 文档存档为适用于网络的格式。
+
+* 通过电子邮件共享完整报告，无需外部附件。
+
+* 在内部网络门户上发布 XPS 内容。
+
+* 用于企业或学术用途的基于网络的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于企业档案的批量自动 XPS 到 MHTML 转换。
+
+* 定期生成适用于网络的文档版本。
+
+* 与内部网络系统集成，用于内部分发。
+
+* 用于数字化报告和手册的简化工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

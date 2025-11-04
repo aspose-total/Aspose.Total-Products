@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XSLFO σε **PPS (PowerPoint Show)** επιτρέπει τη δημιουργία αρχείων παρουσιάσεων που λειτουργούν αυτόνομα για συναντήσεις, εκπαίδευση ή περίπτερα. Το PPS διατηρεί τη μορφοποίηση κατά το άνοιγμα απευθείας σε λειτουργία παρουσίασης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Διανομή αυτόνομων επισκόπησεων εταιρικών παρουσιάσεων.
+
+* Προετοιμασία αυτοματοποιημένων διαφανειών εκπαίδευσης ή ενσωμάτωσης από δεδομένα XSLFO.
+
+* Κοινοποίηση διαδραστικού περιεχομένου μάρκετινγκ για εμπορικές εκθέσεις.
+
+* Δημιουργία οπτικά ελκυστικών πινάκων KPI για αναθεώρηση από τη διοίκηση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μαζική μετατροπή από αρχεία XSLFO σε PPS.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές διανομής παρουσιάσεων.
+
+* Ενεργοποιημένη δημιουργία των decks PPS από αναφορές XSLFO.
+
+* Αυτόματη ενημέρωση αυτόνομων παρουσιάσεων για επαναλαμβανόμενες συναντήσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

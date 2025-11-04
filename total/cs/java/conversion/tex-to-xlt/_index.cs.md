@@ -47,7 +47,55 @@ Při převodu souboru TEX na XLT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **XLT (Excel šablona)** umožňuje vytváření opakovaně použitelných excelových šablon pro projekty, analýzy a akademickou práci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Standardizované šablony pro výzkumné týmy.
+
+* Opakovaně použitelné finanční modely založené na LaTeX tabulkách.
+
+* Výpočet akademických známek s LaTeX vzorci.
+
+* Šablony pro sledování inženýrských projektů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné vytváření excelových šablon z LaTeX.
+
+* Integrace do firemních nebo akademických repozitářů šablon.
+
+* Automatické naplnění daty z LaTeX do XLT šablon.
+
+* Plánované aktualizace šablon pro víceuživatelské prostředí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

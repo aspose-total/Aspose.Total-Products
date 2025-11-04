@@ -135,7 +135,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XSLFO en **SWF (Flash)** permet des animations interactives pour les tableaux de bord hérités et les applications web. SWF préserve les graphiques vectoriels et permet des interactions basées sur la chronologie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Intégration de graphiques interactifs XSLFO dans les portails web hérités.
+
+* Préparation de tableaux de bord animés pour les systèmes intranet historiques.
+
+* Conversion de modules de formation en SWF pour une utilisation hors ligne.
+
+* Archivage de visualisations interactives XSLFO à des fins de conformité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion planifiée de XSLFO en SWF pour les systèmes hérités.
+
+* Création en lot de tableaux de bord animés.
+
+* Génération déclenchée pour les applications web héritées.
+
+* Intégration avec des pipelines de rapports interactifs automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

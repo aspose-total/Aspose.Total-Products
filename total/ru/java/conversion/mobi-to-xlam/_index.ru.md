@@ -61,7 +61,47 @@ otherformats: SXC DIF XLT EXCEL XLTX XLSM XLAM XLTM ODS FODS XLSX XLSB TSV XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MOBI в XLAM (дополнение Excel) позволяет встраивать функции обработки данных MOBI непосредственно в среду Excel. Это преобразование дает возможность использовать расширенные аналитические инструменты и автоматизировать рабочие процессы, основанные на таблицах Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+- Встраивание конвертеров MOBI-в-данные в макросы Excel.
+
+- Автоматизация функций аналитики электронных книг для издателей.
+
+- Создание дашбордов в ячейках для оценки производительности цифрового контента.
+
+- Интеграция инструментов анализа данных MOBI в дополнения Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+- Обработка MOBI с помощью макросов и автоматизация с помощью XLAM.
+
+- Развертывание парсеров MOBI в корпоративных системах Excel.
+
+- Динамическое создание дополнений для задач отчетности по электронным книгам.
+
+- Расширения XLAM в реальном времени для обновления набора данных MOBI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

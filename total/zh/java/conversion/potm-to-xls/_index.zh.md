@@ -61,7 +61,55 @@ otherformats: EXCEL SXC FODS XLSM XLS MHTML MARKDOWN XLTM XLAM ODS XLSB XLSX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM转XLS将演示文稿转换为经典的与旧版Excel兼容的Microsoft Excel电子表格。它保留了表格、图表和基本格式，以实现向后兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于幻灯片的预算转换为XLS以供传统团队使用。
+
+* 将历史演示文稿数据导出为Excel 97-2003格式。
+
+* 将财务报告转换为旧版会计软件可用格式。
+
+* 共享可编辑表格，无需现代Excel依赖。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量处理POTM模板，转换为XLS电子表格。
+
+* 与传统ERP和报告系统集成。
+
+* 保留格式的自动化幻灯片到电子表格流程。
+
+* 触发XLS生成以进行归档和分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

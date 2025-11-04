@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek IMAGE podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **OBRAZ (obecné rastrové formáty jako PNG nebo BMP)** zajišťuje širokou kompatibilitu pro zprávy, dokumentaci a distribuci digitálního obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exporty obrázků ve vysoké kvalitě pro zprávy a archivy.
+
+* Vzdělávací materiály pro online nebo tištěnou distribuci.
+
+* Marketingové materiály odvozené z XPS souborů.
+
+* Vizuální dokumentace pro firemní nebo vládní účely.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkové konverzní potrubí XPS na OBRAZ.
+
+* Integrace s webovým publikováním nebo intranetovými systémy.
+
+* Plánované vytváření obrazových archivů z XPS repozitářů.
+
+* Automatizované pracovní postupy dokumentu na obrázek pro sdílení obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

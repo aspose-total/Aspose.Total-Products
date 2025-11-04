@@ -57,7 +57,51 @@ otherformats: DXF IMAGE TGA JPEG2000 SVGZ EMZ WMF  PSD WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **IMAGE (تنسيقات البكسل العامة)** يوفر إخراجًا متعدد الاستخدامات لتطبيقات الويب والطباعة وسطح المكتب. يمكن أن تشمل التنسيقات المدعومة PNG أو BMP أو TIFF اعتمادًا على المتطلبات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء صور ثابتة من جداول XSLFO المهيكلة.
+
+* إعداد الرسومات للوحات التقارير أو الوثائق.
+
+* تصدير الرسوم البيانية والجداول لتطبيقات الجوال أو التعليم الإلكتروني.
+
+* إنشاء أرشيفات متقطعة للتقارير المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل تقارير XSLFO بالدفعة إلى تنسيقات صور متعددة.
+
+* دمج مع أنابيب توليد لوحات التحكم الآلي.
+
+* تصدير مُشغّل لتسليم التقرير المجدول.
+
+* إنشاء صور آليًا لمنصات التعليم الإلكتروني أو الويب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

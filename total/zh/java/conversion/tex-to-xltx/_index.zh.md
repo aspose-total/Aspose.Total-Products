@@ -49,7 +49,51 @@ otherformats: XLTM DIF TSV XLSB FODS XLTX TXT ODS SXC XLAM MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**XLTX（不带宏的Excel模板）**，为LaTeX生成的表格和公式提供安全、可重复使用的模板，非常适合协作和多平台环境。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 标准化的学术和企业模板，不含宏。
+
+* 可重复使用的基于LaTeX的项目跟踪表。
+
+* 用于安全多用户共享的财务和研究模板。
+
+* 用于工程和科学团队的多表报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量创建TEX到XLTX模板。
+
+* 自动集成到文档和模板存储库中。
+
+* 定期更新LaTeX模板以用于协作项目。
+
+* 多平台部署无宏的LaTeX模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

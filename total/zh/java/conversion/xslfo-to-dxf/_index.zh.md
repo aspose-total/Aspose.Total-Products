@@ -57,7 +57,55 @@ otherformats: WMZ PSD TGA JPEG2000 WMF IMAGE SVGZ EMZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XSLFO 转换为 **DXF（绘图交换格式）** 可以保留基于矢量的表格布局，用于 CAD 和技术设计应用。DXF 文件保持精确的尺寸和布局结构。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将 XSLFO 生成的工程报告转换为 CAD 友好格式。
+
+* 将结构化表格存档为矢量图以用于技术文档。
+
+* 将操作布局集成到设计软件中。
+
+* 从 XSLFO 报告生成技术图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 XSLFO 转换为 DXF 以用于工程文档流程。
+
+* 定时将结构化报告表导出为 DXF 以进行设计审查。
+
+* 与自动化 CAD 报告流程集成。
+
+* 触发将 XSLFO 数据转换为 DXF 图纸以供技术团队使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

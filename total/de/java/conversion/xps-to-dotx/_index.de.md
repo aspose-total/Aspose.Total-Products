@@ -130,7 +130,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XPS in **DOTX (Word-Vorlage)** bietet eine makrofreie Vorlagenoption für Benutzer, die wiederverwendbare Dokumentenlayouts ohne automatisierte Skripte suchen. Ideal für sicheres Teilen und konsistente Formatierung in Bildungs-, Unternehmens- und kreativen Arbeitsabläufen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Standardisierte Bildungsarbeitsblätter und Aufgaben.
+
+* Marketing-Inhalt-Vorlagen für Kampagnen und Präsentationen.
+
+* Interne Richtlinien- und Verfahrensvorlagen für HR oder Betriebsabläufe.
+
+* Berichtsvorlagen für finanzielle und technische Dokumentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Vorlagenerstellung für unternehmensweite Nutzung.
+
+* Konvertierungspipelines, die DOTX-Dateien in Dokumentenverwaltungsplattformen einspeisen.
+
+* Vorformatierung von XPS-Inhalten zur Anpassung an Markenstandards.
+
+* Stapelerstellung von kundenorientierten Angebotsvorlagen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

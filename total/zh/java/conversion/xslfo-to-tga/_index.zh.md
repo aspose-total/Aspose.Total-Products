@@ -57,7 +57,51 @@ otherformats: DXF EMZ WMZ JPEG2000  TGA IMAGE PSD SVGZ WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**TGA（Targa图像）**可提供高质量的光栅图形，通常用于游戏、模拟和高分辨率可视化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 为模拟或游戏分析准备XSLFO生成的视觉效果。
+
+* 存档详细图表，最小化压缩损失。
+
+* 为专业出版生成光栅图形。
+
+* 将运营仪表板转换为TGA以进行设计工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将XSLFO转换为TGA以进行高分辨率报告。
+
+* 为专业可视化流程安排导出计划。
+
+* 从定期XSLFO分析中触发TGA生成。
+
+* 与自动化设计工作流程集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

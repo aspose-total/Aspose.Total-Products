@@ -47,7 +47,55 @@ otherformats: XLAM SXC MD FODS XLTM TXT EXCEL ODS XLT XLSM XLTX TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات TEX إلى **CSV (قيم منفصلة بفواصل)** يسمح بتحويل مستندات LaTeX إلى بيانات جدولية خفيفة الوزن لجداول البيانات، قواعد البيانات، وتطبيقات التحليل. هذا مثالي للباحثين والمحللين الذين يعملون مع مجموعات بيانات عددية في LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير الجداول المنشأة بواسطة LaTeX إلى CSV لتحليل البيانات.
+
+* مجموعات بيانات أكاديمية لبرامج الإحصاء ومعالجة Python/R.
+
+* تقارير مالية أو هندسية مهيأة في LaTeX تحول لمراجعة الجداول.
+
+* مشاركة بيانات مشروع مفتوح المصدر بتنسيق CSV العالمي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* تحويل دفعي من TEX إلى CSV في أنابيب ETL.
+
+* استخراج آلي للجداول من أوراق البحث.
+
+* دمج في منصات التحليل المدفوعة بالذكاء الاصطناعي.
+
+* توليد CSV مُحفز لمجموعات بيانات تعاونية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

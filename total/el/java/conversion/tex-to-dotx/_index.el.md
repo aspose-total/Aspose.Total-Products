@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων TEX σε **DOTX (Πρότυπο Word)** παρέχει καθαρά, επαναχρησιμοποιήσιμα πρότυπα χωρίς μακροεντολές, ιδανικά για ακαδημαϊκά και εταιρικά περιβάλλοντα που απαιτούν συνέπεια μορφοποίησης LaTeX χωρίς κινδύνους scripting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Προσαρμοσμένα πρότυπα αναφορών με εξισώσεις σε στιλ LaTeX.
+
+* Πρότυπα μορφοποίησης ακαδημαϊκών διατριβών για φοιτητές και πανεπιστήμια.
+
+* Πρότυπα ενοποιημένου σχεδίου μαθήματος για εκπαιδευτικούς.
+
+* Πρότυπα τεκμηρίωσης ερευνητικών έργων για εργαστήρια.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Δημιουργία πακέτων εταιρικών ή εκπαιδευτικών προτύπων σε παρτίδες.
+
+* Αυτοματοποιημένη ανάπτυξη προτύπων σε ΣΕΔ ή συστήματα διαχείρισης εγγράφων.
+
+* Μετατροπή από LaTeX σε πρότυπο Word για συνεκτική εταιρική ταυτότητα εγγράφων.
+
+* Ενσωμάτωση σε αυτοματοποιημένες διαδικασίες δημιουργίας αναφορών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

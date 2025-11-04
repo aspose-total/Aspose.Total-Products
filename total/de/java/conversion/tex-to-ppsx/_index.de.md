@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX in **PPSX (PowerPoint Show ohne Makros)** ergibt sichere, sofort einsatzbereite Präsentationen mit LaTeX-Inhalten, die sich zum Teilen auf verschiedenen Plattformen eignen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Akademische Vorlesungen zur Verteilung ohne Makro-Sicherheitsrisiken.
+
+* Unternehmens- oder Schulungspräsentationen mit LaTeX-formatierten Tabellen.
+
+* Wiederverwendbare Konferenzfolien mit formelreichen Diagrammen.
+
+* Mehrplattformfreigabe von technischen Folien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelweise LaTeX-zu-PPSX-Konvertierungen.
+
+* Automatisierte Erstellung von Vorlesungs- oder Schulungsfolien.
+
+* Integration mit LMS oder Unternehmenspräsentationssystemen.
+
+* Ausgelöste Folienentwicklung für kollaborative akademische Projekte.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

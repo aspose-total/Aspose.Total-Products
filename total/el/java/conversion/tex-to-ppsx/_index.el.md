@@ -135,7 +135,51 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **PPSX (PowerPoint Show χωρίς Macros)** παράγει ασφαλείς, έτοιμες για προβολή παρουσιάσεις με περιεχόμενο LaTeX, κατάλληλες για κοινή χρήση σε πολλές πλατφόρμες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Ακαδημαϊκές διαλέξεις για διανομή χωρίς κίνδυνο ασφάλειας μακροεντολών.
+
+* Εταιρικές ή εκπαιδευτικές παρουσιάσεις με πίνακες στυλ LaTeX.
+
+* Επαναχρησιμοποιήσιμες διαφάνειες συνεδρίων με διαγράμματα πλούσια σε τύπους.
+
+* Κοινή χρήση τεχνικών διαφανειών σε πολλαπλές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζικές μετατροπές LaTeX σε PPSX.
+
+* Αυτοματοποιημένη δημιουργία διαφανειών διαλέξεων ή εκπαίδευσης.
+
+* Ενσωμάτωση με συστήματα LMS ή επιχειρησιακές παρουσιάσεις.
+
+* Ενεργοποιημένη δημιουργία διαφανειών για συνεργατικά ακαδημαϊκά έργα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

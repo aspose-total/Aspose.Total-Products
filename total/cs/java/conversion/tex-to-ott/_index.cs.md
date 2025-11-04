@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **OTT (OpenDocument Text Template)** umožňuje pedagogům, výzkumníkům a firmám vytvářet opakovaně použitelné šablony s LaTeX stylováním v otevřených formátech, usnadňující standardizaci dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Šablony učebních materiálů s konzistentním LaTeX formátováním.
+
+* Šablony OpenDocument pro spolupracující laboratorní zprávy.
+
+* Šablony projektů a obchodních zpráv pro open-source kancelářské balíky.
+
+* Standardizované formuláře pro akademické nebo administrativní účely.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování šablon pro prostředí s více uživateli.
+
+* Integrace do open-source LMS a kancelářských pracovních postupů.
+
+* Hromadné aktualizace knihoven šablon pro akademické instituce.
+
+* Dynamický převod LaTeX na OTT pro dokumentaci výzkumu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

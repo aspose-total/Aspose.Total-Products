@@ -53,7 +53,51 @@ otherformats: WORD ODTX DOTX ODT WORDML OTT TEXT FLATOPC DOTM DOT ODTM RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του POTM σε ODT επιτρέπει στους χρήστες να ανοίγουν το περιεχόμενο προτύπου PowerPoint στο LibreOffice ή στο OpenOffice Writer. Παρέχει έναν τρόπο διασυνοριακό για την επεξεργασία περιεχομένου κειμένου παρουσίασης σε ανοικτές πρότυπες μορφές εγγράφου.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Κοινοποίηση περιεχομένου PowerPoint με ομάδες χρηστών χρησιμοποιώντας εργαλεία ανοικτού κώδικα.
+
+* Δημιουργία τεκμηρίωσης ακαδημαϊκών ή ΜΚΟ χρησιμοποιώντας δωρεάν γραφεία.
+
+* Επαναχρησιμοποίηση παρουσιάσεων σε εγχειρίδια μορφής ODT.
+
+* Παραγωγή επεξεργάσιμου περιεχομένου εκπαίδευσης για τα οικοσυστήματα ανοικτών εγγράφων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Συστήματα επιχειρήσεων μετατρέπουν παρουσιάσεις Microsoft για συμβατότητα με ODT.
+
+* Αυτοματοποιημένη αναφορά για διανομή εγγράφου διασυνοριακά.
+
+* Σωληνώσεις μετασχηματισμού πακέτων για αποθήκευση εγγράφων σύμφωνα με το ODF.
+
+* Δημιουργία ODT εντός συστημάτων επιχειρήσεων βασισμένων σε Linux.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

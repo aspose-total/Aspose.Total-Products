@@ -61,7 +61,55 @@ otherformats: TSV FODS XLSM ODS SXC XLS XLTM MARKDOWN XLSB XLSX XLT MHTML EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTM в SXC создает файлы электронных таблиц старого формата. Этот формат полезен для совместимости с более старыми офисными пакетами и обеспечивает возможность анализа исторических данных презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Миграция финансовых таблиц на основе слайдов в SXC для старых систем.
+
+* Преобразование отчетов о проектах для организаций, использующих устаревшее офисное программное обеспечение.
+
+* Архивирование числового содержимого слайдов в обратно совместимом формате электронных таблиц.
+
+* Обмен таблицами презентаций с командами, использующими устаревшие приложения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование шаблонов POTM в SXC для архивирования.
+
+* Интеграция с системами отчетности старого образца.
+
+* Генерация SXC по триггеру для сохранения исторических данных.
+
+* Автоматизированные рабочие процессы преобразования слайдов в электронные таблицы старого формата.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

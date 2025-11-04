@@ -61,7 +61,47 @@ Po převodu MOBI do TSV vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Přeměna souborů MOBI na TSV (hodnoty oddělené tabulátorem) umožňuje čistý a strukturovaný export dat o e-knihách ideální pro technické týmy, vývojáře AI a backendové operace s daty vyžadující konzistentní oddělovače.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+- Importování metadat e-knih do relačních databází.
+
+- Trénování jazykových modelů pomocí strukturovaných dat MOBI.
+
+- Vytváření protokolů o čtení založených na TSV pro analytické nástroje.
+
+- Migrace detailů e-knih do podnikových datových skladů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+- Dávkové zpracování MOBI na TSV pro textovou analýzu.
+
+- Integrace do automatizovaných předzpracovatelských potrubí pro NLP.
+
+- Spouštění generování TSV během synchronizace dat.
+
+- Normalizace metadat pro systémy kategorizace AI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

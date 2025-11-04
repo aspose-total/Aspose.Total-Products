@@ -135,7 +135,45 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **POTX (Πρότυπο PowerPoint χωρίς Macros)** επιτρέπει ασφαλή, επαναχρησιμοποιήσιμα πρότυπα διαφανιών με μορφοποίηση LaTeX, ιδανικά για πολλαπλούς χρήστες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Πρότυπα διαφανιών μαθήματων με εξισώσεις LaTeX.
+* Διαφάνειες συνεδρίων χωρίς περιορισμούς μακροεντολών.
+* Επαναχρησιμοποιήσιμα πρότυπα παρουσιάσεων έργων.
+* Διαφάνειες ακαδημαϊκών διαλέξεων με πλούσιο περιεχόμενο σε φόρμουλες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική δημιουργία προτύπων LaTeX-to-POTX.
+* Αυτοματοποιημένες ενημερώσεις προτύπων από αποθετήρια LaTeX.
+* Ενσωμάτωση σε εκπαιδευτικά LMS ή εταιρικά συστήματα διαφανιών.
+* Ενεργοποίηση δημιουργίας προτύπων διαφανιών για ομάδες πολλαπλών συγγραφέων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

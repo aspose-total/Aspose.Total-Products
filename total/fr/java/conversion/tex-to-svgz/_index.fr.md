@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier TEX vers SVGZ dans un seul fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **SVGZ (Graphiques vectoriels évolutifs compressés)** préserve la qualité vectorielle tout en réduisant la taille du fichier, idéale pour les publications web et académiques.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Intégration d'équations et de diagrammes LaTeX dans les pages web.
+
+* Graphiques évolutifs haute résolution pour les publications.
+
+* Visualisations interactives en ligne des données générées par LaTeX.
+
+* Illustrations techniques au format vectoriel compressé.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de diagrammes LaTeX en SVGZ.
+
+* Intégration avec les pipelines de publication web.
+
+* Mises à jour déclenchées des graphiques vectoriels compressés à partir des sources LaTeX.
+
+* Archivage et distribution d'illustrations académiques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

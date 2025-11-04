@@ -144,7 +144,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir XPS en **XAMLFLOW (Document de flux en XAML)** transforme le contenu XPS statique en mises en page modifiables et fluides adaptées à un affichage dynamique dans les FlowDocuments WPF, idéal pour les liseuses, les rapports ou le contenu interactif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Création de livres électroniques interactifs et de documentation à partir de sources XPS.
+
+* Rapports d'entreprise et manuels basés sur le flux pour les applications de bureau.
+
+* Rendu dynamique de texte et de médias dans des applications éducatives ou de formation.
+
+* Manuels de l'employé ou guides de politique présentés sous forme de FlowDocuments.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée d'archives XPS en XAMLFLOW pour les plateformes d'apprentissage en ligne.
+
+* Génération planifiée de FlowDocument pour des rapports ou manuels récurrents.
+
+* Intégration avec des outils logiciels affichant dynamiquement des FlowDocuments.
+
+* Pipeline rationalisé pour convertir des mises en page XPS statiques en FlowDocuments réactifs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

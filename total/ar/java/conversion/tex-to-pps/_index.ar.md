@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **PPS (PowerPoint Show)** ينشئ عروض شرائح فقط للتشغيل الفوري، مثالي للمحاضرات التلقائية، وجلسات التدريب، ومشاركة سريعة لمحتوى LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* عروض محاضرات أكاديمية جاهزة للتشغيل.
+
+* عروض ورش عمل تفاعلية.
+
+* ملخصات مشاريع هندسية لعروض العملاء.
+
+* شرائح LaTeX جاهزة للمؤتمرات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعات مجدول لـ TEX إلى PPS.
+
+* إنشاء تلقائي لعروض تدريبية من محتوى LaTeX.
+
+* التكامل مع أنظمة نشر العروض.
+
+* إنشاء PPS مُحفز للندوات أو منصات التعلم الإلكتروني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

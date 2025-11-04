@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات TEX إلى **XAML (لغة ترميز تطبيقات قابلة للتوسيع)** يمكن استخدام محتوى LaTeX والصيغ والرسوم البيانية في تطبيقات WPF وUWP والتي تعتمد على .NET، مع الحفاظ على الرسوم البيانية الناقلة وتنسيق النص.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين الرسوم البيانية والمعادلات التي تم إنشاؤها بواسطة LaTeX في تطبيقات سطح المكتب.
+
+* إنشاء عناصر واجهة مستخدم تفاعلية برسوم بيانية علمية أو رياضية.
+
+* تطبيقات تقنية تعرض رسوم بيانية ديناميكية من مصادر LaTeX.
+
+* برامج تعليمية تدمج صيغ LaTeX بسلاسة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من TEX إلى XAML لعدة مكونات واجهة مستخدم.
+
+* دمج في خطوط إنتاج مشاريع WPF أو UWP المؤتمتة.
+
+* توليد مُحفّز للرسوم البيانية القائمة على LaTeX لتطبيقات .NET.
+
+* تحديثات مجدولة لبرامج تعليمية متعددة الوحدات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

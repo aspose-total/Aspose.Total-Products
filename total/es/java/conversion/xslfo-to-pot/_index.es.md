@@ -135,7 +135,55 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir archivos XSLFO a **POT (Plantilla de PowerPoint)** permite crear diapositivas estandarizadas y reutilizables para los usuarios de Microsoft PowerPoint. Las plantillas POT conservan diseños de diapositivas, estilos y formato de tablas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Crear plantillas de informes corporativos a partir de resúmenes financieros XSLFO.
+
+* Preparar diapositivas de seguimiento de proyectos mensuales para presentaciones consistentes.
+
+* Diseñar módulos de capacitación a partir de datos estructurados XSLFO.
+
+* Generar barajas de presentación de inversores reutilizables con diseños de diapositivas predefinidos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Generación automatizada por lotes de archivos POT a partir de informes XSLFO.
+
+* Creación programada de plantillas para presentaciones de equipo recurrentes.
+
+* Integración con tuberías de automatización de diapositivas corporativas.
+
+* Conversión activada de datos XSLFO en plantillas POT listas para usar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

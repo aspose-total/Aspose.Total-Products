@@ -61,7 +61,45 @@ Při převodu souboru POT na ODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na ODS (OpenDocument Spreadsheet) zajišťuje bezproblémovou interoperabilitu s prostředími open-source kancelářských aplikací. Je ideální pro akademické instituce a veřejné organizace, které přijímají standardy ODF.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Sdílení zpráv generovaných v PowerPointu s uživateli LibreOffice.
+
+* Přeměna prezentací v učebnách na šablony pro zadávání dat.
+
+* Převod vizuálních prvků výzkumu do open-source tabulek.
+
+* Příprava soudržných tabulkových zpráv pro veřejné organizace.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Automatické vytváření ODS z tréninkových nebo prodejních prezentací.
+
+* Integrace do open-source ERP nebo analytických platforem.
+
+* Konverzní postupy pro hybridní dokumentové ekosystémy.
+
+* Plánované transformace pro projekty standardizace dokumentů.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

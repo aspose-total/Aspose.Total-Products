@@ -61,7 +61,55 @@ Lors de la conversion du fichier POTM en TSV, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de POTM en TSV (valeurs séparées par des tabulations) permet un transfert facile des tableaux de présentation vers des feuilles de calcul basées sur du texte ou des logiciels d'analyse. Les fichiers TSV sont légers, modifiables et conservent des structures tabulaires propres.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Extraction des tableaux de diapositives pour les pipelines d'analyse basés sur CSV/TSV.
+
+* Exportation de données d'entraînement ou de résultats d'enquête à partir de présentations.
+
+* Transformation de données financières et scientifiques en TSV pour des outils de script.
+
+* Préparation du contenu tabulaire des diapositives pour l'importation dans des bases de données.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion par lot des diapositives en TSV pour les pipelines d'ingestion de données.
+
+* Flux de travail de reporting automatisé alimentant des fichiers TSV dans des plateformes BI.
+
+* Intégration avec des scripts Python/R pour l'analyse statistique.
+
+* Génération de TSV déclenchée à partir de modèles de présentation hébergés dans le cloud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

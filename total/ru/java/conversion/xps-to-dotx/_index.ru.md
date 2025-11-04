@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **DOTX (шаблон Word)** предоставляет опцию шаблона без макросов для пользователей, ищущих повторно используемые макеты документов без автоматизированных сценариев. Идеально подходит для безопасного обмена и однородного форматирования в образовательных, корпоративных и творческих рабочих процессах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Стандартизированные образовательные рабочие листы и задания.
+
+* Шаблоны маркетингового контента для кампаний и презентаций.
+
+* Шаблоны внутренних политик и процедур для отдела кадров или операций.
+
+* Шаблоны отчетов для финансовой и технической документации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное создание шаблонов для использования во всей компании.
+
+* Конвейеры преобразования, подающие файлы DOTX в платформы управления документами.
+
+* Предварительное форматирование содержимого XPS для соответствия стандартам брендинга.
+
+* Пакетное создание шаблонов предложений для клиентов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

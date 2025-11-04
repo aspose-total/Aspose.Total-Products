@@ -47,7 +47,51 @@ Při převodu souboru XSLFO na MD můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů XSLFO (Extensible Stylesheet Language Formatting Objects) do **MD (Markdown)** umožňuje vytváření lehkých, webu přívětivých a snadno čitelných dokumentů. Markdown zachovává strukturu nadpisů, tabulek a seznamů obsahu z obsahu XSLFO a zároveň ho dělá vhodným pro webové stránky, blogy a dokumentační platformy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace XSLFO generovaných zpráv do Markdownu pro technickou dokumentaci.
+
+* Publikování strukturovaných tabulek a obsahu z XSLFO do znalostních bází.
+
+* Vytváření připravených blogových zpráv s zachovanými rozloženími tabulek a nadpisů.
+
+* Příprava dokumentace open-source z strukturované XSLFO analytiky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze zpráv XSLFO do Markdownu pro webové portály.
+
+* Integrace do automatizovaných potrubí pro generování dokumentace.
+
+* Spouštěná konverze pro opakující se analytiky nebo projektové zprávy.
+
+* Automatizované XSLFO-to-MD pracovní postupy pro systémy správy znalostí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

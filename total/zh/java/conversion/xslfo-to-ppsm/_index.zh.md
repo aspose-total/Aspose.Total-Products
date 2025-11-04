@@ -135,7 +135,51 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**PPSM（启用宏的PowerPoint演示）**，结合了自动运行幻灯片和宏自动化。PPSM非常适合交互式仪表板、自动化演示或动态报告。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 准备幻灯片格式的自动化性能仪表板。
+
+* 嵌入宏以实现交互式XSLFO驱动内容。
+
+* 共享团队范围的启用宏的演示文稿以进行报告。
+
+* 创建动态的投资者或董事会演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将XSLFO幻灯片转换为PPSM以进行自动化会议。
+
+* 从定期XSLFO报告中定时更新启用宏的幻灯片。
+
+* 与VBA或PowerPoint自动化工作流程集成。
+
+* 触发PPSM生成以进行实时交互式演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

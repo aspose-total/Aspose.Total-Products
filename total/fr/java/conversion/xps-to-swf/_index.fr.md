@@ -121,7 +121,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XPS en **SWF (Shockwave Flash)** permet des présentations interactives ou animées pour les anciennes applications web et les plateformes d'apprentissage en ligne.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Modules d'apprentissage en ligne anciens nécessitant des animations Flash.
+
+* Tutoriels interactifs basés sur des documents.
+
+* Contenu marketing animé pour les plateformes web historiques.
+
+* Présentations riches en multimédia pour les cours éducatifs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de XPS en SWF pour les systèmes d'apprentissage en ligne basés sur des archives.
+
+* Génération automatisée de contenu Flash interactif.
+
+* Mises à jour planifiées pour les modules de formation récurrents.
+
+* Intégration avec les portails web hérités.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,51 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX文件转换为**ODP（OpenDocument Presentation）**可将LaTeX内容、公式和表格转换为与LibreOffice和OpenOffice兼容的开源演示文稿幻灯片。非常适合学术界和工程师分享基于LaTeX的研究成果。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 使用LaTeX生成方程式的学术讲座。
+
+* 使用结构化数据进行开源项目演示。
+
+* 数学、物理或工程主题的会议幻灯片。
+
+* 使用交互式基于LaTeX的图表的教学材料。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于课件或培训材料的批量TEX到ODP转换。
+
+* 从LaTeX研究存储库生成计划幻灯片。
+
+* 集成到开源演示文稿流程中。
+
+* 多作者学术幻灯片组的触发更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

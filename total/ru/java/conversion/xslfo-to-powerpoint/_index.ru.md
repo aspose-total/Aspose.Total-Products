@@ -135,7 +135,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **POWERPOINT (PPTX)** обеспечивает полностью отформатированные, редактируемые слайды, подходящие для Microsoft PowerPoint. Формат PPTX обеспечивает совместимость с продвинутыми функциями дизайна, диаграммами и мультимедиа.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование ежегодных отчетов XSLFO в визуально привлекательные слайды PowerPoint.
+
+* Подготовка управленческих панелей и презентаций KPI.
+
+* Создание образовательного или тренировочного контента из структурированных таблиц XSLFO.
+
+* Обмен слайдами, созданными на основе XSLFO, с корпоративными заинтересованными сторонами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование из XSLFO в PPTX для повторяющихся отчетов.
+
+* Интеграция с автоматизированным созданием слайдов и панелями аналитики.
+
+* Автоматическое преобразование данных XSLFO в интерактивные презентации PowerPoint.
+
+* Генерация PPTX в реальном времени для презентаций на заседаниях правления.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

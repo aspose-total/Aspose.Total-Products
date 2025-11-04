@@ -47,7 +47,55 @@ Při převodu souboru TEX na TSV můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **TSV (hodnoty oddělené tabulátorem)** poskytuje alternativní lehký formát pro numerická a textová LaTeX data, vhodný pro analýzu a import do softwaru.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Tabulky akademických experimentů exportované pro statistickou analýzu.
+
+* Inženýrské datové sady pro Python, R nebo MATLAB.
+
+* Finanční LaTeX tabulky převedené pro analytické platformy.
+
+* Lehké sdílení LaTeX dat mezi týmy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod TEX na TSV výzkumnými potrubími.
+
+* Automatický export LaTeX tabulkových dat pro modely AI.
+
+* Generování TSV v reálném čase pro spolupracující analytické nástěnky.
+
+* Integrace do ETL potrubí pro strukturované datové sady.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

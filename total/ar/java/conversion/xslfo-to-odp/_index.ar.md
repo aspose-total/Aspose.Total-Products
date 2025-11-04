@@ -135,7 +135,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات XSLFO (Extensible Stylesheet Language Formatting Objects) إلى **ODP (OpenDocument Presentation)** يمكن أن يسهل إنشاء عروض شرائح مفتوحة المصدر مع الحفاظ على هيكل المحتوى والتنسيق. ODP متوافق مع LibreOffice Impress وغيرها من حزم البرامج المكتبية مفتوحة المصدر.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل تقارير السنوية التي تم إنشاؤها بواسطة XSLFO إلى عروض شرائح تفاعلية بتنسيق ODP.
+
+* إعداد محتوى تعليمي من جداول XSLFO المهيكلة للاستخدام في الفصول الدراسية.
+
+* أرشفة شرائح اجتماعات مجلس الإدارة بتنسيق مفتوح يضمن الاستدامة.
+
+* إنشاء لوحات مرئية من بيانات تحليلات قائمة على XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* تحويل دفعة من التقارير الشهرية التي تم إنشاؤها بواسطة XSLFO إلى ODP للاستعراضات الشركية.
+
+* دمجها في سير العمل المؤتمتة من التقرير إلى العرض.
+
+* إنشاء شرائح ODP بشكل مجدول للاجتماعات المتكررة.
+
+* تحويل محتوى XSLFO إلى عروض شرائح مفتوحة المصدر بشكل مفعل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

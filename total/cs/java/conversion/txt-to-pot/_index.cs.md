@@ -54,7 +54,55 @@ API také umožňuje převádět dokumenty TXT chráněné heslem na POT. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TXT do formátu **POT (šablona PowerPointu)** usnadňuje vytváření opakovaně použitelných šablon prezentací. Tento přístup umožňuje firmám a pedagogům udržovat konzistenci značky a formátování napříč různými prezentacemi bez manuálních úprav.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Návrh firemních šablon snímků z textových obrysů.
+
+* Vzdělávací plány lekcí převedené do připravených šablon PPT.
+
+* Standardizované snímky projektových návrhů vytvořené pro opakující se reportování.
+
+* Marketingové prezentace vytvořené přímo z textového obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace šablon PowerPointu pro různé oddělení.
+
+* Integrace do systémů správy obsahu pro marketingové materiály.
+
+* Automatická konverze TXT briefů do firemních rozložení snímků.
+
+* Plánované aktualizace návrhů šablon na základě revizí textového obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

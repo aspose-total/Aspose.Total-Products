@@ -61,7 +61,51 @@ Při převodu souboru POTM na MARKDOWN můžete také přidat vodoznak do výstu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTM na MARKDOWN umožňuje transformaci poznámek k prezentaci, textových bloků a obsahu do lehkých, upravitelných souborů Markdown. To je ideální pro vývojáře, bloggery a systémy správy znalostí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování obsahu snímků pro dokumentaci a wiki.
+
+* Vytváření blogových příspěvků z poznámek k prezentaci s minimálním úsilím o formátování.
+
+* Převádění výukových snímků na moduly e-learningu založené na Markdown.
+
+* Generování lehkého, přenosného obsahu pro spolupráci založenou na Git.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaný převod Markdownu šablon POTM pro znalostní báze.
+
+* Hromadná generace pro systémy dokumentace nebo platformy LMS.
+
+* Spouštěný převod na Markdown pro potrubí s obsahem řízeným verzemi.
+
+* Integrace se statickými generátory webů jako Hugo nebo Jekyll.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,51 @@ API также позволяет экспортировать файл TEX в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **DXF (Drawing Exchange Format)** позволяет использовать технические диаграммы, чертежи и схемы, созданные в LaTeX, в программном обеспечении САПР для инженерных и архитектурных проектов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Инженерные схемы из технических документов LaTeX.
+
+* Архитектурные диаграммы для интеграции с CAD.
+
+* Визуализация графиков на основе LaTeX для проектов дизайна.
+
+* Диаграммы для производства или прототипирования, полученные из LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в DXF для инженерных рабочих процессов.
+
+* Интеграция с потоками CAD-программного обеспечения.
+
+* Автоматическое генерирование диаграмм дизайна по запросу.
+
+* Архивирование схем LaTeX в формате DXF для использования на различных платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

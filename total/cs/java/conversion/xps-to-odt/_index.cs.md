@@ -130,7 +130,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **ODT (OpenDocument Text)** umožňuje kompatibilitu s kancelářskými balíky s otevřeným zdrojovým kódem jako LibreOffice a OpenOffice. Uchovává rozložení dokumentu a obsah a zároveň podporuje formát nezávislý na platformě.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Spolupracující projekty v organizacích využívajících nástroje s otevřeným zdrojovým kódem.
+
+* Akademické práce a dokumentace výzkumu pro univerzity.
+
+* Dokumenty vládních úřadů a neziskových organizací vyžadující shodu s ODF.
+
+* Technické manuály a průvodci sdílené napříč různými platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatický převod velkých archivů XPS do ODT pro přístup napříč platformami.
+
+* Integrace s platformami pro spolupráci na dokumentech jako Nextcloud.
+
+* Generování šablon ODT pro standardizované vytváření obsahu.
+
+* Hromadný převod pro akademické nebo výzkumné publikační postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

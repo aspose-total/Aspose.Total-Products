@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **DOCM (документ с включенными макросами Word)** позволяет без проблем интегрировать содержимое LaTeX с продвинутыми макросами Word. Это особенно полезно для академических исследователей и инженеров, которым требуется автоматизированная генерация отчетов с динамическими таблицами, формулами и интерактивным контентом.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Автоматизация создания отчетов по исследованиям с использованием LaTeX в Microsoft Word.
+
+* Встраивание сложных математических уравнений в документацию по инженерии.
+
+* Создание интерактивных шаблонов лабораторий с макросами для воспроизводимых результатов.
+
+* Компиляция академических диссертаций с автоматическим кросс-ссылками и нумерацией.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование TEX в DOCM в системах управления документами учреждений.
+
+* Генерация научных журналов с помощью макросов из репозиториев LaTeX.
+
+* Интеграция в автоматизацию рабочего процесса для технического издательства.
+
+* Автоматическое обновление исследовательских панелей управления, объединяющих содержимое LaTeX с макросами Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XPS в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **DXF (Drawing Exchange Format)** позволяет использовать макеты XPS в приложениях САПР, сохраняя векторные элементы для проектов дизайна, архитектуры и инженерии.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Архитектурные планы и чертежи, извлеченные из документов XPS.
+
+* Инженерные схемы и диаграммы для программ САПР.
+
+* Техническая документация, требующая точного векторного преобразования.
+
+* Рабочие процессы промышленного дизайна для совместного проектирования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование XPS в DXF для команд САПР.
+
+* Интеграция с процессами проектирования для быстрых обновлений макетов.
+
+* Планирование генерации DXF для повторяющихся отчетов по инженерии.
+
+* Оптимизированное извлечение векторных элементов для производства.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

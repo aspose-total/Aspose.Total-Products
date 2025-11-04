@@ -47,7 +47,53 @@ otherformats: XLAM XLSB DIF FODS XLT ODS XLSM TSV XLTX EXCEL XLTM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **XLTM (Шаблон Excel с поддержкой макросов)** позволяет создавать многоразовые шаблоны с макросами, объединяя автоматизацию с предварительно разработанными структурами электронных таблиц для повышения эффективности в корпоративной среде.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шаблоны планирования бюджета с встроенными макросами.
+
+* Автоматизированные шаблоны отчетности по продажам и маркетингу.
+
+* Шаблоны для расчета кадровых и заработных плат.
+
+* Шаблоны управления проектами с автоматизацией задач.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Массовое создание шаблонов XPS в XLTM для корпоративной автоматизации.
+
+* Интеграция с внутренним программным обеспечением рабочего процесса для автоматизации задач.
+
+* Плановое обновление макросов в шаблонах для корпоративного использования.
+
+* Оптимизированное распространение автоматизированных шаблонов отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

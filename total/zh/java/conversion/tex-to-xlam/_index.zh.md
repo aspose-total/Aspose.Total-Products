@@ -49,7 +49,51 @@ otherformats: XLSM SXC ODS XLTM EXCEL MD XLT TXT XLAM FODS XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**XLAM（Excel Add-In Macro）**可使LaTeX表格和公式成为具有自动计算和增强功能的交互式Excel工具。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 由LaTeX驱动的财务建模模板。
+
+* 用于工程项目的自动计算工具。
+
+* 嵌入到Excel宏中的学术公式表。
+
+* 结合LaTeX和Excel自动化的数据处理仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从LaTeX数据集自动创建XLAM插件。
+
+* 用于企业工具的批量LaTeX到XLAM转换。
+
+* 从研究存储库触发的宏启用电子表格。
+
+* 集成到自动化报告和仪表板流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

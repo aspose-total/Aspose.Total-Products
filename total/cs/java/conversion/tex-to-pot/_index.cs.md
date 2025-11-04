@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEX na **POT (šablona PowerPointu)** umožňuje, aby obsah ve stylu LaTeXu byl znovupoužitelnou šablonou PowerPointu pro akademické, obchodní a firemní prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Profesionální prezentace s komplexními rovnicemi.
+
+* Firemní šablony návrhů projektů s LaTeX tabulkami.
+
+* Standardizované šablony pro univerzitní kurzy.
+
+* Prezentace na inženýrských nebo vědeckých konferencích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické hromadné převody TEX na POT pro knihovny šablon.
+
+* Integrace do firemních systémů pro automatizaci prezentací.
+
+* Naplánované aktualizace šablon z LaTeX zdrojů.
+
+* Spuštěné generování pro spolupráci více uživatelů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění XSLFO na **PPSX (PowerPoint Show bez maker)** produkuje samospouštějící prezentace bezpečné pro distribuci. PPSX zachovává formátování a rozložení a zároveň se vyhýbá rizikům provádění maker.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření samospouštějících finančních přehledů z dat XSLFO.
+
+* Sdílení standardizovaných školení nebo prezentací pro nové zaměstnance.
+
+* Příprava prezentací pro investory bez maker.
+
+* Archivace čtvrtletních přehledových snímků pro distribuci v týmu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze XSLFO na PPSX pro opakující se prezentace.
+
+* Spuštění generování prezentací bez maker.
+
+* Integrace do automatizovaných distribučních linek.
+
+* Automatická aktualizace samospouštějících snímků z XSLFO zpráv.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

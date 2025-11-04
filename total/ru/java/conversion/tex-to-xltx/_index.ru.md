@@ -47,7 +47,51 @@ otherformats: XLTM DIF TSV XLSB FODS XLTX TXT ODS SXC XLAM MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование TEX в **XLTX (шаблон Excel без макросов)** обеспечивает безопасные, многократно используемые шаблоны для таблиц и формул, созданных в LaTeX, идеально подходит для совместной работы и использования на различных платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Стандартизированные академические и корпоративные шаблоны без макросов.
+
+* Многократно используемые таблицы отслеживания проектов на основе LaTeX.
+
+* Финансовые и исследовательские шаблоны для безопасного совместного использования несколькими пользователями.
+
+* Многостраничные отчеты для инженерных и научных команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание шаблонов TEX в XLTX.
+
+* Автоматизированная интеграция в документы и репозитории шаблонов.
+
+* Запланированные обновления шаблонов LaTeX для совместных проектов.
+
+* Многоплатформенное развертывание шаблонов LaTeX без макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

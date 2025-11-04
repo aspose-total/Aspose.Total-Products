@@ -47,7 +47,51 @@ otherformats: MD ODS TSV SXC XLT XLTM EXCEL XLSM FODS XLTX XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **TSV (قيم مفصولة بواسطة علامات تبويب)** يبسط استخراج البيانات الجدولية للتحليلات، واستيراد قواعد البيانات، أو عمليات ETL. TSV خفيف الوزن، قابل للقراءة من قبل الإنسان، ومدعوم على نطاق واسع من قبل لغات البرمجة وأدوات البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير تقارير XSLFO إلى TSV لاستيعابها في قواعد البيانات.
+
+* إعداد مجموعات بيانات تحليلية ودية من جداول XSLFO المهيكلة.
+
+* هجرة البيانات من أوراق XSLFO المالية إلى منصات التحليل.
+
+* مشاركة البيانات الجدولية البسيطة بتنسيق TSV لسهولة التكامل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تحويل دفعي مجدول من XSLFO إلى TSV لأنابيب BI.
+
+* تكامل ETL لسير العمل التحليلية في الوقت الحقيقي.
+
+* تصدير TSV المُشغّل من تقارير XSLFO للوحات المعلوماتية التلقائية.
+
+* تحويل برمجي لمجموعات بيانات XSLFO بمقياس كبير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

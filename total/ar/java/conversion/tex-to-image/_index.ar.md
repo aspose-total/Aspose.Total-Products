@@ -57,7 +57,51 @@ otherformats: DXF WMZ WMF TGA EMZ JPEG2000 SVGZ PSD  IMAGE DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **صورة (تنسيقات البيانات النقطية العامة)** يحول معادلات LaTeX والجداول والرسومات إلى تنسيقات صور عالمية متوافقة لأغراض الويب والطباعة والوثائق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين الرسومات التي تم إنشاؤها بواسطة LaTeX في المدونات والمواقع الإلكترونية.
+
+* إعداد صور عالية الدقة للأوراق الأكاديمية.
+
+* مشاركة الرسوم البيانية في تنسيقات قابلة للقراءة على نحو عالمي.
+
+* تحويل الجداول المعقدة في LaTeX إلى لقطات صور.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من TEX إلى صورة لمكتبات المحتوى.
+
+* دمج مع سير العمل التلقائي للنشر ومواقع الويب.
+
+* تحديثات مُشغّلة للمحتوى التعليمي أو الدروس الخاصة بالصور.
+
+* تصدير الرسوم البيانية في LaTeX المتعددة إلى تنسيقات صور متسقة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

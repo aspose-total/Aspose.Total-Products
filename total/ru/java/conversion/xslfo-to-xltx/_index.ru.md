@@ -47,7 +47,51 @@ otherformats: TSV MD XLTX SXC ODS XLSM XLT XLTM XLSB DIF FODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **XLTX (шаблон Excel без макросов)** обеспечивает безопасные, многократно используемые шаблоны для повторяющейся отчетности без риска выполнения макросов. XLTX сохраняет форматирование, стили и структуры таблиц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка ежемесячных финансовых шаблонов на основе XSLFO для использования командой.
+
+* Создание листов отслеживания проектов, безопасных для распространения между отделами.
+
+* Распространение шаблонов отчетности по KPI без макросов.
+
+* Архивирование стандартных структур отчетности XSLFO в формате XLTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование XSLFO в XLTX для повторного распространения отчетов.
+
+* Интеграция в системы управления шаблонами для последовательной отчетности.
+
+* Пакетная генерация шаблонов без макросов для корпоративных рабочих процессов.
+
+* Автоматическое создание файлов XLTX из XSLFO для стандартизированной отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: TSV FODS SXC XLT XLTM EXCEL ODS MD DIF XLTX XLAM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XSLFO إلى **XLTM (قالب إكسل مع تمكين الماكرو)** يدعم السجلات العملية القابلة لإعادة الاستخدام مع الأتمتة المضمنة. تقوم قوالب XLTM بتبسيط التقارير المتكررة وسير العمل المتقدمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* توحيد تقارير XSLFO مع ماكروهات مضمنة للأتمتة.
+
+* توزيع قوالب التقارير التفاعلية عبر الأقسام.
+
+* إعداد قوالب نمذجة مالية قابلة لإعادة الاستخدام من XSLFO.
+
+* إنشاء قوالب لوحات تحكم مؤتمتة من بيانات XSLFO الجدولية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد دفعي لقوالب XLTM للتقارير الشركية.
+
+* دمج مع سير العمل الآلية بلغة VBA.
+
+* تحويل XSLFO إلى XLTM بشكل مجدول لتقارير المشاريع المتكررة.
+
+* إنشاء قوالب XLTM مُشغَّلة بالماكرو لوحدات التحليل التفاعلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

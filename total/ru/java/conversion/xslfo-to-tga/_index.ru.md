@@ -57,7 +57,51 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **TGA (изображение Targa)** обеспечивает высококачественную растровую графику, часто используемую в играх, симуляциях и визуализациях высокого разрешения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка визуальных элементов, сгенерированных XSLFO, для симуляций или аналитики игр.
+
+* Архивирование подробных диаграмм с минимальной потерей сжатия.
+
+* Создание растровой графики для профессиональной публикации.
+
+* Преобразование оперативных панелей управления в TGA для рабочих процессов дизайна.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XSLFO в TGA для отчетов высокого разрешения.
+
+* Запланированная выгрузка для профессиональных визуализационных конвейеров.
+
+* Генерация TGA из XSLFO аналитики по расписанию.
+
+* Интеграция с автоматизированными рабочими процессами дизайна.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

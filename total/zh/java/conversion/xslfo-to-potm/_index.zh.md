@@ -135,7 +135,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XSLFO转换为**POTM（启用宏的PowerPoint模板）** 可以在可重复使用的幻灯片模板中嵌入宏。 POTM非常适合需要自动化和交互内容的动态演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于XSLFO的计算嵌入演示文稿宏中。
+
+* 在幻灯片中自动化重复的项目状态更新。
+
+* 从XSLFO数据表生成交互式仪表板。
+
+* 在部门间分发标准化的POTM模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将XSLFO报告定期转换为POTM模板以实现自动化。
+
+* 与VBA或PowerPoint自动化工作流程集成。
+
+* 触发批量生成启用宏的演示文稿模板。
+
+* 从XSLFO分析自动更新POTM模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

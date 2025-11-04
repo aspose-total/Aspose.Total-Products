@@ -47,7 +47,51 @@ Při převodu souboru XPS na XLT můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **XLT (Excel šablona)** umožňuje vytváření opakovaně použitelných, předformátovaných tabulek pro opakované použití, ideální pro standardizované hlášení a konzistentní zadávání dat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Standardizované šablony pro hlášení společnosti.
+
+* Šablony pro sledování projektů a alokaci zdrojů.
+
+* Akademické šablony tabulek pro opakované úkoly.
+
+* Šablony pro finanční výkazy a rozpočty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické vytváření šablony XPS-to-XLT pro firemní týmy.
+
+* Plánované generování předformátovaných tabulek.
+
+* Integrace s systémy pro správu dokumentů pro distribuci šablon.
+
+* Zjednodušená standardizace opakujících se pracovních postupů zadávání dat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

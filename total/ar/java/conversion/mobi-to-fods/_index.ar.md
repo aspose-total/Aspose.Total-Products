@@ -61,7 +61,47 @@ otherformats: XLSB TSV XLTM SXC ODS EXCEL FODS XLT DIF XLAM XLTX XLSM XLSX XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تصدير MOBI إلى FODS (جدول بيانات مفتوح المصدر المسطح) يوفر إخراج جدول بيانات قائم على XML مثالي لتبادل البيانات الخفيفة. إنه مثالي لبيئات المصدر المفتوح والأنظمة التي تتطلب بيانات كتب إلكترونية منظمة بنية نصية بسيطة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+- إدارة مكتبات الكتب الإلكترونية في تطبيقات جداول البيانات مفتوحة المصدر.
+
+- تحرير سمات محتوى MOBI داخل LibreOffice Calc.
+
+- إنشاء تقارير خفيفة لتحليلات المكتبة الرقمية.
+
+- مشاركة البيانات الوصفية بين الفرق باستخدام التنسيقات المفتوحة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+- تحويلات دفعية من MOBI إلى FODS لبوابات البيانات المفتوحة.
+
+- دمجها في خطوط الأنابيب لبيانات ETL مفتوحة المصدر.
+
+- تحليل XML للتحقق وتنقية البيانات الوصفية.
+
+- نشر البيانات بناءً على FODS للمؤسسات الأكاديمية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

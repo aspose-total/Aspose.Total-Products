@@ -144,7 +144,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات TEX إلى **FLATOPC (Flat Open Packaging Conventions)** يسمح بحفظ محتوى LaTeX، بما في ذلك الصيغ والجداول، في ملف واحد يعتمد على XML ومتوافق تمامًا مع معايير Office Open XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة وثائق LaTeX في تنسيق XML موحد.
+
+* الحفاظ على المحتوى المنظم والتنسيق لتطبيقات الشركات.
+
+* مشاركة تقارير أكاديمية أو تقنية معقدة كملفات تعبئة واحدة.
+
+* الاحتفاظ بالجداول والمعادلات التي تم إنشاؤها بواسطة LaTeX للاستخدام عبر منصات متعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل مجمع من ملفات TEX إلى FLATOPC بشكل دفعي لمستودعات البحث.
+
+* دمجه في أنظمة إدارة الوثائق التلقائية.
+
+* توليد FLATOPC بناءً على مشاركة العمل.
+
+* جدولة أرشفة محتوى LaTeX في تنسيقات تعتمد على XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

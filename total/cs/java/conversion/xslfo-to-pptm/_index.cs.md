@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **PPTM (s makry povolený PowerPoint)** kombinuje upravitelné snímky s možnostmi automatizace. PPTM je ideální pro dynamické reportování, interaktivní přehledové panely a opakující se prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vložení XSLFO-řízených výpočtů do interaktivních snímků.
+
+* Příprava automatizovaných přehledových panelů výkonu.
+
+* Vytváření makry povolených školení nebo instruktážních snímků.
+
+* Distribuce dynamických investorů nebo prezentací pro správní radu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XSLFO reportů do snímků PPTM.
+
+* Integrace s VBA automatizačními potrubími.
+
+* Spouštění generování makro povolených snímků z opakujícího se obsahu XSLFO.
+
+* Automatizovaný hromadný převod pro dynamické firemní prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

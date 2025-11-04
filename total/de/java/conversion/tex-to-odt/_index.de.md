@@ -144,7 +144,55 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX in **ODT (OpenDocument Text)** ermöglicht es LaTeX-Benutzern, offene Standarddokumente zu erstellen, die mit LibreOffice, OpenOffice und anderen Office-Suiten kompatibel sind, um Zugänglichkeit und Zusammenarbeit über Plattformen hinweg zu gewährleisten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Akademische Einreichungen in offenen Dokumentformaten.
+
+* Kollaborative Forschungsberichte mit Multi-Plattform-Kompatibilität.
+
+* Dokumentation und Handbücher für Open-Source-Projekte.
+
+* LaTeX-formatierte eBooks oder Lehrmaterialien für Open-Source-Tools.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelweise TEX-zu-ODT-Konvertierung für Universitäts-Repositories.
+
+* Integration in Open-Source-Publishing-Pipelines.
+
+* Automatisierte Konvertierung für die verteilte Dokumentation auf verschiedenen Plattformen.
+
+* Generierung dynamischer ODT-Berichte aus LaTeX-Datensätzen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

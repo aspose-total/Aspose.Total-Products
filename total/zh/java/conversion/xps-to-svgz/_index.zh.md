@@ -57,7 +57,51 @@ otherformats: TGA PSD IMAGE EMZ WMZ JPEG2000  WMF SVGZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XPS 转换为**SVGZ（压缩可缩放矢量图形）**可确保轻量级、可缩放的图形，适用于网站、应用程序和基于矢量的打印，保持精度。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 基于Web的图表和插图。
+
+* 适用于可缩放用途的信息图表和技术框图。
+
+* 适用于响应式网页设计的营销图形。
+
+* 与矢量编辑软件兼容的教育可视化内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从 XPS 到 SVGZ 的批量转换管道，用于网络资产。
+
+* 动态信息图生成的定时更新。
+
+* 与内容管理系统集成，用于可扩展图像。
+
+* 多平台发布的简化矢量图形处理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

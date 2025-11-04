@@ -61,7 +61,45 @@ Při převodu souboru POT na XLS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POT na XLS (Excel 97–2003 Workbook) umožňuje kompatibilitu s dědictvím tabulkových systémů, které jsou stále používány v mnoha firemních prostředích. Uchovává tabulková data a strukturu z prezentací PowerPointu pro editovatelnou analýzu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění finančních zpráv PowerPointu pro dědictví systémů Excel.
+
+* Sdílení výcvikových dat v starších podnikových sítích.
+
+* Importování tabulek PowerPointu do dědictví účetních modelů.
+
+* Vytváření zpětně kompatibilních analytických tabulek.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+* Hromadná generace XLS pro archivační a mezidepartementální pracovní postupy.
+
+* Automatizované konverzní toky v systémech dodržování předpisů.
+
+* Integrace s dědictvím tabulek ERP.
+
+* Plánované exporty pro standardizované firemní hlášení.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

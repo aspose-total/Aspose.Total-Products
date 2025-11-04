@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod TEXu na **PPSX (PowerPoint Show bez maker)** produkuje bezpečné, připravené prezentace s obsahem LaTeXu, vhodné k sdílení napříč různými platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Akademické přednášky pro distribuci bez rizika makra bezpečnosti.
+
+* Firemní nebo školení prezentace s LaTeX-stylovými tabulkami.
+
+* Opakovaně použitelné konferenční snímky s diagramy bohatými na vzorce.
+
+* Sdílení technických snímků napříč různými platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkové konverze LaTeXu na PPSX.
+
+* Automatické vytváření přednáškových nebo školicích snímků.
+
+* Integrace s LMS nebo podnikovými prezentními systémy.
+
+* Spouštěné generování snímků pro spolupracující akademické projekty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ otherformats: SXC FODS XLT XLTM EXCEL XLSM XLTX XLSB ODS XLAM TXT TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **XLSM (Excel Macro-Enabled Workbook)** يسمح لمجموعات بيانات LaTeX بالتفاعل مع ماكروهات Excel المتقدمة للتحكم التلقائي والتحليل والتقارير الديناميكية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* لوحات تحكم ديناميكية باستخدام بيانات تم إنشاؤها بواسطة LaTeX.
+
+* قوالب حسابات وتقارير تلقائية للأبحاث.
+
+* تقارير أكاديمية أو تقارير شركات مع ماكروهات ممكّنة.
+
+* تقارير هندسية ومالية تحتوي على صيغ معقدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* تحويل دفعي من LaTeX إلى XLSM لسير العمل التلقائية.
+
+* دمجها في أنظمة تقارير الماكرو المدفوعة من الشركات.
+
+* تحديثات مُشغّلة لسجلات العمل XLSM التعاونية.
+
+* إنشاء ماكرو Excel تلقائي من مجموعات بيانات LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

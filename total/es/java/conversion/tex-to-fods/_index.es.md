@@ -47,7 +47,51 @@ Al convertir un archivo TEX a FODS, también puede agregar una marca de agua a s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir TEX a **FODS (Hoja de cálculo de documento abierto plano)** proporciona datos LaTeX en hojas de cálculo abiertas basadas en XML compatibles con LibreOffice y OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Compartir tablas científicas basadas en LaTeX con suites de oficina de código abierto.
+
+* Investigación académica que requiere formatos de hojas de cálculo abiertos e independientes de la plataforma.
+
+* Seguimiento y reporte de proyectos en entornos multiplataforma.
+
+* Preparar datos LaTeX para hojas de cálculo FODS colaborativas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión automatizada de TEX a FODS para flujos de trabajo de código abierto.
+
+* Procesamiento por lotes de conjuntos de datos LaTeX para colaboración multiplataforma.
+
+* Exportación programada de resultados de laboratorio o tablas de experimentos.
+
+* Integración en flujos de documentos para instituciones de investigación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

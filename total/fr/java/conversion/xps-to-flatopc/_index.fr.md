@@ -130,7 +130,55 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion des fichiers XPS (Spécification de papier XML) en **FLATOPC (Conventions d'emballage ouvert plat)** permet d'extraire le contenu du document dans un format XML structuré, préservant la mise en page, les polices et les métadonnées pour des flux de travail de traitement de document avancés.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Extraction programmable du texte et de la mise en forme pour les systèmes de documents d'entreprise.
+
+* Archivage des documents XPS en XML structuré pour un stockage à long terme.
+
+* Intégration dans des pipelines de publication automatisés.
+
+* Extraction de données à partir de rapports techniques ou financiers.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de XPS en FLATOPC pour la gestion de contenu d'entreprise.
+
+* Extraction planifiée pour les flux de travail de rapports récurrents.
+
+* Intégration avec des systèmes d'analyse de documents basés sur l'IA.
+
+* Validation automatisée du contenu du document extrait pour la conformité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

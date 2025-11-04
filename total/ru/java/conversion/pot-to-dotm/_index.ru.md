@@ -53,7 +53,45 @@ otherformats: DOTMX DOTMM DOT DOTM ODT RTF FLATOPC OTT DOTX TEXT WORDML WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POT в DOTM (Шаблон Word с поддержкой макросов) предоставляет организациям многоразовые шаблоны документов, включающие автоматизированные макросы. Это крайне важно для предприятий, стремящихся к динамическим, автоматически заполняемым документам на основе данных, полученных из PowerPoint.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание интерактивных шаблонов предложений с полями для данных.
+
+* Преобразование шаблонов PowerPoint в наборы документации с поддержкой макросов.
+
+* Автоматизация создания брендированных счетов или сертификатов.
+
+* Стандартизация документации между отделами.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Генерация DOTM в рамках систем автоматизации рабочих процессов.
+
+* Автоматизированное развертывание шаблонов через облачные платформы документов.
+
+* Интеграция с данными ERP или CRM для генерации документов по требованию.
+
+* Корпоративное внедрение макро-шаблонов документов.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

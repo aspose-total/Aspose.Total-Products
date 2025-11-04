@@ -135,7 +135,55 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XSLFO in **PPSM (Makrofähige PowerPoint-Show)** kombiniert selbstablaufende Folien mit Makroautomatisierung. PPSM eignet sich ideal für interaktive Dashboards, automatisierte Präsentationen oder dynamische Berichterstattung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Vorbereitung automatisierter Leistungsdashboards im Diashow-Format.
+
+* Einbetten von Makros für interaktiven XSLFO-gesteuerten Inhalt.
+
+* Teilen von makrofähigen Präsentationen für teamweite Berichterstattung.
+
+* Erstellen dynamischer Investoren- oder Vorstandspräsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von XSLFO-Folien in PPSM für automatisierte Besprechungen.
+
+* Geplante Aktualisierung von makrofähigen Folien aus wiederkehrenden XSLFO-Berichten.
+
+* Integration mit VBA oder PowerPoint-Automatisierungsworkflows.
+
+* Auslösen der PPSM-Erstellung für Echtzeit-interaktive Präsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

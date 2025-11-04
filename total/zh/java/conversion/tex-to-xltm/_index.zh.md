@@ -49,7 +49,51 @@ otherformats: FODS XLSB MD XLTX ODS XLTM EXCEL TXT XLT XLAM DIF XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将TEX转换为**XLTM（Excel宏启用模板）**结合了可重复使用的模板和宏，实现自动化的LaTeX数据工作流程和动态报告。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 带有嵌入式宏的学术模板，用于自动评分。
+
+* 基于LaTeX数据集的金融和工程模板。
+
+* 带有宏驱动计算的动态仪表板。
+
+* 多作者团队的协作项目模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 企业批量生成LaTeX到XLTM模板。
+
+* 从LaTeX数据源自动填充宏。
+
+* 集成到研究项目的工作流自动化中。
+
+* 触发的多用户访问的宏启用模板创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

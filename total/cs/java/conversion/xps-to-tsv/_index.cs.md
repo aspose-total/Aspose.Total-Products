@@ -47,7 +47,51 @@ Při převodu souboru XPS na TSV můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XPS na **TSV (hodnoty oddělené tabulátorem)** poskytuje jednoduchý, lehký formát pro sdílení dat, zejména užitečný v programování, analytice a importu/exportu databází.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vědecká data pro výpočetní analýzu.
+
+* Snadný import do R, Pythonu nebo statistického softwaru.
+
+* Rychlá výměna dat mezi týmy bez závislosti na Excelu.
+
+* Nástroje pro webové reportování vyžadující datové soubory ve formátu flat-file.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované potrubí XPS-to-TSV pro výzkumné laboratoře.
+
+* Integrace s analytickými skripty pro hromadné zpracování.
+
+* Plánovaný převod pro opakující se XPS reporty.
+
+* Zjednodušené vložení do databáze nebo pracovních postupů ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

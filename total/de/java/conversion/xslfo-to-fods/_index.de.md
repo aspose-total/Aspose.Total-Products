@@ -47,7 +47,51 @@ Während Sie eine XSLFO-Datei in FODS konvertieren, können Sie Ihrem Ausgabe-FO
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XSLFO-Dateien in das **FODS (Flat OpenDocument Spreadsheet)**-Format unterstützt Open-Source-Office-Suiten wie LibreOffice und OpenOffice. FODS ermöglicht leichte, bearbeitbare XML-basierte Tabellenkalkulationen, die für die Zusammenarbeit geeignet sind.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Austausch von mit XSLFO generierten Budgettabellen mit Benutzern von Open-Source-Office-Anwendungen.
+
+* Archivierung von Berichten in einem offenen, standardisierten Tabellenkalkulationsformat.
+
+* Vorbereitung von Projekt-Tracking-Tabellen für plattformübergreifende Zusammenarbeit.
+
+* Konvertierung technischer XSLFO-Tabellen in bearbeitbare FODS-Tabellenkalkulationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von XSLFO in FODS für Open-Source-Berichtspipelines.
+
+* Integration in Dokumentenverwaltungssysteme, die FODS unterstützen.
+
+* Geplante Exporte für kollaborative Projekt-Dashboards.
+
+* Automatische Konvertierung von XSLFO-Analyseberichten in das FODS-Format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

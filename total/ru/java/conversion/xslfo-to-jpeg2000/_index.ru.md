@@ -57,7 +57,55 @@ API также позволяет экспортировать файл XSLFO в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XSLFO в **JPEG2000** обеспечивает высокую степень сжатия растровых изображений с минимальной потерей качества. JPEG2000 подходит для медицинского изображения, крупных визуальных отчетов и архивного хранения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Архивирование XSLFO отчетов высокого разрешения с комплексными таблицами.
+
+* Подготовка детальных финансовых или операционных визуалов для цифрового распространения.
+
+* Преобразование аналитики XSLFO в эффективные растровые изображения.
+
+* Создание визуалов большого формата для публикаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование XSLFO в JPEG2000 для архивного хранения.
+
+* Плановая генерация для автоматизированных рабочих процессов публикации.
+
+* Интеграция с конвейерами оптимизации изображений.
+
+* Автоматический экспорт высокого разрешения из дашбордов XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

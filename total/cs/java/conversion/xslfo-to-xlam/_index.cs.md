@@ -47,7 +47,51 @@ Při převodu souboru XSLFO na XLAM můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **XLAM (Excel Add-In)** umožňuje vložení dat a maker generovaných XSLFO do opakovaně použitelných doplňků pro Excel. XLAM podporuje automatizaci, vlastní reporting a interaktivní aplikace se sešity.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Balení šablon XSLFO pro reportování jako doplňky pro týmové použití v Excelu.
+
+* Distribuce automatizovaných výpočtových nástrojů odvozených z dat XSLFO.
+
+* Integrace analytiky XSLFO do vlastních nástěnek v Excelu.
+
+* Umístitelné opakovatelné pracovní postupy pro reportování s XLAM doplňky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizace generování XLAM z XSLFO pro opakující se úkoly.
+
+* Plánované nasazení doplňků s aktualizovanými daty XSLFO.
+
+* Integrace s automatizací pracovních postupů založených na VBA.
+
+* Spouštěné generování XLAM doplňků pro nástroje firemního reportování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

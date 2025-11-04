@@ -47,7 +47,55 @@ otherformats: XLAM ODS FODS XLTM XLT TSV SXC MD EXCEL XLTX XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات XSLFO إلى تنسيق **FODS (جدول بيانات مفتوح المصدر)** يدعم حزم البرامج المكتبية مفتوحة المصدر مثل LibreOffice و OpenOffice. يتيح FODS إمكانية إنشاء جداول بيانات قائمة على XML قابلة للتحرير وخفيفة الوزن تناسب بيئات العمل التعاوني.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مشاركة أوراق الميزانية التي تم إنشاؤها بتنسيق XSLFO مع مستخدمي حزم البرامج المكتبية مفتوحة المصدر.
+
+* أرشفة التقارير في تنسيق جدول بيانات مفتوح وموحد.
+
+* إعداد أوراق تتبع المشاريع للتعاون بين منصات مختلفة.
+
+* تحويل جداول XSLFO التقنية إلى جداول بيانات FODS قابلة للتحرير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعي من XSLFO إلى FODS لأنابيب الإبلاغ مفتوحة المصدر.
+
+* دمجها في أنظمة إدارة الوثائق التي تدعم FODS.
+
+* تصدير مجدول للوحات المشاريع التعاونية.
+
+* تحويل تقارير التحليلات من XSLFO تلقائيًا إلى تنسيق FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: TXT XLT ODS XLAM XLSM FODS DIF XLTM XLSB MD SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XPS в **XLSM (книга Excel с поддержкой макросов)** позволяет организациям сохранить и улучшить автоматизацию, формулы и интерактивные элементы из статических отчетов XPS.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Финансовые модели, требующие автоматизированных расчетов.
+
+* Интерактивное отслеживание проектов и планирование в таблицах Excel.
+
+* Автоматизированная отчетность с встроенными макросами.
+
+* Оптимизация рабочего процесса с использованием автоматизации на основе Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Массовые конверсионные конвейеры для преобразования XPS в XLSM в корпоративных рабочих процессах.
+
+* Интеграция с BI и ERP системами для динамической отчетности.
+
+* Плановое обновление макросов в книгах с поддержкой макросов.
+
+* Автоматическое создание интерактивных панелей управления на основе данных XPS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

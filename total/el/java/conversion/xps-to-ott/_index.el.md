@@ -130,7 +130,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του XPS σε **OTT (Πρότυπο Κειμένου OpenDocument)** μετατρέπει στατικά αρχεία XPS σε επαναχρησιμοποιήσιμα πρότυπα για τους χρήστες του LibreOffice και OpenOffice, ιδανικά για τα εγγράφα εργασίας που χρησιμοποιούνται σε ανοιχτές μορφές.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Πρότυπα ακαδημαϊκού και εκπαιδευτικού υλικού για μαθητές και εκπαιδευτικούς.
+
+* Πρότυπα έργων ΜΚΟ για αναφορές και προτάσεις.
+
+* Πρότυπα τυποποιημένων ανοικτού κώδικα για εταιρική τεκμηρίωση.
+
+* Πρότυπα δημιουργικού περιεχομένου για φυλλάδια και ενημερωτικά δελτία.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική δημιουργία προτύπων OTT από αποθετήρια XPS.
+
+* Ενσωμάτωση με εργαλεία αυτοματοποίησης ροών εργασίας ανοικτού κώδικα.
+
+* Αυτόματη συμπλήρωση προτύπων με οργανωτικά δεδομένα.
+
+* Βελτίωση των διαδικασιών δημιουργίας εγγράφων διασυνοριακής πλατφόρμας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

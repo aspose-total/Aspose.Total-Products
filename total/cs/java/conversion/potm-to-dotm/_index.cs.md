@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod POTM souboru na DOTM s vodoznakem. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTM na DOTM vytváří makro-povolené šablony Wordu odvozené od šablon PowerPointu. Umožňuje opakované použití automatizovaných prvků – jako jsou makra nebo skripty pro vyplňování dat – ve šablonách Wordu pro rychlejší tvorbu dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Automatické generování šablon pro firemní pracovní postupy.
+
+* Vytváření makro-povolených formulářů Wordu ze šablon PowerPointu.
+
+* Šablony technických dokumentů s vestavěnými automatizačními skripty.
+
+* Standardizované šablony pro zadávání dat pro oddělení HR nebo financí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Roboti pracovních postupů generující soubory DOTM z vstupů prezentací.
+
+* Integrace s platformami pro automatizaci dokumentů.
+
+* Hromadný převod šablon POTM na opakovaně použitelné makro-povolené formuláře Wordu.
+
+* Dynamické vytváření šablon smluv z obsahu prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -144,7 +144,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **RTF (تنسيق نص غني)** يوفر التوافق الشامل، مما يسمح بفتح مستندات LaTeX في معظم معالجات النصوص بينما يحافظ على التنسيق الأساسي والمعادلات الرياضية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مشاركة الأوراق الأكاديمية عبر المنصات دون فقدان التنسيق.
+* دليل فني يحتوي على معادلات معقدة يمكن الوصول إليه في Word أو LibreOffice.
+* وثائق أعمال متعددة المنصات بتنسيق LaTeX.
+* مستندات LaTeX جاهزة للبريد الإلكتروني بتنسيقات قابلة للقراءة على نحو عالمي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعي للأرشيفات والتوافق متعدد المنصات.
+* دمجه في خطوط معالجة المستندات للفرق التقنية.
+* إنشاء تقارير RTF تلقائيًا من مجموعات بيانات LaTeX.
+* تحويلات مُشغّلة لأنظمة النشر التلقائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

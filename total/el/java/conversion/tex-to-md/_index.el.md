@@ -47,7 +47,51 @@ otherformats: MD XLT ODS XLAM XLSM FODS TSV XLSB TXT EXCEL DIF XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή TEX σε **MD (Markdown File)** παράγει ένα πρότυπο αρχείο Markdown από LaTeX, διατηρώντας τη δομή του κειμένου, τους πίνακες και τη βασική μορφοποίηση για πολυπλατφορμική αναγνωσιμότητα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Προετοιμασία σημειώσεων έρευνας LaTeX για συνεργασία βασισμένη σε Git.
+
+* Ελαφριά τεκμηρίωση με υποστήριξη μαθηματικών και πινάκων.
+
+* Διαμοιρασμός σημειώσεων διαλέξεων LaTeX σε μορφή Markdown ανοικτού κώδικα.
+
+* Μετατροπή τεχνικών αναφορών για στατικές ιστοσελίδες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μαζική μετατροπή TEX σε MD για ομάδες έρευνας.
+
+* Ενσωμάτωση σε αγωγούς περιεχομένου ιστοσελίδων ελέγχου εκδόσεων.
+
+* Ενημερώσεις που ενεργοποιούνται των αρχείων Markdown από αποθετήρια LaTeX.
+
+* Συνεχής δημιουργία αρχείων MD για εκπαιδευτικά ή τεχνικά ιστολόγια.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

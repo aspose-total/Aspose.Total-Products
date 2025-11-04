@@ -130,7 +130,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von XPS in **MARKDOWN** verwandelt statische Dokumente in ein leicht bearbeitbares Format, das mit Blogs, Dokumentationsplattformen und Versionskontrollsystemen kompatibel ist.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Veröffentlichung technischer Dokumentationen auf GitHub oder GitLab.
+
+* Umwandlung von Berichten in blogfertige Inhalte.
+
+* Erstellung von Notizen und internen Wissensdatenbankeinträgen.
+
+* Kollaboratives Bearbeiten für Teams mit leichtgewichtiger Markup-Sprache.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Konvertierung von XPS-Archiven in Markdown für Inhaltsplattformen.
+
+* Integration mit statischen Website-Generatoren wie Hugo oder Jekyll.
+
+* Geplante Generierung von Markdown-Versionen für wiederkehrende Dokumentationen.
+
+* Optimierter Workflow für Aktualisierungen der internen Wissensdatenbank.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

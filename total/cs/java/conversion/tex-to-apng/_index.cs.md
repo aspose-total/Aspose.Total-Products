@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek APNG podle svých potřeb
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů TEX na **APNG (animovaný PNG)** umožňuje přeměnit LaTeX diagramy, rovnice a grafy na animovanou grafiku pro prezentace na webu, vzdělávací obsah a interaktivní vizualizace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Animované matematické ilustrace pro online přednášky.
+
+* Interaktivní LaTeX grafy ve vzdělávacích webových aplikacích.
+
+* Dynamické diagramy pro e-learningové platformy.
+
+* Vizualizace trendů dat generovaných LaTeXem v čase.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze TEX na APNG pro výukové materiály.
+
+* Integrace do automatizovaných webových publikačních procesů.
+
+* Spouštěný rendering pro AI podporované vzdělávací nástroje.
+
+* Automatické generování animací z LaTeX grafů pro tutoriály.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

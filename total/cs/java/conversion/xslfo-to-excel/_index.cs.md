@@ -47,7 +47,55 @@ Při převodu souboru XSLFO na EXCEL můžete také přidat vodoznak do výstupn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XSLFO na **EXCEL (XLS/XLSX)** poskytuje plně formátované tabulky připravené pro pokročilou analýzu dat, pivot tabulky a vizualizaci. Konverze do formátu Excel je ideální pro finanční, účetní a operační reportingové procesy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace faktur generovaných pomocí XSLFO do Excelu pro kontrolu klientem.
+
+* Vytváření dynamických pivot tabulek z dat tabulkových reportů.
+
+* Generování výkonnostních dashboardů oddělení v Excelu.
+
+* Příprava XSLFO reportů pro spolupracující obchodní plánování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný noční převod XSLFO reportů do Excelu pro zúčastněné strany.
+
+* Integrace s VBA makry pro automatizovanou analytiku.
+
+* Automatické generování Excelových dashboardů ze zdrojů XSLFO.
+
+* ETL worklfowy převádějící operační soubory XSLFO do Excelových tabulek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

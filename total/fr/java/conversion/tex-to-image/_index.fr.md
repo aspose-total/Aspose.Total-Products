@@ -57,7 +57,55 @@ L'API vous permet également d'exporter le fichier TEX vers IMAGE dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de TEX en **IMAGE (formats raster génériques)** transforme les équations, tableaux et figures LaTeX en formats d'image universellement compatibles pour le web, l'impression et la documentation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Intégration de figures générées en LaTeX dans des blogs et des sites web.
+
+* Préparation d'images haute résolution pour des articles académiques.
+
+* Partage de diagrammes dans des formats lisibles universellement.
+
+* Conversion de tableaux LaTeX complexes en instantanés d'images.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de TEX en images pour les bibliothèques de contenu.
+
+* Intégration avec des flux de publication et de site web automatisés.
+
+* Mises à jour déclenchées pour du contenu de cours ou de tutoriels basé sur des images.
+
+* Exportation de plusieurs diagrammes LaTeX en formats d'image cohérents.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

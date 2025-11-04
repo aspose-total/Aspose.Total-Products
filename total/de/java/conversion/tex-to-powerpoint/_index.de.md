@@ -135,7 +135,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von TEX in **POWERPOINT (PPT/PPTX)** liefert vollständig bearbeitbare Präsentationen mit LaTeX-Gleichungen, Tabellen und Diagrammen, ideal für professionelle und akademische Folien.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Universitätsvorlesungen mit komplexem mathematischem Inhalt.
+
+* Präsentationen zu Ingenieur- und wissenschaftlichen Forschungsthemen.
+
+* Unternehmensprojektpräsentationen mit LaTeX-Tabellen.
+
+* Interaktive Folien für Workshops und Seminare.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelverarbeitung von LaTeX zu PowerPoint für Kursmaterialien.
+
+* Integration in automatisierte Präsentations-Pipelines.
+
+* Auslösen der Folien-Erstellung für Forschungs- oder Projektberichte.
+
+* Zusammenarbeit mehrerer Autoren mit LaTeX-zu-PPT-Umwandlungs-Workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

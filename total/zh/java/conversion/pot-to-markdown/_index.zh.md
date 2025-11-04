@@ -61,7 +61,45 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML MARKDOWN EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POT转换为MARKDOWN使教育工作者、开发人员和专业人士能够将PowerPoint演示文稿转换为轻量级、适用于Web的文档。Markdown的简单性确保了内容项目中的易于协作和版本控制。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将PowerPoint幻灯片转换为基于Markdown的课程材料。
+
+* 将营销演示文稿转换为博客就绪文档。
+
+* 为基于Git的文档系统准备技术报告。
+
+* 从企业培训幻灯片创建开发人员文档。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* 在文档工作流程中从PowerPoint模板生成Markdown。
+
+* 与Hugo或Jekyll等静态站点生成器集成。
+
+* 将演示文稿自动摘要为Markdown笔记。
+
+* 使用Markdown输出进行版本控制的知识管理。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,51 @@ Mit der API können Sie das ausgegebene PSD-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von TEX in **PSD (Photoshop-Dokument)** ermöglicht es, dass mit LaTeX generierte Visuals in Adobe Photoshop vollständig bearbeitbar sind, um hochwertiges Design und Nachbearbeitung zu ermöglichen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Bearbeiten von LaTeX-Diagrammen für Präsentationen und Poster.
+
+* Erstellen von druckfertigen Grafiken mit Photoshop-Verbesserungen.
+
+* Anpassen von Bildern für Bildungszwecke oder Schulungen.
+
+* Erstellen von visuell ansprechenden Abbildungen für Marketing- oder akademische Zwecke.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelweise TEX-zu-PSD-Konvertierung für Designteams.
+
+* Integration in automatisierte Grafikdesign-Workflows.
+
+* Auslösen der PSD-Erstellung für Poster- oder Infografikgenerierung.
+
+* Export von bearbeitbaren LaTeX-Diagrammen zur mehrschichtigen Photoshop-Bearbeitung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

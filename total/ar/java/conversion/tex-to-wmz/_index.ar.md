@@ -57,7 +57,51 @@ otherformats: WMZ  TGA WMF IMAGE DXF JPEG2000 PSD EMZ SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل TEX إلى **WMZ (ملف تعريف نافذة مضغوط)** يضغط الرسومات البيانية الناقلة لمخططات LaTeX، محسنًا التخزين مع الحفاظ على الجودة للعروض التقديمية والتقارير.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مخططات LaTeX المضغوطة لشرائح Microsoft Office.
+
+* أرشفة الرسومات التقنية القابلة للتوسيع.
+
+* مشاركة الرسومات الخفيفة في النشرات الأكاديمية.
+
+* تضمين الرسومات الناقلة في التقارير دون حجم ملفات كبيرة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي مؤتمت لـ TEX إلى WMZ.
+
+* دمجه في أنظمة أتمتة المستندات والشرائح.
+
+* توليد مخططات LaTeX المضغوطة بشكل مؤتمت.
+
+* تحديثات مجدولة للأرقام WMZ للوصول المتعدد للمستخدمين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,49 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов TEX в **DOTX (Шаблон Word)** обеспечивает чистые, многократно используемые шаблоны без макросов, идеально подходит для академических и корпоративных сред, требующих согласованности форматирования LaTeX без рисков скриптов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Профессиональные шаблоны отчетов с уравнениями в стиле LaTeX.
+
+* Шаблоны форматирования академических диссертаций для студентов и университетов.
+
+* Стандартизированные шаблоны учебных планов для педагогов.
+
+* Шаблоны документации исследовательских проектов для лабораторий.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание корпоративных или учебных шаблонов.
+
+* Автоматизированное развертывание шаблонов в LMS или системах управления документами.
+
+* Преобразование LaTeX в шаблон Word для согласованного брендинга документов.
+
+* Интеграция в автоматизированные конвейеры генерации отчетов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
