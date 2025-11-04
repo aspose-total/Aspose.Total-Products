@@ -63,7 +63,51 @@ Using the API, you can also rotate the output DICOM image as per your needs. The
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting TEX to **DICOM (Digital Imaging and Communications in Medicine)** allows technical and scientific LaTeX diagrams to be embedded into medical imaging workflows and research documentation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Integrating LaTeX-based diagrams into medical imaging reports.
+
+* Documenting biomedical research with structured LaTeX content.
+
+* Visualizing anatomical data using LaTeX-generated graphics.
+
+* Publishing LaTeX-based schematics in radiology research.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Automated batch conversion for hospital imaging archives.
+
+* Integration into medical research workflows.
+
+* Triggered TEX-to-DICOM rendering for clinical studies.
+
+* Exporting LaTeX diagrams for AI-assisted diagnostics.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

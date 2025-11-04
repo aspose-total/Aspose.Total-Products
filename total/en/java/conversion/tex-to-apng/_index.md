@@ -63,7 +63,51 @@ Using the API, you can also rotate the output APNG image as per your needs. The 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting TEX files to **APNG (Animated PNG)** allows LaTeX diagrams, equations, and plots to be transformed into animated graphics for web-based presentations, educational content, and interactive visualizations.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Animated mathematical illustrations for online lectures.
+
+* Interactive LaTeX graphs in educational web applications.
+
+* Dynamic diagrams for e-learning platforms.
+
+* Visualizing LaTeX-generated data trends over time.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Batch TEX-to-APNG conversion for course materials.
+
+* Integration into automated web publishing pipelines.
+
+* Triggered rendering for AI-powered educational tools.
+
+* Auto-generation of animations from LaTeX plots for tutorials.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

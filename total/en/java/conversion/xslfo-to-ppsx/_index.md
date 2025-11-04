@@ -129,7 +129,51 @@ Any Operating System that can run the Java Runtime Environment (JRE) can run Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting XSLFO to **PPSX (PowerPoint Show without Macros)** produces self-running presentations safe for distribution. PPSX preserves formatting and layouts while avoiding macro execution risks.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Creating self-running financial dashboards from XSLFO data.
+
+* Sharing standardized training or onboarding presentations.
+
+* Preparing macro-free investor pitch shows.
+
+* Archiving quarterly review slides for team-wide distribution.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Scheduled batch conversion of XSLFO to PPSX for recurring presentations.
+
+* Triggered generation of macro-free slideshow decks.
+
+* Integration into automated distribution pipelines.
+
+* Auto-update of self-running slides from XSLFO reports.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

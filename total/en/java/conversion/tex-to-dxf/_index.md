@@ -62,7 +62,51 @@ Using the API, you can also rotate the output DXF image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting TEX to **DXF (Drawing Exchange Format)** allows LaTeX-generated technical diagrams, blueprints, and schematics to be used in CAD software for engineering and architecture projects.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Engineering schematics from LaTeX technical documents.
+
+* Architecture diagrams for CAD integration.
+
+* LaTeX-based plot visualization for design projects.
+
+* Manufacturing or prototyping diagrams derived from LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Batch TEX-to-DXF conversion for engineering workflows.
+
+* Integration with CAD software pipelines.
+
+* Triggered automated generation of design diagrams.
+
+* Archival of LaTeX schematics in DXF format for cross-platform usage.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

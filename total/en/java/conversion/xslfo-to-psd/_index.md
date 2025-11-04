@@ -67,7 +67,51 @@ Using the API, you can also rotate the output PSD image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting XSLFO to **PSD (Adobe Photoshop)** allows graphic designers to edit XSLFO-generated tables and visuals with layers and advanced effects. PSD output is ideal for marketing or presentation visuals.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Transforming XSLFO charts into layered Photoshop designs.
+
+* Customizing report visuals for marketing collateral.
+
+* Editing structured XSLFO tables for professional presentations.
+
+* Preparing infographics with enhanced styling.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Automated export of XSLFO reports to PSD for design workflows.
+
+* Integration with batch Photoshop processing pipelines.
+
+* Scheduled conversion for recurring visual reports.
+
+* Triggered PSD generation for creative marketing dashboards.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

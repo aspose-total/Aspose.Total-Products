@@ -62,7 +62,51 @@ Using the API, you can also rotate the output DXF image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting XPS to **DXF (Drawing Exchange Format)** enables use of XPS layouts in CAD applications, preserving vector elements for design, architecture, and engineering projects.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Architectural plans and blueprints extracted from XPS documents.
+
+* Engineering diagrams and schematics for CAD software.
+
+* Technical documentation requiring precise vector conversion.
+
+* Industrial design workflows for collaborative drafting.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Automated batch conversion of XPS to DXF for CAD teams.
+
+* Integration with design pipelines for rapid layout updates.
+
+* Scheduled DXF generation for recurring engineering reports.
+
+* Streamlined extraction of vector elements for manufacturing.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

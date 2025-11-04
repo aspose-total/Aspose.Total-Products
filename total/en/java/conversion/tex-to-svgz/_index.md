@@ -67,7 +67,51 @@ Using the API, you can also rotate the output SVGZ image as per your needs. The 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting TEX to **SVGZ (Compressed Scalable Vector Graphics)** preserves vector quality while reducing file size, ideal for web and academic publications.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Embedding LaTeX equations and diagrams in web pages.
+
+* Scalable, high-resolution graphics for publications.
+
+* Interactive online visualizations of LaTeX-generated data.
+
+* Technical illustrations in compressed vector format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Batch conversion of LaTeX diagrams to SVGZ.
+
+* Integration with web publishing pipelines.
+
+* Triggered updates of compressed vector graphics from LaTeX sources.
+
+* Archival and distribution of academic illustrations.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

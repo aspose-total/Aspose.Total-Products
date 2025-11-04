@@ -129,7 +129,51 @@ Any Operating System that can run the Java Runtime Environment (JRE) can run Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting XSLFO to **PPS (PowerPoint Show)** allows creating self-running presentation files for meetings, training, or kiosks. PPS preserves formatting while opening directly in slideshow mode.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Distributing self-running corporate overview presentations.
+
+* Preparing automated training or onboarding slides from XSLFO data.
+
+* Sharing interactive marketing content for trade shows.
+
+* Generating visually engaging KPI dashboards for management review.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Scheduled batch conversion from XSLFO to PPS files.
+
+* Integration into automated slideshow distribution workflows.
+
+* Triggered generation of PPS decks from XSLFO reports.
+
+* Auto-updating self-running presentations for recurring meetings.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

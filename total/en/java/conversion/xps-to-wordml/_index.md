@@ -125,7 +125,51 @@ Any Operating System that can run the Java Runtime Environment (JRE) can run Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting XPS to **WordML (Word Processing ML)** allows technical users to work directly with Word’s XML-based document structure. This enables automated editing, content extraction, and integration into advanced document workflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Developers generating dynamic Word documents programmatically.
+
+* Automated extraction and manipulation of text and metadata.
+
+* Integration into enterprise content management systems.
+
+* Technical publishing pipelines requiring XML-based manipulation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Automated XPS-to-WordML pipelines for bulk document processing.
+
+* Integration with AI systems generating custom Word reports.
+
+* Triggered content updates in XML-based Word documents.
+
+* Streamlined XML editing for technical and legal documentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

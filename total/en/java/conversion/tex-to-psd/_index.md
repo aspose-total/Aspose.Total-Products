@@ -61,7 +61,51 @@ Using the API, you can also rotate the output PSD image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting TEX to **PSD (Photoshop Document)** allows LaTeX-generated visuals to be fully editable in Adobe Photoshop for high-end design and post-processing.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Editing LaTeX diagrams for presentations and posters.
+
+* Preparing publication-ready graphics with Photoshop enhancements.
+
+* Customizing educational or training visuals.
+
+* Creating visually rich figures for marketing or academic use.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Batch TEX-to-PSD conversion for design teams.
+
+* Integration with automated graphic design workflows.
+
+* Triggered PSD creation for poster or infographic generation.
+
+* Editable LaTeX diagram export for multi-layer Photoshop editing.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

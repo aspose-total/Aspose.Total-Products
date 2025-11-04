@@ -63,7 +63,51 @@ Using the API, you can also rotate the output DICOM image as per your needs. The
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting XPS to **DICOM (Digital Imaging and Communications in Medicine)** enables the integration of document visuals into medical imaging systems, preserving high-resolution details for clinical applications.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Embedding medical reports into radiology imaging workflows.
+
+* Archiving diagnostic documents alongside patient scans.
+
+* Hospital systems requiring DICOM compatibility for reports.
+
+* Telemedicine platforms integrating clinical document imagery.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Batch XPS-to-DICOM conversion for hospital record systems.
+
+* Automated integration with PACS (Picture Archiving and Communication Systems).
+
+* Scheduled updates for patient record imagery.
+
+* Streamlined workflows for medical imaging data processing.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

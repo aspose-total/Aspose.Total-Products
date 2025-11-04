@@ -67,7 +67,51 @@ Using the API, you can also rotate the output IMAGE image as per your needs. The
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting XSLFO to **IMAGE (Generic Raster Formats)** provides versatile output for web, print, and desktop applications. Supported formats can include PNG, BMP, or TIFF depending on requirements.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Generating static visuals from structured XSLFO tables.
+
+* Preparing graphics for reporting dashboards or documentation.
+
+* Exporting charts and tables for mobile apps or e-learning.
+
+* Creating rasterized archives of recurring reports.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Batch conversion of XSLFO reports to multiple image formats.
+
+* Integration with automated dashboard generation pipelines.
+
+* Triggered export for scheduled report delivery.
+
+* Automated image generation for e-learning or web platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

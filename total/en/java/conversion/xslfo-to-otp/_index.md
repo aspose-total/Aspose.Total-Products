@@ -129,7 +129,51 @@ Any Operating System that can run the Java Runtime Environment (JRE) can run Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting XSLFO to **OTP (OpenDocument Presentation Template)** allows creating reusable slide templates from structured XSLFO data. OTP templates standardize presentation formatting across teams.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Preparing corporate presentation templates from XSLFO-generated reports.
+
+* Standardizing training modules in reusable OTP formats.
+
+* Creating investor pitch decks with consistent styling from XSLFO content.
+
+* Archiving quarterly reporting templates for future reuse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Scheduled batch conversion from XSLFO to OTP for template libraries.
+
+* Integration with automated slide generation pipelines.
+
+* Triggered OTP template creation for new XSLFO report series.
+
+* Auto-deployment of XSLFO-based templates across departments.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

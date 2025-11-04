@@ -58,7 +58,51 @@ Using the API, you can also rotate the output IMAGE image as per your needs. The
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting TEX to **IMAGE (generic raster formats)** transforms LaTeX equations, tables, and figures into universally compatible image formats for web, print, and documentation purposes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Embedding LaTeX-generated figures into blogs and websites.
+
+* Preparing high-resolution images for academic papers.
+
+* Sharing diagrams in universally readable formats.
+
+* Converting complex LaTeX tables into image snapshots.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Batch TEX-to-image conversion for content libraries.
+
+* Integration with automated publishing and website workflows.
+
+* Triggered updates for image-based lecture or tutorial content.
+
+* Exporting multiple LaTeX diagrams into consistent image formats.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
